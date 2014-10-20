@@ -1,0 +1,974 @@
+{
+  "Headlines": [
+    {
+      "Instrument": [
+        {
+          "Ticker": "ALTI", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "Prominent"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "Ticker": "MIL", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "Prominent"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "Ticker": "PWT", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "Prominent"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "CA"
+          }
+        }
+      ], 
+      "SeoHeadline": "CFO Moves: Altair Nanotechnologies, MFC Industrial, Penn West Petroleum", 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "AnyAttr": [], 
+      "Author": "Maxwell Murphy", 
+      "Headline": "CFO Moves: Altair Nanotechnologies, MFC Industrial, Penn West Petroleum", 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "#text": "Altair Nanotechnologies named an interim finance chief; MFC Industrial hired a CFO; Penn West hired a new CFO as the old one steps down.", 
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "CFO Moves: Altair Nanotechnologies, MFC Industrial, Penn West Petroleum", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2014-03-24T16:49:00"
+      }, 
+      "ExternalLink": "http://blogs.wsj.com/cfo/2014/03/24/cfo-moves-altair-nanotechnologies-mfc-industrial-penn-west-petroleum/", 
+      "Provider": "WSJ Blogs", 
+      "Keywords": [
+        "ALTAIR_NANOTECHNOLOGIES", 
+        "CFO_MOVES", 
+        "EXECUTIVE_MOVES", 
+        "MFC_INDUSTRIAL", 
+        "PENN_WEST_PETROLEUM"
+      ], 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{31004424-C2D4-3464-F422-D1575A74FFCA}", 
+      "UpdateTimestamp": {
+        "Value": "2014-03-24T16:49:00"
+      }, 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/cfo-moves-altair-nanotechnologies-mfc-industrial-penn-west-petroleum-2014-03-24", 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/424", 
+      "Industry": [
+        "Electric Utilities"
+      ], 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1140661823"
+    }, 
+    {
+      "Instrument": [
+        {
+          "AnyAttr": [], 
+          "Ticker": "YOKU", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "CMZPF", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "TRI", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "FX", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "LUV", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "YHOO", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "JNJ", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "T", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "AGP", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "MIL", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "TEU", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "SIRI", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "BHI", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "SYK", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "FB", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "SPPI", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "BA", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "WLP", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "ALTH", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "NI", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "QLIK", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "CPB", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "AL", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "AnyAttr": [], 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "Author": "William L. Watts", 
+      "Headline": "U.S. Stock Futures Decline as Investors Await Earnings", 
+      "Issue": [
+        "Opinion"
+      ], 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "#text": "\n  U.S. stock-index futures pointed to a lower start for Wall Street on Monday, with markets following Europe's lead as investors await a meeting of euro-zone finance ministers and the launch of earnings season. ", 
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "U.S. Stock Futures Decline as Investors Await Earnings", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2012-07-09T09:09:00"
+      }, 
+      "Region": [
+        "Hong Kong", 
+        "US", 
+        "EU", 
+        "Africa/Mid East", 
+        "Asia Pacific", 
+        "Canada", 
+        "Europe"
+      ], 
+      "Provider": "Dow Jones Newswires", 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{20C0C425-42D4-34F2-D124-CB7C128E062A}", 
+      "UpdateTimestamp": {
+        "Value": "2012-07-09T09:25:00"
+      }, 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/us-stock-futures-decline-as-investors-await-earnings-2012-07-09", 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/427", 
+      "Industry": [
+        "Biotechnology", 
+        "Telecommunications", 
+        "Airlines", 
+        "Financial Services", 
+        "Food & Beverages", 
+        "Oil and Gas", 
+        "Aerospace", 
+        "Health-Care", 
+        "Mining and Metals", 
+        "Internet Services", 
+        "Medical Products", 
+        "Media", 
+        "Transportation", 
+        "Technology, Software", 
+        "Transportation Equipment", 
+        "Pharmaceuticals"
+      ], 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1081584335"
+    }, 
+    {
+      "Instrument": [
+        {
+          "AnyAttr": [], 
+          "Ticker": "YOKU", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "CMZPF", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "TRI", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "FX", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "LUV", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "YHOO", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "JNJ", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "T", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "AGP", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "MIL", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "TEU", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "SIRI", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "BHI", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "SYK", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "FB", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "SPPI", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "BA", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "WLP", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "ALTH", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "NI", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "QLIK", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "CPB", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "AL", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "AnyAttr": [], 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "Author": "William L. Watts", 
+      "Headline": "U.S. Stock Futures Decline as Investors Await Earnings", 
+      "Issue": [
+        "Commodities", 
+        "Bond Market", 
+        "Personal Finance", 
+        "Opinion"
+      ], 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "#text": "\n  U.S. stock-index futures pointed to a lower start for Wall Street on Monday, with markets following Europe's lead as investors await a meeting of euro-zone finance ministers and the launch of earnings season. ", 
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "U.S. Stock Futures Decline as Investors Await Earnings", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2012-07-09T08:54:00"
+      }, 
+      "Region": [
+        "Hong Kong", 
+        "US", 
+        "EU", 
+        "Africa/Mid East", 
+        "Asia Pacific", 
+        "Canada", 
+        "Europe"
+      ], 
+      "Provider": "Dow Jones Newswires", 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{20C0C425-42D4-34F2-D124-CB7C128436C7}", 
+      "UpdateTimestamp": {
+        "Value": "2012-07-09T09:10:00"
+      }, 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/us-stock-futures-decline-as-investors-await-earnings-2012-07-09-8427540", 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/427", 
+      "Industry": [
+        "Biotechnology", 
+        "Telecommunications", 
+        "Airlines", 
+        "Financial Services", 
+        "Food & Beverages", 
+        "Oil and Gas", 
+        "Aerospace", 
+        "Health-Care", 
+        "Mining and Metals", 
+        "Internet Services", 
+        "Medical Products", 
+        "Media", 
+        "Transportation", 
+        "Technology, Software", 
+        "Transportation Equipment", 
+        "Pharmaceuticals"
+      ], 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1081581943"
+    }, 
+    {
+      "Instrument": [
+        {
+          "AnyAttr": [], 
+          "Ticker": "MIL", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "CMZPF", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "AnyAttr": [], 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "Author": "Victoria Stilwell", 
+      "Headline": "MFC Industrial Agrees to Take Over Compton Petroleum in Deal Worth $32.3M", 
+      "Issue": [
+        "Commodities", 
+        "M&A", 
+        "Bond Market"
+      ], 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "#text": "\n  MFC Industrial Ltd. (MIL) agreed to take over Compton Petroleum Corp. (CMT.T) in a deal worth $33 million Canadian dollars (US$32.3 million) in an effort to expand its commodities platform. ", 
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "MFC Industrial Agrees to Take Over Compton Petroleum in Deal Worth $32.3M", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2012-07-09T08:21:00"
+      }, 
+      "Region": [
+        "Hong Kong", 
+        "Asia Pacific", 
+        "Africa/Mid East", 
+        "Canada", 
+        "US"
+      ], 
+      "Provider": "Dow Jones Newswires", 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{20C0C425-42D4-34F2-D124-CB7C13029D01}", 
+      "UpdateTimestamp": {
+        "Value": "2012-07-09T08:36:00"
+      }, 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/mfc-industrial-agrees-to-take-over-compton-petroleum-in-deal-worth-323m-2012-07-09-8427210", 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/427", 
+      "Industry": [
+        "Oil and Gas", 
+        "Mining and Metals"
+      ], 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1081576781"
+    }, 
+    {
+      "AnyAttr": [], 
+      "Author": "MarketWatch", 
+      "Headline": "Stocks to watch Friday: Cache, Williams, RIM", 
+      "SubChannel2": "Investing", 
+      "Instrument": [
+        {
+          "AnyAttr": [], 
+          "Ticker": "CACH", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "RIMM", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "TIBX", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "FINL", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "MIL", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "BDMS", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "NTZ", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "WMB", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "WPZ", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "RIM", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "CA"
+          }
+        }
+      ], 
+      "CreateTimestamp": {
+        "Value": "2012-03-30T06:25:00"
+      }, 
+      "Provider": "MarketWatch.com", 
+      "UpdateTimestamp": {
+        "Value": "2012-03-30T06:25:03"
+      }, 
+      "Issue": [
+        "Earnings", 
+        "Earnings/Earnings Advisories", 
+        "Company Announcements", 
+        "Company Announcements/Warnings", 
+        "General"
+      ], 
+      "Channel": "News & Commentary", 
+      "SubChannel": "News & Commentary", 
+      "Channel2": "Investing", 
+      "AssociatedGraphic": [
+        {
+          "AnyAttr": [], 
+          "Caption": "A BlackBerry handset is displayed in Washington, December 15, 2011. Research In Motion releases its financial results on Thursday, as investors await news on whether RIM will stand by its current timetable to switch its smartphones to the new QNX operating system by early next year. REUTERS/Jonathan Ernst (UNITED STATES - Tags: SCIENCE TECHNOLOGY BUSINESS TELECOMS)", 
+          "Credit": "Reuters", 
+          "Height": 86, 
+          "Width": 86, 
+          "FileName": "MW-AO538_rim_20_MA_20111216080022.jpg", 
+          "GraphicSize": {
+            "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+            "name": "MA"
+          }, 
+          "Any": []
+        }, 
+        {
+          "AnyAttr": [], 
+          "Caption": "A Blackberry smartphone is displayed in this August 12, 2010 illustrative photo taken in Hong Kong. Research In Motion (RIM) said on July 25, 2011, it will cut about 2,000 jobs, or 11 percent of it workforce, and the severance payout is not included its second-quarter and full year outlook. The BlackBerry maker also said its Chief Operating Officer Don Morrison is planning to retire and Thorsten Heins is taking on the expanded role of COO, product and sales. REUTERS/Bobby Yip/Files (CHINA - Tags: BUSINESS)", 
+          "Credit": "Reuters", 
+          "Height": 79, 
+          "Width": 140, 
+          "FileName": "MW-AL705_rim_20_20110725080239_MB--140x79.jpg", 
+          "GraphicSize": {
+            "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+            "name": "MB"
+          }, 
+          "Any": []
+        }, 
+        {
+          "AnyAttr": [], 
+          "Caption": "A BlackBerry handset is displayed in Washington, December 15, 2011. Research In Motion releases its financial results on Thursday, as investors await news on whether RIM will stand by its current timetable to switch its smartphones to the new QNX operating system by early next year. REUTERS/Jonathan Ernst (UNITED STATES - Tags: SCIENCE TECHNOLOGY BUSINESS TELECOMS)", 
+          "Credit": "Reuters", 
+          "Height": 122, 
+          "Width": 183, 
+          "FileName": "MW-AO538_rim_20_MC_20111216080022.jpg", 
+          "GraphicSize": {
+            "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+            "name": "MC"
+          }, 
+          "Any": []
+        }
+      ], 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{3AE10918-7A4C-11E1-8E2F-002128049AD6}", 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/103", 
+      "Industry": [
+        "Gas/Utilities", 
+        "Oil and Gas", 
+        "Energy", 
+        "Natural Resources", 
+        "Computer Hardware", 
+        "Computer Software", 
+        "Software", 
+        "Retail", 
+        "Telecommunications", 
+        "Fiber Optics", 
+        "Health-Care", 
+        "Textiles and Apparel", 
+        "Manufacturing", 
+        "Household Products", 
+        "Transportation Equipment", 
+        "Transportation"
+      ], 
+      "Package": [
+        ""
+      ], 
+      "Column": "Stocks to Watch", 
+      "Region": [
+        "US"
+      ], 
+      "BodyHeadline": "Stocks to watch Friday: Cache, Williams, RIM", 
+      "MethodePath": "/Live/2012/03/30/Stories/stocks to watch_early 0330.xml", 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/stocks-to-watch-friday-cache-williams-rim-2012-03-30", 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1069728449", 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "#text": "Running down the early highlights among the corporate headlines of interest to investors.", 
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "Any": []
+    }
+  ]
+}

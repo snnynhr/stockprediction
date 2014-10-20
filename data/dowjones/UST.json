@@ -1,0 +1,2135 @@
+{
+  "Headlines": [
+    {
+      "Instrument": [
+        {
+          "Ticker": "AAPL", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "Prominent"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "Ticker": "HYG", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "PassingMention"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "Ticker": "IEF", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "Prominent"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "Ticker": "JNK", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "PassingMention"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "Ticker": "PTTRX", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "Prominent"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "Ticker": "SIRI", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "Prominent"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "Ticker": "UST", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "Prominent"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "SeoHeadline": "ETFs Extend Their Reach, With Unknown Consequences ", 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "AnyAttr": [], 
+      "Author": "Randall W. Forsyth", 
+      "Headline": "ETFs Extend Reach With Unknown Consequences", 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "#text": "Beyond speculative sectors, ETFs affect even Treasuries. A reflection of diminished liquidity from Wall Street?", 
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "ETFs Extend Reach With Unknown Consequences", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2014-08-06T00:01:00"
+      }, 
+      "ExternalLink": "http://online.barrons.com/article/SB50001424053111904329504580074541891200892.html", 
+      "Provider": "Barron's Online", 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{70b96f7c-1d1e-11e4-a91f-052128049ad6}", 
+      "UpdateTimestamp": {
+        "Value": "2014-08-07T07:42:00"
+      }, 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/426", 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/etfs-extend-their-reach-with-unknown-consequences-2014-08-06", 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1152093708"
+    }, 
+    {
+      "AnyAttr": [], 
+      "Author": "Ben Eisen", 
+      "Headline": "Treasurys rise on Dudley comments, positioning", 
+      "SubChannel2": "Markets|U.S. & Canada", 
+      "Instrument": [
+        {
+          "Ticker": "10_YEAR", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "Prominent"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "Ticker": "5_YEAR", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "Prominent"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "Ticker": "30_YEAR", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "Prominent"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "Ticker": "IEI", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "Prominent"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "Ticker": "UST", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "Prominent"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "CreateTimestamp": {
+        "Value": "2014-05-20T14:35:00"
+      }, 
+      "Provider": "MarketWatch.com", 
+      "UpdateTimestamp": {
+        "Value": "2014-05-20T14:34:59"
+      }, 
+      "Issue": [
+        "Market News", 
+        "Markets/Exchanges", 
+        "Bond Market", 
+        "Commodities"
+      ], 
+      "Channel": "News & Commentary", 
+      "SubChannel": "News & Commentary|Markets", 
+      "Channel2": "Markets", 
+      "AssociatedGraphic": [
+        {
+          "AnyAttr": [], 
+          "Caption": "", 
+          "Credit": "Bloomberg", 
+          "Height": 86, 
+          "Width": 86, 
+          "FileName": "MW-CA139_dudley_MA_20140418104057.jpg", 
+          "GraphicSize": {
+            "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+            "name": "MA"
+          }, 
+          "Any": []
+        }, 
+        {
+          "AnyAttr": [], 
+          "Caption": "", 
+          "Credit": "Bloomberg", 
+          "Height": 122, 
+          "Width": 183, 
+          "FileName": "MW-CA139_dudley_MC_20140418104057.jpg", 
+          "GraphicSize": {
+            "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+            "name": "MC"
+          }, 
+          "Any": []
+        }, 
+        {
+          "AnyAttr": [], 
+          "Caption": "", 
+          "Credit": "Bloomberg", 
+          "Height": 398, 
+          "Width": 569, 
+          "FileName": "MW-CA139_dudley_MG_20140418104057.jpg", 
+          "GraphicSize": {
+            "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+            "name": "MG"
+          }, 
+          "Any": []
+        }, 
+        {
+          "AnyAttr": [], 
+          "Caption": "", 
+          "Credit": "Bloomberg", 
+          "Height": 252, 
+          "Width": 377, 
+          "FileName": "MW-CA139_dudley_ME_20140418104057.jpg", 
+          "GraphicSize": {
+            "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+            "name": "ME"
+          }, 
+          "Any": []
+        }, 
+        {
+          "AnyAttr": [], 
+          "Caption": "", 
+          "Credit": "Bloomberg", 
+          "Height": 93, 
+          "Width": 140, 
+          "FileName": "MW-CA139_dudley_MB_20140418104057.jpg", 
+          "GraphicSize": {
+            "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+            "name": "MB"
+          }, 
+          "Any": []
+        }, 
+        {
+          "AnyAttr": [], 
+          "Caption": "", 
+          "Credit": "Bloomberg", 
+          "Height": 187, 
+          "Width": 280, 
+          "FileName": "MW-CA139_dudley_MD_20140418104057.jpg", 
+          "GraphicSize": {
+            "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+            "name": "MD"
+          }, 
+          "Any": []
+        }
+      ], 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{0B116342-E023-11E3-A401-00212803FAD6}", 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/103", 
+      "Industry": [
+        "Financial Services"
+      ], 
+      "Package": [
+        ""
+      ], 
+      "Column": "Bond Report", 
+      "Region": [
+        "US"
+      ], 
+      "BodyHeadline": "Treasurys rise on Dudley comments, positioning", 
+      "MethodePath": "/WSJ30/MW/Live/2014/05/20/Stories/bond report 5 20 14.xml", 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/treasurys-edge-up-ahead-of-fed-speakers-2014-05-20", 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1145632588", 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "#text": "Treasury prices rise amid speeches by two Federal Reserve officials and some technical positioning.", 
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "Any": []
+    }, 
+    {
+      "AnyAttr": [], 
+      "Author": "Rex Nutting", 
+      "Headline": "The Fed won\u2019t taper as long as inflation is low", 
+      "SubChannel2": "Commentary", 
+      "Instrument": [
+        {
+          "Ticker": "UST", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "Prominent"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "CreateTimestamp": {
+        "Value": "2013-06-14T06:15:00"
+      }, 
+      "Provider": "MarketWatch.com", 
+      "UpdateTimestamp": {
+        "Value": "2013-06-14T06:15:20"
+      }, 
+      "Issue": [
+        "Opinion", 
+        "Commentary", 
+        "Economy", 
+        "Bond Market"
+      ], 
+      "Channel": "News & Commentary", 
+      "SubChannel": "News & Commentary|Commentary", 
+      "Channel2": "Commentary", 
+      "AssociatedGraphic": [
+        {
+          "AnyAttr": [], 
+          "Caption": "The Fedfail index was created by Paul Krugman. As in the Taylor Rule, it's the sum of the weighted deviation from the Fed's targets for unemployment and inflation.", 
+          "Credit": "MarketWatch", 
+          "Height": 79, 
+          "Width": 140, 
+          "FileName": "MW-BE050_fedfai_MB_20130613145704.jpg", 
+          "GraphicSize": {
+            "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+            "name": "MB"
+          }, 
+          "Any": []
+        }, 
+        {
+          "AnyAttr": [], 
+          "Caption": "The Fedfail index was created by Paul Krugman. As in the Taylor Rule, it's the sum of the weighted deviation from the Fed's targets for unemployment and inflation.", 
+          "Credit": "MarketWatch", 
+          "Height": 122, 
+          "Width": 183, 
+          "FileName": "MW-BE050_fedfai_MC_20130613145704.jpg", 
+          "GraphicSize": {
+            "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+            "name": "MC"
+          }, 
+          "Any": []
+        }
+      ], 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{02BD73A8-D452-11E2-B46A-002128040CF6}", 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/103", 
+      "Package": [
+        ""
+      ], 
+      "Column": "Rex Nutting", 
+      "Region": [
+        "US"
+      ], 
+      "BodyHeadline": "The Fed won\u2019t taper as long as inflation is low", 
+      "MethodePath": "/Live/2013/06/13/Stories/nutting 0614.xml", 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/the-fed-wont-taper-as-long-as-inflation-is-low-2013-06-14", 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1116434853", 
+      "CarouselHeadline": "The Fed won\u2019t taper as long as inflation is low", 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "#text": "Markets think the Fed will declare victory soon, but the ultra-low inflation rate could keep the Fed buying bonds for quite a while, Rex Nutting writes.", 
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "Any": []
+    }, 
+    {
+      "Instrument": [
+        {
+          "Ticker": "UK:BARC", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "PassingMention"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "UK"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "BIL", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "IEI", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "UST", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "SeoHeadline": "Treasury-Bond ETF Infows Surged to Record Last Week", 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "AnyAttr": [], 
+      "Author": "Chris Dieterich", 
+      "Headline": "Treasury-Bond ETF Infows Surged to Record Last Week", 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "#text": "As yields on U.S. Treasury bonds were hitting recent lows last week, investors were pumping a record amount of money into U.S. Treasury bond ETFs.", 
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "Treasury-Bond ETF Infows Surged to Record Last Week", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2013-05-10T13:33:00"
+      }, 
+      "ExternalLink": "http://blogs.wsj.com/moneybeat/2013/05/10/treasury-bond-etf-infows-surged-to-record-last-week/", 
+      "Provider": "WSJ Blogs", 
+      "Keywords": [
+        "BONDS", 
+        "TREASURY_MARKET"
+      ], 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{30E03424-C2D4-D424-22D5-17FF3D2905BE}", 
+      "UpdateTimestamp": {
+        "Value": "2013-05-10T18:02:00"
+      }, 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/424", 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/treasury-bond-etf-infows-surged-to-record-last-week-2013-05-10", 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1113424553"
+    }, 
+    {
+      "Instrument": [
+        {
+          "AnyAttr": [], 
+          "Ticker": "BAC", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "C", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "COF", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "GS", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "JPM", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "MS", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "UST", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "WFC", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }
+      ], 
+      "SeoHeadline": "SEC Says Judge Rakoff Made 'Legal Error' in Citigroup Case", 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "AnyAttr": [], 
+      "Author": "Shira Ovide", 
+      "Headline": "SEC Says Judge Rakoff Made 'Legal Error' in Citigroup Case", 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "#text": "The SEC is steaming mad at their courtroom scoldings at the hands of Judge Jed Rakoff. And they're taking their case to a higher legal power.", 
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "SEC Says Judge Rakoff Made 'Legal Error' in Citigroup Case", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2011-12-15T16:01:00"
+      }, 
+      "ExternalLink": "http://blogs.wsj.com/deals/2011/12/15/sec-says-judge-rakoff-make-legal-error-in-citigroup-case/", 
+      "Provider": "WSJ Blogs", 
+      "Keywords": [
+        "CITIGROUP", 
+        "MARKETS", 
+        "SEC"
+      ], 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{30E04424-C2D4-44C4-22D8-C358624C4C26}", 
+      "UpdateTimestamp": {
+        "Value": "2011-12-15T17:32:00"
+      }, 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/424", 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/sec-says-judge-rakoff-make-legal-error-in-citigroup-case-2011-12-15", 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1057998271"
+    }, 
+    {
+      "Instrument": [
+        {
+          "AnyAttr": [], 
+          "Ticker": "BAC", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "C", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "COF", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "GS", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "JPM", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "MS", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "UST", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "WFC", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }
+      ], 
+      "SeoHeadline": "Citigroup To Cut 4,500 Jobs", 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "AnyAttr": [], 
+      "Author": "Matthias Rieker", 
+      "Headline": "Citigroup To Cut 4,500 Jobs", 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "#text": "Citigroup Inc. Chief Executive Vikram Pandit said the bank plans to eliminate 4,500 jobs, starting in the fourth quarter. The bank has been saying for months that job cuts were needed, but didn't give numbers until now.", 
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "Citigroup To Cut 4,500 Jobs", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2011-12-06T17:20:00"
+      }, 
+      "ExternalLink": "http://blogs.wsj.com/deals/2011/12/06/citigroup-to-cut-4500-jobs/", 
+      "Provider": "WSJ Blogs", 
+      "Keywords": [
+        "CITIGROUP", 
+        "JOB_CUTS", 
+        "MARKETS"
+      ], 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{30E04424-C2D4-44C4-22D8-BB1D832FF3E9}", 
+      "UpdateTimestamp": {
+        "Value": "2011-12-06T18:05:00"
+      }, 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/424", 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/citigroup-to-cut-4500-jobs-2011-12-06", 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1056962211"
+    }, 
+    {
+      "Instrument": [
+        {
+          "AnyAttr": [], 
+          "Ticker": "BAC", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "C", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "COF", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "GS", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "JPM", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "MS", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "UST", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "WFC", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }
+      ], 
+      "SeoHeadline": "Citigroup's Havens Sells $3.5 Million in Stock", 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "AnyAttr": [], 
+      "Author": "Matthias Rieker", 
+      "Headline": "Citigroup's Havens Sells $3.5 Million in Stock", 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "#text": "Citigroup Inc. President John Havens sold about $3.5 million worth of the bank's stock, Citi disclosed Friday.", 
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "Citigroup's Havens Sells $3.5 Million in Stock", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2011-10-28T17:21:00"
+      }, 
+      "ExternalLink": "http://blogs.wsj.com/deals/2011/10/28/citigroups-havens-sells-3-5-million-in-stock/", 
+      "Provider": "WSJ Blogs", 
+      "Keywords": [
+        "CITIGROUP"
+      ], 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{30E04424-C2D4-44C4-22D8-9E25919B0822}", 
+      "UpdateTimestamp": {
+        "Value": "2011-10-28T17:21:00"
+      }, 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/424", 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/citigroups-havens-sells-35-million-in-stock-2011-10-28", 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1052686932"
+    }, 
+    {
+      "Instrument": [
+        {
+          "AnyAttr": [], 
+          "Ticker": "BAC", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "C", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "COF", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "GS", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "JPM", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "MS", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "UST", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "WFC", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }
+      ], 
+      "SeoHeadline": "Banks Stock: It's Euro-Tastic!", 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "AnyAttr": [], 
+      "Author": "Matthias Rieker", 
+      "Headline": "Banks Stock: It's Euro-Tastic!", 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "#text": "Bank stocks -- which have suffered on fears of fallout from Euro-zone debt crisis -- are zooming higher on last night's deal to save Greece.", 
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "Banks Stock: It's Euro-Tastic!", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2011-10-27T10:05:00"
+      }, 
+      "ExternalLink": "http://blogs.wsj.com/deals/2011/10/27/banks-stock-its-euro-tastic/", 
+      "Provider": "WSJ Blogs", 
+      "Keywords": [
+        "BANKING", 
+        "MARKETS"
+      ], 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{30E04424-C2D4-44C4-22D8-9C9782BC5F6E}", 
+      "UpdateTimestamp": {
+        "Value": "2011-10-27T10:07:00"
+      }, 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/424", 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/banks-stock-its-euro-tastic-2011-10-27", 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1052476530"
+    }, 
+    {
+      "Instrument": [
+        {
+          "AnyAttr": [], 
+          "Ticker": "BAC", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "C", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "COF", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "GS", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "JPM", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "MS", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "UST", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "WFC", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }
+      ], 
+      "SeoHeadline": "Vikram Pandit: Citigroup May 'Resize'", 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "AnyAttr": [], 
+      "Author": "Julie Steinberg", 
+      "Headline": "Vikram Pandit: Citigroup May 'Resize'", 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "#text": "Citigroup added staff in the third quarter, but it may trim businesses to reduce expenses and reallocate resources to emerging markets.", 
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "Vikram Pandit: Citigroup May 'Resize'", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2011-10-17T16:00:00"
+      }, 
+      "ExternalLink": "http://blogs.wsj.com/deals/2011/10/17/vikram-pandit-citigroup-may-resize/", 
+      "Provider": "WSJ Blogs", 
+      "Keywords": [
+        "BANK_EARNINGS", 
+        "CITIGROUP", 
+        "MARKETS"
+      ], 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{30E04424-C2D4-44C4-22D8-930DB02A34F7}", 
+      "UpdateTimestamp": {
+        "Value": "2011-10-17T16:00:00"
+      }, 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/424", 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/vikram-pandit-citigroup-may-resize-2011-10-17", 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1051210028"
+    }, 
+    {
+      "Instrument": [
+        {
+          "AnyAttr": [], 
+          "Ticker": "BAC", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "C", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "COF", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "GS", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "JPM", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "MS", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "UST", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "WFC", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }
+      ], 
+      "SeoHeadline": "Prince Alwaleed Is Happy with Citigroup Now", 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "AnyAttr": [], 
+      "Author": "Shira Ovide", 
+      "Headline": "Prince Alwaleed Is Happy with Citigroup Now", 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "#text": "Saudi Arabian billionaire Prince Alwaleed Bin Talal, the biggest individual shareholder in Citigroup, said Monday the bank's third-quarter results were \"promising.\"", 
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "Prince Alwaleed Is Happy with Citigroup Now", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2011-10-17T13:12:00"
+      }, 
+      "ExternalLink": "http://blogs.wsj.com/deals/2011/10/17/prince-alwaleed-is-happy-with-citigroup-now/", 
+      "Provider": "WSJ Blogs", 
+      "Keywords": [
+        "BANK_EARNINGS", 
+        "CITIGROUP", 
+        "MARKETS"
+      ], 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{30E04424-C2D4-44C4-22D8-92BBDAAF11C8}", 
+      "UpdateTimestamp": {
+        "Value": "2011-10-17T13:12:00"
+      }, 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/424", 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/prince-alwaleed-is-happy-with-citigroup-now-2011-10-17", 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1051193700"
+    }, 
+    {
+      "Instrument": [
+        {
+          "AnyAttr": [], 
+          "Ticker": "BAC", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "C", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "COF", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "GS", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "JPM", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "MS", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "UST", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "WFC", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "us"
+          }
+        }
+      ], 
+      "SeoHeadline": "Citigroup Takes The Credit Card Business Out of the Trash", 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "AnyAttr": [], 
+      "Author": "Deal Journal", 
+      "Headline": "Citigroup Takes The Credit Card Business Out of the Trash", 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "#text": "Citigroup changed its mind about junking its private-label credit card business. Read the internal Citigroup memo explaining the strategy shift.", 
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "Citigroup Takes The Credit Card Business Out of the Trash", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2011-10-17T09:07:00"
+      }, 
+      "ExternalLink": "http://blogs.wsj.com/deals/2011/10/17/citigroup-takes-the-credit-card-business-out-of-the-trash/", 
+      "Provider": "WSJ Blogs", 
+      "Keywords": [
+        "BANK_EARNINGS", 
+        "CITIGROUP", 
+        "MARKETS", 
+        "MEMOS"
+      ], 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{30E04424-C2D4-44C4-22D8-923EB322C80B}", 
+      "UpdateTimestamp": {
+        "Value": "2011-10-17T09:08:00"
+      }, 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/424", 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/citigroup-takes-the-credit-card-business-out-of-the-trash-2011-10-17", 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1051161366"
+    }, 
+    {
+      "Instrument": [
+        {
+          "AnyAttr": [], 
+          "Ticker": "BAC", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "C", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "COF", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "GS", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "JPM", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "MS", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "UST", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "WFC", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "SeoHeadline": "Citi CEO Pandit: Hopes for Significant Capital Returns in 2013", 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "AnyAttr": [], 
+      "Author": "Shira Ovide", 
+      "Headline": "Citi CEO Pandit: Hopes for Significant Capital Returns in 2013", 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "#text": "Citi CEO Vikram Pandit talks cash returns to shareholders, and gives hints about coming expense cuts.", 
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "Citi CEO Pandit: Hopes for Significant Capital Returns in 2013", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2011-09-28T09:28:00"
+      }, 
+      "ExternalLink": "http://blogs.wsj.com/deals/2011/09/28/citi-ceo-pandit-expect-capital-returns-in-2013/", 
+      "Provider": "WSJ Blogs", 
+      "Keywords": [
+        "CITIGROUP", 
+        "MARKETS", 
+        "VIKRAM_PANDIT"
+      ], 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{30E04424-C2D4-44C4-22D8-85FA8CE0FA75}", 
+      "UpdateTimestamp": {
+        "Value": "2011-09-28T11:10:00"
+      }, 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/424", 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/citi-ceo-pandit-expect-capital-returns-in-2013-2011-09-28", 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1049301931"
+    }, 
+    {
+      "Instrument": [
+        {
+          "AnyAttr": [], 
+          "Ticker": "BAC", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "C", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "COF", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "GS", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "JPM", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "MS", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "UST", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "WFC", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "SeoHeadline": "Big Banks All Brush Multi-Year Lows", 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "AnyAttr": [], 
+      "Author": "Shira Ovide", 
+      "Headline": "Big Banks All Brush Multi-Year Lows", 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "#text": "All we need to know about today's market carnage is this factoid: Each of the Big Five U.S. banks touched a fresh multi-year stock low.", 
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "Big Banks All Brush Multi-Year Lows", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2011-09-22T16:07:00"
+      }, 
+      "ExternalLink": "http://blogs.wsj.com/deals/2011/09/22/big-banks-all-brush-multi-year-lows/", 
+      "Provider": "WSJ Blogs", 
+      "Keywords": [
+        "BANKS", 
+        "MARKETS"
+      ], 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{30E04424-C2D4-44C4-22D8-81965BA1B124}", 
+      "UpdateTimestamp": {
+        "Value": "2011-09-22T16:08:00"
+      }, 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/424", 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/big-banks-all-brush-multi-year-lows-2011-09-22", 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1048643301"
+    }, 
+    {
+      "Instrument": [
+        {
+          "AnyAttr": [], 
+          "Ticker": "NRP", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "KRC", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "UST", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "CYS", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "CMO", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "EIHI", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "AnyAttr": [], 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "Author": "", 
+      "Headline": "PRICE TARGET CHANGES: FRIEDMAN, BILLINGS & RAMSEY", 
+      "Issue": [
+        "Analyst", 
+        "Mutual Funds"
+      ], 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "#text": "Friedman, Billings & Ramsey issued the following share price target changes on Friday:", 
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "PRICE TARGET CHANGES: FRIEDMAN, BILLINGS & RAMSEY", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2011-02-14T08:54:00"
+      }, 
+      "Region": [
+        "US", 
+        "Asia Pacific"
+      ], 
+      "Provider": "Dow Jones Newswires", 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{20C0C425-42D4-34F2-D124-A46343A69DBE}", 
+      "UpdateTimestamp": {
+        "Value": "2011-02-14T08:54:00"
+      }, 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/price-target-changes-friedman-billings-ramsey-2011-02-14", 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/427", 
+      "Industry": [
+        "Real Estate", 
+        "Insurance", 
+        "Mining and Metals"
+      ], 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1024227671"
+    }, 
+    {
+      "AnyAttr": [], 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "Instrument": [
+        {
+          "AnyAttr": [], 
+          "Ticker": "CTAS", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "TGT", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "PFCB", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "UST", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "SKF", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "HNZ", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "CAKE", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "PM", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "OEH", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "Headline": "Peltz Unloads Target, 5 Others", 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "#text": "Hedge funds controlled by billionaire investor Nelson Peltz disclosed Thursday that he eliminated six companies from his portfolio during a bearish third quarter.", 
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "Peltz Unloads Target, 5 Others", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2008-11-14T00:01:00"
+      }, 
+      "Provider": "The Wall Street Journal Interactive Edition", 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{1040F534-21B3-C9B6-2368-A84968132147}", 
+      "UpdateTimestamp": {
+        "Value": "2012-06-26T16:10:00"
+      }, 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/425", 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/peltz-unloads-target-5-others-2008-11-13", 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1080337581"
+    }, 
+    {
+      "Instrument": [
+        {
+          "AnyAttr": [], 
+          "Ticker": "MO", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "UST", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "AnyAttr": [], 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "Author": "Heidi N. Moore", 
+      "Headline": "Altria Lights Up Bond Financing", 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "#text": "Just as the price of cigarettes has been rising, so is the cost of financing a merger. That is why companies not as strong as Altria Group might beware: Attempts to replicate the cigarette maker's successful sale of $6 billion of debt to pay for its $10.4 billion acquisition of smokeless-tobacco rival UST could be hazardous to their health. ", 
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "Altria Lights Up Bond Financing", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2008-11-07T00:01:00"
+      }, 
+      "Provider": "The Wall Street Journal Interactive Edition", 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{1040F534-21B3-92E9-9015-A40B71B6B1CE}", 
+      "UpdateTimestamp": {
+        "Value": "2012-06-26T15:49:00"
+      }, 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/425", 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/altria-lights-up-bond-financing-2008-11-07", 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1080333299"
+    }, 
+    {
+      "Instrument": [
+        {
+          "AnyAttr": [], 
+          "Ticker": "BAC", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "C", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "PHM", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "RDN", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "WM", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "A", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "MO", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "UST", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "NOK", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "PFE", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "AnyAttr": [], 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "Author": "Geoffrey Rogow", 
+      "Headline": "Citigroup, Wachovia, Bank of America Rise", 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "#text": "The federal government's seizure of mortgage-finance giants Fannie Mae and Freddie Mac triggered knee-jerk buying of U.S. financial stocks.", 
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "Citigroup, Wachovia, Bank of America Rise", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2008-09-09T23:59:00"
+      }, 
+      "Provider": "The Wall Street Journal Interactive Edition", 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{1040F534-21B1-BEA6-18CA-DA654F335C1D}", 
+      "UpdateTimestamp": {
+        "Value": "2012-06-26T15:04:00"
+      }, 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/425", 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/citigroup-wachovia-bank-of-america-rise-2008-09-09", 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1080323315"
+    }, 
+    {
+      "Instrument": [
+        {
+          "AnyAttr": [], 
+          "Ticker": "MO", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "UST", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "RAI", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "AnyAttr": [], 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "Author": "Anjali Cordeiro", 
+      "Headline": "Altria to Buy UST for $10.3 Billion", 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "#text": "Altria has agreed to acquire UST for about $10.3 billion in cash. The deal would put two of the biggest brands in tobacco -- Marlboro and Skoal -- under one roof.", 
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "Altria to Buy UST for $10.3 Billion", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2008-09-09T00:01:00"
+      }, 
+      "Provider": "The Wall Street Journal Interactive Edition", 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{1040F534-21B1-BEEB-637C-81F3F97A7527}", 
+      "UpdateTimestamp": {
+        "Value": "2012-06-26T16:53:00"
+      }, 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/altria-to-buy-ust-for-103-billion-2008-09-09", 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/425", 
+      "Industry": [
+        "Food"
+      ], 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1080346737"
+    }
+  ]
+}

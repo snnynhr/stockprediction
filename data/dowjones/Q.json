@@ -1,0 +1,2749 @@
+{
+  "Headlines": [
+    {
+      "Instrument": [
+        {
+          "Ticker": "VRX", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "PassingMention"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "CA"
+          }
+        }, 
+        {
+          "Ticker": "PFE", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "PassingMention"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "Ticker": "Q", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "Prominent"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "SeoHeadline": "Can Contract Research Organizations Keep Growing at the Same Pace?", 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "AnyAttr": [], 
+      "Author": "Ed Silverman", 
+      "Headline": "Can Contract Research Organizations Keep Growing at the Same Pace?", 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "#text": "Contract research organizations are expected to grow in the mid-single digits, according to a new report from Moody\u2019s Investor Service.", 
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "Can Contract Research Organizations Keep Growing at the Same Pace?", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2014-10-13T12:08:00"
+      }, 
+      "ExternalLink": "http://blogs.wsj.com/pharmalot/2014/10/13/can-contract-research-organizations-keep-growing-at-the-same-pace/", 
+      "Provider": "WSJ Blogs", 
+      "Keywords": [
+        "ARE_QUINTILES", 
+        "CHARLES_RIVER", 
+        "CLINICAL_TRIALS", 
+        "CONTRACT_RESEARCH_ORGANIZATION", 
+        "COVANCE", 
+        "CRO", 
+        "HARLAN_LABS", 
+        "ICON", 
+        "INVENTIVE_HEALTH", 
+        "MEDPACE", 
+        "MOODYS_INVESTOR_SERVICE", 
+        "PAREXEL", 
+        "PFIZER", 
+        "PHARMACEUTICAL_PRODUCT_DEVELOPMENT", 
+        "PRA_HEALTH_SCIENCES", 
+        "UNCATEGORIZED"
+      ], 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{31003424-C2D3-2373-0422-D328F052E7DC}", 
+      "UpdateTimestamp": {
+        "Value": "2014-10-13T13:27:00"
+      }, 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/424", 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/can-contract-research-organizations-keep-growing-at-the-same-pace-2014-10-13", 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1157698477"
+    }, 
+    {
+      "Instrument": [
+        {
+          "Ticker": "AZN", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "Prominent"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "UK"
+          }
+        }, 
+        {
+          "Ticker": "PFE", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "PassingMention"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "Ticker": "Q", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "PassingMention"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "SeoHeadline": "University Plan to Review Clinical Trial Work Meets Conflict Charges", 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "AnyAttr": [], 
+      "Author": "Ed Silverman", 
+      "Headline": "University Plan to Review Clinical Trial Work Meets Conflict Charges", 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "#text": "Hiring the Association for the Accreditation of Human Research Protection Programs to review clinical trial practices is proving controversial for the University of Minnesota.", 
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "University Plan to Review Clinical Trial Work Meets Conflict Charges", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2014-09-10T08:50:00"
+      }, 
+      "ExternalLink": "http://blogs.wsj.com/pharmalot/2014/09/10/university-plan-to-review-clinical-trial-work-meets-conflict-charges/", 
+      "Provider": "WSJ Blogs", 
+      "Keywords": [
+        "AAHRPP", 
+        "ARNE_CARLSON", 
+        "ASSOCIATION_FOR_THE_ACCREDITATION_OF_HUMAN_RESEARCH_PROTECTION_PROGRAMS", 
+        "ASTRAZENECA", 
+        "CLINICAL_TRIALS", 
+        "CONFLICTS_OF_INTEREST", 
+        "GENENTECH", 
+        "NOVARTIS", 
+        "PATIENT_SAFETY", 
+        "PFIZER", 
+        "QUINTILES", 
+        "UNCATEGORIZED", 
+        "UNIVERSITY_OF_MINNESOTA"
+      ], 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{31003424-C2D3-2373-0422-D25FCCAC876A}", 
+      "UpdateTimestamp": {
+        "Value": "2014-09-10T10:25:00"
+      }, 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/424", 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/university-plan-to-review-clinical-trial-work-meets-conflict-charges-2014-09-10", 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1154901846"
+    }, 
+    {
+      "Instrument": [
+        {
+          "Ticker": "Q", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "Prominent"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "AnyAttr": [], 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "Author": "", 
+      "Headline": "Quintiles Transnational Holdings Resumed at Strong Buy by Raymond James", 
+      "Issue": [
+        "Analyst"
+      ], 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "Quintiles Transnational Holdings Resumed at Strong Buy by Raymond James", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2014-03-24T09:05:00"
+      }, 
+      "Region": [
+        "US"
+      ], 
+      "Provider": "Dow Jones Newswires", 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{20C0C425-42D4-34F2-D125-148E65257546}", 
+      "UpdateTimestamp": {
+        "Value": "2014-03-24T09:06:00"
+      }, 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/quintiles-transnational-holdings-resumed-at-strong-buy-by-raymond-james-2014-03-24", 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/427", 
+      "Industry": [
+        "Health-Care"
+      ], 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1140631423"
+    }, 
+    {
+      "Instrument": [
+        {
+          "Ticker": "CG", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "Prominent"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "Ticker": "III", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "Prominent"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "UK"
+          }
+        }, 
+        {
+          "Ticker": "JPM", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "Prominent"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "Ticker": "KKR", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "Prominent"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "Ticker": "Q", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "Prominent"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "SeoHeadline": "Cinven to Buy Medpace From CCMP for About $915 Million", 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "AnyAttr": [], 
+      "Author": "Ryan Dezember", 
+      "Headline": "Cinven to Buy Medpace for $915 Million", 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "#text": "European private-equity firm Cinven has agreed to buy contract-research firm Medpace from CCMP Capital Advisors for about $915 million.", 
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "Cinven to Buy Medpace for $915 Million", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2014-02-24T04:04:00"
+      }, 
+      "ExternalLink": "http://online.wsj.com/article/SB10001424052702304834704579401533748805324.html", 
+      "Provider": "The Wall Street Journal Interactive Edition", 
+      "Keywords": [
+        "CCMP_CAPITAL", 
+        "CCMP CAPITAL", 
+        "CINVEN", 
+        "MEDPACE", 
+        "PRIVATE_EQUITY", 
+        "PRIVATE EQUITY"
+      ], 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{df723acc-9cd9-11e3-bcdb-01212803fad6}", 
+      "UpdateTimestamp": {
+        "Value": "2014-02-24T04:04:00"
+      }, 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/425", 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/cinven-to-buy-medpace-for-915-million-2014-02-23", 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1138333356"
+    }, 
+    {
+      "Instrument": [
+        {
+          "Ticker": "Q", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "Prominent"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "AnyAttr": [], 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "Author": "", 
+      "Headline": "Quintiles Started at Buy by Citigroup", 
+      "Issue": [
+        "Analyst"
+      ], 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "Quintiles Started at Buy by Citigroup", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2014-02-18T09:13:00"
+      }, 
+      "Region": [
+        "US"
+      ], 
+      "Provider": "Dow Jones Newswires", 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{20C0C425-42D4-34F2-D125-14294E6BFE09}", 
+      "UpdateTimestamp": {
+        "Value": "2014-02-18T09:13:00"
+      }, 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/quintiles-started-at-buy-by-citigroup-2014-02-18", 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/427", 
+      "Industry": [
+        "Health-Care"
+      ], 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1137836980"
+    }, 
+    {
+      "Instrument": [
+        {
+          "Ticker": "Q", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "Prominent"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "AnyAttr": [], 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "Author": "", 
+      "Headline": "Quintiles Raised to Buy From Neutral by Goldman Sachs", 
+      "Issue": [
+        "Analyst"
+      ], 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "Quintiles Raised to Buy From Neutral by Goldman Sachs", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2014-01-21T09:05:00"
+      }, 
+      "Region": [
+        "US"
+      ], 
+      "Provider": "Dow Jones Newswires", 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{20C0C425-42D4-34F2-D125-13CCCCC24C9B}", 
+      "UpdateTimestamp": {
+        "Value": "2014-01-21T09:05:00"
+      }, 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/quintiles-raised-to-buy-from-neutral-by-goldman-sachs-2014-01-21", 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/427", 
+      "Industry": [
+        "Health-Care"
+      ], 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1135055805"
+    }, 
+    {
+      "Instrument": [
+        {
+          "Ticker": "MRK", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "PassingMention"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "XE"
+          }
+        }, 
+        {
+          "Ticker": "PRXL", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "Prominent"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "Ticker": "Q", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "Prominent"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "SeoHeadline": "Pharma Cost Cuts Could Be a Tonic for Quintiles--Heard on the Street", 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "AnyAttr": [], 
+      "Author": "Helen Thomas", 
+      "Headline": "Pharma Cost Cuts Could Be a Tonic for Quintiles", 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "#text": "Investors should look to Quintiles as a way to play the pharmaceutical industry's push to outsource clinical trials.", 
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "Pharma Cost Cuts Could Be a Tonic for Quintiles", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2013-12-20T12:44:00"
+      }, 
+      "ExternalLink": "http://online.wsj.com/article/SB10001424052702304773104579270294071797888.html", 
+      "Provider": "The Wall Street Journal Interactive Edition", 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{f2b2b480-6995-11e3-ba73-01212803fad6}", 
+      "UpdateTimestamp": {
+        "Value": "2013-12-20T18:23:00"
+      }, 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/425", 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/pharma-cost-cuts-could-be-a-tonic-for-quintiles-2013-12-20", 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1132337152"
+    }, 
+    {
+      "SeoHeadline": "Profit From Big-Pharma Outsourcing", 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "AnyAttr": [], 
+      "Instrument": [
+        {
+          "Ticker": "BMY", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "Prominent"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "Ticker": "CVD", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "Prominent"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "Ticker": "FRX", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "PassingMention"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "Ticker": "MRK", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "Prominent"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "Ticker": "NVS", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "PassingMention"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "Ticker": "PRXL", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "Prominent"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "Ticker": "Q", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "Prominent"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "Ticker": "SHPG", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "PassingMention"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "Headline": "Profit From Big-Pharma Outsourcing", 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "#text": "Credit Suisse cites Parexel and other contract research organizations.", 
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "Profit From Big-Pharma Outsourcing", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2013-12-10T00:01:00"
+      }, 
+      "ExternalLink": "http://online.barrons.com/article/SB50001424053111904009804579248523575104070.html", 
+      "Provider": "Barron's Online", 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{d517c246-6114-11e3-9ca2-052128049ad6}", 
+      "UpdateTimestamp": {
+        "Value": "2014-01-13T07:48:00"
+      }, 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/426", 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/profit-from-big-pharma-outsourcing-2013-12-10", 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1134289538"
+    }, 
+    {
+      "Instrument": [
+        {
+          "AnyAttr": [], 
+          "Ticker": "Q", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "AnyAttr": [], 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "Author": "", 
+      "Headline": "Quintiles Cut to Hold From Buy by Deutsche Bank", 
+      "Issue": [
+        "Analyst"
+      ], 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "Quintiles Cut to Hold From Buy by Deutsche Bank", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2013-11-21T10:29:00"
+      }, 
+      "Region": [
+        "US"
+      ], 
+      "Provider": "Dow Jones Newswires", 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{20C0C425-42D4-34F2-D124-F245BBAFF2B7}", 
+      "UpdateTimestamp": {
+        "Value": "2013-11-21T10:29:00"
+      }, 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/quintiles-cut-to-hold-from-buy-by-deutsche-bank-2013-11-21", 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/427", 
+      "Industry": [
+        "Health-Care"
+      ], 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1129952329"
+    }, 
+    {
+      "SeoHeadline": "The Daily Startup: Brightcove Founder's Bitcoin Startup Scores Largest E-Currency Funding Yet", 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "AnyAttr": [], 
+      "Instrument": [
+        {
+          "Ticker": "Q", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "Prominent"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "Headline": "The Daily Startup: Brightcove Founder's Bitcoin Startup Scores Largest E-Currency Funding Yet", 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "#text": "A roundup of venture-capital news and analysis from VentureWire and around the Web.", 
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "The Daily Startup: Brightcove Founder's Bitcoin Startup Scores Largest E-Currency Funding Yet", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2013-11-01T09:42:00"
+      }, 
+      "ExternalLink": "http://blogs.wsj.com/venturecapital/2013/11/01/the-daily-startup-brightcove-founders-bitcoin-startup-scores-largest-e-currency-funding-yet/", 
+      "Provider": "WSJ Blogs", 
+      "Keywords": [
+        "CIRCLE_INTERNET_FINANCIAL", 
+        "KUMU_NETWORKS", 
+        "NOVAQUEST_CAPITAL_MANAGEMENT", 
+        "SVELTE_MEDICAL_SYSTEMS", 
+        "THE_DAILY_START_UP", 
+        "UNITRENDS"
+      ], 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{31004424-C2D5-6434-4422-D34DD5E27B21}", 
+      "UpdateTimestamp": {
+        "Value": "2013-11-01T09:47:00"
+      }, 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/the-daily-startup-brightcove-founders-bitcoin-startup-scores-largest-e-currency-funding-yet-2013-11-01", 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/424", 
+      "Industry": [
+        "Media"
+      ], 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1128156153"
+    }, 
+    {
+      "SeoHeadline": "Contract-Research Picks for Earnings", 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "AnyAttr": [], 
+      "Instrument": [
+        {
+          "Ticker": "CRL", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "Prominent"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "Ticker": "CVD", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "Prominent"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "Ticker": "ICLR", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "Prominent"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "Ticker": "PRXL", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "Prominent"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "Ticker": "Q", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "Prominent"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "Headline": "Contract-Research Picks for Earnings", 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "#text": "Credit Suisse cites Covance, Parexel International and Quintiles.", 
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "Contract-Research Picks for Earnings", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2013-10-24T13:02:00"
+      }, 
+      "ExternalLink": "http://online.barrons.com/article/SB50001424053111904897104579154010053943976.html", 
+      "Provider": "Barron's Online", 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{03371ea8-3c29-11e3-bf4b-052128049ad6}", 
+      "UpdateTimestamp": {
+        "Value": "2013-10-24T13:01:00"
+      }, 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/426", 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/contract-research-picks-for-earnings-2013-10-24", 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1127349601"
+    }, 
+    {
+      "Instrument": [
+        {
+          "AnyAttr": [], 
+          "Ticker": "Q", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "AnyAttr": [], 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "Author": "", 
+      "Headline": "Quintiles Transnational Holdings Raised to Strong Buy From Outperform by Raymond James", 
+      "Issue": [
+        "Analyst"
+      ], 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "Quintiles Transnational Holdings Raised to Strong Buy From Outperform by Raymond James", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2013-10-09T09:17:00"
+      }, 
+      "Region": [
+        "US"
+      ], 
+      "Provider": "Dow Jones Newswires", 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{20C0C425-42D4-34F2-D124-F1DAEB54E407}", 
+      "UpdateTimestamp": {
+        "Value": "2013-10-09T09:17:00"
+      }, 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/quintiles-transnational-holdings-raised-to-strong-buy-from-outperform-by-raymond-james-2013-10-09", 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/427", 
+      "Industry": [
+        "Health-Care"
+      ], 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1126185632"
+    }, 
+    {
+      "Instrument": [
+        {
+          "AnyAttr": [], 
+          "Ticker": "Q", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "AnyAttr": [], 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "Author": "", 
+      "Headline": "Quintiles Started at Outperform by Credit Suisse", 
+      "Issue": [
+        "Analyst"
+      ], 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "Quintiles Started at Outperform by Credit Suisse", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2013-09-24T09:08:00"
+      }, 
+      "Region": [
+        "US"
+      ], 
+      "Provider": "Dow Jones Newswires", 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{20C0C425-42D4-34F2-D124-F189DB2235B0}", 
+      "UpdateTimestamp": {
+        "Value": "2013-09-24T09:08:00"
+      }, 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/quintiles-started-at-outperform-by-credit-suisse-2013-09-24", 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/427", 
+      "Industry": [
+        "Health-Care"
+      ], 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1124840092"
+    }, 
+    {
+      "SeoHeadline": "IPO Table", 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "AnyAttr": [], 
+      "Instrument": [
+        {
+          "AnyAttr": [], 
+          "Ticker": "AMBI", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "APAM", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "BCC", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "BFAM", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "BLUE", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "BRSS", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "CDW", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "CGIX", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "CMRX", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "CNOB", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "COTY", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "CYNI", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "DATA", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "ECOM", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "ENTA", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "EPZM", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "FWM", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "GARS", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "GIMO", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "GOGO", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "HAWK", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "HCAP", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "HDS", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "HIIQ", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "HTWO", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "I", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "IBTX", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "INSY", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "IPDN", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "KBIO", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "LPDX", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "MKTO", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "MODN", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "MRIN", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "MWRX", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "NBCB", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "NCLH", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "NDLS", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "NSTG", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "PETX", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "PF", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "PFSI", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "PGEM", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "PTCT", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "PTLA", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "Q", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "RALY", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "RCAP", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "RCPT", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "SAMG", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "SEAS", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "SSN", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "STML", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "TPH", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "TRMR", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "TSC", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "TTPH", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "TXTR", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "VOYA", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "WLH", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "WSTC", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "XONE", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "XOOM", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "ZTS", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "Headline": "IPO Table", 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "#text": "Dealogic's complete list of first-half 2013 initial public offerings.", 
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "IPO Table", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2013-08-03T00:01:00"
+      }, 
+      "ExternalLink": "http://online.barrons.com/article/SB50001424052748704329604578644920357026666.html", 
+      "Provider": "Barron's Online", 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{1547cb6a-fbec-11e2-a920-002128040cf6}", 
+      "UpdateTimestamp": {
+        "Value": "2013-08-03T04:27:00"
+      }, 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/426", 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/ipo-table-2013-08-03", 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1121017823"
+    }, 
+    {
+      "Instrument": [
+        {
+          "Ticker": "COTY", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "PassingMention"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "Ticker": "NTI", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "Prominent"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "Ticker": "Q", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "PassingMention"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "SeoHeadline": "HD Supply IPO Priced at Steep Discount to Projection", 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "AnyAttr": [], 
+      "Author": "Matthew Jarzemsky", 
+      "Headline": "HD Supply IPO Priced at Steep Discount to Projection", 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "#text": "Not a good start for HD Supply Holdings Inc.", 
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "HD Supply IPO Priced at Steep Discount to Projection", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2013-06-26T18:19:00"
+      }, 
+      "ExternalLink": "http://blogs.wsj.com/moneybeat/2013/06/26/hd-supply-ipo-priced-at-steep-discount-to-projection/", 
+      "Provider": "WSJ Blogs", 
+      "Keywords": [
+        "HD_SUPPLY", 
+        "IPOS", 
+        "U_S"
+      ], 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{30E03424-C2D4-D424-22DD-E720501CB1C7}", 
+      "UpdateTimestamp": {
+        "Value": "2013-06-26T18:19:00"
+      }, 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/hd-supply-ipo-priced-at-steep-discount-to-projection-2013-06-26", 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/424", 
+      "Industry": [
+        "Electric Utilities"
+      ], 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1117669504"
+    }, 
+    {
+      "Instrument": [
+        {
+          "Ticker": "CG", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "PassingMention"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "Ticker": "UK:III", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "PassingMention"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "UK"
+          }
+        }, 
+        {
+          "Ticker": "KKR", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "Significant"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "Ticker": "Q", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "PassingMention"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "SeoHeadline": "KKR to Pay $1.3 Billion for PRA International", 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "AnyAttr": [], 
+      "Author": "Ryan Dezember", 
+      "Headline": "KKR to Pay $1.3 Billion for PRA International", 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "#text": "KKR has agreed to buy clinical-research firm PRA International in a deal that shows private equity's ongoing interest in research-for-hire firms that cater to drug developers. ", 
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "KKR to Pay $1.3 Billion for PRA International", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2013-06-24T16:06:00"
+      }, 
+      "ExternalLink": "http://online.wsj.com/article/SB10001424127887324183204578565681091719440.html", 
+      "Provider": "The Wall Street Journal Interactive Edition", 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{41125110-dcf8-11e2-a368-01212876b3fc}", 
+      "UpdateTimestamp": {
+        "Value": "2013-06-24T22:18:00"
+      }, 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/425", 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/kkr-to-buy-clinical-research-firm-from-genstar-2013-06-24", 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1117468236"
+    }, 
+    {
+      "Instrument": [
+        {
+          "AnyAttr": [], 
+          "Ticker": "Q", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "AnyAttr": [], 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "Author": "", 
+      "Headline": "Quintiles Started at Neutral by Citigroup", 
+      "Issue": [
+        "Analyst"
+      ], 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "Quintiles Started at Neutral by Citigroup", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2013-06-19T09:09:00"
+      }, 
+      "Region": [
+        "US"
+      ], 
+      "Provider": "Dow Jones Newswires", 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{20C0C425-42D4-34F2-D124-F066FC827FA1}", 
+      "UpdateTimestamp": {
+        "Value": "2013-06-19T09:09:00"
+      }, 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/quintiles-started-at-neutral-by-citigroup-2013-06-19", 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/427", 
+      "Industry": [
+        "Health-Care"
+      ], 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1116925733"
+    }, 
+    {
+      "Instrument": [
+        {
+          "AnyAttr": [], 
+          "Ticker": "Q", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "AnyAttr": [], 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "Author": "", 
+      "Headline": "Quintiles Started at Overweight by Morgan Stanley", 
+      "Issue": [
+        "Analyst"
+      ], 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "Quintiles Started at Overweight by Morgan Stanley", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2013-06-18T09:27:00"
+      }, 
+      "Region": [
+        "US"
+      ], 
+      "Provider": "Dow Jones Newswires", 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{20C0C425-42D4-34F2-D124-F06608671508}", 
+      "UpdateTimestamp": {
+        "Value": "2013-06-18T09:27:00"
+      }, 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/quintiles-started-at-overweight-by-morgan-stanley-2013-06-18", 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/427", 
+      "Industry": [
+        "Health-Care"
+      ], 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1116827453"
+    }, 
+    {
+      "Instrument": [
+        {
+          "AnyAttr": [], 
+          "Ticker": "Q", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "AnyAttr": [], 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "Author": "", 
+      "Headline": "Quintiles Started at Hold by Jefferies", 
+      "Issue": [
+        "Analyst"
+      ], 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "Quintiles Started at Hold by Jefferies", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2013-06-18T08:25:00"
+      }, 
+      "Region": [
+        "US"
+      ], 
+      "Provider": "Dow Jones Newswires", 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{20C0C425-42D4-34F2-D124-F066082967F0}", 
+      "UpdateTimestamp": {
+        "Value": "2013-06-18T08:25:00"
+      }, 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/quintiles-started-at-hold-by-jefferies-2013-06-18", 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/427", 
+      "Industry": [
+        "Health-Care"
+      ], 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1116821239"
+    }, 
+    {
+      "Instrument": [
+        {
+          "AnyAttr": [], 
+          "Ticker": "Q", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "AnyAttr": [], 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "Author": "", 
+      "Headline": "Quintiles Started at Outperform by Raymond James", 
+      "Issue": [
+        "Analyst"
+      ], 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "Quintiles Started at Outperform by Raymond James", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2013-06-18T08:21:00"
+      }, 
+      "Region": [
+        "US"
+      ], 
+      "Provider": "Dow Jones Newswires", 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{20C0C425-42D4-34F2-D124-F06608243687}", 
+      "UpdateTimestamp": {
+        "Value": "2013-06-18T08:21:00"
+      }, 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/quintiles-started-at-outperform-by-raymond-james-2013-06-18", 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/427", 
+      "Industry": [
+        "Health-Care"
+      ], 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1116820994"
+    }, 
+    {
+      "Instrument": [
+        {
+          "AnyAttr": [], 
+          "Ticker": "Q", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "AnyAttr": [], 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "Author": "", 
+      "Headline": "Quintiles Started at Outperform by William Blair", 
+      "Issue": [
+        "Analyst"
+      ], 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "Quintiles Started at Outperform by William Blair", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2013-06-18T08:19:00"
+      }, 
+      "Region": [
+        "US"
+      ], 
+      "Provider": "Dow Jones Newswires", 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{20C0C425-42D4-34F2-D124-F06608222F05}", 
+      "UpdateTimestamp": {
+        "Value": "2013-06-18T08:19:00"
+      }, 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/quintiles-started-at-outperform-by-william-blair-2013-06-18", 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/427", 
+      "Industry": [
+        "Health-Care"
+      ], 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1116820746"
+    }, 
+    {
+      "Instrument": [
+        {
+          "AnyAttr": [], 
+          "Ticker": "Q", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "AnyAttr": [], 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "Author": "", 
+      "Headline": "Quintiles Started at Neutral by R.W. Baird", 
+      "Issue": [
+        "Analyst"
+      ], 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "Quintiles Started at Neutral by R.W. Baird", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2013-06-18T08:19:00"
+      }, 
+      "Region": [
+        "US"
+      ], 
+      "Provider": "Dow Jones Newswires", 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{20C0C425-42D4-34F2-D124-F06608229498}", 
+      "UpdateTimestamp": {
+        "Value": "2013-06-18T08:19:00"
+      }, 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/quintiles-started-at-neutral-by-rw-baird-2013-06-18", 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/427", 
+      "Industry": [
+        "Health-Care"
+      ], 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1116820756"
+    }, 
+    {
+      "Instrument": [
+        {
+          "AnyAttr": [], 
+          "Ticker": "Q", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "AnyAttr": [], 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "Author": "", 
+      "Headline": "Quintiles Started at Buy by Deutsche Bank", 
+      "Issue": [
+        "Analyst"
+      ], 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "Quintiles Started at Buy by Deutsche Bank", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2013-06-18T08:10:00"
+      }, 
+      "Region": [
+        "US"
+      ], 
+      "Provider": "Dow Jones Newswires", 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{20C0C425-42D4-34F2-D124-F0660812F4EF}", 
+      "UpdateTimestamp": {
+        "Value": "2013-06-18T08:10:00"
+      }, 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/quintiles-started-at-buy-by-deutsche-bank-2013-06-18", 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/427", 
+      "Industry": [
+        "Health-Care"
+      ], 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1116819911"
+    }, 
+    {
+      "Instrument": [
+        {
+          "AnyAttr": [], 
+          "Ticker": "Q", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "AnyAttr": [], 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "Author": "", 
+      "Headline": "Quintiles Started at Overweight by JPMorgan", 
+      "Issue": [
+        "Analyst"
+      ], 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "Quintiles Started at Overweight by JPMorgan", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2013-06-18T08:08:00"
+      }, 
+      "Region": [
+        "US"
+      ], 
+      "Provider": "Dow Jones Newswires", 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{20C0C425-42D4-34F2-D124-F06608124678}", 
+      "UpdateTimestamp": {
+        "Value": "2013-06-18T08:09:00"
+      }, 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/quintiles-started-at-overweight-by-jpmorgan-2013-06-18", 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/427", 
+      "Industry": [
+        "Health-Care"
+      ], 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1116819758"
+    }, 
+    {
+      "Instrument": [
+        {
+          "AnyAttr": [], 
+          "Ticker": "Q", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "AnyAttr": [], 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "Author": "", 
+      "Headline": "Quintiles Inc Started at Hold by Jefferies", 
+      "Issue": [
+        "Analyst"
+      ], 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "Quintiles Inc Started at Hold by Jefferies", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2013-06-18T01:30:00"
+      }, 
+      "Region": [
+        "EU", 
+        "Europe", 
+        "US"
+      ], 
+      "Provider": "Dow Jones Newswires", 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{20C0C425-42D4-34F2-D124-F0660725EE51}", 
+      "UpdateTimestamp": {
+        "Value": "2013-06-18T01:30:00"
+      }, 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/quintiles-inc-started-at-hold-by-jefferies-2013-06-18", 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/427", 
+      "Industry": [
+        "Health-Care"
+      ], 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1116789460"
+    }, 
+    {
+      "Instrument": [
+        {
+          "AnyAttr": [], 
+          "Ticker": "Q", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "AnyAttr": [], 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "Author": "", 
+      "Headline": "Quintiles Started at Underperform by Sterne Agee", 
+      "Issue": [
+        "Analyst"
+      ], 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "Quintiles Started at Underperform by Sterne Agee", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2013-06-11T17:22:00"
+      }, 
+      "Region": [
+        "US"
+      ], 
+      "Provider": "Dow Jones Newswires", 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{20C0C425-42D4-34F2-D124-F05F5CC41CBD}", 
+      "UpdateTimestamp": {
+        "Value": "2013-06-11T17:36:00"
+      }, 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/quintiles-started-at-underperform-by-sterne-agee-2013-06-11", 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/427", 
+      "Industry": [
+        "Health-Care"
+      ], 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1116245940"
+    }, 
+    {
+      "Instrument": [
+        {
+          "Ticker": "BRSS", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "PassingMention"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "Ticker": "CSTM", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "PassingMention"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "Ticker": "DATA", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "PassingMention"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "Ticker": "FB", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "PassingMention"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "Ticker": "MKTO", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "PassingMention"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "Q", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "VOYA", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "SeoHeadline": "IPO in May and\u2026Do More IPOs in June", 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "AnyAttr": [], 
+      "Author": "Telis Demos", 
+      "Headline": "IPO in May and\u2026Do More IPOs in June", 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "#text": "Today marks the end of an extremely busy month for U.S. initial public offerings. May saw 28 IPOs on U.S. exchanges, the most in any month since November 2007, according to Dealogic.", 
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "IPO in May and\u2026Do More IPOs in June", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2013-05-31T17:07:00"
+      }, 
+      "ExternalLink": "http://blogs.wsj.com/moneybeat/2013/05/31/ipo-in-may-and-do-more-ipos-in-june/", 
+      "Provider": "WSJ Blogs", 
+      "Keywords": [
+        "CAPITAL_MARKETS", 
+        "DEALS", 
+        "EQUITY_CAPITAL_MARKETS", 
+        "IPOS", 
+        "MARKETS", 
+        "STOCKS", 
+        "TECH_STOCKS", 
+        "U_S"
+      ], 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{30E03424-C2D4-D424-22D8-792A5FB32B87}", 
+      "UpdateTimestamp": {
+        "Value": "2013-05-31T17:07:00"
+      }, 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/424", 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/ipo-in-may-anddo-more-ipos-in-june-2013-05-31", 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1115263789"
+    }, 
+    {
+      "Instrument": [
+        {
+          "AnyAttr": [], 
+          "Ticker": "ARPI", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "CYNI", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "PFSI", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "Q", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "RCPT", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "TSC", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "SeoHeadline": "Quintiles Rises on Busy Morning for Firms Trading After IPOs", 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "AnyAttr": [], 
+      "Author": "Matthew Jarzemsky", 
+      "Headline": "Quintiles Rises on Busy Morning for Firms Trading After IPOs", 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "#text": "On a busy morning for initial public offerings, pharmaceutical-services firm Quintiles Transnational, got off to a strong start but it was a less auspicious opening for other names at their debut.", 
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "Quintiles Rises on Busy Morning for Firms Trading After IPOs", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2013-05-09T11:39:00"
+      }, 
+      "ExternalLink": "http://blogs.wsj.com/moneybeat/2013/05/09/quintiles-rises-on-busy-morning-for-firms-trading-after-ipos/", 
+      "Provider": "WSJ Blogs", 
+      "Keywords": [
+        "AMERICAN_RESIDENTIAL", 
+        "IPOS", 
+        "MARKETS", 
+        "QUINTILES_TRANSNATIONAL", 
+        "STOCKS"
+      ], 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{30E03424-C2D4-D424-22D4-D138334219CB}", 
+      "UpdateTimestamp": {
+        "Value": "2013-05-09T12:54:00"
+      }, 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/424", 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/quintiles-rises-on-busy-morning-for-firms-trading-after-ipos-2013-05-09-11424370", 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1113276923"
+    }
+  ]
+}

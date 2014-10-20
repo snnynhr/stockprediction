@@ -1,0 +1,772 @@
+{
+  "Headlines": [
+    {
+      "Instrument": [
+        {
+          "Ticker": "CCS", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "PassingMention"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "Ticker": "CTX", 
+          "AnyAttr": [], 
+          "Type": [
+            {
+              "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+              "name": "PassingMention"
+            }
+          ], 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "SeoHeadline": "U.S. Home Size Levels Off, for Now at Least", 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "AnyAttr": [], 
+      "Author": "Kris Hudson", 
+      "Headline": "U.S. Home Size Levels Off, for Now at Least", 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "#text": "The two-year trend of big houses getting even bigger appears to have peaked\u2014at least for now\u2014as more buyers seeking modest homes enter the market.", 
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "U.S. Home Size Levels Off, for Now at Least", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2014-08-19T15:35:00"
+      }, 
+      "ExternalLink": "http://online.wsj.com/articles/u-s-home-size-levels-off-for-now-at-least-1408476927", 
+      "Provider": "The Wall Street Journal Interactive Edition", 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{aaddd992-27cb-11e4-b458-01212804637c}", 
+      "UpdateTimestamp": {
+        "Value": "2014-08-19T20:02:00"
+      }, 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/425", 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/us-home-size-levels-off-for-now-at-least-2014-08-19", 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1153103550"
+    }, 
+    {
+      "Instrument": [
+        {
+          "AnyAttr": [], 
+          "Ticker": "PHM", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "CTX", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "AnyAttr": [], 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "Author": "Michael Corkery", 
+      "Headline": "Pulte to Buy Centex in Housing Bet", 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "#text": "Pulte Homes plans to buy Centex in a $1.3 billion stock deal that would create the largest U.S. home builder.", 
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "Pulte to Buy Centex in Housing Bet", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2009-04-09T00:01:00"
+      }, 
+      "Provider": "The Wall Street Journal Interactive Edition", 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{1040F534-21B8-3F47-FBCE-0A1B9BCF43BA}", 
+      "UpdateTimestamp": {
+        "Value": "2012-06-26T15:46:00"
+      }, 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/pulte-to-buy-centex-in-housing-bet-2009-04-09", 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/425", 
+      "Industry": [
+        "Real Estate"
+      ], 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1080332434"
+    }, 
+    {
+      "Instrument": [
+        {
+          "AnyAttr": [], 
+          "Ticker": "AA", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "CTX", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "FDO", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "ROK", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "PHM", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "BBBY", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "MET", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "LNC", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "HIG", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "MOS", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "RJF", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "AnyAttr": [], 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "Author": "Rob Curran", 
+      "Headline": "Centex, Family Dollar Pace Consumer Gains", 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "#text": "U.S. stocks rose Wednesday as investors looked past Alcoa's inauspicious start to earnings season and bought consumer stocks.", 
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "Centex, Family Dollar Pace Consumer Gains", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2009-04-09T00:01:00"
+      }, 
+      "Provider": "The Wall Street Journal Interactive Edition", 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{1040F534-21B8-4347-04DC-BCE5D308F51A}", 
+      "UpdateTimestamp": {
+        "Value": "2012-06-26T15:40:00"
+      }, 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/425", 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/centex-family-dollar-pace-consumer-gains-2009-04-08", 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1080331326"
+    }, 
+    {
+      "Instrument": [
+        {
+          "AnyAttr": [], 
+          "Ticker": "FDO", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "BBBY", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "HD", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "AA", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "R", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "HIG", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "GNW", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "LNC", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "PHM", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "CTX", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "AnyAttr": [], 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "Author": "Peter A. McKay", 
+      "Headline": "Retailers Lead Stocks Higher", 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "#text": "Stocks halted a two-day skid as hopes that retailers will report improved sales trumped worries about economic growth. Home Depot rose 3.1%.", 
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "Retailers Lead Stocks Higher", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2009-04-08T16:43:00"
+      }, 
+      "Provider": "The Wall Street Journal Interactive Edition", 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{1040F534-21B8-3F6F-BA52-DBEBB2E8834B}", 
+      "UpdateTimestamp": {
+        "Value": "2012-06-26T15:26:00"
+      }, 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/425", 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/retailers-lead-stocks-higher-2009-04-08", 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1080328406"
+    }, 
+    {
+      "Instrument": [
+        {
+          "AnyAttr": [], 
+          "Ticker": "PHM", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "KBH", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "CTX", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "AnyAttr": [], 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "Author": "Michael Corkery", 
+      "Headline": "Foreclosed Houses Haunt Home Builders", 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "#text": "Home builders face competition from foreclosures. Small builders are dying by the dozens, while some large ones are staying afloat by cutting expenses.", 
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "Foreclosed Houses Haunt Home Builders", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2009-03-11T23:59:00"
+      }, 
+      "Provider": "The Wall Street Journal Interactive Edition", 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{1040F534-21B7-5FAC-2052-CB9FF5378222}", 
+      "UpdateTimestamp": {
+        "Value": "2012-06-26T16:20:00"
+      }, 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/foreclosed-houses-haunt-home-builders-2009-03-11", 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/425", 
+      "Industry": [
+        "Real Estate"
+      ], 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1080340158"
+    }, 
+    {
+      "AnyAttr": [], 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "Instrument": [
+        {
+          "AnyAttr": [], 
+          "Ticker": "CTX", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "Headline": "Downgrades Hit Horton and Centex", 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "#text": "A Wall Street analyst downgraded D.R. Horton Inc. and Centex Corp. Tuesday amid concerns that home builders will face tough competition from foreclosed properties. Credit Suisse analyst Dan Oppenheim downgraded Horton to \"underperform,\" sending its stock down 73 cents, or 9.1%, to $7.32. Mr. Oppenheim also downgraded Centex to \"neutral,\" citing concerns about the builder's leverage. Centex fell 9.9% to $5.31.", 
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "Downgrades Hit Horton and Centex", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2009-03-04T00:01:00"
+      }, 
+      "Provider": "The Wall Street Journal Interactive Edition", 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{1040F534-21B7-2A80-A823-0919D5009AE8}", 
+      "UpdateTimestamp": {
+        "Value": "2012-06-26T15:52:00"
+      }, 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/425", 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/downgrades-hit-horton-and-centex-2009-03-04", 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1080333680"
+    }, 
+    {
+      "AnyAttr": [], 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "Instrument": [
+        {
+          "AnyAttr": [], 
+          "Ticker": "BAC", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "C", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "GE", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "GM", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "KO", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "USB", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "WFC", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "STT", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "OZM", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "MTH", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "CTX", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "BZH", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "LEN", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "SIRI", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "Headline": "Selloff in financial shares eases", 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "#text": "U.S. stocks made an abrupt about-face in late trading, ending little changed, as a selloff in the financial sector relented amid reports that the U.S. is working to subsidize some mortgage payments.", 
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "Selloff in financial shares eases", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2009-02-13T00:01:00"
+      }, 
+      "Provider": "The Wall Street Journal Interactive Edition", 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{1040F534-21B6-931F-A7F1-D1B19759E8D3}", 
+      "UpdateTimestamp": {
+        "Value": "2012-06-26T15:35:00"
+      }, 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/425", 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/selloff-in-financial-shares-eases-2009-02-12", 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1080330216"
+    }, 
+    {
+      "Instrument": [
+        {
+          "AnyAttr": [], 
+          "Ticker": "XHB", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "CTX", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "BZH", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }, 
+        {
+          "AnyAttr": [], 
+          "Ticker": "HOV", 
+          "Any": [], 
+          "Exchange": {
+            "AnyAttr": [], 
+            "Any": [], 
+            "CountryCode": "US"
+          }
+        }
+      ], 
+      "AnyAttr": [], 
+      "TrackName": {
+        "ns": "http://service.marketwatch.com/ws/2005/09/newscloud/display", 
+        "name": "_x005F_x0031_02"
+      }, 
+      "Author": "Tennille Tracy", 
+      "Headline": "Traders Focus on S&P Home-Builders ETF", 
+      "Abstract": {
+        "ABSTRACT": {
+          "@xmlns": "", 
+          "PARAGRAPH": {
+            "#text": "With a raft of new housing data expected this week, options traders took positions in a fund that tracks home-builder stocks.", 
+            "@TYPE": "NORMAL"
+          }
+        }
+      }, 
+      "SubChannel2": "", 
+      "Any": [], 
+      "BodyHeadline": "Traders Focus on S&P Home-Builders ETF", 
+      "Channel2": "", 
+      "CreateTimestamp": {
+        "Value": "2008-06-24T00:01:00"
+      }, 
+      "Provider": "The Wall Street Journal Interactive Edition", 
+      "DocumentGuidUri": "http://system.marketwatch.com/newscloud/docguid/{1040F534-21AF-656A-8DEF-4209732DEDD0}", 
+      "UpdateTimestamp": {
+        "Value": "2012-06-26T16:19:00"
+      }, 
+      "DocumentTypeUri": "http://system.marketwatch.com/newscloud/doctype/425", 
+      "DocumentSEOUri": "http://system.marketwatch.com/newscloud/seo/traders-focus-on-sp-home-builders-etf-2008-06-24", 
+      "DocumentIdUri": "http://system.marketwatch.com/newscloud/docid/1080340054"
+    }
+  ]
+}
