@@ -20,6 +20,6 @@ for stock in stockList:
     for date in stockjson:
         if stock in stockjson[date]['endOfDayP']:
             d[date] = stockjson[date]['endOfDayP'][stock]
-    jfile.write(stock + " " + json.dumps(d, sort_keys = True))
+    jfile.write(stock + " " + json.dumps(d, sort_keys = True) + '\n')
 
 jfile.close()
