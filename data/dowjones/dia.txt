@@ -1,15 +1,15 @@
 UTX.json exists already
 AGN.json exists already
-fetching headlines ofLIFE... 200
+LIFE.json exists already
 EOG.json exists already
 WLP.json exists already
 CPB.json exists already
 V.json exists already
-fetching headlines ofNYX... 200
+NYX.json exists already
 NYT.json exists already
 YUM.json exists already
 JWN.json exists already
-fetching headlines ofSII... 200
+SII.json exists already
 WB.json exists already
 TAP.json exists already
 QLGC.json exists already
@@ -19,25 +19,28 @@ SPG.json exists already
 FIS.json exists already
 GT.json exists already
 GIS.json exists already
-fetching headlines ofGR... 200
+GR.json exists already
 MJN.json exists already
 ROP.json exists already
-fetching headlines ofGE... 500
+fetching headlines ofGE...
+GE with 3125
 GD.json exists already
 AMP.json exists already
 VAR.json exists already
-fetching headlines ofAMZN... 500
+fetching headlines ofAMZN...
+AMZN with 3125
 FII.json exists already
 JNS.json exists already
 MAS.json exists already
 MAR.json exists already
 MAT.json exists already
 SNA.json exists already
-fetching headlines ofJNY... 200
+fetching headlines ofJNY...
 SNI.json exists already
 XRAY.json exists already
-fetching headlines ofTLAB... 200
-fetching headlines ofJNJ... 500
+fetching headlines ofTLAB...
+fetching headlines ofJNJ...
+JNJ with 3125
 XYL.json exists already
 TSN.json exists already
 TSO.json exists already
@@ -45,7 +48,7 @@ BEN.json exists already
 CMI.json exists already
 DISCA.json exists already
 CMG.json exists already
-fetching headlines ofPCS... 200
+fetching headlines ofPCS...
 CME.json exists already
 DTE.json exists already
 PCL.json exists already
@@ -55,566 +58,628 @@ KBH.json exists already
 VLO.json exists already
 HUM.json exists already
 APOL.json exists already
-fetching headlines ofLSI... 200
+fetching headlines ofLSI...
 PCLN.json exists already
-fetching headlines ofFSLR... 200
-fetching headlines ofWFMI... 200
-fetching headlines ofHCP... 200
-fetching headlines ofFTR... 200
-fetching headlines ofPEG... 200
-fetching headlines ofK... 200
-fetching headlines ofFFIV... 200
-fetching headlines ofBLL... 200
-fetching headlines ofORLY... 200
-fetching headlines ofBLK... 200
-fetching headlines ofFTI... 200
-fetching headlines ofHCN... 200
-fetching headlines ofNFX... 200
-fetching headlines ofMA... 200
-fetching headlines ofCBG... 200
-fetching headlines ofCBE... 200
-fetching headlines ofPRGO... 200
-fetching headlines ofMO... 500
-fetching headlines ofMI... 200
-fetching headlines ofNOC... 200
-fetching headlines ofMU... 200
-fetching headlines ofCBS... 200
-fetching headlines ofNDAQ... 200
-fetching headlines ofSE... 200
-fetching headlines ofMS... 500
-fetching headlines ofTJX... 200
-fetching headlines ofNOV... 200
-fetching headlines ofAKS... 200
-fetching headlines ofCTX... 200
-fetching headlines ofAMGN... 200
-fetching headlines ofCOST... 200
-fetching headlines ofFE... 200
-fetching headlines ofCTL... 200
-fetching headlines ofADBE... 200
-fetching headlines ofDOV... 200
-fetching headlines ofDOW... 200
-fetching headlines ofMSFT... 200
-fetching headlines ofGLW... 200
-fetching headlines ofSCHW... 200
-fetching headlines ofBSX... 200
-fetching headlines ofGGP... 200
-fetching headlines ofFCX... 200
-fetching headlines ofHSP... 200
-fetching headlines ofBDX... 200
-fetching headlines ofWHR... 200
-fetching headlines ofBBBY... 200
-fetching headlines ofMDP... 200
-fetching headlines ofJAVA... 200
-fetching headlines ofMDT... 200
-fetching headlines ofBSC... 200
-fetching headlines ofLTR... 200
-fetching headlines ofZMH... 200
-fetching headlines ofF... 500
-fetching headlines ofDFS... 200
-fetching headlines ofKRFT... 200
-fetching headlines ofJEC... 200
-fetching headlines ofLTD... 200
-fetching headlines ofXTO... 200
-fetching headlines ofFMC... 200
-fetching headlines ofMPC... 200
-fetching headlines ofALL... 200
-fetching headlines ofNTAP... 200
-fetching headlines ofLMT... 200
-fetching headlines ofMMM... 200
-fetching headlines ofEDS... 200
-fetching headlines ofBFdotB... 200
-fetching headlines ofSO... 200
-fetching headlines ofJNPR... 200
-fetching headlines ofMMC... 200
-fetching headlines ofCTSH... 200
-fetching headlines ofDPS... 200
-fetching headlines ofIBM... 500
-fetching headlines ofBAX... 200
-fetching headlines ofCAT... 200
-fetching headlines ofCAH... 200
-fetching headlines ofBAC... 500
-fetching headlines ofCAM... 200
-fetching headlines ofGS... 200
-fetching headlines ofCAG... 200
-fetching headlines ofKFT... 200
-fetching headlines ofPGN... 200
-fetching headlines ofLO... 200
-fetching headlines ofLM... 200
-fetching headlines ofTE... 200
-fetching headlines ofLH... 200
-fetching headlines ofDYN... 200
-fetching headlines ofPGR... 200
-fetching headlines ofHIG... 200
-fetching headlines ofCELG... 200
-fetching headlines ofA... 200
-fetching headlines ofABC... 200
-fetching headlines ofZION... 200
-fetching headlines ofABI... 200
-fetching headlines ofABK... 200
-fetching headlines ofSTI... 200
-fetching headlines ofSTJ... 200
-fetching headlines ofWEN... 200
-fetching headlines ofSTT... 200
-fetching headlines ofABT... 200
-fetching headlines ofBRKdotB... 200
-fetching headlines ofSTR... 200
-fetching headlines ofXOM... 500
-fetching headlines ofSTX... 200
-fetching headlines ofSTZ... 200
-fetching headlines ofNSM... 200
-fetching headlines ofBHI... 200
-fetching headlines ofRSH... 200
-fetching headlines ofCIEN... 200
-fetching headlines ofRSG... 200
-fetching headlines ofCFC... 200
-fetching headlines ofPNW... 200
-fetching headlines ofAVB... 200
-fetching headlines ofPNC... 200
-fetching headlines ofNCC... 200
-fetching headlines ofMIL... 200
-fetching headlines ofVFC... 200
-fetching headlines ofFNM... 200
-fetching headlines ofGM... 200
-fetching headlines ofLIZ... 200
-fetching headlines ofSAI... 200
-fetching headlines ofAOC... 200
-fetching headlines ofAON... 200
-fetching headlines ofRX... 200
-fetching headlines ofSAF... 200
-fetching headlines ofRAI... 200
-fetching headlines ofPRU... 200
-fetching headlines ofRF... 200
-fetching headlines ofRL... 200
-fetching headlines ofURBN... 200
-fetching headlines ofAYE... 200
-fetching headlines ofCHK... 200
-fetching headlines ofL... 200
-fetching headlines ofHRS... 200
-fetching headlines ofHRL... 200
-fetching headlines ofMRO... 200
-fetching headlines ofMRK... 200
-fetching headlines ofHRB... 200
-fetching headlines ofVIA... 200
-fetching headlines ofIPG... 200
-fetching headlines ofIACI... 200
-fetching headlines ofRHT... 200
-fetching headlines ofTYC... 200
-fetching headlines ofRHI... 200
-fetching headlines ofAPH... 200
-fetching headlines ofROST... 200
-fetching headlines ofAPC... 200
-fetching headlines ofAPA... 200
-fetching headlines ofAPD... 200
-fetching headlines ofNWS.A... 200
-fetching headlines ofKSS... 200
-fetching headlines ofWFM... 200
-fetching headlines ofWFC... 200
-fetching headlines ofIFF... 200
-fetching headlines ofNVDA... 200
-fetching headlines ofWFR... 200
-fetching headlines ofWFT... 200
-fetching headlines ofCEG... 200
-fetching headlines ofBMC... 200
-fetching headlines ofLUK... 200
-fetching headlines ofRTN... 200
-fetching headlines ofBMS... 200
-fetching headlines ofBMY... 200
-fetching headlines ofAFL... 200
-fetching headlines ofEL... 200
-fetching headlines ofPAYX... 200
-fetching headlines ofOXY... 200
-fetching headlines ofEK... 200
-fetching headlines ofSHW... 200
-fetching headlines ofGCI... 200
-fetching headlines ofED... 200
-fetching headlines ofEA... 200
-fetching headlines ofCSC... 200
-fetching headlines ofCSX... 200
-fetching headlines ofEW... 200
-fetching headlines ofEQ... 200
-fetching headlines ofEP... 200
-fetching headlines ofBTU... 200
-fetching headlines ofQ... 200
-fetching headlines ofSSP... 200
-fetching headlines ofCZN... 200
-fetching headlines ofLUV... 200
-fetching headlines ofMUR... 200
-fetching headlines ofATI... 200
-fetching headlines ofHPC... 200
-fetching headlines ofWYE... 200
-fetching headlines ofWYN... 200
-fetching headlines ofSYMC... 200
-fetching headlines ofADSK... 200
-fetching headlines ofERTS... 200
-fetching headlines ofWPX... 200
-fetching headlines ofECL... 200
-fetching headlines ofSNDK... 200
-fetching headlines ofMTG... 200
-fetching headlines ofSEE... 200
-fetching headlines ofWPO... 200
-fetching headlines ofWPI... 200
-fetching headlines ofHAR... 200
-fetching headlines ofDGX... 200
-fetching headlines ofNUE... 200
-fetching headlines ofPCP... 200
-fetching headlines ofEXPE... 200
-fetching headlines ofEXPD... 200
-fetching headlines ofUNP... 200
-fetching headlines ofCFN... 200
-fetching headlines ofETFC... 200
-fetching headlines ofDUK... 200
-fetching headlines ofXL... 200
-fetching headlines ofCLF... 200
-fetching headlines ofR... 200
-fetching headlines ofCLX... 200
-fetching headlines ofCMA... 200
-fetching headlines ofBBY... 500
-fetching headlines ofUNH... 200
-fetching headlines ofGENZ... 200
-fetching headlines ofBBT... 200
-fetching headlines ofUNM... 200
-fetching headlines ofOMC... 200
-fetching headlines ofNOVL... 200
-fetching headlines ofKG... 200
-fetching headlines ofHP... 200
-fetching headlines ofKO... 200
-fetching headlines ofVMC... 200
-fetching headlines ofKR... 200
-fetching headlines ofLNC... 200
-fetching headlines ofKEY... 200
-fetching headlines ofITW... 200
-fetching headlines ofITT... 200
-fetching headlines ofOMX... 200
-fetching headlines ofKLAC... 200
-fetching headlines ofMOLX... 200
-fetching headlines ofDO... 200
-fetching headlines ofSWK... 200
-fetching headlines ofPNR... 200
-fetching headlines ofWYNN... 200
-fetching headlines ofCERN... 200
-fetching headlines ofSWN... 200
-fetching headlines ofDF... 200
-fetching headlines ofDG... 200
-fetching headlines ofDD... 200
-fetching headlines ofDE... 200
-fetching headlines ofSWY... 200
-fetching headlines ofDV... 200
-fetching headlines ofFRE... 200
-fetching headlines ofTGT... 500
-fetching headlines ofHBAN... 200
-fetching headlines ofBIG... 200
-fetching headlines ofBIIB... 200
-fetching headlines ofPCG... 200
-fetching headlines ofPOM... 200
-fetching headlines ofAKAM... 200
-fetching headlines ofDHI... 200
-fetching headlines ofM... 200
-fetching headlines ofINTU... 200
-fetching headlines ofSLM... 200
-fetching headlines ofALXN... 200
-fetching headlines ofSLE... 200
-fetching headlines ofDHR... 200
-fetching headlines ofSLB... 200
-fetching headlines ofMCO... 200
-fetching headlines ofJPM... 200
-fetching headlines ofMCD... 500
-fetching headlines ofNRG... 200
-fetching headlines ofPBCT... 200
-fetching headlines ofVTR... 200
-fetching headlines ofAXP... 500
-fetching headlines ofNFLX... 200
-fetching headlines ofEXC... 200
-fetching headlines ofAAPL... 200
-fetching headlines ofDNR... 200
-fetching headlines ofSRCL... 200
-fetching headlines ofWU... 200
-fetching headlines ofWY... 200
-fetching headlines ofFRX... 200
-fetching headlines ofVNO... 200
-fetching headlines ofTRIP... 200
-fetching headlines ofCCU... 200
-fetching headlines ofSPLS... 200
-fetching headlines ofHST... 200
-fetching headlines ofRIG... 200
-fetching headlines ofHSY... 200
-fetching headlines ofDLPH... 200
-fetching headlines ofWEC... 200
-fetching headlines ofHAL... 200
-fetching headlines ofFITB... 200
-fetching headlines ofEQR... 200
-fetching headlines ofEQT... 200
-fetching headlines ofGPC... 200
-fetching headlines ofBNI... 200
-fetching headlines ofX... 200
-fetching headlines ofXLNX... 200
-fetching headlines ofHAS... 200
-fetching headlines ofTHC... 200
-fetching headlines ofPH... 200
-fetching headlines ofGPS... 200
-fetching headlines ofPHM... 200
-fetching headlines ofSYK... 200
-fetching headlines ofLEH... 200
-fetching headlines ofBRCM... 500
-fetching headlines ofKIM... 200
-fetching headlines ofSYY... 200
-fetching headlines ofNVLS... 200
-fetching headlines ofLXK... 200
-fetching headlines ofAEP... 200
-fetching headlines ofAES... 200
-fetching headlines ofAET... 200
-fetching headlines ofEMC... 500
-fetching headlines ofEMN... 200
-fetching headlines ofGRMN... 200
-fetching headlines ofESRX... 200
-fetching headlines ofAMAT... 200
-fetching headlines ofIGT... 200
-fetching headlines ofAEE... 200
-fetching headlines ofCTAS... 200
-fetching headlines ofEMR... 200
-fetching headlines ofFDX... 200
-fetching headlines ofCRM... 200
-fetching headlines ofMFE... 200
-fetching headlines ofNWSA... 200
-fetching headlines ofPX... 200
-fetching headlines ofPG... 500
-fetching headlines ofCTXS... 200
-fetching headlines ofBUD... 200
-fetching headlines ofPM... 200
-fetching headlines ofEFX... 200
-fetching headlines ofC... 500
-fetching headlines ofDDS... 200
-fetching headlines ofDDR... 200
-fetching headlines ofS... 200
-fetching headlines ofQCOM... 500
-fetching headlines ofXRX... 200
-fetching headlines ofMHS... 200
-fetching headlines ofMHP... 200
-fetching headlines ofANF... 200
-fetching headlines ofMOS... 200
-fetching headlines ofPSA... 200
-fetching headlines ofWWY... 200
-fetching headlines ofVIA.B... 200
-fetching headlines ofMOT... 200
-fetching headlines ofPSX... 200
-fetching headlines ofMON... 200
-fetching headlines ofJOY... 200
-fetching headlines ofMCHP... 200
-fetching headlines ofALTR... 200
-fetching headlines ofETR... 200
-fetching headlines ofCOP... 500
-fetching headlines ofDVN... 200
-fetching headlines ofKMB... 200
-fetching headlines ofCOV... 200
-fetching headlines ofDVA... 200
-fetching headlines ofKMI... 200
-fetching headlines ofGWW... 200
-fetching headlines ofFISV... 200
-fetching headlines ofCOG... 200
-fetching headlines ofCOF... 200
-fetching headlines ofCOH... 200
-fetching headlines ofTMK... 200
-fetching headlines ofETN... 200
-fetching headlines ofCOL... 200
-fetching headlines ofBCR... 200
-fetching headlines ofTMO... 200
-fetching headlines ofMSI... 200
-fetching headlines ofFDO... 200
-fetching headlines ofDLTR... 200
-fetching headlines ofQEP... 200
-fetching headlines ofCI... 200
-fetching headlines ofJDSU... 200
-fetching headlines ofSRE... 200
-fetching headlines ofWAG... 200
-fetching headlines ofCB... 200
-fetching headlines ofCA... 200
-fetching headlines ofCF... 200
-fetching headlines ofCEPH... 200
-fetching headlines ofWAT... 200
-fetching headlines ofCHRW... 200
-fetching headlines ofTDC... 200
-fetching headlines ofSBUX... 200
-fetching headlines ofPLD... 200
-fetching headlines ofBJS... 200
-fetching headlines ofHCBK... 200
-fetching headlines ofPLL... 200
-fetching headlines ofCL... 200
-fetching headlines ofCBH... 200
-fetching headlines ofCMCSA... 200
-fetching headlines ofFHN... 200
-fetching headlines ofMKC... 200
-fetching headlines ofGNW... 200
-fetching headlines ofCVX... 500
-fetching headlines ofAIZ... 200
-fetching headlines ofBXP... 200
-fetching headlines ofAIV... 200
-fetching headlines ofCVS... 200
-fetching headlines ofLOW... 200
-fetching headlines ofCVH... 200
-fetching headlines ofCVG... 200
-fetching headlines ofAIG... 200
-fetching headlines ofCVC... 200
-fetching headlines ofDIS... 500
-fetching headlines ofPPG... 200
-fetching headlines ofMBI... 200
-fetching headlines ofMNST... 200
-fetching headlines ofNSC... 200
-fetching headlines ofGAS... 200
-fetching headlines ofPPL... 200
-fetching headlines ofSOV... 200
-fetching headlines ofOKE... 200
-fetching headlines ofGOOG... 200
-fetching headlines ofJCP... 500
-fetching headlines ofIP... 200
-fetching headlines ofHPQ... 500
-fetching headlines ofIR... 200
-fetching headlines ofMTW... 200
-fetching headlines ofIRM... 200
-fetching headlines ofMTB... 200
-fetching headlines ofVZ... 500
-fetching headlines ofJCI... 200
-fetching headlines ofPWR... 200
-fetching headlines ofCSCO... 500
-fetching headlines ofARG... 200
-fetching headlines ofWDC... 200
-fetching headlines ofBA... 200
-fetching headlines ofBC... 200
-fetching headlines ofJBL... 200
-fetching headlines ofBK... 200
-fetching headlines ofDRI... 200
-fetching headlines ofCCL... 200
-fetching headlines ofCCI... 200
-fetching headlines ofCCE... 200
-fetching headlines ofTIE... 200
-fetching headlines ofTIF... 200
-fetching headlines ofSHLD... 200
-fetching headlines ofFLIR... 200
-fetching headlines ofUIS... 200
-fetching headlines ofMYL... 200
-fetching headlines ofLYB... 200
-fetching headlines ofSIAL... 200
-fetching headlines ofD... 200
-fetching headlines ofPEP... 200
-fetching headlines ofBF.B... 200
-fetching headlines ofWMT... 500
-fetching headlines ofWMI... 200
-fetching headlines ofT... 500
-fetching headlines ofWMB... 200
-fetching headlines ofSVU... 200
-fetching headlines ofVRSN... 200
-fetching headlines ofOI... 200
-fetching headlines ofCINF... 200
-fetching headlines ofNTRS... 200
-fetching headlines ofAA... 200
-fetching headlines ofMWW... 200
-fetching headlines ofMWV... 200
-fetching headlines ofHOG... 200
-fetching headlines ofFLS... 200
-fetching headlines ofFLR... 200
-fetching headlines ofHD... 200
-fetching headlines ofROH... 200
-fetching headlines ofLLY... 200
-fetching headlines ofHNZ... 200
-fetching headlines ofINTC... 500
-fetching headlines ofBRK.B... 200
-fetching headlines ofSCG... 200
-fetching headlines ofAMD... 500
-fetching headlines ofLLL... 200
-fetching headlines ofNWL... 200
-fetching headlines ofPTV... 200
-fetching headlines ofFO... 200
-fetching headlines ofAMT... 200
-fetching headlines ofLRCX... 200
-fetching headlines ofASH... 200
-fetching headlines ofBDK... 200
-fetching headlines ofKMX... 200
-fetching headlines ofPBG... 200
-fetching headlines ofICE... 200
-fetching headlines ofYHOO... 500
-fetching headlines ofPBI... 200
-fetching headlines ofUPS... 200
-fetching headlines ofTRV... 200
-fetching headlines ofAVY... 200
-fetching headlines ofBEAM... 200
-fetching headlines ofAVP... 200
-fetching headlines ofMDLZ... 200
-fetching headlines ofIVZ... 200
-fetching headlines ofCPWR... 200
-fetching headlines ofNEM... 200
-fetching headlines ofFOSL... 200
-fetching headlines ofACE... 200
-fetching headlines ofSUN... 200
-fetching headlines ofNEE... 200
-fetching headlines ofACN... 200
-fetching headlines ofACS... 200
-fetching headlines ofETFCD... 200
-fetching headlines ofACAS... 200
-fetching headlines ofNI... 200
-fetching headlines ofTEL... 200
-fetching headlines ofODP... 200
-fetching headlines ofNBR... 200
-fetching headlines ofRRD... 200
-fetching headlines ofRRC... 200
-fetching headlines ofNE... 200
-fetching headlines ofFAST... 200
-fetching headlines ofTEG... 200
-fetching headlines ofTEX... 200
-fetching headlines ofNBL... 200
-fetching headlines ofTER... 200
-fetching headlines ofNU... 200
-fetching headlines ofADT... 200
-fetching headlines ofLLTC... 200
-fetching headlines ofADP... 200
-fetching headlines ofDNB... 200
-fetching headlines ofGILD... 200
-fetching headlines ofGME... 200
-fetching headlines ofRDC... 200
-fetching headlines ofSJM... 200
-fetching headlines ofMCK... 200
-fetching headlines ofADM... 200
-fetching headlines ofADI... 200
-fetching headlines ofMEE... 200
-fetching headlines ofVIAB... 200
-fetching headlines ofLEG... 200
-fetching headlines ofXEL... 200
-fetching headlines ofWIN... 200
-fetching headlines ofLEN... 200
-fetching headlines ofEBAY... 200
-fetching headlines ofMET... 200
-fetching headlines ofBRL... 200
-fetching headlines ofMER... 200
-fetching headlines ofTWC... 200
-fetching headlines ofUSB... 200
-fetching headlines ofAZO... 200
-fetching headlines ofUST... 200
-fetching headlines ofPDCO... 200
-fetching headlines ofCIT... 200
-fetching headlines ofTWX... 200
-fetching headlines ofPCAR... 200
-fetching headlines ofTXN... 500
-fetching headlines ofPETM... 200
-fetching headlines ofSGP... 200
-fetching headlines ofTT... 200
-fetching headlines ofHES... 200
-fetching headlines ofCC... 200
-fetching headlines ofORCL... 500
-fetching headlines ofTXT... 200
-fetching headlines ofPXD... 200
-fetching headlines ofEIX... 200
-fetching headlines ofESV... 200
-fetching headlines ofPKI... 200
-fetching headlines ofCNP... 200
-fetching headlines ofHON... 200
-fetching headlines ofFPL... 200
-fetching headlines ofDELL... 200
-fetching headlines ofCNX... 200
-fetching headlines ofAN... 200
-fetching headlines ofABBV... 200
-fetching headlines ofHOT... 200
-fetching headlines ofROK... 200
-fetching headlines ofAW... 200
-fetching headlines ofTROW... 200
-fetching headlines ofISRG... 200
-fetching headlines ofPFE... 500
-fetching headlines ofNKE... 200
-fetching headlines ofPFG... 200
-fetching headlines ofTSS... 200
+FSLR.json exists already
+fetching headlines ofWFMI...
+HCP.json exists already
+FTR.json exists already
+PEG.json exists already
+K.json exists already
+FFIV.json exists already
+BLL.json exists already
+ORLY.json exists already
+BLK.json exists already
+FTI.json exists already
+HCN.json exists already
+NFX.json exists already
+MA.json exists already
+CBG.json exists already
+fetching headlines ofCBE...
+PRGO.json exists already
+fetching headlines ofMO...
+MO with 3125
+fetching headlines ofMI...
+NOC.json exists already
+fetching headlines ofMU...
+MU with 3125
+fetching headlines ofCBS...
+CBS with 100000
+fetching headlines ofNDAQ...
+NDAQ with 12500
+SE.json exists already
+fetching headlines ofMS...
+MS with 3125
+TJX.json exists already
+NOV.json exists already
+AKS.json exists already
+CTX.json exists already
+fetching headlines ofAMGN...
+AMGN with 3125
+COST.json exists already
+FE.json exists already
+CTL.json exists already
+fetching headlines ofADBE...
+ADBE with 100000
+DOV.json exists already
+DOW.json exists already
+fetching headlines ofMSFT...
+MSFT with 3125
+GLW.json exists already
+SCHW.json exists already
+BSX.json exists already
+GGP.json exists already
+FCX.json exists already
+HSP.json exists already
+BDX.json exists already
+WHR.json exists already
+BBBY.json exists already
+MDP.json exists already
+fetching headlines ofJAVA...
+MDT.json exists already
+fetching headlines ofBSC...
+fetching headlines ofLTR...
+ZMH.json exists already
+fetching headlines ofF...
+F with 3125
+DFS.json exists already
+KRFT.json exists already
+JEC.json exists already
+fetching headlines ofLTD...
+fetching headlines ofXTO...
+FMC.json exists already
+MPC.json exists already
+ALL.json exists already
+NTAP.json exists already
+LMT.json exists already
+MMM.json exists already
+EDS.json exists already
+fetching headlines ofBFdotB...
+SO.json exists already
+JNPR.json exists already
+MMC.json exists already
+CTSH.json exists already
+DPS.json exists already
+fetching headlines ofIBM...
+IBM with 3125
+BAX.json exists already
+fetching headlines ofCAT...
+CAT with 3125
+CAH.json exists already
+fetching headlines ofBAC...
+BAC with 3125
+CAM.json exists already
+fetching headlines ofGS...
+GS with 3125
+CAG.json exists already
+fetching headlines ofKFT...
+PGN.json exists already
+LO.json exists already
+LM.json exists already
+TE.json exists already
+LH.json exists already
+DYN.json exists already
+PGR.json exists already
+HIG.json exists already
+CELG.json exists already
+A.json exists already
+ABC.json exists already
+ZION.json exists already
+fetching headlines ofABI...
+fetching headlines ofABK...
+STI.json exists already
+STJ.json exists already
+WEN.json exists already
+STT.json exists already
+ABT.json exists already
+fetching headlines ofBRKdotB...
+STR.json exists already
+fetching headlines ofXOM...
+XOM with 3125
+STX.json exists already
+STZ.json exists already
+NSM.json exists already
+BHI.json exists already
+RSH.json exists already
+CIEN.json exists already
+RSG.json exists already
+fetching headlines ofCFC...
+PNW.json exists already
+AVB.json exists already
+PNC.json exists already
+fetching headlines ofNCC...
+MIL.json exists already
+VFC.json exists already
+fetching headlines ofFNM...
+fetching headlines ofGM...
+GM with 3125
+fetching headlines ofLIZ...
+fetching headlines ofSAI...
+fetching headlines ofAOC...
+AON.json exists already
+fetching headlines ofRX...
+fetching headlines ofSAF...
+RAI.json exists already
+PRU.json exists already
+RF.json exists already
+RL.json exists already
+URBN.json exists already
+fetching headlines ofAYE...
+CHK.json exists already
+L.json exists already
+HRS.json exists already
+HRL.json exists already
+MRO.json exists already
+MRK.json exists already
+HRB.json exists already
+fetching headlines ofVIA...
+VIA with 12500
+IPG.json exists already
+IACI.json exists already
+RHT.json exists already
+TYC.json exists already
+RHI.json exists already
+APH.json exists already
+ROST.json exists already
+APC.json exists already
+APA.json exists already
+APD.json exists already
+fetching headlines ofNWS.A...
+KSS.json exists already
+WFM.json exists already
+fetching headlines ofWFC...
+WFC with 3125
+IFF.json exists already
+NVDA.json exists already
+fetching headlines ofWFR...
+WFT.json exists already
+fetching headlines ofCEG...
+fetching headlines ofBMC...
+LUK.json exists already
+RTN.json exists already
+BMS.json exists already
+fetching headlines ofBMY...
+BMY with 3125
+AFL.json exists already
+EL.json exists already
+PAYX.json exists already
+OXY.json exists already
+fetching headlines ofEK...
+SHW.json exists already
+GCI.json exists already
+ED.json exists already
+EA.json exists already
+CSC.json exists already
+CSX.json exists already
+EW.json exists already
+fetching headlines ofEQ...
+fetching headlines ofEP...
+BTU.json exists already
+Q.json exists already
+SSP.json exists already
+fetching headlines ofCZN...
+fetching headlines ofLUV...
+LUV with 25000
+MUR.json exists already
+ATI.json exists already
+fetching headlines ofHPC...
+fetching headlines ofWYE...
+WYN.json exists already
+SYMC.json exists already
+ADSK.json exists already
+fetching headlines ofERTS...
+WPX.json exists already
+ECL.json exists already
+SNDK.json exists already
+MTG.json exists already
+SEE.json exists already
+fetching headlines ofWPO...
+fetching headlines ofWPI...
+HAR.json exists already
+DGX.json exists already
+NUE.json exists already
+PCP.json exists already
+EXPE.json exists already
+EXPD.json exists already
+UNP.json exists already
+CFN.json exists already
+ETFC.json exists already
+DUK.json exists already
+XL.json exists already
+CLF.json exists already
+R.json exists already
+CLX.json exists already
+CMA.json exists already
+fetching headlines ofBBY...
+BBY with 3125
+fetching headlines ofUNH...
+UNH with 100000
+fetching headlines ofGENZ...
+BBT.json exists already
+UNM.json exists already
+OMC.json exists already
+fetching headlines ofNOVL...
+fetching headlines ofKG...
+HP.json exists already
+fetching headlines ofKO...
+KO with 3125
+VMC.json exists already
+KR.json exists already
+LNC.json exists already
+KEY.json exists already
+ITW.json exists already
+ITT.json exists already
+fetching headlines ofOMX...
+KLAC.json exists already
+fetching headlines ofMOLX...
+DO.json exists already
+SWK.json exists already
+PNR.json exists already
+WYNN.json exists already
+CERN.json exists already
+SWN.json exists already
+DF.json exists already
+DG.json exists already
+fetching headlines ofDD...
+DD with 3125
+DE.json exists already
+SWY.json exists already
+DV.json exists already
+fetching headlines ofFRE...
+fetching headlines ofTGT...
+TGT with 3125
+HBAN.json exists already
+BIG.json exists already
+fetching headlines ofBIIB...
+BIIB with 100000
+PCG.json exists already
+POM.json exists already
+AKAM.json exists already
+DHI.json exists already
+M.json exists already
+INTU.json exists already
+SLM.json exists already
+ALXN.json exists already
+fetching headlines ofSLE...
+DHR.json exists already
+SLB.json exists already
+MCO.json exists already
+fetching headlines ofJPM...
+JPM with 3125
+fetching headlines ofMCD...
+MCD with 3125
+NRG.json exists already
+PBCT.json exists already
+VTR.json exists already
+fetching headlines ofAXP...
+AXP with 3125
+fetching headlines ofNFLX...
+NFLX with 3125
+EXC.json exists already
+fetching headlines ofAAPL...
+AAPL with 3125
+DNR.json exists already
+SRCL.json exists already
+WU.json exists already
+WY.json exists already
+fetching headlines ofFRX...
+VNO.json exists already
+TRIP.json exists already
+CCU.json exists already
+fetching headlines ofSPLS...
+SPLS with 100000
+HST.json exists already
+RIG.json exists already
+HSY.json exists already
+DLPH.json exists already
+WEC.json exists already
+HAL.json exists already
+FITB.json exists already
+EQR.json exists already
+EQT.json exists already
+GPC.json exists already
+fetching headlines ofBNI...
+X.json exists already
+XLNX.json exists already
+HAS.json exists already
+THC.json exists already
+PH.json exists already
+fetching headlines ofGPS...
+GPS with 3125
+PHM.json exists already
+SYK.json exists already
+fetching headlines ofLEH...
+fetching headlines ofBRCM...
+BRCM with 3125
+KIM.json exists already
+SYY.json exists already
+fetching headlines ofNVLS...
+LXK.json exists already
+AEP.json exists already
+AES.json exists already
+AET.json exists already
+fetching headlines ofEMC...
+EMC with 3125
+EMN.json exists already
+GRMN.json exists already
+ESRX.json exists already
+fetching headlines ofAMAT...
+AMAT with 3125
+IGT.json exists already
+AEE.json exists already
+CTAS.json exists already
+EMR.json exists already
+fetching headlines ofFDX...
+FDX with 100000
+CRM.json exists already
+fetching headlines ofMFE...
+NWSA.json exists already
+PX.json exists already
+fetching headlines ofPG...
+PG with 3125
+CTXS.json exists already
+BUD.json exists already
+PM.json exists already
+EFX.json exists already
+fetching headlines ofC...
+C with 3125
+DDS.json exists already
+DDR.json exists already
+S.json exists already
+fetching headlines ofQCOM...
+QCOM with 3125
+XRX.json exists already
+fetching headlines ofMHS...
+fetching headlines ofMHP...
+ANF.json exists already
+MOS.json exists already
+PSA.json exists already
+fetching headlines ofWWY...
+fetching headlines ofVIA.B...
+MOT.json exists already
+PSX.json exists already
+MON.json exists already
+JOY.json exists already
+MCHP.json exists already
+ALTR.json exists already
+ETR.json exists already
+fetching headlines ofCOP...
+COP with 3125
+DVN.json exists already
+KMB.json exists already
+COV.json exists already
+DVA.json exists already
+KMI.json exists already
+GWW.json exists already
+FISV.json exists already
+COG.json exists already
+COF.json exists already
+COH.json exists already
+TMK.json exists already
+ETN.json exists already
+COL.json exists already
+BCR.json exists already
+TMO.json exists already
+MSI.json exists already
+FDO.json exists already
+DLTR.json exists already
+QEP.json exists already
+CI.json exists already
+JDSU.json exists already
+SRE.json exists already
+WAG.json exists already
+CB.json exists already
+CA.json exists already
+CF.json exists already
+fetching headlines ofCEPH...
+WAT.json exists already
+CHRW.json exists already
+TDC.json exists already
+SBUX.json exists already
+PLD.json exists already
+fetching headlines ofBJS...
+HCBK.json exists already
+PLL.json exists already
+CL.json exists already
+fetching headlines ofCBH...
+fetching headlines ofCMCSA...
+CMCSA with 3125
+FHN.json exists already
+MKC.json exists already
+GNW.json exists already
+fetching headlines ofCVX...
+CVX with 3125
+AIZ.json exists already
+BXP.json exists already
+AIV.json exists already
+CVS.json exists already
+LOW.json exists already
+fetching headlines ofCVH...
+CVG.json exists already
+fetching headlines ofAIG...
+AIG with 3125
+CVC.json exists already
+fetching headlines ofDIS...
+DIS with 3125
+PPG.json exists already
+MBI.json exists already
+MNST.json exists already
+NSC.json exists already
+GAS.json exists already
+PPL.json exists already
+fetching headlines ofSOV...
+OKE.json exists already
+GOOG.json exists already
+fetching headlines ofJCP...
+JCP with 3125
+IP.json exists already
+fetching headlines ofHPQ...
+HPQ with 3125
+IR.json exists already
+MTW.json exists already
+IRM.json exists already
+MTB.json exists already
+fetching headlines ofVZ...
+VZ with 3125
+JCI.json exists already
+PWR.json exists already
+fetching headlines ofCSCO...
+CSCO with 3125
+ARG.json exists already
+WDC.json exists already
+fetching headlines ofBA...
+BA with 3125
+BC.json exists already
+JBL.json exists already
+BK.json exists already
+DRI.json exists already
+CCL.json exists already
+CCI.json exists already
+CCE.json exists already
+fetching headlines ofTIE...
+TIF.json exists already
+SHLD.json exists already
+FLIR.json exists already
+UIS.json exists already
+MYL.json exists already
+LYB.json exists already
+SIAL.json exists already
+D.json exists already
+fetching headlines ofPEP...
+PEP with 3125
+BF.B.json exists already
+fetching headlines ofWMT...
+WMT with 3125
+fetching headlines ofWMI...
+fetching headlines ofT...
+T with 3125
+WMB.json exists already
+SVU.json exists already
+VRSN.json exists already
+OI.json exists already
+CINF.json exists already
+NTRS.json exists already
+fetching headlines ofAA...
+AA with 3125
+MWW.json exists already
+MWV.json exists already
+HOG.json exists already
+FLS.json exists already
+FLR.json exists already
+fetching headlines ofHD...
+HD with 3125
+fetching headlines ofROH...
+fetching headlines ofLLY...
+LLY with 3125
+fetching headlines ofHNZ...
+fetching headlines ofINTC...
+INTC with 3125
+BRK.B.json exists already
+SCG.json exists already
+fetching headlines ofAMD...
+AMD with 3125
+LLL.json exists already
+NWL.json exists already
+fetching headlines ofPTV...
+fetching headlines ofFO...
+AMT.json exists already
+LRCX.json exists already
+ASH.json exists already
+fetching headlines ofBDK...
+KMX.json exists already
+fetching headlines ofPBG...
+ICE.json exists already
+fetching headlines ofYHOO...
+YHOO with 3125
+PBI.json exists already
+UPS.json exists already
+TRV.json exists already
+AVY.json exists already
+fetching headlines ofBEAM...
+AVP.json exists already
+MDLZ.json exists already
+IVZ.json exists already
+CPWR.json exists already
+NEM.json exists already
+FOSL.json exists already
+ACE.json exists already
+fetching headlines ofSUN...
+NEE.json exists already
+ACN.json exists already
+fetching headlines ofACS...
+fetching headlines ofETFCD...
+ACAS.json exists already
+NI.json exists already
+TEL.json exists already
+ODP.json exists already
+NBR.json exists already
+RRD.json exists already
+RRC.json exists already
+NE.json exists already
+FAST.json exists already
+TEG.json exists already
+TEX.json exists already
+NBL.json exists already
+TER.json exists already
+NU.json exists already
+ADT.json exists already
+LLTC.json exists already
+ADP.json exists already
+DNB.json exists already
+GILD.json exists already
+GME.json exists already
+RDC.json exists already
+SJM.json exists already
+MCK.json exists already
+ADM.json exists already
+ADI.json exists already
+fetching headlines ofMEE...
+VIAB.json exists already
+LEG.json exists already
+XEL.json exists already
+WIN.json exists already
+LEN.json exists already
+fetching headlines ofEBAY...
+EBAY with 3125
+MET.json exists already
+fetching headlines ofBRL...
+fetching headlines ofMER...
+TWC.json exists already
+USB.json exists already
+AZO.json exists already
+UST.json exists already
+PDCO.json exists already
+CIT.json exists already
+TWX.json exists already
+PCAR.json exists already
+fetching headlines ofTXN...
+TXN with 3125
+PETM.json exists already
+fetching headlines ofSGP...
+fetching headlines ofTT...
+HES.json exists already
+fetching headlines ofCC...
+fetching headlines ofORCL...
+ORCL with 3125
+TXT.json exists already
+PXD.json exists already
+EIX.json exists already
+ESV.json exists already
+PKI.json exists already
+CNP.json exists already
+HON.json exists already
+fetching headlines ofFPL...
+fetching headlines ofDELL...
+CNX.json exists already
+AN.json exists already
+ABBV.json exists already
+HOT.json exists already
+ROK.json exists already
+fetching headlines ofAW...
+TROW.json exists already
+ISRG.json exists already
+fetching headlines ofPFE...
+PFE with 3125
+NKE.json exists already
+PFG.json exists already
+TSS.json exists already
