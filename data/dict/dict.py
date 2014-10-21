@@ -25,6 +25,14 @@ for fname in os.listdir(dowjones):
 		map(countHeadlines, headlines)
 		jfile.close()
 
+
+print len(wordD)
+for word in wordD.keys():
+  if wordD[word] < 5:
+    del wordD[word]
+print len(wordD)
+
+
 sortedD = sorted(wordD.items(),key=(lambda (k,v):v), reverse = True)
 dictFile = open('dict.json','w')
 dictFile.write(json.dumps(sortedD))
