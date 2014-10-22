@@ -41,17 +41,19 @@ def combine(Xdict, YList, dim):
 def combineS(Xdict, YList, dim):
     X = []
     Y = []
+    D = []
     for item in YList:
         date = item[0]
+        D.append(date)
         Y.append(item[1])
         if date in Xdict:
             X.append(Xdict[date])
         else:
             X.append(dict())
-    return X, Y
+    return X, Y, D
 
 # change here for new folders
-XYdir = "../XYdata/1"
+XYdir = "../XYdata/1/full"
 Ypath = "../data/stocks/tickerStock.json"
 Xdir = "../data/dowjones"
 Yfile = open(Ypath,'r')
@@ -110,17 +112,17 @@ for line in Yfile:
             Xdict = pruneX(Xdict, start_date, end_date)
             YList = pruneY(YList, start_date, end_date)
 
-            X, Y = combineS(Xdict, YList, dim)
+            X, Y, Date = combineS(Xdict, YList, dim)
 
             #print [sum(x) for x in X]
             #print Y
             totalcount = len(Y)
             print "there are %d data points ..." % totalcount
 
-            XYpath = XYdir + '/' + stock + '.json'
-            XYfile = open(XYpath, 'w')
+            XYPath = XYdir + '/' + stock + '.json'
+            XYfile = open(XYPath, 'w')
             for i in xrange(totalcount):
-                XYfile.write(json.dumps((Y[i],X[i])) + '\n')
+                XYfile.write(json.dumps((Date[i],Y[i],X[i])) + '\n')
             XYfile.close()
 
         else:
