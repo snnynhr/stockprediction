@@ -1,3 +1,5 @@
+# author: Xiaote Zhu
+
 import json
 
 stockjpath = 'dayStock.json'
@@ -7,7 +9,7 @@ stockjson = json.load(stockjfile)
 stockSet = set()
 
 for date in stockjson:
-    stockSet.update(stockjson[date]['endOfDayP'].keys())
+    stockSet.update(stockjson[date].keys())
 
 stockList = sorted(stockSet)
 
@@ -18,8 +20,8 @@ for stock in stockList:
     print "reading %s ..." %stock
     d = dict()
     for date in stockjson:
-        if stock in stockjson[date]['endOfDayP']:
-            d[date] = stockjson[date]['endOfDayP'][stock]
+        if stock in stockjson[date]:
+            d[date] = stockjson[date][stock]
     jfile.write(stock + "\t" + json.dumps(d, sort_keys = True) + '\n')
 
 jfile.close()
