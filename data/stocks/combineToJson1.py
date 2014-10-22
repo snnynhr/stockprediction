@@ -3,7 +3,7 @@
 import os
 import json
 
-jfile = 'stock.json'
+jfile = 'dayStock.json'
 dirPath = 'sp08-10'
 
 D = dict()

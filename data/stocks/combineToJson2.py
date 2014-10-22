@@ -5,7 +5,7 @@ import time
 
 csvpath = "SPDaily.062313.csv"
 csvfile = open(csvpath,"r")
-jpath = "stock.json"
+jpath = "dayStock.json"
 jfile = open(jpath, "r")
 
 D = json.load(jfile)
@@ -26,7 +26,7 @@ for line in csvfile:
 		if len(columns)>=3:
 			count += 1
 	else:
-		date = time.strftime('%Y%m%d',(info[0], info[1], info[2]))
+		date = time.strftime('%Y%m%d',(int(info[0]), int(info[1]), int(info[2]), 0, 0, 0, 0, 0, 0))
 # 		priceD = dict(zip(columns[3:columnLength], map(float,info[3:columnLength])))
 		priceD = dict(map(lambda (t, p): (t, float(p)), filter(lambda (t, p): p, zip(columns[3:columnLength], info[3:columnLength]))))
 		if date not in D:
