@@ -24,4 +24,5 @@ for line in Yfile:
 			Xfile = open(Xpath, 'r')
 			XD = json.load(Xfile)
 			X = features.featureA(XD)
+			print X
 		break
