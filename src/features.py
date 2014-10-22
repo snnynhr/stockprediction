@@ -13,7 +13,6 @@ dim = len(dictList)
 
 def featureA(XD):
 	headlines = XD["Headlines"]
-	print headlines
 	X = dict()
 	for h in headlines:
 		sent = h["Headline"]
@@ -22,8 +21,8 @@ def featureA(XD):
 		c_time = time.strptime (c_time_str,"%Y-%m-%dT%H:%M:%S")
 		c_date_str = time.strftime("%Y%m%d",c_time)
 		if c_date_str not in X:
-			X = [0] * dim
+			X[c_date_str] = [0] * dim
 		for w in words:
 			if w in D:
-				X[D[w]] += 1
-	return X
+				X[c_date_str][D[w]] += 1
+	return X, dim
