@@ -1,5 +1,4 @@
 # author: Xiaote Zhu
-
 import Ylabel
 import features
 import json
@@ -31,21 +30,46 @@ def combine(Xdict, YList, dim):
     X = []
     Y = []
     for item in YList:
-        date = YList[0]
-        Y.append(YList[1])
+        date = item[0]
+        Y.append(item[1])
         if date in Xdict:
             X.append(Xdict[date])
         else:
             X.append([0] * dim)
     return X, Y
 
+def combineS(Xdict, YList, dim):
+    X = []
+    Y = []
+    for item in YList:
+        date = item[0]
+        Y.append(item[1])
+        if date in Xdict:
+            X.append(Xdict[date])
+        else:
+            X.append(dict())
+    return X, Y
 
-def main(stock, X, Y):
-    return
-
+# change here for new folders
+XYdir = "../XYdata/1"
 Ypath = "../data/stocks/tickerStock.json"
 Xdir = "../data/dowjones"
 Yfile = open(Ypath,'r')
+
+# change here too
+readmePath = XYdir + '/README.md'
+
+# write documentation in md format
+readmeContent = \
+"""
+featuresAs + discrete
+"""
+
+if not os.path.isfile(readmePath):
+    readmefile = open(readmePath, 'w')
+    readmefile.write(readmeContent)
+    readmefile.close()
+
 for line in Yfile:
     info = line.split('\t')
     if len(info) == 2:
@@ -58,7 +82,7 @@ for line in Yfile:
             print "extracting features ..."
             Xfile = open(Xpath, 'r')
             XD = json.load(Xfile)
-            Xdict, dim = features.featureA(XD)
+            Xdict, dim = features.featureAs(XD)
             # for date in X:
             #     s = sum(X[date])
             #     if s != 0 :
@@ -86,11 +110,18 @@ for line in Yfile:
             Xdict = pruneX(Xdict, start_date, end_date)
             YList = pruneY(YList, start_date, end_date)
 
-            X, Y = combine(Xdict, YList, dim)
+            X, Y = combineS(Xdict, YList, dim)
 
+            #print [sum(x) for x in X]
+            #print Y
             totalcount = len(Y)
             print "there are %d data points ..." % totalcount
 
-            main(stock, X, Y)
+            XYpath = XYdir + '/' + stock + '.json'
+            XYfile = open(XYpath, 'w')
+            for i in xrange(totalcount):
+                XYfile.write(json.dumps((Y[i],X[i])) + '\n')
+            XYfile.close()
+
         else:
             print "no headline file"
