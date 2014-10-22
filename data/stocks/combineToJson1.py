@@ -1,4 +1,5 @@
 # author: Xiaote Zhu
+# stock price source: http://pages.swcp.com/stocks/
 
 import os
 import json
@@ -13,11 +14,11 @@ for f in os.listdir(dirPath):
 		strf = open(dirPath+ '/' + f,"r")
 		for line in strf:
 			info = line.strip().split(",")
-			if len(d) == 0:
-				date=info[0]
-				D[date] = d
+			date=info[0]
+			if date not in D:
+				D[date] = dict()
 			else:
-				d[info[1]] = float(info[2])
+				D[date][info[1]] = float(info[5])
 
 open(jfile, 'w').write(json.dumps(D, sort_keys=True, indent = 2))
 
