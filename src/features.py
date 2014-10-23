@@ -28,7 +28,7 @@ def featureA(XD):
 	return X, dim
 
 # for sparse ones: X is a dictionary of dictionary
-def featureAs(XD):
+def featureAs(XD, extra = ''):
 	headlines = XD["Headlines"]
 	X = dict()
 	for h in headlines:
@@ -41,8 +41,23 @@ def featureAs(XD):
 			X[c_date_str] = dict()
 		for w in words:
 			if w in D:
-				if D[w] in X[c_date_str]:
-					X[c_date_str][D[w]] += 1
+				key = str(D[w]) + extra
+				if key in X[c_date_str]:
+					X[c_date_str][key] += 1
 				else:
-					X[c_date_str][D[w]] = 1
+					X[c_date_str][key] = 1
 	return X, dim
+
+def featureBs(featureD, XD, stock):
+	X, dim = featureAs(XD, stock)
+	if len(X) < 1:
+		print "not enough headlines"
+		return
+	for key in X:
+		if key in featureD:
+			featureD[key].update(X[key])
+		else:
+			featureD[key] = X[key]
+
+
+

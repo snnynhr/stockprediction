@@ -2,6 +2,7 @@ import os
 import random
 import json
 import creg_driver
+import operator
 
 datadir = '../XYdata/1'
 fulldir = datadir + '/full'
@@ -9,7 +10,7 @@ testdir = datadir + '/test'
 traindir = datadir + '/train'
 devdir = datadir + '/dev'
 
-if not os.path.exists(testdir):
+if not os.path.exists(traindir):
     os.makedirs(traindir)
 
 if not os.path.exists(devdir):
@@ -17,6 +18,10 @@ if not os.path.exists(devdir):
 
 if not os.path.exists(testdir):
     os.makedirs(testdir)
+
+
+l1List = [str(round(0.1 * x,1)) for x in xrange(1, 10)] + [str(x) for x in xrange(1, 10)]
+l1Dict = dict([(x,0) for x in l1List])
 
 for filename in os.listdir(fulldir):
     if filename.endswith('json'):
@@ -32,8 +37,8 @@ for filename in os.listdir(fulldir):
         dev = points[index1 : index2]
         test = points[index2:]
 
-        trainXPath = traindir + '/' + filename + 'x'
-        trainYPath = traindir + '/' + filename + 'y'
+        trainXPath = traindir + '/' + stock + 'x'
+        trainYPath = traindir + '/' + stock + 'y'
         trainXFile = open(trainXPath, 'w')
         trainYFile = open(trainYPath, 'w')
         for point in train:
@@ -65,5 +70,18 @@ for filename in os.listdir(fulldir):
         devXFile.close()
         devYFile.close()
 
-        results = creg_driver.evaluate((trainXPath, trainYPath), (devXPath, devYPath), options={"--l1": "1"})
-        print stock, float(sum(map(lambda v: 1 if v['true_label'] == v['predicted_label'] else 0, results.values()))) / len(results)
+        maxL1 = ''
+        maxAccuracy = 0
+        print stock
+        for l1 in l1List:
+            results = creg_driver.evaluate((trainXPath, trainYPath), (devXPath, devYPath), options={"--l1": l1})
+            accuracy = round(float(sum(map(lambda v: 1 if v['true_label'] == v['predicted_label'] else 0, results.values()))) / len(results),4)
+            if accuracy > maxAccuracy:
+                maxL1 = l1
+                maxAccuracy = accuracy 
+            print accuracy,
+        print maxAccuracy
+        l1Dict[maxL1] += 1
+       
+print "recommend using l1 = ", max(l1Dict.iteritems(), key = operator.itemgetter(1))[0]
+
