@@ -1,6 +1,7 @@
 import os
 import random
 import json
+import creg_driver
 
 datadir = '../XYdata/1'
 fulldir = datadir + '/full'
@@ -42,8 +43,8 @@ for filename in os.listdir(fulldir):
         trainXFile.close()
         trainYFile.close()
 
-        testXPath = testdir + '/' + filename + 'x'
-        testYPath = testdir + '/' + filename + 'y'
+        testXPath = testdir + '/' + stock + 'x'
+        testYPath = testdir + '/' + stock + 'y'
         testXFile = open(testXPath, 'w')
         testYFile = open(testYPath, 'w')
         for point in test:
@@ -53,8 +54,8 @@ for filename in os.listdir(fulldir):
         testXFile.close()
         testYFile.close()
 
-        devXPath = devdir + '/' + filename + 'x'
-        devYPath = devdir + '/' + filename + 'y'
+        devXPath = devdir + '/' + stock + 'x'
+        devYPath = devdir + '/' + stock + 'y'
         devXFile = open(devXPath, 'w')
         devYFile = open(devYPath, 'w')
         for point in test:
@@ -63,4 +64,6 @@ for filename in os.listdir(fulldir):
             devYFile.write(str(date) + '\t' + str(Y) + '\n')
         devXFile.close()
         devYFile.close()
-        break
+
+        results = creg_driver.evaluate((trainXPath, trainYPath), (devXPath, devYPath), options={"--l1": "1"})
+        print stock, float(sum(map(lambda v: 1 if v['true_label'] == v['predicted_label'] else 0, results.values()))) / len(results)
