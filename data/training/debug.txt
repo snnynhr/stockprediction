@@ -1,0 +1,623 @@
+Converted A.csv
+Converted AA.csv
+Converted AAPL.csv
+Converted ABBV.csv
+Converted ABC.csv
+Converted ABI.csv
+Converted ABK.csv
+Converted ABT.csv
+Converted ACAS.csv
+Converted ACN.csv
+Converted ACS.csv
+Converted ACT.csv
+Converted ADBE.csv
+Converted ADI.csv
+Converted ADM.csv
+Converted ADP.csv
+Converted ADSK.csv
+Converted ADT.csv
+Converted AEE.csv
+Converted AEP.csv
+Converted AET.csv
+Converted AFL.csv
+Converted AGN.csv
+Converted AIG.csv
+Converted AIV.csv
+Converted AIZ.csv
+Converted AKAM.csv
+Converted AKS.csv
+Converted ALL.csv
+Converted ALTR.csv
+Converted ALXN.csv
+Converted AMAT.csv
+Converted AMD.csv
+Converted AMGN.csv
+Converted AMP.csv
+Converted AMT.csv
+Converted AMZN.csv
+Converted AN.csv
+Converted ANF.csv
+Converted AOC.csv
+Converted AON.csv
+Converted APA.csv
+Converted APC.csv
+Converted APD.csv
+Converted APH.csv
+Converted APOL.csv
+Converted ARG.csv
+Converted ASH.csv
+Converted ATI.csv
+Converted AVB.csv
+Converted AVP.csv
+Converted AVY.csv
+No data for AW.csv
+Converted AXP.csv
+No data for AYE.csv
+Converted AZO.csv
+Converted BA.csv
+Converted BAC.csv
+Converted BAX.csv
+Converted BBBY.csv
+Converted BBT.csv
+Converted BBY.csv
+Converted BC.csv
+Converted BCR.csv
+No data for BDK.csv
+Converted BDX.csv
+No data for BEAM.csv
+Converted BEN.csv
+Converted BF.B.csv
+No data for BFdotB.csv
+Converted BHI.csv
+No data for BI.csv
+Converted BIG.csv
+Converted BIIB.csv
+No data for BJS.csv
+Converted BK.csv
+Converted BLK.csv
+Converted BLL.csv
+Converted BMC.csv
+Converted BMS.csv
+Converted BMY.csv
+No data for BNI.csv
+Converted BRCM.csv
+Converted BRK.B.csv
+No data for BRKdotB.csv
+No data for BRL.csv
+No data for BSC.csv
+Converted BSX.csv
+Converted BTU.csv
+Converted BUD.csv
+Converted BWA.csv
+Converted BXP.csv
+Converted C.csv
+Converted CA.csv
+Converted CAG.csv
+Converted CAH.csv
+Converted CAM.csv
+Converted CAT.csv
+Converted CB.csv
+No data for CBE.csv
+Converted CBG.csv
+No data for CBH.csv
+Converted CBS.csv
+No data for CC.csv
+Converted CCE.csv
+Converted CCI.csv
+Converted CCL.csv
+Converted CCU.csv
+No data for CEG.csv
+Converted CELG.csv
+No data for CEPH.csv
+Converted CERN.csv
+Converted CF.csv
+No data for CFC.csv
+Converted CFN.csv
+Converted CHK.csv
+Converted CHRW.csv
+Converted CI.csv
+Converted CIEN.csv
+Converted CINF.csv
+Converted CIT.csv
+Converted CL.csv
+Converted CLF.csv
+Converted CLX.csv
+Converted CMA.csv
+Converted CMCSA.csv
+Converted CME.csv
+Converted CMG.csv
+Converted CMI.csv
+Converted CMS.csv
+Converted CNP.csv
+Converted CNX.csv
+Converted COF.csv
+Converted COG.csv
+Converted COH.csv
+Converted COL.csv
+Converted COP.csv
+Converted COST.csv
+Converted COV.csv
+Converted CPB.csv
+Converted CPWR.csv
+Converted CRM.csv
+Converted CSC.csv
+Converted CSCO.csv
+Converted CSX.csv
+Converted CTAS.csv
+Converted CTL.csv
+Converted CTSH.csv
+Converted CTX.csv
+Converted CTXS.csv
+Converted CVC.csv
+Converted CVG.csv
+Converted CVH.csv
+Converted CVS.csv
+Converted CVX.csv
+No data for CZN.csv
+Converted D.csv
+Converted DD.csv
+Converted DDR.csv
+Converted DDS.csv
+Converted DE.csv
+No data for DELL.csv
+Converted DF.csv
+Converted DFS.csv
+Converted DG.csv
+Converted DGX.csv
+Converted DHI.csv
+Converted DHR.csv
+Converted DIS.csv
+Converted DISCA.csv
+Converted DLPH.csv
+Converted DLTR.csv
+Converted DNB.csv
+Converted DNR.csv
+Converted DO.csv
+Converted DOV.csv
+Converted DOW.csv
+Converted DPS.csv
+Converted DRI.csv
+Converted DTE.csv
+Converted DTV.csv
+Converted DUK.csv
+Converted DV.csv
+Converted DVA.csv
+Converted DVN.csv
+Converted DYN.csv
+Converted EA.csv
+Converted EBAY.csv
+Converted ECL.csv
+Converted ED.csv
+Converted EDS.csv
+Converted EFX.csv
+Converted EIX.csv
+No data for EK.csv
+Converted EL.csv
+Converted EMC.csv
+Converted EMN.csv
+Converted EMR.csv
+Converted EOG.csv
+No data for EP.csv
+No data for EQ.csv
+Converted EQR.csv
+Converted EQT.csv
+No data for ERTS.csv
+Converted ESRX.csv
+Converted ESV.csv
+Converted ETFC.csv
+No data for ETFCD.csv
+Converted ETN.csv
+Converted ETR.csv
+Converted EW.csv
+Converted EXC.csv
+Converted EXPD.csv
+Converted EXPE.csv
+Converted F.csv
+Converted FAST.csv
+Converted FCX.csv
+Converted FDO.csv
+Converted FDX.csv
+Converted FE.csv
+No data for FFAST.csv
+Converted FFIV.csv
+Converted FHN.csv
+Converted FII.csv
+Converted FIS.csv
+Converted FISV.csv
+Converted FITB.csv
+Converted FLIR.csv
+Converted FLR.csv
+Converted FLS.csv
+Converted FMC.csv
+No data for FNM.csv
+No data for FO.csv
+Converted FOSL.csv
+Converted FPL.csv
+No data for FRE.csv
+Converted FRX.csv
+Converted FSLR.csv
+Converted FTI.csv
+Converted FTR.csv
+Converted GAS.csv
+Converted GCI.csv
+Converted GD.csv
+Converted GE.csv
+No data for GENZ.csv
+Converted GGP.csv
+Converted GILD.csv
+Converted GIS.csv
+Converted GLW.csv
+Converted GM.csv
+Converted GME.csv
+Converted GNW.csv
+Converted GOOG.csv
+Converted GPC.csv
+Converted GPS.csv
+No data for GR.csv
+Converted GRMN.csv
+Converted GS.csv
+Converted GT.csv
+Converted GWW.csv
+Converted HAL.csv
+Converted HAR.csv
+Converted HAS.csv
+Converted HBAN.csv
+Converted HCBK.csv
+Converted HCN.csv
+Converted HCP.csv
+Converted HD.csv
+Converted HES.csv
+Converted HIG.csv
+No data for HNZ.csv
+Converted HOG.csv
+Converted HON.csv
+Converted HOT.csv
+Converted HP.csv
+No data for HPC.csv
+Converted HPQ.csv
+Converted HRB.csv
+Converted HRL.csv
+Converted HRS.csv
+Converted HSP.csv
+Converted HST.csv
+Converted HSY.csv
+Converted HUM.csv
+Converted IACI.csv
+Converted IBM.csv
+Converted ICE.csv
+Converted IFF.csv
+Converted IGT.csv
+Converted INTC.csv
+Converted INTU.csv
+Converted IP.csv
+Converted IPG.csv
+Converted IR.csv
+Converted IRM.csv
+Converted ISRG.csv
+Converted ITT.csv
+Converted ITW.csv
+Converted IVZ.csv
+No data for JAVA.csv
+Converted JBL.csv
+Converted JCI.csv
+Converted JCP.csv
+Converted JDSU.csv
+Converted JEC.csv
+Converted JNJ.csv
+Converted JNPR.csv
+Converted JNS.csv
+No data for JNY.csv
+Converted JOY.csv
+Converted JPM.csv
+Converted JWN.csv
+Converted K.csv
+Converted KBH.csv
+Converted KEY.csv
+No data for KFT.csv
+No data for KG.csv
+Converted KIM.csv
+Converted KLAC.csv
+Converted KMB.csv
+Converted KMI.csv
+Converted KMX.csv
+Converted KO.csv
+Converted KR.csv
+Converted KRFT.csv
+Converted KSS.csv
+Converted L.csv
+Converted LEG.csv
+No data for LEH.csv
+Converted LEN.csv
+Converted LH.csv
+Converted LIFE.csv
+Converted LIZ.csv
+Converted LLL.csv
+Converted LLTC.csv
+Converted LLY.csv
+Converted LM.csv
+Converted LMT.csv
+Converted LNC.csv
+Converted LO.csv
+Converted LOW.csv
+Converted LRCX.csv
+No data for LSI.csv
+No data for LTD.csv
+No data for LTR.csv
+Converted LUK.csv
+Converted LUV.csv
+Converted LXK.csv
+Converted LYB.csv
+Converted M.csv
+Converted MA.csv
+Converted MAR.csv
+Converted MAS.csv
+Converted MAT.csv
+Converted MBI.csv
+Converted MCD.csv
+Converted MCHP.csv
+Converted MCK.csv
+Converted MCO.csv
+Converted MDLZ.csv
+Converted MDP.csv
+Converted MDT.csv
+No data for MEE.csv
+No data for MER.csv
+Converted MET.csv
+No data for MFE.csv
+No data for MHP.csv
+No data for MHS.csv
+No data for MI.csv
+Converted MIL.csv
+Converted MJN.csv
+Converted MKC.csv
+Converted MMC.csv
+Converted MMM.csv
+Converted MNST.csv
+Converted MO.csv
+No data for MOLX.csv
+Converted MON.csv
+Converted MOS.csv
+No data for MOT.csv
+Converted MPC.csv
+Converted MRK.csv
+Converted MRO.csv
+Converted MS.csv
+Converted MSFT.csv
+Converted MSI.csv
+Converted MTB.csv
+Converted MTG.csv
+Converted MTW.csv
+Converted MU.csv
+Converted MUR.csv
+Converted MWV.csv
+Converted MWW.csv
+Converted MYL.csv
+Converted NBL.csv
+Converted NBR.csv
+No data for NCC.csv
+Converted NDAQ.csv
+Converted NE.csv
+Converted NEE.csv
+Converted NEM.csv
+Converted NFLX.csv
+Converted NFX.csv
+Converted NI.csv
+Converted NKE.csv
+Converted NOC.csv
+Converted NOV.csv
+No data for NOVL.csv
+Converted NRG.csv
+Converted NSC.csv
+Converted NSM.csv
+Converted NTAP.csv
+Converted NTRS.csv
+Converted NU.csv
+Converted NUE.csv
+Converted NVDA.csv
+No data for NVLS.csv
+Converted NWL.csv
+No data for NWS.A.csv
+Converted NWSA.csv
+Converted NYT.csv
+No data for NYX.csv
+Converted ODP.csv
+Converted OI.csv
+Converted OKE.csv
+Converted OMC.csv
+No data for OMX.csv
+Converted ORCL.csv
+Converted ORLY.csv
+Converted OXY.csv
+Converted P.csv
+Converted PAYX.csv
+Converted PBCT.csv
+No data for PBG.csv
+Converted PBI.csv
+Converted PCAR.csv
+Converted PCG.csv
+Converted PCL.csv
+Converted PCLN.csv
+Converted PCP.csv
+No data for PCS.csv
+Converted PDCO.csv
+Converted PEG.csv
+Converted PEP.csv
+Converted PETM.csv
+Converted PFE.csv
+Converted PFG.csv
+Converted PG.csv
+Converted PGN.csv
+Converted PGR.csv
+Converted PH.csv
+Converted PHM.csv
+Converted PKI.csv
+Converted PLD.csv
+Converted PLL.csv
+Converted PM.csv
+Converted PNC.csv
+Converted PNR.csv
+Converted PNW.csv
+Converted POM.csv
+Converted PPG.csv
+Converted PPL.csv
+Converted PRGO.csv
+Converted PRU.csv
+Converted PSA.csv
+Converted PSX.csv
+No data for PTV.csv
+Converted PVH.csv
+Converted PWR.csv
+Converted PX.csv
+Converted PXD.csv
+Converted Q.csv
+Converted QCOM.csv
+Converted QEP.csv
+Converted QLGC.csv
+Converted R.csv
+Converted RAI.csv
+Converted RDC.csv
+Converted RF.csv
+Converted RHI.csv
+Converted RHT.csv
+Converted RIG.csv
+Converted RL.csv
+No data for ROH.csv
+Converted ROK.csv
+Converted ROP.csv
+Converted ROST.csv
+Converted RRC.csv
+Converted RRD.csv
+Converted RSG.csv
+Converted RSH.csv
+Converted RTN.csv
+No data for RX.csv
+Converted S.csv
+No data for SAF.csv
+No data for SAI.csv
+Converted SBUX.csv
+Converted SCG.csv
+Converted SCHW.csv
+Converted SE.csv
+Converted SEE.csv
+No data for SGP.csv
+Converted SHLD.csv
+Converted SHW.csv
+Converted SIAL.csv
+No data for SII.csv
+Converted SJM.csv
+Converted SLB.csv
+No data for SLE.csv
+Converted SLM.csv
+Converted SNA.csv
+Converted SNDK.csv
+Converted SNI.csv
+Converted SO.csv
+Converted SOV.csv
+Converted SPG.csv
+Converted SPLS.csv
+Converted SRCL.csv
+Converted SRE.csv
+Converted SSP.csv
+Converted STI.csv
+Converted STJ.csv
+Converted STR.csv
+Converted STT.csv
+Converted STX.csv
+Converted STZ.csv
+No data for SUN.csv
+Converted SVU.csv
+Converted SWK.csv
+Converted SWN.csv
+Converted SWY.csv
+Converted SYK.csv
+Converted SYMC.csv
+Converted SYY.csv
+Converted T.csv
+Converted TAP.csv
+Converted TDC.csv
+Converted TE.csv
+Converted TEG.csv
+Converted TEL.csv
+Converted TER.csv
+Converted TEX.csv
+Converted TGT.csv
+Converted THC.csv
+Converted TIE.csv
+Converted TIF.csv
+Converted TJX.csv
+No data for TLAB.csv
+Converted TMK.csv
+Converted TMO.csv
+Converted TRIP.csv
+Converted TROW.csv
+Converted TRV.csv
+Converted TSN.csv
+Converted TSO.csv
+Converted TSS.csv
+No data for TT.csv
+Converted TWC.csv
+Converted TWX.csv
+Converted TXN.csv
+Converted TXT.csv
+Converted TYC.csv
+Converted UIS.csv
+Converted UNH.csv
+Converted UNM.csv
+Converted UNP.csv
+Converted UPS.csv
+Converted URBN.csv
+Converted USB.csv
+Converted UST.csv
+Converted UTX.csv
+Converted V.csv
+Converted VAR.csv
+Converted VFC.csv
+No data for VIA.B.csv
+Converted VIA.csv
+Converted VIAB.csv
+Converted VLO.csv
+Converted VMC.csv
+Converted VNO.csv
+Converted VRSN.csv
+Converted VTR.csv
+Converted VZ.csv
+Converted WAG.csv
+Converted WAT.csv
+Converted WB.csv
+Converted WDC.csv
+Converted WEC.csv
+Converted WEN.csv
+Converted WFC.csv
+Converted WFM.csv
+No data for WFMI.csv
+No data for WFR.csv
+Converted WFT.csv
+Converted WHR.csv
+Converted WIN.csv
+Converted WLP.csv
+Converted WM.csv
+Converted WMB.csv
+No data for WMI.csv
+Converted WMT.csv
+No data for WPI.csv
+No data for WPO.csv
+Converted WPX.csv
+Converted WU.csv
+No data for WWY.csv
+Converted WY.csv
+No data for WYE.csv
+Converted WYN.csv
+Converted WYNN.csv
+Converted X.csv
+Converted XEL.csv
+Converted XL.csv
+Converted XLNX.csv
+Converted XOM.csv
+Converted XRAY.csv
+Converted XRX.csv
+No data for XTO.csv
+Converted XYL.csv
+Converted YHOO.csv
+Converted YUM.csv
+Converted ZION.csv
+Converted ZMH.csv
