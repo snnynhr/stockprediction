@@ -41,7 +41,7 @@ for i in $(sed -e "s:,: :" -e "/Symbol*/ d" -e "/^$/ d" $1 | awk '{print $1}'); 
 
 echo "Downloading the data for symbol " $i
 WEBURL="$COM1$i$COMa$COMb$eMonth$COMc$eYear$COMd$COMe$sMonth$COMf$sYear$COMg$COMlast"
-COMMAND="$WGET $OPT1 "$DESTDIR/$i.csv" "$WEBURL""
+COMMAND="$WGET $OPT1"$DESTDIR/$i.csv" "$WEBURL""
 $COMMAND
 
 done
