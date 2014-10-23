@@ -31,8 +31,10 @@ for filename in os.listdir(fulldir):
         dev = points[index1 : index2]
         test = points[index2:]
 
-        trainXFile = open(traindir + '/' + filename, 'w')
-        trainYFile = open(traindir + '/' + filename, 'w')
+        trainXPath = traindir + '/' + filename + 'x'
+        trainYPath = traindir + '/' + filename + 'y'
+        trainXFile = open(trainXPath, 'w')
+        trainYFile = open(trainYPath, 'w')
         for point in train:
             date, Y, X = json.loads(point)
             trainXFile.write(str(date) + '\t'+json.dumps(X) + '\n')
@@ -40,8 +42,10 @@ for filename in os.listdir(fulldir):
         trainXFile.close()
         trainYFile.close()
 
-        testXFile = open(testdir + '/' + filename, 'w')
-        testYFile = open(testdir + '/' + filename, 'w')
+        testXPath = testdir + '/' + filename + 'x'
+        testYPath = testdir + '/' + filename + 'y'
+        testXFile = open(testXPath, 'w')
+        testYFile = open(testYPath, 'w')
         for point in test:
             date, Y, X = json.loads(point)
             testXFile.write(str(date) + '\t'+json.dumps(X) + '\n')
@@ -49,8 +53,10 @@ for filename in os.listdir(fulldir):
         testXFile.close()
         testYFile.close()
 
-        devXFile = open(devdir + '/' + filename, 'w')
-        devYFile = open(devdir + '/' + filename, 'w')
+        devXPath = devdir + '/' + filename + 'x'
+        devYPath = devdir + '/' + filename + 'y'
+        devXFile = open(devXPath, 'w')
+        devYFile = open(devYPath, 'w')
         for point in test:
             date, Y, X = json.loads(point)
             devXFile.write(str(date) + '\t'+json.dumps(X) + '\n')
