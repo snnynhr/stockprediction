@@ -39,7 +39,7 @@ def combine(Xdict, YList, dim):
             X.append([0] * dim)
     return X, Y
 
-def combineS(Xdict, YList, dim):
+def combineS(Xdict, YList):
     X = []
     Y = []
     D = []
@@ -54,7 +54,7 @@ def combineS(Xdict, YList, dim):
     return X, Y, D
 
 # change here for new folders
-XYdir = "../XYdata/1/full"
+XYdir = "../XYdata/2/full"
 Ypath = "../data/stocks/tickerStock.json"
 Xdir = "../data/dowjones"
 Yfile = open(Ypath,'r')
@@ -65,7 +65,7 @@ readmePath = XYdir + '/README.md'
 # write documentation in md format
 readmeContent = \
 """
-featuresAs + discrete
+featuresBs + discrete
 """
 
 if not os.path.isfile(readmePath):
@@ -147,8 +147,7 @@ def mainB():
                 #     s = sum(X[date])
                 #     if s != 0 :
                 #         print date, s
-        print featureD
-        return
+        break
 
 
     for line in Yfile:
@@ -180,7 +179,7 @@ def mainB():
             Xdict = pruneX(Xdict, start_date, end_date)
             YList = pruneY(YList, start_date, end_date)
 
-            X, Y, Date = combineS(Xdict, YList, dim)
+            X, Y, Date = combineS(Xdict, YList)
 
             #print [sum(x) for x in X]
             #print Y
