@@ -1,0 +1,1048 @@
+NEM have 1339 points in total
+NEM 0.558043117745
+JEC have 1339 points in total
+JEC 0.522388059701
+MPC have 500 points in total
+MPC 0.613333333333
+AEE have 1339 points in total
+AEE 0.547263681592
+MUR have 1339 points in total
+MUR 0.563847429519
+QLGC have 443 points in total
+QLGC 0.556390977444
+F have 1339 points in total
+F 0.593698175788
+NKE have 1339 points in total
+NKE 0.617744610282
+DVN have 1339 points in total
+DVN 0.57048092869
+ATI have 1339 points in total
+ATI 0.516583747927
+HOT have 1339 points in total
+HOT 0.571310116086
+CTL have 1339 points in total
+CTL 0.57048092869
+TMO have 1339 points in total
+TMO 0.546434494196
+MOT have 446 points in total
+MOT 0.534825870647
+NTAP have 1338 points in total
+NTAP 0.561825726141
+NOC have 1339 points in total
+NOC 0.599502487562
+TSO have 1339 points in total
+TSO 0.626865671642
+CAG have 1339 points in total
+CAG 0.573797678275
+ESRX have 1338 points in total
+ESRX 0.56846473029
+SNA have 1339 points in total
+SNA 0.522388059701
+LLTC have 1338 points in total
+LLTC 0.546058091286
+XLNX have 1338 points in total
+XLNX 0.551037344398
+GPS have 1339 points in total
+GPS 0.643449419569
+PCAR have 1338 points in total
+PCAR 0.526141078838
+VNO have 1339 points in total
+VNO 0.571310116086
+WYN have 1339 points in total
+WYN 0.538971807629
+RTN have 1339 points in total
+RTN 0.544776119403
+AKS have 356 points in total
+AKS 0.566978193146
+DLPH have 398 points in total
+DLPH 0.596100278552
+SPLS have 1338 points in total
+SPLS 0.578423236515
+NRG have 1124 points in total
+NRG 0.581027667984
+CSC have 1339 points in total
+CSC 0.54311774461
+EBAY have 1338 points in total
+EBAY 0.589211618257
+UIS have 181 points in total
+UIS 0.521472392638
+AXP have 1339 points in total
+AXP 0.677446102819
+ACAS have 249 points in total
+ACAS 0.582222222222
+HSY have 1339 points in total
+HSY 0.56135986733
+WY have 1339 points in total
+WY 0.569651741294
+HAL have 1339 points in total
+HAL 0.605306799337
+WFT have 250 points in total
+WFT 0.493333333333
+RF have 1339 points in total
+RF 0.610281923715
+AMP have 1339 points in total
+AMP 0.563847429519
+LNC have 1339 points in total
+LNC 0.576285240464
+GS have 1339 points in total
+GS 0.508291873964
+V have 1124 points in total
+V 0.633399209486
+COH have 1339 points in total
+COH 0.559701492537
+BDX have 1339 points in total
+BDX 0.550580431177
+AEP have 1339 points in total
+AEP 0.571310116086
+USB have 1339 points in total
+USB 0.630182421227
+EOG have 1339 points in total
+EOG 0.53399668325
+CA have 1339 points in total
+CA 0.548092868988
+RL have 1339 points in total
+RL 0.50912106136
+MOS have 1124 points in total
+MOS 0.516798418972
+AIG have 1339 points in total
+AIG 0.618573797678
+DYN have 288 points in total
+DYN 0.526923076923
+OMC have 1339 points in total
+OMC 0.560530679934
+PSX have 299 points in total
+PSX 0.62962962963
+NU have 1124 points in total
+NU 0.54743083004
+GGP have 181 points in total
+GGP 0.576687116564
+NI have 1339 points in total
+NI 0.562189054726
+DPS have 1178 points in total
+DPS 0.567389255419
+KEY have 1339 points in total
+KEY 0.580431177446
+MCO have 1339 points in total
+MCO 0.625207296849
+GME have 1339 points in total
+GME 0.582089552239
+SEE have 1339 points in total
+SEE 0.54311774461
+WAT have 1339 points in total
+WAT 0.536484245439
+DISCA have 1124 points in total
+DISCA 0.554347826087
+CMA have 1339 points in total
+CMA 0.560530679934
+AON have 1124 points in total
+AON 0.561264822134
+WM have 1275 points in total
+WM 0.548780487805
+RRD have 446 points in total
+RRD 0.55223880597
+TXN have 1339 points in total
+TXN 0.670812603648
+EW have 1124 points in total
+EW 0.551383399209
+NYT have 446 points in total
+NYT 0.63184079602
+BLL have 1339 points in total
+BLL 0.530679933665
+FLS have 1184 points in total
+FLS 0.520637898687
+SE have 1339 points in total
+SE 0.568822553897
+FDX have 1339 points in total
+FDX 0.599502487562
+ADM have 1339 points in total
+ADM 0.569651741294
+DOW have 1339 points in total
+DOW 0.610281923715
+BAX have 1339 points in total
+BAX 0.568822553897
+AES have 1339 points in total
+AES 0.553067993367
+TER have 1339 points in total
+TER 0.529850746269
+SLM have 1339 points in total
+SLM 0.572968490879
+WFM have 1124 points in total
+WFM 0.552371541502
+ACE have 1234 points in total
+ACE 0.537353735374
+CTX have 250 points in total
+CTX 0.551111111111
+UST have 214 points in total
+UST 0.492227979275
+PSA have 1339 points in total
+PSA 0.547263681592
+LUV have 1339 points in total
+LUV 0.667495854063
+SCG have 1124 points in total
+SCG 0.537549407115
+A have 1124 points in total
+A 0.551383399209
+EMN have 1339 points in total
+EMN 0.540630182421
+PBI have 1339 points in total
+PBI 0.531509121061
+STR have 437 points in total
+STR 0.517766497462
+TSS have 1339 points in total
+TSS 0.546434494196
+PAYX have 1338 points in total
+PAYX 0.560165975104
+HAS have 1339 points in total
+HAS 0.566334991708
+COG have 1255 points in total
+COG 0.542477876106
+HRB have 1339 points in total
+HRB 0.563018242123
+UPS have 1339 points in total
+UPS 0.574626865672
+MRK have 1339 points in total
+MRK 0.607794361526
+FIS have 1339 points in total
+FIS 0.560530679934
+K have 1339 points in total
+K 0.57048092869
+GRMN have 1124 points in total
+GRMN 0.533596837945
+BK have 1338 points in total
+BK 0.611618257261
+JNS have 446 points in total
+JNS 0.562189054726
+PRU have 1339 points in total
+PRU 0.6135986733
+ABC have 1339 points in total
+ABC 0.548922056385
+FITB have 1338 points in total
+FITB 0.589211618257
+OXY have 1339 points in total
+OXY 0.589552238806
+ANF have 1339 points in total
+ANF 0.596185737977
+CMCSA have 1338 points in total
+CMCSA 0.611618257261
+VAR have 1339 points in total
+VAR 0.538142620232
+BEN have 1339 points in total
+BEN 0.56135986733
+SWN have 1267 points in total
+SWN 0.563540753725
+APH have 1184 points in total
+APH 0.507504690432
+BA have 1339 points in total
+BA 0.572139303483
+BAC have 1339 points in total
+BAC 0.548922056385
+FDO have 1339 points in total
+FDO 0.560530679934
+GAS have 1339 points in total
+GAS 0.546434494196
+CTAS have 1338 points in total
+CTAS 0.555186721992
+AMT have 1339 points in total
+AMT 0.516583747927
+TJX have 1339 points in total
+TJX 0.577943615257
+SIAL have 1338 points in total
+SIAL 0.53112033195
+PEP have 1339 points in total
+PEP 0.634328358209
+PLD have 1339 points in total
+PLD 0.536484245439
+CVS have 1339 points in total
+CVS 0.606965174129
+MSI have 1124 points in total
+MSI 0.522727272727
+MKC have 1339 points in total
+MKC 0.57960199005
+EQT have 1131 points in total
+EQT 0.53536345776
+MAS have 1339 points in total
+MAS 0.529850746269
+EDS have 127 points in total
+EDS 0.530434782609
+RSH have 446 points in total
+RSH 0.564676616915
+BBT have 1339 points in total
+BBT 0.601160862355
+MCHP have 1338 points in total
+MCHP 0.534439834025
+FE have 1339 points in total
+FE 0.555555555556
+FSLR have 1124 points in total
+FSLR 0.585968379447
+MRO have 1339 points in total
+MRO 0.626865671642
+FCX have 1339 points in total
+FCX 0.587064676617
+PNW have 1339 points in total
+PNW 0.539800995025
+NE have 1339 points in total
+NE 0.528192371476
+ADBE have 1338 points in total
+ADBE 0.617427385892
+MAT have 1339 points in total
+MAT 0.581260364842
+HES have 1339 points in total
+HES 0.635986733002
+SYY have 1339 points in total
+SYY 0.544776119403
+KLAC have 1338 points in total
+KLAC 0.551037344398
+OI have 1124 points in total
+OI 0.53162055336
+WYNN have 1156 points in total
+WYNN 0.557156580211
+COV have 1339 points in total
+COV 0.513266998342
+SVU have 446 points in total
+SVU 0.60447761194
+VIAB have 1124 points in total
+VIAB 0.612648221344
+IGT have 1339 points in total
+IGT 0.544776119403
+M have 1339 points in total
+M 0.669983416252
+JCP have 1339 points in total
+JCP 0.619402985075
+AIZ have 1339 points in total
+AIZ 0.550580431177
+ITW have 1339 points in total
+ITW 0.548922056385
+WHR have 1339 points in total
+WHR 0.54311774461
+CINF have 1338 points in total
+CINF 0.53112033195
+CMI have 1339 points in total
+CMI 0.548922056385
+SYK have 1339 points in total
+SYK 0.549751243781
+DOV have 1339 points in total
+DOV 0.547263681592
+JNJ have 1339 points in total
+JNJ 0.621061359867
+XEL have 1339 points in total
+XEL 0.55223880597
+RRC have 1339 points in total
+RRC 0.55223880597
+GNW have 1339 points in total
+GNW 0.600331674959
+SSP have 89 points in total
+SSP 0.444444444444
+BIIB have 1338 points in total
+BIIB 0.595850622407
+XL have 1339 points in total
+XL 0.524875621891
+UNP have 1339 points in total
+UNP 0.593698175788
+HBAN have 1338 points in total
+HBAN 0.57510373444
+KIM have 586 points in total
+KIM 0.5625
+STI have 1339 points in total
+STI 0.606965174129
+BF.B have 446 points in total
+BF.B 0.495024875622
+CCU have 109 points in total
+CCU 0.606060606061
+CSX have 1339 points in total
+CSX 0.583747927032
+ORCL have 1338 points in total
+ORCL 0.624066390041
+BXP have 1339 points in total
+BXP 0.551409618574
+PFE have 1339 points in total
+PFE 0.601990049751
+CCI have 1124 points in total
+CCI 0.536561264822
+NEE have 1124 points in total
+NEE 0.53557312253
+NWSA have 1127 points in total
+NWSA 0.522167487685
+INTU have 1338 points in total
+INTU 0.556846473029
+AFL have 1339 points in total
+AFL 0.560530679934
+L have 1255 points in total
+L 0.529203539823
+TRV have 1339 points in total
+TRV 0.623548922056
+CME have 1339 points in total
+CME 0.642620232172
+HCN have 1124 points in total
+HCN 0.577075098814
+XRX have 1339 points in total
+XRX 0.558872305141
+GOOG have 1338 points in total
+GOOG 0.512033195021
+BBBY have 1338 points in total
+BBBY 0.524481327801
+DNB have 1131 points in total
+DNB 0.555009823183
+LLL have 1339 points in total
+LLL 0.533167495854
+CBG have 1339 points in total
+CBG 0.514096185738
+ETFC have 1338 points in total
+ETFC 0.56265560166
+WU have 1339 points in total
+WU 0.541459369818
+BLK have 1124 points in total
+BLK 0.645256916996
+IRM have 1124 points in total
+IRM 0.489130434783
+FISV have 1338 points in total
+FISV 0.560165975104
+MDLZ have 1124 points in total
+MDLZ 0.626482213439
+LXK have 446 points in total
+LXK 0.52736318408
+SNDK have 1338 points in total
+SNDK 0.575933609959
+GLW have 1339 points in total
+GLW 0.544776119403
+TSN have 1339 points in total
+TSN 0.569651741294
+NSC have 1339 points in total
+NSC 0.574626865672
+HSP have 1339 points in total
+HSP 0.544776119403
+ED have 1339 points in total
+ED 0.556384742952
+JOY have 1124 points in total
+JOY 0.542490118577
+LUK have 1339 points in total
+LUK 0.501658374793
+NBL have 1339 points in total
+NBL 0.554726368159
+EMC have 1339 points in total
+EMC 0.6135986733
+NFX have 1124 points in total
+NFX 0.508893280632
+WDC have 1124 points in total
+WDC 0.571146245059
+HPQ have 1339 points in total
+HPQ 0.578772802653
+HRL have 1124 points in total
+HRL 0.570158102767
+LEN have 1339 points in total
+LEN 0.608623548922
+PHM have 1339 points in total
+PHM 0.590381426202
+BRK.B have 80 points in total
+BRK.B 0.652777777778
+BTU have 1339 points in total
+BTU 0.597014925373
+VZ have 1339 points in total
+VZ 0.60447761194
+DGX have 1339 points in total
+DGX 0.548092868988
+IBM have 1339 points in total
+IBM 0.592868988391
+ROK have 1339 points in total
+ROK 0.532338308458
+JDSU have 1338 points in total
+JDSU 0.544398340249
+PWR have 1124 points in total
+PWR 0.529644268775
+NDAQ have 1156 points in total
+NDAQ 0.690682036503
+LEG have 1339 points in total
+LEG 0.544776119403
+MWV have 1339 points in total
+MWV 0.553067993367
+KMI have 592 points in total
+KMI 0.559099437148
+CHRW have 1338 points in total
+CHRW 0.54356846473
+CLF have 1124 points in total
+CLF 0.554347826087
+MYL have 1339 points in total
+MYL 0.57048092869
+AA have 1339 points in total
+AA 0.645936981758
+PH have 1339 points in total
+PH 0.510779436153
+DLTR have 1124 points in total
+DLTR 0.565217391304
+DTE have 1339 points in total
+DTE 0.55223880597
+MCK have 1339 points in total
+MCK 0.548922056385
+AVB have 1339 points in total
+AVB 0.548092868988
+CVX have 1339 points in total
+CVX 0.65008291874
+PEG have 1200 points in total
+PEG 0.558333333333
+POM have 1339 points in total
+POM 0.533167495854
+ISRG have 1266 points in total
+ISRG 0.526315789474
+JCI have 1339 points in total
+JCI 0.555555555556
+DHI have 1339 points in total
+DHI 0.566334991708
+NOV have 1339 points in total
+NOV 0.559701492537
+TGT have 1339 points in total
+TGT 0.616915422886
+CB have 1339 points in total
+CB 0.558043117745
+CRM have 1194 points in total
+CRM 0.577674418605
+MAR have 1339 points in total
+MAR 0.577114427861
+GPC have 1339 points in total
+GPC 0.528192371476
+ODP have 446 points in total
+ODP 0.577114427861
+TEG have 1339 points in total
+TEG 0.549751243781
+IFF have 1339 points in total
+IFF 0.537313432836
+EQR have 1339 points in total
+EQR 0.54311774461
+SRCL have 1149 points in total
+SRCL 0.535265700483
+KR have 1339 points in total
+KR 0.592039800995
+GT have 1339 points in total
+GT 0.538142620232
+IVZ have 1213 points in total
+IVZ 0.552197802198
+IACI have 123 points in total
+IACI 0.477477477477
+XYL have 423 points in total
+XYL 0.517060367454
+AIV have 1339 points in total
+AIV 0.565505804312
+X have 1339 points in total
+X 0.583747927032
+NFLX have 1124 points in total
+NFLX 0.600790513834
+DIS have 1339 points in total
+DIS 0.605306799337
+PFG have 1339 points in total
+PFG 0.57048092869
+HD have 1339 points in total
+HD 0.623548922056
+TEL have 1339 points in total
+TEL 0.511608623549
+EL have 1339 points in total
+EL 0.532338308458
+VFC have 1339 points in total
+VFC 0.533167495854
+EA have 1124 points in total
+EA 0.605731225296
+PCLN have 1124 points in total
+PCLN 0.589920948617
+AET have 1339 points in total
+AET 0.598673300166
+LO have 1254 points in total
+LO 0.572187776794
+TROW have 1338 points in total
+TROW 0.576763485477
+PXD have 1189 points in total
+PXD 0.550887021475
+ALL have 1339 points in total
+ALL 0.585406301824
+DV have 195 points in total
+DV 0.573863636364
+DNR have 1124 points in total
+DNR 0.536561264822
+IPG have 1339 points in total
+IPG 0.541459369818
+WEN have 154 points in total
+WEN 0.503597122302
+DF have 1339 points in total
+DF 0.548922056385
+CPWR have 444 points in total
+CPWR 0.5275
+TE have 1339 points in total
+TE 0.558872305141
+CFN have 964 points in total
+CFN 0.542626728111
+BRCM have 1338 points in total
+BRCM 0.616597510373
+BMS have 1339 points in total
+BMS 0.534825870647
+BC have 83 points in total
+BC 0.64
+KSS have 1339 points in total
+KSS 0.59535655058
+THC have 1339 points in total
+THC 0.540630182421
+FLR have 1339 points in total
+FLR 0.534825870647
+FAST have 1193 points in total
+FAST 0.557728119181
+VTR have 1124 points in total
+VTR 0.553359683794
+MO have 1339 points in total
+MO 0.616086235489
+APD have 1339 points in total
+APD 0.575456053068
+HRS have 1194 points in total
+HRS 0.546046511628
+APOL have 1338 points in total
+APOL 0.546887966805
+EIX have 1339 points in total
+EIX 0.563018242123
+CAT have 1339 points in total
+CAT 0.641791044776
+HOG have 1339 points in total
+HOG 0.537313432836
+BSX have 1339 points in total
+BSX 0.59535655058
+DG have 905 points in total
+DG 0.58036809816
+ALTR have 1338 points in total
+ALTR 0.54356846473
+IP have 1339 points in total
+IP 0.548092868988
+MNST have 1302 points in total
+MNST 0.511092150171
+WEC have 1157 points in total
+WEC 0.547024952015
+DO have 1124 points in total
+DO 0.537549407115
+SLB have 1339 points in total
+SLB 0.57048092869
+XRAY have 1156 points in total
+XRAY 0.533141210375
+LOW have 1339 points in total
+LOW 0.582918739635
+HST have 1339 points in total
+HST 0.538971807629
+GE have 1339 points in total
+GE 0.582089552239
+VMC have 1339 points in total
+VMC 0.53399668325
+CMG have 1124 points in total
+CMG 0.587944664032
+QCOM have 1338 points in total
+QCOM 0.652282157676
+PM have 1312 points in total
+PM 0.567315834039
+ETR have 1339 points in total
+ETR 0.56135986733
+GD have 1339 points in total
+GD 0.542288557214
+YHOO have 1338 points in total
+YHOO 0.572614107884
+SO have 1339 points in total
+SO 0.563018242123
+AMAT have 1338 points in total
+AMAT 0.605809128631
+JNPR have 1338 points in total
+JNPR 0.582572614108
+CF have 1208 points in total
+CF 0.546875
+CIT have 250 points in total
+CIT 0.506666666667
+APC have 1339 points in total
+APC 0.623548922056
+CNP have 1339 points in total
+CNP 0.554726368159
+ESV have 1339 points in total
+ESV 0.522388059701
+MDP have 446 points in total
+MDP 0.557213930348
+MMM have 1339 points in total
+MMM 0.594527363184
+FMC have 1124 points in total
+FMC 0.546442687747
+ADP have 1339 points in total
+ADP 0.577114427861
+NUE have 1339 points in total
+NUE 0.544776119403
+SBUX have 1338 points in total
+SBUX 0.62489626556
+MTB have 1339 points in total
+MTB 0.538142620232
+STZ have 1339 points in total
+STZ 0.52736318408
+ORLY have 1124 points in total
+ORLY 0.53557312253
+INTC have 1338 points in total
+INTC 0.595850622407
+MCD have 1339 points in total
+MCD 0.630182421227
+ADT have 179 points in total
+ADT 0.512345679012
+UNH have 1339 points in total
+UNH 0.626036484245
+DHR have 1339 points in total
+DHR 0.564676616915
+EXC have 1339 points in total
+EXC 0.564676616915
+TRIP have 385 points in total
+TRIP 0.536023054755
+AVY have 1339 points in total
+AVY 0.549751243781
+LM have 1339 points in total
+LM 0.593698175788
+DDR have 250 points in total
+DDR 0.546666666667
+RDC have 1339 points in total
+RDC 0.555555555556
+D have 1339 points in total
+D 0.569651741294
+TXT have 1339 points in total
+TXT 0.551409618574
+YUM have 1339 points in total
+YUM 0.572139303483
+HCP have 1313 points in total
+HCP 0.554991539763
+RSG have 1131 points in total
+RSG 0.556974459725
+PKI have 1339 points in total
+PKI 0.496683250415
+ROST have 1124 points in total
+ROST 0.552371541502
+DE have 1339 points in total
+DE 0.583747927032
+GCI have 1339 points in total
+GCI 0.573797678275
+TYC have 1339 points in total
+TYC 0.529850746269
+RIG have 207 points in total
+RIG 0.577540106952
+EMR have 1339 points in total
+EMR 0.546434494196
+ABT have 1339 points in total
+ABT 0.655887230514
+HUM have 1339 points in total
+HUM 0.591210613599
+CBS have 1339 points in total
+CBS 0.627694859038
+LLY have 1339 points in total
+LLY 0.64096185738
+LRCX have 1124 points in total
+LRCX 0.53557312253
+MBI have 288 points in total
+MBI 0.634615384615
+PETM have 1124 points in total
+PETM 0.561264822134
+SHLD have 444 points in total
+SHLD 0.6325
+CSCO have 1338 points in total
+CSCO 0.614107883817
+WFC have 1339 points in total
+WFC 0.575456053068
+ICE have 1339 points in total
+ICE 0.58872305141
+T have 1339 points in total
+T 0.572139303483
+UNM have 1339 points in total
+UNM 0.547263681592
+HAR have 1339 points in total
+HAR 0.512437810945
+TEX have 181 points in total
+TEX 0.558282208589
+EXPD have 1338 points in total
+EXPD 0.513692946058
+WMB have 1339 points in total
+WMB 0.572968490879
+PG have 1339 points in total
+PG 0.630182421227
+HP have 1124 points in total
+HP 0.563241106719
+CCE have 1339 points in total
+CCE 0.555555555556
+WAG have 1339 points in total
+WAG 0.619402985075
+ROP have 1124 points in total
+ROP 0.546442687747
+BMY have 1339 points in total
+BMY 0.665008291874
+DDS have 181 points in total
+DDS 0.601226993865
+WIN have 1339 points in total
+WIN 0.566334991708
+ADI have 1339 points in total
+ADI 0.522388059701
+RHT have 1124 points in total
+RHT 0.534584980237
+DD have 1339 points in total
+DD 0.615257048093
+CTXS have 1338 points in total
+CTXS 0.54356846473
+AVP have 1339 points in total
+AVP 0.541459369818
+WPX have 382 points in total
+WPX 0.56976744186
+ABBV have 118 points in total
+ABBV 0.467289719626
+AKAM have 1338 points in total
+AKAM 0.545228215768
+AZO have 1339 points in total
+AZO 0.554726368159
+SYMC have 1338 points in total
+SYMC 0.56265560166
+MA have 1229 points in total
+MA 0.625112917796
+PPG have 1339 points in total
+PPG 0.550580431177
+ECL have 1339 points in total
+ECL 0.548092868988
+SNI have 1248 points in total
+SNI 0.535587188612
+CVG have 288 points in total
+CVG 0.526923076923
+TMK have 1339 points in total
+TMK 0.53399668325
+APA have 1339 points in total
+APA 0.586235489221
+EFX have 1339 points in total
+EFX 0.524875621891
+CAH have 1339 points in total
+CAH 0.558043117745
+GILD have 1338 points in total
+GILD 0.58755186722
+MDT have 1339 points in total
+MDT 0.636815920398
+R have 1339 points in total
+R 0.553067993367
+MWW have 261 points in total
+MWW 0.502127659574
+PBCT have 1156 points in total
+PBCT 0.54562920269
+IR have 1339 points in total
+IR 0.546434494196
+HCBK have 1338 points in total
+HCBK 0.536929460581
+COP have 1339 points in total
+COP 0.668325041459
+JBL have 1339 points in total
+JBL 0.549751243781
+PLL have 1339 points in total
+PLL 0.525704809287
+FII have 446 points in total
+FII 0.544776119403
+STX have 1124 points in total
+STX 0.555335968379
+KMB have 1339 points in total
+KMB 0.568822553897
+CIEN have 287 points in total
+CIEN 0.586872586873
+EXPE have 1338 points in total
+EXPE 0.517842323651
+SJM have 1157 points in total
+SJM 0.561420345489
+GWW have 1339 points in total
+GWW 0.549751243781
+VRSN have 1338 points in total
+VRSN 0.536099585062
+CTSH have 1338 points in total
+CTSH 0.51867219917
+MS have 1339 points in total
+MS 0.538142620232
+SWY have 1339 points in total
+SWY 0.585406301824
+TWX have 1339 points in total
+TWX 0.633499170813
+ACN have 1124 points in total
+ACN 0.576086956522
+AN have 1339 points in total
+AN 0.57048092869
+PCG have 1339 points in total
+PCG 0.598673300166
+SPG have 1339 points in total
+SPG 0.573797678275
+HON have 1339 points in total
+HON 0.558872305141
+JWN have 1339 points in total
+JWN 0.586235489221
+LH have 1339 points in total
+LH 0.559701492537
+MMC have 1339 points in total
+MMC 0.558872305141
+BWA have 432 points in total
+BWA 0.508997429306
+RHI have 1339 points in total
+RHI 0.538142620232
+BCR have 1339 points in total
+BCR 0.524875621891
+TDC have 1339 points in total
+TDC 0.53399668325
+RAI have 1339 points in total
+RAI 0.582089552239
+SWK have 1339 points in total
+SWK 0.512437810945
+MTW have 288 points in total
+MTW 0.573076923077
+DUK have 1339 points in total
+DUK 0.584577114428
+MTG have 181 points in total
+MTG 0.656441717791
+AMGN have 1338 points in total
+AMGN 0.591701244813
+CERN have 1124 points in total
+CERN 0.550395256917
+MJN have 1097 points in total
+MJN 0.564777327935
+FHN have 1339 points in total
+FHN 0.547263681592
+PPL have 1339 points in total
+PPL 0.548092868988
+ZMH have 1339 points in total
+ZMH 0.550580431177
+CL have 1339 points in total
+CL 0.549751243781
+KMX have 1124 points in total
+KMX 0.552371541502
+XOM have 1339 points in total
+XOM 0.618573797678
+CNX have 1339 points in total
+CNX 0.573797678275
+AMD have 1339 points in total
+AMD 0.634328358209
+PGR have 1339 points in total
+PGR 0.546434494196
+CAM have 1339 points in total
+CAM 0.532338308458
+BUD have 185 points in total
+BUD 0.544910179641
+SHW have 1339 points in total
+SHW 0.54311774461
+DRI have 1339 points in total
+DRI 0.533167495854
+PDCO have 1338 points in total
+PDCO 0.54356846473
+VIA have 181 points in total
+VIA 0.638036809816
+NWL have 1339 points in total
+NWL 0.538142620232
+QEP have 759 points in total
+QEP 0.551169590643
+CLX have 1339 points in total
+CLX 0.558043117745
+CCL have 1339 points in total
+CCL 0.554726368159
+MET have 1339 points in total
+MET 0.62271973466
+UTX have 1339 points in total
+UTX 0.606135986733
+SCHW have 1338 points in total
+SCHW 0.608298755187
+ETN have 1339 points in total
+ETN 0.555555555556
+FFIV have 1124 points in total
+FFIV 0.550395256917
+PCL have 1339 points in total
+PCL 0.544776119403
+FTI have 1124 points in total
+FTI 0.530632411067
+COL have 1339 points in total
+COL 0.514925373134
+FTR have 1228 points in total
+FTR 0.55424954792
+VLO have 1339 points in total
+VLO 0.680762852405
+CVC have 1124 points in total
+CVC 0.582015810277
+ALXN have 1124 points in total
+ALXN 0.540513833992
+MON have 1339 points in total
+MON 0.557213930348
+DFS have 1339 points in total
+DFS 0.611940298507
+DTV have 1338 points in total
+DTV 0.57510373444
+WMT have 1339 points in total
+WMT 0.572139303483
+ADSK have 1338 points in total
+ADSK 0.553526970954
+STJ have 1339 points in total
+STJ 0.57048092869
+KBH have 288 points in total
+KBH 0.615384615385
+BBY have 1339 points in total
+BBY 0.611940298507
+TWC have 1124 points in total
+TWC 0.636363636364
+NSM have 446 points in total
+NSM 0.514925373134
+NVDA have 1338 points in total
+NVDA 0.634024896266
+WLP have 1339 points in total
+WLP 0.607794361526
+COF have 1339 points in total
+COF 0.623548922056
+LMT have 1339 points in total
+LMT 0.616086235489
+CELG have 1338 points in total
+CELG 0.578423236515
+STT have 1339 points in total
+STT 0.594527363184
+C have 1339 points in total
+C 0.512437810945
+COST have 1338 points in total
+COST 0.614937759336
+PX have 1339 points in total
+PX 0.54311774461
+ASH have 181 points in total
+ASH 0.546012269939
+NTRS have 1338 points in total
+NTRS 0.546058091286
+S have 1339 points in total
+S 0.502487562189
+SRE have 1339 points in total
+SRE 0.550580431177
+KO have 1339 points in total
+KO 0.646766169154
+BIG have 1339 points in total
+BIG 0.557213930348
+CHK have 1339 points in total
+CHK 0.640132669983
+LYB have 793 points in total
+LYB 0.624649859944
+OKE have 1124 points in total
+OKE 0.567193675889
+NBR have 1339 points in total
+NBR 0.565505804312
+DVA have 1229 points in total
+DVA 0.528455284553
+BHI have 1339 points in total
+BHI 0.592868988391
+ARG have 1124 points in total
+ARG 0.549407114625
+CI have 1339 points in total
+CI 0.580431177446
+FLIR have 1124 points in total
+FLIR 0.525691699605
+PNR have 1124 points in total
+PNR 0.493083003953
+MU have 1339 points in total
+MU 0.611111111111
+CPB have 1339 points in total
+CPB 0.576285240464
+ZION have 1338 points in total
+ZION 0.583402489627
+GIS have 1339 points in total
+GIS 0.60447761194
+URBN have 1124 points in total
+URBN 0.534584980237
+HIG have 1339 points in total
+HIG 0.590381426202
+KRFT have 190 points in total
+KRFT 0.584795321637
+TIF have 1339 points in total
+TIF 0.587893864013
+PNC have 1339 points in total
+PNC 0.62271973466
+TAP have 1339 points in total
+TAP 0.550580431177
+PCP have 1339 points in total
+PCP 0.50912106136
+CMS have 1339 points in total
+CMS 0.562189054726
+AGN have 1339 points in total
+AGN 0.535655058043
+AMZN have 1338 points in total
+AMZN 0.532780082988
