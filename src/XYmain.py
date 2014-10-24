@@ -54,7 +54,7 @@ def combineS(Xdict, YList):
     return X, Y, D
 
 # change here for new folders
-XYdir = "../XYdata/2/full"
+XYdir = "../XYdata/3/full"
 Ypath = "../data/stocks/tickerStock.json"
 Xdir = "../data/dowjones"
 

@@ -3,6 +3,7 @@
 import nltk
 import json
 import time
+import datetime
 
 dictPath = '../data/dict/dict36761.json'
 dictFile = open(dictPath, 'r')
@@ -48,8 +49,43 @@ def featureAs(XD, extra = ''):
 					X[c_date_str][key] = 1
 	return X, dim
 
+# for sparse ones: X is a dictionary of dictionary
+def featureAMs(XD, extra = ''):
+	headlines = XD["Headlines"]
+	X = dict()
+	for h in headlines:
+		sent = h["Headline"]
+		words = nltk.word_tokenize(sent)
+		c_time_str = h["CreateTimestamp"]["Value"]
+		c_time = datetime.strptime (c_time_str,"%Y-%m-%dT%H:%M:%S")
+		if c_time.hour >= 14 and c_time.minute >= 30:
+			c_date_str = datetime.strftime("%Y%m%d",c_time + datetime.timedelta(days = 1))
+		else:
+			c_date_str = datetime.strftime("%Y%m%d",c_time)
+		if c_date_str not in X:
+			X[c_date_str] = dict()
+		for w in words:
+			if w in D:
+				key = str(D[w]) + extra
+				if key in X[c_date_str]:
+					X[c_date_str][key] += 1
+				else:
+					X[c_date_str][key] = 1
+	return X, dim
+
 def featureBs(featureD, XD, stock):
 	X, dim = featureAs(XD, stock)
+	if len(X) < 1:
+		print "not enough headlines"
+		return
+	for key in X:
+		if key in featureD:
+			featureD[key].update(X[key])
+		else:
+			featureD[key] = X[key]
+
+def featureBMs(featureD, XD, stock):
+	X, dim = featureAMs(XD, stock)
 	if len(X) < 1:
 		print "not enough headlines"
 		return
