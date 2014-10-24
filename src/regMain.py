@@ -4,7 +4,7 @@ import json
 import creg_driver
 import operator
 
-datadir = '../XYdata/1'
+datadir = '../XYdata/2'
 fulldir = datadir + '/full'
 testdir = datadir + '/test'
 traindir = datadir + '/train'

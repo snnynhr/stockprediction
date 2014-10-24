@@ -1,6 +1,6 @@
 # author: Xiaote Zhu
 import Ylabel
-import features
+import features 
 import json
 import os
 from sklearn import linear_model
@@ -57,7 +57,6 @@ def combineS(Xdict, YList):
 XYdir = "../XYdata/2/full"
 Ypath = "../data/stocks/tickerStock.json"
 Xdir = "../data/dowjones"
-Yfile = open(Ypath,'r')
 
 # change here too
 readmePath = XYdir + '/README.md'
@@ -74,6 +73,7 @@ if not os.path.isfile(readmePath):
     readmefile.close()
 
 def mainA():
+    Yfile = open(Ypath,'r')
     for line in Yfile:
         info = line.split('\t')
         if len(info) == 2:
@@ -131,6 +131,7 @@ def mainA():
                 print "no headline file"
 
 def mainB():
+    Yfile = open(Ypath,'r')
     print "extracting features ..."
     featureD = dict()
     for line in Yfile:
@@ -147,8 +148,9 @@ def mainB():
                 #     s = sum(X[date])
                 #     if s != 0 :
                 #         print date, s
-        break
 
+    Yfile.close()
+    Yfile = open(Ypath,'r')
 
     for line in Yfile:
         info = line.split('\t')
