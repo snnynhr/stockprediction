@@ -1,11 +1,10 @@
 import os
 import random
 import json
-import creg_driver
 import operator
 import sys
 
-datadir = '../XYdata/2'
+datadir = '../XYdata/3'
 fulldir = datadir + '/full'
 testdir = datadir + '/test'
 traindir = datadir + '/train'

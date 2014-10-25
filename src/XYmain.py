@@ -54,7 +54,7 @@ def combineS(Xdict, YList):
     return X, Y, D
 
 # change here for new folders
-XYdir = "../XYdata/2/full"
+XYdir = "../XYdata/3/full"
 Ypath = "../data/stocks/tickerStock.json"
 Xdir = "../data/dowjones"
 
@@ -64,7 +64,7 @@ readmePath = XYdir + '/README.md'
 # write documentation in md format
 readmeContent = \
 """
-featuresBs + discrete
+featuresBMs + discrete
 """
 
 if not os.path.isfile(readmePath):
@@ -143,7 +143,7 @@ def mainB():
                 print "including headlines from %s ..." %stock
                 Xfile = open(Xpath, 'r')
                 XD = json.load(Xfile)
-                features.featureBs(featureD,XD,stock)
+                features.featureBMs(featureD,XD,stock)
                 # for date in X:
                 #     s = sum(X[date])
                 #     if s != 0 :
@@ -166,8 +166,7 @@ def mainB():
             end_Y = YList[-1][0]
             start_X = min(Xdict.keys())
             end_X = max(Xdict.keys())
-            print "time range of stock prices: %s - %s" %(start_Y, end_Y)
-            print "time range of headlines: %s - %s" %(start_X, end_X)
+
             #caution: X and Y have to use the format of %Y%m%d
             start_date = max(start_X, start_Y)
             end_date = min(end_X, end_Y)
