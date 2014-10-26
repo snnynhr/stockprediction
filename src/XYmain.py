@@ -154,42 +154,57 @@ def mainB():
 
     for line in Yfile:
         info = line.split('\t')
-        Xdict = copy.deepcopy(featureD)
         if len(info) == 2:
             stock = info[0]
+            if stock > 'UPS':
+                Xdict = copy.deepcopy(featureD)
+                print "building XYfile for %s ..." %stock
+                prices = json.loads(info[1])
+                YList = Ylabel.discrete(prices)
 
-            print "building XYfile for %s ..." %stock
-            prices = json.loads(info[1])
-            YList = Ylabel.discrete(prices)
+                start_Y = YList[0][0]
+                end_Y = YList[-1][0]
+                start_X = min(Xdict.keys())
+                end_X = max(Xdict.keys())
 
-            start_Y = YList[0][0]
-            end_Y = YList[-1][0]
-            start_X = min(Xdict.keys())
-            end_X = max(Xdict.keys())
+                #caution: X and Y have to use the format of %Y%m%d
+                start_date = max(start_X, start_Y)
+                end_date = min(end_X, end_Y)
 
-            #caution: X and Y have to use the format of %Y%m%d
-            start_date = max(start_X, start_Y)
-            end_date = min(end_X, end_Y)
+                if start_date>= end_date:
+                    print "not enough data"
+                    continue
 
-            if start_date>= end_date:
-                print "not enough data"
-                continue
+                print "time range of data: %s - %s" %(start_date, end_date)
+                
+                Xdict = pruneX(Xdict, start_date, end_date)
+                YList = pruneY(YList, start_date, end_date)
 
-            print "time range of data: %s - %s" %(start_date, end_date)
-            
-            Xdict = pruneX(Xdict, start_date, end_date)
-            YList = pruneY(YList, start_date, end_date)
+                X, Y, Date = combineS(Xdict, YList)
 
-            X, Y, Date = combineS(Xdict, YList)
+                #print [sum(x) for x in X]
+                #print Y
+                totalcount = len(Y)
+                print "there are %d data points ..." % totalcount
 
-            #print [sum(x) for x in X]
-            #print Y
-            totalcount = len(Y)
-            print "there are %d data points ..." % totalcount
+                XYPath = XYdir + '/' + stock + '.json'
 
-            XYPath = XYdir + '/' + stock + '.json'
-            XYfile = open(XYPath, 'w')
-            for i in xrange(totalcount):
-                XYfile.write(json.dumps((Date[i],Y[i],X[i])) + '\n')
-            XYfile.close()
+                if totalcount < 1000:
+                    print "not enough data points"
+                    if os.path.isfile(XYPath):
+                        os.remove(XYPath)
+                        print  "remove %s" %(XYPath)
+                    continue
+
+                if os.path.isfile(XYPath):
+                    print "file already exists"
+                    continue
+                else:
+                    XYfile = open(XYPath, 'w')
+                    for i in xrange(totalcount):
+                        XYfile.write(json.dumps((Date[i],Y[i],X[i])) + '\n')
+                    XYfile.close()
+                    print "creating new files"
+
 mainB()
+
