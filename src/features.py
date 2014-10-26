@@ -57,11 +57,11 @@ def featureAMs(XD, extra = ''):
 		sent = h["Headline"]
 		words = nltk.word_tokenize(sent)
 		c_time_str = h["CreateTimestamp"]["Value"]
-		c_time = datetime.datetime.strptime (c_time_str,"%Y-%m-%dT%H:%M:%S")
+		c_time = datetime.strptime (c_time_str,"%Y-%m-%dT%H:%M:%S")
 		if c_time.hour >= 14 and c_time.minute >= 30:
-			c_date_str = (c_time + datetime.timedelta(days = 1)).strftime("%Y%m%d")
+			c_date_str = datetime.strftime("%Y%m%d",c_time + datetime.timedelta(days = 1))
 		else:
-			c_date_str = c_time.strftime("%Y%m%d")
+			c_date_str = datetime.strftime("%Y%m%d",c_time)
 		if c_date_str not in X:
 			X[c_date_str] = dict()
 		for w in words:
