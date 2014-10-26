@@ -23,6 +23,7 @@ if not os.path.exists(testdir):
 stockfile = open(datadir + '/' + 'stock.txt','w+' )
 pythonFile = 'partitionS.py'
 
+
 count = 0
 for filename in os.listdir(fulldir):
     if filename.endswith('json'):
@@ -32,6 +33,5 @@ for filename in os.listdir(fulldir):
         count += 1
         if count %4 == 0:
             print "wait"
-
 stockfile.close()
 

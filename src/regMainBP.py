@@ -26,7 +26,7 @@ pythonFile = 'regMainBs.py'
 
 count = 0
 for stock in stockList:
-    print 'python %s %s %s %s %s &' %(pythonFile, l1, datadir, weightdir, resultdir, stock)
+    print 'python %s %s %s %s %s %s &' %(pythonFile, l1, datadir, weightdir, resultdir, stock)
     count+=1
     if count%8 == 0:
         print 'wait'
