@@ -14,27 +14,27 @@ if not os.path.exists(traindir):
     os.makedirs(traindir)
 
 if not os.path.exists(devdir):
-    os.makedirs(devdir)  
+    os.makedirs(devdir)
 
 if not os.path.exists(testdir):
     os.makedirs(testdir)
 
 
-l1List = [str(round(0.1 * x,1)) for x in xrange(1, 10)] + [str(x) for x in xrange(1, 10)]
-l1Dict = dict([(x,0) for x in l1List])
+l1List = [str(round(0.1 * x, 1)) for x in xrange(1, 10)] + [str(x) for x in xrange(1, 10)]
+l1Dict = dict([(x, 0) for x in l1List])
 
 for filename in os.listdir(fulldir):
     if filename.endswith('json'):
         stock = filename[:-5]
-        fullFile = open(fulldir + '/' + filename,'r')
+        fullFile = open(fulldir + '/' + filename, 'r')
         points = fullFile.readlines()
         total = len(points)
-        print "%s have %d points in total" %(stock, total)
+        print "%s have %d points in total" % (stock, total)
 
         random.shuffle(points)
         index1, index2 = int(0.7 * total), int(0.1 * total)
         train = points[:index1]
-        dev = points[index1 : index2]
+        dev = points[index1: index2]
         test = points[index2:]
 
         trainXPath = traindir + '/' + stock + 'x'
@@ -43,7 +43,7 @@ for filename in os.listdir(fulldir):
         trainYFile = open(trainYPath, 'w')
         for point in train:
             date, Y, X = json.loads(point)
-            trainXFile.write(str(date) + '\t'+json.dumps(X) + '\n')
+            trainXFile.write(str(date) + '\t' + json.dumps(X) + '\n')
             trainYFile.write(str(date) + '\t' + str(Y) + '\n')
         trainXFile.close()
         trainYFile.close()
@@ -54,7 +54,7 @@ for filename in os.listdir(fulldir):
         testYFile = open(testYPath, 'w')
         for point in test:
             date, Y, X = json.loads(point)
-            testXFile.write(str(date) + '\t'+json.dumps(X) + '\n')
+            testXFile.write(str(date) + '\t' + json.dumps(X) + '\n')
             testYFile.write(str(date) + '\t' + str(Y) + '\n')
         testXFile.close()
         testYFile.close()
@@ -65,7 +65,7 @@ for filename in os.listdir(fulldir):
         devYFile = open(devYPath, 'w')
         for point in test:
             date, Y, X = json.loads(point)
-            devXFile.write(str(date) + '\t'+json.dumps(X) + '\n')
+            devXFile.write(str(date) + '\t' + json.dumps(X) + '\n')
             devYFile.write(str(date) + '\t' + str(Y) + '\n')
         devXFile.close()
         devYFile.close()
@@ -78,10 +78,9 @@ for filename in os.listdir(fulldir):
             accuracy = round(float(sum(map(lambda v: 1 if v['true_label'] == v['predicted_label'] else 0, results.values()))) / len(results),4)
             if accuracy > maxAccuracy:
                 maxL1 = l1
-                maxAccuracy = accuracy 
+                maxAccuracy = accuracy
             print accuracy,
         print maxAccuracy
         l1Dict[maxL1] += 1
-       
-print "recommend using l1 = ", max(l1Dict.iteritems(), key = operator.itemgetter(1))[0]
 
+print "recommend using l1 = ", max(l1Dict.iteritems(), key=operator.itemgetter(1))[0]

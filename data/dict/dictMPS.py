@@ -1,5 +1,3 @@
-# author: Xiaote Zhu
-
 import json
 import os
 import nltk

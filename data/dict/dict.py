@@ -5,7 +5,7 @@ import os
 import nltk
 
 dowjones = "../dowjones"
-
+minWords = 0
 wordD = dict()
 
 def countwords(w):
@@ -44,11 +44,11 @@ for fname in os.listdir(dowjones):
 
 print len(wordD)
 for word in wordD.keys():
-	if wordD[word] < 5:
+	if wordD[word] < minWords:
 		del wordD[word]
 print len(wordD)
 
 sortedD = sorted(wordD.items(), key=(lambda (k, v): v), reverse = True)
-dictFile = open('dict' + str(len(sortedD) + '.json'), 'w')
+dictFile = open('dict' + str(len(sortedD)) + '.json', 'w')
 dictFile.write(json.dumps(sortedD))
 dictFile.close()

@@ -8,7 +8,7 @@ import datetime
 dictPath = '../data/dict/dict36761.json'
 dictFile = open(dictPath, 'r')
 dictList = json.load(dictFile)
-D = dict([(w[0],i) for i,w in enumerate(dictList)])
+D = dict([(w[0], i) for i, w in enumerate(dictList)])
 dim = len(dictList)
 
 # for dense feature vectors: X is a dictionary of list
@@ -19,8 +19,8 @@ def featureA(XD):
 		sent = h["Headline"]
 		words = nltk.word_tokenize(sent)
 		c_time_str = h["CreateTimestamp"]["Value"]
-		c_time = time.strptime (c_time_str,"%Y-%m-%dT%H:%M:%S")
-		c_date_str = time.strftime("%Y%m%d",c_time)
+		c_time = time.strptime(c_time_str, "%Y-%m-%dT%H:%M:%S")
+		c_date_str = time.strftime("%Y%m%d", c_time)
 		if c_date_str not in X:
 			X[c_date_str] = [0] * dim
 		for w in words:
@@ -29,15 +29,15 @@ def featureA(XD):
 	return X, dim
 
 # for sparse ones: X is a dictionary of dictionary
-def featureAs(XD, extra = ''):
+def featureAs(XD, extra=''):
 	headlines = XD["Headlines"]
 	X = dict()
 	for h in headlines:
 		sent = h["Headline"]
 		words = nltk.word_tokenize(sent)
 		c_time_str = h["CreateTimestamp"]["Value"]
-		c_time = time.strptime (c_time_str,"%Y-%m-%dT%H:%M:%S")
-		c_date_str = time.strftime("%Y%m%d",c_time)
+		c_time = time.strptime(c_time_str, "%Y-%m-%dT%H:%M:%S")
+		c_date_str = time.strftime("%Y%m%d", c_time)
 		if c_date_str not in X:
 			X[c_date_str] = dict()
 		for w in words:
@@ -50,18 +50,18 @@ def featureAs(XD, extra = ''):
 	return X, dim
 
 # for sparse ones: X is a dictionary of dictionary
-def featureAMs(XD, extra = ''):
+def featureAMs(XD, extra=''):
 	headlines = XD["Headlines"]
 	X = dict()
 	for h in headlines:
 		sent = h["Headline"]
 		words = nltk.word_tokenize(sent)
 		c_time_str = h["CreateTimestamp"]["Value"]
-		c_time = datetime.strptime (c_time_str,"%Y-%m-%dT%H:%M:%S")
+		c_time = datetime.strptime(c_time_str, "%Y-%m-%dT%H:%M:%S")
 		if c_time.hour >= 14 and c_time.minute >= 30:
-			c_date_str = datetime.strftime("%Y%m%d",c_time + datetime.timedelta(days = 1))
+			c_date_str = datetime.strftime("%Y%m%d", c_time + datetime.timedelta(days=1))
 		else:
-			c_date_str = datetime.strftime("%Y%m%d",c_time)
+			c_date_str = datetime.strftime("%Y%m%d", c_time)
 		if c_date_str not in X:
 			X[c_date_str] = dict()
 		for w in words:
@@ -94,6 +94,3 @@ def featureBMs(featureD, XD, stock):
 			featureD[key].update(X[key])
 		else:
 			featureD[key] = X[key]
-
-
-
