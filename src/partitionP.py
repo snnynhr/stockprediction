@@ -15,12 +15,12 @@ if not os.path.exists(traindir):
     os.makedirs(traindir)
 
 if not os.path.exists(devdir):
-    os.makedirs(devdir)  
+    os.makedirs(devdir)
 
 if not os.path.exists(testdir):
     os.makedirs(testdir)
 
-stockfile = open(datadir + '/' + 'stock.txt','w+' )
+stockfile = open(datadir + '/' + 'stock.txt', 'w+')
 pythonFile = 'partitionS.py'
 
 
@@ -29,9 +29,8 @@ for filename in os.listdir(fulldir):
     if filename.endswith('json'):
         stock = filename[:-5]
         stockfile.write(stock + '\t')
-        print'python %s %s %s &' %(pythonFile, datadir, stock)
+        print'python %s %s %s &' % (pythonFile, datadir, stock)
         count += 1
-        if count %4 == 0:
+        if count % 4 == 0:
             print "wait"
 stockfile.close()
-
