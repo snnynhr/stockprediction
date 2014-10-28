@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.342169
+
+'s	HPQ	1.045550
+
+of	TXN	0.925344
+
+a	T	0.888913
+
+gas	CHK	0.884747
+
+the	NFLX	0.839233
+
+Drug	GILD	0.791559
+
+on	T	0.740913
+
+and	BRK.B	0.706191
+
+,	PPG	0.680253
+
+'s	KO	0.674377
+
+and	LUV	0.640111
+
+higher	AXP	0.589420
+
+TNT	UPS	0.585328
+
+To	CB	0.573897
+
+Dow	CAT	0.498396
+
+stocks	CSCO	0.480964
+
+FDA	ABT	0.476434
+
+Retailers	M	0.471436
+
+TECH	SNDK	0.469380
+
+%	CRM	-1.160630
+
+sales	JWN	-0.985692
+
+in	UTX	-0.757081
+
+'s	PFE	-0.709700
+
+for	M	-0.694537
+
+Helmerich	HP	-0.694512
+
+stocks	CHK	-0.690436
+
+$	WMB	-0.687668
+
+'s	CSX	-0.678533
+
+to	ANF	-0.667035
+
+the	KO	-0.646475
+
+Amylin	LLY	-0.640869
+
+Stocks	M	-0.617675
+
+Oil	VLO	-0.600496
+
+In	NDAQ	-0.578167
+
+Friday	M	-0.545906
+
+:	CNP	-0.540256
+
+:	XRX	-0.537574
+
+'s	XOM	-0.525352
+
+Gas	DVN	-0.518963
+

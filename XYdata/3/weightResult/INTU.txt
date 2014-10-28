@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-1.02136
+
+stocks	NVDA	0.846605
+
+Foods	SWY	0.840545
+
+CEO	VLO	0.777756
+
+stocks	LEN	0.751216
+
+Intel	AMAT	0.748722
+
+for	AXP	0.745734
+
+%	V	0.659535
+
+:	CVX	0.644057
+
+To	NKE	0.621847
+
+Retail	LOW	0.603019
+
+Airlines	BA	0.570149
+
+Vornado	VNO	0.569575
+
+,	PETM	0.558591
+
+Big	PNC	0.545913
+
+,	TER	0.535396
+
+To	NDAQ	0.534056
+
+Banks	BBT	0.529120
+
+,	ADP	0.503904
+
+,	IVZ	0.501920
+
+Housing	KBH	-0.930608
+
+in	VFC	-0.890059
+
+By	USB	-0.820953
+
+'s	ODP	-0.818780
+
+To	PG	-0.811247
+
+Stocks	HAL	-0.781181
+
+of	USB	-0.778145
+
+Friday	M	-0.762319
+
+Capital	BK	-0.745788
+
+To	IVZ	-0.732396
+
+Banks	PNC	-0.727266
+
+Up	ADBE	-0.721977
+
+Rambus	MU	-0.699261
+
+Financials	RF	-0.689370
+
+Ambac	MBI	-0.686333
+
+'s	CPB	-0.673650
+
+'s	UNP	-0.634773
+
+China	MCD	-0.617476
+
+Seagate	STX	-0.610905
+
+the	T	-0.567521
+

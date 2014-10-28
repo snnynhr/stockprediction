@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.310227
+
+of	RF	0.946854
+
+for	BIIB	0.880749
+
+TV	CBS	0.833732
+
+,	WM	0.730808
+
+Edison	EIX	0.710307
+
+stocks	AXP	0.703790
+
+'s	HBAN	0.670427
+
+&	BIIB	0.656218
+
+Stocks	LEN	0.628952
+
+'s	RSH	0.620214
+
+Stocks	LO	0.614355
+
+Tech	INTC	0.583040
+
+of	TWX	0.529337
+
+:	MON	0.529075
+
+of	WFC	0.528146
+
+Stocks	KO	0.508450
+
+,	NFLX	0.504898
+
+to	SBUX	0.499861
+
+stocks	HES	0.497620
+
+and	CHK	-1.325340
+
+GM	F	-1.122660
+
+'	KSS	-0.920214
+
+Heparin	BAX	-0.830210
+
+Frontier	FTR	-0.704567
+
+Federated	FII	-0.704561
+
+To	DUK	-0.688022
+
+To	APC	-0.687881
+
+and	AMD	-0.662659
+
+,	CHRW	-0.655308
+
+:	IVZ	-0.640309
+
+'s	V	-0.636143
+
+A	EMC	-0.624814
+
+Stocks	STI	-0.616592
+
+,	LLL	-0.598993
+
+Tysabri	BIIB	-0.576763
+
+On	ICE	-0.566232
+
+'s	IP	-0.563070
+
+'s	TSO	-0.560994
+
+of	PEP	-0.541331
+

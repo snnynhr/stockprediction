@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.469344
+
+Kinder	KMI	0.944277
+
+Credit-Card	COF	0.910234
+
+'s	MS	0.873313
+
+To	TWX	0.857205
+
+,	TSN	0.826892
+
+,	RTN	0.791738
+
+United	UTX	0.729103
+
+,	BCR	0.639267
+
+Stock	BRK.B	0.635661
+
+Financial	HIG	0.627700
+
+By	CHK	0.605163
+
+on	VLO	0.556287
+
+Energy	VLO	0.555687
+
+stocks	THC	0.541313
+
+:	JWN	0.535598
+
+to	CAT	0.528200
+
+Retailers	M	0.520203
+
+to	BA	0.508455
+
+:	INTC	0.502199
+
+for	GPS	-1.584050
+
+Buy	EMC	-1.187500
+
+in	AMAT	-1.051720
+
+for	LOW	-0.854547
+
+in	CVX	-0.795836
+
+to	JCP	-0.765384
+
+Coffee	SBUX	-0.724105
+
+,	AIV	-0.650126
+
+for	YHOO	-0.637108
+
+To	ESRX	-0.631064
+
+For	PRU	-0.602805
+
+in	IBM	-0.590371
+
+HOT	RSH	-0.575271
+
+Friday	M	-0.574312
+
+Stocks	RF	-0.565606
+
+Whirlpool	WHR	-0.563695
+
+US	BSX	-0.560846
+
+,	ABI	-0.555870
+
+for	AMD	-0.552824
+
+,	POM	-0.521284
+

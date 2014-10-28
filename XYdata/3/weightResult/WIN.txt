@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	1.80828
+
+From	COP	1.184020
+
+Rally	AA	0.958897
+
+stocks	AIG	0.935947
+
+Microsoft	CRM	0.866638
+
+Edison	EIX	0.788795
+
+stocks	AXP	0.640484
+
+;	BIIB	0.638546
+
+T	VZ	0.635432
+
+in	JNJ	0.633579
+
+on	WMT	0.574066
+
+the	INTC	0.566346
+
+Stocks	KO	0.552837
+
+%	NTAP	0.538459
+
+Akamai	AKAM	0.534217
+
+Facebook	NDAQ	0.513289
+
+Retail	TGT	0.510288
+
+,	WM	0.499571
+
+Constellation	BUD	0.481509
+
+,	UNP	0.431775
+
+Chevron	XOM	-1.213640
+
+the	BAC	-0.973594
+
+,	F	-0.896708
+
+in	APC	-0.854878
+
+to	HUM	-0.827801
+
+the	CME	-0.810571
+
+In	COF	-0.809213
+
+AT	T	-0.759173
+
+Longs	CVS	-0.713050
+
+Sales	WAG	-0.709866
+
+,	AIV	-0.702710
+
+Gas	XOM	-0.698291
+
+of	BBT	-0.662600
+
+Monster	MWW	-0.647036
+
+for	LLY	-0.642505
+
+Insurers	ALL	-0.635729
+
+:	MRO	-0.633240
+
+Stocks	ADI	-0.624500
+
+'s	DFS	-0.617345
+
+Interpublic	IPG	-0.614896
+

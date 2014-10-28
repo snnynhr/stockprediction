@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.472639
+
+Petroleum	APC	0.883585
+
+in	CME	0.794225
+
+Penney	M	0.760131
+
+,	STJ	0.739828
+
+Retail	ANF	0.737486
+
+stocks	RIG	0.732651
+
+,	SNI	0.719284
+
+;	EMC	0.697232
+
+Capital	HIG	0.665789
+
+Oracle	CRM	0.647313
+
+Deere	DE	0.644762
+
+Philip	PM	0.643184
+
+,	DPS	0.617619
+
+From	YHOO	0.591042
+
+Energy	VLO	0.590227
+
+the	MDLZ	0.586682
+
+Media	TWX	0.581174
+
+of	XOM	0.577769
+
+Yum	YUM	0.574486
+
+:	CELG	-1.109140
+
+in	PRU	-1.033680
+
+Stocks	MRK	-1.030690
+
+Heparin	BAX	-0.921060
+
+Stocks	FSLR	-0.789170
+
+in	SBUX	-0.750421
+
+US	CELG	-0.729557
+
+a	PG	-0.718773
+
+Stocks	DE	-0.694579
+
+?	BRCM	-0.687047
+
+To	VIA	-0.683111
+
+and	WHR	-0.680509
+
+Calpine	NRG	-0.673637
+
+%	PCLN	-0.552918
+
+Trade	CME	-0.549658
+
+,	TSS	-0.540804
+
+Energy	EXC	-0.534394
+
+on	ORCL	-0.522124
+
+stocks	BBY	-0.513982
+
+in	CAT	-0.510467
+

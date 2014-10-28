@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.0669359
+
+for	CBS	1.339820
+
+and	LUV	1.022970
+
+to	NOC	0.928691
+
+stocks	SWN	0.907247
+
+'s	AXP	0.816474
+
+to	BMY	0.697322
+
+HOT	CHK	0.692008
+
+:	VIAB	0.691292
+
+Stocks	ADP	0.690654
+
+Retail	SHLD	0.655352
+
+to	QCOM	0.652469
+
+Sales	SPLS	0.650972
+
+stocks	PCLN	0.638208
+
+Penney	M	0.634381
+
+,	CL	0.566349
+
+stocks	BMY	0.562648
+
+Bank	PNC	0.556906
+
+To	VLO	0.524151
+
+Media	TWX	0.510350
+
+AIG	GPS	-1.079060
+
+:	APA	-1.066340
+
+Of	JNJ	-0.944911
+
+'s	KBH	-0.886984
+
+Harley-Davidson	HOG	-0.760347
+
+Paccar	PCAR	-0.708463
+
+the	EBAY	-0.695268
+
+in	PNC	-0.688399
+
+to	ANF	-0.686103
+
+Coal	BTU	-0.684803
+
+May	COF	-0.609831
+
+Warner	TWX	-0.598880
+
+%	F	-0.594839
+
+the	AMD	-0.588461
+
+Stocks	CAT	-0.586760
+
+Red	RHT	-0.576515
+
+'s	UPS	-0.569932
+
+,	CHK	-0.559566
+
+to	VZ	-0.559510
+
+Regions	RF	-0.535195
+

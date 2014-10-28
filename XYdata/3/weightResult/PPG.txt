@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.368853
+
+stocks	NVDA	1.061900
+
+Up	NTAP	0.847704
+
+to	PEP	0.735280
+
+and	KSS	0.667628
+
+,	EOG	0.666435
+
+'	YHOO	0.647311
+
+on	TGT	0.618573
+
+%	PG	0.611098
+
+In	BLK	0.608492
+
+:	CAT	0.588930
+
+Stocks	PFE	0.573852
+
+,	DNB	0.566358
+
+Futures	CME	0.542248
+
+on	AXP	0.520049
+
+for	IBM	0.516297
+
+Stocks	JBL	0.510686
+
+as	FDX	0.506433
+
+Stocks	PHM	0.475583
+
+US	COF	0.471263
+
+;	YHOO	-1.366980
+
+Stock	ESRX	-1.071750
+
+stocks	BTU	-0.887611
+
+%	F	-0.846499
+
+'s	CAT	-0.815159
+
+Oil	NOV	-0.811435
+
+Manitowoc	MTW	-0.706121
+
+Drug	MRK	-0.690530
+
+%	HAL	-0.661176
+
+in	AMAT	-0.656707
+
+CenturyTel	CTL	-0.625473
+
+in	UTX	-0.621837
+
+,	EW	-0.616378
+
+Earnings	AA	-0.608207
+
+,	C	-0.585675
+
+:	ETN	-0.568965
+
+Progressive	PGR	-0.568836
+
+Deal	VZ	-0.562414
+
+,	SWN	-0.560806
+
+STOCKS	EA	-0.550878
+

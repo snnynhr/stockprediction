@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.481861
+
+stocks	HES	0.895879
+
+to	GIS	0.884340
+
+In	TWC	0.864763
+
+Solar	FSLR	0.844336
+
+Nordstrom	JWN	0.807801
+
+the	STI	0.800193
+
+on	SNDK	0.758617
+
+Oil	APA	0.712882
+
+Network	T	0.705594
+
+Fastenal	FAST	0.675742
+
+to	XOM	0.675712
+
+Chip	TXN	0.659173
+
+To	BLK	0.626366
+
+Altera	ALTR	0.617434
+
+in	BRK.B	0.605239
+
+&	NDAQ	0.594689
+
+on	MBI	0.538923
+
+Morgan	RF	0.537595
+
+and	LUV	0.535686
+
+The	MCO	-1.356480
+
+Card	V	-0.924402
+
+of	YHOO	-0.906797
+
+in	PRU	-0.794659
+
+for	SBUX	-0.734973
+
+Banks	FITB	-0.685610
+
+to	M	-0.660555
+
+Qualcomm	BRCM	-0.627267
+
+US	HES	-0.587749
+
+Bond	MBI	-0.584016
+
+Coffee	SBUX	-0.563116
+
+in	BBY	-0.559160
+
+%	SPLS	-0.558365
+
+ConocoPhillips	COP	-0.548453
+
+,	CELG	-0.539838
+
+to	AMZN	-0.525753
+
+Sales	ANF	-0.525461
+
+'s	XOM	-0.513205
+
+in	VRSN	-0.508920
+
+for	MON	-0.503613
+

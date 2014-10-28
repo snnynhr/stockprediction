@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.188274
+
+to	BAX	1.198800
+
+in	MU	1.089370
+
+and	CAT	0.977292
+
+Risk	BMY	0.889639
+
+the	HAL	0.817199
+
+stocks	BHI	0.735943
+
+in	APA	0.679199
+
+,	ADI	0.676866
+
+Energy	CHK	0.632562
+
+:	BIIB	0.628922
+
+To	AMGN	0.583993
+
+,	GCI	0.577617
+
+Alibaba	YHOO	0.556257
+
+to	PRU	0.552436
+
+'s	BLK	0.550537
+
+From	HAL	0.526301
+
+To	UNH	0.521362
+
+Dow	TRV	0.496188
+
+of	MET	0.483018
+
+drop	CVX	-1.887460
+
+stocks	HD	-1.183400
+
+for	NFLX	-0.942578
+
+Stocks	XLNX	-0.844203
+
+$	OXY	-0.835148
+
+to	NTRS	-0.797558
+
+&	BBY	-0.757551
+
+Costs	LUV	-0.737051
+
+,	FE	-0.654597
+
+the	XOM	-0.653470
+
+Treasury	AIG	-0.630113
+
+;	M	-0.629793
+
+on	ORCL	-0.626023
+
+'s	GCI	-0.610255
+
+,	PCP	-0.570140
+
+'	SBUX	-0.544241
+
+the	NTAP	-0.524382
+
+,	GME	-0.520104
+
+Boeing	BA	-0.518468
+
+Sales	M	-0.511104
+

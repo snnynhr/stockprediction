@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-2.24106
+
+a	KO	0.804468
+
+Stocks	GNW	0.730637
+
+Companies	CVX	0.684084
+
+Stocks	UNH	0.662882
+
+Stocks	SLB	0.657053
+
+$	CVC	0.655971
+
+Stocks	DHI	0.646986
+
+Chips	SNDK	0.608572
+
+Stores	M	0.588438
+
+Stocks	ADP	0.578204
+
+:	VIAB	0.543526
+
+;	COST	0.523359
+
+Tenet	THC	0.513546
+
+,	SRE	0.511327
+
+%	ETR	0.506513
+
+:	CIEN	0.495200
+
+stocks	TXN	0.490632
+
+for	TGT	0.490247
+
+,	CAM	0.480880
+
+'s	MRO	-1.235620
+
+Retail	WAG	-1.138800
+
+on	BK	-1.126480
+
+Fitch	ANF	-0.957325
+
+Trust	NTRS	-0.950617
+
+in	HBAN	-0.870081
+
+,	RRC	-0.864865
+
+the	BMY	-0.841850
+
+Cisco	EMC	-0.799388
+
+On	JNPR	-0.775033
+
+To	ICE	-0.667769
+
+to	MDLZ	-0.632845
+
+;	SBUX	-0.626345
+
+To	AMP	-0.618059
+
+From	WFC	-0.588169
+
+By	KBH	-0.579797
+
+Teradyne	TER	-0.571016
+
+to	T	-0.553902
+
+ConAgra	CAG	-0.551001
+
+Stocks	MDLZ	-0.542029
+

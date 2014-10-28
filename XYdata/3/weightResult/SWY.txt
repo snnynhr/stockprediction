@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-1.34586
+
+Crude	VLO	0.984487
+
+on	VLO	0.940306
+
+'s	CRM	0.822599
+
+for	MRK	0.754048
+
+on	AXP	0.707093
+
+on	NDAQ	0.608246
+
+:	LEN	0.598199
+
+to	LLY	0.593043
+
+On	ABT	0.588116
+
+Health	WLP	0.580174
+
+Stocks	PM	0.548615
+
+as	CVX	0.544517
+
+sales	M	0.537972
+
+Zynga	EA	0.518019
+
+Philip	PM	0.513505
+
+stocks	TSO	0.509481
+
+to	BMY	0.478289
+
+Sales	GPS	0.463902
+
+:	ABT	0.463505
+
+U.S.	BRK.B	-0.982940
+
+Airlines	LUV	-0.875991
+
+Is	CHK	-0.873265
+
+in	BMY	-0.779310
+
+,	FLIR	-0.725366
+
+US	GIS	-0.713424
+
+:	LMT	-0.693830
+
+for	DOW	-0.686486
+
+$	MRO	-0.681203
+
+Gas	CHK	-0.665946
+
+in	AMAT	-0.665402
+
+Exchanges	NDAQ	-0.663934
+
+:	SPG	-0.661993
+
+Discover	MA	-0.650555
+
+Mortgage	MTG	-0.638899
+
+'s	APA	-0.633370
+
+of	SHLD	-0.605357
+
+Stocks	CVX	-0.588006
+
+'s	GPS	-0.556789
+
+'	MCD	-0.554026
+

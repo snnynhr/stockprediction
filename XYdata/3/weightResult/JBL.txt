@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.575429
+
+;	STT	0.954871
+
+On	FDX	0.925354
+
+:	SBUX	0.705990
+
+;	FITB	0.664398
+
+CEO	PFE	0.657205
+
+,	SWN	0.645670
+
+to	BA	0.633712
+
+stocks	HAL	0.603174
+
+on	LUV	0.584642
+
+,	GD	0.573674
+
+Insurers	HIG	0.571779
+
+U.S.	MRK	0.555469
+
+,	BA	0.544108
+
+Health	HUM	0.539084
+
+Eaton	ETN	0.536324
+
+Gas	CHK	0.527677
+
+Alibaba	YHOO	0.516324
+
+Earnings	AMD	0.510275
+
+Group	CME	0.510029
+
+July	COST	-1.197870
+
+&	ABT	-0.931797
+
+Harley-Davidson	HOG	-0.914408
+
+to	APA	-0.864422
+
+'	BMY	-0.863994
+
+as	VLO	-0.764093
+
+,	MNST	-0.697146
+
+US	PNC	-0.669492
+
+Coffee	SBUX	-0.648388
+
+,	SO	-0.631251
+
+Power	SRE	-0.625059
+
+Expectations	M	-0.621793
+
+'s	MDT	-0.618575
+
+Fall	AMD	-0.618213
+
+:	IGT	-0.601042
+
+Stocks	MU	-0.594837
+
+'s	KBH	-0.591727
+
+:	HSP	-0.578895
+
+Aon	AON	-0.577254
+
+of	YHOO	-0.556509
+

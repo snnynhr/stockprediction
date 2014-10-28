@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.556928
+
+From	CAT	1.048760
+
+Warner	PG	0.966878
+
+:	LH	0.957926
+
+of	BLK	0.820887
+
+Mall	SPG	0.784086
+
+Banks	CMA	0.725075
+
+For	CVS	0.713306
+
+Bank	PNC	0.672959
+
+To	BSX	0.652961
+
+to	CAT	0.633800
+
+to	KO	0.627117
+
+,	ABT	0.607974
+
+'s	NFLX	0.602528
+
+,	IFF	0.601548
+
+Futures	CME	0.547854
+
+of	AIG	0.530999
+
+CSX	CSX	0.517742
+
+,	FIS	0.502488
+
+Horton	DHI	0.497610
+
+Prices	CVX	-1.385750
+
+Credit	MA	-1.033690
+
+US	ABT	-1.023760
+
+for	COP	-0.779256
+
+Paso	KMI	-0.773479
+
+?	GLW	-0.717385
+
+Chevron	XOM	-0.655786
+
+Sales	MON	-0.654319
+
+,	HRS	-0.640784
+
+the	TIF	-0.611515
+
+to	ANF	-0.587768
+
+stocks	SHLD	-0.586908
+
+on	RF	-0.553453
+
+Bristol	BMY	-0.537033
+
+:	FCX	-0.509431
+
+:	EA	-0.503421
+
+Bank	STI	-0.486457
+
+Heparin	BAX	-0.476318
+
+to	BAC	-0.473641
+
+:	LLY	-0.459430
+

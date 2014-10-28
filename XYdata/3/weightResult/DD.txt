@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.194026
+
+'s	BLK	1.136780
+
+the	HPQ	1.120220
+
+stocks	NVDA	1.107340
+
+:	GLW	1.059750
+
+Dow	CAT	0.879832
+
+Foods	MDLZ	0.837801
+
+;	APA	0.829398
+
+Health	HUM	0.720940
+
+,	BMS	0.688022
+
+to	BA	0.683732
+
+Allergan	AGN	0.646342
+
+Smucker	SJM	0.605912
+
+as	AMD	0.589826
+
+US	CSX	0.588870
+
+rise	AA	0.586729
+
+'s	LLY	0.573091
+
+:	BRCM	0.566269
+
+to	TGT	0.565784
+
+;	FITB	0.512988
+
+'s	NKE	-0.910303
+
+for	LLY	-0.847658
+
+:	TROW	-0.846031
+
+:	RRC	-0.770918
+
+to	UNH	-0.763316
+
+?	CSCO	-0.754388
+
+Stocks	DE	-0.683234
+
+;	SBUX	-0.676526
+
+On	MDT	-0.675061
+
+for	WFC	-0.631199
+
+Medicare	HUM	-0.619595
+
+Earnings	AA	-0.612784
+
+Sales	TXN	-0.591733
+
+,	ACE	-0.570031
+
+U.S.	FDO	-0.567281
+
+for	DOW	-0.565739
+
+Cyprus	C	-0.547708
+
+'s	PFE	-0.546829
+
+tech	TXN	-0.543481
+
+Philips	GE	-0.533068
+

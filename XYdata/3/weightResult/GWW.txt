@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.988521
+
+Up	BRK.B	0.767783
+
+in	NVDA	0.753080
+
+on	JNJ	0.727209
+
+;	XOM	0.676495
+
+:	STZ	0.662707
+
+the	USB	0.597028
+
+the	AIG	0.589812
+
+Retailers	ANF	0.563818
+
+:	DO	0.549017
+
+,	IVZ	0.519326
+
+Management	RSG	0.501864
+
+Chip	TXN	0.493789
+
+the	KEY	0.489212
+
+Stocks	LEN	0.486239
+
+;	MET	0.481972
+
+Transocean	RIG	0.478451
+
+in	JWN	0.472720
+
+stocks	VLO	0.467546
+
+Retail	ANF	0.462086
+
+Stocks	M	-1.339060
+
+In	NDAQ	-1.031350
+
+on	ADBE	-1.027360
+
+stocks	INTC	-0.983360
+
+Status	TSO	-0.973600
+
+The	QCOM	-0.819650
+
+for	WFC	-0.761412
+
+Banks	BK	-0.753111
+
+$	HPQ	-0.738076
+
+:	UNH	-0.730219
+
+:	TXT	-0.710910
+
+'s	GILD	-0.703095
+
+To	AET	-0.679108
+
+US	WAG	-0.646254
+
+U.S.	DHI	-0.618939
+
+,	CERN	-0.607121
+
+:	AMZN	-0.606285
+
+Lilly	BMY	-0.563263
+
+for	EA	-0.558309
+
+,	RRC	-0.557752
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.564327
+
+of	BLK	1.189780
+
+a	SCHW	1.135230
+
+Friday	SHLD	1.101960
+
+of	EBAY	1.060310
+
+on	MA	0.962661
+
+By	NDAQ	0.942782
+
+in	JNJ	0.940278
+
+Exxon	MRO	0.905669
+
+Up	CSX	0.830991
+
+The	JCP	0.789976
+
+?	NYT	0.769640
+
+For	ABT	0.720568
+
+St	STJ	0.708474
+
+Chips	AMD	0.685808
+
+Salesforce.com	CRM	0.618652
+
+Credit-Card	COF	0.573142
+
+'s	LLY	0.551394
+
+stocks	BMY	0.539419
+
+For	MBI	0.522696
+
+Martin	LMT	-1.158130
+
+:	CPB	-1.042360
+
+;	JCP	-0.932816
+
+Resources	RRC	-0.820787
+
+New	PEP	-0.798165
+
+Gas	HES	-0.753705
+
+,	VMC	-0.709116
+
+for	KO	-0.675275
+
+Net	M	-0.668824
+
+;	ANF	-0.628562
+
+to	OMC	-0.602252
+
+Agrium	CF	-0.585182
+
+,	BAC	-0.574185
+
+:	MA	-0.559239
+
+Deal	DOW	-0.540493
+
+HOT	NTAP	-0.537006
+
+to	MET	-0.519922
+
+to	APA	-0.513398
+
+Prudential	PRU	-0.499212
+
+Chip	BRCM	-0.497974
+

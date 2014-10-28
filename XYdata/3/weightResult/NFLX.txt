@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.268609
+
+stocks	BTU	1.490160
+
+U.S.	BBY	0.992691
+
+Stocks	MU	0.812862
+
+PC	HPQ	0.766827
+
+Deal	UPS	0.681220
+
+Offshore	DO	0.664245
+
+:	NOC	0.658991
+
+Tech	CSCO	0.630212
+
+Mylan	MYL	0.600813
+
+and	BRK.B	0.596160
+
+Stocks	THC	0.577945
+
+on	STI	0.567688
+
+Schwab	SCHW	0.557724
+
+for	WLP	0.553498
+
+on	JCP	0.545902
+
+'s	GPS	0.541466
+
+stocks	NVDA	0.539191
+
+,	GM	0.526923
+
+Home	DHI	0.511846
+
+From	MET	-1.037590
+
+For	JNJ	-0.955079
+
+:	UNH	-0.847448
+
+Autodesk	ADSK	-0.833025
+
+Donnelley	RRD	-0.828373
+
+energy	CHK	-0.809911
+
+Gulf	APC	-0.803295
+
+Fed	WFC	-0.755063
+
+Agrium	CF	-0.718120
+
+on	GE	-0.672670
+
+&	BBBY	-0.645163
+
+in	INTC	-0.636079
+
+Intel	TXN	-0.635268
+
+Valero	VLO	-0.622228
+
+With	INTC	-0.553841
+
+American	AXP	-0.538007
+
+,	COG	-0.536374
+
+Friday	TGT	-0.509199
+
+,	FTI	-0.494594
+
+'s	AMZN	-0.492591
+

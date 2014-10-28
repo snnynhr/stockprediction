@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.479802
+
+On	MU	0.912628
+
+Lifesciences	EW	0.908227
+
+Stocks	MBI	0.846589
+
+Stocks	FCX	0.832406
+
+Stocks	CVX	0.805895
+
+AmerisourceBergen	ABC	0.773800
+
+To	AEP	0.739424
+
+;	BMY	0.705010
+
+US	NDAQ	0.701666
+
+Humana	HUM	0.671152
+
+up	VLO	0.667100
+
+to	BMY	0.637563
+
+Stocks	SYMC	0.620828
+
+,	IRM	0.612699
+
+in	YHOO	0.555167
+
+Grainger	GWW	0.535117
+
+in	MBI	0.521528
+
+Facebook	NDAQ	0.518020
+
+Dow	DOW	0.511489
+
+,	ACE	-1.015930
+
+Stocks	MRK	-0.983424
+
+Oil	APC	-0.973800
+
+Marathon	MRO	-0.935409
+
+Facebook	HPQ	-0.893620
+
+,	AMP	-0.779514
+
+for	USB	-0.777551
+
+in	BRCM	-0.740672
+
+'	NYT	-0.715004
+
+Buy	KO	-0.706582
+
+,	NFX	-0.691638
+
+Stocks	QCOM	-0.680627
+
+;	SHLD	-0.676223
+
+Apple	YHOO	-0.666985
+
+As	AMD	-0.666156
+
+HOT	EMN	-0.648204
+
+,	LH	-0.621565
+
+for	INTC	-0.596556
+
+In	ABT	-0.567524
+
+Reports	COP	-0.555167
+

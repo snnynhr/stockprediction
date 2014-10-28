@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.0973288
+
+the	CRM	0.912241
+
+,	AIZ	0.886053
+
+in	LUV	0.716632
+
+Corpus	VLO	0.686952
+
+Stocks	PFE	0.660218
+
+To	AMAT	0.638764
+
+Travelers	TRV	0.629311
+
+Aon	AON	0.592954
+
+as	FDX	0.587196
+
+,	BCR	0.582496
+
+'s	JWN	0.550331
+
+for	MRK	0.550236
+
+of	WMT	0.549802
+
+Masco	MAS	0.534047
+
+Penney	VNO	0.524629
+
+Retailers	HD	0.516155
+
+Capital	COF	0.510135
+
+'	STT	0.497352
+
+To	PCG	0.492079
+
+To	MRO	-0.904763
+
+to	DOW	-0.842090
+
+'s	CSX	-0.836496
+
+Ralcorp	CAG	-0.807340
+
+'s	HSY	-0.723723
+
+Stocks	MRK	-0.722793
+
+on	CSCO	-0.706091
+
+'s	ANF	-0.658430
+
+With	TWX	-0.641740
+
+'s	NSC	-0.634677
+
+in	VLO	-0.587768
+
+,	BLK	-0.576769
+
+%	FCX	-0.576103
+
+,	RHI	-0.562268
+
+Marsh	MMC	-0.546497
+
+'s	SNDK	-0.544571
+
+Heparin	BAX	-0.540177
+
+,	GME	-0.532293
+
+:	LMT	-0.531023
+
+$	MRO	-0.528225
+

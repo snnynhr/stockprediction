@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.0743095
+
+US	LEN	1.080560
+
+,	GWW	0.993789
+
+Weatherford	WFT	0.838587
+
+At	V	0.803350
+
+stocks	TXN	0.802774
+
+PNC	PNC	0.727513
+
+&	PNC	0.708030
+
+%	LLY	0.697326
+
+Cadbury	HSY	0.693901
+
+the	HPQ	0.621722
+
+and	MMM	0.602025
+
+,	MRO	0.590210
+
+and	CBS	0.583153
+
+Wyndham	WYN	0.582027
+
+&	KEY	0.571575
+
+Banks	AXP	0.556825
+
+To	BSX	0.550560
+
+to	TXN	0.550486
+
+Chips	SNDK	0.537091
+
+Discovery	DISCA	-0.976599
+
+Progressive	PGR	-0.788258
+
+Gains	HD	-0.787208
+
+Coke	PEP	-0.740897
+
+to	UNH	-0.722959
+
+?	BRK.B	-0.691039
+
+Drug	AMGN	-0.662379
+
+for	KO	-0.616702
+
+Stocks	M	-0.579059
+
+,	DTV	-0.577752
+
+%	EXC	-0.555426
+
+Deal	TWX	-0.543409
+
+'s	TIF	-0.538807
+
+$	COP	-0.527535
+
+,	BRK.B	-0.522394
+
+Celgene	CELG	-0.517906
+
+Sector	TXN	-0.504619
+
+$	MO	-0.500618
+
+&	ABT	-0.499253
+
+Ambac	MBI	-0.495327
+

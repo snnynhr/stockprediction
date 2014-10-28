@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.297025
+
+on	VLO	1.245260
+
+stocks	TXN	1.161750
+
+Morning	WMT	0.924584
+
+'s	MET	0.870286
+
+as	TXN	0.785935
+
+Drug	ABT	0.770571
+
+'s	C	0.672953
+
+To	APA	0.672758
+
+Retailers	HD	0.657044
+
+:	PEG	0.646079
+
+On	V	0.614201
+
+of	MBI	0.605779
+
+Sales	KSS	0.603208
+
+Stocks	COF	0.570463
+
+OMX	NDAQ	0.568472
+
+to	CAT	0.555409
+
+Buffett	GE	0.547026
+
+:	LEN	0.529495
+
+Stocks	QCOM	0.528680
+
+'s	WAG	-0.836734
+
+Stocks	MDLZ	-0.758287
+
+to	ADBE	-0.738705
+
+the	KO	-0.728993
+
+,	IACI	-0.703078
+
+for	NVDA	-0.667758
+
+ConAgra	CAG	-0.641555
+
+'s	AA	-0.641527
+
+From	CME	-0.628615
+
+of	AIG	-0.597168
+
+Spill	RIG	-0.554730
+
+To	SYMC	-0.551359
+
+to	HIG	-0.546490
+
+in	BRCM	-0.523729
+
+Tysabri	BIIB	-0.521226
+
+SanDisk	SNDK	-0.514078
+
+%	FCX	-0.499644
+
+:	ARG	-0.499332
+
+,	PPL	-0.488025
+
+,	MTW	-0.487853
+

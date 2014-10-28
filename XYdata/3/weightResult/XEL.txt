@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.45937
+
+'s	COST	1.237550
+
+Rise	COST	0.944155
+
+Best	TGT	0.785995
+
+for	COF	0.697041
+
+$	COP	0.640158
+
+on	MU	0.584630
+
+Tobacco	MO	0.581307
+
+:	GPS	0.566858
+
+To	WFM	0.560172
+
+Dreamliner	BA	0.555703
+
+Chrysler	F	0.549865
+
+US	UTX	0.534981
+
+,	CB	0.521421
+
+on	XOM	0.505348
+
+HOT	AA	0.499027
+
+United	UTX	0.487900
+
+the	FITB	0.486929
+
+Edison	EIX	0.486839
+
+Up	KO	0.466189
+
+From	NVDA	-1.286920
+
+for	LLY	-1.093950
+
+Founder	BBY	-0.855306
+
+Of	XOM	-0.763715
+
+Energy	FSLR	-0.741641
+
+CEO	NDAQ	-0.739616
+
+and	CHK	-0.704035
+
+?	QCOM	-0.700647
+
+for	HIG	-0.666781
+
+'s	WMT	-0.653828
+
+,	PCP	-0.639079
+
+Ambac	MBI	-0.624397
+
+:	JNPR	-0.616976
+
+Walgreen	ESRX	-0.612477
+
+and	FCX	-0.595432
+
+Stocks	UTX	-0.594115
+
+to	PNC	-0.592295
+
+'s	GCI	-0.581126
+
+Profit	V	-0.578184
+
+The	DIS	-0.578171
+

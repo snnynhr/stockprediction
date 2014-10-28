@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.545919
+
+Stocks	UNH	1.087800
+
+for	BBY	1.031730
+
+on	PHM	0.848333
+
+For	MU	0.782246
+
+on	HD	0.738980
+
+The	FSLR	0.701904
+
+Study	MDT	0.692068
+
+telecoms	QCOM	0.677812
+
+In	VIA	0.672051
+
+as	CME	0.666718
+
+:	GILD	0.639671
+
+Stocks	GNW	0.638536
+
+D.R.	DHI	0.633013
+
+for	VZ	0.608317
+
+;	ADI	0.596388
+
+'	SHLD	0.574055
+
+'s	ADBE	0.557687
+
+:	HON	0.537912
+
+:	IRM	0.512913
+
+%	FCX	-1.444410
+
+'s	CSX	-1.157970
+
+to	ANF	-1.115770
+
+Stocks	DE	-0.916137
+
+On	BBY	-0.855210
+
+,	AEP	-0.791758
+
+Cancer	PFE	-0.752065
+
+Texas	VLO	-0.693375
+
+,	MMC	-0.688145
+
+in	BBBY	-0.668922
+
+Stocks	FSLR	-0.651190
+
+Microchip	MCHP	-0.644799
+
+to	CA	-0.617417
+
+Banks	BBT	-0.609941
+
+With	TWX	-0.605981
+
+,	CTAS	-0.593591
+
+ConocoPhillips	COP	-0.581970
+
+Transocean	RIG	-0.571671
+
+:	NOV	-0.565889
+
+STOCKS	HPQ	-0.565229
+

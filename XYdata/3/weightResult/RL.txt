@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-1.40282
+
+;	JNJ	0.863396
+
+Retailers	ROST	0.757795
+
+stocks	CSCO	0.686773
+
+Wireless	VZ	0.617545
+
+:	CVX	0.616270
+
+;	AA	0.595151
+
+;	SHLD	0.531620
+
+,	ALXN	0.507751
+
+,	UTX	0.500855
+
+in	AMD	0.488956
+
+Waste	WM	0.481548
+
+:	CLX	0.478327
+
+:	HON	0.468427
+
+,	LRCX	0.467674
+
+in	AXP	0.450567
+
+'s	BBY	0.448291
+
+on	HD	0.445784
+
+'s	AIG	0.430457
+
+,	ETR	0.412904
+
+'s	XRX	-1.465080
+
+Stocks	M	-1.378760
+
+on	STI	-1.335200
+
+'s	GE	-0.973166
+
+Profit	WAG	-0.969207
+
+Heparin	BAX	-0.913608
+
+Power	PCG	-0.840925
+
+Retail	KSS	-0.806159
+
+,	RHI	-0.804725
+
+and	KO	-0.708282
+
+Stocks	MDLZ	-0.686604
+
+Stocks	FSLR	-0.684724
+
+,	BAC	-0.670980
+
+Celgene	CELG	-0.653654
+
+of	PEP	-0.635400
+
+to	PNC	-0.632069
+
+'s	FCX	-0.609425
+
+on	WFC	-0.606514
+
+a	COF	-0.603275
+
+Martin	LMT	-0.602329
+

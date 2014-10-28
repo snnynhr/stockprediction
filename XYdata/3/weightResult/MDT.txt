@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.0280761
+
+stocks	TXN	1.091650
+
+Banks	AXP	0.995379
+
+on	VLO	0.816152
+
+Dow	AA	0.785770
+
+the	AIG	0.768983
+
+:	ADI	0.734007
+
+,	CMA	0.712474
+
+%	CVS	0.711897
+
+the	UTX	0.653311
+
+AEP	AEP	0.651002
+
+Restaurants	DRI	0.633776
+
+By	TXN	0.627965
+
+:	PCLN	0.618923
+
+,	ETR	0.610795
+
+:	STZ	0.610750
+
+to	CAT	0.607012
+
+to	LLY	0.598919
+
+in	EMC	0.571894
+
+Scripts	WAG	0.568584
+
+'s	NYT	-0.894521
+
+AutoNation	AN	-0.757166
+
+Oil	VLO	-0.708132
+
+'s	NKE	-0.677388
+
+Financial	RF	-0.664787
+
+;	SWN	-0.654122
+
+to	PG	-0.630029
+
+'s	TGT	-0.623339
+
+US	LOW	-0.605631
+
+To	AIG	-0.588611
+
+Heparin	BAX	-0.587094
+
+,	MTB	-0.571515
+
+Pepsi	KO	-0.568012
+
+To	SLM	-0.561829
+
+Banks	PNC	-0.544601
+
+Stocks	EMC	-0.507903
+
+To	BLK	-0.506538
+
+Sales	HD	-0.503701
+
+in	UTX	-0.501358
+
+as	CHK	-0.500235
+

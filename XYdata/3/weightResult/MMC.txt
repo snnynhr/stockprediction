@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.389989
+
+On	NDAQ	0.883120
+
+Oil	HES	0.841918
+
+of	TXN	0.830766
+
+;	STT	0.645326
+
+Barclays	BLK	0.643898
+
+To	MON	0.634736
+
+:	KEY	0.600125
+
+In	BLK	0.595519
+
+The	YHOO	0.574482
+
+to	IBM	0.573445
+
+to	CAT	0.570544
+
+Stents	ABT	0.568678
+
+Deere	DE	0.559253
+
+PepsiCo	PEP	0.552502
+
+%	SPLS	0.542919
+
+Health	CAH	0.539916
+
+stocks	LEN	0.535456
+
+Airlines	BA	0.534731
+
+in	LM	0.530648
+
+To	PRU	-1.269070
+
+and	MET	-1.003820
+
+?	MDLZ	-0.940705
+
+on	STI	-0.880138
+
+to	PG	-0.855722
+
+Trust	NTRS	-0.843314
+
+U.S.	BRK.B	-0.806296
+
+For	PFE	-0.744208
+
+The	AIG	-0.738639
+
+Apple	EBAY	-0.736095
+
+U.S.	TSN	-0.707178
+
+Stocks	ADI	-0.672023
+
+Morning	AMZN	-0.670380
+
+Stent	ABT	-0.628760
+
+Chemical	DOW	-0.612228
+
+Nasdaq	NDAQ	-0.603903
+
+Pfizer	ABT	-0.586280
+
+on	BK	-0.581576
+
+%	F	-0.576222
+
+in	WMB	-0.557272
+

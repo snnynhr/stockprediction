@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.341637
+
+Energy	NOV	1.650930
+
+Credit	CME	0.895093
+
+to	PCG	0.804170
+
+To	DRI	0.794630
+
+to	LLY	0.767267
+
+on	MBI	0.751439
+
+,	WM	0.739220
+
+In	BMY	0.722178
+
+Libya	COP	0.656997
+
+in	CSCO	0.643573
+
+Philip	PM	0.614263
+
+,	FTI	0.603821
+
+Janus	JNS	0.583307
+
+%	CVS	0.574450
+
+AIG	MET	0.561628
+
+State	STT	0.556549
+
+TNT	UPS	0.513757
+
+STOCKS	BBY	0.508635
+
+:	MRK	0.495900
+
+New	XOM	-1.780020
+
+as	FSLR	-1.323100
+
+Southwestern	SWN	-1.271740
+
+stocks	CHK	-1.067690
+
+%	CPB	-0.965592
+
+Clearing	NDAQ	-0.876826
+
+on	UTX	-0.798918
+
+Stocks	BBY	-0.761738
+
+,	VMC	-0.752765
+
+Rambus	MU	-0.748498
+
+Taiwan	AIG	-0.747538
+
+the	XOM	-0.668059
+
+for	NYT	-0.645858
+
+Retail	M	-0.644083
+
+Trust	BK	-0.633227
+
+:	DUK	-0.625689
+
+Lead	AMD	-0.615870
+
+Computer	CSC	-0.613262
+
+to	WLP	-0.602905
+
+King	MCD	-0.590822
+

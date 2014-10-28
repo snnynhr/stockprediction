@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.350265
+
+Fed	COF	1.117070
+
+stocks	QCOM	1.046560
+
+Diamond	DO	0.928507
+
+of	RF	0.915364
+
+to	CAT	0.749687
+
+Corp	EMC	0.747412
+
+In	UNH	0.742334
+
+In	TWC	0.738178
+
+the	F	0.734945
+
+on	VZ	0.708082
+
+Stocks	QCOM	0.627241
+
+Higher	TXN	0.612409
+
+Nordstrom	JWN	0.609734
+
+PNC	PNC	0.597254
+
+Google	IACI	0.589150
+
+Oil	HES	0.584581
+
+Edison	EIX	0.581802
+
+in	JWN	0.578705
+
+on	WMT	0.575111
+
+'s	NYT	-1.089600
+
+in	DIS	-0.846481
+
+NiSource	NI	-0.806598
+
+Wal-Mart	KSS	-0.802276
+
+Networks	JNPR	-0.786079
+
+:	ETFC	-0.725620
+
+in	LLY	-0.721502
+
+On	M	-0.686648
+
+To	X	-0.644312
+
+;	TWX	-0.637282
+
+Comcast	CMCSA	-0.628015
+
+and	WMT	-0.625648
+
+and	CHK	-0.613023
+
+Manitowoc	MTW	-0.604659
+
+Chip	MU	-0.594652
+
+American	AXP	-0.590046
+
+,	AVY	-0.582644
+
+:	FIS	-0.575129
+
+Stock	MMM	-0.568178
+
+to	HPQ	-0.549630
+

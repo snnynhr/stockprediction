@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.0173494
+
+Up	AA	1.206660
+
+stocks	FHN	1.169360
+
+Zions	ZION	0.908167
+
+to	CAT	0.888284
+
+One	COF	0.782813
+
+Insurers	MBI	0.774576
+
+US	FDX	0.771598
+
+to	WAG	0.708148
+
+Stocks	ZION	0.657810
+
+on	MBI	0.657230
+
+Bank	PNC	0.630351
+
+Banks	USB	0.616105
+
+On	MU	0.604688
+
+:	LMT	0.591007
+
+for	NYT	0.569970
+
+;	GME	0.560713
+
+Dow	CAT	0.540989
+
+Stocks	PNC	0.529225
+
+,	ALL	0.528057
+
+Red	RHT	-1.026600
+
+In	LLY	-0.964839
+
+,	MUR	-0.877120
+
+on	ORCL	-0.758430
+
+;	DIS	-0.712821
+
+to	PG	-0.689987
+
+Networks	JNPR	-0.666380
+
+%	PNC	-0.617132
+
+;	M	-0.595821
+
+Insurers	PRU	-0.591465
+
+Capital	BK	-0.575812
+
+Lorillard	LO	-0.550337
+
+Boeing	BA	-0.550063
+
+stocks	COST	-0.548154
+
+the	BRCM	-0.535664
+
+of	GD	-0.517292
+
+Of	APC	-0.506221
+
+lower	VLO	-0.506050
+
+'s	CME	-0.504047
+
+,	MPC	-0.502322
+

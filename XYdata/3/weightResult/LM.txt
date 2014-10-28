@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.20435
+
+stocks	HES	1.202780
+
+Oracle	CRM	0.915842
+
+to	NOC	0.830926
+
+a	KSS	0.743970
+
+:	GLW	0.695020
+
+Bank	COF	0.677106
+
+:	COST	0.633640
+
+$	BMY	0.625019
+
+'s	JCP	0.620688
+
+in	BRK.B	0.613101
+
+:	PG	0.588756
+
+Of	BK	0.585813
+
+;	EMC	0.579530
+
+to	CVX	0.572484
+
+To	KO	0.569768
+
+,	ETR	0.513090
+
+for	CBS	0.503132
+
+,	FAST	0.475488
+
+Earnings	BBY	0.449645
+
+China	KO	-1.059680
+
+Hospira	HSP	-0.929863
+
+in	UTX	-0.923914
+
+Oil	VLO	-0.795441
+
+,	VZ	-0.748803
+
+To	XEL	-0.695782
+
+American	RAI	-0.651231
+
+Franklin	BEN	-0.616464
+
+Prudential	PRU	-0.611267
+
+$	MRO	-0.570101
+
+Credit	COF	-0.554762
+
+Colgate-Palmolive	CL	-0.552691
+
+:	CVG	-0.539757
+
+Jobs	ADP	-0.535954
+
+stocks	CHK	-0.531688
+
+,	TRIP	-0.526967
+
+:	COH	-0.521255
+
+Networks	JNPR	-0.516290
+
+'s	LLY	-0.514140
+
+Nasdaq	AMD	-0.506054
+

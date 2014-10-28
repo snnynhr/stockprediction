@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.0416556
+
+The	FDX	1.784150
+
+to	BA	1.069810
+
+of	EA	0.913013
+
+U.S.	STI	0.784502
+
+on	HD	0.689218
+
+In	MU	0.666579
+
+To	UPS	0.636035
+
+,	AIZ	0.615662
+
+Penney	M	0.605622
+
+stocks	TXN	0.583131
+
+:	C	0.559582
+
+Earnings	LOW	0.546730
+
+the	USB	0.532027
+
+Scientific	STJ	0.520578
+
+:	CBS	0.505355
+
+:	PEP	0.484888
+
+$	PCG	0.483442
+
+in	STT	0.481651
+
+$	BLK	0.475540
+
+:	TXT	-0.840650
+
+?	CSCO	-0.805935
+
+Retail	BBY	-0.688018
+
+Humana	HUM	-0.682576
+
+Billion	AIG	-0.682395
+
+,	ACE	-0.662212
+
+'s	GCI	-0.662086
+
+In	COF	-0.651610
+
+Diamond	PG	-0.640626
+
+in	DD	-0.627504
+
+for	LLY	-0.603843
+
+US	CME	-0.588201
+
+:	KLAC	-0.576496
+
+Stocks	UTX	-0.561599
+
+to	WDC	-0.560629
+
+On	JNPR	-0.557035
+
+Progressive	PGR	-0.551727
+
+Gulf	XOM	-0.550320
+
+Apple	YHOO	-0.547464
+
+Sales	HD	-0.546796
+

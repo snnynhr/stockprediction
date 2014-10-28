@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.484845
+
+Regional	STI	0.995087
+
+SEC	MCO	0.901942
+
+To	JCP	0.893567
+
+Daily	CME	0.890297
+
+To	DRI	0.836583
+
+To	LUV	0.655626
+
+Transocean	RIG	0.632366
+
+for	BHI	0.614221
+
+on	SHLD	0.611230
+
+for	NYT	0.609368
+
+Google	IACI	0.590049
+
+$	MA	0.583678
+
+on	MBI	0.565297
+
+the	WFM	0.556847
+
+:	USB	0.548705
+
+Zions	ZION	0.517378
+
+,	EMN	0.513794
+
+US	TIF	0.509826
+
+,	XOM	0.509238
+
+'s	DHI	-1.013810
+
+Stocks	DE	-0.972701
+
+To	WYNN	-0.859116
+
+for	KO	-0.849598
+
+$	DOW	-0.840901
+
+Growth	SPG	-0.819672
+
+in	LOW	-0.717391
+
+Banks	HBAN	-0.700826
+
+Stocks	M	-0.697855
+
+%	TXN	-0.672145
+
+Derivatives	CME	-0.662429
+
+Sector	TXN	-0.646688
+
+Tech	STX	-0.640710
+
+From	XOM	-0.633679
+
+Intel	INTC	-0.611374
+
+Hospira	HSP	-0.600698
+
+:	VZ	-0.566082
+
+Mobile	MA	-0.565577
+
+?	BRK.B	-0.563498
+
+Dynamics	GD	-0.525644
+

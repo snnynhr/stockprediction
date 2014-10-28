@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.537974
+
+for	SHLD	0.905947
+
+Makers	F	0.868774
+
+Financial	AXP	0.844126
+
+stocks	HES	0.829005
+
+Retail	TGT	0.779936
+
+retail	M	0.760884
+
+Staples	SPLS	0.758150
+
+;	COST	0.711952
+
+Alibaba	YHOO	0.699962
+
+'s	APOL	0.690337
+
+Exchange	NDAQ	0.680850
+
+Pulte	PHM	0.675037
+
+in	PNC	0.669098
+
+stocks	LUV	0.642648
+
+and	HPQ	0.491530
+
+Buffett	AXP	0.479984
+
+Stocks	SHLD	0.476606
+
+Stocks	LUV	0.471032
+
+and	BHI	0.468041
+
+Credit	V	-1.150280
+
+Stocks	ADI	-0.958399
+
+:	MCHP	-0.776358
+
+FDA	BMY	-0.707016
+
+in	LOW	-0.682920
+
+?	TXN	-0.679278
+
+,	WIN	-0.616614
+
+the	BBY	-0.615658
+
+,	MTB	-0.589421
+
+HOT	PAYX	-0.562469
+
+From	STI	-0.558387
+
+To	WYNN	-0.542098
+
+Dow	MCD	-0.519346
+
+:	VZ	-0.503268
+
+'s	MS	-0.490289
+
+,	BA	-0.485968
+
+on	USB	-0.478046
+
+Banks	FITB	-0.468520
+
+stocks	APC	-0.466965
+
+US	ADBE	-0.464642
+

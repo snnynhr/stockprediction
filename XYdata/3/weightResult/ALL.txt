@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.11141
+
+In	BLK	1.563130
+
+on	HD	1.046570
+
+in	TWX	0.990863
+
+To	ZMH	0.929631
+
+U.S.	AET	0.877186
+
+To	TMO	0.783964
+
+,	HP	0.767169
+
+for	MET	0.695366
+
+of	CVX	0.690120
+
+Rally	AA	0.647383
+
+Stocks	TXN	0.632130
+
+in	WAG	0.612862
+
+Rise	HD	0.600426
+
+to	KO	0.584799
+
+in	F	0.562961
+
+E	PCG	0.562098
+
+for	FDX	0.559143
+
+:	MWW	0.533091
+
+Allergan	AGN	0.524097
+
+in	BBBY	-1.149840
+
+;	JWN	-0.996775
+
+In	WLP	-0.977493
+
+stocks	INTC	-0.908259
+
+$	BSX	-0.899530
+
+stocks	CHK	-0.892744
+
+Discovery	DISCA	-0.870873
+
+'s	AIG	-0.830726
+
+'s	ANF	-0.759635
+
+'s	KBH	-0.744253
+
+to	MET	-0.707485
+
+&	BBT	-0.680139
+
+Networks	FFIV	-0.664914
+
+Hospira	HSP	-0.649360
+
+US	HOG	-0.633676
+
+Drug	MRK	-0.613500
+
+Grainger	GWW	-0.609971
+
+,	C	-0.601112
+
+to	BBBY	-0.594539
+
+Gas	APA	-0.577835
+

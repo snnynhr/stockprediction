@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.969642
+
+Rally	NVDA	0.896880
+
+for	SHLD	0.885182
+
+'s	AGN	0.845267
+
+Up	CVS	0.812596
+
+:	CLX	0.781260
+
+,	RSG	0.779800
+
+for	SCHW	0.772221
+
+%	MA	0.737237
+
+Tenet	THC	0.705975
+
+Workers	JEC	0.567565
+
+to	CVX	0.541852
+
+,	ABT	0.512762
+
+;	DFS	0.510876
+
+AIG	MET	0.510538
+
+:	WMT	0.504296
+
+Safeway	SWY	0.490007
+
+the	INTC	0.487939
+
+,	NRG	0.464672
+
+the	AIG	0.451758
+
+Activision	EA	-1.009420
+
+Energy	SWN	-0.938141
+
+on	HOT	-0.908592
+
+Housing	HD	-0.814136
+
+For	MU	-0.801783
+
+on	STI	-0.779781
+
+to	BRK.B	-0.779681
+
+Textron	TXT	-0.730198
+
+in	NFLX	-0.717163
+
+in	APC	-0.716412
+
+Shares	NVDA	-0.704156
+
+?	AA	-0.702642
+
+$	MRO	-0.689792
+
+Energy	APC	-0.688713
+
+Corporate	SPLS	-0.666457
+
+Bank	COF	-0.640089
+
+in	AVP	-0.600894
+
+Stock	AIG	-0.598388
+
+,	FMC	-0.597916
+
+On	FSLR	-0.566165
+

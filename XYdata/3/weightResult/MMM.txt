@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.204185
+
+'s	AXP	1.041890
+
+on	BRK.B	0.854649
+
+on	VLO	0.815495
+
+To	VLO	0.812465
+
+Energy	VLO	0.800788
+
+to	FCX	0.718415
+
+to	CVX	0.699147
+
+Dow	MDLZ	0.639726
+
+of	BLK	0.633030
+
+:	INTC	0.631017
+
+'s	BLK	0.616330
+
+,	HST	0.581448
+
+to	BA	0.558551
+
+to	GS	0.549374
+
+'	VIAB	0.516579
+
+,	OMC	0.513806
+
+,	DHR	0.510739
+
+stocks	TXN	0.492150
+
+'s	THC	0.486327
+
+of	KO	-1.545550
+
+Harley-Davidson	HOG	-0.800862
+
+Chevron	CVX	-0.772584
+
+HOT	NFLX	-0.745905
+
+Stock	SHLD	-0.708567
+
+'s	FDX	-0.675802
+
+U.S.	X	-0.625069
+
+Chevron	XOM	-0.620733
+
+and	GIS	-0.617821
+
+for	CMG	-0.607589
+
+:	HCBK	-0.598655
+
+,	BWA	-0.588641
+
+Net	M	-0.574594
+
+Hotel	MAR	-0.566535
+
+Gulf	XOM	-0.563244
+
+Spill	RIG	-0.549778
+
+stocks	DHI	-0.529711
+
+Altria	MO	-0.526484
+
+Radio	CBS	-0.524465
+
+J	ABT	-0.522778
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.791812
+
+Banks	BBT	0.861681
+
+,	SYY	0.699335
+
+To	TGT	0.675894
+
+'	BRK.B	0.642667
+
+For	ABT	0.638669
+
+on	MA	0.630070
+
+:	AMGN	0.577093
+
+Costco	COST	0.541314
+
+Morgan	RF	0.521149
+
+for	LMT	0.517713
+
+Car	F	0.508995
+
+In	BLK	0.499837
+
+on	BA	0.487646
+
+To	PCG	0.486222
+
+'	LUV	0.482438
+
+'	SCHW	0.477591
+
+PepsiCo	PEP	0.475670
+
+'s	MCO	0.473910
+
+Scientific	BSX	0.472542
+
+of	F	-2.120160
+
+Settlement	BRCM	-1.103710
+
+%	ICE	-1.009840
+
+tech	NVDA	-0.960940
+
+for	COF	-0.896376
+
+'s	USB	-0.858551
+
+Stocks	M	-0.834530
+
+J	BSX	-0.774833
+
+Hasbro	HAS	-0.694267
+
+:	KEY	-0.656352
+
+,	ETFC	-0.604725
+
+on	MS	-0.571827
+
+Morning	EBAY	-0.560775
+
+Newell	NWL	-0.555359
+
+Market	CAT	-0.528644
+
+,	AIV	-0.516286
+
+of	MS	-0.515767
+
+RadioShack	RSH	-0.510889
+
+,	C	-0.502989
+
+Instruments	TXN	-0.487238
+

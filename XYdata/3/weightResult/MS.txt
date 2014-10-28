@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.232186
+
+Sales	LOW	0.910406
+
+on	SHLD	0.883424
+
+stocks	SLB	0.851444
+
+of	CVX	0.838955
+
+'s	BLK	0.760766
+
+Natural	CHK	0.752759
+
+Airgas	ARG	0.725984
+
+:	ALXN	0.718129
+
+To	BRK.B	0.705347
+
+$	EA	0.661958
+
+Altera	ALTR	0.651208
+
+Recalls	JNJ	0.635350
+
+,	HCP	0.627144
+
+to	BA	0.610195
+
+Dow	AXP	0.608236
+
+Stocks	TXN	0.604949
+
+Insurers	HUM	0.568027
+
+;	CIEN	0.563576
+
+,	DVA	0.539241
+
+At	QCOM	-1.510690
+
+Sector	TXN	-0.934715
+
+Stocks	ODP	-0.892168
+
+Stocks	AMAT	-0.790904
+
+Chevron	XOM	-0.771577
+
+'s	AA	-0.752152
+
+As	JCP	-0.686922
+
+?	BRCM	-0.667948
+
+for	CRM	-0.656108
+
+Bank	BBT	-0.655354
+
+Red	RHT	-0.651475
+
+:	RRD	-0.632563
+
+DeVry	DV	-0.622906
+
+stocks	XOM	-0.606157
+
+With	NDAQ	-0.561066
+
+;	LLY	-0.550601
+
+$	APC	-0.538069
+
+Order	BA	-0.537322
+
+Bid	HAL	-0.536878
+
+Intel	NVDA	-0.531806
+

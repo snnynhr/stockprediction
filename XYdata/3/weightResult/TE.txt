@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	1.1276
+
+;	GME	1.299510
+
+Stocks	KO	1.012850
+
+Goodyear	GT	0.894766
+
+Stock	AXP	0.778643
+
+By	TXN	0.776469
+
+Cancer	BMY	0.740648
+
+,	HES	0.727884
+
+To	BLK	0.725824
+
+:	RL	0.651965
+
+to	CAT	0.631193
+
+to	MBI	0.618420
+
+for	AXP	0.586793
+
+the	CHK	0.586458
+
+,	EXPE	0.569110
+
+,	CIT	0.564037
+
+$	STT	0.557465
+
+Dow	AXP	0.557128
+
+:	HOG	0.545816
+
+Stanley	MS	0.477392
+
+:	PCG	-0.830093
+
+for	M	-0.808198
+
+Chevron	CVX	-0.724081
+
+Stocks	RSH	-0.696085
+
+Stocks	MRK	-0.669672
+
+'s	VZ	-0.668964
+
+,	PCP	-0.656616
+
+of	VZ	-0.655355
+
+Credit	COF	-0.650201
+
+Manitowoc	MTW	-0.637011
+
+to	ANF	-0.634431
+
+for	ABT	-0.633856
+
+China	DVN	-0.621681
+
+Retailers	COST	-0.613174
+
+in	LLY	-0.592512
+
+&	PNC	-0.578577
+
+Hospira	HSP	-0.564377
+
+Stocks	ADBE	-0.551405
+
+'s	KBH	-0.551278
+
+Air	UTX	-0.547197
+

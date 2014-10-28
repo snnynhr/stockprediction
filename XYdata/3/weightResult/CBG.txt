@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.256615
+
+Target	TJX	1.000530
+
+Fed	COF	0.830578
+
+Stocks	BA	0.785641
+
+,	IFF	0.743474
+
+after	AXP	0.703229
+
+Energy	CVX	0.678040
+
+of	CBS	0.669103
+
+Morris	PM	0.626568
+
+as	HD	0.612677
+
+Times	NYT	0.572556
+
+Biogen	BIIB	0.554592
+
+,	CNP	0.549214
+
+:	AFL	0.539359
+
+'s	JWN	0.535462
+
+for	EMC	0.525121
+
+,	CBS	0.512308
+
+,	PHM	0.509975
+
+in	YHOO	0.502887
+
+stocks	TXN	0.489671
+
+On	JWN	-1.215010
+
+Wal-Mart	TGT	-1.059200
+
+Energy	CNX	-0.926902
+
+Shares	AMD	-0.826667
+
+'s	KBH	-0.715113
+
+STOCKS	KSS	-0.705687
+
+Life	PRU	-0.697394
+
+Builders	LEN	-0.671493
+
+US	TSO	-0.639657
+
+to	HIG	-0.632682
+
+Paso	KMI	-0.630123
+
+:	RRC	-0.594854
+
+Stocks	LLY	-0.589415
+
+:	CVS	-0.586281
+
+for	KO	-0.576321
+
+in	UTX	-0.575929
+
+US	AMP	-0.566491
+
+Housing	KBH	-0.559115
+
+to	BBBY	-0.558292
+
+,	HCN	-0.536345
+

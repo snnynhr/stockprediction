@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.623455
+
+To	FHN	1.564020
+
+and	LUV	1.119890
+
+To	PPL	0.848178
+
+for	MA	0.843075
+
+U.S.	CHK	0.701356
+
+,	CAM	0.675233
+
+in	C	0.645184
+
+to	COF	0.604250
+
+to	IBM	0.598082
+
+'s	BMY	0.565608
+
+:	COST	0.545758
+
+Facebook	EBAY	0.542099
+
+the	COST	0.534517
+
+,	L	0.507514
+
+Banks	AXP	0.506987
+
+in	F	0.500588
+
+Arts	EA	0.497642
+
+Stocks	TXN	0.483320
+
+:	GWW	0.477938
+
+'	PG	-1.017090
+
+FDA	BMY	-0.910783
+
+on	RF	-0.857661
+
+in	UTX	-0.813677
+
+for	SBUX	-0.737156
+
+to	CHK	-0.725169
+
+Drugs	BMY	-0.721705
+
+'s	WLP	-0.715772
+
+U.S.	TJX	-0.685557
+
+Monster	MWW	-0.679535
+
+Hospira	HSP	-0.668196
+
+in	AMAT	-0.655873
+
+Heparin	BAX	-0.634763
+
+to	TYC	-0.610741
+
+'s	TIF	-0.604504
+
+;	M	-0.588373
+
+for	WFC	-0.588349
+
+,	ACE	-0.585148
+
+Coach	COH	-0.572007
+
+,	C	-0.559355
+

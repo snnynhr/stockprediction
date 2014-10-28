@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.0684994
+
+in	JWN	1.166250
+
+a	HPQ	1.037180
+
+gas	CHK	0.824147
+
+stocks	TXN	0.773551
+
+'s	SCHW	0.753118
+
+Stock	SBUX	0.741950
+
+Automation	ROK	0.676578
+
+,	AIZ	0.672564
+
+stocks	BMY	0.634409
+
+:	FFIV	0.617411
+
+Heart	BMY	0.615265
+
+Home	PHM	0.590461
+
+Sales	F	0.580249
+
+of	BLK	0.579816
+
+Icahn	BIIB	0.577355
+
+In	CMCSA	0.575456
+
+'s	ABT	0.565756
+
+U.S.	CLF	0.565178
+
+Student	SLM	0.557714
+
+%	EXC	-1.158820
+
+U.S.	GM	-0.802637
+
+Goldman	AIG	-0.772388
+
+US	F	-0.770942
+
+to	BLK	-0.710612
+
+to	ANF	-0.703031
+
+'s	CVX	-0.639978
+
+Wal-Mart	TGT	-0.623127
+
+Heparin	BAX	-0.622362
+
+;	LUV	-0.608697
+
+:	NI	-0.599089
+
+Stocks	M	-0.576802
+
+stocks	CHK	-0.568476
+
+and	COST	-0.567618
+
+To	APC	-0.566672
+
+Micron	MU	-0.564598
+
+lower	VLO	-0.556485
+
+at	M	-0.531836
+
+'s	JNJ	-0.527064
+
+Ambac	MBI	-0.499667
+

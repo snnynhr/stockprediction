@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.663104
+
+on	JNJ	0.917310
+
+to	TIF	0.882558
+
+to	AMD	0.868926
+
+U.S.	GE	0.834587
+
+AOL	TWX	0.769242
+
+to	PEP	0.736337
+
+stocks	TXN	0.734219
+
+Treasury	AIG	0.723839
+
+of	WMT	0.704358
+
+of	BLK	0.623524
+
+On	EA	0.615652
+
+,	MDP	0.591258
+
+on	EMC	0.588512
+
+:	COST	0.559613
+
+,	OXY	0.551622
+
+to	CVC	0.533816
+
+,	DGX	0.527460
+
+to	MCO	0.521753
+
+,	COV	0.520400
+
+Defense	LMT	-0.946087
+
+;	CVC	-0.923017
+
+for	LLY	-0.920248
+
+Stocks	MRK	-0.898319
+
+the	TXN	-0.862518
+
+'s	IP	-0.784897
+
+Google	AMD	-0.762092
+
+'s	SBUX	-0.719767
+
+stocks	CHK	-0.706257
+
+By	KO	-0.706013
+
+$	HES	-0.693980
+
+U.S.	DIS	-0.689157
+
+Prices	CVX	-0.666994
+
+the	PNC	-0.655348
+
+in	CHK	-0.632431
+
+on	APC	-0.619120
+
+Martin	LMT	-0.603999
+
+;	HD	-0.580101
+
+stocks	OXY	-0.578616
+
+Global	CME	-0.576414
+

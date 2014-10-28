@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.370568
+
+stocks	AKAM	1.217020
+
+of	DIS	1.147640
+
+'s	BLK	1.060380
+
+To	NYT	1.049140
+
+a	KO	0.950420
+
+Refinery	CVX	0.786233
+
+Stocks	PHM	0.719446
+
+Stocks	MCD	0.677729
+
+on	MRO	0.639599
+
+Stock	FITB	0.611073
+
+to	AMD	0.585489
+
+,	TER	0.560924
+
+,	DHR	0.552387
+
+'s	TXN	0.543870
+
+in	TWX	0.510410
+
+Lexmark	LXK	0.505438
+
+To	COP	0.496912
+
+and	AA	0.485804
+
+Drug	BIIB	0.478083
+
+Up	CPB	-1.475570
+
+Stocks	WAG	-0.918657
+
+Airlines	LUV	-0.788809
+
+US	AMP	-0.778681
+
+Net	M	-0.742132
+
+%	SCHW	-0.691854
+
+of	YHOO	-0.664153
+
+:	RRD	-0.663035
+
+:	CVS	-0.658738
+
+:	VZ	-0.641018
+
+:	ADSK	-0.579799
+
+Ameritrade	SCHW	-0.557541
+
+%	FCX	-0.554410
+
+the	KO	-0.546755
+
+,	BC	-0.545188
+
+Tysabri	BIIB	-0.538773
+
+,	RHI	-0.538585
+
+in	F	-0.529484
+
+stocks	CHK	-0.507416
+
+Pepper	DPS	-0.497460
+

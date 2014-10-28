@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.45447
+
+to	PCG	1.204700
+
+stocks	APA	1.053750
+
+on	COP	0.975153
+
+gas	CHK	0.971722
+
+Thermo	TMO	0.836039
+
+Health	AET	0.827668
+
+To	NDAQ	0.823636
+
+for	IBM	0.776644
+
+to	BA	0.731113
+
+Oil	HES	0.727354
+
+To	SNDK	0.713243
+
+Pulte	PHM	0.705229
+
+the	NEM	0.684752
+
+to	DUK	0.613146
+
+AT	QCOM	0.599811
+
+4Q	MDT	0.593942
+
+in	CVX	0.580731
+
+stocks	AIG	0.556312
+
+Instruments	BRCM	0.553594
+
+New	BRK.B	-1.352920
+
+to	HIG	-1.199480
+
+Heparin	BAX	-1.011130
+
+Ventas	VTR	-0.907367
+
+to	HAL	-0.827007
+
+US	NOC	-0.759103
+
+,	RL	-0.686949
+
+Biogen	BIIB	-0.660750
+
+stocks	CHK	-0.655294
+
+;	KSS	-0.645575
+
+:	TRV	-0.630813
+
+Apple	INTC	-0.599915
+
+&	AMGN	-0.582343
+
+To	PRU	-0.581089
+
+'s	XOM	-0.564039
+
+Chip	BRCM	-0.562118
+
+With	CMCSA	-0.559331
+
+Sector	TXN	-0.553432
+
+for	KO	-0.552857
+
+to	GE	-0.549243
+

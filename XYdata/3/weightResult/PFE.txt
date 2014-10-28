@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.360142
+
+on	STT	1.088430
+
+the	NYT	0.946979
+
+as	FDX	0.899934
+
+Nabors	NBR	0.717084
+
+:	PLL	0.714142
+
+Edison	EIX	0.690769
+
+to	HD	0.663369
+
+Banks	RF	0.654601
+
+Bank	WFC	0.630841
+
+Zimmer	ZMH	0.620630
+
+,	EL	0.616450
+
+Tech	ORCL	0.615790
+
+The	BRK.B	0.607455
+
+Energy	CNX	0.577159
+
+Best	TGT	0.567729
+
+Copper	FCX	0.567695
+
+:	SBUX	0.562160
+
+of	CHK	0.558797
+
+Stocks	KO	0.552460
+
+&	MET	-1.123000
+
+;	CME	-0.942574
+
+as	HD	-0.877280
+
+Yahoo	EBAY	-0.843635
+
+Gilead	GILD	-0.830005
+
+Medicare	HUM	-0.792106
+
+Builders	KBH	-0.736855
+
+Cable	TWC	-0.711447
+
+Up	HPQ	-0.682404
+
+:	TXT	-0.680282
+
+for	NYT	-0.666218
+
+Of	NDAQ	-0.642698
+
+and	LEN	-0.636708
+
+;	M	-0.625381
+
+Deutsche	UPS	-0.623575
+
+for	MS	-0.623247
+
+on	ORCL	-0.603566
+
+US	COST	-0.592171
+
+Short	NDAQ	-0.590826
+
+To	BLK	-0.565061
+

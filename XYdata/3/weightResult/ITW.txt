@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.687229
+
+In	NYT	1.172480
+
+Profit	SWY	1.134110
+
+stocks	NVDA	0.881171
+
+,	WM	0.862434
+
+In	BLK	0.743072
+
+Capital	USB	0.714373
+
+Emerson	EMR	0.712245
+
+stocks	FITB	0.642338
+
+'s	SCHW	0.607574
+
+of	MS	0.569201
+
+;	TIF	0.550600
+
+,	ETR	0.547041
+
+,	ACN	0.517366
+
+Retailers	GPS	0.507001
+
+:	CBS	0.497070
+
+CSX	CSX	0.491397
+
+to	TXN	0.485052
+
+In	MA	0.473544
+
+in	MMM	0.472657
+
+;	WDC	-1.215140
+
+For	PFE	-1.163480
+
+'s	CHK	-1.054940
+
+Drugs	ABT	-0.960710
+
+Macy	KSS	-0.951894
+
+To	APC	-0.883999
+
+Harley-Davidson	HOG	-0.866201
+
+To	CME	-0.854043
+
+&	ABT	-0.792180
+
+to	HIG	-0.767335
+
+'s	SLB	-0.736712
+
+American	AXP	-0.735095
+
+;	NVDA	-0.703047
+
+stocks	CHK	-0.693947
+
+:	DE	-0.672793
+
+'s	ADM	-0.654649
+
+View	HD	-0.642995
+
+WellPoint	WLP	-0.611073
+
+,	MAR	-0.576673
+
+:	NOC	-0.567510
+

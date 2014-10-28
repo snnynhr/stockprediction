@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.64942
+
+In	CVC	1.626960
+
+on	VZ	1.037900
+
+Stocks	STI	1.024470
+
+the	AIG	0.985837
+
+The	LUV	0.909232
+
+,	CLF	0.847653
+
+Goodyear	GT	0.809060
+
+To	AA	0.777005
+
+gas	CHK	0.775897
+
+on	DHI	0.773427
+
+to	MON	0.765945
+
+To	COF	0.688256
+
+Credit-Card	COF	0.675890
+
+Sales	KSS	0.666576
+
+Systems	CSCO	0.662479
+
+a	HD	0.657081
+
+U.S.	CHK	0.641767
+
+to	NVDA	0.594335
+
+As	M	0.563857
+
+The	ORCL	-1.022990
+
+:	MBI	-0.826212
+
+Coors	TAP	-0.803814
+
+%	FCX	-0.801629
+
+%	COF	-0.799004
+
+$	MRO	-0.757242
+
+in	BMY	-0.691688
+
+:	BEN	-0.677909
+
+Friday	M	-0.667285
+
+Earnings	AA	-0.637529
+
+Sector	TXN	-0.593839
+
+;	M	-0.578194
+
+US	AET	-0.566904
+
+:	PCG	-0.562499
+
+Western	WDC	-0.558564
+
+J	MDT	-0.547734
+
+'s	WAG	-0.546711
+
+to	TYC	-0.544312
+
+Software	ORCL	-0.534128
+
+,	NE	-0.530599
+

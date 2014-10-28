@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.380246
+
+Stocks	LEN	1.092480
+
+and	JDSU	0.942987
+
+stocks	JDSU	0.928316
+
+of	BLK	0.795938
+
+Pulte	PHM	0.708451
+
+of	INTC	0.683668
+
+US	DOW	0.634629
+
+on	BAC	0.563393
+
+for	CSCO	0.560156
+
+'s	DIS	0.531244
+
+Claiborne	JCP	0.522009
+
+,	GWW	0.518481
+
+'s	PNC	0.493504
+
+Zynga	EA	0.476261
+
+in	TGT	0.475614
+
+:	INTU	0.472457
+
+Retail	TGT	0.445004
+
+Abbott	ABT	0.443650
+
+Amerigroup	WLP	0.434686
+
+for	INTC	-1.105340
+
+For	BLK	-0.923762
+
+Whirlpool	WHR	-0.765506
+
+'s	WAG	-0.737781
+
+Stocks	M	-0.679689
+
+,	RRC	-0.656878
+
+To	QCOM	-0.650973
+
+Coach	COH	-0.632415
+
+'s	CVX	-0.624965
+
+With	CMCSA	-0.604185
+
+,	CELG	-0.586556
+
+%	JCP	-0.583995
+
+US	MU	-0.574907
+
+'s	ODP	-0.556628
+
+Huntington	HBAN	-0.546970
+
+'s	GCI	-0.538756
+
+H-P	HPQ	-0.536818
+
+'s	GPS	-0.530591
+
+&	BRK.B	-0.529313
+
+NetApp	NTAP	-0.518455
+

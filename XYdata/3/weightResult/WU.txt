@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.816243
+
+Energy	BTU	0.841365
+
+U.S.	JNJ	0.828729
+
+to	GME	0.797904
+
+%	ADI	0.751568
+
+at	SBUX	0.748228
+
+'s	CVS	0.737797
+
+$	APA	0.731818
+
+US	PG	0.708181
+
+:	PNC	0.708061
+
+to	MU	0.683944
+
+'s	SVU	0.678904
+
+Retail	ANF	0.657194
+
+stocks	MTG	0.609696
+
+Discover	DFS	0.594841
+
+%	CME	0.587948
+
+for	GILD	0.587600
+
+:	WHR	0.567735
+
+Bank	COF	0.545451
+
+$	MO	0.545125
+
+Weyerhaeuser	WY	-0.917095
+
+&	BRK.B	-0.868069
+
+on	BK	-0.834369
+
+'	PG	-0.829871
+
+?	BRK.B	-0.819993
+
+to	AMGN	-0.678557
+
+Insurer	GNW	-0.663349
+
+Dow	PG	-0.661840
+
+:	GIS	-0.661340
+
+:	CELG	-0.654600
+
+Insurers	PRU	-0.642335
+
+US	DFS	-0.629966
+
+Sector	AMD	-0.619686
+
+Stocks	FSLR	-0.619020
+
+on	AA	-0.603491
+
+to	MA	-0.573902
+
+City	VLO	-0.568972
+
+;	CRM	-0.547800
+
+Agrium	CF	-0.532127
+
+'s	VLO	-0.509600
+

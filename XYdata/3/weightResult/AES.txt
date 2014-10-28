@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-1.7115
+
+rise	CVX	0.790023
+
+&	NDAQ	0.728095
+
+of	BLK	0.679054
+
+to	WAG	0.582701
+
+to	CAT	0.578308
+
+In	EA	0.553163
+
+Cadbury	MDLZ	0.543376
+
+in	MCO	0.531606
+
+to	BMY	0.522593
+
+,	SSP	0.521563
+
+Waste	WM	0.497437
+
+in	INTC	0.493764
+
+US	QCOM	0.482670
+
+Dow	DOW	0.479546
+
+Financial	AIG	0.468725
+
+Kinder	KMI	0.466232
+
+on	VLO	0.461786
+
+Sysco	SYY	0.453666
+
+To	T	0.444864
+
+'s	GCI	-1.203380
+
+the	EA	-0.940361
+
+and	GIS	-0.877912
+
+to	ANF	-0.833884
+
+for	HRB	-0.825052
+
+a	LEN	-0.773984
+
+U.S.	HUM	-0.755162
+
+;	ANF	-0.706079
+
+$	MRO	-0.682287
+
+News	NDAQ	-0.654795
+
+SunTrust	STI	-0.615684
+
+'s	JCP	-0.610271
+
+Southern	SO	-0.600838
+
+Corning	GLW	-0.570017
+
+of	RF	-0.563721
+
+Force	NOC	-0.551193
+
+Software	ORCL	-0.549786
+
+'	NFLX	-0.548328
+
+Imax	DIS	-0.536389
+
+for	APC	-0.532407
+

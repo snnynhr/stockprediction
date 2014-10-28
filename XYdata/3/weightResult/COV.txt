@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.418661
+
+on	T	1.184250
+
+on	HD	1.174920
+
+on	VLO	0.969992
+
+Penney	KSS	0.834705
+
+'s	BLK	0.804563
+
+Stryker	SYK	0.722821
+
+to	IBM	0.715099
+
+to	AA	0.705639
+
+,	PPG	0.694005
+
+to	SVU	0.640424
+
+for	COP	0.621033
+
+Stocks	ADP	0.584027
+
+:	KMB	0.569026
+
+the	AIG	0.560008
+
+;	ADI	0.557893
+
+Verizon	T	0.550617
+
+Gas	BHI	0.545241
+
+,	FAST	0.523162
+
+Wireless	T	0.519220
+
+'s	TRV	-1.192330
+
+Tyco	TYC	-0.967729
+
+and	SHLD	-0.954389
+
+on	UTX	-0.846722
+
+Apple	INTC	-0.741922
+
+Boeing	LMT	-0.676102
+
+:	SE	-0.649641
+
+HOT	PAYX	-0.637830
+
+Stocks	MDLZ	-0.625993
+
+:	RRC	-0.621550
+
+U.S.	DE	-0.605547
+
+in	CAT	-0.594223
+
+Health	CI	-0.591232
+
+,	ISRG	-0.560257
+
+Gas	XOM	-0.559255
+
+J	ABT	-0.543138
+
+Salesforce.com	CRM	-0.536536
+
+:	HCN	-0.519630
+
+the	PG	-0.510999
+
+Home	LOW	-0.477379
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.11565
+
+in	MS	0.891957
+
+Dow	HD	0.881081
+
+to	OXY	0.792483
+
+Rally	INTC	0.769063
+
+stocks	TXN	0.766148
+
+of	AA	0.755314
+
+for	ANF	0.703410
+
+&	T	0.701108
+
+Vulcan	VMC	0.687918
+
+For	CVC	0.654506
+
+Deliveries	KBH	0.601249
+
+Gas	COP	0.568583
+
+for	BMY	0.550978
+
+Rating	MCO	0.548864
+
+J	AMGN	0.527860
+
+,	IVZ	0.521376
+
+stocks	KIM	0.502731
+
+Study	MDT	0.493783
+
+CF	CF	0.472153
+
+stocks	INTC	-0.828542
+
+'s	GCI	-0.746874
+
+Tysabri	BIIB	-0.725824
+
+Energy	EXC	-0.720245
+
+U.S.	GM	-0.708404
+
+On	KSS	-0.694586
+
+the	ICE	-0.651231
+
+Valero	TSO	-0.622577
+
+:	GIS	-0.614896
+
+McDonald	MCD	-0.612364
+
+for	LLY	-0.606917
+
+US	AET	-0.589912
+
+to	EBAY	-0.585193
+
+Comerica	CMA	-0.562854
+
+the	XOM	-0.561580
+
+Diamond	PG	-0.554074
+
+;	ROST	-0.549779
+
+,	RHI	-0.545788
+
+to	CMCSA	-0.539891
+
+Regions	RF	-0.513449
+

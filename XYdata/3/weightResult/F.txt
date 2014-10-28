@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.366871
+
+to	MCK	0.869472
+
+Pulte	PHM	0.861112
+
+of	CVX	0.852653
+
+Stryker	SYK	0.722257
+
+Bottling	PEP	0.628272
+
+'s	CRM	0.624523
+
+on	SHLD	0.586185
+
+On	CAT	0.576120
+
+Retail	LOW	0.567425
+
+Honeywell	HON	0.553302
+
+,	APA	0.547778
+
+Oil	MUR	0.539076
+
+The	WMT	0.523399
+
+Cadbury	MDLZ	0.516935
+
+To	COF	0.494816
+
+,	PFG	0.476775
+
+,	AES	0.475367
+
+stocks	LEN	0.464936
+
+To	RRC	0.457301
+
+,	FMC	-1.370390
+
+Cancer	AMGN	-1.045740
+
+'s	APC	-0.904479
+
+Kimberly-Clark	KMB	-0.753720
+
+'s	BIG	-0.743472
+
+FDA	MRK	-0.726531
+
+stocks	CHK	-0.683943
+
+To	TXT	-0.683347
+
+:	TROW	-0.646892
+
+Morgan	COF	-0.635613
+
+American	LUV	-0.630251
+
+Autodesk	ADSK	-0.629701
+
+to	MTB	-0.609574
+
+Bank	STT	-0.607625
+
+to	APC	-0.593282
+
+,	PPL	-0.588879
+
+,	WIN	-0.582886
+
+Microchip	MCHP	-0.572049
+
+Credit	AXP	-0.563844
+
+US	GNW	-0.556706
+

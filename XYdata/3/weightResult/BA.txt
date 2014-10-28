@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.318176
+
+stocks	NTAP	1.492150
+
+in	WLP	1.110430
+
+on	LOW	1.080760
+
+;	AA	0.935633
+
+for	FDX	0.881148
+
+;	APA	0.832955
+
+for	GILD	0.826053
+
+on	PHM	0.728554
+
+to	NOC	0.713506
+
+Dow	CAT	0.666806
+
+Jabil	JBL	0.651398
+
+To	EA	0.649461
+
+&	FITB	0.625403
+
+stocks	NVDA	0.597780
+
+Ethanol	ADM	0.590242
+
+Tenet	THC	0.576733
+
+to	AXP	0.559581
+
+?	KO	0.559236
+
+Banks	PNC	0.535985
+
+Insurers	PRU	-0.803399
+
+Google	YHOO	-0.778887
+
+Tech	EMC	-0.693100
+
+for	YHOO	-0.629879
+
+Profit	CI	-0.599948
+
+and	BRCM	-0.573123
+
+the	MDLZ	-0.572678
+
+,	MTB	-0.564905
+
+Baker	BHI	-0.552001
+
+Ambac	MBI	-0.547598
+
+To	MRO	-0.547202
+
+CME	CME	-0.546959
+
+%	HD	-0.544393
+
+:	MA	-0.535978
+
+Temple-Inland	IP	-0.509701
+
+&	BRK.B	-0.503064
+
+Of	COST	-0.500580
+
+To	MRK	-0.494782
+
+WellPoint	WLP	-0.482995
+
+,	VTR	-0.481047
+

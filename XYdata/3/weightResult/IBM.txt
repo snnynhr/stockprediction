@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.0110093
+
+gas	CHK	1.194570
+
+and	BRK.B	0.979165
+
+stocks	BMY	0.959284
+
+on	MRO	0.925248
+
+Refinery	CVX	0.895957
+
+for	JCP	0.857182
+
+of	X	0.799681
+
+To	BSX	0.784058
+
+Of	CAT	0.734123
+
+for	PEP	0.679241
+
+Stocks	COF	0.668309
+
+for	NDAQ	0.649312
+
+Stocks	WMT	0.648207
+
+Shares	HIG	0.629944
+
+Retail	GPS	0.596585
+
+to	ESRX	0.564423
+
+to	EA	0.562072
+
+Apple	NFLX	0.556112
+
+,	CLF	0.549754
+
+Discovery	DISCA	-1.157730
+
+Earnings	AA	-0.936242
+
+for	DOW	-0.909353
+
+of	KO	-0.806316
+
+&	BBY	-0.727053
+
+;	NVDA	-0.659623
+
+as	CHK	-0.657504
+
+Cisco	JNPR	-0.646369
+
+to	WLP	-0.616831
+
+'s	ANF	-0.543749
+
+'s	SLB	-0.540575
+
+TNT	UPS	-0.535036
+
+Qualcomm	BRCM	-0.527875
+
+,	FII	-0.523465
+
+,	BK	-0.520250
+
+the	BMY	-0.519143
+
+US	BSX	-0.506385
+
+ADP	ADP	-0.501179
+
+on	XOM	-0.488977
+
+Loews	L	-0.488363
+

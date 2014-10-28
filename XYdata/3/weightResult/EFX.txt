@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.072132
+
+in	YHOO	1.154240
+
+stocks	VLO	1.116160
+
+on	SCHW	1.092120
+
+Rally	AA	1.065790
+
+on	BRCM	0.968906
+
+Stocks	INTC	0.894056
+
+U.S.	KEY	0.887917
+
+Rise	AMD	0.838466
+
+;	TIF	0.792112
+
+STOCKS	SYMC	0.791012
+
+:	LUV	0.645489
+
+Funds	BLK	0.597287
+
+stocks	NVDA	0.588186
+
+Zions	ZION	0.553837
+
+a	KO	0.553461
+
+to	ESRX	0.550491
+
+Omniture	ADBE	0.537564
+
+of	AXP	0.516588
+
+Ford	F	0.507820
+
+$	OXY	-1.475710
+
+Apple	CSCO	-1.108370
+
+'s	CHK	-1.092510
+
+:	RHT	-0.917364
+
+to	APC	-0.892917
+
+to	MDLZ	-0.872337
+
+a	PG	-0.731554
+
+'	MET	-0.702235
+
+to	YHOO	-0.685924
+
+Energy	CNX	-0.649867
+
+?	BRCM	-0.632662
+
+Gap	GPS	-0.617007
+
+Discovery	DISCA	-0.508559
+
+in	AA	-0.507276
+
+Down	AA	-0.504236
+
+Boeing	LMT	-0.500566
+
+Medical	STJ	-0.490714
+
+and	KBH	-0.487205
+
+Ingersoll-Rand	IR	-0.485381
+
+'	RF	-0.475415
+

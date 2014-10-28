@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.770775
+
+Technologies	FTI	1.591500
+
+Rise	HD	1.183020
+
+Zynga	EA	1.104730
+
+&	DOW	0.952328
+
+%	WYNN	0.775572
+
+the	USB	0.751806
+
+,	IFF	0.706108
+
+on	VLO	0.697605
+
+Stocks	PHM	0.645901
+
+'s	V	0.596811
+
+U.S.	GE	0.587390
+
+$	UTX	0.580015
+
+,	LH	0.568778
+
+for	UPS	0.562001
+
+;	NFLX	0.561847
+
+%	ICE	0.558616
+
+:	TIF	0.547537
+
+Dreamliner	BA	0.544294
+
+:	CBS	0.538335
+
+%	HAL	-1.132910
+
+AMD	BRCM	-0.863160
+
+for	COF	-0.851731
+
+For	GE	-0.792166
+
+to	EBAY	-0.763817
+
+:	C	-0.756881
+
+'s	CAT	-0.737344
+
+Retail	KSS	-0.722625
+
+on	HIG	-0.695590
+
+Stocks	ADBE	-0.648857
+
+for	SBUX	-0.626303
+
+Friday	M	-0.609513
+
+To	BHI	-0.590865
+
+for	ABT	-0.556418
+
+Pepsi	PEP	-0.537825
+
+the	PEP	-0.530175
+
+:	CNX	-0.526394
+
+FDA	PFE	-0.520947
+
+Altria	MO	-0.518509
+
+Insurers	PRU	-0.514134
+

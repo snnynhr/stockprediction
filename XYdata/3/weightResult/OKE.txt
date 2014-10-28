@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.617856
+
+to	CVC	1.386920
+
+Gains	TXN	0.879669
+
+on	VLO	0.842700
+
+T-Mobile	T	0.803784
+
+to	PNC	0.787449
+
+in	PEP	0.758193
+
+gains	EMC	0.708980
+
+'s	COST	0.690742
+
+Up	KO	0.672728
+
+:	USB	0.637780
+
+of	MRK	0.569266
+
+a	BRK.B	0.567798
+
+Whirlpool	WHR	0.516860
+
+Humana	HUM	0.479709
+
+Stock	BRK.B	0.469812
+
+in	TIF	0.466894
+
+'s	CME	0.455218
+
+:	DOW	0.448102
+
+to	IBM	0.431537
+
+gains	NFLX	-1.627260
+
+to	GCI	-0.986381
+
+Fall	AA	-0.952978
+
+of	FDX	-0.919897
+
+to	CBS	-0.841291
+
+for	F	-0.808013
+
+Gas	COP	-0.676471
+
+Stocks	BRK.B	-0.675445
+
+To	DUK	-0.604121
+
+,	PG	-0.535717
+
+:	MET	-0.508010
+
+As	CAT	-0.501402
+
+The	YUM	-0.493543
+
+Conoco	COP	-0.483920
+
+,	COL	-0.481027
+
+Airways	LUV	-0.478977
+
+for	YHOO	-0.467087
+
+Stocks	DE	-0.451832
+
+In	BSX	-0.447538
+
+%	HD	-0.445986
+

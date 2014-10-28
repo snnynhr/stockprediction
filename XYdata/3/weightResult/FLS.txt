@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.574602
+
+:	GLW	0.948859
+
+stocks	TXN	0.894303
+
+to	CAT	0.860074
+
+to	BMY	0.747078
+
+India	BA	0.742270
+
+on	MA	0.726658
+
+Energy	BHI	0.689022
+
+the	HD	0.683972
+
+Banks	BBT	0.635347
+
+To	BSX	0.563254
+
+,	WLP	0.560895
+
+Darden	DRI	0.545563
+
+Morgan	USB	0.530454
+
+Energy	SRE	0.527916
+
+Friday	TGT	0.513855
+
+Sales	COST	0.510748
+
+Banks	PNC	0.504113
+
+Stocks	HD	0.503782
+
+for	HPQ	0.502110
+
+the	FDX	-1.042660
+
+:	RRC	-0.837372
+
+On	TGT	-0.697132
+
+Steel	X	-0.693376
+
+Rise	HUM	-0.659362
+
+to	ANF	-0.646535
+
+to	MS	-0.641188
+
+on	KEY	-0.635931
+
+Adidas	NKE	-0.618544
+
+Regions	RF	-0.616354
+
+Media	NYT	-0.607327
+
+on	RF	-0.599050
+
+Chevron	CVX	-0.583289
+
+Stocks	EA	-0.573148
+
+Facebook	HPQ	-0.551051
+
+Bank	FITB	-0.549625
+
+J	ABT	-0.536662
+
+,	PNR	-0.530919
+
+&	GPS	-0.472274
+
+:	NOV	-0.467000
+

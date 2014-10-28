@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.711156
+
+Expeditors	EXPD	1.130120
+
+Aon	AON	1.103200
+
+On	AIG	1.057410
+
+Bank	WFC	0.828766
+
+'s	COST	0.740158
+
+Retail	TGT	0.724612
+
+stocks	VLO	0.710025
+
+Stocks	BK	0.691353
+
+CEO	PG	0.686509
+
+US	AET	0.615489
+
+$	PCG	0.614273
+
+the	MS	0.593462
+
+,	ESRX	0.584907
+
+:	LOW	0.541822
+
+Darden	DRI	0.539366
+
+'s	KR	0.514436
+
+H-P	HPQ	0.500331
+
+Alibaba	YHOO	0.494079
+
+Bank	RF	0.489997
+
+Stocks	EMC	-1.704410
+
+in	CHK	-1.304910
+
+Solar	AMAT	-1.067190
+
+Monster	MWW	-0.908848
+
+Google	ORCL	-0.864806
+
+Xcel	XEL	-0.840537
+
+'s	MET	-0.814335
+
+Profit	LOW	-0.814069
+
+in	BRCM	-0.676823
+
+To	CME	-0.668112
+
+Drug	PFE	-0.635953
+
+To	LO	-0.613136
+
+Sector	TXN	-0.611098
+
+to	MU	-0.601536
+
+Prices	COP	-0.596911
+
+,	ATI	-0.595407
+
+Office	ODP	-0.585423
+
+for	M	-0.578326
+
+'	DIS	-0.575973
+
+'	TWX	-0.552426
+

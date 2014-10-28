@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.276162
+
+to	BMY	1.219340
+
+for	WLP	1.080410
+
+the	NFLX	1.069420
+
+Thermo	TMO	1.026270
+
+in	USB	0.994107
+
+In	BLK	0.866775
+
+'s	STT	0.838644
+
+Insurers	MBI	0.805381
+
+on	HD	0.750391
+
+FDA	MDT	0.722361
+
+Sprint	VZ	0.719319
+
+Banks	PNC	0.709825
+
+The	IBM	0.683432
+
+a	BA	0.664390
+
+for	TXN	0.629009
+
+Financial	COF	0.628776
+
+Costco	COST	0.597124
+
+Financial	AXP	0.582763
+
+for	JCP	0.571115
+
+to	APC	-0.849798
+
+$	HES	-0.839699
+
+The	PFE	-0.829090
+
+on	USB	-0.754579
+
+Stocks	M	-0.736002
+
+in	AIG	-0.732076
+
+Oil	BHI	-0.724493
+
+Oil	RIG	-0.675702
+
+Manitowoc	MTW	-0.652258
+
+'s	KBH	-0.624498
+
+'	ABT	-0.624433
+
+Morgan	COF	-0.605536
+
+on	C	-0.597940
+
+on	AET	-0.592893
+
+Hospira	HSP	-0.592499
+
+:	GME	-0.591405
+
+Lockheed	LMT	-0.579119
+
+To	WMB	-0.540308
+
+Of	EA	-0.536695
+
+,	YHOO	-0.530477
+

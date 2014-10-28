@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.933623
+
+for	AIG	1.116710
+
+Zions	ZION	1.004440
+
+the	LLY	0.937664
+
+US	SWN	0.859491
+
+in	MBI	0.844255
+
+:	CLX	0.780465
+
+&	BBT	0.714230
+
+Coca-Cola	KO	0.702331
+
+,	PPG	0.662567
+
+Airlines	BA	0.652964
+
+to	YHOO	0.615757
+
+for	BBY	0.614411
+
+;	USB	0.591504
+
+Penney	VNO	0.580769
+
+stocks	NFLX	0.567767
+
+on	GE	0.560684
+
+,	SLB	0.551896
+
+on	VLO	0.549321
+
+:	WMT	0.540755
+
+Harley-Davidson	HOG	-1.018780
+
+Video	GME	-0.924037
+
+stocks	ANF	-0.868763
+
+for	QCOM	-0.730801
+
+HOT	HUM	-0.723005
+
+on	WFC	-0.705628
+
+Aflac	AFL	-0.690772
+
+Stocks	CIEN	-0.665856
+
+to	UNH	-0.651033
+
+Cummins	CMI	-0.643250
+
+,	RHI	-0.623204
+
+:	GIS	-0.592491
+
+,	MTB	-0.564835
+
+of	WFC	-0.555958
+
+to	PG	-0.548973
+
+DuPont	DD	-0.542017
+
+Textron	TXT	-0.534986
+
+FDA	LLY	-0.529840
+
+,	WMT	-0.528720
+
+Apple	EBAY	-0.525936
+

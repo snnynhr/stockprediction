@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.124841
+
+Street	AIG	1.360160
+
+U.S.	CHK	0.987861
+
+US	RF	0.865450
+
+Energy	BHI	0.770631
+
+:	KMB	0.756933
+
+To	UPS	0.701573
+
+King	MCD	0.674184
+
+Health	CAH	0.663498
+
+In	TWX	0.646706
+
+,	CPWR	0.605009
+
+to	GD	0.600334
+
+on	MCD	0.577965
+
+Stocks	YUM	0.576493
+
+stocks	M	0.567132
+
+Urban	URBN	0.565260
+
+;	CIEN	0.556479
+
+Analog	ADI	0.531308
+
+Apple	NFLX	0.511870
+
+National	TXN	0.488489
+
+Sales	LLY	-1.673590
+
+Discovery	DISCA	-1.224080
+
+Stocks	EMC	-0.977439
+
+On	MBI	-0.808327
+
+to	PG	-0.681962
+
+In	CVC	-0.649830
+
+Earnings	AA	-0.631141
+
+Unit	MRO	-0.618694
+
+%	AXP	-0.617255
+
+Oil	VLO	-0.603540
+
+'s	HOG	-0.595837
+
+;	WMT	-0.593297
+
+,	INTU	-0.585411
+
+'	HPQ	-0.557424
+
+of	FDX	-0.554920
+
+Stocks	LMT	-0.553118
+
+,	AVB	-0.551209
+
+MetLife	MET	-0.537021
+
+in	COH	-0.529347
+
+:	CI	-0.520266
+

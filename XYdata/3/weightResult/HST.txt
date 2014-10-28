@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.624585
+
+To	EXC	1.025520
+
+to	MPC	0.876280
+
+;	CCL	0.821789
+
+stocks	TXN	0.759931
+
+Chesapeake	XOM	0.740747
+
+?	PG	0.699349
+
+Zions	ZION	0.672122
+
+Danaher	DHR	0.657025
+
+to	MCK	0.640689
+
+on	LOW	0.633747
+
+and	PG	0.632428
+
+U.S.	M	0.629850
+
+,	MS	0.601370
+
+Aon	AON	0.581185
+
+,	COV	0.528995
+
+in	TWX	0.528430
+
+in	ORCL	0.526693
+
+:	UTX	0.514257
+
+:	KSS	0.505254
+
+Shares	NVDA	-1.410270
+
+%	COF	-0.912862
+
+to	ANF	-0.801038
+
+$	GE	-0.788952
+
+Priceline.com	PCLN	-0.735328
+
+?	TXN	-0.717740
+
+:	TJX	-0.714866
+
+TECH	BRCM	-0.701814
+
+,	VMC	-0.698935
+
+in	AMAT	-0.677225
+
+Office	ODP	-0.669585
+
+:	SE	-0.616898
+
+Stocks	M	-0.616412
+
+the	IBM	-0.599669
+
+For	AMAT	-0.575126
+
+Tobacco	LO	-0.573561
+
+Tyco	TYC	-0.568521
+
+With	CMCSA	-0.567873
+
+$	HES	-0.563341
+
+'s	MTW	-0.547320
+

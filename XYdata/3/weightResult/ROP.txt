@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-1.08799
+
+Retail	TGT	1.149850
+
+Goodyear	GT	0.980910
+
+in	YHOO	0.959073
+
+on	T	0.897339
+
+Stanley	MS	0.718093
+
+The	BRK.B	0.686286
+
+for	BBY	0.632144
+
+Apple	NFLX	0.621872
+
+Energy	TSO	0.603394
+
+rise	TRV	0.581057
+
+to	CAT	0.526391
+
+Restaurants	DRI	0.501584
+
+,	DGX	0.496679
+
+United	UTX	0.492569
+
+:	DTV	0.483145
+
+,	DO	0.479186
+
+stocks	TRV	0.457083
+
+,	CMG	0.453018
+
+Iraq	COP	0.445322
+
+Sector	TXN	-1.142450
+
+To	VIA	-0.937615
+
+on	ADBE	-0.912465
+
+Fall	AA	-0.816235
+
+Stocks	MDLZ	-0.785051
+
+,	MPC	-0.742262
+
+To	QCOM	-0.732453
+
+'s	AVP	-0.647374
+
+to	HPQ	-0.618428
+
+and	SNDK	-0.616097
+
+,	PLD	-0.610997
+
+To	XOM	-0.607334
+
+to	NFLX	-0.588802
+
+Stocks	V	-0.586318
+
+:	MDT	-0.581723
+
+&	ABT	-0.568770
+
+News	NDAQ	-0.563024
+
+Energy	APC	-0.557565
+
+'s	TWC	-0.554935
+
+on	GM	-0.551385
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.506641
+
+;	CIEN	1.235190
+
+Regulators	PCG	1.028920
+
+energy	VLO	0.762547
+
+Chip	TXN	0.739063
+
+stocks	PHM	0.676770
+
+,	HST	0.628573
+
+The	GM	0.613956
+
+to	ESRX	0.593083
+
+:	HRB	0.566594
+
+,	FTI	0.546558
+
+,	IPG	0.545819
+
+Tobacco	MO	0.534235
+
+on	QCOM	0.527825
+
+in	TIF	0.525152
+
+Penney	KSS	0.516322
+
+gains	VLO	0.511756
+
+,	CTXS	0.502385
+
+,	LEG	0.500768
+
+Honeywell	HON	0.476705
+
+American	AEP	-1.286770
+
+To	KEY	-1.045270
+
+Goldman	COF	-0.999264
+
+Coke	PEP	-0.996963
+
+for	GPS	-0.885301
+
+'	HPQ	-0.833953
+
+Red	RHT	-0.736305
+
+to	COP	-0.712050
+
+?	NVDA	-0.705573
+
+To	ICE	-0.686596
+
+OMX	NDAQ	-0.648827
+
+Bancorp	FITB	-0.648153
+
+for	NYT	-0.642742
+
+The	HD	-0.626456
+
+on	WFC	-0.624326
+
+Power	DUK	-0.602856
+
+of	V	-0.583388
+
+the	NDAQ	-0.565409
+
+InBev	BUD	-0.528093
+
+'s	ESRX	-0.524541
+

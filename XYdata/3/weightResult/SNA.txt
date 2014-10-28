@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.119894
+
+stocks	FHN	1.276780
+
+To	BSX	1.025790
+
+The	BRK.B	0.989064
+
+In	BLK	0.922892
+
+Morning	F	0.850354
+
+on	JNJ	0.665304
+
+US	CIEN	0.655755
+
+for	BA	0.651006
+
+Stocks	WDC	0.548425
+
+Stocks	GNW	0.546617
+
+on	MBI	0.525123
+
+Exchanges	CME	0.524721
+
+Sears	SHLD	0.505128
+
+;	COST	0.467096
+
+to	BAC	0.459000
+
+to	CAT	0.451610
+
+,	NTRS	0.424678
+
+stocks	ORCL	0.420764
+
+Stocks	WLP	0.418338
+
+US	BSX	-1.054400
+
+Hospira	HSP	-1.017570
+
+'s	CME	-0.978552
+
+On	CBS	-0.960672
+
+stocks	CHK	-0.916714
+
+In	NVDA	-0.874554
+
+FDA	LLY	-0.761825
+
+In	VZ	-0.749820
+
+Shares	NVDA	-0.727195
+
+stocks	RF	-0.724518
+
+Harley-Davidson	HOG	-0.697989
+
+Sales	WAG	-0.680464
+
+'s	CI	-0.661945
+
+Jobs	ADP	-0.645957
+
+in	APC	-0.640806
+
+to	APA	-0.631800
+
+To	SO	-0.616946
+
+US	RSH	-0.604045
+
+,	BC	-0.594235
+
+In	HAL	-0.590901
+

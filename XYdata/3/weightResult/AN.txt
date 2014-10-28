@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.0121353
+
+for	DFS	0.925154
+
+'s	X	0.795629
+
+Expeditors	EXPD	0.666070
+
+'	EA	0.662349
+
+Retail	TGT	0.633316
+
+First	FSLR	0.632581
+
+Retailers	TJX	0.626973
+
+,	MWV	0.609452
+
+U.S.	FDX	0.588282
+
+Health	UNH	0.585860
+
+Stocks	T	0.571636
+
+in	CIT	0.565593
+
+for	VIA	0.561422
+
+HOT	LLY	0.557969
+
+Stocks	LEN	0.539140
+
+Energy	HAL	0.530986
+
+,	WM	0.524488
+
+to	CVX	0.519804
+
+Mattel	MAT	0.514130
+
+Texas	MRO	-1.185470
+
+in	AA	-1.040360
+
+:	PPL	-1.017100
+
+to	JOY	-0.905332
+
+stocks	AA	-0.895511
+
+FDA	BMY	-0.760257
+
+of	CME	-0.718118
+
+%	HD	-0.705497
+
+'s	RF	-0.654172
+
+To	HCP	-0.639372
+
+Amylin	LLY	-0.636681
+
+;	COP	-0.633046
+
+On	STJ	-0.632850
+
+Shares	NVDA	-0.609718
+
+:	VZ	-0.597010
+
+For	LLY	-0.591600
+
+on	MAT	-0.564297
+
+Airline	LUV	-0.555800
+
+Starwood	HOT	-0.536432
+
+to	APC	-0.529928
+

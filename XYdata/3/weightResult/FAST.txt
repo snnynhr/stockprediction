@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-2.06018
+
+Stocks	BBY	0.796517
+
+Gains	MU	0.730314
+
+G	PG	0.653819
+
+to	CBS	0.651499
+
+Sprint	VZ	0.638079
+
+DirecTV	DTV	0.566033
+
+Pulte	PHM	0.561934
+
+and	COST	0.537926
+
+stocks	AKAM	0.527374
+
+US	APC	0.517661
+
+One	COF	0.495656
+
+,	MAS	0.485296
+
+T-Mobile	T	0.472500
+
+Moody	MCO	0.461727
+
+Simon	SPG	0.455847
+
+to	SBUX	0.453665
+
+,	L	0.446040
+
+U.S.	MCD	0.437018
+
+:	DTV	0.424488
+
+and	USB	-1.165310
+
+on	APC	-1.089820
+
+?	AMD	-1.073160
+
+:	VZ	-0.939801
+
+'s	GCI	-0.878073
+
+,	VMC	-0.793654
+
+,	AEE	-0.748261
+
+in	AXP	-0.743606
+
+Of	LNC	-0.708174
+
+Yum	YUM	-0.640649
+
+,	BEN	-0.640579
+
+Starwood	HOT	-0.639615
+
+Domain	NTAP	-0.633796
+
+Medtronic	MDT	-0.630312
+
+for	BLK	-0.628335
+
+For	CME	-0.624241
+
+Energy	SE	-0.608761
+
+Ambac	MBI	-0.552259
+
+to	JNPR	-0.542892
+
+'	STI	-0.523795
+

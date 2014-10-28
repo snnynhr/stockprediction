@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.808936
+
+Stocks	AZO	1.048980
+
+for	MA	0.893379
+
+for	PNC	0.860944
+
+in	BA	0.823669
+
+,	ITW	0.752815
+
+gains	AXP	0.738917
+
+'s	DOW	0.733517
+
+Morgan	RF	0.719036
+
+,	ETR	0.696429
+
+,	IVZ	0.680621
+
+Rise	MCD	0.663013
+
+,	LEN	0.622484
+
+to	AXP	0.603199
+
+;	BTU	0.594103
+
+$	VIAB	0.593459
+
+'s	F	0.589422
+
+for	HSY	0.588637
+
+to	BMY	0.583296
+
+Solar	FSLR	0.548933
+
+%	TYC	-0.967949
+
+Apple	CSCO	-0.940945
+
+On	DE	-0.935135
+
+Deal	TWX	-0.791231
+
+;	KEY	-0.740811
+
+To	NRG	-0.720567
+
+Stocks	KBH	-0.711409
+
+On	WAG	-0.685633
+
+Apache	APA	-0.633812
+
+the	QCOM	-0.631445
+
+of	HD	-0.594390
+
+Futures	ICE	-0.592115
+
+Manitowoc	MTW	-0.564236
+
+'s	VIA	-0.557417
+
+Corning	GLW	-0.553291
+
+Heparin	BAX	-0.546601
+
+Citigroup	C	-0.539948
+
+:	FHN	-0.510594
+
+Home	LEN	-0.501968
+
+,	TROW	-0.496089
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.555874
+
+'s	MDLZ	1.261550
+
+Stocks	STI	0.949537
+
+to	DFS	0.797888
+
+in	ROST	0.768625
+
+Stocks	DD	0.742600
+
+to	MBI	0.739119
+
+Nordstrom	JWN	0.733367
+
+In	BLK	0.703823
+
+,	BXP	0.643739
+
+:	GLW	0.630496
+
+The	WMT	0.589251
+
+of	RF	0.588118
+
+in	USB	0.575460
+
+to	BA	0.572546
+
+Banks	ZION	0.567626
+
+?	BBY	0.554785
+
+sales	JWN	0.551136
+
+stocks	WAG	0.542956
+
+'s	BLK	0.521146
+
+in	PRU	-1.587420
+
+in	FSLR	-1.135380
+
+In	WLP	-0.984548
+
+Tech	EMC	-0.820670
+
+for	KO	-0.699058
+
+'s	TRV	-0.690944
+
+to	VIAB	-0.685711
+
+In	ABT	-0.637726
+
+stocks	ICE	-0.621548
+
+:	WFM	-0.590801
+
+Lincoln	LNC	-0.590177
+
+,	WIN	-0.576713
+
+Invesco	IVZ	-0.564664
+
+;	SCHW	-0.544954
+
+Hospira	HSP	-0.540611
+
+and	GPS	-0.538567
+
+:	PETM	-0.527047
+
+On	BK	-0.520396
+
+,	TSS	-0.517791
+
+Heparin	BAX	-0.517413
+

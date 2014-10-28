@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	2.34386
+
+Energy	HAL	1.017370
+
+Bard	BCR	0.928620
+
+,	RRD	0.771812
+
+$	M	0.731935
+
+Stocks	FDX	0.713410
+
+$	BLK	0.673836
+
+to	MCO	0.664091
+
+to	KO	0.626867
+
+By	TXN	0.626630
+
+the	HPQ	0.626037
+
+'s	MCO	0.621679
+
+Viacom	VIA	0.621042
+
+Retail	ANF	0.596217
+
+Up	KO	0.562223
+
+,	STR	0.544089
+
+Earnings	TXN	0.535350
+
+US	PG	0.528828
+
+Stocks	UNH	0.494743
+
+Sears	LOW	0.488390
+
+'s	GCI	-1.863670
+
+Hospira	HSP	-1.125600
+
+Funds	CSX	-0.998840
+
+U.S.	JNJ	-0.938237
+
+Stocks	DVN	-0.937889
+
+the	AMD	-0.917861
+
+CA	CA	-0.896729
+
+Is	BRK.B	-0.858071
+
+To	MO	-0.813016
+
+stocks	CHK	-0.742527
+
+Stocks	ADI	-0.705526
+
+Ameriprise	AMP	-0.692923
+
+,	OI	-0.689822
+
+and	CHK	-0.661215
+
+of	VZ	-0.625445
+
+%	EXC	-0.613346
+
+to	TYC	-0.611956
+
+Diamond	PG	-0.607037
+
+Snapple	DPS	-0.606128
+
+To	WAG	-0.598193
+

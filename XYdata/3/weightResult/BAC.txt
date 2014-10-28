@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.0383676
+
+of	EBAY	1.084570
+
+of	RF	0.833242
+
+$	EA	0.819896
+
+Morning	WMT	0.757919
+
+:	XOM	0.711286
+
+Illinois	ITW	0.707232
+
+:	STJ	0.699575
+
+'s	BLK	0.696787
+
+Stocks	TXN	0.694748
+
+on	IBM	0.683744
+
+to	BMY	0.641169
+
+stocks	TXN	0.625292
+
+,	L	0.601638
+
+;	BMY	0.564075
+
+SEC	MCO	0.561423
+
+gains	ADBE	0.555112
+
+of	PFE	0.508444
+
+Entergy	ETR	0.497324
+
+the	HPQ	0.484811
+
+,	MKC	-1.076570
+
+'s	CHK	-0.976553
+
+To	CBS	-0.869979
+
+on	ORCL	-0.848743
+
+to	MTB	-0.813482
+
+Prudential	PRU	-0.754632
+
+In	COF	-0.682962
+
+&	GPS	-0.602943
+
+and	SHLD	-0.579794
+
+Stock	TXN	-0.578654
+
+Southwestern	SWN	-0.571981
+
+Sales	TXN	-0.562166
+
+New	F	-0.551274
+
+,	MDT	-0.537924
+
+in	YHOO	-0.536829
+
+'s	CMCSA	-0.536173
+
+Marsh	MMC	-0.535977
+
+,	FHN	-0.512408
+
+?	BRK.B	-0.510523
+
+Services	RSG	-0.509819
+

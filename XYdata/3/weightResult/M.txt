@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.172798
+
+on	TGT	1.172320
+
+the	CVC	0.913262
+
+A	LUV	0.840048
+
+Management	WM	0.796792
+
+to	XOM	0.723701
+
+as	TXN	0.718618
+
+the	RSH	0.684597
+
+To	JCI	0.630021
+
+the	SHLD	0.595670
+
+SEC	MCO	0.561963
+
+Stocks	UNH	0.555096
+
+'s	CVS	0.554773
+
+Financial	BLK	0.542611
+
+a	GPS	0.541466
+
+,	R	0.540667
+
+Stocks	AA	0.534999
+
+:	BIG	0.506691
+
+:	BLK	0.505194
+
+U.S.	DD	0.488255
+
+Rambus	MU	-1.077140
+
+Sector	TXN	-0.856978
+
+for	ABT	-0.811148
+
+Earnings	AA	-0.796254
+
+$	HES	-0.772615
+
+,	MPC	-0.769537
+
+Stocks	GPS	-0.763398
+
+New	EBAY	-0.755524
+
+On	M	-0.745722
+
+On	ADBE	-0.733511
+
+With	CMCSA	-0.726725
+
+,	PCP	-0.707923
+
+Tyco	TYC	-0.671903
+
+:	HAL	-0.658593
+
+and	DHI	-0.654020
+
+&	ABT	-0.637042
+
+Resorts	WYNN	-0.616134
+
+the	PG	-0.614207
+
+,	IGT	-0.596312
+
+in	NDAQ	-0.593117
+

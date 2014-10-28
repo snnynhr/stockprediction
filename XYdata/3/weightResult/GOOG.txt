@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.0232378
+
+Entergy	ETR	0.892229
+
+Exchange	CME	0.803151
+
+Facebook	YHOO	0.724222
+
+$	APA	0.723168
+
+FDA	ABT	0.702806
+
+Cloud	ORCL	0.693043
+
+Tech	SNDK	0.685632
+
+Airgas	ARG	0.674114
+
+Insurers	HIG	0.662607
+
+U.S.	JBL	0.647869
+
+for	MS	0.600446
+
+At	HES	0.573593
+
+to	AXP	0.568679
+
+Tiffany	TIF	0.558293
+
+,	TMO	0.537118
+
+'s	ABT	0.496488
+
+'s	JWN	0.492766
+
+:	EMC	0.482767
+
+on	LLY	0.482494
+
+Google	ORCL	-1.404550
+
+Byetta	LLY	-1.185100
+
+for	NKE	-1.052150
+
+Discovery	DISCA	-1.011480
+
+Utilities	NU	-0.984843
+
+US	USB	-0.782393
+
+'	CBS	-0.781687
+
+China	GE	-0.727714
+
+Temple-Inland	IP	-0.707163
+
+on	COF	-0.646536
+
+Sempra	SRE	-0.640062
+
+a	WFC	-0.624683
+
+Buy	EMC	-0.594305
+
+In	COF	-0.588800
+
+Street	USB	-0.564918
+
+in	LLY	-0.562932
+
+?	QCOM	-0.555269
+
+HOT	PFE	-0.553991
+
+,	BAC	-0.545901
+
+in	BBY	-0.537581
+

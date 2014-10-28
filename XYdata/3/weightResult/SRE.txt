@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	1.61015
+
+Rally	NVDA	1.476740
+
+the	HPQ	0.932661
+
+CEO	T	0.845365
+
+in	CPB	0.827188
+
+In	MU	0.752194
+
+Stocks	WLP	0.647566
+
+,	MOS	0.638961
+
+Chip	SNDK	0.630616
+
+to	CAT	0.623005
+
+'s	BTU	0.575900
+
+Trading	ICE	0.575282
+
+in	NVDA	0.554660
+
+:	CBS	0.547563
+
+EU	MCO	0.545193
+
+;	MDT	0.542127
+
+'s	LEN	0.538504
+
+Stanley	MS	0.532474
+
+,	CMCSA	0.503585
+
+the	EMC	0.503230
+
+a	JNJ	-1.391160
+
+'s	LUV	-0.920300
+
+stocks	BMY	-0.909866
+
+on	NDAQ	-0.901307
+
+Dollar	DLTR	-0.808824
+
+%	F	-0.799537
+
+'	HPQ	-0.795577
+
+Gulf	XOM	-0.766902
+
+for	COF	-0.752388
+
+Morning	IBM	-0.698915
+
+Sempra	SRE	-0.637634
+
+and	CHK	-0.623022
+
+to	UPS	-0.621110
+
+Stocks	CF	-0.615956
+
+Monster	MWW	-0.600248
+
+Nymex	CME	-0.594725
+
+'	MET	-0.561526
+
+the	PG	-0.558504
+
+Stocks	RF	-0.532454
+
+Tech	AMD	-0.509679
+

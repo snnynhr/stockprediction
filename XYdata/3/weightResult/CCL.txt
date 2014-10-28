@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.0149812
+
+for	V	1.035430
+
+Apple	NFLX	1.032230
+
+of	AXP	0.851001
+
+Stocks	LUV	0.819593
+
+'s	BLK	0.804286
+
+as	KSS	0.785867
+
+For	EA	0.723523
+
+Stocks	RIG	0.677665
+
+,	WM	0.676838
+
+Dell	NVDA	0.651747
+
+:	GCI	0.606753
+
+stocks	MTG	0.584552
+
+to	BMY	0.576710
+
+Stocks	AZO	0.563352
+
+to	MCD	0.561507
+
+For	FDX	0.545739
+
+the	HD	0.541126
+
+energy	VLO	0.511555
+
+First	FSLR	0.506923
+
+Tysabri	BIIB	-1.167230
+
+Apple	TXN	-0.996455
+
+%	F	-0.867771
+
+Green	SBUX	-0.818223
+
+%	AZO	-0.804342
+
+,	AMP	-0.773091
+
+Intuit	INTU	-0.769836
+
+A	CMCSA	-0.769546
+
+in	BBBY	-0.766817
+
+in	LEN	-0.759148
+
+Discovery	DISCA	-0.704160
+
+Stocks	BBY	-0.696514
+
+of	BBT	-0.676783
+
+Heparin	BAX	-0.646340
+
+The	BA	-0.630192
+
+Valero	MRO	-0.617457
+
+Stocks	DE	-0.588588
+
+'s	F	-0.583506
+
+for	LLY	-0.570613
+
+&	BBY	-0.555759
+

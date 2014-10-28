@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.277126
+
+Facebook	EBAY	1.034780
+
+Pilgrim	TSN	0.683314
+
+in	TXN	0.677723
+
+of	WMT	0.647452
+
+,	DGX	0.574181
+
+in	F	0.569681
+
+;	CIEN	0.567449
+
+Yum	YUM	0.564978
+
+in	MS	0.561710
+
+Health	WLP	0.554697
+
+To	EA	0.548537
+
+for	DIS	0.527370
+
+;	AA	0.503702
+
+the	JCP	0.496741
+
+in	AXP	0.484597
+
+Energy	VLO	0.484213
+
+Power	ETR	0.478261
+
+FDA	ABT	0.476574
+
+Solar	FSLR	0.475431
+
+'s	NYT	-1.051340
+
+Heparin	BAX	-0.844276
+
+Shares	MU	-0.760918
+
+U.S.	DIS	-0.714778
+
+stocks	FSLR	-0.702250
+
+%	KSS	-0.660125
+
+Medtronic	MDT	-0.645172
+
+$	BRCM	-0.629381
+
+for	WFC	-0.608983
+
+'s	AVP	-0.596807
+
+Buy	CTL	-0.592798
+
+and	BRCM	-0.572053
+
+Enodis	ITW	-0.570290
+
+Hat	RHT	-0.549695
+
+of	BRK.B	-0.548252
+
+Energy	CNX	-0.539682
+
+stocks	CHK	-0.524526
+
+Hasbro	MAT	-0.522736
+
+,	FTR	-0.506224
+
+Verizon	T	-0.495233
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.45557
+
+On	COST	1.113080
+
+By	SNDK	1.028100
+
+;	HAS	0.974063
+
+the	USB	0.846358
+
+of	RF	0.744702
+
+'s	CHK	0.724758
+
+on	SCHW	0.723999
+
+Entergy	ETR	0.715114
+
+stocks	XOM	0.690244
+
+To	BLK	0.668415
+
+Microsoft	ADBE	0.640207
+
+to	TGT	0.636715
+
+of	JNJ	0.605992
+
+US	RIG	0.584210
+
+,	COG	0.556787
+
+,	HPQ	0.549790
+
+Pepper	DPS	0.514579
+
+in	NVDA	0.501433
+
+Diagnostics	DGX	0.489627
+
+'s	CSCO	-1.228050
+
+Activision	EA	-1.024960
+
+Deal	BRK.B	-0.961628
+
+On	WAG	-0.886268
+
+Stocks	CVS	-0.853952
+
+:	LM	-0.707044
+
+CenturyTel	CTL	-0.640228
+
+'s	SHLD	-0.638488
+
+Drilling	RIG	-0.599967
+
+stocks	INTC	-0.575411
+
+In	BSX	-0.567403
+
+Chip	BRCM	-0.564670
+
+U.S.	DIS	-0.562775
+
+,	MKC	-0.548396
+
+To	LOW	-0.546857
+
+to	TYC	-0.534551
+
+Sales	MDT	-0.530770
+
+:	CPB	-0.528561
+
+CarMax	KMX	-0.514544
+
+Sprint	T	-0.502721
+

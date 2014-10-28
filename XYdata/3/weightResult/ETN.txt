@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.192883
+
+Stocks	AZO	0.996488
+
+:	OXY	0.828491
+
+gains	ADBE	0.800723
+
+For	BSX	0.772426
+
+to	QCOM	0.748604
+
+Nordstrom	JWN	0.693386
+
+to	FCX	0.673417
+
+HOT	CF	0.663693
+
+Stocks	WLP	0.641946
+
+US	LLY	0.631081
+
+:	AFL	0.627252
+
+stocks	CVX	0.626900
+
+U.S.	WFC	0.582424
+
+Hartford	HIG	0.560384
+
+To	ALL	0.558626
+
+Simon	SPG	0.513593
+
+stocks	LLY	0.496641
+
+'	YHOO	0.493933
+
+:	GS	0.493713
+
+of	NYT	-0.941523
+
+,	AVB	-0.694130
+
+'	CVS	-0.689119
+
+Ambac	MBI	-0.673361
+
+Sales	BSX	-0.661861
+
+in	IBM	-0.604144
+
+the	BTU	-0.600210
+
+to	VIAB	-0.595487
+
+Stocks	MDLZ	-0.584402
+
+US	BRK.B	-0.584311
+
+stocks	CHK	-0.579918
+
+WellPoint	WLP	-0.548933
+
+on	LLY	-0.548483
+
+,	AIV	-0.533398
+
+'s	CI	-0.530617
+
+To	CVC	-0.524398
+
+for	CVS	-0.516974
+
+To	BRCM	-0.514761
+
+'s	IP	-0.514562
+
+Financial	NDAQ	-0.511782
+

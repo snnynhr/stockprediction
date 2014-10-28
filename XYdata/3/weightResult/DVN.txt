@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.485503
+
+:	PEG	1.207430
+
+'	VIA	0.986583
+
+stocks	APC	0.968480
+
+'s	FDX	0.937744
+
+:	LMT	0.690033
+
+on	AIG	0.686544
+
+Boeing	BA	0.683955
+
+:	INTC	0.633694
+
+Wynn	WYNN	0.612890
+
+stocks	DVN	0.607533
+
+To	EXC	0.575596
+
+Realty	VNO	0.575482
+
+US	MDLZ	0.554070
+
+To	SPLS	0.541964
+
+Rohm	DOW	0.521312
+
+the	USB	0.519799
+
+to	MCD	0.518100
+
+'s	MET	0.507501
+
+:	LUV	0.505082
+
+to	ANF	-1.373180
+
+'s	IBM	-1.032740
+
+?	TXN	-0.946994
+
+in	HOT	-0.905878
+
+'s	LM	-0.795001
+
+,	MPC	-0.793408
+
+Friday	M	-0.784241
+
+Clearing	CME	-0.691497
+
+in	GE	-0.688788
+
+Of	APC	-0.688412
+
+to	PCLN	-0.675489
+
+for	LUV	-0.662938
+
+Insurers	PRU	-0.618513
+
+stocks	SHLD	-0.607851
+
+Bank	USB	-0.589064
+
+Marathon	MRO	-0.563780
+
+Buy	EMC	-0.541520
+
+U.S.	TSN	-0.530877
+
+'s	TGT	-0.504238
+
+'s	AA	-0.503923
+

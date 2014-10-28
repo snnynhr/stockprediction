@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.0345688
+
+Fed	PNC	1.176080
+
+Student	SLM	0.985776
+
+to	IBM	0.816024
+
+US	WLP	0.783921
+
+Insurers	GNW	0.756576
+
+$	EA	0.736178
+
+stocks	TSO	0.732347
+
+Retailers	TJX	0.676971
+
+,	WM	0.672166
+
+Deere	DE	0.669880
+
+;	EMC	0.662079
+
+Stocks	TXN	0.658193
+
+in	JWN	0.638572
+
+Retail	TGT	0.581164
+
+Edison	EIX	0.568248
+
+To	ALL	0.561103
+
+,	JNJ	0.557963
+
+to	COP	0.555905
+
+'s	STT	0.544596
+
+Rambus	MU	-0.991178
+
+for	WFC	-0.976733
+
+'s	KBH	-0.962426
+
+'s	MMM	-0.909908
+
+Whirlpool	WHR	-0.894548
+
+,	TAP	-0.786123
+
+Hospira	HSP	-0.779591
+
+for	LLY	-0.725514
+
+%	FCX	-0.716595
+
+?	NFLX	-0.716207
+
+Stocks	DE	-0.685533
+
+,	C	-0.660705
+
+Sector	TXN	-0.654512
+
+:	JNJ	-0.653017
+
+Ross	ROST	-0.649578
+
+Goldman	BK	-0.641782
+
+Stocks	INTU	-0.625652
+
+:	DE	-0.621009
+
+to	UPS	-0.603198
+
+in	BMY	-0.602220
+

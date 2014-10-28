@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.628037
+
+to	IBM	1.166650
+
+to	NKE	1.130090
+
+:	NRG	0.727182
+
+Morris	MO	0.641765
+
+Philip	MO	0.641765
+
+Morgan	C	0.617265
+
+Family	FDO	0.606796
+
+EBay	EBAY	0.602315
+
+for	JCP	0.594063
+
+,	CNX	0.590593
+
+Energy	VLO	0.577138
+
+Botox	AGN	0.574346
+
+to	CAT	0.566542
+
+U.S.	RIG	0.564767
+
+'s	BLK	0.544965
+
+Of	BK	0.512956
+
+stocks	MU	0.512760
+
+in	SHLD	0.511368
+
+Pulte	PHM	0.510200
+
+Energy	NRG	-1.247750
+
+'s	NYT	-1.230530
+
+'s	MMM	-1.035340
+
+Cable	TWX	-0.974891
+
+of	VZ	-0.899173
+
+Hess	HES	-0.890684
+
+TV	TWX	-0.841635
+
+Invesco	IVZ	-0.827550
+
+:	KMI	-0.826006
+
+to	VIAB	-0.773362
+
+Shares	NVDA	-0.772773
+
+in	AMAT	-0.761276
+
+stocks	RF	-0.721893
+
+,	QEP	-0.696007
+
+Stocks	STI	-0.684507
+
+'s	KBH	-0.678576
+
+Marriott	MAR	-0.663821
+
+to	HPQ	-0.663665
+
+U.S.	INTC	-0.656653
+
+'s	LLY	-0.656432
+

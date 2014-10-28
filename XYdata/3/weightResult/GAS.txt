@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.47783
+
+Oil	LUV	1.109580
+
+$	BLK	0.956052
+
+:	DPS	0.770647
+
+stocks	AMGN	0.733172
+
+To	ETN	0.710824
+
+to	TIF	0.692574
+
+Entergy	ETR	0.626118
+
+Hershey	HSY	0.625388
+
+Deal	CME	0.608731
+
+to	INTC	0.608312
+
+Moody	MCO	0.607621
+
+%	KO	0.554132
+
+To	SHLD	0.537255
+
+stocks	JDSU	0.489137
+
+,	ITW	0.487243
+
+:	LUV	0.486110
+
+,	NEM	0.466150
+
+$	CHK	0.446880
+
+,	CVS	0.440593
+
+in	T	-0.966290
+
+Insurers	PRU	-0.840520
+
+?	CSCO	-0.815505
+
+Shares	MU	-0.815307
+
+,	PCP	-0.770038
+
+Tysabri	BIIB	-0.749080
+
+and	SHLD	-0.724082
+
+America	PNC	-0.700828
+
+Apple	T	-0.660600
+
+To	ABT	-0.642117
+
+:	MCO	-0.637024
+
+,	TROW	-0.634440
+
+Banks	STI	-0.629273
+
+'s	CVC	-0.598574
+
+Progressive	PGR	-0.576766
+
+Friday	BBY	-0.574839
+
+,	EFX	-0.560536
+
+'s	PG	-0.544396
+
+to	ODP	-0.541979
+
+Huntington	HBAN	-0.531877
+

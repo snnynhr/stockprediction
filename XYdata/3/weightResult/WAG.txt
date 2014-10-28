@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.190672
+
+'s	MET	1.081070
+
+Morris	PM	0.960623
+
+Retail	RSH	0.954950
+
+Pulte	PHM	0.789110
+
+U.S.	CHK	0.725898
+
+to	FCX	0.671974
+
+,	IRM	0.667290
+
+US	TIF	0.659931
+
+US	LLY	0.640980
+
+to	BMY	0.626470
+
+Study	MRK	0.618965
+
+stocks	AA	0.612138
+
+of	TWX	0.609803
+
+for	DIS	0.590779
+
+in	OXY	0.582426
+
+,	SPG	0.555734
+
+&	MCO	0.555696
+
+In	MTG	0.531106
+
+Restaurants	DRI	0.516311
+
+To	WAG	-0.821580
+
+$	AES	-0.813295
+
+Up	BBY	-0.679000
+
+the	RF	-0.638887
+
+'s	IP	-0.614751
+
+To	BBY	-0.610898
+
+Holiday	M	-0.569161
+
+Media	NYT	-0.560994
+
+to	CME	-0.552649
+
+J	ABT	-0.549475
+
+for	AIG	-0.532874
+
+and	CHK	-0.530529
+
+Unit	MRO	-0.526678
+
+HOT	HAS	-0.515278
+
+stocks	LLY	-0.513307
+
+Hospira	HSP	-0.511633
+
+Prices	DOW	-0.510269
+
+Shares	NVDA	-0.506651
+
+To	ABT	-0.499214
+
+Stocks	MDLZ	-0.498429
+

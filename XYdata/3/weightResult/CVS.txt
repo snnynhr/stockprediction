@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	1.5051
+
+of	CHK	0.923429
+
+To	EOG	0.869743
+
+game	EA	0.778709
+
+sales	EA	0.771234
+
+The	SBUX	0.768649
+
+Field	COP	0.719901
+
+,	ARG	0.694473
+
+Sector	HES	0.684595
+
+of	M	0.666295
+
+%	SPLS	0.657776
+
+,	SPG	0.621952
+
+Boston	BSX	0.601938
+
+Morning	F	0.576617
+
+to	BMY	0.573822
+
+Jabil	JBL	0.573488
+
+Stocks	UNH	0.554217
+
+China	CAT	0.547623
+
+stocks	PRU	0.523421
+
+,	OMC	0.503994
+
+for	LLY	-0.895428
+
+Energy	APC	-0.832185
+
+To	SRE	-0.799823
+
+drop	CVX	-0.729656
+
+,	FTR	-0.717362
+
+$	PFE	-0.704143
+
+,	DNB	-0.644882
+
+In	PNC	-0.633278
+
+,	MPC	-0.626633
+
+the	VZ	-0.624726
+
+To	DLTR	-0.616329
+
+Visa	MA	-0.601488
+
+,	GME	-0.593993
+
+Stocks	KEY	-0.580833
+
+in	AMGN	-0.578855
+
+,	ROP	-0.559615
+
+in	MU	-0.549387
+
+Manitowoc	MTW	-0.536223
+
+HOT	HUM	-0.536157
+
+after	MU	-0.513633
+

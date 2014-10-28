@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.381701
+
+to	FCX	1.346180
+
+VMware	EMC	1.272570
+
+and	SVU	0.870773
+
+To	COF	0.867719
+
+FDA	MDT	0.816989
+
+By	NDAQ	0.784781
+
+Insurers	GNW	0.761710
+
+Friday	CRM	0.757396
+
+to	MCO	0.692929
+
+the	AIG	0.692649
+
+the	F	0.636026
+
+Kraft	MDLZ	0.632161
+
+,	NUE	0.610083
+
+Banks	BBT	0.588581
+
+for	CBS	0.567155
+
+,	RTN	0.566958
+
+Progress	DUK	0.555007
+
+,	BMS	0.547933
+
+to	LUV	0.507913
+
+for	YHOO	-1.364680
+
+CFTC	CME	-1.110690
+
+Interpublic	IPG	-1.014250
+
+for	WFC	-0.947307
+
+for	EBAY	-0.940603
+
+on	PRU	-0.728255
+
+Sales	JWN	-0.677000
+
+Comcast	CMCSA	-0.639626
+
+Stocks	FSLR	-0.629971
+
+:	PXD	-0.628252
+
+Gulf	APC	-0.616864
+
+Friday	BBY	-0.602436
+
+Housing	LEN	-0.571878
+
+&	CSCO	-0.560880
+
+Supervalu	SVU	-0.558579
+
+'s	APC	-0.541012
+
+Tysabri	BIIB	-0.524232
+
+KeyCorp	KEY	-0.518230
+
+Discovery	DISCA	-0.502394
+
+,	COL	-0.487781
+

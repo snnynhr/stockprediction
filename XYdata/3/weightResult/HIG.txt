@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.479035
+
+'s	PHM	1.421880
+
+to	FCX	0.889553
+
+of	JCP	0.789203
+
+stocks	HES	0.745926
+
+for	APC	0.725881
+
+Stanley	SWK	0.683304
+
+,	MDP	0.666733
+
+:	XOM	0.656574
+
+and	DF	0.622519
+
+on	BRK.B	0.607188
+
+Rockwell	ROK	0.593196
+
+for	NYT	0.561008
+
+STOCKS	SNDK	0.558821
+
+,	DPS	0.553713
+
+,	DTE	0.551728
+
+Aon	AON	0.537801
+
+Stock	CHK	0.505992
+
+Zynga	EA	0.465785
+
+gas	CHK	0.460793
+
+To	LMT	-0.977739
+
+With	CMCSA	-0.886217
+
+stocks	COST	-0.843116
+
+Retail	BBY	-0.818728
+
+Energy	MRO	-0.762316
+
+Stocks	M	-0.738197
+
+at	ORCL	-0.724511
+
+Dow	KO	-0.688087
+
+To	ICE	-0.675368
+
+'s	SBUX	-0.653500
+
+;	AMD	-0.626710
+
+Lennar	LEN	-0.611998
+
+%	NKE	-0.608088
+
+Refinery	TSO	-0.587689
+
+Cancer	AMGN	-0.566486
+
+,	UNP	-0.563549
+
+'s	T	-0.563194
+
+To	NU	-0.559895
+
+and	AA	-0.549279
+
+%	AXP	-0.541168
+

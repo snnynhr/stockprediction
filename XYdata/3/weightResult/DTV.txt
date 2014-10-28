@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.0847795
+
+the	CVC	1.633510
+
+gas	CHK	1.017300
+
+Exxon	MRO	0.884155
+
+Stake	NYT	0.855283
+
+Edison	EIX	0.835664
+
+to	PPG	0.832948
+
+to	COF	0.784487
+
+;	AA	0.767408
+
+'s	BMY	0.747053
+
+to	CAT	0.744987
+
+'s	WFC	0.691743
+
+To	DPS	0.650749
+
+Sales	BBY	0.633858
+
+Stocks	THC	0.627979
+
+Morris	PM	0.607930
+
+Stocks	XOM	0.594897
+
+'s	ADBE	0.555348
+
+:	COP	0.535565
+
+Tiffany	TIF	0.534769
+
+to	VIA	-0.918559
+
+Discovery	DISCA	-0.907938
+
+Stocks	KEY	-0.907507
+
+'s	SBUX	-0.867364
+
+Stocks	USB	-0.811551
+
+to	TWC	-0.775402
+
+to	PNC	-0.747976
+
+in	GE	-0.715227
+
+In	DUK	-0.680585
+
+to	ANF	-0.669677
+
+,	LLL	-0.653301
+
+$	HES	-0.645036
+
+In	ABT	-0.617518
+
+Same-Store	M	-0.606369
+
+,	NWL	-0.592795
+
+Banks	PNC	-0.572058
+
+Up	ORCL	-0.563909
+
+Symantec	SYMC	-0.557242
+
+,	PSX	-0.546241
+
+As	V	-0.511045
+

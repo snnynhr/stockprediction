@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.0508784
+
+;	GNW	1.093080
+
+to	VLO	0.909335
+
+&	BMY	0.894281
+
+energy	CNX	0.785903
+
+for	EMC	0.765713
+
+Study	MDT	0.745342
+
+Stocks	BBY	0.710042
+
+to	QCOM	0.685315
+
+stocks	TSO	0.638947
+
+'s	YHOO	0.616999
+
+To	DHI	0.610990
+
+to	CVX	0.597076
+
+the	ANF	0.594128
+
+Short	NDAQ	0.590958
+
+;	USB	0.590538
+
+For	QCOM	0.588886
+
+to	EXC	0.566581
+
+to	AMD	0.545872
+
+Daily	CME	0.528475
+
+to	CL	-1.079520
+
+for	AA	-0.923815
+
+the	BAC	-0.874344
+
+Rowe	TROW	-0.856139
+
+Stocks	M	-0.827729
+
+'	MCD	-0.791112
+
+Energy	DVN	-0.778618
+
+Stocks	ANF	-0.745617
+
+in	DD	-0.736722
+
+%	TXN	-0.712228
+
+:	RRC	-0.699648
+
+Shares	AMD	-0.665450
+
+$	PFE	-0.590181
+
+,	WEN	-0.564942
+
+HOT	UNP	-0.538431
+
+Stent	ABT	-0.537480
+
+in	PG	-0.499548
+
+,	PAYX	-0.498914
+
+'s	CSCO	-0.497748
+
+stocks	CHK	-0.491709
+

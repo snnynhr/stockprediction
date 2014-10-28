@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.615495
+
+stocks	HBAN	0.928077
+
+:	A	0.819099
+
+for	MRK	0.773900
+
+for	AXP	0.687827
+
+U.S.	AIG	0.642560
+
+Retailers	KSS	0.616781
+
+in	TWX	0.592834
+
+Microsoft	EA	0.584621
+
+,	TGT	0.566972
+
+,	L	0.566025
+
+on	PEP	0.558513
+
+'s	MDLZ	0.500886
+
+,	CA	0.499360
+
+on	LOW	0.489655
+
+'s	ABT	0.482458
+
+on	CSCO	0.482264
+
+:	CMCSA	0.467446
+
+;	JNJ	0.467289
+
+,	WM	0.454709
+
+on	GM	-1.096920
+
+SABMiller	BUD	-0.838743
+
+for	EBAY	-0.826733
+
+New	F	-0.787479
+
+Stocks	GPS	-0.752634
+
+Western	WDC	-0.746450
+
+Stocks	USB	-0.727159
+
+the	QCOM	-0.691415
+
+'s	AMZN	-0.673926
+
+a	DIS	-0.647886
+
+,	LYB	-0.616932
+
+to	BK	-0.610139
+
+U.S.	WMT	-0.564010
+
+,	RHI	-0.563355
+
+'s	GE	-0.560541
+
+on	HUM	-0.557281
+
+%	JCP	-0.555273
+
+,	MTB	-0.553229
+
+Profit	TGT	-0.541314
+
+,	GGP	-0.524961
+

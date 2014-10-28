@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	1.204
+
+:	GLW	0.829294
+
+of	BLK	0.770995
+
+in	EMC	0.735773
+
+to	AXP	0.689402
+
+,	CTXS	0.671589
+
+Fed	AIG	0.669116
+
+'s	ABT	0.646021
+
+Tech	EMC	0.595825
+
+Stocks	MCD	0.593985
+
+,	SHW	0.554112
+
+Stocks	UNH	0.537270
+
+Of	BK	0.536489
+
+U.S.	M	0.527270
+
+In	BLK	0.491715
+
+the	NFLX	0.489129
+
+stocks	TXN	0.487251
+
+,	PPG	0.486712
+
+Alibaba	YHOO	0.471202
+
+Coca-Cola	KO	0.458271
+
+?	CSCO	-1.137420
+
+of	NYT	-0.956135
+
+By	NTAP	-0.891502
+
+'s	KBH	-0.861005
+
+Tysabri	BIIB	-0.842070
+
+;	WDC	-0.811962
+
+,	RHI	-0.782394
+
+in	DTV	-0.708873
+
+'s	FCX	-0.695546
+
+stocks	LLY	-0.690060
+
+$	STI	-0.689704
+
+Sales	M	-0.666203
+
+'s	CSCO	-0.639175
+
+$	DOW	-0.637976
+
+Energy	APC	-0.621132
+
+Time	MDP	-0.620638
+
+in	HBAN	-0.602031
+
+BorgWarner	BWA	-0.600248
+
+,	BLK	-0.574402
+
+of	F	-0.572073
+

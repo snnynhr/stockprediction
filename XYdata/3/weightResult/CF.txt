@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.363152
+
+Foot	NKE	0.974256
+
+Retail	TGT	0.845872
+
+in	EMC	0.817031
+
+'s	BA	0.805491
+
+the	AA	0.705516
+
+of	BLK	0.687602
+
+to	PFE	0.675510
+
+Energy	RIG	0.640334
+
+Home	PHM	0.636393
+
+$	BK	0.589810
+
+US	ETR	0.568173
+
+to	IBM	0.537302
+
+U.S.	M	0.533548
+
+;	COST	0.527507
+
+Stryker	SYK	0.524179
+
+,	AFL	0.522435
+
+of	COF	0.511002
+
+Lockheed	LMT	0.505147
+
+Energy	BTU	0.505115
+
+Google	ORCL	-1.098700
+
+?	DIS	-1.070760
+
+Regions	RF	-0.974372
+
+to	CSCO	-0.831111
+
+,	MCK	-0.808065
+
+Altria	MO	-0.783067
+
+%	F	-0.726894
+
+to	UTX	-0.692638
+
+To	SCHW	-0.687248
+
+a	ICE	-0.686902
+
+Friday	M	-0.652545
+
+Intuit	INTU	-0.611698
+
+Refinery	COP	-0.601931
+
+In	USB	-0.577738
+
+US	ABT	-0.552792
+
+Bid	EMC	-0.545714
+
+at	HPQ	-0.535642
+
+Profit	LOW	-0.532851
+
+'	BMY	-0.527829
+
+To	CAT	-0.517922
+

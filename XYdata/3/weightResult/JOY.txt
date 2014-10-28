@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.699115
+
+to	CAT	1.500030
+
+to	BA	0.815854
+
+Regional	KEY	0.806318
+
+Dow	DOW	0.714989
+
+to	BAC	0.713963
+
+SAP	ORCL	0.626664
+
+J.P.	AXP	0.622738
+
+Wireless	VZ	0.576770
+
+,	CLF	0.538228
+
+stocks	BRCM	0.499253
+
+General	DG	0.487630
+
+U.S.	MCD	0.466245
+
+;	COST	0.459770
+
+Tyson	TSN	0.454374
+
+for	AIG	0.454094
+
+Retail	TGT	0.447151
+
+,	WMB	0.445131
+
+for	BMY	0.440747
+
+J	MRK	0.434271
+
+U.S.	SBUX	-1.059220
+
+?	CMCSA	-0.924753
+
+Deals	AIG	-0.882761
+
+,	CCE	-0.877075
+
+Apple	INTC	-0.849298
+
+Stocks	M	-0.739535
+
+Bank	STT	-0.679759
+
+,	ACE	-0.656814
+
+to	C	-0.656601
+
+in	UTX	-0.636876
+
+to	IPG	-0.614947
+
+Stocks	V	-0.605929
+
+,	GE	-0.597864
+
+the	TXN	-0.581961
+
+:	FDX	-0.581574
+
+,	UNM	-0.564127
+
+Friday	M	-0.539468
+
+Stocks	ADI	-0.533960
+
+For	CME	-0.528531
+
+,	CTSH	-0.523093
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-1.02349
+
+Net	HD	0.927018
+
+in	SCHW	0.870691
+
+of	BLK	0.863290
+
+The	MS	0.857927
+
+EBay	EBAY	0.820570
+
+Energy	BHI	0.814998
+
+for	BMY	0.796170
+
+on	JNJ	0.778442
+
+,	TEX	0.775437
+
+;	QCOM	0.693478
+
+To	BAX	0.658521
+
+the	CVC	0.623479
+
+'s	RF	0.604159
+
+on	V	0.594017
+
+In	BLK	0.581860
+
+,	CCE	0.581149
+
+:	KO	0.515838
+
+stocks	VLO	0.505739
+
+Smucker	SJM	0.500552
+
+Is	BRK.B	-1.123050
+
+on	USB	-1.003340
+
+?	BRCM	-0.882632
+
+Financial	BK	-0.825512
+
+Derivatives	CME	-0.773733
+
+Stocks	FFIV	-0.752420
+
+$	HES	-0.708710
+
+in	AA	-0.659768
+
+Red	RHT	-0.614108
+
+Wal-Mart	TGT	-0.612864
+
+In	BSX	-0.612714
+
+in	HD	-0.609642
+
+Interpublic	IPG	-0.609435
+
+:	NDAQ	-0.590632
+
+Oil	DVN	-0.587232
+
+DuPont	DD	-0.564956
+
+Temple-Inland	IP	-0.544086
+
+tech	ORCL	-0.539984
+
+Retail	M	-0.519338
+
+'	MET	-0.517268
+

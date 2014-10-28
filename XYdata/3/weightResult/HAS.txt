@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.057718
+
+Energy	VLO	0.784292
+
+Waste	WM	0.747280
+
+Energy	RIG	0.685473
+
+the	BHI	0.680692
+
+Ford	F	0.677382
+
+Up	PG	0.667954
+
+Diabetes	LLY	0.650180
+
+,	PEG	0.642820
+
+TV	CBS	0.604182
+
+VMware	EMC	0.580594
+
+for	NYT	0.573516
+
+Financial	COF	0.544956
+
+In	GNW	0.533651
+
+of	WMT	0.527574
+
+Vornado	VNO	0.523276
+
+to	BMY	0.507996
+
+Works	ITW	0.501308
+
+stocks	CSCO	0.497355
+
+,	VZ	0.490455
+
+for	KO	-1.113910
+
+Hospira	HSP	-0.905453
+
+CA	CA	-0.737412
+
+Google	IBM	-0.728161
+
+for	ABT	-0.719858
+
+,	AVB	-0.714564
+
+Salesforce	CRM	-0.682310
+
+to	T	-0.647623
+
+Stock	CPB	-0.594873
+
+Nymex	CME	-0.574002
+
+:	SHLD	-0.570507
+
+China	YUM	-0.560833
+
+,	BK	-0.555374
+
+:	AMAT	-0.533745
+
+the	BRK.B	-0.533302
+
+to	CPWR	-0.527609
+
+GM	F	-0.518977
+
+in	CHK	-0.513945
+
+Qualcomm	BRCM	-0.497608
+
+Martin	LMT	-0.483690
+

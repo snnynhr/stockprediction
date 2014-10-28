@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.397083
+
+,	DTE	0.873999
+
+to	TSO	0.845546
+
+H-P	HPQ	0.819926
+
+Contract	NOC	0.721790
+
+Biotech	BIIB	0.719661
+
+Airlines	BA	0.713793
+
+US	VLO	0.700824
+
+to	USB	0.622471
+
+to	PEP	0.614839
+
+AIG	MET	0.603277
+
+Lipitor	PFE	0.582863
+
+,	WM	0.575526
+
+Higher	DFS	0.553833
+
+To	COF	0.549520
+
+Pulte	PHM	0.549465
+
+Insurers	MBI	0.527980
+
+Stocks	STI	0.509244
+
+,	HCP	0.505618
+
+,	WFT	0.491964
+
+Financial	BK	-1.686580
+
+Net	M	-0.906582
+
+in	ADBE	-0.881995
+
+US	ICE	-0.877759
+
+'	HPQ	-0.831797
+
+US	GME	-0.822738
+
+Derivatives	CME	-0.756068
+
+,	MTB	-0.752858
+
+Deutsche	UPS	-0.707752
+
+to	EMC	-0.696102
+
+'s	WLP	-0.694362
+
+to	AET	-0.647681
+
+The	HPQ	-0.636341
+
+Stocks	ADBE	-0.632461
+
+CenturyTel	CTL	-0.617297
+
+Heinz	BRK.B	-0.597926
+
+,	IR	-0.594011
+
+Martin	LMT	-0.539548
+
+Coal	BTU	-0.536050
+
+Profit	WAG	-0.527712
+

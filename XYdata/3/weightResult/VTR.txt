@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.78635
+
+BP	XOM	1.237970
+
+stocks	AIG	1.188750
+
+Drug	BIIB	0.829135
+
+to	NVDA	0.815165
+
+Genworth	GNW	0.796828
+
+%	EMC	0.677481
+
+Stocks	INTC	0.661535
+
+Janus	JNS	0.635372
+
+Health	AET	0.609472
+
+To	VZ	0.599505
+
+Target	TGT	0.549153
+
+Stocks	NBR	0.547843
+
+to	COF	0.539256
+
+Retailers	BBY	0.494324
+
+To	BSX	0.494115
+
+'s	UTX	0.492611
+
+Stocks	CAT	0.484210
+
+T-Mobile	T	0.480385
+
+:	HSY	0.479329
+
+stocks	GNW	-1.168740
+
+FDA	MRK	-1.160450
+
+US	HES	-0.897105
+
+US	CME	-0.893008
+
+to	BLK	-0.736463
+
+BP	APC	-0.666639
+
+Express	AXP	-0.651011
+
+%	WYNN	-0.646835
+
+Coffee	SBUX	-0.633483
+
+to	DD	-0.630822
+
+%	JCP	-0.617117
+
+to	TWC	-0.583489
+
+To	CAT	-0.562427
+
+Tyco	TYC	-0.556034
+
+'s	MMM	-0.549786
+
+,	RHI	-0.541118
+
+the	PG	-0.513007
+
+Shares	AMD	-0.505305
+
+stocks	CHK	-0.502693
+
+Noble	NBL	-0.486886
+

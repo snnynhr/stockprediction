@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.393125
+
+and	YHOO	0.904065
+
+;	GME	0.879101
+
+Natural	CHK	0.868162
+
+Allergan	AGN	0.852209
+
+'s	BSX	0.827396
+
+of	BLK	0.819300
+
+on	VZ	0.806855
+
+U.S.	FDX	0.681827
+
+Retailers	TJX	0.639483
+
+for	PG	0.633994
+
+Nordstrom	JWN	0.629958
+
+:	DD	0.625250
+
+in	TWX	0.614159
+
+JDS	JDSU	0.586883
+
+$	MA	0.539915
+
+,	PFE	0.525329
+
+,	FLIR	0.524603
+
+Time	VIA	0.523877
+
+:	AES	0.510025
+
+,	FII	-0.891942
+
+:	RHT	-0.828647
+
+for	BRCM	-0.778938
+
+PetSmart	PETM	-0.756045
+
+Bid	EMC	-0.717643
+
+:	PFE	-0.690615
+
+,	ZMH	-0.676239
+
+By	KO	-0.633848
+
+In	BSX	-0.629955
+
+for	KO	-0.617929
+
+Netflix	DIS	-0.583440
+
+Stocks	NFLX	-0.577297
+
+Cyprus	C	-0.576869
+
+Oil	DVN	-0.572514
+
+:	GME	-0.565103
+
+May	COF	-0.543029
+
+'s	TWC	-0.535336
+
+the	TXN	-0.510523
+
+the	MAT	-0.509336
+
+in	BMY	-0.508387
+

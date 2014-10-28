@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.459735
+
+stocks	NVDA	0.811961
+
+stocks	PG	0.774764
+
+Plans	T	0.746142
+
+:	SO	0.729891
+
+Car	F	0.724106
+
+Futures	CME	0.694617
+
+Media	VIAB	0.664144
+
+In	GNW	0.588633
+
+Apple	NFLX	0.581243
+
+Microsoft	EA	0.572243
+
+Oil	HES	0.570567
+
+,	STT	0.565001
+
+Controls	JCI	0.561007
+
+the	AIG	0.558487
+
+,	NRG	0.526259
+
+:	ABT	0.523920
+
+,	AES	0.516651
+
+Apple	VZ	0.512953
+
+of	RF	0.503887
+
+Update	V	-0.878857
+
+,	BF.B	-0.860155
+
+Morgan	COF	-0.774235
+
+J	MRK	-0.757170
+
+Noble	NE	-0.753074
+
+'s	GE	-0.730606
+
+Stocks	MDLZ	-0.729871
+
+In	NDAQ	-0.729300
+
+in	KSS	-0.722982
+
+Software	CRM	-0.713236
+
+,	GS	-0.696486
+
+on	FDX	-0.688814
+
+to	ODP	-0.679484
+
+Stocks	M	-0.666208
+
+,	COL	-0.603402
+
+in	HD	-0.575527
+
+Nokia	QCOM	-0.558622
+
+:	GME	-0.552742
+
+the	KO	-0.547795
+
+:	BDX	-0.540909
+

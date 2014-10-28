@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.0371207
+
+Insurance	UNH	0.918289
+
+,	FHN	0.801312
+
+and	BRK.B	0.761011
+
+On	BBT	0.739557
+
+:	CVX	0.738595
+
+;	APA	0.707181
+
+FAA	LUV	0.673893
+
+;	TSO	0.660520
+
+Trading	CME	0.622945
+
+Stocks	CSCO	0.584212
+
+Stocks	COF	0.571825
+
+to	SHLD	0.570110
+
+a	V	0.561520
+
+,	TSN	0.540695
+
+$	VIAB	0.526004
+
+Goldman	GS	0.514869
+
+Facebook	YHOO	0.511635
+
+Salesforce.com	CRM	0.502204
+
+:	X	0.494507
+
+stocks	CHK	-1.527630
+
+:	VZ	-0.942146
+
+for	CVS	-0.740311
+
+Gas	CVX	-0.736871
+
+To	WLP	-0.658567
+
+Stock	AMAT	-0.658350
+
+,	NFX	-0.556996
+
+;	PEP	-0.556462
+
+and	FCX	-0.555425
+
+HOT	AET	-0.555210
+
+Southwestern	SWN	-0.547720
+
+Tesoro	TSO	-0.519738
+
+,	TRIP	-0.506226
+
+In	ABT	-0.499988
+
+:	CTSH	-0.497988
+
+'s	HD	-0.495491
+
+STOCKS	MET	-0.488442
+
+McDonald	MCD	-0.481636
+
+,	KIM	-0.478476
+
+Apple	INTC	-0.476229
+

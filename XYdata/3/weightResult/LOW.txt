@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.703684
+
+Rockwell	ROK	1.038310
+
+Stocks	LEN	0.904645
+
+Facebook	EBAY	0.773436
+
+Dell	IBM	0.738372
+
+HOT	MRK	0.734204
+
+:	SYMC	0.718464
+
+York	NYT	0.718422
+
+On	AMGN	0.701927
+
+Alibaba	YHOO	0.675192
+
+'s	CRM	0.661651
+
+and	LUV	0.610016
+
+Chesapeake	XOM	0.584247
+
+Oil	XOM	0.575566
+
+to	MCD	0.570518
+
+Stocks	HPQ	0.568544
+
+stocks	LEN	0.562639
+
+Oil	COP	0.560816
+
+stocks	AXP	0.545944
+
+on	SCHW	0.545801
+
+Loews	L	-1.243880
+
+Noble	NBL	-1.005160
+
+Stocks	DE	-0.853378
+
+To	GPS	-0.770636
+
+Residential	EQR	-0.761820
+
+Drugs	BMY	-0.735364
+
+to	SCHW	-0.712205
+
+New	XOM	-0.687897
+
+?	TWX	-0.640379
+
+'s	WMT	-0.611580
+
+Google	MA	-0.589516
+
+,	ASH	-0.569261
+
+%	XOM	-0.561619
+
+Narrows	LEN	-0.544664
+
+Chip	BRCM	-0.537722
+
+&	GPS	-0.525377
+
+To	CBS	-0.482203
+
+to	JNJ	-0.478641
+
+:	FLR	-0.471401
+
+Stocks	MRK	-0.452553
+

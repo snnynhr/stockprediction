@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.917368
+
+in	CME	1.224670
+
+Gains	MU	0.898273
+
+,	AIZ	0.810428
+
+;	APA	0.769379
+
+as	NDAQ	0.715867
+
+,	BCR	0.653657
+
+In	BLK	0.653626
+
+For	MBI	0.647276
+
+'s	BK	0.644379
+
+to	M	0.644341
+
+,	MS	0.629927
+
+Microsoft	EA	0.627850
+
+%	AA	0.623075
+
+on	HD	0.611624
+
+US	FITB	0.611047
+
+Toshiba	SNDK	0.604286
+
+Natural	CHK	0.597505
+
+ING	COF	0.588027
+
+'s	CRM	0.552474
+
+?	AMD	-1.176380
+
+'s	CHK	-0.951871
+
+to	AEP	-0.926477
+
+'s	PFE	-0.826155
+
+in	AMAT	-0.812894
+
+Discovery	DISCA	-0.764497
+
+Net	M	-0.750549
+
+for	USB	-0.750534
+
+Starwood	HOT	-0.727083
+
+in	APC	-0.703523
+
+stocks	SWN	-0.677210
+
+to	BUD	-0.629630
+
+to	NFLX	-0.628061
+
+:	MA	-0.624110
+
+Retail	WAG	-0.598719
+
+'s	DFS	-0.579106
+
+,	CNP	-0.568997
+
+Gap	GPS	-0.557013
+
+Oil	DVN	-0.554796
+
+Boeing	BA	-0.536258
+

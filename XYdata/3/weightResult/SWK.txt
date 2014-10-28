@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.569916
+
+in	NYT	0.851386
+
+&	FITB	0.850542
+
+Bottling	PEP	0.808392
+
+Rally	NVDA	0.773017
+
+$	DE	0.753568
+
+Fed	USB	0.707710
+
+;	COST	0.640158
+
+to	ACE	0.629541
+
+,	AIZ	0.629376
+
+Stocks	WLP	0.617829
+
+In	KO	0.607101
+
+'s	BLK	0.597326
+
+'s	YHOO	0.588547
+
+&	QCOM	0.569857
+
+to	TGT	0.552725
+
+:	ADI	0.551315
+
+for	LEN	0.547362
+
+;	EA	0.546698
+
+of	AIG	0.537440
+
+in	BBY	-0.898115
+
+;	WDC	-0.882650
+
+Stocks	M	-0.870386
+
+stocks	CHK	-0.847726
+
+'s	PFE	-0.831630
+
+in	APC	-0.821984
+
+U.S.	DIS	-0.818318
+
+Heparin	BAX	-0.771126
+
+Stocks	KEY	-0.660974
+
+Scientific	MDT	-0.625492
+
+,	FII	-0.622074
+
+to	MS	-0.592131
+
+of	VIA	-0.584117
+
+Loss	MON	-0.581527
+
+Drug	CVS	-0.575809
+
+to	EBAY	-0.567296
+
+:	TSO	-0.561750
+
+:	CELG	-0.553122
+
+Chevron	CVX	-0.550109
+
+:	L	-0.549594
+

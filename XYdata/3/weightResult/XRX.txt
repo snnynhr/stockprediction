@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.821316
+
+Health	UNH	0.954806
+
+Airlines	BA	0.913932
+
+US	CLX	0.902628
+
+stocks	IBM	0.872267
+
+$	BMY	0.872240
+
+Street	AIG	0.831851
+
+Tool	ITW	0.809498
+
+,	MMC	0.740236
+
+;	LLTC	0.716763
+
+$	MBI	0.713044
+
+rise	AA	0.702932
+
+,	DTE	0.699994
+
+Rally	AMD	0.678938
+
+In	BLK	0.665031
+
+Burger	MCD	0.596845
+
+,	IFF	0.595543
+
+for	JCP	0.592007
+
+Stocks	CSCO	0.566825
+
+to	AXP	0.561128
+
+Stocks	M	-0.773109
+
+Stocks	SNDK	-0.767210
+
+stocks	CHK	-0.758717
+
+?	CSCO	-0.686753
+
+'s	GE	-0.682003
+
+'s	DD	-0.669208
+
+Caremark	CVS	-0.655224
+
+To	APC	-0.650070
+
+of	F	-0.640643
+
+Stocks	UTX	-0.624163
+
+to	DD	-0.595984
+
+Dow	KO	-0.591612
+
+to	ANF	-0.587035
+
+US	PCG	-0.577669
+
+in	BMY	-0.567313
+
+,	DYN	-0.566576
+
+,	HSP	-0.521022
+
+Intuit	INTU	-0.514069
+
+BorgWarner	BWA	-0.510801
+
+Autodesk	ADSK	-0.503117
+

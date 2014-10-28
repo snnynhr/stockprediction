@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.438231
+
+in	GPS	0.966051
+
+Corpus	VLO	0.941044
+
+to	HD	0.899027
+
+to	CVX	0.877037
+
+Kinder	KMI	0.811653
+
+STOCKS	EMC	0.700460
+
+Home	DHI	0.667338
+
+to	WMT	0.643422
+
+Health	UNH	0.629162
+
+'s	STT	0.627130
+
+Restaurants	DRI	0.579692
+
+,	ITW	0.569907
+
+:	DTV	0.553822
+
+FAA	LUV	0.532203
+
+:	DYN	0.529584
+
+,	MON	0.527404
+
+Morris	PM	0.517379
+
+:	EXC	0.516452
+
+,	WFT	0.505823
+
+to	BBBY	-0.878532
+
+in	GE	-0.815711
+
+E*Trade	ETFC	-0.797443
+
+Hospira	HSP	-0.792156
+
+'s	HPQ	-0.785432
+
+and	CHK	-0.761619
+
+Cancer	ABT	-0.694003
+
+U.S.	AA	-0.661285
+
+'s	GPS	-0.656340
+
+Energy	CNX	-0.648602
+
+U.S.	JNJ	-0.648098
+
+Green	SBUX	-0.645308
+
+Stocks	M	-0.614586
+
+Caremark	CVS	-0.613970
+
+'s	KBH	-0.609983
+
+Wal-Mart	TGT	-0.609747
+
+'	DIS	-0.587773
+
+Stocks	MRK	-0.586435
+
+,	CNP	-0.578611
+
+From	MET	-0.561171
+

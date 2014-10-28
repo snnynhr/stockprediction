@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-1.05198
+
+a	BBY	1.035960
+
+US	AXP	0.864393
+
+Retailers	M	0.817012
+
+Oil	HAL	0.771653
+
+TECH	SNDK	0.700681
+
+'s	NFLX	0.674009
+
+Carnival	CCL	0.665468
+
+:	HBAN	0.625583
+
+in	BRK.B	0.602661
+
+to	KO	0.594157
+
+,	ORLY	0.587395
+
+in	BIIB	0.525395
+
+On	JNJ	0.523456
+
+Oil	MUR	0.479808
+
+in	PNC	0.475382
+
+Facebook	NDAQ	0.468897
+
+Group	APOL	0.454301
+
+'s	PG	0.441384
+
+,	MON	0.427782
+
+The	AA	-1.046980
+
+Life	PRU	-1.009080
+
+stocks	INTC	-0.956083
+
+to	ANF	-0.915091
+
+Net	M	-0.815574
+
+'s	JNJ	-0.739259
+
+Buy	GE	-0.712397
+
+%	FDX	-0.702255
+
+Ingersoll-Rand	IR	-0.659531
+
+Cisco	AMD	-0.616646
+
+Stocks	IBM	-0.606766
+
+U.S.	V	-0.598770
+
+on	ORCL	-0.585776
+
+$	CVX	-0.578394
+
+Banks	C	-0.574191
+
+Stock	MCD	-0.570159
+
+the	KO	-0.566732
+
+:	CHK	-0.562036
+
+U.S.	SHLD	-0.558846
+
+Kellogg	K	-0.512124
+

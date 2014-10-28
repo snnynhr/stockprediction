@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.0998923
+
+for	AIG	0.893352
+
+Home	DHI	0.801910
+
+'	SHLD	0.794931
+
+To	JCI	0.745568
+
+'s	BLK	0.680930
+
+Biogen	BIIB	0.680532
+
+Campbell	CPB	0.665683
+
+Retail	ANF	0.654331
+
+The	ORCL	0.635438
+
+Republic	RSG	0.594275
+
+MasterCard	V	0.574946
+
+Thermo	TMO	0.571876
+
+:	BRCM	0.549957
+
+'s	COH	0.549566
+
+to	BMY	0.544917
+
+,	MWV	0.530965
+
+,	CBS	0.519451
+
+'s	STJ	0.496828
+
+In	BLK	0.473783
+
+U.S.	INTC	-0.978163
+
+Shares	NVDA	-0.860574
+
+the	NVDA	-0.816322
+
+:	FE	-0.800040
+
+Hospira	HSP	-0.793981
+
+in	MRO	-0.759710
+
+Ralcorp	CAG	-0.737449
+
+Marriott	MAR	-0.737077
+
+in	MCD	-0.717640
+
+Pay	ABT	-0.695103
+
+Stocks	SVU	-0.693682
+
+,	PCP	-0.667655
+
+Discovery	DISCA	-0.649346
+
+in	AIG	-0.645204
+
+?	CSCO	-0.627872
+
+'s	NYT	-0.625872
+
+to	JNPR	-0.577355
+
+?	PEP	-0.577226
+
+Financial	KEY	-0.566015
+
+for	LLY	-0.554475
+

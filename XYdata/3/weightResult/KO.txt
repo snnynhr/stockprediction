@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-1.1212
+
+$	EXC	0.872445
+
+PPG	PPG	0.811345
+
+Deal	CVX	0.771914
+
+,	EMN	0.694884
+
+Aon	AON	0.688944
+
+Halliburton	HAL	0.649631
+
+Rise	HD	0.644666
+
+Stock	COST	0.641951
+
+,	CAM	0.631906
+
+on	BRK.B	0.631270
+
+In	BLK	0.610382
+
+Steel	AKS	0.580734
+
+Futures	CME	0.576401
+
+in	DIS	0.570157
+
+Apple	XOM	0.543195
+
+;	FITB	0.541247
+
+TiVo	VZ	0.526792
+
+of	GE	0.508013
+
+the	HPQ	0.504533
+
+for	NYT	-1.228230
+
+Stocks	PRU	-1.070050
+
+Red	RHT	-0.859317
+
+Heparin	BAX	-0.804319
+
+in	UTX	-0.767462
+
+'s	NDAQ	-0.671566
+
+;	WDC	-0.663281
+
+and	CHK	-0.625657
+
+for	HD	-0.624980
+
+On	EMC	-0.617372
+
+%	TXN	-0.610799
+
+Netflix	VZ	-0.608869
+
+%	WAG	-0.604460
+
+CME	CME	-0.602526
+
+to	IR	-0.559234
+
+Schlumberger	SLB	-0.552149
+
+Alcoa	AA	-0.551023
+
+:	MCO	-0.539728
+
+to	BBY	-0.526387
+
+on	KSS	-0.522538
+

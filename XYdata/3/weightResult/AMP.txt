@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.526759
+
+of	EBAY	0.827034
+
+stocks	BMY	0.809024
+
+:	ADM	0.808408
+
+for	BLK	0.711764
+
+to	PEP	0.706549
+
+U.S.	CHK	0.704307
+
+Energy	VLO	0.685056
+
+AOL	CBS	0.665776
+
+The	YHOO	0.656406
+
+BP	HAL	0.650357
+
+:	INTC	0.622838
+
+Stocks	TXN	0.615928
+
+,	EQT	0.561797
+
+:	FDO	0.476539
+
+Cadbury	MDLZ	0.476407
+
+,	STJ	0.474263
+
+the	HPQ	0.472973
+
+Expeditors	EXPD	0.466493
+
+Pulte	PHM	0.455232
+
+Apple	INTC	-1.175420
+
+a	PG	-1.123490
+
+for	ABT	-0.909159
+
+for	LLY	-0.907662
+
+Hospira	HSP	-0.805997
+
+Heparin	BAX	-0.798946
+
+In	COF	-0.738969
+
+Morgan	COF	-0.698525
+
+Rambus	MU	-0.657489
+
+Stocks	M	-0.648369
+
+;	PEP	-0.642647
+
+stocks	OXY	-0.641089
+
+,	AIV	-0.613418
+
+Lorillard	LO	-0.587032
+
+Loss	LEN	-0.549579
+
+:	CHK	-0.536712
+
+From	AMAT	-0.522450
+
+Hughes	BHI	-0.522301
+
+:	CVG	-0.520273
+
+Tyco	TYC	-0.520190
+

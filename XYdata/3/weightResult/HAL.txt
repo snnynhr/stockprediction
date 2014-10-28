@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.0855612
+
+:	TMO	0.968113
+
+:	DTE	0.920452
+
+&	QCOM	0.837399
+
+On	V	0.769753
+
+stocks	AMGN	0.761893
+
+On	UPS	0.671684
+
+Credit-Card	COF	0.666131
+
+stocks	RIG	0.664986
+
+stocks	OXY	0.658233
+
+For	COF	0.657983
+
+,	GCI	0.654733
+
+stocks	TXN	0.647668
+
+,	SWK	0.646916
+
+US	PG	0.624476
+
+$	CVX	0.602500
+
+Fed	AIG	0.571877
+
+:	SNDK	0.547442
+
+to	CAT	0.542903
+
+More	PNC	0.535845
+
+The	DIS	-1.096080
+
+Medical	ABT	-0.858990
+
+to	ANF	-0.847938
+
+Stocks	TSN	-0.714584
+
+To	AET	-0.690462
+
+:	CHK	-0.657571
+
+Bond	MBI	-0.634363
+
+HOT	GT	-0.631953
+
+for	WAG	-0.623628
+
+and	KSS	-0.607604
+
+for	KO	-0.594795
+
+&	AA	-0.594479
+
+,	C	-0.593173
+
+to	PG	-0.589306
+
+Stocks	V	-0.572710
+
+Property	SPG	-0.545918
+
+to	WLP	-0.545736
+
+AK	AKS	-0.540823
+
+the	GPS	-0.537300
+
+Sales	TXN	-0.519269
+

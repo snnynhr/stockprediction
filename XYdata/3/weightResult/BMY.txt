@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.0175808
+
+to	WAG	1.076210
+
+,	ADP	0.919807
+
+Financial	COF	0.725520
+
+Coca-Cola	KO	0.682361
+
+on	JNJ	0.677112
+
+to	GD	0.655705
+
+To	SHLD	0.635475
+
+Sales	SHLD	0.580991
+
+Stocks	AIG	0.579098
+
+'	UPS	0.549090
+
+Occidental	OXY	0.547374
+
+%	DD	0.539804
+
+in	OXY	0.537634
+
+,	DRI	0.529808
+
+Microsoft	EA	0.524899
+
+US	RF	0.518512
+
+the	MMM	0.512871
+
+First	FSLR	0.507889
+
+US	HBAN	0.499400
+
+For	TWC	-1.068810
+
+on	X	-0.865570
+
+'s	SBUX	-0.786250
+
+for	YHOO	-0.760634
+
+Southwestern	SWN	-0.698336
+
+in	BA	-0.694730
+
+To	ICE	-0.647316
+
+to	BTU	-0.630836
+
+Ace	ACE	-0.630040
+
+to	BIIB	-0.628911
+
+and	BIG	-0.604738
+
+Builders	LEN	-0.594139
+
+stocks	VZ	-0.585638
+
+energy	CHK	-0.578694
+
+Stocks	MBI	-0.557369
+
+sales	M	-0.547069
+
+'	MET	-0.522180
+
+in	CHK	-0.505986
+
+On	V	-0.501447
+
+,	CA	-0.500681
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.40183
+
+,	DTE	1.032540
+
+on	VZ	0.939593
+
+to	BMY	0.805382
+
+on	HD	0.746490
+
+Stocks	WDC	0.713887
+
+AIA	AIG	0.677127
+
+:	XOM	0.664270
+
+Banks	AXP	0.641028
+
+to	AN	0.635589
+
+to	JWN	0.631487
+
+on	JCP	0.591833
+
+to	GS	0.588964
+
+'s	NVDA	0.581626
+
+:	ABT	0.578696
+
+Bottling	PEP	0.566553
+
+US	MET	0.558887
+
+,	MO	0.539592
+
+,	IFF	0.488844
+
+Danaher	DHR	0.486635
+
+on	RIG	-0.833330
+
+Stocks	DD	-0.810780
+
+Stocks	MDLZ	-0.767097
+
+Coal	BTU	-0.757550
+
+to	MTB	-0.731964
+
+Tesoro	TSO	-0.722662
+
+To	BK	-0.668427
+
+for	MRO	-0.658901
+
+Manitowoc	MTW	-0.656348
+
+Symantec	SYMC	-0.649115
+
+,	RHI	-0.626306
+
+US	AMGN	-0.614475
+
+Nanya	MU	-0.601479
+
+Tysabri	BIIB	-0.572929
+
+Comcast	CMCSA	-0.567829
+
+Sector	TXN	-0.566838
+
+SunTrust	STI	-0.557653
+
+To	KSS	-0.550142
+
+on	WFC	-0.539624
+
+for	ESRX	-0.510874
+

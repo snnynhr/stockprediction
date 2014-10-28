@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.144888
+
+and	BRK.B	1.392410
+
+Diabetes	LLY	1.017470
+
+Stock	PFE	0.841873
+
+stocks	HAL	0.799458
+
+:	FSLR	0.761609
+
+From	NE	0.736216
+
+in	BRK.B	0.730763
+
+$	STT	0.713205
+
+'s	LUV	0.700110
+
+to	COF	0.682905
+
+Alibaba	YHOO	0.631294
+
+Stock	SBUX	0.596419
+
+Banks	BBT	0.592894
+
+in	VLO	0.564794
+
+a	GPS	0.558859
+
+KLA-Tencor	KLAC	0.556632
+
+'s	BLK	0.543508
+
+:	NEM	0.519129
+
+for	BAC	0.513752
+
+Sector	TXN	-1.030040
+
+,	HCN	-0.931782
+
+&	CSCO	-0.864421
+
+:	PCG	-0.858109
+
+on	C	-0.856523
+
+Hospira	HSP	-0.833178
+
+:	BAX	-0.788252
+
+?	DIS	-0.733372
+
+to	GE	-0.724541
+
+Stocks	FSLR	-0.716499
+
+Data	HD	-0.688163
+
+stocks	CHK	-0.646166
+
+Sale	AIG	-0.607705
+
+and	WHR	-0.602012
+
+Allstate	ALL	-0.590228
+
+stocks	COST	-0.572281
+
+,	NE	-0.516700
+
+,	DTV	-0.510537
+
+Williams	WMB	-0.508988
+
+in	UPS	-0.508864
+

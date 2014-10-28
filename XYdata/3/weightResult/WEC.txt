@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.960535
+
+,	ED	0.869679
+
+Sears	HD	0.731693
+
+:	TER	0.651603
+
+:	LLY	0.646774
+
+'s	CAT	0.634738
+
+,	MAS	0.604771
+
+Stocks	CVX	0.585999
+
+'s	TXN	0.572727
+
+stocks	TXN	0.564669
+
+'s	NKE	0.564410
+
+U.S.	BIG	0.511744
+
+in	BRK.B	0.488825
+
+'s	MCO	0.472404
+
+Dow	CAT	0.467955
+
+Credit-Card	COF	0.463387
+
+for	IBM	0.443736
+
+,	DHI	0.429477
+
+,	MRK	0.410340
+
+:	DRI	0.403695
+
+Gas	CVX	-1.351140
+
+'s	IBM	-1.326460
+
+on	GM	-1.115820
+
+Monster	MWW	-0.916981
+
+,	FMC	-0.793585
+
+,	MMC	-0.710694
+
+Interpublic	IPG	-0.672744
+
+'	JNJ	-0.672417
+
+:	CTL	-0.665492
+
+'s	CVC	-0.645841
+
+U.S.	AA	-0.635230
+
+Intel	TXN	-0.620573
+
+:	KBH	-0.617983
+
+in	APC	-0.501600
+
+Noble	NBL	-0.495925
+
+;	AMAT	-0.492862
+
+Chevron	CVX	-0.488145
+
+Depot	ODP	-0.484268
+
+,	NEE	-0.473591
+
+in	PFE	-0.472927
+

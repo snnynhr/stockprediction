@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.339602
+
+stocks	VLO	1.241820
+
+,	AIZ	1.182660
+
+In	BLK	1.023630
+
+the	HPQ	0.949032
+
+Retailers	TJX	0.894401
+
+in	DIS	0.819665
+
+the	INTC	0.787058
+
+to	CBS	0.759518
+
+MasterCard	MA	0.743674
+
+Exxon	XOM	0.739298
+
+US	FFIV	0.737320
+
+,	DVA	0.707917
+
+U.S.	AET	0.700662
+
+as	M	0.699082
+
+in	KO	0.588308
+
+'s	PNC	0.567671
+
+Study	MDT	0.559928
+
+:	LRCX	0.532614
+
+'s	ABT	0.529191
+
+U.S.	AXP	-0.854812
+
+AK	AKS	-0.810102
+
+%	BBY	-0.784122
+
+Stocks	AMAT	-0.759150
+
+Harley-Davidson	HOG	-0.729310
+
+In	CME	-0.677924
+
+Chevron	CVX	-0.672150
+
+Banks	RF	-0.669459
+
+Corporate	SPLS	-0.616743
+
+'	AIG	-0.595958
+
+Insurers	PRU	-0.587199
+
+Gas	XOM	-0.579730
+
+%	SCHW	-0.554134
+
+to	TROW	-0.551512
+
+:	VZ	-0.535692
+
+As	MET	-0.535609
+
+U.S.	USB	-0.527694
+
+,	WDC	-0.515861
+
+and	FCX	-0.506240
+
+In	ANF	-0.494853
+

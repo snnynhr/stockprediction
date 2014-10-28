@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.457819
+
+Edison	EIX	1.129760
+
+$	AXP	0.794154
+
+the	MO	0.724177
+
+Up	MCD	0.708290
+
+BofA	USB	0.703482
+
+Futures	FDX	0.701873
+
+'s	BLK	0.654894
+
+CEO	DUK	0.647651
+
+Technologies	UTX	0.645899
+
+Pulte	PHM	0.611089
+
+Akamai	AKAM	0.608648
+
+Drug	BIIB	0.603403
+
+Stocks	BMY	0.568080
+
+Alibaba	YHOO	0.565761
+
+for	BMY	0.557151
+
+for	MCD	0.524563
+
+HOT	MRK	0.524357
+
+,	WY	0.483154
+
+to	BAC	0.477059
+
+Electric	AEP	-0.946347
+
+By	CME	-0.847164
+
+;	JWN	-0.804386
+
+To	GPS	-0.794636
+
+:	TWC	-0.783179
+
+Stocks	M	-0.725429
+
+Banks	HBAN	-0.723089
+
+Stocks	APC	-0.667598
+
+and	CHK	-0.641037
+
+Stocks	MDLZ	-0.635777
+
+on	AMD	-0.624484
+
+:	FLR	-0.589608
+
+stocks	EMC	-0.572932
+
+From	NDAQ	-0.562190
+
+Gas	CVX	-0.550905
+
+Insurers	PRU	-0.534350
+
+,	GT	-0.533781
+
+:	CNP	-0.514944
+
+in	PRU	-0.510758
+
+of	UNH	-0.502706
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.198441
+
+stocks	CRM	1.060780
+
+In	BLK	0.926252
+
+To	TWC	0.854606
+
+Stocks	YUM	0.730542
+
+of	HIG	0.701224
+
+the	FITB	0.688977
+
+Philip	PM	0.681309
+
+on	GS	0.670803
+
+New	MCD	0.654238
+
+US	RF	0.628063
+
+;	NFLX	0.592456
+
+the	IBM	0.562476
+
+&	CVC	0.511862
+
+,	CNX	0.505864
+
+,	DTE	0.504636
+
+:	ADI	0.493283
+
+:	CSCO	0.474047
+
+to	HD	0.473703
+
+Fund	LM	0.472841
+
+to	PG	-1.265980
+
+Prices	DOW	-0.777399
+
+Is	F	-0.742916
+
+Baxter	BAX	-0.707026
+
+&	GPS	-0.675163
+
+Regions	RF	-0.625933
+
+'	DIS	-0.621871
+
+for	PG	-0.602900
+
+for	LLY	-0.596233
+
+,	HAS	-0.594508
+
+stocks	OXY	-0.575679
+
+By	MU	-0.567142
+
+Walgreen	CVS	-0.564398
+
+stocks	CHK	-0.553114
+
+to	APA	-0.533328
+
+%	CPB	-0.530694
+
+in	AA	-0.523028
+
+$	GE	-0.519315
+
+;	DFS	-0.511216
+
+for	KO	-0.505418
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.503342
+
+Futures	CME	1.143890
+
+Stocks	PCLN	1.117530
+
+Pulte	PHM	1.067690
+
+and	SVU	0.880509
+
+a	BLK	0.860208
+
+on	HD	0.841877
+
+Sales	F	0.769032
+
+Heineken	BUD	0.718486
+
+on	T	0.684686
+
+Target	HD	0.652568
+
+Chips	AMD	0.631790
+
+:	ICE	0.631386
+
+in	PEP	0.616861
+
+,	STR	0.601076
+
+Marathon	MPC	0.578050
+
+to	BA	0.540106
+
+Retailers	ANF	0.496511
+
+Discover	V	0.469808
+
+,	STJ	0.463747
+
+IPO	WFC	-1.008490
+
+New	MS	-0.967982
+
+Resorts	WYNN	-0.926079
+
+Ralcorp	CAG	-0.874074
+
+:	C	-0.743691
+
+Chip	NVDA	-0.714349
+
+of	F	-0.696758
+
+;	YHOO	-0.696283
+
+for	EBAY	-0.665235
+
+Northrop	NOC	-0.660127
+
+%	AXP	-0.605136
+
+in	APA	-0.580347
+
+?	BRK.B	-0.573656
+
+:	F	-0.567430
+
+in	LOW	-0.564550
+
+Stock	COST	-0.496551
+
+in	M	-0.479282
+
+to	PG	-0.477423
+
+HOT	AMAT	-0.473889
+
+:	HES	-0.473823
+

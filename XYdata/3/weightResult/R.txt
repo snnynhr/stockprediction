@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.325544
+
+&	STI	1.103910
+
+on	BRK.B	0.994313
+
+Illinois	ITW	0.883309
+
+Stock	LOW	0.883260
+
+stocks	CSCO	0.789802
+
+and	TSO	0.764315
+
+Fed	PNC	0.751533
+
+to	STT	0.727176
+
+energy	XOM	0.690567
+
+Edison	EIX	0.684329
+
+Retail	JWN	0.671793
+
+stocks	TXN	0.610735
+
+:	ABT	0.599571
+
+:	INTC	0.592645
+
+Up	SJM	0.570830
+
+to	CAT	0.564497
+
+:	LEN	0.564410
+
+as	C	0.548405
+
+To	TWX	0.546882
+
+Bank	CMA	-1.566770
+
+earnings	AA	-0.948408
+
+to	MA	-0.868502
+
+the	FDX	-0.830718
+
+Priceline.com	PCLN	-0.806345
+
+On	AMD	-0.749777
+
+U.S.	JCP	-0.675980
+
+on	NYT	-0.673819
+
+Morning	BAC	-0.661241
+
+to	ANF	-0.652751
+
+Coffee	SBUX	-0.650066
+
+:	AKS	-0.642935
+
+May	F	-0.638919
+
+Comcast	CMCSA	-0.584593
+
+Tysabri	BIIB	-0.572970
+
+Mortgage	MTG	-0.569399
+
+Chevron	CVX	-0.545727
+
+'s	FDX	-0.515970
+
+Retailers	KSS	-0.502895
+
+'	STI	-0.501296
+

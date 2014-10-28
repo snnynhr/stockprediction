@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.0359815
+
+MeadWestvaco	MWV	1.132840
+
+for	C	0.998648
+
+for	JCP	0.945585
+
+The	YHOO	0.829869
+
+To	BSX	0.772306
+
+$	EXC	0.668323
+
+in	EMC	0.644301
+
+and	JCP	0.608906
+
+stocks	TSO	0.589245
+
+The	BRK.B	0.585668
+
+,	AIZ	0.581712
+
+&	VZ	0.580741
+
+Stocks	NBL	0.576098
+
+to	MCK	0.565492
+
+for	VZ	0.553401
+
+:	PCLN	0.530057
+
+Tool	ITW	0.526979
+
+'s	BSX	0.521829
+
+In	PG	0.518967
+
+The	PEP	-1.130420
+
+Longs	CVS	-0.981206
+
+Franklin	BEN	-0.967207
+
+:	CTSH	-0.795982
+
+to	SCHW	-0.791547
+
+:	CI	-0.742847
+
+US	JCP	-0.724845
+
+to	BTU	-0.721002
+
+Credit	V	-0.713756
+
+Energy	NRG	-0.697194
+
+Stocks	UTX	-0.676777
+
+Intel	NVDA	-0.650525
+
+Coffee	SBUX	-0.609483
+
+to	ANF	-0.554854
+
+Allergan	AGN	-0.539274
+
+%	HAL	-0.534207
+
+on	C	-0.531017
+
+to	CAG	-0.526230
+
+,	MTB	-0.515840
+
+To	CVC	-0.510473
+

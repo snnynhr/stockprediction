@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	1.41604
+
+$	DE	1.167820
+
+Restaurants	DRI	1.119150
+
+Gains	MU	1.032040
+
+in	ABT	0.981747
+
+Norfolk	NSC	0.841078
+
+on	AIG	0.826585
+
+Sales	WMT	0.825288
+
+'	UPS	0.810234
+
+:	AES	0.774859
+
+for	MET	0.712341
+
+Campbell	CPB	0.675238
+
+:	PLL	0.649669
+
+To	SPLS	0.647133
+
+US	PG	0.613076
+
+in	PHM	0.592288
+
+To	BSX	0.579535
+
+stocks	AXP	0.575743
+
+,	VMC	0.546881
+
+in	F	0.522679
+
+of	BLK	-1.027320
+
+to	EMC	-0.953558
+
+Macy	KSS	-0.912805
+
+of	VZ	-0.912409
+
+On	MRK	-0.865292
+
+as	TXN	-0.837831
+
+Becton	BDX	-0.801655
+
+KLA-Tencor	KLAC	-0.787232
+
+%	OXY	-0.733550
+
+Chevron	CVX	-0.706593
+
+Stocks	SNDK	-0.620369
+
+for	LLY	-0.620111
+
+ImClone	BMY	-0.612428
+
+,	GT	-0.585697
+
+to	WLP	-0.577988
+
+a	COF	-0.562415
+
+for	PEP	-0.554997
+
+&	CHK	-0.554567
+
+in	GE	-0.517148
+
+Monsanto	MON	-0.492650
+

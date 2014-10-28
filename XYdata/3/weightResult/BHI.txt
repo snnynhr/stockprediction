@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.242735
+
+on	SWY	0.872949
+
+US	PG	0.848455
+
+BP	HAL	0.822952
+
+Rosneft	XOM	0.822470
+
+Oil	HES	0.803179
+
+,	LH	0.743872
+
+;	AA	0.707362
+
+Technologies	UTX	0.676283
+
+Analog	ADI	0.649265
+
+US	MA	0.647096
+
+The	HPQ	0.629437
+
+On	V	0.625732
+
+as	M	0.598533
+
+:	PLL	0.595634
+
+Steel	NUE	0.593961
+
+,	RDC	0.581571
+
+Cadbury	MDLZ	0.580502
+
+T-Mobile	T	0.580136
+
+to	APOL	0.561282
+
+to	HIG	-1.146380
+
+Stocks	SLM	-1.068730
+
+the	V	-1.021800
+
+In	NVDA	-0.900329
+
+FDA	PFE	-0.898369
+
+Apple	INTC	-0.868924
+
+Insurers	MET	-0.797286
+
+the	MCD	-0.702174
+
+to	T	-0.701849
+
+Stocks	M	-0.670514
+
+Altria	MO	-0.628562
+
+NYSE	CME	-0.624890
+
+$	CMCSA	-0.624778
+
+,	VFC	-0.575063
+
+BP	RIG	-0.573572
+
+stocks	DNR	-0.568487
+
+for	SBUX	-0.553541
+
+stocks	CHK	-0.532998
+
+Air	NOC	-0.527423
+
+From	STI	-0.520704
+

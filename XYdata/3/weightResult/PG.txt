@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.0264894
+
+and	BRK.B	1.092320
+
+JC	JCP	1.009250
+
+in	AIG	0.930470
+
+in	JWN	0.846016
+
+to	TGT	0.803585
+
+:	CME	0.766378
+
+Health	CI	0.722496
+
+US	BUD	0.706064
+
+stocks	NVDA	0.684232
+
+Cadbury	MDLZ	0.651360
+
+Penney	M	0.650424
+
+TECH	TXN	0.616888
+
+:	QCOM	0.614493
+
+,	DGX	0.610356
+
+stocks	NTAP	0.578379
+
+Wireless	QCOM	0.574819
+
+and	CSCO	0.569594
+
+Sears	SHLD	0.546552
+
+Stake	NYT	0.542210
+
+Banks	WFC	-0.838989
+
+for	KO	-0.754536
+
+Aetna	WLP	-0.697427
+
+the	PG	-0.676320
+
+and	TIF	-0.660993
+
+Netflix	TWX	-0.652523
+
+in	NKE	-0.626477
+
+WellPoint	WLP	-0.618221
+
+,	EFX	-0.600058
+
+As	KSS	-0.595964
+
+in	NFLX	-0.588102
+
+:	LRCX	-0.582855
+
+in	WFC	-0.577854
+
+stocks	AMD	-0.553055
+
+%	SCHW	-0.542554
+
+Weyerhaeuser	WY	-0.541001
+
+,	DNB	-0.515323
+
+'s	QCOM	-0.501978
+
+on	AMD	-0.499246
+
+Office	ODP	-0.485207
+

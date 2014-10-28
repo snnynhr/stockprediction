@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.629549
+
+on	BRK.B	0.877832
+
+the	HPQ	0.816787
+
+Morning	WMT	0.808110
+
+In	AIG	0.771893
+
+Products	APD	0.744309
+
+Walgreen	CVS	0.736232
+
+Power	ETR	0.735084
+
+for	MU	0.689110
+
+;	TRV	0.672412
+
+Of	BLK	0.652184
+
+Airlines	BA	0.645236
+
+:	XOM	0.630227
+
+Cadbury	HSY	0.606411
+
+to	WAG	0.586003
+
+Big	BIG	0.557454
+
+Credit-Card	COF	0.555977
+
+Apple	IBM	0.531947
+
+,	IFF	0.520289
+
+Nike	NKE	0.512029
+
+on	HAL	-1.247410
+
+Stock	SHLD	-1.156910
+
+Tysabri	BIIB	-0.945491
+
+Pacific	UNP	-0.868660
+
+Brokers	SCHW	-0.817076
+
+in	GME	-0.697565
+
+Heparin	BAX	-0.688807
+
+a	JNJ	-0.677041
+
+Harley-Davidson	HOG	-0.661088
+
+and	PEP	-0.656614
+
+Stock	V	-0.647016
+
+BP	APC	-0.641374
+
+in	MAR	-0.591739
+
+,	PCL	-0.578334
+
+Life	PRU	-0.573930
+
+J	AMGN	-0.565535
+
+:	TXT	-0.565193
+
+Shares	NVDA	-0.551971
+
+To	BK	-0.545053
+
+Mastercard	MA	-0.536066
+

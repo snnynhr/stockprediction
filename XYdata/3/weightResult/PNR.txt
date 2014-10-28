@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.900023
+
+on	BRK.B	1.202150
+
+U.S.	AIG	0.997935
+
+The	CSCO	0.956865
+
+By	NDAQ	0.912193
+
+:	AFL	0.856200
+
+stocks	VLO	0.847372
+
+to	BRCM	0.662873
+
+to	TGT	0.636211
+
+Retailers	ANF	0.607205
+
+US	CSX	0.599982
+
+Nabors	NBR	0.579848
+
+Short	NDAQ	0.563644
+
+In	CME	0.551516
+
+HOT	MRK	0.540853
+
+Ackman	JCP	0.512202
+
+on	JNJ	0.480071
+
+,	PPG	0.477790
+
+for	ANF	0.477483
+
+Banks	BBT	0.476814
+
+The	NFLX	-1.043330
+
+Stocks	KEY	-0.999564
+
+Glass	GLW	-0.784942
+
+to	ODP	-0.761143
+
+Hess	HES	-0.741926
+
+Spill	RIG	-0.725963
+
+Temple-Inland	IP	-0.665783
+
+biggest	GCI	-0.660004
+
+,	RRC	-0.614640
+
+Earnings	AA	-0.614441
+
+stocks	CHK	-0.606903
+
+Autodesk	ADSK	-0.585953
+
+&	ABT	-0.553957
+
+:	VZ	-0.548529
+
+Stocks	BRCM	-0.529038
+
+,	OI	-0.525092
+
+Banks	USB	-0.520311
+
+,	MTB	-0.506077
+
+Hospira	HSP	-0.506029
+
+to	APC	-0.505394
+

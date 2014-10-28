@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.256347
+
+Edison	EIX	1.070880
+
+Restaurants	DRI	0.958952
+
+for	AXP	0.921741
+
+gains	TXN	0.910620
+
+Airgas	ARG	0.680631
+
+?	BLK	0.676863
+
+Fincl	DFS	0.657124
+
+Oil	HES	0.637130
+
+to	AXP	0.629503
+
+stocks	NVDA	0.626769
+
+,	CTAS	0.619989
+
+to	QCOM	0.574187
+
+to	JCP	0.567510
+
+in	YHOO	0.525710
+
+Rating	MCO	0.492632
+
+of	CVX	0.480270
+
+Walgreen	WAG	0.467884
+
+Fed	WFC	0.458103
+
+3Q	HD	0.448190
+
+Stocks	M	-0.934911
+
+and	MU	-0.874910
+
+Vegas	WYNN	-0.811370
+
+'s	ADM	-0.785613
+
+Seagate	WDC	-0.691212
+
+on	AMD	-0.691142
+
+'s	FDX	-0.685116
+
+Wal-Mart	HD	-0.684694
+
+On	BMY	-0.683695
+
+,	PNR	-0.683108
+
+Stocks	MTB	-0.682772
+
+'s	ANF	-0.657076
+
+Gas	XOM	-0.656337
+
+Stocks	ORCL	-0.636958
+
+Intuit	INTU	-0.636662
+
+in	CHK	-0.633894
+
+'s	CHK	-0.620568
+
+to	DD	-0.602289
+
+U.S.	AA	-0.598696
+
+Stocks	CCL	-0.591604
+

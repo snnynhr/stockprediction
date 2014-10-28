@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.0271585
+
+for	V	1.229690
+
+the	HPQ	0.949986
+
+Insurers	MBI	0.879043
+
+HOT	WYNN	0.861285
+
+for	COF	0.742593
+
+Stocks	NVDA	0.707854
+
+,	EMR	0.683638
+
+Shares	MTG	0.677609
+
+,	TWC	0.673028
+
+Stanley	MS	0.669282
+
+Gasoline	VLO	0.661794
+
+Trading	SCHW	0.659223
+
+,	TMO	0.653121
+
+Carnival	CCL	0.632946
+
+:	WMT	0.631031
+
+,	BMS	0.629443
+
+;	GPS	0.627260
+
+Expeditors	EXPD	0.601661
+
+In	HON	0.595576
+
+Hotels	HOT	-0.765867
+
+to	CHK	-0.724331
+
+%	ICE	-0.702071
+
+and	CHK	-0.697998
+
+AES	AES	-0.640031
+
+,	WMT	-0.628943
+
+Prudential	PRU	-0.623047
+
+Stocks	DE	-0.611008
+
+,	DV	-0.605228
+
+in	NKE	-0.600442
+
+to	JNJ	-0.595708
+
+Stocks	UPS	-0.580333
+
+to	BBBY	-0.579620
+
+for	XOM	-0.567012
+
+'s	NDAQ	-0.561617
+
+:	GIS	-0.561340
+
+US	EXC	-0.556387
+
+Lennar	LEN	-0.531910
+
+'s	AA	-0.516948
+
+,	PWR	-0.501310
+

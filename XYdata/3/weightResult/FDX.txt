@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.109209
+
+of	BK	1.061430
+
+VMware	EMC	1.013980
+
+to	IACI	0.901869
+
+stocks	CSCO	0.832709
+
+Oil	HES	0.788634
+
+:	TSN	0.716521
+
+Expeditors	EXPD	0.695101
+
+$	V	0.684429
+
+Trading	NVDA	0.679758
+
+GameStop	GME	0.676416
+
+Retail	TGT	0.649394
+
+Retail	ANF	0.604182
+
+Stock	BRK.B	0.597061
+
+,	GM	0.586789
+
+:	CMCSA	0.546145
+
+for	MS	0.523252
+
+to	MCK	0.507318
+
+:	COST	0.501591
+
+on	PG	0.483462
+
+QCOM	QCOM	-1.312180
+
+stocks	INTC	-1.073960
+
+and	COF	-0.988921
+
+?	QCOM	-0.954388
+
+Profit	HD	-0.865075
+
+to	ANF	-0.782444
+
+Hospira	HSP	-0.709127
+
+Goldman	STT	-0.686872
+
+Cancer	BMY	-0.684568
+
+:	HES	-0.662147
+
+,	AIV	-0.636496
+
+of	M	-0.624102
+
+on	KEY	-0.597210
+
+:	BHI	-0.584877
+
+,	TDC	-0.557707
+
+York	NYT	-0.555144
+
+$	LNC	-0.550295
+
+,	GME	-0.550151
+
+Coffee	SBUX	-0.549158
+
+'s	EMC	-0.544342
+

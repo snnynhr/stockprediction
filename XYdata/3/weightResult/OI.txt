@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.683176
+
+in	EA	1.095730
+
+to	IACI	0.966933
+
+Energy	BHI	0.938321
+
+'s	BLK	0.860078
+
+'s	SCHW	0.813765
+
+Energy	EIX	0.796994
+
+Tobacco	PM	0.605823
+
+stocks	RIG	0.531494
+
+:	ADP	0.530321
+
+Nordstrom	JWN	0.524193
+
+;	NFLX	0.507878
+
+Up	M	0.503921
+
+Texas	TXN	0.497729
+
+the	EMC	0.492812
+
+to	HON	0.473827
+
+the	BBT	0.472755
+
+Lowe	LOW	0.465717
+
+,	DGX	0.453693
+
+stocks	TXN	0.451272
+
+stocks	CHK	-1.437900
+
+to	EBAY	-0.785530
+
+:	AIG	-0.723359
+
+Sector	TXN	-0.694142
+
+Power	PCG	-0.663765
+
+$	MRO	-0.642728
+
+;	SNDK	-0.594056
+
+Up	JNJ	-0.559684
+
+;	JWN	-0.555470
+
+the	KMI	-0.550983
+
+?	BRCM	-0.547083
+
+as	NVDA	-0.537893
+
+Apple	DIS	-0.534639
+
+Deal	TWX	-0.528881
+
+ConAgra	CAG	-0.526836
+
+'s	BBY	-0.490583
+
+in	BLK	-0.487755
+
+,	LLL	-0.473552
+
+:	LOW	-0.469054
+
+,	ACE	-0.464421
+

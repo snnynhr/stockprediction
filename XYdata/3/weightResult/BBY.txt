@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.539687
+
+In	GNW	1.122730
+
+on	VZ	0.873344
+
+stocks	QCOM	0.871677
+
+stocks	NVDA	0.807743
+
+Stocks	ADP	0.709415
+
+,	GWW	0.657037
+
+:	BLK	0.619073
+
+Stocks	PG	0.612216
+
+China	KO	0.584216
+
+U.S.	JDSU	0.570922
+
+to	PCG	0.569070
+
+:	CIEN	0.558990
+
+Intel	EMC	0.554957
+
+&	COF	0.535812
+
+Kraft	MDLZ	0.532073
+
+TNT	UPS	0.515696
+
+,	TWC	0.496563
+
+:	GILD	0.492208
+
+'	FDX	0.487902
+
+for	LLY	-0.971940
+
+Red	RHT	-0.915417
+
+Stocks	PRU	-0.806569
+
+of	TGT	-0.792641
+
+Oil	CHK	-0.733445
+
+Friday	M	-0.712749
+
+Gilead	GILD	-0.702673
+
+:	KMI	-0.701444
+
+:	ACN	-0.695652
+
+on	STI	-0.684362
+
+Heart	MDT	-0.656504
+
+'s	CHK	-0.638921
+
+on	V	-0.635813
+
+Applied	AMAT	-0.634971
+
+for	GPS	-0.613554
+
+and	ANF	-0.607290
+
+'s	AXP	-0.594142
+
+for	VZ	-0.565460
+
+:	PG	-0.558250
+
+for	MS	-0.545641
+

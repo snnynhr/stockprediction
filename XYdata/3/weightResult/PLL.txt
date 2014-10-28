@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.373813
+
+Deal	CME	1.111980
+
+Energy	HAL	1.009170
+
+Stanley	MS	0.993023
+
+a	CBS	0.854366
+
+Stocks	NBL	0.729801
+
+in	STT	0.647806
+
+to	NYT	0.646928
+
+Safeway	SWY	0.642365
+
+Janus	JNS	0.637033
+
+;	KEY	0.635277
+
+for	BBT	0.601536
+
+,	AIZ	0.591165
+
+'s	WFC	0.565432
+
+in	MBI	0.563297
+
+VeriSign	VRSN	0.562708
+
+stocks	TGT	0.544369
+
+in	MDLZ	0.542970
+
+,	HST	0.532236
+
+To	BSX	0.528836
+
+Red	RHT	-1.255980
+
+'	MET	-1.236330
+
+Nokia	QCOM	-1.205140
+
+STOCKS	BRCM	-1.196290
+
+Sector	TXN	-1.061720
+
+the	MS	-0.850059
+
+Stocks	ADI	-0.795970
+
+Stocks	V	-0.762504
+
+Insurers	PRU	-0.761171
+
+'s	CME	-0.760068
+
+Bank	BBT	-0.755308
+
+Banks	WFC	-0.739823
+
+,	BWA	-0.738101
+
+U.S.	DHI	-0.730168
+
+Qualcomm	BRCM	-0.717374
+
+U.S.	LEN	-0.664980
+
+of	KO	-0.626594
+
+,	FMC	-0.626363
+
+Stocks	AA	-0.611063
+
+the	AA	-0.604325
+

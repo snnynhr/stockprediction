@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.296881
+
+:	PEG	0.876022
+
+to	WAG	0.857993
+
+sales	EA	0.846620
+
+To	M	0.775066
+
+Biotech	AMGN	0.707693
+
+N.Y.	NYT	0.635731
+
+;	GME	0.628823
+
+:	CPWR	0.604220
+
+:	LUV	0.601331
+
+:	STT	0.581983
+
+Resources	RRC	0.537901
+
+Retail	HD	0.529541
+
+Facebook	NDAQ	0.526628
+
+Energy	SLB	0.524624
+
+US	PLL	0.520732
+
+,	LH	0.515470
+
+After	MA	0.506008
+
+,	BA	0.492480
+
+Stocks	CSX	0.489174
+
+To	VZ	-0.813378
+
+for	WFC	-0.773560
+
+to	LUV	-0.762819
+
+ConAgra	CAG	-0.737544
+
+Friday	BBY	-0.701058
+
+Barclays	BLK	-0.695132
+
+Bank	BK	-0.685994
+
+;	EA	-0.684425
+
+Insurers	UNH	-0.665204
+
+Western	WDC	-0.634844
+
+to	PG	-0.631292
+
+Hospira	HSP	-0.603888
+
+;	CHK	-0.599962
+
+,	BDX	-0.591462
+
+'	NFLX	-0.578480
+
+$	ABT	-0.576679
+
+:	STI	-0.575425
+
+%	CAT	-0.574601
+
+,	IACI	-0.565172
+
+of	SHLD	-0.564397
+

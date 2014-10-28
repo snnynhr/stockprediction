@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.453109
+
+Energy	HES	1.312360
+
+to	PCG	1.117100
+
+'s	NDAQ	1.060900
+
+In	MRK	0.945962
+
+:	GS	0.796518
+
+US	HSY	0.752254
+
+Stocks	BA	0.735626
+
+on	SCHW	0.668123
+
+,	OMC	0.610991
+
+'s	PFE	0.565839
+
+HOT	PRU	0.565163
+
+:	CBS	0.525864
+
+Bed	BBBY	0.523337
+
+Edison	EIX	0.518227
+
+Fund	BLK	0.495288
+
+for	CMCSA	0.473716
+
+Smucker	SJM	0.457335
+
+US	JDSU	0.456249
+
+Solar	AMAT	0.455221
+
+:	BDX	-1.246460
+
+Defense	LMT	-1.083780
+
+Reynolds	RAI	-0.924474
+
+'s	AIG	-0.870557
+
+U.S.	JNJ	-0.842174
+
+to	TWC	-0.812540
+
+Energy	MPC	-0.797900
+
+'s	CME	-0.794682
+
+Billion	BRK.B	-0.781698
+
+Financial	RF	-0.766037
+
+;	PRU	-0.669026
+
+;	WAG	-0.663409
+
+Cigna	CI	-0.628881
+
+Gambling	WYNN	-0.614106
+
+for	BRCM	-0.591217
+
+for	NYT	-0.578288
+
+in	MON	-0.567784
+
+Lennar	LEN	-0.566415
+
+Insurers	LNC	-0.555391
+
+The	HON	-0.550310
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.137964
+
+&	STI	1.189830
+
+,	ROK	0.825437
+
+U.S.	CHK	0.794358
+
+on	TGT	0.722064
+
+the	DIS	0.710860
+
+,	CPWR	0.693310
+
+:	TYC	0.663662
+
+,	COV	0.649078
+
+Kraft	MDLZ	0.643492
+
+Energy	BHI	0.556654
+
+Penney	M	0.556564
+
+Home	KBH	0.554851
+
+a	MCD	0.526892
+
+Emulex	BRCM	0.518745
+
+US	PFE	0.515476
+
+'s	VZ	0.515104
+
+,	QEP	0.512057
+
+to	NDAQ	0.507220
+
+Alibaba	YHOO	0.501347
+
+Tobacco	LO	-1.046000
+
+the	WMT	-0.859954
+
+HOT	CI	-0.831308
+
+Discovery	DISCA	-0.815486
+
+Energy	EXC	-0.733730
+
+Cadbury	MDLZ	-0.697997
+
+to	PG	-0.663956
+
+for	KO	-0.632537
+
+Adobe	ADBE	-0.624914
+
+U.S.	BA	-0.585863
+
+US	BRK.B	-0.565027
+
+Rowan	RDC	-0.562521
+
+US	GIS	-0.508175
+
+Boeing	NOC	-0.501406
+
+,	MCK	-0.493677
+
+on	WFC	-0.485913
+
+American	LUV	-0.482960
+
+Friday	M	-0.475856
+
+&	GPS	-0.473147
+
+Qualcomm	BRCM	-0.450296
+
