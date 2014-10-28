@@ -105,7 +105,7 @@ if __name__ == '__main__':
 					processes[i].join()
 				print "DONE"
 				fns = [fname]
-		elif c <= MAX:
+		if c == MAX:
 			c = c + 1
 			l = len(fns)
 			for i in xrange(0, l):
