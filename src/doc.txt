@@ -1,0 +1,16 @@
+
+
+Change features.py/Ylabel.py/XYmain.py as necessary
+
+Run XYmain.py
+
+Change partitionP.py partitionS.py as necessary
+Run partitionP.py to generate an .sh file
+Run .sh file
+
+Or
+
+Change parition.py as necessary
+Run partition.py for sequential processing
+
+
