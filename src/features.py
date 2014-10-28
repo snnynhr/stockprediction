@@ -73,6 +73,7 @@ def featureAMs(XD, extra = ''):
 					X[c_date_str][key] = 1
 	return X, dim
 
+# headlines from all stocks
 def featureBs(featureD, XD, stock):
 	X, dim = featureAs(XD, stock)
 	if len(X) < 1:
@@ -84,6 +85,7 @@ def featureBs(featureD, XD, stock):
 		else:
 			featureD[key] = X[key]
 
+# headlines from all stocks  (before 9:30 EST)
 def featureBMs(featureD, XD, stock):
 	X, dim = featureAMs(XD, stock)
 	if len(X) < 1:
@@ -94,6 +96,14 @@ def featureBMs(featureD, XD, stock):
 			featureD[key].update(X[key])
 		else:
 			featureD[key] = X[key]
+
+# Ylabels from the previous states
+def featureCs(Ylist, count = 3):
+	featureD = dict()
+	for i in xrange(count, len(Ylist)):
+		featureD[Ylist[i][0]] = { -count : Ylist[i-count][1] for i in xrange(count)}
+	return featureD
+
 
 
 
