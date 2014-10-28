@@ -101,7 +101,7 @@ def featureBMs(featureD, XD, stock):
 def featureCs(Ylist, count = 3):
 	featureD = dict()
 	for i in xrange(count, len(Ylist)):
-		featureD[Ylist[i][0]] = { -count : Ylist[i-count][1] for i in xrange(count)}
+		featureD[Ylist[i][0]] = dict(map(lambda x : (-x, Ylist[i-x][1]), xrange(1, count+1)))
 	return featureD
 
 

@@ -58,6 +58,8 @@ XYdir = "../XYdata/4/full"
 Ypath = "../data/stocks/tickerStock.json"
 Xdir = "../data/dowjones"
 
+if not os.path.exists(XYdir):
+    os.mkdir(XYdir)
 # change here too
 readmePath = XYdir + '/README.md'
 
