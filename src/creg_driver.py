@@ -22,7 +22,7 @@ def evaluate((train_features, train_labels), (test_features, test_labels), optio
     weights = None
     if '--z' in options:
         weights = options['--z']
-    del options['--z']
+        del options['--z']
 
     ground_truth = {}
     with open(test_labels) as f:
@@ -35,7 +35,7 @@ def evaluate((train_features, train_labels), (test_features, test_labels), optio
     for line in output.split('\n'):
         if not line.strip():
             continue
-    key, pred, posterior_json = line.strip().split('\t', 3)
-    posteriors[key] = {'true_label': ground_truth[key], 'predicted_label': pred, 'posterior': json.loads(posterior_json)}
+        key, pred, posterior_json = line.strip().split('\t', 3)
+        posteriors[key] = {'true_label': ground_truth[key], 'predicted_label': pred, 'posterior': json.loads(posterior_json)}
 
     return posteriors

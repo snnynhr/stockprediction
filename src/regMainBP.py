@@ -5,7 +5,7 @@ import creg_driver
 import operator
 import sys
 
-datadir = '../XYdata/3'
+datadir = '../XYdata/4'
 
 stockfile = open(datadir + '/' + 'stock.txt', 'r')
 stockList = stockfile.readline().strip().split('\t')

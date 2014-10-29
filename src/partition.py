@@ -4,7 +4,7 @@ import json
 import operator
 import sys
 
-datadir = '../XYdata/3'
+datadir = '../XYdata/4'
 fulldir = datadir + '/full'
 testdir = datadir + '/test'
 traindir = datadir + '/train'
