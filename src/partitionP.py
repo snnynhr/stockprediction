@@ -5,7 +5,7 @@ import creg_driver
 import operator
 import sys
 
-datadir = '../XYdata/3'
+datadir = '../XYdata/5'
 fulldir = datadir + '/full'
 testdir = datadir + '/test'
 traindir = datadir + '/train'

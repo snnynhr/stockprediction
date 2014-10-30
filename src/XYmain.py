@@ -3,7 +3,6 @@ import Ylabel
 import features 
 import json
 import os
-from sklearn import linear_model
 import copy
 
 
@@ -53,8 +52,16 @@ def combineS(Xdict, YList):
             X.append(dict())
     return X, Y, D
 
+def mergeFeatures(D1, D2):
+    for key in D2:
+        if key in D1:
+            D1[key].update(D2[key])
+        else:
+            D1[key] = D2[key]
+
+
 # change here for new folders
-XYdir = "../XYdata/4/full"
+XYdir = "../XYdata/5/full"
 Ypath = "../data/stocks/tickerStock.json"
 Xdir = "../data/dowjones"
 
@@ -66,7 +73,7 @@ readmePath = XYdir + '/README.md'
 # write documentation in md format
 readmeContent = \
 """
-featuresBMs + discrete
+featuresBMs + featureCs + discrete
 """
 
 if not os.path.isfile(readmePath):
@@ -254,6 +261,79 @@ def mainC():
             XYfile.close()
             print "creating new files"
 
-mainC()
+def mainD():
+    Yfile = open(Ypath,'r')
+    print "extracting features ..."
+    featureD = dict()
+    for line in Yfile:
+        info = line.split('\t')
+        if len(info) == 2:
+            stock = info[0]
+            Xpath = Xdir + '/' + stock + '.json'
+            if os.path.isfile(Xpath):
+                print "including headlines from %s ..." %stock
+                Xfile = open(Xpath, 'r')
+                XD = json.load(Xfile)
+                features.featureBMs(featureD,XD,stock)
+
+    Yfile.close()
+    Yfile = open(Ypath,'r')
+
+    for line in Yfile:
+        info = line.split('\t')
+        if len(info) == 2:
+            stock = info[0]
+            Xdict = copy.deepcopy(featureD)
+            print "building XYfile for %s ..." %stock
+            prices = json.loads(info[1])
+            YList = Ylabel.discrete(prices)
+            Xdict1 = features.featureCs(YList,5)
+            mergeFeatures(Xdict, Xdict1)
+
+            start_Y = YList[0][0]
+            end_Y = YList[-1][0]
+            start_X = min(Xdict.keys())
+            end_X = max(Xdict.keys())
+
+            #caution: X and Y have to use the format of %Y%m%d
+            start_date = max(start_X, start_Y)
+            end_date = min(end_X, end_Y)
+
+            if start_date>= end_date:
+                print "not enough data"
+                continue
+
+            print "time range of data: %s - %s" %(start_date, end_date)
+            
+            Xdict = pruneX(Xdict, start_date, end_date)
+            YList = pruneY(YList, start_date, end_date)
+
+            X, Y, Date = combineS(Xdict, YList)
+
+            #print [sum(x) for x in X]
+            #print Y
+            totalcount = len(Y)
+            print "there are %d data points ..." % totalcount
+
+            XYPath = XYdir + '/' + stock + '.json'
+
+            if totalcount < 1000:
+                print "not enough data points"
+                if os.path.isfile(XYPath):
+                    os.remove(XYPath)
+                    print  "remove %s" %(XYPath)
+                continue
+
+            if os.path.isfile(XYPath):
+                print "file already exists"
+                continue
+            else:
+                XYfile = open(XYPath, 'w')
+                for i in xrange(totalcount):
+                    XYfile.write(json.dumps((Date[i],Y[i],X[i])) + '\n')
+                XYfile.close()
+                print "creating new files"
+
+mainD()
 
 
