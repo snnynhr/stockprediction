@@ -4,9 +4,10 @@ import nltk
 import json
 import time
 import datetime
+import codecs
 
-dictPath = '../data/dict/dict36761.json'
-dictFile = open(dictPath, 'r')
+dictPath = '../data/dict/dict_lowered.json'
+dictFile = codecs.open(dictPath, 'r','utf-8')
 dictList = json.load(dictFile)
 D = dict([(w[0], i) for i, w in enumerate(dictList)])
 dim = len(dictList)
@@ -24,15 +25,15 @@ def featureAMs(featureD, Xdict, Ylist, stock):
 			c_date_str = (c_time + datetime.timedelta(days=1)).strftime("%Y%m%d")
 		else:
 			c_date_str = c_time.strftime("%Y%m%d")
-		if c_date_str not in Xdict:
-			X[c_date_str] = dict()
+		if c_date_str not in featureD:
+			featureD[c_date_str] = dict()
 		for w in words:
 			if w in D:
 				key = "%s_%d" % (stock,D[w])
-				if key in X[c_date_str]:
-					X[c_date_str][key] += 1
+				if key in featureD[c_date_str]:
+					featureD[c_date_str][key] += 1
 				else:
-					X[c_date_str][key] = 1
+					featureD[c_date_str][key] = 1
 
 
 # Ylabels from the previous states

@@ -16,8 +16,6 @@ testdir = datadir + '/test'
 traindir = datadir + '/train'
 devdir = datadir + '/dev'
 
-resultfile = open('%s/resultl1=%s.txt' % (datadir, l1), 'w')
-
 print "learning for %s ..." % stock
 trainXPath = traindir + '/' + stock + 'x'
 trainYPath = traindir + '/' + stock + 'y'
@@ -44,14 +42,11 @@ resultPath = '%s/%s.txt' % (resultdir, stock)
 resultfile = open(resultPath, 'w')
 
 weightPath = '%s/%s.txt' %(weightdir, stock)
-if os.path.isfile(weightPath):
-	results = creg_driver.evaluate((trainXPath, trainYPath), (devXPath, devYPath), options={"--l1": l1, "-w":weightPath})
+# if os.path.isfile(weightPath):
+# 	results = creg_driver.evaluate((trainXPath, trainYPath), (devXPath, devYPath), options={"--l1": l1, "-w":weightPath})
 
-else:
-	weightFile = open(weightPath, 'w')
-	weightFile.close() 
-
-	results = creg_driver.evaluate((trainXPath, trainYPath), (devXPath, devYPath), options={"--l1": l1, "--z":weightPath})
+# else:
+results = creg_driver.evaluate((trainXPath, trainYPath), (devXPath, devYPath), options={"--l1": l1, "--z":weightPath})
 
 accuracy = round(float(sum(map(lambda v: 1 if v['true_label'] == v['predicted_label'] else 0, results.values()))) / len(results),4)
 

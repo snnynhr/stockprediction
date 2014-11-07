@@ -4,6 +4,7 @@ import json
 import creg_driver
 import operator
 import sys
+import codecs
 
 
 datadir = sys.argv[1]
@@ -16,7 +17,7 @@ devdir = datadir + '/dev'
 
 filename = stock + '.json'
 
-fullFile = open(fulldir + '/' + filename, 'r')
+fullFile = codecs.open(fulldir + '/' + filename, 'r','utf-8')
 points = fullFile.readlines()
 total = len(points)
 print "%s have %d points in total" % (stock, total)
@@ -29,8 +30,8 @@ test = points[index2:]
 
 trainXPath = traindir + '/' + stock + 'x'
 trainYPath = traindir + '/' + stock + 'y'
-trainXFile = open(trainXPath, 'w')
-trainYFile = open(trainYPath, 'w')
+trainXFile = codecs.open(trainXPath, 'w','utf-8')
+trainYFile = codecs.open(trainYPath, 'w','utf-8')
 for point in train:
     date, Y, X = json.loads(point)
     trainXFile.write(str(date) + '\t' + json.dumps(X) + '\n')
@@ -40,8 +41,8 @@ trainYFile.close()
 
 testXPath = testdir + '/' + stock + 'x'
 testYPath = testdir + '/' + stock + 'y'
-testXFile = open(testXPath, 'w')
-testYFile = open(testYPath, 'w')
+testXFile = codecs.open(testXPath, 'w','utf-8')
+testYFile = codecs.open(testYPath, 'w','utf-8')
 for point in test:
     date, Y, X = json.loads(point)
     testXFile.write(str(date) + '\t' + json.dumps(X) + '\n')
@@ -51,8 +52,8 @@ testYFile.close()
 
 devXPath = devdir + '/' + stock + 'x'
 devYPath = devdir + '/' + stock + 'y'
-devXFile = open(devXPath, 'w')
-devYFile = open(devYPath, 'w')
+devXFile = codecs.open(devXPath, 'w','utf-8')
+devYFile = codecs.open(devYPath, 'w','utf-8')
 for point in test:
     date, Y, X = json.loads(point)
     devXFile.write(str(date) + '\t' + json.dumps(X) + '\n')

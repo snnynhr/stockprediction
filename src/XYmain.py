@@ -1,19 +1,26 @@
 # author: Xiaote Zhu
 import Ylabel
-import features 
+from features import *
 import json
 import os
 import copy
+import sys
 
 # change here for new folders
-XYdir = "../XYdata/5/full"
+expr_folder = sys.argv[1]
+XYdir = expr_folder+"/full"
 Ypath = "../data/stocks/tickerStock.json"
 Xdir = "../data/dowjones"
 
 if not os.path.exists(XYdir):
     os.mkdir(XYdir)
-# change here too
+
 readmePath = XYdir + '/README.md'
+
+# change here too!
+fnList1 = [featureAMs]
+fnList2 = []
+
 
 def pruneX(Xdict, start, end):
     for date in Xdict.keys():
@@ -34,18 +41,6 @@ def pruneY(YList, start, end):
         if s_index != None and e_index != None:
             return YList[s_index: e_index]
     return YList[s_index: e_index]  
-
-def combine(Xdict, YList, dim):
-    X = []
-    Y = []
-    for item in YList:
-        date = item[0]
-        Y.append(item[1])
-        if date in Xdict:
-            X.append(Xdict[date])
-        else:
-            X.append([0] * dim)
-    return X, Y
 
 def combineS(Xdict, YList):
     X = []
@@ -71,27 +66,29 @@ def mergeFeatures(D1, D2):
 
 def crossMarketFeatures(stockList,fnList1, Ylists):
     featureD = dict()
+    if len(fnList1) == 0 : return featureD
     for i in xrange(len(stockList)):
         stock = stockList[i]
-        Ylist = Ylist[i]
+        Ylist = Ylists[i]
         Xpath = Xdir + '/' + stock + '.json'
         if os.path.isfile(Xpath):
-            Xfile = open(Xpath, 'r')
+            Xfile = codecs.open(Xpath, 'r','utf-8')
             Xdict = json.load(Xfile)
             for fn in fnList1:
                 print "including %s from %s ..." %(str(fn),stock)
-                features.fn(featureD, Xdict, Ylist, stock)
+                fn(featureD, Xdict, Ylist, stock)
     return featureD
 
 def singleStockFeature(stock, fnList2, Ylist):
     featureD = dict()
+    if len(fnList2) == 0 : return featureD
     Xpath = Xdir + '/' + stock + '.json'
     if os.path.isfile(Xpath):
-        Xfile = open(Xpath, 'r')
+        Xfile = codecs.open(Xpath, 'r','utf-8')
         Xdict = json.load(Xfile)
         for fn in fnList2:
             print "including %s for %s ..." %(str(fn),stock)
-            features.fn(featureD, Xdict, Ylist, stock)
+            fn(featureD, Xdict, Ylist, stock)
         return featureD
     else:
         return None
@@ -101,7 +98,7 @@ def singleStockFeature(stock, fnList2, Ylist):
 def main(fnList1,fnList2, overWriting = True):
     print "extracting features ..."
 
-    Yfile = open(Ypath,'r')
+    Yfile = codecs.open(Ypath,'r','utf-8')
     stockList = []
     Ylists = []
     for line in Yfile:
@@ -119,17 +116,28 @@ def main(fnList1,fnList2, overWriting = True):
         readmefile.write(readmeContent)
         readmefile.close()
 
-    featureDGeneral = crossMarketFeatures(stockList,fnList1, YLists)
+    featureDGeneral = crossMarketFeatures(stockList,fnList1, Ylists)
 
     for i in xrange(len(stockList)):
         stock = stockList[i]
-        Ylist = YLists[i]
+        XYPath = XYdir + '/' + stock + '.json'
+
+        if not overWriting and os.path.isfile(XYPath):
+            print "file already exists"
+            continue
+
+        Ylist = Ylists[i]
         print "building XYfile for %s ..." %stock
         featureD = singleStockFeature(stock, fnList2, Ylist)
         if featureD == None:
             print "no headline file"
             continue
+            
         mergeFeatures(featureD, featureDGeneral)
+
+        if len(featureD) == 0:
+            print "no headlines"
+            continue
 
         start_Y = Ylist[0][0]
         end_Y = Ylist[-1][0]
@@ -154,8 +162,6 @@ def main(fnList1,fnList2, overWriting = True):
         totalcount = len(Y)
         print "there are %d data points ..." % totalcount
 
-        XYPath = XYdir + '/' + stock + '.json'
-
         if totalcount < 1000:
             print "not enough data points"
             if os.path.isfile(XYPath):
@@ -168,10 +174,10 @@ def main(fnList1,fnList2, overWriting = True):
             continue
         
         else:
-            XYfile = open(XYPath, 'w')
+            XYfile = codecs.open(XYPath, 'w','utf-8')
             print "creating new files..."
             for i in xrange(totalcount):
-                XYfile.write(json.dumps((Date[i],Y[i],X[i])) + '\n')
+                XYfile.write(json.dumps((date[i],Y[i],X[i])) + '\n')
             XYfile.close()
 
-
+main(fnList1,fnList2, overWriting = True)
