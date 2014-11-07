@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.210574
+
+stocks	NVDA	0.828704
+
+Stocks	NBR	0.808904
+
+Rally	AA	0.750183
+
+U.S.	STI	0.707628
+
+Health	UNH	0.556926
+
+PNC	PNC	0.495788
+
+STOCKS	JNPR	0.488022
+
+Stocks	LEG	0.486345
+
+Stocks	CSCO	0.450220
+
+Stocks	QCOM	0.441886
+
+Oil	XOM	0.436408
+
+Wireless	QCOM	0.428254
+
+Bard	BCR	0.424474
+
+Discover	AXP	0.394711
+
+Futures	CME	0.393776
+
+Retail	GPS	0.392327
+
+U.S.	COST	0.379541
+
+stocks	TXN	0.363733
+
+Stock	NDAQ	0.354183
+
+Fall	AMD	-0.848757
+
+Stocks	KEY	-0.808814
+
+stocks	CHK	-0.732748
+
+Lincoln	HIG	-0.723520
+
+Stock	PCG	-0.695327
+
+HOT	GILD	-0.690880
+
+stocks	NBR	-0.663380
+
+Heparin	BAX	-0.649810
+
+Northern	NTRS	-0.622330
+
+Steel	X	-0.571355
+
+Drug	ABT	-0.541563
+
+'s	PRU	-0.540899
+
+Green	SBUX	-0.528053
+
+Whirlpool	WHR	-0.493857
+
+'s	TGT	-0.490522
+
+Citigroup	C	-0.426354
+
+Baker	BHI	-0.406898
+
+Paso	KMI	-0.406452
+
+Electric	AEP	-0.394951
+
+Caremark	CVS	-0.391326
+

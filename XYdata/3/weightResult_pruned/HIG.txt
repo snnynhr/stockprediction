@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.479035
+
+'s	PHM	1.421880
+
+stocks	HES	0.745926
+
+Stanley	SWK	0.683304
+
+Rockwell	ROK	0.593196
+
+STOCKS	SNDK	0.558821
+
+Aon	AON	0.537801
+
+Stock	CHK	0.505992
+
+Zynga	EA	0.465785
+
+gas	CHK	0.460793
+
+Trading	CME	0.455671
+
+Travelers	TRV	0.443981
+
+Lifesciences	EW	0.433547
+
+$	PCG	0.411904
+
+United	UTX	0.386527
+
+Drug	BIIB	0.380438
+
+Bristol-Myers	BMY	0.368608
+
+First	FSLR	0.368453
+
+Banks	FITB	0.367730
+
+'s	NVDA	0.352649
+
+stocks	COST	-0.843116
+
+Retail	BBY	-0.818728
+
+Energy	MRO	-0.762316
+
+Stocks	M	-0.738197
+
+Dow	KO	-0.688087
+
+'s	SBUX	-0.653500
+
+Lennar	LEN	-0.611998
+
+Refinery	TSO	-0.587689
+
+Cancer	AMGN	-0.566486
+
+'s	T	-0.563194
+
+OMX	NDAQ	-0.523910
+
+Southwest	LUV	-0.517428
+
+Home	LEN	-0.511742
+
+Hospira	HSP	-0.502854
+
+Deal	VZ	-0.494385
+
+'s	IP	-0.480877
+
+'s	NYT	-0.478662
+
+Sales	GM	-0.448721
+
+BP	TSO	-0.419444
+
+New	BRK.B	-0.418202
+

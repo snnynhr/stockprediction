@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.457819
+
+Edison	EIX	1.129760
+
+$	AXP	0.794154
+
+Up	MCD	0.708290
+
+BofA	USB	0.703482
+
+Futures	FDX	0.701873
+
+'s	BLK	0.654894
+
+CEO	DUK	0.647651
+
+Technologies	UTX	0.645899
+
+Pulte	PHM	0.611089
+
+Akamai	AKAM	0.608648
+
+Drug	BIIB	0.603403
+
+Stocks	BMY	0.568080
+
+Alibaba	YHOO	0.565761
+
+HOT	MRK	0.524357
+
+'s	BSX	0.471904
+
+Morris	PM	0.441982
+
+'s	JWN	0.441958
+
+Wal-Mart	TGT	0.432141
+
+Stocks	CSCO	0.431431
+
+Electric	AEP	-0.946347
+
+Stocks	M	-0.725429
+
+Banks	HBAN	-0.723089
+
+Stocks	APC	-0.667598
+
+Stocks	MDLZ	-0.635777
+
+stocks	EMC	-0.572932
+
+Gas	CVX	-0.550905
+
+Insurers	PRU	-0.534350
+
+HOT	CME	-0.476019
+
+Micron	MU	-0.436913
+
+US	BSX	-0.429712
+
+HOT	VLO	-0.421533
+
+Northern	NTRS	-0.410466
+
+LSE	NDAQ	-0.387714
+
+stocks	CHK	-0.387711
+
+U.S.	IBM	-0.386838
+
+Horton	DHI	-0.386366
+
+Cuts	UPS	-0.386278
+
+Shares	NVDA	-0.381744
+
+Bank	KEY	-0.371234
+

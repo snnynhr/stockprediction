@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.0149812
+
+Apple	NFLX	1.032230
+
+Stocks	LUV	0.819593
+
+'s	BLK	0.804286
+
+Stocks	RIG	0.677665
+
+Dell	NVDA	0.651747
+
+stocks	MTG	0.584552
+
+Stocks	AZO	0.563352
+
+energy	VLO	0.511555
+
+First	FSLR	0.506923
+
+Hormel	HRL	0.482360
+
+Edison	EIX	0.457206
+
+CEO	VLO	0.425453
+
+Stocks	LEN	0.418990
+
+Deere	DE	0.413227
+
+York	NYT	0.405055
+
+'s	BK	0.397175
+
+Safeway	SWY	0.370951
+
+Profit	APOL	0.365412
+
+Products	APD	0.328799
+
+Tysabri	BIIB	-1.167230
+
+Apple	TXN	-0.996455
+
+Green	SBUX	-0.818223
+
+Intuit	INTU	-0.769836
+
+Discovery	DISCA	-0.704160
+
+Stocks	BBY	-0.696514
+
+Heparin	BAX	-0.646340
+
+Valero	MRO	-0.617457
+
+Stocks	DE	-0.588588
+
+'s	F	-0.583506
+
+Buy	EMC	-0.550554
+
+Big	WMT	-0.543399
+
+Oil	VLO	-0.504160
+
+Net	M	-0.461909
+
+Stocks	NFLX	-0.452863
+
+'s	CHK	-0.452043
+
+'s	KBH	-0.451596
+
+Spill	APC	-0.435255
+
+Activision	EA	-0.426516
+
+Loss	MBI	-0.413659
+

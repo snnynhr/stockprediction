@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.373977
+
+Costco	COST	1.055270
+
+Deal	COF	0.745357
+
+Banks	AXP	0.739284
+
+Credit-Card	COF	0.660021
+
+AIG	MET	0.622902
+
+Philip	PM	0.588448
+
+Lexmark	LXK	0.576869
+
+US	LEN	0.474854
+
+First	FSLR	0.474714
+
+Edison	EIX	0.453920
+
+Regional	FITB	0.432654
+
+GameStop	GME	0.383661
+
+Retailers	ANF	0.369108
+
+'s	AIG	0.350614
+
+Chip	TXN	0.341366
+
+Coty	AVP	0.319191
+
+Ciena	CIEN	0.313132
+
+Coke	KO	0.312339
+
+U.S.	CHK	0.301409
+
+Hospira	HSP	-1.029020
+
+Regions	RF	-0.726374
+
+HOT	JNJ	-0.713188
+
+J	ABT	-0.670941
+
+Stocks	SNDK	-0.650107
+
+Prices	COP	-0.636050
+
+2Q	LOW	-0.611931
+
+'s	BRK.B	-0.520267
+
+FDA	JNJ	-0.515254
+
+Celgene	CELG	-0.480957
+
+Legg	LM	-0.447980
+
+Coal	BTU	-0.446970
+
+CME	CME	-0.440023
+
+Spill	RIG	-0.437730
+
+Lennar	LEN	-0.433331
+
+Biotech	BIIB	-0.432838
+
+Credit	COF	-0.431237
+
+Stocks	M	-0.426284
+
+Time	TWX	-0.406241
+
+US	ADSK	-0.397162
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	1.09004
+
+FDA	MDT	0.721683
+
+ETF	STT	0.698324
+
+US	VLO	0.614179
+
+stocks	VLO	0.597096
+
+LIVE	LOW	0.589821
+
+Genworth	GNW	0.501427
+
+Boeing	BA	0.492441
+
+Pulte	PHM	0.472632
+
+Kroger	KR	0.451889
+
+'s	BSX	0.412883
+
+Dell	NVDA	0.384596
+
+First	FSLR	0.382180
+
+Tyco	TYC	0.377249
+
+'s	BK	0.364254
+
+Thermo	TMO	0.357995
+
+Best	BBY	0.349674
+
+Cogent	MMM	0.348840
+
+'s	PFE	0.347853
+
+Google	IACI	0.343801
+
+Stock	HAS	-0.869738
+
+U.S.	BA	-0.789132
+
+Warren	BRK.B	-0.766492
+
+Dow	PG	-0.735486
+
+Oil	CHK	-0.707091
+
+'s	HPQ	-0.691353
+
+Oil	VLO	-0.641873
+
+CEO	PFE	-0.617930
+
+'s	M	-0.614538
+
+Hershey	HSY	-0.565430
+
+Manitowoc	MTW	-0.528157
+
+Banks	COF	-0.516707
+
+Stocks	DE	-0.488560
+
+Exelon	EXC	-0.476653
+
+Discovery	DISCA	-0.476235
+
+Stocks	KBH	-0.468863
+
+Zimmer	ZMH	-0.467846
+
+Cummins	CMI	-0.457845
+
+'s	COST	-0.442529
+
+Warner	TWC	-0.428685
+

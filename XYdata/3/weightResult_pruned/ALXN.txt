@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.791812
+
+Banks	BBT	0.861681
+
+Costco	COST	0.541314
+
+Morgan	RF	0.521149
+
+Car	F	0.508995
+
+PepsiCo	PEP	0.475670
+
+'s	MCO	0.473910
+
+Scientific	BSX	0.472542
+
+Boeing	BA	0.470420
+
+Morning	JCP	0.466539
+
+Coty	AVP	0.456256
+
+Sales	KSS	0.452687
+
+Prudential	AIG	0.438221
+
+Intuit	INTU	0.435335
+
+Fed	PNC	0.366822
+
+Wynn	WYNN	0.357573
+
+Credit-Card	COF	0.354189
+
+Tiffany	TIF	0.348895
+
+Stocks	WDC	0.340907
+
+Juniper	JNPR	0.333170
+
+Settlement	BRCM	-1.103710
+
+tech	NVDA	-0.960940
+
+'s	USB	-0.858551
+
+Stocks	M	-0.834530
+
+J	BSX	-0.774833
+
+Hasbro	HAS	-0.694267
+
+Morning	EBAY	-0.560775
+
+Newell	NWL	-0.555359
+
+Market	CAT	-0.528644
+
+RadioShack	RSH	-0.510889
+
+Instruments	TXN	-0.487238
+
+U.S.	AKS	-0.473731
+
+U.S.	ANF	-0.470262
+
+US	MAT	-0.463328
+
+Caremark	CVS	-0.450898
+
+'s	RIG	-0.410529
+
+Imax	DIS	-0.406913
+
+Oil	HES	-0.404236
+
+Stocks	EMC	-0.403513
+
+MF	CME	-0.376512
+

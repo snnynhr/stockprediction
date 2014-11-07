@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.0271585
+
+Insurers	MBI	0.879043
+
+HOT	WYNN	0.861285
+
+Stocks	NVDA	0.707854
+
+Shares	MTG	0.677609
+
+Stanley	MS	0.669282
+
+Gasoline	VLO	0.661794
+
+Trading	SCHW	0.659223
+
+Carnival	CCL	0.632946
+
+Expeditors	EXPD	0.601661
+
+'s	PEP	0.576460
+
+Gains	TXN	0.562774
+
+New	YHOO	0.537138
+
+'s	VIAB	0.530820
+
+$	EXC	0.485431
+
+Stocks	PHM	0.479107
+
+BP	HAL	0.441993
+
+Dow	AA	0.425172
+
+Airlines	LUV	0.414409
+
+Gains	MU	0.412625
+
+Hotels	HOT	-0.765867
+
+AES	AES	-0.640031
+
+Prudential	PRU	-0.623047
+
+Stocks	DE	-0.611008
+
+Stocks	UPS	-0.580333
+
+'s	NDAQ	-0.561617
+
+US	EXC	-0.556387
+
+Lennar	LEN	-0.531910
+
+'s	AA	-0.516948
+
+Drugs	ABT	-0.496859
+
+Life	PRU	-0.488876
+
+CA	CA	-0.459862
+
+Discovery	DISCA	-0.433213
+
+Cable	CMCSA	-0.428958
+
+Nymex	CME	-0.426619
+
+Stocks	KEY	-0.422312
+
+$	AIG	-0.417992
+
+Soup	CPB	-0.401812
+
+Loews	L	-0.397265
+
+BATS	ICE	-0.396449
+

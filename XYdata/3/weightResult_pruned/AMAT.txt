@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.678416
+
+Up	STT	1.109670
+
+Facebook	EBAY	1.104880
+
+TECH	SNDK	0.724535
+
+Stocks	KO	0.641008
+
+Dow	AXP	0.547398
+
+Bank	KEY	0.544670
+
+Euronext	NDAQ	0.533030
+
+'s	BLK	0.527837
+
+gas	CHK	0.525092
+
+Times	NYT	0.522931
+
+stocks	RF	0.518732
+
+$	HON	0.500349
+
+Chip	TXN	0.494669
+
+Stocks	LEN	0.475693
+
+'s	VIAB	0.455094
+
+Media	IPG	0.444662
+
+Yum	YUM	0.415198
+
+Credit-Card	COF	0.411241
+
+'s	DOW	0.404823
+
+$	LUV	-0.909225
+
+Stocks	SLM	-0.878624
+
+TV	CMCSA	-0.859467
+
+Caremark	CVS	-0.771886
+
+Sales	EA	-0.653352
+
+Stocks	MDLZ	-0.606129
+
+Hasbro	MAT	-0.603708
+
+Office	SPLS	-0.594603
+
+Reynolds	RAI	-0.541097
+
+Cisco	JNPR	-0.519413
+
+Starwood	HOT	-0.510678
+
+'s	WHR	-0.485780
+
+Windstream	WIN	-0.480993
+
+Stocks	ORCL	-0.469603
+
+Drug	MRK	-0.439665
+
+Friday	M	-0.434673
+
+ConocoPhillips	COP	-0.434478
+
+Penney	KSS	-0.433106
+
+Tech	ADBE	-0.420778
+
+Drug	LLY	-0.420556
+

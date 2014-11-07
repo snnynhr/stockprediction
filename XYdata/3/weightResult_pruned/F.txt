@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.366871
+
+Pulte	PHM	0.861112
+
+Stryker	SYK	0.722257
+
+Bottling	PEP	0.628272
+
+'s	CRM	0.624523
+
+Retail	LOW	0.567425
+
+Honeywell	HON	0.553302
+
+Oil	MUR	0.539076
+
+Cadbury	MDLZ	0.516935
+
+stocks	LEN	0.464936
+
+Stocks	UNH	0.456846
+
+VMware	EMC	0.430786
+
+stocks	RIG	0.427243
+
+Qwest	CTL	0.388285
+
+US	GPS	0.376939
+
+Coca-Cola	KO	0.371709
+
+Tiffany	TIF	0.359681
+
+Oil	HES	0.339115
+
+Costco	COST	0.303860
+
+Stocks	TXN	0.303543
+
+Cancer	AMGN	-1.045740
+
+'s	APC	-0.904479
+
+Kimberly-Clark	KMB	-0.753720
+
+'s	BIG	-0.743472
+
+FDA	MRK	-0.726531
+
+stocks	CHK	-0.683943
+
+Morgan	COF	-0.635613
+
+American	LUV	-0.630251
+
+Autodesk	ADSK	-0.629701
+
+Bank	STT	-0.607625
+
+Microchip	MCHP	-0.572049
+
+Credit	AXP	-0.563844
+
+US	GNW	-0.556706
+
+Loss	KBH	-0.540919
+
+Shares	MA	-0.505850
+
+Electronic	EA	-0.501587
+
+G	PG	-0.501232
+
+DirecTV	DTV	-0.489682
+
+Mason	LM	-0.476442
+
+Ventas	VTR	-0.466610
+

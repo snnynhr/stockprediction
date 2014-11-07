@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-1.30781
+
+Home	DHI	0.799282
+
+Bank	RF	0.789366
+
+Tyson	TSN	0.683562
+
+Stock	BRK.B	0.647551
+
+stocks	CSCO	0.644525
+
+Recalls	JNJ	0.593480
+
+Retail	ANF	0.577457
+
+HOT	MRK	0.507008
+
+Gain	CAT	0.488237
+
+Ford	F	0.468459
+
+TECH	AMAT	0.460359
+
+Tumblr	YHOO	0.446095
+
+'s	AXP	0.424026
+
+Apple	NFLX	0.406513
+
+Media	VIAB	0.403755
+
+Chips	AMD	0.396881
+
+'s	SHLD	0.370495
+
+Hormel	HRL	0.368688
+
+Stocks	QCOM	0.368214
+
+Medical	STJ	-1.140460
+
+Earnings	AA	-0.991931
+
+IPO	EBAY	-0.740611
+
+US	ICE	-0.660376
+
+Reports	MRO	-0.613436
+
+Banks	STI	-0.546616
+
+Billion	CHK	-0.538518
+
+Exelon	EXC	-0.532899
+
+Western	WDC	-0.515415
+
+Stocks	M	-0.483863
+
+Gas	CHK	-0.466882
+
+Chevron	CVX	-0.462556
+
+Apple	ORCL	-0.460805
+
+Stocks	MDLZ	-0.431435
+
+Autonomy	HPQ	-0.387835
+
+Energy	COP	-0.383044
+
+Gold	NEM	-0.360224
+
+US	LMT	-0.354974
+
+Retail	M	-0.349981
+
+'s	BRK.B	-0.346910
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.0998923
+
+Home	DHI	0.801910
+
+'s	BLK	0.680930
+
+Biogen	BIIB	0.680532
+
+Campbell	CPB	0.665683
+
+Retail	ANF	0.654331
+
+Republic	RSG	0.594275
+
+MasterCard	V	0.574946
+
+Thermo	TMO	0.571876
+
+'s	COH	0.549566
+
+'s	STJ	0.496828
+
+Pulte	PHM	0.470950
+
+Alibaba	YHOO	0.469947
+
+Coventry	AET	0.459546
+
+U.S.	LOW	0.456802
+
+Estee	EL	0.431924
+
+T-Mobile	T	0.431606
+
+Home	PHM	0.420117
+
+U.S.	DD	0.416260
+
+Stock	CHK	0.415910
+
+U.S.	INTC	-0.978163
+
+Shares	NVDA	-0.860574
+
+Hospira	HSP	-0.793981
+
+Ralcorp	CAG	-0.737449
+
+Marriott	MAR	-0.737077
+
+Pay	ABT	-0.695103
+
+Stocks	SVU	-0.693682
+
+Discovery	DISCA	-0.649346
+
+'s	NYT	-0.625872
+
+Financial	KEY	-0.566015
+
+Anadarko	APC	-0.554209
+
+Tobacco	RAI	-0.547577
+
+IPO	AIG	-0.521620
+
+Foods	TSN	-0.503928
+
+Dow	PG	-0.501369
+
+Cigarette	RAI	-0.496842
+
+Heparin	BAX	-0.480528
+
+TARP	HIG	-0.477376
+
+TECH	CSCO	-0.475393
+
+J	LLY	-0.475155
+

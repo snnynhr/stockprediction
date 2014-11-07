@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.526759
+
+stocks	BMY	0.809024
+
+U.S.	CHK	0.704307
+
+Energy	VLO	0.685056
+
+AOL	CBS	0.665776
+
+BP	HAL	0.650357
+
+Stocks	TXN	0.615928
+
+Cadbury	MDLZ	0.476407
+
+Expeditors	EXPD	0.466493
+
+Pulte	PHM	0.455232
+
+UPS	FDX	0.446335
+
+US	LEN	0.396916
+
+stocks	TSO	0.381721
+
+Staples	SPLS	0.351199
+
+US	NDAQ	0.345932
+
+Chevron	TSO	0.344876
+
+STOCKS	QCOM	0.342336
+
+Cardinal	CAH	0.338266
+
+US	URBN	0.315902
+
+EADS	NOC	0.313860
+
+Apple	INTC	-1.175420
+
+Hospira	HSP	-0.805997
+
+Heparin	BAX	-0.798946
+
+Morgan	COF	-0.698525
+
+Rambus	MU	-0.657489
+
+Stocks	M	-0.648369
+
+stocks	OXY	-0.641089
+
+Lorillard	LO	-0.587032
+
+Loss	LEN	-0.549579
+
+Hughes	BHI	-0.522301
+
+Tyco	TYC	-0.520190
+
+Retail	BBY	-0.510051
+
+Stock	SNDK	-0.508826
+
+Energy	BTU	-0.505699
+
+Paccar	PCAR	-0.480659
+
+'s	CME	-0.478513
+
+BP	RIG	-0.477732
+
+'s	STI	-0.464084
+
+Morgan	WFC	-0.452840
+
+'s	DHI	-0.431610
+

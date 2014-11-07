@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.194026
+
+'s	BLK	1.136780
+
+stocks	NVDA	1.107340
+
+Dow	CAT	0.879832
+
+Foods	MDLZ	0.837801
+
+Health	HUM	0.720940
+
+Allergan	AGN	0.646342
+
+Smucker	SJM	0.605912
+
+US	CSX	0.588870
+
+rise	AA	0.586729
+
+'s	LLY	0.573091
+
+Avon	AVP	0.504561
+
+HOT	MRK	0.490870
+
+Sears	HD	0.475642
+
+Health	CAH	0.452783
+
+Banks	KEY	0.418123
+
+Futures	CME	0.415139
+
+Deere	DE	0.396797
+
+stocks	AA	0.391151
+
+Net	DFS	0.389829
+
+'s	NKE	-0.910303
+
+Stocks	DE	-0.683234
+
+Medicare	HUM	-0.619595
+
+Earnings	AA	-0.612784
+
+Sales	TXN	-0.591733
+
+U.S.	FDO	-0.567281
+
+Cyprus	C	-0.547708
+
+'s	PFE	-0.546829
+
+tech	TXN	-0.543481
+
+Philips	GE	-0.533068
+
+'s	CHK	-0.510955
+
+Stocks	HRB	-0.444609
+
+Marathon	MRO	-0.444252
+
+National	NOV	-0.439820
+
+Chevron	CVX	-0.419457
+
+Fifth	FITB	-0.418362
+
+Stocks	SBUX	-0.409875
+
+'s	GNW	-0.402102
+
+HOT	BBY	-0.394107
+
+Supervalu	SVU	-0.373530
+

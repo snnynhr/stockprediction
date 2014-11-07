@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.960535
+
+Sears	HD	0.731693
+
+'s	CAT	0.634738
+
+Stocks	CVX	0.585999
+
+'s	TXN	0.572727
+
+stocks	TXN	0.564669
+
+'s	NKE	0.564410
+
+U.S.	BIG	0.511744
+
+'s	MCO	0.472404
+
+Dow	CAT	0.467955
+
+Credit-Card	COF	0.463387
+
+Medco	CVS	0.385493
+
+STOCKS	TXN	0.382346
+
+Kroger	KR	0.376736
+
+Life	GNW	0.375164
+
+Edison	EIX	0.366134
+
+Refinery	LYB	0.349484
+
+Energy	HES	0.345194
+
+stocks	NVDA	0.341817
+
+Urban	URBN	0.340325
+
+Gas	CVX	-1.351140
+
+'s	IBM	-1.326460
+
+Monster	MWW	-0.916981
+
+Interpublic	IPG	-0.672744
+
+'s	CVC	-0.645841
+
+U.S.	AA	-0.635230
+
+Intel	TXN	-0.620573
+
+Noble	NBL	-0.495925
+
+Chevron	CVX	-0.488145
+
+Depot	ODP	-0.484268
+
+Health-Care	UNH	-0.458876
+
+Oil	CHK	-0.457791
+
+Stocks	MDLZ	-0.447578
+
+Up	CHK	-0.419672
+
+Chip	BRCM	-0.410672
+
+Time	MDP	-0.401012
+
+Gold	NEM	-0.386540
+
+Retailers	TJX	-0.370400
+
+Kohl	KSS	-0.367599
+
+Insurers	LNC	-0.355144
+

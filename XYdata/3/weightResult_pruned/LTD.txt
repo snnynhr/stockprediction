@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.963977
+
+Retail	ANF	0.833421
+
+Stocks	WHR	0.810804
+
+US	M	0.742145
+
+U.S.	DD	0.674044
+
+Microsoft	HPQ	0.641922
+
+'s	T	0.598335
+
+PNC	PNC	0.582511
+
+Rules	MCO	0.557187
+
+Lead	AMD	0.523074
+
+Gas	CHK	0.484768
+
+Northrop	NOC	0.470091
+
+Avon	AVP	0.462414
+
+Cablevision	CVC	0.455269
+
+Campbell	CPB	0.452518
+
+US	NVDA	0.433947
+
+US	COST	0.418657
+
+Boston	BSX	0.408655
+
+Retailers	M	0.407571
+
+Viacom	VIAB	0.354689
+
+Domain	NTAP	-0.873724
+
+Drugs	ABT	-0.868400
+
+Sector	TXN	-0.719144
+
+Cigarette	RAI	-0.604836
+
+Outfitters	URBN	-0.598314
+
+Stocks	FSLR	-0.595351
+
+U.S.	CAT	-0.509790
+
+Monster	MWW	-0.509140
+
+Friday	BBY	-0.504441
+
+Networks	JNPR	-0.503225
+
+'s	CHK	-0.500538
+
+CenturyTel	CTL	-0.469704
+
+stocks	INTC	-0.463444
+
+'s	PFE	-0.447292
+
+Global	CME	-0.430004
+
+CVS	CVS	-0.412960
+
+Seed	MON	-0.401607
+
+FAA	LUV	-0.388599
+
+Corning	GLW	-0.382607
+
+Interpublic	IPG	-0.382349
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-1.02136
+
+stocks	NVDA	0.846605
+
+Foods	SWY	0.840545
+
+CEO	VLO	0.777756
+
+stocks	LEN	0.751216
+
+Intel	AMAT	0.748722
+
+Retail	LOW	0.603019
+
+Airlines	BA	0.570149
+
+Vornado	VNO	0.569575
+
+Big	PNC	0.545913
+
+Banks	BBT	0.529120
+
+Retailers	ANF	0.494202
+
+Stocks	JBL	0.492363
+
+Moody	MCO	0.485231
+
+Boston	BSX	0.439308
+
+Refinery	LYB	0.422364
+
+Exxon	COP	0.416034
+
+US	APC	0.392775
+
+Kraft	MDLZ	0.381529
+
+stocks	SHLD	0.359057
+
+Housing	KBH	-0.930608
+
+'s	ODP	-0.818780
+
+Stocks	HAL	-0.781181
+
+Friday	M	-0.762319
+
+Capital	BK	-0.745788
+
+Banks	PNC	-0.727266
+
+Up	ADBE	-0.721977
+
+Rambus	MU	-0.699261
+
+Financials	RF	-0.689370
+
+Ambac	MBI	-0.686333
+
+'s	CPB	-0.673650
+
+'s	UNP	-0.634773
+
+China	MCD	-0.617476
+
+Seagate	STX	-0.610905
+
+'s	JNJ	-0.545516
+
+Coke	KO	-0.524462
+
+Texas	MRO	-0.509920
+
+stocks	BTU	-0.509913
+
+stocks	GPS	-0.493681
+
+U.S.	T	-0.458398
+

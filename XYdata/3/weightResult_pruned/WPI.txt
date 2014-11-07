@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.0657158
+
+stocks	NVDA	1.046250
+
+Stocks	CNX	0.774401
+
+Drug	BIIB	0.611921
+
+Ford	F	0.610692
+
+'s	GNW	0.571254
+
+'s	DOW	0.570043
+
+MasterCard	MA	0.550634
+
+Retail	ANF	0.549939
+
+Southern	NSC	0.531669
+
+Sales	NKE	0.516673
+
+$	PFE	0.510446
+
+Stocks	PCLN	0.473463
+
+T-Mobile	T	0.467374
+
+Block	HRB	0.457260
+
+First	FSLR	0.452124
+
+$	COP	0.439640
+
+Heart	BMY	0.436904
+
+Office	ODP	0.421113
+
+Options	NDAQ	0.400768
+
+'s	MMM	-0.833058
+
+Retail	COST	-0.789659
+
+US	CELG	-0.705685
+
+Nokia	QCOM	-0.699417
+
+Williams	WMB	-0.675133
+
+Stock	APC	-0.630245
+
+Stocks	FSLR	-0.586439
+
+Emulex	BRCM	-0.553624
+
+Noble	NBL	-0.534690
+
+Warner	TWC	-0.533257
+
+Express	AXP	-0.493449
+
+Hospira	HSP	-0.482413
+
+Stock	M	-0.436625
+
+US	TXN	-0.435245
+
+'s	NDAQ	-0.425685
+
+Martin	LMT	-0.410725
+
+stocks	LLY	-0.409141
+
+Apple	INTC	-0.361963
+
+STOCKS	NVDA	-0.325308
+
+Humana	HUM	-0.320887
+

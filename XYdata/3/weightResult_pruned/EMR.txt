@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.494447
+
+Cigna	CI	0.745226
+
+Stake	NYT	0.740574
+
+US	AA	0.708019
+
+Fund	BLK	0.677120
+
+Stocks	ZION	0.660314
+
+stocks	NFLX	0.656160
+
+Banks	MTB	0.646115
+
+Fed	WFC	0.644229
+
+Dow	CAT	0.610924
+
+US	PFE	0.555576
+
+stocks	VLO	0.542646
+
+Field	COP	0.503455
+
+Warner	PG	0.491995
+
+Apple	NFLX	0.472826
+
+Apple	AMD	0.442972
+
+U.S.	JNJ	0.424259
+
+$	CSCO	0.395847
+
+Penney	M	0.388032
+
+Retailers	COST	0.383037
+
+US	LMT	-1.344250
+
+Morgan	COF	-0.865884
+
+Stocks	KR	-0.723662
+
+ImClone	BMY	-0.645304
+
+Stock	ESRX	-0.621704
+
+Tech	NVDA	-0.562475
+
+$	YHOO	-0.548659
+
+Banks	RF	-0.520876
+
+Chevron	XOM	-0.504386
+
+Warner	TWX	-0.489788
+
+U.S.	WAG	-0.486681
+
+US	CME	-0.470780
+
+China	YUM	-0.465965
+
+Companies	CI	-0.463748
+
+'s	NTAP	-0.460824
+
+'s	TWC	-0.455307
+
+Circuit	JBL	-0.444201
+
+Verizon	VZ	-0.425690
+
+Sales	GPS	-0.425520
+
+Insurers	HUM	-0.417941
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.206979
+
+stocks	ODP	0.951154
+
+US	RIG	0.928625
+
+Exchange	NDAQ	0.621304
+
+Exelon	EXC	0.523753
+
+Salesforce.com	CRM	0.471710
+
+Arts	EA	0.464651
+
+US	M	0.457223
+
+Janus	JNS	0.438830
+
+Oil	COP	0.421920
+
+Heinz	BRK.B	0.421555
+
+Lincoln	LNC	0.402462
+
+$	EMC	0.396025
+
+'s	TXN	0.389486
+
+Anadarko	APC	0.386306
+
+BlackRock	BLK	0.381171
+
+Energy	SLB	0.374620
+
+Starbucks	SBUX	0.339986
+
+'s	MCO	0.307431
+
+Edison	EIX	0.302938
+
+American	AEP	-0.885027
+
+Gulf	APC	-0.684028
+
+U.S.	PFE	-0.678435
+
+After	COP	-0.628243
+
+'s	IBM	-0.619519
+
+Humana	HUM	-0.619216
+
+Discovery	DISCA	-0.617573
+
+'s	WEN	-0.616800
+
+AB	BUD	-0.581559
+
+Gap	GPS	-0.554510
+
+'s	MBI	-0.531922
+
+US	LOW	-0.508544
+
+$	AMGN	-0.489010
+
+Tanker	NOC	-0.481489
+
+Pfizer	BMY	-0.480853
+
+US	KBH	-0.471050
+
+'s	ORCL	-0.451267
+
+U.S.	GM	-0.436687
+
+Apple	CSCO	-0.435597
+
+Newell	NWL	-0.401551
+

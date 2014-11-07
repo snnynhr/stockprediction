@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.900195
+
+stocks	VLO	1.021290
+
+Nordstrom	JWN	0.963749
+
+Sales	KSS	0.914595
+
+EA	EA	0.894096
+
+Stock	BLK	0.858298
+
+Stocks	CMG	0.716289
+
+'s	COF	0.573541
+
+higher	AXP	0.542303
+
+Walgreen	CVS	0.510378
+
+Morgan	C	0.505162
+
+Stanley	MS	0.479658
+
+BP	RIG	0.476663
+
+PG	PCG	0.456346
+
+Yum	YUM	0.456019
+
+Costco	COST	0.421813
+
+stocks	NBL	0.400385
+
+US	LLY	0.387438
+
+Chip	QCOM	0.334839
+
+Crucell	JNJ	0.318161
+
+'s	WAG	-0.717015
+
+stocks	COP	-0.716202
+
+Archer	ADM	-0.707746
+
+Stocks	MDLZ	-0.619688
+
+HOT	NUE	-0.606227
+
+US	KEY	-0.578884
+
+ADP	ADP	-0.561351
+
+AOL	TWX	-0.556530
+
+Autodesk	ADSK	-0.550087
+
+FDA	PFE	-0.545748
+
+Whirlpool	WHR	-0.533563
+
+Office	ODP	-0.521440
+
+Up	F	-0.448568
+
+U.S.	URBN	-0.422996
+
+'s	QCOM	-0.409162
+
+tech	NVDA	-0.393784
+
+Drug	LLY	-0.391585
+
+New	C	-0.388765
+
+Bank	FITB	-0.376913
+
+Energy	EXC	-0.366424
+

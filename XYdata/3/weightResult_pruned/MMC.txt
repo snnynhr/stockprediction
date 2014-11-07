@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.389989
+
+Oil	HES	0.841918
+
+Barclays	BLK	0.643898
+
+Stents	ABT	0.568678
+
+Deere	DE	0.559253
+
+PepsiCo	PEP	0.552502
+
+Health	CAH	0.539916
+
+stocks	LEN	0.535456
+
+Airlines	BA	0.534731
+
+Humana	HUM	0.500578
+
+Up	COF	0.492353
+
+Stocks	BA	0.464749
+
+US	PG	0.440523
+
+'s	ABT	0.429157
+
+Ford	F	0.428711
+
+'s	CRM	0.423423
+
+Elan	BIIB	0.397253
+
+'s	JCP	0.353938
+
+Penney	M	0.317466
+
+stocks	AIG	0.314785
+
+Trust	NTRS	-0.843314
+
+U.S.	BRK.B	-0.806296
+
+Apple	EBAY	-0.736095
+
+U.S.	TSN	-0.707178
+
+Stocks	ADI	-0.672023
+
+Morning	AMZN	-0.670380
+
+Stent	ABT	-0.628760
+
+Chemical	DOW	-0.612228
+
+Nasdaq	NDAQ	-0.603903
+
+Pfizer	ABT	-0.586280
+
+'s	SLB	-0.546836
+
+'s	CME	-0.490403
+
+Salesforce.com	CRM	-0.440732
+
+Textron	TXT	-0.418497
+
+Medtronic	MDT	-0.405781
+
+'s	WLP	-0.399672
+
+'s	PRU	-0.386550
+
+Anadarko	APC	-0.382981
+
+Valero	MRO	-0.381444
+
+PPL	PPL	-0.377484
+

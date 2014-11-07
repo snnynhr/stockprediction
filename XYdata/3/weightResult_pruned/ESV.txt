@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.296881
+
+sales	EA	0.846620
+
+Biotech	AMGN	0.707693
+
+N.Y.	NYT	0.635731
+
+Resources	RRC	0.537901
+
+Retail	HD	0.529541
+
+Facebook	NDAQ	0.526628
+
+Energy	SLB	0.524624
+
+US	PLL	0.520732
+
+After	MA	0.506008
+
+Stocks	CSX	0.489174
+
+Mylan	MYL	0.483247
+
+General	DG	0.481299
+
+Facebook	YHOO	0.479897
+
+PayPal	EBAY	0.468430
+
+Honeywell	HON	0.432896
+
+Energy	HES	0.425787
+
+Icahn	BIIB	0.404885
+
+Google	EXPE	0.403964
+
+Dell	EMC	0.398112
+
+ConAgra	CAG	-0.737544
+
+Friday	BBY	-0.701058
+
+Barclays	BLK	-0.695132
+
+Bank	BK	-0.685994
+
+Insurers	UNH	-0.665204
+
+Western	WDC	-0.634844
+
+Hospira	HSP	-0.603888
+
+$	ABT	-0.576679
+
+HOT	CME	-0.491378
+
+Sector	TXN	-0.480598
+
+Scientific	BSX	-0.477680
+
+U.S.	COST	-0.450980
+
+Aetna	AET	-0.447903
+
+CA	CA	-0.432425
+
+Agrium	CF	-0.418560
+
+US	HAL	-0.403375
+
+Microsoft	INTC	-0.397338
+
+U.S.	GPS	-0.392752
+
+Cablevision	CBS	-0.387508
+
+stocks	INTC	-0.372438
+

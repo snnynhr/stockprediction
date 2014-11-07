@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.0175808
+
+Financial	COF	0.725520
+
+Coca-Cola	KO	0.682361
+
+Sales	SHLD	0.580991
+
+Stocks	AIG	0.579098
+
+Occidental	OXY	0.547374
+
+Microsoft	EA	0.524899
+
+US	RF	0.518512
+
+First	FSLR	0.507889
+
+US	HBAN	0.499400
+
+Hormel	HRL	0.471066
+
+Surgical	ISRG	0.445833
+
+Energy	BTU	0.436921
+
+Costco	COST	0.405833
+
+US	BRCM	0.405611
+
+U.S.	TIF	0.404818
+
+Sales	TGT	0.396784
+
+Airlines	BA	0.393970
+
+'s	BBBY	0.360574
+
+Retailers	DDS	0.355232
+
+'s	SBUX	-0.786250
+
+Southwestern	SWN	-0.698336
+
+Ace	ACE	-0.630040
+
+Builders	LEN	-0.594139
+
+stocks	VZ	-0.585638
+
+energy	CHK	-0.578694
+
+Stocks	MBI	-0.557369
+
+sales	M	-0.547069
+
+'s	TSO	-0.485334
+
+'s	HPQ	-0.484647
+
+$	AIG	-0.471413
+
+Tech	ADBE	-0.469996
+
+Third	FITB	-0.439713
+
+ImClone	LLY	-0.438652
+
+Glass	GLW	-0.434002
+
+Stocks	SNDK	-0.429328
+
+Brazil	CVX	-0.417255
+
+Autodesk	ADSK	-0.412541
+
+Retail	BBY	-0.402887
+
+Regional	MTB	-0.391613
+

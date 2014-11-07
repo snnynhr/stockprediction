@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.0785567
+
+Morgan	USB	0.997839
+
+Scientific	BSX	0.989629
+
+Microsoft	HPQ	0.927902
+
+'s	BA	0.690708
+
+Retail	JCP	0.682399
+
+Home	KBH	0.598804
+
+Credit-Card	AXP	0.577026
+
+Stocks	TXN	0.573195
+
+US	PFE	0.544560
+
+Constellation	STZ	0.484987
+
+Pepsi	PEP	0.462154
+
+Retail	SHLD	0.456644
+
+Energy	HAL	0.455773
+
+U.S.	MRK	0.452418
+
+AOL	TWX	0.444948
+
+Simon	SPG	0.424684
+
+Apple	NFLX	0.401396
+
+Apple	HPQ	0.381241
+
+U.S.	FDX	0.373135
+
+Discovery	DISCA	-1.021520
+
+HOT	YHOO	-0.802369
+
+Sector	TXN	-0.789782
+
+Apple	INTC	-0.632579
+
+Friday	BBY	-0.613829
+
+'s	DVN	-0.610999
+
+Buy	NVDA	-0.596000
+
+Chevron	CVX	-0.590524
+
+'s	ABT	-0.586647
+
+Whirlpool	WHR	-0.577025
+
+Viacom	VIA	-0.536887
+
+J	BSX	-0.486079
+
+Gannett	GCI	-0.479654
+
+Stocks	M	-0.469156
+
+Stocks	MRK	-0.444088
+
+Oil	DVN	-0.442622
+
+Global	JOY	-0.425952
+
+Sales	JWN	-0.354705
+
+$	APC	-0.333104
+
+US	GNW	-0.313404
+

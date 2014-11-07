@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.242735
+
+US	PG	0.848455
+
+BP	HAL	0.822952
+
+Rosneft	XOM	0.822470
+
+Oil	HES	0.803179
+
+Technologies	UTX	0.676283
+
+Analog	ADI	0.649265
+
+US	MA	0.647096
+
+Steel	NUE	0.593961
+
+Cadbury	MDLZ	0.580502
+
+T-Mobile	T	0.580136
+
+First	FSLR	0.497342
+
+US	NKE	0.496404
+
+Intel	AMAT	0.495929
+
+'s	DFS	0.458358
+
+GameStop	GME	0.452865
+
+$	CVC	0.421408
+
+Pulte	PHM	0.403898
+
+Facebook	YHOO	0.398804
+
+Retailers	HD	0.395274
+
+Stocks	SLM	-1.068730
+
+FDA	PFE	-0.898369
+
+Apple	INTC	-0.868924
+
+Insurers	MET	-0.797286
+
+Stocks	M	-0.670514
+
+Altria	MO	-0.628562
+
+NYSE	CME	-0.624890
+
+$	CMCSA	-0.624778
+
+BP	RIG	-0.573572
+
+stocks	DNR	-0.568487
+
+stocks	CHK	-0.532998
+
+Air	NOC	-0.527423
+
+Card	V	-0.508570
+
+Tobacco	LO	-0.482448
+
+Medical	ABT	-0.463438
+
+ConAgra	CAG	-0.458330
+
+Stocks	UPS	-0.443148
+
+$	QCOM	-0.442600
+
+Medtronic	MDT	-0.425927
+
+Insurers	PRU	-0.415796
+

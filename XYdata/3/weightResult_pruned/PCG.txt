@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.00332723
+
+'s	GME	1.012170
+
+Stocks	FDX	0.973079
+
+Medicare	AET	0.624392
+
+Best	TGT	0.573926
+
+Sokol	BRK.B	0.532196
+
+Stocks	GILD	0.490302
+
+stocks	JCP	0.468867
+
+Qimonda	MU	0.444440
+
+MasterCard	MA	0.425964
+
+Retail	TGT	0.411522
+
+Tech	AMD	0.408999
+
+'s	BRK.B	0.396649
+
+Boeing	BA	0.370674
+
+'s	TXN	0.366326
+
+Nike	NKE	0.351114
+
+'s	BMY	0.328253
+
+Stocks	ODP	0.321173
+
+stocks	LUV	0.314524
+
+Stocks	SNDK	0.311356
+
+Energy	EXC	-1.023440
+
+Drug	LLY	-0.946693
+
+FDA	BMY	-0.934115
+
+'s	GCI	-0.853770
+
+Stocks	HUM	-0.699829
+
+Devon	DVN	-0.661811
+
+U.S.	BRK.B	-0.643500
+
+Google	YHOO	-0.553478
+
+Financial	BAC	-0.549296
+
+stocks	SHLD	-0.540624
+
+Micron	MU	-0.518422
+
+'s	JCP	-0.483953
+
+Media	CBS	-0.475819
+
+Time	TWC	-0.462836
+
+Berkshire	BRK.B	-0.421261
+
+'s	XRX	-0.406251
+
+HOT	CME	-0.393287
+
+Walgreen	WAG	-0.384052
+
+Gap	GPS	-0.383834
+
+'s	CHK	-0.373729
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.130213
+
+Retailers	HD	1.276580
+
+JetBlue	LUV	1.133600
+
+Stocks	CRM	0.821360
+
+Iraq	COP	0.787423
+
+Tyson	TSN	0.621652
+
+Apple	QCOM	0.514090
+
+Restarts	VLO	0.503446
+
+HOT	COF	0.500275
+
+HOT	RF	0.472731
+
+Pulte	PHM	0.470748
+
+Citrix	CTXS	0.447243
+
+'s	X	0.427462
+
+Dow	DOW	0.419121
+
+Deal	BLK	0.412912
+
+Nike	NKE	0.410932
+
+Apple	NFLX	0.397178
+
+Energy	SWN	0.387979
+
+US	LNC	0.359825
+
+stocks	HD	0.353999
+
+'s	QCOM	-0.780532
+
+'s	FCX	-0.774910
+
+Hess	HES	-0.684135
+
+Insurers	PRU	-0.574295
+
+Stocks	MRK	-0.545714
+
+Seagate	STX	-0.526857
+
+Capital	BBT	-0.524504
+
+Drugs	ABT	-0.519800
+
+Trust	STT	-0.517176
+
+Dominion	D	-0.475023
+
+Intel	TXN	-0.468171
+
+Celgene	CELG	-0.439236
+
+'s	AA	-0.434908
+
+Stocks	AA	-0.430534
+
+Caremark	CVS	-0.428200
+
+Red	RHT	-0.413052
+
+'s	USB	-0.406477
+
+Stocks	MMM	-0.394536
+
+Marathon	MRO	-0.377177
+
+Union	WMB	-0.359433
+

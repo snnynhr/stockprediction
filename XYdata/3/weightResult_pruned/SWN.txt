@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.274217
+
+Restaurants	DRI	0.977095
+
+Credit-Card	COF	0.684874
+
+New	KO	0.577993
+
+'s	YHOO	0.552450
+
+Energy	COP	0.537048
+
+'s	LLY	0.513676
+
+Earnings	BBY	0.497028
+
+Fed	PNC	0.460452
+
+US	PEP	0.454800
+
+Gains	BRCM	0.451029
+
+Stocks	VLO	0.446215
+
+U.S.	F	0.411628
+
+U.S.	GE	0.408703
+
+Systems	ADBE	0.408265
+
+Emulex	BRCM	0.401795
+
+stocks	GNW	0.394729
+
+Merck	MRK	0.390892
+
+Boeing	UTX	0.385365
+
+Airlines	BA	0.374035
+
+Paper	IP	-0.816969
+
+US	COP	-0.763511
+
+US	SVU	-0.747012
+
+Friday	M	-0.741557
+
+US	BHI	-0.709844
+
+'s	MRK	-0.685086
+
+Drug	BMY	-0.661574
+
+FDA	ABT	-0.652098
+
+HOT	JNJ	-0.608797
+
+Capital	GE	-0.555845
+
+Power	AEP	-0.536991
+
+Bank	USB	-0.516283
+
+CA	CA	-0.488105
+
+Stocks	TIF	-0.482110
+
+HOT	HUM	-0.481316
+
+Benfield	AON	-0.477927
+
+Electric	AEP	-0.457753
+
+Cos.	LOW	-0.440705
+
+Energy	SE	-0.438749
+
+US	USB	-0.416025
+

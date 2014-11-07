@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.11141
+
+U.S.	AET	0.877186
+
+Rally	AA	0.647383
+
+Stocks	TXN	0.632130
+
+Rise	HD	0.600426
+
+E	PCG	0.562098
+
+Allergan	AGN	0.524097
+
+Data	IBM	0.449283
+
+Ford	F	0.438756
+
+'s	BSX	0.432492
+
+'s	HPQ	0.431296
+
+Akamai	AKAM	0.419856
+
+Volume	CME	0.419411
+
+'s	BLK	0.417806
+
+Retailers	HD	0.410606
+
+Stocks	MMM	0.402451
+
+Amgen	AMGN	0.391950
+
+HOT	RF	0.388953
+
+Stocks	STT	0.358599
+
+Schlumberger	SLB	0.348736
+
+stocks	INTC	-0.908259
+
+$	BSX	-0.899530
+
+stocks	CHK	-0.892744
+
+Discovery	DISCA	-0.870873
+
+'s	AIG	-0.830726
+
+'s	ANF	-0.759635
+
+'s	KBH	-0.744253
+
+Networks	FFIV	-0.664914
+
+Hospira	HSP	-0.649360
+
+US	HOG	-0.633676
+
+Drug	MRK	-0.613500
+
+Grainger	GWW	-0.609971
+
+Gas	APA	-0.577835
+
+Facebook	HPQ	-0.575687
+
+$	YHOO	-0.560305
+
+Kellogg	K	-0.514959
+
+BP	APC	-0.509526
+
+Health	WLP	-0.480036
+
+CA	CA	-0.440223
+
+SanDisk	SNDK	-0.416029
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-1.26896
+
+Stocks	MS	0.812922
+
+Bank	BK	0.764771
+
+New	YHOO	0.624160
+
+Depot	LOW	0.599489
+
+US	LEN	0.549484
+
+Health	AET	0.482917
+
+GameStop	GME	0.480685
+
+Deepwater	RIG	0.473568
+
+Biogen	BIIB	0.441027
+
+US	BUD	0.435636
+
+'s	BLK	0.434725
+
+Retail	TGT	0.430501
+
+Wells	WFC	0.428655
+
+U.S.	X	0.422581
+
+Lauder	EL	0.413132
+
+US	M	0.412228
+
+Up	DRI	0.402230
+
+Credit-Card	AXP	0.392994
+
+EBay	EBAY	0.374979
+
+'s	KBH	-0.917724
+
+Cable	TWX	-0.896525
+
+'s	WEN	-0.860680
+
+New	VZ	-0.586509
+
+Range	RRC	-0.578114
+
+U.S.	GM	-0.563109
+
+U.S.	AA	-0.538776
+
+Stryker	SYK	-0.536106
+
+U.S.	WFC	-0.526184
+
+HOT	HUM	-0.511357
+
+U.S.	APOL	-0.508549
+
+Energy	SE	-0.496462
+
+Gas	XOM	-0.490792
+
+Bristol-Myers	BMY	-0.470702
+
+Life	PRU	-0.456099
+
+Natural	PXD	-0.419452
+
+Medical	STJ	-0.417549
+
+Energy	BTU	-0.415671
+
+Stocks	M	-0.409563
+
+'s	STX	-0.387869
+

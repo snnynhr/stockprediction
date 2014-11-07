@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	1.5051
+
+game	EA	0.778709
+
+sales	EA	0.771234
+
+Field	COP	0.719901
+
+Sector	HES	0.684595
+
+Boston	BSX	0.601938
+
+Morning	F	0.576617
+
+Jabil	JBL	0.573488
+
+Stocks	UNH	0.554217
+
+China	CAT	0.547623
+
+stocks	PRU	0.523421
+
+NRG	NRG	0.481640
+
+Health-Care	UNH	0.434085
+
+'s	INTC	0.431199
+
+Rally	INTC	0.430059
+
+stocks	JDSU	0.422550
+
+HOT	APOL	0.411680
+
+Energy	CHK	0.392355
+
+Fisher	TMO	0.390245
+
+Flights	LUV	0.389694
+
+Energy	APC	-0.832185
+
+drop	CVX	-0.729656
+
+$	PFE	-0.704143
+
+Visa	MA	-0.601488
+
+Stocks	KEY	-0.580833
+
+Manitowoc	MTW	-0.536223
+
+HOT	HUM	-0.536157
+
+after	MU	-0.513633
+
+Food	MDLZ	-0.511678
+
+US	ACN	-0.504709
+
+Discovery	DISCA	-0.504554
+
+$	DOW	-0.472044
+
+Insurers	PRU	-0.468169
+
+China	AIG	-0.454889
+
+Sempra	SRE	-0.441992
+
+SNAPSHOT	WMT	-0.428137
+
+Friday	BBY	-0.403079
+
+Fluor	FLR	-0.393400
+
+Hughes	BHI	-0.386417
+
+EADS	NOC	-0.364583
+

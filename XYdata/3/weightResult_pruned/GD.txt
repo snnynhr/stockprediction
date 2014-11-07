@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.806038
+
+stocks	NYT	0.919308
+
+Stryker	SYK	0.856428
+
+Retailers	M	0.755199
+
+Tullow	APC	0.601538
+
+TNT	FDX	0.596622
+
+U.S.	TRV	0.554037
+
+Eaton	ETN	0.545429
+
+Edison	EIX	0.521608
+
+Drug	BIIB	0.494674
+
+Disney	DIS	0.485171
+
+Credit-Card	COF	0.465665
+
+$	ALL	0.441293
+
+Diamond	DO	0.437739
+
+Apple	NFLX	0.399475
+
+Stocks	CBS	0.393893
+
+EBay	EBAY	0.380055
+
+Management	RSG	0.358943
+
+Home	PHM	0.346706
+
+'s	QCOM	0.345289
+
+New	F	-0.835155
+
+U.S.	BRK.B	-0.743643
+
+Comcast	TWC	-0.732660
+
+HOT	AVP	-0.700955
+
+Morgan	COF	-0.686029
+
+'s	EBAY	-0.676429
+
+US	ICE	-0.654729
+
+$	IBM	-0.622327
+
+Energy	XOM	-0.591878
+
+U.S.	DHI	-0.577881
+
+US	AMP	-0.528609
+
+Market	CME	-0.523021
+
+stocks	MWW	-0.516575
+
+US	AMAT	-0.448936
+
+Coke	KO	-0.440718
+
+Sherwin-Williams	SHW	-0.419410
+
+Auto	F	-0.414253
+
+Gas	XOM	-0.413662
+
+STOCKS	BRCM	-0.413553
+
+Loews	L	-0.395343
+

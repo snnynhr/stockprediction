@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.683176
+
+Energy	BHI	0.938321
+
+'s	BLK	0.860078
+
+'s	SCHW	0.813765
+
+Energy	EIX	0.796994
+
+Tobacco	PM	0.605823
+
+stocks	RIG	0.531494
+
+Nordstrom	JWN	0.524193
+
+Up	M	0.503921
+
+Texas	TXN	0.497729
+
+Lowe	LOW	0.465717
+
+stocks	TXN	0.451272
+
+Aetna	AET	0.450212
+
+FirstEnergy	FE	0.443417
+
+STOCKS	ORCL	0.440953
+
+stocks	CVX	0.401462
+
+Broadcom	BRCM	0.400342
+
+Stocks	HPQ	0.393691
+
+stocks	HAL	0.386437
+
+Net	DFS	0.361358
+
+stocks	CHK	-1.437900
+
+Sector	TXN	-0.694142
+
+Power	PCG	-0.663765
+
+$	MRO	-0.642728
+
+Up	JNJ	-0.559684
+
+Apple	DIS	-0.534639
+
+Deal	TWX	-0.528881
+
+ConAgra	CAG	-0.526836
+
+'s	BBY	-0.490583
+
+Qualcomm	BRCM	-0.447723
+
+US	RAI	-0.445146
+
+Stocks	WMT	-0.402372
+
+Gas	CVX	-0.401326
+
+FDA	ABT	-0.391668
+
+HOT	JNJ	-0.378336
+
+Tesoro	TSO	-0.365684
+
+Red	RHT	-0.360034
+
+Applied	AMAT	-0.357784
+
+Gulf	XOM	-0.357245
+
+Energy	SE	-0.345124
+

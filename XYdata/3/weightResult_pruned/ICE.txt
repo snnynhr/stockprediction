@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.545919
+
+Stocks	UNH	1.087800
+
+Study	MDT	0.692068
+
+telecoms	QCOM	0.677812
+
+Stocks	GNW	0.638536
+
+D.R.	DHI	0.633013
+
+'s	ADBE	0.557687
+
+Technologies	UTX	0.501313
+
+Plavix	BMY	0.496074
+
+Allergan	AGN	0.491828
+
+'s	VLO	0.486758
+
+Nasdaq	NVDA	0.473132
+
+Retail	ANF	0.443980
+
+Estee	EL	0.421486
+
+Deere	DE	0.420114
+
+Black	TGT	0.416753
+
+VF	VFC	0.393486
+
+State	STT	0.392165
+
+Apple	T	0.385895
+
+stocks	VLO	0.384880
+
+'s	CSX	-1.157970
+
+Stocks	DE	-0.916137
+
+Cancer	PFE	-0.752065
+
+Texas	VLO	-0.693375
+
+Stocks	FSLR	-0.651190
+
+Microchip	MCHP	-0.644799
+
+Banks	BBT	-0.609941
+
+ConocoPhillips	COP	-0.581970
+
+Transocean	RIG	-0.571671
+
+STOCKS	HPQ	-0.565229
+
+Comcast	CMCSA	-0.552358
+
+Stocks	M	-0.548748
+
+Banks	WFC	-0.517477
+
+'s	ORCL	-0.480029
+
+Plan	NDAQ	-0.439580
+
+HOT	T	-0.437145
+
+New	TWX	-0.413422
+
+Deal	NDAQ	-0.390888
+
+Mortgage	MTG	-0.387555
+
+Stocks	CAT	-0.386536
+

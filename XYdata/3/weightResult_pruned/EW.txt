@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.448027
+
+U.S.	X	0.971761
+
+stocks	ANF	0.552280
+
+'s	ORCL	0.545062
+
+US	MDLZ	0.469665
+
+Transocean	RIG	0.450279
+
+HOT	PLL	0.423359
+
+$	EMC	0.422197
+
+Weatherford	WFT	0.419982
+
+Lilly	LLY	0.419142
+
+$	ORCL	0.384815
+
+US	AET	0.383655
+
+SEC	MCO	0.377890
+
+Car	F	0.376772
+
+Moody	MCO	0.334526
+
+Earnings	BBY	0.333869
+
+Up	MDLZ	0.308217
+
+'s	ANF	0.306482
+
+ADP	ADP	0.304792
+
+Coca-Cola	KO	0.282634
+
+STOCKS	STX	-0.792695
+
+$	CHK	-0.791131
+
+Stocks	HRB	-0.697382
+
+Wal-Mart	KSS	-0.624683
+
+Energy	APC	-0.564043
+
+Stocks	KLAC	-0.486752
+
+'s	XRX	-0.473732
+
+Stocks	KEY	-0.459701
+
+Bank	HBAN	-0.456675
+
+Stocks	PG	-0.431747
+
+Drug	JNJ	-0.392512
+
+Dollar	FDO	-0.387474
+
+Office	ODP	-0.373741
+
+Stocks	FSLR	-0.355237
+
+Sprint	T	-0.351126
+
+U.S.	CSX	-0.343736
+
+Alico	MET	-0.343415
+
+'s	AIG	-0.314213
+
+Warner	TWC	-0.314204
+
+Wal-Mart	TGT	-0.307151
+

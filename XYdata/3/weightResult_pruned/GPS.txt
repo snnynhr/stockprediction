@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.813043
+
+'s	ABT	1.055660
+
+stocks	HAL	0.920474
+
+Bottling	PEP	0.834007
+
+DHL	FDX	0.628753
+
+stocks	RF	0.570735
+
+Cigna	CI	0.569669
+
+Aon	AON	0.543008
+
+Retail	M	0.513583
+
+STOCKS	JNPR	0.480473
+
+United	UTX	0.475223
+
+U.S.	F	0.454002
+
+stocks	M	0.422737
+
+Viacom	VIAB	0.417942
+
+'s	NFLX	0.405887
+
+Costco	COST	0.405515
+
+Danaher	DHR	0.402705
+
+UBS	BLK	0.398525
+
+HOT	GM	0.392114
+
+'s	BLK	0.389997
+
+Health	WAG	-1.001740
+
+'s	NYT	-0.780230
+
+Stocks	ORCL	-0.752859
+
+'s	WAG	-0.746086
+
+City	VLO	-0.692082
+
+'s	SBUX	-0.620764
+
+Storage	PSA	-0.614322
+
+Circuit	JBL	-0.595605
+
+stocks	AKS	-0.590852
+
+Fitch	ANF	-0.571375
+
+Stocks	HBAN	-0.556751
+
+U.S.	MMM	-0.547053
+
+Xerox	XRX	-0.542012
+
+Yahoo	ADSK	-0.530064
+
+stocks	CHK	-0.522108
+
+Sales	WMT	-0.468696
+
+Friday	BBY	-0.450336
+
+'s	KR	-0.431030
+
+Sales	GME	-0.427587
+
+Drugs	ABT	-0.402729
+

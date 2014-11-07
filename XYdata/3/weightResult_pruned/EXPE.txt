@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.564327
+
+Friday	SHLD	1.101960
+
+Exxon	MRO	0.905669
+
+Up	CSX	0.830991
+
+St	STJ	0.708474
+
+Chips	AMD	0.685808
+
+Salesforce.com	CRM	0.618652
+
+Credit-Card	COF	0.573142
+
+'s	LLY	0.551394
+
+stocks	BMY	0.539419
+
+Energy	BHI	0.508352
+
+Retailers	M	0.496915
+
+Tenet	THC	0.494358
+
+Banks	USB	0.494032
+
+Aon	AON	0.493319
+
+stocks	CSCO	0.471726
+
+Chip	AMD	0.453213
+
+BorgWarner	BWA	0.452737
+
+$	KEY	0.451832
+
+Costco	COST	0.442009
+
+Martin	LMT	-1.158130
+
+Resources	RRC	-0.820787
+
+New	PEP	-0.798165
+
+Gas	HES	-0.753705
+
+Net	M	-0.668824
+
+Agrium	CF	-0.585182
+
+Deal	DOW	-0.540493
+
+HOT	NTAP	-0.537006
+
+Prudential	PRU	-0.499212
+
+Chip	BRCM	-0.497974
+
+China	AA	-0.496718
+
+Gold	NEM	-0.496100
+
+'s	EMC	-0.478822
+
+Macy	M	-0.469631
+
+Microsoft	EBAY	-0.454859
+
+Juniper	JNPR	-0.444535
+
+$	OXY	-0.439937
+
+Colgate-Palmolive	CL	-0.428488
+
+Bancorp	USB	-0.421879
+
+Gap	GPS	-0.408205
+

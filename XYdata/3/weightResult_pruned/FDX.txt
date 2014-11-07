@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.109209
+
+VMware	EMC	1.013980
+
+stocks	CSCO	0.832709
+
+Oil	HES	0.788634
+
+Expeditors	EXPD	0.695101
+
+$	V	0.684429
+
+Trading	NVDA	0.679758
+
+GameStop	GME	0.676416
+
+Retail	TGT	0.649394
+
+Retail	ANF	0.604182
+
+Stock	BRK.B	0.597061
+
+stocks	NVDA	0.476267
+
+U.S.	NOC	0.465864
+
+Coca-Cola	KO	0.457194
+
+Shares	EA	0.445432
+
+NetApp	NTAP	0.429390
+
+BP	HAL	0.412097
+
+HOT	APOL	0.408554
+
+Ford	F	0.402289
+
+Exelon	EXC	0.402061
+
+QCOM	QCOM	-1.312180
+
+stocks	INTC	-1.073960
+
+Profit	HD	-0.865075
+
+Hospira	HSP	-0.709127
+
+Goldman	STT	-0.686872
+
+Cancer	BMY	-0.684568
+
+York	NYT	-0.555144
+
+$	LNC	-0.550295
+
+Coffee	SBUX	-0.549158
+
+'s	EMC	-0.544342
+
+Ingersoll-Rand	IR	-0.528480
+
+Stocks	RSH	-0.504138
+
+US	UTX	-0.494787
+
+Seagate	STX	-0.485762
+
+Networks	JNPR	-0.447358
+
+NBC	CMCSA	-0.424300
+
+CF	CF	-0.416568
+
+'s	AET	-0.382698
+
+Stocks	KEY	-0.379343
+
+Drug	LLY	-0.361660
+

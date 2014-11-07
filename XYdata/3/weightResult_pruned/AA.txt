@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.932304
+
+Nucor	NUE	0.775388
+
+Traffic	LUV	0.718914
+
+'s	COH	0.657109
+
+Stocks	AXP	0.635397
+
+Products	APD	0.625079
+
+'s	JWN	0.471744
+
+Hartford	HIG	0.470785
+
+U.S.	CRM	0.452981
+
+US	APC	0.442755
+
+Bank	WFC	0.439911
+
+Bank	PNC	0.432363
+
+Tech	SNDK	0.417193
+
+CEO	DUK	0.412050
+
+Earnings	IBM	0.402458
+
+Home	PHM	0.389803
+
+Nokia	CIEN	0.387728
+
+Heinz	BRK.B	0.382323
+
+Cardinal	CAH	0.375438
+
+US	NSC	0.371193
+
+Qualcomm	BRCM	-0.878883
+
+tech	NVDA	-0.875769
+
+Scientific	BSX	-0.839032
+
+Buy	MET	-0.828047
+
+Stocks	WAG	-0.780708
+
+ConAgra	CAG	-0.753431
+
+Futures	ICE	-0.751977
+
+Stocks	MRK	-0.662317
+
+tech	ORCL	-0.647581
+
+Billabong	VFC	-0.624118
+
+Northrop	NOC	-0.604703
+
+'s	WLP	-0.599627
+
+stocks	FSLR	-0.597544
+
+Banks	HBAN	-0.573798
+
+Stocks	MDLZ	-0.551000
+
+Oil	SLB	-0.541252
+
+stocks	XOM	-0.537894
+
+Norfolk	NSC	-0.514352
+
+US	ABT	-0.503277
+
+HOT	HIG	-0.499150
+

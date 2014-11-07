@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.318176
+
+stocks	NTAP	1.492150
+
+Dow	CAT	0.666806
+
+Jabil	JBL	0.651398
+
+stocks	NVDA	0.597780
+
+Ethanol	ADM	0.590242
+
+Tenet	THC	0.576733
+
+Banks	PNC	0.535985
+
+Early	M	0.532020
+
+Refinery	CVX	0.531662
+
+Oracle	TDC	0.529981
+
+Stocks	ADP	0.515081
+
+NRG	NRG	0.476127
+
+Zions	ZION	0.473917
+
+Interest	NDAQ	0.468617
+
+Car	F	0.465493
+
+HOT	PG	0.463379
+
+Baxter	BAX	0.399317
+
+Ad	GCI	0.354462
+
+Retailers	GPS	0.349604
+
+Insurers	PRU	-0.803399
+
+Google	YHOO	-0.778887
+
+Tech	EMC	-0.693100
+
+Profit	CI	-0.599948
+
+Baker	BHI	-0.552001
+
+Ambac	MBI	-0.547598
+
+CME	CME	-0.546959
+
+Temple-Inland	IP	-0.509701
+
+WellPoint	WLP	-0.482995
+
+Corp.	CCL	-0.477724
+
+American	AEP	-0.477335
+
+'s	CHK	-0.476940
+
+Techs	AMD	-0.456954
+
+Retail	KSS	-0.456138
+
+U.S.	CAT	-0.429074
+
+Boeing	LMT	-0.428598
+
+'s	FDX	-0.424274
+
+Yahoo	ADSK	-0.414985
+
+'s	GCI	-0.412290
+
+Aflac	AFL	-0.411834
+

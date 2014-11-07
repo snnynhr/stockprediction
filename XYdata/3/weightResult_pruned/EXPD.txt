@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.320074
+
+Retail	TGT	1.183120
+
+Morgan	KMI	0.802507
+
+stocks	NVDA	0.583114
+
+GameStop	GME	0.580893
+
+Stocks	TGT	0.544695
+
+US	WYNN	0.539948
+
+Rig	RIG	0.539565
+
+stocks	TSO	0.522332
+
+US	ALTR	0.522329
+
+Bristol-Myers	BMY	0.473947
+
+$	EXC	0.466613
+
+Stocks	CSX	0.439288
+
+Delta	LUV	0.426596
+
+Rally	INTC	0.419147
+
+Dow	AA	0.410957
+
+STOCKS	ORCL	0.395776
+
+Tiffany	TIF	0.374850
+
+Investors	AA	0.365266
+
+Pulte	PHM	0.361524
+
+'s	CVC	-0.783152
+
+stocks	RF	-0.728492
+
+Airlines	LUV	-0.599157
+
+'s	TRV	-0.564743
+
+'s	LM	-0.549559
+
+'s	FDO	-0.513355
+
+Power	PCG	-0.510293
+
+Hershey	HSY	-0.496060
+
+Stocks	INTC	-0.467016
+
+Verizon	VZ	-0.433715
+
+AMD	AMD	-0.424583
+
+$	HES	-0.398138
+
+Zimmer	ZMH	-0.396167
+
+Interpublic	IPG	-0.387030
+
+'s	PRU	-0.381145
+
+Temple-Inland	IP	-0.375766
+
+Wal-Mart	TGT	-0.369767
+
+Heart	MDT	-0.365881
+
+ING	COF	-0.365455
+
+Qualcomm	BRCM	-0.350562
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.224738
+
+stocks	AIG	1.143380
+
+Bank	WFC	1.135330
+
+United	UTX	0.832866
+
+Power	ETR	0.784433
+
+'s	RSH	0.728221
+
+U.S.	CHK	0.693948
+
+Power	FE	0.635552
+
+H-P	EMC	0.573895
+
+Cigna	CI	0.535097
+
+BP	HAL	0.530832
+
+Volume	CME	0.501738
+
+Refinery	MRO	0.484296
+
+Anadarko	APC	0.448952
+
+Pipeline	SE	0.430618
+
+New	YHOO	0.427664
+
+Brazil	HES	0.426451
+
+Cablevision	CVC	0.354779
+
+Tenet	THC	0.343043
+
+Energy	VLO	0.338396
+
+HOT	CI	-1.284040
+
+'s	CHK	-0.639150
+
+Apple	INTC	-0.602939
+
+Celgene	CELG	-0.566730
+
+CEO	CMCSA	-0.553596
+
+Up	BBY	-0.528992
+
+Gap	GPS	-0.527287
+
+Gas	XOM	-0.484462
+
+Bank	RF	-0.484298
+
+Shares	PCLN	-0.482789
+
+Stocks	KBH	-0.479011
+
+Sector	TXN	-0.472300
+
+Supervalu	SVU	-0.449303
+
+Medtronic	MDT	-0.420445
+
+Stocks	FSLR	-0.416687
+
+$	WFC	-0.391885
+
+Noble	NBL	-0.387351
+
+Stocks	LO	-0.374327
+
+Up	M	-0.373018
+
+Monster	MWW	-0.364914
+

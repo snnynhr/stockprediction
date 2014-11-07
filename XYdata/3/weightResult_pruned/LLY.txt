@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.603962
+
+Vornado	VNO	0.882407
+
+Media	VIAB	0.793453
+
+Apache	APA	0.708547
+
+U.S.	XOM	0.590555
+
+Delta	LUV	0.568386
+
+Edison	EIX	0.553131
+
+HOT	WLP	0.510787
+
+Exxon	COP	0.508584
+
+Stocks	MCD	0.507387
+
+US	BAX	0.493778
+
+Stocks	MAT	0.485895
+
+Plant	VLO	0.480639
+
+Dow	CVX	0.475374
+
+stocks	MU	0.468766
+
+US	SHLD	0.423634
+
+Netflix	TWX	0.418238
+
+Bank	COF	0.378323
+
+Stocks	ADP	0.358655
+
+'s	WFC	0.358356
+
+CarMax	KMX	-0.998667
+
+Natural	APC	-0.994258
+
+'s	KBH	-0.968650
+
+Boston	ABT	-0.928483
+
+'s	F	-0.701285
+
+Stocks	KLAC	-0.679911
+
+BP	COP	-0.649659
+
+Builders	KBH	-0.602787
+
+Stocks	SLM	-0.555563
+
+Stocks	SBUX	-0.543911
+
+Altria	MO	-0.539113
+
+Wal-Mart	HD	-0.532704
+
+'s	CI	-0.525447
+
+stocks	GNW	-0.512107
+
+Stocks	SHLD	-0.493611
+
+Energy	HAL	-0.482479
+
+Mortgage	GNW	-0.472185
+
+CenturyTel	CTL	-0.444067
+
+Techs	NVDA	-0.425878
+
+$	TSO	-0.416009
+

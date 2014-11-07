@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.617856
+
+Gains	TXN	0.879669
+
+T-Mobile	T	0.803784
+
+gains	EMC	0.708980
+
+'s	COST	0.690742
+
+Up	KO	0.672728
+
+Whirlpool	WHR	0.516860
+
+Humana	HUM	0.479709
+
+Stock	BRK.B	0.469812
+
+'s	CME	0.455218
+
+'s	BSX	0.399468
+
+Discover	DFS	0.382735
+
+Financial	DFS	0.368276
+
+Stocks	URBN	0.365236
+
+HOT	MRK	0.338066
+
+Merck	MRK	0.322290
+
+TNT	UPS	0.316856
+
+US	CLX	0.297077
+
+Penney	JCP	0.274012
+
+Dow	DOW	0.271383
+
+gains	NFLX	-1.627260
+
+Fall	AA	-0.952978
+
+Gas	COP	-0.676471
+
+Stocks	BRK.B	-0.675445
+
+Conoco	COP	-0.483920
+
+Airways	LUV	-0.478977
+
+Stocks	DE	-0.451832
+
+Deal	COF	-0.442626
+
+US	SYMC	-0.441157
+
+Sector	TXN	-0.440869
+
+US	SVU	-0.436827
+
+Stocks	BRCM	-0.434759
+
+FDA	BMY	-0.409478
+
+Noble	NBL	-0.407158
+
+U.S.	AA	-0.379797
+
+'s	DIS	-0.368315
+
+Friday	JCP	-0.364026
+
+US	NWL	-0.362408
+
+Verizon	VZ	-0.343147
+
+IPO	V	-0.337535
+

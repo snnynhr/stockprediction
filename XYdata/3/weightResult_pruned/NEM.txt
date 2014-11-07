@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.164517
+
+Stocks	STT	0.879716
+
+Net	LOW	0.704633
+
+Stocks	SBUX	0.660375
+
+Viacom	VIAB	0.604526
+
+Banks	BAC	0.596720
+
+Deal	FTR	0.565958
+
+Prudential	PRU	0.556637
+
+US	CHK	0.554751
+
+Housing	HD	0.517465
+
+Higher	COST	0.484760
+
+CVS	WAG	0.482904
+
+Stocks	MDT	0.473008
+
+Stocks	VLO	0.467941
+
+Danaher	DHR	0.459274
+
+Honeywell	HON	0.457139
+
+E*Trade	ETFC	0.441230
+
+Devon	DVN	0.436177
+
+Nuclear	ETR	0.435959
+
+Deere	DE	0.408856
+
+Hess	HES	-0.733386
+
+U.S.	GPS	-0.628724
+
+Oil	CHK	-0.595829
+
+U.S.	UTX	-0.587142
+
+US	ORCL	-0.574157
+
+Chip	BRCM	-0.573070
+
+US	VLO	-0.570253
+
+Apple	YHOO	-0.533965
+
+Brazil	CVX	-0.530368
+
+Hartford	HIG	-0.500348
+
+NYSE	CME	-0.497019
+
+Marathon	MRO	-0.494950
+
+Stocks	INTC	-0.494087
+
+stocks	BMY	-0.486104
+
+Oil	APA	-0.470717
+
+'s	USB	-0.442661
+
+Medical	ABT	-0.438459
+
+Steel	X	-0.428322
+
+Media	VIA	-0.374393
+
+US	KBH	-0.372573
+

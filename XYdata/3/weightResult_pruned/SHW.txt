@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.202661
+
+ING	COF	0.929910
+
+Stocks	KO	0.826758
+
+Wireless	T	0.670108
+
+Stocks	CNX	0.577946
+
+Hormel	HRL	0.569424
+
+ICE	ICE	0.546063
+
+SunTrust	STI	0.542260
+
+Alico	MET	0.534556
+
+Traffic	LUV	0.528959
+
+Emerson	EMR	0.500054
+
+Profit	MO	0.491827
+
+US	CSX	0.481553
+
+Property	SPG	0.464152
+
+US	TIF	0.437537
+
+Delta	LUV	0.420440
+
+Stocks	MCD	0.412490
+
+TECH	AMD	0.409794
+
+Warning	UNH	0.384405
+
+Facebook	WFC	0.381122
+
+Icahn	BIIB	-0.672092
+
+$	OXY	-0.635588
+
+after	TXN	-0.625121
+
+Stock	UPS	-0.620236
+
+FDA	MRK	-0.587068
+
+US	ADSK	-0.579022
+
+Cancer	JNJ	-0.575802
+
+Net	L	-0.557735
+
+Foods	TSN	-0.518732
+
+Stocks	DE	-0.499082
+
+FDA	PFE	-0.494016
+
+Amazon	AMZN	-0.489515
+
+U.S.	MAR	-0.483189
+
+'s	KBH	-0.470627
+
+Duke	DUK	-0.419851
+
+'s	EBAY	-0.409990
+
+Buy	X	-0.380739
+
+J	ABT	-0.375356
+
+Staples	SPLS	-0.373756
+
+Kellogg	K	-0.373608
+

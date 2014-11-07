@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.950786
+
+Regional	FITB	0.667154
+
+BNY	BK	0.614714
+
+Oil	APA	0.599869
+
+Smucker	SJM	0.582106
+
+U.S.	RF	0.571100
+
+US	M	0.538748
+
+$	EXC	0.525255
+
+Morgan	RF	0.516191
+
+Moody	MCO	0.457036
+
+Morgan	MS	0.455083
+
+Shale	CHK	0.440267
+
+Dow	AXP	0.438000
+
+Google	TWX	0.437559
+
+'s	VIAB	0.433289
+
+stocks	APC	0.418655
+
+Stocks	STZ	0.412367
+
+Tenet	THC	0.407954
+
+U.S.	MA	0.401773
+
+Up	HAS	0.366230
+
+Southwestern	SWN	-1.089170
+
+Data	NTAP	-0.638782
+
+Noble	NBL	-0.605672
+
+'s	CHK	-0.603557
+
+Apple	ORCL	-0.599503
+
+Genentech	BIIB	-0.590248
+
+Tysabri	BIIB	-0.545718
+
+Stocks	MU	-0.531997
+
+'s	DFS	-0.526617
+
+US	BTU	-0.522123
+
+PayPal	EBAY	-0.520659
+
+Asset	TROW	-0.514688
+
+stocks	AA	-0.480486
+
+Tumblr	YHOO	-0.435612
+
+Chevron	XOM	-0.427621
+
+'s	AA	-0.423311
+
+US	CAT	-0.417296
+
+Bank	RF	-0.397120
+
+HOT	JDSU	-0.396314
+
+Coal	BTU	-0.394823
+

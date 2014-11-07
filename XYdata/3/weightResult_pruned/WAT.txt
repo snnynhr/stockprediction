@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.102686
+
+Stocks	PHM	1.152700
+
+stocks	NVDA	0.997608
+
+Options	NDAQ	0.697651
+
+'s	BSX	0.678572
+
+BorgWarner	BWA	0.638383
+
+Dow	MCD	0.590014
+
+Stocks	AXP	0.508684
+
+Duke	DUK	0.502342
+
+Zions	ZION	0.492578
+
+Citi	AXP	0.472424
+
+'s	AXP	0.457168
+
+Up	WAG	0.451084
+
+Morgan	MS	0.445310
+
+Retailers	HD	0.432194
+
+Bank	USB	0.421460
+
+Oil	HES	0.415523
+
+Berkshire	BRK.B	0.412196
+
+Ecolab	ECL	0.379985
+
+Earnings	BBY	0.375244
+
+Heparin	BAX	-0.906590
+
+'s	MMM	-0.813375
+
+Banks	HBAN	-0.795230
+
+$	AMD	-0.763333
+
+Stocks	STX	-0.554678
+
+Coach	COH	-0.550806
+
+Netflix	DIS	-0.548105
+
+Hughes	BHI	-0.544374
+
+US	ICE	-0.539887
+
+Sales	M	-0.535768
+
+Boeing	NOC	-0.530070
+
+Drug	CVS	-0.523991
+
+STOCKS	YHOO	-0.487617
+
+Energy	APC	-0.481467
+
+Marsh	MMC	-0.415148
+
+Oil	APC	-0.413304
+
+Tysabri	BIIB	-0.411647
+
+Spill	RIG	-0.406564
+
+Coffee	SBUX	-0.393529
+
+Xerox	XRX	-0.391498
+

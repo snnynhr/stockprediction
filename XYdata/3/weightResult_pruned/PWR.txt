@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.104815
+
+Energy	VLO	0.779380
+
+Retailers	TJX	0.690236
+
+Retailers	COST	0.638098
+
+EA	EA	0.599136
+
+'s	AGN	0.563459
+
+Berkshire	BRK.B	0.547852
+
+stocks	CSCO	0.501770
+
+HOT	FSLR	0.457167
+
+Airgas	ARG	0.456975
+
+NYSE	CME	0.441791
+
+US	EBAY	0.417708
+
+energy	CVX	0.377383
+
+HOT	MRK	0.353731
+
+Coal	BTU	0.352646
+
+Pulte	PHM	0.342089
+
+Dow	DOW	0.308480
+
+Banks	KEY	0.290699
+
+Refinery	LYB	0.285345
+
+Chip	AMD	0.280417
+
+US	DE	-0.761056
+
+'s	WLP	-0.674530
+
+'s	ANF	-0.629142
+
+Sales	GM	-0.598921
+
+Whirlpool	WHR	-0.521378
+
+Retail	M	-0.495594
+
+US	BSX	-0.478224
+
+'s	PCLN	-0.428505
+
+VF	VFC	-0.426968
+
+AMD	INTC	-0.422716
+
+Monster	MWW	-0.407634
+
+U.S.	AA	-0.404006
+
+U.S.	SBUX	-0.388842
+
+Tobacco	LO	-0.363086
+
+Buy	XOM	-0.352703
+
+Stocks	MRK	-0.352307
+
+Medtronic	MDT	-0.348893
+
+Priceline.com	PCLN	-0.345055
+
+Johnson	JNJ	-0.344848
+
+Occidental	OXY	-0.344530
+

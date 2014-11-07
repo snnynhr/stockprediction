@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	1.50551
+
+Insurers	MBI	0.919812
+
+Friday	TGT	0.634595
+
+'s	T	0.476713
+
+Works	ITW	0.465468
+
+U.S.	ADM	0.453384
+
+Penney	M	0.434322
+
+Stocks	QCOM	0.417803
+
+Stanley	MS	0.411587
+
+Stocks	HD	0.406278
+
+BP	HAL	0.356846
+
+Caterpillar	CAT	0.347370
+
+Stocks	UNH	0.335184
+
+Coca-Cola	KO	0.328936
+
+Rise	AMD	0.327058
+
+EA	EA	0.318693
+
+Electric	EMR	0.312018
+
+Futures	AA	0.307100
+
+Gains	TXN	0.302703
+
+Disney	DIS	0.293327
+
+Networks	JNPR	-1.305050
+
+'s	YHOO	-0.941144
+
+Stocks	MRK	-0.928341
+
+Stock	AET	-0.863901
+
+Amazon	AMZN	-0.743295
+
+Xilinx	XLNX	-0.719394
+
+US	CME	-0.630706
+
+City	VLO	-0.621264
+
+Lennar	LEN	-0.609250
+
+Shares	NVDA	-0.608642
+
+BP	APC	-0.607922
+
+Media	NFLX	-0.600886
+
+Buy	EMC	-0.591858
+
+Stocks	SLM	-0.583609
+
+Qimonda	MU	-0.551335
+
+Temple-Inland	IP	-0.539190
+
+FAA	LUV	-0.531885
+
+ConAgra	CAG	-0.528372
+
+US	TXN	-0.525086
+
+Southwestern	SWN	-0.498872
+

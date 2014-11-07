@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.494943
+
+Rise	AA	0.995948
+
+Exchanges	NDAQ	0.802050
+
+stocks	NVDA	0.783559
+
+Salesforce.com	CRM	0.696472
+
+US	LEN	0.693827
+
+1Q	LOW	0.664151
+
+Ford	F	0.598172
+
+Buy	AON	0.549903
+
+Tyson	TSN	0.537742
+
+Gains	TXN	0.497416
+
+'s	VIAB	0.443108
+
+US	VLO	0.426669
+
+Stocks	WLP	0.419999
+
+Pacific	UNP	0.409655
+
+SEC	MCO	0.407899
+
+PNC	PNC	0.405572
+
+HOT	HRB	0.401083
+
+Financial	TRV	0.395321
+
+Stock	BRK.B	0.391513
+
+Financials	HIG	-1.127880
+
+Hospira	HSP	-0.947027
+
+'s	WMT	-0.736135
+
+'s	NFLX	-0.641609
+
+Warner	TWC	-0.637363
+
+Heparin	BAX	-0.580345
+
+Fluor	FLR	-0.506688
+
+Chubb	CB	-0.500524
+
+'s	CSCO	-0.493421
+
+Marriott	MAR	-0.486450
+
+US	CPB	-0.479980
+
+NRG	NRG	-0.474005
+
+Lennar	LEN	-0.457157
+
+EMC	EMC	-0.448838
+
+Stocks	AA	-0.436354
+
+Wal-Mart	M	-0.424969
+
+Seagate	STX	-0.422802
+
+Legg	LM	-0.404511
+
+US	CME	-0.391341
+
+Qualcomm	QCOM	-0.384604
+

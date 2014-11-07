@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.370568
+
+stocks	AKAM	1.217020
+
+'s	BLK	1.060380
+
+Refinery	CVX	0.786233
+
+Stocks	PHM	0.719446
+
+Stocks	MCD	0.677729
+
+Stock	FITB	0.611073
+
+'s	TXN	0.543870
+
+Lexmark	LXK	0.505438
+
+Drug	BIIB	0.478083
+
+Morning	WMT	0.413358
+
+Stocks	MU	0.401702
+
+Home	PHM	0.399954
+
+Insurers	AET	0.399873
+
+'s	AXP	0.391972
+
+US	M	0.377789
+
+Gamble	PG	0.375038
+
+Stanley	MS	0.371453
+
+Delta	LUV	0.362231
+
+'s	MET	0.358725
+
+Up	CPB	-1.475570
+
+Stocks	WAG	-0.918657
+
+Airlines	LUV	-0.788809
+
+US	AMP	-0.778681
+
+Net	M	-0.742132
+
+Ameritrade	SCHW	-0.557541
+
+Tysabri	BIIB	-0.538773
+
+stocks	CHK	-0.507416
+
+Pepper	DPS	-0.497460
+
+Harman	HAR	-0.479204
+
+Office	ODP	-0.476620
+
+U.S.	TSN	-0.465800
+
+Shares	NVDA	-0.464131
+
+New	F	-0.457237
+
+stocks	CVX	-0.426244
+
+US	NFLX	-0.413877
+
+$	BRCM	-0.406637
+
+$	WFC	-0.397676
+
+J	BSX	-0.394532
+
+stocks	INTC	-0.363895
+

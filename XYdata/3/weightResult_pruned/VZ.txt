@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.408043
+
+Rockwell	ROK	0.862163
+
+1Q	LOW	0.746391
+
+Gas	EOG	0.729965
+
+New	YHOO	0.625554
+
+Stocks	FCX	0.620455
+
+U.S.	CSCO	0.523285
+
+$	COF	0.489173
+
+US	GPS	0.474038
+
+Earnings	BBY	0.466737
+
+HOT	MA	0.437667
+
+AIG	MET	0.436309
+
+'s	NVDA	0.426618
+
+Apollo	APOL	0.423006
+
+VeriSign	VRSN	0.419555
+
+Hess	HES	0.419068
+
+Exelon	EXC	0.409746
+
+Comcast	CMCSA	0.393008
+
+Chesapeake	CHK	0.379733
+
+Health	UNH	0.362052
+
+Energy	FSLR	-0.651258
+
+Citrix	CTXS	-0.628864
+
+Life	PRU	-0.604588
+
+Insurers	HIG	-0.586103
+
+stocks	BTU	-0.490135
+
+Juniper	JNPR	-0.478698
+
+Gilead	GILD	-0.470970
+
+Sprint	T	-0.465309
+
+Gap	GPS	-0.458415
+
+Stocks	M	-0.442538
+
+Trust	NTRS	-0.440809
+
+Schwab	SCHW	-0.434691
+
+Ralcorp	CAG	-0.411551
+
+Media	NFLX	-0.407328
+
+Stocks	COH	-0.403553
+
+'s	TWC	-0.399427
+
+P	BRK.B	-0.394972
+
+US	AKS	-0.391442
+
+Abercrombie	ANF	-0.380397
+
+Tech	IBM	-0.369536
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.178606
+
+Retail	ANF	0.632038
+
+Tobacco	MO	0.557351
+
+Oilwell	NOV	0.555702
+
+Energy	VLO	0.538987
+
+US	AA	0.527939
+
+EU	MCO	0.483149
+
+Dividend	KEY	0.482817
+
+Stocks	ADI	0.474651
+
+CEO	EBAY	0.465861
+
+Apple	AMZN	0.458358
+
+Stocks	GNW	0.436755
+
+Bard	BCR	0.410963
+
+Safeway	SWY	0.404489
+
+Oil	HES	0.402278
+
+Weyerhaeuser	WY	0.402122
+
+Sales	TIF	0.401855
+
+U.S.	EXC	0.386905
+
+MGIC	MTG	0.385320
+
+First	FSLR	0.379838
+
+Hospira	HSP	-0.947163
+
+Rambus	MU	-0.875347
+
+US	ICE	-0.664249
+
+Gulf	APC	-0.624028
+
+KB	KBH	-0.616372
+
+stocks	JNPR	-0.595510
+
+Norfolk	NSC	-0.533120
+
+HOT	HUM	-0.529002
+
+Textron	TXT	-0.501468
+
+'s	EBAY	-0.476576
+
+Cisco	CSCO	-0.474337
+
+stocks	CHK	-0.469183
+
+STOCKS	BRCM	-0.453689
+
+Lorillard	LO	-0.434998
+
+US	AMP	-0.425257
+
+Tech	EMC	-0.416308
+
+Las	WYNN	-0.415934
+
+Aetna	AET	-0.414162
+
+Lukoil	COP	-0.410722
+
+Stocks	M	-0.407161
+

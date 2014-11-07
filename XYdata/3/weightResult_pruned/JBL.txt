@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.575429
+
+CEO	PFE	0.657205
+
+stocks	HAL	0.603174
+
+Insurers	HIG	0.571779
+
+U.S.	MRK	0.555469
+
+Health	HUM	0.539084
+
+Eaton	ETN	0.536324
+
+Gas	CHK	0.527677
+
+Alibaba	YHOO	0.516324
+
+Earnings	AMD	0.510275
+
+Group	CME	0.510029
+
+Smucker	SJM	0.507036
+
+Stocks	NEM	0.506069
+
+Disney	DIS	0.481763
+
+F5	FFIV	0.472821
+
+Gains	AMD	0.468810
+
+stocks	NVDA	0.455263
+
+Block	HRB	0.435961
+
+Baxter	BAX	0.422557
+
+Stocks	BMY	0.419651
+
+July	COST	-1.197870
+
+Harley-Davidson	HOG	-0.914408
+
+US	PNC	-0.669492
+
+Coffee	SBUX	-0.648388
+
+Power	SRE	-0.625059
+
+Expectations	M	-0.621793
+
+'s	MDT	-0.618575
+
+Fall	AMD	-0.618213
+
+Stocks	MU	-0.594837
+
+'s	KBH	-0.591727
+
+Aon	AON	-0.577254
+
+Paso	KMI	-0.513855
+
+Exelon	NRG	-0.501190
+
+Lilly	BMY	-0.474995
+
+STOCKS	KLAC	-0.473082
+
+FDA	LLY	-0.459096
+
+PetSmart	PETM	-0.412300
+
+'s	ADSK	-0.410387
+
+stocks	CHK	-0.403285
+
+$	COP	-0.368779
+

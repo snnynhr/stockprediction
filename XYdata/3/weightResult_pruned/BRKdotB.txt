@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.210433
+
+Stocks	TXN	1.068530
+
+Janus	JNS	0.946141
+
+Apple	NFLX	0.928983
+
+US	PFE	0.803812
+
+STOCKS	SYMC	0.611071
+
+CEO	DUK	0.574610
+
+Qualcomm	QCOM	0.464841
+
+Drug	GILD	0.463952
+
+HOT	RF	0.425799
+
+stocks	AIG	0.422259
+
+Retailers	GPS	0.385557
+
+Airline	LUV	0.380608
+
+Allergan	AGN	0.370652
+
+US	RF	0.362990
+
+Tyson	TSN	0.352410
+
+PepsiCo	PEP	0.335541
+
+Dow	CAT	0.326105
+
+US	YUM	0.317400
+
+Earnings	BBY	0.305020
+
+Apple	TXN	-1.040320
+
+Hospira	HSP	-0.859591
+
+stocks	BBY	-0.825649
+
+FDA	BMY	-0.817188
+
+U.S.	BIG	-0.755638
+
+stocks	INTC	-0.732843
+
+Sector	TXN	-0.694939
+
+Nuclear	ETR	-0.694293
+
+US	HD	-0.586383
+
+declining	GCI	-0.572506
+
+Monster	MWW	-0.572093
+
+'s	TIF	-0.553453
+
+Cigna	CI	-0.539780
+
+sales	M	-0.523978
+
+Cable	TWX	-0.510291
+
+Refinery	VLO	-0.458366
+
+U.S.	CVX	-0.425259
+
+Dynegy	DYN	-0.416748
+
+TV	TWC	-0.409165
+
+U.S.	AA	-0.403629
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.0951818
+
+Alibaba	YHOO	0.872267
+
+Stocks	KO	0.819148
+
+Pulte	PHM	0.695085
+
+'s	CVS	0.657845
+
+Stocks	AZO	0.633592
+
+stocks	NVDA	0.552869
+
+Bank	KEY	0.506630
+
+Ford	F	0.500589
+
+Status	MRO	0.460383
+
+Cigarette	MO	0.444079
+
+Deere	DE	0.411238
+
+Horton	DHI	0.410071
+
+Edison	EIX	0.400736
+
+Consol	CNX	0.379244
+
+Insurers	LNC	0.370172
+
+Netflix	NFLX	0.365740
+
+IPO	NDAQ	0.353735
+
+Rating	MCO	0.343137
+
+Salesforce.com	CRM	0.328939
+
+FDA	LLY	-0.910245
+
+stocks	CHK	-0.744458
+
+'s	GCI	-0.733354
+
+Project	CVX	-0.722228
+
+US	CTAS	-0.692400
+
+New	F	-0.635638
+
+Textron	TXT	-0.588493
+
+'s	CPB	-0.556277
+
+Wells	WFC	-0.553331
+
+AIG	BLK	-0.528686
+
+Stocks	M	-0.524114
+
+US	BBY	-0.449973
+
+Intuit	INTU	-0.448600
+
+Sales	EA	-0.444304
+
+FDA	BMY	-0.436251
+
+Lennar	LEN	-0.435461
+
+US	CF	-0.429945
+
+Apple	HPQ	-0.429937
+
+America	BAC	-0.422357
+
+U.S.	CAT	-0.407604
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.0918922
+
+gas	CHK	1.497350
+
+U.S.	FDX	0.894296
+
+stocks	VLO	0.839166
+
+FCCU	VLO	0.637675
+
+stocks	TXN	0.615968
+
+Morris	PM	0.568663
+
+IPO	NDAQ	0.550204
+
+Genworth	GNW	0.550084
+
+Mining	NEM	0.526457
+
+Volume	CME	0.525420
+
+Shares	HIG	0.523695
+
+$	EXC	0.498030
+
+NYSE	NDAQ	0.489737
+
+'s	MTG	0.470357
+
+Retailers	HD	0.470124
+
+after	AXP	0.435206
+
+Danaher	DHR	0.430486
+
+Videogame	EA	0.429809
+
+Oil	XOM	0.403873
+
+Sector	TXN	-0.965198
+
+El	KMI	-0.812039
+
+Stock	ESRX	-0.784610
+
+stocks	CHK	-0.729834
+
+Oil	MPC	-0.679906
+
+Stocks	MDLZ	-0.613747
+
+Stocks	KEY	-0.502460
+
+CME	CME	-0.501528
+
+HOT	YHOO	-0.500519
+
+Hospira	HSP	-0.497366
+
+Office	ODP	-0.494821
+
+Banks	HBAN	-0.494792
+
+BP	APC	-0.471879
+
+McLennan	MMC	-0.469657
+
+GE	GE	-0.459403
+
+BATS	ICE	-0.440326
+
+Prudential	PRU	-0.437519
+
+Tysabri	BIIB	-0.428506
+
+Time	TWX	-0.426085
+
+Suit	MA	-0.416935
+

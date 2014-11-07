@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.325544
+
+Illinois	ITW	0.883309
+
+Stock	LOW	0.883260
+
+stocks	CSCO	0.789802
+
+Fed	PNC	0.751533
+
+energy	XOM	0.690567
+
+Edison	EIX	0.684329
+
+Retail	JWN	0.671793
+
+stocks	TXN	0.610735
+
+Up	SJM	0.570830
+
+U.S.	KEY	0.517447
+
+Arts	EA	0.476258
+
+China	KO	0.470075
+
+RadioShack	RSH	0.456346
+
+Jude	STJ	0.455476
+
+Credit-Card	COF	0.451817
+
+Interest	NDAQ	0.432153
+
+Home	PHM	0.429653
+
+Deere	DE	0.429295
+
+U.S.	AET	0.391441
+
+Bank	CMA	-1.566770
+
+earnings	AA	-0.948408
+
+Priceline.com	PCLN	-0.806345
+
+U.S.	JCP	-0.675980
+
+Morning	BAC	-0.661241
+
+Coffee	SBUX	-0.650066
+
+May	F	-0.638919
+
+Comcast	CMCSA	-0.584593
+
+Tysabri	BIIB	-0.572970
+
+Mortgage	MTG	-0.569399
+
+Chevron	CVX	-0.545727
+
+'s	FDX	-0.515970
+
+Retailers	KSS	-0.502895
+
+Dow	MDLZ	-0.495913
+
+Heparin	BAX	-0.445300
+
+Yahoo	YHOO	-0.432974
+
+Friday	BBY	-0.421405
+
+'s	NYT	-0.420086
+
+Medtronic	MDT	-0.399461
+
+Qualcomm	QCOM	-0.396465
+

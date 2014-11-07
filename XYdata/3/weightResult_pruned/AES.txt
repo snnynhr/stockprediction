@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-1.7115
+
+rise	CVX	0.790023
+
+Cadbury	MDLZ	0.543376
+
+Waste	WM	0.497437
+
+US	QCOM	0.482670
+
+Dow	DOW	0.479546
+
+Financial	AIG	0.468725
+
+Kinder	KMI	0.466232
+
+Sysco	SYY	0.453666
+
+Chipotle	CMG	0.444388
+
+HOT	CHK	0.437900
+
+Intel	AMAT	0.437363
+
+stocks	SLB	0.405896
+
+Costco	COST	0.405012
+
+Coca-Cola	KO	0.401087
+
+'s	COH	0.395076
+
+Rail	NSC	0.369869
+
+Pulte	PHM	0.366384
+
+Urban	URBN	0.361038
+
+Salesforce.com	CRM	0.352228
+
+'s	GCI	-1.203380
+
+U.S.	HUM	-0.755162
+
+$	MRO	-0.682287
+
+News	NDAQ	-0.654795
+
+SunTrust	STI	-0.615684
+
+'s	JCP	-0.610271
+
+Southern	SO	-0.600838
+
+Corning	GLW	-0.570017
+
+Force	NOC	-0.551193
+
+Software	ORCL	-0.549786
+
+Imax	DIS	-0.536389
+
+Monster	MWW	-0.526105
+
+Citi	MET	-0.519511
+
+Oil	COG	-0.491323
+
+Xerox	XRX	-0.486358
+
+ADP	ADP	-0.474184
+
+stocks	INTC	-0.473200
+
+stocks	AA	-0.470981
+
+Facebook	WFC	-0.466208
+
+Eli	LLY	-0.463347
+

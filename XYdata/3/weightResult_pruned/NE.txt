@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.297025
+
+stocks	TXN	1.161750
+
+Morning	WMT	0.924584
+
+'s	MET	0.870286
+
+Drug	ABT	0.770571
+
+'s	C	0.672953
+
+Retailers	HD	0.657044
+
+Sales	KSS	0.603208
+
+Stocks	COF	0.570463
+
+OMX	NDAQ	0.568472
+
+Buffett	GE	0.547026
+
+Stocks	QCOM	0.528680
+
+HOT	PLL	0.465264
+
+Profit	AIG	0.463552
+
+Tullow	APC	0.460973
+
+US	MAT	0.454240
+
+Apple	NFLX	0.403607
+
+Credit-Card	COF	0.397777
+
+Home	HD	0.396941
+
+BofA	USB	0.369644
+
+'s	WAG	-0.836734
+
+Stocks	MDLZ	-0.758287
+
+ConAgra	CAG	-0.641555
+
+'s	AA	-0.641527
+
+Spill	RIG	-0.554730
+
+Tysabri	BIIB	-0.521226
+
+SanDisk	SNDK	-0.514078
+
+stocks	JCP	-0.487482
+
+Clorox	CLX	-0.480811
+
+Intuit	INTU	-0.479075
+
+U.S.	COST	-0.433070
+
+Gilead	GILD	-0.425806
+
+'s	MU	-0.419395
+
+Oil	CHK	-0.418465
+
+LNG	COP	-0.413965
+
+EMC	EMC	-0.411141
+
+US	CME	-0.402922
+
+Scripts	ESRX	-0.397708
+
+Halliburton	HAL	-0.392094
+
+Nokia	QCOM	-0.374657
+

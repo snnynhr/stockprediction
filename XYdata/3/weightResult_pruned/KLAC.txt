@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.342169
+
+'s	HPQ	1.045550
+
+gas	CHK	0.884747
+
+Drug	GILD	0.791559
+
+'s	KO	0.674377
+
+higher	AXP	0.589420
+
+TNT	UPS	0.585328
+
+Dow	CAT	0.498396
+
+stocks	CSCO	0.480964
+
+FDA	ABT	0.476434
+
+Retailers	M	0.471436
+
+TECH	SNDK	0.469380
+
+Retail	TGT	0.461202
+
+Morgan	USB	0.446764
+
+$	NDAQ	0.441226
+
+Williams	WMB	0.435565
+
+Refinery	LYB	0.430325
+
+SEC	MCO	0.414959
+
+US	DDS	0.409466
+
+STOCKS	JNPR	0.406736
+
+sales	JWN	-0.985692
+
+'s	PFE	-0.709700
+
+Helmerich	HP	-0.694512
+
+stocks	CHK	-0.690436
+
+$	WMB	-0.687668
+
+'s	CSX	-0.678533
+
+Amylin	LLY	-0.640869
+
+Stocks	M	-0.617675
+
+Oil	VLO	-0.600496
+
+Friday	M	-0.545906
+
+'s	XOM	-0.525352
+
+Gas	DVN	-0.518963
+
+Spill	RIG	-0.502022
+
+Tanker	NOC	-0.500630
+
+stocks	BTU	-0.489330
+
+Hospira	HSP	-0.488891
+
+Mylan	MYL	-0.474435
+
+Oil	ICE	-0.474200
+
+$	PFE	-0.467551
+
+'s	GE	-0.446578
+

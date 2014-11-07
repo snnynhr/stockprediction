@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.885466
+
+'s	SWY	1.184250
+
+US	CLX	1.116250
+
+U.S.	GM	0.923308
+
+US	AXP	0.810632
+
+Taiwan	MU	0.664372
+
+Stocks	HPQ	0.595020
+
+Stocks	PFE	0.538564
+
+Stocks	KO	0.516095
+
+'s	DOW	0.480626
+
+Dow	TRV	0.477082
+
+US	SPLS	0.476870
+
+EMC	EMC	0.468567
+
+Apple	NVDA	0.455954
+
+Carnival	CCL	0.455693
+
+Apple	YHOO	0.453914
+
+Occidental	OXY	0.451648
+
+ING	COF	0.450837
+
+Instruments	TXN	0.444070
+
+Salesforce.com	CRM	0.444066
+
+CBOE	CME	-1.147540
+
+Energy	XEL	-0.838897
+
+Boston	ABT	-0.777982
+
+Temple-Inland	IP	-0.755438
+
+Mattel	MAT	-0.681796
+
+Insurers	PRU	-0.639879
+
+Southwestern	SWN	-0.635644
+
+Pepsi	PEP	-0.600926
+
+US	CME	-0.537698
+
+stocks	SHLD	-0.530036
+
+Microsoft	JNPR	-0.512414
+
+'s	BRCM	-0.498317
+
+Chip	BRCM	-0.480233
+
+SanDisk	SNDK	-0.478109
+
+'s	VZ	-0.468523
+
+Gap	GPS	-0.464716
+
+Tech	EMC	-0.459024
+
+Marathon	MRO	-0.441669
+
+Stock	TXN	-0.426628
+
+'s	WEN	-0.421794
+

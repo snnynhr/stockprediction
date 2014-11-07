@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.751882
+
+Sears	HD	1.478410
+
+Retail	ANF	0.531399
+
+'s	IBM	0.523261
+
+US	JNJ	0.512354
+
+US	CVS	0.500861
+
+Materials	AMAT	0.477919
+
+EA	EA	0.460638
+
+3M	MMM	0.458486
+
+U.S.	X	0.450534
+
+'s	BLK	0.448994
+
+State	STT	0.435002
+
+Staples	SPLS	0.405719
+
+$	COST	0.403108
+
+US	MON	0.374736
+
+'s	BK	0.363416
+
+'s	T	0.358743
+
+Stocks	SNDK	0.345393
+
+US	KEY	0.307415
+
+Eaton	ETN	0.304534
+
+US	ADBE	-0.898863
+
+Up	JCP	-0.852175
+
+Stocks	NTAP	-0.818144
+
+Card	AXP	-0.662294
+
+Rambus	MU	-0.639657
+
+Warner	TWC	-0.634513
+
+Stocks	AMAT	-0.502687
+
+'s	TWC	-0.484165
+
+'s	NTAP	-0.451057
+
+Yahoo	EBAY	-0.449470
+
+Stocks	M	-0.423144
+
+Stocks	CIEN	-0.402121
+
+Berkshire	BRK.B	-0.385684
+
+Prices	CVX	-0.366986
+
+Celgene	CELG	-0.366517
+
+New	NDAQ	-0.364770
+
+Coal	BTU	-0.363406
+
+Smith	SLB	-0.360901
+
+stocks	AA	-0.357160
+
+Barclays	BLK	-0.352566
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.307073
+
+stocks	AXP	1.189680
+
+U.S.	STT	1.055010
+
+Regional	STI	0.985560
+
+Alibaba	YHOO	0.681492
+
+'s	COST	0.638540
+
+Exxon	COP	0.613797
+
+Credit-Card	COF	0.605470
+
+G	PG	0.584570
+
+MGIC	MTG	0.534496
+
+Banks	BBT	0.500350
+
+stocks	GME	0.495555
+
+EA	EA	0.445869
+
+Restaurants	DRI	0.444071
+
+PNC	PNC	0.427724
+
+Bank	STI	0.402617
+
+Energy	SLB	0.390629
+
+Cablevision	CVC	0.385541
+
+'s	GNW	0.377931
+
+Tech	AMD	0.377222
+
+Stocks	MDLZ	-0.961457
+
+'s	UTX	-0.840507
+
+FDA	BMY	-0.834656
+
+'s	KBH	-0.741500
+
+Stocks	M	-0.608533
+
+'s	USB	-0.607621
+
+'s	WAG	-0.552120
+
+Celgene	CELG	-0.499514
+
+Tysabri	BIIB	-0.456301
+
+'s	PEP	-0.455406
+
+Gap	GPS	-0.445730
+
+stocks	CHK	-0.440567
+
+Life	PRU	-0.436834
+
+Cyprus	C	-0.410327
+
+Hughes	BHI	-0.406322
+
+'s	HD	-0.397594
+
+'s	IP	-0.393110
+
+'s	CHK	-0.392984
+
+Gamble	PG	-0.373269
+
+Autodesk	ADSK	-0.355055
+

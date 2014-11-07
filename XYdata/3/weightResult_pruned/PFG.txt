@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.00781654
+
+Alibaba	YHOO	0.999610
+
+Akamai	AKAM	0.680076
+
+Cablevision	CVC	0.646852
+
+Stocks	TXN	0.603250
+
+'s	HRB	0.594969
+
+Stock	CIEN	0.560527
+
+Exelon	EXC	0.535831
+
+Energy	BHI	0.518657
+
+US	PFE	0.516084
+
+US	JDSU	0.515898
+
+Energy	VLO	0.514501
+
+Stocks	MET	0.507253
+
+Visa	V	0.497536
+
+Stocks	HD	0.408521
+
+$	BK	0.385053
+
+Edison	EIX	0.381131
+
+Homes	PHM	0.371951
+
+Penney	M	0.355581
+
+PC	HPQ	0.352208
+
+JDS	JDSU	-0.942227
+
+Hospira	HSP	-0.903248
+
+U.S.	V	-0.619254
+
+Drugs	ABT	-0.569451
+
+Stocks	SNDK	-0.517833
+
+Net	M	-0.512741
+
+Buy	RSH	-0.497759
+
+Shares	AMD	-0.481078
+
+Stock	SHLD	-0.445672
+
+CME	CME	-0.400068
+
+Green	SBUX	-0.393834
+
+CenturyTel	CTL	-0.391245
+
+HOT	HAL	-0.385848
+
+Drug	LLY	-0.382938
+
+Shares	NVDA	-0.380673
+
+Vulcan	VMC	-0.361732
+
+Medtronic	MDT	-0.355779
+
+Options	NDAQ	-0.349115
+
+Chevron	CVX	-0.349074
+
+Wynn	WYNN	-0.345444
+

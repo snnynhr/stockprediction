@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.277126
+
+Facebook	EBAY	1.034780
+
+Pilgrim	TSN	0.683314
+
+Yum	YUM	0.564978
+
+Health	WLP	0.554697
+
+Energy	VLO	0.484213
+
+Power	ETR	0.478261
+
+FDA	ABT	0.476574
+
+Solar	FSLR	0.475431
+
+Stocks	KO	0.465480
+
+Tenet	THC	0.453358
+
+CEO	QCOM	0.446699
+
+Stocks	PNC	0.432744
+
+HOT	PFE	0.393945
+
+Banks	KEY	0.390185
+
+SEC	MCO	0.381667
+
+Tech	MU	0.381368
+
+Boston	BSX	0.368872
+
+Southwest	LUV	0.362490
+
+Home	PHM	0.358866
+
+'s	NYT	-1.051340
+
+Heparin	BAX	-0.844276
+
+Shares	MU	-0.760918
+
+U.S.	DIS	-0.714778
+
+stocks	FSLR	-0.702250
+
+Medtronic	MDT	-0.645172
+
+$	BRCM	-0.629381
+
+'s	AVP	-0.596807
+
+Buy	CTL	-0.592798
+
+Enodis	ITW	-0.570290
+
+Hat	RHT	-0.549695
+
+Energy	CNX	-0.539682
+
+stocks	CHK	-0.524526
+
+Hasbro	MAT	-0.522736
+
+Verizon	T	-0.495233
+
+Western	STX	-0.485652
+
+Tyco	TYC	-0.484310
+
+U.S.	JCP	-0.481425
+
+Stocks	M	-0.476677
+
+'s	UNH	-0.463557
+

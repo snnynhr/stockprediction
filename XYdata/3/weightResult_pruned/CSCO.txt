@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.140675
+
+US	YUM	0.989020
+
+Exxon	MRO	0.834634
+
+retail	M	0.729282
+
+$	DVN	0.668518
+
+Gains	TXN	0.600911
+
+IntercontinentalExchange	ICE	0.547361
+
+'s	YUM	0.529015
+
+Philip	PM	0.498081
+
+Fed	WFC	0.481809
+
+'s	HIG	0.478745
+
+SEC	MCO	0.477253
+
+US	CSX	0.434710
+
+Stock	NDAQ	0.428422
+
+Zions	ZION	0.420939
+
+Profit	TIF	0.396395
+
+Brown-Forman	BF.B	0.395457
+
+Netflix	TWX	0.391651
+
+Oil	XOM	0.367511
+
+Stocks	MET	0.364740
+
+Tysabri	BIIB	-0.828503
+
+Raytheon	RTN	-0.803901
+
+Cancer	AMGN	-0.779494
+
+iPhone	T	-0.745626
+
+U.S.	USB	-0.744957
+
+Lilly	BMY	-0.737062
+
+Rowe	TROW	-0.729861
+
+Dollar	DLTR	-0.705259
+
+Fincl	HIG	-0.654589
+
+Regions	RF	-0.613376
+
+Sector	TXN	-0.599303
+
+Oil	RIG	-0.598217
+
+Vulcan	VMC	-0.565399
+
+Buy	KO	-0.520454
+
+Qualcomm	BRCM	-0.512974
+
+US	CELG	-0.508029
+
+Holiday	JCP	-0.501039
+
+HOT	HUM	-0.500522
+
+Enodis	MTW	-0.499881
+
+'s	KMX	-0.477934
+

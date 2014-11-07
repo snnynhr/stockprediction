@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	1.80828
+
+Rally	AA	0.958897
+
+stocks	AIG	0.935947
+
+Microsoft	CRM	0.866638
+
+Edison	EIX	0.788795
+
+stocks	AXP	0.640484
+
+T	VZ	0.635432
+
+Stocks	KO	0.552837
+
+Akamai	AKAM	0.534217
+
+Facebook	NDAQ	0.513289
+
+Retail	TGT	0.510288
+
+Constellation	BUD	0.481509
+
+'s	PNC	0.412975
+
+Emulex	BRCM	0.410008
+
+Boeing	UTX	0.398134
+
+Bank	BK	0.393346
+
+stocks	STX	0.388291
+
+Study	MDT	0.386940
+
+UPS	UPS	0.384552
+
+BP	RIG	0.365834
+
+Chevron	XOM	-1.213640
+
+Longs	CVS	-0.713050
+
+Sales	WAG	-0.709866
+
+Gas	XOM	-0.698291
+
+Monster	MWW	-0.647036
+
+Insurers	ALL	-0.635729
+
+Stocks	ADI	-0.624500
+
+'s	DFS	-0.617345
+
+Interpublic	IPG	-0.614896
+
+ImClone	BMY	-0.574069
+
+Deal	GE	-0.573812
+
+Stocks	COH	-0.538397
+
+Drug	ABT	-0.514412
+
+Jabil	JBL	-0.511299
+
+Harley-Davidson	HOG	-0.484699
+
+$	PEP	-0.478193
+
+$	COP	-0.464908
+
+Gold	NEM	-0.461841
+
+T	T	-0.455483
+
+sales	M	-0.449277
+

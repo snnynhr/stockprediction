@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.126626
+
+Stocks	JNJ	0.969875
+
+Street	AIG	0.774981
+
+$	BLK	0.765447
+
+Range	RRC	0.729331
+
+Pulte	PHM	0.691256
+
+Stanley	MS	0.680599
+
+'s	AXP	0.570095
+
+'s	WFC	0.564261
+
+'s	CVS	0.532081
+
+Elan	BIIB	0.525871
+
+HOT	LLY	0.518383
+
+Gas	CHK	0.490705
+
+Redstone	VIAB	0.465627
+
+Oil	HAL	0.459261
+
+US	M	0.448770
+
+lead	TXN	0.422614
+
+Atmel	MCHP	0.419469
+
+Stocks	HPQ	0.418906
+
+Stocks	MCD	0.373830
+
+Banks	HBAN	-1.048720
+
+stocks	FSLR	-1.004820
+
+$	DFS	-0.929432
+
+stocks	CRM	-0.852406
+
+stocks	CHK	-0.808199
+
+Down	TSN	-0.710756
+
+Funds	BLK	-0.670793
+
+Earnings	COF	-0.540390
+
+Stocks	M	-0.512268
+
+US	GIS	-0.506136
+
+Menu	MCD	-0.500627
+
+HOT	MU	-0.498934
+
+Warner	TWC	-0.496026
+
+Apple	ADBE	-0.487185
+
+Buy	BLK	-0.486794
+
+Waters	WAT	-0.486430
+
+'s	AA	-0.439007
+
+Office	ODP	-0.424282
+
+Nan	AIG	-0.416466
+
+Steel	AKS	-0.397605
+

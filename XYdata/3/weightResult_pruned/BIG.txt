@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.164829
+
+Sears	HD	0.889049
+
+Dollar	FDO	0.854776
+
+Stocks	TXN	0.824551
+
+Energy	TSO	0.746681
+
+Stocks	MWW	0.698826
+
+Insurers	GNW	0.645561
+
+Nordstrom	JWN	0.631449
+
+BorgWarner	BWA	0.613981
+
+FDA	AMGN	0.585920
+
+stocks	BBBY	0.458760
+
+Biogen	BIIB	0.445434
+
+JC	JCP	0.438130
+
+Vornado	VNO	0.436441
+
+Stocks	HD	0.433212
+
+Management	WM	0.428440
+
+BP	HAL	0.409823
+
+Higher	WAG	0.407483
+
+Tech	ORCL	0.388757
+
+Mining	NEM	0.375082
+
+'s	GLW	-0.977493
+
+US	ADBE	-0.619093
+
+TECH	TXN	-0.602149
+
+$	BRK.B	-0.558633
+
+Drug	ABT	-0.542906
+
+E*Trade	ETFC	-0.538866
+
+Study	BMY	-0.530912
+
+Thermo	TMO	-0.515204
+
+New	F	-0.487796
+
+'s	MA	-0.480473
+
+Lexmark	LXK	-0.478183
+
+'s	F	-0.476149
+
+energy	CHK	-0.471640
+
+Builders	DHI	-0.388563
+
+May	F	-0.385000
+
+Halliburton	HAL	-0.380323
+
+'s	SLB	-0.372788
+
+Cable	CMCSA	-0.371996
+
+Drug	MRK	-0.362080
+
+Red	RHT	-0.361612
+

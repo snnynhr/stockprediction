@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.371236
+
+Up	TGT	0.657084
+
+Stocks	ADP	0.652151
+
+Biotech	AMGN	0.649359
+
+stocks	FITB	0.609561
+
+Energy	SLB	0.588678
+
+Stock	STT	0.578228
+
+Facebook	EBAY	0.571166
+
+Sector	M	0.548101
+
+Dow	CAT	0.538775
+
+Viacom	VIA	0.534220
+
+stocks	QCOM	0.501562
+
+Principal	PFG	0.500866
+
+Exchanges	CME	0.489483
+
+PNC	PNC	0.469473
+
+Banks	KEY	0.455676
+
+Colgate	CL	0.443823
+
+Refinery	LYB	0.428561
+
+CEO	DUK	0.420687
+
+Traffic	LUV	0.400543
+
+Big	SHLD	-0.829644
+
+Banks	HBAN	-0.735206
+
+US	WAG	-0.643972
+
+Global	JOY	-0.518451
+
+Banks	WFC	-0.508303
+
+KeyCorp	KEY	-0.499458
+
+Wireless	VZ	-0.484964
+
+'s	GE	-0.471975
+
+'s	HRB	-0.453032
+
+Gulf	XOM	-0.448039
+
+Celgene	CELG	-0.415492
+
+'s	CHK	-0.415005
+
+Union	WU	-0.412262
+
+Drugs	ABT	-0.404685
+
+Stocks	MRK	-0.386931
+
+Aflac	AFL	-0.366436
+
+Lennar	LEN	-0.361717
+
+Starwood	HOT	-0.349464
+
+'s	CSCO	-0.341701
+
+Warner	TWX	-0.337742
+

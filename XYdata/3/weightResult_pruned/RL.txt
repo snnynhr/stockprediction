@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-1.40282
+
+Retailers	ROST	0.757795
+
+stocks	CSCO	0.686773
+
+Wireless	VZ	0.617545
+
+Waste	WM	0.481548
+
+'s	BBY	0.448291
+
+'s	AIG	0.430457
+
+Windstream	WIN	0.387767
+
+Simon	SPG	0.383625
+
+Block	HRB	0.377366
+
+US	BK	0.375544
+
+stocks	M	0.364668
+
+First	FSLR	0.364635
+
+Benfield	AON	0.353914
+
+Stocks	AZO	0.346737
+
+Target	TGT	0.341177
+
+Volume	CME	0.333885
+
+HOT	COF	0.328776
+
+Banks	FHN	0.321380
+
+Retailers	JCP	0.319296
+
+'s	XRX	-1.465080
+
+Stocks	M	-1.378760
+
+'s	GE	-0.973166
+
+Profit	WAG	-0.969207
+
+Heparin	BAX	-0.913608
+
+Power	PCG	-0.840925
+
+Retail	KSS	-0.806159
+
+Stocks	MDLZ	-0.686604
+
+Stocks	FSLR	-0.684724
+
+Celgene	CELG	-0.653654
+
+'s	FCX	-0.609425
+
+Martin	LMT	-0.602329
+
+'s	JNJ	-0.576511
+
+Drugs	ABT	-0.560576
+
+Priceline.com	PCLN	-0.539412
+
+Alcoa	AA	-0.528834
+
+Honeywell	HON	-0.504945
+
+$	RF	-0.486306
+
+Oil	CVX	-0.482007
+
+FDA	BMY	-0.438580
+

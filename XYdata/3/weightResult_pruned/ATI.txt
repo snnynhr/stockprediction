@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.599432
+
+stocks	NVDA	1.229180
+
+Credit-Card	COF	0.772652
+
+Health	CI	0.674162
+
+Retail	ANF	0.608026
+
+Volume	CME	0.598996
+
+Heart	BMY	0.574643
+
+$	XOM	0.573775
+
+'s	CVS	0.561468
+
+US	LEN	0.561329
+
+Stocks	CSCO	0.553177
+
+Stocks	BA	0.550884
+
+Retail	TGT	0.546063
+
+Johnson	JNJ	0.535858
+
+Financial	GNW	0.520871
+
+Bank	KEY	0.511513
+
+CEO	VLO	0.483151
+
+Apple	TXN	0.441198
+
+Bank	MTB	0.429466
+
+Times	NYT	0.407181
+
+Stocks	BRCM	-1.069000
+
+'s	AA	-0.817152
+
+China	NKE	-0.796684
+
+Stocks	M	-0.790083
+
+FDA	ABT	-0.781892
+
+'s	CSCO	-0.752930
+
+'s	TWC	-0.738209
+
+stocks	INTC	-0.601004
+
+'s	EA	-0.590917
+
+Supervalu	SVU	-0.492978
+
+4Q	FDX	-0.442416
+
+Tech	STX	-0.421898
+
+ImClone	BMY	-0.405877
+
+Global	JOY	-0.401247
+
+Hershey	HSY	-0.398279
+
+$	DOW	-0.395412
+
+Tesoro	TSO	-0.390399
+
+U.S.	F	-0.387143
+
+STOCKS	NVDA	-0.377865
+
+Goldman	GS	-0.374437
+

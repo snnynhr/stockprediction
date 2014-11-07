@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.418661
+
+Penney	KSS	0.834705
+
+'s	BLK	0.804563
+
+Stryker	SYK	0.722821
+
+Stocks	ADP	0.584027
+
+Verizon	T	0.550617
+
+Gas	BHI	0.545241
+
+Wireless	T	0.519220
+
+Stock	BRK.B	0.510034
+
+Rating	MCO	0.492346
+
+JetBlue	LUV	0.491842
+
+Stock	CLX	0.477849
+
+BATS	NDAQ	0.477650
+
+New	INTC	0.446893
+
+Philip	PM	0.442345
+
+'s	MCO	0.422603
+
+Deere	DE	0.413608
+
+Lehman	BLK	0.407752
+
+stocks	AXP	0.403087
+
+Banks	RF	0.391562
+
+'s	TRV	-1.192330
+
+Tyco	TYC	-0.967729
+
+Apple	INTC	-0.741922
+
+Boeing	LMT	-0.676102
+
+HOT	PAYX	-0.637830
+
+Stocks	MDLZ	-0.625993
+
+U.S.	DE	-0.605547
+
+Health	CI	-0.591232
+
+Gas	XOM	-0.559255
+
+J	ABT	-0.543138
+
+Salesforce.com	CRM	-0.536536
+
+Home	LOW	-0.477379
+
+FDA	MRK	-0.466818
+
+U.S.	AA	-0.452908
+
+Supervalu	SVU	-0.451928
+
+Apple	HPQ	-0.444604
+
+Friday	M	-0.440217
+
+STOCKS	BRCM	-0.434056
+
+CenturyTel	CTL	-0.406210
+
+Whopper	MCD	-0.395292
+

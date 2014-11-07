@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.37758
+
+Futures	ICE	1.584620
+
+TV	CMCSA	0.703878
+
+gains	CHK	0.680313
+
+Apple	NFLX	0.673751
+
+'s	MET	0.625936
+
+US	MU	0.609809
+
+New	MCO	0.578244
+
+Crude	VLO	0.571002
+
+Adobe	JBL	0.539985
+
+Sales	TIF	0.517636
+
+Retailers	HD	0.510917
+
+Drug	BIIB	0.508668
+
+BorgWarner	BWA	0.506236
+
+Sales	NKE	0.494707
+
+Stocks	CRM	0.493316
+
+US	MET	0.478008
+
+Sempra	SRE	0.472848
+
+Nordstrom	JWN	0.470338
+
+BP	HAL	0.459095
+
+'s	PRU	-1.268130
+
+Nasdaq	TXN	-0.896557
+
+Chip	NVDA	-0.817075
+
+'s	KBH	-0.799286
+
+Outfitters	URBN	-0.664845
+
+US	WAG	-0.504989
+
+US	X	-0.483768
+
+'s	WAG	-0.479424
+
+Noble	NBL	-0.458559
+
+US	HRB	-0.458024
+
+TV	CBS	-0.430931
+
+Sales	M	-0.422724
+
+Tech	MU	-0.421600
+
+'s	CSCO	-0.413279
+
+Friday	M	-0.413124
+
+Charles	SCHW	-0.405188
+
+CenturyTel	CTL	-0.382962
+
+Stocks	AFL	-0.376660
+
+US	TSO	-0.369131
+
+EMC	EMC	-0.359708
+

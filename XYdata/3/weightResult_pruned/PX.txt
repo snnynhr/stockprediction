@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.0800751
+
+Abbott	MDT	0.839786
+
+Oil	XOM	0.741836
+
+'s	TXN	0.738589
+
+Family	FDO	0.717522
+
+Health	AET	0.610218
+
+Credit-Card	COF	0.575067
+
+U.S.	AIG	0.550885
+
+Bancshares	HBAN	0.530463
+
+stocks	MRO	0.489192
+
+Stocks	ZION	0.472707
+
+Zynga	EA	0.457253
+
+Up	CAT	0.435348
+
+Pepper	DPS	0.428837
+
+Vulcan	VMC	0.417259
+
+STOCKS	SYMC	0.410997
+
+Oil	MUR	0.410210
+
+'s	WFC	0.395086
+
+Ledger	GE	0.386101
+
+Retailers	GPS	0.382594
+
+Price	TROW	-1.041240
+
+ConAgra	CAG	-0.854674
+
+Retailers	JWN	-0.818976
+
+Energy	XEL	-0.793527
+
+US	CELG	-0.754522
+
+Friday	M	-0.751139
+
+TV	VIAB	-0.734231
+
+Up	HD	-0.641234
+
+U.S.	AA	-0.589500
+
+Symantec	SYMC	-0.588895
+
+Starwood	HOT	-0.584703
+
+3Q	BBY	-0.577544
+
+Alibaba	EBAY	-0.555188
+
+Humana	HUM	-0.515656
+
+Stocks	BRK.B	-0.509186
+
+Stocks	MDLZ	-0.499164
+
+St.	STJ	-0.493337
+
+Holiday	JCP	-0.491761
+
+AIG	PRU	-0.487015
+
+Sector	TXN	-0.478269
+

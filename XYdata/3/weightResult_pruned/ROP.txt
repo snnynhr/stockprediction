@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-1.08799
+
+Retail	TGT	1.149850
+
+Goodyear	GT	0.980910
+
+Stanley	MS	0.718093
+
+Apple	NFLX	0.621872
+
+Energy	TSO	0.603394
+
+rise	TRV	0.581057
+
+Restaurants	DRI	0.501584
+
+United	UTX	0.492569
+
+stocks	TRV	0.457083
+
+Iraq	COP	0.445322
+
+Coca-Cola	KO	0.421390
+
+Fed	WFC	0.410406
+
+'s	YHOO	0.409760
+
+Sales	KSS	0.407665
+
+Oracle	TXN	0.379814
+
+HOT	BIG	0.346027
+
+Wal-Mart	WMT	0.343415
+
+KeyCorp	KEY	0.337783
+
+'s	BK	0.330858
+
+Sector	TXN	-1.142450
+
+Fall	AA	-0.816235
+
+Stocks	MDLZ	-0.785051
+
+'s	AVP	-0.647374
+
+Stocks	V	-0.586318
+
+News	NDAQ	-0.563024
+
+Energy	APC	-0.557565
+
+'s	TWC	-0.554935
+
+Gannett	GCI	-0.538675
+
+Auto	F	-0.537654
+
+Dominion	D	-0.472886
+
+Spill	RIG	-0.472059
+
+Earnings	AA	-0.465073
+
+Marsh	MMC	-0.443666
+
+Stocks	PRU	-0.402339
+
+Rite	WAG	-0.385682
+
+Drug	MRK	-0.379025
+
+Southern	WMB	-0.374109
+
+Morning	AMZN	-0.352165
+
+Insurers	UNH	-0.340079
+

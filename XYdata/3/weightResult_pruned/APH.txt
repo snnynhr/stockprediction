@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.958161
+
+stocks	NVDA	1.249710
+
+US	CSX	0.640245
+
+Eaton	ETN	0.595903
+
+'s	GNW	0.538984
+
+US	YUM	0.488856
+
+UPS	UPS	0.460738
+
+Pulte	PHM	0.454530
+
+Foods	MDLZ	0.453203
+
+Range	RRC	0.452687
+
+Edison	EIX	0.445944
+
+India	F	0.434393
+
+Smucker	SJM	0.419984
+
+Apple	NFLX	0.393728
+
+Stocks	VFC	0.375566
+
+Berkshire	BRK.B	0.372461
+
+Exchanges	NDAQ	0.369184
+
+Stocks	HRB	0.325578
+
+Materials	AMAT	0.322346
+
+Hartford	HIG	0.319005
+
+$	QCOM	-0.898314
+
+'s	CI	-0.896643
+
+Sales	ANF	-0.873626
+
+Ads	OMC	-0.834141
+
+stocks	CHK	-0.648130
+
+Life	PRU	-0.637664
+
+Fitch	ANF	-0.564194
+
+'s	GE	-0.541816
+
+Paso	KMI	-0.515388
+
+Hughes	BHI	-0.510643
+
+Drug	BMY	-0.509604
+
+Gold	NEM	-0.509140
+
+Prices	CVX	-0.508968
+
+CenturyTel	CTL	-0.433686
+
+Black	BBY	-0.426827
+
+stocks	AMD	-0.425278
+
+Chevron	XOM	-0.424909
+
+HOT	CI	-0.414459
+
+Gilead	GILD	-0.410371
+
+Coffee	SJM	-0.410077
+

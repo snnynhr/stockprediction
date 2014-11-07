@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.534764
+
+Energy	VLO	0.827725
+
+Insurers	MBI	0.668582
+
+higher	TRV	0.576136
+
+Nordstrom	JWN	0.548284
+
+higher	AXP	0.466975
+
+Morgan	BBT	0.447844
+
+P	PG	0.407716
+
+Banks	FITB	0.406348
+
+Newsday	CVC	0.399207
+
+Safeway	SWY	0.380771
+
+Anadarko	APC	0.376756
+
+Retailers	M	0.363570
+
+Autonomy	HPQ	0.356320
+
+Boston	BSX	0.349136
+
+Stocks	LLTC	0.348943
+
+Energy	HAL	0.325599
+
+H-P	EMC	0.316424
+
+'s	WFM	0.304248
+
+BP	APA	0.302337
+
+Apple	INTC	-0.630888
+
+US	BTU	-0.600694
+
+Valero	TSO	-0.594884
+
+Valero	MRO	-0.570806
+
+'s	JNJ	-0.565354
+
+Rambus	MU	-0.564778
+
+Manitowoc	MTW	-0.496884
+
+Interpublic	IPG	-0.485172
+
+New	F	-0.476598
+
+Retail	COST	-0.469411
+
+GE	UTX	-0.447841
+
+Sales	KSS	-0.445366
+
+Buy	RSH	-0.433752
+
+UnitedHealth	UNH	-0.411199
+
+McDonald	MCD	-0.389130
+
+HOT	MU	-0.388592
+
+Walgreen	WAG	-0.388467
+
+Stock	M	-0.387844
+
+FDA	PFE	-0.384107
+
+Lilly	LLY	-0.376716
+

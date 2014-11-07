@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.345221
+
+S	MCO	1.321140
+
+Sales	TIF	1.120220
+
+stocks	TXN	0.705160
+
+HOT	FITB	0.671960
+
+'s	MET	0.558176
+
+KB	KBH	0.485279
+
+U.S.	DD	0.480322
+
+Insurers	LNC	0.473858
+
+'s	VLO	0.464970
+
+Prudential	AIG	0.463252
+
+Stanley	MS	0.461584
+
+U.S.	STI	0.458142
+
+MARKET	AA	0.445263
+
+One	COF	0.444400
+
+Rally	AA	0.431941
+
+HOT	PLL	0.427080
+
+Foods	MDLZ	0.420313
+
+Stocks	MCK	0.414376
+
+Dell	GPS	0.413061
+
+Yahoo	ADSK	-1.259490
+
+'s	KBH	-0.959381
+
+Hospira	HSP	-0.837995
+
+Exelon	NRG	-0.834625
+
+Oil	CVX	-0.829392
+
+Fees	MA	-0.799571
+
+US	GIS	-0.764472
+
+US	DUK	-0.592772
+
+Data	EMC	-0.547292
+
+Energy	COP	-0.543061
+
+Stocks	M	-0.534004
+
+stocks	LLY	-0.513154
+
+J	ABT	-0.508824
+
+Abercrombie	ANF	-0.507492
+
+Noble	NE	-0.494966
+
+Take-Two	EA	-0.484524
+
+Depot	ODP	-0.472121
+
+Stocks	TGT	-0.452291
+
+Microchip	MCHP	-0.433974
+
+Mariner	APA	-0.433457
+

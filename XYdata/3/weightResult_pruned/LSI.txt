@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.711156
+
+Expeditors	EXPD	1.130120
+
+Aon	AON	1.103200
+
+Bank	WFC	0.828766
+
+'s	COST	0.740158
+
+Retail	TGT	0.724612
+
+stocks	VLO	0.710025
+
+Stocks	BK	0.691353
+
+CEO	PG	0.686509
+
+US	AET	0.615489
+
+$	PCG	0.614273
+
+Darden	DRI	0.539366
+
+'s	KR	0.514436
+
+H-P	HPQ	0.500331
+
+Alibaba	YHOO	0.494079
+
+Bank	RF	0.489997
+
+TNT	UPS	0.427034
+
+Tenet	THC	0.413794
+
+June	COST	0.381868
+
+Cnooc	CHK	0.373452
+
+Stocks	EMC	-1.704410
+
+Solar	AMAT	-1.067190
+
+Monster	MWW	-0.908848
+
+Google	ORCL	-0.864806
+
+Xcel	XEL	-0.840537
+
+'s	MET	-0.814335
+
+Profit	LOW	-0.814069
+
+Drug	PFE	-0.635953
+
+Sector	TXN	-0.611098
+
+Prices	COP	-0.596911
+
+Office	ODP	-0.585423
+
+Southwest	LUV	-0.552104
+
+Sales	GPS	-0.494739
+
+'s	AA	-0.492061
+
+Stocks	M	-0.488410
+
+'s	CMCSA	-0.456073
+
+Spill	RIG	-0.441192
+
+stocks	CVX	-0.440096
+
+China	F	-0.428399
+
+Grumman	NOC	-0.410454
+

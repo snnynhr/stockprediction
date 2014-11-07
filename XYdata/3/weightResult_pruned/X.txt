@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.854267
+
+N.Y.	NYT	0.644174
+
+Financials	AXP	0.554406
+
+Fincl	DFS	0.494388
+
+after	AXP	0.488374
+
+Stocks	MCD	0.474159
+
+Energy	SLB	0.473676
+
+BP	HAL	0.456919
+
+stocks	SWN	0.456641
+
+Dow	CAT	0.451050
+
+Stocks	UNH	0.451049
+
+Refinery	LYB	0.446654
+
+Higher	AMD	0.411726
+
+U.S.	CF	0.409519
+
+Stocks	LLTC	0.392128
+
+US	AA	0.385776
+
+Anadarko	APC	0.368603
+
+Expro	HAL	0.366777
+
+HOT	MRK	0.364257
+
+Tumblr	YHOO	0.363363
+
+stocks	BTU	-0.999973
+
+$	HES	-0.912613
+
+REIT	HCN	-0.912022
+
+Bid	EMC	-0.902831
+
+New	BRK.B	-0.784684
+
+FDA	ABT	-0.725951
+
+Lennar	LEN	-0.651209
+
+TV	TWX	-0.636850
+
+Boston	BXP	-0.602424
+
+FDA	BMY	-0.595543
+
+CareFusion	CFN	-0.527401
+
+Profit	BIIB	-0.523114
+
+Lorillard	LO	-0.520020
+
+BP	APC	-0.514724
+
+US	CME	-0.467198
+
+Extends	EA	-0.456363
+
+'s	ORCL	-0.435344
+
+DirecTV	DTV	-0.434638
+
+Janus	JNS	-0.433009
+
+Bristol-Myers	BMY	-0.424778
+

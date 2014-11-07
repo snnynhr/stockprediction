@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.56147
+
+Stocks	UNH	0.847161
+
+Media	VIAB	0.787560
+
+'s	AMAT	0.678319
+
+Horton	DHI	0.644462
+
+Fed	COF	0.636057
+
+stocks	NVDA	0.620522
+
+U.S.	XOM	0.583890
+
+HOT	CHK	0.562764
+
+TECH	NVDA	0.509579
+
+'s	VZ	0.506698
+
+Life	MET	0.502265
+
+Tobacco	PM	0.490844
+
+Times	NYT	0.482363
+
+Honeywell	HON	0.472601
+
+Eaton	ETN	0.464142
+
+Pfizer	BMY	0.453688
+
+iPhone	VZ	0.431940
+
+Morgan	BBT	0.407173
+
+Broadcom	BRCM	0.386063
+
+'s	CHK	-1.325640
+
+Sales	K	-1.103990
+
+Cancer	AMGN	-0.928000
+
+'s	NYT	-0.860079
+
+stocks	BBY	-0.797929
+
+Trust	NTRS	-0.756898
+
+Stocks	CVX	-0.687852
+
+HOT	IGT	-0.559203
+
+Monsanto	MON	-0.552011
+
+Cisco	JNPR	-0.524854
+
+'s	PFE	-0.521722
+
+Sales	CAT	-0.466008
+
+Morning	BAC	-0.461535
+
+'s	UPS	-0.454435
+
+Helmerich	HP	-0.449229
+
+U.S.	CRM	-0.441583
+
+'s	COF	-0.439537
+
+Profit	SCHW	-0.409379
+
+HOT	HPQ	-0.408825
+
+U.S.	KEY	-0.378942
+

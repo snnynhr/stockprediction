@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.64942
+
+Stocks	STI	1.024470
+
+Goodyear	GT	0.809060
+
+gas	CHK	0.775897
+
+Credit-Card	COF	0.675890
+
+Sales	KSS	0.666576
+
+Systems	CSCO	0.662479
+
+U.S.	CHK	0.641767
+
+Apple	NFLX	0.558399
+
+stocks	NVDA	0.522684
+
+Cadbury	MDLZ	0.508395
+
+Zimmer	ZMH	0.503785
+
+Calif	PCG	0.478098
+
+Pulte	PHM	0.459852
+
+Unit	EIX	0.456916
+
+Allergan	AGN	0.450122
+
+US	MAT	0.424274
+
+'s	KEY	0.409280
+
+'s	AXP	0.407884
+
+US	MDLZ	0.406540
+
+Coors	TAP	-0.803814
+
+$	MRO	-0.757242
+
+Friday	M	-0.667285
+
+Earnings	AA	-0.637529
+
+Sector	TXN	-0.593839
+
+US	AET	-0.566904
+
+Western	WDC	-0.558564
+
+J	MDT	-0.547734
+
+'s	WAG	-0.546711
+
+Software	ORCL	-0.534128
+
+Texas	VLO	-0.496602
+
+'s	TWX	-0.474066
+
+Aid	WAG	-0.437807
+
+'s	VIA	-0.437488
+
+Marathon	MRO	-0.425866
+
+Schlumberger	SLB	-0.409987
+
+US	HRB	-0.409878
+
+$	GE	-0.405847
+
+tech	ORCL	-0.405236
+
+'s	XOM	-0.385448
+

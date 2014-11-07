@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.789227
+
+'s	ADBE	0.962927
+
+Dow	CAT	0.746040
+
+Oil	APA	0.702917
+
+US	WYNN	0.628021
+
+Retail	SHLD	0.582071
+
+stocks	GNW	0.579196
+
+Day	AIG	0.576626
+
+Republic	RSG	0.555195
+
+NYSE	ICE	0.538629
+
+stocks	CVX	0.537176
+
+Goldman	GS	0.496249
+
+stocks	TXN	0.442538
+
+Health	UNH	0.429685
+
+Bank	WFC	0.428698
+
+stocks	AXP	0.403587
+
+Cliffs	CLF	0.376923
+
+Sempra	SRE	0.370408
+
+US	QCOM	0.369952
+
+CF	CF	0.355978
+
+Stocks	KEY	-1.101020
+
+'s	AVP	-0.687207
+
+'s	CME	-0.637893
+
+Juniper	JNPR	-0.593938
+
+Friday	M	-0.578014
+
+Financial	RF	-0.570036
+
+AstraZeneca	BMY	-0.561775
+
+Devon	DVN	-0.544750
+
+Gas	XOM	-0.522556
+
+Stent	MDT	-0.491948
+
+Chevron	XOM	-0.491047
+
+'s	AA	-0.469522
+
+Stocks	BBY	-0.448826
+
+'s	MMM	-0.439851
+
+Gilead	GILD	-0.423526
+
+'s	JNJ	-0.400078
+
+Ambac	MBI	-0.399183
+
+$	SE	-0.395688
+
+FDA	BMY	-0.387489
+
+Adobe	ADBE	-0.374234
+

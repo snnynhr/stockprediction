@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.687229
+
+Profit	SWY	1.134110
+
+stocks	NVDA	0.881171
+
+Capital	USB	0.714373
+
+Emerson	EMR	0.712245
+
+stocks	FITB	0.642338
+
+'s	SCHW	0.607574
+
+Retailers	GPS	0.507001
+
+CSX	CSX	0.491397
+
+SAP	ORCL	0.469615
+
+Tenet	THC	0.458562
+
+NRG	NRG	0.438249
+
+Big	CVX	0.434427
+
+Ace	ACE	0.427285
+
+Morris	PM	0.396409
+
+STOCKS	MRK	0.396099
+
+Energy	VLO	0.391547
+
+Dow	DOW	0.379500
+
+stocks	COG	0.377952
+
+stocks	RIG	0.374508
+
+'s	CHK	-1.054940
+
+Drugs	ABT	-0.960710
+
+Macy	KSS	-0.951894
+
+Harley-Davidson	HOG	-0.866201
+
+'s	SLB	-0.736712
+
+American	AXP	-0.735095
+
+stocks	CHK	-0.693947
+
+'s	ADM	-0.654649
+
+View	HD	-0.642995
+
+WellPoint	WLP	-0.611073
+
+787	BA	-0.543170
+
+stocks	OXY	-0.530538
+
+Shares	MU	-0.516869
+
+'s	WAG	-0.489583
+
+Beyond	BBBY	-0.477851
+
+Intel	TXN	-0.470387
+
+CarMax	KMX	-0.443809
+
+Warner	TWX	-0.430266
+
+Apache	APA	-0.429892
+
+Hughes	BHI	-0.417355
+

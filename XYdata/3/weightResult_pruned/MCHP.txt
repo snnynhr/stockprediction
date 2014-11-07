@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.401024
+
+EU	MCO	0.985372
+
+Cloud	CRM	0.784516
+
+Service	PEG	0.751844
+
+Stocks	ZION	0.647710
+
+Stocks	BA	0.617460
+
+stocks	NVDA	0.599298
+
+'s	BLK	0.596386
+
+Dow	AXP	0.536705
+
+STOCKS	EMC	0.525713
+
+Analog	ADI	0.524967
+
+US	PG	0.523356
+
+Stocks	MCD	0.482583
+
+'s	YUM	0.474600
+
+Times	NYT	0.464460
+
+Tiffany	TIF	0.449364
+
+US	MA	0.433669
+
+Shut	MRO	0.420807
+
+Emulex	BRCM	0.417713
+
+stocks	AIG	0.388146
+
+Morning	BAC	-0.814626
+
+oil	HAL	-0.809924
+
+'s	TIF	-0.772108
+
+Take-Two	EA	-0.699879
+
+'s	IP	-0.676834
+
+US	SVU	-0.630648
+
+Banks	PNC	-0.622901
+
+Tysabri	BIIB	-0.605242
+
+'s	COF	-0.597372
+
+Heparin	BAX	-0.576521
+
+'s	COP	-0.529233
+
+OMX	NDAQ	-0.526810
+
+Agrium	CF	-0.514690
+
+Mellon	BK	-0.513321
+
+E*Trade	ETFC	-0.509136
+
+Cisco	JNPR	-0.484392
+
+Stocks	M	-0.475484
+
+Philips	GE	-0.462097
+
+iPhone	T	-0.457804
+
+Union	UNP	-0.453860
+

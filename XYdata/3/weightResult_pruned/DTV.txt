@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.0847795
+
+gas	CHK	1.017300
+
+Exxon	MRO	0.884155
+
+Stake	NYT	0.855283
+
+Edison	EIX	0.835664
+
+'s	BMY	0.747053
+
+'s	WFC	0.691743
+
+Sales	BBY	0.633858
+
+Stocks	THC	0.627979
+
+Morris	PM	0.607930
+
+Stocks	XOM	0.594897
+
+'s	ADBE	0.555348
+
+Tiffany	TIF	0.534769
+
+Tech	SNDK	0.487258
+
+Banks	CMA	0.483994
+
+Rating	MCO	0.443312
+
+H-P	HPQ	0.440856
+
+stocks	TXN	0.438428
+
+stocks	PHM	0.436778
+
+Stocks	URBN	0.409668
+
+Discovery	DISCA	-0.907938
+
+Stocks	KEY	-0.907507
+
+'s	SBUX	-0.867364
+
+Stocks	USB	-0.811551
+
+$	HES	-0.645036
+
+Same-Store	M	-0.606369
+
+Banks	PNC	-0.572058
+
+Up	ORCL	-0.563909
+
+Symantec	SYMC	-0.557242
+
+More	WFC	-0.509094
+
+Gilead	GILD	-0.465256
+
+H-P	ORCL	-0.438780
+
+Stocks	AMD	-0.436706
+
+Deal	CMCSA	-0.436281
+
+Gap	GPS	-0.427706
+
+Jude	STJ	-0.419778
+
+Ambac	MBI	-0.408742
+
+Debt	MCO	-0.405592
+
+earnings	AA	-0.400906
+
+U.S.	DIS	-0.399391
+

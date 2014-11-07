@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.0264894
+
+JC	JCP	1.009250
+
+Health	CI	0.722496
+
+US	BUD	0.706064
+
+stocks	NVDA	0.684232
+
+Cadbury	MDLZ	0.651360
+
+Penney	M	0.650424
+
+TECH	TXN	0.616888
+
+stocks	NTAP	0.578379
+
+Wireless	QCOM	0.574819
+
+Sears	SHLD	0.546552
+
+Stake	NYT	0.542210
+
+Gains	TXN	0.520818
+
+Game	EA	0.520012
+
+Stocks	MDT	0.504009
+
+Google	TWX	0.477523
+
+stocks	MA	0.428402
+
+Morgan	STI	0.408254
+
+IPO	EBAY	0.401525
+
+Retail	ANF	0.400800
+
+Banks	WFC	-0.838989
+
+Aetna	WLP	-0.697427
+
+Netflix	TWX	-0.652523
+
+WellPoint	WLP	-0.618221
+
+stocks	AMD	-0.553055
+
+Weyerhaeuser	WY	-0.541001
+
+'s	QCOM	-0.501978
+
+Office	ODP	-0.485207
+
+U.S.	HD	-0.464680
+
+'s	TGT	-0.459295
+
+Buy	AET	-0.458915
+
+Rambus	MU	-0.425705
+
+'s	HD	-0.423295
+
+Ingersoll-Rand	IR	-0.418880
+
+'s	TJX	-0.399543
+
+Wyndham	WYN	-0.385048
+
+Ambac	MBI	-0.382939
+
+Sprint	T	-0.344823
+
+Stocks	SLM	-0.339158
+
+$	BRK.B	-0.331682
+

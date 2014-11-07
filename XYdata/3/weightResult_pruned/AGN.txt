@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.173906
+
+Buy	TGT	0.939471
+
+Apple	T	0.856664
+
+'s	MAT	0.800701
+
+Retail	TGT	0.744146
+
+Stocks	ADP	0.675430
+
+Allergan	AGN	0.633051
+
+Tech	ORCL	0.615366
+
+Airlines	BA	0.612539
+
+Sears	SHLD	0.537374
+
+Exxon	COP	0.514499
+
+Bank	COF	0.490998
+
+Honeywell	HON	0.441510
+
+'s	STT	0.434799
+
+Pulte	PHM	0.430966
+
+Monsanto	MON	0.404929
+
+Aon	AON	0.402404
+
+'s	KO	0.402283
+
+Jude	STJ	0.397697
+
+'s	AXP	0.387150
+
+$	OXY	-1.099660
+
+Gulf	RIG	-0.911481
+
+Life	LNC	-0.541587
+
+Friday	BBY	-0.536079
+
+Monster	MWW	-0.523629
+
+Futures	ICE	-0.509401
+
+Vegas	WYNN	-0.490672
+
+Heparin	BAX	-0.465839
+
+US	GIS	-0.455479
+
+'s	MMM	-0.446965
+
+Tech	NVDA	-0.444966
+
+'s	JNJ	-0.438628
+
+Aetna	AET	-0.431434
+
+CVS	WAG	-0.430787
+
+Jobs	ADP	-0.425044
+
+Retail	KSS	-0.419823
+
+Micron	MU	-0.396724
+
+Loews	L	-0.393924
+
+Gamble	PG	-0.387586
+
+'s	CI	-0.375595
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.537974
+
+Makers	F	0.868774
+
+Financial	AXP	0.844126
+
+stocks	HES	0.829005
+
+Retail	TGT	0.779936
+
+retail	M	0.760884
+
+Staples	SPLS	0.758150
+
+Alibaba	YHOO	0.699962
+
+'s	APOL	0.690337
+
+Exchange	NDAQ	0.680850
+
+Pulte	PHM	0.675037
+
+stocks	LUV	0.642648
+
+Buffett	AXP	0.479984
+
+Stocks	SHLD	0.476606
+
+Stocks	LUV	0.471032
+
+HOT	PLL	0.458669
+
+Tech	WDC	0.427919
+
+U.S.	TSO	0.420121
+
+Times	NYT	0.418899
+
+Earnings	BBY	0.403641
+
+Credit	V	-1.150280
+
+Stocks	ADI	-0.958399
+
+FDA	BMY	-0.707016
+
+HOT	PAYX	-0.562469
+
+Dow	MCD	-0.519346
+
+'s	MS	-0.490289
+
+Banks	FITB	-0.468520
+
+stocks	APC	-0.466965
+
+US	ADBE	-0.464642
+
+TJX	TJX	-0.458211
+
+$	ORCL	-0.451631
+
+Earnings	AA	-0.449351
+
+US	MTG	-0.448470
+
+Chevron	CVX	-0.445399
+
+US	JCP	-0.431676
+
+Office	ODP	-0.429890
+
+HOT	WU	-0.425254
+
+Oil	MRO	-0.393210
+
+ConAgra	CAG	-0.388400
+
+Goldman	JNJ	-0.379717
+

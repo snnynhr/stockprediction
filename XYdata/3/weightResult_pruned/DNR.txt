@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.153647
+
+MARKET	M	0.677925
+
+Energy	VLO	0.665539
+
+Delta	LUV	0.643265
+
+stocks	NVDA	0.639419
+
+PNC	PNC	0.542885
+
+Stock	TIF	0.531842
+
+Sales	NKE	0.481350
+
+'s	MET	0.466295
+
+H-P	EMC	0.453458
+
+Deepwater	RIG	0.451430
+
+Stocks	BTU	0.428811
+
+STOCKS	LEN	0.413113
+
+Nike	NKE	0.392219
+
+AOL	TWX	0.389564
+
+'s	STT	0.384794
+
+Stocks	TXN	0.361607
+
+Ceradyne	MMM	0.342224
+
+Costco	COST	0.314889
+
+$	LLY	0.312154
+
+Valero	TSO	-0.719886
+
+STOCKS	TXN	-0.642318
+
+Intuit	INTU	-0.620203
+
+Nasdaq	ICE	-0.549643
+
+Starwood	HOT	-0.528606
+
+Stocks	M	-0.528349
+
+Sales	JWN	-0.526651
+
+Exelon	EXC	-0.487423
+
+US	SHLD	-0.453278
+
+Adobe	ADBE	-0.452839
+
+Bank	BK	-0.421851
+
+'s	ADM	-0.385928
+
+Energy	NRG	-0.381122
+
+Amylin	BMY	-0.376760
+
+Scientific	BSX	-0.366941
+
+'s	QCOM	-0.364552
+
+Paper	IP	-0.355154
+
+Chevron	CVX	-0.340010
+
+Sector	TXN	-0.333158
+
+Medtronic	MDT	-0.325665
+

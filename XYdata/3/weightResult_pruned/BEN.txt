@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.524767
+
+Home	PHM	0.678756
+
+Stocks	ESRX	0.621504
+
+Apple	VZ	0.578762
+
+US	BUD	0.565941
+
+Aon	AON	0.562080
+
+Morris	PM	0.467897
+
+Stocks	HUM	0.449138
+
+Sherwin-Williams	SHW	0.444561
+
+Rise	AA	0.431541
+
+Controls	JCI	0.408984
+
+Family	FDO	0.408339
+
+Hartford	HIG	0.404787
+
+VF	VFC	0.368174
+
+Capital	ACAS	0.362822
+
+Costco	COST	0.349070
+
+Oil	HES	0.316984
+
+'s	STT	0.315272
+
+Ciena	CIEN	0.311705
+
+One	COF	0.299339
+
+Hospira	HSP	-1.101230
+
+Spill	RIG	-0.869444
+
+TECH	BRCM	-0.794630
+
+US	NKE	-0.756135
+
+Life	LNC	-0.676761
+
+Stocks	FSLR	-0.674656
+
+CBS	CBS	-0.646580
+
+CenturyTel	CTL	-0.593226
+
+Drug	AGN	-0.587930
+
+Tyco	TYC	-0.569953
+
+Friday	BBY	-0.522464
+
+'s	CHK	-0.518629
+
+Coal	BTU	-0.513757
+
+'s	WAG	-0.497173
+
+U.S.	MON	-0.480279
+
+AutoZone	AZO	-0.460337
+
+Amgen	AMGN	-0.456014
+
+Gilead	GILD	-0.448778
+
+Red	RHT	-0.436254
+
+Chevron	XOM	-0.434078
+

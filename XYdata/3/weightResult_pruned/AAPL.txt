@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	2.03172
+
+US	HIG	0.790789
+
+stocks	AKAM	0.783995
+
+Pulte	PHM	0.652412
+
+Refinery	CVX	0.609227
+
+Wynn	WYNN	0.588528
+
+stocks	BMY	0.582165
+
+Stocks	GNW	0.545521
+
+HOT	MA	0.538651
+
+Stocks	CVS	0.523823
+
+Morris	PM	0.508393
+
+energy	VLO	0.503085
+
+Surgical	ISRG	0.470830
+
+'s	VIA	0.470365
+
+Stocks	CSX	0.457371
+
+Black	TGT	0.436538
+
+Steel	X	0.422033
+
+Sales	HD	0.420995
+
+FAA	LUV	0.419612
+
+Fisher	TMO	0.410330
+
+Dow	HD	-0.817430
+
+Chip	BRCM	-0.766848
+
+Energy	APC	-0.735980
+
+LNG	CVX	-0.709352
+
+Insurers	PRU	-0.683751
+
+'s	OMC	-0.613104
+
+Express	AXP	-0.611413
+
+Stocks	MDLZ	-0.594916
+
+Fall	AMD	-0.524369
+
+Gas	CHK	-0.522638
+
+Tysabri	BIIB	-0.509711
+
+Trust	NTRS	-0.496703
+
+McDonald	MCD	-0.470174
+
+HOT	JNJ	-0.468305
+
+FDA	PFE	-0.467732
+
+Game	EA	-0.456549
+
+stocks	CHK	-0.448583
+
+Waste	RSG	-0.439606
+
+Lennar	LEN	-0.436623
+
+CEO	YHOO	-0.407562
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.224508
+
+U.S.	F	0.831270
+
+HOT	COF	0.682383
+
+Energy	HAL	0.630865
+
+Edwards	EW	0.613344
+
+'s	TXN	0.589433
+
+Says	BMY	0.539055
+
+Apple	JNPR	0.534585
+
+STOCKS	EMC	0.520539
+
+Reports	VLO	0.518552
+
+Rating	MCO	0.508976
+
+stocks	MCD	0.507280
+
+US	JWN	0.488074
+
+HOT	FDO	0.484048
+
+US	AA	0.478819
+
+Banks	BBT	0.476297
+
+US	M	0.471361
+
+Morgan	BAC	0.444574
+
+Cable	CVC	0.439346
+
+Case	AMD	0.439200
+
+Valero	TSO	-0.794850
+
+Retail	WAG	-0.753049
+
+after	AA	-0.648555
+
+Apple	INTC	-0.630669
+
+'s	MYL	-0.625357
+
+Stocks	HRB	-0.624983
+
+Intel	NVDA	-0.603180
+
+Air	NOC	-0.585183
+
+Tysabri	BIIB	-0.559097
+
+stocks	SHLD	-0.557379
+
+STOCKS	LOW	-0.547825
+
+Cigarette	RAI	-0.541042
+
+Street	MS	-0.533603
+
+'s	GPS	-0.531098
+
+Domain	NTAP	-0.528435
+
+Gulf	XOM	-0.513616
+
+Estee	EL	-0.511987
+
+Caremark	CVS	-0.491449
+
+Chevron	CVX	-0.490281
+
+U.S.	HD	-0.477962
+

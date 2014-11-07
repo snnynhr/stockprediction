@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	1.41604
+
+$	DE	1.167820
+
+Restaurants	DRI	1.119150
+
+Gains	MU	1.032040
+
+Norfolk	NSC	0.841078
+
+Sales	WMT	0.825288
+
+Campbell	CPB	0.675238
+
+US	PG	0.613076
+
+stocks	AXP	0.575743
+
+Chip	AMD	0.434801
+
+Boeing	UTX	0.419648
+
+US	DIS	0.404755
+
+Media	TWX	0.387926
+
+Lilly	LLY	0.379701
+
+Tech	TXN	0.372636
+
+Oil	HES	0.371275
+
+Oil	APA	0.364252
+
+AK	AKS	0.334027
+
+Sales	COST	0.319469
+
+Deal	APA	0.314567
+
+Macy	KSS	-0.912805
+
+Becton	BDX	-0.801655
+
+KLA-Tencor	KLAC	-0.787232
+
+Chevron	CVX	-0.706593
+
+Stocks	SNDK	-0.620369
+
+ImClone	BMY	-0.612428
+
+Monsanto	MON	-0.492650
+
+US	VLO	-0.489205
+
+KB	KBH	-0.446211
+
+Honeywell	HON	-0.428711
+
+stocks	HD	-0.418084
+
+Thursday	VRSN	-0.417116
+
+SEC	NDAQ	-0.416753
+
+U.S.	SBUX	-0.408760
+
+Noble	NBL	-0.403405
+
+Transocean	RIG	-0.377879
+
+Earnings	AA	-0.376605
+
+Nymex	CME	-0.366117
+
+Green	SBUX	-0.354941
+
+J	PFE	-0.348063
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	1.08673
+
+gas	CHK	0.922314
+
+Plant	VLO	0.725688
+
+U.S.	DOW	0.699624
+
+$	CME	0.691551
+
+Exxon	COP	0.664384
+
+US	WAG	0.628431
+
+TECH	AMD	0.524779
+
+HOT	MRK	0.518550
+
+Credit-Card	COF	0.494356
+
+Retail	ANF	0.475627
+
+Earnings	LOW	0.464906
+
+Cloud	CRM	0.462515
+
+stocks	SWN	0.451292
+
+AIA	AIG	0.440915
+
+Entergy	ETR	0.438633
+
+Home	LEN	0.427882
+
+Airgas	ARG	0.410036
+
+US	PFE	0.407010
+
+Discover	DFS	0.390078
+
+Microsoft	CRM	-0.985612
+
+Stocks	MDLZ	-0.978410
+
+Chevron	XOM	-0.941462
+
+'s	CSCO	-0.914190
+
+Intuit	INTU	-0.845009
+
+May	COF	-0.826731
+
+Stocks	M	-0.702014
+
+Stock	MU	-0.665367
+
+Unit	HES	-0.665175
+
+Oil	DVN	-0.627030
+
+Chip	BRCM	-0.610832
+
+Profit	LOW	-0.588152
+
+Sector	TXN	-0.565273
+
+Data	EMC	-0.564638
+
+Starwood	HOT	-0.555181
+
+Whirlpool	WHR	-0.535779
+
+Glass	GLW	-0.524388
+
+Up	NDAQ	-0.494730
+
+Morgan	COF	-0.431941
+
+Stocks	ORCL	-0.429731
+

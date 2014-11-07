@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.685932
+
+Expeditors	EXPD	1.220020
+
+Oil	HES	0.713269
+
+'s	BLK	0.616444
+
+Banks	BBT	0.615809
+
+First	FSLR	0.534715
+
+Safeway	SWY	0.492109
+
+PNC	PNC	0.465310
+
+Pepper	DPS	0.428241
+
+'s	CRM	0.397932
+
+MasterCard	MA	0.350558
+
+stocks	TXN	0.344905
+
+AIG	MET	0.336636
+
+EBay	EBAY	0.336276
+
+Penney	JCP	0.312733
+
+Urban	URBN	0.307958
+
+Chemical	DOW	0.301837
+
+PPG	PPG	0.298957
+
+'s	ADBE	0.294240
+
+Ford	F	0.289354
+
+Stocks	MRK	-1.162840
+
+'s	WLP	-0.794859
+
+Credit	MA	-0.776346
+
+'s	XRX	-0.730067
+
+Microchip	MCHP	-0.680246
+
+Morning	BAC	-0.642536
+
+J	ABT	-0.608147
+
+Corning	GLW	-0.572108
+
+Mellon	BK	-0.569272
+
+'s	EBAY	-0.553769
+
+Spill	RIG	-0.549710
+
+BP	TSO	-0.547122
+
+CEO	NDAQ	-0.529562
+
+Stocks	PG	-0.515770
+
+'s	AA	-0.513426
+
+'s	CMCSA	-0.489504
+
+Cancer	AMGN	-0.481241
+
+$	HES	-0.468128
+
+'s	IP	-0.452693
+
+Stocks	M	-0.442692
+

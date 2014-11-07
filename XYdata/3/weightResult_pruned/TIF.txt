@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.381701
+
+VMware	EMC	1.272570
+
+FDA	MDT	0.816989
+
+Insurers	GNW	0.761710
+
+Friday	CRM	0.757396
+
+Kraft	MDLZ	0.632161
+
+Banks	BBT	0.588581
+
+Progress	DUK	0.555007
+
+HOT	CHK	0.502243
+
+stocks	TXN	0.497399
+
+Hormel	HRL	0.482862
+
+Harley	HOG	0.443221
+
+US	GPS	0.438165
+
+Prices	VLO	0.436319
+
+Biogen	BIIB	0.411719
+
+Pulte	PHM	0.410509
+
+Morning	BBY	0.386481
+
+Management	WM	0.364202
+
+Nuclear	ETR	0.363504
+
+Energy	HAL	0.355887
+
+CFTC	CME	-1.110690
+
+Interpublic	IPG	-1.014250
+
+Sales	JWN	-0.677000
+
+Comcast	CMCSA	-0.639626
+
+Stocks	FSLR	-0.629971
+
+Gulf	APC	-0.616864
+
+Friday	BBY	-0.602436
+
+Housing	LEN	-0.571878
+
+Supervalu	SVU	-0.558579
+
+'s	APC	-0.541012
+
+Tysabri	BIIB	-0.524232
+
+KeyCorp	KEY	-0.518230
+
+Discovery	DISCA	-0.502394
+
+Stocks	DE	-0.484714
+
+Hospira	HSP	-0.455516
+
+Medtronic	MDT	-0.441119
+
+Noble	NBL	-0.439567
+
+Copper	FCX	-0.422551
+
+stocks	MA	-0.417624
+
+Tech	EMC	-0.415670
+

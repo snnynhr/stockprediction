@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-1.2763
+
+U.S.	FDX	0.796452
+
+Spill	HAL	0.792010
+
+'s	MS	0.788458
+
+Dell	EMC	0.708896
+
+United	UTX	0.601406
+
+AmEx	AXP	0.478148
+
+EADS	BA	0.462551
+
+Health	AET	0.439124
+
+Apache	APA	0.428002
+
+Exxon	XOM	0.422870
+
+Textron	TXT	0.395998
+
+'s	DVN	0.373022
+
+U.S.	AIG	0.367994
+
+Salesforce.com	CRM	0.355025
+
+sales	EA	0.352530
+
+Disney	DIS	0.350032
+
+'s	MCO	0.336985
+
+Dow	AA	0.330175
+
+Con	ED	0.319794
+
+stocks	PFG	-1.399790
+
+Gas	XOM	-1.071470
+
+Ford	GM	-0.671961
+
+Apple	EA	-0.658491
+
+FirstEnergy	FE	-0.640508
+
+Chevron	CVX	-0.636867
+
+China	NKE	-0.631705
+
+Kayak	PCLN	-0.619777
+
+$	VLO	-0.611278
+
+Firms	MCO	-0.602664
+
+Kellogg	K	-0.589456
+
+Gilead	GILD	-0.581486
+
+China	KO	-0.554143
+
+Power	DUK	-0.542073
+
+Stocks	RF	-0.538246
+
+'s	CRM	-0.535311
+
+Stocks	LRCX	-0.534373
+
+Defense	LMT	-0.527383
+
+Retail	BBY	-0.507974
+
+Media	NFLX	-0.494899
+

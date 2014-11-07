@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.0669359
+
+stocks	SWN	0.907247
+
+'s	AXP	0.816474
+
+HOT	CHK	0.692008
+
+Stocks	ADP	0.690654
+
+Retail	SHLD	0.655352
+
+Sales	SPLS	0.650972
+
+stocks	PCLN	0.638208
+
+Penney	M	0.634381
+
+stocks	BMY	0.562648
+
+Bank	PNC	0.556906
+
+Media	TWX	0.510350
+
+Stocks	BRCM	0.498019
+
+Retail	ANF	0.482900
+
+Genworth	GNW	0.477550
+
+T	VZ	0.456316
+
+AOL	TWX	0.450096
+
+Banks	RF	0.449877
+
+'s	BLK	0.421014
+
+Stocks	TXN	0.415138
+
+AIG	GPS	-1.079060
+
+'s	KBH	-0.886984
+
+Harley-Davidson	HOG	-0.760347
+
+Paccar	PCAR	-0.708463
+
+Coal	BTU	-0.684803
+
+May	COF	-0.609831
+
+Warner	TWX	-0.598880
+
+Stocks	CAT	-0.586760
+
+Red	RHT	-0.576515
+
+'s	UPS	-0.569932
+
+Regions	RF	-0.535195
+
+$	OXY	-0.530731
+
+Juniper	JNPR	-0.526985
+
+Stocks	ADI	-0.514325
+
+US	PRU	-0.493458
+
+Qualcomm	BRCM	-0.481922
+
+Microsoft	AMD	-0.471573
+
+Coffee	SBUX	-0.457201
+
+US	STI	-0.414704
+
+Buy	AKAM	-0.377416
+

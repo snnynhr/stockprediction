@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.943917
+
+Google	ORCL	1.107840
+
+US	MA	0.887879
+
+$	EXC	0.788438
+
+Tenet	THC	0.619439
+
+'s	WFM	0.553135
+
+Study	MDT	0.535532
+
+'s	GME	0.518113
+
+Times	NYT	0.466505
+
+Banks	CMA	0.447350
+
+HOT	FDX	0.444319
+
+US	NDAQ	0.428686
+
+'s	STT	0.415729
+
+Stocks	INTC	0.398654
+
+Energy	VLO	0.370562
+
+Stocks	KO	0.365170
+
+HOT	MRK	0.360957
+
+Stocks	WDC	0.356182
+
+Stocks	EA	0.352318
+
+Facebook	NDAQ	0.350144
+
+Shares	NVDA	-1.418020
+
+SNAPSHOT	MDLZ	-1.206560
+
+Trial	ABT	-1.002860
+
+stocks	SHLD	-0.678536
+
+Coffee	SBUX	-0.638090
+
+Life	HIG	-0.636305
+
+Stocks	M	-0.628844
+
+'s	BIIB	-0.576720
+
+Prudential	PRU	-0.550582
+
+Intuit	INTU	-0.513192
+
+'s	KBH	-0.504473
+
+Lorillard	LO	-0.492297
+
+Stock	DIS	-0.454991
+
+Seagate	STX	-0.449539
+
+Stocks	QCOM	-0.418941
+
+Gas	XOM	-0.408389
+
+Mason	LM	-0.406784
+
+Prices	HES	-0.403012
+
+Stock	AIG	-0.375946
+
+Office	SPLS	-0.375288
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.167633
+
+Apple	CSCO	1.150740
+
+Banks	BBT	0.816797
+
+Up	CAT	0.754691
+
+Banks	ZION	0.686872
+
+'s	CSCO	0.670462
+
+Profit	BUD	0.670193
+
+Futures	CME	0.582923
+
+Chip	AMD	0.569833
+
+One	COF	0.565313
+
+IPO	NDAQ	0.545225
+
+General	GD	0.535736
+
+US	HAR	0.529257
+
+HOT	VNO	0.474600
+
+AIG	MET	0.434158
+
+Sales	EA	0.433343
+
+Stryker	SYK	0.433289
+
+Delta	LUV	0.420053
+
+Solar	PCG	0.411633
+
+U.S.	MMM	0.404662
+
+Texas	VLO	-1.110320
+
+Morning	BAC	-0.991401
+
+Juniper	JNPR	-0.926168
+
+Market	NDAQ	-0.902341
+
+Interest	NDAQ	-0.733759
+
+Stent	ABT	-0.722300
+
+Life	PRU	-0.702320
+
+Paccar	PCAR	-0.654087
+
+Baxter	BAX	-0.653320
+
+Expro	HAL	-0.506564
+
+Consol	CNX	-0.499706
+
+Stocks	MA	-0.498509
+
+Stocks	BBY	-0.495990
+
+Seagate	STX	-0.490395
+
+AutoNation	AN	-0.488584
+
+J	BIIB	-0.486289
+
+St	STJ	-0.468938
+
+Ciena	CIEN	-0.462610
+
+Trades	NDAQ	-0.457369
+
+HOT	MAR	-0.437266
+

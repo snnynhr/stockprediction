@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.664099
+
+Gains	TXN	0.782232
+
+Morgan	RF	0.767320
+
+Bank	ZION	0.748629
+
+'s	GS	0.718103
+
+stocks	QCOM	0.691812
+
+US	LEN	0.691672
+
+'s	CRM	0.613794
+
+Exxon	VLO	0.546922
+
+stocks	TXN	0.506903
+
+Warner	TWX	0.463857
+
+PNC	PNC	0.448566
+
+TECH	AMD	0.437551
+
+US	FITB	0.423693
+
+Bristol-Myers	BMY	0.421486
+
+Oil	XOM	0.419115
+
+Deere	DE	0.402000
+
+Earnings	LOW	0.396580
+
+Tyson	TSN	0.376395
+
+Times	NYT	0.370081
+
+Paccar	PCAR	-0.877283
+
+Deutsche	UPS	-0.803512
+
+Gas	XOM	-0.695685
+
+Stock	SNDK	-0.681541
+
+'s	PFE	-0.591138
+
+Stocks	MU	-0.517034
+
+Cable	TWC	-0.497227
+
+'s	PHM	-0.477628
+
+Oil	VLO	-0.454952
+
+'s	BIIB	-0.439982
+
+energy	XOM	-0.432975
+
+ConAgra	CAG	-0.430934
+
+Stock	DE	-0.430008
+
+Prudential	BLK	-0.428974
+
+Bank	STT	-0.427143
+
+$	MRO	-0.403689
+
+Stocks	INTU	-0.401833
+
+Whirlpool	WHR	-0.398743
+
+Expro	HAL	-0.397850
+
+Regions	RF	-0.365535
+

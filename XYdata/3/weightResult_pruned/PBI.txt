@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	1.39268
+
+Philip	PM	0.913560
+
+First	FSLR	0.888032
+
+Gains	TXN	0.823350
+
+Bond	MBI	0.812064
+
+Vornado	VNO	0.697193
+
+'s	AGN	0.581000
+
+Wireless	VZ	0.578623
+
+Netflix	TWX	0.546890
+
+Stocks	RIG	0.545521
+
+Retail	ANF	0.510129
+
+Cigna	CI	0.504354
+
+U.S.	HUM	0.470287
+
+Discover	DFS	0.450941
+
+'s	MCO	0.448689
+
+Botox	AGN	0.435289
+
+'s	ADBE	0.416759
+
+Energy	VLO	0.405703
+
+Backs	JNJ	0.397106
+
+Entergy	ETR	0.392031
+
+Sector	TXN	-0.949678
+
+stocks	OXY	-0.884997
+
+General	GD	-0.678310
+
+US	PNC	-0.672179
+
+HOT	CI	-0.559530
+
+'s	CHK	-0.553683
+
+stocks	INTC	-0.549513
+
+GM	F	-0.522536
+
+FDA	LLY	-0.519403
+
+U.S.	INTC	-0.496130
+
+TECH	BRCM	-0.469108
+
+Bid	EMC	-0.467499
+
+Domain	EMC	-0.464270
+
+Solar	FSLR	-0.457892
+
+stocks	XOM	-0.438663
+
+Stocks	QCOM	-0.410088
+
+'s	PHM	-0.402153
+
+Yahoo	YHOO	-0.395696
+
+Hughes	BHI	-0.395183
+
+May	F	-0.393896
+

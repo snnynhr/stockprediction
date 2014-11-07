@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.232186
+
+Sales	LOW	0.910406
+
+stocks	SLB	0.851444
+
+'s	BLK	0.760766
+
+Natural	CHK	0.752759
+
+Airgas	ARG	0.725984
+
+$	EA	0.661958
+
+Altera	ALTR	0.651208
+
+Recalls	JNJ	0.635350
+
+Dow	AXP	0.608236
+
+Stocks	TXN	0.604949
+
+Insurers	HUM	0.568027
+
+$	STT	0.526118
+
+Restaurants	MCD	0.510400
+
+Stock	COL	0.492245
+
+Materials	AMAT	0.474460
+
+'s	CVS	0.467463
+
+Elan	BIIB	0.449289
+
+Wireless	T	0.422612
+
+Defense	LMT	0.396698
+
+Sector	TXN	-0.934715
+
+Stocks	ODP	-0.892168
+
+Stocks	AMAT	-0.790904
+
+Chevron	XOM	-0.771577
+
+'s	AA	-0.752152
+
+Bank	BBT	-0.655354
+
+Red	RHT	-0.651475
+
+DeVry	DV	-0.622906
+
+stocks	XOM	-0.606157
+
+$	APC	-0.538069
+
+Order	BA	-0.537322
+
+Bid	HAL	-0.536878
+
+Intel	NVDA	-0.531806
+
+US	HIG	-0.522994
+
+Wells	WFC	-0.510775
+
+Insurers	PRU	-0.505053
+
+Profit	HD	-0.494811
+
+China	NKE	-0.493796
+
+New	BRK.B	-0.485860
+
+NYSE	ICE	-0.481006
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-1.34586
+
+Crude	VLO	0.984487
+
+'s	CRM	0.822599
+
+Health	WLP	0.580174
+
+Stocks	PM	0.548615
+
+sales	M	0.537972
+
+Zynga	EA	0.518019
+
+Philip	PM	0.513505
+
+stocks	TSO	0.509481
+
+Sales	GPS	0.463902
+
+Boston	BSX	0.462141
+
+BP	CAM	0.414566
+
+Stock	STJ	0.405699
+
+Financial	NDAQ	0.404464
+
+Yum	YUM	0.402961
+
+UPS	UPS	0.390478
+
+Peabody	BTU	0.381067
+
+Danaher	DHR	0.363582
+
+AIG	MET	0.345961
+
+Stryker	SYK	0.345882
+
+U.S.	BRK.B	-0.982940
+
+Airlines	LUV	-0.875991
+
+US	GIS	-0.713424
+
+$	MRO	-0.681203
+
+Gas	CHK	-0.665946
+
+Exchanges	NDAQ	-0.663934
+
+Discover	MA	-0.650555
+
+Mortgage	MTG	-0.638899
+
+'s	APA	-0.633370
+
+Stocks	CVX	-0.588006
+
+'s	GPS	-0.556789
+
+Sales	WAG	-0.527027
+
+Bid	NDAQ	-0.514761
+
+Gold	NEM	-0.510396
+
+ConocoPhillips	COP	-0.496914
+
+$	T	-0.496528
+
+Facebook	WFC	-0.490314
+
+Sales	CAT	-0.471994
+
+Republic	RSG	-0.451402
+
+Exxon	XOM	-0.433466
+

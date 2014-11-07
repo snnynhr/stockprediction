@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-1.05198
+
+US	AXP	0.864393
+
+Retailers	M	0.817012
+
+Oil	HAL	0.771653
+
+TECH	SNDK	0.700681
+
+'s	NFLX	0.674009
+
+Carnival	CCL	0.665468
+
+Oil	MUR	0.479808
+
+Facebook	NDAQ	0.468897
+
+Group	APOL	0.454301
+
+'s	PG	0.441384
+
+Morris	PM	0.398431
+
+HOT	WYNN	0.397788
+
+HOT	CHK	0.397279
+
+US	WDC	0.397032
+
+Refinery	LYB	0.381191
+
+Stocks	TXN	0.377743
+
+Energy	SRE	0.367712
+
+Stocks	CMCSA	0.358271
+
+Dell	EMC	0.353720
+
+Life	PRU	-1.009080
+
+stocks	INTC	-0.956083
+
+Net	M	-0.815574
+
+'s	JNJ	-0.739259
+
+Buy	GE	-0.712397
+
+Ingersoll-Rand	IR	-0.659531
+
+Cisco	AMD	-0.616646
+
+Stocks	IBM	-0.606766
+
+U.S.	V	-0.598770
+
+$	CVX	-0.578394
+
+Banks	C	-0.574191
+
+Stock	MCD	-0.570159
+
+U.S.	SHLD	-0.558846
+
+Kellogg	K	-0.512124
+
+Stocks	ADBE	-0.505555
+
+Gulf	XOM	-0.488570
+
+Deal	CMCSA	-0.474938
+
+Trading	SCHW	-0.435153
+
+U.S.	BBY	-0.428990
+
+'s	CVX	-0.404068
+

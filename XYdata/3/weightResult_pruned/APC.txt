@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-1.03759
+
+Up	ABT	0.725852
+
+Morning	F	0.723487
+
+US	QCOM	0.593934
+
+Retailers	HD	0.517595
+
+Banks	STI	0.502752
+
+Loss	DFS	0.495313
+
+News	CBS	0.469326
+
+U.S.	JWN	0.467419
+
+Danaher	DHR	0.463058
+
+Allergan	AGN	0.456086
+
+United	UTX	0.448765
+
+Exxon	CVX	0.398855
+
+Tiffany	TIF	0.391963
+
+$	CVX	0.386719
+
+US	COF	0.378494
+
+Oil	HES	0.378256
+
+'s	PNC	0.373474
+
+Reports	COP	0.372657
+
+Stocks	TXN	0.367862
+
+'s	CSCO	-0.917093
+
+Stocks	KEY	-0.884536
+
+Gulf	APC	-0.873446
+
+Valero	COP	-0.846959
+
+US	BHI	-0.775068
+
+AvalonBay	AVB	-0.740188
+
+'s	KBH	-0.727859
+
+Intuit	INTU	-0.681293
+
+Prudential	AIG	-0.653270
+
+NY	BK	-0.617790
+
+$	CRM	-0.606462
+
+$	HES	-0.595849
+
+Ingersoll-Rand	IR	-0.576552
+
+TI	TXN	-0.564457
+
+Ambac	MBI	-0.557819
+
+Amylin	LLY	-0.504675
+
+CenturyTel	CTL	-0.501166
+
+'s	FCX	-0.491471
+
+Medical	ABT	-0.485784
+
+Red	RHT	-0.439775
+

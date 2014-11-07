@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.267547
+
+'s	BSX	0.891619
+
+'s	ABT	0.831168
+
+'s	GM	0.822761
+
+'s	DD	0.790435
+
+STOCKS	SNDK	0.748975
+
+'s	LM	0.634055
+
+Stocks	SLB	0.617501
+
+HOT	MRK	0.573587
+
+Sales	TJX	0.568629
+
+Darden	DRI	0.568521
+
+Stocks	ADM	0.550542
+
+Dow	TRV	0.549465
+
+Stock	AIG	0.520474
+
+Finish	NKE	0.510041
+
+Oil	APC	0.508058
+
+Health	UNH	0.489960
+
+STOCKS	STX	0.488648
+
+Priceline	PCLN	0.481467
+
+Cable	TWC	0.432087
+
+Game	EA	-0.757443
+
+Martin	LMT	-0.740495
+
+Insurers	PFG	-0.566869
+
+Express	AXP	-0.532934
+
+HOT	UPS	-0.520807
+
+Ralcorp	CAG	-0.500956
+
+Sprint	T	-0.483994
+
+stocks	CHK	-0.482393
+
+Stocks	APC	-0.472388
+
+Nokia	CIEN	-0.451878
+
+'s	XOM	-0.442637
+
+Oil	DVN	-0.439777
+
+Union	UNP	-0.426176
+
+Lowe	LOW	-0.410185
+
+Cable	TWX	-0.382992
+
+US	NOC	-0.377941
+
+'s	LLY	-0.363049
+
+Up	BHI	-0.361499
+
+Gap	GPS	-0.356109
+
+American	AEP	-0.349411
+

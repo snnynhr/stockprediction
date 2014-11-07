@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.0574753
+
+Retailers	HD	1.202200
+
+Drug	GILD	0.921952
+
+'s	COH	0.682349
+
+Stocks	YHOO	0.672142
+
+UPS	FDX	0.616289
+
+CSX	CSX	0.427502
+
+Salesforce.com	CRM	0.423823
+
+Chloride	EMR	0.402458
+
+TECH	SNDK	0.402320
+
+Entergy	ETR	0.394392
+
+Fed	C	0.376318
+
+stocks	NVDA	0.369736
+
+Botox	AGN	0.360050
+
+Dynamics	GD	0.355773
+
+'s	BBY	0.349540
+
+Stocks	GNW	0.338196
+
+J.M.	SJM	0.333817
+
+New	YHOO	0.328993
+
+Financial	GNW	0.307030
+
+'s	GCI	-0.909345
+
+China	YUM	-0.830947
+
+Stocks	MRK	-0.752384
+
+'s	KBH	-0.740915
+
+Shares	AMD	-0.670602
+
+'s	COP	-0.644868
+
+'s	CSCO	-0.539772
+
+Stocks	IBM	-0.513373
+
+Office	ODP	-0.496600
+
+Stocks	FSLR	-0.495161
+
+ConAgra	CAG	-0.464343
+
+CME	CME	-0.452431
+
+Drug	LLY	-0.445683
+
+'s	PEP	-0.424889
+
+U.S.	FDO	-0.424507
+
+'s	PRU	-0.419779
+
+Qualcomm	BRCM	-0.417636
+
+'s	NFLX	-0.408966
+
+Valero	VLO	-0.395932
+
+T	T	-0.376195
+

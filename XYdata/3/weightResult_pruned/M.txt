@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.172798
+
+Management	WM	0.796792
+
+SEC	MCO	0.561963
+
+Stocks	UNH	0.555096
+
+'s	CVS	0.554773
+
+Financial	BLK	0.542611
+
+Stocks	AA	0.534999
+
+U.S.	DD	0.488255
+
+Regional	KEY	0.455228
+
+Coca-Cola	KO	0.444966
+
+stocks	CSCO	0.398320
+
+Oil	HES	0.397425
+
+Stocks	HD	0.396222
+
+Hershey	HSY	0.373131
+
+Lauder	EL	0.371810
+
+Dillard	DDS	0.371796
+
+Airline	LUV	0.349355
+
+First	FSLR	0.333529
+
+Bank	HBAN	0.331279
+
+Chesapeake	CHK	0.331163
+
+Rambus	MU	-1.077140
+
+Sector	TXN	-0.856978
+
+Earnings	AA	-0.796254
+
+$	HES	-0.772615
+
+Stocks	GPS	-0.763398
+
+New	EBAY	-0.755524
+
+Tyco	TYC	-0.671903
+
+Resorts	WYNN	-0.616134
+
+Makers	F	-0.590495
+
+'s	VZ	-0.544749
+
+ADP	ADP	-0.525347
+
+$	SPLS	-0.524712
+
+Exelon	NRG	-0.523382
+
+US	BSX	-0.512116
+
+Manitowoc	MTW	-0.505940
+
+U.S.	BA	-0.505081
+
+$	VZ	-0.494477
+
+Stocks	JCI	-0.474136
+
+Amylin	LLY	-0.463274
+
+'s	V	-0.439343
+

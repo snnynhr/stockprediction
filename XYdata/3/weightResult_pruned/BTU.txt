@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.916781
+
+E*Trade	SCHW	1.230330
+
+stocks	TXN	0.975936
+
+Friday	SHLD	0.766518
+
+Oil	ICE	0.692458
+
+Device	MDT	0.688087
+
+Dynamics	GD	0.687706
+
+Estee	EL	0.628147
+
+STOCKS	AMD	0.587758
+
+NYSE	NDAQ	0.556643
+
+Big	USB	0.539551
+
+Wal-Mart	WMT	0.525115
+
+Banks	BAC	0.524923
+
+BofA	USB	0.488967
+
+HOT	CF	0.487662
+
+Lincoln	LNC	0.448939
+
+stocks	SWN	0.429670
+
+Retailers	HD	0.424423
+
+Restarts	VLO	0.422426
+
+CarMax	KMX	0.417840
+
+'s	PRU	-0.869121
+
+Gulf	APC	-0.816615
+
+Ambac	MBI	-0.742223
+
+Stocks	MDLZ	-0.684495
+
+Friday	M	-0.639824
+
+H-P	HPQ	-0.630282
+
+Nan	AIG	-0.619371
+
+REIT	HCN	-0.616053
+
+US	UTX	-0.576967
+
+Sector	TXN	-0.551991
+
+Occidental	OXY	-0.523530
+
+Intuit	INTU	-0.504541
+
+Red	RHT	-0.476493
+
+US	TXT	-0.453600
+
+Express	AXP	-0.451440
+
+Western	WDC	-0.445253
+
+J	MRK	-0.444961
+
+Trading	NDAQ	-0.392106
+
+Chip	NVDA	-0.362714
+
+U.S.	HD	-0.354581
+

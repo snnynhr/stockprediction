@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.818751
+
+STOCKS	JNPR	1.099720
+
+PepsiCo	PEP	0.973965
+
+Bancorp	USB	0.835676
+
+Bank	RF	0.599810
+
+Icahn	CLX	0.588589
+
+Retailers	ANF	0.555078
+
+SEC	NFLX	0.491711
+
+'s	BUD	0.432002
+
+American	AXP	0.422421
+
+Ford	F	0.407881
+
+Safeway	SWY	0.355111
+
+'s	KO	0.345279
+
+Airline	LUV	0.338481
+
+'s	CRM	0.327118
+
+Big	BIG	0.312170
+
+Conoco	COP	0.295214
+
+Unit	JNJ	0.293825
+
+One	COF	0.291478
+
+Kroger	KR	0.237368
+
+US	ALL	-0.921759
+
+Gas	XOM	-0.798639
+
+'s	GE	-0.739417
+
+stocks	AA	-0.716782
+
+Juniper	JNPR	-0.696664
+
+'s	JNJ	-0.680025
+
+EMC	EMC	-0.679814
+
+Harley-Davidson	HOG	-0.623719
+
+Temple-Inland	IP	-0.601465
+
+J	PFE	-0.572080
+
+Bid	EMC	-0.568738
+
+US	ICE	-0.557029
+
+Buy	ORCL	-0.549084
+
+FDA	BMY	-0.539937
+
+HOT	CME	-0.498498
+
+Cummins	CMI	-0.491747
+
+U.S.	BRK.B	-0.466608
+
+Xilinx	XLNX	-0.465713
+
+US	X	-0.459917
+
+Citigroup	C	-0.450525
+

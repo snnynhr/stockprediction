@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.32367
+
+Retailers	ANF	0.794048
+
+'s	CRM	0.782946
+
+U.S.	DE	0.713748
+
+AIG	MET	0.684717
+
+Bank	RF	0.651331
+
+$	WAG	0.647683
+
+Lexmark	LXK	0.605640
+
+Bottling	PEP	0.558673
+
+U.S.	CHK	0.545150
+
+Trading	SCHW	0.543009
+
+Sales	TIF	0.532681
+
+Dow	TRV	0.512204
+
+stocks	HES	0.480269
+
+'s	RSH	0.465505
+
+U.S.	BBY	0.458629
+
+AK	AKS	0.443749
+
+'s	ABT	0.432879
+
+stocks	VLO	0.424799
+
+Banks	USB	0.423028
+
+$	PFE	-0.816419
+
+Morning	HPQ	-0.649931
+
+Fiscal	BBY	-0.599553
+
+US	UTX	-0.569766
+
+E*Trade	ETFC	-0.542652
+
+Occidental	OXY	-0.480379
+
+MasterCard	MA	-0.473010
+
+CME	CME	-0.468948
+
+US	X	-0.445545
+
+Hershey	HSY	-0.436317
+
+Bank	BK	-0.399401
+
+Carnival	CCL	-0.387265
+
+Markets	MDLZ	-0.381786
+
+Lennar	LEN	-0.355946
+
+Cisco	JNPR	-0.354750
+
+Imax	DIS	-0.349477
+
+Stocks	BRCM	-0.341729
+
+Qualcomm	BRCM	-0.341426
+
+Tobacco	RAI	-0.329244
+
+Steel	X	-0.326755
+

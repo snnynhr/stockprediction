@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.193005
+
+Stocks	MCD	0.682239
+
+Lifesciences	EW	0.546747
+
+Texas	TXN	0.522678
+
+'s	BK	0.519496
+
+US	MYL	0.483295
+
+'s	APOL	0.467899
+
+Drug	ABT	0.465657
+
+Refinery	HES	0.423327
+
+'s	LUV	0.420310
+
+CEO	JNPR	0.392473
+
+International	EIX	0.378436
+
+HOT	PLL	0.367589
+
+Sales	ANF	0.367394
+
+AOL	TWX	0.356049
+
+'s	AXP	0.352721
+
+Facebook	YHOO	0.351450
+
+HOT	WAG	0.351310
+
+Amylin	LLY	0.339353
+
+Campbell	CPB	0.339323
+
+$	CTL	-0.889120
+
+Apple	ORCL	-0.870363
+
+Wal-Mart	JWN	-0.796671
+
+New	EA	-0.761176
+
+stocks	BTU	-0.665542
+
+Intuit	INTU	-0.651050
+
+Stocks	M	-0.547773
+
+Google	YHOO	-0.494621
+
+H	GPS	-0.483097
+
+'s	SPLS	-0.474760
+
+US	SHLD	-0.454419
+
+'s	PRU	-0.442249
+
+Estee	EL	-0.412251
+
+Hess	HES	-0.406081
+
+Transocean	RIG	-0.404194
+
+Oil	SLB	-0.403009
+
+Chip	BRCM	-0.399266
+
+Supervalu	SVU	-0.396849
+
+E*Trade	ETFC	-0.362108
+
+Power	PCG	-0.362080
+

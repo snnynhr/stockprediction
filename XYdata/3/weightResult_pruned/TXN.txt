@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.240092
+
+Sales	TGT	0.954147
+
+Edison	EIX	0.807265
+
+Retail	SHLD	0.737899
+
+Gains	TXN	0.670398
+
+Stock	FDX	0.664429
+
+Times	NYT	0.596551
+
+New	YHOO	0.590589
+
+'s	ABT	0.583078
+
+Nucor	NUE	0.573847
+
+stocks	VLO	0.502191
+
+Pulte	PHM	0.490750
+
+Rating	MCO	0.489419
+
+Lilly	BMY	0.478777
+
+Alibaba	YHOO	0.468248
+
+Natural	CHK	0.444542
+
+Chip	TXN	0.443414
+
+AMD	NVDA	0.415872
+
+Home	PHM	0.407135
+
+'s	TJX	0.404835
+
+Banks	ZION	-1.079050
+
+stocks	SWN	-0.979498
+
+stocks	TRV	-0.897596
+
+FDA	BMY	-0.886704
+
+'s	SHLD	-0.748680
+
+Stocks	M	-0.724303
+
+Sector	TXN	-0.600740
+
+U.S.	GPS	-0.547301
+
+Newell	NWL	-0.534826
+
+Progressive	PGR	-0.531755
+
+Computer	CSC	-0.516262
+
+Buy	TSO	-0.512502
+
+Valero	TSO	-0.509823
+
+HOT	CI	-0.508508
+
+Hughes	BHI	-0.503896
+
+Red	RHT	-0.464675
+
+Credit	COF	-0.461807
+
+Morning	HPQ	-0.457270
+
+US	CELG	-0.451552
+
+Dynegy	DYN	-0.414042
+

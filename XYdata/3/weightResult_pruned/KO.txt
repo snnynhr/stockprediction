@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-1.1212
+
+$	EXC	0.872445
+
+PPG	PPG	0.811345
+
+Deal	CVX	0.771914
+
+Aon	AON	0.688944
+
+Halliburton	HAL	0.649631
+
+Rise	HD	0.644666
+
+Stock	COST	0.641951
+
+Steel	AKS	0.580734
+
+Futures	CME	0.576401
+
+Apple	XOM	0.543195
+
+TiVo	VZ	0.526792
+
+Instruments	TXN	0.482373
+
+MasterCard	V	0.451866
+
+Nuclear	SO	0.449095
+
+'s	EBAY	0.431714
+
+Tech	AKAM	0.424032
+
+Eaton	ETN	0.420013
+
+Retail	ANF	0.391586
+
+Jabil	JBL	0.378097
+
+Stocks	PRU	-1.070050
+
+Red	RHT	-0.859317
+
+Heparin	BAX	-0.804319
+
+'s	NDAQ	-0.671566
+
+Netflix	VZ	-0.608869
+
+CME	CME	-0.602526
+
+Schlumberger	SLB	-0.552149
+
+Alcoa	AA	-0.551023
+
+earnings	AA	-0.513658
+
+Buffett	MDLZ	-0.449961
+
+'s	RF	-0.431235
+
+'s	DFS	-0.424399
+
+Hasbro	MAT	-0.420073
+
+Valero	TSO	-0.417302
+
+Chevron	CVX	-0.416289
+
+Temple-Inland	IP	-0.406804
+
+American	AEP	-0.402534
+
+Life	PRU	-0.395101
+
+Bank	FITB	-0.393836
+
+Newmont	NEM	-0.387504
+

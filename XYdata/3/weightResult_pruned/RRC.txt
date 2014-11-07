@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.105452
+
+Energy	MRO	1.369840
+
+Drug	GILD	0.864317
+
+Profit	GPS	0.650847
+
+Republic	RSG	0.621684
+
+Diebold	UTX	0.606823
+
+Merck	MRK	0.600067
+
+US	COF	0.589035
+
+Apple	VZ	0.536760
+
+Ghana	APC	0.524570
+
+Refinery	CVX	0.493191
+
+U.S.	AA	0.472080
+
+CIT	CIT	0.465498
+
+US	YUM	0.459969
+
+Cadbury	MDLZ	0.454306
+
+Energy	SWN	0.449697
+
+TJX	TJX	0.438541
+
+US	HES	0.436960
+
+SNAPSHOT	AA	0.434109
+
+Insurers	HIG	0.427632
+
+US	BHI	-0.910420
+
+stocks	INTC	-0.730311
+
+Tobacco	LO	-0.635659
+
+'s	TWC	-0.633521
+
+Defense	LMT	-0.584566
+
+Bank	BK	-0.573200
+
+Stocks	AA	-0.499299
+
+Monsanto	MON	-0.481309
+
+MetLife	MET	-0.479402
+
+Loss	PHM	-0.445450
+
+Lennar	LEN	-0.412918
+
+Freeport	FCX	-0.408480
+
+Friday	M	-0.405021
+
+Boeing	NOC	-0.399479
+
+DuPont	DD	-0.381631
+
+Coke	KO	-0.367267
+
+China	NKE	-0.362958
+
+'s	WAG	-0.348680
+
+Companies	CI	-0.346477
+
+Capital	COF	-0.326437
+

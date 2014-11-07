@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.808936
+
+Stocks	AZO	1.048980
+
+gains	AXP	0.738917
+
+'s	DOW	0.733517
+
+Morgan	RF	0.719036
+
+Rise	MCD	0.663013
+
+$	VIAB	0.593459
+
+'s	F	0.589422
+
+Solar	FSLR	0.548933
+
+Monsanto	MON	0.485282
+
+Nike	NKE	0.482014
+
+Times	NYT	0.466047
+
+Steel	AKS	0.459883
+
+Stanley	MS	0.457985
+
+Morgan	USB	0.440378
+
+US	HOT	0.437098
+
+Stocks	TXN	0.434791
+
+Boston	BSX	0.414113
+
+Haas	DOW	0.408578
+
+Banks	KEY	0.404421
+
+Apple	CSCO	-0.940945
+
+Deal	TWX	-0.791231
+
+Stocks	KBH	-0.711409
+
+Apache	APA	-0.633812
+
+Futures	ICE	-0.592115
+
+Manitowoc	MTW	-0.564236
+
+'s	VIA	-0.557417
+
+Corning	GLW	-0.553291
+
+Heparin	BAX	-0.546601
+
+Citigroup	C	-0.539948
+
+Home	LEN	-0.501968
+
+Prudential	PRU	-0.487755
+
+'s	MTW	-0.439500
+
+Bristol-Myers	BMY	-0.425745
+
+Chip	MU	-0.409535
+
+Rambus	MU	-0.406669
+
+Force	NOC	-0.395823
+
+US	UPS	-0.391343
+
+'s	PEP	-0.384338
+
+US	TXN	-0.372653
+

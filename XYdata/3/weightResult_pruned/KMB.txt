@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.131437
+
+St	STJ	0.950240
+
+Buy	PEP	0.854149
+
+Pepsi	PEP	0.804826
+
+US	M	0.599352
+
+TECH	TXN	0.584032
+
+'s	BLK	0.581316
+
+Deal	UTX	0.556229
+
+Nvidia	NVDA	0.503100
+
+Retail	ANF	0.492359
+
+stocks	TGT	0.469549
+
+Stocks	SYMC	0.448304
+
+Credit	ICE	0.415871
+
+stocks	NVDA	0.415321
+
+Stores	SHLD	0.413256
+
+Amgen	AMGN	0.412826
+
+Stocks	DRI	0.404263
+
+$	AXP	0.400827
+
+'s	BBT	0.390157
+
+Retailers	M	0.376330
+
+'s	CI	-0.998477
+
+'s	STX	-0.917134
+
+Wal-Mart	TGT	-0.903505
+
+Buy	CTSH	-0.685928
+
+'s	HOG	-0.607034
+
+Heparin	BAX	-0.560316
+
+'s	GPS	-0.560032
+
+Intuit	INTU	-0.535591
+
+Coke	KO	-0.520940
+
+FDA	JNJ	-0.515796
+
+Western	WDC	-0.512748
+
+Bid	NRG	-0.505856
+
+TV	CBS	-0.500501
+
+Lehman	TXN	-0.495529
+
+Tech	IBM	-0.493164
+
+Tech	EMC	-0.492894
+
+J	BSX	-0.438165
+
+Stocks	APC	-0.431832
+
+Gas	APC	-0.418836
+
+'s	KMX	-0.414138
+

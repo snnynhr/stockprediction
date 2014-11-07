@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.301884
+
+energy	CVX	0.887608
+
+Stocks	CSX	0.827466
+
+'s	LEN	0.701524
+
+Ford	F	0.651764
+
+Stocks	KO	0.616768
+
+Drug	AMGN	0.531414
+
+Dividend	KEY	0.519302
+
+FDA	ABT	0.476547
+
+Retailers	HD	0.469053
+
+Stocks	ODP	0.456284
+
+Tech	ADBE	0.450388
+
+STOCKS	AA	0.441634
+
+Pulte	PHM	0.433599
+
+TECH	SNDK	0.429849
+
+Patent	ABT	0.415203
+
+Botox	AGN	0.391514
+
+EA	EA	0.373668
+
+Stocks	JNJ	0.365441
+
+Rating	MCO	0.362093
+
+Red	RHT	-0.907349
+
+U.S.	TJX	-0.842315
+
+Sempra	SRE	-0.797329
+
+Windstream	WIN	-0.732898
+
+Stocks	DE	-0.584369
+
+U.S.	AA	-0.562855
+
+Deal	CHK	-0.560116
+
+Green	SBUX	-0.547962
+
+McDonald	MCD	-0.546651
+
+Intel	TXN	-0.532649
+
+Intuit	INTU	-0.498562
+
+Stocks	USB	-0.484180
+
+Texas	MRO	-0.464899
+
+Properties	BXP	-0.450703
+
+AvalonBay	AVB	-0.447038
+
+Sector	TXN	-0.416958
+
+Stocks	AMAT	-0.388608
+
+Medtronic	MDT	-0.385729
+
+US	TXN	-0.384163
+
+$	SPLS	-0.378442
+

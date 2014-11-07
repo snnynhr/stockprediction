@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.446561
+
+stocks	AXP	1.400220
+
+'s	BRCM	0.900399
+
+Banks	KEY	0.797545
+
+Eaton	ETN	0.721552
+
+'s	BLK	0.588892
+
+'s	MET	0.565142
+
+India	BA	0.514397
+
+Xerox	XRX	0.494524
+
+'s	MCO	0.482283
+
+SNAPSHOT	DD	0.469700
+
+MARKET	DD	0.469700
+
+Hormel	HRL	0.448934
+
+stocks	NVDA	0.430586
+
+Boston	BSX	0.421330
+
+Cablevision	CVC	0.403835
+
+Constellation	STZ	0.397523
+
+U.S.	AMGN	0.394292
+
+Retail	TGT	0.359834
+
+Netflix	DIS	0.351365
+
+'s	AVP	-0.974868
+
+Stocks	AKS	-0.921200
+
+Enodis	MTW	-0.849162
+
+Stocks	RF	-0.760167
+
+Tech	NVDA	-0.757894
+
+Energy	COP	-0.716724
+
+'s	ANF	-0.671445
+
+Credit	COF	-0.606343
+
+T-Mobile	T	-0.529708
+
+Lennar	LEN	-0.521785
+
+'s	IP	-0.498548
+
+Monster	MWW	-0.470847
+
+Air	NOC	-0.467224
+
+Banks	RF	-0.459449
+
+stocks	CHK	-0.452681
+
+'s	AA	-0.436174
+
+Dell	EMC	-0.425049
+
+sales	M	-0.420789
+
+US	BSX	-0.401892
+
+Friday	BBY	-0.399772
+

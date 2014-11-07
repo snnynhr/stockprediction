@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.557776
+
+'s	BSX	1.015460
+
+Stake	NYT	0.860996
+
+Stocks	UPS	0.762709
+
+'s	BLK	0.637498
+
+Gains	TXN	0.620589
+
+Stock	NDAQ	0.607035
+
+HOT	CSCO	0.596561
+
+Janus	JNS	0.508616
+
+Alibaba	YHOO	0.483005
+
+$	KO	0.477157
+
+'s	COH	0.444044
+
+US	BBY	0.429326
+
+US	PCLN	0.421047
+
+Yahoo	TXN	0.419331
+
+stocks	HES	0.379337
+
+Allergan	AGN	0.368528
+
+Danaher	DHR	0.357788
+
+Tiffany	TIF	0.355952
+
+IPO	V	0.355891
+
+New	XOM	-1.239370
+
+McLennan	MMC	-0.741647
+
+BP	TSO	-0.704759
+
+Stocks	ADI	-0.587705
+
+'s	BIIB	-0.578140
+
+Medical	STJ	-0.544189
+
+US	HOG	-0.536902
+
+Gulf	APC	-0.499310
+
+Regions	RF	-0.488854
+
+U.S.	RF	-0.487876
+
+'s	JNJ	-0.474199
+
+Juniper	JNPR	-0.467043
+
+US	UTX	-0.413430
+
+'s	TWC	-0.398694
+
+Apple	INTC	-0.397947
+
+Investment	BRK.B	-0.394284
+
+Tysabri	BIIB	-0.386441
+
+Drug	AMGN	-0.373670
+
+Gilead	GILD	-0.373428
+
+'s	KBH	-0.365137
+

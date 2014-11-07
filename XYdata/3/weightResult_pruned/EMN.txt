@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.45447
+
+stocks	APA	1.053750
+
+gas	CHK	0.971722
+
+Thermo	TMO	0.836039
+
+Health	AET	0.827668
+
+Oil	HES	0.727354
+
+Pulte	PHM	0.705229
+
+4Q	MDT	0.593942
+
+stocks	AIG	0.556312
+
+Instruments	BRCM	0.553594
+
+BofA	COF	0.501991
+
+Financial	PNC	0.497455
+
+Stocks	AIG	0.492283
+
+Gains	AMD	0.465598
+
+'s	THC	0.464289
+
+'s	MET	0.456898
+
+Stocks	JBL	0.441382
+
+Abbott	ABT	0.439793
+
+Airgas	ARG	0.415841
+
+Refinery	LYB	0.409817
+
+New	BRK.B	-1.352920
+
+Heparin	BAX	-1.011130
+
+Ventas	VTR	-0.907367
+
+US	NOC	-0.759103
+
+Biogen	BIIB	-0.660750
+
+stocks	CHK	-0.655294
+
+Apple	INTC	-0.599915
+
+'s	XOM	-0.564039
+
+Chip	BRCM	-0.562118
+
+Sector	TXN	-0.553432
+
+'s	CHK	-0.522459
+
+J	ABT	-0.509034
+
+ConAgra	CAG	-0.500286
+
+Boeing	BA	-0.497139
+
+Defense	NOC	-0.495422
+
+Tobacco	LO	-0.486652
+
+Retailers	JWN	-0.474825
+
+Hershey	HSY	-0.437518
+
+'s	CMCSA	-0.417750
+
+Bank	BBT	-0.411760
+

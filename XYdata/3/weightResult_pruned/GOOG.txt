@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.0232378
+
+Entergy	ETR	0.892229
+
+Exchange	CME	0.803151
+
+Facebook	YHOO	0.724222
+
+$	APA	0.723168
+
+FDA	ABT	0.702806
+
+Cloud	ORCL	0.693043
+
+Tech	SNDK	0.685632
+
+Airgas	ARG	0.674114
+
+Insurers	HIG	0.662607
+
+U.S.	JBL	0.647869
+
+Tiffany	TIF	0.558293
+
+'s	ABT	0.496488
+
+'s	JWN	0.492766
+
+First	FSLR	0.455928
+
+$	DE	0.445889
+
+Analog	ADI	0.442545
+
+CIT	CIT	0.438365
+
+Home	LOW	0.419583
+
+Credit-Card	COF	0.417721
+
+Google	ORCL	-1.404550
+
+Byetta	LLY	-1.185100
+
+Discovery	DISCA	-1.011480
+
+Utilities	NU	-0.984843
+
+US	USB	-0.782393
+
+China	GE	-0.727714
+
+Temple-Inland	IP	-0.707163
+
+Sempra	SRE	-0.640062
+
+Buy	EMC	-0.594305
+
+Street	USB	-0.564918
+
+HOT	PFE	-0.553991
+
+'s	WAG	-0.520810
+
+U.S.	AXP	-0.515334
+
+China	KO	-0.510667
+
+Newell	NWL	-0.473889
+
+Life	PRU	-0.453900
+
+US	GME	-0.445562
+
+P	BRK.B	-0.399917
+
+Futures	ICE	-0.394917
+
+US	IP	-0.384111
+

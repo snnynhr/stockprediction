@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.821316
+
+Health	UNH	0.954806
+
+Airlines	BA	0.913932
+
+US	CLX	0.902628
+
+stocks	IBM	0.872267
+
+$	BMY	0.872240
+
+Street	AIG	0.831851
+
+Tool	ITW	0.809498
+
+$	MBI	0.713044
+
+rise	AA	0.702932
+
+Rally	AMD	0.678938
+
+Burger	MCD	0.596845
+
+Stocks	CSCO	0.566825
+
+'s	YHOO	0.558154
+
+EBay	EBAY	0.437224
+
+Coca-Cola	KO	0.421792
+
+Net	TGT	0.415822
+
+Discover	DFS	0.395395
+
+Hasbro	HAS	0.386345
+
+Apple	IBM	0.376490
+
+Stocks	M	-0.773109
+
+Stocks	SNDK	-0.767210
+
+stocks	CHK	-0.758717
+
+'s	GE	-0.682003
+
+'s	DD	-0.669208
+
+Caremark	CVS	-0.655224
+
+Stocks	UTX	-0.624163
+
+Dow	KO	-0.591612
+
+US	PCG	-0.577669
+
+Intuit	INTU	-0.514069
+
+BorgWarner	BWA	-0.510801
+
+Autodesk	ADSK	-0.503117
+
+Stocks	EMC	-0.491335
+
+Stocks	AMD	-0.479624
+
+Companies	CI	-0.479431
+
+Stocks	FSLR	-0.460432
+
+$	OXY	-0.447958
+
+US	MBI	-0.444164
+
+Valero	TSO	-0.438206
+
+Stocks	MRK	-0.422139
+

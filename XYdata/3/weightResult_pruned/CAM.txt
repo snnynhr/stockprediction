@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.0828367
+
+'s	INTC	0.879450
+
+stocks	DVN	0.849648
+
+$	CVX	0.785482
+
+Fisher	TMO	0.655314
+
+Cadbury	MDLZ	0.612412
+
+Business	COF	0.607387
+
+Insurers	HIG	0.595857
+
+Deere	DE	0.564264
+
+NetApp	NTAP	0.546351
+
+'s	MS	0.541968
+
+U.S.	CSX	0.510282
+
+'s	MRO	0.500404
+
+Stocks	GNW	0.488790
+
+US	V	0.475426
+
+'s	MDT	0.436358
+
+US	PG	0.424467
+
+Elan	BIIB	0.419102
+
+'s	WFC	0.417636
+
+Constellation	STZ	0.389389
+
+Sector	TXN	-0.810741
+
+'s	KBH	-0.799794
+
+Green	SBUX	-0.780620
+
+NYSE	ICE	-0.736002
+
+Bank	AXP	-0.666868
+
+Stocks	MRK	-0.662553
+
+Tysabri	BIIB	-0.613197
+
+Up	V	-0.543703
+
+China	NKE	-0.527817
+
+Bond	MBI	-0.521571
+
+'s	CHK	-0.507543
+
+Europe	NDAQ	-0.504884
+
+Probe	MCO	-0.504096
+
+Firms	MCO	-0.502343
+
+$	GE	-0.477087
+
+Insurers	PRU	-0.468454
+
+'s	SHLD	-0.465800
+
+Microsoft	CRM	-0.454813
+
+Oil	DVN	-0.451523
+
+ConocoPhillips	COP	-0.441822
+

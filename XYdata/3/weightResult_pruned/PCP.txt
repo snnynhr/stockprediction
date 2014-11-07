@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.197334
+
+'s	NVDA	0.805023
+
+Stress	RF	0.714006
+
+Tax	HRB	0.669636
+
+Banks	CMA	0.579141
+
+GE	GE	0.550877
+
+Nokia	T	0.519254
+
+Refinery	CVX	0.497240
+
+CEO	DUK	0.491834
+
+stocks	TXN	0.485166
+
+'s	JWN	0.468375
+
+US	COF	0.466999
+
+Viacom	VIA	0.462410
+
+Fluor	FLR	0.460311
+
+VMware	EMC	0.439867
+
+HOT	MRK	0.420748
+
+Tesoro	TSO	0.415872
+
+Stake	NYT	0.405163
+
+Colgate	CL	0.399011
+
+Stocks	LEN	0.391322
+
+'s	NKE	-1.111440
+
+Stocks	MMM	-0.712553
+
+'s	RF	-0.702213
+
+US	ICE	-0.648632
+
+Marsh	MMC	-0.602927
+
+Celgene	CELG	-0.586453
+
+Lorillard	LO	-0.550379
+
+Oil	CHK	-0.518793
+
+Shares	AMD	-0.481924
+
+Life	PRU	-0.464907
+
+'s	SBUX	-0.460404
+
+Macy	M	-0.442075
+
+$	PFE	-0.435537
+
+U.S.	INTC	-0.421583
+
+Paso	KMI	-0.419524
+
+Western	STX	-0.414947
+
+Financial	RF	-0.407285
+
+Insurers	PRU	-0.400728
+
+CenturyTel	CTL	-0.398552
+
+CME	CME	-0.398396
+

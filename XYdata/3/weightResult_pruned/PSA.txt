@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.354105
+
+stocks	AMGN	1.237420
+
+Up	BBY	0.946702
+
+First	FSLR	0.880469
+
+U.S.	AIG	0.875572
+
+Sci	BSX	0.793947
+
+$	MET	0.658173
+
+Steel	AKS	0.643268
+
+Black	BBY	0.541102
+
+'s	YHOO	0.527528
+
+Study	MDT	0.517174
+
+US	NKE	0.515732
+
+stocks	TXN	0.485299
+
+Pilgrim	TSN	0.470239
+
+U.S.	FDX	0.460887
+
+Hormel	HRL	0.447248
+
+Tech	CSCO	0.443104
+
+Xerox	XRX	0.392820
+
+Oil	XOM	0.386391
+
+Warner	PG	0.354573
+
+Stocks	M	-0.858274
+
+Housing	HD	-0.785467
+
+Stocks	MDLZ	-0.727897
+
+U.S.	DIS	-0.696007
+
+Valero	MRO	-0.653546
+
+'s	ANF	-0.600613
+
+Life	PRU	-0.572056
+
+Comcast	CMCSA	-0.549593
+
+Bank	STT	-0.526686
+
+Sales	M	-0.524478
+
+U.S.	AA	-0.509642
+
+CVS	WAG	-0.497520
+
+SanDisk	SNDK	-0.479421
+
+Profit	TGT	-0.466709
+
+Google	AMD	-0.463394
+
+Food	MDLZ	-0.455191
+
+Office	SPLS	-0.454594
+
+Stocks	FDO	-0.452695
+
+Martin	LMT	-0.426343
+
+Bank	BBT	-0.414158
+

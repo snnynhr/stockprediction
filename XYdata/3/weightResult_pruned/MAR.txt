@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.79998
+
+Bond	MBI	1.541650
+
+'s	HAS	0.820039
+
+Stocks	LEN	0.765227
+
+CFTC	CME	0.752101
+
+'s	BSX	0.722774
+
+energy	CVX	0.718504
+
+Gain	CAT	0.616481
+
+Times	NYT	0.613985
+
+Illinois	ITW	0.498656
+
+Microsoft	HPQ	0.447964
+
+Surgical	ISRG	0.436988
+
+$	V	0.424783
+
+AIA	AIG	0.421042
+
+Plavix	BMY	0.411533
+
+stocks	VLO	0.389320
+
+'s	WFC	0.385109
+
+Danaher	DHR	0.352112
+
+Tenet	THC	0.339331
+
+US	PBI	0.308667
+
+'s	KBH	-0.860199
+
+Thursday	GPS	-0.841721
+
+$	HPQ	-0.801381
+
+$	OXY	-0.788873
+
+Stocks	AMAT	-0.752822
+
+Stocks	FSLR	-0.721050
+
+Express	AXP	-0.666730
+
+New	BLK	-0.656133
+
+'s	XOM	-0.646839
+
+Power	SRE	-0.619520
+
+Oil	VLO	-0.586303
+
+'s	AA	-0.578407
+
+Friday	BBY	-0.576887
+
+$	MRO	-0.485283
+
+Ashland	ASH	-0.469512
+
+Net	M	-0.439626
+
+Mae	SLM	-0.438590
+
+Sales	TGT	-0.434176
+
+Hughes	BHI	-0.428535
+
+US	BMY	-0.403314
+

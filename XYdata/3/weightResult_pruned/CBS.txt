@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.0210818
+
+gas	CHK	1.641030
+
+stocks	CSCO	0.749271
+
+Priceline	PCLN	0.690633
+
+First	FHN	0.670381
+
+Earnings	LOW	0.644147
+
+Stocks	DOW	0.642970
+
+Penney	M	0.591900
+
+Morgan	RF	0.564218
+
+May	GPS	0.543397
+
+'s	KO	0.493574
+
+Block	HRB	0.488221
+
+Retail	TGT	0.485034
+
+HOT	HOT	0.473971
+
+Coca-Cola	KO	0.444338
+
+Salesforce.com	CRM	0.434697
+
+Banks	CMA	0.420329
+
+stocks	TXN	0.400981
+
+US	HBAN	0.394865
+
+Allergan	AGN	0.362445
+
+Card	V	-1.264320
+
+Stocks	DE	-1.187900
+
+$	ORCL	-0.772711
+
+Sector	TXN	-0.769972
+
+Stocks	CVX	-0.745105
+
+US	TSO	-0.736250
+
+TECH	HPQ	-0.598026
+
+Channel	CBS	-0.555829
+
+Up	XOM	-0.524521
+
+Stock	MU	-0.516379
+
+Jude	STJ	-0.515162
+
+Trust	BK	-0.509328
+
+Red	RHT	-0.486976
+
+Nasdaq	ICE	-0.454677
+
+'s	KBH	-0.454623
+
+Depot	ODP	-0.442774
+
+Spill	RIG	-0.417687
+
+Jobs	WAG	-0.397518
+
+Power	DUK	-0.380616
+
+Stocks	AIG	-0.377838
+

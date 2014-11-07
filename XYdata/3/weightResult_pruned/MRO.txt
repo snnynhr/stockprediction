@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.421941
+
+Sales	TIF	0.912489
+
+stocks	CNX	0.788157
+
+stocks	TXN	0.736838
+
+Deal	CME	0.690895
+
+Intuitive	ISRG	0.676163
+
+Yum	YUM	0.564851
+
+'s	BMY	0.543373
+
+Best	TGT	0.538313
+
+Oil	OXY	0.529155
+
+Danaher	DHR	0.526532
+
+Buy	TGT	0.523108
+
+TECH	ADBE	0.482083
+
+TI	TXN	0.445610
+
+sales	M	0.429542
+
+stocks	AKAM	0.410118
+
+'s	AGN	0.409821
+
+Bank	STI	0.408182
+
+Morning	HPQ	0.406029
+
+Rally	INTC	0.405612
+
+'s	TWC	-0.906225
+
+New	EA	-0.686733
+
+$	HES	-0.676756
+
+Ambac	MBI	-0.673788
+
+Financial	HIG	-0.642641
+
+'s	LM	-0.641070
+
+Stocks	MDLZ	-0.570801
+
+Aflac	AFL	-0.567502
+
+US	KEY	-0.564137
+
+'s	AIG	-0.559866
+
+'s	QCOM	-0.551283
+
+Paso	KMI	-0.549081
+
+'s	KBH	-0.486557
+
+Coal	BTU	-0.466543
+
+lower	VLO	-0.460038
+
+EMC	EMC	-0.457101
+
+Gap	GPS	-0.455228
+
+Networks	FFIV	-0.454164
+
+Sector	TXN	-0.453244
+
+Campbell	CPB	-0.436947
+

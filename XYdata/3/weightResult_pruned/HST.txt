@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.624585
+
+stocks	TXN	0.759931
+
+Chesapeake	XOM	0.740747
+
+Zions	ZION	0.672122
+
+Danaher	DHR	0.657025
+
+U.S.	M	0.629850
+
+Aon	AON	0.581185
+
+Atheros	QCOM	0.494589
+
+Higher	AMD	0.487847
+
+Gas	CHK	0.479071
+
+HOT	APC	0.463383
+
+'s	BRK.B	0.451076
+
+US	FDX	0.433164
+
+March	COST	0.417691
+
+HOT	HIG	0.417363
+
+Dow	CAT	0.415996
+
+Times	NYT	0.401366
+
+US	TEX	0.388902
+
+Transocean	RIG	0.383670
+
+First	FSLR	0.363942
+
+Shares	NVDA	-1.410270
+
+$	GE	-0.788952
+
+Priceline.com	PCLN	-0.735328
+
+TECH	BRCM	-0.701814
+
+Office	ODP	-0.669585
+
+Stocks	M	-0.616412
+
+Tobacco	LO	-0.573561
+
+Tyco	TYC	-0.568521
+
+$	HES	-0.563341
+
+'s	MTW	-0.547320
+
+H-P	HPQ	-0.546373
+
+Groupon	EBAY	-0.528433
+
+TECH	EMC	-0.527661
+
+IPO	MS	-0.523981
+
+Financial	AXP	-0.502815
+
+OMX	NDAQ	-0.489569
+
+Lennar	LEN	-0.486217
+
+stocks	CPB	-0.471001
+
+Warner	TWC	-0.456218
+
+Monster	MWW	-0.447008
+

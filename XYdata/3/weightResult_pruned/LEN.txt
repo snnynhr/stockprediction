@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.276162
+
+Thermo	TMO	1.026270
+
+'s	STT	0.838644
+
+Insurers	MBI	0.805381
+
+FDA	MDT	0.722361
+
+Sprint	VZ	0.719319
+
+Banks	PNC	0.709825
+
+Financial	COF	0.628776
+
+Costco	COST	0.597124
+
+Financial	AXP	0.582763
+
+Aon	AON	0.555701
+
+IntercontinentalExchange	ICE	0.525916
+
+STOCKS	AMAT	0.497250
+
+Nasdaq	ICE	0.492290
+
+HOT	MRK	0.459524
+
+Stocks	LEN	0.458364
+
+Alibaba	YHOO	0.441836
+
+'s	TSN	0.407178
+
+Banks	BBT	0.390461
+
+Stock	AA	0.385174
+
+$	HES	-0.839699
+
+Stocks	M	-0.736002
+
+Oil	BHI	-0.724493
+
+Oil	RIG	-0.675702
+
+Manitowoc	MTW	-0.652258
+
+'s	KBH	-0.624498
+
+Morgan	COF	-0.605536
+
+Hospira	HSP	-0.592499
+
+Lockheed	LMT	-0.579119
+
+'s	WMT	-0.513266
+
+Microchip	MCHP	-0.487341
+
+Banks	KEY	-0.458678
+
+Steel	AKS	-0.454786
+
+Textron	TXT	-0.450795
+
+AvalonBay	AVB	-0.446298
+
+U.S.	COST	-0.440095
+
+TARP	LNC	-0.429753
+
+Stocks	DOW	-0.414634
+
+US	ABT	-0.411647
+
+Stocks	FDO	-0.411221
+

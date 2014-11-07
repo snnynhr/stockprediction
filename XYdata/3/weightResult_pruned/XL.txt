@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.0973288
+
+Corpus	VLO	0.686952
+
+Stocks	PFE	0.660218
+
+Travelers	TRV	0.629311
+
+Aon	AON	0.592954
+
+'s	JWN	0.550331
+
+Masco	MAS	0.534047
+
+Penney	VNO	0.524629
+
+Retailers	HD	0.516155
+
+Capital	COF	0.510135
+
+stocks	TSO	0.490297
+
+Motorola	QCOM	0.489343
+
+Stocks	AZO	0.488773
+
+Biogen	BIIB	0.486378
+
+Morgan	WFC	0.486214
+
+'s	AMAT	0.466699
+
+Stocks	THC	0.460019
+
+US	JDSU	0.429527
+
+MasterCard	MA	0.426942
+
+Penney	M	0.418541
+
+'s	CSX	-0.836496
+
+Ralcorp	CAG	-0.807340
+
+'s	HSY	-0.723723
+
+Stocks	MRK	-0.722793
+
+'s	ANF	-0.658430
+
+'s	NSC	-0.634677
+
+Marsh	MMC	-0.546497
+
+'s	SNDK	-0.544571
+
+Heparin	BAX	-0.540177
+
+$	MRO	-0.528225
+
+Up	WYNN	-0.525902
+
+Shares	NVDA	-0.505729
+
+Unit	VLO	-0.485371
+
+STOCKS	BRCM	-0.462881
+
+'s	NKE	-0.462799
+
+stocks	CHK	-0.451129
+
+Retailers	KSS	-0.435551
+
+Gilead	GILD	-0.432827
+
+Earnings	AA	-0.411829
+
+'s	CRM	-0.403951
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.0601583
+
+Natural	CHK	0.796900
+
+U.S.	DE	0.792869
+
+Gains	TXN	0.744481
+
+'s	STJ	0.691345
+
+HOT	APC	0.690333
+
+rise	AA	0.686617
+
+Sales	TIF	0.594354
+
+'s	AKAM	0.587596
+
+Range	RRC	0.533023
+
+stocks	TSO	0.530704
+
+Banks	CMA	0.518909
+
+Short	NDAQ	0.499826
+
+United	UTX	0.498049
+
+Insurers	MBI	0.487365
+
+Dow	CAT	0.468823
+
+Exchange	NDAQ	0.460434
+
+Exchange	CME	0.452654
+
+stocks	TXN	0.420192
+
+Rockwell	ROK	0.408928
+
+CEO	GPS	-1.040770
+
+stocks	RRC	-0.829719
+
+Valero	TSO	-0.820447
+
+CVS	ESRX	-0.722416
+
+Builders	KBH	-0.585839
+
+US	HRB	-0.561057
+
+Friday	BBY	-0.552537
+
+Walgreen	WAG	-0.518499
+
+HOT	CI	-0.497356
+
+Retail	SHLD	-0.456068
+
+AMD	AMD	-0.443408
+
+Xilinx	XLNX	-0.419594
+
+Pepsi	PEP	-0.400217
+
+Stocks	MDLZ	-0.388794
+
+Manitowoc	MTW	-0.388635
+
+Prices	CVX	-0.383267
+
+Exelon	NRG	-0.375376
+
+'s	CME	-0.366793
+
+Medtronic	MDT	-0.363140
+
+US	ICE	-0.361351
+

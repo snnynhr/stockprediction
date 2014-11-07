@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.541345
+
+Pulte	PHM	0.844283
+
+Orders	KBH	0.711526
+
+'s	TXN	0.709272
+
+ETF	BLK	0.665777
+
+Philip	PM	0.548961
+
+Aon	AON	0.538607
+
+Sherwin-Williams	SHW	0.521982
+
+'s	MCO	0.507542
+
+Zions	ZION	0.483601
+
+stocks	TXN	0.467760
+
+Edison	EIX	0.464409
+
+Bank	PNC	0.445596
+
+Priceline	PCLN	0.442464
+
+Foods	WFM	0.440889
+
+Facebook	EBAY	0.437537
+
+US	PFE	0.427929
+
+Grainger	GWW	0.426670
+
+Thermo	TMO	0.417863
+
+NYSE	CME	0.385241
+
+$	LUV	-1.270850
+
+Martin	LMT	-1.014620
+
+Profit	XRX	-0.910059
+
+Bid	NDAQ	-0.855355
+
+Boeing	LMT	-0.811867
+
+Tyco	TYC	-0.748565
+
+Intel	TXN	-0.653812
+
+STOCKS	BRCM	-0.621520
+
+stocks	APC	-0.548654
+
+Corning	GLW	-0.535467
+
+Stocks	V	-0.487175
+
+Banks	PNC	-0.464502
+
+Embarq	CTL	-0.458038
+
+Financial	KEY	-0.453201
+
+'s	GCI	-0.448936
+
+Earnings	AA	-0.439237
+
+AmEx	AXP	-0.433505
+
+FDA	JNJ	-0.424272
+
+stocks	INTC	-0.415477
+
+Regions	RF	-0.412559
+

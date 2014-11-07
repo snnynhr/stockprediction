@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.499297
+
+$	M	0.775574
+
+Stocks	PNC	0.768576
+
+Drug	GILD	0.761228
+
+Tech	TXN	0.731401
+
+$	CHK	0.665419
+
+NYSE	NDAQ	0.621719
+
+Airlines	BA	0.582612
+
+'s	MA	0.465949
+
+Newsday	CVC	0.454390
+
+Oil	XOM	0.451743
+
+Refinery	CVX	0.435616
+
+Family	FDO	0.402334
+
+'s	MBI	0.384878
+
+Recover	HAL	0.333492
+
+Energy	HAL	0.332582
+
+Goodyear	GT	0.332250
+
+US	M	0.325023
+
+'s	BLK	0.290292
+
+$	COF	0.285607
+
+Bank	BBT	-0.973089
+
+Stocks	INTU	-0.877122
+
+SNAPSHOT	MDLZ	-0.852059
+
+TECH	BRCM	-0.846893
+
+stocks	MET	-0.836352
+
+Gas	XOM	-0.824089
+
+US	MRO	-0.786078
+
+AvalonBay	AVB	-0.753708
+
+'s	CSX	-0.684273
+
+Celgene	CELG	-0.680501
+
+Energy	NRG	-0.581929
+
+$	WFC	-0.576530
+
+Ingersoll-Rand	IR	-0.571849
+
+Conoco	COP	-0.554418
+
+Buy	RSH	-0.542699
+
+Stocks	SNDK	-0.524399
+
+Sector	TXN	-0.521718
+
+Fall	AA	-0.516141
+
+NRG	NRG	-0.487540
+
+Activision	EA	-0.482739
+

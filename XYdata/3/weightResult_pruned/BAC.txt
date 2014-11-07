@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.0383676
+
+$	EA	0.819896
+
+Morning	WMT	0.757919
+
+Illinois	ITW	0.707232
+
+'s	BLK	0.696787
+
+Stocks	TXN	0.694748
+
+stocks	TXN	0.625292
+
+SEC	MCO	0.561423
+
+gains	ADBE	0.555112
+
+Entergy	ETR	0.497324
+
+Benfield	AON	0.444341
+
+Stock	AA	0.430951
+
+Energy	VLO	0.425102
+
+Dell	EMC	0.406883
+
+Sales	TIF	0.388929
+
+Stocks	STI	0.353601
+
+Wal-Mart	GPS	0.334131
+
+Newsday	CVC	0.330908
+
+Baxter	BAX	0.328597
+
+Capital	COF	0.326479
+
+'s	CHK	-0.976553
+
+Prudential	PRU	-0.754632
+
+Stock	TXN	-0.578654
+
+Southwestern	SWN	-0.571981
+
+Sales	TXN	-0.562166
+
+New	F	-0.551274
+
+'s	CMCSA	-0.536173
+
+Marsh	MMC	-0.535977
+
+Services	RSG	-0.509819
+
+Life	PRU	-0.479380
+
+Tyson	TSN	-0.478060
+
+Stocks	M	-0.474281
+
+Retail	COST	-0.465203
+
+MetLife	MET	-0.464081
+
+Rambus	MU	-0.453841
+
+'s	RDC	-0.437836
+
+Manitowoc	MTW	-0.421370
+
+U.S.	MA	-0.420574
+
+US	TSN	-0.402791
+
+Drug	MRK	-0.401378
+

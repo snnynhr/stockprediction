@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.0662443
+
+Energy	HAL	0.728886
+
+Boston	BSX	0.664387
+
+US	LUV	0.602668
+
+US	M	0.601293
+
+Ford	F	0.578704
+
+Verizon	T	0.574383
+
+'s	USB	0.524759
+
+stocks	TRV	0.482061
+
+Constellation	EXC	0.480113
+
+Homes	PHM	0.473276
+
+Coke	KO	0.407506
+
+Edison	EIX	0.402687
+
+$	EA	0.402206
+
+Stocks	CI	0.397713
+
+Allergan	AGN	0.388210
+
+Health	AET	0.387376
+
+GameStop	GME	0.365423
+
+Electronic	EA	0.359588
+
+Pulte	PHM	0.358665
+
+Drug	AMGN	-0.933286
+
+Consol	CNX	-0.798411
+
+Nokia	QCOM	-0.752169
+
+US	WY	-0.730176
+
+HOT	AMGN	-0.669543
+
+HOT	BSX	-0.584420
+
+Discovery	DISCA	-0.583211
+
+US	HES	-0.574539
+
+Hasbro	HAS	-0.553785
+
+Banks	RF	-0.532407
+
+STOCKS	ADBE	-0.496786
+
+Verizon	VZ	-0.473469
+
+'s	PG	-0.439121
+
+BorgWarner	BWA	-0.412379
+
+Southern	WMB	-0.406094
+
+Oil	CVX	-0.393422
+
+CME	CME	-0.368070
+
+Stocks	CIEN	-0.367134
+
+Noble	NBL	-0.351114
+
+Schwab	SCHW	-0.334520
+

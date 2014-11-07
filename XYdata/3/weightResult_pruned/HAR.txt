@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.202239
+
+Rally	AA	1.096220
+
+Stocks	BTU	0.885711
+
+Dow	CAT	0.863520
+
+Retail	TGT	0.631499
+
+Financial	PNC	0.616342
+
+'s	SCHW	0.611179
+
+Stocks	CSX	0.574558
+
+Stock	BRK.B	0.474041
+
+US	M	0.471869
+
+Peabody	BTU	0.443016
+
+stocks	JDSU	0.442787
+
+'s	CRM	0.434388
+
+U.S.	MA	0.429500
+
+Broadcom	BRCM	0.416995
+
+U.S.	DOW	0.406850
+
+'s	JCP	0.404436
+
+Energy	BTU	0.384737
+
+U.S.	DD	0.382960
+
+Gas	COP	0.381340
+
+'s	WLP	-1.532070
+
+American	AXP	-0.983064
+
+Tysabri	BIIB	-0.808059
+
+Oil	VLO	-0.605477
+
+CEO	JNPR	-0.579699
+
+Shuts	MRO	-0.561697
+
+$	DFS	-0.557416
+
+U.S.	CAT	-0.536795
+
+Loss	LEN	-0.513945
+
+stocks	CHK	-0.496810
+
+Manitowoc	MTW	-0.456062
+
+'s	TGT	-0.452494
+
+Tech	IBM	-0.441572
+
+CFTC	CME	-0.438371
+
+Amylin	LLY	-0.432890
+
+J	PFE	-0.427163
+
+RadioShack	RSH	-0.409073
+
+Oil	DVN	-0.394560
+
+U.S.	DIS	-0.351354
+
+Agrium	CF	-0.340815
+

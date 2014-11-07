@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.362825
+
+Retailers	ANF	0.822326
+
+Janus	JNS	0.807588
+
+Macau	WYNN	0.720464
+
+Penney	KSS	0.699579
+
+Safeway	SWY	0.699457
+
+'s	BBT	0.647919
+
+'s	ABT	0.638600
+
+Bank	PNC	0.617303
+
+'s	RSH	0.533018
+
+Drug	MRK	0.503683
+
+$	PCG	0.412893
+
+'s	IBM	0.411845
+
+Wynn	WYNN	0.377423
+
+Bancorp	USB	0.364688
+
+Sprint	QCOM	0.361835
+
+$	CHK	0.341478
+
+stocks	TSO	0.324011
+
+Apple	BBY	0.318066
+
+Apache	APA	0.313867
+
+U.S.	DIS	-1.052670
+
+Dow	KO	-0.984904
+
+Gulf	RIG	-0.758558
+
+American	AXP	-0.746157
+
+Deal	NDAQ	-0.706988
+
+FDA	LLY	-0.666544
+
+Stocks	NFLX	-0.636612
+
+TECH	ADBE	-0.622129
+
+Copper	FCX	-0.521449
+
+Energy	CNX	-0.506149
+
+US	CTAS	-0.481235
+
+'s	HUM	-0.478623
+
+stocks	AA	-0.471327
+
+Citigroup	C	-0.470851
+
+TARP	COF	-0.455412
+
+Warner	TWC	-0.441630
+
+Banks	HBAN	-0.415727
+
+'s	ORCL	-0.409092
+
+US	TSO	-0.407983
+
+Friday	BBY	-0.391775
+

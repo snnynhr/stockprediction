@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.348701
+
+Amylin	LLY	0.738763
+
+'s	X	0.716130
+
+Apple	NFLX	0.702412
+
+Stocks	APOL	0.687944
+
+Aon	AON	0.680450
+
+Study	MDT	0.656118
+
+gains	ADBE	0.631814
+
+Chemical	DOW	0.600215
+
+Oil	CVX	0.582733
+
+'s	MET	0.580708
+
+US	EBAY	0.570136
+
+gas	CHK	0.566639
+
+Bank	PNC	0.549558
+
+Gains	MU	0.536354
+
+Retail	TGT	0.492567
+
+Stocks	HD	0.485767
+
+Microsoft	EA	0.463225
+
+US	MRK	0.451703
+
+Banks	BBT	0.444514
+
+Unit	MRO	-0.846728
+
+Altria	MO	-0.832622
+
+Morgan	COF	-0.786396
+
+Tysabri	BIIB	-0.722795
+
+stocks	CHK	-0.721057
+
+H-P	ORCL	-0.621198
+
+$	HES	-0.606357
+
+'s	MRK	-0.605512
+
+Dominion	D	-0.551103
+
+Insurers	PRU	-0.536242
+
+US	MCO	-0.534056
+
+Lorillard	LO	-0.487424
+
+Sales	ANF	-0.481020
+
+Sales	ADBE	-0.449711
+
+'s	BBBY	-0.448720
+
+'s	NFLX	-0.443628
+
+$	WFC	-0.442451
+
+Apple	INTC	-0.439396
+
+stocks	BTU	-0.434958
+
+Medtronic	MDT	-0.423080
+

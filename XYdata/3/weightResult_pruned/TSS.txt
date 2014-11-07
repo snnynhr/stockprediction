@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-2.24106
+
+Stocks	GNW	0.730637
+
+Companies	CVX	0.684084
+
+Stocks	UNH	0.662882
+
+Stocks	SLB	0.657053
+
+$	CVC	0.655971
+
+Stocks	DHI	0.646986
+
+Chips	SNDK	0.608572
+
+Stores	M	0.588438
+
+Stocks	ADP	0.578204
+
+Tenet	THC	0.513546
+
+stocks	TXN	0.490632
+
+Facebook	NDAQ	0.472427
+
+'s	BLK	0.469462
+
+Deal	CME	0.459530
+
+Techs	AMD	0.454307
+
+Trading	AMD	0.371545
+
+Zions	ZION	0.343208
+
+Banks	AXP	0.337268
+
+Biogen	BIIB	0.334850
+
+'s	MRO	-1.235620
+
+Retail	WAG	-1.138800
+
+Fitch	ANF	-0.957325
+
+Trust	NTRS	-0.950617
+
+Cisco	EMC	-0.799388
+
+Teradyne	TER	-0.571016
+
+ConAgra	CAG	-0.551001
+
+Stocks	MDLZ	-0.542029
+
+Loews	L	-0.530318
+
+'s	HOG	-0.524498
+
+Oil	VLO	-0.519651
+
+U.S.	CAT	-0.513511
+
+Oil	CHK	-0.500553
+
+Rambus	MU	-0.485176
+
+LCD	GLW	-0.472414
+
+STOCKS	YHOO	-0.469257
+
+Starbucks	MCD	-0.455539
+
+Aflac	AFL	-0.435060
+
+AstraZeneca	LLY	-0.432439
+
+BP	APC	-0.412181
+

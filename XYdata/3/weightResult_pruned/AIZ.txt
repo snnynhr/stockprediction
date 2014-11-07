@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.628037
+
+Philip	MO	0.641765
+
+Morris	MO	0.641765
+
+Morgan	C	0.617265
+
+Family	FDO	0.606796
+
+EBay	EBAY	0.602315
+
+Energy	VLO	0.577138
+
+Botox	AGN	0.574346
+
+U.S.	RIG	0.564767
+
+'s	BLK	0.544965
+
+stocks	MU	0.512760
+
+Pulte	PHM	0.510200
+
+'s	M	0.504110
+
+Sales	TIF	0.466300
+
+$	BLK	0.430388
+
+Iraq	COP	0.406868
+
+'s	V	0.405946
+
+TECH	AMD	0.381291
+
+E*Trade	SCHW	0.351542
+
+US	STJ	0.338923
+
+Energy	NRG	-1.247750
+
+'s	NYT	-1.230530
+
+'s	MMM	-1.035340
+
+Cable	TWX	-0.974891
+
+Hess	HES	-0.890684
+
+TV	TWX	-0.841635
+
+Invesco	IVZ	-0.827550
+
+Shares	NVDA	-0.772773
+
+stocks	RF	-0.721893
+
+Stocks	STI	-0.684507
+
+'s	KBH	-0.678576
+
+Marriott	MAR	-0.663821
+
+U.S.	INTC	-0.656653
+
+'s	LLY	-0.656432
+
+Weyerhaeuser	WY	-0.621658
+
+Sales	MDT	-0.572986
+
+Regional	BBT	-0.545010
+
+Office	ODP	-0.521920
+
+McDonald	MCD	-0.486211
+
+Drug	ABT	-0.483910
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.836866
+
+Gains	MU	1.099200
+
+Energy	TSO	0.664219
+
+Sales	BBY	0.622069
+
+1Q	BBY	0.558474
+
+Elpida	MU	0.549518
+
+Oil	HES	0.520059
+
+US	M	0.415969
+
+Berkshire	BRK.B	0.405770
+
+Stocks	PCLN	0.383314
+
+Scientific	BSX	0.377310
+
+'s	DIS	0.377307
+
+'s	WFC	0.372556
+
+HOT	CPWR	0.370254
+
+Morgan	WFC	0.369904
+
+Dow	DOW	0.368983
+
+Energy	SRE	0.363913
+
+Facebook	IACI	0.343082
+
+Stocks	YUM	0.338903
+
+Amgen	AMGN	0.336830
+
+Stocks	KEY	-1.222110
+
+Altria	MO	-0.873922
+
+New	PEP	-0.805806
+
+US	CRM	-0.744068
+
+Bank	STT	-0.726627
+
+HOT	AVP	-0.717002
+
+Gas	XOM	-0.705737
+
+stocks	CHK	-0.676794
+
+Sector	AMD	-0.649233
+
+Discovery	DISCA	-0.624748
+
+Northrop	NOC	-0.578425
+
+US	HES	-0.573303
+
+Medtronic	MDT	-0.545895
+
+FDA	JNJ	-0.541289
+
+Stocks	ORCL	-0.520978
+
+GM	GM	-0.519257
+
+US	GIS	-0.512016
+
+US	MRO	-0.496076
+
+Sales	F	-0.485462
+
+Sector	TXN	-0.473431
+

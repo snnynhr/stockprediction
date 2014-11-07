@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.364402
+
+US	APC	0.787946
+
+Mellon	BK	0.761214
+
+Discover	AXP	0.756298
+
+New	MCO	0.561478
+
+GameStop	GME	0.547585
+
+stocks	AXP	0.519336
+
+US	VLO	0.489875
+
+Inditex	GPS	0.485334
+
+$	EA	0.478778
+
+New	SBUX	0.478775
+
+Penney	KSS	0.478030
+
+Yum	YUM	0.454656
+
+Peabody	BTU	0.416664
+
+Nabors	NBR	0.405518
+
+Expeditors	EXPD	0.393550
+
+Credit	MCO	0.378430
+
+UPS	UPS	0.363432
+
+Burger	MCD	0.363111
+
+Apple	STX	0.360801
+
+Food	GIS	-1.002410
+
+Agrium	CF	-0.758765
+
+Tech	IBM	-0.743016
+
+Stocks	AMAT	-0.716250
+
+lower	VLO	-0.695641
+
+Retail	BBY	-0.692466
+
+Citigroup	C	-0.664800
+
+WPP	OMC	-0.659209
+
+Dell	HPQ	-0.585833
+
+Tech	EMC	-0.522136
+
+Profit	COP	-0.502297
+
+'s	GE	-0.487089
+
+Stocks	SNDK	-0.479418
+
+Drugs	ABT	-0.462387
+
+Seagate	STX	-0.423650
+
+Intel	TXN	-0.423077
+
+AmEx	AXP	-0.406723
+
+'s	DFS	-0.406206
+
+General	DG	-0.402172
+
+'s	DHI	-0.399647
+

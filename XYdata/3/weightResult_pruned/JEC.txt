@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.453979
+
+STOCKS	QCOM	1.153700
+
+Gains	MU	0.979356
+
+Nucor	NUE	0.919483
+
+Boeing	UTX	0.905920
+
+stocks	FITB	0.772102
+
+gas	CHK	0.722798
+
+Apple	JCP	0.603296
+
+Energy	VLO	0.590856
+
+Macau	WYNN	0.522010
+
+PepsiCo	PEP	0.501708
+
+Kraft	MDLZ	0.461767
+
+U.S.	URBN	0.394468
+
+Retail	TGT	0.360675
+
+AMD	AMD	0.357003
+
+US	NDAQ	0.353141
+
+'s	TWX	0.329798
+
+Foods	MDLZ	0.324989
+
+Tiffany	TIF	0.320035
+
+Edison	EIX	0.308457
+
+Monster	MWW	-0.955770
+
+Coke	KO	-0.667547
+
+Buy	QCOM	-0.661054
+
+Buy	BMY	-0.656181
+
+Futures	ICE	-0.648046
+
+Express	AXP	-0.628168
+
+Techs	AMAT	-0.624359
+
+SEC	MCO	-0.623902
+
+Health	HCN	-0.617612
+
+J	ABT	-0.594052
+
+Data	NTAP	-0.565035
+
+'s	CVC	-0.561585
+
+Medtronic	MDT	-0.517459
+
+Stocks	RF	-0.515775
+
+Rambus	MU	-0.497790
+
+stocks	AMD	-0.475131
+
+Coffee	SBUX	-0.413062
+
+Agrium	CF	-0.402680
+
+Stocks	GPS	-0.402348
+
+CEO	ORCL	-0.394250
+

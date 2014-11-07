@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.555518
+
+Health	UNH	0.968776
+
+US	GE	0.847045
+
+Rally	AMD	0.693511
+
+HOT	MRK	0.636245
+
+Bank	BAC	0.536495
+
+stocks	VLO	0.524621
+
+Natural	CHK	0.511985
+
+Capital	COF	0.498195
+
+$	BMY	0.494754
+
+Wal-Mart	GPS	0.453620
+
+Tiffany	TIF	0.452952
+
+Dow	TRV	0.446363
+
+'s	AMGN	0.443047
+
+Costco	COST	0.439999
+
+Ameriprise	AMP	0.430117
+
+Botox	AGN	0.430002
+
+stocks	CSCO	0.398012
+
+Bank	MS	0.363404
+
+Scripps	SNI	0.363151
+
+BofA	RF	-1.072090
+
+stocks	VZ	-0.896096
+
+US	HES	-0.872532
+
+U.S.	LLY	-0.829798
+
+'s	WMT	-0.803951
+
+Data	EMC	-0.798142
+
+'s	SLB	-0.652469
+
+Chipotle	CMG	-0.624582
+
+CarMax	KMX	-0.613953
+
+Up	ORCL	-0.484264
+
+Corning	GLW	-0.457053
+
+Dollar	FDO	-0.455465
+
+Martin	LMT	-0.439549
+
+stocks	GNW	-0.434909
+
+Stock	V	-0.433062
+
+'s	NVDA	-0.432826
+
+'s	DHI	-0.372653
+
+KeyCorp	KEY	-0.372306
+
+Apple	INTC	-0.372005
+
+Caremark	WAG	-0.370300
+

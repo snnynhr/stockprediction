@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.0334607
+
+'s	LEN	1.025310
+
+stocks	AXP	0.975790
+
+Nucor	NUE	0.855094
+
+energy	CVX	0.710554
+
+Idec	BIIB	0.696670
+
+'s	BSX	0.658121
+
+Trading	NDAQ	0.563180
+
+AMAT	AMAT	0.560724
+
+HOT	LNC	0.559624
+
+Hormel	HRL	0.551214
+
+Samsung	SNDK	0.522324
+
+CEO	VLO	0.516726
+
+Power	AEP	0.507777
+
+'s	GM	0.497947
+
+STOCKS	EMC	0.497771
+
+Costco	COST	0.490457
+
+Zions	ZION	0.468805
+
+Energy	BTU	0.460872
+
+stocks	HES	0.386883
+
+Tysabri	BIIB	-1.006070
+
+Rambus	MU	-0.920749
+
+stocks	KEY	-0.698535
+
+Best	AMZN	-0.666020
+
+US	ANF	-0.638734
+
+Heparin	BAX	-0.564750
+
+Waters	WAT	-0.540433
+
+Energy	DUK	-0.529638
+
+Gas	CVX	-0.507873
+
+Yahoo	EBAY	-0.500646
+
+Textron	TXT	-0.497887
+
+Stocks	M	-0.489175
+
+'s	ADSK	-0.475989
+
+$	HES	-0.448597
+
+US	TXN	-0.433293
+
+Horton	DHI	-0.401237
+
+Gold	FCX	-0.400041
+
+U.S.	SHLD	-0.397111
+
+'s	EBAY	-0.396382
+
+Retailers	M	-0.386166
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.45557
+
+'s	CHK	0.724758
+
+Entergy	ETR	0.715114
+
+stocks	XOM	0.690244
+
+Microsoft	ADBE	0.640207
+
+US	RIG	0.584210
+
+Pepper	DPS	0.514579
+
+Diagnostics	DGX	0.489627
+
+iPhone	T	0.487299
+
+Yahoo	EBAY	0.475031
+
+Honeywell	HON	0.458076
+
+'s	AXP	0.450883
+
+Retailers	HD	0.429151
+
+Take-Two	EA	0.426083
+
+Google	SYMC	0.408989
+
+Bank	WFC	0.394147
+
+Analog	ADI	0.381478
+
+US	BHI	0.343631
+
+ICE	CME	0.342493
+
+'s	UPS	0.332354
+
+'s	CSCO	-1.228050
+
+Activision	EA	-1.024960
+
+Deal	BRK.B	-0.961628
+
+Stocks	CVS	-0.853952
+
+CenturyTel	CTL	-0.640228
+
+'s	SHLD	-0.638488
+
+Drilling	RIG	-0.599967
+
+stocks	INTC	-0.575411
+
+Chip	BRCM	-0.564670
+
+U.S.	DIS	-0.562775
+
+Sales	MDT	-0.530770
+
+CarMax	KMX	-0.514544
+
+Sprint	T	-0.502721
+
+Stocks	SNDK	-0.500729
+
+Lilly	BMY	-0.478565
+
+Stock	TXN	-0.451981
+
+Builders	LEN	-0.450305
+
+US	HRB	-0.434360
+
+Up	MA	-0.420669
+
+Profit	SCHW	-0.402921
+

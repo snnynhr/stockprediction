@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.300388
+
+stocks	TXN	1.216820
+
+Stocks	TXN	0.805188
+
+Stocks	MET	0.578157
+
+Abbott	ABT	0.533704
+
+Capital	ACAS	0.508975
+
+'s	JCP	0.494049
+
+Dow	MDLZ	0.484313
+
+Xilinx	XLNX	0.436033
+
+Techs	SNDK	0.409086
+
+US	PG	0.397832
+
+Electronic	EA	0.394909
+
+US	CAG	0.377197
+
+Tiffany	TIF	0.372924
+
+Extends	EA	0.353159
+
+Study	MDT	0.352822
+
+Third	KEY	0.349397
+
+Morgan	STI	0.347557
+
+'s	UNH	0.345918
+
+Citi	AXP	0.325666
+
+'s	COF	-0.803821
+
+McLennan	MMC	-0.694903
+
+Game	EA	-0.610564
+
+'s	HAL	-0.600728
+
+'s	HPQ	-0.512932
+
+stocks	CHK	-0.438560
+
+Electric	AEP	-0.431322
+
+Gulf	XOM	-0.402300
+
+'s	HBAN	-0.388409
+
+Energy	APC	-0.384094
+
+Starwood	HOT	-0.376882
+
+Johnson	JCI	-0.372832
+
+'s	GCI	-0.372514
+
+Oil	CVX	-0.344854
+
+H-P	ORCL	-0.341644
+
+'s	C	-0.338425
+
+Trust	NTRS	-0.332755
+
+Pentair	PNR	-0.325653
+
+Futures	ICE	-0.321757
+
+Oracle	ORCL	-0.313136
+

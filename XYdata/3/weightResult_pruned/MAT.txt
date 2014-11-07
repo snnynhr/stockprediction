@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.64063
+
+FDA	AMGN	0.753326
+
+'s	PNC	0.616298
+
+Coca-Cola	KO	0.595967
+
+Retail	LOW	0.593030
+
+J	BSX	0.584824
+
+Retail	TGT	0.572770
+
+Smucker	SJM	0.541112
+
+Bancorp	USB	0.525275
+
+US	TEX	0.467770
+
+Materials	AMAT	0.455718
+
+Fed	AXP	0.429313
+
+Scientific	BSX	0.424104
+
+Yum	YUM	0.417675
+
+US	STT	0.404326
+
+FDA	ABT	0.397266
+
+Coke	KO	0.395954
+
+Pulte	PHM	0.388197
+
+Credit-Card	COF	0.369455
+
+Oil	HES	0.356676
+
+Shares	NVDA	-1.102690
+
+'s	GCI	-1.064760
+
+Heparin	BAX	-0.769103
+
+HOT	USB	-0.736338
+
+Properties	BXP	-0.724338
+
+'s	USB	-0.715726
+
+FDA	BMY	-0.703724
+
+Up	KO	-0.624749
+
+Drilling	RIG	-0.543617
+
+U.S.	DIS	-0.537921
+
+stocks	CHK	-0.520481
+
+Fifth	FITB	-0.486101
+
+Hospira	HSP	-0.430770
+
+New	GE	-0.421751
+
+Pepsi	PEP	-0.421722
+
+Data	EMC	-0.405728
+
+Earnings	AA	-0.399030
+
+Oil	COP	-0.392524
+
+Agrium	CF	-0.392400
+
+Life	PRU	-0.373830
+

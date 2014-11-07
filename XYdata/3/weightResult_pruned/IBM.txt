@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.0110093
+
+gas	CHK	1.194570
+
+stocks	BMY	0.959284
+
+Refinery	CVX	0.895957
+
+Stocks	COF	0.668309
+
+Stocks	WMT	0.648207
+
+Shares	HIG	0.629944
+
+Retail	GPS	0.596585
+
+Apple	NFLX	0.556112
+
+Stocks	CHK	0.533305
+
+Amgen	AMGN	0.517589
+
+Lauder	EL	0.511302
+
+US	AA	0.509120
+
+CEO	INTC	0.506660
+
+U.S.	TIF	0.486768
+
+Plans	T	0.477662
+
+D.R.	DHI	0.464424
+
+higher	TXN	0.457327
+
+Harley	HOG	0.444348
+
+GM	F	0.417720
+
+Discovery	DISCA	-1.157730
+
+Earnings	AA	-0.936242
+
+Cisco	JNPR	-0.646369
+
+'s	ANF	-0.543749
+
+'s	SLB	-0.540575
+
+TNT	UPS	-0.535036
+
+Qualcomm	BRCM	-0.527875
+
+US	BSX	-0.506385
+
+ADP	ADP	-0.501179
+
+Loews	L	-0.488363
+
+Pacific	UNP	-0.487622
+
+US	DFS	-0.484333
+
+'s	SHLD	-0.473138
+
+Home	LEN	-0.471005
+
+Stocks	CAT	-0.468756
+
+Deutsche	UPS	-0.457860
+
+Textron	TXT	-0.456810
+
+US	CVX	-0.443190
+
+'s	CHK	-0.432379
+
+Credit	V	-0.427719
+

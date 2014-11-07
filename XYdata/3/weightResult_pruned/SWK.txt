@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.569916
+
+Bottling	PEP	0.808392
+
+Rally	NVDA	0.773017
+
+$	DE	0.753568
+
+Fed	USB	0.707710
+
+Stocks	WLP	0.617829
+
+'s	BLK	0.597326
+
+'s	YHOO	0.588547
+
+US	PG	0.522804
+
+H-P	EMC	0.511219
+
+'s	JNJ	0.488760
+
+Danaher	DHR	0.484867
+
+Retailers	TJX	0.471459
+
+ADP	ADP	0.412342
+
+stocks	VLO	0.402404
+
+stocks	RIG	0.393257
+
+STOCKS	SNDK	0.374847
+
+Morgan	BBT	0.369565
+
+Tech	CSCO	0.363986
+
+Retailers	HD	0.355244
+
+Stocks	M	-0.870386
+
+stocks	CHK	-0.847726
+
+'s	PFE	-0.831630
+
+U.S.	DIS	-0.818318
+
+Heparin	BAX	-0.771126
+
+Stocks	KEY	-0.660974
+
+Scientific	MDT	-0.625492
+
+Loss	MON	-0.581527
+
+Drug	CVS	-0.575809
+
+Chevron	CVX	-0.550109
+
+'s	KBH	-0.534063
+
+Buffett	BRK.B	-0.465821
+
+Hess	HES	-0.461692
+
+U.S.	AA	-0.439085
+
+Systems	ADBE	-0.432373
+
+'s	STI	-0.431642
+
+Red	RHT	-0.427838
+
+Ambac	MBI	-0.413580
+
+Home	KBH	-0.400288
+
+HOT	FSLR	-0.396917
+

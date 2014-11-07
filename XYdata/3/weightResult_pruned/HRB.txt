@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.341637
+
+Energy	NOV	1.650930
+
+Credit	CME	0.895093
+
+Libya	COP	0.656997
+
+Philip	PM	0.614263
+
+Janus	JNS	0.583307
+
+AIG	MET	0.561628
+
+State	STT	0.556549
+
+TNT	UPS	0.513757
+
+STOCKS	BBY	0.508635
+
+Data	EMC	0.489636
+
+BP	HAL	0.469666
+
+Morgan	KEY	0.465708
+
+Gulf	APC	0.456898
+
+AIA	AIG	0.435754
+
+Horton	DHI	0.427841
+
+US	WYNN	0.418342
+
+$	V	0.416584
+
+'s	GNW	0.412647
+
+stocks	MTG	0.386956
+
+New	XOM	-1.780020
+
+Southwestern	SWN	-1.271740
+
+stocks	CHK	-1.067690
+
+Clearing	NDAQ	-0.876826
+
+Stocks	BBY	-0.761738
+
+Rambus	MU	-0.748498
+
+Taiwan	AIG	-0.747538
+
+Retail	M	-0.644083
+
+Trust	BK	-0.633227
+
+Lead	AMD	-0.615870
+
+Computer	CSC	-0.613262
+
+King	MCD	-0.590822
+
+Street	BLK	-0.588336
+
+Verizon	T	-0.562575
+
+Drug	AMGN	-0.538219
+
+'s	PFE	-0.513957
+
+MasterCard	V	-0.503763
+
+Stocks	RSH	-0.468866
+
+Red	RHT	-0.434226
+
+Stocks	AA	-0.432191
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.368853
+
+stocks	NVDA	1.061900
+
+Up	NTAP	0.847704
+
+Stocks	PFE	0.573852
+
+Futures	CME	0.542248
+
+Stocks	JBL	0.510686
+
+Stocks	PHM	0.475583
+
+US	COF	0.471263
+
+Danaher	DHR	0.439836
+
+Abbott	ABT	0.405519
+
+Tenet	THC	0.396224
+
+'s	BK	0.395981
+
+PC	HPQ	0.389854
+
+Oil	HES	0.373336
+
+DirecTV	DTV	0.369630
+
+Roche	BIIB	0.366376
+
+'s	COST	0.356901
+
+'s	CPB	0.353679
+
+PPL	PPL	0.351416
+
+Whole	WFM	0.341454
+
+Stock	ESRX	-1.071750
+
+stocks	BTU	-0.887611
+
+'s	CAT	-0.815159
+
+Oil	NOV	-0.811435
+
+Manitowoc	MTW	-0.706121
+
+Drug	MRK	-0.690530
+
+CenturyTel	CTL	-0.625473
+
+Earnings	AA	-0.608207
+
+Progressive	PGR	-0.568836
+
+Deal	VZ	-0.562414
+
+STOCKS	EA	-0.550878
+
+Spill	RIG	-0.544690
+
+$	GE	-0.536019
+
+US	HUM	-0.525153
+
+US	BSX	-0.503001
+
+Whirlpool	WHR	-0.502672
+
+Tech	MU	-0.485410
+
+Unit	MRO	-0.458492
+
+US	AN	-0.449606
+
+Shares	AMD	-0.427094
+

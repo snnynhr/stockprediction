@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.255467
+
+Energy	COG	1.233820
+
+US	NDAQ	0.982744
+
+higher	AXP	0.928546
+
+US	PFE	0.592395
+
+EBay	EBAY	0.591271
+
+HOT	CF	0.573005
+
+Healthcare	THC	0.563435
+
+energy	HAL	0.534949
+
+Pulte	PHM	0.521210
+
+Tiffany	TIF	0.501246
+
+Sector	AMD	0.481727
+
+Gas	BHI	0.481272
+
+Tech	SNDK	0.472746
+
+Bank	CMA	0.459181
+
+Bank	RF	0.455268
+
+Biogen	BIIB	0.449793
+
+US	WFT	0.419683
+
+Higher	TXN	0.407668
+
+HOT	DTE	0.394153
+
+FDA	LLY	-1.077770
+
+U.S.	KEY	-0.957090
+
+Lubrizol	BRK.B	-0.891117
+
+earnings	AA	-0.801759
+
+GM	F	-0.757026
+
+FDA	JNJ	-0.639746
+
+Tech	NTAP	-0.627736
+
+Prudential	PRU	-0.601368
+
+gains	VLO	-0.597175
+
+Banks	STT	-0.583701
+
+WellPoint	WLP	-0.549055
+
+Pioneer	PXD	-0.542562
+
+Monster	MWW	-0.531762
+
+Express	AXP	-0.522112
+
+'s	KBH	-0.516844
+
+Stocks	BRK.B	-0.509089
+
+Facebook	WFC	-0.505787
+
+Walgreen	CVS	-0.497628
+
+Banks	FITB	-0.495722
+
+U.S.	GPS	-0.445899
+

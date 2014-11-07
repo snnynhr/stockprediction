@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.252905
+
+Credit-Card	AXP	0.835168
+
+Moody	MCO	0.744623
+
+Bank	PNC	0.721319
+
+U.S.	LEN	0.687652
+
+HOT	STX	0.663924
+
+stocks	RIG	0.633149
+
+Retailers	ANF	0.619422
+
+stocks	AA	0.604056
+
+Solvay	ABT	0.597097
+
+UPS	FDX	0.572832
+
+US	CSX	0.508497
+
+Allegheny	ATI	0.500450
+
+'s	BLK	0.499527
+
+Fund	BLK	0.491934
+
+'s	BSX	0.481506
+
+Stocks	COF	0.477992
+
+Oil	HES	0.470582
+
+Energy	CHK	0.426515
+
+'s	GIS	0.402158
+
+Stocks	M	-0.819911
+
+US	ICE	-0.723672
+
+Sciences	GILD	-0.718096
+
+Office	SPLS	-0.654479
+
+Merrill	BAC	-0.651288
+
+Stocks	MRK	-0.637873
+
+Apache	APA	-0.571231
+
+AB	BUD	-0.520901
+
+$	PCLN	-0.498503
+
+India	LMT	-0.483316
+
+Bank	BBT	-0.470174
+
+Computer	CSC	-0.452447
+
+Loss	LEN	-0.449140
+
+$	OXY	-0.436004
+
+Stocks	ADBE	-0.410667
+
+Cuts	FDX	-0.409057
+
+STOCKS	EA	-0.408438
+
+Lennar	LEN	-0.397821
+
+'s	FDX	-0.393530
+
+Stocks	ADM	-0.352591
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.0472593
+
+Bond	MBI	1.179380
+
+Stocks	FCX	0.969533
+
+'s	AKAM	0.958258
+
+T-Mobile	T	0.914113
+
+STOCKS	MU	0.755873
+
+US	LEN	0.728673
+
+'s	BK	0.703651
+
+Stocks	AZO	0.633936
+
+Archer	ADM	0.596420
+
+Morgan	STI	0.594675
+
+US	FSLR	0.570213
+
+EU	MCO	0.564683
+
+Scientific	BSX	0.448478
+
+Rally	AMD	0.442462
+
+FedEx	FDX	0.441054
+
+US	AA	0.417908
+
+Safeway	SWY	0.415742
+
+'s	MET	0.404658
+
+NYSE	NDAQ	0.394408
+
+Dow	HD	-1.010900
+
+'s	FCX	-0.961583
+
+FDA	BMY	-0.878247
+
+Sciences	GILD	-0.694584
+
+American	LUV	-0.686004
+
+Apple	INTC	-0.642379
+
+Coffee	SBUX	-0.622095
+
+Residential	EQR	-0.564962
+
+U.S.	AA	-0.551267
+
+BorgWarner	BWA	-0.548815
+
+Chevron	XOM	-0.525541
+
+CenturyTel	CTL	-0.504893
+
+jobs	ADP	-0.496338
+
+'s	WAG	-0.491840
+
+Life	LNC	-0.490567
+
+Outfitters	URBN	-0.481684
+
+Comerica	CMA	-0.463793
+
+Net	M	-0.459914
+
+Stocks	APC	-0.446941
+
+US	SNDK	-0.419304
+

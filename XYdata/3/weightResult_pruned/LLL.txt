@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-1.04741
+
+US	CSX	0.830474
+
+Resources	RRC	0.822445
+
+Stock	TIF	0.707074
+
+U.S.	TRV	0.663884
+
+Buy	EA	0.660002
+
+Penney	M	0.614948
+
+U.S.	DOW	0.606627
+
+stocks	TXN	0.578947
+
+Cancer	MRK	0.575882
+
+UPS	UPS	0.565823
+
+Elan	BIIB	0.547040
+
+Dell	ORCL	0.545768
+
+Danaher	DHR	0.525687
+
+stocks	BBBY	0.514978
+
+Ford	F	0.451206
+
+game	EA	0.445628
+
+Data	COF	0.435392
+
+Stocks	APC	0.429681
+
+Stocks	KO	0.420081
+
+U.S.	FDO	-0.739746
+
+Pepsi	PEP	-0.584859
+
+stocks	SHLD	-0.569674
+
+Credit	COF	-0.552463
+
+Deal	UPS	-0.547313
+
+stocks	KEY	-0.537906
+
+'s	CHK	-0.533854
+
+Deal	CMCSA	-0.527406
+
+Stocks	HUM	-0.475400
+
+Gas	XOM	-0.441143
+
+Wal-Mart	HD	-0.435379
+
+Stock	V	-0.435143
+
+Southern	NSC	-0.434261
+
+Gannett	GCI	-0.428896
+
+stocks	HD	-0.420142
+
+'s	XOM	-0.413005
+
+FDA	JNJ	-0.406529
+
+Union	WU	-0.398616
+
+Tech	MU	-0.389881
+
+'s	LEN	-0.373510
+

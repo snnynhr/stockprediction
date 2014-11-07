@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	1.12685
+
+Hormel	HRL	0.837408
+
+US	LEN	0.765702
+
+Profit	ANF	0.758270
+
+$	BLK	0.524567
+
+$	MA	0.475330
+
+Penney	M	0.424079
+
+Coke	KO	0.417337
+
+Stocks	IBM	0.410637
+
+Monsanto	MON	0.406668
+
+Range	RRC	0.398851
+
+Power	ETR	0.393304
+
+Facebook	EBAY	0.384736
+
+'s	MBI	0.377370
+
+Stocks	BA	0.363558
+
+Insurers	AET	0.362553
+
+EA	EA	0.350820
+
+'s	JWN	0.327232
+
+India	F	0.326903
+
+Coca-Cola	KO	0.323796
+
+Heparin	BAX	-1.098120
+
+TV	CBS	-0.902248
+
+Shuts	MRO	-0.701034
+
+'s	CHK	-0.668715
+
+Stocks	MDLZ	-0.631880
+
+Adobe	ADBE	-0.621951
+
+Principal	PFG	-0.603037
+
+Stock	SNDK	-0.591698
+
+Valero	TSO	-0.578691
+
+GE	CMCSA	-0.567133
+
+US	CME	-0.566361
+
+CenturyTel	CTL	-0.547706
+
+stocks	NBR	-0.511752
+
+Lilly	BMY	-0.493639
+
+Gas	XOM	-0.488176
+
+Sales	EA	-0.463373
+
+Housing	HD	-0.437946
+
+Abbott	BSX	-0.433872
+
+Gap	GPS	-0.422940
+
+Shares	NVDA	-0.417822
+

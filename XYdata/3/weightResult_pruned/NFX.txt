@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.617119
+
+BofA	COF	0.961823
+
+'s	MDLZ	0.787638
+
+US	QCOM	0.783039
+
+'s	BK	0.768002
+
+Abercrombie	ANF	0.689647
+
+Insurers	HIG	0.584309
+
+US	APC	0.576607
+
+Genuine	GPC	0.570677
+
+US	BRCM	0.569517
+
+Energy	VLO	0.534317
+
+Delta	LUV	0.489868
+
+Stocks	BA	0.472688
+
+Thermo	TMO	0.467113
+
+Discover	DFS	0.462130
+
+Morning	HPQ	0.430984
+
+Honeywell	HON	0.424085
+
+$	NDAQ	0.423717
+
+Stocks	YUM	0.390612
+
+U.S.	MCD	0.347236
+
+Stocks	BRCM	-0.770708
+
+HOT	TSO	-0.626243
+
+Stocks	FSLR	-0.620931
+
+Bid	EMC	-0.606275
+
+Exelon	NRG	-0.564610
+
+Office	ODP	-0.517407
+
+NYSE	ICE	-0.510921
+
+$	HOG	-0.495831
+
+SunTrust	STI	-0.489610
+
+J.P.	WFC	-0.486169
+
+Chesapeake	CHK	-0.413868
+
+Occidental	OXY	-0.411217
+
+CME	CME	-0.405764
+
+Up	JCP	-0.387355
+
+Conoco	COP	-0.357913
+
+Networks	SNI	-0.353521
+
+Stocks	MRK	-0.346271
+
+Southwest	LUV	-0.341867
+
+Bank	COF	-0.341839
+
+Intel	NVDA	-0.338591
+

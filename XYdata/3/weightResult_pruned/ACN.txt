@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.0334335
+
+Lifesciences	EW	1.168990
+
+'s	NFLX	0.556459
+
+Gains	TXN	0.511058
+
+stocks	NVDA	0.508478
+
+stocks	COG	0.366280
+
+Stocks	HPQ	0.364617
+
+stocks	VLO	0.363930
+
+Loan	DFS	0.348388
+
+Verizon	T	0.344204
+
+Akamai	AKAM	0.342624
+
+EMC	EMC	0.341899
+
+TECH	AMD	0.333800
+
+Walgreen	CVS	0.319639
+
+US	M	0.312146
+
+Terex	TEX	0.272640
+
+Stock	BRK.B	0.266871
+
+Sears	SHLD	0.246608
+
+Chemical	DOW	0.246053
+
+Retail	TGT	0.244812
+
+$	COP	-1.120560
+
+Stocks	KEY	-0.987358
+
+$	MRO	-0.705502
+
+J	ABT	-0.671037
+
+Citrix	CTXS	-0.670335
+
+Apple	INTC	-0.664999
+
+HOT	CI	-0.654187
+
+Fall	AA	-0.652099
+
+Stocks	MRK	-0.592596
+
+$	QCOM	-0.550252
+
+Banks	HBAN	-0.504316
+
+Cisco	JNPR	-0.471969
+
+Tech	NTAP	-0.470854
+
+Intuit	INTU	-0.462084
+
+CEO	BBY	-0.441939
+
+Social	NFLX	-0.438742
+
+Chevron	CVX	-0.436604
+
+stocks	X	-0.371329
+
+Ingersoll-Rand	IR	-0.351544
+
+Agrium	CF	-0.327541
+

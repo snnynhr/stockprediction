@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.459735
+
+stocks	NVDA	0.811961
+
+stocks	PG	0.774764
+
+Plans	T	0.746142
+
+Car	F	0.724106
+
+Futures	CME	0.694617
+
+Media	VIAB	0.664144
+
+Apple	NFLX	0.581243
+
+Microsoft	EA	0.572243
+
+Oil	HES	0.570567
+
+Controls	JCI	0.561007
+
+Apple	VZ	0.512953
+
+retail	M	0.501785
+
+stocks	M	0.489846
+
+CNET	CBS	0.478614
+
+U.S.	NKE	0.445439
+
+Stocks	HD	0.424424
+
+Drug	JNJ	0.408534
+
+Carnival	CCL	0.407180
+
+Dreamliner	BA	0.394959
+
+Update	V	-0.878857
+
+Morgan	COF	-0.774235
+
+J	MRK	-0.757170
+
+Noble	NE	-0.753074
+
+'s	GE	-0.730606
+
+Stocks	MDLZ	-0.729871
+
+Software	CRM	-0.713236
+
+Stocks	M	-0.666208
+
+Nokia	QCOM	-0.558622
+
+stocks	NBR	-0.500550
+
+National	NOV	-0.482039
+
+Discovery	DISCA	-0.471631
+
+Stocks	ORCL	-0.457484
+
+VF	VFC	-0.457447
+
+U.S.	KEY	-0.446964
+
+Retail	SHLD	-0.443200
+
+Nymex	CME	-0.426168
+
+Lilly	LLY	-0.418462
+
+Energy	EXC	-0.383365
+
+Devices	ADI	-0.372433
+

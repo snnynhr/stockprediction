@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.969642
+
+Rally	NVDA	0.896880
+
+'s	AGN	0.845267
+
+Up	CVS	0.812596
+
+Tenet	THC	0.705975
+
+Workers	JEC	0.567565
+
+AIG	MET	0.510538
+
+Safeway	SWY	0.490007
+
+U.S.	TIF	0.445419
+
+New	NYT	0.441561
+
+Gains	AMD	0.421918
+
+Apache	APA	0.413113
+
+Bristol-Myers	BMY	0.369777
+
+US	LLY	0.351251
+
+Foods	WFM	0.328915
+
+Tech	QCOM	0.325792
+
+stocks	FHN	0.315558
+
+Staples	SPLS	0.306724
+
+Chip	ADI	0.282328
+
+HOT	MRK	0.273289
+
+Activision	EA	-1.009420
+
+Energy	SWN	-0.938141
+
+Housing	HD	-0.814136
+
+Textron	TXT	-0.730198
+
+Shares	NVDA	-0.704156
+
+$	MRO	-0.689792
+
+Energy	APC	-0.688713
+
+Corporate	SPLS	-0.666457
+
+Bank	COF	-0.640089
+
+Stock	AIG	-0.598388
+
+Exelon	NRG	-0.560429
+
+Sprint	CIEN	-0.560386
+
+Stocks	MDLZ	-0.553388
+
+Chipotle	CMG	-0.551952
+
+STOCKS	NFLX	-0.550706
+
+Discovery	DISCA	-0.538036
+
+Networks	JNPR	-0.498145
+
+US	BBY	-0.492656
+
+Lockheed	LMT	-0.481900
+
+Spill	RIG	-0.454872
+

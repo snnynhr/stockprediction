@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.388143
+
+Alibaba	YHOO	1.087470
+
+US	RF	0.792422
+
+Monday	SHLD	0.769447
+
+Danaher	DHR	0.760787
+
+Pulte	PHM	0.655802
+
+Stocks	TGT	0.589349
+
+Foods	MDLZ	0.586103
+
+Flight	LUV	0.576819
+
+Facebook	YHOO	0.462245
+
+Airlines	BA	0.456765
+
+Zions	ZION	0.455911
+
+STOCKS	AMD	0.441891
+
+stocks	CCL	0.437094
+
+Kroger	KR	0.433521
+
+Stocks	LLTC	0.431286
+
+State	STT	0.414510
+
+NYSE	CME	0.407007
+
+'s	XOM	0.402384
+
+Simon	SPG	0.400989
+
+Heparin	BAX	-0.969412
+
+Hospira	HSP	-0.824125
+
+'s	KBH	-0.772272
+
+Lincoln	LNC	-0.699353
+
+Friday	CRM	-0.692071
+
+Shares	NVDA	-0.684626
+
+Apple	CSCO	-0.662389
+
+AIG	PRU	-0.645457
+
+'s	T	-0.578012
+
+'s	NYT	-0.555903
+
+HOT	BMY	-0.494966
+
+'s	CHK	-0.471697
+
+Rambus	MU	-0.445810
+
+Financial	RF	-0.438255
+
+Oil	CVX	-0.437751
+
+DeVry	DV	-0.433669
+
+stocks	RF	-0.429390
+
+Tyco	TYC	-0.424937
+
+'s	CVC	-0.413112
+
+HOT	INTC	-0.406647
+

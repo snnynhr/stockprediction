@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.629549
+
+Morning	WMT	0.808110
+
+Products	APD	0.744309
+
+Walgreen	CVS	0.736232
+
+Power	ETR	0.735084
+
+Airlines	BA	0.645236
+
+Cadbury	HSY	0.606411
+
+Big	BIG	0.557454
+
+Credit-Card	COF	0.555977
+
+Apple	IBM	0.531947
+
+Nike	NKE	0.512029
+
+US	KEY	0.461898
+
+'s	MBI	0.457983
+
+EBay	EBAY	0.449827
+
+Volume	CME	0.443612
+
+Elan	BIIB	0.394106
+
+TECH	TXN	0.389453
+
+Berkshire	BRK.B	0.357949
+
+Simon	SPG	0.355946
+
+Banks	KEY	0.348596
+
+Stock	SHLD	-1.156910
+
+Tysabri	BIIB	-0.945491
+
+Pacific	UNP	-0.868660
+
+Brokers	SCHW	-0.817076
+
+Heparin	BAX	-0.688807
+
+Harley-Davidson	HOG	-0.661088
+
+Stock	V	-0.647016
+
+BP	APC	-0.641374
+
+Life	PRU	-0.573930
+
+J	AMGN	-0.565535
+
+Shares	NVDA	-0.551971
+
+Mastercard	MA	-0.536066
+
+Net	M	-0.535925
+
+Northrop	NOC	-0.514430
+
+stocks	CHK	-0.477855
+
+Bid	EMC	-0.473162
+
+Pay	WFC	-0.462775
+
+Sales	F	-0.460096
+
+Over	SCHW	-0.456694
+
+Energy	CNX	-0.447162
+

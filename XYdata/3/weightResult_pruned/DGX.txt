@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.0436401
+
+'s	BMY	1.055210
+
+Convergys	CVG	0.896819
+
+'s	WFC	0.855912
+
+Stock	CHK	0.769515
+
+stocks	VLO	0.724073
+
+Inditex	GPS	0.578419
+
+U.S.	CLF	0.545375
+
+'s	MCO	0.523869
+
+Nordstrom	JWN	0.518133
+
+Bristol-Myers	BMY	0.481486
+
+Amylin	LLY	0.479371
+
+Symantec	SYMC	0.478148
+
+Treasury	AIG	0.469366
+
+AMD	AMD	0.455909
+
+Stocks	KO	0.455265
+
+Apple	VZ	0.439568
+
+Tenet	THC	0.439277
+
+U.S.	BA	0.437475
+
+Stocks	MCD	0.437256
+
+Post	UPS	-0.994451
+
+'s	CRM	-0.840540
+
+Software	CTXS	-0.721684
+
+ImClone	LLY	-0.573523
+
+Southern	WMB	-0.535834
+
+Baxter	BAX	-0.498118
+
+NYSE	CME	-0.488924
+
+Keystone	XOM	-0.486685
+
+Lubrizol	BRK.B	-0.483947
+
+STOCKS	TXN	-0.466278
+
+Seagate	STX	-0.439950
+
+HOT	SLM	-0.438166
+
+Martin	LMT	-0.422038
+
+U.S.	DIS	-0.401630
+
+Morning	INTC	-0.390099
+
+China	NKE	-0.381202
+
+Starbucks	SBUX	-0.377289
+
+Airlines	LUV	-0.372126
+
+GM	GM	-0.349642
+
+Stocks	AA	-0.333931
+

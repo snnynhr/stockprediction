@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.819228
+
+US	MON	1.014090
+
+Air	LUV	0.933792
+
+Pain	PFE	0.787144
+
+Edison	EIX	0.741998
+
+Kinder	KMI	0.709808
+
+NYSE	CME	0.665034
+
+U.S.	BA	0.594812
+
+'s	CBS	0.483565
+
+'s	LLY	0.441187
+
+sector	TXN	0.437108
+
+'s	AXP	0.419941
+
+Walgreen	WAG	0.411920
+
+$	KEY	0.406622
+
+Morgan	AXP	0.392370
+
+U.S.	HPQ	0.378635
+
+Banks	MTB	0.369361
+
+'s	PFE	0.368473
+
+Biogen	BIIB	0.356536
+
+Trading	NDAQ	0.341806
+
+Managers	BLK	-1.141920
+
+drop	HD	-0.746244
+
+Stocks	COH	-0.611915
+
+Viacom	VIA	-0.599539
+
+Sales	M	-0.580037
+
+AmEx	AXP	-0.577470
+
+Exchange	CME	-0.510437
+
+Micron	MU	-0.496642
+
+stocks	CHK	-0.485495
+
+Sales	KSS	-0.482865
+
+U.S.	JNJ	-0.481769
+
+Power	PCG	-0.473466
+
+AB	BUD	-0.455759
+
+Intuit	INTU	-0.454372
+
+KLA-Tencor	KLAC	-0.446513
+
+'s	JNJ	-0.445859
+
+CME	CME	-0.441527
+
+Stocks	YHOO	-0.423539
+
+'s	SBUX	-0.417755
+
+Radio	CBS	-0.408593
+

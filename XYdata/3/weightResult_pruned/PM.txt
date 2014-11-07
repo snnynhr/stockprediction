@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.978955
+
+Profit	MDT	0.806065
+
+'s	GNW	0.683012
+
+Sales	WAG	0.656626
+
+Car	GM	0.653939
+
+Intel	AMD	0.630396
+
+Smucker	SJM	0.560775
+
+Retail	BBBY	0.559171
+
+Nokia	QCOM	0.548388
+
+Sales	NKE	0.528731
+
+Whole	WFM	0.478777
+
+Nordstrom	JWN	0.472006
+
+New	F	0.458757
+
+HOT	PETM	0.442508
+
+Retail	SHLD	0.412000
+
+L-3	LLL	0.383377
+
+Oracle	ORCL	0.362640
+
+U.S.	CSCO	0.359168
+
+Take-Two	EA	0.355986
+
+GE	GE	0.354271
+
+TV	TWC	-1.144290
+
+Billion	ORCL	-1.090440
+
+Northern	NTRS	-0.979004
+
+Boeing	LMT	-0.725576
+
+Adobe	ADBE	-0.636232
+
+Dr	DPS	-0.635148
+
+Plavix	BMY	-0.624425
+
+Stocks	LLY	-0.541708
+
+Pfizer	LLY	-0.515946
+
+Earnings	AA	-0.512420
+
+Retailers	TGT	-0.511059
+
+Update	V	-0.493785
+
+Philips	GE	-0.461655
+
+Stocks	TRV	-0.457188
+
+Insurers	TRV	-0.444444
+
+Lukoil	COP	-0.444397
+
+FDA	RAI	-0.441829
+
+Power	DUK	-0.433806
+
+Yahoo	ADSK	-0.417181
+
+Life	LNC	-0.410215
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.0173494
+
+Up	AA	1.206660
+
+stocks	FHN	1.169360
+
+Zions	ZION	0.908167
+
+One	COF	0.782813
+
+Insurers	MBI	0.774576
+
+US	FDX	0.771598
+
+Stocks	ZION	0.657810
+
+Bank	PNC	0.630351
+
+Banks	USB	0.616105
+
+Dow	CAT	0.540989
+
+Stocks	PNC	0.529225
+
+U.S.	IBM	0.516966
+
+Stocks	LLTC	0.493282
+
+Financial	GNW	0.468921
+
+Coca-Cola	KO	0.464509
+
+Gains	AMD	0.463008
+
+Energy	NBL	0.437661
+
+Schulze	BBY	0.415699
+
+Stock	CHK	0.383173
+
+Red	RHT	-1.026600
+
+Networks	JNPR	-0.666380
+
+Insurers	PRU	-0.591465
+
+Capital	BK	-0.575812
+
+Lorillard	LO	-0.550337
+
+Boeing	BA	-0.550063
+
+stocks	COST	-0.548154
+
+lower	VLO	-0.506050
+
+'s	CME	-0.504047
+
+Chip	BRCM	-0.501713
+
+Valero	TSO	-0.501620
+
+Heparin	BAX	-0.475719
+
+Netflix	DIS	-0.468638
+
+'s	CI	-0.460932
+
+Jobs	ADP	-0.454980
+
+Gas	XOM	-0.443131
+
+'s	AA	-0.431018
+
+'s	CHK	-0.422416
+
+Autodesk	ADSK	-0.419603
+
+Hospira	HSP	-0.408731
+

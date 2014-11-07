@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.230276
+
+Apple	NFLX	0.964330
+
+'s	NVDA	0.855213
+
+Target	TGT	0.820683
+
+Credit-Card	COF	0.702421
+
+Stryker	SYK	0.600383
+
+Tech	INTC	0.592940
+
+'s	BLK	0.591111
+
+stocks	TXN	0.570966
+
+Electric	EMR	0.559501
+
+Edwards	EW	0.529608
+
+Pulte	PHM	0.519468
+
+'s	MRO	0.489042
+
+Stocks	DVN	0.461746
+
+PepsiCo	PEP	0.438619
+
+Best	BBY	0.412716
+
+Refinery	VLO	0.397165
+
+$	V	0.393335
+
+Botox	AGN	0.391224
+
+Financial	COF	0.391181
+
+Regions	RF	-0.857341
+
+HOT	DUK	-0.805131
+
+U.S.	T	-0.735950
+
+'s	BRCM	-0.709193
+
+Sector	TXN	-0.678340
+
+Lam	LRCX	-0.660318
+
+Nan	AIG	-0.614142
+
+Stocks	WAG	-0.607959
+
+Southwest	LUV	-0.597162
+
+'s	GCI	-0.546844
+
+Stocks	ABT	-0.540937
+
+'s	KBH	-0.537226
+
+Loss	JCP	-0.511901
+
+Stocks	HAL	-0.495007
+
+Oracle	ORCL	-0.463171
+
+Red	RHT	-0.454198
+
+Texas	VLO	-0.425585
+
+Stocks	AA	-0.417650
+
+US	VLO	-0.393717
+
+Deals	NDAQ	-0.388448
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.630375
+
+Buy	TGT	1.134710
+
+Buy	EA	0.741652
+
+UPS	FDX	0.737506
+
+stocks	JDSU	0.548895
+
+'s	PG	0.533690
+
+U.S.	AIG	0.532394
+
+US	WYNN	0.526099
+
+Banks	COF	0.521268
+
+Boston	BSX	0.515725
+
+Energy	DUK	0.508589
+
+Laboratories	ABT	0.442631
+
+One	COF	0.438567
+
+Goldman	GS	0.438129
+
+Stocks	EA	0.435879
+
+Orders	KBH	0.355134
+
+3M	MMM	0.350623
+
+US	STX	0.333018
+
+Constellation	STZ	0.326529
+
+Stocks	MMM	0.320373
+
+Big	ORCL	-1.393280
+
+Life	LNC	-1.189500
+
+Sector	TXN	-1.139220
+
+Heparin	BAX	-1.086510
+
+Goldman	STT	-0.938408
+
+AMD	BRCM	-0.882705
+
+'s	WMT	-0.866922
+
+Oil	VLO	-0.673266
+
+Videogame	EA	-0.633476
+
+Abbott	BSX	-0.633318
+
+Jobs	ADP	-0.632306
+
+T-Mobile	VZ	-0.624236
+
+Apple	CSCO	-0.605269
+
+HOT	T	-0.603310
+
+AmerisourceBergen	ABC	-0.582162
+
+Stocks	DE	-0.509178
+
+'s	WLP	-0.475383
+
+'s	JNJ	-0.412888
+
+Stocks	MDLZ	-0.412562
+
+Apple	QCOM	-0.402367
+

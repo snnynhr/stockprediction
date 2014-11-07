@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.316542
+
+Retail	TGT	1.237020
+
+Edison	EIX	0.765056
+
+Power	ETR	0.745801
+
+Tech	TXN	0.620260
+
+Ciena	CIEN	0.604152
+
+Stocks	NBL	0.579426
+
+First	FSLR	0.572512
+
+EA	EA	0.553031
+
+Profit	TIF	0.547028
+
+'s	LMT	0.515322
+
+Tyson	TSN	0.481843
+
+Energy	VLO	0.471641
+
+Tenet	THC	0.442729
+
+New	YHOO	0.431723
+
+MasterCard	MA	0.395874
+
+Retailers	HD	0.390721
+
+Expeditors	EXPD	0.388029
+
+stocks	TXN	0.377035
+
+Contract	NOC	0.352603
+
+S	BRK.B	-0.903441
+
+CFTC	ICE	-0.839209
+
+Energy	NRG	-0.736789
+
+$	DFS	-0.727428
+
+Textron	TXT	-0.688304
+
+Apache	APA	-0.646757
+
+Energy	APC	-0.570201
+
+Stocks	SNDK	-0.559812
+
+Stocks	FITB	-0.518124
+
+Hospira	HSP	-0.516832
+
+Tyco	TYC	-0.500817
+
+CME	CME	-0.484208
+
+Medtronic	MDT	-0.451944
+
+Trial	ABT	-0.437005
+
+Oracle	ORCL	-0.411960
+
+FDA	MRK	-0.340221
+
+FDA	PFE	-0.337081
+
+Financial	RF	-0.334645
+
+Morgan	COF	-0.333912
+
+US	DE	-0.333363
+

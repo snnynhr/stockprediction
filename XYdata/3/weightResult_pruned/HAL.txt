@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.0855612
+
+stocks	AMGN	0.761893
+
+Credit-Card	COF	0.666131
+
+stocks	RIG	0.664986
+
+stocks	OXY	0.658233
+
+stocks	TXN	0.647668
+
+US	PG	0.624476
+
+$	CVX	0.602500
+
+Fed	AIG	0.571877
+
+More	PNC	0.535845
+
+US	CSCO	0.524407
+
+Sci	BSX	0.512450
+
+stocks	AA	0.508819
+
+Times	NYT	0.493783
+
+Honeywell	HON	0.488745
+
+Tiffany	TIF	0.478720
+
+Pulte	PHM	0.477446
+
+Cablevision	TWC	0.383524
+
+Friday	SHLD	0.382658
+
+Morgan	MS	0.362288
+
+Medical	ABT	-0.858990
+
+Stocks	TSN	-0.714584
+
+Bond	MBI	-0.634363
+
+HOT	GT	-0.631953
+
+Stocks	V	-0.572710
+
+Property	SPG	-0.545918
+
+AK	AKS	-0.540823
+
+Sales	TXN	-0.519269
+
+CA	CA	-0.516583
+
+techs	CSCO	-0.496468
+
+Red	RHT	-0.491611
+
+Northrop	NOC	-0.483228
+
+Whirlpool	WHR	-0.467314
+
+'s	JCP	-0.457275
+
+'s	FCX	-0.436929
+
+Gannett	GCI	-0.430204
+
+'s	AMGN	-0.424972
+
+Bank	COF	-0.422958
+
+CenturyTel	CTL	-0.398450
+
+ABC	CBS	-0.395006
+

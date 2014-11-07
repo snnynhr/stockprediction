@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.610587
+
+'s	WYNN	1.037880
+
+Exxon	COP	0.866902
+
+stocks	JDSU	0.794924
+
+Cnooc	CHK	0.645617
+
+Bank	STI	0.558468
+
+Akamai	AKAM	0.536492
+
+$	STT	0.490983
+
+stocks	RF	0.486204
+
+Tenet	THC	0.463143
+
+Arts	EA	0.450548
+
+'s	WFC	0.447291
+
+Best	BBY	0.443626
+
+Moody	MCO	0.441983
+
+United	UTX	0.426967
+
+Amid	PFE	0.378474
+
+Banks	KEY	0.373644
+
+KeyCorp	KEY	0.366644
+
+Omnicom	OMC	0.360829
+
+stocks	GNW	0.344504
+
+US	HOG	-1.174220
+
+Builders	KBH	-0.932831
+
+TJX	TJX	-0.873131
+
+Oil	VLO	-0.826116
+
+Friday	BBY	-0.796051
+
+Stock	AIG	-0.714211
+
+Gas	APC	-0.675285
+
+Stocks	LLY	-0.635068
+
+Morning	VZ	-0.625254
+
+Health	UNH	-0.619712
+
+Stocks	UTX	-0.608490
+
+Stock	MET	-0.538860
+
+Lockheed	LMT	-0.501596
+
+Ameriprise	AMP	-0.488391
+
+Sales	HD	-0.468981
+
+Spill	RIG	-0.466773
+
+'s	UNH	-0.455098
+
+Stock	SHLD	-0.445834
+
+Marriott	MAR	-0.427252
+
+Sales	M	-0.414748
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.350265
+
+Fed	COF	1.117070
+
+stocks	QCOM	1.046560
+
+Diamond	DO	0.928507
+
+Corp	EMC	0.747412
+
+Stocks	QCOM	0.627241
+
+Higher	TXN	0.612409
+
+Nordstrom	JWN	0.609734
+
+PNC	PNC	0.597254
+
+Google	IACI	0.589150
+
+Oil	HES	0.584581
+
+Edison	EIX	0.581802
+
+Bottling	PEP	0.563402
+
+Viacom	VIA	0.557984
+
+Exchange	CME	0.511967
+
+AIA	AIG	0.498554
+
+Banks	BBT	0.463937
+
+STOCKS	SNDK	0.443876
+
+stocks	AXP	0.441905
+
+stocks	TGT	0.441204
+
+'s	NYT	-1.089600
+
+NiSource	NI	-0.806598
+
+Wal-Mart	KSS	-0.802276
+
+Networks	JNPR	-0.786079
+
+Comcast	CMCSA	-0.628015
+
+Manitowoc	MTW	-0.604659
+
+Chip	MU	-0.594652
+
+American	AXP	-0.590046
+
+Stock	MMM	-0.568178
+
+STOCKS	VZ	-0.534758
+
+Groupon	EBAY	-0.520963
+
+Banks	PNC	-0.510148
+
+Sales	F	-0.493905
+
+Prices	CVX	-0.481937
+
+Sprint	T	-0.479285
+
+Gilead	GILD	-0.465959
+
+$	ABT	-0.447023
+
+CME	CME	-0.425580
+
+Update	V	-0.403088
+
+US	IP	-0.399269
+

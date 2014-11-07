@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.373813
+
+Deal	CME	1.111980
+
+Energy	HAL	1.009170
+
+Stanley	MS	0.993023
+
+Stocks	NBL	0.729801
+
+Safeway	SWY	0.642365
+
+Janus	JNS	0.637033
+
+'s	WFC	0.565432
+
+VeriSign	VRSN	0.562708
+
+stocks	TGT	0.544369
+
+Dow	CAT	0.506913
+
+Stocks	COF	0.482431
+
+'s	BK	0.468734
+
+Insurers	HIG	0.464067
+
+US	PEP	0.460660
+
+Nordstrom	JWN	0.457556
+
+Sales	COST	0.414851
+
+Yum	YUM	0.410056
+
+Warner	PG	0.380217
+
+Deere	DE	0.359652
+
+Red	RHT	-1.255980
+
+Nokia	QCOM	-1.205140
+
+STOCKS	BRCM	-1.196290
+
+Sector	TXN	-1.061720
+
+Stocks	ADI	-0.795970
+
+Stocks	V	-0.762504
+
+Insurers	PRU	-0.761171
+
+'s	CME	-0.760068
+
+Bank	BBT	-0.755308
+
+Banks	WFC	-0.739823
+
+U.S.	DHI	-0.730168
+
+Qualcomm	BRCM	-0.717374
+
+U.S.	LEN	-0.664980
+
+Stocks	AA	-0.611063
+
+Builders	KBH	-0.593375
+
+$	WMB	-0.557487
+
+$	HAL	-0.528298
+
+'s	GCI	-0.521907
+
+BorgWarner	BWA	-0.501240
+
+'s	SYK	-0.488669
+

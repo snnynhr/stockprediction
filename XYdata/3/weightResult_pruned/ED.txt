@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-1.08068
+
+Stock	PEP	1.184530
+
+stocks	LUV	0.775787
+
+Stocks	FCX	0.756512
+
+Friday	CRM	0.674140
+
+Buy	AON	0.672753
+
+Air	NOC	0.591403
+
+Tech	TXN	0.588983
+
+Campbell	CPB	0.569500
+
+WATCH	CHK	0.525020
+
+U.S.	GM	0.518882
+
+'s	MCO	0.510131
+
+HOT	JNJ	0.494843
+
+'s	TXN	0.491324
+
+stocks	SLB	0.483547
+
+Darden	DRI	0.464440
+
+Pipeline	SE	0.456324
+
+STOCKS	STX	0.432700
+
+Capital	HIG	0.414116
+
+Energy	EOG	0.398628
+
+$	SLB	-1.286430
+
+stocks	INTC	-0.815042
+
+Nokia	QCOM	-0.688780
+
+Baxter	BAX	-0.672840
+
+drop	HD	-0.642166
+
+'s	V	-0.639952
+
+Wal-Mart	KSS	-0.637969
+
+Caremark	CVS	-0.620727
+
+Gap	GPS	-0.566721
+
+Deal	VZ	-0.553184
+
+'s	YUM	-0.486799
+
+'s	IBM	-0.477710
+
+Buffett	MDLZ	-0.474937
+
+'s	JNJ	-0.469955
+
+OMX	NDAQ	-0.469352
+
+Valero	TSO	-0.450590
+
+U.S.	AA	-0.441346
+
+shares	MBI	-0.436807
+
+Intel	TXN	-0.433944
+
+PayPal	EBAY	-0.432226
+

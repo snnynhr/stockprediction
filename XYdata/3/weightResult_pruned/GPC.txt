@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.871136
+
+Stocks	YUM	0.843963
+
+Netflix	TWX	0.752850
+
+U.S.	M	0.725558
+
+US	URBN	0.610325
+
+Zions	ZION	0.604779
+
+Banks	BBT	0.554086
+
+Stent	BSX	0.546116
+
+NYSE	CME	0.495304
+
+Retailers	COST	0.473914
+
+Moody	MCO	0.454268
+
+Walgreen	ESRX	0.453654
+
+New	BK	0.453559
+
+Earnings	TXN	0.426900
+
+Nucor	NUE	0.396338
+
+stocks	HAL	0.387324
+
+Pulte	PHM	0.381490
+
+Exchange	NDAQ	0.377025
+
+Best	TGT	0.363988
+
+US	MAT	0.352477
+
+stocks	CHK	-1.077760
+
+Financial	BK	-0.826646
+
+'s	KBH	-0.796422
+
+Card	V	-0.754808
+
+'s	CI	-0.732473
+
+CenturyTel	CTL	-0.728879
+
+Stocks	DE	-0.656167
+
+IPO	V	-0.609548
+
+Net	L	-0.561739
+
+Life	PRU	-0.522207
+
+'s	TIF	-0.490732
+
+Energy	APC	-0.489426
+
+'s	VIA	-0.488855
+
+US	SHLD	-0.486075
+
+$	SO	-0.456598
+
+MetLife	MET	-0.456567
+
+Mountain	SBUX	-0.446203
+
+Dollar	DLTR	-0.426067
+
+Cuts	FDX	-0.397208
+
+US	GIS	-0.381302
+

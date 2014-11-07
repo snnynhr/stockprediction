@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.703684
+
+Rockwell	ROK	1.038310
+
+Stocks	LEN	0.904645
+
+Facebook	EBAY	0.773436
+
+Dell	IBM	0.738372
+
+HOT	MRK	0.734204
+
+York	NYT	0.718422
+
+Alibaba	YHOO	0.675192
+
+'s	CRM	0.661651
+
+Chesapeake	XOM	0.584247
+
+Oil	XOM	0.575566
+
+Stocks	HPQ	0.568544
+
+stocks	LEN	0.562639
+
+Oil	COP	0.560816
+
+stocks	AXP	0.545944
+
+Biogen	BIIB	0.537906
+
+Rally	NVDA	0.533435
+
+ING	COF	0.531163
+
+Euronext	NDAQ	0.508784
+
+Zions	ZION	0.508555
+
+Loews	L	-1.243880
+
+Noble	NBL	-1.005160
+
+Stocks	DE	-0.853378
+
+Residential	EQR	-0.761820
+
+Drugs	BMY	-0.735364
+
+New	XOM	-0.687897
+
+'s	WMT	-0.611580
+
+Google	MA	-0.589516
+
+Narrows	LEN	-0.544664
+
+Chip	BRCM	-0.537722
+
+Stocks	MRK	-0.452553
+
+'s	LLY	-0.448033
+
+Shares	NVDA	-0.418664
+
+Lilly	BMY	-0.409446
+
+OMX	NDAQ	-0.406348
+
+'s	ADM	-0.400864
+
+Celgene	CELG	-0.388315
+
+Red	RHT	-0.369134
+
+Clorox	CLX	-0.358152
+
+Transocean	RIG	-0.350544
+

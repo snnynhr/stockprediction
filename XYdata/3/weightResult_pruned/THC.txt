@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.711098
+
+Healthcare	THC	0.946105
+
+eBay	EBAY	0.877534
+
+Stocks	LUV	0.702226
+
+Intel	TXN	0.578635
+
+Stocks	WLP	0.488077
+
+Exchanges	CME	0.484605
+
+Up	KO	0.466161
+
+GameStop	GME	0.411029
+
+Stocks	AXP	0.406432
+
+Block	HRB	0.395347
+
+Stocks	FCX	0.356448
+
+'s	MCO	0.355350
+
+Northrop	NOC	0.349058
+
+Ford	F	0.333526
+
+New	NYT	0.330957
+
+BP	HAL	0.326324
+
+Staples	SPLS	0.320108
+
+Goldman	GS	0.308575
+
+Sherwin-Williams	SHW	0.307523
+
+'s	AON	-1.228760
+
+earnings	AA	-1.058770
+
+US	HBAN	-0.841657
+
+'s	SBUX	-0.787838
+
+T	MTB	-0.764268
+
+TJX	TJX	-0.752928
+
+stocks	CHK	-0.677025
+
+Profit	GPS	-0.673629
+
+'s	YHOO	-0.631555
+
+Stocks	AMD	-0.619720
+
+Financial	PNC	-0.597832
+
+Rowan	RDC	-0.544235
+
+HOT	CTL	-0.537446
+
+Chloride	EMR	-0.531227
+
+Lorillard	LO	-0.458478
+
+Retail	LOW	-0.430783
+
+Lockheed	LMT	-0.429122
+
+Abbott	BSX	-0.425177
+
+US	HRB	-0.406353
+
+Juniper	JNPR	-0.400496
+

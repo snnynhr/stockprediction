@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.166984
+
+stocks	VLO	1.076990
+
+'s	MET	0.868569
+
+HOT	MAR	0.795615
+
+$	NTAP	0.775979
+
+Banks	BBT	0.708246
+
+FDA	ABT	0.643866
+
+Nordstrom	JWN	0.597519
+
+ICE	CME	0.554726
+
+stocks	TXN	0.487735
+
+Entergy	ETR	0.465831
+
+Pulte	PHM	0.465563
+
+STOCKS	LUV	0.457785
+
+Wal-Mart	WMT	0.438200
+
+'s	PHM	0.417477
+
+'s	BLK	0.408319
+
+Stock	JCP	0.393881
+
+J.P.	WFC	0.393770
+
+Energy	CHK	0.385784
+
+Stocks	INTC	0.373650
+
+'s	IP	-0.946414
+
+Amazon	AMZN	-0.822873
+
+Stocks	WMT	-0.791369
+
+Netflix	DIS	-0.778494
+
+US	BSX	-0.746204
+
+Insurers	PRU	-0.711844
+
+Airlines	LUV	-0.640175
+
+Joy	JOY	-0.589873
+
+Same-Store	M	-0.588087
+
+OMX	NDAQ	-0.585443
+
+$	CSCO	-0.569624
+
+stocks	FSLR	-0.556695
+
+Stocks	V	-0.522442
+
+Energy	APC	-0.504633
+
+Ratings	MCO	-0.498110
+
+'s	GPS	-0.482500
+
+Cyprus	C	-0.468985
+
+Bank	STT	-0.462504
+
+Stocks	APC	-0.435659
+
+Dynamics	GD	-0.423903
+

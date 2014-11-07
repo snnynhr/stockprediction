@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.0345688
+
+Fed	PNC	1.176080
+
+Student	SLM	0.985776
+
+US	WLP	0.783921
+
+Insurers	GNW	0.756576
+
+$	EA	0.736178
+
+stocks	TSO	0.732347
+
+Retailers	TJX	0.676971
+
+Deere	DE	0.669880
+
+Stocks	TXN	0.658193
+
+Retail	TGT	0.581164
+
+Edison	EIX	0.568248
+
+'s	STT	0.544596
+
+Urban	URBN	0.471296
+
+US	BRCM	0.440763
+
+'s	AXP	0.431298
+
+Stocks	LEN	0.430978
+
+RadioShack	BBY	0.427489
+
+Futures	CME	0.415627
+
+stocks	NVDA	0.413004
+
+Rambus	MU	-0.991178
+
+'s	KBH	-0.962426
+
+'s	MMM	-0.909908
+
+Whirlpool	WHR	-0.894548
+
+Hospira	HSP	-0.779591
+
+Stocks	DE	-0.685533
+
+Sector	TXN	-0.654512
+
+Ross	ROST	-0.649578
+
+Goldman	BK	-0.641782
+
+Stocks	INTU	-0.625652
+
+Valero	VLO	-0.601709
+
+U.S.	WMT	-0.544188
+
+Stocks	USB	-0.512807
+
+Deal	VIA	-0.508138
+
+'s	WLP	-0.476611
+
+Stocks	FSLR	-0.475611
+
+QCOM	QCOM	-0.458971
+
+CVS	WAG	-0.447071
+
+TECH	BRCM	-0.442371
+
+Sales	GPS	-0.435780
+

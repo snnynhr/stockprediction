@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.574602
+
+stocks	TXN	0.894303
+
+India	BA	0.742270
+
+Energy	BHI	0.689022
+
+Banks	BBT	0.635347
+
+Darden	DRI	0.545563
+
+Morgan	USB	0.530454
+
+Energy	SRE	0.527916
+
+Friday	TGT	0.513855
+
+Sales	COST	0.510748
+
+Banks	PNC	0.504113
+
+Stocks	HD	0.503782
+
+Stocks	X	0.489112
+
+Anadarko	APC	0.472820
+
+HOT	APOL	0.401042
+
+HOT	MTG	0.399751
+
+Dell	CRM	0.389724
+
+US	STX	0.380616
+
+Energy	BTU	0.380365
+
+Fed	WFC	0.380112
+
+Steel	X	-0.693376
+
+Rise	HUM	-0.659362
+
+Adidas	NKE	-0.618544
+
+Regions	RF	-0.616354
+
+Media	NYT	-0.607327
+
+Chevron	CVX	-0.583289
+
+Stocks	EA	-0.573148
+
+Facebook	HPQ	-0.551051
+
+Bank	FITB	-0.549625
+
+J	ABT	-0.536662
+
+stocks	BTU	-0.433659
+
+NYSE	ICE	-0.416073
+
+Salesforce	CRM	-0.404397
+
+stocks	CHK	-0.399236
+
+Drug	LLY	-0.382242
+
+Sales	M	-0.376120
+
+Aetna	AET	-0.375565
+
+AMD	INTC	-0.364059
+
+stocks	FSLR	-0.359464
+
+Ambac	MBI	-0.354054
+

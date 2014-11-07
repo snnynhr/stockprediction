@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.900023
+
+U.S.	AIG	0.997935
+
+stocks	VLO	0.847372
+
+Retailers	ANF	0.607205
+
+US	CSX	0.599982
+
+Nabors	NBR	0.579848
+
+Short	NDAQ	0.563644
+
+HOT	MRK	0.540853
+
+Ackman	JCP	0.512202
+
+Banks	BBT	0.476814
+
+Elpida	MU	0.445301
+
+Apple	AMD	0.424232
+
+Altera	ALTR	0.421147
+
+'s	ABT	0.414800
+
+Profit	AIG	0.413963
+
+US	JWN	0.377519
+
+U.S.	M	0.359168
+
+Kimberly-Clark	KMB	0.338929
+
+Google	MSI	0.317589
+
+Google	MOT	0.317589
+
+Stocks	KEY	-0.999564
+
+Glass	GLW	-0.784942
+
+Hess	HES	-0.741926
+
+Spill	RIG	-0.725963
+
+Temple-Inland	IP	-0.665783
+
+biggest	GCI	-0.660004
+
+Earnings	AA	-0.614441
+
+stocks	CHK	-0.606903
+
+Autodesk	ADSK	-0.585953
+
+Stocks	BRCM	-0.529038
+
+Banks	USB	-0.520311
+
+Hospira	HSP	-0.506029
+
+HOT	VTR	-0.484630
+
+'s	NYT	-0.482121
+
+HOT	MNST	-0.475577
+
+BP	APC	-0.444923
+
+Yahoo	ADSK	-0.396031
+
+Energy	CHK	-0.370532
+
+Ralcorp	CAG	-0.369740
+
+Stocks	M	-0.367022
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.409646
+
+New	SBUX	0.932190
+
+Cadbury	MDLZ	0.847699
+
+Oil	APA	0.845092
+
+Penney	M	0.825987
+
+Drug	PFE	0.704687
+
+Energy	BTU	0.654530
+
+Stocks	AMD	0.645500
+
+stocks	AMGN	0.643546
+
+PPG	PPG	0.607387
+
+'s	V	0.586951
+
+US	WYNN	0.581221
+
+EMC	EMC	0.528003
+
+Netflix	TWX	0.512504
+
+Electronic	EA	0.481847
+
+Morgan	AXP	0.481036
+
+Cablevision	CVC	0.460871
+
+Energy	VLO	0.436817
+
+H-P	EMC	0.427134
+
+J	AMGN	0.411079
+
+Pay	WFC	-0.861167
+
+SEC	NDAQ	-0.858975
+
+Chloride	EMR	-0.831732
+
+Rohm	DOW	-0.718310
+
+Barclays	BLK	-0.705330
+
+$	BAC	-0.642970
+
+Qualcomm	INTC	-0.587380
+
+'s	HOG	-0.569580
+
+SEC	MCO	-0.553128
+
+UBS	BLK	-0.534505
+
+Stocks	AIG	-0.518021
+
+Intel	BRCM	-0.480415
+
+Apple	INTC	-0.478875
+
+Agrium	CF	-0.452096
+
+CenturyTel	CTL	-0.451296
+
+$	UTX	-0.447704
+
+U.S.	KO	-0.439222
+
+'s	GPS	-0.432574
+
+Applied	AMAT	-0.399460
+
+Castle	CCI	-0.397794
+

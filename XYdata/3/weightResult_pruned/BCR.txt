@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.316194
+
+'s	BSX	1.633750
+
+T-Mobile	T	1.268560
+
+U.S.	DOW	0.825782
+
+Net	HD	0.747777
+
+Energy	HAL	0.691873
+
+stocks	FHN	0.656444
+
+Media	TWX	0.649317
+
+Credit-Card	COF	0.638211
+
+JDS	JDSU	0.634103
+
+'s	NFLX	0.573708
+
+AIG	MET	0.544208
+
+PNC	PNC	0.502958
+
+stocks	AA	0.485407
+
+'s	PG	0.480305
+
+Stocks	USB	0.453622
+
+Banks	BBT	0.448233
+
+Up	STT	0.445285
+
+New	EA	0.426792
+
+'s	SWY	0.421422
+
+Stocks	AXP	-0.705132
+
+Stocks	MDLZ	-0.673934
+
+Funds	TROW	-0.666977
+
+Stocks	AMGN	-0.661976
+
+'s	TIF	-0.624712
+
+Pepsi	PEP	-0.617641
+
+Supervalu	SVU	-0.556361
+
+Qualcomm	BRCM	-0.528813
+
+HOT	YHOO	-0.516195
+
+Anemia	AMGN	-0.455215
+
+sales	M	-0.454186
+
+'s	SBUX	-0.434041
+
+US	LRCX	-0.406942
+
+US	NYT	-0.400091
+
+Stocks	M	-0.393235
+
+PPL	PPL	-0.388170
+
+Outlook	HD	-0.374811
+
+Retail	COST	-0.374626
+
+STOCKS	NFLX	-0.372173
+
+Schlumberger	SLB	-0.364704
+

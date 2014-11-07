@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.117108
+
+Restarts	VLO	1.403290
+
+stocks	CSCO	1.114200
+
+Delta	LUV	0.939417
+
+Xilinx	XLNX	0.902474
+
+Edison	EIX	0.844526
+
+Stock	YUM	0.789334
+
+Zions	ZION	0.677123
+
+Up	CVS	0.657644
+
+Exxon	XOM	0.647997
+
+SNAPSHOT	DD	0.544392
+
+MARKET	DD	0.544392
+
+Oil	XOM	0.540839
+
+Bank	BBT	0.539152
+
+Visa	MA	0.535164
+
+Home	PHM	0.508675
+
+Nasdaq	ICE	0.505966
+
+Zimmer	ZMH	0.477907
+
+Tiffany	TIF	0.473488
+
+'s	ORCL	0.473185
+
+Cable	CMCSA	-0.800581
+
+Bristol	BMY	-0.784320
+
+'s	LEN	-0.743199
+
+Progressive	PGR	-0.553581
+
+US	CTXS	-0.524959
+
+U.S.	AA	-0.453349
+
+Longs	CVS	-0.401164
+
+Financial	RF	-0.400390
+
+Mountain	SBUX	-0.396138
+
+'s	TJX	-0.395975
+
+Jude	STJ	-0.385893
+
+Sales	SPLS	-0.368697
+
+1Q	HD	-0.358428
+
+Staples	SPLS	-0.354485
+
+'s	CME	-0.349401
+
+'s	KSS	-0.346476
+
+U.S.	X	-0.342603
+
+'s	AVP	-0.325553
+
+Stocks	BRK.B	-0.321890
+
+Results	BA	-0.321310
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.224346
+
+$	CVX	0.823091
+
+Stocks	GILD	0.819533
+
+Stocks	TGT	0.806192
+
+U.S.	CVX	0.667862
+
+Demag	TEX	0.641282
+
+Credit	MCO	0.614884
+
+'s	GILD	0.598529
+
+Case	AMD	0.591169
+
+Cadbury	HSY	0.588178
+
+Dow	AXP	0.588007
+
+Gains	TXN	0.584005
+
+AIA	AIG	0.516374
+
+US	FFIV	0.483258
+
+Edison	EIX	0.462799
+
+Tech	STX	0.461897
+
+Retailers	ANF	0.450722
+
+BP	HAL	0.448918
+
+stocks	MDLZ	0.441082
+
+Entergy	ETR	0.430060
+
+U.S.	X	-1.030380
+
+Oil	CHK	-0.853298
+
+US	HRB	-0.792865
+
+'s	KBH	-0.753879
+
+Deal	CME	-0.695702
+
+Food	MDLZ	-0.682575
+
+Friday	M	-0.577559
+
+Stocks	NTAP	-0.569017
+
+'s	RF	-0.555473
+
+Coffee	SBUX	-0.516433
+
+Retail	KSS	-0.477535
+
+Priceline.com	PCLN	-0.475794
+
+'s	PFE	-0.474823
+
+Stocks	AMAT	-0.473008
+
+stocks	CHK	-0.450944
+
+Life	LNC	-0.418378
+
+F5	FFIV	-0.409623
+
+Chesapeake	CHK	-0.386589
+
+'s	GE	-0.386452
+
+Lennar	LEN	-0.377717
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.58001
+
+Lots	BIG	1.049000
+
+Stocks	LEN	0.840579
+
+Oil	OXY	0.778687
+
+Stocks	GE	0.731652
+
+Dow	CAT	0.702098
+
+Pulte	PHM	0.631640
+
+Edison	EIX	0.628844
+
+CEO	EBAY	0.540512
+
+US	VLO	0.512977
+
+Penney	M	0.480746
+
+Stocks	COF	0.473359
+
+Zynga	EA	0.433087
+
+'s	MET	0.431970
+
+PG	PCG	0.419647
+
+Expeditors	EXPD	0.415306
+
+Warren	BRK.B	0.405225
+
+Illinois	ITW	0.383132
+
+US	BBY	0.374947
+
+gains	ADBE	0.370601
+
+'s	CHK	-1.312940
+
+Builders	KBH	-0.832505
+
+Stocks	KEY	-0.801674
+
+Deal	CMCSA	-0.698684
+
+Hughes	BHI	-0.673726
+
+Stocks	ANF	-0.599816
+
+Energy	HAL	-0.598335
+
+US	FDX	-0.566342
+
+Ratings	MBI	-0.556214
+
+stocks	CHK	-0.548240
+
+HOT	HRB	-0.515974
+
+TECH	BRCM	-0.483175
+
+ConAgra	CAG	-0.471628
+
+Charles	SCHW	-0.467599
+
+Retailers	KSS	-0.464046
+
+Gold	NEM	-0.452597
+
+Heparin	BAX	-0.446879
+
+$	BHI	-0.442814
+
+Cummins	CMI	-0.440914
+
+STOCKS	HIG	-0.440198
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.484845
+
+Regional	STI	0.995087
+
+SEC	MCO	0.901942
+
+Daily	CME	0.890297
+
+Transocean	RIG	0.632366
+
+Google	IACI	0.590049
+
+$	MA	0.583678
+
+Zions	ZION	0.517378
+
+US	TIF	0.509826
+
+Peabody	BTU	0.500296
+
+EBay	EBAY	0.475800
+
+'s	C	0.471384
+
+Oil	HES	0.469020
+
+Refinery	TSO	0.462775
+
+Arts	EA	0.457067
+
+stocks	TGT	0.455098
+
+Nordstrom	JWN	0.450714
+
+Coty	AVP	0.432882
+
+Insurance	CI	0.432611
+
+Yahoo	EBAY	0.425163
+
+'s	DHI	-1.013810
+
+Stocks	DE	-0.972701
+
+$	DOW	-0.840901
+
+Growth	SPG	-0.819672
+
+Banks	HBAN	-0.700826
+
+Stocks	M	-0.697855
+
+Derivatives	CME	-0.662429
+
+Sector	TXN	-0.646688
+
+Tech	STX	-0.640710
+
+Intel	INTC	-0.611374
+
+Hospira	HSP	-0.600698
+
+Mobile	MA	-0.565577
+
+Dynamics	GD	-0.525644
+
+Ethanol	ADM	-0.517147
+
+Power	PCG	-0.476379
+
+Facebook	NDAQ	-0.473065
+
+Networks	JNPR	-0.473028
+
+Discovery	DISCA	-0.467078
+
+Sales	CAT	-0.439717
+
+Stocks	ORCL	-0.398344
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.478127
+
+Oil	HAL	0.941989
+
+Retailers	GPS	0.884413
+
+lead	TRV	0.596751
+
+Morning	WMT	0.588999
+
+Profit	MDT	0.547451
+
+Morgan	USB	0.504667
+
+higher	AXP	0.503068
+
+IPO	MJN	0.492662
+
+Builders	LEN	0.482204
+
+SunTrust	STI	0.479515
+
+STOCKS	QCOM	0.479474
+
+Edison	EIX	0.459223
+
+Retailers	M	0.447418
+
+Simon	SPG	0.446447
+
+US	LLY	0.391650
+
+Earnings	BBY	0.387698
+
+TECH	SNDK	0.355647
+
+Morgan	MS	0.352192
+
+Apple	NFLX	0.351169
+
+Stock	PCG	-0.934575
+
+U.S.	AA	-0.739871
+
+Health	THC	-0.667571
+
+Stocks	AIG	-0.614750
+
+Stocks	M	-0.569426
+
+J	ABT	-0.550625
+
+Credit	COF	-0.539768
+
+Housing	LEN	-0.463387
+
+Banks	MTB	-0.462443
+
+Spill	RIG	-0.453908
+
+Net	M	-0.433663
+
+3Q	BBY	-0.422523
+
+Netflix	DIS	-0.380154
+
+'s	EBAY	-0.374877
+
+HOT	JNJ	-0.372050
+
+Elan	BIIB	-0.333637
+
+CEO	NDAQ	-0.331934
+
+Amazon	AMZN	-0.314652
+
+RadioShack	RSH	-0.311049
+
+Topamax	JNJ	-0.289363
+

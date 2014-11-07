@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.184202
+
+Power	AEP	0.866127
+
+Stocks	TXN	0.643254
+
+Dell	AMD	0.600239
+
+Tenet	THC	0.557341
+
+Deal	CVC	0.521417
+
+Thermo	TMO	0.473004
+
+Elan	BIIB	0.470141
+
+retail	M	0.458156
+
+Retailers	ANF	0.426209
+
+'s	MCO	0.419305
+
+HOT	GPS	0.403289
+
+Dell	EMC	0.391841
+
+Target	TGT	0.378426
+
+J	BSX	0.374014
+
+'s	BMY	0.343233
+
+$	APA	0.323246
+
+ConAgra	CAG	0.310574
+
+Steel	AKS	0.308387
+
+Schlumberger	SLB	0.294771
+
+Retail	COST	-1.005900
+
+stocks	CHK	-0.846197
+
+TARP	COF	-0.603348
+
+Juniper	JNPR	-0.587234
+
+'s	AA	-0.586956
+
+HOT	YHOO	-0.568420
+
+Kellogg	K	-0.530740
+
+Tyco	TYC	-0.529154
+
+stocks	SHLD	-0.487347
+
+FDA	MRK	-0.482552
+
+Coal	CNX	-0.472482
+
+Shares	NVDA	-0.447417
+
+Hess	HES	-0.443858
+
+Gulf	XOM	-0.437063
+
+Lubrizol	BRK.B	-0.423030
+
+Mylan	MYL	-0.415636
+
+Manitowoc	MTW	-0.405738
+
+ConocoPhillips	COP	-0.401163
+
+'s	TIF	-0.395408
+
+Shares	CCL	-0.391328
+

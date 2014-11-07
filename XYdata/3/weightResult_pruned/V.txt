@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.375106
+
+H-P	EMC	0.862748
+
+T-Mobile	T	0.859986
+
+Energy	VLO	0.753583
+
+stocks	HES	0.750221
+
+Shares	HIG	0.714828
+
+Morning	WMT	0.695023
+
+U.S.	DD	0.627853
+
+U.S.	AIG	0.493580
+
+US	LEN	0.492207
+
+Carnival	CCL	0.480918
+
+Johnson	JNJ	0.476860
+
+Buffett	BRK.B	0.462076
+
+Airlines	BA	0.432914
+
+'s	LLY	0.416069
+
+AIG	MET	0.414935
+
+Costco	COST	0.409901
+
+Energy	TSO	0.402706
+
+US	TIF	0.382300
+
+Up	KO	0.355061
+
+'s	BRK.B	-0.835962
+
+Stock	AIG	-0.731401
+
+Chevron	VLO	-0.700458
+
+Friday	M	-0.654281
+
+Western	WDC	-0.555080
+
+AK	AKS	-0.544023
+
+U.S.	SHLD	-0.505349
+
+CBS	CBS	-0.481995
+
+Autodesk	ADSK	-0.429387
+
+Valero	VLO	-0.410088
+
+MGIC	MTG	-0.404326
+
+Stocks	M	-0.402514
+
+Monster	MWW	-0.399363
+
+Morning	BAC	-0.387548
+
+'s	COF	-0.375681
+
+HOT	NBR	-0.371109
+
+Drop	AA	-0.364354
+
+Green	SBUX	-0.357814
+
+'s	SHLD	-0.347882
+
+Amazon	AMZN	-0.343350
+

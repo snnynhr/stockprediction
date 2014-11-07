@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.204185
+
+'s	AXP	1.041890
+
+Energy	VLO	0.800788
+
+Dow	MDLZ	0.639726
+
+'s	BLK	0.616330
+
+stocks	TXN	0.492150
+
+'s	THC	0.486327
+
+US	CLX	0.456874
+
+Oil	HES	0.442420
+
+Home	PHM	0.434156
+
+Sales	NKE	0.432985
+
+Airline	LUV	0.430202
+
+U.S.	DOW	0.406192
+
+GameStop	GME	0.405804
+
+US	CAM	0.405389
+
+Shares	FDX	0.386002
+
+US	M	0.383262
+
+Emerson	EMR	0.352748
+
+Stock	BRCM	0.350683
+
+Exxon	COP	0.346131
+
+Harley-Davidson	HOG	-0.800862
+
+Chevron	CVX	-0.772584
+
+HOT	NFLX	-0.745905
+
+Stock	SHLD	-0.708567
+
+'s	FDX	-0.675802
+
+U.S.	X	-0.625069
+
+Chevron	XOM	-0.620733
+
+Net	M	-0.574594
+
+Hotel	MAR	-0.566535
+
+Gulf	XOM	-0.563244
+
+Spill	RIG	-0.549778
+
+stocks	DHI	-0.529711
+
+Altria	MO	-0.526484
+
+Radio	CBS	-0.524465
+
+J	ABT	-0.522778
+
+Yahoo	EBAY	-0.510542
+
+$	GE	-0.506713
+
+Shares	AMD	-0.461230
+
+Macau	WYNN	-0.442183
+
+Banks	WFC	-0.437374
+

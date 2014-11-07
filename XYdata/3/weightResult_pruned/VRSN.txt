@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.933623
+
+Zions	ZION	1.004440
+
+US	SWN	0.859491
+
+Coca-Cola	KO	0.702331
+
+Airlines	BA	0.652964
+
+Penney	VNO	0.580769
+
+stocks	NFLX	0.567767
+
+Oil	XOM	0.528631
+
+'s	LEN	0.526811
+
+Foods	WFM	0.518618
+
+Sales	BBY	0.514756
+
+Cloud	ORCL	0.505680
+
+'s	TXN	0.505363
+
+Nordstrom	JWN	0.477338
+
+Adidas	NKE	0.476363
+
+Apple	NFLX	0.458172
+
+stocks	LLY	0.445651
+
+'s	YUM	0.414493
+
+CarMax	KMX	0.398885
+
+Boston	BSX	0.378777
+
+Harley-Davidson	HOG	-1.018780
+
+Video	GME	-0.924037
+
+stocks	ANF	-0.868763
+
+HOT	HUM	-0.723005
+
+Aflac	AFL	-0.690772
+
+Stocks	CIEN	-0.665856
+
+Cummins	CMI	-0.643250
+
+DuPont	DD	-0.542017
+
+Textron	TXT	-0.534986
+
+FDA	LLY	-0.529840
+
+Apple	EBAY	-0.525936
+
+RadioShack	BBY	-0.521201
+
+Gold	NEM	-0.473651
+
+'s	ACE	-0.464448
+
+Copper	FCX	-0.449770
+
+Banks	ZION	-0.432017
+
+$	HES	-0.426009
+
+HOT	PFE	-0.419222
+
+New	WFC	-0.414833
+
+Friday	M	-0.391774
+

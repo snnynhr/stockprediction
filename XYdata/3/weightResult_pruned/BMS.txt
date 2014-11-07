@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	1.03436
+
+PC	HPQ	1.274150
+
+'s	ABT	1.191770
+
+Hormel	HRL	0.797483
+
+FCCU	VLO	0.739180
+
+'s	BLK	0.738121
+
+Stocks	COF	0.654466
+
+Gain	CAT	0.620246
+
+Up	NTAP	0.616320
+
+'s	COH	0.511258
+
+US	MRK	0.491384
+
+Student	SLM	0.468244
+
+Philip	PM	0.458050
+
+Morris	PM	0.458050
+
+AIA	AIG	0.441803
+
+Smucker	SJM	0.400830
+
+EA	EA	0.398323
+
+stocks	TXN	0.397570
+
+Duke	DUK	0.393774
+
+Health	UNH	0.372930
+
+Net	M	-1.065190
+
+$	OXY	-0.840711
+
+stocks	CHK	-0.830065
+
+Johnson	BMY	-0.724248
+
+Martin	LMT	-0.707298
+
+US	HOG	-0.690657
+
+US	GIS	-0.669826
+
+'s	MRK	-0.654892
+
+'s	FDX	-0.635832
+
+'s	AVP	-0.622030
+
+Apple	INTC	-0.585904
+
+Kayak	PCLN	-0.546918
+
+'s	WMT	-0.540667
+
+Regions	RF	-0.535630
+
+Applied	AMAT	-0.502973
+
+Wal-Mart	SHLD	-0.491058
+
+Hasbro	MAT	-0.479745
+
+Union	UNP	-0.457102
+
+Profit	EMC	-0.452843
+
+'s	C	-0.449792
+

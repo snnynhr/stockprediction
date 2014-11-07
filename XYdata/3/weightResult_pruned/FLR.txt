@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.326121
+
+Stock	STT	1.776100
+
+Gas	CHK	0.744066
+
+Burger	MCD	0.739439
+
+Stocks	COF	0.681799
+
+Stock	BRK.B	0.627882
+
+Health	CI	0.617914
+
+$	SLB	0.544722
+
+US	AA	0.536297
+
+Credit-Card	COF	0.510719
+
+Exxon	COP	0.433753
+
+Newsday	CVC	0.395730
+
+US	FDX	0.392863
+
+Fed	AIG	0.392136
+
+EA	EA	0.389533
+
+May	COST	0.379275
+
+US	DDS	0.378759
+
+Dow	MDLZ	0.375981
+
+Time	VIA	0.375565
+
+$	V	0.356593
+
+Hospira	HSP	-0.831950
+
+Windstream	WIN	-0.820044
+
+Bid	EMC	-0.793837
+
+Buy	BLK	-0.722936
+
+'s	COP	-0.703233
+
+Retail	COST	-0.648503
+
+Prudential	PRU	-0.531793
+
+J	ABT	-0.524899
+
+Stocks	SNDK	-0.524270
+
+NYSE	ICE	-0.461648
+
+Chip	BRCM	-0.448970
+
+Gap	GPS	-0.437802
+
+U.S.	JCP	-0.428406
+
+Lennar	LEN	-0.425744
+
+Gannett	GCI	-0.418672
+
+Rite	WAG	-0.414844
+
+Morgan	KEY	-0.413456
+
+Walgreen	ESRX	-0.408389
+
+Intuit	INTU	-0.402047
+
+Fees	MA	-0.358729
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.271356
+
+stocks	RIG	1.502450
+
+Drug	GILD	1.071410
+
+Credit-Card	COF	1.054630
+
+Energy	NE	0.872582
+
+Shale	CHK	0.735620
+
+GE	HON	0.686880
+
+stocks	AIG	0.686772
+
+stocks	TXN	0.613662
+
+Rise	AA	0.605396
+
+J.C.	M	0.544705
+
+Horton	DHI	0.541768
+
+after	AXP	0.527828
+
+Home	HD	0.518632
+
+Morgan	RF	0.509109
+
+stocks	SWN	0.486767
+
+stocks	AMGN	0.484960
+
+Gains	MU	0.468717
+
+Exxon	COP	0.449352
+
+Energy	SWN	0.422137
+
+'s	KBH	-0.761074
+
+Chevron	CVX	-0.695156
+
+Transocean	RIG	-0.596648
+
+Red	RHT	-0.594956
+
+FDA	AMGN	-0.572944
+
+'s	IBM	-0.533173
+
+Sales	M	-0.529883
+
+E*Trade	ETFC	-0.518838
+
+Loews	L	-0.496201
+
+US	CME	-0.486271
+
+Gap	GPS	-0.485004
+
+Stocks	M	-0.457341
+
+Friday	M	-0.455376
+
+Sallie	SLM	-0.452816
+
+Deal	HOG	-0.452528
+
+Cummins	CMI	-0.446271
+
+Oil	CHK	-0.427571
+
+Energy	DUK	-0.401137
+
+MBIA	MBI	-0.392335
+
+U.S.	AA	-0.375037
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.458623
+
+Up	BBY	0.807663
+
+Loan	SLM	0.804989
+
+HOT	MRK	0.585123
+
+Coal	BTU	0.563289
+
+Emerson	EMR	0.531353
+
+STOCKS	SNDK	0.498108
+
+Buy	AON	0.426633
+
+AOL	TWX	0.423801
+
+Capital	COF	0.408695
+
+stocks	NVDA	0.406656
+
+Stocks	MCD	0.371207
+
+Botox	AGN	0.367779
+
+Morgan	PNC	0.363248
+
+Danaher	DHR	0.359774
+
+Gas	COP	0.340852
+
+'s	CMCSA	0.330279
+
+U.S.	ORCL	0.317250
+
+United	UTX	0.304078
+
+Retail	GPS	0.290429
+
+Hospira	HSP	-1.207280
+
+Shares	NVDA	-1.067540
+
+Life	LNC	-0.972407
+
+stocks	COST	-0.797383
+
+Heparin	BAX	-0.633155
+
+US	X	-0.614082
+
+Comcast	CMCSA	-0.586847
+
+Stocks	MRK	-0.583604
+
+Visa	MA	-0.571533
+
+Dow	AA	-0.559730
+
+Bath	BBBY	-0.550225
+
+Manitowoc	MTW	-0.539638
+
+'s	NDAQ	-0.538822
+
+SanDisk	SNDK	-0.514042
+
+Chip	AMD	-0.488009
+
+Buy	NVDA	-0.485167
+
+Fall	AA	-0.477707
+
+Prudential	BLK	-0.456252
+
+ConAgra	CAG	-0.453677
+
+Express	ESRX	-0.448488
+

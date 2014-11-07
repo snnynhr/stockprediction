@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.0144864
+
+Yum	YUM	0.771509
+
+Lauder	EL	0.770577
+
+Bank	WFC	0.744786
+
+Clearing	ICE	0.627913
+
+Priceline	PCLN	0.600506
+
+HOT	MRK	0.597956
+
+Texas	TXN	0.552332
+
+Anadarko	APC	0.468811
+
+FDA	AMGN	0.459847
+
+Apollo	APOL	0.450142
+
+Nvidia	NVDA	0.450024
+
+Transocean	RIG	0.427608
+
+Rating	MCO	0.420392
+
+shares	AA	0.417147
+
+Dow	TRV	0.402975
+
+stocks	CNX	0.400054
+
+'s	NDAQ	0.375541
+
+PepsiCo	PEP	0.366522
+
+US	VLO	0.358340
+
+Rambus	MU	-1.020220
+
+'s	SPLS	-0.932048
+
+Equity	EQR	-0.857124
+
+'s	C	-0.657478
+
+US	ICE	-0.628907
+
+Earnings	AA	-0.572225
+
+LSE	NDAQ	-0.527624
+
+Friday	M	-0.489903
+
+Gulf	APC	-0.486556
+
+US	AMP	-0.480386
+
+Copper	FCX	-0.477299
+
+Shares	EA	-0.474058
+
+Chevron	CVX	-0.451068
+
+SNAPSHOT	MDLZ	-0.431120
+
+Credit	COF	-0.430617
+
+$	HES	-0.429557
+
+Rite	WAG	-0.428088
+
+US	HRB	-0.421871
+
+Banks	RF	-0.420196
+
+Cisco	JNPR	-0.410995
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.379865
+
+NYSE	CME	0.856935
+
+Stocks	COF	0.732798
+
+Stocks	WLP	0.698399
+
+Oil	HES	0.538302
+
+Stocks	HPQ	0.535254
+
+$	NDAQ	0.532217
+
+LabCorp	LH	0.531149
+
+Drug	BIIB	0.498594
+
+Instruments	TXN	0.495414
+
+Diamond	DO	0.485358
+
+Waste	RSG	0.442724
+
+Higher	DFS	0.442539
+
+Ford	F	0.442362
+
+Deere	DE	0.438330
+
+Stocks	CSX	0.438167
+
+HOT	CPWR	0.429768
+
+First	FSLR	0.423449
+
+'s	JWN	0.413967
+
+stocks	BMY	0.405900
+
+stocks	CHK	-1.036910
+
+Bid	EMC	-0.931132
+
+Insurers	PRU	-0.772778
+
+Stocks	GPS	-0.738780
+
+Pacific	UNP	-0.724217
+
+Net	M	-0.688738
+
+US	CI	-0.684213
+
+HOT	NFLX	-0.594293
+
+Wal-Mart	WMT	-0.549140
+
+China	NKE	-0.547102
+
+Stocks	M	-0.538151
+
+Hershey	HSY	-0.525207
+
+Oilwell	NOV	-0.504949
+
+Comerica	CMA	-0.478782
+
+'s	INTC	-0.456639
+
+Avon	AVP	-0.433482
+
+Midland	ADM	-0.424470
+
+'s	NDAQ	-0.414216
+
+WellPoint	UNH	-0.412110
+
+Stocks	WMB	-0.400774
+

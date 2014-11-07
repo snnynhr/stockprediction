@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.0656909
+
+Buy	PEP	1.094390
+
+CEO	QCOM	0.863108
+
+'s	BRCM	0.850555
+
+Johnson	JCI	0.773706
+
+Rating	MCO	0.622070
+
+Dell	HPQ	0.554263
+
+'s	WFM	0.534082
+
+Engineering	JEC	0.532616
+
+Cigna	CI	0.513473
+
+HOT	MRK	0.471002
+
+Netflix	DIS	0.465362
+
+Retailers	HD	0.425968
+
+Retailers	BBY	0.373031
+
+Chubb	CB	0.370277
+
+Apple	JCP	0.366858
+
+Time	TWC	0.360518
+
+Aon	AON	0.358744
+
+NYSE	NDAQ	0.344217
+
+Deals	VZ	0.329236
+
+Drugs	ABT	-1.239950
+
+Down	AA	-1.096020
+
+Life	HIG	-0.936676
+
+$	HES	-0.855170
+
+Energy	NRG	-0.834690
+
+Comcast	TWX	-0.683782
+
+US	DFS	-0.642713
+
+Gas	XOM	-0.600842
+
+'s	FCX	-0.569072
+
+Update	V	-0.534031
+
+Stocks	MDLZ	-0.528640
+
+Valero	TSO	-0.522069
+
+Seagate	WDC	-0.460939
+
+Qualcomm	INTC	-0.458545
+
+'s	CI	-0.420453
+
+Autonomy	HPQ	-0.418262
+
+US	PRU	-0.412577
+
+Progress	DUK	-0.405669
+
+US	TSN	-0.390477
+
+Lockheed	LMT	-0.384084
+

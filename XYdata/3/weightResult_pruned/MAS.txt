@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.384861
+
+TECH	SNDK	1.014730
+
+Ackman	JCP	0.850749
+
+'s	BA	0.812372
+
+'s	VLO	0.810862
+
+Stock	STT	0.678441
+
+Dow	CAT	0.660955
+
+Google	IACI	0.651623
+
+Banks	BBT	0.635054
+
+Morgan	HBAN	0.578753
+
+Energy	HES	0.571728
+
+'s	BLK	0.525966
+
+Morgan	STI	0.519505
+
+Hormel	HRL	0.487889
+
+'s	ABT	0.480448
+
+Exxon	MRO	0.478452
+
+stocks	VLO	0.425141
+
+Wireless	T	0.404426
+
+Energy	BHI	0.399611
+
+Safeway	SWY	0.395979
+
+Retailers	KSS	-0.978416
+
+Stocks	M	-0.816715
+
+Stocks	GPS	-0.787467
+
+'s	RIG	-0.742359
+
+Microchip	MCHP	-0.661124
+
+US	V	-0.631059
+
+TARP	USB	-0.589633
+
+'s	BRK.B	-0.575324
+
+Heparin	BAX	-0.574784
+
+Airlines	LUV	-0.550637
+
+FDA	MRK	-0.526337
+
+Sector	TXN	-0.526167
+
+'s	GCI	-0.523843
+
+US	DFS	-0.505453
+
+'s	JNJ	-0.497725
+
+Hospira	HSP	-0.479752
+
+'s	C	-0.469071
+
+Life	LNC	-0.465392
+
+$	AIG	-0.461618
+
+US	BSX	-0.448643
+

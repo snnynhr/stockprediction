@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.225093
+
+Half	NDAQ	0.885599
+
+Stock	BRK.B	0.776420
+
+Sales	KSS	0.719730
+
+Discover	DFS	0.695339
+
+stock	AA	0.641021
+
+TECH	SNDK	0.615801
+
+Priceline	PCLN	0.589335
+
+Dell	EMC	0.574020
+
+Morning	BBY	0.547176
+
+Higher	TXN	0.515871
+
+US	WYNN	0.510039
+
+Recalls	JNJ	0.425923
+
+ICE	ICE	0.420542
+
+Stocks	WDC	0.385766
+
+Facebook	EBAY	0.382044
+
+State	STT	0.361119
+
+Call	LOW	0.343659
+
+US	HD	0.334870
+
+Facebook	NDAQ	0.334834
+
+Stent	BSX	-1.057230
+
+'s	PHM	-0.848531
+
+Wal-Mart	TGT	-0.825963
+
+US	LO	-0.802517
+
+Medical	STJ	-0.759451
+
+Oil	BHI	-0.725769
+
+Goldman	STT	-0.657860
+
+China	MCD	-0.590266
+
+Card	COF	-0.578640
+
+Discovery	DISCA	-0.577046
+
+Stocks	FSLR	-0.563565
+
+Steel	AKS	-0.507781
+
+'s	PEP	-0.498821
+
+SABMiller	BUD	-0.491534
+
+Jabil	JBL	-0.489662
+
+Rowan	RDC	-0.465117
+
+Early	M	-0.424285
+
+Stocks	M	-0.419465
+
+RadioShack	RSH	-0.388384
+
+Temple-Inland	IP	-0.386926
+

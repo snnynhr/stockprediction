@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.780258
+
+U.S.	M	0.849483
+
+Rockwell	ROK	0.724940
+
+Energy	VLO	0.722226
+
+stocks	MU	0.654973
+
+Service	VZ	0.635546
+
+$	MET	0.611826
+
+US	MDLZ	0.600687
+
+Pioneer	PXD	0.594268
+
+Retailers	JCP	0.556162
+
+G	PG	0.542244
+
+Stocks	JNJ	0.538220
+
+'s	NVDA	0.505289
+
+stocks	LEN	0.482772
+
+stocks	BMY	0.481826
+
+Stocks	YUM	0.476094
+
+Tech	IBM	0.466542
+
+Stock	BBY	0.429263
+
+'s	ABT	0.424396
+
+Bristol-Myers	BMY	0.405612
+
+Cut	NVDA	-0.871666
+
+US	V	-0.755008
+
+Friday	M	-0.696005
+
+Nan	AIG	-0.660231
+
+'s	GCI	-0.644587
+
+'s	WLP	-0.638706
+
+Banks	USB	-0.636160
+
+U.S.	ANF	-0.630402
+
+NYSE	CME	-0.575891
+
+HOT	CI	-0.551433
+
+Credit	V	-0.548826
+
+Prudential	AIG	-0.527686
+
+Morgan	COF	-0.525751
+
+Procter	PG	-0.523814
+
+ADP	ADP	-0.505159
+
+Humana	HUM	-0.500268
+
+Yum	YUM	-0.469548
+
+Housing	LEN	-0.439298
+
+China	NKE	-0.421596
+
+US	AET	-0.419974
+

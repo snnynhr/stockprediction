@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.184339
+
+Enterprise	PEG	1.211960
+
+'s	BSX	1.091660
+
+stocks	COF	0.973100
+
+'s	ADBE	0.680438
+
+'s	JWN	0.665544
+
+HOT	GILD	0.611355
+
+Bond	BLK	0.606704
+
+'s	AXP	0.533682
+
+Cnooc	CHK	0.481373
+
+Oil	XOM	0.459432
+
+Home	PHM	0.457094
+
+'s	GNW	0.439886
+
+stocks	HES	0.432293
+
+'s	JCP	0.426113
+
+Stocks	USB	0.404129
+
+Travelers	TRV	0.369453
+
+Stock	BRK.B	0.365145
+
+Starbucks	SBUX	0.363908
+
+Pepsi	PEP	0.359032
+
+Banks	FITB	-0.976667
+
+TJX	TJX	-0.883413
+
+Monster	MWW	-0.589817
+
+H-P	ORCL	-0.588001
+
+Banks	KEY	-0.560811
+
+AMD	INTC	-0.559411
+
+Facebook	NDAQ	-0.498974
+
+Billabong	VFC	-0.468064
+
+TARP	HIG	-0.466304
+
+GE	GE	-0.456518
+
+'s	WEN	-0.440124
+
+Retailers	SHLD	-0.427155
+
+Nvidia	NVDA	-0.415746
+
+'s	CSCO	-0.386574
+
+'s	DIS	-0.377553
+
+Apollo	APOL	-0.369164
+
+Hospira	HSP	-0.367837
+
+'s	RF	-0.318166
+
+US	CELG	-0.317998
+
+'s	AA	-0.315957
+

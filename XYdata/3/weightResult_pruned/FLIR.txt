@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.286824
+
+India	BA	0.907997
+
+Case	AMD	0.813133
+
+Nokia	T	0.806247
+
+TECH	SNDK	0.760591
+
+U.S.	NKE	0.718036
+
+Status	COP	0.662891
+
+NYSE	CME	0.577243
+
+'s	STT	0.539080
+
+HOT	CF	0.532585
+
+E	PCG	0.518188
+
+stocks	VLO	0.495321
+
+$	LLY	0.493862
+
+U.S.	DD	0.442449
+
+BlackRock	BLK	0.422722
+
+Dow	TRV	0.421438
+
+Constellation	STZ	0.416895
+
+Banks	RF	0.376642
+
+U.S.	MAT	0.358431
+
+Broadcom	BRCM	0.352825
+
+'s	COP	-0.910211
+
+Spill	RIG	-0.854574
+
+Raytheon	RTN	-0.830360
+
+Banks	WFC	-0.706888
+
+J	ABT	-0.668357
+
+Alaska	COP	-0.613299
+
+Stocks	QCOM	-0.598108
+
+US	CPB	-0.565759
+
+Depot	ODP	-0.515615
+
+Supervalu	SVU	-0.514509
+
+Credit	COF	-0.469444
+
+Chevron	CVX	-0.455997
+
+US	GIS	-0.413407
+
+P	PG	-0.384227
+
+CEO	BBY	-0.382817
+
+Shares	NVDA	-0.356416
+
+Dynegy	DYN	-0.345353
+
+Tech	BRCM	-0.337407
+
+U.S.	AA	-0.326772
+
+Prudential	PRU	-0.326062
+

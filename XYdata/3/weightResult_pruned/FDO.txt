@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.418643
+
+Retailers	JWN	0.722535
+
+Power	SO	0.595077
+
+$	EMC	0.522877
+
+Bank	USB	0.510832
+
+Bank	WFC	0.508323
+
+Energy	BHI	0.479876
+
+Berkshire	BRK.B	0.463164
+
+WellPoint	WLP	0.447704
+
+US	COF	0.445329
+
+Bank	PNC	0.439093
+
+US	JWN	0.435705
+
+'s	NVDA	0.434743
+
+Allianz	HIG	0.432436
+
+Yum	YUM	0.424556
+
+Diamond	PG	0.422335
+
+Cadbury	MDLZ	0.400723
+
+Stocks	CIEN	0.358182
+
+US	BRCM	0.350645
+
+Retail	TGT	0.350088
+
+Kimberly-Clark	KMB	-0.804690
+
+PPG	PPG	-0.693368
+
+Energy	SWN	-0.692476
+
+Stocks	USB	-0.673126
+
+'s	WLP	-0.617135
+
+Consol	CNX	-0.588351
+
+CME	ICE	-0.586574
+
+Stocks	ADBE	-0.568983
+
+Chevron	CVX	-0.531466
+
+Morgan	COF	-0.527520
+
+New	ABT	-0.519471
+
+April	COST	-0.510724
+
+stocks	PG	-0.491019
+
+Friday	M	-0.488934
+
+Southwest	LUV	-0.441215
+
+Starwood	HOT	-0.436928
+
+stocks	FSLR	-0.414778
+
+US	PCLN	-0.406596
+
+SEC	NDAQ	-0.403620
+
+SNAPSHOT	JWN	-0.376626
+

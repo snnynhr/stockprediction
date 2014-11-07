@@ -1,0 +1,22 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.801576
+
+Rise	HD	0.729542
+
+Exelon	EXC	0.681039
+
+Retailers	ANF	0.667742
+
+Morning	WMT	0.628117
+
+Home	PHM	0.627613
+
+Akamai	AKAM	0.627543
+
+Stocks	UNH	0.546816
+
+Air	APD	0.540757
+
+Costco	COST	0.528755
+

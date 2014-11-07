@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.437274
+
+FCCU	MRO	0.916869
+
+Stocks	PNC	0.863646
+
+Stock	PFE	0.839185
+
+Trading	CME	0.790485
+
+FMC	FTI	0.780799
+
+STOCKS	QCOM	0.773727
+
+US	VLO	0.773019
+
+Halliburton	HAL	0.666380
+
+'s	DG	0.581595
+
+$	EXC	0.560282
+
+Airline	LUV	0.540390
+
+Emerson	EMR	0.530973
+
+after	AXP	0.503709
+
+stocks	TXN	0.490789
+
+Hartford	HIG	0.486657
+
+Motorola	QCOM	0.486447
+
+FAA	LUV	0.476470
+
+stocks	TRV	0.468900
+
+Exelon	EXC	0.439505
+
+$	HES	-0.829313
+
+Jabil	JBL	-0.748977
+
+Stocks	M	-0.661509
+
+'s	SLB	-0.566114
+
+Fitch	ANF	-0.545071
+
+AB	BUD	-0.516007
+
+'s	CHK	-0.501843
+
+Tysabri	BIIB	-0.472799
+
+Stocks	BRK.B	-0.460434
+
+Friday	BBY	-0.452681
+
+NBC	CMCSA	-0.450088
+
+Apple	EBAY	-0.448923
+
+Stocks	FSLR	-0.394110
+
+'s	BRK.B	-0.394084
+
+Express	SPLS	-0.388936
+
+US	CAT	-0.353067
+
+Caremark	CVS	-0.346877
+
+Horton	DHI	-0.337476
+
+Expro	HAL	-0.331813
+
+Earnings	AA	-0.331360
+

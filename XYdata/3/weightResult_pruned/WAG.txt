@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.190672
+
+'s	MET	1.081070
+
+Morris	PM	0.960623
+
+Retail	RSH	0.954950
+
+Pulte	PHM	0.789110
+
+U.S.	CHK	0.725898
+
+US	TIF	0.659931
+
+US	LLY	0.640980
+
+Study	MRK	0.618965
+
+stocks	AA	0.612138
+
+Restaurants	DRI	0.516311
+
+Higher	CAT	0.489768
+
+stocks	CVX	0.485026
+
+'s	WAG	0.476778
+
+Stocks	GILD	0.473430
+
+Waste	WM	0.471590
+
+Anadarko	APC	0.457598
+
+'s	AXP	0.447285
+
+Idec	BIIB	0.434898
+
+Makers	TXN	0.407383
+
+$	AES	-0.813295
+
+Up	BBY	-0.679000
+
+'s	IP	-0.614751
+
+Holiday	M	-0.569161
+
+Media	NYT	-0.560994
+
+J	ABT	-0.549475
+
+Unit	MRO	-0.526678
+
+HOT	HAS	-0.515278
+
+stocks	LLY	-0.513307
+
+Hospira	HSP	-0.511633
+
+Prices	DOW	-0.510269
+
+Shares	NVDA	-0.506651
+
+Stocks	MDLZ	-0.498429
+
+CA	CA	-0.462663
+
+Futures	ICE	-0.460018
+
+Autodesk	ADSK	-0.450543
+
+IPO	YHOO	-0.447404
+
+$	IP	-0.443829
+
+Seagate	STX	-0.418297
+
+Red	RHT	-0.410369
+

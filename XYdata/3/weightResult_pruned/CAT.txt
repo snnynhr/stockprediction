@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.556928
+
+Warner	PG	0.966878
+
+Mall	SPG	0.784086
+
+Banks	CMA	0.725075
+
+Bank	PNC	0.672959
+
+'s	NFLX	0.602528
+
+Futures	CME	0.547854
+
+CSX	CSX	0.517742
+
+Horton	DHI	0.497610
+
+U.S.	AIG	0.496609
+
+$	STT	0.486192
+
+Safeway	SWY	0.481459
+
+'s	CVS	0.464682
+
+Target	TGT	0.464010
+
+Eaton	ETN	0.445319
+
+BATS	NDAQ	0.434298
+
+Zions	ZION	0.422868
+
+First	FSLR	0.400752
+
+Energy	BTU	0.373472
+
+Danaher	DHR	0.361286
+
+Prices	CVX	-1.385750
+
+Credit	MA	-1.033690
+
+US	ABT	-1.023760
+
+Paso	KMI	-0.773479
+
+Chevron	XOM	-0.655786
+
+Sales	MON	-0.654319
+
+stocks	SHLD	-0.586908
+
+Bristol	BMY	-0.537033
+
+Bank	STI	-0.486457
+
+Heparin	BAX	-0.476318
+
+Lennar	LEN	-0.444291
+
+stocks	HES	-0.442697
+
+US	AIG	-0.433319
+
+Stocks	AA	-0.431766
+
+Deutsche	UPS	-0.428673
+
+Sector	TXN	-0.427808
+
+Insurers	UNH	-0.404472
+
+US	GILD	-0.368126
+
+Marsh	MMC	-0.366354
+
+Deal	CMCSA	-0.328458
+

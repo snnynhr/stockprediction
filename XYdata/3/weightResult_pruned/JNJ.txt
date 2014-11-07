@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.598642
+
+stocks	AIG	1.050440
+
+HOT	LLY	0.850918
+
+'s	ADBE	0.716469
+
+IPO	NDAQ	0.694596
+
+Baker	BHI	0.681909
+
+Stock	AA	0.668759
+
+Darden	DRI	0.616199
+
+'s	YUM	0.606109
+
+Management	RSG	0.572966
+
+Topamax	JNJ	0.525580
+
+stocks	M	0.517782
+
+Murphy	MUR	0.500223
+
+Nvidia	NVDA	0.499305
+
+Retailers	JCP	0.483225
+
+'s	VZ	0.460429
+
+New	MCO	0.446569
+
+Travelers	TRV	0.443874
+
+Heinz	BRK.B	0.417043
+
+'s	LEN	0.392230
+
+Stocks	MU	-0.769818
+
+Dollar	DLTR	-0.722713
+
+AmEx	AXP	-0.717105
+
+'s	GPS	-0.586313
+
+Earnings	WAG	-0.561629
+
+Celgene	CELG	-0.554835
+
+'s	ORCL	-0.538381
+
+Retail	WAG	-0.532484
+
+Coke	KO	-0.504133
+
+Builders	LEN	-0.499993
+
+Seagate	STX	-0.495048
+
+Lukoil	COP	-0.445774
+
+'s	F	-0.444702
+
+Stocks	CAT	-0.430478
+
+Retail	COST	-0.369079
+
+Banks	COF	-0.359435
+
+Mylan	MYL	-0.350375
+
+'s	NKE	-0.344387
+
+'s	MDLZ	-0.341931
+
+Transocean	RIG	-0.338198
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.765964
+
+CEO	INTC	0.899871
+
+Sales	COST	0.707492
+
+stocks	TXN	0.656207
+
+Energy	BTU	0.608161
+
+financials	AXP	0.538129
+
+Back	AIG	0.493030
+
+Icahn	CLX	0.490331
+
+HOT	CHK	0.470010
+
+New	T	0.449678
+
+Pfizer	PFE	0.403665
+
+'s	CAT	0.398939
+
+Temple-Inland	IP	0.389508
+
+Cigna	CI	0.364699
+
+Health	AET	0.341806
+
+Wells	WFC	0.338627
+
+Take-Two	EA	0.330294
+
+Best	BBY	0.326945
+
+Gamble	PG	0.318301
+
+Prudential	PRU	0.312581
+
+Cancer	BMY	-1.290210
+
+Electric	AEP	-0.948879
+
+'s	CSCO	-0.935327
+
+FCC	CMCSA	-0.917707
+
+Amazon	AMZN	-0.883629
+
+Sales	LOW	-0.620248
+
+'s	DHI	-0.547863
+
+LCD	GLW	-0.537489
+
+Nan	AIG	-0.502272
+
+Target	TGT	-0.498819
+
+Kellogg	K	-0.479550
+
+Visa	V	-0.439553
+
+$	PEP	-0.437115
+
+Gas	NBL	-0.436991
+
+HOT	PFE	-0.422889
+
+U.S.	BBY	-0.418889
+
+US	FLR	-0.399624
+
+Stocks	NFLX	-0.381797
+
+'s	KBH	-0.373569
+
+BP	APC	-0.368964
+

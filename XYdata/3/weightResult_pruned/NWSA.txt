@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.303719
+
+Retail	TGT	0.945162
+
+'s	YUM	0.672045
+
+'s	SBUX	0.646961
+
+Up	MDLZ	0.646846
+
+Exxon	MRO	0.636950
+
+US	MRK	0.579462
+
+Times	NYT	0.505651
+
+EBay	EBAY	0.497352
+
+'s	KO	0.481107
+
+Retail	LOW	0.474934
+
+Botox	AGN	0.459642
+
+Disney	DIS	0.426289
+
+U.S.	MRK	0.424212
+
+Solar	FSLR	0.421557
+
+$	CVX	0.413225
+
+OMX	NDAQ	0.398524
+
+T	VZ	0.380243
+
+US	WFT	0.376389
+
+Cigna	CI	0.367618
+
+Stocks	KEY	-1.094070
+
+U.S.	GM	-0.690840
+
+SABMiller	BUD	-0.686538
+
+Gannett	GCI	-0.579884
+
+$	AIG	-0.471682
+
+Spill	RIG	-0.471006
+
+$	QCOM	-0.468970
+
+Stocks	BBY	-0.458132
+
+$	HPQ	-0.450239
+
+Europe	AA	-0.432538
+
+Agrium	CF	-0.429122
+
+Office	ODP	-0.428710
+
+Marathon	MRO	-0.419741
+
+Dell	AMD	-0.416894
+
+Supervalu	SVU	-0.409885
+
+June	M	-0.407186
+
+'s	F	-0.406324
+
+Verizon	VZ	-0.372405
+
+'s	PFE	-0.371295
+
+Prices	CVX	-0.366640
+

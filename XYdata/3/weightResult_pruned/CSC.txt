@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.018678
+
+gas	CHK	1.641240
+
+stocks	AIG	1.117490
+
+stocks	NVDA	0.980735
+
+Oil	HES	0.764581
+
+Fifth	FITB	0.729619
+
+Up	WAG	0.590827
+
+Sokol	BRK.B	0.589108
+
+Hormel	HRL	0.556723
+
+Up	AIG	0.485613
+
+Retail	TGT	0.481879
+
+CIT	CIT	0.448731
+
+STOCKS	SNDK	0.443534
+
+Financial	BBT	0.389060
+
+TECH	SNDK	0.382020
+
+Costco	COST	0.372344
+
+KB	KBH	0.368298
+
+Apollo	APOL	0.363724
+
+Constellation	STZ	0.349195
+
+Palm	AMD	0.345159
+
+Hospira	HSP	-0.999624
+
+stocks	CHK	-0.988785
+
+Monster	MWW	-0.955624
+
+stocks	KEY	-0.943093
+
+US	DE	-0.900493
+
+Fall	AMD	-0.778542
+
+Apple	INTC	-0.714005
+
+Coal	BTU	-0.601531
+
+ConAgra	CAG	-0.580759
+
+Red	RHT	-0.576350
+
+Aflac	AFL	-0.547050
+
+Cisco	JNPR	-0.544541
+
+US	BRK.B	-0.535415
+
+Gas	CHK	-0.459584
+
+U.S.	DHI	-0.450890
+
+May	CME	-0.438994
+
+Morning	FDX	-0.437289
+
+Energy	CNX	-0.433122
+
+Costs	WAG	-0.432765
+
+Car	F	-0.428161
+

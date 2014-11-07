@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.646113
+
+Intel	MU	0.943862
+
+GameStop	GME	0.769978
+
+Energy	SE	0.739474
+
+Retailers	HD	0.691970
+
+U.S.	GE	0.543991
+
+Delta	LUV	0.497359
+
+Sysco	SYY	0.470128
+
+Recalls	JNJ	0.427561
+
+Berkshire	BRK.B	0.389402
+
+'s	SBUX	0.384629
+
+U.S.	BA	0.384067
+
+Apple	T	0.381297
+
+One	COF	0.372246
+
+Botox	AGN	0.372102
+
+Akamai	AKAM	0.368864
+
+U.S.	JNJ	0.361093
+
+Apple	NFLX	0.358518
+
+Drug	ABT	0.344577
+
+Wynn	WYNN	0.341635
+
+Stocks	GPS	-1.203140
+
+Cable	CVC	-0.775316
+
+'s	GCI	-0.771818
+
+Medtronic	STJ	-0.759585
+
+CEO	SVU	-0.753497
+
+Discovery	DISCA	-0.701359
+
+'s	KBH	-0.676602
+
+Deal	TXN	-0.666214
+
+'s	SHLD	-0.608591
+
+Oil	BHI	-0.537244
+
+Ashland	ASH	-0.514374
+
+Pepsi	KO	-0.510669
+
+Atmel	MCHP	-0.495586
+
+'s	PFE	-0.482113
+
+Friday	M	-0.447004
+
+Nasdaq	NDAQ	-0.443026
+
+U.S.	X	-0.427249
+
+Air	NOC	-0.426261
+
+retail	LOW	-0.409457
+
+Fluor	FLR	-0.408130
+

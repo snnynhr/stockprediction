@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.520587
+
+Up	USB	0.888841
+
+Stocks	KO	0.777088
+
+stocks	M	0.665008
+
+$	CBS	0.622256
+
+Wynn	WYNN	0.608651
+
+'s	YUM	0.557798
+
+Game	EA	0.545251
+
+'s	MS	0.522090
+
+Microsoft	HPQ	0.520822
+
+'s	AXP	0.464402
+
+Banks	AXP	0.452243
+
+'s	PG	0.437839
+
+Nordstrom	JWN	0.437783
+
+US	BBY	0.414400
+
+Housing	HD	0.408443
+
+U.S.	XOM	0.401647
+
+U.S.	STI	0.395850
+
+Apple	T	0.393398
+
+Republic	RSG	0.383237
+
+Net	M	-0.834303
+
+'s	HON	-0.789243
+
+Apple	INTC	-0.659579
+
+Ameriprise	AMP	-0.654765
+
+'s	WAG	-0.621097
+
+'s	NYT	-0.549380
+
+US	BIIB	-0.530105
+
+CME	CME	-0.515601
+
+Citi	WFC	-0.513343
+
+Intel	AMD	-0.503692
+
+'s	AVP	-0.499925
+
+$	QCOM	-0.464238
+
+'s	ICE	-0.449208
+
+Stocks	NTAP	-0.437430
+
+Stock	CELG	-0.401395
+
+Advanced	AMD	-0.397428
+
+Food	MDLZ	-0.390557
+
+Warner	VIAB	-0.389662
+
+Sales	CAT	-0.389524
+
+gains	HES	-0.381651
+

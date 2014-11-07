@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.287795
+
+Stocks	COF	0.911169
+
+Devices	MDT	0.674696
+
+BlackRock	BLK	0.623179
+
+'s	AGN	0.607890
+
+Waste	WM	0.552896
+
+'s	BA	0.475871
+
+HOT	AXP	0.459836
+
+Cnooc	CHK	0.430644
+
+Chips	BRCM	0.423198
+
+Capital	COF	0.416208
+
+'s	QCOM	0.394657
+
+FCCU	VLO	0.392730
+
+Big	BIG	0.378970
+
+Net	GIS	0.367065
+
+Buy	PEP	0.364958
+
+Gains	MU	0.362435
+
+Earnings	LOW	0.359102
+
+Chips	AMD	0.339348
+
+Stocks	HD	0.338249
+
+energy	TSO	-1.238510
+
+Shares	NVDA	-1.165440
+
+BorgWarner	BWA	-1.044840
+
+Labs	ABT	-0.917275
+
+Drugs	ABT	-0.866316
+
+Heparin	BAX	-0.765726
+
+U.S.	AMZN	-0.747814
+
+Dollar	DLTR	-0.744083
+
+US	GIS	-0.703042
+
+Sales	LOW	-0.697789
+
+Post	UPS	-0.693312
+
+'s	AVP	-0.668230
+
+Paso	KMI	-0.643593
+
+Lorillard	LO	-0.596812
+
+New	ABT	-0.585557
+
+Buy	WDC	-0.573392
+
+'s	ANF	-0.563887
+
+Monster	MWW	-0.562611
+
+STOCKS	HUM	-0.537423
+
+Valero	TSO	-0.519344
+

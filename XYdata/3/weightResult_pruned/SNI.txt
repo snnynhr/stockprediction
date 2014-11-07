@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.685563
+
+Foods	MDLZ	1.114010
+
+Salesforce	CRM	1.102260
+
+'s	NVDA	0.911658
+
+Stocks	TGT	0.782586
+
+'s	MET	0.748508
+
+'s	YUM	0.699715
+
+Facebook	NFLX	0.660676
+
+Stocks	KO	0.649578
+
+stocks	AMGN	0.642788
+
+Family	FDO	0.626427
+
+PayPal	EBAY	0.564204
+
+'s	BSX	0.500492
+
+PepsiCo	PEP	0.480764
+
+Home	DHI	0.480715
+
+Pepsi	PEP	0.479206
+
+'s	BLK	0.411844
+
+EA	EA	0.396910
+
+'s	NFLX	0.387396
+
+Penney	M	0.341490
+
+Coal	BTU	-0.769792
+
+Ambac	MBI	-0.605404
+
+Stocks	AA	-0.596862
+
+FDA	BMY	-0.575178
+
+Agrium	CF	-0.572498
+
+Sector	TXN	-0.559855
+
+'s	CHK	-0.558656
+
+Stock	CPB	-0.554686
+
+Red	RHT	-0.532288
+
+CVS	WAG	-0.478269
+
+Adobe	ADBE	-0.470410
+
+Derivatives	ICE	-0.468031
+
+'s	WLP	-0.453689
+
+J	ABT	-0.445462
+
+Seagate	STX	-0.441033
+
+Oracle	ORCL	-0.406876
+
+Buy	NVDA	-0.400993
+
+Gilead	GILD	-0.394724
+
+Qualcomm	QCOM	-0.390513
+
+IBM	ORCL	-0.386005
+

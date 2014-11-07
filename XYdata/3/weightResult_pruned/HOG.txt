@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.321601
+
+Up	RF	1.154690
+
+$	PCG	0.681791
+
+Retailers	ANF	0.640192
+
+Stocks	UNH	0.636352
+
+stocks	CSCO	0.628458
+
+Apple	NFLX	0.618623
+
+Mall	SPG	0.605759
+
+Big	BIG	0.600214
+
+Stocks	WDC	0.514678
+
+'s	IBM	0.499457
+
+Buy	WAG	0.498364
+
+Nortel	CIEN	0.432810
+
+Housing	PHM	0.424173
+
+Weatherford	WFT	0.401123
+
+'s	BMY	0.380250
+
+US	DG	0.372334
+
+Philip	PM	0.353351
+
+'s	ADBE	0.350398
+
+Coca-Cola	KO	0.332999
+
+Tysabri	BIIB	-0.849164
+
+STOCKS	BRCM	-0.808100
+
+AMD	AMD	-0.636384
+
+Stocks	NTAP	-0.580233
+
+Valero	TSO	-0.576502
+
+US	X	-0.571515
+
+Foods	DF	-0.550802
+
+TV	CBS	-0.537551
+
+Energy	SLB	-0.536194
+
+Intel	NVDA	-0.517738
+
+Dow	KO	-0.515114
+
+US	DE	-0.514734
+
+BB	BBT	-0.511296
+
+Stocks	MDLZ	-0.505497
+
+Stocks	M	-0.501368
+
+New	F	-0.485754
+
+PetSmart	PETM	-0.480998
+
+UnitedHealth	UNH	-0.473601
+
+Heparin	BAX	-0.466581
+
+'s	F	-0.459628
+

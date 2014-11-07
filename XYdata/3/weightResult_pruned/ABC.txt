@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.130988
+
+stocks	LUV	1.080370
+
+Dell	HPQ	0.711737
+
+stocks	TSO	0.695836
+
+Friday	TIF	0.616219
+
+Credit-Card	AXP	0.548601
+
+Dow	CAT	0.540883
+
+Campbell	CPB	0.522573
+
+US	M	0.491633
+
+Darden	DRI	0.408945
+
+US	MU	0.392815
+
+US	ANF	0.387257
+
+Companies	CI	0.378553
+
+Arts	EA	0.369857
+
+Big	BIG	0.367869
+
+'s	C	0.347781
+
+Petroleum	OXY	0.347315
+
+Coca-Cola	KO	0.337861
+
+US	QCOM	0.330589
+
+Bank	USB	0.322288
+
+Friday	BBY	-0.902809
+
+Macy	KSS	-0.845100
+
+Unit	JNJ	-0.799860
+
+Oil	DVN	-0.734198
+
+Red	RHT	-0.625963
+
+J	ABT	-0.590967
+
+Air	NOC	-0.590319
+
+US	MOS	-0.585731
+
+Stocks	SBUX	-0.534985
+
+Interpublic	IPG	-0.534516
+
+Chip	BRCM	-0.533498
+
+Verizon	VZ	-0.530562
+
+U.S.	SHLD	-0.524470
+
+Comcast	CMCSA	-0.517901
+
+AutoNation	AN	-0.465907
+
+Financial	BK	-0.455303
+
+Fincl	DFS	-0.442119
+
+'s	AA	-0.433453
+
+'s	BBY	-0.426153
+
+SEC	NFLX	-0.405227
+

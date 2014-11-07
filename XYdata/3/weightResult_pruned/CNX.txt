@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.00624724
+
+Sales	HD	0.899518
+
+Colgate	CL	0.868215
+
+U.S.	CSCO	0.639236
+
+Buy	HON	0.548008
+
+Deere	DE	0.529870
+
+'s	MS	0.517587
+
+US	DIS	0.480768
+
+'s	DDS	0.464316
+
+Pepper	DPS	0.462519
+
+Stocks	JNJ	0.452234
+
+Technologies	UTX	0.435160
+
+Botox	AGN	0.420397
+
+US	PG	0.417578
+
+TNT	UPS	0.417451
+
+CEO	JNJ	0.406887
+
+retail	M	0.401211
+
+HOT	WFM	0.386975
+
+Ackman	JCP	0.361582
+
+$	CVC	0.349249
+
+BofA	STI	-0.932522
+
+Fire	COP	-0.894371
+
+Stocks	KBH	-0.877980
+
+Stocks	LUV	-0.730637
+
+'s	DHI	-0.728466
+
+Buffett	IBM	-0.671292
+
+US	BHI	-0.652954
+
+Card	MA	-0.649573
+
+CenturyTel	CTL	-0.612115
+
+Retail	WAG	-0.611919
+
+Financial	KEY	-0.589160
+
+Friday	M	-0.569260
+
+NYSE	CME	-0.516121
+
+Oil	VLO	-0.504191
+
+Celgene	CELG	-0.501741
+
+$	HES	-0.474081
+
+Travelers	TRV	-0.473575
+
+energy	FSLR	-0.465821
+
+Southern	NSC	-0.461748
+
+Channel	CBS	-0.456977
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.534535
+
+US	PCLN	1.018950
+
+TARP	HIG	0.878119
+
+AmEx	AXP	0.716584
+
+US	COF	0.715469
+
+Stocks	JDSU	0.612316
+
+Rating	MCO	0.608510
+
+Sales	CVS	0.526526
+
+stocks	CVC	0.523064
+
+'s	M	0.518523
+
+Wynn	WYNN	0.488089
+
+General	DG	0.482292
+
+Janus	JNS	0.482219
+
+Chips	QCOM	0.474615
+
+T-Mobile	T	0.458690
+
+Allstate	ALL	0.398017
+
+New	NYT	0.386477
+
+U.S.	NKE	0.378854
+
+Morgan	BAC	0.356976
+
+Energy	VLO	0.341607
+
+Oil	COG	-0.701747
+
+Clorox	PG	-0.673346
+
+Manitowoc	MTW	-0.647936
+
+NRG	NRG	-0.644211
+
+U.S.	HD	-0.613588
+
+Retail	BBY	-0.589753
+
+Drugs	AMGN	-0.551519
+
+'s	DFS	-0.528179
+
+Status	COP	-0.515755
+
+'s	GIS	-0.509637
+
+'s	PFE	-0.483841
+
+Southwest	LUV	-0.462837
+
+Medtronic	MDT	-0.462293
+
+Media	NYT	-0.444041
+
+Oil	VLO	-0.443028
+
+One	COF	-0.434279
+
+stocks	BBY	-0.429940
+
+Gas	CVX	-0.417546
+
+Pitney	PBI	-0.414186
+
+Buffett	NSC	-0.408256
+

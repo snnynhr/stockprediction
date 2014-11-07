@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.119894
+
+stocks	FHN	1.276780
+
+Morning	F	0.850354
+
+US	CIEN	0.655755
+
+Stocks	WDC	0.548425
+
+Stocks	GNW	0.546617
+
+Exchanges	CME	0.524721
+
+Sears	SHLD	0.505128
+
+stocks	ORCL	0.420764
+
+Stocks	WLP	0.418338
+
+Paper	IP	0.414732
+
+Stocks	FITB	0.411000
+
+Weatherford	WFT	0.383324
+
+PC	HPQ	0.381760
+
+'s	DDS	0.375886
+
+stocks	TXN	0.371705
+
+Akamai	AKAM	0.360529
+
+Daniels	ADM	0.351208
+
+Macau	WYNN	0.345123
+
+Coca-Cola	KO	0.343759
+
+US	BSX	-1.054400
+
+Hospira	HSP	-1.017570
+
+'s	CME	-0.978552
+
+stocks	CHK	-0.916714
+
+FDA	LLY	-0.761825
+
+Shares	NVDA	-0.727195
+
+stocks	RF	-0.724518
+
+Harley-Davidson	HOG	-0.697989
+
+Sales	WAG	-0.680464
+
+'s	CI	-0.661945
+
+Jobs	ADP	-0.645957
+
+US	RSH	-0.604045
+
+Lehman	TXN	-0.584481
+
+Unit	MRO	-0.580652
+
+ConAgra	CAG	-0.572587
+
+MetLife	MET	-0.528384
+
+Stocks	FSLR	-0.523140
+
+Refinery	HES	-0.518011
+
+Priceline.com	PCLN	-0.490571
+
+Tysabri	BIIB	-0.469254
+

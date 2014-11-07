@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.0280761
+
+stocks	TXN	1.091650
+
+Banks	AXP	0.995379
+
+Dow	AA	0.785770
+
+AEP	AEP	0.651002
+
+Restaurants	DRI	0.633776
+
+Scripts	WAG	0.568584
+
+Gains	TXN	0.564494
+
+AOL	TWX	0.541142
+
+stocks	M	0.531324
+
+Bank	WFC	0.513451
+
+Power	SO	0.471848
+
+Deals	AIG	0.451648
+
+US	MDLZ	0.436757
+
+Stocks	USB	0.410721
+
+AIG	PRU	0.405194
+
+Disney	DIS	0.401352
+
+Morgan	RF	0.398956
+
+Tech	ORCL	0.396004
+
+Energy	BTU	0.392599
+
+'s	NYT	-0.894521
+
+AutoNation	AN	-0.757166
+
+Oil	VLO	-0.708132
+
+'s	NKE	-0.677388
+
+Financial	RF	-0.664787
+
+'s	TGT	-0.623339
+
+US	LOW	-0.605631
+
+Heparin	BAX	-0.587094
+
+Pepsi	KO	-0.568012
+
+Banks	PNC	-0.544601
+
+Stocks	EMC	-0.507903
+
+Sales	HD	-0.503701
+
+Builders	KBH	-0.492785
+
+Barclays	BLK	-0.476316
+
+Verizon	VZ	-0.454048
+
+Friday	BBY	-0.441679
+
+Cancer	BMY	-0.408333
+
+$	CAT	-0.393986
+
+'s	CHK	-0.391779
+
+Honeywell	HON	-0.386294
+

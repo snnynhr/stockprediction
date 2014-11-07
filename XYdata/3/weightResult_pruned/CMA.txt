@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.104442
+
+McKesson	MCK	0.952010
+
+Retailers	HD	0.830418
+
+U.S.	CLF	0.745582
+
+Cadbury	MDLZ	0.701199
+
+Earnings	LOW	0.623191
+
+Bank	WFC	0.485696
+
+Philip	PM	0.466889
+
+Alibaba	YHOO	0.457368
+
+Cigna	CI	0.426865
+
+US	TIF	0.417394
+
+Lots	BIG	0.404191
+
+Stocks	ALTR	0.399872
+
+U.S.	F	0.393011
+
+Stocks	RIG	0.364572
+
+Safeway	SWY	0.355351
+
+Aon	AON	0.354370
+
+Chips	MU	0.346720
+
+CenturyTel	CTL	0.340320
+
+Stock	CHK	0.335979
+
+Stocks	UNH	-1.026840
+
+TARP	COF	-0.862024
+
+Rambus	MU	-0.787463
+
+Oil	CVX	-0.731928
+
+Stocks	MDLZ	-0.679441
+
+'s	AMGN	-0.677238
+
+Sales	WMT	-0.664888
+
+CME	CME	-0.640934
+
+Take-Two	EA	-0.601891
+
+Celgene	CELG	-0.579647
+
+'s	WEN	-0.559130
+
+US	TSN	-0.549323
+
+'s	TWC	-0.528763
+
+CEO	NDAQ	-0.500800
+
+Prudential	PRU	-0.470033
+
+Hughes	BHI	-0.460318
+
+Shares	NVDA	-0.447742
+
+Expro	HAL	-0.428515
+
+Tyco	TYC	-0.424023
+
+$	AIG	-0.423893
+

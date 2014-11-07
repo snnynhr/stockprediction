@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.47783
+
+Oil	LUV	1.109580
+
+$	BLK	0.956052
+
+stocks	AMGN	0.733172
+
+Entergy	ETR	0.626118
+
+Hershey	HSY	0.625388
+
+Deal	CME	0.608731
+
+Moody	MCO	0.607621
+
+stocks	JDSU	0.489137
+
+$	CHK	0.446880
+
+First	FSLR	0.416002
+
+Cablevision	CVC	0.414584
+
+'s	BLK	0.410473
+
+Seed	MON	0.403442
+
+Bank	MS	0.387208
+
+Materials	AMAT	0.377121
+
+Banks	KEY	0.348827
+
+May	COST	0.344686
+
+stocks	TSO	0.326618
+
+ING	COF	0.324137
+
+Insurers	PRU	-0.840520
+
+Shares	MU	-0.815307
+
+Tysabri	BIIB	-0.749080
+
+America	PNC	-0.700828
+
+Apple	T	-0.660600
+
+Banks	STI	-0.629273
+
+'s	CVC	-0.598574
+
+Progressive	PGR	-0.576766
+
+Friday	BBY	-0.574839
+
+'s	PG	-0.544396
+
+Huntington	HBAN	-0.531877
+
+stocks	BRCM	-0.529873
+
+Gap	GPS	-0.528480
+
+Warren	BRK.B	-0.521554
+
+energy	CHK	-0.520825
+
+U.S.	KO	-0.495817
+
+'s	NYT	-0.453762
+
+Stock	TXN	-0.447355
+
+Heparin	BAX	-0.441100
+
+Gulf	RIG	-0.434417
+

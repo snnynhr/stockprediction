@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.395514
+
+U.S.	DD	0.869589
+
+One	COF	0.682875
+
+US	APC	0.641106
+
+Stocks	NBL	0.573379
+
+Resources	EOG	0.498319
+
+Energy	HES	0.478513
+
+Gains	TXN	0.436525
+
+Refinery	XOM	0.435681
+
+Heinz	BRK.B	0.421326
+
+US	LLY	0.413495
+
+Aon	AON	0.409816
+
+'s	CVS	0.403263
+
+Buffett	AVP	0.388486
+
+Harman	HAR	0.381375
+
+Restaurants	MCD	0.369182
+
+Best	GME	0.360287
+
+Stock	BBY	0.353905
+
+'s	PNC	0.338465
+
+Banks	MTB	0.331796
+
+Stocks	GIS	-0.944453
+
+Deals	PNC	-0.794536
+
+Force	NOC	-0.723265
+
+China	AIG	-0.711101
+
+Stocks	NDAQ	-0.651692
+
+Discovery	DISCA	-0.628652
+
+$	HES	-0.599483
+
+Qualcomm	BRCM	-0.599387
+
+Kellogg	K	-0.569947
+
+Monster	MWW	-0.568524
+
+Up	LOW	-0.551937
+
+Salesforce	CRM	-0.545334
+
+Invesco	IVZ	-0.534107
+
+Stock	TXN	-0.534005
+
+'s	NDAQ	-0.532297
+
+Tech	NVDA	-0.531743
+
+Stocks	M	-0.510632
+
+Refinery	TSO	-0.488319
+
+US	ICE	-0.483345
+
+Nanya	MU	-0.472969
+

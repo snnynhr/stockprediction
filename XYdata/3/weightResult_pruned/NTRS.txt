@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.546834
+
+gas	CHK	1.687660
+
+Drug	BIIB	1.240470
+
+Disney	DIS	1.021370
+
+'s	TXN	0.818598
+
+Energy	VLO	0.655045
+
+Ford	F	0.641132
+
+'s	TSN	0.596195
+
+stocks	TXN	0.569278
+
+Coke	KO	0.522201
+
+Soup	CPB	0.520373
+
+Stocks	EA	0.502053
+
+'s	CRM	0.476288
+
+Moody	MCO	0.434071
+
+Pfizer	PFE	0.430158
+
+Philip	MO	0.421154
+
+Morris	MO	0.421154
+
+Insurers	MBI	0.419416
+
+Media	TWX	0.395445
+
+Trading	CME	0.392228
+
+Elan	BIIB	-0.735135
+
+'s	GCI	-0.652997
+
+Energy	APC	-0.645607
+
+Drugs	ABT	-0.582951
+
+SunTrust	STI	-0.567835
+
+Heparin	BAX	-0.557275
+
+Range	RRC	-0.503415
+
+Seagate	STX	-0.494192
+
+CME	CME	-0.458773
+
+New	LUV	-0.448353
+
+Nasdaq	TXN	-0.442706
+
+ConocoPhillips	COP	-0.437253
+
+J	ABT	-0.430308
+
+Noble	NBL	-0.426197
+
+Intuit	INTU	-0.426101
+
+Power	PCG	-0.412193
+
+Fed	BK	-0.404233
+
+Sales	TGT	-0.400156
+
+Honeywell	HON	-0.398496
+
+Rambus	MU	-0.390460
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.415091
+
+Oil	HES	1.018590
+
+Kinder	KMI	1.011840
+
+Housing	LOW	0.921068
+
+'s	BSX	0.891553
+
+Gains	CAT	0.669480
+
+'s	BRCM	0.554207
+
+Retail	JWN	0.546246
+
+US	AKAM	0.544955
+
+US	LEN	0.535973
+
+Health	UNH	0.530084
+
+Jude	STJ	0.503679
+
+Dow	TRV	0.490394
+
+Stocks	AIG	0.489792
+
+Nasdaq	ICE	0.436871
+
+Chip	SNDK	0.423002
+
+Nasdaq	TXN	0.388684
+
+CF	CF	0.388490
+
+Morgan	BAC	0.381283
+
+$	STT	0.367507
+
+Energy	XEL	-0.941716
+
+Tobacco	LO	-0.826308
+
+HOT	CSC	-0.722295
+
+J	AMGN	-0.709233
+
+Coal	CNX	-0.647387
+
+Bank	COF	-0.607339
+
+BofA	BAC	-0.595893
+
+$	MRO	-0.587875
+
+Corning	GLW	-0.567864
+
+BorgWarner	BWA	-0.567365
+
+'s	SLB	-0.499495
+
+Media	NYT	-0.491163
+
+ConAgra	CAG	-0.484370
+
+Lennar	LEN	-0.471580
+
+U.S.	LMT	-0.456965
+
+Banks	COF	-0.442662
+
+'s	TAP	-0.430478
+
+Union	WU	-0.427449
+
+Express	ESRX	-0.424566
+
+Stocks	KBH	-0.423240
+

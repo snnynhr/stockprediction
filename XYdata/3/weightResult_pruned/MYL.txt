@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.0132427
+
+US	MRK	0.874407
+
+HOT	LLY	0.752326
+
+'s	ABT	0.726601
+
+Janus	JNS	0.700186
+
+Alibaba	YHOO	0.613810
+
+stocks	VLO	0.583170
+
+St.	STJ	0.572379
+
+stocks	HAL	0.562048
+
+stocks	MTG	0.550092
+
+Chip	AMD	0.524325
+
+AOL	TWX	0.500581
+
+Pulte	PHM	0.495147
+
+Retailers	M	0.485741
+
+'s	X	0.463967
+
+Wynn	WYNN	0.463314
+
+Calif	PCG	0.456123
+
+Stocks	THC	0.454591
+
+U.S.	DE	0.403025
+
+Mattel	MAT	0.400863
+
+'s	KBH	-0.941186
+
+'s	HPQ	-0.803216
+
+Stocks	M	-0.802856
+
+'s	CHK	-0.779172
+
+Northeast	NU	-0.631222
+
+$	DOW	-0.625403
+
+Retailers	KSS	-0.620546
+
+stocks	BRCM	-0.595884
+
+Prices	CVX	-0.533438
+
+Gold	NEM	-0.522317
+
+Hershey	HSY	-0.465240
+
+CME	CME	-0.460509
+
+Stocks	X	-0.454334
+
+International	IP	-0.453014
+
+Up	CAT	-0.438327
+
+'s	WEN	-0.431814
+
+Friday	BBY	-0.420693
+
+Sales	ANF	-0.414800
+
+Altria	MO	-0.410701
+
+Monster	MWW	-0.410031
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.0914303
+
+Alibaba	YHOO	0.950028
+
+BP	XOM	0.916163
+
+Morgan	WFC	0.901417
+
+Hormel	HRL	0.758937
+
+Burger	MCD	0.680019
+
+stocks	VLO	0.664951
+
+Regional	STI	0.634857
+
+Genworth	GNW	0.591122
+
+U.S.	FCX	0.538361
+
+US	AA	0.508091
+
+EMC	EMC	0.434039
+
+Apple	YHOO	0.410084
+
+Stocks	DHI	0.408282
+
+AIA	AIG	0.394769
+
+Zions	ZION	0.376054
+
+Techs	SNDK	0.371581
+
+ING	COF	0.371075
+
+Biogen	BIIB	0.363810
+
+'s	JCP	0.359230
+
+Energy	NBL	-0.786239
+
+'s	FDX	-0.785650
+
+stocks	AFL	-0.755758
+
+Trades	NDAQ	-0.656196
+
+Monster	MWW	-0.655874
+
+focus	BBBY	-0.583378
+
+Office	SPLS	-0.540957
+
+Gas	APA	-0.523934
+
+Sector	TXN	-0.503641
+
+'s	TRV	-0.485708
+
+InBev	BUD	-0.466329
+
+Financial	BK	-0.460701
+
+Sales	TXN	-0.441755
+
+Baker	BHI	-0.418683
+
+Tysabri	BIIB	-0.414115
+
+tech	BRCM	-0.412496
+
+U.S.	AA	-0.391749
+
+Friday	BBY	-0.368118
+
+Oil	VLO	-0.361238
+
+US	MAT	-0.359941
+

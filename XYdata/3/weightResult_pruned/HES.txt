@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.770775
+
+Technologies	FTI	1.591500
+
+Rise	HD	1.183020
+
+Zynga	EA	1.104730
+
+Stocks	PHM	0.645901
+
+'s	V	0.596811
+
+U.S.	GE	0.587390
+
+$	UTX	0.580015
+
+Dreamliner	BA	0.544294
+
+Nymex	CME	0.504211
+
+Retailers	HD	0.500131
+
+HOT	CPWR	0.494338
+
+JC	JCP	0.475135
+
+stocks	LEN	0.469710
+
+'s	LEN	0.430825
+
+Pulte	PHM	0.418263
+
+Tech	BRCM	0.409220
+
+Fisher	TMO	0.400288
+
+Hasbro	HAS	0.400222
+
+Motorola	MOT	0.393509
+
+AMD	BRCM	-0.863160
+
+'s	CAT	-0.737344
+
+Retail	KSS	-0.722625
+
+Stocks	ADBE	-0.648857
+
+Friday	M	-0.609513
+
+Pepsi	PEP	-0.537825
+
+FDA	PFE	-0.520947
+
+Altria	MO	-0.518509
+
+Insurers	PRU	-0.514134
+
+Payne	HP	-0.514029
+
+U.S.	GPS	-0.494642
+
+Barclays	BLK	-0.483653
+
+Plan	NDAQ	-0.478477
+
+'s	LM	-0.455705
+
+ConAgra	CAG	-0.445460
+
+HOT	NTAP	-0.439789
+
+Kohl	KSS	-0.434101
+
+'s	QCOM	-0.408741
+
+Nortel	CIEN	-0.400124
+
+DuPont	DD	-0.392603
+

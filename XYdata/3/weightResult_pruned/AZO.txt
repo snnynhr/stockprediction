@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.190091
+
+Stocks	CNX	1.159900
+
+Retail	TGT	1.068120
+
+AIA	AIG	1.041310
+
+'s	BBT	0.822452
+
+Brands	YUM	0.819459
+
+stocks	VLO	0.755420
+
+Chip	TXN	0.643391
+
+Banks	BBT	0.636718
+
+stocks	NVDA	0.612303
+
+Rig	RIG	0.528021
+
+Avon	AVP	0.523127
+
+Diamond	PG	0.493213
+
+SunTrust	STI	0.492929
+
+Credit-Card	COF	0.466877
+
+Student	SLM	0.465474
+
+US	JWN	0.452149
+
+Drug	BMY	0.431972
+
+Hormel	HRL	0.420139
+
+U.S.	NOC	0.408599
+
+Data	NTAP	-0.705038
+
+Hospira	HSP	-0.686397
+
+Rambus	MU	-0.608433
+
+U.S.	ADBE	-0.553836
+
+Monsanto	MON	-0.553534
+
+Tech	TXN	-0.550471
+
+Monster	MWW	-0.550349
+
+Apple	EBAY	-0.513490
+
+Heparin	BAX	-0.490180
+
+US	DOW	-0.470402
+
+Exchange	NDAQ	-0.446197
+
+J.C.	JCP	-0.445083
+
+'s	AMGN	-0.418737
+
+'s	CVC	-0.418308
+
+US	KBH	-0.412906
+
+Honeywell	HON	-0.365120
+
+Stryker	SYK	-0.362753
+
+Duke	DUK	-0.346024
+
+US	CVX	-0.338184
+
+'s	PG	-0.309891
+

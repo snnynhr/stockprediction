@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-1.01179
+
+rise	CVX	1.129990
+
+Entergy	ETR	0.848917
+
+UPS	UPS	0.721864
+
+Energy	SWN	0.641149
+
+Akamai	AKAM	0.552497
+
+Retailers	KSS	0.519849
+
+'s	USB	0.505804
+
+Refinery	LYB	0.503852
+
+Dell	EMC	0.489768
+
+Oil	RIG	0.462602
+
+Cnooc	CHK	0.416362
+
+Burger	MCD	0.396879
+
+Apple	NFLX	0.393056
+
+FirstEnergy	FE	0.388839
+
+Penney	M	0.382405
+
+Best	BBY	0.349431
+
+Alibaba	YHOO	0.330020
+
+Up	TGT	0.309323
+
+Johnson	JNJ	0.303867
+
+Generic	PFE	-1.088970
+
+Buy	BRK.B	-0.891358
+
+'s	PRU	-0.728064
+
+FDA	PFE	-0.714855
+
+Autodesk	ADSK	-0.706666
+
+HOT	DUK	-0.589063
+
+TV	TWX	-0.549487
+
+Celgene	CELG	-0.504162
+
+US	NKE	-0.491653
+
+HOT	AET	-0.485666
+
+Conference	BBY	-0.456644
+
+Discovery	DISCA	-0.441327
+
+Visa	V	-0.437399
+
+NBC	CMCSA	-0.423547
+
+Earnings	AA	-0.422959
+
+Energy	XOM	-0.402361
+
+Energy	CHK	-0.402185
+
+Hasbro	HAS	-0.396856
+
+Medtronic	MDT	-0.390584
+
+'s	TGT	-0.389182
+

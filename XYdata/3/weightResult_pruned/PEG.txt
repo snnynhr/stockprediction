@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	1.17415
+
+Sales	JWN	0.948542
+
+Software	SYMC	0.627498
+
+Genworth	GNW	0.609001
+
+Gas	CHK	0.478934
+
+Retail	TGT	0.435301
+
+Day	BRK.B	0.434449
+
+STOCKS	MRK	0.366771
+
+Bank	WFC	0.362068
+
+Goodyear	GT	0.336372
+
+Mellon	BK	0.336356
+
+Nymex	CME	0.335881
+
+Restaurants	DRI	0.329900
+
+Terex	TEX	0.328175
+
+Apache	APA	0.318826
+
+Energy	MRO	0.299327
+
+York	NYT	0.290742
+
+Salesforce.com	CRM	0.289491
+
+Energy	HAL	0.279861
+
+Oil	HAL	0.275115
+
+Oil	CHK	-1.236540
+
+Stocks	MRK	-0.891508
+
+'s	TSN	-0.789475
+
+Gulf	APC	-0.775900
+
+$	APC	-0.772491
+
+China	CHK	-0.739389
+
+Heparin	BAX	-0.688933
+
+Biotech	BIIB	-0.688059
+
+MetLife	MET	-0.672813
+
+Gulf	XOM	-0.671092
+
+Scripts	ESRX	-0.642090
+
+CEO	NDAQ	-0.635424
+
+Chevron	CVX	-0.585852
+
+U.S.	GNW	-0.559684
+
+Sales	JNJ	-0.539224
+
+Depot	ODP	-0.523518
+
+RadioShack	BBY	-0.517176
+
+stocks	FSLR	-0.490755
+
+Tysabri	BIIB	-0.487747
+
+U.S.	MCD	-0.480364
+

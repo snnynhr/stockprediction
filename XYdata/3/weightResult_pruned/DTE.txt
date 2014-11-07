@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-1.66731
+
+Trading	AMD	0.800069
+
+Exchange	ICE	0.707023
+
+$	CVC	0.586855
+
+Waste	WM	0.581239
+
+US	BRCM	0.558154
+
+Apple	VZ	0.507027
+
+US	PG	0.506291
+
+$	DE	0.505734
+
+HOT	MRK	0.503747
+
+Hershey	HSY	0.498496
+
+Air	APD	0.454898
+
+Alibaba	YHOO	0.444152
+
+York	NYT	0.427076
+
+T-Mobile	T	0.398409
+
+U.S.	NKE	0.387268
+
+Financial	BBT	0.375376
+
+Cummins	CMI	0.351034
+
+Depot	LOW	0.350547
+
+'s	TXN	0.344587
+
+retailers	COST	-1.182200
+
+Heparin	BAX	-0.925046
+
+Stocks	V	-0.912664
+
+Monday	SYY	-0.795665
+
+US	DE	-0.760978
+
+'s	JNJ	-0.689938
+
+Gains	CHK	-0.672622
+
+'s	GCI	-0.663850
+
+Groupon	EBAY	-0.595454
+
+Chevron	XOM	-0.593487
+
+'s	CF	-0.590740
+
+Intel	TXN	-0.585132
+
+Icahn	DYN	-0.568173
+
+Energy	XOM	-0.537069
+
+'s	BRCM	-0.514830
+
+Trust	NTRS	-0.504564
+
+drop	HD	-0.492755
+
+FDA	BMY	-0.473736
+
+Stocks	MRK	-0.472982
+
+Textron	TXT	-0.448546
+

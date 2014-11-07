@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.256347
+
+Edison	EIX	1.070880
+
+Restaurants	DRI	0.958952
+
+gains	TXN	0.910620
+
+Airgas	ARG	0.680631
+
+Fincl	DFS	0.657124
+
+Oil	HES	0.637130
+
+stocks	NVDA	0.626769
+
+Rating	MCO	0.492632
+
+Walgreen	WAG	0.467884
+
+Fed	WFC	0.458103
+
+3Q	HD	0.448190
+
+Ford	F	0.413229
+
+Dow	CAT	0.409136
+
+HOT	MAR	0.405572
+
+FDA	AMGN	0.405530
+
+Morgan	RF	0.395228
+
+HOT	KBH	0.384191
+
+Orders	BA	0.378234
+
+US	QCOM	0.374989
+
+Stocks	M	-0.934911
+
+Vegas	WYNN	-0.811370
+
+'s	ADM	-0.785613
+
+Seagate	WDC	-0.691212
+
+'s	FDX	-0.685116
+
+Wal-Mart	HD	-0.684694
+
+Stocks	MTB	-0.682772
+
+'s	ANF	-0.657076
+
+Gas	XOM	-0.656337
+
+Stocks	ORCL	-0.636958
+
+Intuit	INTU	-0.636662
+
+'s	CHK	-0.620568
+
+U.S.	AA	-0.598696
+
+Stocks	CCL	-0.591604
+
+Cisco	JNPR	-0.568670
+
+HOT	HUM	-0.529235
+
+US	DUK	-0.527803
+
+Norfolk	NSC	-0.500689
+
+stocks	CHK	-0.491350
+
+Harley-Davidson	HOG	-0.485159
+

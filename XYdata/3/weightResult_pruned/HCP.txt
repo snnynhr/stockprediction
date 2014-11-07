@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.280565
+
+US	JWN	1.033470
+
+Plavix	BMY	0.753063
+
+T-Mobile	T	0.672749
+
+Philip	PM	0.671522
+
+Retailers	HD	0.657598
+
+Campbell	CPB	0.651574
+
+'s	BK	0.637842
+
+$	EXC	0.634830
+
+Stocks	AIG	0.622760
+
+Stock	SBUX	0.561114
+
+Stryker	SYK	0.504600
+
+Early	M	0.494220
+
+CSX	CSX	0.469807
+
+'s	UTX	0.458587
+
+Stock	AA	0.444859
+
+ING	COF	0.443040
+
+Chip	NVDA	0.436234
+
+Penney	M	0.420184
+
+US	BUD	0.414206
+
+News	NDAQ	-0.981071
+
+Stocks	ADBE	-0.672098
+
+stocks	CHK	-0.604186
+
+Noble	NBL	-0.583025
+
+Chip	MU	-0.520323
+
+sector	M	-0.499925
+
+US	CPB	-0.497988
+
+Stocks	SNDK	-0.491154
+
+'s	WEN	-0.490985
+
+U.S.	COST	-0.490634
+
+Deal	CME	-0.474051
+
+FDA	MRK	-0.472892
+
+Life	HIG	-0.449618
+
+tech	ORCL	-0.442059
+
+Hospira	HSP	-0.417423
+
+Micron	MU	-0.355310
+
+TV	VIAB	-0.353619
+
+Chip	BRCM	-0.353388
+
+Stocks	M	-0.348014
+
+Tyco	TYC	-0.329835
+

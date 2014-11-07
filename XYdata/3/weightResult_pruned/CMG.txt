@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.615495
+
+stocks	HBAN	0.928077
+
+U.S.	AIG	0.642560
+
+Retailers	KSS	0.616781
+
+Microsoft	EA	0.584621
+
+'s	MDLZ	0.500886
+
+'s	ABT	0.482458
+
+Bank	WFC	0.409894
+
+ICE	CME	0.386434
+
+Stocks	CAT	0.367347
+
+BlackRock	BLK	0.359713
+
+stocks	RIG	0.315000
+
+Sales	BBY	0.313352
+
+Card	COF	0.294578
+
+Stocks	JNJ	0.288850
+
+Allergan	AGN	0.286597
+
+STOCKS	EMC	0.285914
+
+China	KO	0.281607
+
+Health	HUM	0.279771
+
+US	JWN	0.278154
+
+SABMiller	BUD	-0.838743
+
+New	F	-0.787479
+
+Stocks	GPS	-0.752634
+
+Western	WDC	-0.746450
+
+Stocks	USB	-0.727159
+
+'s	AMZN	-0.673926
+
+U.S.	WMT	-0.564010
+
+'s	GE	-0.560541
+
+Profit	TGT	-0.541314
+
+Energy	DUK	-0.495021
+
+Honeywell	HON	-0.489867
+
+Southwest	LUV	-0.470870
+
+Agrium	CF	-0.439812
+
+RadioShack	RSH	-0.423943
+
+Comcast	CMCSA	-0.399290
+
+'s	TGT	-0.388164
+
+Supervalu	SWY	-0.377535
+
+U.S.	JCP	-0.376658
+
+Avon	AVP	-0.371971
+
+Stocks	DE	-0.362297
+

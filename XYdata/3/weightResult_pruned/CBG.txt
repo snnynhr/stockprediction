@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.256615
+
+Target	TJX	1.000530
+
+Fed	COF	0.830578
+
+Stocks	BA	0.785641
+
+after	AXP	0.703229
+
+Energy	CVX	0.678040
+
+Morris	PM	0.626568
+
+Times	NYT	0.572556
+
+Biogen	BIIB	0.554592
+
+'s	JWN	0.535462
+
+stocks	TXN	0.489671
+
+U.S.	CHK	0.481220
+
+CEO	QCOM	0.421718
+
+Estee	EL	0.412418
+
+Stock	BRK.B	0.407065
+
+Allergan	AGN	0.388995
+
+Sales	BBY	0.381736
+
+Oil	HES	0.381408
+
+Trading	AMD	0.369513
+
+gas	CHK	0.368539
+
+Wal-Mart	TGT	-1.059200
+
+Energy	CNX	-0.926902
+
+Shares	AMD	-0.826667
+
+'s	KBH	-0.715113
+
+STOCKS	KSS	-0.705687
+
+Life	PRU	-0.697394
+
+Builders	LEN	-0.671493
+
+US	TSO	-0.639657
+
+Paso	KMI	-0.630123
+
+Stocks	LLY	-0.589415
+
+US	AMP	-0.566491
+
+Housing	KBH	-0.559115
+
+Heparin	BAX	-0.535120
+
+'s	DHI	-0.533069
+
+Stock	CPB	-0.499959
+
+Valero	TSO	-0.494544
+
+Dynamics	GD	-0.479682
+
+Computer	CSC	-0.475380
+
+US	HOG	-0.458339
+
+Chip	MU	-0.440377
+

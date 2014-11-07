@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.503342
+
+Futures	CME	1.143890
+
+Stocks	PCLN	1.117530
+
+Pulte	PHM	1.067690
+
+Sales	F	0.769032
+
+Heineken	BUD	0.718486
+
+Target	HD	0.652568
+
+Chips	AMD	0.631790
+
+Marathon	MPC	0.578050
+
+Retailers	ANF	0.496511
+
+Discover	V	0.469808
+
+FedEx	UPS	0.460939
+
+US	STT	0.428160
+
+stocks	FSLR	0.410515
+
+energy	CVX	0.403218
+
+CIT	CIT	0.391638
+
+Outfitters	URBN	0.375183
+
+Tech	ORCL	0.362079
+
+Retail	TGT	0.354010
+
+Salesforce.com	CRM	0.352647
+
+IPO	WFC	-1.008490
+
+New	MS	-0.967982
+
+Resorts	WYNN	-0.926079
+
+Ralcorp	CAG	-0.874074
+
+Chip	NVDA	-0.714349
+
+Northrop	NOC	-0.660127
+
+Stock	COST	-0.496551
+
+HOT	AMAT	-0.473889
+
+Apple	INTC	-0.472298
+
+Deal	ABT	-0.464102
+
+Aetna	WLP	-0.445900
+
+Scripts	ESRX	-0.435436
+
+WellPoint	WLP	-0.434115
+
+Energy	MPC	-0.402903
+
+Qualcomm	BRCM	-0.399030
+
+Prudential	AIG	-0.378783
+
+Medtronic	MDT	-0.377511
+
+Banks	RF	-0.368886
+
+Stryker	SYK	-0.352437
+
+U.S.	USB	-0.327333
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.12399
+
+'s	ADBE	1.106980
+
+Big	BIG	0.753532
+
+Retail	JCP	0.696651
+
+Sales	F	0.681994
+
+$	EXC	0.657461
+
+Apple	JCP	0.603075
+
+Buy	MO	0.592055
+
+Bank	WFC	0.575724
+
+Electrolux	WHR	0.574123
+
+'s	YUM	0.563395
+
+US	ZION	0.562970
+
+Boston	BSX	0.559421
+
+Profit	ANF	0.550323
+
+$	AET	0.530344
+
+Capital	ACAS	0.495259
+
+US	MDLZ	0.483252
+
+Gains	AA	0.432128
+
+Ford	F	0.422495
+
+Software	SYMC	0.416344
+
+'s	TGT	-1.138630
+
+Sales	GME	-0.987573
+
+Thursday	MU	-0.914338
+
+'s	CAT	-0.766254
+
+General	GD	-0.732509
+
+'s	BAX	-0.716067
+
+Verizon	VZ	-0.685796
+
+Gannett	GCI	-0.667278
+
+TECH	QCOM	-0.642659
+
+$	HES	-0.639923
+
+Imax	DIS	-0.594335
+
+Friday	BBY	-0.578889
+
+'s	CME	-0.547809
+
+Trust	NTRS	-0.521487
+
+US	V	-0.507447
+
+STOCKS	STX	-0.483238
+
+Bank	MTB	-0.466807
+
+Stock	PCG	-0.457418
+
+Yahoo	ADSK	-0.441938
+
+'s	MA	-0.413647
+

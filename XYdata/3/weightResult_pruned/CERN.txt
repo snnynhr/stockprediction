@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.633889
+
+Ford	F	0.983084
+
+US	VLO	0.735748
+
+Stocks	THC	0.687789
+
+Apple	NFLX	0.575834
+
+'s	AXP	0.562246
+
+Goodyear	GT	0.518215
+
+Pepsi	PEP	0.509027
+
+Game	EA	0.508702
+
+Google	IACI	0.506202
+
+stocks	CSCO	0.498614
+
+Retailers	KSS	0.473318
+
+Stock	BRK.B	0.447107
+
+Dow	AXP	0.440374
+
+AIG	MET	0.410002
+
+US	AA	0.405539
+
+Plans	VZ	0.387414
+
+Energy	BHI	0.387052
+
+US	USB	0.348825
+
+Chip	TXN	0.345562
+
+Stocks	RF	-0.717216
+
+Insurers	PRU	-0.658859
+
+Cisco	JNPR	-0.599201
+
+American	AEP	-0.590466
+
+Profit	SCHW	-0.533530
+
+Founder	BBY	-0.469530
+
+HOT	CME	-0.459705
+
+US	AMP	-0.443039
+
+'s	EBAY	-0.431145
+
+Profit	LOW	-0.430046
+
+MBIA	MBI	-0.428709
+
+stocks	SWN	-0.427787
+
+Pepper	DPS	-0.415186
+
+'s	GM	-0.408217
+
+Steel	AKS	-0.396484
+
+Office	ODP	-0.391966
+
+TV	CBS	-0.354063
+
+Energy	APC	-0.346724
+
+US	F	-0.345863
+
+Shuts	VLO	-0.316486
+

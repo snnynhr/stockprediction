@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.519093
+
+Sprint	CMCSA	1.449680
+
+U.S.	PG	0.688968
+
+UPS	FDX	0.670395
+
+Capital	USB	0.659805
+
+Dynamics	GD	0.654531
+
+Take-Two	EA	0.580968
+
+Recalls	JNJ	0.539206
+
+PepsiCo	PEP	0.497234
+
+Volume	CME	0.489981
+
+Refinery	CVX	0.481340
+
+Mellon	BK	0.471855
+
+US	BRCM	0.351282
+
+Coca-Cola	KO	0.325722
+
+Retailers	ANF	0.321056
+
+Sales	TJX	0.319295
+
+Up	KO	0.312513
+
+PPL	PPL	0.309341
+
+Constellation	STZ	0.297240
+
+AOL	TWX	0.282170
+
+US	MCO	-0.882002
+
+US	CLF	-0.805301
+
+Stocks	MDLZ	-0.744757
+
+Stocks	STX	-0.683401
+
+Sector	TXN	-0.621735
+
+Temple-Inland	IP	-0.605220
+
+BofA	USB	-0.604528
+
+Morgan	COF	-0.581428
+
+US	PKI	-0.578804
+
+US	LUV	-0.559786
+
+Energy	APC	-0.536138
+
+Whirlpool	WHR	-0.505281
+
+TECH	HPQ	-0.497283
+
+Retailers	TGT	-0.466951
+
+Stocks	KEY	-0.466753
+
+Tech	ADBE	-0.461705
+
+Third	FITB	-0.457029
+
+Norfolk	NSC	-0.412566
+
+Banks	HBAN	-0.388022
+
+Sales	CAT	-0.382802
+

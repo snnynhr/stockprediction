@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.413592
+
+$	AXP	1.057200
+
+'s	IBM	1.000590
+
+Refinery	CVX	0.929189
+
+Energy	VLO	0.843538
+
+Alibaba	YHOO	0.739032
+
+Tree	DLTR	0.603036
+
+Home	PHM	0.596210
+
+Banks	BBT	0.572472
+
+'s	FDX	0.557778
+
+HOT	CF	0.524143
+
+Biogen	BIIB	0.514785
+
+Health	WLP	0.512886
+
+Starbucks	SBUX	0.486676
+
+Intel	QCOM	0.465293
+
+Rosneft	XOM	0.458693
+
+Case	AMD	0.441337
+
+Verizon	T	0.428721
+
+Oil	MRO	0.395196
+
+Stocks	MCD	0.391640
+
+Rowe	TROW	-0.709296
+
+Intuit	INTU	-0.685983
+
+Tobacco	MO	-0.660376
+
+'s	JNJ	-0.654169
+
+sales	SHLD	-0.610748
+
+Stocks	AKS	-0.599601
+
+Retail	KSS	-0.591996
+
+Cummins	CMI	-0.554119
+
+stocks	LOW	-0.553716
+
+Stocks	LLY	-0.541851
+
+New	BK	-0.537018
+
+Shares	NVDA	-0.526080
+
+lower	AXP	-0.513352
+
+stocks	CHK	-0.487347
+
+Earnings	AA	-0.486734
+
+Qualcomm	QCOM	-0.479732
+
+Simon	SPG	-0.458071
+
+Report	MDLZ	-0.398235
+
+CF	CF	-0.364773
+
+SAP	ORCL	-0.363456
+

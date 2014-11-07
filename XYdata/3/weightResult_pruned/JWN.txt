@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.620438
+
+FDA	MDT	0.788700
+
+higher	TRV	0.729221
+
+JDSU	JDSU	0.706876
+
+Recalls	JNJ	0.626222
+
+US	AA	0.567807
+
+One	COF	0.539660
+
+NYSE	NDAQ	0.517451
+
+York	NYT	0.484181
+
+Nordstrom	JWN	0.473521
+
+Oil	XOM	0.465457
+
+'s	BLK	0.444893
+
+Coke	KO	0.433940
+
+rise	AA	0.432602
+
+Bristol-Myers	BMY	0.410748
+
+FDA	AMGN	0.389733
+
+Energy	HES	0.385602
+
+Stocks	NVDA	0.381080
+
+Technologies	UTX	0.358387
+
+Viacom	VIAB	0.347045
+
+Oil	CHK	-0.941134
+
+Hughes	BHI	-0.917886
+
+$	HES	-0.890246
+
+Stocks	RF	-0.781004
+
+Networks	JNPR	-0.775066
+
+Cognizant	CTSH	-0.762049
+
+Humana	HUM	-0.760113
+
+U.S.	BRK.B	-0.674036
+
+Heparin	BAX	-0.627850
+
+'s	KEY	-0.623035
+
+Lorillard	LO	-0.581155
+
+Caterpillar	CAT	-0.570034
+
+Intuit	INTU	-0.501674
+
+May	M	-0.490585
+
+Up	F	-0.477728
+
+CEO	NDAQ	-0.477151
+
+Oilwell	NOV	-0.467338
+
+Stocks	MMM	-0.460732
+
+BP	APC	-0.454519
+
+Stocks	PRU	-0.450826
+

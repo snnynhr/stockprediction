@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.899514
+
+US	UNP	0.791132
+
+'s	BIIB	0.715120
+
+Morning	WMT	0.702447
+
+Electronic	EA	0.636200
+
+Transocean	RIG	0.628654
+
+Janus	JNS	0.615324
+
+Retailers	ANF	0.570830
+
+US	M	0.565384
+
+'s	ANF	0.531629
+
+stocks	NVDA	0.488440
+
+Refinery	LYB	0.456056
+
+Constellation	STZ	0.454884
+
+Stocks	KO	0.454516
+
+Cardinal	CAH	0.447141
+
+U.S.	ORCL	0.441217
+
+'s	COF	0.420340
+
+Nabors	NBR	0.397455
+
+'s	LUV	0.379251
+
+stocks	HAL	0.366152
+
+Tech	JNPR	-0.904794
+
+Heparin	BAX	-0.856360
+
+U.S.	INTC	-0.630985
+
+'s	SLB	-0.556682
+
+Dean	DF	-0.553729
+
+Red	RHT	-0.545124
+
+Court	MO	-0.503374
+
+CEO	YHOO	-0.483357
+
+Microchip	MCHP	-0.480171
+
+June	M	-0.415257
+
+Techs	SNDK	-0.414260
+
+J	ABT	-0.409343
+
+Chip	QCOM	-0.398045
+
+sales	HD	-0.394963
+
+'s	HPQ	-0.373646
+
+AirTran	LUV	-0.370852
+
+'s	ORCL	-0.352541
+
+'s	YHOO	-0.329529
+
+Martha	JCP	-0.324897
+
+U.S.	LOW	-0.323950
+

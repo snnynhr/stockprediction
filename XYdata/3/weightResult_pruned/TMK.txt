@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.188334
+
+Soup	CPB	1.105860
+
+Stanley	MS	0.932143
+
+Stocks	AZO	0.802264
+
+Times	NYT	0.661727
+
+U.S.	STI	0.597505
+
+EA	EA	0.596496
+
+'s	BLK	0.536066
+
+Bank	USB	0.527434
+
+stocks	COF	0.514664
+
+Oil	XOM	0.508127
+
+Apple	NFLX	0.485373
+
+Stocks	UNH	0.478418
+
+Safeway	SWY	0.455901
+
+Penney	M	0.451304
+
+U.S.	CHK	0.399609
+
+Duke	DUK	0.393510
+
+Thermo	TMO	0.388172
+
+Big	BIG	0.371756
+
+'s	DVN	0.370314
+
+'s	KBH	-1.081580
+
+$	MRO	-0.922954
+
+Unit	VLO	-0.774965
+
+US	CPB	-0.719887
+
+Chip	BRCM	-0.705159
+
+TARP	HIG	-0.673640
+
+Nvidia	NVDA	-0.623816
+
+Lennar	LEN	-0.622387
+
+sales	M	-0.620561
+
+Drug	BMY	-0.573448
+
+Ralcorp	CAG	-0.564834
+
+Life	PRU	-0.527230
+
+Insurers	PRU	-0.519001
+
+Red	RHT	-0.484511
+
+Retail	COST	-0.477738
+
+Oil	VLO	-0.464183
+
+Stocks	EMC	-0.464144
+
+STOCKS	HUM	-0.459985
+
+Manitowoc	MTW	-0.448182
+
+Derivatives	CME	-0.446159
+

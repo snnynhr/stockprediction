@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.33771
+
+McKesson	MCK	0.792431
+
+Stocks	STZ	0.654681
+
+Volume	CME	0.633477
+
+GM	F	0.581854
+
+Microsoft	HPQ	0.524226
+
+Retail	TGT	0.522986
+
+Retailers	BBY	0.505406
+
+HOT	LLY	0.472446
+
+Airlines	LUV	0.455057
+
+Alibaba	YHOO	0.431334
+
+'s	BA	0.423354
+
+'s	JCP	0.382140
+
+Simon	SPG	0.371481
+
+Stocks	TXN	0.330942
+
+'s	WFC	0.325956
+
+US	BBY	0.325855
+
+Oil	XOM	0.313015
+
+Smucker	SJM	0.310203
+
+stocks	M	0.306286
+
+AIG	AIG	-0.744154
+
+Residential	EQR	-0.727446
+
+U.S.	MDLZ	-0.638408
+
+HOT	CVX	-0.606893
+
+Gold	NEM	-0.585634
+
+FDA	BMY	-0.583383
+
+Newell	NWL	-0.486999
+
+$	COP	-0.460399
+
+Exchange	NDAQ	-0.444963
+
+Sales	F	-0.412559
+
+$	MCD	-0.405498
+
+Air	LUV	-0.395071
+
+Bank	BK	-0.391406
+
+Stocks	M	-0.387661
+
+Aetna	AET	-0.378003
+
+Stocks	IR	-0.377940
+
+Huntington	HBAN	-0.364981
+
+Cablevision	CVC	-0.364744
+
+'s	ORCL	-0.362902
+
+sales	M	-0.358326
+

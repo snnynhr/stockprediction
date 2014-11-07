@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.555874
+
+'s	MDLZ	1.261550
+
+Stocks	STI	0.949537
+
+Stocks	DD	0.742600
+
+Nordstrom	JWN	0.733367
+
+Banks	ZION	0.567626
+
+sales	JWN	0.551136
+
+stocks	WAG	0.542956
+
+'s	BLK	0.521146
+
+Williams	WMB	0.511475
+
+US	ALTR	0.494327
+
+Stocks	WLP	0.485649
+
+Power	AEP	0.474978
+
+Boeing	NOC	0.473940
+
+'s	NDAQ	0.466705
+
+Hormel	HRL	0.452663
+
+US	CVS	0.438375
+
+Stock	BLK	0.435172
+
+Call	LOW	0.418074
+
+Trading	NDAQ	0.406574
+
+Tech	EMC	-0.820670
+
+'s	TRV	-0.690944
+
+stocks	ICE	-0.621548
+
+Lincoln	LNC	-0.590177
+
+Invesco	IVZ	-0.564664
+
+Hospira	HSP	-0.540611
+
+Heparin	BAX	-0.517413
+
+US	LO	-0.483451
+
+Oil	CVX	-0.460654
+
+J	ABT	-0.459798
+
+Gamble	PG	-0.449267
+
+'s	WAG	-0.442321
+
+CME	CME	-0.424935
+
+Sale	AIG	-0.412057
+
+Drug	MRK	-0.410827
+
+FDA	BAX	-0.407908
+
+Manitowoc	MTW	-0.407076
+
+Martin	LMT	-0.406654
+
+U.S.	DIS	-0.405939
+
+Pfizer	BMY	-0.397388
+

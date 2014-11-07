@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.377112
+
+Health	WLP	1.178880
+
+stocks	TXN	0.948374
+
+stocks	BHI	0.873598
+
+Seagate	WDC	0.822538
+
+Stocks	IBM	0.718432
+
+Stocks	AXP	0.700906
+
+Anadarko	APC	0.675654
+
+TNT	UPS	0.582214
+
+ADP	ADP	0.564784
+
+stocks	DNR	0.564580
+
+'s	COF	0.543976
+
+US	CVC	0.529882
+
+SEC	MCO	0.508851
+
+stocks	CVX	0.474373
+
+Botox	AGN	0.464701
+
+stocks	HAL	0.460341
+
+Stocks	MCD	0.456845
+
+TECH	AMAT	0.453936
+
+Chip	TXN	0.449105
+
+Glass	GLW	-1.102850
+
+Noble	NBL	-0.762436
+
+'s	WEN	-0.734312
+
+HOT	JDSU	-0.726695
+
+'s	LLY	-0.664100
+
+US	AMD	-0.617597
+
+CEO	EBAY	-0.556826
+
+Fifth	FITB	-0.550545
+
+Paso	KMI	-0.534608
+
+Fargo	WFC	-0.512519
+
+Warren	BRK.B	-0.505143
+
+Banks	STI	-0.478325
+
+Wal-Mart	KSS	-0.460519
+
+'s	AMZN	-0.445105
+
+Netflix	DIS	-0.426048
+
+HOT	CSX	-0.395833
+
+Temple-Inland	IP	-0.376056
+
+Airgas	ARG	-0.369941
+
+Stocks	M	-0.364829
+
+'s	GCI	-0.357157
+

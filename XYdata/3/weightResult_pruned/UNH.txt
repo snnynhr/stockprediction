@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.247743
+
+'s	ADBE	1.255420
+
+Petroleum	APC	0.842468
+
+Financial	NDAQ	0.794453
+
+U.S.	COST	0.779429
+
+Stocks	PFE	0.705497
+
+LIVE	LOW	0.636738
+
+DeVry	DV	0.546167
+
+Wynn	WYNN	0.537929
+
+Medtronic	BSX	0.523607
+
+Exxon	COP	0.517106
+
+Arts	EA	0.505667
+
+stocks	PHM	0.482940
+
+Enodis	ITW	0.469269
+
+Pioneer	PXD	0.467740
+
+Zions	ZION	0.465212
+
+US	LEN	0.433582
+
+Schlumberger	SLB	0.431681
+
+U.S.	TIF	0.416722
+
+stocks	NVDA	0.403600
+
+Valero	TSO	-1.292370
+
+Fighter	LMT	-0.884864
+
+stocks	EMC	-0.840094
+
+Prices	CVX	-0.713300
+
+'s	FCX	-0.685753
+
+Up	COP	-0.612633
+
+'s	SNDK	-0.583028
+
+U.S.	TJX	-0.573794
+
+Deal	ABT	-0.525734
+
+Tyco	TYC	-0.522933
+
+Marsh	MMC	-0.514093
+
+U.S.	HD	-0.495457
+
+Game	EA	-0.474628
+
+stocks	AFL	-0.444563
+
+'s	QCOM	-0.441111
+
+Chemical	DOW	-0.430442
+
+Hughes	BHI	-0.421907
+
+stocks	HES	-0.397425
+
+AMD	INTC	-0.393393
+
+Stocks	JCI	-0.391953
+

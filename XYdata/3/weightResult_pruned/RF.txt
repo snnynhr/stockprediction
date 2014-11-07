@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.294565
+
+Buy	PEP	1.963370
+
+LyondellBasell	LYB	0.734594
+
+Edison	EIX	0.722165
+
+Lukoil	COP	0.706538
+
+Stocks	THC	0.648803
+
+U.S.	JDSU	0.634685
+
+Solvay	ABT	0.567661
+
+Copper	FCX	0.547919
+
+'s	LLY	0.502020
+
+Banks	FITB	0.493247
+
+1	SRE	0.490383
+
+US	NDAQ	0.482246
+
+TECH	SNDK	0.480441
+
+Stocks	WLP	0.476282
+
+$	M	0.452662
+
+Plant	VLO	0.442279
+
+Morgan	KEY	0.419843
+
+Costco	COST	0.403659
+
+Safeway	SWY	0.386590
+
+Sales	DDS	-0.830155
+
+'s	CHK	-0.767201
+
+Stocks	INTU	-0.684978
+
+Red	RHT	-0.606495
+
+Coty	AVP	-0.531624
+
+Health	WLP	-0.512935
+
+'s	AZO	-0.493934
+
+Northrop	NOC	-0.485190
+
+New	EBAY	-0.478603
+
+Tyco	TYC	-0.477571
+
+FDA	ABT	-0.467037
+
+Nan	AIG	-0.460829
+
+Juniper	JNPR	-0.447800
+
+Southwestern	SWN	-0.445980
+
+Xerox	XRX	-0.434752
+
+Stocks	MDLZ	-0.419445
+
+Manitowoc	MTW	-0.403975
+
+Stock	HAL	-0.398418
+
+Over	MBI	-0.395836
+
+Tuesday	BBY	-0.382149
+

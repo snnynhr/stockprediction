@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.670899
+
+rise	AA	1.236000
+
+'s	MDLZ	0.894841
+
+US	FAST	0.732502
+
+E*Trade	SCHW	0.728551
+
+Sales	GPS	0.653556
+
+stocks	GNW	0.543922
+
+Stocks	MCD	0.540825
+
+Credit-Card	COF	0.517256
+
+Conoco	COP	0.469688
+
+Banks	ZION	0.443359
+
+Airlines	BA	0.415319
+
+Buy	WAG	0.385919
+
+Energy	BTU	0.384571
+
+Deere	DE	0.375347
+
+ICE	ICE	0.366887
+
+Boeing	UTX	0.347725
+
+GameStop	GME	0.347652
+
+HOT	WAG	0.336827
+
+US	BRCM	0.334740
+
+Green	SBUX	-1.057680
+
+US	COP	-0.940480
+
+'s	WAG	-0.499046
+
+CME	CME	-0.486451
+
+Temple-Inland	IP	-0.469462
+
+DirecTV	DTV	-0.439245
+
+May	JCP	-0.427689
+
+Diet	ABT	-0.405537
+
+Cigna	CI	-0.404307
+
+Profit	WAG	-0.384056
+
+Auto	F	-0.378116
+
+US	USB	-0.349962
+
+U.S.	SBUX	-0.345788
+
+Express	AXP	-0.339488
+
+UnitedHealth	UNH	-0.315841
+
+Stocks	M	-0.314662
+
+EMC	EMC	-0.304579
+
+Stocks	AA	-0.291112
+
+US	TWC	-0.289405
+
+Morning	IBM	-0.275324
+

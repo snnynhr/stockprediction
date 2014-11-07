@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.421768
+
+Study	MDT	0.820852
+
+Futures	CME	0.803046
+
+HOT	M	0.655323
+
+Airgas	ARG	0.645314
+
+$	CHK	0.607764
+
+IPO	BMY	0.604864
+
+Starbucks	SBUX	0.569359
+
+AIA	AIG	0.556014
+
+Energy	VLO	0.510753
+
+Tech	QCOM	0.503906
+
+Insurers	MBI	0.494486
+
+Financial	PNC	0.482847
+
+Paper	IP	0.467598
+
+After	MDLZ	0.454501
+
+Health	HUM	0.430589
+
+Refinery	TSO	0.429437
+
+gas	CHK	0.409288
+
+FDA	ABT	0.396626
+
+'s	GIS	0.396571
+
+$	GD	-1.420240
+
+Drugs	BMY	-1.044510
+
+$	VLO	-0.916265
+
+$	STI	-0.902233
+
+Shares	NVDA	-0.863195
+
+Paccar	PCAR	-0.838380
+
+Marsh	MMC	-0.758225
+
+US	ODP	-0.705630
+
+Buy	KO	-0.620101
+
+'s	WAG	-0.599677
+
+Coach	COH	-0.492954
+
+'s	NYT	-0.491055
+
+Stocks	GPS	-0.468417
+
+Fifth	FITB	-0.444550
+
+Express	SPLS	-0.440225
+
+Networks	JNPR	-0.439298
+
+US	OI	-0.415323
+
+U.S.	F	-0.397435
+
+Lennar	LEN	-0.387285
+
+HOT	JNJ	-0.380528
+

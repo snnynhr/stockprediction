@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.057718
+
+Energy	VLO	0.784292
+
+Waste	WM	0.747280
+
+Energy	RIG	0.685473
+
+Ford	F	0.677382
+
+Up	PG	0.667954
+
+Diabetes	LLY	0.650180
+
+TV	CBS	0.604182
+
+VMware	EMC	0.580594
+
+Financial	COF	0.544956
+
+Vornado	VNO	0.523276
+
+Works	ITW	0.501308
+
+stocks	CSCO	0.497355
+
+Retailers	M	0.476127
+
+'s	CRM	0.472325
+
+HOT	M	0.471747
+
+Sales	BBY	0.461726
+
+FDA	ABT	0.443965
+
+Profit	CAT	0.436339
+
+York	NYT	0.429985
+
+Hospira	HSP	-0.905453
+
+CA	CA	-0.737412
+
+Google	IBM	-0.728161
+
+Salesforce	CRM	-0.682310
+
+Stock	CPB	-0.594873
+
+Nymex	CME	-0.574002
+
+China	YUM	-0.560833
+
+GM	F	-0.518977
+
+Qualcomm	BRCM	-0.497608
+
+Martin	LMT	-0.483690
+
+Schwab	SCHW	-0.471011
+
+Power	PCG	-0.467552
+
+Chevron	CVX	-0.458967
+
+Sales	M	-0.453655
+
+Bank	STI	-0.438366
+
+$	GD	-0.429269
+
+'s	PG	-0.407485
+
+GameStop	GME	-0.406735
+
+Energy	EXC	-0.389617
+
+Up	BIIB	-0.386815
+

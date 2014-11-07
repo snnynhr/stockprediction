@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-1.6192
+
+US	PG	1.016890
+
+$	CME	0.818697
+
+Exxon	COP	0.773234
+
+RadioShack	RSH	0.544619
+
+Sempra	SRE	0.539220
+
+Cadbury	MDLZ	0.518035
+
+Retailers	HD	0.488212
+
+Cancer	BMY	0.477606
+
+'s	MS	0.468415
+
+Horton	DHI	0.466434
+
+'s	THC	0.446137
+
+Netflix	TWX	0.400202
+
+Thursday	KSS	0.384241
+
+'s	JCP	0.375622
+
+Tech	IBM	0.374979
+
+EBay	EBAY	0.370958
+
+Goodyear	GT	0.370202
+
+US	TJX	0.364167
+
+$	GD	0.337603
+
+ImClone	BMY	-1.065540
+
+Cuts	NVDA	-0.869628
+
+$	HES	-0.707249
+
+Apple	INTC	-0.656365
+
+U.S.	GPS	-0.628874
+
+Drop	AA	-0.607368
+
+Friday	M	-0.589871
+
+'s	MMM	-0.582806
+
+US	CME	-0.573038
+
+'s	ANF	-0.568392
+
+Profit	WAG	-0.555000
+
+Oil	BHI	-0.528355
+
+Payne	HP	-0.510215
+
+Facebook	WFC	-0.483095
+
+HOT	NFLX	-0.478317
+
+Stocks	LOW	-0.460669
+
+Chevron	CVX	-0.454782
+
+US	RSH	-0.445342
+
+Intel	TXN	-0.435809
+
+stocks	FSLR	-0.430195
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.137964
+
+U.S.	CHK	0.794358
+
+Kraft	MDLZ	0.643492
+
+Energy	BHI	0.556654
+
+Penney	M	0.556564
+
+Home	KBH	0.554851
+
+Emulex	BRCM	0.518745
+
+US	PFE	0.515476
+
+'s	VZ	0.515104
+
+Alibaba	YHOO	0.501347
+
+'s	YHOO	0.501268
+
+Bank	WFC	0.498246
+
+Retailers	KSS	0.484122
+
+Stocks	TXN	0.479891
+
+Deals	YHOO	0.459940
+
+Airlines	BA	0.452828
+
+'s	COST	0.428366
+
+U.S.	WFC	0.394432
+
+Morning	HPQ	0.370151
+
+AIG	MET	0.357169
+
+Tobacco	LO	-1.046000
+
+HOT	CI	-0.831308
+
+Discovery	DISCA	-0.815486
+
+Energy	EXC	-0.733730
+
+Cadbury	MDLZ	-0.697997
+
+Adobe	ADBE	-0.624914
+
+U.S.	BA	-0.585863
+
+US	BRK.B	-0.565027
+
+Rowan	RDC	-0.562521
+
+US	GIS	-0.508175
+
+Boeing	NOC	-0.501406
+
+American	LUV	-0.482960
+
+Friday	M	-0.475856
+
+Qualcomm	BRCM	-0.450296
+
+HOT	HUM	-0.447529
+
+Stocks	WAG	-0.444288
+
+'s	EMC	-0.434458
+
+'s	BRK.B	-0.426663
+
+Stocks	RF	-0.408227
+
+Boeing	LMT	-0.391151
+

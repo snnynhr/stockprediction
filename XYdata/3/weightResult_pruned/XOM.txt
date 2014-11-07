@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.632159
+
+U.S.	STT	0.860545
+
+Yum	YUM	0.663456
+
+Enodis	MTW	0.619434
+
+Salesforce.com	CRM	0.616468
+
+Stock	STJ	0.422363
+
+Emerson	EMR	0.405668
+
+Stocks	MRO	0.390886
+
+Rally	AMD	0.378744
+
+Copper	FCX	0.377434
+
+ARCA	ABI	0.369338
+
+stocks	CSCO	0.367220
+
+Resources	RRC	0.364132
+
+'s	TWX	0.353078
+
+Tenet	THC	0.347223
+
+BP	HAL	0.332629
+
+stocks	AMGN	0.327088
+
+Refinery	CVX	0.321397
+
+$	PCG	0.318166
+
+Stocks	TXN	0.316556
+
+Earnings	AA	-1.147810
+
+US	CPB	-0.958804
+
+Insurers	PRU	-0.951087
+
+US	CME	-0.838151
+
+'s	GCI	-0.821085
+
+Universal	CMCSA	-0.787019
+
+'s	FCX	-0.766455
+
+News	NDAQ	-0.725808
+
+CEO	NDAQ	-0.673814
+
+Gas	COP	-0.653010
+
+stocks	KBH	-0.646209
+
+Electric	AEP	-0.558343
+
+U.S.	CAT	-0.550091
+
+Aflac	AFL	-0.526295
+
+LSE	NDAQ	-0.520716
+
+Bancorp	HCBK	-0.479511
+
+Computer	CSC	-0.470064
+
+US	NOC	-0.453961
+
+Buffett	IBM	-0.452428
+
+HOT	HUM	-0.452081
+

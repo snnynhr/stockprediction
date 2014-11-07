@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-2.06018
+
+Stocks	BBY	0.796517
+
+Gains	MU	0.730314
+
+G	PG	0.653819
+
+Sprint	VZ	0.638079
+
+DirecTV	DTV	0.566033
+
+Pulte	PHM	0.561934
+
+stocks	AKAM	0.527374
+
+US	APC	0.517661
+
+One	COF	0.495656
+
+T-Mobile	T	0.472500
+
+Moody	MCO	0.461727
+
+Simon	SPG	0.455847
+
+U.S.	MCD	0.437018
+
+Stocks	CNX	0.389022
+
+Energy	BTU	0.379053
+
+Abbott	ABT	0.373926
+
+QLogic	QLGC	0.363335
+
+Goldman	C	0.359898
+
+U.S.	DOW	0.344513
+
+'s	GCI	-0.878073
+
+Yum	YUM	-0.640649
+
+Starwood	HOT	-0.639615
+
+Domain	NTAP	-0.633796
+
+Medtronic	MDT	-0.630312
+
+Energy	SE	-0.608761
+
+Ambac	MBI	-0.552259
+
+Earnings	AA	-0.523163
+
+$	DFS	-0.518024
+
+Waters	WAT	-0.508191
+
+Financial	NDAQ	-0.495559
+
+FDA	MRK	-0.481332
+
+Gulf	RIG	-0.460525
+
+'s	CHK	-0.457178
+
+Life	LNC	-0.443711
+
+stocks	VZ	-0.427623
+
+$	HES	-0.416013
+
+Coach	COH	-0.413055
+
+Profit	WAG	-0.404509
+
+Qualcomm	BRCM	-0.369328
+

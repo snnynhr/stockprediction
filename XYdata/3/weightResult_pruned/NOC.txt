@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.0416556
+
+U.S.	STI	0.784502
+
+Penney	M	0.605622
+
+stocks	TXN	0.583131
+
+Earnings	LOW	0.546730
+
+Scientific	STJ	0.520578
+
+$	PCG	0.483442
+
+$	BLK	0.475540
+
+Eaton	ETN	0.475250
+
+U.S.	NEM	0.467646
+
+Stocks	PHM	0.461773
+
+HOT	MRK	0.461571
+
+Nuclear	NRG	0.456019
+
+Tenet	THC	0.447723
+
+rise	CVX	0.443866
+
+AOL	TWX	0.432107
+
+$	BK	0.426943
+
+Waste	RSG	0.425006
+
+Retailers	HD	0.423142
+
+Delta	LUV	0.421274
+
+Retail	BBY	-0.688018
+
+Humana	HUM	-0.682576
+
+Billion	AIG	-0.682395
+
+'s	GCI	-0.662086
+
+Diamond	PG	-0.640626
+
+US	CME	-0.588201
+
+Stocks	UTX	-0.561599
+
+Progressive	PGR	-0.551727
+
+Gulf	XOM	-0.550320
+
+Apple	YHOO	-0.547464
+
+Sales	HD	-0.546796
+
+Stock	AET	-0.530293
+
+Energy	APC	-0.526213
+
+'s	CHK	-0.525788
+
+Goldman	BEN	-0.514304
+
+Cisco	BRCM	-0.508742
+
+'s	WMT	-0.506239
+
+Stocks	SHLD	-0.505213
+
+Sallie	SLM	-0.486089
+
+'s	SHLD	-0.483698
+

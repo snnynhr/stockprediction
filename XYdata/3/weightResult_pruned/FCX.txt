@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.656942
+
+stocks	TXN	0.976136
+
+Oil	OXY	0.876389
+
+Gains	MU	0.717444
+
+'s	LMT	0.611586
+
+Devices	ADI	0.538882
+
+'s	TXN	0.522285
+
+Refinery	VLO	0.444526
+
+Berkshire	BRK.B	0.428244
+
+US	FDX	0.416616
+
+Banks	FITB	0.395208
+
+J	BIIB	0.391028
+
+US	NDAQ	0.385534
+
+Instruments	BRCM	0.381209
+
+$	EXC	0.368344
+
+Dow	MDLZ	0.357558
+
+Morning	IBM	0.356800
+
+Tiffany	TIF	0.348021
+
+Retailers	HD	0.344905
+
+Rosneft	XOM	0.338796
+
+'s	GCI	-0.995055
+
+'s	LM	-0.771984
+
+ImClone	BMY	-0.731347
+
+Oil	APC	-0.720758
+
+FDA	PFE	-0.720597
+
+Qualcomm	BRCM	-0.675458
+
+Deal	BRK.B	-0.647472
+
+'s	ANF	-0.590830
+
+GM	F	-0.553159
+
+Gap	GPS	-0.529249
+
+ConAgra	CAG	-0.528346
+
+Drilling	RIG	-0.504673
+
+Paso	KMI	-0.491363
+
+Ratings	MCO	-0.486287
+
+Stocks	IBM	-0.478725
+
+SanDisk	SNDK	-0.476497
+
+Solar	AMAT	-0.472254
+
+stocks	INTC	-0.448766
+
+Global	CME	-0.445427
+
+VeriSign	VRSN	-0.423833
+

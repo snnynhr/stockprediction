@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.878513
+
+Higher	TXN	1.134440
+
+U.S.	DD	0.819855
+
+New	INTC	0.704943
+
+Stock	SBUX	0.618480
+
+U.S.	M	0.545101
+
+Hormel	HRL	0.526237
+
+Insurers	MBI	0.523497
+
+Banks	MS	0.483705
+
+Broadcom	BRCM	0.452569
+
+State	STT	0.447663
+
+Times	NYT	0.444952
+
+Tobacco	MO	0.444394
+
+Sales	TJX	0.388004
+
+Stock	YUM	0.386445
+
+Airlines	BA	0.385889
+
+Dow	DOW	0.374795
+
+Electronic	EA	0.370539
+
+NetApp	EMC	0.367681
+
+Stocks	HD	0.355734
+
+'s	USB	-0.811440
+
+Pay	WFC	-0.766188
+
+Tech	UTX	-0.744751
+
+Heparin	BAX	-0.634841
+
+stocks	OXY	-0.623545
+
+US	EW	-0.561578
+
+Rowe	TROW	-0.546852
+
+Tysabri	BIIB	-0.543794
+
+Hires	MS	-0.542717
+
+'s	KSS	-0.525505
+
+Housing	LOW	-0.516459
+
+Stock	CPB	-0.491817
+
+Gas	HES	-0.456604
+
+Spill	RIG	-0.439931
+
+Apple	INTC	-0.434860
+
+Up	ROST	-0.434508
+
+US	USB	-0.425747
+
+ConocoPhillips	COP	-0.424755
+
+'s	HPQ	-0.416479
+
+Boeing	NOC	-0.403506
+

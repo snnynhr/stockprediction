@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.213709
+
+'s	JCP	0.667388
+
+Rating	MCO	0.633406
+
+Kinder	KMI	0.621847
+
+NYSE	NDAQ	0.504159
+
+Simon	SPG	0.488648
+
+Stocks	TXN	0.458222
+
+'s	WFC	0.454781
+
+HOT	ANF	0.453527
+
+Murphy	MUR	0.439114
+
+'s	NDAQ	0.416991
+
+PNC	PNC	0.411139
+
+US	AA	0.409923
+
+Apple	NFLX	0.405565
+
+Akamai	AKAM	0.402409
+
+stocks	HAL	0.393369
+
+'s	ORCL	0.387964
+
+'s	TJX	0.377544
+
+Hormel	HRL	0.365402
+
+stocks	LUV	0.360506
+
+'s	CSCO	-0.912147
+
+U.S.	TJX	-0.790932
+
+Heparin	BAX	-0.754191
+
+'s	BIIB	-0.748070
+
+OMX	NDAQ	-0.732011
+
+Hospira	HSP	-0.686126
+
+U.S.	GPS	-0.575072
+
+stocks	QEP	-0.529196
+
+Warner	TWC	-0.497696
+
+Chipotle	CMG	-0.488835
+
+Rambus	MU	-0.464339
+
+Tree	DLTR	-0.434266
+
+Microchip	MCHP	-0.425932
+
+Corning	GLW	-0.419409
+
+Drug	ABT	-0.418287
+
+Red	RHT	-0.405538
+
+Banks	STT	-0.404081
+
+Seagate	WDC	-0.394791
+
+Card	COF	-0.385522
+
+Lennar	LEN	-0.377371
+

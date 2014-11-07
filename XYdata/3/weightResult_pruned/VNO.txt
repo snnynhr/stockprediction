@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.344042
+
+Student	SLM	0.953773
+
+US	M	0.832926
+
+'s	STJ	0.812311
+
+stocks	TSO	0.748301
+
+Apple	IBM	0.689340
+
+FDA	MDT	0.675841
+
+stocks	AXP	0.603860
+
+stocks	TXN	0.573457
+
+'s	DD	0.526366
+
+Steel	AKS	0.505223
+
+Crude	VLO	0.504447
+
+Home	DHI	0.477317
+
+US	FSLR	0.475129
+
+Elan	BIIB	0.453947
+
+Ford	F	0.436697
+
+PepsiCo	PEP	0.417207
+
+Chip	NVDA	0.352792
+
+$	EXC	0.347330
+
+'s	OXY	0.344556
+
+Heparin	BAX	-1.470200
+
+Fall	AA	-1.274050
+
+Tysabri	BIIB	-0.883571
+
+Hughes	BHI	-0.703330
+
+HOT	JNJ	-0.685501
+
+'s	CSX	-0.666333
+
+ImClone	BMY	-0.659623
+
+TECH	BRCM	-0.658492
+
+stocks	CHK	-0.589090
+
+Stocks	RF	-0.584889
+
+Shares	NVDA	-0.561286
+
+ConocoPhillips	COP	-0.531885
+
+US	TXN	-0.498509
+
+Oil	CHK	-0.487432
+
+Aflac	AFL	-0.473382
+
+Stocks	FSLR	-0.453588
+
+Verizon	VZ	-0.403582
+
+'s	FDX	-0.401188
+
+TV	VIAB	-0.394587
+
+Circuit	JBL	-0.389047
+

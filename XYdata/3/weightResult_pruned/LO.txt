@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.818952
+
+Bank	BK	0.856235
+
+BP	VLO	0.704836
+
+Banks	RF	0.683985
+
+Net	HD	0.603080
+
+Health	UNH	0.600097
+
+Zions	ZION	0.551201
+
+Exxon	CVX	0.520123
+
+Deere	DE	0.501411
+
+Spending	MA	0.495241
+
+Allergan	AGN	0.437369
+
+Oil	HES	0.419422
+
+Drug	PFE	0.414588
+
+Aon	AON	0.398373
+
+Halliburton	HAL	0.387968
+
+Energy	VLO	0.384159
+
+Cisco	CSCO	0.374627
+
+Up	NTAP	0.363437
+
+$	DIS	0.349259
+
+Whirlpool	WHR	0.321107
+
+'s	SBUX	-1.064730
+
+$	T	-1.046560
+
+'s	KBH	-1.021770
+
+Coke	PEP	-0.878020
+
+SLM	SLM	-0.732470
+
+Cadbury	MDLZ	-0.634305
+
+HOT	HUM	-0.605058
+
+Trust	NTRS	-0.573255
+
+stocks	XOM	-0.522366
+
+'s	PG	-0.503675
+
+'s	NKE	-0.503618
+
+US	HD	-0.491700
+
+AIG	AIG	-0.477336
+
+Marsh	MMC	-0.460724
+
+'s	NYT	-0.459013
+
+Verizon	VZ	-0.451599
+
+STOCKS	NTAP	-0.436541
+
+stocks	SHLD	-0.412630
+
+Hathaway	BRK.B	-0.400517
+
+stocks	HD	-0.392397
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.0398357
+
+Tenet	THC	0.877665
+
+Visa	V	0.769222
+
+Emulex	BRCM	0.662445
+
+energy	CVX	0.598272
+
+June	COST	0.545110
+
+Street	STT	0.518007
+
+STOCKS	LNC	0.499925
+
+Instruments	BRCM	0.498833
+
+Biogen	BIIB	0.495148
+
+'s	GME	0.494917
+
+Nvidia	NVDA	0.478704
+
+Stocks	CSX	0.473824
+
+VF	VFC	0.463955
+
+Sell	T	0.463842
+
+HOT	WYNN	0.451794
+
+'s	TWX	0.447813
+
+Insurers	GNW	0.429490
+
+Sales	TIF	0.412076
+
+'s	MS	0.412015
+
+Invesco	IVZ	-0.809794
+
+NRG	EXC	-0.802396
+
+Pfizer	LLY	-0.752185
+
+U.S.	DIS	-0.745162
+
+Morgan	COF	-0.622117
+
+Networks	JNPR	-0.529031
+
+Up	M	-0.514503
+
+Energy	CHK	-0.513283
+
+Seagate	STX	-0.511078
+
+View	WLP	-0.506888
+
+J	BSX	-0.492708
+
+$	CBS	-0.482404
+
+American	RAI	-0.478983
+
+stocks	INTC	-0.416799
+
+Fluor	FLR	-0.402001
+
+Google	AMD	-0.391733
+
+Yahoo	ADSK	-0.386796
+
+'s	KO	-0.376249
+
+Northern	NTRS	-0.361704
+
+'s	RF	-0.360702
+

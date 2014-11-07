@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.192883
+
+Stocks	AZO	0.996488
+
+gains	ADBE	0.800723
+
+Nordstrom	JWN	0.693386
+
+HOT	CF	0.663693
+
+Stocks	WLP	0.641946
+
+US	LLY	0.631081
+
+stocks	CVX	0.626900
+
+U.S.	WFC	0.582424
+
+Hartford	HIG	0.560384
+
+Simon	SPG	0.513593
+
+stocks	LLY	0.496641
+
+$	ALL	0.491019
+
+Cable	TWX	0.490265
+
+STOCKS	QCOM	0.483828
+
+Rise	AA	0.480659
+
+CEO	EMC	0.448213
+
+Buffett	IBM	0.428225
+
+U.S.	JBL	0.405961
+
+Instruments	TXN	0.404938
+
+Ambac	MBI	-0.673361
+
+Sales	BSX	-0.661861
+
+Stocks	MDLZ	-0.584402
+
+US	BRK.B	-0.584311
+
+stocks	CHK	-0.579918
+
+WellPoint	WLP	-0.548933
+
+'s	CI	-0.530617
+
+'s	IP	-0.514562
+
+Financial	NDAQ	-0.511782
+
+Tysabri	BIIB	-0.511412
+
+Stocks	ORCL	-0.503762
+
+Life	HIG	-0.499666
+
+ConocoPhillips	COP	-0.495736
+
+'s	KBH	-0.486832
+
+Apple	INTC	-0.481494
+
+Stocks	MRK	-0.457764
+
+U.S.	SBUX	-0.431032
+
+FDA	JNJ	-0.409745
+
+Expro	HAL	-0.407710
+
+'s	FDX	-0.403369
+

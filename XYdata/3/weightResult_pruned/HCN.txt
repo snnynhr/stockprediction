@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-1.07074
+
+Stock	BRK.B	0.912026
+
+AIA	AIG	0.876322
+
+US	PEP	0.802487
+
+CSX	CSX	0.765998
+
+stocks	TSO	0.701456
+
+Funds	BLK	0.689951
+
+T-Mobile	T	0.520130
+
+N.Y.	NYT	0.507411
+
+Bank	COF	0.503997
+
+Energy	TSO	0.460492
+
+'s	AMZN	0.425451
+
+HOT	MA	0.383364
+
+Philip	MO	0.379077
+
+Morris	MO	0.379077
+
+Allergan	AGN	0.369497
+
+'s	M	0.366492
+
+BlackRock	BLK	0.364368
+
+Times	NYT	0.348139
+
+Bristol-Myers	BMY	0.347744
+
+'s	QCOM	-0.880003
+
+FDA	MRK	-0.728349
+
+Stocks	KLAC	-0.716519
+
+stocks	INTC	-0.637642
+
+U.S.	URBN	-0.635298
+
+Agrium	CF	-0.620627
+
+'s	CMCSA	-0.575252
+
+Unit	JNJ	-0.539276
+
+Walgreen	WAG	-0.480257
+
+CME	CME	-0.478935
+
+Yahoo	EBAY	-0.436872
+
+U.S.	TGT	-0.431085
+
+Tech	MU	-0.380594
+
+Stocks	SVU	-0.379667
+
+November	KSS	-0.371875
+
+Instruments	TXN	-0.365231
+
+Viacom	VIA	-0.364049
+
+Nasdaq	NDAQ	-0.361216
+
+Wells	WFC	-0.346548
+
+Stocks	MRK	-0.327812
+

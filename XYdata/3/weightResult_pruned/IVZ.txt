@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.289592
+
+US	COST	0.981595
+
+stocks	CLF	0.849317
+
+Recalls	JNJ	0.807412
+
+Alibaba	YHOO	0.704868
+
+Refinery	LYB	0.679577
+
+stocks	IBM	0.660447
+
+Ford	F	0.535495
+
+'s	MA	0.514032
+
+'s	BK	0.492914
+
+Credit-Card	COF	0.474295
+
+US	CLX	0.457480
+
+Buy	WAG	0.436919
+
+Amylin	LLY	0.400625
+
+Danaher	DHR	0.356554
+
+'s	M	0.353171
+
+Deere	DE	0.343995
+
+Stocks	PEP	0.338710
+
+First	FSLR	0.335104
+
+U.S.	NUE	0.332709
+
+Stocks	SVU	-0.967944
+
+'s	JNJ	-0.754063
+
+J	ABT	-0.747199
+
+Hospira	HSP	-0.744335
+
+US	HES	-0.688747
+
+Harley-Davidson	HOG	-0.630915
+
+Trust	NTRS	-0.623097
+
+Growth	SPG	-0.598891
+
+US	AMGN	-0.542075
+
+Chevron	CVX	-0.513386
+
+'s	HOG	-0.489543
+
+Activision	EA	-0.486985
+
+$	WFC	-0.485364
+
+Avon	AVP	-0.480419
+
+Hughes	BHI	-0.470180
+
+P	BRK.B	-0.451159
+
+'s	TIF	-0.436899
+
+OMX	NDAQ	-0.407669
+
+U.S.	KEY	-0.394201
+
+ConocoPhillips	COP	-0.388219
+

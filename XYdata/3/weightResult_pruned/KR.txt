@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.99294
+
+Drug	PFE	0.875914
+
+$	NDAQ	0.838899
+
+Northrop	NOC	0.763358
+
+$	STT	0.677994
+
+U.S.	DE	0.627597
+
+Danaher	DHR	0.593049
+
+Allergan	AGN	0.560785
+
+Apple	QCOM	0.552798
+
+'s	BLK	0.524543
+
+InBev	BUD	0.505577
+
+Stocks	MET	0.496129
+
+US	BIIB	0.464686
+
+J	MDT	0.448630
+
+stocks	AIG	0.443189
+
+Hormel	HRL	0.429125
+
+Financial	RF	0.407248
+
+Stocks	CAT	0.378440
+
+Delinquencies	COF	0.376753
+
+Air	APD	0.372993
+
+China	KO	-0.985399
+
+US	UTX	-0.965246
+
+'s	KR	-0.958503
+
+Drugs	LLY	-0.819900
+
+Morning	YHOO	-0.775443
+
+Oil	DVN	-0.740469
+
+Rambus	MU	-0.721443
+
+HOT	NOV	-0.600969
+
+HOT	JNJ	-0.592866
+
+MetLife	MET	-0.544045
+
+'s	TIF	-0.529922
+
+US	V	-0.481130
+
+Ashland	ASH	-0.461581
+
+Waste	WM	-0.452820
+
+Textron	TXT	-0.439620
+
+Diamond	PG	-0.416414
+
+Warner	CMCSA	-0.408304
+
+'s	LUV	-0.390157
+
+Berkshire	BRK.B	-0.387825
+
+Johnson	BSX	-0.383628
+

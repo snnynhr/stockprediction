@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.0371207
+
+Insurance	UNH	0.918289
+
+FAA	LUV	0.673893
+
+Trading	CME	0.622945
+
+Stocks	CSCO	0.584212
+
+Stocks	COF	0.571825
+
+$	VIAB	0.526004
+
+Goldman	GS	0.514869
+
+Facebook	YHOO	0.511635
+
+Salesforce.com	CRM	0.502204
+
+'s	MCO	0.489607
+
+Deal	UPS	0.476508
+
+Republic	RSG	0.465060
+
+Apple	NFLX	0.462780
+
+Viacom	VIAB	0.445826
+
+Pfizer	PFE	0.428997
+
+$	CSCO	0.422386
+
+Rally	AMD	0.417281
+
+Plant	VLO	0.416211
+
+Funds	BLK	0.413285
+
+stocks	CHK	-1.527630
+
+Gas	CVX	-0.736871
+
+Stock	AMAT	-0.658350
+
+HOT	AET	-0.555210
+
+Southwestern	SWN	-0.547720
+
+Tesoro	TSO	-0.519738
+
+'s	HD	-0.495491
+
+STOCKS	MET	-0.488442
+
+McDonald	MCD	-0.481636
+
+Apple	INTC	-0.476229
+
+J	ABT	-0.449777
+
+Financial	RF	-0.445044
+
+RadioShack	RSH	-0.443616
+
+Earnings	AA	-0.428906
+
+Schlumberger	SLB	-0.423487
+
+Ralcorp	CAG	-0.398830
+
+Insurers	PRU	-0.395533
+
+'s	HON	-0.386277
+
+$	APC	-0.378893
+
+REIT	HCN	-0.372886
+

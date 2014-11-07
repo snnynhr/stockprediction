@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.299687
+
+Stocks	LEN	0.748850
+
+Stock	PFE	0.722633
+
+Apple	BRCM	0.625262
+
+stocks	VLO	0.578903
+
+Group	CME	0.573082
+
+Banks	BBT	0.560556
+
+Oil	XOM	0.483639
+
+Gains	AMD	0.448100
+
+Transocean	RIG	0.404451
+
+Sales	KSS	0.379508
+
+Gas	COP	0.374562
+
+Coca-Cola	KO	0.348653
+
+$	BRCM	0.343212
+
+Chip	TXN	0.341400
+
+Airlines	BA	0.331262
+
+Allergan	AGN	0.298675
+
+'s	APOL	0.273981
+
+Coke	KO	0.272639
+
+Stocks	DHI	0.268979
+
+Banks	STI	-0.721431
+
+US	ACN	-0.706796
+
+stocks	CHK	-0.688386
+
+Office	ODP	-0.629798
+
+Stocks	M	-0.570577
+
+Gas	XOM	-0.564150
+
+Oil	SLB	-0.471486
+
+FDA	PFE	-0.464261
+
+Duke	DUK	-0.456253
+
+Intuit	INTU	-0.442874
+
+US	WAG	-0.413904
+
+FDA	LLY	-0.412744
+
+US	AMP	-0.400805
+
+Micron	MU	-0.388459
+
+Zimmer	ZMH	-0.374835
+
+Banks	USB	-0.372289
+
+Power	PCG	-0.356592
+
+$	AXP	-0.354606
+
+U.S.	CAT	-0.344374
+
+Oil	APC	-0.344011
+

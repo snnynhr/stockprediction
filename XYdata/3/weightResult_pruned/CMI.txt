@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.0796939
+
+Dow	CAT	1.020960
+
+Stocks	ADP	0.795013
+
+U.S.	MCD	0.751049
+
+Bank	WFC	0.711400
+
+Danaher	DHR	0.604822
+
+Cadbury	MDLZ	0.598958
+
+'s	SLM	0.585148
+
+Stocks	CSC	0.581534
+
+UPS	UPS	0.537407
+
+Alibaba	YHOO	0.535549
+
+Safeway	SWY	0.522827
+
+One	COF	0.477357
+
+HOT	PLL	0.438714
+
+Cardinal	CAH	0.430770
+
+Aetna	AET	0.427390
+
+US	PFE	0.420712
+
+Retailers	COST	0.398879
+
+Morgan	BK	0.391428
+
+Ghana	APC	0.348748
+
+TECH	BRCM	-1.020460
+
+Coffee	SBUX	-0.930068
+
+AvalonBay	AVB	-0.718715
+
+Credit	MA	-0.692759
+
+Avon	AVP	-0.663641
+
+US	HUM	-0.647556
+
+ConAgra	CAG	-0.588883
+
+Stocks	FSLR	-0.533764
+
+'s	TWC	-0.510674
+
+Southwest	LUV	-0.501590
+
+Networks	JNPR	-0.496552
+
+US	AIG	-0.484782
+
+stocks	GME	-0.480420
+
+New	SBUX	-0.449809
+
+Stocks	SHLD	-0.444842
+
+Starwood	HOT	-0.444500
+
+Stocks	M	-0.438850
+
+Apache	APA	-0.432162
+
+Ambac	MBI	-0.399088
+
+Paccar	PCAR	-0.396184
+

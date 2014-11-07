@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.0650452
+
+gas	CHK	0.912065
+
+Electronic	EA	0.678127
+
+U.S.	AIG	0.591849
+
+Morgan	BAC	0.552269
+
+HOT	ANF	0.546157
+
+'s	LUV	0.526703
+
+Dow	AXP	0.472084
+
+Study	MDT	0.468994
+
+Foods	MDLZ	0.466333
+
+'s	JWN	0.439580
+
+One	COF	0.439329
+
+Textron	TXT	0.426537
+
+STOCKS	MRK	0.411535
+
+STOCKS	QCOM	0.405953
+
+Dollar	C	0.386824
+
+Aon	AON	0.380654
+
+Nasdaq	ICE	0.356733
+
+Stents	BSX	0.346781
+
+stocks	VLO	0.336175
+
+Shares	NVDA	-1.215830
+
+Stocks	M	-0.932724
+
+Prudential	PRU	-0.875057
+
+Unit	VLO	-0.717350
+
+Heparin	BAX	-0.701279
+
+Discovery	DISCA	-0.688954
+
+Jobs	ADP	-0.611964
+
+'s	ANF	-0.577918
+
+Energy	OXY	-0.560146
+
+US	AET	-0.553243
+
+UnitedHealth	UNH	-0.551623
+
+'s	MMM	-0.529306
+
+Hat	RHT	-0.496244
+
+Drug	PFE	-0.486704
+
+stocks	CHK	-0.474415
+
+'s	AA	-0.473436
+
+CFTC	ICE	-0.471934
+
+Wells	WFC	-0.462466
+
+stocks	NBR	-0.435666
+
+Stocks	COH	-0.424661
+

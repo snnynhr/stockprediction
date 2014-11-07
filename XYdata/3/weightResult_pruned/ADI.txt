@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.497317
+
+Bank	ZION	0.923340
+
+'s	COST	0.817297
+
+Sales	BBY	0.713682
+
+Apple	NFLX	0.697217
+
+Philip	PM	0.633049
+
+Credit-Card	COF	0.613720
+
+'s	CRM	0.605240
+
+Gains	AMD	0.590440
+
+Deere	DE	0.560401
+
+Nokia	CIEN	0.557909
+
+Street	STT	0.536615
+
+Rating	MCO	0.478769
+
+Stock	STT	0.467768
+
+US	ANF	0.362939
+
+U.S.	BA	0.359931
+
+Warren	BRK.B	0.353430
+
+NYSE	NDAQ	0.346014
+
+Exchange	CME	0.343326
+
+Aflac	AFL	0.330692
+
+'s	KBH	-0.984643
+
+BofA	USB	-0.890614
+
+Union	UNP	-0.778409
+
+$	MRO	-0.667284
+
+Amylin	LLY	-0.664261
+
+Republic	WM	-0.634818
+
+U.S.	KO	-0.621328
+
+Energy	APC	-0.612194
+
+Stocks	M	-0.608560
+
+Atmel	MCHP	-0.585680
+
+HOT	CI	-0.585022
+
+ADP	ADP	-0.584171
+
+Research	LRCX	-0.578403
+
+Banks	ZION	-0.560818
+
+Deutsche	UPS	-0.518945
+
+US	TXN	-0.516578
+
+STOCKS	CTXS	-0.513645
+
+'s	GE	-0.496152
+
+Invesco	IVZ	-0.495881
+
+shares	MU	-0.485162
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.380246
+
+Stocks	LEN	1.092480
+
+stocks	JDSU	0.928316
+
+Pulte	PHM	0.708451
+
+US	DOW	0.634629
+
+'s	DIS	0.531244
+
+Claiborne	JCP	0.522009
+
+'s	PNC	0.493504
+
+Zynga	EA	0.476261
+
+Retail	TGT	0.445004
+
+Abbott	ABT	0.443650
+
+Amerigroup	WLP	0.434686
+
+Edison	EIX	0.432697
+
+Transocean	RIG	0.423253
+
+Earnings	LOW	0.423185
+
+HOT	HRB	0.410978
+
+Mason	LM	0.393271
+
+PNC	PNC	0.388448
+
+Janus	JNS	0.385649
+
+HOT	M	0.363661
+
+Whirlpool	WHR	-0.765506
+
+'s	WAG	-0.737781
+
+Stocks	M	-0.679689
+
+Coach	COH	-0.632415
+
+'s	CVX	-0.624965
+
+US	MU	-0.574907
+
+'s	ODP	-0.556628
+
+Huntington	HBAN	-0.546970
+
+'s	GCI	-0.538756
+
+H-P	HPQ	-0.536818
+
+'s	GPS	-0.530591
+
+NetApp	NTAP	-0.518455
+
+Rubbermaid	NWL	-0.486175
+
+IPO	YHOO	-0.468153
+
+Medtronic	MDT	-0.444491
+
+Wal-Mart	WMT	-0.425055
+
+Xerox	XRX	-0.393943
+
+US	ESRX	-0.390989
+
+Stocks	NFLX	-0.390361
+
+HOT	YHOO	-0.380642
+

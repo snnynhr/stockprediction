@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.427635
+
+Lilly	PFE	0.665527
+
+Chips	NVDA	0.633661
+
+$	V	0.601142
+
+Energy	CNX	0.577729
+
+Apple	T	0.536302
+
+Stocks	ADSK	0.505483
+
+Oil	BHI	0.466391
+
+Verizon	T	0.463646
+
+Dish	DTV	0.443625
+
+Chips	TXN	0.440601
+
+Refinery	MRO	0.436642
+
+U.S.	AXP	0.425094
+
+Bancorp	USB	0.410765
+
+CEO	DUK	0.408821
+
+Trading	NDAQ	0.408471
+
+Sales	BBY	0.392640
+
+Transocean	RIG	0.388091
+
+Exxon	XOM	0.387864
+
+Akamai	AKAM	0.363248
+
+Stocks	KLAC	-0.923486
+
+US	BK	-0.797798
+
+Stocks	DE	-0.754566
+
+Regions	RF	-0.742265
+
+Refinery	TSO	-0.720088
+
+US	CVX	-0.605130
+
+Cuts	UPS	-0.600318
+
+NetApp	NTAP	-0.573872
+
+Drug	LLY	-0.570672
+
+US	TXT	-0.543336
+
+Marathon	MRO	-0.532133
+
+Texas	VLO	-0.512956
+
+US	KSS	-0.504571
+
+Videogame	EA	-0.497092
+
+'s	AA	-0.479790
+
+Cardinal	CAH	-0.473176
+
+WellPoint	WLP	-0.435434
+
+Tech	SNDK	-0.433481
+
+Third	FITB	-0.423732
+
+Caremark	CVS	-0.415677
+

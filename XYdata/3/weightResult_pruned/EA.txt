@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.891373
+
+Danaher	DHR	0.858507
+
+Allergan	AGN	0.618177
+
+'s	BRCM	0.598306
+
+Costco	COST	0.573621
+
+Credit-Card	COF	0.554015
+
+Edison	EIX	0.542010
+
+stocks	TGT	0.541961
+
+Health	UNH	0.510809
+
+Insurers	HIG	0.478516
+
+Chip	NVDA	0.466332
+
+US	WFM	0.448716
+
+rally	INTC	0.440403
+
+Tenet	THC	0.390004
+
+Tech	IBM	0.352132
+
+Berkshire	BRK.B	0.338068
+
+E*Trade	SCHW	0.335141
+
+U.S.	GE	0.325012
+
+Entergy	ETR	0.323962
+
+Refinery	COP	0.322902
+
+Chevron	XOM	-0.749571
+
+Techs	TXN	-0.743782
+
+Gold	NEM	-0.677268
+
+CME	CME	-0.612208
+
+'s	CI	-0.543990
+
+'s	CSCO	-0.537434
+
+Tyson	TSN	-0.532584
+
+Earnings	AA	-0.499580
+
+Bank	USB	-0.492707
+
+'s	PNC	-0.464965
+
+Gannett	GCI	-0.448385
+
+J	ABT	-0.382793
+
+HOT	YHOO	-0.373195
+
+stocks	CHK	-0.365796
+
+Stocks	ORCL	-0.348435
+
+Imax	DIS	-0.342812
+
+Coal	BTU	-0.325779
+
+Stocks	AA	-0.305401
+
+Day	AIG	-0.303443
+
+Loss	JCP	-0.303095
+

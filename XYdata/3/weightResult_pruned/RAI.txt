@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.84516
+
+stocks	LUV	0.830982
+
+Microsoft	HPQ	0.779034
+
+Sales	EA	0.773206
+
+'s	MET	0.692033
+
+US	FITB	0.667979
+
+US	CLX	0.647052
+
+Retail	TGT	0.626996
+
+Nordstrom	JWN	0.626123
+
+Home	LEN	0.599102
+
+'s	MS	0.581953
+
+U.S.	EXC	0.572801
+
+US	AMAT	0.517195
+
+Power	NRG	0.508724
+
+Rating	MCO	0.485399
+
+Colgate	CL	0.452423
+
+NY	BK	0.439228
+
+'s	NVDA	0.436292
+
+Retailers	HD	0.436282
+
+Abercrombie	ANF	0.430808
+
+Discover	MA	-0.998729
+
+$	ORCL	-0.997596
+
+Gas	XOM	-0.975196
+
+Buy	RSH	-0.711554
+
+Chevron	CHK	-0.625141
+
+Gap	GPS	-0.594462
+
+Chip	BRCM	-0.593285
+
+HOT	HUM	-0.585350
+
+Stocks	DE	-0.568102
+
+$	MO	-0.536434
+
+Trading	SCHW	-0.536430
+
+Eli	LLY	-0.518026
+
+stocks	KSS	-0.509207
+
+Tech	EMC	-0.449445
+
+Trust	NTRS	-0.436850
+
+Natural	CHK	-0.425763
+
+Sprint	T	-0.420919
+
+Adobe	ADBE	-0.418384
+
+Hasbro	HAS	-0.410625
+
+FirstEnergy	FE	-0.393347
+

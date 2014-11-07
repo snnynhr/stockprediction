@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.114555
+
+Home	PHM	0.932924
+
+'s	LM	0.785207
+
+US	MDLZ	0.714088
+
+PepsiCo	PEP	0.626862
+
+shares	TXN	0.622174
+
+Northrop	NOC	0.607697
+
+stocks	BBBY	0.506486
+
+'s	ADBE	0.493699
+
+Horton	DHI	0.458294
+
+Sales	COST	0.455177
+
+'s	BRCM	0.417961
+
+stocks	NVDA	0.415450
+
+Stocks	APC	0.401569
+
+Xerox	XRX	0.396611
+
+'s	STT	0.386640
+
+Energy	CHK	0.379237
+
+Safeway	SWY	0.364568
+
+stocks	QCOM	0.359656
+
+HOT	CF	0.353900
+
+Chip	BRCM	-1.000210
+
+Friday	M	-0.772575
+
+Capital	BBT	-0.752473
+
+New	NYT	-0.742379
+
+'s	AA	-0.624805
+
+Sciences	GILD	-0.590618
+
+Pepsi	PEP	-0.580682
+
+Marsh	MMC	-0.554481
+
+Deutsche	UPS	-0.553335
+
+Stocks	ORCL	-0.517555
+
+Halliburton	HAL	-0.475186
+
+U.S.	MDLZ	-0.469604
+
+Allstate	ALL	-0.450044
+
+Prices	CVX	-0.417154
+
+Manitowoc	MTW	-0.408412
+
+Sales	M	-0.406813
+
+'s	CVX	-0.390990
+
+AMD	BRCM	-0.386763
+
+STOCKS	NFLX	-0.385196
+
+Apple	HPQ	-0.383199
+

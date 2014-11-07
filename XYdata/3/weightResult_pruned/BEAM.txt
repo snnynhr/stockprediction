@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	1.50055
+
+Oil	HES	0.842180
+
+U.S.	RIG	0.788944
+
+Stocks	HPQ	0.600411
+
+BNY	BK	0.523798
+
+EA	EA	0.521758
+
+Wireless	T	0.501921
+
+'s	T	0.500549
+
+Coca-Cola	KO	0.487805
+
+stocks	AKAM	0.483746
+
+AIG	MET	0.470477
+
+Brazilian	FDX	0.435924
+
+Stocks	UNH	0.433075
+
+Gains	TXN	0.418504
+
+Stocks	QCOM	0.397665
+
+stocks	VLO	0.387692
+
+Smith	SLB	0.387009
+
+US	AA	0.383778
+
+Sales	M	0.377520
+
+Drug	PFE	0.361899
+
+Imax	DIS	-0.876128
+
+Caremark	CVS	-0.842145
+
+Spill	RIG	-0.625157
+
+Financial	RF	-0.623556
+
+'s	GE	-0.617127
+
+Buy	YHOO	-0.567305
+
+'s	RF	-0.564833
+
+US	WAG	-0.522122
+
+Gold	NEM	-0.503252
+
+Oil	MRO	-0.424510
+
+'s	AMD	-0.423879
+
+Steel	X	-0.417536
+
+'s	KSS	-0.411964
+
+Morning	HPQ	-0.407463
+
+Lennar	LEN	-0.399309
+
+'s	HUM	-0.390800
+
+US	AMP	-0.379061
+
+'s	AIG	-0.363996
+
+Broadcom	BRCM	-0.336895
+
+Stocks	MRK	-0.336459
+

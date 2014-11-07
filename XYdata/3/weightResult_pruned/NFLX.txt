@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.268609
+
+stocks	BTU	1.490160
+
+U.S.	BBY	0.992691
+
+Stocks	MU	0.812862
+
+PC	HPQ	0.766827
+
+Deal	UPS	0.681220
+
+Offshore	DO	0.664245
+
+Tech	CSCO	0.630212
+
+Mylan	MYL	0.600813
+
+Stocks	THC	0.577945
+
+Schwab	SCHW	0.557724
+
+'s	GPS	0.541466
+
+stocks	NVDA	0.539191
+
+Home	DHI	0.511846
+
+Hartford	HIG	0.479649
+
+Edison	EIX	0.473317
+
+Stocks	BAC	0.466979
+
+Morgan	AXP	0.424310
+
+Akamai	AKAM	0.418742
+
+US	CSX	0.417675
+
+Autodesk	ADSK	-0.833025
+
+Donnelley	RRD	-0.828373
+
+energy	CHK	-0.809911
+
+Gulf	APC	-0.803295
+
+Fed	WFC	-0.755063
+
+Agrium	CF	-0.718120
+
+Intel	TXN	-0.635268
+
+Valero	VLO	-0.622228
+
+American	AXP	-0.538007
+
+Friday	TGT	-0.509199
+
+'s	AMZN	-0.492591
+
+Rohm	DOW	-0.426295
+
+Profit	WAG	-0.422188
+
+Spill	RIG	-0.391915
+
+AOL	TWX	-0.387166
+
+Electronic	EA	-0.384843
+
+Urban	URBN	-0.371419
+
+Deal	PFE	-0.364282
+
+Tech	AMD	-0.331589
+
+Morning	YHOO	-0.323254
+

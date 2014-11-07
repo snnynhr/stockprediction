@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.15272
+
+Chips	AMD	0.943738
+
+'s	BLK	0.697189
+
+U.S.	XOM	0.688663
+
+Buy	AON	0.655553
+
+Alibaba	YHOO	0.563695
+
+gas	CHK	0.531606
+
+After	BRK.B	0.525467
+
+Ford	F	0.517748
+
+US	AKS	0.516995
+
+$	BRK.B	0.499616
+
+First	FHN	0.482615
+
+Xilinx	XLNX	0.480654
+
+TJX	TJX	0.469579
+
+BP	HAL	0.450594
+
+Up	ANF	0.446994
+
+stocks	CSCO	0.444358
+
+Constellation	STZ	0.440048
+
+Discover	DFS	0.432363
+
+Buy	SYMC	0.429495
+
+stocks	CHK	-0.989151
+
+HOT	CI	-0.918487
+
+Sales	CAT	-0.906477
+
+Credit	V	-0.718444
+
+Post	UPS	-0.573633
+
+Starwood	HOT	-0.558597
+
+US	ADSK	-0.544497
+
+'s	SLB	-0.540219
+
+US	ICE	-0.527708
+
+National	NOV	-0.518390
+
+Union	UNP	-0.516790
+
+US	F	-0.510197
+
+Hershey	HSY	-0.507292
+
+Banks	FITB	-0.506807
+
+Gap	GPS	-0.494693
+
+Philips	GE	-0.483035
+
+Yahoo	ADSK	-0.482694
+
+Hughes	BHI	-0.470371
+
+Prudential	BLK	-0.466939
+
+Rowe	TROW	-0.434564
+

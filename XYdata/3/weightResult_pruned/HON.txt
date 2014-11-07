@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.146725
+
+Energy	BHI	1.419320
+
+Stocks	PNC	1.176350
+
+stocks	MU	0.733965
+
+Credit-Card	COF	0.694042
+
+Energy	HAL	0.587055
+
+Retail	TGT	0.547698
+
+Oil	XOM	0.534499
+
+Conoco	COP	0.528040
+
+EBay	EBAY	0.518861
+
+Morgan	RF	0.504606
+
+Heart	BMY	0.497498
+
+US	AA	0.482484
+
+Zions	ZION	0.477040
+
+Facebook	EBAY	0.469586
+
+Retailers	COST	0.455312
+
+Realty	VNO	0.453293
+
+Pulte	PHM	0.442289
+
+Stocks	LOW	0.426063
+
+PepsiCo	PEP	0.418963
+
+Xerox	XRX	-0.618097
+
+'s	CHK	-0.615819
+
+'s	PRU	-0.603114
+
+US	CPB	-0.600473
+
+CVS	WAG	-0.568110
+
+AB	BUD	-0.542917
+
+'s	CME	-0.537077
+
+'s	KBH	-0.526611
+
+Up	BUD	-0.517211
+
+Jobs	ADP	-0.476677
+
+U.S.	AA	-0.470477
+
+But	NVDA	-0.442009
+
+Banks	USB	-0.438311
+
+Hospira	HSP	-0.432267
+
+Deal	CMCSA	-0.423970
+
+$	SE	-0.420142
+
+Microchip	MCHP	-0.394020
+
+Ambac	MBI	-0.388571
+
+Oil	DVN	-0.384899
+
+Sales	M	-0.370245
+

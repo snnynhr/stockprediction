@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.00935386
+
+Black	TGT	0.933024
+
+High	CAT	0.761385
+
+'s	USB	0.656971
+
+Retailers	ANF	0.599997
+
+Bristol	BMY	0.592343
+
+Buffett	MDLZ	0.579853
+
+Refinery	CVX	0.537426
+
+State	STT	0.537050
+
+Stocks	HPQ	0.525429
+
+FDA	ABT	0.513056
+
+Public	PSA	0.466952
+
+Abbott	ABT	0.456702
+
+US	YUM	0.447006
+
+Penney	KSS	0.425978
+
+Solar	FSLR	0.421439
+
+US	CVX	0.401230
+
+Power	ETR	0.378028
+
+Goldman	NDAQ	0.363345
+
+Capital	COF	0.359243
+
+Payne	HP	-0.887604
+
+HOT	WLP	-0.780332
+
+stocks	F	-0.707850
+
+Northern	NTRS	-0.658406
+
+Energy	FSLR	-0.658237
+
+FCC	TWC	-0.578344
+
+Medtronic	ABT	-0.571245
+
+Builders	KBH	-0.521634
+
+Oil	DVN	-0.503190
+
+Net	M	-0.490269
+
+'s	PG	-0.488260
+
+'s	PHM	-0.470687
+
+Sales	GPS	-0.453997
+
+'s	XRX	-0.422134
+
+Energy	APC	-0.416503
+
+Rowe	TROW	-0.412309
+
+$	YHOO	-0.380649
+
+US	TXN	-0.374978
+
+'s	T	-0.365404
+
+Paso	KMI	-0.359996
+

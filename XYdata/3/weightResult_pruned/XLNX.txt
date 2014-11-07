@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.198441
+
+stocks	CRM	1.060780
+
+Stocks	YUM	0.730542
+
+Philip	PM	0.681309
+
+New	MCD	0.654238
+
+US	RF	0.628063
+
+Fund	LM	0.472841
+
+Retail	ANF	0.460808
+
+Dow	DOW	0.459751
+
+Materials	AMAT	0.457241
+
+Apple	TXN	0.441674
+
+Stocks	SWY	0.423569
+
+AMD	NVDA	0.422717
+
+Fluor	FLR	0.416125
+
+PepsiCo	PEP	0.383724
+
+$	KEY	0.361817
+
+U.S.	DOW	0.342605
+
+Hormel	HRL	0.340468
+
+stocks	RF	0.328837
+
+Stocks	WLP	0.323294
+
+Prices	DOW	-0.777399
+
+Baxter	BAX	-0.707026
+
+Regions	RF	-0.625933
+
+stocks	OXY	-0.575679
+
+Walgreen	CVS	-0.564398
+
+stocks	CHK	-0.553114
+
+$	GE	-0.519315
+
+'s	XOM	-0.504766
+
+US	ICE	-0.450873
+
+Tanker	NOC	-0.450727
+
+Stock	MCD	-0.441175
+
+Stores	ROST	-0.429451
+
+Stocks	BBT	-0.402338
+
+Valero	TSO	-0.383257
+
+US	NWL	-0.383185
+
+Nvidia	NVDA	-0.362485
+
+Gilead	GILD	-0.354254
+
+Copper	FCX	-0.348078
+
+Cuts	MBI	-0.347215
+
+Prudential	BLK	-0.336535
+

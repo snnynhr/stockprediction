@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.790037
+
+Honeywell	HON	0.892827
+
+stocks	AMD	0.694984
+
+Google	IACI	0.671087
+
+'s	BLK	0.664475
+
+Chubb	CB	0.608943
+
+MARKET	M	0.571054
+
+TNT	UPS	0.568270
+
+Deere	DE	0.548157
+
+US	LEN	0.497288
+
+Apple	NFLX	0.482719
+
+One	COF	0.453731
+
+Retailers	M	0.439628
+
+Eaton	ETN	0.438718
+
+Diebold	UTX	0.437427
+
+Legg	LM	0.420403
+
+Profit	LEN	0.413898
+
+Tech	ORCL	0.409825
+
+US	AA	0.396338
+
+stocks	LLY	0.383968
+
+'s	FCX	-0.747985
+
+Pepsi	PEP	-0.718422
+
+ConAgra	CAG	-0.713010
+
+Stocks	M	-0.695837
+
+'s	IBM	-0.678091
+
+BlackRock	BLK	-0.623242
+
+Shares	AMD	-0.610482
+
+Stocks	KEY	-0.604699
+
+Oil	CHK	-0.588046
+
+Up	MA	-0.579509
+
+Huntington	HBAN	-0.560971
+
+Deal	CMCSA	-0.543229
+
+FDA	JNJ	-0.529381
+
+Nasdaq	TXN	-0.515213
+
+US	TXT	-0.510070
+
+US	DE	-0.491343
+
+'s	GM	-0.468916
+
+Coffee	SJM	-0.442920
+
+Scientific	BSX	-0.439826
+
+'s	KSS	-0.420411
+

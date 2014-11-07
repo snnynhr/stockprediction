@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.0743095
+
+US	LEN	1.080560
+
+Weatherford	WFT	0.838587
+
+stocks	TXN	0.802774
+
+PNC	PNC	0.727513
+
+Cadbury	HSY	0.693901
+
+Wyndham	WYN	0.582027
+
+Banks	AXP	0.556825
+
+Chips	SNDK	0.537091
+
+Refinery	LYB	0.477213
+
+Allstate	ALL	0.471335
+
+stocks	BHI	0.467844
+
+Target	M	0.465418
+
+Apple	NFLX	0.456422
+
+CEO	EBAY	0.448266
+
+CNET	CBS	0.444845
+
+Buy	SCHW	0.440275
+
+Aon	AON	0.431911
+
+Stock	JWN	0.425724
+
+BlackRock	BLK	0.423684
+
+Discovery	DISCA	-0.976599
+
+Progressive	PGR	-0.788258
+
+Gains	HD	-0.787208
+
+Coke	PEP	-0.740897
+
+Drug	AMGN	-0.662379
+
+Stocks	M	-0.579059
+
+Deal	TWX	-0.543409
+
+'s	TIF	-0.538807
+
+$	COP	-0.527535
+
+Celgene	CELG	-0.517906
+
+Sector	TXN	-0.504619
+
+$	MO	-0.500618
+
+Ambac	MBI	-0.495327
+
+Hospira	HSP	-0.467274
+
+Citi	FITB	-0.449206
+
+Stocks	RF	-0.446288
+
+Gulf	XOM	-0.444008
+
+Hershey	HSY	-0.424688
+
+Amazon	AMZN	-0.416193
+
+Gap	GPS	-0.415519
+

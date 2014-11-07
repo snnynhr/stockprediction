@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-1.0914
+
+Alibaba	YHOO	1.157710
+
+One	COF	0.688569
+
+Stocks	UNH	0.574551
+
+Exxon	CVX	0.528098
+
+Smucker	SJM	0.522676
+
+HOT	CHK	0.473335
+
+Salesforce.com	CRM	0.463693
+
+'s	MRO	0.377952
+
+'s	BA	0.365206
+
+Refinery	MRO	0.315710
+
+Stocks	BA	0.314641
+
+Entergy	ETR	0.303970
+
+Student	SLM	0.301200
+
+U.S.	DUK	0.264210
+
+US	WFM	0.263611
+
+Newsday	CVC	0.259312
+
+U.S.	FDX	0.251110
+
+Intel	AMD	0.249160
+
+Facebook	YHOO	0.246102
+
+Goldman	MET	-0.929391
+
+Food	MDLZ	-0.881049
+
+Stocks	MDLZ	-0.829182
+
+Fees	MA	-0.741846
+
+'s	NKE	-0.715027
+
+AmEx	AXP	-0.684702
+
+Drugs	BMY	-0.659920
+
+Builders	KBH	-0.626087
+
+Spill	RIG	-0.613476
+
+Intuit	INTU	-0.593430
+
+Stock	HAL	-0.576124
+
+Stock	ADBE	-0.561079
+
+Netflix	AMZN	-0.549800
+
+Buy	WDC	-0.548607
+
+'s	WAG	-0.506981
+
+Green	SBUX	-0.498312
+
+New	EBAY	-0.464585
+
+Apple	TXN	-0.461907
+
+U.S.	V	-0.455921
+
+J.C.	JCP	-0.455080
+

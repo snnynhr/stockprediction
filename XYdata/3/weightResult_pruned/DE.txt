@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.599869
+
+Buy	PEP	0.896700
+
+Rise	AA	0.869451
+
+Penney	M	0.729929
+
+Stryker	SYK	0.726105
+
+'s	KR	0.689282
+
+Citi	AXP	0.639383
+
+Oil	HES	0.582999
+
+United	UTX	0.564740
+
+Tumblr	YHOO	0.548829
+
+US	CSX	0.548291
+
+Times	NYT	0.511384
+
+Ford	F	0.467280
+
+'s	ABT	0.463372
+
+Steel	AKS	0.450427
+
+Pipeline	COP	0.436269
+
+Darden	DRI	0.433464
+
+'s	NDAQ	0.432690
+
+Clorox	CLX	0.428578
+
+Energy	BTU	0.415121
+
+'s	BMY	-0.812582
+
+Coffee	SBUX	-0.794906
+
+Chip	BRCM	-0.747493
+
+Temple-Inland	IP	-0.731910
+
+Black	M	-0.656635
+
+Life	LNC	-0.610811
+
+Biogen	BIIB	-0.525836
+
+Ambac	MBI	-0.491348
+
+Horizon	FHN	-0.452774
+
+Hess	HES	-0.442239
+
+PetSmart	PETM	-0.431730
+
+Sales	M	-0.423779
+
+US	EXC	-0.422986
+
+CSX	CSX	-0.417336
+
+'s	KSS	-0.402578
+
+City	HCBK	-0.383720
+
+Hudson	HCBK	-0.383720
+
+Macy	M	-0.380230
+
+Autonomy	HPQ	-0.374348
+
+Valero	TSO	-0.368103
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.45937
+
+'s	COST	1.237550
+
+Rise	COST	0.944155
+
+Best	TGT	0.785995
+
+$	COP	0.640158
+
+Tobacco	MO	0.581307
+
+Dreamliner	BA	0.555703
+
+Chrysler	F	0.549865
+
+US	UTX	0.534981
+
+HOT	AA	0.499027
+
+United	UTX	0.487900
+
+Edison	EIX	0.486839
+
+Up	KO	0.466189
+
+Dell	EMC	0.440210
+
+Haas	DOW	0.438581
+
+Cisco	JNPR	0.414146
+
+stocks	AXP	0.385692
+
+FedEx	UPS	0.382009
+
+Symantec	SYMC	0.375769
+
+Nvidia	NVDA	0.368372
+
+Founder	BBY	-0.855306
+
+Energy	FSLR	-0.741641
+
+CEO	NDAQ	-0.739616
+
+'s	WMT	-0.653828
+
+Ambac	MBI	-0.624397
+
+Walgreen	ESRX	-0.612477
+
+Stocks	UTX	-0.594115
+
+'s	GCI	-0.581126
+
+Profit	V	-0.578184
+
+US	BMY	-0.566469
+
+'s	ABT	-0.552479
+
+Chevron	CVX	-0.529404
+
+Micron	MU	-0.522280
+
+Airline	LUV	-0.519033
+
+Gap	GPS	-0.511636
+
+tech	NFLX	-0.502647
+
+'s	IVZ	-0.486870
+
+TARP	BK	-0.441670
+
+U.S.	DIS	-0.423057
+
+Adobe	ADBE	-0.417345
+

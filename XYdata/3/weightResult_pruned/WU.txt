@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.816243
+
+Energy	BTU	0.841365
+
+U.S.	JNJ	0.828729
+
+'s	CVS	0.737797
+
+$	APA	0.731818
+
+US	PG	0.708181
+
+'s	SVU	0.678904
+
+Retail	ANF	0.657194
+
+stocks	MTG	0.609696
+
+Discover	DFS	0.594841
+
+Bank	COF	0.545451
+
+$	MO	0.545125
+
+Pulte	PHM	0.520740
+
+Symantec	SYMC	0.514009
+
+'s	MS	0.500507
+
+Times	NYT	0.471058
+
+Salesforce.com	CRM	0.444913
+
+'s	SBUX	0.435022
+
+Mattel	MAT	0.426808
+
+Refinery	CVX	0.420503
+
+Weyerhaeuser	WY	-0.917095
+
+Insurer	GNW	-0.663349
+
+Dow	PG	-0.661840
+
+Insurers	PRU	-0.642335
+
+US	DFS	-0.629966
+
+Sector	AMD	-0.619686
+
+Stocks	FSLR	-0.619020
+
+City	VLO	-0.568972
+
+Agrium	CF	-0.532127
+
+'s	VLO	-0.509600
+
+Tysabri	BIIB	-0.506982
+
+Adobe	ADBE	-0.500237
+
+Western	WDC	-0.483396
+
+Aflac	AFL	-0.472717
+
+ImClone	BMY	-0.420355
+
+FDA	LLY	-0.417284
+
+AIG	BLK	-0.411030
+
+U.S.	AA	-0.405859
+
+Stocks	SNDK	-0.378971
+
+$	EMC	-0.357240
+

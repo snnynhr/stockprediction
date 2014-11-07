@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.072132
+
+stocks	VLO	1.116160
+
+Rally	AA	1.065790
+
+Stocks	INTC	0.894056
+
+U.S.	KEY	0.887917
+
+Rise	AMD	0.838466
+
+STOCKS	SYMC	0.791012
+
+Funds	BLK	0.597287
+
+stocks	NVDA	0.588186
+
+Zions	ZION	0.553837
+
+Omniture	ADBE	0.537564
+
+Ford	F	0.507820
+
+Heart	BMY	0.501281
+
+Stocks	UNH	0.488671
+
+'s	BRK.B	0.488225
+
+'s	STJ	0.474807
+
+Sales	BBY	0.468837
+
+Edison	EIX	0.466020
+
+Tenet	THC	0.459667
+
+Record	T	0.445573
+
+$	OXY	-1.475710
+
+Apple	CSCO	-1.108370
+
+'s	CHK	-1.092510
+
+Energy	CNX	-0.649867
+
+Gap	GPS	-0.617007
+
+Discovery	DISCA	-0.508559
+
+Down	AA	-0.504236
+
+Boeing	LMT	-0.500566
+
+Medical	STJ	-0.490714
+
+Ingersoll-Rand	IR	-0.485381
+
+Spill	RIG	-0.474867
+
+Banks	WFC	-0.466111
+
+Gas	XOM	-0.462033
+
+stocks	INTC	-0.444631
+
+Retail	COST	-0.429925
+
+CarMax	KMX	-0.423783
+
+Schwab	SCHW	-0.409076
+
+Johnson	BSX	-0.408728
+
+STOCKS	BRCM	-0.402935
+
+Chevron	XOM	-0.388323
+

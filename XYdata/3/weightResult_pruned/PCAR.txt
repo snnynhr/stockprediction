@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.529741
+
+Regulators	PCG	0.621519
+
+Dell	CRM	0.616666
+
+US	CHK	0.594069
+
+Clearing	ICE	0.586551
+
+PNC	PNC	0.575584
+
+'s	COH	0.536337
+
+Refinery	LYB	0.499897
+
+First	FSLR	0.493166
+
+Tech	CSCO	0.455907
+
+BP	HAL	0.403848
+
+$	LLY	0.398441
+
+Retailers	HD	0.392099
+
+Mattel	MAT	0.386485
+
+Airline	LUV	0.383950
+
+Microsoft	EA	0.383081
+
+Ackman	JCP	0.355639
+
+'s	JNJ	0.352438
+
+Big	BIG	0.341557
+
+Tests	RF	0.339570
+
+Earnings	AA	-0.881308
+
+'s	IP	-0.866673
+
+Morning	BAC	-0.862125
+
+$	MRO	-0.788449
+
+Valero	MRO	-0.780923
+
+US	COP	-0.734802
+
+Rambus	MU	-0.713048
+
+US	BTU	-0.690635
+
+stocks	FSLR	-0.672362
+
+'s	KBH	-0.643580
+
+Stocks	SLM	-0.535914
+
+US	MU	-0.533368
+
+U.S.	BA	-0.522716
+
+Spill	RIG	-0.515689
+
+'s	MRK	-0.475050
+
+BP	APC	-0.474712
+
+Marathon	MRO	-0.466904
+
+Paccar	PCAR	-0.451725
+
+Harman	HAR	-0.450538
+
+Energy	APC	-0.443546
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.135196
+
+Stocks	UNH	1.125660
+
+Brands	YUM	1.051600
+
+HOT	CHK	0.653526
+
+FMC	FTI	0.643389
+
+United	UTX	0.641578
+
+Deere	DE	0.630268
+
+U.S.	ADI	0.588986
+
+$	CHK	0.585678
+
+Cable	TWC	0.559540
+
+'s	RSH	0.534358
+
+Cigna	CI	0.508455
+
+KB	KBH	0.502125
+
+'s	V	0.493589
+
+Sales	BBY	0.453651
+
+US	BIIB	0.433688
+
+Edison	EIX	0.433087
+
+HOT	WLP	0.433073
+
+Stocks	NKE	0.422316
+
+Duke	DUK	0.395291
+
+Sector	TXN	-1.039540
+
+Energy	CNX	-0.742673
+
+Labs	ABT	-0.674381
+
+Friday	M	-0.663285
+
+Stocks	AA	-0.577792
+
+Stocks	MU	-0.566800
+
+Coke	KO	-0.558516
+
+Edwards	EW	-0.545397
+
+Stocks	MMM	-0.529776
+
+stocks	COST	-0.488308
+
+US	HD	-0.471391
+
+Hughes	BHI	-0.464141
+
+Europe	NDAQ	-0.417419
+
+Regions	RF	-0.414637
+
+Loss	JCP	-0.385894
+
+stocks	CVX	-0.365104
+
+Chevron	CVX	-0.363906
+
+NYSE	CME	-0.361430
+
+Prudential	PRU	-0.352677
+
+Supervalu	SVU	-0.341989
+

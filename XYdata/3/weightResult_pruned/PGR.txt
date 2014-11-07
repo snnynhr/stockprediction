@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.43049
+
+'s	BMY	0.821376
+
+'s	NVDA	0.728840
+
+Retail	ANF	0.683117
+
+Nordstrom	JWN	0.647384
+
+Safeway	SWY	0.625023
+
+'s	AMAT	0.589725
+
+Drug	BIIB	0.582142
+
+US	FFIV	0.538430
+
+Stocks	HES	0.467777
+
+Bristol-Myers	BMY	0.464261
+
+Apple	NFLX	0.462818
+
+US	BUD	0.458558
+
+UnitedHealth	UNH	0.445081
+
+US	ABT	0.441069
+
+Ford	F	0.435432
+
+Moody	MCO	0.433742
+
+gains	HES	0.418704
+
+Paso	KMI	0.403432
+
+Earnings	BBY	0.403066
+
+'s	WMT	-1.147190
+
+US	NFLX	-0.781352
+
+FDA	BMY	-0.703465
+
+Lam	LRCX	-0.675145
+
+stocks	CHK	-0.603910
+
+H-P	HPQ	-0.590165
+
+Corning	GLW	-0.571259
+
+Whole	WFM	-0.562829
+
+U.S.	MDLZ	-0.534096
+
+ImClone	BMY	-0.517920
+
+Sempra	SRE	-0.488699
+
+Stocks	COST	-0.487116
+
+Hospira	HSP	-0.481182
+
+Stocks	AKS	-0.479364
+
+Gold	NEM	-0.478176
+
+FTC	WFM	-0.458160
+
+Goldman	FITB	-0.451063
+
+Credit	COF	-0.445675
+
+US	MAT	-0.433104
+
+'s	AA	-0.427426
+

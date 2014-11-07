@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.310227
+
+TV	CBS	0.833732
+
+Edison	EIX	0.710307
+
+stocks	AXP	0.703790
+
+'s	HBAN	0.670427
+
+Stocks	LEN	0.628952
+
+'s	RSH	0.620214
+
+Stocks	LO	0.614355
+
+Tech	INTC	0.583040
+
+Stocks	KO	0.508450
+
+stocks	HES	0.497620
+
+Darden	DRI	0.485335
+
+US	AES	0.481500
+
+EOG	EOG	0.479600
+
+Retail	JCP	0.464822
+
+Zions	ZION	0.453851
+
+Anadarko	APC	0.422753
+
+Stake	NYT	0.417449
+
+Moody	MCO	0.414916
+
+BP	APA	0.407259
+
+GM	F	-1.122660
+
+Heparin	BAX	-0.830210
+
+Frontier	FTR	-0.704567
+
+Federated	FII	-0.704561
+
+'s	V	-0.636143
+
+Stocks	STI	-0.616592
+
+Tysabri	BIIB	-0.576763
+
+'s	IP	-0.563070
+
+'s	TSO	-0.560994
+
+Drugs	ABT	-0.532530
+
+'s	JNJ	-0.507978
+
+U.S.	AA	-0.497080
+
+Gas	CVX	-0.491222
+
+'s	USB	-0.467013
+
+AGL	GAS	-0.447956
+
+SunTrust	STI	-0.445114
+
+Jabil	JBL	-0.440135
+
+Gap	GPS	-0.434534
+
+Videogame	EA	-0.411719
+
+U.S.	HD	-0.399825
+

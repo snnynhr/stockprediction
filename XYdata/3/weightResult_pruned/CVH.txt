@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.52276
+
+Energy	SLB	1.016050
+
+Morgan	KMI	0.931405
+
+Exchange	ICE	0.732844
+
+Bristol	BMY	0.719245
+
+Nordstrom	JWN	0.678240
+
+Emulex	BRCM	0.649782
+
+Goldman	GS	0.631989
+
+STOCKS	JNJ	0.629725
+
+'s	GNW	0.568129
+
+Diebold	UTX	0.558142
+
+Sales	NKE	0.497785
+
+Stanley	MS	0.493088
+
+US	WYNN	0.485212
+
+stocks	SWN	0.469792
+
+Banks	RF	0.465371
+
+Moody	MCO	0.463006
+
+GE	GE	0.449419
+
+'s	SWY	0.429210
+
+Diamond	DO	0.413587
+
+Up	HD	-1.054880
+
+Jude	STJ	-0.868169
+
+Google	AMD	-0.704484
+
+Hospira	HSP	-0.701247
+
+Hughes	BHI	-0.668796
+
+CME	ICE	-0.645959
+
+Health	AET	-0.553476
+
+Dow	KO	-0.520742
+
+J	BSX	-0.514605
+
+Energy	CNX	-0.510092
+
+Sales	GPS	-0.499858
+
+Stocks	KEY	-0.472074
+
+Stocks	ADBE	-0.445492
+
+'s	FCX	-0.424212
+
+Amylin	LLY	-0.413883
+
+US	CPB	-0.407935
+
+STOCKS	YHOO	-0.387702
+
+Stocks	ODP	-0.379484
+
+'s	CVX	-0.372833
+
+Icahn	BIIB	-0.358123
+

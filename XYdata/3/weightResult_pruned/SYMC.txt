@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.259351
+
+Media	TWX	1.043810
+
+Stock	BRK.B	0.991718
+
+stocks	RIG	0.691137
+
+Zions	ZION	0.677216
+
+Apple	ADBE	0.655355
+
+Profit	RAI	0.634637
+
+Home	PHM	0.623402
+
+U.S.	CSX	0.614227
+
+stocks	AIG	0.612067
+
+US	AMD	0.608253
+
+stocks	NYT	0.533669
+
+One	COF	0.510922
+
+Stocks	KO	0.461394
+
+stocks	COG	0.443211
+
+Futures	CME	0.410337
+
+Nike	NKE	0.388181
+
+Bank	RF	0.386373
+
+'s	COST	0.369500
+
+J	BSX	0.366235
+
+Thursday	MU	-1.026920
+
+Stocks	GPS	-0.735561
+
+Yahoo	ADSK	-0.719338
+
+Shares	AMD	-0.669632
+
+Express	AXP	-0.659619
+
+'s	FCX	-0.622589
+
+Stocks	FSLR	-0.622197
+
+FDA	JNJ	-0.594286
+
+Wal-Mart	KSS	-0.589792
+
+Net	M	-0.541132
+
+Stocks	ADBE	-0.522003
+
+US	MDT	-0.514256
+
+ConAgra	CAG	-0.508806
+
+US	AMP	-0.498431
+
+U.S.	PFE	-0.492992
+
+U.S.	TSN	-0.488323
+
+Systems	ADBE	-0.485350
+
+US	CI	-0.481113
+
+'s	AIG	-0.480075
+
+$	ABT	-0.469732
+

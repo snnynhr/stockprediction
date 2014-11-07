@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.469344
+
+Kinder	KMI	0.944277
+
+Credit-Card	COF	0.910234
+
+'s	MS	0.873313
+
+United	UTX	0.729103
+
+Stock	BRK.B	0.635661
+
+Financial	HIG	0.627700
+
+Energy	VLO	0.555687
+
+stocks	THC	0.541313
+
+Retailers	M	0.520203
+
+stocks	YHOO	0.481729
+
+HOT	CF	0.450790
+
+Apple	T	0.445788
+
+Occidental	OXY	0.418310
+
+US	AA	0.403383
+
+Hotels	MAR	0.389929
+
+stocks	TXN	0.380008
+
+Dow	TRV	0.375697
+
+Hormel	HRL	0.368271
+
+SEC	MCO	0.362466
+
+Buy	EMC	-1.187500
+
+Coffee	SBUX	-0.724105
+
+HOT	RSH	-0.575271
+
+Friday	M	-0.574312
+
+Stocks	RF	-0.565606
+
+Whirlpool	WHR	-0.563695
+
+US	BSX	-0.560846
+
+Hasbro	HAS	-0.502275
+
+Intuit	INTU	-0.498031
+
+Regions	RF	-0.495726
+
+FDA	MRK	-0.491516
+
+Celgene	CELG	-0.469816
+
+Depot	LOW	-0.463532
+
+Hospira	HSP	-0.454068
+
+Stocks	YHOO	-0.449025
+
+Monster	MWW	-0.444749
+
+Price	TROW	-0.394532
+
+Hershey	HSY	-0.371877
+
+Conoco	COP	-0.347371
+
+'s	AVP	-0.344619
+

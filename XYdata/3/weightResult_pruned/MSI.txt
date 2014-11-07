@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.359384
+
+After	MDLZ	1.110930
+
+Sales	TIF	0.926459
+
+Bank	PNC	0.850872
+
+stocks	TXN	0.712141
+
+$	CSCO	0.640267
+
+Drug	PFE	0.581706
+
+Airgas	ARG	0.563471
+
+U.S.	CSCO	0.469018
+
+Home	PHM	0.462843
+
+STOCKS	MRK	0.448111
+
+Tenet	THC	0.421342
+
+$	IBM	0.417767
+
+G	PG	0.388118
+
+Abbott	ABT	0.333043
+
+Salesforce.com	CRM	0.332005
+
+Boeing	BA	0.331370
+
+GameStop	GME	0.322843
+
+Lots	BIG	0.322091
+
+Stocks	TXN	0.318034
+
+Insurers	WLP	-0.904916
+
+Chevron	XOM	-0.836165
+
+Office	ODP	-0.748570
+
+CVS	ESRX	-0.737733
+
+Stocks	ORCL	-0.673340
+
+Stocks	HBAN	-0.650962
+
+Stocks	MMM	-0.616980
+
+'s	AVP	-0.606728
+
+Nvidia	NVDA	-0.606661
+
+Techs	TXN	-0.584527
+
+Rowan	RDC	-0.547313
+
+Baxter	BAX	-0.468527
+
+Banks	HBAN	-0.425619
+
+U.S.	F	-0.423141
+
+HOT	HPQ	-0.417726
+
+Exelon	NRG	-0.417717
+
+US	ADSK	-0.382605
+
+Hospira	HSP	-0.376347
+
+Apple	CSCO	-0.369440
+
+HOT	CI	-0.358983
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.139056
+
+Energy	APA	1.135760
+
+stocks	HAL	0.776404
+
+stocks	TXN	0.670056
+
+'s	YHOO	0.644843
+
+Rally	NVDA	0.641033
+
+Off	AA	0.586939
+
+Yum	YUM	0.569157
+
+'s	MET	0.556710
+
+Stocks	COF	0.474868
+
+Dow	AXP	0.455559
+
+Refinery	LYB	0.351283
+
+Apple	NFLX	0.334600
+
+Stocks	MCD	0.333545
+
+HOT	PHM	0.326584
+
+Stocks	URBN	0.322445
+
+Fisher	TMO	0.317002
+
+Deere	DE	0.310098
+
+Costco	COST	0.301156
+
+Tiffany	TIF	0.291837
+
+Harley-Davidson	HOG	-0.875965
+
+Media	NYT	-0.866326
+
+$	HES	-0.807935
+
+'s	TSO	-0.660080
+
+Google	YHOO	-0.649377
+
+'s	CME	-0.601646
+
+$	OXY	-0.597896
+
+Shares	NVDA	-0.587077
+
+Aflac	AFL	-0.536853
+
+Citrix	CTXS	-0.530538
+
+WellPoint	WLP	-0.511781
+
+Glass	GLW	-0.506876
+
+Jabil	JBL	-0.489501
+
+US	CMA	-0.488057
+
+Bond	BLK	-0.466626
+
+US	HRB	-0.446168
+
+$	LUV	-0.439500
+
+US	BSX	-0.431293
+
+Credit	COF	-0.428796
+
+Bid	EMC	-0.425977
+

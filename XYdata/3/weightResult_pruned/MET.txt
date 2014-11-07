@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.40183
+
+Stocks	WDC	0.713887
+
+AIA	AIG	0.677127
+
+Banks	AXP	0.641028
+
+'s	NVDA	0.581626
+
+Bottling	PEP	0.566553
+
+US	MET	0.558887
+
+Danaher	DHR	0.486635
+
+Stryker	SYK	0.404434
+
+Retail	ANF	0.364594
+
+CEO	BSX	0.362181
+
+Stocks	TXN	0.361915
+
+Drug	BIIB	0.339923
+
+1Q	BBY	0.331487
+
+Energy	VLO	0.329753
+
+Oil	MUR	0.323389
+
+Financial	PFG	0.322260
+
+Retailers	ANF	0.314565
+
+HOT	CHK	0.309416
+
+'s	BLK	0.306979
+
+Stocks	DD	-0.810780
+
+Stocks	MDLZ	-0.767097
+
+Coal	BTU	-0.757550
+
+Tesoro	TSO	-0.722662
+
+Manitowoc	MTW	-0.656348
+
+Symantec	SYMC	-0.649115
+
+US	AMGN	-0.614475
+
+Nanya	MU	-0.601479
+
+Tysabri	BIIB	-0.572929
+
+Comcast	CMCSA	-0.567829
+
+Sector	TXN	-0.566838
+
+SunTrust	STI	-0.557653
+
+Dynamics	GD	-0.506504
+
+'s	TWX	-0.487605
+
+Insurers	PFG	-0.457752
+
+$	HPQ	-0.446286
+
+CVS	WAG	-0.433856
+
+stocks	BBY	-0.421817
+
+Yum	YUM	-0.419859
+
+'s	UNH	-0.408423
+

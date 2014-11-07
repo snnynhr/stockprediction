@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.311331
+
+Refinery	D	0.841828
+
+stocks	NYT	0.766093
+
+US	APC	0.704932
+
+Stryker	SYK	0.652387
+
+rise	AXP	0.638841
+
+Icahn	CLX	0.610792
+
+New	NYT	0.607336
+
+Fed	WFC	0.526375
+
+Bank	PNC	0.507439
+
+SEC	MCO	0.506157
+
+GE	CMCSA	0.493164
+
+'s	THC	0.490559
+
+Stocks	UPS	0.472067
+
+PepsiCo	PEP	0.458923
+
+Rockwell	COL	0.431145
+
+1Q	LOW	0.415686
+
+Same-Store	WAG	0.406506
+
+Retailers	JCP	0.402621
+
+US	AA	0.356260
+
+stocks	OXY	-0.964932
+
+Stock	AZO	-0.714213
+
+Oil	CHK	-0.685837
+
+UPS	FDX	-0.664002
+
+Paso	KMI	-0.590865
+
+Stocks	M	-0.583433
+
+Dow	TRV	-0.581034
+
+Stock	CLF	-0.532571
+
+'s	ODP	-0.517863
+
+Hospira	HSP	-0.496562
+
+Tech	EMC	-0.479107
+
+H-P	ORCL	-0.467748
+
+Western	WDC	-0.456864
+
+Oil	APC	-0.454993
+
+DuPont	DD	-0.431285
+
+Tysabri	BIIB	-0.416655
+
+P	BRK.B	-0.365789
+
+Offer	NRG	-0.360684
+
+Baxter	BAX	-0.355189
+
+J	MRK	-0.352130
+

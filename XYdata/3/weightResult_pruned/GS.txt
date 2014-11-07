@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.227252
+
+Stocks	MMM	1.505550
+
+Products	APD	0.858192
+
+Tech	AKAM	0.844147
+
+Stocks	COF	0.780002
+
+Kinder	KMI	0.488092
+
+Stocks	CVX	0.464962
+
+Dow	DD	0.452949
+
+Cable	TWC	0.451517
+
+STOCKS	QCOM	0.451367
+
+Stocks	MCD	0.405431
+
+Monsanto	MON	0.400886
+
+Stocks	LEN	0.382680
+
+Plavix	BMY	0.375581
+
+First	FSLR	0.374668
+
+Techs	TXN	0.368824
+
+Morning	WMT	0.365326
+
+Apple	ADBE	0.360573
+
+Jabil	JBL	0.357872
+
+VeriSign	VRSN	0.350992
+
+Shares	NVDA	-1.052500
+
+Stocks	MRK	-0.893593
+
+Retailers	KSS	-0.864429
+
+Energy	NRG	-0.767851
+
+New	LUV	-0.654021
+
+US	HOG	-0.636211
+
+Deals	AIG	-0.613527
+
+Life	HIG	-0.574397
+
+MF	CME	-0.556388
+
+Oracle	ORCL	-0.554098
+
+Tech	NVDA	-0.544832
+
+Gold	NEM	-0.531259
+
+Oil	RIG	-0.502958
+
+FDA	PFE	-0.499205
+
+Stocks	FSLR	-0.476637
+
+'s	WAG	-0.426961
+
+Manitowoc	MTW	-0.416416
+
+Stocks	M	-0.411992
+
+Sector	TXN	-0.407753
+
+Stock	APOL	-0.401102
+

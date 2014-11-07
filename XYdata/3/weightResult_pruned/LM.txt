@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.20435
+
+stocks	HES	1.202780
+
+Oracle	CRM	0.915842
+
+Bank	COF	0.677106
+
+$	BMY	0.625019
+
+'s	JCP	0.620688
+
+Earnings	BBY	0.449645
+
+Solar	BRK.B	0.431597
+
+US	BMY	0.366416
+
+Newsday	CVC	0.365016
+
+CSX	CSX	0.355683
+
+Boston	BSX	0.336061
+
+CEO	JNPR	0.323106
+
+One	COF	0.321365
+
+AIG	AIG	0.313882
+
+Orders	KBH	0.305006
+
+Stocks	WLP	0.282789
+
+Diamond	DO	0.273955
+
+'s	BMY	0.268473
+
+Half	NDAQ	0.265593
+
+China	KO	-1.059680
+
+Hospira	HSP	-0.929863
+
+Oil	VLO	-0.795441
+
+American	RAI	-0.651231
+
+Franklin	BEN	-0.616464
+
+Prudential	PRU	-0.611267
+
+$	MRO	-0.570101
+
+Credit	COF	-0.554762
+
+Colgate-Palmolive	CL	-0.552691
+
+Jobs	ADP	-0.535954
+
+stocks	CHK	-0.531688
+
+Networks	JNPR	-0.516290
+
+'s	LLY	-0.514140
+
+Nasdaq	AMD	-0.506054
+
+Boeing	LUV	-0.495614
+
+stocks	NBR	-0.483648
+
+Tech	NVDA	-0.480610
+
+China	CAT	-0.465917
+
+Medtronic	STJ	-0.451036
+
+'s	MRK	-0.427300
+

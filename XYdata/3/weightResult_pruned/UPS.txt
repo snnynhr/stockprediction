@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	1.22203
+
+NYSE	CME	0.655329
+
+'s	COH	0.631250
+
+First	FSLR	0.573544
+
+biggest	NYT	0.571268
+
+Trading	NDAQ	0.482530
+
+$	NTAP	0.478330
+
+Botox	AGN	0.470055
+
+Morgan	KMI	0.452601
+
+Expeditors	EXPD	0.435229
+
+'s	TXN	0.415671
+
+US	M	0.409502
+
+Kraft	MDLZ	0.403132
+
+'s	BLK	0.383335
+
+stocks	M	0.354959
+
+'s	WFC	0.354917
+
+'s	THC	0.353908
+
+HOT	CHK	0.353599
+
+Intel	INTC	0.353114
+
+Mellon	BK	0.348666
+
+Juniper	JNPR	-0.896575
+
+housing	HD	-0.796638
+
+'s	FDX	-0.794184
+
+Bank	STI	-0.710705
+
+Circuit	JBL	-0.710469
+
+August	F	-0.661596
+
+FDA	PFE	-0.654373
+
+Bank	FITB	-0.611027
+
+drop	HD	-0.604307
+
+$	OXY	-0.579987
+
+US	MBI	-0.526665
+
+WellPoint	WLP	-0.520296
+
+Tysabri	BIIB	-0.497224
+
+Buy	JNJ	-0.494396
+
+Qualcomm	BRCM	-0.493796
+
+stocks	SHLD	-0.490760
+
+TV	CVC	-0.457616
+
+Stocks	MON	-0.446602
+
+Microsoft	YHOO	-0.431981
+
+Yahoo	ADSK	-0.427342
+

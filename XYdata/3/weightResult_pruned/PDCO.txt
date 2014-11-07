@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.040462
+
+stocks	M	0.717427
+
+Banks	AXP	0.710948
+
+List	PNC	0.674929
+
+Redstone	CBS	0.659888
+
+Stocks	HPQ	0.612465
+
+Zions	ZION	0.545861
+
+Net	HD	0.538122
+
+Tenet	THC	0.521363
+
+$	NDAQ	0.517268
+
+Bank	USB	0.510745
+
+PC	HPQ	0.505786
+
+Big	BIG	0.491125
+
+CSX	CSX	0.479148
+
+IBM	IBM	0.456292
+
+'s	ADBE	0.440117
+
+STOCKS	QCOM	0.416843
+
+Net	TGT	0.389171
+
+TV	CBS	0.358076
+
+Video	EA	0.357266
+
+Morgan	COF	-1.040000
+
+Profit	MDT	-0.861271
+
+'s	FCX	-0.791388
+
+Radio	CBS	-0.581678
+
+stocks	CHK	-0.581162
+
+Amazon	AMZN	-0.573339
+
+Bank	MTB	-0.535097
+
+US	TXN	-0.492924
+
+Coffee	SBUX	-0.489631
+
+Stocks	KSS	-0.483906
+
+Bank	COF	-0.460494
+
+Managers	BLK	-0.434166
+
+Fincl	HIG	-0.422763
+
+Lukoil	COP	-0.411265
+
+'s	YHOO	-0.392528
+
+Express	AXP	-0.389024
+
+Friday	BBY	-0.385136
+
+UnitedHealth	UNH	-0.382180
+
+Marathon	MRO	-0.377308
+
+Gas	CVX	-0.375314
+

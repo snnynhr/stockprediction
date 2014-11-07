@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.397083
+
+H-P	HPQ	0.819926
+
+Contract	NOC	0.721790
+
+Biotech	BIIB	0.719661
+
+Airlines	BA	0.713793
+
+US	VLO	0.700824
+
+AIG	MET	0.603277
+
+Lipitor	PFE	0.582863
+
+Higher	DFS	0.553833
+
+Pulte	PHM	0.549465
+
+Insurers	MBI	0.527980
+
+Stocks	STI	0.509244
+
+'s	JCP	0.481831
+
+stocks	ANF	0.479227
+
+Energy	XOM	0.477738
+
+FDA	MDT	0.470393
+
+Approves	AGN	0.465301
+
+China	YUM	0.458186
+
+stocks	CSCO	0.454949
+
+US	PFE	0.441379
+
+Financial	BK	-1.686580
+
+Net	M	-0.906582
+
+US	ICE	-0.877759
+
+US	GME	-0.822738
+
+Derivatives	CME	-0.756068
+
+Deutsche	UPS	-0.707752
+
+'s	WLP	-0.694362
+
+Stocks	ADBE	-0.632461
+
+CenturyTel	CTL	-0.617297
+
+Heinz	BRK.B	-0.597926
+
+Martin	LMT	-0.539548
+
+Coal	BTU	-0.536050
+
+Profit	WAG	-0.527712
+
+TARP	PNC	-0.487017
+
+Energy	CNX	-0.479290
+
+Sector	TXN	-0.441680
+
+Longs	CVS	-0.428504
+
+Heparin	BAX	-0.415043
+
+CEO	PFE	-0.407563
+
+Whirlpool	WHR	-0.396626
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.335536
+
+$	MBI	1.153630
+
+Allergan	AGN	0.870095
+
+Stocks	TXN	0.810691
+
+Buy	PEP	0.680673
+
+US	STJ	0.652559
+
+Higher	V	0.628656
+
+U.S.	XOM	0.617070
+
+Edison	EIX	0.612473
+
+Zions	ZION	0.609171
+
+HOT	COF	0.535662
+
+stocks	AXP	0.480232
+
+Apple	NFLX	0.453093
+
+stocks	CSCO	0.446415
+
+Tech	JNPR	0.434355
+
+Stocks	MCD	0.428689
+
+'s	MDLZ	0.414479
+
+Energy	SWN	0.411210
+
+Home	LOW	0.405431
+
+US	MET	0.403675
+
+$	HES	-0.887132
+
+Oil	BHI	-0.668339
+
+'s	CHK	-0.603674
+
+National	NOV	-0.587117
+
+Morgan	KEY	-0.546939
+
+Clearing	CME	-0.542793
+
+'s	PFE	-0.534683
+
+AutoNation	AN	-0.510091
+
+Big	BIG	-0.496012
+
+Stocks	M	-0.494339
+
+'s	HAL	-0.483386
+
+stocks	CHK	-0.451154
+
+Builders	KBH	-0.436637
+
+Hershey	HSY	-0.421431
+
+Bank	GE	-0.398676
+
+Gulf	RIG	-0.398508
+
+Sales	KSS	-0.390337
+
+Friday	M	-0.390043
+
+ImClone	BMY	-0.386502
+
+OMX	NDAQ	-0.377241
+

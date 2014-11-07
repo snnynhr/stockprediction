@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.144888
+
+Diabetes	LLY	1.017470
+
+Stock	PFE	0.841873
+
+stocks	HAL	0.799458
+
+$	STT	0.713205
+
+'s	LUV	0.700110
+
+Alibaba	YHOO	0.631294
+
+Stock	SBUX	0.596419
+
+Banks	BBT	0.592894
+
+KLA-Tencor	KLAC	0.556632
+
+'s	BLK	0.543508
+
+Stocks	TXN	0.503619
+
+HOT	MRK	0.470580
+
+One	COF	0.463212
+
+EOG	EOG	0.429400
+
+Apple	NFLX	0.420253
+
+Stock	CAT	0.410672
+
+US	APC	0.401779
+
+Earnings	BBY	0.399977
+
+Earnings	LOW	0.399477
+
+Sector	TXN	-1.030040
+
+Hospira	HSP	-0.833178
+
+Stocks	FSLR	-0.716499
+
+Data	HD	-0.688163
+
+stocks	CHK	-0.646166
+
+Sale	AIG	-0.607705
+
+Allstate	ALL	-0.590228
+
+stocks	COST	-0.572281
+
+Williams	WMB	-0.508988
+
+Loss	LEN	-0.504796
+
+AutoZone	AZO	-0.504110
+
+STOCKS	M	-0.503782
+
+TV	TWX	-0.500309
+
+U.S.	TJX	-0.498981
+
+MetLife	MET	-0.475409
+
+'s	AON	-0.471395
+
+US	VLO	-0.442343
+
+McDonald	MCD	-0.378279
+
+HOT	YHOO	-0.368025
+
+Hughes	BHI	-0.349214
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.311896
+
+Retail	TGT	0.862009
+
+gains	ADBE	0.813164
+
+Airlines	BA	0.779571
+
+Management	RSG	0.697659
+
+'s	HES	0.659465
+
+Insurers	HIG	0.618564
+
+Alibaba	YHOO	0.612893
+
+Chip	TXN	0.552506
+
+'s	BLK	0.479700
+
+Chips	AMD	0.466193
+
+US	ALTR	0.453938
+
+HOT	CHK	0.446970
+
+U.S.	STI	0.441177
+
+Philip	PM	0.438150
+
+Energy	HAL	0.422921
+
+Tobacco	MO	0.401568
+
+Stocks	MDT	0.381147
+
+Stocks	UNH	0.376529
+
+'s	ABT	0.373900
+
+stocks	CHK	-0.746870
+
+Tysabri	BIIB	-0.584845
+
+AB	BUD	-0.577988
+
+Chevron	CVX	-0.558111
+
+HOT	HPQ	-0.518681
+
+Stocks	M	-0.494921
+
+Energy	HES	-0.483975
+
+Interpublic	IPG	-0.447771
+
+Prices	CVX	-0.420143
+
+'s	CI	-0.409064
+
+US	WAG	-0.407041
+
+Comerica	CMA	-0.406637
+
+CME	CME	-0.405306
+
+Intel	NVDA	-0.401292
+
+Hughes	BHI	-0.390062
+
+Study	BSX	-0.360848
+
+Medical	STJ	-0.357069
+
+Supervalu	SVU	-0.344040
+
+'s	XOM	-0.338019
+
+American	LUV	-0.335489
+

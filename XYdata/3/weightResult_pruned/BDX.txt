@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.214396
+
+Oil	BHI	0.921655
+
+Energy	RIG	0.826338
+
+'s	MS	0.643882
+
+Port	VLO	0.620456
+
+PNC	PNC	0.617762
+
+Foods	WFM	0.535408
+
+Port	MRO	0.534202
+
+VF	VFC	0.524678
+
+Fed	USB	0.507978
+
+Sales	NKE	0.500934
+
+Morgan	USB	0.488361
+
+Stocks	GNW	0.488283
+
+Friday	TGT	0.472746
+
+Energy	SE	0.470078
+
+Stock	NDAQ	0.450495
+
+Anadarko	APC	0.449362
+
+Apollo	APOL	0.420358
+
+'s	BLK	0.414014
+
+'s	COST	0.413877
+
+CEO	PFE	-1.143290
+
+Sciences	GILD	-0.923790
+
+Unit	MRO	-0.800543
+
+Monster	MWW	-0.790250
+
+Tech	BRCM	-0.769176
+
+Adidas	NKE	-0.708482
+
+Futures	UTX	-0.640638
+
+'s	AMGN	-0.590575
+
+Drilling	RIG	-0.565919
+
+Stocks	CAG	-0.512576
+
+Ameriprise	AMP	-0.503623
+
+Stocks	BBBY	-0.502811
+
+Bank	MTB	-0.500944
+
+Clearing	CME	-0.500682
+
+'s	INTC	-0.481510
+
+'s	NYT	-0.478038
+
+Sprint	T	-0.476380
+
+Imax	DIS	-0.460131
+
+Banks	HBAN	-0.452559
+
+CME	CME	-0.435147
+

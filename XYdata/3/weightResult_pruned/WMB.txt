@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.484244
+
+Financial	COF	1.402000
+
+'s	COH	1.083220
+
+'s	JWN	0.653225
+
+US	PEP	0.643087
+
+U.S.	M	0.642487
+
+Elpida	MU	0.629056
+
+'s	TXN	0.596109
+
+Refinery	CVX	0.562394
+
+'s	VIAB	0.535277
+
+Dow	DOW	0.534901
+
+Entergy	ETR	0.510142
+
+Times	NYT	0.448919
+
+Net	LOW	0.440086
+
+US	LEN	0.436156
+
+Discover	DFS	0.398931
+
+'s	ORCL	0.392806
+
+stocks	MAT	0.380406
+
+Drug	BMY	0.371978
+
+Dynamics	GD	0.370941
+
+Ambac	MBI	-1.125550
+
+Sales	LLY	-0.863440
+
+Probe	MCO	-0.649347
+
+Stocks	M	-0.596389
+
+Tech	NTAP	-0.534532
+
+Micron	MU	-0.530246
+
+Health	UNH	-0.525996
+
+U.S.	AMD	-0.507940
+
+Stocks	FDX	-0.502781
+
+Financial	RF	-0.481406
+
+Steel	X	-0.461381
+
+Australia	CVX	-0.456291
+
+CA	CA	-0.439603
+
+FDA	BMY	-0.436288
+
+Mortgage	WFC	-0.413591
+
+Gulf	XOM	-0.401934
+
+MGIC	MTG	-0.399073
+
+'s	F	-0.395264
+
+Altera	ALTR	-0.388334
+
+H-P	HPQ	-0.387149
+

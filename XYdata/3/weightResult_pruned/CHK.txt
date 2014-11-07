@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.847383
+
+stocks	HIG	1.293220
+
+stocks	TXN	0.970969
+
+Trading	ICE	0.893640
+
+US	MDLZ	0.808215
+
+Intel	AMD	0.766582
+
+STOCKS	ORCL	0.747735
+
+Traffic	LUV	0.675704
+
+TV	DIS	0.648174
+
+Sales	COST	0.592956
+
+stocks	RIG	0.573126
+
+Wal-Mart	WMT	0.446021
+
+Apple	NFLX	0.444974
+
+MS	BIIB	0.406720
+
+Warner	VIA	0.398884
+
+Humana	HUM	0.394429
+
+Zimmer	ZMH	0.384868
+
+Morgan	MS	0.355698
+
+Stock	AA	0.355647
+
+Controls	JCI	0.349832
+
+Game	EA	-1.168340
+
+Atmel	MCHP	-0.740287
+
+Stocks	MDLZ	-0.713421
+
+Bank	USB	-0.707130
+
+US	TXN	-0.691190
+
+Friday	M	-0.636868
+
+Cyprus	C	-0.621250
+
+SanDisk	SNDK	-0.588272
+
+Lennar	LEN	-0.583226
+
+Red	RHT	-0.546917
+
+U.S.	X	-0.544656
+
+ImClone	LLY	-0.538509
+
+EMC	EMC	-0.537553
+
+Coke	KO	-0.515382
+
+Food	MDLZ	-0.512532
+
+'s	AA	-0.498809
+
+'s	RF	-0.497440
+
+FDA	ABT	-0.470715
+
+Sales	GPS	-0.457190
+
+'s	PFE	-0.456310
+

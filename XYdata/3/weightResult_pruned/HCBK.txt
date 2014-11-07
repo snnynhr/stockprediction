@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.435604
+
+'s	BLK	1.025020
+
+gas	CHK	0.802128
+
+NYSE	CME	0.654222
+
+Danaher	DHR	0.586713
+
+Deal	ESRX	0.572317
+
+Yahoo	TXN	0.544069
+
+stocks	HES	0.543657
+
+IPO	MS	0.537735
+
+Stocks	TXN	0.531765
+
+Travelers	TRV	0.476795
+
+Tenet	THC	0.470040
+
+Lots	BIG	0.439552
+
+'s	CAT	0.415694
+
+'s	MCD	0.396059
+
+Dollar	FDO	0.386056
+
+Drug	BMY	0.375915
+
+Soup	CPB	0.345540
+
+U.S.	AIG	0.337149
+
+Moody	MCO	0.321546
+
+Hospira	HSP	-1.523190
+
+'s	KBH	-1.351870
+
+Discovery	DISCA	-0.926272
+
+'s	DIS	-0.840018
+
+$	LLY	-0.743419
+
+'s	SBUX	-0.703945
+
+Oil	CVX	-0.649755
+
+Shares	AMD	-0.615961
+
+$	MRO	-0.603681
+
+Retail	HD	-0.528645
+
+McDonald	MCD	-0.528278
+
+DuPont	DD	-0.523591
+
+US	ICE	-0.515114
+
+Heparin	BAX	-0.513441
+
+US	HES	-0.505246
+
+Oil	VLO	-0.491508
+
+Life	PRU	-0.471633
+
+Bank	BBT	-0.466146
+
+Baxter	BAX	-0.464320
+
+Gas	CHK	-0.454816
+

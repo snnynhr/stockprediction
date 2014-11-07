@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.438231
+
+Corpus	VLO	0.941044
+
+Kinder	KMI	0.811653
+
+STOCKS	EMC	0.700460
+
+Home	DHI	0.667338
+
+Health	UNH	0.629162
+
+'s	STT	0.627130
+
+Restaurants	DRI	0.579692
+
+FAA	LUV	0.532203
+
+Morris	PM	0.517379
+
+Fed	WFC	0.478490
+
+Bank	WFC	0.448490
+
+Times	NYT	0.430768
+
+U.S.	CSCO	0.397792
+
+Study	ABT	0.391087
+
+Ace	ACE	0.387009
+
+Airgas	ARG	0.384294
+
+Google	YHOO	0.380719
+
+Safeway	SWY	0.371056
+
+Bristol-Myers	BMY	0.358597
+
+E*Trade	ETFC	-0.797443
+
+Hospira	HSP	-0.792156
+
+'s	HPQ	-0.785432
+
+Cancer	ABT	-0.694003
+
+U.S.	AA	-0.661285
+
+'s	GPS	-0.656340
+
+Energy	CNX	-0.648602
+
+U.S.	JNJ	-0.648098
+
+Green	SBUX	-0.645308
+
+Stocks	M	-0.614586
+
+Caremark	CVS	-0.613970
+
+'s	KBH	-0.609983
+
+Wal-Mart	TGT	-0.609747
+
+Stocks	MRK	-0.586435
+
+'s	CHK	-0.557025
+
+Intel	TXN	-0.554162
+
+stocks	CHK	-0.544813
+
+STOCKS	EA	-0.535140
+
+Republic	RSG	-0.514910
+
+'s	FDX	-0.514199
+

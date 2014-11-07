@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.393125
+
+Natural	CHK	0.868162
+
+Allergan	AGN	0.852209
+
+'s	BSX	0.827396
+
+U.S.	FDX	0.681827
+
+Retailers	TJX	0.639483
+
+Nordstrom	JWN	0.629958
+
+JDS	JDSU	0.586883
+
+$	MA	0.539915
+
+Time	VIA	0.523877
+
+'s	SJM	0.478855
+
+stocks	NVDA	0.442605
+
+Stocks	JNJ	0.433971
+
+Morris	PM	0.425398
+
+US	COST	0.422091
+
+Volume	CME	0.395582
+
+Retailers	M	0.393335
+
+Hormel	HRL	0.384513
+
+Stocks	EA	0.374884
+
+US	BIG	0.365888
+
+PetSmart	PETM	-0.756045
+
+Bid	EMC	-0.717643
+
+Netflix	DIS	-0.583440
+
+Stocks	NFLX	-0.577297
+
+Cyprus	C	-0.576869
+
+Oil	DVN	-0.572514
+
+May	COF	-0.543029
+
+'s	TWC	-0.535336
+
+Stocks	FSLR	-0.492915
+
+Rambus	MU	-0.480896
+
+US	GIS	-0.470667
+
+Friday	BBY	-0.448880
+
+Medical	STJ	-0.442853
+
+Corning	GLW	-0.418256
+
+Oil	ICE	-0.417844
+
+Chip	MU	-0.412436
+
+Express	SPLS	-0.411580
+
+Paso	KMI	-0.410755
+
+Starwood	HOT	-0.408930
+
+'s	SBUX	-0.407874
+

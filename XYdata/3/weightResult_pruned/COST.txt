@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.689873
+
+stocks	NVDA	1.004990
+
+'s	ABT	0.790614
+
+Cummins	CMI	0.767341
+
+ARM	INTC	0.702819
+
+First	FSLR	0.645630
+
+Retail	ANF	0.602836
+
+Coca-Cola	KO	0.593308
+
+Priceline	PCLN	0.566200
+
+Peabody	BTU	0.525603
+
+CEO	DUK	0.513586
+
+stocks	AXP	0.482187
+
+Tiffany	TIF	0.479486
+
+Stocks	AXP	0.432472
+
+Moody	MCO	0.429125
+
+Home	PHM	0.407213
+
+US	PFE	0.402025
+
+Panel	ABT	0.397540
+
+Zions	ZION	0.387732
+
+Danaher	DHR	0.387673
+
+Energy	APA	-1.019650
+
+Holiday	KSS	-0.827777
+
+U.S.	DIS	-0.820697
+
+stocks	SHLD	-0.771855
+
+Stocks	MRK	-0.699530
+
+Netflix	VZ	-0.687222
+
+Energy	MPC	-0.646237
+
+HOT	HAL	-0.594142
+
+'s	STI	-0.554692
+
+Jobs	AIG	-0.546386
+
+Sales	TXN	-0.538699
+
+Stocks	M	-0.491365
+
+Hughes	BHI	-0.488210
+
+'s	C	-0.485737
+
+US	PG	-0.483258
+
+Power	DUK	-0.482230
+
+CSX	CSX	-0.470264
+
+Barclays	BK	-0.468316
+
+'s	MDLZ	-0.459702
+
+STOCKS	CSCO	-0.456620
+

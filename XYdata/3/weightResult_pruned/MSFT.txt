@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.124841
+
+Street	AIG	1.360160
+
+U.S.	CHK	0.987861
+
+US	RF	0.865450
+
+Energy	BHI	0.770631
+
+King	MCD	0.674184
+
+Health	CAH	0.663498
+
+Stocks	YUM	0.576493
+
+stocks	M	0.567132
+
+Urban	URBN	0.565260
+
+Analog	ADI	0.531308
+
+Apple	NFLX	0.511870
+
+National	TXN	0.488489
+
+Cadbury	MDLZ	0.487399
+
+F5	FFIV	0.477545
+
+Nasdaq	ICE	0.460936
+
+stocks	ZION	0.440697
+
+Tech	CSCO	0.426527
+
+'s	YUM	0.403847
+
+'s	TGT	0.397358
+
+Sales	LLY	-1.673590
+
+Discovery	DISCA	-1.224080
+
+Stocks	EMC	-0.977439
+
+Earnings	AA	-0.631141
+
+Unit	MRO	-0.618694
+
+Oil	VLO	-0.603540
+
+'s	HOG	-0.595837
+
+Stocks	LMT	-0.553118
+
+MetLife	MET	-0.537021
+
+Chevron	CVX	-0.518396
+
+'s	PRU	-0.494879
+
+'s	CBS	-0.467140
+
+Microchip	MCHP	-0.438860
+
+Altria	MO	-0.417578
+
+Manitowoc	MTW	-0.415029
+
+Prices	DOW	-0.408177
+
+Intel	TXN	-0.407803
+
+Coach	COH	-0.406436
+
+Home	LEN	-0.359247
+
+Friday	M	-0.358543
+

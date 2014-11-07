@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.388112
+
+HOT	LLY	0.857955
+
+Software	ORCL	0.798500
+
+Penney	VNO	0.725926
+
+Entergy	ETR	0.684445
+
+HOT	CHK	0.655119
+
+Facebook	EBAY	0.626151
+
+'s	HAL	0.602386
+
+Insurers	MBI	0.537473
+
+VMware	EMC	0.531143
+
+sales	TGT	0.523301
+
+Up	STT	0.505712
+
+$	APA	0.500954
+
+HOT	MRK	0.500364
+
+Stocks	LEN	0.466303
+
+Deal	T	0.460245
+
+Biogen	BIIB	0.451565
+
+US	JWN	0.446863
+
+US	INTU	0.423354
+
+PepsiCo	PEP	0.422578
+
+Sector	TXN	-1.539000
+
+New	BRK.B	-0.838384
+
+Shares	NVDA	-0.778463
+
+HOT	YHOO	-0.778106
+
+Discovery	DISCA	-0.747800
+
+US	HRB	-0.735907
+
+Defense	RTN	-0.699862
+
+REIT	HCN	-0.562213
+
+Temple-Inland	IP	-0.538579
+
+'s	PFE	-0.520603
+
+Stocks	M	-0.517216
+
+Exelon	NRG	-0.459541
+
+stocks	HPQ	-0.449903
+
+Morning	AMZN	-0.437433
+
+Marriott	MAR	-0.430027
+
+Symantec	SYMC	-0.427430
+
+Whirlpool	WHR	-0.426130
+
+Labs	ABT	-0.424658
+
+Coffee	SBUX	-0.398775
+
+Gas	DVN	-0.392738
+

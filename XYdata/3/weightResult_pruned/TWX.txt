@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.00194927
+
+U.S.	KO	0.905339
+
+HOT	PG	0.816514
+
+stocks	CNX	0.809827
+
+Alibaba	YHOO	0.796619
+
+PPG	PPG	0.691627
+
+UBS	BLK	0.631290
+
+Techs	AMD	0.466895
+
+'s	WFC	0.457057
+
+Stocks	GE	0.448597
+
+Stocks	TXN	0.428839
+
+stocks	BMY	0.427765
+
+Stents	BSX	0.416547
+
+Health	WLP	0.396934
+
+Starwood	HOT	0.392481
+
+Apple	NFLX	0.392069
+
+Refinery	XOM	0.388209
+
+US	JWN	0.384336
+
+STOCKS	PHM	0.373194
+
+Berkshire	BRK.B	0.370904
+
+Chevron	XOM	-1.184110
+
+Hospira	HSP	-0.959681
+
+Sector	TXN	-0.799001
+
+'s	CME	-0.769884
+
+stocks	INTC	-0.760602
+
+Court	MO	-0.693130
+
+stocks	CHK	-0.628428
+
+Drilling	RIG	-0.624382
+
+US	BMY	-0.583292
+
+Tanker	NOC	-0.500530
+
+Stocks	MDLZ	-0.486265
+
+Sales	WMT	-0.485641
+
+Tysabri	BIIB	-0.458624
+
+Reports	TSO	-0.433483
+
+Oil	DVN	-0.430259
+
+Ambac	MBI	-0.426084
+
+Take-Two	EA	-0.423764
+
+Fall	COF	-0.412924
+
+Aflac	AFL	-0.404554
+
+'s	TWC	-0.399965
+

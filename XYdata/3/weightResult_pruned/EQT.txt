@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.644684
+
+US	MDLZ	0.609686
+
+TNT	UPS	0.508669
+
+Bank	HBAN	0.447036
+
+Oil	HAL	0.434363
+
+Stock	COST	0.424157
+
+Dow	CAT	0.403585
+
+Tech	TXN	0.402571
+
+Bank	WFC	0.399317
+
+AutoNation	AN	0.387226
+
+Stocks	CSX	0.374332
+
+First	FSLR	0.365509
+
+Third	FITB	0.359781
+
+Listings	NDAQ	0.348939
+
+Anadarko	APC	0.346185
+
+'s	BBY	0.343527
+
+Apple	T	0.338620
+
+US	BRCM	0.327148
+
+Dollar	FDO	0.316930
+
+Coca-Cola	KO	0.303841
+
+$	PEP	-1.155120
+
+Payne	HP	-1.016190
+
+Aon	AON	-0.921683
+
+Drilling	RIG	-0.839480
+
+Stocks	MRK	-0.707643
+
+'s	PHM	-0.704709
+
+energy	FSLR	-0.641403
+
+Pentair	PNR	-0.606146
+
+New	F	-0.596794
+
+Celgene	CELG	-0.584597
+
+stocks	JCP	-0.570635
+
+Stocks	RF	-0.561963
+
+China	AIG	-0.528953
+
+Google	IBM	-0.482110
+
+Apache	APA	-0.468492
+
+'s	MCD	-0.461779
+
+Sales	LLY	-0.461716
+
+T	BBT	-0.403360
+
+Chevron	CVX	-0.389052
+
+Applied	AMAT	-0.383830
+

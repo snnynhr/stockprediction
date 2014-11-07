@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.248779
+
+MeadWestvaco	MWV	1.174540
+
+Stocks	CLX	1.057700
+
+Allergan	AGN	0.928017
+
+Alibaba	YHOO	0.789802
+
+Energy	RIG	0.761401
+
+stocks	WMB	0.641406
+
+FCCU	MRO	0.621952
+
+Gas	COP	0.527175
+
+Stocks	MCD	0.510513
+
+Dow	CAT	0.502194
+
+US	APC	0.461864
+
+Tool	ITW	0.458231
+
+AIG	MET	0.446715
+
+Verizon	T	0.441800
+
+Morgan	RF	0.386194
+
+Bottling	PEP	0.379420
+
+ConocoPhillips	COP	0.357315
+
+VMware	EMC	0.348408
+
+Coca-Cola	KO	0.343084
+
+'s	CHK	-0.745037
+
+Hospira	HSP	-0.632190
+
+U.S.	TXN	-0.626551
+
+Stocks	MDLZ	-0.617963
+
+TARP	BBT	-0.615590
+
+Medicare	HUM	-0.610859
+
+Electric	AEP	-0.529546
+
+'s	FCX	-0.529519
+
+Spill	APC	-0.523925
+
+Ambac	MBI	-0.523443
+
+DuPont	DD	-0.486027
+
+Stocks	BBBY	-0.485169
+
+Stocks	MRK	-0.472014
+
+Citi	FITB	-0.464972
+
+ConAgra	CAG	-0.450962
+
+Resorts	WYNN	-0.411996
+
+UnitedHealth	UNH	-0.393628
+
+QCOM	QCOM	-0.377752
+
+Chevron	CVX	-0.369975
+
+Banks	RF	-0.320122
+

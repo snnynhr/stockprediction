@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	1.32596
+
+'s	SWY	1.034630
+
+stocks	VLO	0.914232
+
+Cloud	CRM	0.739089
+
+Exxon	COP	0.696307
+
+'s	BLK	0.686725
+
+'s	TXN	0.595273
+
+Status	VLO	0.583540
+
+BP	XOM	0.569081
+
+Banks	CMA	0.562982
+
+Alibaba	YHOO	0.500438
+
+Up	CME	0.472736
+
+U.S.	KO	0.463181
+
+NYSE	CME	0.457543
+
+AIA	AIG	0.423166
+
+Calif	PCG	0.404978
+
+stocks	AKAM	0.379410
+
+United	UTX	0.378321
+
+J	JNJ	0.377662
+
+rise	TXN	0.377560
+
+Stocks	M	-1.255070
+
+Sector	TXN	-0.956162
+
+'s	KBH	-0.879755
+
+US	MO	-0.684710
+
+earnings	AA	-0.662408
+
+Oil	CVX	-0.635677
+
+Jobs	MCD	-0.622090
+
+Dynegy	DYN	-0.618807
+
+STOCKS	EA	-0.606354
+
+Up	M	-0.528456
+
+Fall	AMD	-0.526700
+
+Hospira	HSP	-0.502432
+
+US	V	-0.485052
+
+Barclays	BLK	-0.477382
+
+Buy	WDC	-0.450241
+
+Banks	BK	-0.439733
+
+Retailers	TGT	-0.429566
+
+Red	RHT	-0.416113
+
+'s	GPS	-0.402980
+
+J	MDT	-0.392307
+

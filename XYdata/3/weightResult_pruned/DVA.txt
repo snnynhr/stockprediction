@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.32052
+
+$	PCG	0.857235
+
+Stake	NYT	0.790341
+
+Retailers	JCP	0.743949
+
+MBIA	MBI	0.656235
+
+US	QCOM	0.602131
+
+Dow	CAT	0.598626
+
+Symantec	SYMC	0.588211
+
+Disney	DIS	0.562448
+
+Outlook	TXN	0.519620
+
+Banks	BK	0.495989
+
+Stress	PNC	0.483207
+
+'s	BK	0.479666
+
+UPS	UPS	0.479377
+
+$	CSCO	0.457348
+
+Stocks	GNW	0.446923
+
+Monsanto	MON	0.423702
+
+Tiffany	TIF	0.417050
+
+HOT	JBL	0.414215
+
+CEO	DUK	0.412910
+
+BP	TSO	-0.853525
+
+U.S.	CVX	-0.797939
+
+Natural	CHK	-0.771551
+
+Banks	STI	-0.691740
+
+Software	CTXS	-0.639582
+
+FirstEnergy	FE	-0.629170
+
+$	YHOO	-0.544597
+
+McAfee	SYMC	-0.521465
+
+STOCKS	NTAP	-0.510117
+
+Legg	LM	-0.509993
+
+Wal-Mart	TGT	-0.485211
+
+Progressive	PGR	-0.465818
+
+HOT	HUM	-0.439068
+
+Take-Two	EA	-0.435460
+
+US	HAL	-0.430239
+
+'s	PXD	-0.421653
+
+Sciences	CSC	-0.409864
+
+Goldman	GS	-0.406353
+
+Airlines	LUV	-0.395981
+
+Banks	BAC	-0.392516
+

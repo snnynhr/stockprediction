@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.285323
+
+Zynga	EA	0.842617
+
+Cadbury	MDLZ	0.792314
+
+BNY	BK	0.777511
+
+Insurers	MTG	0.727603
+
+stocks	VLO	0.684417
+
+Up	MCD	0.637391
+
+Exxon	COP	0.618695
+
+IPO	V	0.608716
+
+MGIC	MTG	0.598703
+
+Stocks	UNH	0.575375
+
+US	COF	0.503754
+
+stocks	HES	0.465560
+
+Foods	WFM	0.438881
+
+Seagate	WDC	0.437193
+
+HOT	R	0.418580
+
+US	CMG	0.387999
+
+'s	CPB	0.373771
+
+Harley	HOG	0.373127
+
+Bank	STI	0.348015
+
+Raytheon	RTN	-0.746868
+
+Stocks	APC	-0.602585
+
+Pfizer	PFE	-0.567850
+
+Energy	MRO	-0.540142
+
+'s	GCI	-0.500485
+
+Spill	RIG	-0.497533
+
+Sempra	SRE	-0.487823
+
+Energy	CVX	-0.477420
+
+American	LUV	-0.462163
+
+Supervalu	SVU	-0.461767
+
+Deutsche	UPS	-0.456218
+
+RadioShack	RSH	-0.451786
+
+Intel	TXN	-0.449337
+
+'s	CSCO	-0.434462
+
+Coal	CNX	-0.429122
+
+Hospira	HSP	-0.418693
+
+Friday	BBY	-0.406888
+
+$	CAG	-0.396107
+
+Heparin	BAX	-0.380050
+
+Union	UNP	-0.355211
+

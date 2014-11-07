@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.030074
+
+stocks	RIG	0.809077
+
+stocks	AMGN	0.730114
+
+'s	MS	0.727439
+
+Up	MDT	0.648709
+
+Medtronic	BSX	0.640351
+
+US	BBBY	0.569470
+
+Times	NYT	0.564241
+
+stocks	AKAM	0.563433
+
+Safeway	SWY	0.518814
+
+$	CHK	0.516019
+
+Credit-Card	COF	0.474009
+
+Agencies	MCO	0.451482
+
+Genworth	GNW	0.432724
+
+Morgan	RF	0.406365
+
+Symantec	SYMC	0.400411
+
+Salesforce.com	CRM	0.383652
+
+Earnings	BBY	0.378682
+
+TECH	AMAT	0.374417
+
+gas	CHK	0.372637
+
+Buy	QCOM	-0.882224
+
+Coffee	SBUX	-0.861080
+
+Stocks	SWY	-0.823528
+
+Shares	AMD	-0.683989
+
+Drugs	ABT	-0.612605
+
+Qualcomm	BRCM	-0.585176
+
+NYSE	ICE	-0.559775
+
+FDA	BAX	-0.545465
+
+$	HES	-0.521688
+
+Sales	M	-0.512753
+
+J	PFE	-0.500888
+
+'s	AMZN	-0.469265
+
+Banks	BK	-0.448265
+
+Moody	MCO	-0.413494
+
+$	GE	-0.382613
+
+Coke	KO	-0.358730
+
+Sales	GM	-0.353010
+
+'s	KBH	-0.351303
+
+Oil	APC	-0.342014
+
+CF	CF	-0.338072
+

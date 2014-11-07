@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.392506
+
+Disney	DIS	0.780406
+
+US	RHT	0.682585
+
+Newsday	CVC	0.627451
+
+Stryker	SYK	0.596613
+
+Gains	TXN	0.584769
+
+Morning	WMT	0.580185
+
+'s	UTX	0.571256
+
+'s	BAC	0.543691
+
+stocks	HAL	0.542942
+
+Capacity	LUV	0.536884
+
+Banks	BBT	0.536221
+
+Diamond	DO	0.522805
+
+Chemical	EMN	0.509762
+
+US	PFE	0.509360
+
+Hormel	HRL	0.501221
+
+U.S.	M	0.478410
+
+'s	JWN	0.450594
+
+Sales	COST	0.426873
+
+PNC	PNC	0.423220
+
+Stocks	EMC	-0.970414
+
+Manitowoc	MTW	-0.881407
+
+FDA	PFE	-0.880958
+
+BP	TSO	-0.851686
+
+Stocks	MRK	-0.820578
+
+Hasbro	MAT	-0.778657
+
+Gas	APA	-0.768169
+
+Bank	COF	-0.766740
+
+Sales	GM	-0.763680
+
+Credit	MA	-0.705445
+
+Valero	TSO	-0.675971
+
+'s	WAG	-0.674331
+
+Chevron	XOM	-0.660144
+
+Retailers	TGT	-0.629884
+
+Lorillard	LO	-0.580534
+
+Buy	RSH	-0.539242
+
+Retailers	KSS	-0.495592
+
+ADP	ADP	-0.493535
+
+Oil	COP	-0.492287
+
+Retailers	JWN	-0.491500
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.988521
+
+Up	BRK.B	0.767783
+
+Retailers	ANF	0.563818
+
+Management	RSG	0.501864
+
+Chip	TXN	0.493789
+
+Stocks	LEN	0.486239
+
+Transocean	RIG	0.478451
+
+stocks	VLO	0.467546
+
+Retail	ANF	0.462086
+
+EBay	EBAY	0.458619
+
+Works	ITW	0.457497
+
+Tenet	THC	0.444713
+
+Stocks	PG	0.434477
+
+Horton	DHI	0.414227
+
+Zions	ZION	0.413125
+
+Refinery	CVX	0.403939
+
+Intel	QCOM	0.374594
+
+Cadbury	HSY	0.362696
+
+Edison	EIX	0.341501
+
+$	ALL	0.332626
+
+Stocks	M	-1.339060
+
+stocks	INTC	-0.983360
+
+Status	TSO	-0.973600
+
+Banks	BK	-0.753111
+
+$	HPQ	-0.738076
+
+'s	GILD	-0.703095
+
+US	WAG	-0.646254
+
+U.S.	DHI	-0.618939
+
+Lilly	BMY	-0.563263
+
+Sallie	SLM	-0.544483
+
+oil	HAL	-0.528952
+
+Sales	M	-0.528746
+
+U.S.	AA	-0.482920
+
+Verizon	VZ	-0.481972
+
+NetApp	NTAP	-0.475327
+
+Tech	TXN	-0.448992
+
+'s	GE	-0.439916
+
+Regions	RF	-0.418957
+
+Hughes	BHI	-0.416466
+
+CME	CME	-0.349423
+

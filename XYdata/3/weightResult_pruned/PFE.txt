@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.360142
+
+Nabors	NBR	0.717084
+
+Edison	EIX	0.690769
+
+Banks	RF	0.654601
+
+Bank	WFC	0.630841
+
+Zimmer	ZMH	0.620630
+
+Tech	ORCL	0.615790
+
+Energy	CNX	0.577159
+
+Best	TGT	0.567729
+
+Copper	FCX	0.567695
+
+Stocks	KO	0.552460
+
+Tenet	THC	0.508795
+
+Issuers	COF	0.502048
+
+IPO	YHOO	0.488226
+
+FDA	MRK	0.482541
+
+Bond	MBI	0.479675
+
+Morgan	RF	0.470009
+
+AOL	TWX	0.444992
+
+Wireless	VZ	0.436515
+
+Friday	CRM	0.406375
+
+Yahoo	EBAY	-0.843635
+
+Gilead	GILD	-0.830005
+
+Medicare	HUM	-0.792106
+
+Builders	KBH	-0.736855
+
+Cable	TWC	-0.711447
+
+Up	HPQ	-0.682404
+
+Deutsche	UPS	-0.623575
+
+US	COST	-0.592171
+
+Short	NDAQ	-0.590826
+
+US	GIS	-0.539240
+
+Stocks	CVS	-0.527085
+
+Hospira	HSP	-0.504143
+
+stocks	SHLD	-0.500753
+
+Universal	CMCSA	-0.485538
+
+FDA	LLY	-0.484945
+
+US	YUM	-0.480976
+
+Stocks	ADBE	-0.469154
+
+TJX	TJX	-0.437455
+
+Starbucks	SBUX	-0.428639
+
+Firms	MCO	-0.397317
+

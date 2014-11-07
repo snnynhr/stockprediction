@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.506641
+
+Regulators	PCG	1.028920
+
+energy	VLO	0.762547
+
+Chip	TXN	0.739063
+
+stocks	PHM	0.676770
+
+Tobacco	MO	0.534235
+
+Penney	KSS	0.516322
+
+gains	VLO	0.511756
+
+Honeywell	HON	0.476705
+
+First	FSLR	0.475181
+
+Cliffs	CLF	0.472330
+
+Coca-Cola	KO	0.468331
+
+Calpine	NRG	0.467044
+
+Botox	AGN	0.465820
+
+$	BMY	0.457630
+
+HOT	MRK	0.414170
+
+Morgan	MS	0.392507
+
+Regional	STI	0.373685
+
+U.S.	M	0.367128
+
+$	NDAQ	0.365405
+
+American	AEP	-1.286770
+
+Goldman	COF	-0.999264
+
+Coke	PEP	-0.996963
+
+Red	RHT	-0.736305
+
+OMX	NDAQ	-0.648827
+
+Bancorp	FITB	-0.648153
+
+Power	DUK	-0.602856
+
+InBev	BUD	-0.528093
+
+'s	ESRX	-0.524541
+
+Retail	WAG	-0.515902
+
+Danaher	DHR	-0.496154
+
+Banks	FHN	-0.484767
+
+HOT	DG	-0.476045
+
+'s	TSO	-0.470663
+
+CBS	CBS	-0.467385
+
+DR	DHI	-0.462337
+
+Invesco	IVZ	-0.456735
+
+Airlines	LUV	-0.437362
+
+'s	ADM	-0.431210
+
+Franklin	BEN	-0.427155
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.0887319
+
+Day	AIG	0.748835
+
+Sale	AIG	0.702496
+
+Retail	TGT	0.606382
+
+Bank	RF	0.606106
+
+Energy	WMB	0.535644
+
+Intel	AMD	0.501775
+
+U.S.	NOC	0.492537
+
+Deal	BRK.B	0.469051
+
+'s	PHM	0.467305
+
+stocks	XOM	0.465105
+
+Stocks	PEP	0.449480
+
+Nabors	NBR	0.385250
+
+AIA	AIG	0.381469
+
+First	FSLR	0.366554
+
+PNC	PNC	0.348065
+
+HOT	BCR	0.311124
+
+Chip	NVDA	0.302902
+
+STOCKS	STX	0.297538
+
+NYSE	ICE	0.292931
+
+Oil	CHK	-1.093700
+
+Insurers	UNH	-0.792440
+
+U.S.	T	-0.682590
+
+$	CHK	-0.638795
+
+Stocks	MDLZ	-0.604087
+
+EMC	EMC	-0.547593
+
+US	BSX	-0.535618
+
+Genworth	GNW	-0.518930
+
+BP	DVN	-0.454038
+
+Stocks	KBH	-0.453932
+
+Earnings	HD	-0.453277
+
+Caterpillar	CAT	-0.440990
+
+Retailers	SHLD	-0.439390
+
+Kellogg	K	-0.370566
+
+Stocks	EMC	-0.369345
+
+Stocks	VLO	-0.365698
+
+Materials	AMAT	-0.346470
+
+Supervalu	SVU	-0.346322
+
+Lowe	LOW	-0.342083
+
+Intel	NVDA	-0.323342
+

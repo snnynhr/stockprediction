@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.663104
+
+U.S.	GE	0.834587
+
+AOL	TWX	0.769242
+
+stocks	TXN	0.734219
+
+Treasury	AIG	0.723839
+
+Earnings	LOW	0.469249
+
+Rig	RIG	0.465112
+
+Stryker	SYK	0.456254
+
+ICE	ICE	0.431917
+
+$	EA	0.393290
+
+Builders	DHI	0.380377
+
+'s	SHLD	0.374676
+
+Chip	TXN	0.372529
+
+U.S.	M	0.352409
+
+Illinois	ITW	0.346366
+
+One	COF	0.344374
+
+Stake	BRK.B	0.341250
+
+'s	WDC	0.340195
+
+Retail	M	0.331385
+
+Deere	DE	0.322642
+
+Defense	LMT	-0.946087
+
+Stocks	MRK	-0.898319
+
+'s	IP	-0.784897
+
+Google	AMD	-0.762092
+
+'s	SBUX	-0.719767
+
+stocks	CHK	-0.706257
+
+$	HES	-0.693980
+
+U.S.	DIS	-0.689157
+
+Prices	CVX	-0.666994
+
+Martin	LMT	-0.603999
+
+stocks	OXY	-0.578616
+
+Global	CME	-0.576414
+
+Bid	EMC	-0.567239
+
+Celgene	CELG	-0.532956
+
+IPO	EBAY	-0.521227
+
+Credit	MA	-0.512530
+
+'s	SLB	-0.462522
+
+Stocks	AMAT	-0.461424
+
+Noble	NBL	-0.413606
+
+$	WFC	-0.389112
+

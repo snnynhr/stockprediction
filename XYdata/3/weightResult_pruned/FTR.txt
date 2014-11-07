@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.306931
+
+U.S.	NKE	0.808791
+
+FDA	ABT	0.783721
+
+Texas	VLO	0.714851
+
+Horton	DHI	0.698659
+
+Airline	LUV	0.642204
+
+US	LEN	0.609105
+
+Cloud	CRM	0.606371
+
+HOT	ANF	0.557608
+
+$	HAL	0.547064
+
+Hathaway	BRK.B	0.528913
+
+Stanley	MS	0.490799
+
+'s	ZION	0.482543
+
+Stocks	CIEN	0.443563
+
+Warner	TWX	0.443269
+
+'s	COST	0.429327
+
+CEO	DUK	0.425187
+
+HOT	SEE	0.414290
+
+Johnson	JCI	0.408586
+
+Wal-Mart	COST	0.371364
+
+Media	NYT	-0.841940
+
+$	PEP	-0.835200
+
+Adidas	NKE	-0.796369
+
+stocks	SHLD	-0.650883
+
+Stocks	KBH	-0.625284
+
+Bristol-Myers	BMY	-0.619181
+
+Insurers	PRU	-0.573180
+
+Temple-Inland	IP	-0.553566
+
+Invesco	IVZ	-0.517872
+
+U.S.	HPQ	-0.517676
+
+Global	CME	-0.511125
+
+Discovery	DISCA	-0.505725
+
+'s	FCX	-0.492694
+
+'s	PFE	-0.454190
+
+'s	ANF	-0.441457
+
+Lilly	LLY	-0.440569
+
+Oil	VLO	-0.416630
+
+Banks	BK	-0.415535
+
+sales	M	-0.403679
+
+Sales	GM	-0.394262
+

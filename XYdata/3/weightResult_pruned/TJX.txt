@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.236375
+
+U.S.	CVX	0.921356
+
+Kinder	KMI	0.850088
+
+Stocks	MDT	0.740748
+
+Power	ETR	0.726075
+
+Schlumberger	SLB	0.639475
+
+Day	AIG	0.604454
+
+Sales	TGT	0.547896
+
+Anadarko	APC	0.526958
+
+Aon	AON	0.525788
+
+Bristol-Myers	BMY	0.474176
+
+Masco	MAS	0.466049
+
+stocks	CSCO	0.465654
+
+'s	EL	0.462486
+
+Tenet	THC	0.453690
+
+GE	GE	0.441296
+
+Retail	TGT	0.400523
+
+U.S.	AXP	0.398746
+
+Energy	CHK	0.390681
+
+Google	IACI	0.377759
+
+STOCKS	ADBE	-1.191820
+
+Heparin	BAX	-0.856410
+
+'s	WAG	-0.765941
+
+Comcast	CMCSA	-0.722774
+
+Morgan	COF	-0.657038
+
+Stocks	COST	-0.602952
+
+Hughes	BHI	-0.572282
+
+Red	RHT	-0.560561
+
+U.S.	HUM	-0.558496
+
+Boeing	LMT	-0.554080
+
+Manitowoc	MTW	-0.542762
+
+Earnings	AA	-0.487016
+
+US	GIS	-0.482492
+
+'s	AVP	-0.480459
+
+Caterpillar	CAT	-0.466752
+
+CFTC	ICE	-0.462189
+
+Radio	CBS	-0.433809
+
+Bank	STI	-0.415950
+
+Sales	ANF	-0.405163
+
+Bank	BBT	-0.392313
+

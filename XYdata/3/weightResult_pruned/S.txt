@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.479802
+
+Lifesciences	EW	0.908227
+
+Stocks	MBI	0.846589
+
+Stocks	FCX	0.832406
+
+Stocks	CVX	0.805895
+
+AmerisourceBergen	ABC	0.773800
+
+US	NDAQ	0.701666
+
+Humana	HUM	0.671152
+
+up	VLO	0.667100
+
+Stocks	SYMC	0.620828
+
+Grainger	GWW	0.535117
+
+Facebook	NDAQ	0.518020
+
+Dow	DOW	0.511489
+
+Pulte	PHM	0.482597
+
+Berkshire	BRK.B	0.480443
+
+Peabody	BTU	0.473750
+
+stocks	LEN	0.462333
+
+Net	UNH	0.420019
+
+ICE	ICE	0.411877
+
+Apple	QCOM	0.398790
+
+Stocks	MRK	-0.983424
+
+Oil	APC	-0.973800
+
+Marathon	MRO	-0.935409
+
+Facebook	HPQ	-0.893620
+
+Buy	KO	-0.706582
+
+Stocks	QCOM	-0.680627
+
+Apple	YHOO	-0.666985
+
+HOT	EMN	-0.648204
+
+Reports	COP	-0.555167
+
+'s	KSS	-0.541424
+
+'s	DIS	-0.533413
+
+CA	CA	-0.490014
+
+Take-Two	EA	-0.487093
+
+Marsh	MMC	-0.473748
+
+CEO	NFLX	-0.418803
+
+ETF	STT	-0.414259
+
+LNG	COP	-0.408878
+
+'s	VZ	-0.405107
+
+Drug	LLY	-0.404791
+
+Morgan	MS	-0.399553
+

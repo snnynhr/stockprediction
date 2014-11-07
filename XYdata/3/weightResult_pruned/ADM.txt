@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.225141
+
+Retail	ANF	1.223150
+
+Resources	EOG	0.881947
+
+MeadWestvaco	MWV	0.823387
+
+Stocks	UNH	0.801040
+
+Horton	DHI	0.744458
+
+STOCKS	QCOM	0.722840
+
+Tech	CSCO	0.663042
+
+Stocks	LLTC	0.582601
+
+ETFs	BLK	0.543326
+
+Stocks	ALTR	0.497892
+
+stocks	BHI	0.490223
+
+Goodyear	GT	0.480916
+
+$	APC	0.473959
+
+Plavix	BMY	0.454617
+
+Sales	BBY	0.450855
+
+Coventry	AET	0.435789
+
+Stocks	JBL	0.413558
+
+Energy	VLO	0.413474
+
+AIA	AIG	0.409503
+
+'s	MBI	-1.035020
+
+U.S.	MS	-0.787332
+
+Red	RHT	-0.761532
+
+Stocks	TROW	-0.627765
+
+Stocks	JNPR	-0.592348
+
+US	IP	-0.586989
+
+$	BSX	-0.522439
+
+US	CPB	-0.517579
+
+Amylin	LLY	-0.492312
+
+stocks	CHK	-0.491076
+
+Schlumberger	SLB	-0.477226
+
+Stocks	KEY	-0.463594
+
+Spill	RIG	-0.455620
+
+$	SO	-0.454400
+
+Retailers	COST	-0.451146
+
+Jabil	JBL	-0.439505
+
+Oil	APC	-0.436559
+
+$	MDT	-0.425350
+
+Defense	LMT	-0.421189
+
+Europe	NDAQ	-0.420549
+

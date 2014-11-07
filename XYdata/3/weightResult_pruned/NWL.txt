@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.317333
+
+Entergy	ETR	0.830276
+
+stocks	HES	0.725811
+
+Nucor	NUE	0.684598
+
+Yum	YUM	0.649560
+
+First	FSLR	0.646050
+
+Zions	ZION	0.643783
+
+'s	MCO	0.628944
+
+stocks	HAL	0.605948
+
+Oil	PSX	0.571905
+
+Sector	HES	0.561681
+
+'s	BLK	0.532353
+
+EBay	EBAY	0.508793
+
+Insurers	MBI	0.506074
+
+Stocks	HD	0.458313
+
+'s	LLY	0.431293
+
+Shut	MRO	0.425671
+
+Stocks	UNH	0.413324
+
+Abbott	ABT	0.393540
+
+Trading	CME	0.392157
+
+'s	CHK	-0.791184
+
+Temple-Inland	IP	-0.770594
+
+Viacom	CBS	-0.655481
+
+Labs	ABT	-0.621121
+
+US	X	-0.574596
+
+stocks	CHK	-0.571844
+
+Heparin	BAX	-0.567346
+
+STOCKS	CTXS	-0.545421
+
+US	ICE	-0.533318
+
+Tysabri	BIIB	-0.524545
+
+HOT	CAT	-0.508633
+
+Sales	GME	-0.502335
+
+FAA	LUV	-0.487816
+
+WellPoint	WLP	-0.460838
+
+STOCKS	HUM	-0.438180
+
+Domain	EMC	-0.437436
+
+Stocks	M	-0.429684
+
+Xerox	XRX	-0.426464
+
+Stocks	SBUX	-0.397817
+
+T	MTB	-0.387585
+

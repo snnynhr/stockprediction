@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	1.08336
+
+stocks	TXN	1.092510
+
+Rally	AA	0.812405
+
+Credit-Card	COF	0.727538
+
+'s	JCP	0.637013
+
+Ford	F	0.588108
+
+Terex	TEX	0.574667
+
+'s	RIG	0.534669
+
+U.S.	DD	0.514701
+
+Sales	BBY	0.433833
+
+Progress	DUK	0.432313
+
+Campbell	CPB	0.406478
+
+'s	DD	0.391187
+
+'s	MCO	0.385857
+
+US	JWN	0.384468
+
+Intel	TXN	0.373043
+
+Tobacco	MO	0.367961
+
+$	MA	0.360171
+
+Goodyear	GT	0.356374
+
+$	XRX	0.331789
+
+Barbie	MAT	-1.136750
+
+'s	KBH	-0.762482
+
+'s	TWC	-0.757902
+
+Gas	VLO	-0.721534
+
+'s	GIS	-0.681529
+
+U.S.	QCOM	-0.635848
+
+Spill	RIG	-0.600546
+
+Health	CI	-0.592471
+
+Bank	STT	-0.585485
+
+'s	MAT	-0.569814
+
+Drilling	RIG	-0.567616
+
+Copper	FCX	-0.549646
+
+Monster	MWW	-0.544586
+
+HOT	YUM	-0.510949
+
+U.S.	AA	-0.465164
+
+HOT	HUM	-0.459433
+
+Gold	NEM	-0.450997
+
+stocks	CHK	-0.434002
+
+H-P	ORCL	-0.433769
+
+BofA	RF	-0.431796
+

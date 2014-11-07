@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.506726
+
+DaVita	DVA	1.009010
+
+'s	QCOM	0.951998
+
+Hormel	HRL	0.914927
+
+Darden	DRI	0.859954
+
+Operations	TSO	0.800345
+
+Buy	TGT	0.783621
+
+India	BA	0.725800
+
+Goldman	KMI	0.666531
+
+US	CLX	0.596291
+
+Biogen	BIIB	0.587589
+
+Pulte	PHM	0.525253
+
+Banks	STT	0.452502
+
+Costco	COST	0.439558
+
+Health	HUM	0.425270
+
+Allergan	AGN	0.421514
+
+Apache	APA	0.416020
+
+HOT	ORCL	0.412890
+
+Oil	XOM	0.381351
+
+Financial	PNC	0.374929
+
+'s	KBH	-1.244260
+
+US	MET	-0.993626
+
+Emulex	BRCM	-0.666435
+
+China	AA	-0.659445
+
+U.S.	KEY	-0.650865
+
+Friday	BBY	-0.603833
+
+'s	IP	-0.579162
+
+Fall	AA	-0.563564
+
+Apple	INTC	-0.553180
+
+U.S.	JNJ	-0.548615
+
+QCOM	QCOM	-0.540526
+
+Nan	AIG	-0.526811
+
+U.S.	AMZN	-0.499714
+
+Sales	AZO	-0.487197
+
+Western	WDC	-0.469907
+
+Martin	LMT	-0.458369
+
+Computer	CSC	-0.455085
+
+Power	DUK	-0.430579
+
+$	MRO	-0.429169
+
+Sector	TXN	-0.417336
+

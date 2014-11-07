@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.428651
+
+Morgan	STI	0.714200
+
+Waste	RSG	0.693899
+
+stocks	TRV	0.687397
+
+Stock	BLK	0.642785
+
+Gains	SNDK	0.633801
+
+EA	EA	0.571886
+
+AutoZone	AZO	0.562472
+
+US	AA	0.540863
+
+US	DHI	0.471865
+
+Tech	NVDA	0.470011
+
+Goldman	STT	0.410852
+
+US	PG	0.409699
+
+Morgan	MS	0.408495
+
+T-Mobile	T	0.396618
+
+Instruments	TXN	0.383128
+
+U.S.	NKE	0.368024
+
+Botox	AGN	0.356174
+
+AirTran	LUV	0.356129
+
+Tiffany	TIF	0.354914
+
+'s	NYT	-1.254550
+
+$	HES	-1.133150
+
+Heparin	BAX	-1.068820
+
+Drugs	ABT	-1.021010
+
+Stock	MU	-0.958207
+
+stocks	MBI	-0.727186
+
+$	DFS	-0.628562
+
+Friday	M	-0.609597
+
+$	APC	-0.592154
+
+Builders	KBH	-0.548601
+
+'s	DIS	-0.536548
+
+Banks	BK	-0.511461
+
+Wal-Mart	HD	-0.506604
+
+Bristol-Myers	BMY	-0.485937
+
+Comcast	CMCSA	-0.443673
+
+AIG	BLK	-0.420363
+
+Netflix	DIS	-0.417455
+
+Housing	LEN	-0.415885
+
+Stocks	AA	-0.399773
+
+Cable	CMCSA	-0.384360
+

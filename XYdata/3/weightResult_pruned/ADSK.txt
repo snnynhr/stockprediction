@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.681349
+
+HOT	MRK	0.757643
+
+Higher	CAT	0.753859
+
+One	COF	0.739957
+
+Higher	TXN	0.658873
+
+Gains	AXP	0.609559
+
+stocks	IBM	0.606220
+
+'s	BMY	0.583076
+
+PepsiCo	PEP	0.517270
+
+Ford	F	0.504434
+
+Botox	AGN	0.474316
+
+Costco	COST	0.469789
+
+Banks	KEY	0.468215
+
+Stocks	UNH	0.438275
+
+Tyson	TSN	0.419642
+
+Tech	TXN	0.414683
+
+Lots	BIG	0.395465
+
+Stocks	CSCO	0.386328
+
+Penney	M	0.379910
+
+HOT	CHK	0.377716
+
+Sales	ADBE	-1.009900
+
+ETFs	STT	-0.841232
+
+Higher	CVX	-0.724186
+
+Martin	LMT	-0.713536
+
+Qualcomm	BRCM	-0.700473
+
+Says	LLY	-0.638888
+
+'s	PG	-0.633535
+
+Friday	M	-0.629983
+
+Seagate	STX	-0.629721
+
+HOT	PFE	-0.621412
+
+Energy	COP	-0.567286
+
+US	EXC	-0.553452
+
+Solar	AMAT	-0.541838
+
+Lorillard	LO	-0.535691
+
+Yahoo	ADSK	-0.532794
+
+Energy	CMS	-0.462673
+
+'s	ADM	-0.440068
+
+tech	TXN	-0.435226
+
+Humana	HUM	-0.430471
+
+NetApp	NTAP	-0.412777
+

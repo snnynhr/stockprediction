@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.88663
+
+US	NDAQ	0.812139
+
+Sales	TIF	0.811970
+
+higher	AXP	0.695487
+
+HOT	QCOM	0.610757
+
+Banks	CMA	0.584996
+
+Corpus	VLO	0.583113
+
+Health	AET	0.581262
+
+Pharma	CAH	0.538539
+
+'s	YUM	0.535352
+
+Edison	EIX	0.489455
+
+FAA	LUV	0.476182
+
+U.S.	NKE	0.466759
+
+Aon	AON	0.442491
+
+Times	NYT	0.429188
+
+Delta	LUV	0.410698
+
+Student	SLM	0.408868
+
+Staples	ODP	0.407739
+
+US	BRCM	0.395444
+
+Boston	BSX	0.376075
+
+U.S.	DIS	-0.818055
+
+Stocks	QCOM	-0.764073
+
+Life	PRU	-0.756979
+
+Mountain	SBUX	-0.745257
+
+Stock	SHLD	-0.730449
+
+AvalonBay	AVB	-0.665397
+
+'s	QCOM	-0.647623
+
+'s	HOG	-0.640275
+
+Manitowoc	MTW	-0.585052
+
+'s	UNH	-0.576509
+
+Insurers	PRU	-0.566489
+
+CenturyTel	CTL	-0.566477
+
+Heparin	BAX	-0.559453
+
+Stent	ABT	-0.508039
+
+Energy	NRG	-0.497366
+
+US	GNW	-0.486901
+
+Energy	MRO	-0.470670
+
+Glass	GLW	-0.466810
+
+sales	M	-0.451864
+
+TECH	BRCM	-0.445503
+

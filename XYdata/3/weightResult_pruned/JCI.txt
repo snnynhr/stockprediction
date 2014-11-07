@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.129659
+
+Stocks	CMCSA	0.779744
+
+HOT	LLY	0.766195
+
+Oil	APA	0.689406
+
+Apple	NFLX	0.673956
+
+JDS	JDSU	0.650508
+
+J	AMGN	0.624701
+
+US	CSCO	0.618123
+
+Wal-Mart	WMT	0.564309
+
+$	V	0.495410
+
+Costco	COST	0.474182
+
+Heinz	BRK.B	0.473831
+
+stocks	NVDA	0.449377
+
+'s	TGT	0.444045
+
+First	FSLR	0.423540
+
+Lots	BIG	0.419514
+
+Refinery	MRO	0.410318
+
+Waste	WM	0.403120
+
+PC	HPQ	0.382535
+
+stocks	M	0.378296
+
+Drugs	ABT	-1.264240
+
+Apple	INTC	-1.095890
+
+Textron	TXT	-0.925420
+
+US	CBS	-0.852022
+
+Rambus	MU	-0.811918
+
+Stocks	HBAN	-0.744244
+
+Marathon	MRO	-0.629239
+
+Facebook	NDAQ	-0.589126
+
+March	COST	-0.587551
+
+Earnings	AA	-0.509170
+
+'s	CHK	-0.498923
+
+'s	CME	-0.465632
+
+Friday	BBY	-0.460006
+
+Hospira	HSP	-0.451972
+
+Coal	BTU	-0.426789
+
+Temple-Inland	IP	-0.416752
+
+Southwest	LUV	-0.411639
+
+Kimberly-Clark	KMB	-0.399717
+
+Builders	KBH	-0.399697
+
+'s	EBAY	-0.394347
+

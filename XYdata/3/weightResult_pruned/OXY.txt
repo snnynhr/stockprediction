@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.589299
+
+Bank	BLK	1.075380
+
+Discover	V	0.838679
+
+Sales	TJX	0.711070
+
+'s	MET	0.693802
+
+stocks	TXN	0.653634
+
+BofA	USB	0.647146
+
+Buffett	KO	0.616425
+
+'s	BA	0.598094
+
+Credit-Card	COF	0.566528
+
+STOCKS	ORCL	0.561588
+
+Retailers	HD	0.536266
+
+AOL	TWX	0.532600
+
+Goodyear	GT	0.528181
+
+Facebook	NDAQ	0.499688
+
+'s	BBY	0.489961
+
+'s	MS	0.484060
+
+After	ADP	0.481483
+
+stocks	NBL	0.464507
+
+Edwards	EW	0.444067
+
+'s	WAG	-0.897622
+
+Auto	F	-0.814908
+
+Medical	VAR	-0.813658
+
+'s	BAC	-0.773249
+
+Lennar	LEN	-0.690488
+
+Friday	M	-0.668642
+
+stocks	CHK	-0.584453
+
+CenturyTel	CTL	-0.582230
+
+lower	VLO	-0.578388
+
+Chip	BRCM	-0.566856
+
+J	MDT	-0.549521
+
+Trust	NTRS	-0.529931
+
+Earnings	MCD	-0.521933
+
+$	TXN	-0.497781
+
+stocks	FSLR	-0.460359
+
+Trial	ABT	-0.458625
+
+HOT	NOV	-0.448900
+
+'s	CVC	-0.424819
+
+Retail	WAG	-0.422244
+
+J	ABT	-0.417459
+

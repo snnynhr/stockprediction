@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.846114
+
+Chips	TXN	0.845011
+
+Energy	HES	0.742418
+
+Emulex	BRCM	0.676006
+
+TECH	SNDK	0.617539
+
+Morgan	RF	0.584266
+
+Stocks	DD	0.556617
+
+NYSE	NDAQ	0.534103
+
+Rally	NVDA	0.498980
+
+'s	CRM	0.493371
+
+PepsiCo	PEP	0.480827
+
+Whole	WFM	0.467739
+
+Abbott	ABT	0.432529
+
+Best	BBY	0.432487
+
+US	AA	0.416748
+
+U.S.	VLO	0.415926
+
+'s	MA	0.405588
+
+Products	APD	0.375741
+
+Nordstrom	JWN	0.367615
+
+Pipeline	SE	0.364073
+
+Stocks	AIG	-0.980540
+
+Stocks	MDLZ	-0.879124
+
+'s	JNJ	-0.747956
+
+Gas	DVN	-0.733184
+
+declining	GNW	-0.695674
+
+Intuit	INTU	-0.663601
+
+'s	CVC	-0.628205
+
+Warner	TWX	-0.582598
+
+Storage	PSA	-0.580515
+
+Red	RHT	-0.543958
+
+Hospira	HSP	-0.540140
+
+Computer	CSC	-0.480438
+
+Broadcom	BRCM	-0.479729
+
+FDA	LLY	-0.469350
+
+stocks	SHLD	-0.455916
+
+Spill	RIG	-0.446004
+
+Shares	MU	-0.438912
+
+Drug	CVS	-0.428808
+
+Microchip	MCHP	-0.422409
+
+PPL	PPL	-0.414049
+

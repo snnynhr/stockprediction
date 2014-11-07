@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.363152
+
+Foot	NKE	0.974256
+
+Retail	TGT	0.845872
+
+'s	BA	0.805491
+
+Energy	RIG	0.640334
+
+Home	PHM	0.636393
+
+$	BK	0.589810
+
+US	ETR	0.568173
+
+U.S.	M	0.533548
+
+Stryker	SYK	0.524179
+
+Lockheed	LMT	0.505147
+
+Energy	BTU	0.505115
+
+UPS	UPS	0.472586
+
+HOT	WAG	0.457912
+
+'s	NVDA	0.453747
+
+Profit	WFC	0.438517
+
+Insurers	ALL	0.413868
+
+Kohl	KSS	0.407288
+
+Pulte	PHM	0.404198
+
+Priceline	PCLN	0.392277
+
+Google	ORCL	-1.098700
+
+Regions	RF	-0.974372
+
+Altria	MO	-0.783067
+
+Friday	M	-0.652545
+
+Intuit	INTU	-0.611698
+
+Refinery	COP	-0.601931
+
+US	ABT	-0.552792
+
+Bid	EMC	-0.545714
+
+Profit	LOW	-0.532851
+
+Oil	CHK	-0.503563
+
+Occidental	OXY	-0.467723
+
+Earnings	AA	-0.462364
+
+Pepsi	PEP	-0.456494
+
+'s	APC	-0.415694
+
+Warner	TWC	-0.393926
+
+Spill	RIG	-0.381709
+
+Union	UNP	-0.357856
+
+Hess	HES	-0.349538
+
+Dell	HPQ	-0.341960
+
+Energy	APC	-0.340839
+

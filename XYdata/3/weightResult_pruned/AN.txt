@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.0121353
+
+'s	X	0.795629
+
+Expeditors	EXPD	0.666070
+
+Retail	TGT	0.633316
+
+First	FSLR	0.632581
+
+Retailers	TJX	0.626973
+
+U.S.	FDX	0.588282
+
+Health	UNH	0.585860
+
+Stocks	T	0.571636
+
+HOT	LLY	0.557969
+
+Stocks	LEN	0.539140
+
+Energy	HAL	0.530986
+
+Mattel	MAT	0.514130
+
+Nasdaq	ICE	0.510398
+
+Sales	BBY	0.494626
+
+Bond	MBI	0.494061
+
+'s	ABT	0.487490
+
+Euronext	NDAQ	0.467155
+
+Quest	DGX	0.459616
+
+Broadcom	BRCM	0.441096
+
+Texas	MRO	-1.185470
+
+stocks	AA	-0.895511
+
+FDA	BMY	-0.760257
+
+'s	RF	-0.654172
+
+Amylin	LLY	-0.636681
+
+Shares	NVDA	-0.609718
+
+Airline	LUV	-0.555800
+
+Starwood	HOT	-0.536432
+
+Hospira	HSP	-0.528783
+
+Companies	CI	-0.495122
+
+US	COF	-0.490687
+
+Gas	COG	-0.483298
+
+Techs	TXN	-0.467400
+
+Discovery	DISCA	-0.440979
+
+Manitowoc	MTW	-0.438568
+
+Deal	CSCO	-0.438381
+
+Adidas	NKE	-0.434877
+
+Tysabri	BIIB	-0.403544
+
+US	SHLD	-0.399997
+
+'s	AIG	-0.399495
+

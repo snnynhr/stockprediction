@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	-0.339602
+
+stocks	VLO	1.241820
+
+Retailers	TJX	0.894401
+
+MasterCard	MA	0.743674
+
+Exxon	XOM	0.739298
+
+US	FFIV	0.737320
+
+U.S.	AET	0.700662
+
+'s	PNC	0.567671
+
+Study	MDT	0.559928
+
+'s	ABT	0.529191
+
+Power	ETR	0.513562
+
+Retail	TGT	0.498957
+
+Wyndham	WYN	0.489753
+
+H-P	EMC	0.470153
+
+Cadbury	MDLZ	0.426970
+
+Shares	HIG	0.412854
+
+Morgan	C	0.406662
+
+CSX	CSX	0.400474
+
+PepsiCo	PEP	0.397045
+
+Edison	EIX	0.394969
+
+U.S.	AXP	-0.854812
+
+AK	AKS	-0.810102
+
+Stocks	AMAT	-0.759150
+
+Harley-Davidson	HOG	-0.729310
+
+Chevron	CVX	-0.672150
+
+Banks	RF	-0.669459
+
+Corporate	SPLS	-0.616743
+
+Insurers	PRU	-0.587199
+
+Gas	XOM	-0.579730
+
+U.S.	USB	-0.527694
+
+$	MRO	-0.468613
+
+Taiwan	AIG	-0.461401
+
+'s	JNJ	-0.434641
+
+ImClone	LLY	-0.420326
+
+Facebook	HPQ	-0.419741
+
+Chip	BRCM	-0.418762
+
+Stock	TWX	-0.406230
+
+SEC	NDAQ	-0.396954
+
+Symantec	SYMC	-0.391183
+
+Williams	WMB	-0.388579
+

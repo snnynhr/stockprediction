@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.733583
+
+T-Mobile	T	0.945912
+
+stocks	HES	0.806394
+
+Stocks	KO	0.804384
+
+stocks	CMA	0.802434
+
+May	COST	0.766467
+
+Banks	FITB	0.737614
+
+'s	TXN	0.733997
+
+DHL	UPS	0.720610
+
+Zions	ZION	0.705605
+
+'s	PG	0.522552
+
+Carnival	CCL	0.516479
+
+Tech	STX	0.493199
+
+3Q	KBH	0.484553
+
+Constellation	STZ	0.483855
+
+US	TIF	0.468332
+
+Smucker	SJM	0.401650
+
+Anadarko	APC	0.387016
+
+U.S.	X	0.340211
+
+Oil	HAL	0.334581
+
+Gas	XOM	-0.824744
+
+Defense	LMT	-0.752716
+
+stocks	CHK	-0.749924
+
+stocks	KEY	-0.695292
+
+stocks	GCI	-0.686792
+
+U.S.	WFC	-0.639044
+
+U.S.	HD	-0.590003
+
+Nvidia	NVDA	-0.577342
+
+Ambac	MBI	-0.567149
+
+Oil	VLO	-0.562358
+
+Gap	GPS	-0.556263
+
+Chevron	CVX	-0.530346
+
+$	CVX	-0.529311
+
+Vulcan	VMC	-0.510709
+
+'s	WMT	-0.479171
+
+Elan	BIIB	-0.475606
+
+Stocks	KBH	-0.429167
+
+Gannett	GCI	-0.427980
+
+Stocks	TIF	-0.427223
+
+Aetna	AET	-0.409238
+

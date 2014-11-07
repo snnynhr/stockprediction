@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.851545
+
+Stocks	UNH	1.129300
+
+AIA	AIG	0.935304
+
+Tech	MU	0.853769
+
+Sales	F	0.774811
+
+Deal	BIIB	0.678265
+
+'s	BLK	0.643342
+
+US	STI	0.606984
+
+PNC	PNC	0.598819
+
+Retail	SHLD	0.584862
+
+Stocks	LLTC	0.579711
+
+Stocks	AMP	0.563396
+
+Stocks	INTC	0.543138
+
+US	PG	0.533419
+
+York	NYT	0.494340
+
+April	COST	0.461908
+
+Up	LOW	0.445103
+
+energy	XOM	0.425457
+
+'s	VIAB	0.414716
+
+Crucell	JNJ	0.403362
+
+Western	WDC	-1.012600
+
+US	GD	-0.897297
+
+Tech	TXN	-0.722029
+
+Says	LLY	-0.604841
+
+Macy	M	-0.546891
+
+'s	CHK	-0.542939
+
+U.S.	LMT	-0.522218
+
+Stocks	AKS	-0.520849
+
+Expro	HAL	-0.513568
+
+Norfolk	NSC	-0.499147
+
+stocks	STR	-0.484766
+
+Genentech	BIIB	-0.448982
+
+Energy	CVX	-0.440131
+
+tech	BRCM	-0.438177
+
+TNT	UPS	-0.427080
+
+Tech	EMC	-0.401452
+
+'s	CMCSA	-0.398023
+
+Medtronic	MDT	-0.396956
+
+Earnings	COF	-0.388173
+
+Stocks	ADBE	-0.384797
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.246645
+
+Johnson	MJN	0.629689
+
+Retail	TGT	0.609197
+
+Edwards	EW	0.600599
+
+Stock	MCD	0.574659
+
+Banks	BBT	0.553804
+
+'s	PNC	0.536258
+
+HOT	FDX	0.534212
+
+stocks	TXN	0.448853
+
+US	THC	0.442044
+
+Bank	MTB	0.431364
+
+Stocks	LUV	0.430330
+
+MetLife	MET	0.398756
+
+Tech	TXN	0.388245
+
+CEO	DUK	0.352853
+
+Hormel	HRL	0.342611
+
+Stocks	INTC	0.337043
+
+Allergan	AGN	0.329535
+
+'s	EBAY	0.327197
+
+'s	MS	0.326750
+
+Visa	V	-0.800769
+
+'s	AA	-0.769817
+
+Friday	M	-0.758630
+
+Stocks	COH	-0.666502
+
+'s	EMC	-0.569898
+
+Stocks	HIG	-0.553347
+
+BP	APC	-0.523695
+
+Drug	MRK	-0.523001
+
+US	TXN	-0.479583
+
+'s	DIS	-0.467861
+
+stocks	SLB	-0.428774
+
+Juniper	JNPR	-0.392220
+
+LNG	COP	-0.363718
+
+Stocks	YHOO	-0.358778
+
+Gulf	XOM	-0.350678
+
+Drugs	BMY	-0.344146
+
+CBS	CBS	-0.328211
+
+IBM	IBM	-0.318358
+
+Domain	NTAP	-0.310023
+
+Occidental	OXY	-0.307778
+

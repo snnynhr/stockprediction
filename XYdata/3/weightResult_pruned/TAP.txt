@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.481861
+
+stocks	HES	0.895879
+
+Solar	FSLR	0.844336
+
+Nordstrom	JWN	0.807801
+
+Oil	APA	0.712882
+
+Network	T	0.705594
+
+Fastenal	FAST	0.675742
+
+Chip	TXN	0.659173
+
+Altera	ALTR	0.617434
+
+Morgan	RF	0.537595
+
+Apple	TXN	0.512638
+
+Dow	MCD	0.512122
+
+Stocks	MMM	0.509400
+
+Apple	YHOO	0.503487
+
+Oil	HES	0.458843
+
+Honeywell	HON	0.453628
+
+Boeing	UTX	0.451750
+
+Health	WLP	0.403831
+
+Stocks	BA	0.372380
+
+Oilwell	NOV	0.359641
+
+Card	V	-0.924402
+
+Banks	FITB	-0.685610
+
+Qualcomm	BRCM	-0.627267
+
+US	HES	-0.587749
+
+Bond	MBI	-0.584016
+
+Coffee	SBUX	-0.563116
+
+ConocoPhillips	COP	-0.548453
+
+Sales	ANF	-0.525461
+
+'s	XOM	-0.513205
+
+Friday	BBY	-0.478799
+
+Kellogg	K	-0.444455
+
+U.S.	HD	-0.414194
+
+Stocks	RHT	-0.413663
+
+RadioShack	RSH	-0.398555
+
+'s	BMY	-0.387716
+
+Retailers	JCP	-0.381026
+
+AIG	GPS	-0.373006
+
+Coke	KO	-0.367983
+
+J	ABT	-0.361073
+
+US	CME	-0.354939
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.599213
+
+Student	SLM	0.999973
+
+Stock	CAT	0.797229
+
+Stocks	KSS	0.744637
+
+Pulte	PHM	0.719831
+
+Bank	PNC	0.684159
+
+STOCKS	NVDA	0.608091
+
+Abercrombie	ANF	0.563137
+
+'s	MS	0.553420
+
+Banks	BBT	0.550571
+
+Entergy	ETR	0.506331
+
+U.S.	AXP	0.494180
+
+Transocean	RIG	0.454277
+
+Facebook	YHOO	0.442197
+
+State	STT	0.412266
+
+HOT	MRK	0.403561
+
+BlackRock	BLK	0.402932
+
+Tech	ORCL	0.400705
+
+4Q	KR	0.382155
+
+Nordstrom	JWN	0.371514
+
+Bid	EMC	-1.039120
+
+Drug	ABT	-0.865694
+
+Profit	LOW	-0.858484
+
+Sales	WAG	-0.669653
+
+CEO	BBY	-0.660823
+
+Regions	RF	-0.600531
+
+Heparin	BAX	-0.585409
+
+Chip	ADI	-0.583848
+
+US	HAL	-0.571753
+
+Boeing	NOC	-0.568301
+
+$	BRCM	-0.546397
+
+F5	FFIV	-0.518299
+
+Deal	GE	-0.510305
+
+Tyco	TYC	-0.447988
+
+Banks	MTB	-0.421794
+
+US	SHLD	-0.414091
+
+Merck	MRK	-0.403359
+
+Corporate	SPLS	-0.401310
+
+Retailers	SHLD	-0.397202
+
+Juniper	JNPR	-0.380564
+

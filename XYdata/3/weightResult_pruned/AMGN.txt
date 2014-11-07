@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.0956514
+
+US	VLO	0.798603
+
+CEO	AXP	0.721898
+
+Penney	KSS	0.597979
+
+Nokia	CIEN	0.556893
+
+'s	ICE	0.553300
+
+'s	WFC	0.518335
+
+Texas	TXN	0.515744
+
+PPL	PPL	0.504936
+
+Retailers	KSS	0.503716
+
+'s	BMY	0.495760
+
+Elan	BIIB	0.494660
+
+AIG	MET	0.493859
+
+Grumman	NOC	0.493719
+
+Allstate	ALL	0.483153
+
+Dow	MCD	0.424353
+
+Retailers	GPS	0.405200
+
+STOCKS	INTC	0.400717
+
+Energy	CVX	0.397952
+
+US	LLY	0.390618
+
+Amylin	LLY	-0.915994
+
+Noble	NBL	-0.751689
+
+Southwestern	SWN	-0.725107
+
+Apple	EBAY	-0.645846
+
+Monster	MWW	-0.634765
+
+after	AA	-0.613082
+
+Warren	BRK.B	-0.595288
+
+iPhone	T	-0.571698
+
+Molson	TAP	-0.565239
+
+Stocks	LLY	-0.551673
+
+SAP	ORCL	-0.535523
+
+Drugs	LLY	-0.531859
+
+UnitedHealth	UNH	-0.507959
+
+Workers	JEC	-0.491077
+
+sales	JWN	-0.480622
+
+'s	ABT	-0.440559
+
+Hospira	HSP	-0.433050
+
+DirecTV	DTV	-0.427302
+
+HOT	MAR	-0.426493
+
+Fitch	ANF	-0.408983
+

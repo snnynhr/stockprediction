@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	0.221136
+
+'s	ICE	1.164900
+
+GE	GE	0.938735
+
+Zions	ZION	0.683425
+
+Health	UNH	0.635317
+
+Retail	HD	0.628888
+
+stocks	VLO	0.594446
+
+Mead	BMY	0.585235
+
+Pulte	PHM	0.442239
+
+Friday	CRM	0.439176
+
+Tyson	TSN	0.430728
+
+Dow	CAT	0.422032
+
+Cnooc	CHK	0.359500
+
+Gas	COP	0.351782
+
+Abbott	ABT	0.334439
+
+'s	KEY	0.334267
+
+Best	BBY	0.334022
+
+Gains	TXN	0.329589
+
+STOCKS	SNDK	0.322137
+
+CEO	JNJ	0.318345
+
+Research	LRCX	-0.683620
+
+Buy	RSH	-0.638910
+
+'s	TJX	-0.616236
+
+Retail	BBY	-0.604311
+
+Coke	PEP	-0.537911
+
+'s	AVP	-0.519475
+
+Stocks	COH	-0.451313
+
+Huntington	HBAN	-0.432841
+
+Time	CMCSA	-0.431619
+
+BATS	ICE	-0.430609
+
+U.S.	UTX	-0.427526
+
+'s	SBUX	-0.419900
+
+Billion	AIG	-0.419589
+
+Medtronic	MDT	-0.415278
+
+Life	PRU	-0.409747
+
+US	SHLD	-0.348897
+
+U.S.	COF	-0.321964
+
+Starwood	HOT	-0.320970
+
+Harley-Davidson	HOG	-0.319978
+
+Imax	DIS	-0.318260
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-0.268889
+
+Stryker	SYK	0.883615
+
+$	KO	0.671517
+
+US	QCOM	0.666200
+
+FDA	AMGN	0.548463
+
+US	AA	0.537425
+
+Home	PHM	0.523271
+
+'s	TXN	0.511544
+
+stocks	NVDA	0.508502
+
+Tool	ITW	0.490928
+
+US	NDAQ	0.474995
+
+Stocks	CVX	0.463731
+
+TECH	AMD	0.457688
+
+Stocks	LLTC	0.451139
+
+Banks	COF	0.442625
+
+Stocks	EA	0.441760
+
+Stocks	BMY	0.438497
+
+Stocks	RIG	0.435412
+
+Thermo	TMO	0.422168
+
+Stocks	BRCM	0.420818
+
+Stocks	COH	-0.909918
+
+LCD	GLW	-0.811710
+
+'s	TIF	-0.786124
+
+Agrium	CF	-0.651724
+
+Grainger	GWW	-0.608216
+
+Sales	ANF	-0.602714
+
+Windstream	WIN	-0.518779
+
+Medical	STJ	-0.506906
+
+U.S.	USB	-0.499978
+
+US	MMM	-0.486823
+
+Abbott	BSX	-0.462305
+
+'s	BBY	-0.443352
+
+US	AMP	-0.440976
+
+Buy	BAX	-0.399142
+
+Horizon	FHN	-0.397023
+
+J	ABT	-0.394492
+
+Mattel	MAT	-0.392266
+
+stocks	CVX	-0.387336
+
+Seagate	STX	-0.370216
+
+Valero	VLO	-0.367643
+

@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	-1	1
+
+-1	***BIAS***	-1.09391
+
+Lots	BIG	1.039730
+
+Rockwell	ROK	0.681335
+
+U.S.	FDX	0.626456
+
+Agilent	A	0.573777
+
+U.S.	STI	0.535226
+
+Exxon	XOM	0.480136
+
+Study	ABT	0.477491
+
+Refinery	TSO	0.454251
+
+Coca-Cola	KO	0.442840
+
+Pulte	PHM	0.438576
+
+TECH	AMAT	0.424598
+
+May	COST	0.418887
+
+US	CLX	0.414046
+
+Retailers	GPS	0.410170
+
+Safeway	SWY	0.374309
+
+Danaher	DHR	0.373317
+
+U.S.	MDLZ	0.343402
+
+stocks	VLO	0.338232
+
+Stocks	ADSK	0.333201
+
+Shares	NVDA	-1.048990
+
+Sector	TXN	-1.027600
+
+'s	GCI	-0.932731
+
+Rambus	MU	-0.876153
+
+Aflac	AFL	-0.831385
+
+Life	HIG	-0.826753
+
+J	AMGN	-0.733164
+
+HOT	RSH	-0.700629
+
+'s	CI	-0.656119
+
+stocks	APC	-0.647949
+
+Apple	IBM	-0.630193
+
+SEC	NDAQ	-0.626402
+
+Varco	NOV	-0.618895
+
+AvalonBay	AVB	-0.606237
+
+Manitowoc	MTW	-0.564987
+
+Sales	WAG	-0.553441
+
+US	ADSK	-0.545308
+
+Stocks	MRK	-0.521003
+
+Airlines	LUV	-0.485099
+
+Goodyear	GT	-0.473616
+

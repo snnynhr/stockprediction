@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.774136
+
+Edison	EIX	0.983071
+
+Zynga	EA	0.653403
+
+stocks	XOM	0.610003
+
+Morgan	RF	0.600873
+
+D.R.	DHI	0.556163
+
+Morgan	WFC	0.549694
+
+TARP	HIG	0.539465
+
+energy	COG	0.496710
+
+Chesapeake	CHK	0.469710
+
+US	GPS	0.466673
+
+US	COF	0.441299
+
+H-P	HPQ	0.417909
+
+'s	HPQ	0.416894
+
+'s	BSX	0.397331
+
+Tech	ADBE	0.378338
+
+U.S.	URBN	0.378162
+
+'s	BK	0.369929
+
+Apple	XOM	0.368743
+
+Foods	MDLZ	0.368338
+
+BP	APC	-0.973947
+
+Gold	NEM	-0.818435
+
+Stocks	XOM	-0.630487
+
+Stocks	AA	-0.595409
+
+Paper	IP	-0.573440
+
+FDA	RAI	-0.542450
+
+Stocks	CIEN	-0.514957
+
+VF	VFC	-0.513831
+
+Office	SPLS	-0.513502
+
+Boston	BXP	-0.471167
+
+Stocks	M	-0.469537
+
+Sears	SHLD	-0.465182
+
+FDA	JNJ	-0.461850
+
+U.S.	AIG	-0.439688
+
+Steel	X	-0.430054
+
+Seagate	STX	-0.425241
+
+Friday	BBY	-0.423995
+
+Broadcom	BRCM	-0.378013
+
+Stocks	MDLZ	-0.372023
+
+Exelon	EXC	-0.370883
+

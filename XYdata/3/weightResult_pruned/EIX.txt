@@ -1,0 +1,82 @@
+2	***CATEGORICAL***	1	-1
+
+1	***BIAS***	0.188274
+
+Risk	BMY	0.889639
+
+stocks	BHI	0.735943
+
+Energy	CHK	0.632562
+
+Alibaba	YHOO	0.556257
+
+'s	BLK	0.550537
+
+Dow	TRV	0.496188
+
+STOCKS	SNDK	0.473888
+
+U.S.	DOW	0.465808
+
+Pulte	PHM	0.446262
+
+stocks	PG	0.442813
+
+US	ETR	0.442743
+
+Goodyear	GT	0.406431
+
+Times	NYT	0.385184
+
+Ad	NYT	0.381821
+
+MasterCard	V	0.370871
+
+DHL	UPS	0.357522
+
+Amylin	LLY	0.343243
+
+Eaton	ETN	0.333559
+
+Arts	EA	0.322389
+
+drop	CVX	-1.887460
+
+stocks	HD	-1.183400
+
+Stocks	XLNX	-0.844203
+
+$	OXY	-0.835148
+
+Costs	LUV	-0.737051
+
+Treasury	AIG	-0.630113
+
+'s	GCI	-0.610255
+
+Boeing	BA	-0.518468
+
+Sales	M	-0.511104
+
+U.S.	HD	-0.497918
+
+Gannett	GCI	-0.496598
+
+Micron	MU	-0.479187
+
+U.S.	WMT	-0.456475
+
+Freeport	FCX	-0.455615
+
+China	GM	-0.452556
+
+'s	GE	-0.443626
+
+shares	MBI	-0.431361
+
+Life	PRU	-0.419266
+
+Insurers	PRU	-0.408050
+
+after	AA	-0.404952
+
