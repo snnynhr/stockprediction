@@ -1,0 +1,12 @@
+'s	WEC	2.738700
+'10	WEC	1.991540
+off	WEC	0.995766
+power	WEC	0.995766
+advisories	WEC	-1.201460
+surprises	WEC	-1.201460
+surprises	WEC	-1.201460
+advisories	WEC	-1.201460
+power	WEC	0.995766
+off	WEC	0.995766
+'10	WEC	1.991540
+'s	WEC	2.738700
