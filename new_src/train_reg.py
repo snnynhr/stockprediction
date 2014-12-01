@@ -8,9 +8,9 @@ import nltk
 import creg_driver
 import subprocess
 
-XDir = "../new_result/trainData_regX"
-YDir = "../new_result/trainData_regY"
-weightDir = "../new_result/reg_result"
+XDir = "../new_result/trainData_reg+tempX"
+YDir = "../new_result/trainData_regY_long"
+weightDir = "../new_result/reg+temp_result"
 
 for fname in os.listdir(XDir):
 	print fname
@@ -19,7 +19,7 @@ for fname in os.listdir(XDir):
 	Ypath = '%s/%s.txt' %(YDir,stock)
 	weightPath = '%s/%s.txt' %(weightDir,stock)
 
-	creg_driver.train((Xpath,Ypath),weights = weightPath, options = {'--l1': '0.1'})
+	creg_driver.train((Xpath,Ypath),weights = weightPath, options = {'--l1': '1'})
 
 
 
