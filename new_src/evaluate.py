@@ -7,7 +7,7 @@ import datetime
 import nltk
 
 testDir = "../new_result/testData"
-predDirs = ["../new_result/predictions_reg","../new_result/predictions_sage"]
+predDirs = ["../new_result/predictions_reg","../new_result/predictions_sage","../new_result/predictions_reg+temp"]
 
 def evaluate(predDir,dataDict):
 	pred_count = 0
@@ -31,8 +31,13 @@ def evaluate(predDir,dataDict):
 
 	return (correct_count/float(pred_count),money)
 
+label = ['stock','expected_gain']
+for predDir in predDirs:
+	method = predDir.split('/')[-1].split('_')[-1]
+	label.extend(['%s_accuracy' %method,'%s_gain' %method])
 
-for fname in os.listdir(predDirs[1]):
+print '\t'.join(label)
+for fname in os.listdir(predDirs[-1]):
 	if fname.endswith('.txt'):
 		stock = fname[:-4]
 
