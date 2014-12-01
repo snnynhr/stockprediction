@@ -1,0 +1,332 @@
+stock_KSS r_down	focus:1
+stock_KSS r_down	's:2
+stock_KSS r_down	's:3 challenging:1 profit:1 focus:1 1.48:1 predicts:1 2008:2 drops:1 $:2
+stock_KSS r_up	earlier:1 's:1 reverse:1 declines:1 surges:1 shares:1
+stock_KSS r_down	's:1 rise:1 markets:1 broader:1
+stock_KSS r_down	gaining:1 's:2 offer:1 some:1 sales:1 3.8:1 hope:1 retailers:1 biggest:1 stocks:1 declining:1
+stock_KSS r_up	surprises:1 advisories:1 's:1
+stock_KSS r_down	's:1
+stock_KSS r_down	's:1 proposed:1 deal:1 credit-card:1 see:1 upside:1
+stock_KSS r_down	's:2 $:1 bell:1 forecast:1 n't:1 warning:1 2007:1 1st:1 sounds:1 retail:1 grim:1
+stock_KSS r_down	spell:1 sales:1 hurt:1 worries:1 cold:1 retail:1
+stock_KSS r_up	's:1 15.5:1 16:1
+stock_KSS r_down	's:1
+stock_KSS r_down	59:1 2008:1 's:1
+stock_KSS r_up	lowers:1 shut:1 plunge:1 stores:1 plans:2 profit:1 posts:1 outlook:1 expansion:1 59:1 cuts:1 15:1
+stock_KSS r_down	3.5:1 's:2 but:1
+stock_KSS r_up	9:1
+stock_KSS r_up	clearance:1 lower:1 move:1 's:5 64c:1 profit:2 surprises:1 drop:1 focus:2 shares:1 49c:1 advisories:1 hurt:1 warning:1 sales:1 50:2 post:1 falls:1 issue:1 higher:2
+stock_KSS r_down	sector:1 gaining:1 retail:1 's:4 gains:1 futures:1 point:1 drop:1 leads:1 department:1 rise:1 oil:2 declining:1 further:1 biggest:1 stores:1 stocks:2 spotlight:1 store:1 stock:1
+stock_KSS r_down	upbeat:1 fashion:1 weathering:1 downturn:1
+stock_KSS r_down	tale:1 seen:1 remain:1 bifurcation:1 sales:1
+stock_KSS r_up	's:1
+stock_KSS r_down	surprises:1 advisories:1
+stock_KSS r_up	's:1
+stock_KSS r_down	brands:1 's:1 look:1 license:1
+stock_KSS r_up	--:1 09:1 's:1
+stock_KSS r_down	help:1 give:1 surprises:1 break:1 advisories:1 weather:1 retailers:1 checks:1
+stock_KSS r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_KSS r_up	's:1
+stock_KSS r_up	pinched:1 season:1 fashion:1 stores:1 big:1 value:1 pitch:1 shoppers:1
+stock_KSS r_down	's:1
+stock_KSS r_down	11:1 's:1
+stock_KSS r_down	end:1 stimulus:1 targets:1 retailers:1 miss:1 checks:1
+stock_KSS r_up	surprises:1 advisories:1
+stock_KSS r_up	oil:1 $:1 price:1 shares:1 falls:1 jump:1 114:1 below:1 barrel:1
+stock_KSS r_down	outlooks:1 lower:1 's:2 focus:1
+stock_KSS r_up	's:1 focus:1 shares:1 down:1 moves:1 higher:1
+stock_KSS r_up	advance:2 outlook:1 oil:1 's:6 target:1 gold:1 surprises:1 futures:1 dollar:1 focus:1 commodities:1 trims:1 while:1 advisories:1 12:1 drop:1 rises:1 lifts:1 paced:1 stock:1
+stock_KSS r_down	's:1
+stock_KSS r_up	1.15:1 's:2 $:1 amid:1 over:1 shares:1 concerns:1 outlooks:1 mixed:1 second-half:1 250,000:1
+stock_KSS r_up	large:1 small:1 caps:1 intensifies:1 between:1
+stock_KSS r_up	profit:1 falls:1 62:1 expected:1 net:1 than:1 more:1
+stock_KSS r_up	'09:1 's:2 $:1 300:1 brand:1 million:1 results:1 shares:1 quarterly:1 gain:1 surpass:1 year:1 following:1 first:1
+stock_KSS r_down	picture:1 stocks:1 tops:1 sales:1 pressure:1 remain:1 numbers:1 mixed:1 retail:2
+stock_KSS r_up	week:1 plunge:1 's:1 show:1 weakness:1 top:1 1-5:1 slide:1 stories:1 take:1 retailers:1 jobs:1 stocks:2
+stock_KSS r_down	surges:1 raise:1 stake:1 shares:1 plan:1 broader:1 markets:1 boosts:1
+stock_KSS r_up	's:1
+stock_KSS r_down	shares:1 rate:1 edge:1 call:1 digests:1 market:1 higher:1
+stock_KSS r_up	central:1 banks:1 inject:1 mixed:1 's:1 liquidity:1
+stock_KSS r_down	's:1
+stock_KSS r_down	rescue:1 ahead:1 pressure:1 vote:1 retail:1 issues:1
+stock_KSS r_down	gaining:1 holiday:1 's:1 season:1 sales:1 losing:1 sets:1 biggest:1 tough:1 stocks:1 miss:1 stage:1
+stock_KSS r_down	--:1 's:1
+stock_KSS r_up	's:2
+stock_KSS r_up	line:1 checkout:1 sneaks:1 ahead:1
+stock_KSS r_down	's:1
+stock_KSS r_down	profit:1 jumps:1 maintains:1 40:2 full-year:1 quarterly:1 net:1 view:1
+stock_KSS r_up	confidence:1 consumers:1 show:1 surprises:1 scared:1 sales:1 haunts:1 advisories:1 retailers:1 consumer:1
+stock_KSS r_down	's:1
+stock_KSS r_down	profit:1 message:1 's:1 brighten:1 third-quarter:1
+stock_KSS r_down	's:1
+stock_KSS r_up	10:2 outlook:1 's:3 $:1 profit:1 light:1 drop:1 full-year:1 shares:1 focus:1 late:1 bright:1 but:1 trims:1 rises:1 2008:1
+stock_KSS r_down	's:2 17:1 warnings:1 surprises:1 list:1 focus:1 add:1 advisories:1 5:1 retail:1
+stock_KSS r_down	n't:1 's:1
+stock_KSS r_down	's:2
+stock_KSS r_up	'':1 ``:1
+stock_KSS r_down	sector:1 session:1
+stock_KSS r_up	even:1 wilt:1 surprises:1 sales:1 advisories:1 moves:1 higher:1
+stock_KSS r_up	's:3
+stock_KSS r_up	46:1 's:2 21:1 $:1
+stock_KSS r_down	2009:1
+stock_KSS r_down	2009:1
+stock_KSS r_up	--:1 '':1 ``:1 's:1 2008:1
+stock_KSS r_up	session:1 stocks:1 end:1 gains:1
+stock_KSS r_down	surprises:1 advisories:1
+stock_KSS r_down	's:1
+stock_KSS r_down	$:1
+stock_KSS r_down	sector:1 's:3 sales:1 gain:1 despite:1 drops:1
+stock_KSS r_down	even:1 tighten:1 satisfaction:1 budgets:1 consumer:1 grows:1
+stock_KSS r_up	loss:1 profit:1 51:1 tumbles:1 seen:1 quarter:1 first:1
+stock_KSS r_down	watch:1
+stock_KSS r_down	sector:1 's:1 lead:1 surprises:1 focus:1 shares:1 advisories:1 higher:1
+stock_KSS r_up	sector:1 declines:2 down:2 send:1 hit:1 profit:1 shares:1 under:1 net:1 holiday:1 's:5 climbs:1 season:1 weak:1 pressure:1 sharply:1 demand:1 lower:1 off:1 55:1 18:1 costs:1 mixed:1 closing:1
+stock_KSS r_down	's:1
+stock_KSS r_down	s:2 21:1 8217:2
+stock_KSS r_down	improved:1 surprises:1 sales:1 challenges:1 belie:1 advisories:1 still:1
+stock_KSS r_up	's:1
+stock_KSS r_up	's:3 signals:1 trends:1 coming:1 retail:1 shakeup:1
+stock_KSS r_up	sector:1 's:1 declines:1 earlier:1 gain:1 erases:1
+stock_KSS r_up	s:1 's:1 8217:1
+stock_KSS r_up	sector:1 loss:1 drops:1 earlier:1 cuts:1
+stock_KSS r_up	n't:1
+stock_KSS r_up	's:1 offer:1 may:1 over:1 some:1 sales:1 but:1 2nd:1 worst:1 retail:1 hope:1
+stock_KSS r_down	50:1
+stock_KSS r_down	retail:1 hit:1 flu:1 worries:1 outbreak:1 stocks:1
+stock_KSS r_down	net:1 closings:1 plans:1 store:1 tumbles:1
+stock_KSS r_down	differ:1 zigzags:1 sales:1 previews:1
+stock_KSS r_up	remains:1 spring:1 life:1 strain:1
+stock_KSS r_down	surprises:1 advisories:1
+stock_KSS r_down	again:1 's:2 pay:1 value:1 off:1 message:1
+stock_KSS r_down	prices:1 flat:1 's:2 gains:1 offsets:1 profit:2 surprises:1 drop:1 dollar:1 focus:2 value:1 posts:1 meets:1 advisories:1 smaller-than-expected:1 wholesale:1 mixed:1 estimates:1 stocks:1
+stock_KSS r_up	gaining:1 's:1 caught:1 vary:1 outlooks:1 biggest:1 stocks:1 war:1 declining:1 tug:1
+stock_KSS r_down	2008:1
+stock_KSS r_up	share:1 revamps:1 reclaim:1 seeking:1
+stock_KSS r_up	'll:1
+stock_KSS r_down	mixed:1 upgraded:1 stocks:1
+stock_KSS r_up	department:1 stores:1 rise:1 stocks:1 led:1
+stock_KSS r_down	mixed:1 upgraded:1 stocks:1 's:2
+stock_KSS r_down	after:1 results:1 gains:1 sales:1
+stock_KSS r_up	reported:1 lifted:1 stocks:1 bailout:1
+stock_KSS r_down	flat:1 stocks:1 public:1 again:1
+stock_KSS r_down	trim:1 prices:1 shoppers:1 back-to-school:1 win:1
+stock_KSS r_down	's:1 34th:1 vs.:1
+stock_KSS r_up	sailing:1 month:1 smooth:1 quite:1 ugly:1 retailers:1 retail:1 yet:1
+stock_KSS r_up	control:1 sector:1 outlook:1 focus:1 hearing:1 disappointing:1 miss:1 market:1 swings:1 expectations:1 forecast:1 3:5 inventory:1 stock:1 's:7 may:1 tops:1 second-half:1 delivers:1 now:1 loss:1 retail:1
+stock_KSS r_down	surprises:1 advisories:1 hit:1 shares:1 forecast:1
+stock_KSS r_up	short:1 's:1 profit:1 drop:1 shares:1 forecasts:1 fall:1
+stock_KSS r_down	's:1
+stock_KSS r_down	n't:1
+stock_KSS r_up	mixed:1 surprises:1 post:1 advisories:1 sales:1
+stock_KSS r_down	amid:1 drop:1 trade:1 concerns:1 stocks:1 war:1
+stock_KSS r_down	's:2 $:1 7.7:1
+stock_KSS r_up	2010:1
+stock_KSS r_up	's:1
+stock_KSS r_up	n't:1 equal:1 holidays:1 99:1 does:1 happy:1
+stock_KSS r_up	week:1 exclusive:1 holiday:1 's:3 may:1 some:1 top:1 labels:1 5-9:1 results:1 stories:1 go:1 promise:1 hold:1
+stock_KSS r_up	slips:1 stocks:2 gains:2 make:1 retail:2 wiped:1 out:1
+stock_KSS r_down	push:1 stocks:1 higher:1
+stock_KSS r_down	upgrade:1 rise:1 stocks:1 gains:1
+stock_KSS r_down	surprise:1 upside:1 store:1 another:1 retailers:1
+stock_KSS r_down	monthly:1 surprises:1 over:1 sales:1 10,000:3 advisories:1 year:1 post:1 best:1
+stock_KSS r_down	short:1 's:4 drop:1 forecast:1 but:2 falls:1 stocks:1
+stock_KSS r_up	advance:1 's:4 21:2 views:1 surprises:1 top:1 rise:1 focus:2 shares:1 down:1 advisories:1 -2:1 stocks:1
+stock_KSS r_up	outlook:1 rises:1 led:1 may:1 profit:2 rise:1 tops:1 more:1 short:1 view:1 expected:1 's:3 fall:1 stocks:1 than:1 78:2
+stock_KSS r_up	'09:1 '10:1
+stock_KSS r_down	's:1
+stock_KSS r_up	's:1
+stock_KSS r_up	jobs:1 data:1 make:1 drop:1 same-store:1 sales:1 expectations:1 jitters:1 late-session:1 stocks:1 miss:1
+stock_KSS r_down	sector:1 surprises:1 rise:1 sales:1 bag:1 advisories:1 mixed:2 stocks:1 data:1 market:1 stock:1
+stock_KSS r_up	's:2
+stock_KSS r_down	mixed:1 downgrade:1 stocks:1 tumbles:1
+stock_KSS r_up	close:1 jobs:1 brighter:1 data:1 higher:1
+stock_KSS r_down	n't:1
+stock_KSS r_up	's:3
+stock_KSS r_up	report:1 upbeat:1 rise:1 holiday:1 sales:1
+stock_KSS r_down	down:1 note:1 stocks:1 end:1 year:1
+stock_KSS r_up	's:1 may:1 game:1 won:1 have:1 chicken:1 holiday:1
+stock_KSS r_down	rise:1 tops:1 mark:1 retailers:1 delivers:1 stocks:1 2010:1
+stock_KSS r_down	surprises:1 advisories:1
+stock_KSS r_down	straight:1 shares:1 second:1 session:1 slip:1 2010:3
+stock_KSS r_down	lackluster:1 after:1 sales:1 slip:1 report:1 stocks:1
+stock_KSS r_down	may:1 brighter:1 see:1 2010:2 2.5:1
+stock_KSS r_up	mixed:1 cut:1 stocks:1 's:1
+stock_KSS r_up	poised:1 hit:1 warns:1 5th:1 up:1 sales:1 pickup:1 straight:1 post:1 net:1
+stock_KSS r_down	surprises:1 advisories:1 's:1
+stock_KSS r_up	stocks:1 markets:1 broader:1 fall:1
+stock_KSS r_up	focus:1
+stock_KSS r_up	outlook:1 cautious:1 's:3 profit:1 28:1 tops:1 but:1 mark:1
+stock_KSS r_down	's:2 top:1 28:1 but:1 marks:1 mixed:1 stocks:1
+stock_KSS r_up	's:1
+stock_KSS r_down	n't:1
+stock_KSS r_up	surprises:1 advisories:1
+stock_KSS r_up	heat:1 retail:1 up:1 sales:1
+stock_KSS r_down	shift:1 priorities:1 consumers:1 their:1
+stock_KSS r_up	upgraded:1 drop:1 stocks:1
+stock_KSS r_up	rise:1 sales:1 home:1 stocks:1 data:1 pending:1
+stock_KSS r_up	's:1 gift:1 16:1 may:1 years:1 bunny:1 best:1
+stock_KSS r_down	back:1 great:1 stores:1 consumers:1 16:1 signal:1 up:1 sales:2 record:1 pastime:1 's:3 post:1 stocks:1 29:1 0.3:1
+stock_KSS r_up	rebuilding:1 manufacturing:1 data:1 rise:1 demand:1 counts:1 stocks:1 consumer:1
+stock_KSS r_up	hike:1 plans:1 sales:1
+stock_KSS r_down	profit:1 may:1 beat:1 stake:1 adds:1
+stock_KSS r_down	traction:1 hikes:1 outlook:1 's:2 gains:1
+stock_KSS r_down	on-track:1 likely:1 consumer:1 recovery:1 show:1
+stock_KSS r_up	's:1
+stock_KSS r_down	sizzle:1 's:1 dampen:1 shift:1 lack:1 sales:1 weather:1 retailers:1
+stock_KSS r_up	aided:1 swings:1 's:3 profit:1 move:1 focus:1
+stock_KSS r_down	sector:2 lower:1 stocks:1 's:7 lead:2 5.8:1 jumps:1 drop:1 up:1 shares:1 profit:1 72:1 sharply:1 fall:1 45:4 retail:2 higher:1
+stock_KSS r_down	sector:3 outlook:1 bar:1 lead:2 may:1 raised:1 2nd:1 lower:2 's:3 retail:1 miss:1 day:1
+stock_KSS r_up	short:1 's:2 recovery:1 falls:1 may:1 warns:1 drop:1 forecast:1 pushed:1 economic:1 stocks:1 out:1
+stock_KSS r_down	outlook:1 cautious:1 's:1 show:1 profit:1 results:1 lifts:1 pain:1 consumer:1 gives:1
+stock_KSS r_down	again:1 outlook:1 short:1 profit:1 jumps:1 raised:1 40:1 falls:2 discounts:1 38:1 sales:1 stumbles:1 net:1 hurt:1 miss:1
+stock_KSS r_down	profit:1 slower:1 growth:1 brace:1
+stock_KSS r_down	's:1
+stock_KSS r_up	shoppers:1 sparkles:1 net:1 return:1 luxury:1
+stock_KSS r_up	mixed:1 sector:1 rises:1
+stock_KSS r_up	uneven:1 spending:1 suggest:1 sales:1 but:1 on-track:1
+stock_KSS r_up	broad:1 tick:1 stocks:1 markets:1 higher:1
+stock_KSS r_down	starts:1 housing:1 weak:1 fall:1 stocks:1 data:1
+stock_KSS r_up	21:1
+stock_KSS r_down	21:1
+stock_KSS r_up	better:1 weighed:1 outlook:1 worry:1
+stock_KSS r_down	outlook:1 amid:1 sales:1 bag:1 mixed:1 worry:1
+stock_KSS r_down	10,000:1 5:1
+stock_KSS r_down	loss:1 rise:1 stocks:1 earlier:1 cuts:1
+stock_KSS r_up	stocks:1 markets:1 broader:1 slip:1
+stock_KSS r_up	's:1
+stock_KSS r_down	's:1
+stock_KSS r_up	profit:1 57:2 rises:1 estimates:1 topping:1
+stock_KSS r_up	stores:1 sales:1 pace:1 shortfall:1 retailers:1 's:1
+stock_KSS r_down	's:1
+stock_KSS r_up	rise:1 stocks:1 's:1 focus:1
+stock_KSS r_down	's:3 chain:1 pays:1 drop:1 up:1 economic:1 worries:1 dividend:1 stocks:1 department-store:1
+stock_KSS r_down	outlook:1 short:1 's:4 14:2 surprises:1 drop:1 focus:1 but:1 forecasts:1 advisories:1 fall:1 worries:1 stocks:1 data:1 spotlight:1
+stock_KSS r_down	10:2 's:2 14:2 mostly:1 profit:1 gasoline:1 rise:1 posts:1 sales:1 but:1 forecasts:1 13th:1 headline:1 66:1 0.4:1 disappoint:1 retail:1 mood:1
+stock_KSS r_down	's:1 up:1 edge:1 n't:1 2:1 higher:1
+stock_KSS r_up	pull:1 retail:1 's:2 dice:1 show:1 comments:1 fashion:1 retailers:1 firms:1 stocks:1 roll:1 2.5:1 higher:1
+stock_KSS r_down	trim:1 retail:1 gains:1 optimism:1 feeds:1 stocks:1 2.5:1
+stock_KSS r_up	's:1
+stock_KSS r_up	mar:1 stores:1 no:1 pickup:1 sales:1 dinosaurs:1 jitters:1 retail:1 more:1
+stock_KSS r_up	their:1 staying:1 power:1 show:1
+stock_KSS r_down	's:1
+stock_KSS r_up	's:1
+stock_KSS r_up	's:2 sentiment:1 drop:1 disappoint:1 stocks:1 data:1
+stock_KSS r_up	200:1 holiday:1 's:3 after:1 steady:1 40,000:1 forecast:1 upbeat:1 stocks:1
+stock_KSS r_down	2nd:1
+stock_KSS r_up	26:1 surprises:1 sales:1 better:1 advisories:1 expected:1 retail:1 than:1
+stock_KSS r_down	overseas:1 growth:1 looks:1 online:1
+stock_KSS r_down	n't:1 's:2
+stock_KSS r_up	holidays:1 sales:1 hope:1 offer:1
+stock_KSS r_down	1:1 flat:1 trading:1 up:1 sector:1
+stock_KSS r_down	's:4 hint:1 results:1 shares:1 late:1 pickup:1 slammed:1 7:4 trading:1 consumer:1
+stock_KSS r_up	's:2 0.5:1 drop:1 focus:1 up:1 fight:1 heats:1 online:1 stocks:1
+stock_KSS r_down	sector:1 lower:1 leads:1 63:1 shines:1 2009:1
+stock_KSS r_up	73:2
+stock_KSS r_up	loss:1 deals:1 widens:1 expected:1 than:1 more:1
+stock_KSS r_up	early:1 holiday:1 idea:1 gift:1 bargains:1
+stock_KSS r_down	's:1 focus:1
+stock_KSS r_down	holiday:1 returns:1 stocks:1 steady:1 posted:1
+stock_KSS r_up	25:1 's:1
+stock_KSS r_down	count:1 flat:1 stocks:1 stores:1 down:1
+stock_KSS r_down	shoppers:1 turning:1 retailers:1 out:1
+stock_KSS r_up	seen:1 cheer:1 holiday:1 bringing:1 sales:1
+stock_KSS r_down	stocks:1 's:1 sales:1 down:1 drag:1 figures:1 retail:1
+stock_KSS r_down	retail:1 's:1 weakness:1 telecom:1 surprises:1 jumps:1 advisories:1 fall:1 drops:1
+stock_KSS r_up	edge:1 slightly:1 shares:1 higher:1
+stock_KSS r_down	2011:1
+stock_KSS r_up	little:1 government:1 get:1 lift:1 stocks:1 data:1
+stock_KSS r_up	real:1 move:1 spotlights:1 estate:1 retail:1
+stock_KSS r_up	join:1 restructure:1 board:1
+stock_KSS r_up	's:1
+stock_KSS r_down	's:2 40:1 2012:1
+stock_KSS r_down	investing:1 not:1 dead:1
+stock_KSS r_up	1.4:1 's:1 surprises:1 surprisingly:1 advisories:1 robust:1 post:1
+stock_KSS r_down	's:2 50:1
+stock_KSS r_down	watch:1
+stock_KSS r_up	exclusives:1 13:1 claims:1 's:4 help:1 lead:1 profit:1 named:1 focus:1 down:1 costs:1 uses:1 retailers:1 offset:1 new:1 drops:1 14:1 jobless:1
+stock_KSS r_down	weighs:1 's:1 36:1 shares:1
+stock_KSS r_down	expected:1 pressures:1 shadow:1 rise:1 sales:1
+stock_KSS r_up	n't:1
+stock_KSS r_up	haves:1 surprises:1 advisories:1 have-nots:1 retail-sector:1
+stock_KSS r_down	moves:1 drop:1 high:1 oil:1 2-year:1 stocks:1
+stock_KSS r_down	streak:1 18-month:1 win:1 could:1 sales:1 snap:1 retail:1
+stock_KSS r_up	defy:1 conventional:1 sales:1 wisdom:1
+stock_KSS r_down	downgrade:1 slide:1 stocks:1 hit:1
+stock_KSS r_down	after:1 steady:1 sales:1 report:1 stocks:1 weekly:1
+stock_KSS r_up	board:1 stocks:1 up:1 across:1
+stock_KSS r_up	's:1
+stock_KSS r_up	forecast:1 weak:1 shares:1 tumble:1
+stock_KSS r_up	weighs:1 see:1 boost:1 but:1 economy:1
+stock_KSS r_down	's:2 surprises:1 results:1 retail-sales:1 advisories:1 boost:1 gives:1
+stock_KSS r_up	outlook:1 's:4 profit:1 jumps:1 watch:1 up:1 stocks:1
+stock_KSS r_up	outlook:1 investors:1 estimates:1 sales:1 commodities:1 jobless:1 pressured:1 profit:2 shares:1 6:6 stock:1 's:8 tops:1 watch:1 focus:1 cheers:1 rises:1 off:1 futures:1 surge:1 n't:1 claims:1 retail:1
+stock_KSS r_down	report:1 surprises:1 advisories:1 earnings:1
+stock_KSS r_up	sector:1 lower:1 rises:1 retail:1 6.7:4 drops:1
+stock_KSS r_up	profit:1 lift:1 gets:1
+stock_KSS r_up	loss:1 swings:1 first-quarter:1
+stock_KSS r_down	+:1 =:1
+stock_KSS r_down	profit:1 pressures:1 cost:1 36:1 tumbles:1
+stock_KSS r_down	may:1 high:1 strongest:1 end:1 sales:1
+stock_KSS r_down	1.4:1
+stock_KSS r_down	down:1 their:1 credit:1 cards:1 cool:1
+stock_KSS r_up	's:1
+stock_KSS r_down	's:1
+stock_KSS r_up	taps:1 retail:1 chief:1
+stock_KSS r_up	's:1
+stock_KSS r_up	deals:1 now:1 right:1 should:1 jump:1 you:1 retail:1
+stock_KSS r_up	lower:1 's:1 highs:1 watch:1 lows:1 retailers:1 retail:1
+stock_KSS r_up	retail:1 paces:1 sales:1 advisories:1 2004:1 surprises:1 rally:1 stocks:1
+stock_KSS r_down	gaining:1 school:1 well:1 sales:1 back:1 biggest:1 augur:1 stocks:1 declining:1
+stock_KSS r_down	uphill:1 battle:1 against:1 face:1
+stock_KSS r_down	's:3
+stock_KSS r_up	stresses:1 back-to-school:1 shadow:1 spending:1
+stock_KSS r_up	demonstrates:1 shines:1 pricing:1 power:1
+stock_KSS r_down	's:1
+stock_KSS r_down	early:1 back-to-school:1 sales:1 favor:1
+stock_KSS r_down	customer:1 surprises:1 sales:1 reports:1 advisories:1 caution:1 highlight:1
+stock_KSS r_down	64:4 's:5
+stock_KSS r_up	claims:1 futures:1 off:2 17:5 surprises:1 store-exclusive:1 watch:2 bounce:1 strategy:1 advisories:1 lows:1 pays:1 's:7 after:1 stock:1
+stock_KSS r_up	gaining:1 disappoints:1 outlook:1 biggest:1 shines:1 stocks:1 declining:1
+stock_KSS r_down	loss:1 shuts:1 posts:1 29:1 wider:1 stores:1
+stock_KSS r_up	retail:1 losers:1 winners:1
+stock_KSS r_down	n't:1 fails:1 sales:1 retailers’:1 derail:1
+stock_KSS r_down	not:1 derailed:1 retail:1 sales:1 dented:1
+stock_KSS r_down	brings:1 's:2 back:1 layaway:1
+stock_KSS r_down	watch:1
+stock_KSS r_up	's:1
+stock_KSS r_down	lens:1 fashion:1 through:1
+stock_KSS r_up	's:1 40,000:1
+stock_KSS r_up	tough:1 show:1 despite:1 times:1 2:1 1st:1 's:1 resilience:1
+stock_KSS r_up	buy:1 should:1 investors:1 stock:1
+stock_KSS r_up	's:1 $:1 jumps:1 sale:1 brands:1 stock:1
+stock_KSS r_down	's:2
+stock_KSS r_up	's:1
+stock_KSS r_up	's:1
+stock_KSS r_down	's:1
+stock_KSS r_up	's:2
+stock_KSS r_up	's:1
+stock_KSS r_up	holiday:1 miss:1 raises:1 stakes:1
+stock_KSS r_down	's:1
+stock_KSS r_up	begins:1 's:9 surprises:1 earlier:1 watch:1 advisories:1 fervor:1 20:4 ever:1 than:1
+stock_KSS r_up	loss:1 again:1 retailer:1 share:1 loses:1 widens:1
+stock_KSS r_down	're:1 but:1
+stock_KSS r_down	down:1
+stock_KSS r_up	solid:1 note:1 end:1 sales:1
+stock_KSS r_down	surprises:1 advisories:1 's:4
+stock_KSS r_up	gaining:1 uncertain:1 season:1 sales:1 foreshadow:1 biggest:1 stocks:1 declining:1
+stock_KSS r_down	's:1
+stock_KSS r_down	buyers:1 stores:1 24/7:1 touting:1 deals:1 find:1
+stock_KSS r_down	shut:1 stores:1 woes:1 up:1 120:1 deepen:1
+stock_KSS r_up	cards:1 retail’s:1 cheer:1 holiday:1 extend:1
+stock_KSS r_down	500:1
+stock_KSS r_down	set:1 top:1 sales:1 forecasts:1 gain:1 retail:1
+stock_KSS r_down	pay:1 price:1 's:1 sales:1 win:1
+stock_KSS r_up	sees:1 back:1 saddle:1
+stock_KSS r_up	's:1 2011:1 $:1 150:1
+stock_KSS r_up	now:1 buy:1 right:1
+stock_KSS r_down	slower:1 winter:1 missing:1 sales:1 likely:1 goes:1
+stock_KSS r_down	loss:1 swings:1 's:3 investors:1 surges:1 watch:2 reassures:1 drop:1 profits:1
+stock_KSS r_up	still:1 works:1 surprises:1 show:1 strategy:1 3:1 advisories:1 new:1 has:1
+stock_KSS r_down	surprises:1 top:1 advisories:1 sales:1 expectations:1
+stock_KSS r_up	0.1:1 1:1 5:1 but:1
+stock_KSS r_down	impact:1 uneven:1 retail:1 inflation’s:1

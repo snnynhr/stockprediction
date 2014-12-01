@@ -1,0 +1,307 @@
+NDAQ	20120402	25.41	25.44	r_up	
+NDAQ	20120403	25.44	25.24	r_down	's:1
+NDAQ	20120404	25.24	24.74	r_down	
+NDAQ	20120405	24.74	25.04	r_up	
+NDAQ	20120409	25.04	24.87	r_down	
+NDAQ	20120410	24.87	24.12	r_down	
+NDAQ	20120411	24.12	24.26	r_up	
+NDAQ	20120412	24.26	24.48	r_up	
+NDAQ	20120413	24.48	24.1	r_down	's:1
+NDAQ	20120416	24.1	23.97	r_down	
+NDAQ	20120417	23.97	24.31	r_up	
+NDAQ	20120418	24.31	24.24	r_down	
+NDAQ	20120419	24.24	24.23	r_down	
+NDAQ	20120420	24.23	24.57	r_up	
+NDAQ	20120423	24.57	24.55	r_down	
+NDAQ	20120424	24.55	24.85	r_up	
+NDAQ	20120425	24.85	24.64	r_down	
+NDAQ	20120426	24.64	24.59	r_down	
+NDAQ	20120427	24.59	24.66	r_up	
+NDAQ	20120430	24.66	24.1	r_down	
+NDAQ	20120501	24.1	23.98	r_down	down:1 drop:1 stocks:1 5:1
+NDAQ	20120502	23.98	23.63	r_down	
+NDAQ	20120503	23.63	23.22	r_down	
+NDAQ	20120504	23.22	23.22	r_up	$:1 96:1
+NDAQ	20120507	23.22	23.0	r_down	
+NDAQ	20120508	23.0	23.2	r_up	
+NDAQ	20120509	23.2	23.6	r_up	
+NDAQ	20120510	23.6	23.28	r_down	
+NDAQ	20120511	23.28	22.92	r_down	
+NDAQ	20120514	22.92	23.11	r_up	extend:1 drop:1 shares:1 down:1 pulling:1 banks:1
+NDAQ	20120515	23.11	23.23	r_up	's:1
+NDAQ	20120516	23.23	22.68	r_down	's:1
+NDAQ	20120517	22.68	22.56	r_down	11:1
+NDAQ	20120518	22.56	21.57	r_down	11:2 lower:1 's:1 rocky:1 lead:1 get:1 climbs:1 a.m:1 review:1 after:1 shares:1 hours:1 72:1 prices:1 financial:1 stocks:1 open:1
+NDAQ	20120521	21.57	22.35	r_up	38:3 's:2 $:12 rebound:1 months:1 slumps:1 below:1 2:1 500:1 100:2 stocks:1 price:1 best:1
+NDAQ	20120522	22.35	21.9	r_down	11:1 gains:1 3rd:2 but:1 slide:1 nothing:1 $:1
+NDAQ	20120523	21.9	21.4	r_down	sector:1 again:1 's:4 $:2 limits:1 financials:1 drop:1 35:1 3rd:2 canceled:1 financial:1 lifts:1 so:1 fast:1 shares:1 fall:1 rally:1 order:1 gains:1 stock:1
+NDAQ	20120524	21.4	21.39	r_down	10:1 love:1 $:2 may:1 electronic:1 door:1 venues:1 trade:1 tech:1 fiasco:1 regulatory:1 close:1 've:1 seek:1
+NDAQ	20120525	21.39	21.64	r_up	's:4 $:5
+NDAQ	20120529	21.64	21.8	r_up	
+NDAQ	20120530	21.8	21.4	r_down	's:1
+NDAQ	20120531	21.4	21.47	r_up	
+NDAQ	20120601	21.47	20.97	r_down	ago:1 29:1 month:1 1:1 growth:1 than:1 higher:1
+NDAQ	20120604	20.97	20.98	r_up	
+NDAQ	20120605	20.98	21.45	r_up	straight:1 there’s:1 talk:1
+NDAQ	20120606	21.45	21.82	r_up	'an:1 's:3 $:1 40:1
+NDAQ	20120607	21.82	21.69	r_down	's:7 gains:1 up:1 n't:1 sours:1 rally:1 bank:1 gives:1
+NDAQ	20120608	21.69	21.7	r_up	's:2 $:1 after:1 shares:1 hours:1 slip:1 350:1 gains:1
+NDAQ	20120611	21.7	21.03	r_down	n't:1 5:1 6.5:1 15:2 $:3
+NDAQ	20120612	21.03	21.31	r_up	short-lived:1 2nd:1 5:1 fall:1 boost:1 financials:1
+NDAQ	20120613	21.31	20.93	r_down	vs.:1
+NDAQ	20120614	20.93	20.87	r_down	's:1
+NDAQ	20120615	20.87	21.07	r_up	's:1
+NDAQ	20120618	21.07	21.27	r_up	's:1
+NDAQ	20120619	21.27	21.73	r_up	's:1
+NDAQ	20120620	21.73	21.82	r_up	's:1
+NDAQ	20120621	21.82	21.14	r_down	prompts:1 inquiry:1
+NDAQ	20120622	21.14	21.36	r_up	
+NDAQ	20120625	21.36	20.84	r_down	rules:1 after:1 focus:1 hearing:1
+NDAQ	20120626	20.84	20.89	r_up	
+NDAQ	20120627	20.89	21.21	r_up	12:1 's:1
+NDAQ	20120628	21.21	21.45	r_up	13:1 12:1
+NDAQ	20120629	21.45	22.24	r_up	n't:1 2012:1
+NDAQ	20120702	22.24	22.46	r_up	vs:1
+NDAQ	20120703	22.46	22.33	r_down	
+NDAQ	20120705	22.33	22.12	r_down	
+NDAQ	20120706	22.12	21.8	r_down	
+NDAQ	20120709	21.8	21.44	r_down	into:1
+NDAQ	20120710	21.44	21.25	r_down	into:1 's:2
+NDAQ	20120711	21.25	21.68	r_up	trade:1 approves:1 high-frequency:1 audits:1 2nd:1
+NDAQ	20120712	21.68	21.62	r_down	2nd:1
+NDAQ	20120713	21.62	22.13	r_up	
+NDAQ	20120716	22.13	22.08	r_down	
+NDAQ	20120717	22.08	22.33	r_up	
+NDAQ	20120718	22.33	22.47	r_up	
+NDAQ	20120719	22.47	22.38	r_down	53:1
+NDAQ	20120720	22.38	21.95	r_down	--:1 62:1 $:2
+NDAQ	20120723	21.95	21.73	r_down	's:1
+NDAQ	20120724	21.73	21.42	r_down	's:1
+NDAQ	20120725	21.42	22.44	r_up	's:2 1.1:1 2nd:1
+NDAQ	20120726	22.44	22.77	r_up	broad:1 top:1 financials:1 gain:1 market:1 helps:1
+NDAQ	20120727	22.77	22.81	r_up	
+NDAQ	20120730	22.81	22.72	r_down	
+NDAQ	20120731	22.72	22.27	r_down	status:1 needs:1 futures:1 financial:1 $:1 drop:1 up:1 but:1 edge:1 bankers:1 other:1 350:1 central:1 stocks:1 eyes:1 its:1 change:1
+NDAQ	20120801	22.27	22.36	r_up	300:2 $:2
+NDAQ	20120802	22.36	22.2	r_down	ago:1 's:2 $:1 began:1 440:1 years:1 n't:1 trouble:1
+NDAQ	20120803	22.2	22.52	r_up	if:1
+NDAQ	20120806	22.52	22.71	r_up	's:1
+NDAQ	20120807	22.71	22.95	r_up	
+NDAQ	20120808	22.95	22.84	r_down	takeover:1 beyond:1 targets:1
+NDAQ	20120809	22.84	22.85	r_up	's:1
+NDAQ	20120810	22.85	22.92	r_up	
+NDAQ	20120813	22.92	22.94	r_up	
+NDAQ	20120814	22.94	22.74	r_down	
+NDAQ	20120815	22.74	22.86	r_up	
+NDAQ	20120816	22.86	22.98	r_up	can’t:1 volume:1 just:1 summer:1 drop:1 n't:1 blamed:1
+NDAQ	20120817	22.98	23.14	r_up	
+NDAQ	20120820	23.14	23.09	r_down	
+NDAQ	20120821	23.09	23.27	r_up	24:1 's:1
+NDAQ	20120822	23.27	22.75	r_down	
+NDAQ	20120823	22.75	22.44	r_down	30-year:1 's:2 10-:1
+NDAQ	20120824	22.44	22.34	r_down	
+NDAQ	20120827	22.34	22.47	r_up	jump:1 slip:1 financials:1
+NDAQ	20120828	22.47	22.65	r_up	
+NDAQ	20120829	22.65	22.56	r_down	
+NDAQ	20120830	22.56	22.36	r_down	into:1
+NDAQ	20120831	22.36	22.44	r_up	into:1
+NDAQ	20120904	22.44	22.81	r_up	
+NDAQ	20120905	22.81	22.84	r_up	
+NDAQ	20120906	22.84	23.28	r_up	2000:2
+NDAQ	20120907	23.28	23.28	r_up	2000:1
+NDAQ	20120910	23.28	23.14	r_down	
+NDAQ	20120911	23.14	23.21	r_up	
+NDAQ	20120912	23.21	23.49	r_up	
+NDAQ	20120913	23.49	23.88	r_up	
+NDAQ	20120914	23.88	24.14	r_up	's:2
+NDAQ	20120917	24.14	23.78	r_down	
+NDAQ	20120918	23.78	23.32	r_down	algorithms:1 laments:1
+NDAQ	20120919	23.32	23.68	r_up	high-speed:1 trading:1 eye:1 oversight:1
+NDAQ	20120920	23.68	23.38	r_down	down:1 high-speed:1 slow:1 trading:1 urged:1
+NDAQ	20120921	23.38	23.47	r_up	billion:1 ways:1 spot:1 tech:1 bubble:1
+NDAQ	20120924	23.47	23.4	r_down	
+NDAQ	20120925	23.4	22.86	r_down	
+NDAQ	20120926	22.86	22.6	r_down	's:1 1st:1
+NDAQ	20120927	22.6	23.1	r_up	92:1 $:1
+NDAQ	20120928	23.1	22.97	r_down	
+NDAQ	20121001	22.97	23.21	r_up	
+NDAQ	20121002	23.21	23.0	r_down	101:1
+NDAQ	20121003	23.0	22.94	r_down	high-speed:1 backs:1 switch:1 kill:1 trading:1 2012:1
+NDAQ	20121004	22.94	23.38	r_up	
+NDAQ	20121005	23.38	23.27	r_down	
+NDAQ	20121008	23.27	23.22	r_down	
+NDAQ	20121009	23.22	22.99	r_down	$:1
+NDAQ	20121010	22.99	23.24	r_up	
+NDAQ	20121011	23.24	23.18	r_down	
+NDAQ	20121012	23.18	22.95	r_down	
+NDAQ	20121015	22.95	23.37	r_up	591:1 up:1 $:1
+NDAQ	20121016	23.37	23.75	r_up	
+NDAQ	20121017	23.75	24.14	r_up	
+NDAQ	20121018	24.14	24.24	r_up	
+NDAQ	20121019	24.24	23.94	r_down	
+NDAQ	20121022	23.94	23.8	r_down	
+NDAQ	20121023	23.8	23.8	r_up	ways:1 traders:1 eyes:1 rein:1 fast:1
+NDAQ	20121024	23.8	23.26	r_down	19:2 's:1 2013:1
+NDAQ	20121025	23.26	23.55	r_up	's:1 slightly:1 after:1 up:1 but:1 dip:1
+NDAQ	20121026	23.55	23.45	r_down	may:1 force:1 evacuations:1
+NDAQ	20121031	23.45	23.46	r_up	
+NDAQ	20121101	23.46	23.83	r_up	
+NDAQ	20121102	23.83	23.7	r_down	
+NDAQ	20121105	23.7	23.95	r_up	
+NDAQ	20121106	23.95	24.08	r_up	
+NDAQ	20121107	24.08	23.47	r_down	
+NDAQ	20121108	23.47	23.24	r_down	
+NDAQ	20121109	23.24	23.27	r_up	
+NDAQ	20121112	23.27	23.16	r_down	216:2
+NDAQ	20121113	23.16	22.85	r_down	
+NDAQ	20121114	22.85	22.5	r_down	
+NDAQ	20121115	22.5	22.76	r_up	's:1
+NDAQ	20121116	22.76	22.64	r_down	19:1 47:1 events:1 23:1
+NDAQ	20121119	22.64	22.98	r_up	
+NDAQ	20121120	22.98	22.81	r_down	
+NDAQ	20121121	22.81	22.92	r_up	
+NDAQ	20121123	22.92	23.46	r_up	
+NDAQ	20121126	23.46	23.22	r_down	
+NDAQ	20121127	23.22	23.29	r_up	
+NDAQ	20121128	23.29	23.63	r_up	down:1 lift:1 gets:1 but:1 stays:1
+NDAQ	20121129	23.63	23.93	r_up	
+NDAQ	20121130	23.93	23.9	r_down	
+NDAQ	20121203	23.9	23.57	r_down	
+NDAQ	20121204	23.57	23.83	r_up	
+NDAQ	20121205	23.83	23.35	r_down	
+NDAQ	20121206	23.35	23.37	r_up	3:1 p.m.:1
+NDAQ	20121207	23.37	23.39	r_up	81:1
+NDAQ	20121210	23.39	23.16	r_down	
+NDAQ	20121211	23.16	23.24	r_up	
+NDAQ	20121212	23.24	24.11	r_up	's:6 $:2 leaves:1 after:1 shares:1 hours:1 390:2 rising:1 fall:1 highlight:1 100:1 financials:1
+NDAQ	20121213	24.11	24.13	r_up	100:1 's:1 500:1
+NDAQ	20121214	24.13	24.01	r_down	up:1
+NDAQ	20121217	24.01	24.48	r_up	
+NDAQ	20121218	24.48	25.01	r_up	dark:1 pools:1 say:1 markets:1 public:1
+NDAQ	20121219	25.01	25.02	r_up	n't:1 2012:1
+NDAQ	20121220	25.02	25.9	r_up	8.2:3 15:1 $:3 deal:1 jumps:1 likely:1 're:1 4:1 buyout:1 rises:1 approved:1
+NDAQ	20121221	25.9	25.28	r_down	750:1 's:1 $:2 23:1 sale:1 death:1 8.2:1 stocks:1 if:1
+NDAQ	20121224	25.28	25.02	r_down	
+NDAQ	20121226	25.02	24.96	r_down	
+NDAQ	20121227	24.96	24.85	r_down	1.17:1 $:1
+NDAQ	20121228	24.85	24.69	r_down	
+NDAQ	20121231	24.69	24.79	r_up	
+NDAQ	20130102	24.79	25.55	r_up	
+NDAQ	20130103	25.55	26.17	r_up	
+NDAQ	20130104	26.17	26.27	r_up	's:1
+NDAQ	20130107	26.27	26.06	r_down	
+NDAQ	20130108	26.06	25.89	r_down	
+NDAQ	20130109	25.89	26.16	r_up	165:1
+NDAQ	20130110	26.16	26.42	r_up	
+NDAQ	20130111	26.42	26.37	r_down	
+NDAQ	20130114	26.37	26.5	r_up	
+NDAQ	20130115	26.5	26.57	r_up	
+NDAQ	20130116	26.57	26.63	r_up	pushed:1 panel:1 exchange:1
+NDAQ	20130117	26.63	26.85	r_up	
+NDAQ	20130118	26.85	26.91	r_up	penny:1 debate:1 ticks:1
+NDAQ	20130122	26.91	27.28	r_up	
+NDAQ	20130123	27.28	27.16	r_down	n't:1
+NDAQ	20130124	27.16	27.29	r_up	13:1 head:1 taps:1 prosecutor:1
+NDAQ	20130125	27.29	27.48	r_up	10:1
+NDAQ	20130128	27.48	27.56	r_up	2.2:1 $:1
+NDAQ	20130129	27.56	27.68	r_up	's:1
+NDAQ	20130130	27.68	27.74	r_up	
+NDAQ	20130131	27.74	28.09	r_up	's:1 earnings:1 but:1
+NDAQ	20130201	28.09	28.41	r_up	exchange:1 only:1 rich:1 panel:1 seeks:1 stock:1
+NDAQ	20130204	28.41	28.13	r_down	
+NDAQ	20130205	28.13	28.58	r_up	's:3
+NDAQ	20130206	28.58	28.77	r_up	
+NDAQ	20130207	28.77	29.02	r_up	
+NDAQ	20130208	29.02	29.23	r_up	
+NDAQ	20130211	29.23	30.14	r_up	flat:1 stocks:1 results:1 ahead:1
+NDAQ	20130212	30.14	30.3	r_up	
+NDAQ	20130213	30.3	31.4	r_up	
+NDAQ	20130214	31.4	30.35	r_down	
+NDAQ	20130215	30.35	30.82	r_up	
+NDAQ	20130219	30.82	31.24	r_up	
+NDAQ	20130220	31.24	30.8	r_down	aggressive:1 gets:1 share:1 31:1 market:1
+NDAQ	20130221	30.8	30.73	r_down	drop:1 stocks:1 concerns:1
+NDAQ	20130222	30.73	31.11	r_up	
+NDAQ	20130225	31.11	30.58	r_down	
+NDAQ	20130226	30.58	31.2	r_up	
+NDAQ	20130227	31.2	31.53	r_up	
+NDAQ	20130228	31.53	31.4	r_down	
+NDAQ	20130301	31.4	31.33	r_down	volume:1 could:1 equal:1 higher:1
+NDAQ	20130304	31.33	31.77	r_up	
+NDAQ	20130305	31.77	32.19	r_up	
+NDAQ	20130306	32.19	31.97	r_down	seeks:1
+NDAQ	20130307	31.97	31.74	r_down	's:1
+NDAQ	20130308	31.74	31.77	r_up	
+NDAQ	20130311	31.77	32.05	r_up	
+NDAQ	20130312	32.05	31.97	r_down	
+NDAQ	20130313	31.97	31.99	r_up	
+NDAQ	20130314	31.99	32.47	r_up	
+NDAQ	20130315	32.47	32.44	r_down	even:1 stocks:1 gains:1 extend:1 volume:1 thinner:1 gets:1
+NDAQ	20130318	32.44	32.18	r_down	
+NDAQ	20130319	32.18	31.86	r_down	19:1
+NDAQ	20130320	31.86	31.81	r_down	
+NDAQ	20130321	31.81	31.91	r_up	
+NDAQ	20130322	31.91	32.23	r_up	
+NDAQ	20130325	32.23	32.01	r_down	stocks:1 deal:1 up:1 objects:1 bailout:1 gets:1 plan:1
+NDAQ	20130326	32.01	32.38	r_up	's:2
+NDAQ	20130327	32.38	32.25	r_down	
+NDAQ	20130328	32.25	32.17	r_down	
+NDAQ	20130401	32.17	31.88	r_down	
+NDAQ	20130402	31.88	27.8	r_down	billion:1 buy:1 $:1 ahead:1 auto:1 highs:1 futures:1 rev:1 up:3 sales:1 record:1 1.23:1 close:1 stocks:1 500:1 acquires:1
+NDAQ	20130403	27.8	28.16	r_up	movers:1 closes:1 high:1 off:1 intraday:1
+NDAQ	20130404	28.16	28.45	r_up	33:1 1st:1 12:1 $:2 10-:1
+NDAQ	20130405	28.45	28.64	r_up	
+NDAQ	20130408	28.64	28.88	r_up	
+NDAQ	20130409	28.88	28.63	r_down	ride:1 stocks:1 gains:1 higher:1
+NDAQ	20130410	28.63	28.88	r_up	
+NDAQ	20130411	28.88	29.05	r_up	
+NDAQ	20130412	29.05	29.06	r_up	
+NDAQ	20130415	29.06	28.42	r_down	
+NDAQ	20130416	28.42	28.52	r_up	
+NDAQ	20130417	28.52	28.19	r_down	33:1 11:1
+NDAQ	20130418	28.19	27.83	r_down	
+NDAQ	20130419	27.83	27.86	r_up	
+NDAQ	20130422	27.86	28.04	r_up	
+NDAQ	20130423	28.04	28.35	r_up	
+NDAQ	20130424	28.35	28.09	r_down	n't:2 surprises:1 advisories:1 watch:1
+NDAQ	20130425	28.09	28.61	r_up	
+NDAQ	20130426	28.61	28.79	r_up	's:1
+NDAQ	20130429	28.79	28.98	r_up	
+NDAQ	20130430	28.98	29.36	r_up	
+NDAQ	20130501	29.36	29.13	r_down	
+NDAQ	20130502	29.13	29.85	r_up	'':1 ``:1
+NDAQ	20130503	29.85	30.34	r_up	
+NDAQ	20130506	30.34	30.02	r_down	
+NDAQ	20130507	30.02	30.1	r_up	
+NDAQ	20130508	30.1	30.42	r_up	
+NDAQ	20130509	30.42	30.11	r_down	
+NDAQ	20130510	30.11	30.38	r_up	
+NDAQ	20130513	30.38	30.36	r_down	
+NDAQ	20130514	30.36	30.79	r_up	reputations:1 ruined:1
+NDAQ	20130515	30.79	31.0	r_up	
+NDAQ	20130516	31.0	30.64	r_down	's:1
+NDAQ	20130517	30.64	31.13	r_up	record:1 fines:1 target:1 ahead:1 exchanges:1
+NDAQ	20130520	31.13	31.21	r_up	
+NDAQ	20130521	31.21	31.06	r_down	
+NDAQ	20130522	31.06	30.85	r_down	9:1 $:1
+NDAQ	20130523	30.85	30.79	r_down	75:1 $:1
+NDAQ	20130524	30.79	30.6	r_down	
+NDAQ	20130528	30.6	31.34	r_up	
+NDAQ	20130529	31.34	31.46	r_up	got:1 right:1 its:1 $:1
+NDAQ	20130530	31.46	32.02	r_up	10:1 's:1 $:1
+NDAQ	20130531	32.02	31.33	r_down	
+NDAQ	20130603	31.33	30.93	r_down	's:1
+NDAQ	20130604	30.93	30.72	r_down	
+NDAQ	20130605	30.72	30.91	r_up	
+NDAQ	20130606	30.91	31.72	r_up	
+NDAQ	20130607	31.72	32.75	r_up	
+NDAQ	20130610	32.75	32.79	r_up	
+NDAQ	20130611	32.79	31.99	r_down	
+NDAQ	20130612	31.99	31.34	r_down	
+NDAQ	20130613	31.34	32.58	r_up	
+NDAQ	20130614	32.58	32.6	r_up	
+NDAQ	20130617	32.6	33.04	r_up	
+NDAQ	20130618	33.04	33.19	r_up	
+NDAQ	20130619	33.19	32.71	r_down	
+NDAQ	20130620	32.71	32.75	r_up	$:1
+NDAQ	20130621	32.75	32.57	r_down	15:1

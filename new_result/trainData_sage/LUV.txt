@@ -1,0 +1,469 @@
+stock_LUV r_down	1960:1
+stock_LUV r_down	's:1 2007:1
+stock_LUV r_down	lower:1 sees:1 reportedly:1 trades:1 2007:1 downturn:1 's:1
+stock_LUV r_down	closes:1 lower:1 oil:1 hit:1 high:1 economic:1 prices:1 concerns:1
+stock_LUV r_up	12:1
+stock_LUV r_down	sparks:1 unions:1 still:1 optimism:1 speaking:1
+stock_LUV r_down	poor:1 10.2:1 $:1 after:1 payroll:1 struggles:1 100:1 hold:1 data:1
+stock_LUV r_down	gaining:1 's:2 feature:1 likely:1 biggest:1 stocks:1 declining:1
+stock_LUV r_down	38:1 41:1 3:1 1.7:1 fuselage:1 planes:1 inspection:1 grounds:1
+stock_LUV r_up	down:1 downgrades:1 38:1 sharply:1 after:1
+stock_LUV r_down	cracks:1 $:1 50:1 four:1 aircraft:1 fuselage:1 finds:1
+stock_LUV r_down	165:1 $:1
+stock_LUV r_up	downsizing:1 cut:1 industry:1 shares:1 rate:1 2:2 rally:1 2008:1
+stock_LUV r_down	jet:1 under:1 pressure:1 costs:1 offset:1 fuel:1 higher:1
+stock_LUV r_up	oil:1 gains:1 broad:1 falls:1 rallies:1 clinches:1 market:1
+stock_LUV r_down	300:1
+stock_LUV r_down	sector:1 says:1 spot:1 pressures:1 aircraft:1 airline:1 demand:1 end:1 inspections:1 consumer:1
+stock_LUV r_up	loss:1 ends:1 22:1 posts:1 but:1 gain:1 quarter:1
+stock_LUV r_up	little:1 airports:1 industry:1 fragile:1 troubles:1 clampdown:1 growing:1 safety:1 airline:2 outrage:1 9.8:1 rattles:1
+stock_LUV r_down	sector:1 among:1 compliance:1 down:1 complete:1 shuts:1 airlines:1 shares:1 slips:1 safety:2 biggest:1 oversight:1 halts:1 gaining:1 audit:1 tests:1 's:3 plans:1 outsource:1 lax:1 accuse:1 stocks:1 declining:1 11:1 high:1 drop:1 work:1 52:2 airline:1 planes:1 wake:1 overseas:1 shows:1 filing:1 grounds:1
+stock_LUV r_down	peril:1 shuts:1 budget:1 down:1 flights:1 's:2
+stock_LUV r_up	customers:1 lurch:1 airlines:1 leave:1 3:1 times:1
+stock_LUV r_down	1,000:1 oil:1 spill:1 fall:1 airlines:1 down:1 also:1 earnings:1 hurts:1 prices:1 stumbles:1 stocks:2 pulled:1 500:1 take:1
+stock_LUV r_up	's:1 over:1 cancels:1 1,000:1 flights:1 safety:1 checks:1
+stock_LUV r_down	needs:1 20:1 $:1 deepens:1 fight:1 3:1 survive:1 2008:1 crisis:1
+stock_LUV r_up	's:1
+stock_LUV r_down	turmoil:1 prospects:1 's:1 amid:1 industry:1 4:1 weigh:1
+stock_LUV r_up	4:1
+stock_LUV r_up	gaining:1 stocks:1 's:1 disaster:1 63:1 pinch:1 '07:1 focus:2 12c:1 biggest:1 costs:1 5c:1 fuel:1 2009:1 declining:1 courting:1
+stock_LUV r_down	pain:1 show:1 broad:1 high:1 fuel:1 costs:1 earnings:1 rally:1 quarterly:1 close:1 rides:1 market:1 higher:1
+stock_LUV r_down	futures:1 hit:1 declines:1 highs:1 after:1 new:1 crude:1 amp:1
+stock_LUV r_down	lower:1 's:1 marches:1 move:1 indexes:1 banks:1 weigh:1 crude:1 oil-price:1 surge:1 dip:1
+stock_LUV r_up	2:1
+stock_LUV r_up	oil:1 boost:1 3:1 5:1 prices:1 gets:1 dip:1
+stock_LUV r_up	22:1
+stock_LUV r_down	say:1 avoided:1 groundings:1 could:1 have:1
+stock_LUV r_down	prices:1 oil:1 airlines:1 clobber:1 5.7:1
+stock_LUV r_down	oil:1 get:1 beat:1 over:1 up:1 traffic:1 prices:1 declining:1
+stock_LUV r_down	oil:1 run:1 $:1 may:1 into:1 30:2 downturn:1 market:1
+stock_LUV r_up	high:1 hits:1 oil:2 's:1 gains:1 crude:1 rebound:1 slim:1 late:1 held:1 sink:1 prices:1 new:1 stocks:1 stage:1
+stock_LUV r_down	$:3 600:2
+stock_LUV r_down	3:2
+stock_LUV r_down	not:1 says:1 if:1 's:2 bankruptcy:1
+stock_LUV r_down	passengers:1 should:1 n't:2 much:1 survey:1 expect:1 mergers:1
+stock_LUV r_down	...:1 's:1
+stock_LUV r_up	9:1 's:1
+stock_LUV r_down	10:1 's:1 $:1 afford:1 airlines:1 consolidation:1 can:1 have:1 doubts:1 80:1
+stock_LUV r_up	21:1
+stock_LUV r_down	n't:1 3:1
+stock_LUV r_up	's:2 rise:1 results:1 fall:1 crude:1 stocks:1
+stock_LUV r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_LUV r_up	's:1
+stock_LUV r_down	outweighs:1 oil:1 price:1 losses:1 lower:1 extends:1 momentum:1
+stock_LUV r_up	2010:1
+stock_LUV r_up	leads:1 lower:1 airlines:1
+stock_LUV r_down	gaining:1 outlook:1 oil:1 's:1 pressure:1 shares:1 prices:1 carrier:1 biggest:1 stocks:1 declining:1 volatility:1
+stock_LUV r_down	index:1 hits:1 oil:2 142:1 $:1 pressures:1 carriers:1 mark:1 record:1 breaches:1 low:1 prices:1
+stock_LUV r_down	hits:1 3-year:1 airlines:1 pressure:1 low:1 prices:1
+stock_LUV r_up	sector:1 loss:1 hits:1 oil:1 lead:1 10:1 highs:1 airlines:1 mild:1 slide:1 crude:1 fresh:1
+stock_LUV r_up	n't:1
+stock_LUV r_up	oil:1 end:1 prices:1 retreating:1 despite:1 mixed:1 's:2
+stock_LUV r_down	3.2:1 $:1
+stock_LUV r_down	lower:1 oil:1 off:1 debate:1 airlines:1 face:1 extends:1 close:1 speculation:1 firms:1 retreat:1
+stock_LUV r_up	king:1 results:1 airlines:1 second-quarter:1 cash:1
+stock_LUV r_up	's:1 airline:1 fall:1 report:1 aids:1 issues:1
+stock_LUV r_up	prices:1 oil:1 tailspin:1 hike:1 into:1 send:1 crude:1 rate:1 carrier:1 shares:1 banks:1 wanted:1
+stock_LUV r_up	focus:1
+stock_LUV r_down	deflates:1 sector:1 selling:1 's:2 last:1 index:1 --:1 big:1 over:1 up:1 blasts:1 15:1 week:1 heels:1 rally:1 80:1
+stock_LUV r_up	15:1
+stock_LUV r_down	own:1 gains:1 broad:1 travel:1 airfares:1 cheap:1 airlines:1 oil:1 causing:1 send:1 sharply:1 our:1 ruin:1 market:1 higher:1
+stock_LUV r_up	prices:1 sector:1 bubble:1 up:1 pressuring:1
+stock_LUV r_down	2009:1
+stock_LUV r_down	's:1 $:1 focus:1 airlines:1
+stock_LUV r_down	lift:1 carriers:1 upgrades:1
+stock_LUV r_down	among:1 oil:1 managers:1 carriers:1 favored:1 some:1 shares:1 air:1 fund:1 slams:1
+stock_LUV r_up	sending:1 $:1 carriers:1 jumps:1 tumbling:1 barrel:1
+stock_LUV r_down	passengers:1 may:1 fees:1 some:1 fall:1 weaken:1
+stock_LUV r_down	200:1
+stock_LUV r_up	shakes:1 up:1 oil:1 carrier:1 shares:1 data:1 spotlight:1
+stock_LUV r_up	oil:1 carriers:1 tumble:1 watch:1 up:1 heats:1 prices:1 stocks:1
+stock_LUV r_up	down:1 flight:1 takes:1 simmers:1
+stock_LUV r_down	pressures:1 slump:1 network:1 carriers:1
+stock_LUV r_up	turbulence:1 spell:1 economic:1 data:1 carriers:1
+stock_LUV r_down	oil:1 trump:1 headwinds:1 storms:1 coast:1 n't:1 weaker:1 economic:1 prices:1 toward:1
+stock_LUV r_down	holds:1 crumbles:1 market:1 broader:1 ground:1
+stock_LUV r_up	69:1 's:1 $:1
+stock_LUV r_down	hits:1 oil:2 $:1 after:1 falls:1 airline:1 90:1 prices:1 rally:1 barrel:1 toward:1 issues:1
+stock_LUV r_down	week:1 index:1 ends:1 lower:1 leads:1 decliners:1 13:1
+stock_LUV r_down	gaining:1 2016:1 2009:1 's:1 $:1 million:1 leap:1 4:1 275:1 biggest:1 stocks:1 declining:1 raises:1
+stock_LUV r_up	industries:1 lower:1 broad:1 caught:1 hopeful:1 stay:1 close:1 downturn:1 sports:1 selloff:1 market:1
+stock_LUV r_down	bogs:1 help:1 carriers:1 shares:1 down:1 prices:1 broader:1 crude:1 fail:1 market:1
+stock_LUV r_up	start:1 slide:1 after:1 promising:1
+stock_LUV r_up	's:1
+stock_LUV r_up	loss:1 swings:1 hit:1 hedging:1 passengers:1 hedges:1 fall:1 backfires:1 fewer:1 focus:1 prepares:1 costs:1 1st:1 fuel:3 's:1 now:1 $:1
+stock_LUV r_down	gaining:1 hits:1 oil:1 's:1 after:1 low:1 biggest:1 rally:1 14-month:1 stocks:1 declining:1
+stock_LUV r_up	``:1 calls:1 rise:1 shares:1 '':1 production:1 but:1 cuts:1
+stock_LUV r_down	779:1 $:1
+stock_LUV r_down	's:1 'll:1
+stock_LUV r_down	off:1 declines:1 losses:1 report:1 wider:1 sharp:1 sells:1 market:1
+stock_LUV r_down	oil:1 heads:1 $:1 cash:1 past:1 68:1 gains:1
+stock_LUV r_up	wows:1 editor:1 'em:1
+stock_LUV r_up	into:2 's:2
+stock_LUV r_up	outlook:1 oil:1 rising:1 pressured:1 revenue:1
+stock_LUV r_down	2009:1
+stock_LUV r_up	's:1
+stock_LUV r_down	$:1 fears:1 weak:1 but:1 falls:1 60:1 below:1 dominate:1 economy:1
+stock_LUV r_down	less:1 may:1 big:1 travel:1 point:1 leisure:1 economic:1 broader:1 signs:1 along:1 stages:1 rebound:1 market:1
+stock_LUV r_down	400,000:1 edge:1 slip:1 prices:1 crude-oil:1 higher:1
+stock_LUV r_down	's:1 business:1 travel:1 sharply:1 fall:1 stocks:1 economy:1
+stock_LUV r_up	--:1 got:1 just:1 skies:1 friendlier:1
+stock_LUV r_up	'':2 ``:2
+stock_LUV r_down	carriers:1 shares:1 air:1 lifts:1 rally:1 market:1
+stock_LUV r_up	prices:1 sector:1 boosting:1 5:1 fall:1
+stock_LUV r_up	decline:1 's:1 monthly:1 continues:1 air:1 traffic:1 its:1
+stock_LUV r_down	shop:1 10:1 2009:1 capacity:1 $:1 raise:1 into:1 cash:1 unveil:1 cut:1 plans:1 5:2 4:1 under:1 stocks:1 around:1
+stock_LUV r_up	clouds:1 carriers:1 gather:1 airlines:1 but:1 results:1 down:1 plan:1 weigh:1 has:1
+stock_LUV r_up	float:1 shares:1 carrier:1 rally:1 broad-market:1 higher:1
+stock_LUV r_down	poor:1 sector:1 industry:1 n't:1 pressure:1 prices:1 data:1
+stock_LUV r_down	$:1 3,300:1 volatile:1 crude:1 moves:1 higher:1
+stock_LUV r_up	n't:1 ...:1 ``:1 '':1 's:5
+stock_LUV r_up	$:1
+stock_LUV r_up	sector:1 10:1 's:1 $:1 pressure:1 spike:1 prices:1 2008:1
+stock_LUV r_up	narrowly:1 closes:1 lower:1 broader:1 market:1 stock:1
+stock_LUV r_down	oil:1 's:1 $:1 lead:1 37:1 falls:1 below:1 rally:1
+stock_LUV r_up	leads:1 sector:1 dips:1 crude:1 higher:1
+stock_LUV r_up	lower:1 oil:1 get:1 carriers:1 air:1 lift:1 prices:1
+stock_LUV r_up	end:1 gains:1 travel:1 radar:1 2008:1 stocks:1 changes:1 stock:1
+stock_LUV r_up	rally:1 make:1 2009:1 headway:1 opening:1
+stock_LUV r_up	oil:1 's:2 gains:1 broad:1 eke:1 rise:1 back:1 cheaper:1 gain:1 prices:1 rally:1 2008:1 slim:1 market:1 out:1
+stock_LUV r_down	down:1 amid:1 broad-market:1 swoon:1 volatility:1
+stock_LUV r_up	2009:1
+stock_LUV r_down	8220:1 8221:1 carriers:1 trading:1 lows:1 historical:1 analyst:1
+stock_LUV r_up	poor:1 's:1 rise:1 unions:1 8217:1 retreats:1 s:1 economic:1 call:1 change:1 data:1 vs.:1
+stock_LUV r_up	gives:1 lift:1 oil:1 carriers:1 demand:1
+stock_LUV r_down	new:1 economic:1 woes:1 falls:1
+stock_LUV r_up	play:1 oil:1 hedges:1 losses:1 havoc:1 fuel:1 quarterly:1 prices:1 post:1 expected:1
+stock_LUV r_up	billion:1 sees:1 $:2 focus:1 1:2 savings:1 '09:2 fuel:1
+stock_LUV r_down	gaining:1 leads:1 fails:1 8230:1 's:1 na:1 sales:1 keep:1 bookings:1 future:1 economic:1 airlines:1 airfare:1 biggest:1 stocks:1 data:1 declining:1 red:1
+stock_LUV r_up	sector:2 loss:1 plunge:1 's:1 $:1 decline:1 after:1 airlines:1 shares:1 pace:1 gains:1
+stock_LUV r_down	says:1 collapse:1 default:1 could:1 credit:1 strategist:1 market:1 swaps:1
+stock_LUV r_up	175:1 $:1
+stock_LUV r_up	wobbles:1 after:1 traffic:1 reports:1
+stock_LUV r_down	losses:1 slip:1 carriers:1
+stock_LUV r_up	sector:1 hit:1 gains:1 woes:1 n't:1 's:1 market:1
+stock_LUV r_up	s:1 8217:1
+stock_LUV r_down	prices:1 falling:1 oil:1 soar:1
+stock_LUV r_down	pummeled:1 over:1 anxieties:1 economic:1 new:1 250:1
+stock_LUV r_down	leads:1 sector:1 higher:1
+stock_LUV r_down	$:1 government:1 surprises:1 partnership:1 advisories:1 7.5:1 new:1 seeks:1 economy:1
+stock_LUV r_down	capacity:1 rise:1 shares:1 traffic:1 cuts:1 further:1 gets:1 downgraded:1 weakens:1
+stock_LUV r_up	sector:1 traffic:1 air:1 weak:1 data:1
+stock_LUV r_up	cut:1 capacity:1 gains:1 track:1 wider:1 market:1 more:1
+stock_LUV r_down	upgraded:1 buy:1 gets:1 mostly:1 higher:1
+stock_LUV r_up	2013:1
+stock_LUV r_up	rating:1 after:1 credit:1 joins:1 cuts:1 its:1
+stock_LUV r_down	s:1 8217:1
+stock_LUV r_up	2003:1 s:1 8217:1
+stock_LUV r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_LUV r_up	decline:1 extends:1 airlines:1 flat:1 trade:1
+stock_LUV r_up	scary:1 look:1 weak:1 results:1 but:1 not:1
+stock_LUV r_down	set:1 's:2 upset:1 8217:2 rivals:1 s:1 t:1 its:1
+stock_LUV r_up	gaining:1 's:1 weak:1 but:1 stability:1 traffic:1 surface:1 signs:1 biggest:1 stocks:1 declining:1
+stock_LUV r_down	ahead:1 shares:1 helping:1 sink:1 prices:1 earnings:1
+stock_LUV r_down	8220:1 8221:1 8217:1
+stock_LUV r_up	beat:1 sector:1 rallies:1 results:1 view:1
+stock_LUV r_down	gaining:1 loss:1 swings:1 's:1 people:1 focus:1 fewer:1 fly:1 biggest:1 first-quarter:1 stocks:1 spotlight:1 declining:1
+stock_LUV r_up	losses:1 traffic:1 despite:1 mixed:1 new:1 data:1
+stock_LUV r_down	warns:1 shaky:1 shares:1 s:1 8217:1 mixed:1 rally:1 analyst:1
+stock_LUV r_down	news:1 bad:1 good:1 stocks:1
+stock_LUV r_up	'08:1 '07:1 's:1
+stock_LUV r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_LUV r_up	spike:1 swine-flu:1 sell-off:1 declines:1 airfares:1 're:1 lows:1 fall:1 further:1 five-year:1
+stock_LUV r_down	off:1 2007:1
+stock_LUV r_up	2009:1
+stock_LUV r_down	oil:1 $:1 stabilize:1 56:1 tops:1 barrel:1 stocks:1
+stock_LUV r_up	's:1
+stock_LUV r_up	bumpy:1 ride:1 tick:1 shares:1 upwards:1
+stock_LUV r_down	sector:1 decline:1 slump:1
+stock_LUV r_down	3:1
+stock_LUV r_up	rise:1 stocks:1 consumer:1 confidence:1
+stock_LUV r_down	new:1 adjust:1 brace:1 threats:1 but:1
+stock_LUV r_up	oil:1 gains:1 top:1 65:1 prices:1 miss:1 market:1 $:1
+stock_LUV r_down	sector:1 sell:1 off:1 help:1 lead:1
+stock_LUV r_down	's:1
+stock_LUV r_down	10:1 capacity:1 fall:1 cuts:1 stocks:1 more:1
+stock_LUV r_down	lifeline:1 order:1 makers:1 backlog:1 look:1
+stock_LUV r_up	sell-off:1 turn:1 stocks:1 after:1 higher:1
+stock_LUV r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_LUV r_down	climb:1 stocks:1 data:1
+stock_LUV r_down	data:1 focus:1 2010:1
+stock_LUV r_down	30:1 $:1
+stock_LUV r_up	15:1
+stock_LUV r_down	lower:1 stocks:1 gain:1 edge:1
+stock_LUV r_up	-7:1 6:1
+stock_LUV r_up	broad:1 make:1 stocks:1 advance:1
+stock_LUV r_up	's:1
+stock_LUV r_up	focus:1
+stock_LUV r_down	's:1 after:1 fall:1 report:1 83:1 stocks:1 6.8:1
+stock_LUV r_up	gaining:1 swings:1 's:3 revenue:1 profit:1 after:1 slump:1 bearish:1 biggest:1 struggle:1 report:1 stocks:2 second-quarter:1 declining:1 view:1
+stock_LUV r_down	's:1
+stock_LUV r_up	prices:1 stocks:1 slump:1 up:1 oil:1
+stock_LUV r_up	$:1
+stock_LUV r_up	bankruptcy:1 buy:1 's:4 may:1 bids:1 edge:1 out:1 higher:1
+stock_LUV r_up	upbeat:1 rise:1 stocks:1 economic:1 data:1
+stock_LUV r_up	decline:1 gains:1 index:1 after:1 two:1 reaches:1 six-month:1 high:1 weeks:1 stocks:2 climb:1
+stock_LUV r_down	broad:1 rise:1 better:1 traffic:1 rally:1 stocks:1
+stock_LUV r_up	upgraded:1 hesitates:1 major:1 buy:1 off:1 theory:1 sending:1 resistance:1 according:1 signals:1 stocks:1 500:1 $:1
+stock_LUV r_up	beats:1 's:1 bid:1 7:1 1/2:1
+stock_LUV r_down	lower:1 's:2 deal:1 flight:1 shares:1 take:1 wider:1 follow:1 stocks:1 market:1
+stock_LUV r_down	's:1
+stock_LUV r_down	's:1 rebound:1 near:1 session:1 close:1 stocks:1 highs:1
+stock_LUV r_up	lower:1 oil:1 end:1 jump:1 5:1 prices:1 stocks:1
+stock_LUV r_down	pullback:1 stocks:1 up:1 oil:1 edge:1
+stock_LUV r_up	mixed:1 lower:1 market:1
+stock_LUV r_down	sector:1 declines:1 gain:1 shares:1 airline:1
+stock_LUV r_up	sell:1 flu:1 buy:1 stocks:1 's:1
+stock_LUV r_up	positive:1 stocks:1 data:1 up:1 market:1
+stock_LUV r_up	737s:1 8.1:1
+stock_LUV r_up	6.2:1
+stock_LUV r_down	2.9:1 's:1 $:1
+stock_LUV r_down	2009:1
+stock_LUV r_up	into:1 airlines:1 lead:1 red:1
+stock_LUV r_down	sector:1 traffic:1 gains:1 reports:1
+stock_LUV r_up	fired:1 get:1 over:1 up:1 obesity:1 poll:1
+stock_LUV r_up	wider:1 led:1 market:1 slip:1
+stock_LUV r_down	week:1 set:1 led:1 defend:1 rise:1 3:1 nearly:1 losses:1 quarterly:1 post:1 stocks:2 round:1 gain:1
+stock_LUV r_down	73:1 $:1
+stock_LUV r_up	eke:1 stocks:1 slim:1 gains:1 out:1
+stock_LUV r_down	outlook:1 focus:1 2010:1 dismal:1 slip:1 stocks:1 downgraded:1 gives:1
+stock_LUV r_down	gaining:1 decline:1 led:1 3.4:1 biggest:1 's:1 stocks:1 declining:1
+stock_LUV r_up	's:1 parade:1 ahead:1 earnings:1 slip:1 stocks:1
+stock_LUV r_down	decline:1 stocks:1 results:1
+stock_LUV r_down	's:2 signal:1 up:1 jump:1 traffic:1 upbeat:1 stocks:2 grows:1
+stock_LUV r_up	break:1 stocks:1 erosion:1 takes:1 demand:1
+stock_LUV r_down	holiday:1 travel:1 rise:1 upswing:1 reports:1 stocks:1
+stock_LUV r_up	team:1 stocks:1 4.1:1 up:1 fall:1
+stock_LUV r_down	backing:1 renewed:1 unions:1 stocks:1 see:1
+stock_LUV r_up	battle:1 customers:1 sites:1 fewer:1
+stock_LUV r_up	costly:1 may:1 dollar:1 airlines:1 but:1 retreats:1 value:1 carry:1 climb:1 stocks:1
+stock_LUV r_up	rises:1 into:1 stocks:1 red:1 slip:1
+stock_LUV r_up	n't:1
+stock_LUV r_up	gaining:1 12:1 's:2 shares:1 biggest:1 declining:1
+stock_LUV r_down	investors:1 judge:1 growth:1 signs:1 mixed:1 stocks:1
+stock_LUV r_up	jetliners:1 orders:1 mixed:1 new:1 stocks:1 2010:1
+stock_LUV r_down	18:1
+stock_LUV r_up	's:2 climb:1 stocks:1 led:1
+stock_LUV r_up	claims:1 decline:1 stocks:1 jobless:1 higher:1
+stock_LUV r_down	oil:1 recovery:1 deal:1 amid:1 early:1 stocks:1
+stock_LUV r_up	profit:1 rise:1 ups:1 stocks:1 its:1 2010:1 view:1
+stock_LUV r_up	travelers:1 trouble:1 holiday:1 bag:1 face:1
+stock_LUV r_down	still:1 stuck:1 stocks:1 downdraft:1
+stock_LUV r_up	's:1 recovery:1 extend:1 into:1 2010:2 stocks:1 could:1
+stock_LUV r_up	raise:1 carriers:1 prices:1 legacy:1 mixed:1 stocks:1
+stock_LUV r_down	2009:1
+stock_LUV r_down	soars:1 stocks:1 's:1 falls:1
+stock_LUV r_up	cleared:1 expand:1
+stock_LUV r_down	their:1 fees:1 raise:1 baggage:1
+stock_LUV r_down	1.4:1
+stock_LUV r_down	may:1 increase:1 losses:1 capacity:1 narrow:1
+stock_LUV r_up	3.3:1
+stock_LUV r_up	quarterly:1 focus:1 profits:1 swing:1
+stock_LUV r_up	week:1 loss:1 calls:1 up:1 airlines:1 caution:1 easy:1 wrap:1 stocks:1 red:1
+stock_LUV r_up	mixed:1 stocks:1 dip:1 after:1
+stock_LUV r_down	loss:1 end:1 five-session:1 posts:1 slump:1 down:1 narrower:1 stocks:2
+stock_LUV r_down	into:1 focus:1 costs:1 fall:1 stocks:1 come:1 higher:1
+stock_LUV r_up	carriers:1 get:1 three:1 fall:1 stocks:1 downgraded:1
+stock_LUV r_down	$:1
+stock_LUV r_up	down:1 claims:1 stocks:1 up:1 jobless:1
+stock_LUV r_up	2009:1
+stock_LUV r_up	1.6:1 5:1
+stock_LUV r_up	2009:1
+stock_LUV r_down	decline:1 2009:1 rise:1 falls:1 faults:1 rate:1 accident:1 lax:1 wider:1 safety:1 stocks:2 oversight:1 market:1
+stock_LUV r_up	3.3:1
+stock_LUV r_up	rough:1 slams:1 looks:1 snow:1 airlines:1
+stock_LUV r_up	hit:1 pattern:1 highs:1 some:1 up:1 shares:1 full-year:1 holding:1 stocks:1
+stock_LUV r_down	mixed:1 lower:1 stocks:1 trades:1
+stock_LUV r_up	down:1 stocks:1 edge:1
+stock_LUV r_up	jobs:1 get:1 1st:1 report:1 stocks:1 boost:1
+stock_LUV r_down	mixed:1 flat:1 stocks:1 trading:1
+stock_LUV r_up	's:1
+stock_LUV r_up	highs:1 stretching:1 high:1 52-week:1 lift:1 3.2:1 airline:1 new:1 stocks:2 soar:1
+stock_LUV r_up	global:1 forecast:1 '09:1 fall:1 stocks:1 raises:1
+stock_LUV r_up	mixed:1 2.9:1 stocks:1 up:1
+stock_LUV r_up	end:1 leading:1 mixed:1 stocks:1 transports:1 pack:1
+stock_LUV r_down	week:1 black:1 stocks:1 end:1
+stock_LUV r_up	5.3:1
+stock_LUV r_down	peers:1 oil:1 $:1 pushes:1 deal:1 past:1 growth:1 mixed:1 barrel:1 stocks:1 85:1
+stock_LUV r_down	budget:1 carriers:1 airlines:1 lose:1
+stock_LUV r_down	following:1 big:1 hover:1 stocks:1 gains:1
+stock_LUV r_up	allies:1 recovery:1 into:1 global:1 tap:1 seek:1
+stock_LUV r_up	high:1 upgrade:1 hits:1 after:1 full-year:1
+stock_LUV r_down	's:1
+stock_LUV r_down	after:1 losses:1 focus:1 fall:1 wider:1 stocks:1
+stock_LUV r_up	swings:1 profit:1 surprises:1 advisories:1 airfare:1 higher:1
+stock_LUV r_up	's:1
+stock_LUV r_up	jobs:1 21:1 merger:1 fewer:1 may:1 fares:1 mean:1 higher:1
+stock_LUV r_down	groups:1 join:1 $:1 deal:1 merger:1 labor:1 bln:1 benefits:1 forces:1 airfare:1 not:1 's:1 seek:1 higher:1
+stock_LUV r_down	troubles:1 plunge:1 stocks:1 's:1 0.6:1
+stock_LUV r_down	month:1 set:1 grow:1 fourth:1 revenue:1
+stock_LUV r_up	3.9:1
+stock_LUV r_down	oil:1 $:2 75:2 modest:1 7:1 post:1 stocks:1 below:1 gains:1
+stock_LUV r_down	3.8:1
+stock_LUV r_down	decline:1 after:1 3.5:1 report:1 stocks:1 employment:1
+stock_LUV r_up	even:1 off:1 'double:1 slip:1 dip:1 waives:1
+stock_LUV r_down	3.6:1
+stock_LUV r_up	portfolio:1 travel-sector:1 stocks:1 your:1
+stock_LUV r_down	strike:1 turn:1 pilots:1 rivals:1
+stock_LUV r_up	4.1:1 's:1 $:1 spotlight:1 more:1
+stock_LUV r_down	1:2
+stock_LUV r_down	week:1 slows:1 second:1 stocks:1 dip:1 economy:1
+stock_LUV r_up	after:1 revenue:1 rise:1 reports:1 traffic:1 stocks:1
+stock_LUV r_down	into:1 0.2:1 second-quarter:1 profits:1 soar:1
+stock_LUV r_down	surprises:1 after:1 results:1 advisories:1 fall:1 stocks:1
+stock_LUV r_up	2.7:1
+stock_LUV r_up	23:1 profit:1 surprises:1 watch:1 climbs:1 advisories:1 quarterly:1 claims:1 spotlight:1
+stock_LUV r_up	solid:1 headwinds:1 stocks:1 airlines:1 face:1
+stock_LUV r_down	vacation:1 fast:1 deals:1 but:1 act:1 abound:1
+stock_LUV r_down	nonfarm:1 slows:1 revenue:1 growth:1 fall:1 payrolls:1 stocks:1 spotlight:1
+stock_LUV r_up	oil:1 trade:1 prices:1 fall:1 mixed:1 stocks:1
+stock_LUV r_down	2.9:1 737:1
+stock_LUV r_up	's:1
+stock_LUV r_down	's:1
+stock_LUV r_up	's:1
+stock_LUV r_down	session:1 decline:1 stocks:1 fourth:1
+stock_LUV r_down	737:1
+stock_LUV r_down	routes:1 18:1 gain:1 more:1
+stock_LUV r_up	consumer:1 confidence:1 stocks:1 improved:1 up:1
+stock_LUV r_up	manage:1 early:1 modest:1 stocks:1 gains:1
+stock_LUV r_up	set:1 gain:1 7:1 climb:1 stocks:1 weekly:1
+stock_LUV r_down	bit:1 delays:1 dip:1 cancellations:1 up:1
+stock_LUV r_up	737-800:1
+stock_LUV r_up	2.3:1 737-800:1
+stock_LUV r_down	high:1 three-year:1 benchmark:1 reaches:1
+stock_LUV r_down	n't:1
+stock_LUV r_up	rules:1 could:1 costly:1 airlines:1
+stock_LUV r_up	1.4:2 deal:2 beware:1 $:3 lead:1 surprises:1 should:1 advisories:1 bolt-on:1 stock:1 plants:1 buy:1 's:2 flag:1 gain:1 news:1 stocks:1 billion:1 lower:1 amid:1 futures:1 -2:1 spotlight:1
+stock_LUV r_down	gaining:1 streak:1 after:1 's:3 deal:1 means:1 travelers:1 carriers:1 long:1 winning:1 dark:1 sputter:1 cloud:1 biggest:1 stocks:2 declining:1 latest:1
+stock_LUV r_down	717:1 meet:1 set:1 pilots:1 's:2
+stock_LUV r_down	high:1 stocks:1 three-year:1 back:1 fall:1
+stock_LUV r_down	pattern:1 stocks:1 holding:1
+stock_LUV r_down	1:1
+stock_LUV r_down	1.7:1
+stock_LUV r_up	profit:1 surprises:1 stocks:1 after:1 soar:1
+stock_LUV r_up	's:3 focus:1
+stock_LUV r_down	surprises:1 post:1 advisories:1 profits:1 strong:1
+stock_LUV r_up	focus:1
+stock_LUV r_up	high:1 52-week:1 flirts:1 benchmark:1
+stock_LUV r_up	737-800:1
+stock_LUV r_up	737:1
+stock_LUV r_up	flight:1 20,000:1 some:1 attendants:1 loses:1
+stock_LUV r_up	2011:1 5:1 4:1
+stock_LUV r_down	16:1
+stock_LUV r_down	--:1 1.8:1
+stock_LUV r_down	0.6:1
+stock_LUV r_down	6.6:1
+stock_LUV r_down	upbeat:1 rise:1 stocks:1 traffic:1 reports:1
+stock_LUV r_up	surprises:1 advisories:1
+stock_LUV r_down	0.2:1
+stock_LUV r_up	0.4:1
+stock_LUV r_down	hikes:1 likely:1 rise:1 way:1 more:1
+stock_LUV r_down	2010:1
+stock_LUV r_down	rally:1 stocks:1 gains:1 pace:1
+stock_LUV r_up	11:1
+stock_LUV r_up	disrupts:1 flights:1 rain:1
+stock_LUV r_up	dumps:1 snow:1 more:1
+stock_LUV r_down	strains:1 relations:1 agent:1 5.6:1
+stock_LUV r_down	's:1 profit:1 while:1 returns:1 costs:1 fuel:1 climb:1
+stock_LUV r_down	watch:1 costs:1 offset:1 fuel:1 fares:1 boost:1 higher:1
+stock_LUV r_down	fly:1 13:2 's:2 people:1 surprises:1 focus:1 advisories:1 claims:1 profits:1 more:1
+stock_LUV r_down	surprises:1 advisories:1
+stock_LUV r_up	surprises:1 advisories:1
+stock_LUV r_down	prices:1 stocks:1 sink:1 oil:1 higher:1
+stock_LUV r_up	disrupts:1 weather:1 some:1 travel:1
+stock_LUV r_up	surprises:1 advisories:1 costs:1 fall:1 fuel:1 threaten:1 stocks:1 profits:1
+stock_LUV r_up	's:1 winter:1 week’s:1 tally:1 storms:1 damage:1
+stock_LUV r_up	13:1 oil:1 ease:1 rise:1 prices:1 stocks:1
+stock_LUV r_up	400:1
+stock_LUV r_up	6:1
+stock_LUV r_up	0.8:1
+stock_LUV r_up	turf:1 fights:1 737:1
+stock_LUV r_down	prices:1 slide:1 stocks:1 jet-fuel:1 rise:1
+stock_LUV r_down	unrest:1 continues:1 stocks:1 fall:1
+stock_LUV r_up	jet:1 rise:1 prices:1 struggle:1 fuel:1 stocks:1
+stock_LUV r_up	data:1 stocks:1 traffic:1 up:1 strong:1
+stock_LUV r_down	2011:1
+stock_LUV r_down	impact:1 website:1 customers:1 savings:1 slam:1 college:1 can:1 snafus:1 changes:1
+stock_LUV r_up	gaining:1 oil:1 stabilize:1 offer:1 rebound:1 prices:1 debt:1 fall:1 biggest:1 stocks:3 declining:1
+stock_LUV r_up	oil:1 rise:1 back:1 shares:1 crude:1 pulls:1
+stock_LUV r_up	's:1
+stock_LUV r_up	stocks:1 gains:1 extend:1
+stock_LUV r_down	sector:1 drop:1 focus:1 's:1 inspections:1 out:1 $:1 top:1 shares:1 1:1 flights:1 more:2 oil:2 hit:1 gains:1 108:1 plane:1 prices:1 stocks:1 weekend:1 case:1 scary:1 eke:1 futures:1 up:1 34:1 prompts:1 edge:1 tech:1 halts:1
+stock_LUV r_down	repair:1 cracks:1 risk:1 older:1 737s:1 hundreds:1 checks:1 five:1 737:1 need:1 completes:1
+stock_LUV r_down	claims:1 's:1 sales:1 focus:1 same-store:1
+stock_LUV r_down	deal:1 may:1 herald:1 airfare:1 tie-ups:1 more:1
+stock_LUV r_down	's:1 jobless:1 55:1 surprises:1 watch:2 advisories:1 claims:1 spotlight:1
+stock_LUV r_up	's:1
+stock_LUV r_up	115.49:1
+stock_LUV r_up	1:2 13:2 787:2 's:2 40:1 jump:1 rate:1 production:1 2014:1
+stock_LUV r_down	1:1 $:1
+stock_LUV r_up	summer:1 travel:1 stocks:1 recover:1 beckons:1
+stock_LUV r_down	stocks:1 recovers:1 oil:1 wither:1
+stock_LUV r_up	1.7:2
+stock_LUV r_up	2.9:2
+stock_LUV r_up	rise:1 stocks:1 ups:1 outlook:1
+stock_LUV r_up	1.5:2
+stock_LUV r_up	costly:1 uneasy:1 over:1 replace:1 radar:1 bid:1
+stock_LUV r_down	deals:1 rise:1 last-minute:1 fliers:1
+stock_LUV r_down	n't:1
+stock_LUV r_down	n't:1
+stock_LUV r_down	rally:1 stocks:1 oil:1 fall:1
+stock_LUV r_up	12000:1
+stock_LUV r_up	2.2:2
+stock_LUV r_up	refund:1 get:1 airfare:1 you:1 drops:1 might:1 your:1
+stock_LUV r_up	fee:2 's:1 revenue:1 stupid:1 it’s:1 airlines:1 baggage:1 see:1 2:2 growth:1 not:1 strong:1
+stock_LUV r_down	not:1 it’s:1 fee:2 stupid:1 baggage:1
+stock_LUV r_up	boost:1 sees:1 revenue:1
+stock_LUV r_down	watch:1
+stock_LUV r_down	7.5:2
+stock_LUV r_down	1.4:2
+stock_LUV r_down	fare:1 even:1 revenue:1 tax:1 slumps:1 hikes:1 stall:1 looks:1 prices:1 fees:1 fuel:1 climb:1 airline:1
+stock_LUV r_down	fare:1 rises:1 fall:1 watch:1 doubts:1 new:1 stocks:1
+stock_LUV r_down	reset:1 huge:1 beats:1 aircraft:1 spinoff:1 order:2 seeks:1 out:1
+stock_LUV r_down	surprises:1 advisories:1
+stock_LUV r_down	52-week:1 stocks:1 hit:1 sink:1 lows:1
+stock_LUV r_up	millions:1 revenue:1 costs:1 lost:1 fight:1
+stock_LUV r_down	's:1
+stock_LUV r_down	along:1 stocks:1 bounce:1 bottom:1
+stock_LUV r_up	softer:1 ...:1 high:1 fuel:1 costs:1 demand:1 sputter:1
+stock_LUV r_down	hits:1 's:1 tumble:1 300:1 44:4 watch:2 low:1 2012:2
+stock_LUV r_down	5.9:2
+stock_LUV r_down	little:1 oil:1 means:1 fears:1 over:1 drop:1 tumble:1 airlines:1 recession:1 prices:1 stocks:1
+stock_LUV r_up	3.9:2
+stock_LUV r_down	closer:1 stability:1 climb:1 moves:1
+stock_LUV r_up	halted:1 after:1 airports:1 earthquake:1
+stock_LUV r_up	flights:1 ahead:1 1,600:1 ground:1
+stock_LUV r_up	rise:1 slams:1 airline:1 profits:1 cancellations:1
+stock_LUV r_down	deal:1 win:1 won’t:1 cancellations:1 737:1 interruptions:1 2017:1 over:1 travel:1
+stock_LUV r_up	3.9:1
+stock_LUV r_up	2011:1 2012:2
+stock_LUV r_up	sector:1 gaining:1 buy:1 lead:1 it’s:1 some:1 shares:1 airline:1 time:1 biggest:1 rally:1 stocks:2 analyst:1 declining:1
+stock_LUV r_down	sees:1 group:1 's:1 ahead:1 slowdown:1
+stock_LUV r_down	3.2:1
+stock_LUV r_down	all-time:1 stocks:1 low:1 reaches:1 fall:1
+stock_LUV r_down	6.4:1
+stock_LUV r_up	2:1
+stock_LUV r_up	33:1
+stock_LUV r_down	watch:1
+stock_LUV r_up	bets:1 fuel-price:1 get:1 surprises:1 watch:1 advisories:1 bruised:1
+stock_LUV r_down	hikes:1 airfare:1 holiday:1 yourself:1
+stock_LUV r_up	stocks:1 return:1 levels:1
+stock_LUV r_down	's:1
+stock_LUV r_down	3.5:1 4:1
+stock_LUV r_down	get:1 0.1:1 travelers:1 but:1 frugal:1 making:1 trips:1
+stock_LUV r_up	11:1 's:5 equals:1 fares:1 bankruptcy:1 higher:1
+stock_LUV r_up	out:1 card:1 yourself:1
+stock_LUV r_down	rivals:1 benefit:1 wake:1 's:1 bankruptcy:1
+stock_LUV r_up	rise:1 boost:1 shares:1 get:1
+stock_LUV r_up	0.7:1 down:1 winds:1 upbeat:1 2011:1 2.5:1
+stock_LUV r_down	upgraded:1 outlook:1 strength:1 business:1 1.2:1 travel:1 shaky:1 airlines:1 benefit:1 despite:1 2012:1
+stock_LUV r_up	3:1
+stock_LUV r_down	737:1
+stock_LUV r_down	150:2 taps:1 cut:1 gains:1 retail:1 futures:1 sales:1 costs:1 737:3 fuel:1 hold:1 after:1 stock:1
+stock_LUV r_up	's:1
+stock_LUV r_up	's:1
+stock_LUV r_down	31:1 2011:1 outlook:1 cloudy:1 tumble:1
+stock_LUV r_up	's:1
+stock_LUV r_up	surprises:1 futures:1 watch:1 up:1 advisories:1 gain:1
+stock_LUV r_down	vs.:1
+stock_LUV r_up	2013:1

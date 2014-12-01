@@ -1,0 +1,419 @@
+stock_MCD r_up	's:1
+stock_MCD r_down	's:1
+stock_MCD r_up	's:2
+stock_MCD r_up	tea:1 leaves:1 's:1
+stock_MCD r_down	's:1
+stock_MCD r_up	gaining:1 's:5 6.7:1 losing:1 biggest:1 8:1 stocks:1
+stock_MCD r_down	gaining:1 exporter:1 's:5 lead:1 write-off:1 amid:1 could:1 futures:1 focus:1 slide:1 airlines:1 say:1 continue:1 analysts:1 waver:1 biggest:1 rally:1 stocks:1 declining:1 stock:1
+stock_MCD r_down	's:1
+stock_MCD r_down	technical:1 reach:1 markets:1 crossroads:1
+stock_MCD r_down	nutrition:1 hero:1 takes:1 sports:1 villain:1 path:1
+stock_MCD r_down	drop:1 estimates:1 shares:1 beats:1 concerns:1 but:1 margin:1
+stock_MCD r_up	--:1 buck:1
+stock_MCD r_up	after:1 hit:1 profit:1 hard:1 shares:1 warning:1 6:1
+stock_MCD r_down	's:1 rage:1 menu:1 wars:1 new:1 rolls:1 out:1
+stock_MCD r_up	prepares:1 shift:1 's:1 streaming:1
+stock_MCD r_up	point:1 focus:1 further:1 8.5:2 surprises:1 45:1 advisories:1 biggest:1 formula:1 stock:1 gaining:1 's:8 gains:1 brisk:1 end:1 sales:1 sharply:1 20:1 stocks:2 declining:1 lower:1 anxiety:1 magic:1 futures:1 posts:1 feeds:1 finds:1
+stock_MCD r_down	61:1
+stock_MCD r_up	's:2 help:1 weather:1 not:1 upheaval:1 you:1 panic:1 market:1
+stock_MCD r_down	's:2
+stock_MCD r_down	sandwich:1 's:2 food:1 menu:1 up:1 ramps:1 n't:1 including:1 new:1 egg:1
+stock_MCD r_up	focus:1
+stock_MCD r_up	needs:1 's:1 country:1 you:1 your:1 96:1
+stock_MCD r_up	's:1
+stock_MCD r_up	bottom:1 but:1 prices:1 near:1 not:1 home:1
+stock_MCD r_down	n't:1
+stock_MCD r_down	's:1 48:1
+stock_MCD r_up	vacillate:1 strength:1 markets:1 tech:1 shows:1
+stock_MCD r_down	11:3 's:10 profit:1 jumps:1 global:1 weak:1 hammered:2 'optimistic:1 slowdown:1 fueled:1 spread:1 earnings:1 focus:1 worries:1 amp:1 stocks:2 spotlight:1
+stock_MCD r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_MCD r_down	's:2 $:1 1.1:1
+stock_MCD r_up	's:1
+stock_MCD r_down	timing:1 catch:1 market:1 bottom:1
+stock_MCD r_down	$:1
+stock_MCD r_up	shine:1 lower:1 stocks:1 's:4 stimulus:1 8.2:1 futures:1 focus:1 edge:1 growth:1 helps:1 unveils:1 climb:1 strong:1 stock:1 economy:1
+stock_MCD r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_MCD r_down	's:1
+stock_MCD r_up	staying:1 's:1 into:1 next:1 defensive:1 year:1 markets:1 require:1
+stock_MCD r_up	1:2 's:2
+stock_MCD r_up	$:1
+stock_MCD r_up	decline:1 layoffs:1 's:1 thee:1 rise:1 days:1 n't:1 time:1 stocks:1 first:1
+stock_MCD r_down	futures:1 's:3 plans:1 big:1 rise:1 month:1 infrastructure:1 7.7:1 key:1 cars:1 action:1 spotlight:1 stock:1
+stock_MCD r_down	end:1 help:1 deal:1 takes:1 automakers:1 shape:1 sharply:1 higher:1
+stock_MCD r_up	2008:1
+stock_MCD r_down	's:1
+stock_MCD r_up	's:1
+stock_MCD r_up	stocks:1 managers:1 over:1 say:1 debt:1 corporate:1
+stock_MCD r_up	's:1
+stock_MCD r_up	'09:1
+stock_MCD r_down	'08:1 's:1
+stock_MCD r_down	2009:1
+stock_MCD r_down	world:1 warns:1 felt:1 shot:1 'round:1
+stock_MCD r_up	s:1 8217:1
+stock_MCD r_down	decline:1 buy:1 says:1 risk:1 fast-food:1 may:1 after:1 newest:1 foreign:1 down:1 speech:1 hedging:1 victim:1 's:1 debt:1 chains:1 $:2
+stock_MCD r_down	flat:1 's:1 $:5 mostly:1 after:1 n't:1 speech:1
+stock_MCD r_up	's:1
+stock_MCD r_down	may:1 shine:1 bright:1 quarter:1
+stock_MCD r_up	sector:1 confidence:1 's:6 lead:1 23:4 surprises:1 warns:1 futures:1 stock:1 8217:1 deals:1 flattish:1 s:1 advisories:1 2007:1 2009:1 corporate:1 spotlight:1 higher:1
+stock_MCD r_up	's:1 deal:1 since:1 lines:1 up:1 tapping:1 biggest:1 aid:1 bank:1
+stock_MCD r_up	's:1 vs.:1
+stock_MCD r_down	suffer:1 selling:1 managers:1 300:1 sales:1 shutter:1 bond-fund:1 stores:1 debt:1 corporate:1 buying:1 more:1
+stock_MCD r_down	's:1 redemption:1 hour:1 need:1 finds:1 market:1
+stock_MCD r_down	advisories:1 175:1 2009:1 's:1 surprises:1
+stock_MCD r_up	10:1 's:1
+stock_MCD r_up	's:1 up:1 8217:1 focus:1 s:1 heats:1 plan:1 battle:1 breakfast:1
+stock_MCD r_down	's:2 offer:1 same-store:1 sales:1 up:1 deals:1 discount:1 7.1:1
+stock_MCD r_down	may:1 spell:1 disaster:1 stocks:1 deflation:1
+stock_MCD r_down	10:1 purchase:1 talk:1 shares:1 surge:1
+stock_MCD r_down	pact:1 's:1 $:1 reportedly:1 loan:1 million:1 425:1
+stock_MCD r_down	stocks:1
+stock_MCD r_up	's:1
+stock_MCD r_up	50:1
+stock_MCD r_up	markets:1 strategy:1
+stock_MCD r_down	's:1
+stock_MCD r_up	hits:1 's:5 dollar:1 rise:1 stronger:1 sales:1 but:1 focus:1 growth:1
+stock_MCD r_up	signals:1 10:2 list:1 market:1 bottom:1
+stock_MCD r_up	drops:1 's:2 raise:1 could:1 make-up:1 industrials:1 doubts:1 rally:1 stocks:1 undermine:1 stock:1
+stock_MCD r_up	's:1
+stock_MCD r_up	five:1 nominates:1 's:1 board:1
+stock_MCD r_down	billion:1 hourly:1 $:1 employees:1 2:1 awards:1
+stock_MCD r_down	's:1
+stock_MCD r_up	8217:1 8216:1
+stock_MCD r_down	better:1 investment:1 500:1
+stock_MCD r_up	spotlight:1
+stock_MCD r_up	good:1 's:1 results:1 aside:1 should:1 have:1 quarterly:1
+stock_MCD r_up	s:1 focus:1 8217:1
+stock_MCD r_down	lower:1 futures:1 's:1 profit:2 surprises:1 rise:1 posts:1 sales:1 8217:1 edge:1 down:1 modest:1 s:1 advisories:1 earnings:1 slip:1 quarterly:1 out:1 roll:1 stock:1
+stock_MCD r_up	news:1 bad:1 good:1 's:1 stocks:1
+stock_MCD r_up	's:1
+stock_MCD r_up	's:3
+stock_MCD r_down	profit:1 cuts:1 rises:1 's:2 cost:1
+stock_MCD r_down	averaging:1 converts:1 investors:1 skeptical:1
+stock_MCD r_up	data:1 payrolls:1 's:2 focus:1
+stock_MCD r_down	's:1
+stock_MCD r_up	2.1:1 's:2 14:1 focus:1
+stock_MCD r_up	group:1 change:1 calls:1 board:1
+stock_MCD r_down	's:1
+stock_MCD r_up	's:1 bottom:1 one:1 n't:1 see:1 does:1
+stock_MCD r_up	charge:1 's:1 filing:1 puts:1 revamp:1
+stock_MCD r_up	shoppers:1 retain:1 its:1
+stock_MCD r_down	's:1
+stock_MCD r_down	impact:1 5.1:1 's:5 exchange:1 warns:1 focus:1 but:1 1:1 rates:1
+stock_MCD r_up	end:1 favors:1 caught:1 drop:1 crossfire:1 currency:1 's:2 analyst:1
+stock_MCD r_down	wild:1 stocks:1 's:1 card:1
+stock_MCD r_down	disclosure:1 's:1 illustrates:1 dance:1 pay:1 suit:1
+stock_MCD r_up	fire:1 'golden:1 under:1 coffins:1 coming:1
+stock_MCD r_up	's:1
+stock_MCD r_up	food:1 recipes:1 lift:1 changes:1 sales:1
+stock_MCD r_down	plays:1 recovery:1 favors:1 lag:1 growth:1 's:1 chips:1
+stock_MCD r_up	1:1 $:1
+stock_MCD r_down	pops:1 8:1 trades:1 falls:1 late:1
+stock_MCD r_up	again:1 should:1 's:2 help:1 economy:1
+stock_MCD r_up	inks:1 deal:1 supply:1
+stock_MCD r_up	week:1 tap:1 tops:1 improves:1 traffic:1 numbers:1 targets:1 store:1
+stock_MCD r_up	outlook:1 's:2 focus:1 shares:1 jump:1 improves:1 traffic:1
+stock_MCD r_down	slips:1 's:4 wary:1 profit:1 hit:1 focus:1 currency:1 8:1 market:1
+stock_MCD r_down	's:2
+stock_MCD r_down	's:1
+stock_MCD r_up	's:1
+stock_MCD r_up	's:1
+stock_MCD r_down	black:1 's:1 back:1
+stock_MCD r_up	comparable:1 's:5 continue:1 4.3:2 surprises:1 sales:1 advisories:1 spotlight:1 higher:1
+stock_MCD r_down	5.8:1
+stock_MCD r_down	's:1
+stock_MCD r_up	's:2
+stock_MCD r_up	may:1 works:1 work:1
+stock_MCD r_up	's:1
+stock_MCD r_up	's:1
+stock_MCD r_down	's:5 missing:1 views:1 rise:1 focus:1 sales:2 mark:1 inch:1 2.2:1 miss:1 higher:1
+stock_MCD r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_MCD r_up	26:1 's:1 focus:1
+stock_MCD r_down	effect:1
+stock_MCD r_down	themes:1 forward:1 stocks:1 's:2 drive:1
+stock_MCD r_up	'08:1
+stock_MCD r_up	strong:1 's:1 numbers:1 more:1
+stock_MCD r_up	's:3 profit:1 5.9:1 focus:2 growth:1 boosts:1
+stock_MCD r_down	10000:1 surprises:1 faces:1 challenges:1 advisories:1 turns:1 's:1 more:1 economy:1
+stock_MCD r_down	's:1
+stock_MCD r_down	's:2
+stock_MCD r_down	exposes:1 sleuth:1 winners:1 traps:1
+stock_MCD r_up	's:1
+stock_MCD r_down	profit:1 slips:1 hurts:1 currency:1
+stock_MCD r_up	's:1
+stock_MCD r_up	economic:1 barometer:1
+stock_MCD r_up	fuels:1 stocks:1 's:5 futures:1 point:1 more:1 rise:1 stronger:1 sales:1 2009:1 start:1 growth:1 have:1 view:1 raised:1 legs:1 stock:1
+stock_MCD r_down	200:1 jumps:1 surge:1 points:1 '09:1 highs:1
+stock_MCD r_down	's:1
+stock_MCD r_up	's:2 its:1 2010:1
+stock_MCD r_up	's:1
+stock_MCD r_up	vs.:1 war:1 wakes:1
+stock_MCD r_up	's:1 mainstream:1 gold:3 getting:1 13-month:2 taking:1 bugs:2 new:1 top:1
+stock_MCD r_down	after:1 lapse:1 futures:1 focus:1 1:1 stock:1
+stock_MCD r_down	knock:1 futures:1 's:3 taste:1 rise:1 same-store:1 sales:1 0.7:2 times:1 focus:1 worries:1 tough:1 debt:1 stock:1
+stock_MCD r_down	lower:1 's:1 investors:1 energy:1 up:1 misses:1 weigh:1 safety:1 sharply:1 fall:1 end:1 stocks:3 seek:1 paced:1 view:1
+stock_MCD r_up	live:1 fall:1 up:1 name:1
+stock_MCD r_up	's:1
+stock_MCD r_down	4.5:1 's:1 $:1
+stock_MCD r_up	2010:1
+stock_MCD r_up	's:1
+stock_MCD r_down	's:1
+stock_MCD r_down	2009:1 delivers:1 1.7:1 highs:1 surge:1
+stock_MCD r_up	's:1
+stock_MCD r_down	financial:1 gains:1 food:1 competition:1 pressure:1 tech:1 end:1 stocks:1 margin:1 2010:1 higher:1
+stock_MCD r_up	lifts:1 's:8 focus:1 cuts:1
+stock_MCD r_down	's:1 profit:1 could:1 but:1 hurt:1 seen:1 higher:1
+stock_MCD r_up	...:1 gets:1 8.5:1 feedback:1 5.7:1 positive:1 futures:1 focus:2 report:1 solar:1 fall:1 banks:1 's:7 firms:1 stocks:1 wobble:1 others:1 stock:1
+stock_MCD r_down	2.7:1
+stock_MCD r_down	's:1 2010:1
+stock_MCD r_up	savior:1 sports:1
+stock_MCD r_up	data:1 's:3
+stock_MCD r_down	's:1 drop:1 stocks:1 led:1
+stock_MCD r_up	's:2 boost:1 sales:1 focus:1 more:1
+stock_MCD r_down	surprises:1 advisories:1
+stock_MCD r_down	worst-on-record:1 rise:1 after:1 year:1
+stock_MCD r_down	snared:1
+stock_MCD r_up	's:1 losses:1 up:1 competition:1 heats:1 trims:1
+stock_MCD r_up	's:5 top:1 rise:2 same-store:1 sales:2 4.8:1 mark:1 focus:1 stocks:1
+stock_MCD r_down	promotions:1 gone:1 says:1 quit:1 win:1 price:1 pickings:1 bright:1 streak:1 weather:1 tech:1 easy:1 weigh:1 's:1 stocks:1 spot:1 analyst:1
+stock_MCD r_up	focus:1
+stock_MCD r_up	1:1 's:1 $:1
+stock_MCD r_down	own:1 deal:1 rewrite:1 may:1 should:1 movies:1 rent:1 its:1 playbook:1
+stock_MCD r_down	's:1
+stock_MCD r_up	's:1
+stock_MCD r_up	deeper:1 digging:1 out:1
+stock_MCD r_down	's:1
+stock_MCD r_up	0.3:1 's:1
+stock_MCD r_up	security-tabs:1 fall:1
+stock_MCD r_up	's:1
+stock_MCD r_down	indicator:1 's:1 bullish:1 lead:1 could:1 n't:1 quarter:1 rebound:1
+stock_MCD r_up	11:1 outlook:1 selling:1 's:4 clash:1 coffee:1 profit:1 global:1 focus:2 up:2 stake:1 better:1 lifts:1 traffic:1 demand:1 reportedly:1 stocks:1 store:1
+stock_MCD r_up	13:1
+stock_MCD r_down	juice:1 dividend:1 returns:1 best:1 strategies:1
+stock_MCD r_up	food:1 summer:1 portfolios:1 leisure:1 picks:1
+stock_MCD r_up	index:1 strong:1 's:3 gains:1 focus:1 sales:1 month:1 pace:1 plan:1 stocks:1 500:1 rescue:1
+stock_MCD r_down	's:2
+stock_MCD r_down	's:1
+stock_MCD r_down	into:1 's:1 deep:1 lead:1 red:1
+stock_MCD r_down	lower:1 end:1 after:1 late:1 swing:1 's:2 stocks:1
+stock_MCD r_up	's:1
+stock_MCD r_down	after:1 's:5 gay:1 family:1 sets:1 futures:1 us:1 spotlight:1 good:1 payrolls:1 example:1 rest:1 sharply:1 fall:1 ad:1 firms:1 data:1 grim:1 stock:1
+stock_MCD r_up	streak:1 4.1:1 two-day:1 focus:1 ending:1 rally:1 losing:1 's:4 stocks:1
+stock_MCD r_down	stocks:1 's:3 profit:1 surprises:1 could:1 rise:1 sales:1 currency:1 advisories:1 hit:2 revenues:1 euro:1
+stock_MCD r_up	set:1 coverage:1 portfolio:1 travel-sector:1 stocks:1 capitalize:1 your:1
+stock_MCD r_down	clean:1 comes:1
+stock_MCD r_down	threaten:1 summer:1 warnings:1
+stock_MCD r_down	1982:1 's:1
+stock_MCD r_down	's:2
+stock_MCD r_down	's:3
+stock_MCD r_up	protect:1 's:3 storms:1 caps:1 large:1 you:1
+stock_MCD r_up	1.9:1 vs.:1
+stock_MCD r_up	loom:1 1.9:1 crossed:1 earnings:1 second-quarter:1 vs.:1
+stock_MCD r_up	's:1
+stock_MCD r_up	's:1
+stock_MCD r_down	expected:1 quarter:1 strong:1 's:1
+stock_MCD r_up	watch:1
+stock_MCD r_down	fly:1 week:1 stress:1 rises:1 's:5 profit:1 rise:1 focus:1 tests:1 up:1 past:1 chief:1 3:1 12:1 3.2:1 demand:1 apparel:1 quits:1 stocks:2 worldwide:1
+stock_MCD r_up	smoothie:2 's:2 strategy:2
+stock_MCD r_down	12.26:1
+stock_MCD r_down	's:3
+stock_MCD r_up	's:1
+stock_MCD r_up	test:1 stocks:1 stand:1 time:1
+stock_MCD r_up	's:1
+stock_MCD r_up	comparable:1 rise:2 's:6 global:1 focus:2 sales:1 n't:1 gain:1 7:1 stocks:1 spotlight:1 futures:1
+stock_MCD r_down	modestly:1 end:1 ahead:1 's:4 stocks:1 higher:1
+stock_MCD r_up	28:1 's:1
+stock_MCD r_down	's:1
+stock_MCD r_up	firm:1 shut:1 hedge-fund:1
+stock_MCD r_down	sells:1 yuan:1 's:5 expansion:1 bonds:1
+stock_MCD r_up	's:2 consider:1 roster:1 dividend-paying:1 foreign:1 encourage:1 stocks:1 issues:1 more:1
+stock_MCD r_down	overseas:1 recoup:1 looks:1
+stock_MCD r_up	's:3
+stock_MCD r_up	's:3 lead:1 fast-food:1 potato:1 gold:1 jumps:1 36:1 hot:1 report:1 buyout:1 stocks:1 consumer:1 silver:1 symptom:1 staples:1
+stock_MCD r_up	billion:1 's:5 $:1 deal:1 private:1 4:1 taken:1
+stock_MCD r_up	n't:1
+stock_MCD r_up	streak:1 13:1 27:1 end:1 fit:1 win:1 all:1 one:1 's:1 stocks:1 four-day:1
+stock_MCD r_up	into:1 stocks:1 gain:1 would:1 deflation:1
+stock_MCD r_down	gets:1 led:1 meat:1 rise:1 focus:1 n't:1 lift:1 claims:1 prices:1 's:6 stocks:1 2.5:1 higher:1
+stock_MCD r_up	drop:1 jobs:1 gains:1 tally:1 mild:1 stocks:1 2.5:1
+stock_MCD r_down	's:1
+stock_MCD r_down	's:1 2010:1
+stock_MCD r_down	's:1
+stock_MCD r_down	10:1
+stock_MCD r_down	11:1 rise:1 's:1 jobless:1 futures:1 focus:1 fall:1 claims:2 stock:1
+stock_MCD r_down	's:1
+stock_MCD r_up	's:3 but:2
+stock_MCD r_up	's:2
+stock_MCD r_up	do:1 's:1 treats:1 calls:1 tricks:1 political:1 cash:1 so:1 dividend:1 corporate:1 grows:1
+stock_MCD r_up	's:1
+stock_MCD r_up	's:1
+stock_MCD r_up	26:1
+stock_MCD r_down	's:1
+stock_MCD r_up	expected:1 quarter:1
+stock_MCD r_down	circles:1 wagons:1 20:1
+stock_MCD r_up	focus:1
+stock_MCD r_up	's:5 optimism:1 38.60:2 futures:1 focus:1 tackles:1 challenges:1 gain:1 vs.:1 earnings:1
+stock_MCD r_up	10:2 's:1 profit:1 surprises:1 equities:1 rise:1 up:1 optimism:1 retreats:1 advisories:1 earnings:1 shift:1 1:1 stocks:1 nearly:1
+stock_MCD r_up	lower:1 moves:1 end:1 over:1 concern:1
+stock_MCD r_up	election:1 800:1 $:1 gold:1 after:1
+stock_MCD r_up	's:2
+stock_MCD r_up	's:1
+stock_MCD r_up	offers:1 investors:1 opportunities:1 trade:1
+stock_MCD r_up	's:2 posts:1 sales:1 focus:1 6.5:2 growth:1 strong:1
+stock_MCD r_down	surprises:1 advisories:1
+stock_MCD r_down	's:2
+stock_MCD r_down	7:1
+stock_MCD r_down	n't:1 's:1
+stock_MCD r_down	26:2 2:1 's:1 40:1
+stock_MCD r_up	's:1
+stock_MCD r_up	's:1
+stock_MCD r_down	down:1 fatigue:1 citing:1 steps:1
+stock_MCD r_up	brews:1 strong:1 blend:1 barista:1
+stock_MCD r_down	futures:1 's:6 ahead:1 may:1 2011:1 shaky:1 4.8:2 flop:1 year’s:1 stocks:1 open:1 best:1 stock:1
+stock_MCD r_down	fails:1 deal:1 4.8:1 global:1 same-store:1 sales:1 aristocrats:1 up:1 moderation:1 but:1 cling:1 dividend:1 boost:1
+stock_MCD r_down	own:1 sectors:1 top:1 but:1 2011:1 2010:1
+stock_MCD r_down	's:2
+stock_MCD r_up	money-making:1 2011:1 investment:1 ideas:1
+stock_MCD r_up	'em:1
+stock_MCD r_down	modestly:1 year-end:1 run:1 extend:1 end:1 higher:1
+stock_MCD r_up	8:1 2010:1
+stock_MCD r_down	emerging-market:1 invest:1 stocks:1 right:1 way:1
+stock_MCD r_down	signals:1 reservations:1 over:1 traffic:1 restaurant:1
+stock_MCD r_up	2:1 's:4
+stock_MCD r_down	2011:1
+stock_MCD r_down	2010:1
+stock_MCD r_up	's:2
+stock_MCD r_up	swipe:1 trades:1 java:1
+stock_MCD r_down	's:2 2011:1
+stock_MCD r_down	lift:1 share:1 gains:1 should:1
+stock_MCD r_up	join:1 restructure:1 profit:1 futures:1 focus:1 up:1 edge:1 matches:1 2:1 board:1 quarterly:1 plays:1 rises:1 's:3 nice:1
+stock_MCD r_up	advisories:1 cheer:1 stocks:1 buyback:1 surprises:1
+stock_MCD r_down	n't:1 's:1
+stock_MCD r_down	's:1 jobless:1 walks:1 line:1 fine:1 recovery:1
+stock_MCD r_down	's:2
+stock_MCD r_down	annoy:1 emerging:1 12000:1 can:1 rich:1 you:1 markets:1
+stock_MCD r_up	's:1 nervous:1 see:1 values:1 too:1 market:1 stock:1
+stock_MCD r_up	global:1 's:1 wins:1 rise:1 sales:1 focus:1 rate:1 strength:1 extends:1 gain:1 hike:1 appetite:1 consumer:1 5.3:1
+stock_MCD r_down	n't:1
+stock_MCD r_down	tips:1 stocks:1 picking:1 winning:1
+stock_MCD r_down	's:1
+stock_MCD r_down	's:1
+stock_MCD r_down	's:1 its:1
+stock_MCD r_down	's:1
+stock_MCD r_up	's:1
+stock_MCD r_down	prices:1 topping:1 retail:1 's:3 gains:1 bank-dividend:1 may:1 na:1 rise:1 estimates:1 sales:1 oil:1 surge:1 n't:1 short-lived:1 2:1 hiring:1 hopes:1 outlook:1 stocks:1 3.9:1
+stock_MCD r_up	hit:1 profit:1 after:1 up:1 's:1 miss:1
+stock_MCD r_up	global:1 's:1 concerns:1 data:1 routed:1
+stock_MCD r_down	forge:1 companies:1 ahead:1
+stock_MCD r_up	it’s:1 retailer:1 point:1
+stock_MCD r_up	's:1
+stock_MCD r_up	oil:1 's:4 plan:1 focus:1 50,000:1
+stock_MCD r_up	's:1
+stock_MCD r_down	jobs:1 50,000:1 filling:1 new:1 's:1 spends:1 millions:1
+stock_MCD r_up	watch:1
+stock_MCD r_up	claims:1 watch:1 spotlight:1 's:1
+stock_MCD r_up	gaining:1 stocks:1 says:1 no:1 after:1 shares:1 declining:1 biggest:1 soar:1 analyst:1 market:1 more:1
+stock_MCD r_down	's:1
+stock_MCD r_down	's:1
+stock_MCD r_up	quarter:1 good:1
+stock_MCD r_down	trim:1 dim:1 futures:1 's:3 jobless:1 sentiment:1 sum:1 rise:2 watch:2 controls:1 raise:1 after:1 yuan:1 dilemma:1 bond:1 claims:1 stocks:1 boosts:1 stock:1
+stock_MCD r_up	's:1
+stock_MCD r_up	doldrums:1 buck:1 summer:1
+stock_MCD r_up	n't:1 vs.:1
+stock_MCD r_down	's:1
+stock_MCD r_up	n't:2 's:1
+stock_MCD r_up	sector:1 topping:1 cut:1 's:5 rise:1 estimates:1 sales:1 up:1 commodities:1 6:4 mixed:1 along:1 stocks:1 spotlight:1
+stock_MCD r_up	's:2
+stock_MCD r_up	's:1
+stock_MCD r_down	sell:1 bonds:1
+stock_MCD r_up	global:1 indexes:1 hit:1 concerns:1 stock:1
+stock_MCD r_down	rush:1 set:1 estimates:1 up:1 bulls:1 down:1 fall:1 payrolls:1 mark:1
+stock_MCD r_down	report:1 lousy:1 job:1 point:1 signs:1
+stock_MCD r_up	summer:1 sluggish:1 's:1
+stock_MCD r_up	n't:1 's:6 3.1:5
+stock_MCD r_up	new:1 boost:1 products:1
+stock_MCD r_up	's:3 bonds:1 beat:1 dividends:1 over:1 top:1
+stock_MCD r_down	2011’s:1 far:1 money:1 top:1 ideas:1 fared:1 so:1 have:1
+stock_MCD r_up	its:1
+stock_MCD r_down	9:1
+stock_MCD r_down	's:1
+stock_MCD r_down	's:1
+stock_MCD r_up	8:1 's:2
+stock_MCD r_up	's:1
+stock_MCD r_up	quarter:1 poised:1 good:1 's:2
+stock_MCD r_up	's:14 gains:1 surprises:1 ride:1 watch:2 4:6 -5:6 advisories:1 earnings:1 15:6 stocks:1 weekly:1
+stock_MCD r_down	hinge:1 price:1 weather:1 gains:1 2012:1
+stock_MCD r_down	's:2
+stock_MCD r_down	's:1 vs.:1 35:1
+stock_MCD r_down	plate:1 full:1 's:1 industry:1 tackles:1 issues:1
+stock_MCD r_down	5.1:3 's:4
+stock_MCD r_up	's:1
+stock_MCD r_up	their:1 rout:1 buy:1 stocks:1 after:1
+stock_MCD r_down	's:2
+stock_MCD r_down	's:1
+stock_MCD r_up	targets:1 easier:1 mean:1 board:1 elections:1
+stock_MCD r_up	's:1
+stock_MCD r_up	70:1
+stock_MCD r_down	major:1 recession-proof:1 storms:1 resistance:1 hatches:1 down:1 test:1 3:1 fail:1 portfolio:1 stocks:1 your:1 market:1
+stock_MCD r_up	places:1 get:1 some:1 can:1 7:1 still:1
+stock_MCD r_down	10:1 high-yield:1 watch:1 returns:1 5:1 stocks:1 -plus:1
+stock_MCD r_down	10:1 's:6 hot:1 3.5:1 2.2:1 dividend:1 cold:1 stocks:1 market:1
+stock_MCD r_down	market’s:1 most:1 up:1 vulnerable:1 period:1
+stock_MCD r_up	crash:1 safe-haven:1 stocks:1 5:1 market:1
+stock_MCD r_up	streak:1 off:1 but:1 winning:1 lows:1 snap:1 stocks:1
+stock_MCD r_down	's:1
+stock_MCD r_up	15:1 's:1 watch:1
+stock_MCD r_down	buybacks:1 opportunities:1 point:1
+stock_MCD r_down	's:1
+stock_MCD r_down	2:1
+stock_MCD r_up	's:1
+stock_MCD r_up	like:2 did:1 brought:1 5:1 think:2 vision:1
+stock_MCD r_down	tepid:1 firms:1 growth:1 outpace:1 7:1
+stock_MCD r_down	's:1
+stock_MCD r_up	into:1 leads:1 rally:1 lifts:1 weekly:1 cuisine:1 8.6:3 surprises:1 top:1 indexes:1 advisories:1 higher:2 week:1 ends:1 's:8 gains:1 watch:1 gain:1 day:1 10:1 futures:1 posts:1 stories:1 push:1 stock:2
+stock_MCD r_down	hesitate:1 average:1 200-day:1
+stock_MCD r_down	24/7:1 's:2 5.5:1
+stock_MCD r_up	's:1 2012:1
+stock_MCD r_down	's:1
+stock_MCD r_up	hits:1 's:1 your:1 wallet:1 debt:1 crisis:1
+stock_MCD r_down	among:1 top:1 2011:1 letter:1 performers:1
+stock_MCD r_up	's:1
+stock_MCD r_up	10:1
+stock_MCD r_down	ideas:1 5:1 can:1 fear:1 choppy:1 markets:1 take:1
+stock_MCD r_down	may:1 see:1 sponsorships:1 rule:1 more:1
+stock_MCD r_up	's:1 2012:1
+stock_MCD r_up	's:2 199:1 7.4:2
+stock_MCD r_up	cut:1 199:1 risk:1 times:1 2:1 volatile:1 -3:1 2012:1 market:1 stock:1
+stock_MCD r_up	's:2 1980:1
+stock_MCD r_down	1:1 stocks:1 's:1 concern:1 fall:1
+stock_MCD r_up	's:1
+stock_MCD r_up	data:1 lifted:1 stocks:1 economic:1
+stock_MCD r_up	streak:1 ends:1 's:1 $:1 third:1 up:1 winning:1 session:1 100:1
+stock_MCD r_down	2011:1 's:2
+stock_MCD r_up	up:1
+stock_MCD r_down	's:1 5.5:1 whimper:1 year:1 mixed:1 end:1 stocks:1 2011:1
+stock_MCD r_down	2011:1
+stock_MCD r_up	's:1 2011:1 global:1 start:1 rally:1 stocks:1 data:1 2012:1
+stock_MCD r_up	10:1 money-making:1 2012:1 investment:1 ideas:1
+stock_MCD r_up	profit:1 hopes:1 stocks:1 gain:1 reports:1
+stock_MCD r_down	's:1
+stock_MCD r_down	11:1 's:2 surprises:1 futures:1 watch:1 up:1 advisories:1 deflated:1 off:1 fall:1 stocks:1
+stock_MCD r_up	weaker:1 's:1 yen:1 up:1 shares:1 lift:1 banks:1
+stock_MCD r_down	beat:1 10:1 stocks:1 crowd:1 income-paying:1
+stock_MCD r_up	's:2
+stock_MCD r_up	's:2
+stock_MCD r_down	rise:1 's:1 global:1 same-store:1 sales:1 stocks:1 strategy:1 gain:1 hopes:1 winning:1
+stock_MCD r_down	n't:1
+stock_MCD r_up	's:1
+stock_MCD r_up	's:1
+stock_MCD r_up	's:1
+stock_MCD r_down	's:1
+stock_MCD r_down	's:1
+stock_MCD r_up	's:1 investing:1 top:1 income:1 dividend:1 stocks:1
+stock_MCD r_down	surprises:1 advisories:1
+stock_MCD r_up	via:1 's:1
+stock_MCD r_down	futures:1 's:5 deal:1 rise:1 optimism:1 stock:1
+stock_MCD r_down	outlook:1 debt:1 's:1 rise:1 swap:1 stocks:1
+stock_MCD r_up	's:1
+stock_MCD r_down	's:1
+stock_MCD r_down	's:1
+stock_MCD r_up	's:1

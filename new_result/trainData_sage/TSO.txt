@@ -1,0 +1,204 @@
+stock_TSO r_down	's:2
+stock_TSO r_up	oil:1 natural:1 service:1 gas:1 shares:1 record:1 retreat:1
+stock_TSO r_down	$:1
+stock_TSO r_up	services:1 rally:1 point:1 shares:1 lend:1
+stock_TSO r_down	decline:1 's:1 sell-off:1 broad:1 pullback:1 retreats:1 tumbling:1 deepens:1 crude:2 market:2 swoons:1
+stock_TSO r_down	downbeat:1 season:1 another:1 braces:1 earnings:1
+stock_TSO r_down	output:1 refiners:1 slow:1 rate:1 lows:1
+stock_TSO r_down	8.50:2 20:2 $:2 bids:1 million:1 share:1 shares:1
+stock_TSO r_up	pinched:1 's:3 quarterly:1 net:1 plunges:1 margins:1 85:2
+stock_TSO r_down	focus:1
+stock_TSO r_down	surprises:1 advisories:1 focus:1
+stock_TSO r_down	loss:1 plunge:1 posts:1 52:1 refining:1 margins:1
+stock_TSO r_down	oil:1 $:3 22:1 18:1 million:1 pay:1 firms:1 settlement:1
+stock_TSO r_up	1,500:1
+stock_TSO r_up	hits:1 oil:1 producer:1 record:1 shares:1 all-time:1 gain:1
+stock_TSO r_down	surprises:1 advisories:1
+stock_TSO r_up	mixed:1 rise:1 stocks:1 gas:1 session:1
+stock_TSO r_up	gaining:1 sector:1 end:1 off:1 financial:1 sharply:1 biggest:1 's:1 trouble:1 stocks:2 declining:1
+stock_TSO r_down	's:1
+stock_TSO r_down	's:1
+stock_TSO r_down	gaining:1 's:1 surprises:1 advisories:1 biggest:1 stocks:1 declining:1
+stock_TSO r_down	natural:1 gains:1 healthy:1 gas:1 shares:1 post:1
+stock_TSO r_down	10:1 's:1 investing:1 changed:1 themes:1 doing:1 '08:1 our:1
+stock_TSO r_up	surprises:1 advisories:1
+stock_TSO r_down	gains:1 lead:1 energy:1 gas:1 shares:1 sectorer:1
+stock_TSO r_up	99:1
+stock_TSO r_down	sector:1 weigh:1 results:1
+stock_TSO r_up	n't:1
+stock_TSO r_down	n't:1
+stock_TSO r_down	bears:1 upper:1 technically:1 gain:1 hand:1
+stock_TSO r_up	drugs:1 employees:1 government:1
+stock_TSO r_down	sector:1 lead:1 declines:1 but:1 lows:1 services:1 rises:1
+stock_TSO r_down	's:1
+stock_TSO r_down	many:1 energy:1 hold:1 bargains:1 care:1
+stock_TSO r_up	gaining:1 24:1 's:1 biggest:1 stocks:1 declining:1
+stock_TSO r_up	lead:1 big:1 one-day:1 back:1 record:1 rally:2 claw:1 stocks:2
+stock_TSO r_up	break:1 catches:1 wake:1 energy:1 bust:1
+stock_TSO r_up	's:2 profit:1 surprises:1 posts:1 increase:1 advisories:1
+stock_TSO r_up	up.:1 natural:1 service:1 lag:1 gas:1 focus:1 but:1 stocks:1
+stock_TSO r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_TSO r_down	's:1
+stock_TSO r_down	3:1
+stock_TSO r_down	gains:1 third:1 straight:1 post:1 stocks:1 day:1
+stock_TSO r_up	sector:1 gains:1 lead:1 broad:1 shares:1 joins:1 rally:1
+stock_TSO r_up	refiners:1 edge:1 fine:1 walking:1
+stock_TSO r_up	streak:1 natural:1 lead:1 continues:1 gas:1 shares:1 hot:1
+stock_TSO r_down	30:1 's:2
+stock_TSO r_up	sector:1 lead:1 surprises:1 advisories:1 joins:1 rally:1 stocks:1
+stock_TSO r_down	gaining:1 's:1 crude:1 broad:1 retreats:1 losing:1 prices:1 biggest:1 stocks:1 market:1
+stock_TSO r_up	surprises:1 advisories:1
+stock_TSO r_down	focus:1
+stock_TSO r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_TSO r_down	downgrades:1 prompts:1 inventory:1 lose:1 crude:1 stocks:1 ground:1
+stock_TSO r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_TSO r_down	downgrade:1 refiners:1 looks:1 tenuous:1 focus:1
+stock_TSO r_up	lower:1 move:1 shares:1 down:1 close:1 out:1
+stock_TSO r_down	down:1 trends:1 production:1 2009:1
+stock_TSO r_down	sector:1 surprises:1 energy:1 losses:1 shares:1 pace:1 advisories:1
+stock_TSO r_down	focus:1
+stock_TSO r_down	loss:1 swings:1 surprises:1 weak:1 focus:1 advisories:1 refining:1 margins:1
+stock_TSO r_up	47:2
+stock_TSO r_down	's:1
+stock_TSO r_up	's:1
+stock_TSO r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_TSO r_up	week:1 tough:1 trades:1 mixed:1 end:1 stocks:1
+stock_TSO r_down	products:1
+stock_TSO r_down	1:1
+stock_TSO r_up	season:1 proves:1 precarious:1 shorts:1
+stock_TSO r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_TSO r_down	87:1 50:1 focus:1 rally:1 stocks:1 downgraded:1
+stock_TSO r_down	surprises:1 advisories:1
+stock_TSO r_down	lackluster:1 lousy:1 likely:1 after:1 have:1
+stock_TSO r_up	oil:1 energy:1 lift:1 prices:1 stocks:1 talk:1
+stock_TSO r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_TSO r_down	strength:1 's:1 start:1 portends:1 robust:1 2010:1
+stock_TSO r_down	5:2
+stock_TSO r_down	$:1 40:1
+stock_TSO r_up	gains:1 broad:1 rebound:1 focus:1 stocks:1 market:1
+stock_TSO r_down	hours:1 surprises:1 advisories:1 gain:1 after:1
+stock_TSO r_down	oil:1 extend:1 losses:1 bearish:1 stocks:1 data:1
+stock_TSO r_up	lower:1 posts:1 results:1 sharply:1 cuts:1 dividend:1
+stock_TSO r_down	's:2
+stock_TSO r_down	's:1
+stock_TSO r_up	's:2 gains:1 solid:1 after:1 up:1 edge:1 stocks:1
+stock_TSO r_down	gaining:1 stocks:2 's:1 kills:1 equities:1 six:1 mine:1 reports:1 focus:1 hot:1 oil:1 rising:1 higher:1 biggest:1 futures:1 blast:1 jobs:1 declining:1 stock:1
+stock_TSO r_down	search:1 enable:1 's:1 mine:1 try:1 5:1 70,000:1 500:1
+stock_TSO r_down	1:1 's:1
+stock_TSO r_down	'11:1
+stock_TSO r_down	's:1
+stock_TSO r_up	's:1
+stock_TSO r_up	surprises:1 advisories:1
+stock_TSO r_down	stocks:1 gains:1 woes:1 spill:1 energy:1 sits:1 out:1
+stock_TSO r_up	's:2
+stock_TSO r_down	4:2
+stock_TSO r_down	4:1
+stock_TSO r_down	units:1
+stock_TSO r_down	$:1
+stock_TSO r_up	2:1
+stock_TSO r_up	's:2
+stock_TSO r_up	's:1 lower:1 after:1 end:1 downgrades:1
+stock_TSO r_up	's:1
+stock_TSO r_up	's:1
+stock_TSO r_down	30:2
+stock_TSO r_up	-2:1
+stock_TSO r_down	biggest:1 advancers:1 's:1 decliners:1
+stock_TSO r_up	7:1
+stock_TSO r_down	's:1
+stock_TSO r_up	$:1 2.4:1
+stock_TSO r_up	equities:1 stocks:1 lead:1 higher:1
+stock_TSO r_down	's:1
+stock_TSO r_down	's:2
+stock_TSO r_down	crude:1 prices:1 energy:1 sap:1 stocks:1
+stock_TSO r_down	ballot:1 pollution:1
+stock_TSO r_up	'':1 ``:1 2:1
+stock_TSO r_up	use:1 smoke:1 23:1 bid:1 legalize:1 up:1 goes:1 pot:1 debate:1
+stock_TSO r_up	23:2 's:2 70:1
+stock_TSO r_up	's:1 23:1
+stock_TSO r_down	's:2 40:1
+stock_TSO r_up	's:1
+stock_TSO r_up	's:1
+stock_TSO r_up	's:1
+stock_TSO r_up	flaring:2 reports:2
+stock_TSO r_up	biggest:1 gaining:1 stocks:1 declining:1
+stock_TSO r_down	's:2
+stock_TSO r_down	coal:1 oil:1 heats:1 sectors:1 warming:1
+stock_TSO r_down	30:1
+stock_TSO r_down	200:2 $:2 million:1 back:1 bull:1 market:1
+stock_TSO r_down	hold:1 slim:1 gains:1 shares:1
+stock_TSO r_up	biggest:1 gaining:1 stocks:1 declining:1
+stock_TSO r_up	dominate:1 2011:1 sectors:1
+stock_TSO r_up	3:1 $:1
+stock_TSO r_down	's:1
+stock_TSO r_up	oil:1 drillers:1 shares:1 lifts:1 fall:1 2010:1
+stock_TSO r_down	spin-off:1 plan:1 rallies:1
+stock_TSO r_up	's:1
+stock_TSO r_up	's:1 20:1
+stock_TSO r_up	deals:1 broad:1 make:1 stocks:1 gains:1
+stock_TSO r_up	losses:1 rallying:1 shares:1 oil:1
+stock_TSO r_down	biggest:1 gaining:1 stocks:1 declining:1
+stock_TSO r_up	leads:1 energy:1 stocks:1 gains:1
+stock_TSO r_down	biggest:1 advancers:1 's:1 decliners:1
+stock_TSO r_down	oil:1 tech:1 gains:1 distract:1 fall:1
+stock_TSO r_up	weigh:1 refiners:1 stocks:1 stumble:1
+stock_TSO r_down	10:1 500:1
+stock_TSO r_up	gaining:1 gains:1 rise:1 biggest:1 stocks:2 declining:1
+stock_TSO r_down	15:1
+stock_TSO r_up	hits:1 missing:1 surprises:1 rise:1 coast:1 tsunami:1 advisories:1 quake:1 aftermath:1 stocks:1 man:1
+stock_TSO r_up	nuclear:1 rise:1 stocks:1 woes:1 despite:1
+stock_TSO r_down	biggest:1 gaining:1 stocks:1 declining:1
+stock_TSO r_up	needs:1 rebuild:1
+stock_TSO r_up	2011:1
+stock_TSO r_down	10:1 oil:1 gains:1 lead:1 firms:1 quarter:1
+stock_TSO r_up	streak:1 hot:1 stocks:1 extend:1
+stock_TSO r_down	fuels:1 these:1 overlooked:1 5:1 spike:1 stocks:1 energy:1
+stock_TSO r_up	lag:1 rebound:1 rise:1 up:1 shares:1 tech:1 gain:1 banks:1 stocks:2 stage:1
+stock_TSO r_up	pace:1 hot:1 season:1
+stock_TSO r_up	11:1 12:1 up:1
+stock_TSO r_down	's:1
+stock_TSO r_up	after:1 jobs:1 rise:1 gain:1 refiners:1 stocks:1
+stock_TSO r_down	gather:1 surprises:1 drop:1 advisories:1 lawmakers:1 stocks:1
+stock_TSO r_down	off:1 meds:1 goes:1 its:1 market:1 if:1
+stock_TSO r_down	energy:1 lift:1 up:1 stocks:1
+stock_TSO r_down	lead:1 surprises:1 energy:1 drop:1 advisories:1 stock:1
+stock_TSO r_down	upgrade:1 jumps:1 stocks:1 recover:1
+stock_TSO r_down	18-19:1
+stock_TSO r_up	energy:1 stocks:1 gains:1 buoy:1
+stock_TSO r_up	energy:1 stocks:1 off:1 up:1 cool:1
+stock_TSO r_down	steady:1 energy:1 weak:1 falls:1 advisories:1 surprises:1 stocks:1
+stock_TSO r_down	's:1
+stock_TSO r_up	30:2 3rd:2
+stock_TSO r_up	's:1
+stock_TSO r_up	swoon:1 energy-sector:1 plunge:1
+stock_TSO r_down	's:1
+stock_TSO r_up	shoulders:1 stocks:1 gains:1 energy:1 up:1
+stock_TSO r_up	's:1
+stock_TSO r_up	25:1 's:1
+stock_TSO r_down	feel:1 energy:1 stocks:1 pain:1 gutted:1
+stock_TSO r_up	5.3:1
+stock_TSO r_up	5.3:1 lead:1 energy:1 up:1 lags:1 stocks:1
+stock_TSO r_down	66:1
+stock_TSO r_up	's:1
+stock_TSO r_up	gaining:1 energy:1 drop:1 up:1 down:1 biggest:1 stocks:2 declining:1
+stock_TSO r_down	's:1
+stock_TSO r_up	surprises:1 advisories:1 watch:1
+stock_TSO r_up	's:1
+stock_TSO r_up	2:1
+stock_TSO r_down	big:1 's:3 strikes:1
+stock_TSO r_down	weighs:1 $:1 energy:1 tops:1 slip:1 102:1 news:1 stocks:1
+stock_TSO r_down	biggest:1 gaining:1 stocks:1 declining:1
+stock_TSO r_up	bonds:1 returns:1 pad:1 corporate:1 your:1 stock:1
+stock_TSO r_up	$:1
+stock_TSO r_down	gaining:1 's:1 energy:1 biggest:1 weigh:1 stocks:2 declining:1 cool:1
+stock_TSO r_up	's:1
+stock_TSO r_up	top:1 50:1 years:1 past:1 stock-market:1 strategy:1
+stock_TSO r_up	drop:1 crude-oil:1 up:1 supply:1
+stock_TSO r_down	lower:1 oil:1 energy:1 send:1 pullback:1 stocks:1
+stock_TSO r_down	hits:1 energy:1 drop:1 warning:1 refiners:1 stocks:1
+stock_TSO r_up	biggest:1 gaining:1 stocks:1 declining:1
+stock_TSO r_down	down:1 energy:1 stocks:1 up:1
+stock_TSO r_up	end:1 energy:1 up:1 down:1 stocks:1 higher:1
+stock_TSO r_up	energy:1 gains:1 lead:1 stock:1
+stock_TSO r_up	35:1
+stock_TSO r_up	pace:1 energy:1 stocks:1 into:1 red:1
+stock_TSO r_up	dips:1 up:1 production:1 stocks:1 energy:1 view:1

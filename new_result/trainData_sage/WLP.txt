@@ -1,0 +1,232 @@
+stock_WLP r_down	's:1
+stock_WLP r_down	cut:1 $:3 drop:1 shares:1 forecasts:1 2008:2
+stock_WLP r_down	gaining:1 moves:1 's:3 mood:1 futures:1 lending:1 move:1 focus:2 new:1 surge:1 cheers:1 plan:1 amp:1 biggest:1 rally:1 2008:1 stocks:1 08:2 declining:1 stock:1
+stock_WLP r_down	likely:1 warning:1 run-up:1 27:1 surprises:1 feature:1 shares:1 advisories:1 take:1 insurers:1 stock:1 oil:1 's:1 gains:1 25:1 big:1 dive:1 after:1 sink:1 lower:1 futures:1 steady:1
+stock_WLP r_up	weighs:1 stocks:1 days:1 's:2 second:1 record:1 profit:1 warns:1 after:1 back:1 shares:1 two:1 high:1 lower:1 slide:1 settle:1 crude:1 close:1 rough:1 insurers:1 day:1
+stock_WLP r_down	's:1 '08:1
+stock_WLP r_up	peers:1 parade:1 futures:1 slump:1 earnings:1 joins:1 cuts:1 action:1 struggling:1 stock:1 view:1
+stock_WLP r_up	's:1
+stock_WLP r_down	n't:2
+stock_WLP r_up	2:1 's:1
+stock_WLP r_up	's:1
+stock_WLP r_down	1:1
+stock_WLP r_up	21st:1
+stock_WLP r_down	lower:1 focus:1 results:1 shares:1 forecast:1 7.2:1 '08:1 fall:1 2008:1
+stock_WLP r_up	warns:1 shaky:1 results:1 year:1 25:3 profit:1 altitude:1 start:1 biggest:1 stock:1 gaining:1 full:1 's:3 lift:1 gain:1 stocks:2 declining:1 lower:1 signal:1 futures:1 posts:1 '08:2
+stock_WLP r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_WLP r_up	80:2
+stock_WLP r_down	31:1 $:1
+stock_WLP r_down	2008:1 $:2
+stock_WLP r_down	plunge:1 soars:1
+stock_WLP r_down	lowers:1 's:1 ahead:1 point:1 profit:1 na:1 futures:1 focus:1 expectations:1 start:1 economic:1 year:1 mixed:1 data:1 stock:1
+stock_WLP r_down	reaction:1 reaffirm:1 warning:1
+stock_WLP r_up	n't:1
+stock_WLP r_up	lowers:1 outlook:1 costs:1 cuts:1
+stock_WLP r_down	hit:1 bill:1 passage:1 wake:1 's:1 insurers:1
+stock_WLP r_up	old:1 look:1 nets:1 rickety:1 safety:1 new:1 failsafes:1 seek:1
+stock_WLP r_up	target:1 focus:1 falls:1 beats:1 73:2 net:1
+stock_WLP r_up	surprises:1 advisories:1 's:1 10:2
+stock_WLP r_down	views:1 company:1 after:1 shares:1 jump:1 beats:1
+stock_WLP r_down	's:1
+stock_WLP r_down	's:1 gains:1 revenue:1 37:2 income:1 underwriting:1 rises:1
+stock_WLP r_up	'08:1 '09:1
+stock_WLP r_down	's:1 '09:1
+stock_WLP r_down	...:1
+stock_WLP r_down	85:2
+stock_WLP r_up	n't:1
+stock_WLP r_up	health-care:1 plans:1 get:1 rise:1 cost:1 5:1
+stock_WLP r_up	10:1 $:1
+stock_WLP r_down	2009:1
+stock_WLP r_down	's:1 estimates:1 dips:1 stays:1 weak:1 hammered:1 but:1 focus:1 spread:1 earnings:1 above:1 income:1 5.4:2 net:1 stocks:1 '09:2
+stock_WLP r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_WLP r_down	lowers:1 decline:1 39:1 reports:1 '08:1 earnings:1 net:1 view:1
+stock_WLP r_up	--:1
+stock_WLP r_down	93c:1 17c:1
+stock_WLP r_down	'08:1
+stock_WLP r_up	cut:1 jobs:1 1,500:1 spotlight:1
+stock_WLP r_down	'08:1 1,500:1
+stock_WLP r_up	seekers:1 but:1 face:1 challenges:1 hiring:1 job:1 stays:1 strong:1
+stock_WLP r_up	's:1 40:1
+stock_WLP r_up	61:2 focus:1
+stock_WLP r_down	hit:1 profit:1 surprises:1 falls:1 61:1 advisories:1 investment:1
+stock_WLP r_up	28:1 $:2
+stock_WLP r_up	4.34:1
+stock_WLP r_up	$:1
+stock_WLP r_down	amp:2 $:1
+stock_WLP r_up	1:1 2009:1 -3:1
+stock_WLP r_down	's:1
+stock_WLP r_down	up:1
+stock_WLP r_up	lower:1 point:1 futures:1 8217:2 jump:1 start:1 s:1 shares:1 news:1 buyout:1
+stock_WLP r_up	focus:1
+stock_WLP r_up	surprises:1 advisories:1
+stock_WLP r_up	's:1
+stock_WLP r_up	's:1
+stock_WLP r_up	're:1
+stock_WLP r_up	senators:1 cut:1 bill:1 costs:1 climb:1 stocks:1
+stock_WLP r_down	outlook:1 cuts:1 months:1 two:1 second:1 time:1 2009:1
+stock_WLP r_up	focus:1
+stock_WLP r_down	decline:1 12:1 's:1 profit:1 surprises:1 posts:1 focus:1 19:2 advisories:1 7.6:2
+stock_WLP r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_WLP r_down	advances:1 stocks:1 bill:1 slip:1 insurer:1
+stock_WLP r_down	insurer:1 up:1 beefs:1 attack:1 fall:1 stocks:1
+stock_WLP r_down	all:1 stocks:1 bank:1 way:1 laugh:1
+stock_WLP r_up	everyone:1 's:3 investors:1 but:1 slam:1 not:1 insurers:1 stock:1
+stock_WLP r_down	caution:1 flag:1 downdraft:1 raises:1
+stock_WLP r_down	's:1
+stock_WLP r_up	wicked:1 health-care:1 profiteers:1 mirror:1
+stock_WLP r_up	sector:1 decline:1 drop:1 lead:1 shares:1
+stock_WLP r_up	n't:1
+stock_WLP r_up	selling:1 health-care:1 spikes:1 stocks:1
+stock_WLP r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_WLP r_up	biggest:1 gaining:1 stocks:1 's:3 declining:1
+stock_WLP r_down	cooler:1 rise:1 see:1 strategists:1 beach:1 stock:1
+stock_WLP r_up	2010:1
+stock_WLP r_down	stocks:1 bargain:1 cash-flow:1 helps:1 pick:1 you:1 primer:1
+stock_WLP r_down	's:1
+stock_WLP r_down	1.7:1 's:3
+stock_WLP r_down	99:1 windfall:1 drops:1 tax:1 hints:1
+stock_WLP r_up	biggest:1 gaining:1 stocks:1 's:2 declining:1
+stock_WLP r_up	exemption:1 proposed:1 antitrust:1 surprises:1 advisories:1 insurers:1
+stock_WLP r_up	13:1
+stock_WLP r_down	ax:1 votes:1 antitrust:1 exemption:1 panel:1
+stock_WLP r_down	's:1
+stock_WLP r_up	focus:1
+stock_WLP r_down	11:6 's:2 surprises:1 advisories:1 earnings:1 fall:1 quarterly:1 spotlight:1
+stock_WLP r_up	charges:1 drop:1 earnings:1 one-time:1
+stock_WLP r_up	65:1 2010:1
+stock_WLP r_up	13:2 '09:1 2010:1
+stock_WLP r_up	's:1
+stock_WLP r_up	passage:1 health-care:1 focus:1 dent:1 n't:1 does:1 stocks:1
+stock_WLP r_up	1.28:1
+stock_WLP r_up	ends:1 note:1 bright:1 bonanza:1 decade:1 care:1
+stock_WLP r_down	cheer:1 stock-market:1 deliver:1 tends:1
+stock_WLP r_up	's:1
+stock_WLP r_down	'10:1
+stock_WLP r_up	investors:1 big:1 health:1 flock:1 insurers:1 stock:1
+stock_WLP r_down	gaining:1 stocks:1 's:1 highs:1 indexes:1 '09:2 biggest:1 close:1 2009:2 declining:1
+stock_WLP r_down	industry:1 make:1 bundle:1 execs:1
+stock_WLP r_down	's:1 2010:1
+stock_WLP r_up	ads:1 funded:1 say:1 they:1 insurers:1 anti-overhaul:1
+stock_WLP r_up	stocks:1 overhaul:1 pushes:1 higher:1
+stock_WLP r_up	38:1 $:1
+stock_WLP r_down	creates:1 among:1 uncertainty:1 election:1 insurers:1
+stock_WLP r_up	profit:1 boosted:1 posts:1 focus:1 n't:1 gain:1 higher:1
+stock_WLP r_down	profit:1 fourth-quarter:1 swings:1
+stock_WLP r_down	15:1 2010:1
+stock_WLP r_down	's:1
+stock_WLP r_down	passes:1 major:1 support:1 test:1 500:1 first:1
+stock_WLP r_down	division:1 hike:1 over:2 rate:1 firestorm:1 faces:1 insurance:1 profits:1
+stock_WLP r_down	hearing:1 investor:1 day:1 cancels:1 due:1
+stock_WLP r_up	5:1
+stock_WLP r_down	premium:1 rate:1 up:1 hikes:1 grapple:1 goes:1 shocker:1 69:1 insurers:1
+stock_WLP r_up	's:1 propose:1 rate:1 hike:1 report:1 oversight:1
+stock_WLP r_up	scrutiny:1 defends:1 hikes:1 rate:1 faces:1 lawmakers:1 insurance:1
+stock_WLP r_up	leads:1 sector:1 higher:1
+stock_WLP r_down	health-insurance:1 meet:1
+stock_WLP r_down	's:1 distributors:1 after:1 speech:1 lose:1 ground:1
+stock_WLP r_up	patient:1 back:1 fight:1 hikes:1 force:1 one:1 's:1
+stock_WLP r_down	troubles:1 gain:1
+stock_WLP r_up	's:1 trades:1 keep:1 nears:1 gain:1 key:1 vote:1 climbing:1 insurers:1 afternoon:1
+stock_WLP r_down	health-care:1 vote:1 ground:1 wake:1 lose:1
+stock_WLP r_up	second:1 selling:1 succumb:1 shares:1 day:1
+stock_WLP r_down	fight:1 strange:1 health:1 catalyst:1 reform:1
+stock_WLP r_up	bets:1 overhaul:1 bold:1 since:1 passage:1 health:1 insurers:1 anemic:1 care:1
+stock_WLP r_down	51:1 's:1 $:1 '09:1
+stock_WLP r_down	led:1 21:1 sell-off:1 turns:1 rally:1 2010:1
+stock_WLP r_down	down:1 moves:1 day:1 ahead:1
+stock_WLP r_up	n't:1 surprises:1 advisories:1 51:2
+stock_WLP r_up	outlook:1 move:1 give:1 jumps:1 after:1 29:1 shares:1 traction:1 lift:1 raises:1 rally:1 net:1 stocks:1 market:1 gain:1
+stock_WLP r_down	rescission:1 rate:1 shares:1 fall:1
+stock_WLP r_up	's:1
+stock_WLP r_up	jump:1 ratings:1 upgrade:1 shares:1
+stock_WLP r_down	climb:1 upgrade:1 shares:1
+stock_WLP r_down	's:1
+stock_WLP r_up	waste:1 --:1 funds:1 costs:1 rising:1 9:1 insurers:1 2011:1
+stock_WLP r_down	's:2
+stock_WLP r_down	hike:1 tries:1 lower:1 unit:1
+stock_WLP r_down	's:1
+stock_WLP r_up	rally:1 fizzles:1 health-care:1 gains:1 but:1
+stock_WLP r_up	's:1
+stock_WLP r_down	's:1
+stock_WLP r_up	hoard:1 insurers:1 health:1 cash:1
+stock_WLP r_down	's:2 revenue:1 surprises:1 3.7:1 advisories:1 disappointment:1 drops:1 4:2
+stock_WLP r_down	3.7:1
+stock_WLP r_up	$:1
+stock_WLP r_down	n't:1 's:1
+stock_WLP r_up	2:1
+stock_WLP r_down	sharp:1 post:1 pharma:1 distributors:1 gains:1
+stock_WLP r_up	uphill:1 battle:1 repeal:1
+stock_WLP r_up	1:2 7:2
+stock_WLP r_up	7.3:1
+stock_WLP r_down	's:1
+stock_WLP r_down	outlook:1 tumble:1 shares:2 surge:1 earnings:1 strong:1 miss:1
+stock_WLP r_down	's:1
+stock_WLP r_up	2009:1 's:1 '09:1 1.2:3
+stock_WLP r_up	surprises:1 advisories:1
+stock_WLP r_down	's:1
+stock_WLP r_down	's:1
+stock_WLP r_up	buck:1 slide:1 insurers:1 market:1 broader:1
+stock_WLP r_down	executive:1 stock:1 shakeup:1 costs:1
+stock_WLP r_up	's:1
+stock_WLP r_up	2010:1
+stock_WLP r_up	surprises:1 advisories:1
+stock_WLP r_up	's:1
+stock_WLP r_down	50:1
+stock_WLP r_down	hit:1 ahead:1 shares:1 helped:1 vote:1 boom:1 fuel:1 repeal:1
+stock_WLP r_up	jump:1 80:2 rosier:1 shares:1 forecast:1
+stock_WLP r_up	spending:1 surprises:1 cue:1 advisories:1 plan:1 investors’:1
+stock_WLP r_down	fails:1 repeal:1
+stock_WLP r_down	2011:1 leap:1 's:1 miss:1 falls:1
+stock_WLP r_down	surprises:1 advisories:1 2011:1 spotlight:1 $:1
+stock_WLP r_up	gaining:1 health-insurer:1 's:1 gains:1 big:1 points:1 biggest:1 stocks:1 declining:1 out:1
+stock_WLP r_up	n't:1
+stock_WLP r_down	n't:1
+stock_WLP r_down	big:1 'd:1 health:1 gain:1 reform’s:1 year:1 first:1
+stock_WLP r_up	sector:1 13:3 lifts:1 earnings:1 soars:1
+stock_WLP r_down	10:1
+stock_WLP r_up	'01:1
+stock_WLP r_up	watch:2 2011:3 $:1 21.3:1 5.7:3
+stock_WLP r_up	surprises:1 advisories:1
+stock_WLP r_up	boost:1 earnings:1 shares:1 get:1
+stock_WLP r_up	's:1
+stock_WLP r_up	upgrade:1 's:1 after:1 shares:1 edge:1 higher:1
+stock_WLP r_down	patients:1 secret:1 2011:1 care’s:1
+stock_WLP r_down	's:1 $:1
+stock_WLP r_up	2011:1
+stock_WLP r_up	2011:1
+stock_WLP r_down	pay:1 credited:1 curbs:1 reforms:1
+stock_WLP r_down	boosted:1 deal:1
+stock_WLP r_down	13:1
+stock_WLP r_up	despite:1 upside:1 profits:1 falls:1
+stock_WLP r_up	29.1:1 $:3
+stock_WLP r_down	gaining:1 decline:1 goods:1 's:1 durable:1 futures:1 9.3:3 2.9:2 biggest:1 stocks:1 dip:1 declining:1 stock:1
+stock_WLP r_down	views:1 beat:1 surprises:1 drop:1 but:1 advisories:1
+stock_WLP r_down	ripple:1 health:1 insurers:1 fears:1 out:1
+stock_WLP r_down	's:2
+stock_WLP r_up	2:1
+stock_WLP r_down	n't:1
+stock_WLP r_up	2,300:1
+stock_WLP r_up	's:2
+stock_WLP r_up	's:1 2011:1
+stock_WLP r_up	downgrade:1 earnings:1 talk:1 falls:1
+stock_WLP r_up	feel:1 pinch:1 stronger:1 plan:1
+stock_WLP r_down	80:1
+stock_WLP r_up	5:1 $:1
+stock_WLP r_up	buy:1 should:1 's:1 investors:1 stock:1
+stock_WLP r_down	but:1 2012:1
+stock_WLP r_up	's:1 $:1 3.8:1
+stock_WLP r_up	's:1 7.6:3 '11:2
+stock_WLP r_up	surprises:1 advisories:1
+stock_WLP r_up	11:1 $:2
+stock_WLP r_down	's:2 4:1
+stock_WLP r_down	's:1
+stock_WLP r_up	resolution:1 unlikely:1
+stock_WLP r_up	2011:1
+stock_WLP r_down	's:1 watch:2 $:1 5.7:1
+stock_WLP r_down	gaining:1 hit:1 surprises:1 shares:1 confound:1 advisories:1 biggest:1 stocks:1 miss:1 declining:1
+stock_WLP r_down	sector:1 dim:1 results:1 hurt:1 analyst’s:1 view:1
+stock_WLP r_down	's:1
+stock_WLP r_up	blow:1 could:1 insurers:1 ruling:1
+stock_WLP r_up	health-insurance:1 over:1 mandate:1 split:1 show:1
+stock_WLP r_up	scuttling:1 health-care:1 consider:1 law:1
+stock_WLP r_up	ambiguous:1 insurers:1 health:1 but:1 care:1

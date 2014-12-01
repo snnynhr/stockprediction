@@ -1,0 +1,307 @@
+VLO	20120402	22.9	23.4	r_up	
+VLO	20120403	23.4	22.57	r_down	pace:1 energy:1 losses:1 stocks:1
+VLO	20120404	22.57	22.46	r_down	
+VLO	20120405	22.46	22.16	r_down	
+VLO	20120409	22.16	21.96	r_down	66:1
+VLO	20120410	21.96	20.97	r_down	
+VLO	20120411	20.97	21.14	r_up	slide:1 stocks:1 led:1
+VLO	20120412	21.14	22.15	r_up	
+VLO	20120413	22.15	21.45	r_down	may:1 rally:1 remain:1 shares:1 500:1
+VLO	20120416	21.45	20.76	r_down	
+VLO	20120417	20.76	21.4	r_up	
+VLO	20120418	21.4	21.22	r_down	shines:1 stocks:1 bright:1 energy:1 day:1
+VLO	20120419	21.22	21.24	r_up	
+VLO	20120420	21.24	21.1	r_down	
+VLO	20120423	21.1	20.99	r_down	
+VLO	20120424	20.99	21.26	r_up	
+VLO	20120425	21.26	21.47	r_up	
+VLO	20120426	21.47	21.83	r_up	
+VLO	20120427	21.83	22.32	r_up	
+VLO	20120430	22.32	21.95	r_down	5.3:1 $:1
+VLO	20120501	21.95	22.07	r_up	watch:1
+VLO	20120502	22.07	21.51	r_down	
+VLO	20120503	21.51	20.92	r_down	n't:1
+VLO	20120504	20.92	20.39	r_down	
+VLO	20120507	20.39	20.33	r_down	's:1
+VLO	20120508	20.33	20.05	r_down	
+VLO	20120509	20.05	19.98	r_down	
+VLO	20120510	19.98	20.05	r_up	natural:1 energy:1 gas:1 shares:1 rallies:1 mixed:1
+VLO	20120511	20.05	20.03	r_down	
+VLO	20120514	20.03	19.59	r_down	
+VLO	20120515	19.59	19.12	r_down	way:1
+VLO	20120516	19.12	19.4	r_up	
+VLO	20120517	19.4	19.19	r_down	
+VLO	20120518	19.19	19.05	r_down	
+VLO	20120521	19.05	19.58	r_up	
+VLO	20120522	19.58	19.74	r_up	move:1 energy:1 rise:1 up:1 stocks:1
+VLO	20120523	19.74	19.88	r_up	
+VLO	20120524	19.88	19.79	r_down	
+VLO	20120525	19.79	19.99	r_up	
+VLO	20120529	19.99	20.02	r_up	
+VLO	20120530	20.02	19.52	r_down	
+VLO	20120531	19.52	18.88	r_down	
+VLO	20120601	18.88	18.51	r_down	66:1
+VLO	20120604	18.51	18.23	r_down	
+VLO	20120605	18.23	18.79	r_up	10:1 's:1 but:1 66:1
+VLO	20120606	18.79	19.44	r_up	's:1
+VLO	20120607	19.44	19.2	r_down	's:2 66:1
+VLO	20120608	19.2	19.03	r_down	
+VLO	20120611	19.03	19.55	r_up	's:1
+VLO	20120612	19.55	19.94	r_up	energy:2 footing:1 up:1 strides:1 stocks:2 find:1 retreat:1
+VLO	20120613	19.94	19.45	r_down	
+VLO	20120614	19.45	19.59	r_up	
+VLO	20120615	19.59	19.9	r_up	
+VLO	20120618	19.9	19.5	r_down	
+VLO	20120619	19.5	20.61	r_up	sector:1 energy:1 21.6:1 boost:1 $:1
+VLO	20120620	20.61	21.07	r_up	
+VLO	20120621	21.07	20.57	r_down	
+VLO	20120622	20.57	21.03	r_up	
+VLO	20120625	21.03	20.56	r_down	
+VLO	20120626	20.56	20.9	r_up	4:1
+VLO	20120627	20.9	21.14	r_up	
+VLO	20120628	21.14	21.41	r_up	
+VLO	20120629	21.41	21.61	r_up	
+VLO	20120702	21.61	21.65	r_up	
+VLO	20120703	21.65	22.38	r_up	
+VLO	20120705	22.38	21.84	r_down	
+VLO	20120706	21.84	21.98	r_up	
+VLO	20120709	21.98	21.31	r_down	
+VLO	20120710	21.31	21.16	r_down	
+VLO	20120711	21.16	21.5	r_up	
+VLO	20120712	21.5	21.75	r_up	
+VLO	20120713	21.75	22.25	r_up	
+VLO	20120716	22.25	22.59	r_up	
+VLO	20120717	22.59	22.77	r_up	
+VLO	20120718	22.77	23.11	r_up	
+VLO	20120719	23.11	22.75	r_down	
+VLO	20120720	22.75	22.86	r_up	66:1
+VLO	20120723	22.86	22.95	r_up	24:1 's:1
+VLO	20120724	22.95	22.55	r_down	
+VLO	20120725	22.55	22.31	r_down	66:1
+VLO	20120726	22.31	22.83	r_up	refinery:1 's:1
+VLO	20120727	22.83	23.36	r_up	's:1
+VLO	20120730	23.36	23.34	r_down	
+VLO	20120731	23.34	24.61	r_up	12:6 off:2 2nd:4
+VLO	20120801	24.61	24.3	r_down	loss:1 oil:1 gains:1 limits:1 stock:1
+VLO	20120802	24.3	24.43	r_up	
+VLO	20120803	24.43	24.91	r_up	
+VLO	20120806	24.91	25.18	r_up	
+VLO	20120807	25.18	25.56	r_up	
+VLO	20120808	25.56	25.74	r_up	
+VLO	20120809	25.74	25.83	r_up	
+VLO	20120810	25.83	26.04	r_up	
+VLO	20120813	26.04	25.69	r_down	
+VLO	20120814	25.69	25.85	r_up	
+VLO	20120815	25.85	25.75	r_down	
+VLO	20120816	25.75	26.13	r_up	
+VLO	20120817	26.13	25.93	r_down	
+VLO	20120820	25.93	26.78	r_up	
+VLO	20120821	26.78	26.83	r_up	estimates:1 sales:1 rising:1 earnings:1 stocks:1 4:1
+VLO	20120822	26.83	26.6	r_down	n't:1 revives:1 fight:1
+VLO	20120823	26.6	26.3	r_down	66:1
+VLO	20120824	26.3	26.32	r_up	amid:1
+VLO	20120827	26.32	27.7	r_up	
+VLO	20120828	27.7	28.02	r_up	lower:1 futures:1 end:1 rise:1 gasoline:1 up:1 nears:1 storm:1 's:1 93:1
+VLO	20120829	28.02	27.7	r_down	's:1 gains:1 lead:1 broad:1 closures:1 refinery:1 extends:1 helps:1 oil-sector:1 93:1 retreat:1
+VLO	20120830	27.7	27.67	r_down	stocks:1 oil:1 's:6 retreat:1 lead:1
+VLO	20120831	27.67	28.14	r_up	's:2 $:1 crude:1 rally:1 stocks:1 96:1
+VLO	20120904	28.14	27.93	r_down	
+VLO	20120905	27.93	28.11	r_up	
+VLO	20120906	28.11	28.29	r_up	66:1
+VLO	20120907	28.29	28.97	r_up	
+VLO	20120910	28.97	28.83	r_down	's:2
+VLO	20120911	28.83	29.5	r_up	19:2 9.5:2 $:4 21:2
+VLO	20120912	29.5	29.51	r_up	
+VLO	20120913	29.51	29.52	r_up	
+VLO	20120914	29.52	30.39	r_up	
+VLO	20120917	30.39	28.85	r_down	
+VLO	20120918	28.85	28.45	r_down	pull:1 refiners:1 stocks:1 lower:1 oil-sector:1
+VLO	20120919	28.45	29.01	r_up	
+VLO	20120920	29.01	28.94	r_down	
+VLO	20120921	28.94	28.78	r_down	
+VLO	20120924	28.78	28.58	r_down	
+VLO	20120925	28.58	28.33	r_down	
+VLO	20120926	28.33	27.82	r_down	
+VLO	20120927	27.82	28.31	r_up	
+VLO	20120928	28.31	28.52	r_up	
+VLO	20121001	28.52	28.93	r_up	
+VLO	20121002	28.93	28.94	r_up	
+VLO	20121003	28.94	28.44	r_down	
+VLO	20121004	28.44	29.36	r_up	
+VLO	20121005	29.36	28.71	r_down	majors:1 exports:1 $:1 may:1 bln:1 65:1 spend:1
+VLO	20121008	28.71	28.55	r_down	price:1 spread:1 gas:1 won’t:1 spike:1
+VLO	20121009	28.55	28.27	r_down	
+VLO	20121010	28.27	26.53	r_down	
+VLO	20121011	26.53	26.23	r_down	losses:1 some:1 recoup:1 gain:1 stocks:1 previous:1
+VLO	20121012	26.23	26.12	r_down	lower:1 off:1 mostly:1 but:1 session:1 lows:1 stocks:1
+VLO	20121015	26.12	25.94	r_down	sector:1 off:1 lags:1
+VLO	20121016	25.94	26.58	r_up	
+VLO	20121017	26.58	27.04	r_up	
+VLO	20121018	27.04	26.68	r_down	
+VLO	20121019	26.68	26.59	r_down	lower:1 stocks:1 off:1 4:1
+VLO	20121022	26.59	26.53	r_down	lower:1 stocks:1 tops:1 500:1
+VLO	20121023	26.53	25.53	r_down	decline:1 top:1 stocks:1 losers:1
+VLO	20121024	25.53	25.58	r_up	among:1 top:1 gainers:1 up:1 4.2:1
+VLO	20121025	25.58	25.65	r_up	
+VLO	20121026	25.65	26.14	r_up	
+VLO	20121031	26.14	26.2	r_up	
+VLO	20121101	26.2	25.89	r_down	
+VLO	20121102	25.89	25.39	r_down	
+VLO	20121105	25.39	26.0	r_up	
+VLO	20121106	26.0	27.06	r_up	
+VLO	20121107	27.06	26.46	r_down	
+VLO	20121108	26.46	26.44	r_down	oil:1 retreat:1 stands:1 stocks:1 out:1
+VLO	20121109	26.44	26.64	r_up	
+VLO	20121112	26.64	26.52	r_down	
+VLO	20121113	26.52	26.31	r_down	
+VLO	20121114	26.31	25.98	r_down	
+VLO	20121115	25.98	26.63	r_up	
+VLO	20121116	26.63	26.43	r_down	track:1 turn:1 broader:1 stocks:1 markets:1 higher:1
+VLO	20121119	26.43	27.27	r_up	advance:1 top:1 stocks:1 gainers:1 among:1
+VLO	20121120	27.27	27.67	r_up	
+VLO	20121121	27.67	28.08	r_up	
+VLO	20121123	28.08	28.91	r_up	market:1 stocks:1 gain:1 broader:1 tracking:1
+VLO	20121126	28.91	28.61	r_down	
+VLO	20121127	28.61	28.21	r_down	biodiesel:1 sues:1 reverse:1 rule:1
+VLO	20121128	28.21	28.67	r_up	
+VLO	20121129	28.67	29.2	r_up	turns:1 lower:1 stocks:1 up:1 edge:1
+VLO	20121130	29.2	29.22	r_up	
+VLO	20121203	29.22	28.88	r_down	
+VLO	20121204	28.88	29.17	r_up	
+VLO	20121205	29.17	28.38	r_down	deals:1 sector:1 energy:1 boost:1
+VLO	20121206	28.38	28.8	r_up	
+VLO	20121207	28.8	28.86	r_up	
+VLO	20121210	28.86	29.58	r_up	
+VLO	20121211	29.58	29.58	r_up	
+VLO	20121212	29.58	29.7	r_up	
+VLO	20121213	29.7	29.53	r_down	leads:1 lower:1 stocks:1 decliners:1 66:1
+VLO	20121214	29.53	30.22	r_up	
+VLO	20121217	30.22	30.83	r_up	
+VLO	20121218	30.83	31.01	r_up	1:1 rise:1 stocks:1 up:1 nearly:1
+VLO	20121219	31.01	30.82	r_down	
+VLO	20121220	30.82	31.14	r_up	
+VLO	20121221	31.14	30.92	r_down	
+VLO	20121224	30.92	30.56	r_down	cheer:1 holiday:1 energy:1 stocks:1
+VLO	20121226	30.56	30.5	r_down	
+VLO	20121227	30.5	30.64	r_up	lower:1 stocks:1 gas:1 finds:1 sites:1
+VLO	20121228	30.64	29.98	r_down	
+VLO	20121231	29.98	30.9	r_up	
+VLO	20130102	30.9	32.13	r_up	
+VLO	20130103	32.13	31.45	r_down	
+VLO	20130104	31.45	31.98	r_up	
+VLO	20130107	31.98	31.11	r_down	
+VLO	20130108	31.11	31.4	r_up	hit:1 refiners:1 stocks:1 worst:1 lag:1
+VLO	20130109	31.4	31.13	r_down	extend:1 third:1 into:1 losses:1 stocks:1 day:1
+VLO	20130110	31.13	31.61	r_up	
+VLO	20130111	31.61	31.43	r_down	
+VLO	20130114	31.43	32.0	r_up	
+VLO	20130115	32.0	32.42	r_up	
+VLO	20130116	32.42	33.32	r_up	energy:1 stocks:1 lead:1 higher:1
+VLO	20130117	33.32	33.35	r_up	
+VLO	20130118	33.35	33.29	r_down	
+VLO	20130122	33.29	33.66	r_up	
+VLO	20130123	33.66	34.39	r_up	
+VLO	20130124	34.39	34.38	r_down	
+VLO	20130125	34.38	34.51	r_up	wins:1 pipeline:1 oil:1 flows:1
+VLO	20130128	34.51	35.15	r_up	
+VLO	20130129	35.15	39.64	r_up	10:1 off:1 gains:1 soars:1 movers:1 energy:1 patience:1 second:1 earnings:1 key:1 rallies:1 losing:1 stocks:3 day:1 gain:1
+VLO	20130130	39.64	39.62	r_down	leads:1 blue-chip:1 stocks:1 72:1 higher:1
+VLO	20130131	39.62	39.61	r_down	
+VLO	20130201	39.61	40.62	r_up	
+VLO	20130204	40.62	40.67	r_up	down:1 among:1 top:1 stocks:1 laggards:1
+VLO	20130205	40.67	41.39	r_up	
+VLO	20130206	41.39	41.15	r_down	
+VLO	20130207	41.15	41.05	r_down	
+VLO	20130208	41.05	41.78	r_up	
+VLO	20130211	41.78	41.97	r_up	
+VLO	20130212	41.97	41.53	r_down	hold:1 gains:1 fall:1 refiners:1 stocks:1 recent:1
+VLO	20130213	41.53	42.06	r_up	
+VLO	20130214	42.06	42.96	r_up	among:1 top:1 gainers:1 energy:1
+VLO	20130215	42.96	43.02	r_up	
+VLO	20130219	43.02	43.42	r_up	
+VLO	20130220	43.42	40.87	r_down	's:1
+VLO	20130221	40.87	41.42	r_up	movers:1 after:1 call:1 slumps:1
+VLO	20130222	41.42	41.91	r_up	
+VLO	20130225	41.91	40.25	r_down	
+VLO	20130226	40.25	40.87	r_up	
+VLO	20130227	40.87	41.83	r_up	
+VLO	20130228	41.83	41.47	r_down	
+VLO	20130301	41.47	42.42	r_up	hinge:1 margins:1 more:1 gains:1 surge:1
+VLO	20130304	42.42	44.13	r_up	
+VLO	20130305	44.13	43.88	r_down	shine:1 among:1 energy:1 shares:1 stocks:1 dull:1
+VLO	20130306	43.88	43.32	r_down	
+VLO	20130307	43.32	42.31	r_down	turn:1 peers:1 stocks:1 tops:1 higher:1
+VLO	20130308	42.31	41.39	r_down	
+VLO	20130311	41.39	39.77	r_down	lag:1 up:1 but:1 broader:1 inch:1 stocks:1 market:1
+VLO	20130312	39.77	41.43	r_up	reaffirms:1 gain:1 shares:1 target:1
+VLO	20130313	41.43	39.5	r_down	gets:1 movers:1 energy:1 down:1 record:1 drag:1 stocks:1 order:1
+VLO	20130314	39.5	39.88	r_up	hits:1 energy:1 high:1 record:1 gain:1 stocks:1
+VLO	20130315	39.88	40.19	r_up	week:1 1:1 gain:1 stocks:1 than:1 more:1
+VLO	20130318	40.19	40.38	r_up	
+VLO	20130319	40.38	40.22	r_down	
+VLO	20130320	40.22	40.63	r_up	66:2
+VLO	20130321	40.63	40.04	r_down	
+VLO	20130322	40.04	40.24	r_up	
+VLO	20130325	40.24	40.28	r_up	
+VLO	20130326	40.28	40.89	r_up	
+VLO	20130327	40.89	40.89	r_up	
+VLO	20130328	40.89	41.38	r_up	
+VLO	20130401	41.38	40.91	r_down	
+VLO	20130402	40.91	38.58	r_down	leads:1 stocks:1 retreat:1 fall:1
+VLO	20130403	38.58	36.93	r_down	movers:1 closes:1 high:1 off:1 intraday:1
+VLO	20130404	36.93	37.7	r_up	flogged:1 's:1 movers:1 losses:1 some:1 second:1 recoup:1 fall:1 tank:1 refiners:2 stocks:2 day:1 rumor:1 higher:1
+VLO	20130405	37.7	38.19	r_up	
+VLO	20130408	38.19	38.31	r_up	
+VLO	20130409	38.31	38.81	r_up	
+VLO	20130410	38.81	39.09	r_up	
+VLO	20130411	39.09	37.53	r_down	
+VLO	20130412	37.53	37.21	r_down	stocks:1 gain:1 lead:1
+VLO	20130415	37.21	35.29	r_down	
+VLO	20130416	35.29	36.06	r_up	
+VLO	20130417	36.06	34.78	r_down	
+VLO	20130418	34.78	35.19	r_up	biggest:1 among:1 decliners:1 stocks:1 500:1
+VLO	20130419	35.19	35.69	r_up	stocks:1 gains:1 back:1 lag:1 gives:1
+VLO	20130422	35.69	36.19	r_up	rise:1 stocks:1 top:1 gainer:1
+VLO	20130423	36.19	36.98	r_up	refiners:1 stocks:1 gain:1 lead:1 take:1
+VLO	20130424	36.98	38.18	r_up	
+VLO	20130425	38.18	37.51	r_down	
+VLO	20130426	37.51	37.04	r_down	
+VLO	20130429	37.04	37.48	r_up	
+VLO	20130430	37.48	36.68	r_down	surprises:1 advisories:1 watch:1 stocks:1 among:1
+VLO	20130501	36.68	35.28	r_down	decline:1 tracking:1 drop:1 gain:1 broader:1 stocks:2 market:1
+VLO	20130502	35.28	36.8	r_up	
+VLO	20130503	36.8	37.41	r_up	following:1 earnings:1 stocks:1 up:1 gains:1
+VLO	20130506	37.41	38.19	r_up	500:1 66:1
+VLO	20130507	38.19	38.92	r_up	
+VLO	20130508	38.92	38.07	r_down	
+VLO	20130509	38.07	38.04	r_down	
+VLO	20130510	38.04	38.61	r_up	
+VLO	20130513	38.61	37.93	r_down	
+VLO	20130514	37.93	38.82	r_up	
+VLO	20130515	38.82	39.62	r_up	sector:1 decliner:1 stocks:1 sole:1 fall:1
+VLO	20130516	39.62	39.42	r_down	
+VLO	20130517	39.42	41.0	r_up	rebound:1 stocks:1 refiner:1 rallies:1
+VLO	20130520	41.0	42.09	r_up	
+VLO	20130521	42.09	41.21	r_down	rally:1 lower:1 stocks:1 end:1 after:1
+VLO	20130522	41.21	40.53	r_down	
+VLO	20130523	40.53	40.24	r_down	
+VLO	20130524	40.24	40.06	r_down	
+VLO	20130528	40.06	40.73	r_up	
+VLO	20130529	40.73	40.48	r_down	66:1
+VLO	20130530	40.48	40.66	r_up	
+VLO	20130531	40.66	40.63	r_down	2:1 $:2 1.3:1
+VLO	20130603	40.63	40.25	r_down	invest:1 stocks:1 's:1 gain:1 $:1
+VLO	20130604	40.25	38.96	r_down	's:1 second:1 stocks:1 worst:1 performer:1
+VLO	20130605	38.96	38.62	r_down	
+VLO	20130606	38.62	39.27	r_up	
+VLO	20130607	39.27	39.57	r_up	
+VLO	20130610	39.57	38.97	r_down	among:1 stocks:1 worst:1 500:1
+VLO	20130611	38.97	38.48	r_down	
+VLO	20130612	38.48	37.96	r_down	
+VLO	20130613	37.96	38.66	r_up	
+VLO	20130614	38.66	38.01	r_down	
+VLO	20130617	38.01	37.95	r_down	
+VLO	20130618	37.95	38.07	r_up	sector:1 top:1 stocks:1 gainers:1 500:1
+VLO	20130619	38.07	37.58	r_down	
+VLO	20130620	37.58	35.73	r_down	
+VLO	20130621	35.73	35.39	r_down	

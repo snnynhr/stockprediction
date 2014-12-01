@@ -1,0 +1,352 @@
+stock_NVDA r_up	's:1
+stock_NVDA r_up	...:1
+stock_NVDA r_down	highlights:1 stocks:1 tech:1 day:1 fight:1
+stock_NVDA r_up	flat:1 future:1 cloudy:1 shares:1
+stock_NVDA r_down	nod:1 wins:1 veteran:1
+stock_NVDA r_up	'':1 ``:1 3dfx:1
+stock_NVDA r_down	30c:1 37:1 rise:1 22c:1 focus:1 billions:1 34:1 late:1 5:1 loses:1
+stock_NVDA r_up	week:1 gaining:1 ends:1 rise:1 's:1 $:2 unlocked:1 profit:1 means:1 28:1 results:1 reports:1 focus:1 biggest:1 2c:1 mixed:1 trouble:1 stocks:1 declining:1 34:1
+stock_NVDA r_down	's:1
+stock_NVDA r_up	upgraded:1 outperform:1 's:1 market:1
+stock_NVDA r_up	2:1
+stock_NVDA r_down	giants:1 mobile:1 plans:1 devices:1 unveil:1
+stock_NVDA r_up	claims:1 jobless:1 focus:1
+stock_NVDA r_down	sector:1 gains:1 bullish:1 bouncing:1 back:1 shares:1 tech:1 close:1 highlight:1 grows:1 market:1
+stock_NVDA r_down	push:1 gaming:1 beyond:1 chips:1 graphics:1
+stock_NVDA r_down	's:1 $:2 stent:1 dive:1 after:1 focus:1 shares:1 approval:1 rises:1
+stock_NVDA r_down	sector:1 outlook:1 revenue:1 focus:1 leads:1 warning:1 hit:1 employment:1 gross:1 industrials:1 takes:1 forecast:1 stuns:1 biggest:1 stock:1 gaining:1 plunge:1 's:4 big:1 after:2 falls:1 expected:1 lowered:1 report:2 stocks:3 chips:1 declining:1 advance:2 lower:2 clouds:1 jobs:1 futures:1 turn:1 tech:1 hike:1 higher:1 margin:1 comes:1
+stock_NVDA r_down	1,000,000:1
+stock_NVDA r_down	up:1 shares:1 3:1 edge:1 tech:1 stocks:1 higher:1
+stock_NVDA r_down	1,000,000:2
+stock_NVDA r_down	basement:1 's:1 bargains:1 market:1 stock:1
+stock_NVDA r_up	sector:1 rally:1 chips:1 lead:1
+stock_NVDA r_down	gaining:1 's:1 rise:1 sales:1 shares:1 focus:1 expected:1 report:1 card:1 graphics:1 biggest:1 release:1 stocks:1 dip:1 declining:1
+stock_NVDA r_up	deal:1 soars:1 sales:1 10:1 '':1 slip:1 huge:1 $:1 earnings:1 stock:1 ``:1 's:1 views:1 stung:1 after:2 focus:1 slides:1 data:1 loss:1 charges:1 futures:1 up:1 reports:1 spotlight:1
+stock_NVDA r_up	sector:1 soars:1 broader:1 market:1 end:1 pressured:1 shares:1 financials:1 biggest:1 soar:1 gaining:1 oil:1 's:1 despite:1 stocks:2 declining:1 lower:2 'disappointing:1 follows:1 while:1 tech:1 quarter:1
+stock_NVDA r_down	life:1 late:1 trading:1 90:1 stocks:1 come:1
+stock_NVDA r_up	up:1 leads:1 tech:1 close:1 stocks:1 market:1
+stock_NVDA r_down	gaining:1 's:1 says:1 vs.:1 ground:1
+stock_NVDA r_down	sell:1 unit:1
+stock_NVDA r_down	's:1
+stock_NVDA r_down	spurred:1 other:1 tech:1 market:1 broader:1 issues:1 higher:1
+stock_NVDA r_down	's:1
+stock_NVDA r_down	sector:1 sell:1 hit:1 but:1 downgraded:1 competition:1 manages:1 tech:1 take:1 worries:1 close:1 makers:1 growth:1 gain:1
+stock_NVDA r_down	close:1 bounces:1 back:1 higher:1
+stock_NVDA r_up	cut:1 jobs:1 plans:1 workforce:1 6.5:1 360:1
+stock_NVDA r_up	gaining:1 's:1 focus:1 losing:1 6.5:2 biggest:1 stocks:1 360:2
+stock_NVDA r_up	sector:1 rally:1 lead:1
+stock_NVDA r_up	leads:1 sector:1 retreat:1
+stock_NVDA r_down	operations:1 off:1 chip:1 8.5:1 manufacturing:1 spin:1
+stock_NVDA r_up	fab:1 spinoff:1 industry:1 's:1 means:1
+stock_NVDA r_down	'87:1 's:1
+stock_NVDA r_up	6:1
+stock_NVDA r_down	wraps:1 's:1 updated:1 laptops:2 lifts:1 new:1 rolls:1 out:1
+stock_NVDA r_down	grip:1 show:1 bears:1 back:1 tech:1 pulls:1 market:1
+stock_NVDA r_up	9:1 's:1 drop:1 sales:1 report:1 expected:1
+stock_NVDA r_down	loss:1 sees:1 posting:1 after:1 narrower:1 surge:1 's:1 stock:1
+stock_NVDA r_down	strong:1 tech:1 stocks:1 boost:1 talk:1 gives:1
+stock_NVDA r_up	fuels:1 software:1 gains:1 lead:1 work:1 surge:1 tech:1 graphics:1 stocks:1 plans:1
+stock_NVDA r_up	then:1 cut:1 dips:1 after:1 rate:1 rebounds:1
+stock_NVDA r_down	sector:1 upgrade:1 gets:1 tough:1 ahead:1 weak:1 posts:1 but:1 warn:1 battle:1 economic:1 gain:1 year:1 small:1 stocks:1 data:1 analysts:1
+stock_NVDA r_down	after:1 jobs:1 futures:1 focus:1 water:1 remain:1 5:1 under:1 data:1 stock:1
+stock_NVDA r_up	's:1
+stock_NVDA r_down	'09:1 5.6:1 '01:1
+stock_NVDA r_down	disappointing:1 highlight:1 losses:1 day:1 another:1
+stock_NVDA r_up	10:1
+stock_NVDA r_up	cell:1 phone:1 swirl:1 again:1
+stock_NVDA r_down	2.4:1
+stock_NVDA r_up	's:1 '09:1 16:1
+stock_NVDA r_down	2009:1
+stock_NVDA r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_NVDA r_up	sector:1 rally:1 stocks:1 lead:1 slides:1
+stock_NVDA r_down	after:1 's:1 broad:1 losses:1 leads:1 warning:1 tech:1 20:1
+stock_NVDA r_down	recovery:1 'disaster:1 up:1 mild:1 earnings:1 sets:1 2009:1
+stock_NVDA r_up	lowers:1 outlook:1 -50:1 woes:1 chip-industry:1 ekes:1 sales:1 40:1 session:1 volatile:1 gain:1 small:1 trading:1 out:1
+stock_NVDA r_down	hits:1 surprises:1 recession:1 advisories:1 mode:1 signaling:1 cuts:1 more:1
+stock_NVDA r_up	's:1
+stock_NVDA r_up	phone:1 analysts:1
+stock_NVDA r_down	focus:1
+stock_NVDA r_down	losses:1 loss:1 plunge:1 surprises:1 fall:1 sales:1 advisories:1 turns:1 quarterly:1
+stock_NVDA r_down	loss:1 outlook:1 plunge:2 's:2 tumble:1 surprises:1 fall:1 weak:1 back:1 shares:1 focus:1 advisories:1 flat:1 but:1 big:1 following:1 bounces:1 futures:1
+stock_NVDA r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_NVDA r_up	agreement:1 license:1 into:1 settles:1 back:1 trade:1 earnings:1 accusations:1 post:1 over:1 red:1
+stock_NVDA r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_NVDA r_up	24:1 09:1 22:1 8216:1
+stock_NVDA r_up	$:1 exec:1 former:1 names:1 new:1 its:1
+stock_NVDA r_up	's:1
+stock_NVDA r_up	off:1 techs:1 second:1 take:1 rises:1 day:1
+stock_NVDA r_down	fueled:1 chip:1 surges:1 group:1 4:1
+stock_NVDA r_up	15.3:1 4:1 6:1
+stock_NVDA r_up	files:1 gainers:1 pushes:1 license:1 into:1 lead:1 techs:1 against:1 surge:1 see:1 countersuit:1 analysts:1 demand:1 improving:1 black:1 rises:1 chips:1 dispute:1
+stock_NVDA r_down	focus:1
+stock_NVDA r_up	11:1
+stock_NVDA r_up	plunges:1 retreat:1
+stock_NVDA r_up	's:1
+stock_NVDA r_down	stock:1 following:1 outlook:1 after:1 's:3 bag:1 futures:1 ekes:1 mixed:1 but:1 shares:1 pressures:1 report:1 tech:1 gain:1 slip:1 fall:1 small:1 stocks:1 out:1
+stock_NVDA r_up	week:1 advance:1 gains:1 lead:1 posts:1 another:1
+stock_NVDA r_up	3.3:1
+stock_NVDA r_up	case:1 growth:1 analysts:1 rally:1 stocks:1 debate:1
+stock_NVDA r_down	down:1 chip:1 edge:1 led:1 stocks:1
+stock_NVDA r_down	sinks:1 lead:1 focus:1 tech:1 chips:1 retreat:1
+stock_NVDA r_down	10:1 swings:1 first-quarter:1 $:1 loss:1 focus:1 's:1 than:1
+stock_NVDA r_up	advance:1 3:1 stocks:1 gains:1
+stock_NVDA r_up	gaining:1 's:1 falls:1 slip:1 biggest:1 stocks:2 declining:1
+stock_NVDA r_up	laptops:1 cheap:1 but:1 thin:1 pushes:1
+stock_NVDA r_down	claims:1 says:1 rejected:1
+stock_NVDA r_up	higher:1 its:1 lead:1 techs:1
+stock_NVDA r_up	withdraws:1 lower:1 techs:1 lead:1 some:1 against:1 complaints:1
+stock_NVDA r_down	despite:1 stocks:1 upswing:1 red:1 stay:1
+stock_NVDA r_down	sells:1 stocks:1 off:1 market:1 fall:1
+stock_NVDA r_up	'':1 ``:1
+stock_NVDA r_down	's:2
+stock_NVDA r_down	stocks:1 20:1 up:1 fall:1 quarter:1 day:1
+stock_NVDA r_up	gains:1 mild:1 way:1 close:1 stocks:1 find:1
+stock_NVDA r_up	losses:1 8:2 rise:1 stocks:1 despite:1
+stock_NVDA r_up	patent:1 claims:1 says:1 rejected:1 more:1
+stock_NVDA r_up	7:1
+stock_NVDA r_up	sector:1 views:1 after:1 results:1 upbeat:1 more:1
+stock_NVDA r_up	upgrade:1 's:1 big:1 broker:1 tech:1 7:2 says:1 spark:1
+stock_NVDA r_down	leads:1 sector:1 lower:1 tech:1 news:1
+stock_NVDA r_up	rally:1 2,000:4 above:1 pushes:1 close:1
+stock_NVDA r_up	end:1 gains:1 day:1 mild:1 stocks:1 erratic:1
+stock_NVDA r_down	loss:1 smaller:1 after:1 up:1 shares:1 results:1 5:1 reports:1 higher:1 zoom:1
+stock_NVDA r_up	gaining:1 's:1 gains:1 broad:1 62:1 lift:1 biggest:1 close:1 stocks:2 declining:1
+stock_NVDA r_up	's:1
+stock_NVDA r_down	sector:1 's:1 assets:1 lead:1 rise:1 shares:1 lender:1 failed:1 tech:1 buys:1 higher:1
+stock_NVDA r_up	sinks:1 techs:1 2:1 sharply:1 fall:1 than:1 more:1
+stock_NVDA r_up	2:1
+stock_NVDA r_down	sector:1 slips:1 into:1 sink:1 red:1
+stock_NVDA r_up	small:1 aided:1 eke:1 chips:1 gain:1
+stock_NVDA r_up	rise:1 ekes:1 gain:1
+stock_NVDA r_down	retreats:1 market:1 sink:1 broader:1
+stock_NVDA r_down	improving:1 ...:1 makers:1 but:1
+stock_NVDA r_up	's:1
+stock_NVDA r_down	sector:1 downgrades:1 chip:1
+stock_NVDA r_up	9:1
+stock_NVDA r_down	bankruptcy:1 pose:1 risk:1 really:1
+stock_NVDA r_up	's:1
+stock_NVDA r_up	's:1 focus:1
+stock_NVDA r_up	development:1 chips:1 some:1 halts:1
+stock_NVDA r_down	lower:1 profit:1 estimates:1 but:1 beats:1 reports:1
+stock_NVDA r_down	1:2
+stock_NVDA r_down	7:2
+stock_NVDA r_down	's:1
+stock_NVDA r_up	broad:1 losses:1 lose:1 close:1 stocks:1 steam:1
+stock_NVDA r_down	sector:1 tech:1 retreat:1 lead:1
+stock_NVDA r_down	sector:1 downgrades:1 focus:1 sink:1
+stock_NVDA r_up	10.2:1 north:1 11.6:1 focus:1 74:1 follow:1 stocks:1
+stock_NVDA r_up	gaining:1 's:1 $:1 profit:1 posts:1 after:1 bln:1 up:1 shares:1 surge:1 quarterly:1 74:2 seeks:1 earnings:1 biggest:1 15:1 climb:1 stocks:1 gov't:1 declining:1 higher:1
+stock_NVDA r_up	power:1 broad:1 dips:1 shares:1 tech:1 sink:1 fall:1 rally:1
+stock_NVDA r_down	sector:1 retreats:1 shares:1 fall:1
+stock_NVDA r_up	rally:1 broad-based:1 rise:1 stocks:1 part:1
+stock_NVDA r_down	win:1 17:1
+stock_NVDA r_up	17:2 -2:1
+stock_NVDA r_up	tech-sector:1 rally:1 power:1
+stock_NVDA r_up	's:1 could:1 hurt:1 fumble:1 graphics:1 chip:1
+stock_NVDA r_down	sector:1 gaining:1 bolstering:1 's:3 delays:1 chip:1 mild:1 tech:1 graphics:1 biggest:1 highlight:1 stocks:2 day:1 declining:1
+stock_NVDA r_up	gaining:1 emerges:1 ``:1 stocks:2 's:6 gains:1 woes:1 far:1 chip:1 legal:2 '':1 nemesis:1 thanks:1 new:1 biggest:1 rally:1 hold:1 onto:1 over:1 declining:1 appear:1
+stock_NVDA r_down	tactics:1 sues:1
+stock_NVDA r_down	hurt:1 's:1 suit:1
+stock_NVDA r_up	week:1 follow:1 stocks:1 gains:1 start:1
+stock_NVDA r_up	close:1 behind:1 stocks:1 gains:1 get:1
+stock_NVDA r_down	gains:1 sell-off:1 chip:1 mild:1 see:1 despite:1 stocks:1
+stock_NVDA r_up	lower:1 1.7:1 highs:1 ticks:1 up:1 surge:1 late:1 trades:1 delivers:1 2009:2
+stock_NVDA r_up	driven:1 sector:1 chip:1 stocks:1 gains:1
+stock_NVDA r_up	's:1 up:1
+stock_NVDA r_down	2010:1
+stock_NVDA r_up	finally:1 's:1 tablet:1 ripe:1 off:1 housing:1 computers:1 see:1 2010:1 junk-food:1 taking:1 time:1 seen:1 addiction:1 firms:1 market:1
+stock_NVDA r_down	tablet:1 over:1 up:1 live:1 can:1 hype:1
+stock_NVDA r_down	tech:1 chips:1 retreat:1 lead:1
+stock_NVDA r_up	concerns:1 stocks:1 weak:1 inventory:1 demand:1
+stock_NVDA r_down	broad:1 head:1 tech:1 up:1 gains:1
+stock_NVDA r_down	...:1 's:1 losse:1 close:1 follow:1 stocks:1 south:1
+stock_NVDA r_down	trades:1 focus:1 shares:1 up:1 late:1 9:1 edge:1 finding:1 rises:1 dispute:1
+stock_NVDA r_down	's:1
+stock_NVDA r_up	sector:1 stocks:1 tech:1 lead:1 higher:1
+stock_NVDA r_up	stocks:1 tech:1 gains:1 lead:1
+stock_NVDA r_up	sector:1 advance:1 chip:1 edges:1 stocks:1 higher:1
+stock_NVDA r_up	late:1 rise:1 focus:1 shares:1 trades:1
+stock_NVDA r_down	rise:2 look:1 investors:1 swings:1 surprises:1 after:2 results:2 shares:2 focus:1 profit:1 advisories:1 sales:1 sharply:3 fall:2 stocks:1 2/17:1
+stock_NVDA r_down	gaining:1 life:1 's:1 gains:1 surprises:1 advisories:1 biggest:1 close:1 stocks:2 come:1 declining:1
+stock_NVDA r_down	killer:1
+stock_NVDA r_up	mixed:1 patent:1 rise:1 ruling:1 shares:1
+stock_NVDA r_up	3:1 2013:1
+stock_NVDA r_down	buyback:1 extension:1 program:1 gain:1 shares:1
+stock_NVDA r_up	far:1 thing:1 sure:1 's:1
+stock_NVDA r_down	lead:1 tech:1 mixed:1 stocks:1 chips:1 day:1
+stock_NVDA r_up	expected:1 loss:1 smartphones:1 conquer:1 seeks:1
+stock_NVDA r_down	gaining:1 's:1 show:1 results:1 hurt:1 biggest:1 growing:1 stocks:1 rivalry:1 declining:1
+stock_NVDA r_down	stocks:1 shares:1 slip:1 fall:1
+stock_NVDA r_down	broad:1 slide:1 tech:1 lead:1
+stock_NVDA r_down	tech:1 chief:1 railroads:1 like:1
+stock_NVDA r_down	sector:1 buck:1 gains:1 up:1 shares:1 pressure:1 tech:1 year:1 downward:1 gives:1
+stock_NVDA r_up	's:1 focus:1
+stock_NVDA r_down	profit:1 after:1 focus:1 falls:1 down:1 result:1
+stock_NVDA r_down	swings:1 's:1 profit:1 rise:1 51:1 sales:1
+stock_NVDA r_up	upgraded:1 sector:1 slump:1 down:1 drags:1 close:1 tech:1 market:1
+stock_NVDA r_down	head:1 gains:1 broad:1 up:1 tech:1 rally:1
+stock_NVDA r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_NVDA r_down	trim:1 outlook:1 losses:1 slide:1 caution:1 brokers:1 close:1 stocks:2 market:1
+stock_NVDA r_up	stocks:1 led:1 gains:1 give:1 tech-sector:1 chip:1 shares:1 semiconductor:1 slip:1 rally:1 muscle:1
+stock_NVDA r_down	's:1
+stock_NVDA r_up	stocks:1 end:1 broad:1 losses:1 glum:1 quarter:1
+stock_NVDA r_down	week:1 off:1 results:1 start:1 mixed:1 stocks:1
+stock_NVDA r_up	rapid:1 says:1 gains:1 power:1 tech-sector:1 broad:1 growth:1 tablets:1 poised:1
+stock_NVDA r_down	close:1 cut:1 stocks:1 gains:1 losses:1
+stock_NVDA r_up	swings:1 's:1 profit:1 estimates:1 tops:1 forecast:1 -2:1
+stock_NVDA r_down	sector:1 tech:1 sentiment:1 boosts:1 battered:1
+stock_NVDA r_down	$:2 surprises:1 shares:1 trade:1 late:1 advisories:1 struggle:1
+stock_NVDA r_down	steel:1 lowers:1 outlook:1 's:3 $:2 investors:1 surprises:1 fall:1 watch:1 sales:1 shares:1 advisories:1 nerves:1 need:1 claims:1 still:1 spotlight:1
+stock_NVDA r_up	gaining:1 reaction:1 's:1 drives:1 down:1 tech:1 earnings:1 biggest:1 stocks:2 declining:1
+stock_NVDA r_up	settles:1 lawsuit:1
+stock_NVDA r_up	n't:1 close:1 losses:1 shares:1 fall:1
+stock_NVDA r_down	demand:1 signs:1 weaker:1 shares:1 fall:1
+stock_NVDA r_down	broad:1 stocks:1 end:1 day:1 losses:1
+stock_NVDA r_up	loss:1 rise:1 posts:1 focus:1 but:1 late:1 shares:1 bigger:1
+stock_NVDA r_up	loss:1 after:1 11c:1 late:1 rise:1 focus:1 up:1 shares:1 trade:1 down:1 ruling:1 despite:1 bigger:1
+stock_NVDA r_down	n't:1 's:1
+stock_NVDA r_up	buy:1 's:1 techs:1 but:1 most:1 fall:1 rises:1
+stock_NVDA r_up	deals:1 plays:1 big:1 chip:1 unveils:1 down:1 new:1 more:1
+stock_NVDA r_down	gaining:1 sector:1 's:1 lead:1 chip:1 surge:1 tech:1 biggest:1 stocks:1 declining:1
+stock_NVDA r_up	high:1 closes:1 stocks:1 slip:1 record:1
+stock_NVDA r_up	biggest:1 gaining:1 stocks:1 declining:1
+stock_NVDA r_up	stocks:1 black:1 back:1 rises:1
+stock_NVDA r_down	week:1 start:1 stocks:1 losses:1
+stock_NVDA r_down	chip:1 growth:1 open:1 firms:1 opportunities:1
+stock_NVDA r_down	sector:1 outlook:1 weaker:1 shares:1 fall:1
+stock_NVDA r_down	note:1 rough:1 stocks:1 end:1 month:1
+stock_NVDA r_down	50:1
+stock_NVDA r_up	50:1
+stock_NVDA r_down	's:1 21:1 up:1 shares:1 focus:2 late:1 trading:1
+stock_NVDA r_up	n't:1 outlook:1 drop:1 's:2 21:2 profit:1 futures:1 shares:1 jump:1 rate:1 reports:1 worries:1 upbeat:1 2009:1 down:1
+stock_NVDA r_down	feared:1 feat:1 computing:1
+stock_NVDA r_up	12/1:1
+stock_NVDA r_up	nagging:1 gains:1 ways:1 trademark:1 resolves:1 close:1 stocks:1 find:1 dispute:1
+stock_NVDA r_up	's:1
+stock_NVDA r_up	n't:1
+stock_NVDA r_down	mixed:1 highlights:1 warning:1 tech:1 action:1
+stock_NVDA r_down	11:1 13:1 $:2 lots:1 see:1 kill:1 road:1 market:1
+stock_NVDA r_up	biggest:1 gaining:1 stocks:1 declining:1
+stock_NVDA r_up	core:1 head:1 's:1 tablet:1 deal:1 show:1 industry:1 firms’:1 focus:1 turn:1 computer:1 tech:1 plan:1 put:1 everywhere:1 firms:1 has:1 chips:1 its:1 chip:1
+stock_NVDA r_up	gaining:1 stocks:2 off:1 weakness:1 telecom:1 season:1 surges:1 rise:2 declining:1 movers:1 tech:1 earnings:1 fall:1 biggest:1 retail:1 kick:1
+stock_NVDA r_down	profile:1 arena:1 evening:1 $:3 1.5:2 climbs:1 sun:1 chip:1 billion:1 watch:1 falls:1 settlement:1 pay:1 trade:1 changing:1 gets:1 day:1
+stock_NVDA r_up	biggest:1 gaining:1 stocks:1 declining:1
+stock_NVDA r_up	n't:1 rise:1 stocks:1 led:1
+stock_NVDA r_up	chief:1 hunt:1 search:1
+stock_NVDA r_down	even:1 advance:1 's:2 slips:1 shares:1
+stock_NVDA r_up	gaining:1 's:1 lead:1 tech:1 biggest:1 rally:1 stocks:1 declining:1
+stock_NVDA r_down	12000:1
+stock_NVDA r_down	tablets:1 sees:1 payoff:1
+stock_NVDA r_up	drawn:1 into:1 probe:1 insider-trading:1
+stock_NVDA r_up	president:1 won’t:1 dominant:1 says:1
+stock_NVDA r_down	probe:1 insider:1 manager:1 pleads:1 guilty:1
+stock_NVDA r_down	's:1 7:1
+stock_NVDA r_down	's:1
+stock_NVDA r_up	'':1 ``:1 stocks:1 jumps:1 focus:1 trade:1 late:1 tech:1 push:1 drops:1 higher:1
+stock_NVDA r_up	outlook:1 energy:1 back:1 leads:1 's:1 $:1 black:1 falter:1 upbeat:1 net:1 into:1 stock:1 jobs:1 jumps:1 after:1 focus:1 gain:1 stocks:1 data:1 31:2 futures:1 posts:1 tech:1
+stock_NVDA r_down	founder:1 tablet:1 vows:1 challenge:1 results:1 shares:1 jump:1 biggest:1 upbeat:1 advancers:1 =:1 decliners:1
+stock_NVDA r_down	pressure:1 stocks:1 tech:1
+stock_NVDA r_up	gain:1 win:1 woes:1 lingering:1 shares:1
+stock_NVDA r_down	breakdown:1 our:1 price:1 2:1 advantage:1
+stock_NVDA r_down	unexpected:1 says:1 ignore:1 bull:1 's:1 events:1
+stock_NVDA r_down	n't:1 na:1 2:1 's:2
+stock_NVDA r_down	disappoints:1 risk:1 warns:1 ‘bubble’:1 broker:1 shares:1 sink:1 faces:1 meeting:1 market:1 analysts:1
+stock_NVDA r_up	n't:1
+stock_NVDA r_down	muscles:1 personal:1 resigns:1 flexes:1 watch:1 shares:1 face:1 late:1 reasons:1 2:1 trading:1 threat:1 fall:1
+stock_NVDA r_down	're:1 's:1
+stock_NVDA r_down	n't:1 's:1
+stock_NVDA r_up	gaining:1 up:1 6:1 biggest:1 stocks:1 declining:1
+stock_NVDA r_down	upgrade:1 rise:1 shares:1 falls:1 slip:1 stocks:1 stock:1
+stock_NVDA r_down	rise:1 stocks:1 lift:1 gets:1 cloud:1
+stock_NVDA r_down	sector:2 hit:1 gains:1 eke:1 shares:1 surge:1 down:1 weigh:1 trading:1 after-hours:1 tech:2 stocks:2 out:1
+stock_NVDA r_up	billion:1 buy:1 $:2 sentiment:1 6.5:1 280:1 our:1 100:1
+stock_NVDA r_down	'the:1 du:1 's:1
+stock_NVDA r_up	lower:1 o:1 5:1 quake:1 new:1 close:1 stocks:1
+stock_NVDA r_down	our:1 5:1 o:1
+stock_NVDA r_up	5:1
+stock_NVDA r_up	's:1 quits:1 5:1 fall:1 tech:1 stocks:1
+stock_NVDA r_up	5:1
+stock_NVDA r_up	stocks:1 sinks:1 shorts:1 longs:1 but:1 picks:1 edges:1 tech:1 6:1 weigh:1 higher:1 14:1
+stock_NVDA r_down	$:1 analyst:1 chip:1 should:1 62:1 embrace:1 bull:1 design:1 final:1 market:1 stage:1
+stock_NVDA r_down	6:1
+stock_NVDA r_up	$:1
+stock_NVDA r_down	$:1 600:1
+stock_NVDA r_up	modest:1 2:1 techs:1 lead:1 gains:1
+stock_NVDA r_down	's:1
+stock_NVDA r_up	2015:1 13:1 own:1 chips:1 market:1
+stock_NVDA r_up	week:1 end:1 trading:1 quiet:1
+stock_NVDA r_up	heads:1 $:6 but:1 edge:1 8:1 367:3 's:1 south:1 higher:1
+stock_NVDA r_up	n't:1
+stock_NVDA r_up	's:1 watch:1
+stock_NVDA r_up	lower:1 's:2 after:1 watch:2 shares:1 hours:1
+stock_NVDA r_down	trim:1 1.7:2 estimates:1 results:1 losses:1 shrug:1 profit:1 surprises:1 advisories:1 stock:1 slips:1 's:3 gains:1 beat:1 big:1 after:1 watch:1 but:1 drag:1 stocks:2 lower:1 off:1 futures:1 tech:1 spotlight:1
+stock_NVDA r_down	9:1
+stock_NVDA r_up	down:1 losses:1 n't:1 tech:1 weigh:1 stocks:1
+stock_NVDA r_down	leads:1 action:1 tech:1 soars:1
+stock_NVDA r_up	climbs:1 55:1 tech:1 takes:1 spotlight:1
+stock_NVDA r_up	29:2
+stock_NVDA r_up	stocks:1 tech:1 gains:1 lead:1
+stock_NVDA r_up	laptops:1 plans:1 unveils:1
+stock_NVDA r_down	strong:1 woos:1 mobile:1 keep:1 makers:1 heats:1 ties:1 developers:1 war:1
+stock_NVDA r_down	peek:1 offers:1 8:1
+stock_NVDA r_down	profile:1 mobile:1 war:1 raises:1 its:1
+stock_NVDA r_down	's:1
+stock_NVDA r_down	weighs:1 plunge:1 's:3 down:1 tech:1 stocks:1
+stock_NVDA r_down	10:1
+stock_NVDA r_down	2:1 tech:1 gains:1 lead:1 rallies:1
+stock_NVDA r_down	8:1
+stock_NVDA r_down	see:1 chips:1 uptick:1 second:1 half:1
+stock_NVDA r_down	led:1 retreat:1
+stock_NVDA r_down	lifts:1 sinks:1 but:1 techs:1
+stock_NVDA r_up	's:1
+stock_NVDA r_down	hits:1 debt:1 tap:1 gains:1 deal:1 rise:1 shares:1 tech:1 market-share:1 stocks:1
+stock_NVDA r_down	positive:1 plummets:1 stay:1 pounding:1 take:1 rallies:1 stocks:1 market:1
+stock_NVDA r_up	11:1 takes:1 down:1 fall:1 sharp:1 2011:1
+stock_NVDA r_up	futures:1 off:1 surges:1 results:1 bounce:1 lows:1 after-hours:1 following:1 claims:1 's:1 after:1 stock:1
+stock_NVDA r_down	outlook:1 sales:1 trading:1 rally:1 hold:1 surprises:1 shares:2 advisories:1 boost:1 stock:1 's:1 jumps:1 after-hours:1 watch:2 stocks:1 data:1 futures:1 steady:1 up:2 tech:1 keeps:1 retail:1
+stock_NVDA r_up	raised:1 lock:1 trade:1 leads:1 rally:1 targets:1 shares:1 indexes:1 3:1 board:1 biggest:1 easier:1 stock:1 gaining:1 gains:1 stocks:1 declining:1 tech-sector:1 outperform:1 elections:1 after-hours:1 higher:1 mean:1
+stock_NVDA r_down	9:1
+stock_NVDA r_up	close:1 stocks:1 find:1 momentum:1 gains:1
+stock_NVDA r_down	's:1
+stock_NVDA r_up	8:1 out:1 up:1 reportedly:1 after-hours:1
+stock_NVDA r_up	gaining:1 set:1 $:2 power:1 rise:1 focus:1 tech:1 biggest:1 rally:1 shines:1 stocks:1 chips:1 declining:1
+stock_NVDA r_up	paths:1 own:1 mobile:1 into:1 pushing:1 team:1 8:1
+stock_NVDA r_up	flex:1 muscles:1 stocks:1 late-day:1 rally:1
+stock_NVDA r_down	rating:1 sink:1 tumble:1
+stock_NVDA r_down	leads:1 selloff:1 report:1 tech:1
+stock_NVDA r_up	7:1
+stock_NVDA r_up	tech:1 surge:1 stocks:1 off:1 shows:1
+stock_NVDA r_up	slips:1 's:1 $:1 1.3:1 most:1 tech:1 gain:1 stocks:1
+stock_NVDA r_down	sinks:1 rise:1 tops:1 shares:1 400:1 $:1
+stock_NVDA r_up	falls:1 stocks:1 tech:1 lead:1 higher:1
+stock_NVDA r_down	hits:1 flooding:1 chip:1 makers:1
+stock_NVDA r_up	action:1 tech:1 lead:1
+stock_NVDA r_down	rally:1 highlight:1 chips:1 tech:1 broad:1
+stock_NVDA r_up	highlight:1 slide:1 losses:1 tech:1
+stock_NVDA r_up	35:1
+stock_NVDA r_down	broad:1 plunge:1 stocks:1 market:1
+stock_NVDA r_up	weigh:1 lift:1 chips:1 but:1 techs:1
+stock_NVDA r_down	's:1
+stock_NVDA r_up	's:1 third:1 surprises:1 after:1 watch:1 up:1 slumps:1 surge:1 hours:1 advisories:1 shares:1 shines:1 quarter:1 profits:1
+stock_NVDA r_up	join:1 gains:1 give:1 broad:1 rise:1 watch:1 mild:1 lift:1 tech:2 rally:1 stocks:2
+stock_NVDA r_down	down:1 leads:1 warning:1 tech:1 stocks:1 day:1
+stock_NVDA r_down	's:1
+stock_NVDA r_up	1:1 268:1 $:2
+stock_NVDA r_up	lower:1 techs:1 lead:1
+stock_NVDA r_down	mobile:1 under:1 hood:1 get:1
+stock_NVDA r_up	's:1
+stock_NVDA r_down	semis:1 decline:1 sector:1 retreats:1
+stock_NVDA r_up	sparks:1 rally:1 22:1 optimism:1 2012:1
+stock_NVDA r_up	9:1 $:1
+stock_NVDA r_up	muddies:1 shake-up:1 office:1 path:1
+stock_NVDA r_down	lifted:1 pledge:1 techs:1 rise:1 upswing:1 high:1 rate:1 new:1 stocks:1
+stock_NVDA r_down	gaining:1 techs:1 soars:1 up:1 edge:1 biggest:1 stocks:1 declining:1
+stock_NVDA r_up	highs:1 new:1 climb:1 stocks:1 behind:1
+stock_NVDA r_down	disappoints:1 outlook:1 32:1 after:1 watch:1 shares:2 falls:1 hours:1 slip:1 surge:1
+stock_NVDA r_up	trim:1 among:1 futures:1 gains:1 lead:1 tech-sector:1 broad:1 rise:1 swoon:1 tech:1 claims:1 drop:1 stocks:1 decliners:1 after:1 stock:1
+stock_NVDA r_down	view:1 rebounds:1 analysts:1 long:1 take:1
+stock_NVDA r_down	action:1 highlights:1 tech:1 surge:1
+stock_NVDA r_up	start:1 stocks:1 gains:1 broad:1
+stock_NVDA r_down	200:1 $:1 chip:1 selloff:1 hurt:1 breaks:1
+stock_NVDA r_up	n't:1
+stock_NVDA r_up	highlights:1 tech:1 gains:1 retreat:1

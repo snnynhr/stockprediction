@@ -1,0 +1,238 @@
+stock_HBAN r_down	2008:1
+stock_HBAN r_down	case:1 just:1 push:1 capital:1 regulatory:1 seek:1
+stock_HBAN r_up	...:1
+stock_HBAN r_up	33:1 40c:1 35c:1
+stock_HBAN r_up	$:1
+stock_HBAN r_down	's:1
+stock_HBAN r_down	$:1
+stock_HBAN r_down	feel:1 pinch:1 housing:1 leap:1 tech:1 gain:1 tanks:1 banks:1 stocks:1 market:1 ground:1
+stock_HBAN r_up	gaining:1 's:1 biggest:1 stocks:2 downgraded:1 declining:1
+stock_HBAN r_down	plunge:1 investors:2 mull:1 next:1 pummeled:1 stocks:2 flee:1 potential:1 casualty:1
+stock_HBAN r_up	quarterly:1 profit:1 jumps:1 26:1 gains:1
+stock_HBAN r_down	gaining:1 's:1 lead:1 into:1 second:1 biggest:1 rally:1 stocks:1 day:1 declining:1
+stock_HBAN r_down	26:1
+stock_HBAN r_up	show:1 under:1 results:1 pressure:1 remain:1 quarterly:1 banks:1
+stock_HBAN r_down	loss:1 major:1 's:1 pressured:1 warns:1 after:1 commercial:1 client:1
+stock_HBAN r_down	plummet:1 may:1 down:1 failure:1 trigger:1 financials:1 dragging:1 bank:1
+stock_HBAN r_down	solid:1 rise:1 shares:1 auction:1 demand:1 debt:1
+stock_HBAN r_up	lower:1 end:1 volume:1 trading:1 thin:1 sharply:1 stocks:1
+stock_HBAN r_up	sector:1 recovery:1 pace:1 regional:1 turn:1 banks:1 higher:1
+stock_HBAN r_down	's:1
+stock_HBAN r_up	short:1 surge:1 selling:1 bailout:1 ban:1 stocks:1
+stock_HBAN r_down	ahead:1 investors:1 slump:1 problems:1 see:1 bailout:1 stocks:1
+stock_HBAN r_up	's:1
+stock_HBAN r_up	lower:1 17:1 profit:1 posts:1 focus:1 but:1 beats:1 view:1
+stock_HBAN r_down	gaining:1 sector:1 's:1 closes:1 losses:1 but:1 report:1 higher:1 biggest:1 stocks:1 declining:1 more:1
+stock_HBAN r_up	selling:1 sends:1 regional:1 drop:1 up:1 wave:1 late:1 shore:1 sheets:1 banks:1 balance:1 moves:1 2.4:1
+stock_HBAN r_up	's:1 get:1 but:1 jitters:1 economic:1 capital:1 banks:1 weigh:1
+stock_HBAN r_down	's:1 planning:1 companies:1 participate:1
+stock_HBAN r_down	's:1
+stock_HBAN r_down	's:1
+stock_HBAN r_up	's:1
+stock_HBAN r_down	's:1
+stock_HBAN r_down	's:1
+stock_HBAN r_down	17c:1 28c:1 's:1
+stock_HBAN r_down	's:1
+stock_HBAN r_down	's:1
+stock_HBAN r_up	's:1
+stock_HBAN r_down	's:1
+stock_HBAN r_down	33.6:1 's:1 $:1 bln:1 plan:1 under:1 banks:1 gives:1 21:1
+stock_HBAN r_up	's:1
+stock_HBAN r_down	's:1
+stock_HBAN r_down	's:3
+stock_HBAN r_up	's:5
+stock_HBAN r_up	's:2
+stock_HBAN r_down	's:1
+stock_HBAN r_up	's:1
+stock_HBAN r_up	's:1
+stock_HBAN r_down	's:1
+stock_HBAN r_up	's:1
+stock_HBAN r_down	's:1
+stock_HBAN r_down	's:1
+stock_HBAN r_down	's:1
+stock_HBAN r_up	's:1
+stock_HBAN r_down	's:1
+stock_HBAN r_down	's:1
+stock_HBAN r_down	's:1
+stock_HBAN r_down	leads:1 small:1 gain:1 financials:1 show:1
+stock_HBAN r_down	24:1 much:1 drop:1 shares:1 fall:1
+stock_HBAN r_down	stocks:1 send:1 shares:1 lows:1
+stock_HBAN r_down	losses:1 25:1 30:1 20:1 after:1 shares:1 down:1 report:1 drag:1 fall:1 banks:2 drops:1 financials:1
+stock_HBAN r_up	gaining:1 's:1 surprises:1 1c:1 advisories:1 biggest:1 stocks:1 declining:1
+stock_HBAN r_down	sector:1 's:1 woes:1 18:2 drop:1 shares:1 down:1 quarterly:1
+stock_HBAN r_down	sector:1 weaker:1 financial:1 $:2 2.50:1 6:1 banks:1 highlight:1
+stock_HBAN r_down	's:1
+stock_HBAN r_up	gaining:1 's:1 8217:1 8216:1 biggest:1 stocks:1 declining:1
+stock_HBAN r_up	says:1 analyst:1 may:1 years:1 1,000:1 fail:1 coming:1 banks:1 than:1
+stock_HBAN r_down	gaining:2 1,000:1 's:3 rescue:1 leaves:1 flailing:1 financials:1 n't:1 losing:1 lift:1 plan:1 biggest:2 stocks:4 bank:1 declining:1
+stock_HBAN r_down	blue:1 's:1 sinks:1 slide:1 points:1 plan:1 400:1 banks:1 chips:1 nearly:1
+stock_HBAN r_down	after:1 beat:1 rise:1 sales:1 shares:1 rises:1 targets:1
+stock_HBAN r_down	's:1 14:1
+stock_HBAN r_up	gaining:1 sector:1 's:1 gains:1 eke:1 but:1 small:1 tanks:1 biggest:1 broader:1 stocks:1 declining:1 out:1
+stock_HBAN r_up	lower:1 ca:1 shares:1 n't:1 sustain:1 close:1 rally:1 late-day:1
+stock_HBAN r_down	beating:1 's:1 deal:1 after:1 dole:1 another:1 stocks:1 bank:1 out:1
+stock_HBAN r_down	could:1 stocks:1 financial:1 analyst:1 500:2
+stock_HBAN r_down	advance:1 after:1 surges:1 results:1 down:1 resumes:1
+stock_HBAN r_up	's:1 23:1
+stock_HBAN r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_HBAN r_up	gaining:1 10:1 's:1 biggest:1 stocks:1 declining:1
+stock_HBAN r_down	's:1 -2:1
+stock_HBAN r_up	's:1
+stock_HBAN r_up	gaining:1 's:1 reports:1 early:1 losing:1 gain:1 biggest:1 stocks:1
+stock_HBAN r_down	late:1 slide:1 gains:1 but:1
+stock_HBAN r_up	action:1 slips:1 rise:1 late-session:1 shares:1
+stock_HBAN r_up	biggest:1 stocks:1 's:1 declining:1 advancing:1
+stock_HBAN r_down	focus:1
+stock_HBAN r_up	gaining:1 billion:1 swings:1 's:1 $:1 loss:1 2.5:1 biggest:1 stocks:1 declining:1
+stock_HBAN r_down	banks:1 warm:1 turnaround:1 comments:1 stage:1
+stock_HBAN r_up	stress-test:2 ease:1 after:1 up:1 shares:1 results:1 relief:1 rally:1 stocks:1 over:1
+stock_HBAN r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_HBAN r_up	sector:1 eye:1 investors:1 surges:1 focus:1 raising:1 capital:1 tactics:1 acquisition:1
+stock_HBAN r_down	sector:1 weighs:1 financial:1 down:1 slide:1 bank:1
+stock_HBAN r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_HBAN r_up	weigh:1 stocks:1 9.1:1 investors:1 fall:1
+stock_HBAN r_up	sector:1 rally:1 spark:1 financial:1 gains:1
+stock_HBAN r_up	dividend:1 22:1 boosts:1 stock:1
+stock_HBAN r_up	's:1
+stock_HBAN r_down	financials:1 dip:1 take:1 shares:1 breather:1
+stock_HBAN r_down	profit:1 18:1 regulation:1 concerns:1 5:1 cuts:1 banks:1
+stock_HBAN r_up	$:1
+stock_HBAN r_up	report:1 financial:1 boost:1 sector:1
+stock_HBAN r_down	surprises:1 advisories:1
+stock_HBAN r_down	's:1
+stock_HBAN r_down	500:1
+stock_HBAN r_down	$:1
+stock_HBAN r_down	gaining:1 has:1 shunned:1 rises:1 's:1 $:2 nod:1 surges:1 focus:1 trade:1 slides:1 choppy:1 late:1 biggest:1 stocks:1 declining:1
+stock_HBAN r_up	2009:1
+stock_HBAN r_up	's:2
+stock_HBAN r_up	gaining:1 's:1 2:2 biggest:1 stocks:1 declining:1
+stock_HBAN r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_HBAN r_down	lender:1 hours:1 move:1 after:1
+stock_HBAN r_down	week:1 posts:1 results:1 best:1
+stock_HBAN r_up	profit:1 climb:1 unexpected:1 posts:1 shares:1
+stock_HBAN r_down	failures:1 cuts:1 off:1 up:1 analyst:1
+stock_HBAN r_up	n't:1 focus:1
+stock_HBAN r_down	loss:1 buyers:1 cycle:1 end:1 provisions:1 tunnel:1 surprises:1 rise:1 up:1 waning:1 near:1 advisories:1 see:1 reserve:1 regionals:1
+stock_HBAN r_down	gaining:1 sector:1 lower:1 's:1 gains:1 after:1 leads:1 market:1 biggest:1 stocks:1 declining:1 reverse:1
+stock_HBAN r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_HBAN r_up	dirty:1 dozen:1
+stock_HBAN r_up	n't:1
+stock_HBAN r_down	2009:1 stocks:1 best-:1 worst-performing:1
+stock_HBAN r_down	n't:1
+stock_HBAN r_up	weigh:1 proposals:1 financials:1 heavily:1
+stock_HBAN r_up	again:1 lower:1 's:3 ...:1 surprises:1 focus:1 trade:1 jitters:1 advisories:1 regulatory:1
+stock_HBAN r_up	mixed:1 60:1 jump:1 profit:1 sees:1
+stock_HBAN r_up	gaining:1 's:1 $:1 biggest:1 stocks:1 declining:1
+stock_HBAN r_down	mend:1 banks:1 red:1 but:1 stay:1
+stock_HBAN r_down	rally:1 stocks:1 upgrade:1 deal:1
+stock_HBAN r_up	abyss:1 footing:1 fragile:1 climb:1 stocks:1 find:1
+stock_HBAN r_up	sector:1 lift:1 stocks:1 financial:1
+stock_HBAN r_up	's:2
+stock_HBAN r_up	banks:1 gain:1 rallies:1
+stock_HBAN r_down	banks:1 downgrades:1 hit:1
+stock_HBAN r_down	home-equity:1 reopens:1 forgiveness:1 debate:1
+stock_HBAN r_down	gaining:1 runs:1 managers:1 gains:1 lead:1 biggest:1 's:1 stocks:1 steam:1 declining:1 out:1
+stock_HBAN r_up	but:1
+stock_HBAN r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_HBAN r_up	past:1 rally:1 stocks:1
+stock_HBAN r_up	futures:1 's:2 blowout:1 surprises:1 after:2 stuck:1 advisories:1 subpoena:1 falter:1 quarter:1
+stock_HBAN r_up	gaining:1 territory:1 's:2 positive:1 biggest:1 close:1 stocks:2 declining:1
+stock_HBAN r_up	hold:1 stocks:1 onto:1 gains:1 weekly:1
+stock_HBAN r_up	's:1
+stock_HBAN r_down	up:1
+stock_HBAN r_up	68:1 32:1 4.6:1 's:2
+stock_HBAN r_down	trend:1 bucks:1 rebound:1
+stock_HBAN r_down	73:1
+stock_HBAN r_down	3:1 81:1
+stock_HBAN r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_HBAN r_down	end:1 into:1 month:1 down:1 dip:1 red:1
+stock_HBAN r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_HBAN r_up	close:1 gains:1 lose:1
+stock_HBAN r_up	90:1 2010:1
+stock_HBAN r_up	2:1
+stock_HBAN r_up	bank-test:1 gain:1 results:1
+stock_HBAN r_up	banks:1 inch:1 post:1 gains:1 higher:1
+stock_HBAN r_down	100:1 2nd:1
+stock_HBAN r_down	8:1 surges:1 drop:1 data:1
+stock_HBAN r_down	may:1 signal:1 regional:1 buildup:1 capital:1 banks:1
+stock_HBAN r_down	off:1 after:1 lows:1 statement:1 end:1 's:1 day:1
+stock_HBAN r_down	110th:1
+stock_HBAN r_down	7:1
+stock_HBAN r_up	's:1
+stock_HBAN r_up	gaining:1 1.7:2 's:4 losses:1 7:2 recouping:1 biggest:1 climb:1 stocks:1 day:1 declining:1 previous:1
+stock_HBAN r_up	119:1
+stock_HBAN r_down	rules:1 banking:1 stocks:1 black:1 after:1
+stock_HBAN r_up	25th:1
+stock_HBAN r_up	132:1 2010:1
+stock_HBAN r_up	's:2
+stock_HBAN r_up	lower:1 surprises:1 leads:1 advisories:1 6:1 drops:1 financials:1
+stock_HBAN r_up	2009:1 2010:1
+stock_HBAN r_up	sector:1 1:1 drops:1 pullback:1 stock:1
+stock_HBAN r_down	28th:1
+stock_HBAN r_up	banks:1 stocks’:1 rise:1 financial:1 lead:1
+stock_HBAN r_up	n't:1
+stock_HBAN r_up	but:1
+stock_HBAN r_down	$:2
+stock_HBAN r_down	slips:1 rise:1 14:2 stance:1 jumps:1 6:1 up:1 shares:1 leaving:1 deals:1 rate:1 74:1 sink:1 year:1 stocks:2 into:1
+stock_HBAN r_down	down:1 after:1 end:1 statement:1
+stock_HBAN r_up	's:1 21:1 2010:1
+stock_HBAN r_up	downgrade:1 weighs:1 after:1
+stock_HBAN r_up	watch:1
+stock_HBAN r_up	late:1 ticks:1 trade:1 higher:1
+stock_HBAN r_down	trading:1 up:1 eve:1
+stock_HBAN r_down	leads:1 sector:1 financial:1 gains:1 29:1
+stock_HBAN r_up	2011:1
+stock_HBAN r_down	2011:1
+stock_HBAN r_down	watch:1
+stock_HBAN r_down	sector:1 financial:1 14:1 puts:1 surprises:1 bounce:1 advisories:1 green:1 's:2
+stock_HBAN r_up	sector:1 banks:1 regional:1 rises:1 rally:1
+stock_HBAN r_down	banks:1 weigh:1 regional:1 stocks:1 slip:1
+stock_HBAN r_up	's:2
+stock_HBAN r_down	's:1
+stock_HBAN r_up	sector:1 50:1 after:1 revision:1 higher:1
+stock_HBAN r_down	's:1
+stock_HBAN r_down	offers:1 results:1 other:1 bank:1 clues:1
+stock_HBAN r_down	watch:1 's:1
+stock_HBAN r_up	surprises:1 advisories:1
+stock_HBAN r_up	3:1 stocks:1 off:1 slip:1
+stock_HBAN r_up	39:1 2011:1
+stock_HBAN r_up	's:1
+stock_HBAN r_up	410:1 $:1
+stock_HBAN r_up	wake:1 speech:1 dip:1 45:1 's:1
+stock_HBAN r_up	down:1 drag:1 stocks:1 financial:1
+stock_HBAN r_up	financials:1 lead:1 higher:1
+stock_HBAN r_up	close:1 stocks:1 led:1 up:1
+stock_HBAN r_up	stocks:1 up:1 lead:1
+stock_HBAN r_up	close:1 shed:1 stocks:1 gains:1 lower:1
+stock_HBAN r_down	sector:1 weigh:1 stocks:1 financial:1
+stock_HBAN r_down	market:1 stocks:1 broader:1 outpace:1
+stock_HBAN r_up	1,200:1 's:1
+stock_HBAN r_down	insight:1 rate:1 stocks:1 's:1 weaken:1
+stock_HBAN r_up	leads:1 rally:1 finance:1 sector:1 hurt:1
+stock_HBAN r_down	around:1 weight:1 their:1 lift:1 throw:1 financials:1
+stock_HBAN r_up	banks:1 rally:1 regional:1 gains:1 extend:1
+stock_HBAN r_up	200:1 off:1 gains:1 2.8:1 surrender:1 $:1
+stock_HBAN r_down	's:2
+stock_HBAN r_down	gainers:1 rebound:1 tops:1 financials:1
+stock_HBAN r_up	2:1 's:1 $:1
+stock_HBAN r_up	's:1
+stock_HBAN r_up	close:1 stocks:1 after:1 higher:1
+stock_HBAN r_up	's:1
+stock_HBAN r_up	pare:1 stocks:1 gains:1 outlook:1
+stock_HBAN r_up	weigh:1 stocks:1 market:1 broader:1
+stock_HBAN r_up	2011:1
+stock_HBAN r_up	2012:1
+stock_HBAN r_up	's:1
+stock_HBAN r_up	's:1
+stock_HBAN r_down	88:1
+stock_HBAN r_up	off:1 gains:1
+stock_HBAN r_up	go:1 positive:1 stocks:1 after:1
+stock_HBAN r_up	banks:1 led:1 fall:1
+stock_HBAN r_down	38:1 $:1
+stock_HBAN r_down	's:1
+stock_HBAN r_down	n't:1
+stock_HBAN r_up	's:1
+stock_HBAN r_up	market:1 stocks:1 broader:1 lead:1 higher:1
+stock_HBAN r_up	stocks:1 data:1 market:1 lead:1 higher:1
+stock_HBAN r_down	9:1 $:1
+stock_HBAN r_up	6:1

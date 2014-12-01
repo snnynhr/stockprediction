@@ -1,0 +1,307 @@
+TXN	20120402	32.52	32.18	r_down	rise:1 techs:1 losses:1 most:1 while:1 stand:1 out:1
+TXN	20120403	32.18	31.54	r_down	
+TXN	20120404	31.54	31.11	r_down	
+TXN	20120405	31.11	31.4	r_up	
+TXN	20120409	31.4	31.09	r_down	
+TXN	20120410	31.09	30.66	r_down	
+TXN	20120411	30.66	30.95	r_up	83:1 64:1
+TXN	20120412	30.95	31.45	r_up	
+TXN	20120413	31.45	31.13	r_down	
+TXN	20120416	31.13	31.15	r_up	clips:1 blue-chip:1 stocks:1 rise:1
+TXN	20120417	31.15	31.71	r_up	
+TXN	20120418	31.71	31.66	r_down	
+TXN	20120419	31.66	31.58	r_down	
+TXN	20120420	31.58	31.41	r_down	
+TXN	20120423	31.41	30.85	r_down	losses:1 gains:1 surprises:1 after:1 falls:1 hours:1 advisories:1 trading:1 highlight:1 tech:1
+TXN	20120424	30.85	30.34	r_down	outlook:1 posting:1 watch:1 up:1 sales:1 60:1 earnings:1 seen:1 strong:1 dip:1
+TXN	20120425	30.34	30.93	r_up	tech-sector:1 losses:1 lead:1
+TXN	20120426	30.93	31.08	r_up	one:1 supplier:1 bright:1 so:1 not:1 halo:1
+TXN	20120427	31.08	31.29	r_up	
+TXN	20120430	31.29	31.07	r_down	potential:1 deal:1 seeks:1 50,000:1
+TXN	20120501	31.07	30.98	r_down	
+TXN	20120502	30.98	31.21	r_up	$:1
+TXN	20120503	31.21	30.53	r_down	
+TXN	20120504	30.53	29.75	r_down	
+TXN	20120507	29.75	29.77	r_up	
+TXN	20120508	29.77	29.79	r_up	drama:1 highlights:1 weak:1 tech:1 action:1
+TXN	20120509	29.79	29.76	r_down	
+TXN	20120510	29.76	29.94	r_up	
+TXN	20120511	29.94	29.9	r_down	
+TXN	20120514	29.9	29.79	r_down	
+TXN	20120515	29.79	29.46	r_down	stocks:1 but:1 slip:1 up:1
+TXN	20120516	29.46	29.14	r_down	
+TXN	20120517	29.14	28.55	r_down	
+TXN	20120518	28.55	27.94	r_down	
+TXN	20120521	27.94	28.67	r_up	
+TXN	20120522	28.67	28.56	r_down	
+TXN	20120523	28.56	28.34	r_down	
+TXN	20120524	28.34	28.1	r_down	
+TXN	20120525	28.1	28.15	r_up	
+TXN	20120529	28.15	28.56	r_up	
+TXN	20120530	28.56	28.16	r_down	
+TXN	20120531	28.16	27.7	r_down	
+TXN	20120601	27.7	26.26	r_down	
+TXN	20120604	26.26	26.35	r_up	
+TXN	20120605	26.35	26.73	r_up	
+TXN	20120606	26.73	27.82	r_up	gaining:1 gains:1 lead:1 exec:1 shares:1 jump:1 tech:1 names:1 biggest:1 stocks:1 declining:1
+TXN	20120607	27.82	27.46	r_down	
+TXN	20120608	27.46	27.74	r_up	
+TXN	20120611	27.74	26.89	r_down	
+TXN	20120612	26.89	27.47	r_up	eye:1 investors:1 futures:1 watch:1 up:1 after-hours:1 's:1 climb:1 news:1 stock:1
+TXN	20120613	27.47	27.06	r_down	make:1 strong:1 zapped:1 gains:1
+TXN	20120614	27.06	26.97	r_down	
+TXN	20120615	26.97	27.1	r_up	
+TXN	20120618	27.1	27.25	r_up	
+TXN	20120619	27.25	27.5	r_up	
+TXN	20120620	27.5	27.76	r_up	
+TXN	20120621	27.76	26.84	r_down	
+TXN	20120622	26.84	27.28	r_up	
+TXN	20120625	27.28	26.24	r_down	
+TXN	20120626	26.24	26.29	r_up	
+TXN	20120627	26.29	26.33	r_up	
+TXN	20120628	26.33	26.13	r_down	
+TXN	20120629	26.13	27.9	r_up	broad:1 falls:1 join:1 but:1 rally:1
+TXN	20120702	27.9	27.51	r_down	deals:1 jumps:1 slumps:1
+TXN	20120703	27.51	27.78	r_up	
+TXN	20120705	27.78	27.63	r_down	
+TXN	20120706	27.63	26.96	r_down	
+TXN	20120709	26.96	26.66	r_down	
+TXN	20120710	26.66	26.64	r_down	emerging:1 hit:1 losses:1 bearish:1 down:1 pace:1 tech:1 stocks:2 day:1 view:1
+TXN	20120711	26.64	26.55	r_down	's:1 7:1
+TXN	20120712	26.55	26.01	r_down	152:1 $:1 tablet:1 analysis:1 costs:1 build:1 shows:1
+TXN	20120713	26.01	26.28	r_up	
+TXN	20120716	26.28	25.71	r_down	chips:1 led:1 slip:1
+TXN	20120717	25.71	25.86	r_up	weigh:1 techs:1
+TXN	20120718	25.86	26.89	r_up	
+TXN	20120719	26.89	27.27	r_up	
+TXN	20120720	27.27	26.5	r_down	
+TXN	20120723	26.5	26.09	r_down	among:1 hit:1 broad:1 watch:1 slowdown:1 tech:1 decliners:1 34:3 order:1
+TXN	20120724	26.09	25.84	r_down	hours:1 sinks:1 lead:1 surprises:1 after:1 slump:1 shares:1 34:2 down:1 advisories:1 tech:1
+TXN	20120725	25.84	25.9	r_up	surprises:1 advisories:1
+TXN	20120726	25.9	26.31	r_up	
+TXN	20120727	26.31	26.76	r_up	
+TXN	20120730	26.76	26.63	r_down	weigh:1 rise:1 chips:1 techs:1 but:1
+TXN	20120731	26.63	26.66	r_up	
+TXN	20120801	26.66	27.04	r_up	
+TXN	20120802	27.04	26.67	r_down	
+TXN	20120803	26.67	27.67	r_up	
+TXN	20120806	27.67	27.64	r_down	
+TXN	20120807	27.64	28.61	r_up	
+TXN	20120808	28.61	28.74	r_up	
+TXN	20120809	28.74	28.91	r_up	
+TXN	20120810	28.91	29.12	r_up	
+TXN	20120813	29.12	28.91	r_down	
+TXN	20120814	28.91	28.85	r_down	
+TXN	20120815	28.85	29.27	r_up	
+TXN	20120816	29.27	29.63	r_up	
+TXN	20120817	29.63	29.23	r_down	
+TXN	20120820	29.23	28.9	r_down	
+TXN	20120821	28.9	29.01	r_up	23:1
+TXN	20120822	29.01	28.76	r_down	23:1
+TXN	20120823	28.76	28.7	r_down	
+TXN	20120824	28.7	28.93	r_up	
+TXN	20120827	28.93	28.7	r_down	
+TXN	20120828	28.7	28.62	r_down	
+TXN	20120829	28.62	28.78	r_up	
+TXN	20120830	28.78	28.39	r_down	
+TXN	20120831	28.39	28.42	r_up	
+TXN	20120904	28.42	28.18	r_down	
+TXN	20120905	28.18	27.91	r_down	sends:1 bumpy:1 ride:1 chips:1 market:1
+TXN	20120906	27.91	28.93	r_up	
+TXN	20120907	28.93	28.56	r_down	
+TXN	20120910	28.56	28.06	r_down	10:1 things:1 won’t:1 businesses:1 small:1 you:1 tell:1
+TXN	20120911	28.06	27.97	r_down	getting:1 surprises:1 chip:1 brighter:1 advisories:1 makers:1 halo:1
+TXN	20120912	27.97	27.98	r_up	lower:1 after:1 gains:1 turns:1 rise:1 watch:1 shares:1 hours:1 tech:1 highlight:1
+TXN	20120913	27.98	28.3	r_up	
+TXN	20120914	28.3	28.93	r_up	
+TXN	20120917	28.93	28.48	r_down	
+TXN	20120918	28.48	28.05	r_down	leads:1 losses:1 but:1 high:1 tech:1 new:1 claims:1
+TXN	20120919	28.05	28.08	r_up	
+TXN	20120920	28.08	28.24	r_up	24:1
+TXN	20120921	28.24	28.37	r_up	24:1 lifted:1 oil:1 dividends:1 futures:1 watch:1 5:2 stocks:1 fatten:1 500:1 stock:1
+TXN	20120924	28.37	28.07	r_down	
+TXN	20120925	28.07	27.24	r_down	
+TXN	20120926	27.24	26.98	r_down	tablets:1 future:1 rethinks:1 smartphones:1
+TXN	20120927	26.98	27.29	r_up	
+TXN	20120928	27.29	26.98	r_down	
+TXN	20121001	26.98	27.02	r_up	
+TXN	20121002	27.02	27.02	r_up	
+TXN	20121003	27.02	26.89	r_down	
+TXN	20121004	26.89	27.32	r_up	chip:1 stocks:1 rise:1 crumble:1
+TXN	20121005	27.32	27.56	r_up	down:1 weigh:1 techs:1
+TXN	20121008	27.56	27.4	r_down	
+TXN	20121009	27.4	26.74	r_down	52-week:1
+TXN	20121010	26.74	26.59	r_down	
+TXN	20121011	26.59	26.72	r_up	
+TXN	20121012	26.72	26.7	r_down	mild:1 tech:1 stand:1 stocks:2 day:1 out:1
+TXN	20121015	26.7	27.62	r_up	gaining:1 play:1 15:1 techs:1 up:1 leads:1 music:1 biggest:1 stocks:1 declining:1
+TXN	20121016	27.62	28.12	r_up	sectors:1 rise:1 health-care:1 bank:1 buoyed:1
+TXN	20121017	28.12	27.87	r_down	+:1 20:1
+TXN	20121018	27.87	28.15	r_up	
+TXN	20121019	28.15	27.22	r_down	
+TXN	20121022	27.22	27.2	r_down	advance:1 30:1 's:1 gains:1 seesaws:1 surprises:1 after:1 watch:1 focus:1 shares:1 hours:1 advisories:1 tech:1 earnings:1 highlight:1 higher:1 futures:1
+TXN	20121023	27.2	27.25	r_up	30:3
+TXN	20121024	27.25	27.11	r_down	leads:1 jumps:1 losses:1 tech:1
+TXN	20121025	27.11	27.53	r_up	falter:1 prospects:1 earnings:1 worse:1 grow:1
+TXN	20121026	27.53	28.31	r_up	
+TXN	20121031	28.31	27.7	r_down	
+TXN	20121101	27.7	28.8	r_up	tech:1 falls:1 chips:1 lead:1 rally:1
+TXN	20121102	28.8	28.13	r_down	losses:1 down:1 tech:1 highlight:1 stocks:1 day:1
+TXN	20121105	28.13	29.06	r_up	
+TXN	20121106	29.06	29.52	r_up	
+TXN	20121107	29.52	28.88	r_down	
+TXN	20121108	28.88	28.73	r_down	helped:1 close:1 ties:1 hurt:1
+TXN	20121109	28.73	29.1	r_up	
+TXN	20121112	29.1	29.1	r_up	
+TXN	20121113	29.1	28.97	r_down	
+TXN	20121114	28.97	28.36	r_down	after:1 4.8:2 shares:1 surge:1 hours:1 5:1
+TXN	20121115	28.36	28.39	r_up	4.8:1
+TXN	20121116	28.39	27.92	r_down	
+TXN	20121119	27.92	28.49	r_up	
+TXN	20121120	28.49	28.9	r_up	action:1 tech:1 clouds:1 crisis:1 's:1
+TXN	20121121	28.9	28.79	r_down	
+TXN	20121123	28.79	29.17	r_up	
+TXN	20121126	29.17	29.21	r_up	
+TXN	20121127	29.21	29.05	r_down	's:1
+TXN	20121128	29.05	29.36	r_up	
+TXN	20121129	29.36	29.63	r_up	
+TXN	20121130	29.63	29.06	r_down	
+TXN	20121203	29.06	29.19	r_up	
+TXN	20121204	29.19	29.19	r_up	
+TXN	20121205	29.19	29.44	r_up	
+TXN	20121206	29.44	29.39	r_down	
+TXN	20121207	29.39	29.43	r_up	
+TXN	20121210	29.43	29.4	r_down	
+TXN	20121211	29.4	30.57	r_up	slips:1 lead:1 after:1 shares:1 hours:1 tech:1 rally:1 red:1
+TXN	20121212	30.57	30.62	r_up	hopes:1 rise:1 stocks:1 budget:1 deal:1
+TXN	20121213	30.62	30.15	r_down	
+TXN	20121214	30.15	30.37	r_up	
+TXN	20121217	30.37	30.48	r_up	
+TXN	20121218	30.48	30.9	r_up	week:1 off:1 gains:1 broad:1 start:1 stocks:1
+TXN	20121219	30.9	30.81	r_down	
+TXN	20121220	30.81	30.84	r_up	
+TXN	20121221	30.84	30.5	r_down	
+TXN	20121224	30.5	30.5	r_up	
+TXN	20121226	30.5	30.38	r_down	n't:1
+TXN	20121227	30.38	30.31	r_down	
+TXN	20121228	30.31	30.04	r_down	
+TXN	20121231	30.04	30.46	r_up	
+TXN	20130102	30.46	31.86	r_up	
+TXN	20130103	31.86	31.44	r_down	
+TXN	20130104	31.44	31.37	r_down	
+TXN	20130107	31.37	31.47	r_up	
+TXN	20130108	31.47	31.11	r_down	
+TXN	20130109	31.11	31.55	r_up	slips:1 rise:1 but:1
+TXN	20130110	31.55	31.97	r_up	
+TXN	20130111	31.97	31.96	r_down	slide:1 rises:1 but:1
+TXN	20130114	31.96	31.89	r_down	
+TXN	20130115	31.89	31.83	r_down	
+TXN	20130116	31.83	32.05	r_up	
+TXN	20130117	32.05	32.68	r_up	
+TXN	20130118	32.68	33.05	r_up	broad:1 tech:1 stand:1 gains:1 out:1
+TXN	20130122	33.05	32.99	r_down	stocks:1 tech:1 gains:1 lead:1 earnings:1
+TXN	20130123	32.99	32.61	r_down	rise:1 lift:1 tech:1 stocks:1
+TXN	20130124	32.61	32.62	r_up	
+TXN	20130125	32.62	32.34	r_down	
+TXN	20130128	32.34	32.58	r_up	leads:1 mild:1 stocks:1 tech:1 gains:1
+TXN	20130129	32.58	32.42	r_down	
+TXN	20130130	32.42	32.57	r_up	
+TXN	20130131	32.57	32.82	r_up	
+TXN	20130201	32.82	33.46	r_up	
+TXN	20130204	33.46	33.01	r_down	
+TXN	20130205	33.01	33.49	r_up	
+TXN	20130206	33.49	33.3	r_down	
+TXN	20130207	33.3	33.16	r_down	
+TXN	20130208	33.16	34.01	r_up	
+TXN	20130211	34.01	33.43	r_down	mutual:1 funds:1 budget:1 battles:1 fight:1 7:1 coming:1
+TXN	20130212	33.43	33.3	r_down	's:1
+TXN	20130213	33.3	33.46	r_up	
+TXN	20130214	33.46	33.53	r_up	
+TXN	20130215	33.53	33.33	r_down	's:1
+TXN	20130219	33.33	33.68	r_up	
+TXN	20130220	33.68	32.8	r_down	
+TXN	20130221	32.8	32.23	r_down	33:1
+TXN	20130222	32.23	33.91	r_up	hours:1 following:1 climb:1 after:1 results:1
+TXN	20130225	33.91	33.47	r_down	
+TXN	20130226	33.47	33.5	r_up	
+TXN	20130227	33.5	34.02	r_up	
+TXN	20130228	34.02	34.16	r_up	
+TXN	20130301	34.16	34.25	r_up	
+TXN	20130304	34.25	34.29	r_up	
+TXN	20130305	34.29	34.73	r_up	
+TXN	20130306	34.73	34.87	r_up	
+TXN	20130307	34.87	34.93	r_up	
+TXN	20130308	34.93	35.02	r_up	leads:1 slips:1 stocks:1 tech:1 up:1
+TXN	20130311	35.02	35.24	r_up	
+TXN	20130312	35.24	35.34	r_up	
+TXN	20130313	35.34	35.02	r_down	late:1 leads:1 gets:1 boost:1 techs:1
+TXN	20130314	35.02	35.11	r_up	
+TXN	20130315	35.11	34.81	r_down	
+TXN	20130318	34.81	34.35	r_down	
+TXN	20130319	34.35	34.39	r_up	shrug:1 tech:1 off:1 slump:1
+TXN	20130320	34.39	34.79	r_up	
+TXN	20130321	34.79	34.02	r_down	
+TXN	20130322	34.02	34.19	r_up	
+TXN	20130325	34.19	34.21	r_up	
+TXN	20130326	34.21	34.83	r_up	
+TXN	20130327	34.83	34.81	r_down	
+TXN	20130328	34.81	35.2	r_up	
+TXN	20130401	35.2	34.74	r_down	
+TXN	20130402	34.74	34.5	r_down	
+TXN	20130403	34.5	33.89	r_down	
+TXN	20130404	33.89	34.22	r_up	
+TXN	20130405	34.22	33.93	r_down	
+TXN	20130408	33.93	34.8	r_up	's:1 but:1
+TXN	20130409	34.8	34.89	r_up	among:1 advancers:1 stocks:1 tech:1 rise:1
+TXN	20130410	34.89	35.48	r_up	
+TXN	20130411	35.48	35.41	r_down	
+TXN	20130412	35.41	35.57	r_up	perfect:1 dividend:1 portfolio:1
+TXN	20130415	35.57	35.0	r_down	
+TXN	20130416	35.0	35.46	r_up	
+TXN	20130417	35.46	33.94	r_down	
+TXN	20130418	33.94	33.66	r_down	
+TXN	20130419	33.66	33.98	r_up	can’t:1 10:1 afford:1 tech:1 earnings:1 you:1 miss:1
+TXN	20130422	33.98	34.54	r_up	25:1 200:1 $:1 lead:1 soars:1 broad:1 watch:1 trade:1 late:1 tech:1 reclaiming:1 gains:1
+TXN	20130423	34.54	35.42	r_up	dominate:1 techs:1 surprises:2 chip:1 watch:1 advisories:2 earnings:1 leading:1 hopes:1 news:1 spark:1 soar:1 rebound:1 higher:1
+TXN	20130424	35.42	35.73	r_up	
+TXN	20130425	35.73	35.83	r_up	
+TXN	20130426	35.83	35.74	r_down	
+TXN	20130429	35.74	35.97	r_up	
+TXN	20130430	35.97	36.21	r_up	
+TXN	20130501	36.21	36.41	r_up	
+TXN	20130502	36.41	36.7	r_up	
+TXN	20130503	36.7	37.01	r_up	
+TXN	20130506	37.01	37.04	r_up	
+TXN	20130507	37.04	37.04	r_up	
+TXN	20130508	37.04	37.09	r_up	
+TXN	20130509	37.09	37.01	r_down	
+TXN	20130510	37.01	37.04	r_up	
+TXN	20130513	37.04	36.54	r_down	
+TXN	20130514	36.54	36.51	r_down	
+TXN	20130515	36.51	36.81	r_up	
+TXN	20130516	36.81	36.6	r_down	
+TXN	20130517	36.6	36.77	r_up	
+TXN	20130520	36.77	36.63	r_down	
+TXN	20130521	36.63	36.6	r_down	
+TXN	20130522	36.6	36.01	r_down	
+TXN	20130523	36.01	35.99	r_down	
+TXN	20130524	35.99	35.99	r_up	
+TXN	20130528	35.99	36.2	r_up	
+TXN	20130529	36.2	36.09	r_down	3:1
+TXN	20130530	36.09	36.47	r_up	
+TXN	20130531	36.47	35.91	r_down	
+TXN	20130603	35.91	36.03	r_up	
+TXN	20130604	36.03	36.64	r_up	
+TXN	20130605	36.64	35.87	r_down	
+TXN	20130606	35.87	35.67	r_down	
+TXN	20130607	35.67	36.18	r_up	
+TXN	20130610	36.18	36.62	r_up	's:1 drop:1 shake-up:1 shares:1
+TXN	20130611	36.62	35.26	r_down	closes:1 movers:1 watch:1 down:1 remain:1 wake:1 spotlight:1
+TXN	20130612	35.26	34.79	r_down	unravels:1 rare:1 movers:1 weak:1 session:1 exit:1 gainer:1 tech:1
+TXN	20130613	34.79	35.48	r_up	
+TXN	20130614	35.48	35.48	r_up	
+TXN	20130617	35.48	35.78	r_up	
+TXN	20130618	35.78	36.12	r_up	
+TXN	20130619	36.12	35.71	r_down	push:1 lifts:1 stock:1 licensing:1 graphics:1
+TXN	20130620	35.71	34.63	r_down	
+TXN	20130621	34.63	34.95	r_up	

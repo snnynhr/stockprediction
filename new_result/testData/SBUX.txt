@@ -1,0 +1,307 @@
+SBUX	20120402	54.88	55.65	r_up	
+SBUX	20120403	55.65	55.88	r_up	
+SBUX	20120404	55.88	55.93	r_up	
+SBUX	20120405	55.93	57.13	r_up	
+SBUX	20120409	57.13	56.38	r_down	
+SBUX	20120410	56.38	55.76	r_down	
+SBUX	20120411	55.76	58.22	r_up	's:1
+SBUX	20120412	58.22	59.54	r_up	
+SBUX	20120413	59.54	60.56	r_up	
+SBUX	20120416	60.56	58.57	r_down	
+SBUX	20120417	58.57	57.6	r_down	
+SBUX	20120418	57.6	59.24	r_up	
+SBUX	20120419	59.24	57.75	r_down	
+SBUX	20120420	57.75	58.09	r_up	
+SBUX	20120423	58.09	57.5	r_down	9:1
+SBUX	20120424	57.5	57.0	r_down	
+SBUX	20120425	57.0	58.43	r_up	
+SBUX	20120426	58.43	59.57	r_up	hours:1 rally:1 after:1 watch:1 shares:1
+SBUX	20120427	59.57	56.39	r_down	week:1 1.5:1 trim:1 gains:1 business:1 show:1 surprises:1 futures:1 watch:2 results:1 snag:1 n't:1 3:1 advisories:1 earnings:1 data:1 stock:1
+SBUX	20120430	56.39	56.33	r_down	
+SBUX	20120501	56.33	56.62	r_up	
+SBUX	20120502	56.62	56.87	r_up	
+SBUX	20120503	56.87	55.63	r_down	off:1 highs:1 back:1 52-week:1 's:1 stocks:1
+SBUX	20120504	55.63	54.56	r_down	
+SBUX	20120507	54.56	54.65	r_up	
+SBUX	20120508	54.65	53.38	r_down	...:1
+SBUX	20120509	53.38	53.29	r_down	sale:1 sidelined:1 chairman:1 stock:1
+SBUX	20120510	53.29	54.03	r_up	
+SBUX	20120511	54.03	54.18	r_up	
+SBUX	20120514	54.18	52.86	r_down	
+SBUX	20120515	52.86	52.54	r_down	
+SBUX	20120516	52.54	52.22	r_down	
+SBUX	20120517	52.22	50.89	r_down	
+SBUX	20120518	50.89	50.76	r_down	
+SBUX	20120521	50.76	52.89	r_up	
+SBUX	20120522	52.89	52.57	r_down	
+SBUX	20120523	52.57	54.46	r_up	
+SBUX	20120524	54.46	53.94	r_down	now:1 risk:1 money:1 one:1 manager:1 5:1 making:1 moves:1
+SBUX	20120525	53.94	53.74	r_down	
+SBUX	20120529	53.74	54.74	r_up	
+SBUX	20120530	54.74	53.91	r_down	
+SBUX	20120531	53.91	54.06	r_up	
+SBUX	20120601	54.06	51.37	r_down	
+SBUX	20120604	51.37	53.09	r_up	$:1 after:1 watch:1 shares:1 hours:1 fall:1 100:1
+SBUX	20120605	53.09	51.62	r_down	index:1 lifted:1 $:2 ahead:1 watch:1 futures:1 steady:1 n't:1 call:1 services:1 100:2 stocks:1
+SBUX	20120606	51.62	52.67	r_up	's:1 watch:1
+SBUX	20120607	52.67	52.64	r_down	
+SBUX	20120608	52.64	52.78	r_up	
+SBUX	20120611	52.78	52.04	r_down	
+SBUX	20120612	52.04	52.24	r_up	
+SBUX	20120613	52.24	50.5	r_down	's:2
+SBUX	20120614	50.5	51.54	r_up	
+SBUX	20120615	51.54	51.75	r_up	
+SBUX	20120618	51.75	53.37	r_up	
+SBUX	20120619	53.37	54.29	r_up	
+SBUX	20120620	54.29	54.8	r_up	
+SBUX	20120621	54.8	53.26	r_down	
+SBUX	20120622	53.26	53.82	r_up	
+SBUX	20120625	53.82	52.49	r_down	
+SBUX	20120626	52.49	53.14	r_up	
+SBUX	20120627	53.14	51.96	r_down	
+SBUX	20120628	51.96	51.31	r_down	
+SBUX	20120629	51.31	52.52	r_up	
+SBUX	20120702	52.52	52.0	r_down	
+SBUX	20120703	52.0	51.16	r_down	
+SBUX	20120705	51.16	51.61	r_up	
+SBUX	20120706	51.61	51.19	r_down	
+SBUX	20120709	51.19	51.6	r_up	's:1
+SBUX	20120710	51.6	51.55	r_down	fund:1 bad:1 still:1 bet:1 stock:1
+SBUX	20120711	51.55	51.38	r_down	2nd:1
+SBUX	20120712	51.38	51.89	r_up	2nd:1
+SBUX	20120713	51.89	52.8	r_up	
+SBUX	20120716	52.8	52.1	r_down	
+SBUX	20120717	52.1	52.92	r_up	
+SBUX	20120718	52.92	52.5	r_down	
+SBUX	20120719	52.5	53.39	r_up	
+SBUX	20120720	53.39	51.18	r_down	's:2 23:1 sales:1 shares:1 slowdown:1 skid:1
+SBUX	20120723	51.18	49.84	r_down	bets:1 coffee:1 's:9 $:4 specialty:1 1:4
+SBUX	20120724	49.84	49.72	r_down	
+SBUX	20120725	49.72	49.65	r_down	
+SBUX	20120726	49.65	51.61	r_up	after:1 watch:1 up:1 shares:1 hours:1 slide:1
+SBUX	20120727	51.61	46.76	r_down	1.5:1 second:1 growth:1 short-sale:1 surprises:1 snag:1 advisories:1 biggest:1 has:1 gaining:1 slows:1 after:1 watch:1 falls:1 comeback:1 stocks:1 declining:1 hits:1 breaker:1 futures:1 up:1 circuit:1 quarter:1 trips:1
+SBUX	20120730	46.76	46.18	r_down	
+SBUX	20120731	46.18	44.6	r_down	
+SBUX	20120801	44.6	43.12	r_down	30:1 $:1 500:1
+SBUX	20120802	43.12	42.51	r_down	30:1 its:1 500:1 $:1
+SBUX	20120803	42.51	43.25	r_up	
+SBUX	20120806	43.25	42.99	r_down	
+SBUX	20120807	42.99	44.8	r_up	
+SBUX	20120808	44.8	44.78	r_down	's:1
+SBUX	20120809	44.78	44.6	r_down	
+SBUX	20120810	44.6	45.06	r_up	still:1 dividend-paying:1 best:1 stocks:1
+SBUX	20120813	45.06	45.59	r_up	
+SBUX	20120814	45.59	45.91	r_up	
+SBUX	20120815	45.91	47.56	r_up	
+SBUX	20120816	47.56	47.86	r_up	
+SBUX	20120817	47.86	47.68	r_down	
+SBUX	20120820	47.68	47.51	r_down	
+SBUX	20120821	47.51	47.55	r_up	
+SBUX	20120822	47.55	47.58	r_up	10:1
+SBUX	20120823	47.58	47.36	r_down	
+SBUX	20120824	47.36	48.15	r_up	
+SBUX	20120827	48.15	48.59	r_up	
+SBUX	20120828	48.59	48.81	r_up	
+SBUX	20120829	48.81	48.62	r_down	
+SBUX	20120830	48.62	49.15	r_up	
+SBUX	20120831	49.15	49.05	r_down	
+SBUX	20120904	49.05	48.96	r_down	
+SBUX	20120905	48.96	49.24	r_up	
+SBUX	20120906	49.24	50.27	r_up	
+SBUX	20120907	50.27	50.6	r_up	
+SBUX	20120910	50.6	50.26	r_down	
+SBUX	20120911	50.26	50.16	r_down	
+SBUX	20120912	50.16	50.6	r_up	
+SBUX	20120913	50.6	51.14	r_up	's:1
+SBUX	20120914	51.14	49.89	r_down	
+SBUX	20120917	49.89	49.1	r_down	
+SBUX	20120918	49.1	48.7	r_down	
+SBUX	20120919	48.7	49.55	r_up	
+SBUX	20120920	49.55	50.62	r_up	gaining:1 coffee:1 cities:1 these:1 poorest:1 richest:1 back:1 beer:1 income:1 biggest:1 stocks:2 declining:1
+SBUX	20120921	50.62	50.5	r_down	gaining:1 instant:1 no:1 surprises:1 watch:1 bargain:1 latte:1 brew:1 advisories:1 biggest:1 stocks:1 declining:1
+SBUX	20120924	50.5	50.59	r_up	
+SBUX	20120925	50.59	49.96	r_down	
+SBUX	20120926	49.96	49.54	r_down	
+SBUX	20120927	49.54	50.47	r_up	
+SBUX	20120928	50.47	50.14	r_down	
+SBUX	20121001	50.14	49.59	r_down	give:1 funds:1 cash:1 lift:1 international:1 profits:1 stock:1
+SBUX	20121002	49.59	48.75	r_down	
+SBUX	20121003	48.75	48.94	r_up	's:1
+SBUX	20121004	48.94	48.55	r_down	
+SBUX	20121005	48.55	48.19	r_down	
+SBUX	20121008	48.19	48.21	r_up	
+SBUX	20121009	48.21	46.82	r_down	
+SBUX	20121010	46.82	46.42	r_down	
+SBUX	20121011	46.42	46.63	r_up	
+SBUX	20121012	46.63	46.65	r_up	's:4
+SBUX	20121015	46.65	47.14	r_up	
+SBUX	20121016	47.14	48.41	r_up	
+SBUX	20121017	48.41	47.85	r_down	
+SBUX	20121018	47.85	46.88	r_down	
+SBUX	20121019	46.88	45.18	r_down	
+SBUX	20121022	45.18	44.79	r_down	
+SBUX	20121023	44.79	44.47	r_down	
+SBUX	20121024	44.47	44.75	r_up	its:1
+SBUX	20121025	44.75	45.73	r_up	
+SBUX	20121026	45.73	45.36	r_down	's:1
+SBUX	20121031	45.36	45.39	r_up	
+SBUX	20121101	45.39	46.1	r_up	surprises:1 250:1 advisories:1 earnings:1
+SBUX	20121102	46.1	50.27	r_up	after:1 jobs:1 movers:1 top:1 futures:1 shares:1 forecast:1 hours:1 5:1 swing:1 biggest:1 climb:1 7.9:1 jumps:1 higher:1
+SBUX	20121105	50.27	50.44	r_up	3.7:2 2007:3
+SBUX	20121106	50.44	51.13	r_up	
+SBUX	20121107	51.13	51.23	r_up	
+SBUX	20121108	51.23	50.29	r_down	
+SBUX	20121109	50.29	50.39	r_up	
+SBUX	20121112	50.39	50.11	r_down	
+SBUX	20121113	50.11	49.95	r_down	
+SBUX	20121114	49.95	48.49	r_down	620:4 $:4
+SBUX	20121115	48.49	48.09	r_down	620:1 $:1
+SBUX	20121116	48.09	48.41	r_up	25:2 futures:1 watch:1 up:1 reported:1 sequester:1 plan:1
+SBUX	20121119	48.41	49.39	r_up	
+SBUX	20121120	49.39	49.7	r_up	
+SBUX	20121121	49.7	50.15	r_up	
+SBUX	20121123	50.15	50.83	r_up	most:1 workers:1 12:1 companies:1 minimum-wage:1
+SBUX	20121126	50.83	50.53	r_down	
+SBUX	20121127	50.53	49.85	r_down	
+SBUX	20121128	49.85	51.01	r_up	
+SBUX	20121129	51.01	51.43	r_up	things:1 into:1 wallets:1 're:1 5:1 know:1 digital:1
+SBUX	20121130	51.43	51.5	r_up	10:1 26:1 's:1 top:1 30:1 stories:1
+SBUX	20121203	51.5	51.42	r_down	's:2
+SBUX	20121204	51.42	50.76	r_down	
+SBUX	20121205	50.76	50.43	r_down	deals:1 reeling:1 meal:1 send:1 stock:1
+SBUX	20121206	50.43	53.32	r_up	coffee:1 's:1 $:1 57:1 2:1 7:1 worth:1 really:1
+SBUX	20121207	53.32	53.26	r_down	biggest:1 movers:1 jumps:1 's:1 10:1
+SBUX	20121210	53.26	52.58	r_down	
+SBUX	20121211	52.58	52.81	r_up	's:1
+SBUX	20121212	52.81	53.22	r_up	
+SBUX	20121213	53.22	52.8	r_down	
+SBUX	20121214	52.8	52.98	r_up	
+SBUX	20121217	52.98	54.19	r_up	crunch:1 now:1 money:1 true-blue:1 5:1 bull:1 making:1 moves:1
+SBUX	20121218	54.19	53.95	r_down	
+SBUX	20121219	53.95	53.89	r_down	
+SBUX	20121220	53.89	53.83	r_down	20:1
+SBUX	20121221	53.83	53.22	r_down	10:1 money-making:1 's:2 ideas:1 investment:1 2013:1
+SBUX	20121224	53.22	53.31	r_up	
+SBUX	20121226	53.31	52.75	r_down	26:1 vs.:3
+SBUX	20121227	52.75	52.86	r_up	
+SBUX	20121228	52.86	52.27	r_down	
+SBUX	20121231	52.27	53.25	r_up	
+SBUX	20130102	53.25	54.61	r_up	2013:2
+SBUX	20130103	54.61	54.98	r_up	3:1
+SBUX	20130104	54.98	55.3	r_up	's:1
+SBUX	20130107	55.3	55.32	r_up	
+SBUX	20130108	55.32	55.23	r_down	
+SBUX	20130109	55.23	54.24	r_down	
+SBUX	20130110	54.24	54.15	r_down	
+SBUX	20130111	54.15	54.62	r_up	's:1
+SBUX	20130114	54.62	54.28	r_down	‘mini:1 gather:1 industry’s:1 14:1
+SBUX	20130115	54.28	54.09	r_down	
+SBUX	20130116	54.09	53.96	r_down	
+SBUX	20130117	53.96	54.11	r_up	into:1
+SBUX	20130118	54.11	54.42	r_up	
+SBUX	20130122	54.42	54.6	r_up	
+SBUX	20130123	54.6	54.07	r_down	's:1
+SBUX	20130124	54.07	54.18	r_up	13:1 earnings:1
+SBUX	20130125	54.18	56.41	r_up	after:1 's:1 gains:1 ahead:1 futures:1 up:1 reports:1 expectations:1 hours:1 home-sales:1 shares:1 fall:1 earnings:1
+SBUX	20130128	56.41	55.62	r_down	
+SBUX	20130129	55.62	55.21	r_down	's:1
+SBUX	20130130	55.21	55.6	r_up	
+SBUX	20130131	55.6	55.72	r_up	25:1
+SBUX	20130201	55.72	56.46	r_up	
+SBUX	20130204	56.46	55.69	r_down	
+SBUX	20130205	55.69	56.01	r_up	
+SBUX	20130206	56.01	55.86	r_down	but:1
+SBUX	20130207	55.86	55.67	r_down	
+SBUX	20130208	55.67	56.18	r_up	
+SBUX	20130211	56.18	55.95	r_down	
+SBUX	20130212	55.95	56.07	r_up	's:2
+SBUX	20130213	56.07	55.64	r_down	
+SBUX	20130214	55.64	55.36	r_down	's:1
+SBUX	20130215	55.36	54.16	r_down	101:1
+SBUX	20130219	54.16	54.27	r_up	
+SBUX	20130220	54.27	53.13	r_down	
+SBUX	20130221	53.13	53.17	r_up	coffee:1 half:1 full:1 cup:1
+SBUX	20130222	53.17	53.99	r_up	's:1
+SBUX	20130225	53.99	53.03	r_down	
+SBUX	20130226	53.03	53.1	r_up	
+SBUX	20130227	53.1	54.39	r_up	
+SBUX	20130228	54.39	54.67	r_up	10.3:1 's:1 $:1
+SBUX	20130301	54.67	54.69	r_up	
+SBUX	20130304	54.69	55.51	r_up	lesson:1
+SBUX	20130305	55.51	56.32	r_up	
+SBUX	20130306	56.32	56.91	r_up	
+SBUX	20130307	56.91	58.05	r_up	
+SBUX	20130308	58.05	58.47	r_up	2.6:1 2.4:1
+SBUX	20130311	58.47	58.41	r_down	
+SBUX	20130312	58.41	58.08	r_down	
+SBUX	20130313	58.08	58.39	r_up	coming:1 investors:1 after:1 countries:1
+SBUX	20130314	58.39	57.49	r_down	
+SBUX	20130315	57.49	57.47	r_down	
+SBUX	20130318	57.47	56.74	r_down	
+SBUX	20130319	56.74	56.64	r_down	
+SBUX	20130320	56.64	57.24	r_up	
+SBUX	20130321	57.24	56.86	r_down	
+SBUX	20130322	56.86	57.19	r_up	
+SBUX	20130325	57.19	56.5	r_down	
+SBUX	20130326	56.5	56.86	r_up	
+SBUX	20130327	56.86	56.72	r_down	movers:1 jumps:1 500:1 lead:1
+SBUX	20130328	56.72	56.76	r_up	
+SBUX	20130401	56.76	56.68	r_down	
+SBUX	20130402	56.68	58.06	r_up	
+SBUX	20130403	58.06	57.51	r_down	
+SBUX	20130404	57.51	57.91	r_up	100:2
+SBUX	20130405	57.91	57.61	r_down	
+SBUX	20130408	57.61	57.92	r_up	
+SBUX	20130409	57.92	57.22	r_down	
+SBUX	20130410	57.22	57.61	r_up	failed:1 magic:1
+SBUX	20130411	57.61	58.38	r_up	's:2
+SBUX	20130412	58.38	58.89	r_up	
+SBUX	20130415	58.89	57.52	r_down	's:1
+SBUX	20130416	57.52	58.36	r_up	
+SBUX	20130417	58.36	57.97	r_down	
+SBUX	20130418	57.97	57.53	r_down	
+SBUX	20130419	57.53	58.2	r_up	
+SBUX	20130422	58.2	58.44	r_up	
+SBUX	20130423	58.44	59.19	r_up	
+SBUX	20130424	59.19	59.63	r_up	
+SBUX	20130425	59.63	60.3	r_up	's:1 gains:1 futures:1 watch:1 n't:1 add:1 jobless:1 p.m:1 claims:1 stocks:1 stock:1
+SBUX	20130426	60.3	59.8	r_down	after:1 extend:1 surprises:1 losses:1 watch:1 stocks:1 trade:1 late:1 advisories:1 fall:1 stock:1 data:1 futures:1
+SBUX	20130429	59.8	60.38	r_up	
+SBUX	20130430	60.38	60.64	r_up	3:1
+SBUX	20130501	60.64	59.94	r_down	away:1 sin:1
+SBUX	20130502	59.94	60.18	r_up	's:1
+SBUX	20130503	60.18	61.66	r_up	
+SBUX	20130506	61.66	62.27	r_up	
+SBUX	20130507	62.27	62.19	r_down	
+SBUX	20130508	62.19	62.41	r_up	hours:1 rally:1 after:1 but:1 shares:1
+SBUX	20130509	62.41	62.36	r_down	drop:1 run:1 after:1 watch:1 record:1 stock:1 stocks:1 futures:1
+SBUX	20130510	62.36	63.1	r_up	albatross:1 stocks:1 gains:1 movers:2 watch:1 notch:1 weekly:1
+SBUX	20130513	63.1	62.82	r_down	
+SBUX	20130514	62.82	63.52	r_up	
+SBUX	20130515	63.52	64.07	r_up	
+SBUX	20130516	64.07	63.55	r_down	's:1
+SBUX	20130517	63.55	64.13	r_up	
+SBUX	20130520	64.13	63.83	r_down	
+SBUX	20130521	63.83	64.25	r_up	
+SBUX	20130522	64.25	64.15	r_down	
+SBUX	20130523	64.15	63.52	r_down	10:1 short:1 big:1 squeezes:1 brands:1 besides:1 popular:1
+SBUX	20130524	63.52	63.36	r_down	
+SBUX	20130528	63.36	64.26	r_up	
+SBUX	20130529	64.26	63.63	r_down	
+SBUX	20130530	63.63	63.47	r_down	
+SBUX	20130531	63.47	63.14	r_down	2013:1
+SBUX	20130603	63.14	63.46	r_up	
+SBUX	20130604	63.46	63.33	r_down	's:1
+SBUX	20130605	63.33	62.34	r_down	's:1
+SBUX	20130606	62.34	63.02	r_up	3:1
+SBUX	20130607	63.02	65.04	r_up	
+SBUX	20130610	65.04	66.11	r_up	
+SBUX	20130611	66.11	65.42	r_down	
+SBUX	20130612	65.42	64.45	r_down	n't:1 's:1
+SBUX	20130613	64.45	65.97	r_up	over:1 avoidance:1 tax:1
+SBUX	20130614	65.97	65.6	r_down	
+SBUX	20130617	65.6	66.03	r_up	--:1 's:1 2013:1
+SBUX	20130618	66.03	67.1	r_up	
+SBUX	20130619	67.1	66.41	r_down	movers:1 record:1 hits:1 high:1
+SBUX	20130620	66.41	65.22	r_down	
+SBUX	20130621	65.22	64.69	r_down	

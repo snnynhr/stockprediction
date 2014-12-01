@@ -1,0 +1,307 @@
+QCOM	20120402	66.61	66.86	r_up	tech:1 than:1 more:1
+QCOM	20120403	66.86	66.68	r_down	
+QCOM	20120404	66.68	65.95	r_down	
+QCOM	20120405	65.95	65.76	r_down	test:1 launch:1 's:1 faces:1
+QCOM	20120409	65.76	65.08	r_down	
+QCOM	20120410	65.08	64.81	r_down	
+QCOM	20120411	64.81	64.81	r_up	's:1
+QCOM	20120412	64.81	66.87	r_up	
+QCOM	20120413	66.87	65.25	r_down	losers:1 winners:1 spot:1 tech’s:1
+QCOM	20120416	65.25	64.84	r_down	
+QCOM	20120417	64.84	65.8	r_up	
+QCOM	20120418	65.8	65.56	r_down	surprises:1 advisories:1 watch:1
+QCOM	20120419	65.56	61.22	r_down	gaining:1 hits:1 after:1 lead:1 declines:1 watch:1 surges:1 results:1 up:1 shares:2 forecast:1 hours:1 slide:1 tech:1 sink:1 biggest:1 disappoint:1 stocks:2 targets:1 declining:1 beats:1
+QCOM	20120420	61.22	60.92	r_down	big:1 see:1 quarter:1 another:1
+QCOM	20120423	60.92	60.25	r_down	
+QCOM	20120424	60.25	60.54	r_up	slides:1 ``:1 says:1 600:1 top:1 after:1 '':1 sales:1 shares:1 surge:1 hours:1 earnings:1 above:1 target:1 $:1
+QCOM	20120425	60.54	61.91	r_up	losses:1 lead:1 may:1 surprises:1 after:1 bounce:1 tech-sector:1 see:1 advisories:1 lull:1 earnings:1
+QCOM	20120426	61.91	62.55	r_up	's:1
+QCOM	20120427	62.55	62.81	r_up	
+QCOM	20120430	62.81	62.47	r_down	
+QCOM	20120501	62.47	62.28	r_down	
+QCOM	20120502	62.28	62.87	r_up	
+QCOM	20120503	62.87	62.19	r_down	
+QCOM	20120504	62.19	60.59	r_down	
+QCOM	20120507	60.59	60.6	r_up	
+QCOM	20120508	60.6	61.33	r_up	
+QCOM	20120509	61.33	60.69	r_down	
+QCOM	20120510	60.69	61.15	r_up	
+QCOM	20120511	61.15	60.54	r_down	may:1 smartphones:1 tougher:1 's:1 get:1
+QCOM	20120514	60.54	60.15	r_down	
+QCOM	20120515	60.15	60.13	r_down	billion:1 $:1 may:1 top:1 cap:1 100:1 market:1
+QCOM	20120516	60.13	57.85	r_down	's:1
+QCOM	20120517	57.85	55.94	r_down	
+QCOM	20120518	55.94	54.79	r_down	
+QCOM	20120521	54.79	56.0	r_up	jumps:1 reports:1 bullish:1
+QCOM	20120522	56.0	56.69	r_up	
+QCOM	20120523	56.69	56.9	r_up	
+QCOM	20120524	56.9	55.93	r_down	165:1 's:2 $:1 49:2
+QCOM	20120525	55.93	56.1	r_up	
+QCOM	20120529	56.1	57.14	r_up	
+QCOM	20120530	57.14	56.47	r_down	
+QCOM	20120531	56.47	56.33	r_down	
+QCOM	20120601	56.33	54.18	r_down	
+QCOM	20120604	54.18	54.89	r_up	
+QCOM	20120605	54.89	56.2	r_up	8:1
+QCOM	20120606	56.2	57.4	r_up	
+QCOM	20120607	57.4	57.01	r_down	
+QCOM	20120608	57.01	57.75	r_up	
+QCOM	20120611	57.75	56.8	r_down	--:1 's:1 2012:1
+QCOM	20120612	56.8	58.38	r_up	
+QCOM	20120613	58.38	57.93	r_down	
+QCOM	20120614	57.93	55.82	r_down	
+QCOM	20120615	55.82	55.53	r_down	2.39:1 's:1 $:1
+QCOM	20120618	55.53	55.8	r_up	
+QCOM	20120619	55.8	56.04	r_up	's:1
+QCOM	20120620	56.04	56.02	r_down	8:1 platform:1 debuts:1
+QCOM	20120621	56.02	54.19	r_down	
+QCOM	20120622	54.19	54.69	r_up	
+QCOM	20120625	54.69	52.64	r_down	
+QCOM	20120626	52.64	53.0	r_up	
+QCOM	20120627	53.0	53.97	r_up	
+QCOM	20120628	53.97	53.37	r_down	surprises:1 advisories:1
+QCOM	20120629	53.37	54.73	r_up	tech:1 's:1 retreat:1 lead:1
+QCOM	20120702	54.73	54.72	r_down	
+QCOM	20120703	54.72	55.3	r_up	
+QCOM	20120705	55.3	55.29	r_down	
+QCOM	20120706	55.29	54.36	r_down	
+QCOM	20120709	54.36	54.37	r_up	
+QCOM	20120710	54.37	54.22	r_down	
+QCOM	20120711	54.22	53.44	r_down	
+QCOM	20120712	53.44	52.81	r_down	
+QCOM	20120713	52.81	54.04	r_up	
+QCOM	20120716	54.04	53.43	r_down	
+QCOM	20120717	53.43	53.53	r_up	
+QCOM	20120718	53.53	55.09	r_up	gloom:1 17:1 bottom:1 amid:1 watch:1 rally:1 stocks:1
+QCOM	20120719	55.09	57.44	r_up	smartphone:1 's:1 advisories:1 17:1 deck:1 launches:1 after:1 results:1 shares:1 trade:1 hours:1 banking:1 'on:1 surprises:1 further:1 surge:1 higher:1
+QCOM	20120720	57.44	56.69	r_down	surprises:1 advisories:1 lift:1 5:1 tech:1 stocks:1
+QCOM	20120723	56.69	56.34	r_down	
+QCOM	20120724	56.34	55.82	r_down	
+QCOM	20120725	55.82	56.3	r_up	3:1
+QCOM	20120726	56.3	57.21	r_up	
+QCOM	20120727	57.21	58.32	r_up	
+QCOM	20120730	58.32	58.14	r_down	
+QCOM	20120731	58.14	58.66	r_up	
+QCOM	20120801	58.66	58.5	r_down	
+QCOM	20120802	58.5	57.87	r_down	
+QCOM	20120803	57.87	59.21	r_up	
+QCOM	20120806	59.21	59.1	r_down	
+QCOM	20120807	59.1	60.29	r_up	
+QCOM	20120808	60.29	60.4	r_up	
+QCOM	20120809	60.4	60.94	r_up	
+QCOM	20120810	60.94	60.92	r_down	
+QCOM	20120813	60.92	61.04	r_up	
+QCOM	20120814	61.04	61.32	r_up	
+QCOM	20120815	61.32	61.45	r_up	plunge:1 slump:1 techs:1
+QCOM	20120816	61.45	61.5	r_up	
+QCOM	20120817	61.5	62.21	r_up	
+QCOM	20120820	62.21	61.72	r_down	
+QCOM	20120821	61.72	61.02	r_down	
+QCOM	20120822	61.02	61.1	r_up	
+QCOM	20120823	61.1	60.98	r_down	its:1
+QCOM	20120824	60.98	61.36	r_up	its:1
+QCOM	20120827	61.36	61.3	r_down	
+QCOM	20120828	61.3	60.95	r_down	
+QCOM	20120829	60.95	61.05	r_up	
+QCOM	20120830	61.05	60.15	r_down	smartphone:1 may:2 launches:1 climax:1 5:1 storm:1 constrain:1
+QCOM	20120831	60.15	60.41	r_up	
+QCOM	20120904	60.41	59.77	r_down	
+QCOM	20120905	59.77	59.89	r_up	sends:1 ride:1 bumpy:1 8:3 chips:1 market:1
+QCOM	20120906	59.89	61.8	r_up	shine:1 off:1 selloff:1 takes:1
+QCOM	20120907	61.8	61.12	r_down	better:1 mobile:1 busy:1 get:1
+QCOM	20120910	61.12	60.49	r_down	
+QCOM	20120911	60.49	61.04	r_up	brighter:1 chip:1 makers:1 halo:1 getting:1
+QCOM	20120912	61.04	61.62	r_up	5:1
+QCOM	20120913	61.62	63.02	r_up	
+QCOM	20120914	63.02	64.03	r_up	
+QCOM	20120917	64.03	63.96	r_down	
+QCOM	20120918	63.96	64.23	r_up	
+QCOM	20120919	64.23	64.23	r_up	
+QCOM	20120920	64.23	63.51	r_down	
+QCOM	20120921	63.51	63.43	r_down	5:1
+QCOM	20120924	63.43	62.84	r_down	
+QCOM	20120925	62.84	61.91	r_down	5:1 's:1
+QCOM	20120926	61.91	61.51	r_down	tablets:1 future:1 rethinks:1 smartphones:1
+QCOM	20120927	61.51	62.66	r_up	
+QCOM	20120928	62.66	61.65	r_down	
+QCOM	20121001	61.65	61.1	r_down	
+QCOM	20121002	61.1	60.98	r_down	
+QCOM	20121003	60.98	61.26	r_up	
+QCOM	20121004	61.26	61.83	r_up	
+QCOM	20121005	61.83	61.82	r_down	
+QCOM	20121008	61.82	60.6	r_down	
+QCOM	20121009	60.6	59.6	r_down	
+QCOM	20121010	59.6	59.0	r_down	
+QCOM	20121011	59.0	58.44	r_down	
+QCOM	20121012	58.44	58.12	r_down	8:1
+QCOM	20121015	58.12	58.51	r_up	
+QCOM	20121016	58.51	59.57	r_up	
+QCOM	20121017	59.57	60.18	r_up	
+QCOM	20121018	60.18	59.18	r_down	
+QCOM	20121019	59.18	57.98	r_down	
+QCOM	20121022	57.98	57.91	r_down	's:1
+QCOM	20121023	57.91	57.55	r_down	
+QCOM	20121024	57.55	56.88	r_down	
+QCOM	20121025	56.88	56.68	r_down	
+QCOM	20121026	56.68	58.27	r_up	's:1
+QCOM	20121031	58.27	57.84	r_down	
+QCOM	20121101	57.84	58.95	r_up	
+QCOM	20121102	58.95	58.52	r_down	
+QCOM	20121105	58.52	59.64	r_up	movers:1 big:1 retreats:1 9:1 soars:1
+QCOM	20121106	59.64	59.58	r_down	
+QCOM	20121107	59.58	57.36	r_down	outlook:1 strong:1 20:2 lift:1 trading:1 4:1 after-hours:1 's:1 shines:1 gets:1 earnings:1
+QCOM	20121108	57.36	59.88	r_up	helped:1 close:1 again:1 20:1 surprises:1 advisories:1 low:1 biggest:1 stock:1 gains:1 big:1 after:1 slump:1 falls:1 5-month:1 ties:1 hurt:1 data:1 movers:1 futures:1 up:1 slide:1 tech:1 mildly:1
+QCOM	20121109	59.88	60.81	r_up	sinks:1 rise:1 but:1 121:1 further:1 stocks:1
+QCOM	20121112	60.81	60.81	r_up	
+QCOM	20121113	60.81	61.32	r_up	
+QCOM	20121114	61.32	60.92	r_down	stocks:1 recent:1 nose:1 after:1 higher:1
+QCOM	20121115	60.92	60.48	r_down	
+QCOM	20121116	60.48	61.12	r_up	had:1 companies:1 didn’t:1 much:1 so:1 know:1 money:1 8:1 you:1
+QCOM	20121119	61.12	61.28	r_up	
+QCOM	20121120	61.28	61.33	r_up	n't:1
+QCOM	20121121	61.33	61.33	r_up	
+QCOM	20121123	61.33	62.3	r_up	
+QCOM	20121126	62.3	61.67	r_down	
+QCOM	20121127	61.67	61.45	r_down	vs.:1
+QCOM	20121128	61.45	61.83	r_up	
+QCOM	20121129	61.83	62.52	r_up	advance:1 's:1 deal:1 'cliff:1 optimism:1 ‘cliff’:1 stocks:1
+QCOM	20121130	62.52	62.79	r_up	
+QCOM	20121203	62.79	62.54	r_down	
+QCOM	20121204	62.54	62.64	r_up	lower:1 $:2 mostly:1 disappoint:1 stocks:1 data:1
+QCOM	20121205	62.64	63.05	r_up	slips:1 's:1 gains:2 lift:1 tech:1 leaders’:1 remarks:1 stocks:1 boost:1
+QCOM	20121206	63.05	63.61	r_up	
+QCOM	20121207	63.61	63.27	r_down	
+QCOM	20121210	63.27	63.34	r_up	's:1
+QCOM	20121211	63.34	63.76	r_up	
+QCOM	20121212	63.76	62.91	r_down	
+QCOM	20121213	62.91	62.18	r_down	
+QCOM	20121214	62.18	59.28	r_down	's:1
+QCOM	20121217	59.28	61.47	r_up	2013:1
+QCOM	20121218	61.47	62.78	r_up	's:1 2013:1
+QCOM	20121219	62.78	61.98	r_down	
+QCOM	20121220	61.98	62.28	r_up	
+QCOM	20121221	62.28	61.04	r_down	10:1 money-making:1 investment:1 2013:1 ideas:1
+QCOM	20121224	61.04	61.33	r_up	
+QCOM	20121226	61.33	61.03	r_down	
+QCOM	20121227	61.03	60.95	r_down	
+QCOM	20121228	60.95	60.08	r_down	
+QCOM	20121231	60.08	61.29	r_up	
+QCOM	20130102	61.29	64.16	r_up	've:1
+QCOM	20130103	64.16	63.86	r_down	
+QCOM	20130104	63.86	62.92	r_down	major:1 watch:1 focus:1 n't:1 tablets:1 preview:1
+QCOM	20130107	62.92	63.42	r_up	smartphones:1 's:2 takes:1 sharper:1 week’s:1 after:1 watch:1 aim:1 kicks:1 off:1 climb:1 stocks:1 retreat:1 last:1
+QCOM	20130108	63.42	63.32	r_down	ahead:1 jumps:1 futures:1 results:1 shares:1 down:1 edge:1 slip:1
+QCOM	20130109	63.32	64.28	r_up	
+QCOM	20130110	64.28	64.19	r_down	
+QCOM	20130111	64.19	64.3	r_up	
+QCOM	20130114	64.3	63.65	r_down	$:2 500:2
+QCOM	20130115	63.65	63.85	r_up	
+QCOM	20130116	63.85	64.2	r_up	made:1 fewer:1 should:1 bulls:1 chips:1 hope:1
+QCOM	20130117	64.2	64.54	r_up	's:1
+QCOM	20130118	64.54	64.09	r_down	
+QCOM	20130122	64.09	64.09	r_up	
+QCOM	20130123	64.09	64.29	r_up	
+QCOM	20130124	64.29	63.81	r_down	's:1
+QCOM	20130125	63.81	63.08	r_down	hits:1 suppliers:1 sneeze:1 chip:1 shares:1
+QCOM	20130128	63.08	63.09	r_up	
+QCOM	20130129	63.09	62.87	r_down	
+QCOM	20130130	62.87	62.95	r_up	jump:1 named:1 futures:1 's:1 surprises:1 after:1 36:1 shares:1 swing:1 hours:1 advisories:1 growth:1 earnings:2 66:1 wildly:1 new:1 fall:1 weakens:1
+QCOM	20130131	62.95	65.41	r_up	futures:1 's:1 drop:1 but:1 1989:5 data:1 stock-index:1 after:1
+QCOM	20130201	65.41	66.12	r_up	slips:1 weighs:1 24:1 's:1 gains:1 techs:1 market’s:1 surprises:1 late:1 advisories:1 fall:1 trims:1 stock:1
+QCOM	20130204	66.12	65.04	r_down	
+QCOM	20130205	65.04	66.34	r_up	mark:1 14,000:1 back:1 another:1 crack:1
+QCOM	20130206	66.34	66.56	r_up	over:1 picked:1
+QCOM	20130207	66.56	65.93	r_down	
+QCOM	20130208	65.93	66.34	r_up	
+QCOM	20130211	66.34	66.56	r_up	reform:1 immigration:1 trade:1
+QCOM	20130212	66.56	65.29	r_down	
+QCOM	20130213	65.29	64.85	r_down	drag:1 stocks:1 tech:1 lead:1
+QCOM	20130214	64.85	64.93	r_up	
+QCOM	20130215	64.93	64.83	r_down	investing:1 end:1 era:1
+QCOM	20130219	64.83	65.07	r_up	
+QCOM	20130220	65.07	64.67	r_down	
+QCOM	20130221	64.67	64.23	r_down	
+QCOM	20130222	64.23	64.34	r_up	
+QCOM	20130225	64.34	64.21	r_down	
+QCOM	20130226	64.21	64.67	r_up	's:2
+QCOM	20130227	64.67	65.04	r_up	+:1
+QCOM	20130228	65.04	65.04	r_up	2013:1
+QCOM	20130301	65.04	65.69	r_up	
+QCOM	20130304	65.69	66.02	r_up	
+QCOM	20130305	66.02	67.35	r_up	closing:1 's:1 gains:1 lead:1 all-time:1 movers:1 top:1 high:1 record:1 propels:1 new:1 poised:1 strong:1 tech:1
+QCOM	20130306	67.35	66.3	r_down	record:1 rally:1 lifts:1 finish:1 stock:1
+QCOM	20130307	66.3	66.42	r_up	
+QCOM	20130308	66.42	66.28	r_down	
+QCOM	20130311	66.28	66.33	r_up	
+QCOM	20130312	66.33	66.67	r_up	
+QCOM	20130313	66.67	66.38	r_down	's:1
+QCOM	20130314	66.38	66.2	r_down	
+QCOM	20130315	66.2	64.61	r_down	5:1 's:1 4:1
+QCOM	20130318	64.61	64.2	r_down	's:1
+QCOM	20130319	64.2	64.36	r_up	
+QCOM	20130320	64.36	65.38	r_up	
+QCOM	20130321	65.38	64.99	r_down	
+QCOM	20130322	64.99	65.56	r_up	's:1 4:1
+QCOM	20130325	65.56	65.31	r_down	
+QCOM	20130326	65.31	66.25	r_up	
+QCOM	20130327	66.25	66.31	r_up	
+QCOM	20130328	66.31	66.57	r_up	
+QCOM	20130401	66.57	65.64	r_down	leads:1 slump:1 rise:1 tech:1
+QCOM	20130402	65.64	65.88	r_up	
+QCOM	20130403	65.88	65.61	r_down	
+QCOM	20130404	65.61	65.45	r_down	
+QCOM	20130405	65.45	64.8	r_down	
+QCOM	20130408	64.8	65.5	r_up	but:1
+QCOM	20130409	65.5	65.6	r_up	
+QCOM	20130410	65.6	66.92	r_up	
+QCOM	20130411	66.92	66.66	r_down	shift:1 clarity:1 looming:1 no:1
+QCOM	20130412	66.66	66.31	r_down	
+QCOM	20130415	66.31	65.13	r_down	
+QCOM	20130416	65.13	65.45	r_up	slips:1 making:1 sees:1 but:1 comeback:1
+QCOM	20130417	65.45	63.88	r_down	$:1 400:1
+QCOM	20130418	63.88	63.29	r_down	
+QCOM	20130419	63.29	63.58	r_up	can’t:1 10:1 forecaster:1 four-year:1 afford:1 tech:1 best:1 you:1 miss:1 market:1 earnings:1
+QCOM	20130422	63.58	64.22	r_up	133:1 $:1
+QCOM	20130423	64.22	64.99	r_up	's:1
+QCOM	20130424	64.99	65.64	r_up	among:1 surprises:1 watch:1 after-hour:1 n't:2 advisories:1 tech:1 decliners:1
+QCOM	20130425	65.64	62.1	r_down	24:1 disappoints:1 revenues:1 movers:1 tweet:1 watch:1 forecast:1 surge:1 pops:1 tech:1 weigh:1 stocks:2
+QCOM	20130426	62.1	61.18	r_down	leads:1 ``:1 ahead:1 surprises:1 up:1 results:1 '':1 advisories:1 tech:1 stocks:1 its:1
+QCOM	20130429	61.18	61.27	r_up	
+QCOM	20130430	61.27	61.26	r_down	's:1
+QCOM	20130501	61.26	61.58	r_up	
+QCOM	20130502	61.58	62.54	r_up	tech:1 rises:1 spur:1 gains:1
+QCOM	20130503	62.54	63.42	r_up	insider:1 names:1 new:1
+QCOM	20130506	63.42	63.51	r_up	's:1 500:1
+QCOM	20130507	63.51	63.62	r_up	
+QCOM	20130508	63.62	63.77	r_up	push:1 curb:1 tries:1 's:1 4:1
+QCOM	20130509	63.77	63.76	r_down	30,000:1
+QCOM	20130510	63.76	64.28	r_up	
+QCOM	20130513	64.28	64.46	r_up	
+QCOM	20130514	64.46	64.96	r_up	
+QCOM	20130515	64.96	65.18	r_up	's:1
+QCOM	20130516	65.18	65.28	r_up	
+QCOM	20130517	65.28	66.24	r_up	
+QCOM	20130520	66.24	65.74	r_down	
+QCOM	20130521	65.74	65.4	r_down	
+QCOM	20130522	65.4	64.87	r_down	
+QCOM	20130523	64.87	63.56	r_down	
+QCOM	20130524	63.56	63.91	r_up	
+QCOM	20130528	63.91	63.72	r_down	
+QCOM	20130529	63.72	63.76	r_up	
+QCOM	20130530	63.76	63.83	r_up	
+QCOM	20130531	63.83	63.13	r_down	
+QCOM	20130603	63.13	63.23	r_up	10.1:1
+QCOM	20130604	63.23	63.71	r_up	
+QCOM	20130605	63.71	63.15	r_down	
+QCOM	20130606	63.15	62.97	r_down	
+QCOM	20130607	62.97	62.1	r_down	movers:1 tops:1 500:1
+QCOM	20130610	62.1	62.03	r_down	
+QCOM	20130611	62.03	61.66	r_down	
+QCOM	20130612	61.66	61.11	r_down	
+QCOM	20130613	61.11	61.96	r_up	
+QCOM	20130614	61.96	61.38	r_down	
+QCOM	20130617	61.38	62.07	r_up	
+QCOM	20130618	62.07	62.38	r_up	
+QCOM	20130619	62.38	61.91	r_down	
+QCOM	20130620	61.91	60.92	r_down	
+QCOM	20130621	60.92	60.67	r_down	

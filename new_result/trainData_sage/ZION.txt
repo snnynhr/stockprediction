@@ -1,0 +1,232 @@
+stock_ZION r_down	bin:1 through:1 sifts:1 bargain:1 financials:1
+stock_ZION r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_ZION r_up	gaining:1 's:1 $:2 watch:1 biggest:1 stocks:1 declining:1
+stock_ZION r_down	trades:1 results:1 up:1 mixed:1 see:1 banks:1
+stock_ZION r_down	weighs:1 's:1
+stock_ZION r_down	banks:1 better:1 customers:1 serve:1
+stock_ZION r_down	n't:1 2nd:2
+stock_ZION r_down	down:1 sector:1 ends:1 along:1
+stock_ZION r_down	rattle:1 sector:1 job:1 help:1 cuts:1
+stock_ZION r_up	n't:1
+stock_ZION r_down	sector:1 holds:1 says:1 raise:1 wo:1 after:1 steady:1 n't:1 cut:1 rates:1 capital:1 banks:1 dividend:1 buoy:1
+stock_ZION r_up	gains:1 power:1 manager:1 looks:1 stocks:1 technology:1
+stock_ZION r_down	lower:1 jobs:1 hike:1 rate:1 end:1 data:1
+stock_ZION r_down	ratings:1 lower:1 has:1 financial-services:1 drop:1 estimates:1 leads:1 analysts:1 revising:1 changing:1 stocks:1
+stock_ZION r_up	's:1 $:2
+stock_ZION r_down	plunge:1 investors:1 mull:1 next:1 potential:1 stocks:1 casualty:1
+stock_ZION r_up	55:1 surprises:1 advisories:1 focus:1
+stock_ZION r_down	gaining:1 's:1 lead:1 into:1 second:1 biggest:1 rally:1 stocks:1 day:1 declining:1
+stock_ZION r_up	's:1 bargains:1 55:1 basement:1 market:1 stock:1
+stock_ZION r_down	leads:1 sector:1 into:1 financial:1 red:1
+stock_ZION r_down	led:1 lower:1 end:1 500:1
+stock_ZION r_up	beat:1 down:1 shares:1 bank:1
+stock_ZION r_down	down:1 plummet:1 dragging:1 financials:1
+stock_ZION r_up	regional:1 leads:1 2:4 6:2 banks:1 rally:1
+stock_ZION r_down	2:2 6:1
+stock_ZION r_up	$:1
+stock_ZION r_down	bears:1 upper:1 technically:1 gain:1 hand:1
+stock_ZION r_up	gaining:1 's:1 focus:1 losing:1 biggest:1 stocks:1
+stock_ZION r_up	short:1 surge:1 selling:1 bailout:1 ban:1 stocks:1
+stock_ZION r_down	's:1
+stock_ZION r_down	...:1 's:1 sell-off:1 fall:1 late:1 issues:1 dents:1 financials:1
+stock_ZION r_up	leads:1 regional-banking:1 $:1 shares:1 higher:1
+stock_ZION r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_ZION r_up	focus:2
+stock_ZION r_down	spotlight:1 72:1
+stock_ZION r_down	gaining:1 's:2 companies:1 planning:1 participate:1 biggest:1 stocks:1 declining:1
+stock_ZION r_down	's:1
+stock_ZION r_up	's:1
+stock_ZION r_up	's:1
+stock_ZION r_down	's:1
+stock_ZION r_down	's:1
+stock_ZION r_up	's:1
+stock_ZION r_down	's:1
+stock_ZION r_down	12:1 's:1
+stock_ZION r_up	's:1
+stock_ZION r_down	's:1
+stock_ZION r_down	33.6:1 's:1 $:2 bln:1 plan:1 under:1 banks:1 gives:1 21:1
+stock_ZION r_down	's:1
+stock_ZION r_down	's:1
+stock_ZION r_down	's:2
+stock_ZION r_down	's:5
+stock_ZION r_up	's:2
+stock_ZION r_up	's:1
+stock_ZION r_up	's:1
+stock_ZION r_down	's:1
+stock_ZION r_down	's:1
+stock_ZION r_up	's:1
+stock_ZION r_down	's:1 $:2 '09:1
+stock_ZION r_down	's:1
+stock_ZION r_down	's:1
+stock_ZION r_up	's:1
+stock_ZION r_down	's:1
+stock_ZION r_down	's:1
+stock_ZION r_down	's:1
+stock_ZION r_down	surprises:1 advisories:1
+stock_ZION r_up	focus:1
+stock_ZION r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_ZION r_down	13:1 $:2 22:1
+stock_ZION r_up	keep:1 lift:1 stocks:2 black:1 give:1
+stock_ZION r_down	leading:1 rebound:1 broader:1 financials:1 advance:1
+stock_ZION r_down	downgrades:1 's:1 14:2 shares:1 fall:1
+stock_ZION r_up	sector:1 gains:1 eke:1 but:1 tanks:1 small:1 broader:1 out:1
+stock_ZION r_up	rally:1 higher:1 leading:1 financials:1 again:1
+stock_ZION r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_ZION r_up	high:1 jobless:1 office:1 could:1 spell:1 jump:1 rate:1 vacancies:1
+stock_ZION r_up	focus:1
+stock_ZION r_down	focus:1
+stock_ZION r_down	gaining:1 moves:1 's:1 surprises:1 shares:1 advisories:1 session:1 lows:1 biggest:1 off:1 climb:1 stocks:1 declining:1
+stock_ZION r_down	banks:1 warm:1 turnaround:1 comments:1 stage:1
+stock_ZION r_up	sector:1 gains:1 broader:1 banks:1 rally:1 lifting:1
+stock_ZION r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_ZION r_up	gaining:1 's:1 ignites:1 heat:1 rally:1 biggest:1 financial:1 stocks:1 declining:1 stock:1
+stock_ZION r_down	gaining:1 sector:1 's:1 investors:1 biggest:1 eye:1 stocks:1 tactics:1 declining:1
+stock_ZION r_up	banks:1 regional:1 upgrade:1 lifts:1
+stock_ZION r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_ZION r_down	'09:1 keeps:1 report:1 wind:1 sails:1 financials:1
+stock_ZION r_up	dividend:1 22:1 boosts:1 stock:1
+stock_ZION r_up	sector:1 upgrade:1 stands:1 amid:1 rally:1 out:1
+stock_ZION r_up	base:1 serve:1 can:1 market:1
+stock_ZION r_down	focus:1
+stock_ZION r_up	$:1 provisions:1 surprises:1 million:1 focus:1 40:1 loses:1 advisories:1 higher:1
+stock_ZION r_down	late:1 loan:1 losses:1 up:1 shares:1 trade:1 down:1 expect:1 banks:1 more:1
+stock_ZION r_up	gaining:1 's:1 biggest:1 8:1 stocks:1 declining:1
+stock_ZION r_up	sector:1 up:1 picks:1 leads:1 pace:1 higher:1
+stock_ZION r_up	gaining:1 's:1 16:1 18:1 biggest:1 stocks:1 declining:1
+stock_ZION r_down	biggest:1 gaining:1 stocks:1 's:2 declining:1
+stock_ZION r_up	bank-stock:1 credit:1 rally:1 woes:1 threaten:1
+stock_ZION r_down	's:2
+stock_ZION r_down	gaining:1 real:1 's:1 estate:1 losses:1 commercial:1 up:1 piling:1 biggest:1 stocks:1 declining:1
+stock_ZION r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_ZION r_up	's:2
+stock_ZION r_down	gaining:1 rises:1 's:2 $:1 supply:1 trend:1 taking:1 after:1 sale:1 banks:1 economic:1 gain:1 debt:1 bucks:1 biggest:1 news:1 stocks:1 declining:1
+stock_ZION r_up	's:2
+stock_ZION r_down	leads:1 rally:1 financials:1 higher:1
+stock_ZION r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_ZION r_down	failure:1 bank:1 lenders:1 focus:1
+stock_ZION r_up	surprises:1 advisories:1
+stock_ZION r_down	sector:1 again:1 pressured:1 focus:1 results:1 but:1 keep:1 bank:1
+stock_ZION r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_ZION r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_ZION r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_ZION r_up	gaining:1 's:1 $:2 140:1 but:1 biggest:1 stocks:1 declining:1
+stock_ZION r_down	gloom:1 off:1 gains:1 economic:1 broader:1 buyout:1 lifts:1
+stock_ZION r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_ZION r_up	dirty:1 dozen:1
+stock_ZION r_down	lower:1 moves:1 drift:1 repay:1
+stock_ZION r_up	n't:1 2009:1 stocks:1 best-:1 worst-performing:1
+stock_ZION r_down	n't:1
+stock_ZION r_up	gaining:2 's:2 commissions:1 cuts:1 trade:1 fall:1 biggest:2 firms:1 stocks:2 declining:2
+stock_ZION r_up	weigh:1 proposals:1 financials:1 heavily:1
+stock_ZION r_down	surprises:1 advisories:1 focus:1
+stock_ZION r_up	real:1 adds:1 woes:1 estate:1 commercial:1 market:1
+stock_ZION r_up	loss:1 12:1 improved:1 surprises:1 up:1 reports:1 focus:1 metrics:1 credit:1 see:1 advisories:1 analysts:1 quarterly:1 's:1 net:1 smaller:1
+stock_ZION r_down	gaining:1 jump:1 's:1 profit:1 60:1 mixed:1 biggest:1 sees:1 stocks:1 declining:1
+stock_ZION r_up	financials:1 rise:1 continues:1 reign:1 bank:1
+stock_ZION r_down	20:1 $:1
+stock_ZION r_down	mend:1 banks:1 red:1 but:1 stay:1
+stock_ZION r_down	rally:1 stocks:1 upgrade:1 deal:1
+stock_ZION r_up	financials:1 stocks:1 lead:1 bank:1 higher:1
+stock_ZION r_down	n't:1
+stock_ZION r_up	gaining:1 sector:1 's:1 lift:1 rally:1 biggest:1 financial:1 speculation:1 stocks:2 declining:1
+stock_ZION r_up	's:1 investors:1 bid:1 up:1 gain:1 banks:1 stocks:1
+stock_ZION r_down	third:1 up:1 banks:1 rally:1 stocks:1 day:1
+stock_ZION r_up	finish:1 's:1 decision:1 cheering:1 cheer:1 stocks:1 higher:1
+stock_ZION r_down	banks:1 downgrades:1 hit:1
+stock_ZION r_down	surge:1 insurer:1 stocks:1 bond:1
+stock_ZION r_down	plan:1 's:1 battered:1 sale:1
+stock_ZION r_up	rise:1 analyst:1 shares:1 upgrades:1
+stock_ZION r_up	's:1
+stock_ZION r_down	financial:1 propel:1 regional:1 banks:1 stocks:1 higher:1
+stock_ZION r_up	gaining:1 's:1 after:1 results:1 jump:1 biggest:1 stocks:2 declining:1
+stock_ZION r_down	sector:1 fails:1 financial:1 but:1 lift:1 rallies:1
+stock_ZION r_down	get:1 fears:1 focus:1 fade:1 stocks:1 boost:1 bank:1
+stock_ZION r_up	rises:1 ease:1 after:1 results:1 shares:1 past:1 rally:1 stocks:1
+stock_ZION r_up	falter:1 after:1 's:1 subpoena:1
+stock_ZION r_up	biggest:1 gaining:1 stocks:1 's:2 declining:1
+stock_ZION r_down	lower:1 falls:1 drags:1 8:1 financials:1 stock:1
+stock_ZION r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_ZION r_down	trend:1 bucks:1 rebound:1
+stock_ZION r_down	's:3 $:2
+stock_ZION r_down	insurers:1 hit:1 swoon:1 up:1 zigzag:1 close:1 stocks:1 slightly:1 financials:1 latest:1
+stock_ZION r_up	sinks:1 investors:1 tumble:1 make:1 after:1 focus:1 stay:1 late:1 bullish:1 rally:1 stocks:1 euro:1
+stock_ZION r_up	's:1 gains:1 up:1 warm:1 end:1 stocks:1 $:3
+stock_ZION r_down	end:1 into:1 month:1 down:1 dip:1 red:1
+stock_ZION r_up	hopes:1 rally:1 surges:1 earnings:1
+stock_ZION r_down	tepid:1 outlook:1 cut:1 fall:1
+stock_ZION r_down	gains:1 surprises:1 slim:1 3:1 advisories:1 post:1 drops:1
+stock_ZION r_down	gaining:1 rises:1 's:1 gains:1 surprises:1 but:1 advisories:1 '09:1 biggest:1 2:1 post:1 stocks:1 than:1 declining:1 more:1
+stock_ZION r_down	control:1 12:1 double-edged:1 but:1 sword:1 banks:1
+stock_ZION r_up	looking:1 still:1 weak:1
+stock_ZION r_up	sees:1 bailouts:1 regional:1 fewer:1 banks:1 's:2
+stock_ZION r_down	risk:2 deal:2 unloads:2
+stock_ZION r_up	10:1 12:1 gains:1 up:1 post:1 moderate:1
+stock_ZION r_down	sector:1 notches:1 slim:1 gains:1 $:1
+stock_ZION r_down	sector:1 into:1 swings:1 red:1
+stock_ZION r_down	225,000:1 $:1
+stock_ZION r_up	's:2
+stock_ZION r_down	gaining:1 life:1 after:1 's:1 banking:1 rules:1 faces:1 next:1 biggest:1 black:1 declining:1 signs:1 test:1 stocks:2 500:1 shows:1
+stock_ZION r_down	500:1
+stock_ZION r_down	lead:1 views:1 profit:1 drop:1 500:1 bleak:1 stock:1
+stock_ZION r_up	week:1 start:1 results:1 higher:1
+stock_ZION r_up	late:1 worries:1 slump:1 focus:1 mortgage:1
+stock_ZION r_down	banks:1 pull:1 financial:1 down:1 sector:1
+stock_ZION r_up	's:1
+stock_ZION r_up	's:2
+stock_ZION r_up	hopes:1 rally:1 extend:1 dividend:1
+stock_ZION r_down	slips:1 jumps:1 up:1 shares:1 leaving:1 74:1 sink:1 year:1 stocks:1
+stock_ZION r_up	regional-bank:1 spur:1 stocks:1 higher:1
+stock_ZION r_down	stocks:1 rise:1 financial:1 up:1 pushes:1
+stock_ZION r_down	trading:1 up:1 eve:1
+stock_ZION r_up	dominate:1 2011:1 sectors:1
+stock_ZION r_up	sector:1 leads:1 financial:1 gains:1 expert:1 10:1 29:1 picks:1 n't:1 2011:1 stock:1
+stock_ZION r_down	n't:1 won’t:1 any:1 deals:1 come:1 price:1
+stock_ZION r_up	sector:1 banks:1 regional:1 rises:1 rally:1
+stock_ZION r_down	watch:1
+stock_ZION r_down	surprises:1 advisories:1
+stock_ZION r_up	$:1
+stock_ZION r_down	worries:1 persist:1 fall:1
+stock_ZION r_up	's:1
+stock_ZION r_down	lower:1 stocks:1 end:1 marginally:1
+stock_ZION r_up	's:2
+stock_ZION r_up	downgrade:1 's:1 hit:1 slip:1 financials:1
+stock_ZION r_down	500:1 12100:1
+stock_ZION r_up	sector:1 weighs:1 market:1
+stock_ZION r_up	50:1
+stock_ZION r_up	sector:1 flat:1 financial:1 trades:1 while:1 rises:1
+stock_ZION r_down	decline:1 trade:1 watch:1 shares:1 after-hours:1
+stock_ZION r_up	rebound:1 watch:1 optimism:1 signals:1 turnaround:1 earnings:1 stocks:1 afoot:1
+stock_ZION r_down	gaining:1 gainers:1 paces:1 financial-sector:1 biggest:1 stocks:1 declining:1
+stock_ZION r_up	's:1
+stock_ZION r_down	lower:1 's:1 lead:1 45:1 stocks:1 bank:1
+stock_ZION r_up	4:1
+stock_ZION r_up	pace:1 financials:1 decline:1
+stock_ZION r_down	surprises:1 advisories:1
+stock_ZION r_down	close:1 shed:1 stocks:1 gains:1 lower:1
+stock_ZION r_down	sector:1 weigh:1 stocks:1 financial:1
+stock_ZION r_up	7.9:1 best:1 soars:1
+stock_ZION r_up	banks:1 rally:1 regional:1 gains:1 extend:1
+stock_ZION r_up	into:1 stocks:1 dip:1 back:1 red:1
+stock_ZION r_up	financials:1 lead:1 higher:1
+stock_ZION r_down	surprises:1 advisories:1 watch:1
+stock_ZION r_up	stocks:1 earnings:1 slip:1
+stock_ZION r_up	easing:1 stocks:1 fears:1 gain:1
+stock_ZION r_down	rise:1 stocks:1 market:1 broader:1 buoy:1
+stock_ZION r_down	dive:1 stocks:1 bank:1 warnings:1
+stock_ZION r_down	banks:1 flat:1 financial:1 sector:1 weakest:1
+stock_ZION r_up	weigh:1 stocks:1 market:1 broader:1
+stock_ZION r_up	higher:1 gains:1 financials:1 reverse:1
+stock_ZION r_up	financial:1 drive:1 banks:1 2012:1 stocks:1 higher:1
+stock_ZION r_down	surprises:1 advisories:1
+stock_ZION r_down	gaining:1 lower:1 end:1 gains:1 off:1 biggest:1 weigh:1 stocks:1 declining:1
+stock_ZION r_up	go:1 positive:1 stocks:1 after:1
+stock_ZION r_up	banks:1 led:1 fall:1
+stock_ZION r_up	sector:1 financial:1 gains:1 lead:1
+stock_ZION r_down	fades:1 deal:1 slip:1 euphoria:1
+stock_ZION r_down	data:1 drop:1 stocks:1 weak:1 euro-zone:1
+stock_ZION r_up	market:1 stocks:1 broader:1 lead:1 higher:1
+stock_ZION r_up	job:1 data:1 financials:1 lead:1 higher:1
+stock_ZION r_up	dividend:1 stocks:1 raises:1 surge:1
+stock_ZION r_up	gaining:1 eke:1 banks:1 gain:1 biggest:1 stocks:2 declining:1 out:1
+stock_ZION r_down	rise:1 stocks:1 sentiment:1 home-builder:1
+stock_ZION r_down	watch:1

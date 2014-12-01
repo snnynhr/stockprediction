@@ -1,0 +1,353 @@
+stock_AMD r_up	giants:1 portable:1 create:1 weak:1 up:1 devices:1 their:1 shore:1 spots:1 new:1 bond:1
+stock_AMD r_down	10:1 '09:1 6:1
+stock_AMD r_down	says:1 debt:1 eases:1 distress:1
+stock_AMD r_up	stocks:2 20:1 rise:1 up:1 fall:1 led:1 quarter:1 day:1
+stock_AMD r_up	quarter:1 off:1 third:1 kick:1 gains:1
+stock_AMD r_down	's:1
+stock_AMD r_up	gains:1 mild:1 way:1 close:1 stocks:1 find:1
+stock_AMD r_up	expected:1 24:1 post:1 sales:1 decline:1
+stock_AMD r_down	's:1 '09:1 '01:1
+stock_AMD r_up	'':2 outlook:1 loss:1 's:4 grand:2 triggers:1 tops:1 rallies:1 ``:2 results:1 fine:1 due:1 rally:1 estimates:1 slam:1 'grand:3 upbeat:1 despite:1 technology:1
+stock_AMD r_up	'':1 'grand:1 ``:1 's:1 7:1
+stock_AMD r_up	week:1 ends:1 gain:1 7.4:2
+stock_AMD r_up	upgraded:1 sector:1 $:1 views:1 after:1 results:1 focus:1 up:1 demand:1 seen:1 picking:1 2009:1 upbeat:1 more:1
+stock_AMD r_down	decline:1 12:1 's:1 look:1 up:1 after:1 results:1 shares:1 focus:1 heat:1 smaller:1 loss:1 quarterly:1 hurt:1 stocks:1
+stock_AMD r_down	upgraded:1 smaller:1 '':1 appeals:1 fine:1 $:1 shares:1 biggest:1 gaining:1 ``:1 rise:1 's:3 posting:1 after:1 slides:1 stocks:1 second-quarter:2 declining:1 billion:1 loss:2 posts:1 1.45:1
+stock_AMD r_up	11:1 gains:1 18:1 follow:1 close:1 stocks:1
+stock_AMD r_up	pushes:1 techs:1 into:1 black:1 rally:1 sinks:1
+stock_AMD r_down	upgrade:1 's:1 big:1 broker:1 tech:1 7:2 says:1 spark:1
+stock_AMD r_down	sector:1 lower:1 deal:1 leads:1 tech:1 signs:1 news:1
+stock_AMD r_down	2,000:2 10-month:2
+stock_AMD r_up	3rd:2
+stock_AMD r_up	``:1 pushes:1 2,000:4 '':1 3.7:1 above:1 close:1 rally:1
+stock_AMD r_up	'':2 ``:2
+stock_AMD r_down	end:1 gains:1 day:1 mild:1 stocks:1 erratic:1
+stock_AMD r_down	enters:1 5:1 netbook:1 market:1
+stock_AMD r_down	case:1 criticized:1 handling:1 shipments:1 like:1 computers:1 remains:1 chip:1 winner:1 weak:1 regulator:1 looks:1 fall:1 shrink:1 market:1
+stock_AMD r_down	ties:1 over:1 asked:1 foreign:1
+stock_AMD r_up	sector:1 tech:1 lead:1 higher:1
+stock_AMD r_up	sinks:1 techs:1 $:1 29:1 2:1 sharply:1 fall:1 than:1 more:1
+stock_AMD r_down	2:1
+stock_AMD r_up	2:1
+stock_AMD r_up	sector:1 slips:1 into:1 focus:1 bankers:1 upgrade:1 shares:1 rates:1 low:1 biggest:1 red:1 gaining:1 's:1 rise:1 sink:1 stocks:1 declining:1 --:1 futures:1 up:1 keep:1 edge:1
+stock_AMD r_up	4.5:1 2.7:1
+stock_AMD r_up	small:1 aided:1 eke:1 chips:1 gain:1
+stock_AMD r_up	2,000:1
+stock_AMD r_up	techs:1 revenue:1 rise:1 ekes:2 third-quarter:1 forecast:1 late:1 gain:2 rally:1 boosts:2
+stock_AMD r_down	evening:1 climbs:1 trades:1 up:1 retreats:1 5.3:1 sink:1 broader:1 18.2:1 market:1
+stock_AMD r_down	improving:1 ...:1 makers:1 but:1
+stock_AMD r_up	questions:1 deal:1 into:1 tech:1 slip:1 close:1 highlight:1 stocks:1 red:1
+stock_AMD r_up	gaining:1 advance:1 upgrade:1 's:1 soars:1 biggest:1 stocks:1 declining:1
+stock_AMD r_up	jump:1 upgrade:1 after:1 shares:1
+stock_AMD r_up	n't:2 follow:1 's:1 issues:1 higher:1
+stock_AMD r_up	dip:1 sinks:1
+stock_AMD r_up	reorganization:1 exec:1 veteran:1 unveils:1 4:1 leaves:1
+stock_AMD r_up	counsel:1 gains:1 give:1 exec:1 general:1 lift:1 tech:1 joins:1 close:1 stocks:1
+stock_AMD r_down	case:1 flawed:1 says:1 antitrust:1
+stock_AMD r_down	sector:1 downgrades:1 chip:1
+stock_AMD r_up	n't:1 gains:1 lead:1 tech-sector:1 rise:1 late:1
+stock_AMD r_up	case:1 details:1 unveils:1
+stock_AMD r_up	sinks:1 soars:1 eke:1 '09:1 2008:1 gain:1
+stock_AMD r_down	sector:1 advance:1 stocks:1 chip-making:1 's:1 gains:1 highlights:1 industry:1 gaining:1 leads:1 2:1 12.5:1 biggest:1 2009:1 technology:1 2010:1 declining:1
+stock_AMD r_down	case:1 led:1 chip:1 responsibility:1 sink:1 take:1
+stock_AMD r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_AMD r_down	bankruptcy:1 pose:1 risk:1 really:1
+stock_AMD r_down	leads:1 sector:1 stocks:1 gains:1 fall:1
+stock_AMD r_down	wide:1 plunge:1 stocks:1 selloff:1
+stock_AMD r_down	upgrade:1 gains:1 weak:1 sales:1 stay:1 5:1 fall:1 stocks:1
+stock_AMD r_up	'':1 ``:1
+stock_AMD r_up	advance:1 sale:1 possible:1 soars:1
+stock_AMD r_down	chip:1 n't:1 7:1 rebounds:1 spotlight:1 market:1
+stock_AMD r_down	inquiry:1 mainframe:1 's:2 business:1 opens:1
+stock_AMD r_up	's:1 gains:1 turns:1 results:1 broad:1 put:1 stocks:1 technology:1 day:1 market:1 stock:1
+stock_AMD r_up	led:1 point:1 futures:1 stronger:1 update:1 shares:1 1:1 slip:1 open:1 buoyed:1 stock:1
+stock_AMD r_down	shed:1 deal:1 soars:1 estimates:1 results:1 beats:1 reports:1 close:1 rally:1 profit:1 trajectory:1 1:1 biggest:1 gaining:1 's:2 but:1 wave:1 stocks:2 declining:1 lower:1 light:1 optimism:1 tech:1 mixed:1
+stock_AMD r_up	topping:1 sparks:1 after:1 estimates:1 1:2 tech:1 rally:1 powers:1 hope:1
+stock_AMD r_down	loss:1 but:1 precarious:1 shorts:1 season:1 eke:1 after:1 slump:1 up:1 shares:3 results:1 focus:1 proves:1 gain:1 another:1 fall:1 expected:1 post:1 chip:1
+stock_AMD r_down	10000:1 revenue:1 narrower:1 results:1 growth:1 false:1 needs:1 muted:1 shares:1 7:2 quarterly:1 good:1 's:6 posting:1 after:1 fall:1 not:1 news:1 loss:2 industry:1 posts:1 optimism:1 continue:1 view:1
+stock_AMD r_up	sector:1 gains:1 ca:1 n't:2 lift:1 tech:1
+stock_AMD r_up	sector:1 losses:1 broad:1 lose:1 lifts:1 tech:1 close:2 rally:1 stocks:1 steam:1 market:1
+stock_AMD r_down	$:1 40:1
+stock_AMD r_down	sector:1 shine:1 harsh:1 lead:1 charges:1 light:1 tech:1 hedgers:1 retreat:1
+stock_AMD r_down	sector:1 case:1 says:1 holidays:1 implicated:1 faces:1 worries:1 beyond:1
+stock_AMD r_up	gaining:1 sector:1 's:1 tumble:1 shares:1 bombshell:1 slides:1 bad:1 biggest:1 stocks:1 declining:1
+stock_AMD r_up	hits:1 19.7:1 down:1 tech:1 chairman:1 stepping:1 action:1 stocks:1 afternoon:1
+stock_AMD r_up	lots:1 chief:1 questions:1 faces:1
+stock_AMD r_up	's:1 $:1
+stock_AMD r_up	10.2:1 's:2 $:3 antitrust:1 11.6:1 sales:1 74:1 names:1 fall:1 2009:1 lawsuit:1 grow:1
+stock_AMD r_up	after:1 shares:1 surge:1 74:1 earnings:1 climb:1
+stock_AMD r_up	'09:1
+stock_AMD r_down	rally:1 rise:1 tech:1 lead:1
+stock_AMD r_up	10:1 sees:1 power:1 antitrust:1 broad:1 -15:1 tech:1 sink:1 rally:1 settlement:1 '10:1
+stock_AMD r_up	losses:1 costly:1 point:1 1.25b:1 down:1 long:1 settlement:1 $:6 surprises:1 avoid:1 shares:2 advisories:1 stock:1 's:1 soar:1 10:1 after:1 modest:1 -15:1 advance:1 futures:1 trial:1 '10:1
+stock_AMD r_up	gaining:1 chip:1 '':1 fail:1 rally:1 still:1 2.6:1 peace:1 behind:1 biggest:1 giants:1 ``:1 's:3 means:1 may:1 but:1 scrutiny:1 stocks:2 declining:1 pact:1 face:1 truce:1
+stock_AMD r_down	's:3 rivals:1 other:1 12.5:1 each:1 need:1 settlement:1 shows:1
+stock_AMD r_up	's:1 deal:1 power:1 2006:1 makers:1 must:1
+stock_AMD r_up	gaining:1 10:1 stocks:1 moves:1 's:3 $:7 ease:1 rise:1 shares:1 1:1 2:1 500:1 burden:1 biggest:1 debt:1 declining:1
+stock_AMD r_down	ombudsman:1 probe:1 criticizes:1 downgrades:1 antitrust:1 shares:1 fall:1 chips:1
+stock_AMD r_down	sector:2 dog:1 shares:1 retreats:1 tech:1 7:2 fall:1 wagging:1
+stock_AMD r_up	12:1 broad-based:1 rise:1 stocks:1 part:1 rally:1 2009:1
+stock_AMD r_down	attacks:1 wiretap:1 use:1 probe:1 $:1
+stock_AMD r_down	stocks:1 red:1 stay:1
+stock_AMD r_up	3.5:1
+stock_AMD r_up	tech-sector:1 rally:1 power:1
+stock_AMD r_up	broad:1 losses:1 lose:1 close:1 stocks:1 steam:1
+stock_AMD r_down	biggest:1 gaining:1 stocks:1 's:2 declining:1
+stock_AMD r_up	's:1 could:1 hurt:1 fumble:1 graphics:1 chip:1
+stock_AMD r_up	sector:1 gaining:1 rises:1 's:3 sell-off:1 broad:1 delays:1 chip:1 but:1 mild:1 bolstering:1 tech:1 declining:1 graphics:1 biggest:1 highlight:1 stocks:2 day:1 retreat:1
+stock_AMD r_down	's:1
+stock_AMD r_up	gaining:1 emerges:1 ``:1 stocks:2 's:6 gains:1 woes:1 far:1 chip:1 legal:2 '':1 nemesis:1 thanks:1 new:1 biggest:1 rally:1 hold:1 onto:1 over:1 declining:1 appear:1
+stock_AMD r_down	11:1 says:1 11.4:1 fall:1 sales:1 second:1 sues:1 year:1 tactics:1 2009:1
+stock_AMD r_down	hurt:1 's:1 suit:1
+stock_AMD r_up	week:1 's:1 gains:1 start:1 3:1 7:1 follow:1 stocks:1
+stock_AMD r_down	2010:1
+stock_AMD r_down	losers:1 2009:1 's:2 winners:1 2010:1
+stock_AMD r_up	8.5:1 gains:1 propel:1 broad:1 chip:1 3.7:1 tech:1 stocks:1
+stock_AMD r_down	n't:1 's:1 up:1
+stock_AMD r_down	based:1 profit:1 sales:1 process:1 're:1 expected:1 new:1 post:1 out:1 chips:1 rolls:1 higher:1
+stock_AMD r_down	fall:1 shares:1 tumble:1
+stock_AMD r_down	swayed:1 lead:1 could:1 tech:1 retreat:1 banks:1 chips:1 market:1 stock:1
+stock_AMD r_up	sector:1 slips:1 rise:1 led:1 shaky:1 weak:1 stocks:1 concerns:1 tech:1 inventory:1 demand:1 news:1 stock:1 's:1 market:1 ground:1
+stock_AMD r_down	55:1 '':1 ``:1 $:1 40:1
+stock_AMD r_down	...:1 drops:1 's:3 bid:1 after:1 results:1 up:1 shares:1 losse:1 close:1 follow:1 stocks:1 south:1
+stock_AMD r_up	loss:1 narrower:1 sales:1 expected:1 post:1 boost:1
+stock_AMD r_up	focus:1
+stock_AMD r_down	sector:1 despite:1 results:2 rally:1 settlement:1 market:1 hit:1 late:1 swings:1 8.5:1 5.7:1 profit:1 shares:3 retreats:1 earnings:1 9:1 upbeat:2 's:4 take:1 led:1 mostly:1 beat:1 boosted:1 but:1 focus:1 moment:1 sharply:1 fall:1 correcting:1 12:1 amid:1 trades:1 up:1 edge:1 tech:1 truth:1
+stock_AMD r_up	gained:1 has:1 says:1 31:1 share:1 juicy:1 finally:1 scandal:1 2009:2
+stock_AMD r_down	74:1 $:1
+stock_AMD r_up	sector:1 upgrade:1 lead:1 get:1 broker:1 shares:1 tech:1 stocks:1 boost:1 higher:1
+stock_AMD r_down	slips:1 while:1 edge:1 rises:1 higher:1
+stock_AMD r_down	gains:1 results:1 tech:1 small:1 highlight:1 stocks:1
+stock_AMD r_up	hit:1 gains:1 sell-off:1 broad:1 hard:1 bit:1
+stock_AMD r_up	sector:1 advance:1 chip:1 edges:1 stocks:1 higher:1
+stock_AMD r_down	after:1 results:1 sharply:1 shares:1 fall:1
+stock_AMD r_up	sector:1 help:1 broad:1 score:1 tech:1 stocks:1 gains:1
+stock_AMD r_up	gains:1 tentative:1 anniversary:1 mark:1 steps:1 take:1 forward:1 stocks:2 bubble:1
+stock_AMD r_up	after:1 's:1 gains:1 decision:1 end:1 shares:1 gain:1 battle:1 new:1 stocks:1 day:1
+stock_AMD r_down	follow:1 stocks:1 gains:1 close:1
+stock_AMD r_down	sector:1 slips:1 plunge:1 shares:1
+stock_AMD r_down	far:1 thing:1 sure:1 's:1
+stock_AMD r_up	sector:1 gains:1 power:1 eke:1 tech:1 gain:1 rises:1 chips:1
+stock_AMD r_up	focus:1
+stock_AMD r_down	lead:1 tech:1 mixed:1 stocks:1 chips:1 day:1
+stock_AMD r_down	45:1 led:1 profit:1 rebound:1 rise:1 shares:1 report:1 stocks:1 after:1
+stock_AMD r_down	led:1 posting:1 revenue:1 focus:1 edge:1 seen:1 gains:1 higher:1
+stock_AMD r_up	$:1
+stock_AMD r_up	high:1 bar:1 trades:1 results:1 coasting:1 forecast:1 late:1 shares:1 clears:1 higher:1
+stock_AMD r_up	's:1 gains:1 lead:1 broad:1 chip:1 focus:1 tech:1 stocks:1
+stock_AMD r_up	expected:1 loss:1 focus:1
+stock_AMD r_down	show:1 back:3 close:1 follow:1 decline:2 stocks:4 falls:2 profit:1 traction:1 tumbles:2 new:1 stock:1 week:1 after:2 first-quarter:1 gains:1 climbs:3 -2:1 results:1 swings:1 humility:1 hurt:1 rivalry:1 futures:4 reports:2 face:1 n't:1 pace:2 edge:3 lose:1 growing:1 fresh:1
+stock_AMD r_down	technical:1 near-term:1 support:1 's:2 out:1
+stock_AMD r_down	stocks:1 shares:1 slip:1 fall:1
+stock_AMD r_down	week:1 broad:1 begin:1 stocks:1 gains:1
+stock_AMD r_down	gaining:1 's:1 sinks:1 lead:2 broad:1 slide:1 tech:2 declining:1 6:1 biggest:1 stocks:1 than:1 retreat:1 more:1
+stock_AMD r_up	buck:1 downward:1 tech:1 shares:1 pressure:1
+stock_AMD r_down	picking:1 's:1 ripe:1
+stock_AMD r_up	upgraded:1 sector:1 's:2 $:1 slump:1 down:1 drags:1 close:1 tech:1 market:1
+stock_AMD r_up	2.7:1 3:1 2.8:1 's:1 $:3
+stock_AMD r_up	late:1 stocks:1 find:1 momentum:1 upward:1
+stock_AMD r_up	semiconductor:1 stocks:1 led:1 shares:1 slip:1
+stock_AMD r_up	head:1 gains:1 tech-sector:1 broad:1 up:1 rally:1
+stock_AMD r_down	shed:1 gains:1 after:1 early:1 close:1 stocks:1 red:1
+stock_AMD r_down	following:1 gains:1 retreat:1 results:1
+stock_AMD r_down	week:1 off:1 start:1 mixed:1 performance:1 stocks:1
+stock_AMD r_down	week:1 off:1 start:1 chip:1 results:1 mixed:2 -2:1 action:1 stocks:2 finds:1
+stock_AMD r_down	cut:1 gains:1 losses:1 face:1 worries:1 growing:1 close:1 stocks:1 slowdown:1
+stock_AMD r_down	loom:1 crossed:1 second-quarter:1 earnings:1
+stock_AMD r_up	ready:1 ...:1 2:1 back:1 rumble:1
+stock_AMD r_up	upgraded:1 rating:1 buy:1 's:1 tablet:1 industry:1 're:1 momentum:1 rocked:1 market:1
+stock_AMD r_down	limited:1 swings:1 's:4 profit:1 estimates:1 error:1 tops:1 forecast:1 -2:1 margin:1
+stock_AMD r_down	sector:1 soars:1 narrower:1 sales:2 shares:1 boosts:1 sentiment:1 broad:1 40:1 expected:1 ...:1 's:2 get:1 rise:1 watch:1 lift:1 gain:1 report:1 news:1 stocks:1 retreat:1 loss:1 31:1 posts:1 slide:1 tech:2 battered:1
+stock_AMD r_down	loss:1 off:1 losses:1 shares:1 servers:1 down:1 follow:1 stocks:1 eases:1 road:1 concern:1
+stock_AMD r_up	's:1
+stock_AMD r_up	's:3
+stock_AMD r_up	$:2
+stock_AMD r_up	n't:1 's:2 $:1
+stock_AMD r_down	claims:1 's:3 spotlight:1 65:1
+stock_AMD r_down	reaction:1 gets:1 revenue:1 drives:1 down:1 warning:1 tech:1 earnings:1 following:1 slammed:1 stocks:1
+stock_AMD r_up	uncertainty:1 settles:1 removes:1 settlement:1 lawsuit:1 cloud:1
+stock_AMD r_down	n't:1 close:1 losses:1 shares:1 fall:1
+stock_AMD r_down	weaker:1 signs:1 shares:1 n't:1 demand:1 fall:1
+stock_AMD r_down	gaining:1 losses:1 's:2 broad:1 after:1 off:2 n't:1 lows:1 statement:1 biggest:1 end:2 stocks:3 day:1 declining:1
+stock_AMD r_up	n't:2 help:1 down:1 drag:1 concerns:1 tech:1 stocks:1
+stock_AMD r_down	loss:1 rise:1 bigger:1 shares:1 despite:1
+stock_AMD r_up	n't:1 's:1
+stock_AMD r_down	$:1 7.7:1
+stock_AMD r_down	buy:1 techs:1 but:1 most:1 fall:1 rises:1
+stock_AMD r_up	losses:1 weak:1 techs:1 lead:1 month:1
+stock_AMD r_up	news:1 last:1 built:1
+stock_AMD r_up	deals:1 plays:1 big:1 chip:1 unveils:1 down:1 6:1 new:1 more:1
+stock_AMD r_up	gaining:1 sector:1 's:1 $:2 lead:1 chip:1 surge:1 tech:1 biggest:1 stocks:1 declining:1
+stock_AMD r_down	's:1
+stock_AMD r_up	jump:1 late:1 trading:1 focus:1
+stock_AMD r_up	remark:1 after:2 durable-goods:1 futures:1 cuts:1 data:1 lingers:1 move:1 question:1 third-quarter:1 shares:1 sales:1 rise:1 analysts:1 meet:1 remarks:1 rally:1 view:1 dip:1 stock:1
+stock_AMD r_up	mixed:1 stocks:1 end:1 day:1 results:1
+stock_AMD r_down	sector:1 outlook:1 weaker:1 industry:1 shares:1 mania:1 tech:1 fall:1 2010:1
+stock_AMD r_down	note:1 rough:1 stocks:1 end:1 month:1
+stock_AMD r_down	growth:1 1.8:1
+stock_AMD r_down	all:1
+stock_AMD r_up	season:1 off:1 earnings:1 kick:1
+stock_AMD r_up	tech:1 gains:1 lead:1
+stock_AMD r_up	love:1 getting:1 much:1 not:1 're:1 investor:1
+stock_AMD r_down	's:1 10000:1 focus:1
+stock_AMD r_down	futures:1 profit:1 rise:1 dollar:1 sales:1 slip:1 expected:1 post:1 drops:1 stock:1
+stock_AMD r_down	bump:1 narrower:1 sales:1 trade:1 jump:1 3.5:1 40:1 end:1 $:1 leads:1 shares:2 late:1 2010:1 after:1 mostly:1 rise:2 data:1 fades:1 loss:1 futures:1 posts:1 up:1 tech:1 action:1 speculation:1
+stock_AMD r_down	$:1 6:1
+stock_AMD r_down	8:1 $:1
+stock_AMD r_up	may:1 threaten:1 chip:1 growth:1 makers:1
+stock_AMD r_up	trim:1 's:2 gains:1 back:1 stocks:1 day’s:1
+stock_AMD r_down	60:1 meets:1 major:1 resistance:1 uptrend:1
+stock_AMD r_up	54:1
+stock_AMD r_up	2.9:1
+stock_AMD r_down	50:1
+stock_AMD r_down	's:2 50:1
+stock_AMD r_down	's:2 21:1 lead:1 tech:1 close:1 stocks:1 gains:1
+stock_AMD r_up	jump:1 upbeat:1 outlook:1 shares:1 n't:1
+stock_AMD r_down	's:1
+stock_AMD r_up	ways:1 consultant:1 probe:1 insider:1 part:1 amid:1
+stock_AMD r_up	n't:1
+stock_AMD r_up	...:1 probe:1 's:1 linked:1
+stock_AMD r_up	n't:1 arrests:1 probe:1 4:1 insider:1
+stock_AMD r_up	's:1
+stock_AMD r_up	focus:1 2010:1
+stock_AMD r_up	2011:1
+stock_AMD r_up	2011:1
+stock_AMD r_up	rise:1 chips:1 shares:1
+stock_AMD r_down	core:1 firms’:1 's:1 tablet:1 deal:1 show:1 chip:1 focus:1 computer:1 everywhere:1 plan:1 put:1 has:1 chips:1
+stock_AMD r_up	telecom:1 weakness:1 retail:1 fall:1
+stock_AMD r_up	gains:1 lead:1 surprises:1 shares:1 down:1 advisories:1 steps:1 speculation:1
+stock_AMD r_down	1.5:1 chip:1 trade:1 sinks:1 revived:1 $:1 sun:1 earnings:1 gets:1 stock:1 profile:1 evening:1 's:1 gains:1 climbs:1 watch:1 but:1 falls:1 modest:1 changing:1 post:1 day:1 arena:1 10:1 futures:1 spotlight:1
+stock_AMD r_up	gaining:1 34.43:1 's:1 rise:1 optimism:1 jolted:1 abrupt:1 momentum:1 biggest:1 exit:1 stocks:2 declining:1 earnings:1
+stock_AMD r_down	over:1 problems:1 're:1 despite:1 not:1 ouster:1
+stock_AMD r_down	search:1 hunt:1 after:1 results:1 chief:1 sudden:1 exit:1 post:1
+stock_AMD r_down	case:1 guilty:1 pleads:1 watch:1
+stock_AMD r_up	surprises:1 advisories:1
+stock_AMD r_down	gaining:1 weighs:1 $:1 slips:1 watch:1 question:1 beats:1 shares:1 down:1 68:1 slide:1 tech:1 earnings:1 lingers:1 biggest:1 stocks:1 targets:1 declining:1 1.24:1
+stock_AMD r_up	billion:1 10:1 's:1 $:1 buyback:1 limit:1 boosts:1
+stock_AMD r_up	discloses:1 costly:1 chip:2 rise:1 flaw:1 shares:1 jump:1 error:1 new:1 expense:1 jumps:1 mistake:1
+stock_AMD r_up	rise:1 powered:1
+stock_AMD r_up	2011:1
+stock_AMD r_down	pleads:1 's:2 probe:1 guilty:1 insider:1 manager:1 rise:1 despite:1 stocks:1 chips:1 makers:1
+stock_AMD r_down	's:2
+stock_AMD r_up	's:2
+stock_AMD r_down	led:1 --:1 edge:1 's:2 stocks:1 chips:1 higher:1
+stock_AMD r_up	push:1 stocks:1 tech:1 higher:1
+stock_AMD r_up	's:2 into:1 back:1 leads:1 black:1 tech:1 stocks:1
+stock_AMD r_down	eke:1 shares:1 jump:1 gain:1 biggest:1 advancers:1 =:1 decliners:1 out:1
+stock_AMD r_up	's:1 softening:1 win:1 rebound:1 losses:1 up:1 but:1 edge:1 shares:2 gain:1 fall:1 2011:1 bite:1 weekly:1
+stock_AMD r_up	our:1 2:1
+stock_AMD r_up	2011:1 2012:1
+stock_AMD r_up	case:1 lower:1 oil:1 's:1 600:1 puts:1 surges:1 lags:1 trial:1 returns:1 tech:1 close:1 hedge-fund:1
+stock_AMD r_up	n't:1
+stock_AMD r_down	'':1 ``:1 2:1
+stock_AMD r_down	're:1 's:1
+stock_AMD r_up	n't:1 's:1
+stock_AMD r_up	up:1 6:1
+stock_AMD r_down	search:1 upgrade:1 rise:1 seems:1 shares:1 stalled:1
+stock_AMD r_down	sector:1 slips:1 chip:1 ekes:1 but:1 gain:1 out:1
+stock_AMD r_down	sector:1 shares:1 surge:1 down:1 trading:1 after-hours:1 weigh:1 stocks:1 tech:1
+stock_AMD r_up	billion:1 buy:1 $:2 sentiment:1 focus:1 6.5:1 our:1 makers:1
+stock_AMD r_up	'the:1 du:1 's:1
+stock_AMD r_up	our:1
+stock_AMD r_up	wrestle:1 sales:1 declining:1
+stock_AMD r_up	6:1
+stock_AMD r_up	slips:1 stocks:1 $:1 rise:1 shares:1 wrong:1 tech:1 earnings:1 sharply:1 strong:1 boost:1
+stock_AMD r_up	currencies:1 's:1 $:1 gold:1 slight:1 watch:3 sales:1 shares:1 trade:1 struggle:1 gain:1 after-hours:1 expected:1 post:1 stocks:1 spur:1 600:1
+stock_AMD r_down	futures:1 rise:1 watch:1 focus:1 n't:1 earnings:1 stock:1
+stock_AMD r_up	modest:1 techs:1 lead:1 gains:1
+stock_AMD r_down	's:1
+stock_AMD r_down	chips:1 jury:1 beginning:1 updates:1
+stock_AMD r_up	n't:1
+stock_AMD r_down	's:2 14:1 sparked:1 guilty:1 insider:1 trading:1 8:1 found:1
+stock_AMD r_up	's:2
+stock_AMD r_down	's:3
+stock_AMD r_down	n't:1
+stock_AMD r_down	ties:1 strong:1 makers:1 keep:1
+stock_AMD r_down	profile:1 mobile:1 war:1 raises:1 its:1
+stock_AMD r_up	hours:1 after:1 shares:1 fall:1
+stock_AMD r_down	's:1
+stock_AMD r_up	concerns:1 voice:1 stocks:1 analysts:1 fall:1
+stock_AMD r_down	teach:1 100:1 $:1 can:1 2012:1
+stock_AMD r_down	slips:1 weighs:1 plunge:1 's:3 techs:1 lead:1 shares:1 down:2 tech:1 stocks:1
+stock_AMD r_down	2:1 tech:1 gains:1 lead:1 rallies:1
+stock_AMD r_up	has:1 hoping:1 soon:1
+stock_AMD r_down	's:2 gains:1 lead:1 tech:1 stocks:1 higher:1
+stock_AMD r_up	chip:1 stocks:1 led:1 slip:1 higher:1
+stock_AMD r_down	sector:1 down:1 tech:1 weigh:1 alternative:1 stocks:1
+stock_AMD r_up	see:1 chips:1 uptick:1 second:1 half:1
+stock_AMD r_down	10:1 led:1 make:1 insider:1 tech:1 earnings:1 sense:1 tips:1 retreat:1
+stock_AMD r_down	report:1 amid:1 outlook:1 cloudy:1
+stock_AMD r_up	's:1 gains:1 get:1 30:1 leads:1 stocks:1 bolstered:1
+stock_AMD r_down	swings:1 climbs:1 30:1 trade:1 slides:1 profit:1 second:1 5:1 after-hours:1 quarter:1 2012:1
+stock_AMD r_up	deal:1 session:1 rally:1 's:4 weekly:1 needs:1 stocks:5 investors:1 lead:1 5:1 earnings:1 biggest:1 2012:1 stock:1 gaining:1 rise:1 star:1 gains:1 exec:1 notable:1 visionary:1 watch:1 buyers:1 despite:1 not:1 along:1 strong:1 declining:1 search:1 ride:1 futures:1 edgy:1 slide:1 tech:1 analysts:1 aid:1 decliners:1 more:1 pulls:1
+stock_AMD r_down	buy:1 tech:1 bulls:1
+stock_AMD r_down	rise:1 market-share:1 shares:1 gains:1
+stock_AMD r_up	11:1 takes:1 down:1 fall:1 sharp:1 2011:1
+stock_AMD r_down	leads:1 trading:1 losses:1 tech:1 after-hours:1
+stock_AMD r_up	exec:1 tech:1 names:1 highlight:1 shines:1 former:1 retreat:1
+stock_AMD r_up	shifts:1 rocking:1 tech:1 business:1
+stock_AMD r_down	ripe:1 spinoffs:1 blue-chip:1 valuable:1 4:1 stocks:1
+stock_AMD r_down	sell:1 leads:1 stocks:1 off:1 slump:1
+stock_AMD r_up	tech:1 shines:1 chips:1 power:1 rally:1
+stock_AMD r_up	gains:1 lead:1 big:1 late:1 tech:1 stocks:1
+stock_AMD r_up	8:1
+stock_AMD r_up	8:2
+stock_AMD r_down	rating:1 sink:1 tumble:1
+stock_AMD r_down	leads:1 selloff:1 report:1 tech:1
+stock_AMD r_up	's:1
+stock_AMD r_up	rally:1 led:1
+stock_AMD r_up	4.4:1 $:2
+stock_AMD r_down	lower:1 's:1 lead:1 techs:1 watch:1 but:1 shines:1 $:1
+stock_AMD r_down	set:1 sales:1 trading:1 vote:1 forecast:1 issues:1 concern:1 stocks:2 techs:1 positive:1 lurch:1 shares:1 lags:1 start:1 fuel:1 momentum:1 higher:1 gaining:1 141:2 after-hours:1 watch:1 biggest:1 lowered:1 fall:3 manufacturing:1 data:1 declining:1 lose:1
+stock_AMD r_down	warnings:1 profit:1 air:1 playoff:1 tech:1 games:1
+stock_AMD r_up	biggest:1 gaining:1 stocks:1 declining:1
+stock_AMD r_up	highlight:1 gainers:1 tech:1
+stock_AMD r_down	among:1 decliners:1 stocks:1 tech:1 stumble:1
+stock_AMD r_up	slips:1 sinks:1 $:1 rise:1 tops:1 but:1 leads:1 tech:1 shares:1 400:1 stocks:1 higher:1
+stock_AMD r_up	's:1
+stock_AMD r_up	17:1
+stock_AMD r_down	's:1
+stock_AMD r_down	rally:1 highlight:1 chips:1 tech:1 broad:1
+stock_AMD r_up	highlight:1 slide:1 losses:1 tech:1
+stock_AMD r_up	gains:1 deck:1 results:1 trade:1 after-hours:1 new:1 dives:1
+stock_AMD r_up	outlook:1 back:1 slip:1 pulls:1 stocks:1 shares:1 take:1 biggest:1 stock:1 gaining:1 after:1 earlier:1 watch:2 bulls:1 hours:1 rise:1 strong:1 declining:1 futures:1 up:1 breather:1 following:1 quarter:1
+stock_AMD r_up	broad:1 plunge:1 stocks:1 market:1
+stock_AMD r_up	1,400:1
+stock_AMD r_down	cost-cutting:1 10:2 his:1 picked:1 may:1 workers:1 move:1 strategy:1 chief:1 1,400:1 have:1 ax:1
+stock_AMD r_up	weigh:1 lift:1 chips:1 but:1 techs:1
+stock_AMD r_up	's:1
+stock_AMD r_down	insider:1 trading:1 's:2 story:1 sticks:1
+stock_AMD r_up	's:1
+stock_AMD r_down	after-hours:1 trading:1 rallies:1
+stock_AMD r_down	down:1 outlook:1 pain:1 cuts:1 drive:1 leads:1 feels:1 warning:1 tech:1 shortage:1 stocks:1 day:1
+stock_AMD r_down	under:1 options:1 looks:1 new:1 its:1
+stock_AMD r_up	end:1 up:1 putting:1 mixed:1 performance:1 stocks:1
+stock_AMD r_up	's:2
+stock_AMD r_up	lower:1 techs:1 lead:1
+stock_AMD r_up	tech:1 review:1 stocks:1 2011:1 outlook:1
+stock_AMD r_up	's:1
+stock_AMD r_up	jump:1 upgrade:1 soars:1
+stock_AMD r_up	weighs:1 edge:1 warning:1 up:1 but:1
+stock_AMD r_up	speaks:1 says:1 market:1
+stock_AMD r_down	semis:1 decline:1 sector:1 retreats:1
+stock_AMD r_up	sparks:1 rally:1 optimism:1
+stock_AMD r_up	loss:1 lower:1 swings:1 revenue:1 after:1 up:1 shares:1 hours:1 misses:1 deflated:1 rally:1 stocks:1
+stock_AMD r_up	mixed:1 futures:1 watch:2 earnings:1 stock:1
+stock_AMD r_up	lifted:1 pledge:1 techs:1 rise:1 upswing:1 high:1 rate:1 new:1 stocks:1
+stock_AMD r_up	surprises:1 chip:1 results:1 leads:1 advisories:1 rally:1 strong:1
+stock_AMD r_down	's:1
+stock_AMD r_up	techs:1 lead:1 higher:1
+stock_AMD r_up	upgrade:1 rise:1 shares:1
+stock_AMD r_up	highs:1 new:1 climb:1 stocks:1 behind:1
+stock_AMD r_up	now:1 money:1 pro:1 small-cap:1 5:1 making:1 moves:1 stock:1
+stock_AMD r_up	lower:1 stocks:1 tech:1 gains:1 lead:1
+stock_AMD r_up	action:1 highlights:1 tech:1 surge:1
+stock_AMD r_up	``:1 's:1 gains:1 broad:1 '':1 start:1 stocks:1
+stock_AMD r_down	watch:1
+stock_AMD r_down	200:1 's:1 $:1 chip:1 selloff:1 hurt:1 breaks:1
+stock_AMD r_up	global:1 selloff:1 stocks:1 slammed:1
+stock_AMD r_up	plunges:1 ekes:1 gain:1 out:1
+stock_AMD r_up	even:1 slips:1 up:1
+stock_AMD r_down	gaining:1 $:1 techs:1 back:1 but:1 most:1 gain:1 biggest:1 pulls:1 stocks:1 declining:1 600:1
+stock_AMD r_down	's:1
+stock_AMD r_down	into:1 red:1 slip:1 sinks:1

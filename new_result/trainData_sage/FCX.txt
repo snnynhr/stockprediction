@@ -1,0 +1,220 @@
+stock_FCX r_up	sectors:1 ride:1 market:1 ready:1 momentum:1 higher:1
+stock_FCX r_down	steel:1 copper:1 companies:1 miners:1 producers:1 pounding:1 take:1
+stock_FCX r_down	precious:1 says:1 metals:1
+stock_FCX r_up	's:2 deal:1 attempts:1 future:1 fail:1 if:1
+stock_FCX r_up	$:2 135:1 110:1
+stock_FCX r_down	long-term:1 resources:1 run:1 focus:1 bullish:1
+stock_FCX r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_FCX r_down	's:1
+stock_FCX r_up	2:1 focus:1 $:1
+stock_FCX r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_FCX r_down	rough:1 times:1 sees:1 ahead:1 more:1
+stock_FCX r_down	profit:1 surprises:1 metals:1 soaring:1 advisories:1 prices:1 doubles:1
+stock_FCX r_up	's:1
+stock_FCX r_up	's:1 power:1 energy:1 run:1 stocks:1 continued:1
+stock_FCX r_down	oil:1 off:1 $:1 level:1 rise:1 backs:1 record:1 135:1 stocks:1
+stock_FCX r_down	380:1 $:1
+stock_FCX r_down	direction:1 oil:1 jobs:1 look:1 stocks:1 data:1
+stock_FCX r_up	's:1 $:1
+stock_FCX r_up	favors:1
+stock_FCX r_down	's:1
+stock_FCX r_down	's:1
+stock_FCX r_down	all:1 oil:1 letters:1 bulls:1 following:1 herd:1
+stock_FCX r_up	120,000:1
+stock_FCX r_up	retreats:1 dollar:1 ends:1 off:1 lows:1
+stock_FCX r_down	peaked:1 's:1 sell-off:1 top:1 commodities:1 spurs:1 talk:1
+stock_FCX r_down	plunge:1 hit:1 hard:1 oil:1 materials:1 prices:1 stocks:1
+stock_FCX r_down	15:1 $:2 offering:1 11.5:1 share:1 below:1 bln:2 raises:1 estimate:1
+stock_FCX r_up	hike:1 after:1 shares:1 down:1 rate:1 higher:1
+stock_FCX r_up	focus:1
+stock_FCX r_down	oil:1 's:1 14:1 surprises:1 drop:1 dollar:1 falls:1 advisories:1 sharply:1 strength:1
+stock_FCX r_up	130,000:1
+stock_FCX r_down	tea:1 leaves:1
+stock_FCX r_down	13:1
+stock_FCX r_down	stake:1 $:1 million:1 ethics:1 sells:1 grounds:1
+stock_FCX r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_FCX r_down	surprises:1 advisories:1
+stock_FCX r_down	again:1 bomb:1 mine:1 explodes:1 area:1
+stock_FCX r_down	's:2
+stock_FCX r_down	steeply:1 fears:1 economic:1 fall:1 weigh:1 stocks:1
+stock_FCX r_down	's:1 20:1 $:1
+stock_FCX r_down	75:1 $:1
+stock_FCX r_down	now:1 selling:2 off:1 says:1 may:1 over:1 some:1 fund:2 knocks:1 hedge:2 stocks:1
+stock_FCX r_up	oil:1 after:1 recovers:1 slide:1 rises:1 seven-day:1
+stock_FCX r_down	copper:2 5.2:1 4.1:1 profit:1 30:1 dollar:1 falls:1 2.8:1 clipped:1 tumbles:1 prices:1 falling:1 2008:1 strengthens:1
+stock_FCX r_down	's:1
+stock_FCX r_down	'03:1
+stock_FCX r_up	's:1 $:2
+stock_FCX r_down	586:1 billion:1 's:2 $:2 losers:1 boost:1
+stock_FCX r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_FCX r_down	's:1
+stock_FCX r_down	11:1 500:1
+stock_FCX r_up	sinking:1 10:1 cities:1 bottom:1
+stock_FCX r_down	gaining:1 's:1 ways:1 futures:1 focus:1 back:1 losing:1 biggest:1 stocks:1 declining:1 stock:1
+stock_FCX r_down	outlook:1 halt:1 tumble:1 cuts:1 declines:1 surges:1 hellip:1 back:1 bounce:1 output:1 economic:1 shares:1 despite:1 news:1 dividend:1 stocks:1
+stock_FCX r_up	's:1
+stock_FCX r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_FCX r_up	technical:1 positive:1 2009:1 tone:1 more:1
+stock_FCX r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_FCX r_up	surprises:1 advisories:1
+stock_FCX r_up	loss:1 swings:1 show:1 results:1 shares:1 cuts:1 rally:1
+stock_FCX r_up	'':1 amp:1 ``:1
+stock_FCX r_up	10:1 runs:1 mostly:1 blame:1 through:1 lows:1 issues:1
+stock_FCX r_up	amp:1 96:1 700:1 500:1 8216:1
+stock_FCX r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_FCX r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_FCX r_down	copper:1 's:1 giving:1 some:1 fuel:1 run:1 its:1
+stock_FCX r_down	spotlight:1
+stock_FCX r_up	do:1 now:1 buy:1
+stock_FCX r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_FCX r_up	focus:1
+stock_FCX r_down	's:1 surprises:1 income:1 advisories:1 tumbles:1 net:1 96:2
+stock_FCX r_up	major:1 atop:1 resistance:1 break:1 '09:1 another:1 2009:1
+stock_FCX r_down	rally:1 leg:1 look:1 next:1
+stock_FCX r_down	's:1
+stock_FCX r_up	's:1 '09:1
+stock_FCX r_down	11:1
+stock_FCX r_down	'll:1
+stock_FCX r_down	8.9:1 9.7:1
+stock_FCX r_up	5.8:1
+stock_FCX r_down	gaining:1 's:1 $:2 57:1 66:1 biggest:1 stocks:1 declining:1
+stock_FCX r_up	funds:1 now:1 leaders:1 market:1 stock:1
+stock_FCX r_up	en:1 d:1 con:1
+stock_FCX r_up	focus:1
+stock_FCX r_up	profit:1 output:1 lower:1 posts:1 higher:1
+stock_FCX r_down	biggest:1 fund:1 shutting:1 his:1
+stock_FCX r_down	10:1 's:3 4.8:1
+stock_FCX r_up	's:1
+stock_FCX r_up	confirms:1 recovery:1 sectors:1 winning:1
+stock_FCX r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_FCX r_down	effect:1
+stock_FCX r_up	high:1 record:1 hits:1 dollar:1 slumps:1
+stock_FCX r_up	$:1 drive:1 themes:1 2.8:1 forward:1 stocks:1
+stock_FCX r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_FCX r_down	focus:1
+stock_FCX r_up	's:1 profit:1 surprises:1 posts:1 surge:1 77:1 advisories:1
+stock_FCX r_up	's:1 focus:1
+stock_FCX r_up	streak:1 loss:1 breaks:1 expands:1 economy:1
+stock_FCX r_up	stocks:1 's:1 energy:1 clues:1 new:1 hold:1 orders:1
+stock_FCX r_up	$:1 futures:1 record:1 above:1 new:1 close:1
+stock_FCX r_up	1,100:1 $:1
+stock_FCX r_up	expected:1 climbing:1 stocks:1 keep:1
+stock_FCX r_down	notches:1 loss:1 dollar:1 rises:1 first:1
+stock_FCX r_up	suggest:1 energy:1 materials:1 bubble:1 ahead:1
+stock_FCX r_up	's:2
+stock_FCX r_down	down:1 closes:1 reacts:1 world:1 1.5:1
+stock_FCX r_down	catches:1 projects:1 overseas:1 praise:1 focus:1
+stock_FCX r_down	's:1 wins:1 loses:1 tech:1 sweepstakes:1 decade:1
+stock_FCX r_down	further:1 jitters:1 economic:1 bank:1 fall:1
+stock_FCX r_up	2009:1 stocks:1 best-:1 worst-performing:1
+stock_FCX r_up	sector:1 follow:1 lower:1 industrial:1 financials:1
+stock_FCX r_up	consecutive:1 rise:1 slightly:1 gain:1 fourth:1
+stock_FCX r_down	2009:1
+stock_FCX r_down	rockets:1 discovery:1
+stock_FCX r_down	2010:1 barometer:1 gains:1 predicts:1 stock:1
+stock_FCX r_down	favors:1 stocks:1 analyst:1 volatility:1
+stock_FCX r_down	gaining:1 slips:1 's:1 profit:1 equities:1 correction:1 returns:1 points:1 market:1 biggest:1 stocks:1 declining:1 stock:1
+stock_FCX r_down	week:1 ends:1 surprises:1 lower:1 advisories:1 concerns:1 2.4:1
+stock_FCX r_up	ends:1 $:1 dollar:1 gain:1 6:1 eases:1
+stock_FCX r_up	's:1 gains:1 since:1 day:1 see:1 stocks:1 2010:1 best:1 first:1
+stock_FCX r_up	's:1 2010:1
+stock_FCX r_down	news:2 bad:1 tax:1 increases:1
+stock_FCX r_down	2010:1
+stock_FCX r_up	fuels:1 sector:1 outlook:1 pares:1 power:1 rise:1 mines:1 opportunities:1 returns:1 drilling:1 quake:1 rally:1 upbeat:1 rises:1 's:2 mining:1
+stock_FCX r_up	results:1 after:1 adds:1 gains:1 stock:1
+stock_FCX r_up	's:1 wall:1 market:1 climb:1 worry:1 stock:1
+stock_FCX r_down	platinum:1 surprises:1 highs:1 rise:1 focus:1 advisories:1
+stock_FCX r_down	spending:1 deals:1 stocks:1 transport:1 surge:1
+stock_FCX r_up	week:1 tough:1 gains:1 solid:1 cap:1 stocks:1
+stock_FCX r_up	buck:1 drop:1 two:1 upgrades:1 rides:1 market:1
+stock_FCX r_up	's:1
+stock_FCX r_up	9:1 's:1
+stock_FCX r_down	's:2 rise:1 zooms:1 up:1 9:2 stocks:1
+stock_FCX r_up	2010:1
+stock_FCX r_up	brightens:1 stocks:1 view:1 higher:1 edge:1
+stock_FCX r_up	5:2 5.5:2
+stock_FCX r_down	major:1 resistance:1 struggles:1 escape:1
+stock_FCX r_up	copper:2 rise:1 gold:1 flat:1 profit:1 surprises:1 futures:1 up:1 focus:1 3:1 advisories:1 soars:1 earnings:1 prices:1 after:1 higher:1
+stock_FCX r_up	2.5:1
+stock_FCX r_up	run:1 recovery:1 may:1 over:1 holds:1 far:1
+stock_FCX r_down	's:2
+stock_FCX r_up	5th:1
+stock_FCX r_down	outlook:1 global:1 sales:1 home:1 stocks:1 skid:1
+stock_FCX r_down	's:1
+stock_FCX r_down	tricks:1 political:1 treats:1
+stock_FCX r_up	's:1
+stock_FCX r_up	emerging:1 gold:1 alternatives:1 volumes:1 speaks:1 markets:1
+stock_FCX r_down	dive:1 after:1 rates:1 raises:1 key:1
+stock_FCX r_up	bargain-buying:1 mining:1 27:1 's:1 gold:2 sitting:1 mine:1 surge:1 rally:1 earnings:1 boosting:1 prices:1 seen:1 stocks:1 profits:2
+stock_FCX r_down	surprises:1 advisories:1
+stock_FCX r_down	's:2
+stock_FCX r_down	's:1
+stock_FCX r_up	jobless:1 surprises:1 focus:1 but:1 advisories:1 claims:1 weekly:1
+stock_FCX r_up	own:1 sectors:1 top:1 but:1 2011:1 2010:1
+stock_FCX r_up	stocks’:1 pits:1 land:1 dividends:1
+stock_FCX r_up	hits:1 's:1 $:1 gold:1 ends:1 high:1 record:1 3:1 gains:1
+stock_FCX r_up	's:1
+stock_FCX r_up	funds:1 2011:1 best:1 7:1
+stock_FCX r_down	's:1
+stock_FCX r_down	lower:1 end:1 weak:1 shares:1 materials:1 drug:1 '12:1 '11:1
+stock_FCX r_down	watch:1
+stock_FCX r_down	copper:1 outlook:1 's:2 tempers:1 profit:1 surprises:1 fuels:1 metals:1 advisories:1 prices:1
+stock_FCX r_down	bolster:1 ends:1 dollar:1 two-month:1 low:1 data:1
+stock_FCX r_down	battle:1 versus:1
+stock_FCX r_down	biggest:1 gaining:1 stocks:1 declining:1
+stock_FCX r_up	n't:1 10:1 =:1 $:1 25:1
+stock_FCX r_up	output:1 warning:1 hit:1
+stock_FCX r_down	's:1
+stock_FCX r_down	's:1 third:1 anniversary:1 should:1 see:1 market:1
+stock_FCX r_up	biggest:1 gaining:1 stocks:1 declining:1
+stock_FCX r_up	nuclear:1 over:1 renaissance:1
+stock_FCX r_up	12100:1 over:1 optimism:1 gain:1 stocks:1 500:1
+stock_FCX r_down	record:1 rises:1 rallies:1 copper:1
+stock_FCX r_up	copper:1 's:1 raise:1 miners:1 prices:1 stakes:1
+stock_FCX r_up	rally:1 2011:1 results:1 shares:1 dividend:1
+stock_FCX r_up	weaker:1 surprises:1 futures:1 dollar:1 record:1 settle:1 advisories:1
+stock_FCX r_down	8:1 's:1
+stock_FCX r_up	commodities:1 crash:1
+stock_FCX r_down	not:1 stocks’:1 causing:1 weakness:1
+stock_FCX r_down	's:1
+stock_FCX r_down	's:1 dips:1 growth:1 data:1 slowing:1
+stock_FCX r_down	now:1 raging:1 money:1 one:1 5:1 bull:1 making:1 moves:1 stock:1
+stock_FCX r_down	's:1
+stock_FCX r_up	but:1 free:1 letter:1
+stock_FCX r_down	1600:1 $:1
+stock_FCX r_up	's:1
+stock_FCX r_down	's:1
+stock_FCX r_up	surprises:1 advisories:1
+stock_FCX r_down	money:1 supercycle:1 one:1 fan:1 making:1 5:1 moves:1
+stock_FCX r_up	break:1 out:1 silver:1 they:1 before:1
+stock_FCX r_down	51:2
+stock_FCX r_up	70:1
+stock_FCX r_down	stocks’:1 mining:1 moment:1 eureka:1
+stock_FCX r_down	now:1 money:1 one:1 5:1 making:1 permabull:1 moves:1
+stock_FCX r_down	avoid:1 buy:1 2011:1 rest:1
+stock_FCX r_down	2011:1
+stock_FCX r_down	coal:1 hit:1 woes:1
+stock_FCX r_down	7:1
+stock_FCX r_up	slides:1 wake:1 dollar:1 gains:1
+stock_FCX r_up	streak:1 snaps:1 ends:1 3.6:1 losing:1 higher:1
+stock_FCX r_down	11:2 watch:1 's:1
+stock_FCX r_up	surprises:1 advisories:1
+stock_FCX r_down	biggest:1 gaining:1 stocks:1 declining:1
+stock_FCX r_up	1.4:1 ends:1 ahead:1 summit:1 euro:1 billion-dollar:1 day:1 higher:1
+stock_FCX r_up	lower:1 after:1 five-session:1 win:1 futures:1 close:1
+stock_FCX r_down	harvest:1 profits:1 market:1 stock:1
+stock_FCX r_up	biggest:1 gaining:1 stocks:1 declining:1
+stock_FCX r_down	10:1 2012:1
+stock_FCX r_down	4.7:3
+stock_FCX r_down	money:1 one:1 5:1 bubble-buster:1 making:1 moves:1
+stock_FCX r_up	biggest:1 gaining:1 stocks:1 declining:1
+stock_FCX r_up	's:1
+stock_FCX r_down	surprises:1 advisories:1
+stock_FCX r_down	sector:1 mining:1 rocks:1
+stock_FCX r_up	watch:1
+stock_FCX r_down	watch:1
+stock_FCX r_down	$:1 4:1
+stock_FCX r_down	's:1
+stock_FCX r_down	now:1 prudent:1 money:1 speculator:1 5:1 making:1 moves:1
+stock_FCX r_down	drop:1 global:1 fears:1 growth:1 percolate:1 stocks:1
+stock_FCX r_up	1.6:1 failing:1 $:1 after:1 down:1 touch:1 1,700:1

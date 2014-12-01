@@ -1,0 +1,237 @@
+stock_MRK r_down	indexes:1
+stock_MRK r_up	's:1
+stock_MRK r_down	's:1
+stock_MRK r_up	gains:1 140:2 '13:1 crumble:1 n't:1 're:1 closing:1 minutes:1 2013:1 stock:1
+stock_MRK r_up	gaining:1 's:2 gains:1 16,000:1 merger:1 falls:1 mixed:1 biggest:1 rally:1 stocks:2 declining:1 if:1
+stock_MRK r_down	's:1
+stock_MRK r_up	billion:1 1.15:1 's:1 $:1 lead:1 --:1 but:1 drug:1 stocks:1 higher:1
+stock_MRK r_up	1,100:1 ends:1 above:1 500:1 surge:1
+stock_MRK r_up	10:1 lower:1 falls:1 jitters:1 economic:1 tech:1 gain:1 close:1
+stock_MRK r_down	stocks:1 13-month:4 highs:1 2001:1 rally:1 fresh:1 toward:1
+stock_MRK r_down	billion:1 buy:1 $:2 back:1 up:1 3:1 stock:1
+stock_MRK r_down	amp:1
+stock_MRK r_up	's:1
+stock_MRK r_down	stock:1 surges:1 after:1 's:1 session:1 lapse:1 futures:1 focus:1 shares:1 craters:1 late:1 2000:1 edge:1 higher:2 tips:1 rises:1 soar:1
+stock_MRK r_down	's:1
+stock_MRK r_up	2010:1
+stock_MRK r_down	'':1 n't:1 ``:1
+stock_MRK r_up	's:2
+stock_MRK r_up	huge:1 major:1 deal:1 get:1 becomes:1 health-care:1 player:1 other:1 exit:1 chairman:1 pay:1 still:1 execs:1
+stock_MRK r_down	-2:1
+stock_MRK r_up	's:2
+stock_MRK r_down	's:1
+stock_MRK r_up	's:1
+stock_MRK r_down	's:1 2010:1
+stock_MRK r_up	health-care:1 north:1 lead:1 money:1 top:1 after:1 well:1 spent:1 shares:1 leave:1 drug:1 5:3 sink:1 's:2 stocks:1 debate:1 executives:1
+stock_MRK r_up	close:1 health-care:1 gain:1 financials:1 higher:1
+stock_MRK r_down	stocks:1 overhaul:1 pushes:1 higher:1
+stock_MRK r_up	sector:1 high:1 hit:1 health-care:1 n't:2 health:1 election:1 new:1 stocks:2 boosts:1
+stock_MRK r_down	...:1 drop:1 n't:1 broader:1 stocks:1 market:1
+stock_MRK r_down	3:1
+stock_MRK r_down	8,000:1 's:1
+stock_MRK r_up	auto:1 weather:1 downdraft:1 names:1
+stock_MRK r_down	win-streak:1 drop:1 shares:1 health:1 snap:1 stocks:1
+stock_MRK r_down	holdings:1 fund:1 's:2 wealth:1 details:1
+stock_MRK r_down	n't:1 2010:1 48:1
+stock_MRK r_down	2013:1
+stock_MRK r_up	2010:1
+stock_MRK r_up	aided:1 three-day:1 buy:1 's:2 profit:1 futures:1 stronger:1 reports:1 break:1 after:1 bigger:1 stock:1
+stock_MRK r_down	confidence:1 surprises:1 surge:1 advisories:1 stocks:1 data:1
+stock_MRK r_down	's:1
+stock_MRK r_up	's:1
+stock_MRK r_down	's:2
+stock_MRK r_down	24:1
+stock_MRK r_up	's:2 up:1 drug:1 fight:1 put:1 makers:1
+stock_MRK r_down	steady:1 stocks:1 's:2 focus:1
+stock_MRK r_down	deal:1 focus:1 indecision:1 anniversary:1 lows:1 animal-health:1 marks:1 agree:1
+stock_MRK r_up	leads:1 biotech:1 slide:1 drop:1 stock:1
+stock_MRK r_down	's:2
+stock_MRK r_up	action:1 vote:1 see:1 after:1
+stock_MRK r_up	life:1 finish:1 's:1 gains:1 favorite:1 health:1 higher:1 mirror:1 stocks:2 care:1 cycle:1
+stock_MRK r_down	eyes:1 health-care:1 tech:1 editor:1 stocks:1
+stock_MRK r_down	$:1 35:1
+stock_MRK r_down	dips:1 bid:1 worse:1 getting:1
+stock_MRK r_down	's:2 7:1
+stock_MRK r_down	2008:1 2009:1 $:2 security-tabs:1 fall:1
+stock_MRK r_down	action:1 after:1 take:1 ruling:1
+stock_MRK r_down	7.86:1 pushed:1 stocks:1 results:1 higher:1
+stock_MRK r_up	led:2 builders:1 energy:1 home:1 end:2 stocks:3 's:1 2010:1 higher:2
+stock_MRK r_down	's:1
+stock_MRK r_up	n't:1
+stock_MRK r_up	's:1 since:1 focus:1 3:1 push:1 rally:1 day:1 best:1 stock:1
+stock_MRK r_down	juice:1 dividend:1 returns:1 best:1 strategies:1
+stock_MRK r_up	2009:1 rallies:1 results:1 up:1 before:1
+stock_MRK r_up	77:1 's:1 surprises:1 sympathy:1 trend:1 merger:1 fall:1 fears:1 focus:1 2010:1 break:1 profit:1 rattle:1 costs:1 sharply:1 tumbles:1 downward:1 stocks:2 climbs:1 spotlight:1 advisories:1
+stock_MRK r_down	months:1 make:1 drop:1 focus:1 three:1 3:1 deepest:1 stocks:1
+stock_MRK r_down	's:3
+stock_MRK r_down	5:1
+stock_MRK r_up	lower:1 end:1 mostly:1 up:1 're:1 stocks:1
+stock_MRK r_down	n't:1
+stock_MRK r_down	amid:1 9.7:1 star:1 stodgy:1 pharmaceuticals:1
+stock_MRK r_up	$:1
+stock_MRK r_up	raise:1 cash:1 risk:1 market:1 higher:1
+stock_MRK r_up	's:1
+stock_MRK r_down	n't:1 's:1
+stock_MRK r_down	n't:1 's:1
+stock_MRK r_down	's:1
+stock_MRK r_down	$:1 500:1
+stock_MRK r_down	5:2 5.5:2
+stock_MRK r_up	energy:1 hit:1 drilling:1 fight:1
+stock_MRK r_up	's:2
+stock_MRK r_up	's:1
+stock_MRK r_up	's:3
+stock_MRK r_down	's:2
+stock_MRK r_up	's:3
+stock_MRK r_up	8:2 advisories:1 surprises:1 16:5
+stock_MRK r_up	discovered:1 antibodies:1 's:1 1.9:1
+stock_MRK r_down	's:1
+stock_MRK r_down	's:1
+stock_MRK r_down	25:2 2010:2
+stock_MRK r_down	's:1
+stock_MRK r_up	watch:1 's:2
+stock_MRK r_down	futures:1 's:4 charges:1 profit:1 surprises:1 move:1 costs:1 52:6 slides:1 merger:1 advisories:1 70:1 rallies:1 report:1 further:1 fall:1 drops:1 data:1 spotlight:1 after:1 2.4:1
+stock_MRK r_up	21:1
+stock_MRK r_down	32:1 's:1
+stock_MRK r_down	's:2
+stock_MRK r_down	$:1 6:1
+stock_MRK r_up	's:1
+stock_MRK r_up	fuels:1 busy:1 speculation:1
+stock_MRK r_down	's:1
+stock_MRK r_up	earn:1 off:1 workers:1 lay:1 '07:1 study:1 more:1
+stock_MRK r_down	's:1
+stock_MRK r_down	logistics:1 delivers:1 ad:1 campaign:1
+stock_MRK r_up	10:1
+stock_MRK r_down	's:2
+stock_MRK r_up	n't:1 's:1
+stock_MRK r_down	returns:1 still:1 raise:1 must:1
+stock_MRK r_down	2014:1
+stock_MRK r_down	$:1
+stock_MRK r_down	$:1 hostile:1 goes:1 pursuit:1
+stock_MRK r_up	590:1 $:1
+stock_MRK r_down	spotlight:1
+stock_MRK r_down	7.3:1 2011:2 's:1
+stock_MRK r_up	20:1
+stock_MRK r_down	4.7:1
+stock_MRK r_up	's:3
+stock_MRK r_up	lower:1 moves:1 end:1 over:1 concern:1
+stock_MRK r_down	2009:1 off:1 $:3 19:1 profit:1 surprises:1 ease:1 futures:1 focus:2 drug:1 indexes:1 charges:1 report:1 advisories:1 lows:1 rallies:1 following:1 90:2 plunges:1 950:1 stock:1
+stock_MRK r_up	lower:1 your:1 taxes:1
+stock_MRK r_up	4,800:1
+stock_MRK r_down	's:1
+stock_MRK r_down	futures:1 $:1 executive:1 drift:1 drug:1 indexes:1 chief:1 names:1 debt:1 worries:1 new:1 drop:1 euro-zone:1 spotlight:1 south:1 stock:1
+stock_MRK r_up	not:1 shortcuts:1 's:1 detours:1
+stock_MRK r_up	mixed:1 early:1 trading:1 indexes:1
+stock_MRK r_up	report:1 scrutiny:1 trading:1 under:1
+stock_MRK r_up	--:1 $:1
+stock_MRK r_up	's:1
+stock_MRK r_up	rally:1 stocks:1 extend:1
+stock_MRK r_down	money-making:1 2011:1 investment:1 ideas:1
+stock_MRK r_up	's:1
+stock_MRK r_up	's:1
+stock_MRK r_up	10:1 picks:1 2011:1 expert:1 stock:1
+stock_MRK r_up	n't:1 's:1
+stock_MRK r_down	12:1 2010:1
+stock_MRK r_down	lower:2 end:1 study:1 weak:1 update:1 shares:1 leads:1 materials:1 drug:3 tumbles:1 stocks:1
+stock_MRK r_down	gaining:1 30-year:1 end:1 jobless:1 rise:1 biggest:1 claims:1 stocks:1 's:1 declining:1
+stock_MRK r_down	move:1 indexes:1 higher:1 drug:1 soars:1
+stock_MRK r_up	helped:1 fuel:1 14:1 boom:1
+stock_MRK r_up	2011:1
+stock_MRK r_up	surprises:1 advisories:1
+stock_MRK r_down	blood-thinner:1 futures:1 focus:1 trade:1 slip:1 jobless:1 surprises:1 advisories:1 5:1 earnings:1 troubled:1 2011:1 flat:1 's:2 after:1 watch:1 tied:1 falls:1 stocks:1 data:1 losses:1 posts:1 claims:1
+stock_MRK r_down	named:1 winners:1
+stock_MRK r_up	n't:1
+stock_MRK r_down	2011:1
+stock_MRK r_down	2012:1
+stock_MRK r_down	unknown:1 bad:1 good:1
+stock_MRK r_up	n't:1
+stock_MRK r_up	2:2
+stock_MRK r_down	's:1
+stock_MRK r_up	's:1
+stock_MRK r_down	's:1
+stock_MRK r_down	biotech:1 downturn:1 against:1 rallies:1
+stock_MRK r_up	panic:1 stocks:1 's:1 look:1
+stock_MRK r_up	's:2
+stock_MRK r_up	'd:1 's:1
+stock_MRK r_down	2011:1 $:1 40:1
+stock_MRK r_up	stocks:1 2:1 north:1 drug:1 lead:1
+stock_MRK r_down	's:1
+stock_MRK r_down	lower:1 end:1 $:1 autos:1 weigh:1 stocks:1 2.6:1
+stock_MRK r_up	week:1 gains:2 deal:1 climbs:1 surprises:1 over:1 99:1 advisories:1 lift:1 trading:1 afternoon:1 rallies:1 fail:1 day:1 stock:1
+stock_MRK r_down	lower:1 23:1 profit:1 soars:1 reports:1 forecast:1 lifts:1 hopes:1
+stock_MRK r_up	leads:1 biotech:1 stocks:1 's:3 retreat:1
+stock_MRK r_up	's:1
+stock_MRK r_up	rise:1 stocks:1 's:4 focus:1 $:1
+stock_MRK r_up	biotech:1 's:2 lead:1 watch:1 stocks:1 south:1
+stock_MRK r_up	11:1 futures:1 's:5 $:3 up:1 profit:1 surprises:1 surges:1 watch:1 focus:2 edge:1 advisories:1 earnings:1 first-quarter:1 data:1 2010:1 stock:1
+stock_MRK r_up	's:1
+stock_MRK r_down	right:1 get:1 into:1 international:1 100-plus:1 markets:1
+stock_MRK r_up	slide:1 stocks:1 's:1 shines:1 but:1
+stock_MRK r_down	$:2 430:1
+stock_MRK r_up	's:1
+stock_MRK r_down	's:2
+stock_MRK r_down	follows:1 south:1 market:1 broader:1 's:2
+stock_MRK r_down	's:1 vs.:1
+stock_MRK r_down	115:1 3:1
+stock_MRK r_down	's:2
+stock_MRK r_down	's:1 retailers:1 value:1 higher:1 above:1 follow:1 stocks:2 intrinsic:1 called:1 out:1
+stock_MRK r_down	200:1
+stock_MRK r_up	's:1
+stock_MRK r_up	stocks:1 led:1 sink:1
+stock_MRK r_up	$:3 bonds:1 beat:1 dividends:1 top:1 720:3 rallies:1 climb:1 stocks:1 over:1
+stock_MRK r_up	close:1 blue-chip:1 stocks:1 strength:1 higher:1
+stock_MRK r_down	while:1 stocks:1 gain:1 sinks:1
+stock_MRK r_down	2011’s:1 far:1 money:1 top:1 ideas:1 fared:1 so:1 have:1
+stock_MRK r_up	's:1
+stock_MRK r_up	56:1 $:1
+stock_MRK r_down	jumps:1 stocks:1 sluggish:1
+stock_MRK r_up	weigh:1 stocks:1 drug:1
+stock_MRK r_up	shine:1 drug-stocks:1 trading:1 's:1
+stock_MRK r_up	stimulus:1 climb:1 stocks:1 talk:1
+stock_MRK r_down	past:1 challenges:1 loom:1 looks:1 generics:1
+stock_MRK r_up	12:1
+stock_MRK r_up	$:1
+stock_MRK r_down	lifted:1 's:1 along:1 shares:1
+stock_MRK r_down	surprises:1 advisories:1
+stock_MRK r_down	's:3 profit:1 surprises:1 watch:2 13,000:3 advisories:1 expected:1 post:1 higher:1
+stock_MRK r_down	114,000:1 says:1 jobs:1 up:1
+stock_MRK r_down	's:1
+stock_MRK r_down	market’s:1 drop:1 other:1 's:1 shoe:1
+stock_MRK r_down	down:1 storms:1 hatches:1 market:1
+stock_MRK r_down	n't:1
+stock_MRK r_up	biggest:1 2011:1 job:1 5:1 cuts:1
+stock_MRK r_up	pay:1 stocks:1 's:3 your:1 mortgage:1
+stock_MRK r_up	watch:1
+stock_MRK r_up	's:1 dive:1 since:1 worst:1 quarter:1 crisis:1
+stock_MRK r_up	yield-hunting:1 now:1 money:1 trader:1 5:1 making:1 moves:1
+stock_MRK r_down	's:1
+stock_MRK r_up	$:1
+stock_MRK r_up	6.3:1
+stock_MRK r_up	surprises:1 advisories:1 watch:2 's:1 but:1
+stock_MRK r_down	harvest:1 profits:1 market:1 stock:1
+stock_MRK r_down	500:1
+stock_MRK r_up	2011:1 's:3 7:1 2012:1
+stock_MRK r_up	's:1
+stock_MRK r_down	n't:1 13:1 's:1
+stock_MRK r_down	11:1 's:1 $:4
+stock_MRK r_down	950:1 's:2 $:2
+stock_MRK r_down	950:1 $:3
+stock_MRK r_up	+:2
+stock_MRK r_down	+:1
+stock_MRK r_up	+:1
+stock_MRK r_up	doing:1 good:1 well:1 2012:1
+stock_MRK r_up	21.5:1
+stock_MRK r_up	2012:1
+stock_MRK r_down	12:1
+stock_MRK r_up	2011:1 's:1
+stock_MRK r_down	4:1
+stock_MRK r_up	v.:1
+stock_MRK r_up	merger:1 bonanza:1 could:1 miss:1 's:1
+stock_MRK r_down	watch:1
+stock_MRK r_down	jobs:1 tepidly:1 ahead:1 up:1 report:1 stocks:1
+stock_MRK r_up	biggest:1 gaining:1 stocks:1 declining:1 but:1
+stock_MRK r_down	comeback:1 shares:1 stage:1
+stock_MRK r_down	34:1
+stock_MRK r_down	surprises:1 advisories:1 200:1
+stock_MRK r_up	2011:1
+stock_MRK r_up	's:1
+stock_MRK r_down	run-up:1 amid:1 caution:1 analysts:1 advise:1 500:1 stock:1

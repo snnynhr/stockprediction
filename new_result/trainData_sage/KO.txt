@@ -1,0 +1,324 @@
+stock_KO r_down	flood:1 tech:1 brace:1 earnings:1 financials:1
+stock_KO r_down	boost:1 beverages:1 dollar:1 should:1
+stock_KO r_up	give:1 dollar:1 results:2 leads:1 growth:1 close:1 arm:1 stocks:1 heads:1 techs:1 profit:1 turnaround:1 6:1 biggest:1 gets:1 stock:1 gaining:1 balm:1 's:3 '90s:1 weak:1 focus:1 lift:1 strong:1 overseas:1 declining:1 19:3 could:1 futures:1 up:1 provide:1 banks:1 climb:2 view:1
+stock_KO r_down	-analyst:2 exchange:1 earnings:2 key:1 news:1 rally:1 stocks:1 upbeat:1 often-overlooked:1
+stock_KO r_down	$:1
+stock_KO r_down	45:1 's:1
+stock_KO r_up	rise:1 's:1 provisions:1 profit:1 45:1 falls:1 credit:1
+stock_KO r_down	4.7:1
+stock_KO r_down	's:1
+stock_KO r_down	buy:1 help:1 investors:1 could:1 deal:1 say:1
+stock_KO r_down	's:1
+stock_KO r_down	11:2
+stock_KO r_up	's:1
+stock_KO r_up	shed:1 futures:1 losses:1 sales:1 retail:1 data:1 stock:1
+stock_KO r_up	says:1 need:1 's:1 you:1 more:1 legend:1 exposure:1
+stock_KO r_up	's:1 2nd:1
+stock_KO r_down	drop:1 oil:1 says:1 weakness:1 price:1 futures:1 focus:1 metals:1 step:1 growth:1 goods:1 offset:1 overseas:1 higher:1 data:1 durable:1 stock:1
+stock_KO r_down	primer:1 dollar:1 playing:1
+stock_KO r_up	38:1
+stock_KO r_down	inflation:1 fears:1 check:1 stocks:1 keep:1
+stock_KO r_down	rally:1 's:3 yet:1 surprises:1 08:3 fears:1 advisories:1 has:1 higher:1 life:1 hit:1 after:1 water:1 inflation:1 abate:1 stocks:1 commodity:1 futures:1 n't:1 edge:1 ultimate:1 stock:1
+stock_KO r_down	's:1
+stock_KO r_up	10:1 12,000:1 's:2 since:1 investing:1 changed:1 below:1 themes:1 doing:1 slide:1 '08:1 close:1 our:1 first:1
+stock_KO r_down	's:2 $:1
+stock_KO r_down	focus:1
+stock_KO r_up	's:1
+stock_KO r_up	woes:1 may:1 ease:1 airlines:1 n't:1 fuel:1 not:1 ties:1 skies:1
+stock_KO r_up	220,000:1
+stock_KO r_up	lower:1 hold:1 take:1 worries:1 close:1 stocks:1 bank:1
+stock_KO r_down	decline:1 futures:1 's:1 23:1 profit:1 surprises:1 rebound:1 after:1 focus:1 results:1 falls:1 charge:1 advisories:1 lift:1 quarterly:1 stocks:1 stock:1
+stock_KO r_down	gaining:1 stocks:1 old:1 look:1 nets:1 greased:1 rickety:1 's:1 2nd:1 oil:1 safety:1 financials:1 rally:1 biggest:1 new:1 failsafes:1 seek:1 day:1 declining:1 stock:1
+stock_KO r_down	's:1 3:1 '08:1 23:1
+stock_KO r_up	hit:1 $:2 woes:1 23:1 surprises:1 250,000:2 southern:1 500,000:1 1,000,000:1 advisories:1 '08:1 banks:1
+stock_KO r_down	250,000:1
+stock_KO r_up	+30:1 40:1
+stock_KO r_down	n't:1 4th:1
+stock_KO r_up	$:1 140:1 1st:1
+stock_KO r_up	's:1
+stock_KO r_up	oil:1 's:1 commodity:1 sectors:1 tumble:1 invest:1 5.4:1 amp:1 $:1
+stock_KO r_down	's:1
+stock_KO r_up	selling:1 $:2 reportedly:1 rights:1 venues:1 naming:1
+stock_KO r_up	$:1 22:1
+stock_KO r_up	nutrition:1 hero:1 $:2 sports:1 villain:1 path:1 takes:1
+stock_KO r_up	2008:1 's:1
+stock_KO r_down	into:1 economic:1 close:1 rally:1 stocks:1 data:1 financials:1
+stock_KO r_down	lift:1 data:1 shares:1
+stock_KO r_down	trend:1 follow:1 cycle:1 $:1 2.4:1
+stock_KO r_down	firm:1 deal:1 sweet:1 energy:1 focus:1 trade:1 jump:1 juice:1 economic:1 2.4:5 $:6 volatile:1 biggest:1 stock:1 gaining:1 finish:1 's:4 mostly:1 after:1 slump:1 stocks:3 declining:1 billion:1 lower:2 region:1 futures:1 bids:1 face:1 jitters:1 edge:1 mixed:1
+stock_KO r_up	real:1 purchase:1 's:2 thing:1 juice:1 expensive:1 shows:1
+stock_KO r_up	's:1
+stock_KO r_up	's:3 may:1 bid:1 juice:1 oppose:1 makers:1
+stock_KO r_down	7.2:1
+stock_KO r_up	door:1 bid:1 61:1 500:1 's:1 arbs:1 opens:1
+stock_KO r_up	's:1 help:1 weather:1 not:1 upheaval:1 you:1 panic:1 market:1
+stock_KO r_down	buy:1 makes:1 filing:1 antitrust:1
+stock_KO r_down	gaining:1 after:1 's:1 extend:1 futures:1 passage:1 slide:1 bailout:1 biggest:1 stocks:1 spotlight:1 declining:1 stock:1
+stock_KO r_down	ends:1 off:1 after:1 points:1 tumbling:1 lows:1 's:1 800:1
+stock_KO r_down	off:1 parade:1 car:1 stake:1 looks:1 electric:1 consumer:1 kick:1 earnings:1
+stock_KO r_down	blue:1 $:1 focus:1 back:1 n't:1 fall:1 9.6:1 chips:1
+stock_KO r_up	point:1 economic:2 close:1 financials:1 again:1 industrials:1 20:1 come:1 tumble:1 fears:1 slammed:1 bleak:1 biggest:2 stock:1 gaining:2 's:3 gains:1 extend:1 opening:1 dive:1 after:1 9:1 losing:1 amp:1 stocks:4 data:2 declining:1 lower:1 14:3 futures:1 recession:1 tech:1 led:1 spotlight:1
+stock_KO r_up	profit:1 strength:1 's:1 boosts:1
+stock_KO r_up	8.50:1 $:2
+stock_KO r_down	again:1 's:1 fears:1 36:1 recession:1 simmer:1 fall:1 stocks:1
+stock_KO r_down	's:1 gains:1 mount:1 late:1 prices:1 rally:1 energy:1
+stock_KO r_up	shop:1 goods:1 $:1 bear:1 health:1 4:1 consumer:1 market:1 care:1
+stock_KO r_down	...:1
+stock_KO r_down	177:1
+stock_KO r_up	eacute:1
+stock_KO r_down	billion:3 4.9:3 bids:3 $:3
+stock_KO r_down	year-end:1 small-cap:1 bounce:1 year:1 stocks:1 bet:1
+stock_KO r_down	n't:1 -25:2 08:2 's:1
+stock_KO r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_KO r_up	$:2
+stock_KO r_down	'':1 ``:1 4:1
+stock_KO r_down	after:1 hit:1 hard:1 introduces:1 results:1 soda:1 '08:2 new:1 's:1
+stock_KO r_down	's:1
+stock_KO r_down	's:3
+stock_KO r_up	lower:1 end:1 newsletters:1 stuffers:1 picks:1 session:1 market-beating:1 holiday-shortened:1
+stock_KO r_up	play:1 stocks:1 end:1 sales:1 holiday:1 higher:1
+stock_KO r_up	's:1
+stock_KO r_up	their:1 tighten:1 belts:1
+stock_KO r_up	n't:1
+stock_KO r_down	downtrend:1 buck:1 stocks:1
+stock_KO r_down	s:1 8217:1
+stock_KO r_down	withdraws:1 bid:1 's:1
+stock_KO r_down	ends:1 's:1 ahead:1 stimulus:1 lower:1 plan:1 stocks:1 slightly:1
+stock_KO r_up	's:1
+stock_KO r_up	fury:1 global:1 sales:2 down:1 still:1 market:1 profit:1 enough:1 discovers:1 surprise:1 play:1 but:1 focus:1 volume:1 defensive:1 not:1 rises:1 spur:1 charges:1 futures:1 ranks:1 retail:1 profits:1
+stock_KO r_down	sector:1 gaining:1 financial:2 opening:1 surprises:1 futures:1 weak:1 shares:1 indicate:1 advisories:1 declining:1 resume:1 biggest:1 's:1 fall:1 stocks:2 eases:1 paced:1 stock:1
+stock_KO r_down	7.9:1
+stock_KO r_up	'':1 amp:1 ``:1
+stock_KO r_down	$:1 650,000:1
+stock_KO r_down	eacute:1 's:1 $:1 650,000:1
+stock_KO r_down	mixed:1 banks:1 eyed:1 telecoms:1
+stock_KO r_up	payrolls:1 spotlight:1
+stock_KO r_down	billion:1 $:1 invest:1 2:1 additional:1 plans:1
+stock_KO r_up	all:1 's:2 rise:1 8217:2 shares:1 s:2 but:1 fizz:1
+stock_KO r_up	rally:1 could:1 stocks:1 's:1 undermine:1
+stock_KO r_up	's:1 ad:1 onslaught:1 companies:1 can:1 learn:1
+stock_KO r_up	n't:1 's:1
+stock_KO r_up	billion:1 extend:1 after:1 's:1 proceed:1 deal:1 losses:1 focus:2 8217:3 s:3 2.8:1 not:1 2.4:1 data:1 $:2
+stock_KO r_up	drop:1 8217:1 shares:2 door:1 boosts:1 blocked:1 exporters:1 40:1 biggest:1 markets:1 gaining:1 's:3 gains:1 bid:1 after:1 but:1 action:1 fall:1 stocks:1 declining:1 advance:1 register:1 s:1 slams:1 banks:2 builders:1
+stock_KO r_up	drop:1 's:1 rejection:1 move:1 but:1 shares:1 critical:1 export:1 unlikely:1 banks:1 says:1 stocks:1 issue:1 backlash:1 boosts:1
+stock_KO r_up	amp:1
+stock_KO r_down	things:1 few:1
+stock_KO r_up	's:1
+stock_KO r_down	ad:1 correct:1 campaign:1 'misleading:1
+stock_KO r_down	's:1
+stock_KO r_down	s:1 focus:1 8217:1
+stock_KO r_down	gaining:1 's:1 biggest:1 stocks:1 spotlight:1 declining:1
+stock_KO r_down	10:1 lower:1 profit:1 sales:1 hurt:1 costs:1 drops:1 higher:1
+stock_KO r_down	1.6:1 renewed:1 end:1 shares:1 talks:1 rally:1 mixed:1 's:1 drops:1 markets:1
+stock_KO r_down	's:1
+stock_KO r_up	's:1
+stock_KO r_up	's:1 surprises:1 advisories:1 rising:1 biggest:1 stocks:1 declining:1
+stock_KO r_down	averaging:1 converts:1 investors:1 skeptical:1
+stock_KO r_down	39:1
+stock_KO r_down	30:1
+stock_KO r_up	over:1 's:1 times:1
+stock_KO r_down	's:1 $:1 '09:1
+stock_KO r_up	5:1
+stock_KO r_up	fund:1 convertible:1 bonds:1 buys:1
+stock_KO r_down	's:1
+stock_KO r_up	investing:1 midyear:1 2009:1 ideas:1
+stock_KO r_up	1:1 $:1
+stock_KO r_up	focus:1
+stock_KO r_down	week:1 tap:1 focus:1 43:1 numbers:1 's:1
+stock_KO r_down	loss:1 swings:1 1.3:1 profit:1 boost:1 credit:1 costs:1 markets:1
+stock_KO r_up	set:1 sights:1 earnings:1 fade:1 doubts:1 stocks:1
+stock_KO r_down	funds:1 beating:1 rivals:1 larger:1
+stock_KO r_down	billion:1 buy:1 $:1 2:1 largest:1 7.8:1 bottlers:1
+stock_KO r_up	's:1
+stock_KO r_down	2009:1
+stock_KO r_up	's:1
+stock_KO r_down	's:1
+stock_KO r_up	stock:1 stumble:1 analysts:1 market:1 expect:1
+stock_KO r_down	effect:1
+stock_KO r_down	's:1
+stock_KO r_up	futures:1 drift:1 earnings:1 dawn:1 spotlight:1 stock:1
+stock_KO r_down	themes:1 forward:1 stocks:1 drive:1
+stock_KO r_up	's:1
+stock_KO r_up	pleas:1 outlook:1 tap:1 profit:1 drop:1 dollar:1 stem:1 brighter:1 fail:1 strong:1
+stock_KO r_down	flat:1 rises:1 sees:1 ad:1 futures:1 profit:1 global:1 back:1 focus:2 volume:1 rise:1 growth:1 fall:1 stocks:1 spotlight:1 market:1 stock:1
+stock_KO r_up	's:1 500:1
+stock_KO r_down	's:1 $:1 2.4:1
+stock_KO r_up	's:1 $:1 27.6:1
+stock_KO r_down	fees:1 bottled-water:1 adds:1 deposit:1 raises:1
+stock_KO r_up	fund:1 manager:1 like:1
+stock_KO r_down	payout:1 found:1 stock-market:1 consumer:1 staples:1
+stock_KO r_up	surprises:1 advisories:1
+stock_KO r_up	close:1 lower:1 economic:1 tech:1 jitters:1
+stock_KO r_up	supply:1 up:1 face:1 water:1 safety:1 wake:1 soccer:1
+stock_KO r_down	'':1 ``:1 2009:1 's:1
+stock_KO r_up	's:1
+stock_KO r_down	new:1 grimace:1 greet:1 investors:1 year:1
+stock_KO r_down	bid:1 activist:1 's:1 goes:1
+stock_KO r_down	data:1 view:1
+stock_KO r_down	chip:1 companies:1 relief:1
+stock_KO r_up	quarterly:1 flat:1 beer:1 says:1 volumes:1
+stock_KO r_down	18:1 $:1
+stock_KO r_up	-9:1 6:1
+stock_KO r_up	equities:1 value:1 some:1 find:1 carnage:1
+stock_KO r_down	holdings:1 fund:1 's:2 wealth:1 details:1
+stock_KO r_up	recover:1 profit:1 jumps:1 futures:1 focus:2 shares:1 55:1 spike:1 close:1 more:1 220:3 sub-10,000:1 after:1 higher:1
+stock_KO r_down	surprises:1 surge:1 advisories:1 bailout:1 hopes:1 stocks:1
+stock_KO r_down	focus:1 raises:1 further:1 jobs:1 find:1 unit:1 backers:1 declining:1 biggest:1 firms:1 stock:1 gaining:1 's:1 after:1 struggle:1 fall:1 hopes:1 stocks:1 data:1 buying:1 could:1 futures:1 cash:1 skepticism:1 acquisition:1 risky:1
+stock_KO r_down	concerns:1 claims:1 stocks:1 jobless:1 fall:1
+stock_KO r_up	taps:1 's:1 quality:1 emerging:1 stocks:1 markets:1
+stock_KO r_up	worst-on-record:1 rise:1 after:1 year:1
+stock_KO r_up	8.1:1 claims:2 retail:1 's:1 $:1 unemployment:1 futures:1 focus:1 sales:1 up:1 jobless:1 mildly:1 upgrades:1 weekly:1 close:1 stocks:1 after:1 higher:1
+stock_KO r_up	3.4:1 's:1 $:1
+stock_KO r_up	rises:1 41:1 package:1
+stock_KO r_up	control:1 money:1 influence:1 uses:1 world:1 soccer:1
+stock_KO r_up	security-tabs:1 fall:1
+stock_KO r_up	both:1 's:1 focus:1 profits:1 higher:1
+stock_KO r_down	's:1 climbs:1 surprises:1 estimates:1 through:1 blasts:1 advisories:1 growth:1 international:1 20:1 net:1 climb:1 view:1
+stock_KO r_down	oil:1 rebound:1 gain:1 hopes:1 stocks:1 consumer:1
+stock_KO r_up	better:1 our:1 appeals:1 angels:1
+stock_KO r_down	juice:1 dividend:1 returns:1 best:1 strategies:1
+stock_KO r_up	stocks:1 's:1 fewer:1 good-quality:1
+stock_KO r_down	's:1 vs.:1
+stock_KO r_up	n't:1
+stock_KO r_up	surprises:1 advisories:1
+stock_KO r_down	set:1 end:1 amid:1 signals:1 coverage:1 capitalize:1 mixed:1 consumer:1 higher:1
+stock_KO r_up	focus:1
+stock_KO r_down	slogans:1 advertising:1
+stock_KO r_down	decision:1 spotlight:1
+stock_KO r_down	seen:1 growth:1 slower:1
+stock_KO r_up	after:1 gains:1 16:1 profit:1 watch:1 rise:1 share:1 focus:1 comments:1 crater:1 earnings:1 push:1 stocks:1 higher:1
+stock_KO r_up	's:1
+stock_KO r_up	officials:1 top:1 2:1 games:1 suspends:1
+stock_KO r_up	42:3
+stock_KO r_down	's:1
+stock_KO r_up	dividend-paying:1 consider:1 stocks:1 roster:1
+stock_KO r_up	consumer:1 staples:1 gold:1 silver:1
+stock_KO r_up	stocks:1 gain:1 would:1 deflation:1
+stock_KO r_up	stocks:1 2:1 road:1 long:1 deflation:1
+stock_KO r_down	2:1 're:1
+stock_KO r_down	money-manager:1 's:2 top:1 list:1 oil:1 stocks:1
+stock_KO r_down	's:1
+stock_KO r_up	10:1
+stock_KO r_down	's:1
+stock_KO r_down	surprises:1 advisories:1 21:1
+stock_KO r_down	closes:1 's:1 treats:1 deal:1 ...:1 31:1 political:1 falls:1 units:1 sells:1 expands:1 tricks:1
+stock_KO r_down	12:1 's:1
+stock_KO r_down	profit:1 growth:1 drive:1
+stock_KO r_up	billion:1 $:1 focus:2 buyback:1 2:1 planned:1 net:1 rises:1
+stock_KO r_up	invest:1 cutting-edge:1
+stock_KO r_up	's:1
+stock_KO r_down	's:1
+stock_KO r_up	movie:1 heist:1 like:1
+stock_KO r_up	4.5:1 $:1
+stock_KO r_up	certainty:1 jobs:1 than:1 hope:1 more:1
+stock_KO r_down	's:1
+stock_KO r_up	's:1 $:1
+stock_KO r_down	's:1
+stock_KO r_down	's:1
+stock_KO r_down	urges:1 foster:1 business:1
+stock_KO r_down	mend:1 business:1 relations:1 seeks:1
+stock_KO r_down	$:2 '11:1
+stock_KO r_up	3.7:1 $:1
+stock_KO r_up	money-making:1 2011:1 investment:1 ideas:1
+stock_KO r_up	's:1
+stock_KO r_up	2010:1
+stock_KO r_down	play:1 's:1 seek:1 emerging:1 up:1 better:1 pace:1 way:1 pick:1 firms:1 markets:1
+stock_KO r_down	12000:1
+stock_KO r_up	's:2
+stock_KO r_down	n't:2
+stock_KO r_up	's:1
+stock_KO r_up	's:1
+stock_KO r_up	pause:1 point:1 surprises:1 watch:1 focus:1 advisories:1
+stock_KO r_up	profit:1 growth:1 up:1 pushes:1
+stock_KO r_up	's:2
+stock_KO r_up	tips:1 stocks:1 picking:1 winning:1
+stock_KO r_down	's:1 2010:1
+stock_KO r_up	down:1 last:1 's:1 leg:1
+stock_KO r_down	forge:1 companies:1 ahead:1
+stock_KO r_up	stocks:1 look:1 into:1 spot:1 strikes:1 past:1 fans:1 2:1 advertisers:1 moves:1 panic:1
+stock_KO r_down	's:1
+stock_KO r_up	quarter:1 firms:1 oil:1 gains:1 lead:1
+stock_KO r_up	worst:1 portfolio:1 weather:1 2011:1 your:1
+stock_KO r_down	stake:1 takes:1
+stock_KO r_up	's:1 positive:1 back:1 way:1 claw:1 territory:1
+stock_KO r_down	watch:1
+stock_KO r_down	boosted:1 growth:1 volumes:1
+stock_KO r_down	115.49:1 highs:1 watch:2 40:1 spotlight:1 rally:1 stocks:1 multiyear:1
+stock_KO r_up	end:1 profit:1 jumps:1 but:1 shares:1 slip:1 portfolio:1 mean:1 's:1 your:1 bond:1
+stock_KO r_up	slips:1 gains:1 profit:1 posts:1 but:1 volume:1
+stock_KO r_up	doldrums:1 buck:1 summer:1
+stock_KO r_up	100:1 up:1
+stock_KO r_up	's:1
+stock_KO r_up	's:1
+stock_KO r_down	100-plus:1
+stock_KO r_up	not:1 dead:1
+stock_KO r_down	into:1
+stock_KO r_down	115:1
+stock_KO r_down	200:1 65:1
+stock_KO r_down	cubicle:1 office:1 goodbye:1
+stock_KO r_up	beat:1 dividends:1 over:1 top:1 bonds:1
+stock_KO r_up	marketing:1 superstar:1 next:1
+stock_KO r_down	get:1 up:1 can:1 packaging:1 4:1 news:1 stocks:2 boost:1 stack:1 profits:1 plan:1
+stock_KO r_up	's:1
+stock_KO r_up	's:2
+stock_KO r_down	vs.:1
+stock_KO r_up	100:1 $:1
+stock_KO r_down	suddenly:1 frozen:1 's:1 plan:1
+stock_KO r_up	watch:2 18:9 's:1 2011:1
+stock_KO r_up	vs.:1
+stock_KO r_down	hinge:1 price:1 weather:1 gains:1 2012:1
+stock_KO r_down	default:1 safe:1 haven:1 event:1
+stock_KO r_down	6:4
+stock_KO r_down	money:1 supercycle:1 one:1 fan:1 making:1 5:1 moves:1
+stock_KO r_down	cast:1 3:1 good:1 gains:1 places:1
+stock_KO r_up	$:3 dollar:1 n't:1 2:2 falling:1 investments:1
+stock_KO r_down	stockpile:1 companies:1 cash:1 more:1
+stock_KO r_down	$:1 market’s:1 drop:1 other:1 shoe:1 4:1
+stock_KO r_up	win:1 won’t:1 over:1 deal:1 70:1
+stock_KO r_up	$:1
+stock_KO r_down	best:1 payday:1 stocks:1 way:1 investors:1
+stock_KO r_down	down:1 storms:1 hatches:1 market:1
+stock_KO r_up	vaudeville:1 market:1
+stock_KO r_down	10:1 hot:1 dividend:1 cold:1 stocks:1 market:1
+stock_KO r_down	safest:1 six:1 around:1 stocks:1
+stock_KO r_up	's:1 $:1
+stock_KO r_down	me:1 doesn’t:1 care:1
+stock_KO r_down	500:2
+stock_KO r_down	now:1 stocks:1 cheap:1
+stock_KO r_down	7:1
+stock_KO r_up	buy:1 should:1 investors:1 stock:1
+stock_KO r_down	's:1
+stock_KO r_down	tepid:1 firms:1 growth:1 outpace:1
+stock_KO r_down	8.1:4 's:5 watch:1 parts:1 moving:1 earnings:1
+stock_KO r_up	end:1 surprises:1 economics:1 signals:1 utopia:1 advisories:1 can:1 boost:1 economy:1
+stock_KO r_up	may:1 earnings:1 woes:1 tell:1
+stock_KO r_up	profit:1 expected:1 rise:1 tough:1 period:1
+stock_KO r_up	surprises:1 advisories:1 $:2 360:2
+stock_KO r_down	6.7:1 's:1 $:1
+stock_KO r_up	30:1
+stock_KO r_down	buy:1 adds:1 $:2 10.7:1 food:1 big:1 shares:1 2:1 firms:1 makes:1
+stock_KO r_up	premium:1 tech:1 buying:1
+stock_KO r_up	's:1
+stock_KO r_down	n't:1
+stock_KO r_down	's:1
+stock_KO r_up	n't:1 's:1
+stock_KO r_down	's:1
+stock_KO r_up	funds:1 2011:4 bearish:1 bullish:1 times:1
+stock_KO r_up	's:1
+stock_KO r_up	's:1 2012:1
+stock_KO r_down	buy:1 's:1 top:1 you:1 stocks:1 2011:1 2012:1
+stock_KO r_up	n't:1
+stock_KO r_up	$:1 1.2:1
+stock_KO r_down	5:1 $:1
+stock_KO r_up	billion:1 10:1 1.7:1 ads:1 top:1 years:1 study:1 $:1
+stock_KO r_up	's:1
+stock_KO r_down	's:1 could:1 dollar:1 up:1 trip:1 profits:1
+stock_KO r_up	ago:1 absent:1 lower:1 's:2 profit:1 surprises:1 futures:1 year:1 eyes:1 edge:1 watch:1 remain:1 advisories:1 gain:1 71:1 tumbles:1
+stock_KO r_down	dragon:1 growth:1 gain:1 hopes:1 riding:1 stocks:1
+stock_KO r_down	's:1 500:1
+stock_KO r_down	13,000:1
+stock_KO r_up	me:1 choice:1 obvious:1 successor:1
+stock_KO r_up	's:1
+stock_KO r_up	watch:1
+stock_KO r_up	vs:1
+stock_KO r_up	's:1

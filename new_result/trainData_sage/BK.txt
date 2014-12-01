@@ -1,0 +1,308 @@
+stock_BK r_down	's:1 $:1
+stock_BK r_up	60:1
+stock_BK r_down	's:1 $:2 2007:1
+stock_BK r_up	$:1
+stock_BK r_up	n't:1 's:1
+stock_BK r_down	bin:1 through:1 sifts:1 bargain:1 financials:1
+stock_BK r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_BK r_down	reports:1 bank:1 grim:1 braces:1
+stock_BK r_down	gaining:1 's:1 97:1 71:1 biggest:1 stocks:1 declining:1
+stock_BK r_up	's:1 50:1
+stock_BK r_down	's:1
+stock_BK r_up	$:1
+stock_BK r_down	2:1
+stock_BK r_down	$:1
+stock_BK r_down	plunge:1 investors:1 mull:1 next:1 potential:1 stocks:1 casualty:1
+stock_BK r_down	's:1 profit:1 surprises:1 31:1 falls:1 advisories:1
+stock_BK r_up	gaining:1 's:1 lead:1 into:1 second:1 biggest:1 rally:1 stocks:1 day:1 declining:1
+stock_BK r_down	31:1
+stock_BK r_up	's:2 $:1 650,000:1
+stock_BK r_down	quarterly:1 lower:1 net:1 reports:1 income:1
+stock_BK r_down	's:1
+stock_BK r_up	big:1 banks:1 covered:1 agree:1 market:1 bond:1
+stock_BK r_up	billion:1 settles:1 $:1 investors:1 19:1 probe:1 bounces:1 back:1 results:1 record:1 auction-rate:1 digest:1
+stock_BK r_up	's:1
+stock_BK r_down	--:1
+stock_BK r_up	's:1
+stock_BK r_up	's:1
+stock_BK r_down	billion:1 $:1 surprises:1 record:1 advisories:1 folds:1 debt:1
+stock_BK r_up	's:1
+stock_BK r_down	's:1
+stock_BK r_down	billion:1 end:1 $:1 funds:1 one-day:1 drop:1 surge:1 record:1 see:1 trading:1 90:1 hopes:1 volatile:1 stocks:1 crisis:1 market:1
+stock_BK r_down	's:1
+stock_BK r_up	$:1 view:1
+stock_BK r_down	11:1 money:1 up:1 shore:1 funds:1 market:1
+stock_BK r_up	know:1 rescues:1 common:1 money-fund:1 you:1 than:1 more:1
+stock_BK r_down	10,000:1
+stock_BK r_down	$:1
+stock_BK r_up	lower:1 end:1 sixth:1 straight:1 's:1 stocks:1 day:1
+stock_BK r_down	gaining:1 hit:1 sell-off:1 losing:1 biggest:1 's:1 stocks:2 steep:1 insurance:1
+stock_BK r_up	force:1 rescue:1 gather:1 system:1 banking:1 efforts:1
+stock_BK r_up	$:5 getting:1 invest:1 over:1 2nd:5 credit:1 bln:1 plan:1 largest:1 banks:2 100:1 falls:1 than:1 risk:1
+stock_BK r_down	's:1
+stock_BK r_up	after:1 's:3 gains:1 extend:1 surprises:1 futures:1 chief:1 53:3 focus:1 inflation:1 advisories:1 credibility:1 problem:1 data:1 stock:1
+stock_BK r_down	gaining:1 sector:1 losses:1 's:1 ahead:1 closes:1 close:1 after:1 but:1 indexes:1 late:1 report:1 higher:2 rally:1 biggest:1 end:1 more:1 stocks:1 declining:1 stock:1
+stock_BK r_up	2008:1 30:1
+stock_BK r_down	firm:1 turmoil:1 says:1 amid:1 change:1 's:1 market:1
+stock_BK r_down	ever:1 trigger:1 's:1 depression:1 bank:1
+stock_BK r_up	's:1
+stock_BK r_down	9:1 banks:1 bonus:1 asks:1 information:1
+stock_BK r_up	9:6 25:1 's:1 $:1
+stock_BK r_up	's:1
+stock_BK r_up	's:1
+stock_BK r_down	's:1
+stock_BK r_down	's:1
+stock_BK r_up	's:1
+stock_BK r_down	's:1
+stock_BK r_down	's:1
+stock_BK r_up	's:1
+stock_BK r_down	's:1
+stock_BK r_down	2008:1 's:1
+stock_BK r_up	's:1
+stock_BK r_down	2008:1 's:1
+stock_BK r_up	gaining:1 3,000:1 's:1 18:1 focus:1 shares:1 losing:1 cutting:1 fall:1 biggest:1 jobs:1 stocks:1
+stock_BK r_down	1,800:1 's:2
+stock_BK r_up	's:5 $:1
+stock_BK r_up	's:2
+stock_BK r_down	's:1
+stock_BK r_up	's:1
+stock_BK r_up	's:1 gains:1 stimulus:1 slide:1 plan:1 steam:1
+stock_BK r_down	's:1
+stock_BK r_up	's:1
+stock_BK r_down	's:1
+stock_BK r_down	's:1
+stock_BK r_up	's:1
+stock_BK r_up	's:1
+stock_BK r_down	's:1
+stock_BK r_down	's:1
+stock_BK r_down	's:1
+stock_BK r_up	...:1 7:1 6:1
+stock_BK r_up	funds:1 transferring:1 hearings:1 sets:1
+stock_BK r_up	fraud:1 's:1 some:1 alleged:1 reports:1 victims:1 famous:1 claims:1
+stock_BK r_down	's:1 joins:1
+stock_BK r_up	s:1 8217:1
+stock_BK r_down	n't:1
+stock_BK r_down	bad:1 idea:1 bank:2
+stock_BK r_down	sector:1 $:1 matches:1 surprises:1 focus:1 advisories:1 worst:1 battered:1 ever:1 day:1
+stock_BK r_up	inherits:1 's:2 lead:1 battered:1 big:1 rebound:1 income:1 bounces:1 88:3 falls:1 quarterly:1 below:1 low:1 8,000:1 banks:1 off:1 net:1 beating:1 dips:1 market:1 stage:1
+stock_BK r_down	gaining:1 's:1 losses:1 declining:1 outlooks:1 earnings:1 biggest:1 batter:1 stocks:1 500:1
+stock_BK r_down	32:1 $:2 36:1
+stock_BK r_up	grill:1 bailout:1 're:2 bankers:1 funds:1
+stock_BK r_down	re:1 t:2 8217:6 8216:3
+stock_BK r_down	$:1 may:1 nationalize:1 8217:1 8216:1 say:1 analysts:1 have:1 banks:1 weakest:1
+stock_BK r_down	s:1 8217:2
+stock_BK r_up	'':1 amp:1 ``:1
+stock_BK r_down	10:1 stress:1 $:1 government:1 make:1 700:1 n't:1 enough:1 banks:1
+stock_BK r_down	's:1 assets:1 bad:1 books:1 urges:1 off:1 bank:1
+stock_BK r_up	gaining:1 's:1 focus:1 biggest:1 stocks:1 declining:1
+stock_BK r_down	6:1
+stock_BK r_down	8220:1 8221:1 87:1 8:1
+stock_BK r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_BK r_up	sector:1 keeping:1 gains:1 some:1 green:1 hold:1
+stock_BK r_down	's:1 after:1 repay:1 want:1 meet:1 upbeat:1 still:1
+stock_BK r_down	10:1 fizzles:1 's:1 $:1 sell-off:1 share:1 push:1 bank:1
+stock_BK r_down	's:1
+stock_BK r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_BK r_down	focus:1
+stock_BK r_down	purchases:1 drop:1 show:1 results:1 hit:1 ground:1 cut:1 stocks:1 biggest:1 falling:1 stock:2 gaining:1 's:2 views:1 gain:1 debt:1 declining:1 ahead:1 futures:1 values:1 banks:1 spotlight:1 profits:1
+stock_BK r_down	gains:1 give:1 after:1 up:1 comments:1 warm:1 turnaround:1 buyback:1 banks:1 stage:1
+stock_BK r_down	slide:1 stocks:1 financial:1 market:1 broader:1
+stock_BK r_up	n't:1 's:1
+stock_BK r_up	billion:1 tests:1 selling:1 $:1 losses:1 possible:1 see:1 debt:1 bank:1 600:1
+stock_BK r_down	repay:1 expense:1 shareholder:1 focus:1
+stock_BK r_down	$:1 1.2:1
+stock_BK r_down	turn:1 nasty:1 takes:1 south:1
+stock_BK r_up	's:1 but:1
+stock_BK r_down	sell:1 family:1 over:1 move:1 sale:1 focus:1 prices:1 talks:1 consumer:1 silver:1 unit:1
+stock_BK r_down	's:1
+stock_BK r_up	's:1
+stock_BK r_down	banks:1 among:1 repay:1 set:1
+stock_BK r_up	billion:1 sell:1 13:1 plans:1 deal:1 due:1 large:1 fund:1 nine:1 unit:1 banks:1 nears:1 raising:1 $:1
+stock_BK r_up	billion:1 money-management:1 would:1 's:2 $:1 deal:1 talking:1 safe:1 sale:1 68:1 repay:1 can:1 banks:2 come:1 alter:1 landscape:1 out:1
+stock_BK r_down	's:1
+stock_BK r_up	billion:1 's:1 $:1 deal:1 snares:1 13.5:1
+stock_BK r_down	$:1
+stock_BK r_up	banks:1 repay:1 other:1
+stock_BK r_down	handled:1 --:1 repos:1 mulls:1 way:1 report:1 change:1
+stock_BK r_up	's:1
+stock_BK r_down	's:2
+stock_BK r_down	's:2
+stock_BK r_up	sees:1 into:1 income:1 flowing:1 fixed:1 capital:1
+stock_BK r_down	focus:1
+stock_BK r_down	into:1 results:1 biggest:1 hammer:1 profit:1 surprises:1 43:2 advisories:1 declining:1 quarterly:1 red:1 stock:1 gaining:1 's:3 after:1 falls:1 worries:1 stocks:1 bank:1 loss:1 lower:1 futures:1 banks:1
+stock_BK r_down	11:1 shrug:1 's:3 $:3 18:1 off:1 stocks:1
+stock_BK r_up	33:1 $:1
+stock_BK r_down	$:2
+stock_BK r_up	billion:1 loss:1 1.7:1 $:1 slump:1 shares:1 widens:1
+stock_BK r_up	advance:1 's:1 surprises:1 gas:1 producers:1 advisories:1 upbeat:1 100:1
+stock_BK r_up	stocks:1 green:1 statement:1 after:1 stay:1
+stock_BK r_up	's:2 50:1
+stock_BK r_up	real:1 estate:1 losses:1 commercial:1 up:1 piling:1
+stock_BK r_down	14m:1 $:2
+stock_BK r_up	14m:1 $:2
+stock_BK r_down	has:1
+stock_BK r_down	's:1
+stock_BK r_down	's:1
+stock_BK r_up	``:2 futures:1 $:1 surprises:1 after:1 results:1 shares:1 focus:1 '':2 rise:1 advisories:1 climb:1 stock:1
+stock_BK r_down	gaining:1 's:1 profit:1 reports:1 misses:1 biggest:1 estimate:1 stocks:1 declining:1
+stock_BK r_up	$:1 22.7:1
+stock_BK r_up	's:1
+stock_BK r_down	$:1
+stock_BK r_up	value:1 stocks:1 's:1 best:1 market:1
+stock_BK r_down	$:1
+stock_BK r_down	'':1 ``:1 's:1
+stock_BK r_down	's:1
+stock_BK r_up	1st:1
+stock_BK r_up	1st:1
+stock_BK r_up	ends:1 's:1 gold:1 banks:1 fall:1 mixed:1 rises:1
+stock_BK r_up	index:1 mutual:1 hug:1 extension:1 funds:1 n't:1 embrace:1 gets:1 little-changed:1
+stock_BK r_down	talks:1 said:1
+stock_BK r_up	lend:1 taking:1 reform:1 bankers:1 back:1 pressures:1 job:1 not:1 more:1
+stock_BK r_down	n't:1
+stock_BK r_up	'':1 new:1 ``:1 names:1
+stock_BK r_down	's:1
+stock_BK r_up	sector:1 pace:1 financial:1 gains:1
+stock_BK r_up	banks:1 breach:1 still:1 old:1
+stock_BK r_down	's:1 bonus:1 bailed-out:1 '09:2 banks:1 2009:1 data:1 seeks:1
+stock_BK r_up	'09:1
+stock_BK r_down	$:1
+stock_BK r_down	$:2
+stock_BK r_up	$:1
+stock_BK r_up	lending:1 focus:1 slip:1 $:1 sentiment:1 housing:1 earnings:1 stock:1 halt:1 get:1 after:1 lift:1 stocks:1 bank:1 starts:1 futures:1 up:1 reports:1 turn:1 improves:1 amid:1 2008:1
+stock_BK r_down	surprises:1 advisories:1
+stock_BK r_down	's:1
+stock_BK r_down	selling:1 $:3 3:1 focus:1 repay:1 bln:1 unit:1 services:1 buying:1 stock:1
+stock_BK r_up	18:1
+stock_BK r_up	18:1 $:2
+stock_BK r_up	's:2
+stock_BK r_down	crackdown:1 tax:1 foreign:1
+stock_BK r_up	fundholders:1 could:1 fee:1 see:1 hikes:1
+stock_BK r_up	surge:1 insurer:1 stocks:1 bond:1
+stock_BK r_up	$:1
+stock_BK r_up	focus:1
+stock_BK r_up	surprises:1 past:1 advisories:1 74:1 rally:1 stocks:1
+stock_BK r_down	hold:1 stocks:1 onto:1 gains:1 weekly:1
+stock_BK r_up	's:1
+stock_BK r_down	investors:1 reform:1 could:1 some:1 say:1 lift:1 stocks:1
+stock_BK r_down	's:1
+stock_BK r_down	jobs:1 woes:1 weak:1 fall:1 report:1 debt:1
+stock_BK r_up	$:1
+stock_BK r_up	3.5:2 $:3
+stock_BK r_down	data:1 housing:1 after:1 fluctuate:1 shares:1
+stock_BK r_down	3:1
+stock_BK r_up	's:1
+stock_BK r_up	leads:1 financials:1 higher:1
+stock_BK r_up	close:1 gains:1 lose:1
+stock_BK r_down	's:1
+stock_BK r_down	gloom:1 losses:1 's:1 gains:1 extend:1 weighs:1 surprises:1 futures:1 second-quarter:1 jump:1 earnings:1 advisories:1 stock:1 2:1 post:1 rises:1 than:1 more:1
+stock_BK r_up	's:2
+stock_BK r_up	's:1
+stock_BK r_up	's:2 50:2
+stock_BK r_up	$:1 400:1
+stock_BK r_down	's:1 $:1
+stock_BK r_down	after:1 jobless:1 losses:1 most:1 erases:1 data:1
+stock_BK r_down	files:1 11:1
+stock_BK r_up	market’s:1 opportunities:1 buying:1
+stock_BK r_down	criticized:1 role:1 panel:1
+stock_BK r_down	buy:1 investors:1 surprises:1 back:1 focus:2 advisories:1 push:1 2009:2 loans:1
+stock_BK r_up	's:1
+stock_BK r_down	$:1
+stock_BK r_down	's:1
+stock_BK r_up	tests:1 payouts:1 require:1 stress:1 upping:1 before:1
+stock_BK r_down	's:1
+stock_BK r_up	's:1
+stock_BK r_up	--:1 $:1
+stock_BK r_down	's:1
+stock_BK r_up	's:1
+stock_BK r_up	fails:1 deal:1 extend:1 aristocrats:1 rally:1 hopes:1 dividend:2 boost:1
+stock_BK r_down	11:2
+stock_BK r_up	watch:1
+stock_BK r_down	's:1
+stock_BK r_down	test:1 dividends:1 redux:1 2011:1 bank:1
+stock_BK r_down	after:1 15:1 22:2 housing:1 futures:1 falter:1 stock:1
+stock_BK r_up	surprises:1 advisories:1 's:1
+stock_BK r_up	worth:1
+stock_BK r_up	'em:1
+stock_BK r_down	change:1 political:1 bank:1 investors:1
+stock_BK r_down	's:1
+stock_BK r_down	hikes:1 rate:1 after:1 end:1 higher:1
+stock_BK r_up	money:1 edition:1
+stock_BK r_down	n't:1
+stock_BK r_down	test:1 11:1 report:1 unemployment:1 told:1
+stock_BK r_down	23:1
+stock_BK r_down	23:1
+stock_BK r_up	's:1
+stock_BK r_up	announcements:1 coming:1
+stock_BK r_up	's:1 light:1 actions:1 hikes:1 green:1 dividend:2 bank:1 gives:1
+stock_BK r_up	's:1
+stock_BK r_up	50:1
+stock_BK r_up	's:1
+stock_BK r_up	250:1
+stock_BK r_down	watch:1
+stock_BK r_down	's:1
+stock_BK r_up	surprises:1 advisories:1
+stock_BK r_up	4:1
+stock_BK r_down	$:1 400:1
+stock_BK r_up	$:1
+stock_BK r_down	130:1
+stock_BK r_up	's:2
+stock_BK r_up	stocks:1 reasons:1 banking:1 5:1 now:1 bank:1
+stock_BK r_up	25:1
+stock_BK r_up	's:1
+stock_BK r_down	still:1 's:2 3:1 can:1 trust:1 you:1 stocks:1 bank:1
+stock_BK r_down	's:1
+stock_BK r_up	12:2 futures:1 up:1 focus:1
+stock_BK r_up	high:1 near:1 session:1 end:1 misses:1
+stock_BK r_up	$:1
+stock_BK r_down	12:2
+stock_BK r_up	's:1
+stock_BK r_down	fears:1 roof:1 n't:3 through:1 send:1 tanks:1 stays:1 market:1
+stock_BK r_down	10:1 top:1 stories:1 1-5:1
+stock_BK r_down	gaining:1 8.5:1 $:2 1,500:2 biggest:1 stocks:1 declining:1
+stock_BK r_up	pull:1 into:1 back:1 financials:1 red:1
+stock_BK r_up	7.9:1 best:1 soars:1
+stock_BK r_up	support:1 analysts:1 shares:1
+stock_BK r_down	leads:1 ascent:1 financials’:1
+stock_BK r_down	rise:1 's:2 jobless:1 sanctions:1 futures:1 watch:1 falls:1 n't:1 claims:1 further:1 data:1 after:1
+stock_BK r_down	$:1
+stock_BK r_down	760,000:1 's:1 $:1
+stock_BK r_up	1:1 's:3 $:1
+stock_BK r_up	's:1
+stock_BK r_down	's:1 $:1
+stock_BK r_down	futures:1 after:1 watch:1 131:1 mild:1 gain:1 hold:1 data:1 stock:1
+stock_BK r_up	hit:1 gain:1 swing:1
+stock_BK r_down	gaining:1 's:1 8.7:2 declining:1 biggest:1 stocks:1 financials:1 buoy:1
+stock_BK r_up	surprises:1 advisories:1
+stock_BK r_down	2nd:1
+stock_BK r_down	8.5:1 $:1
+stock_BK r_down	'':2 ``:2 's:1 29:1
+stock_BK r_down	bond:1 jitters:1 stocks:1 fall:1
+stock_BK r_up	easing:1 stocks:1 fears:1 gain:1
+stock_BK r_down	down:1 market:1 stocks:1 broader:1 lead:1
+stock_BK r_down	$:2
+stock_BK r_up	's:3 $:1
+stock_BK r_down	20:1 pace:1 broader:1 15:1 stocks:1 's:1 market:1
+stock_BK r_up	20:1 15:1
+stock_BK r_up	's:2
+stock_BK r_up	rules:1 big:1 soon:1 capital:1 expected:1 bank:1
+stock_BK r_down	rules:1 proposes:1 banks:1 big:1 tougher:1
+stock_BK r_up	$:6
+stock_BK r_up	2:2 $:6 400:1
+stock_BK r_down	decline:1 second:1 day:1 market:1 2012:1
+stock_BK r_up	banks:1 stocks:1 financial:1 drive:1 higher:1
+stock_BK r_down	's:1
+stock_BK r_down	26:2 off:1 power:1 profit:1 futures:1 up:2 falls:1 96:1 higher:1 financials:1 stock:1
+stock_BK r_up	sentiment:1 surprises:1 builder:1 rise:1 advisories:1 stocks:1
+stock_BK r_down	n't:1 's:1
+stock_BK r_down	go:1 positive:1 stocks:1 after:1 2012:1
+stock_BK r_down	's:1
+stock_BK r_down	pace:1 setting:1 financials:1 keep:1
+stock_BK r_up	stocks:1 fall:1
+stock_BK r_down	big:1 myths:1 bonuses:1 4:1 disappoint:1 disappear:1
+stock_BK r_up	's:1
+stock_BK r_up	banks:1 hike:1 set:1 dividends:1
+stock_BK r_up	n't:1 dividend:1 stocks:1 raises:1 surge:1
+stock_BK r_down	n't:1 's:1 since:1 watch:1 jump:1 most:1 yields:1
+stock_BK r_up	stocks:1 data:1 market:1 lead:1 higher:1
+stock_BK r_down	2:1
+stock_BK r_down	rise:1 stocks:1 comments:1

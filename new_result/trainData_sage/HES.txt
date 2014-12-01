@@ -1,0 +1,286 @@
+stock_HES r_up	crude:1 prices:1 lift:1 gets:1 record-high:1
+stock_HES r_down	3.7:1 $:1
+stock_HES r_up	decline:1 ends:1 's:1 $:1 sell-off:1 broad:2 pullback:1 deepens:1 retreats:1 3.7:1 tumbling:1 despite:1 mixed:1 rally:1 crude:2 market:3 swoons:1
+stock_HES r_down	$:1
+stock_HES r_up	set:1 gasoline:1 face:1 record:1 prices:1 rally:1 rises:1
+stock_HES r_up	ends:1 pares:1 gains:1 broad:1 flattens:1 but:1 market:1 higher:1
+stock_HES r_up	advance:1 supply:1 shares:1 record:1 crude:1 data:1
+stock_HES r_up	declines:1 market:1 broader:1 resists:1
+stock_HES r_up	sector:1 hits:1 gains:1 lead:1 positioned:1 support:1 gas:1 shares:1 record:1 test:1 critical:1 crude:1 500:1
+stock_HES r_up	's:1
+stock_HES r_up	110:1 2-3:1 3:1 $:2 125:1
+stock_HES r_up	crude:1 make:1 stocks:1 headway:1 record-high:1
+stock_HES r_up	's:1 $:1 record:1 120:1 crude:1 near:1 earnings:1 mixed:1 new:1
+stock_HES r_down	retreats:1 inventories:1 spotlight:1 higher:1
+stock_HES r_down	break:1 poised:1 help:1 500:1 out:1
+stock_HES r_up	gaining:1 2.34:1 's:1 $:2 1.17:1 surprises:1 advisories:1 biggest:1 stocks:1 declining:1
+stock_HES r_down	flat:1 cut:1 's:2 after:1 rate:1 production:1 inventory:1 close:1 quarterly:1 doubles:1 net:1 rises:1 data:1 line:1
+stock_HES r_up	sector:1 oil:1 up:1 heat:1 earnings:1 prices:1 amp:1
+stock_HES r_up	oil:1 natural:1 gas:1 up:1 shares:1 record:1 services:1 fresh:1
+stock_HES r_up	oil:1 dips:1 rise:1 producers:1 crude:1 services:1
+stock_HES r_up	hits:1 oil:1 producer:1 record:1 shares:1 all-time:1 gain:1
+stock_HES r_down	services:1 declines:1 sector:1 lead:1 shares:1
+stock_HES r_down	bears:1 correction:1 fifth:1 expect:1 market:2
+stock_HES r_up	sector:1 gains:1 lead:1 gasoline:1 record:1 sets:1 services:1 new:1
+stock_HES r_up	sector:1 gas:1 lead:1 shares:1 gains:1
+stock_HES r_down	sharply:1 drop:1 shares:1 ethanol:1 makers:1 retreat:1
+stock_HES r_up	gaining:1 biggest:1 's:1 gains:1 lead:1 140:1 $:1 shares:1 mark:1 crude:1 services:1 stocks:1 declining:1 probes:1
+stock_HES r_up	surprises:1 advisories:1
+stock_HES r_down	slips:1 lower:1 natural:1 hiked:1 gas:1 prices:1 crude:1 supplies:1
+stock_HES r_down	oil:1 off:1 lead:1 losses:1 gas:1 shares:1 sells:1 steep:1
+stock_HES r_up	crude:1 advances:1 across:1 gains:1 board:1
+stock_HES r_up	stocks:1 gains:1 slim:1 trading:1 mixed:1 hold:1
+stock_HES r_up	's:1 profit:2 surprises:1 jumps:1 data:2 crude:1 62:2 advisories:1 inventory:1 rallies:1 quarterly:1 rises:1 spiking:1 spotlight:1
+stock_HES r_up	lower:1 gains:1 service:1 shares:1 lead:1 inventories:1
+stock_HES r_up	three-day:1 decline:1 end:1 price:1 snap:1 crude:1 stocks:1 higher:1
+stock_HES r_up	late:1 sharply:1 crude:1 close:1 stocks:1 rebounds:1 higher:1
+stock_HES r_down	sector:1 lower:1 's:1 gains:2 lure:1 back:1 drifts:1 buyers:1 crude:1 pulls:1 recent:1
+stock_HES r_up	oil:1 big:1 losses:1 back:1 bounce:1 shares:1 services:1
+stock_HES r_up	amp:1
+stock_HES r_up	drugs:1 employees:1 government:1
+stock_HES r_up	surprises:1 advisories:1
+stock_HES r_up	50:1
+stock_HES r_down	natural-gas:1 jitters:1 economic:1 retreat:1 shares:1
+stock_HES r_up	deepen:1 lower:1 stocks:1 dives:1 losses:1
+stock_HES r_down	sector:1 lead:1 services:1 underperforms:1 stocks:1 retreat:1
+stock_HES r_up	ends:1 gains:1 package:1 bailout:1 mixed:1 trims:1
+stock_HES r_up	since:1 falls:1 levels:1 2005:1 not:1 seen:1
+stock_HES r_down	gaining:1 's:1 service:1 broad:1 shares:1 day:1 ugly:1 slide:1 declining:1 biggest:1 stocks:1 than:1 market:1 more:1
+stock_HES r_down	bears:1 plunge:1 stocks:1 continue:1
+stock_HES r_down	75:1 $:1
+stock_HES r_up	prices:1 gains:1 extend:1 surprises:1 record:1 second:1 advisories:1 '09:1 crude:1 doubles:1 net:1 stocks:1 day:1 96:1
+stock_HES r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_HES r_up	party:1 welcoming:1 its:1
+stock_HES r_down	try:1 rise:1 back:1 shares:1 fall:1
+stock_HES r_down	ample:1 broad:1 retreat:1 fall:1 supplies:1 stocks:1 steep:1 market:1
+stock_HES r_up	gains:1 solid:1 equities:1 shares:1 crude:1 rally:1 notch:1 markets:1
+stock_HES r_down	streak:1 profit-taking:1 weak:1 winning:1 ended:1 crude:1 stocks:1
+stock_HES r_down	2:1
+stock_HES r_down	47:1 10th:1
+stock_HES r_up	generous:1 's:2 gains:1 28:2 gas:1 producers:1 drillers:1 natural:1 post:1 2009:1 $:1
+stock_HES r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_HES r_up	lower:1 auto:1 over:1 bailout:1 sharply:1 stocks:1 concern:1
+stock_HES r_down	's:1
+stock_HES r_down	upgraded:1 gains:1 shares:1 service:1 cling:1
+stock_HES r_up	'09:1
+stock_HES r_up	1:2 10:1
+stock_HES r_down	10:1 10th:1 's:1
+stock_HES r_up	lower:1 drops:1 $:1 40:1 below:1 crude:1 close:1 barrel:1 stocks:1
+stock_HES r_down	extend:1 losses:1 falls:1 crude:1 further:1 stocks:1
+stock_HES r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_HES r_up	crude:1 price:1 lifts:1 energy:1 stocks:1
+stock_HES r_down	10:1 broad:1 late:1 rally:1 close:1 stocks:1 market:1 higher:1
+stock_HES r_down	losses:1 19:1 drillers:1 drop:1 crude:1 futures:1
+stock_HES r_up	lifts:1 turnaround:1 lead:1 shares:1
+stock_HES r_down	one-day:1 rise:1 shares:1 biggest:1 rally:1 2009:1
+stock_HES r_up	's:1
+stock_HES r_up	strength:1 lends:1 lead:1 shares:1 gains:1
+stock_HES r_down	stabilize:1 but:1 uptrend:1 n't:1 place:1 markets:1 yet:1
+stock_HES r_up	loss:1 lower:1 swings:1 jumps:1 move:1 focus:1 up:1 costs:1 production:1 after:1
+stock_HES r_down	surprises:1 advisories:1 $:3
+stock_HES r_down	fourth-quarter:1 net:1 70:1 $:4 falls:1
+stock_HES r_up	'09:1
+stock_HES r_down	heavy:1 takes:1 equities:1 energy:1 drop:1 toll:1 crude:1 stocks:1
+stock_HES r_up	advance:1 log:1 sit:1 gas:1 stocks:1 gains:1 out:1
+stock_HES r_up	majors:1 's:2 gains:1 drillers:1 rise:1 2nd:2 pace:1 helps:1
+stock_HES r_down	surprises:1 advisories:1
+stock_HES r_down	strong:1 gains:1 broad:1 notch:1 stocks:1 rebounds:1 market:1
+stock_HES r_down	sector:1 rally:1 stocks:1 joins:1 lead:1
+stock_HES r_down	fades:1 gains:1 current:1 likely:1 rally:1 before:1
+stock_HES r_down	$:1
+stock_HES r_down	oil:1 $:1 50:1 bathed:1 falls:1 below:1 red:1
+stock_HES r_up	down:1 holds:1 gains:1 mostly:1
+stock_HES r_down	gains:1 slim:1 gas:1 up:1 cling:1 cuts:1 output:1 stocks:2
+stock_HES r_down	focus:1
+stock_HES r_up	surprises:1 advisories:1
+stock_HES r_down	loss:1 stress:1 swings:1 fall:1 test:1 oil:1 earnings:1 rallies:1 prices:1 survive:1
+stock_HES r_up	kicks:1 off:1 gains:1
+stock_HES r_up	session:1 rally:1 after:1 stumbles:1 previous:1
+stock_HES r_up	rally:1 stocks:1 market:1 broad:1
+stock_HES r_down	oil:1 45:1 $:1 wells:1
+stock_HES r_up	n't:1 60:1 's:2 $:1
+stock_HES r_up	sector:1 undercut:1 inventories:1 update:1 energy:1
+stock_HES r_down	trim:1 broad:1 rebound:1 losses:1 stocks:1 market:1
+stock_HES r_down	ground:1 glut:1 stocks:1 gasoline:1 lose:1
+stock_HES r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_HES r_down	n't:1
+stock_HES r_up	sell-off:1 probe:1 persists:1 oil:1 stock:1
+stock_HES r_down	inventories:1 cede:1 stocks:1 petroleum:1 gains:1
+stock_HES r_up	surprises:1 advisories:1
+stock_HES r_down	's:1
+stock_HES r_up	's:1
+stock_HES r_up	focus:1
+stock_HES r_down	surprises:1 100:1 advisories:1 89:2 's:1
+stock_HES r_up	supply:1 mount:1 losses:1 evaporate:1 surge:1 89:1 earnings:1 stocks:1
+stock_HES r_up	end:1 gains:1 solid:1 post:1 stocks:1 higher:1
+stock_HES r_up	start:1 stocks:1 gains:1
+stock_HES r_down	lower:1 stocks:1 $:1 below:1 oil:1 70:1 close:1 drops:1
+stock_HES r_down	disclosure:1 lower:1 oil:1 's:1 $:4 rules:1 falls:1 below:1 '08:1 close:1 68:1 highlight:1 stocks:1 69:1
+stock_HES r_down	10:1 's:2 5.7:1 energy:1 stake:1 4.8:1 trims:1 stocks:1 dip:1
+stock_HES r_up	's:1
+stock_HES r_down	's:1
+stock_HES r_down	's:1
+stock_HES r_up	$:1 weak:1 72:1 crude:1 stocks:1 corrects:1
+stock_HES r_down	natural:1 supply:1 glut:1 gas:1 mixed:1 end:1 stocks:1
+stock_HES r_down	's:1
+stock_HES r_down	oil:1 gains:1 big:1 price:1 notch:1 jump:1 stocks:1
+stock_HES r_up	's:1
+stock_HES r_down	high:1 2009:1 after:1 benchmark:1 stalls:1
+stock_HES r_down	's:1
+stock_HES r_down	slide:1 stocks:1 data:1 bearish:1 supply:1
+stock_HES r_up	broad:1 lift:1 stocks:1 gain:1 market:1
+stock_HES r_down	$:2
+stock_HES r_down	2:1
+stock_HES r_up	focus:1
+stock_HES r_down	rises:1 supply:1 55:3 surprises:1 56:1 bearish:1 but:1 down:1 profit:1 advisories:1 sharply:1 fall:1 stocks:1 data:1 production:1
+stock_HES r_up	100,000:1 5:1
+stock_HES r_down	's:1
+stock_HES r_down	's:1
+stock_HES r_up	16:1 rebound:1 back:1 crude:1 rally:1 stocks:1
+stock_HES r_down	2010:1 production:1 grow:1 6:1
+stock_HES r_up	sector:1 lower:1 surprises:1 energy:1 focus:1 advisories:1
+stock_HES r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_HES r_down	750:1 2011:2 $:2
+stock_HES r_up	$:2 deal:1 gas:1 shares:1 lead:1 70:1 3.9:1 gains:1
+stock_HES r_up	2:1 led:1 plans:1 stocks:1
+stock_HES r_up	lower:1 end:1 prices:1 stall:1 crude:1 stocks:1
+stock_HES r_up	gains:1 after:1 days:1 three:1 fall:1 stocks:1
+stock_HES r_down	'':1 ``:1 $:1 80:1
+stock_HES r_down	prices:1 weigh:1 energy:1 oil:1 stocks:1
+stock_HES r_up	265:1
+stock_HES r_down	comment:1 10:1 ``:1 says:1 profit:1 after:1 tops:1 up:1 mark:1 '':1 remain:1 nearly:1 focus:1 output:1 stocks:1 red:1
+stock_HES r_down	surprises:1 advisories:1
+stock_HES r_up	7.7:1 '09:1
+stock_HES r_down	$:2
+stock_HES r_down	active:1 oil:1 companies:1 look:1 which:1
+stock_HES r_up	's:1
+stock_HES r_up	's:3
+stock_HES r_up	stocks:1 gains:1 big:1 start:1 new:1 quarter:1
+stock_HES r_down	$:3
+stock_HES r_up	1:1
+stock_HES r_up	billion:1 $:1 merger:1 3:1 rally:1 '11:1
+stock_HES r_down	indexes:1 up:1 surge:1 has:1 day:1 fifth:1 stock:1
+stock_HES r_up	regain:1 after:1 $:1 million:1 profit:1 surprises:1 footing:1 tops:1 climbs:1 production:1 losses:1 stocks:1 500:1 advisories:1
+stock_HES r_down	's:1
+stock_HES r_down	's:1
+stock_HES r_down	's:2
+stock_HES r_up	4:2
+stock_HES r_down	4:1
+stock_HES r_up	units:1
+stock_HES r_down	n't:1
+stock_HES r_up	2:1
+stock_HES r_down	's:1
+stock_HES r_down	reverse:1 lead:1 into:1 shares:1 stocks:1 energy:1
+stock_HES r_down	30:2
+stock_HES r_up	-2:1
+stock_HES r_down	lower:1 end:1 storm:1 threat:1 stocks:1 eases:1
+stock_HES r_down	lower:1 oil:1 jobless:1 focus:1 claims:1 prices:1 follow:1 stocks:1
+stock_HES r_down	7:1
+stock_HES r_down	surprises:1 into:1 move:1 advisories:1 further:1 stocks:1 red:1
+stock_HES r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_HES r_down	jobs:1 after:1 yields:1 lows:1 new:1 before:1
+stock_HES r_up	31:1 30:1 $:2
+stock_HES r_down	seen:1 says:1 wake:1 expert:1 spill:1
+stock_HES r_down	's:1
+stock_HES r_down	's:1
+stock_HES r_up	oil:1 off:1 gains:1 lows:1 end:1 stocks:1
+stock_HES r_down	's:1
+stock_HES r_up	haircut:1 gets:1
+stock_HES r_down	's:2
+stock_HES r_up	10th:1
+stock_HES r_up	drop:1 surprises:1 under:1 sag:1 advisories:1 equities:1 stocks:1
+stock_HES r_up	crude:1 stocks:1 earnings:1 rocket:1
+stock_HES r_down	's:2
+stock_HES r_up	's:1
+stock_HES r_up	turn:1 stocks:1 steps:1 higher:1
+stock_HES r_up	flaring:2 reports:2
+stock_HES r_down	$:1
+stock_HES r_down	week:1 down:1 note:1 stocks:1 end:1
+stock_HES r_up	's:1 2010:1
+stock_HES r_down	12:1 's:2
+stock_HES r_up	30:1
+stock_HES r_down	2010:1
+stock_HES r_up	's:1 '09:1
+stock_HES r_up	's:1 '09:1
+stock_HES r_up	's:1
+stock_HES r_up	clear:1 some:1 deepwater:1 way:1 drilling:1
+stock_HES r_down	's:2 2011:2 gain:1 upgrades:1 services:1 makes:1
+stock_HES r_down	helped:1 fuel:1 boom:1
+stock_HES r_down	sector:1 loss:1 uptick:1 narrows:1 sees:1 lead:1 surprises:1 energy:1 advisories:1
+stock_HES r_up	's:2
+stock_HES r_down	$:1
+stock_HES r_up	's:1
+stock_HES r_up	majors:1 broad:1 caught:1 uncertainty:1 selloff:1 jump:1 fall:1 despite:1 stocks:1
+stock_HES r_down	's:2
+stock_HES r_up	heat:1 stocks:1 up:1
+stock_HES r_down	bears:1 trend:1 near-term:1 vie:1
+stock_HES r_down	pins:1 down:1 crude:1 zone:1
+stock_HES r_up	's:1
+stock_HES r_up	quarter:1 end:1 buckle:1 up:1 winning:1 wild:1 stocks:1 ride:1
+stock_HES r_up	streak:1 hot:1 stocks:1 extend:1
+stock_HES r_down	fuels:1 these:1 overlooked:1 5:1 spike:1 stocks:1 energy:1
+stock_HES r_up	's:1
+stock_HES r_up	's:1
+stock_HES r_down	profit:1 100:1 rise:1 $:1 oil:1
+stock_HES r_up	's:1 dividends:1 energy:1 watch:2 lift:1 73:2 stocks:1 boost:1
+stock_HES r_up	surprises:1 advisories:1
+stock_HES r_down	slow:1 rise:1 stocks:1 after:1 start:1
+stock_HES r_down	gains:1 surprises:1 support:1 slim:1 advisories:1 stocks:1 energy:1
+stock_HES r_up	n't:1
+stock_HES r_up	3.5:1 's:1 $:1
+stock_HES r_up	490:1
+stock_HES r_down	energy:1 bounces:1 up:1 back:1 edge:1 stocks:1
+stock_HES r_down	now:1 raging:1 money:1 one:1 5:1 bull:1 making:1 moves:1 stock:1
+stock_HES r_down	weighs:1 18-19:1 energy:1 drop:1 sharply:1 stocks:1
+stock_HES r_up	energy:1 stocks:1 gains:1 buoy:1
+stock_HES r_down	$:1 energy:1 470:1 slide:1 slip:1 stocks:1
+stock_HES r_down	30:1 $:1
+stock_HES r_up	n't:1
+stock_HES r_up	100:1 $:1
+stock_HES r_down	's:1
+stock_HES r_down	tap:1 energy:1 drop:1 10,000:1 62:6 earnings:1 's:4 stocks:1 2011:1
+stock_HES r_up	surprises:1 advisories:1
+stock_HES r_down	30:2 3rd:2
+stock_HES r_down	advance:1 's:1 lead:1 broad:1 stocks:1 market:1
+stock_HES r_down	prospects:1 cautious:1 gains:1 energy:1 back:1 stocks:1 fall:1 firms:1 hold:1
+stock_HES r_up	11:1 rally:1 stocks:1 join:1 relief:1
+stock_HES r_down	lower:1 surrender:1 stocks:1 end:1 gains:1
+stock_HES r_up	's:1 $:1 50:1
+stock_HES r_up	's:1 takes:1 energy:1 losses:1 sting:1 out:1 stock:1
+stock_HES r_up	ride:1 stocks:1 energy:1 reversal:1 up:1
+stock_HES r_up	energy:1 lifts:1 weak:1 stocks:1
+stock_HES r_up	's:1 $:1 204.6:1
+stock_HES r_down	prospects:1 up:1 shale:1
+stock_HES r_up	's:1
+stock_HES r_down	energy:1 lag:1 sprint:1 stocks:1
+stock_HES r_up	prices:1 merger:1 energy:1 stocks:1 ignite:1
+stock_HES r_up	's:1
+stock_HES r_down	's:1
+stock_HES r_up	watch:1 focus:1 reports:1 74:1 earnings:1 other:1
+stock_HES r_up	surprises:1 energy:1 rise:1 up:1 advisories:1 stocks:1
+stock_HES r_up	$:1 energy:1 up:1 75:1 rally:1 stock:1
+stock_HES r_down	's:1
+stock_HES r_up	2:1
+stock_HES r_up	spark:1 stocks:1 gains:1 energy:1 help:1
+stock_HES r_down	weigh:1 energy:1 stocks:1
+stock_HES r_down	$:1 7:1
+stock_HES r_down	's:1
+stock_HES r_down	's:1
+stock_HES r_down	firm:1 aim:1 takes:1 shale:1
+stock_HES r_up	's:1
+stock_HES r_up	's:1
+stock_HES r_down	leaves:1 stocks:1 energy:1 ebb:1 falls:1
+stock_HES r_up	jumps:1 stocks:1 energy:1 rise:1
+stock_HES r_up	ends:1 after:1 lower:1 reports:1
+stock_HES r_up	down:1 energy:1 stocks:1 up:1
+stock_HES r_up	5.5:1
+stock_HES r_down	's:2 energy:1 watch:1 up:1 stocks:1 dip:1
+stock_HES r_down	biggest:1 gaining:1 stocks:1 declining:1
+stock_HES r_up	ends:1 since:1 gasoline:1 lower:1 best:1
+stock_HES r_up	mixed:1 energy:1 lands:1 thud:1 stocks:1
+stock_HES r_up	down:1 energy:1 stocks:1 up:1 rise:1
+stock_HES r_up	leads:1 energy:1 gains:1 stock:1
+stock_HES r_up	while:1 after:1 earnings:1 drops:1 rallies:1
+stock_HES r_down	rally:1 oil:1 tops:1 stocks:1
+stock_HES r_up	leads:1 energy:1 stocks:1 higher:1
+stock_HES r_up	sector:1 fresh:1 energy:1 gains:1 keep:1

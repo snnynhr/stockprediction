@@ -1,0 +1,307 @@
+BBY	20120402	22.47	22.43	r_down	
+BBY	20120403	22.43	22.34	r_down	
+BBY	20120404	22.34	21.77	r_down	's:1
+BBY	20120405	21.77	21.49	r_down	
+BBY	20120409	21.49	21.49	r_up	
+BBY	20120410	21.49	20.23	r_down	gaining:1 's:1 log:1 worst:1 biggest:1 stocks:2 day:1 declining:1 2012:1
+BBY	20120411	20.23	20.83	r_up	probe:1 after:1 's:2 amid:1 rise:1 shares:1 hours:1 conduct:1 quits:1
+BBY	20120412	20.83	21.1	r_up	
+BBY	20120413	21.1	20.91	r_down	watch:1 's:1
+BBY	20120416	20.91	20.73	r_down	watch:1
+BBY	20120417	20.73	20.95	r_up	
+BBY	20120418	20.95	21.08	r_up	's:1
+BBY	20120419	21.08	21.03	r_down	
+BBY	20120420	21.03	20.52	r_down	
+BBY	20120423	20.52	20.79	r_up	
+BBY	20120424	20.79	20.74	r_down	
+BBY	20120425	20.74	21.1	r_up	
+BBY	20120426	21.1	21.13	r_up	
+BBY	20120427	21.13	21.34	r_up	
+BBY	20120430	21.34	21.09	r_down	
+BBY	20120501	21.09	21.46	r_up	across:1 tax:1 sales:1 inevitable:1
+BBY	20120502	21.46	21.12	r_down	
+BBY	20120503	21.12	20.64	r_down	
+BBY	20120504	20.64	19.9	r_down	
+BBY	20120507	19.9	19.71	r_down	
+BBY	20120508	19.71	19.23	r_down	
+BBY	20120509	19.23	19.21	r_down	's:1 deal:1
+BBY	20120510	19.21	19.06	r_down	
+BBY	20120511	19.06	18.43	r_down	$:1
+BBY	20120514	18.43	18.69	r_up	3-month:1 founder:1 120:1 drop:1 fears:1 down:1 n't:4 step:1 lows:1 stocks:1 chairman:1
+BBY	20120515	18.69	18.27	r_down	
+BBY	20120516	18.27	18.08	r_down	
+BBY	20120517	18.08	17.62	r_down	
+BBY	20120518	17.62	17.22	r_down	's:2
+BBY	20120521	17.22	17.37	r_up	
+BBY	20120522	17.37	17.64	r_up	streak:1 25:4 await:1 's:1 investors:1 flat:1 futures:1 watch:2 sales:1 bad:1 home:1
+BBY	20120523	17.64	17.75	r_up	promises:1 's:2 bold:1 surprises:1 interim:1 advisories:1 stall:1 action:1 stocks:1 concerns:1
+BBY	20120524	17.75	17.99	r_up	
+BBY	20120525	17.99	18.32	r_up	
+BBY	20120529	18.32	18.43	r_up	
+BBY	20120530	18.43	18.35	r_down	
+BBY	20120531	18.35	17.89	r_down	
+BBY	20120601	17.89	17.49	r_down	
+BBY	20120604	17.49	17.41	r_down	
+BBY	20120605	17.41	18.32	r_up	
+BBY	20120606	18.32	19.01	r_up	
+BBY	20120607	19.01	18.83	r_down	20:1 clipped:1 shares:1 get:1
+BBY	20120608	18.83	19.25	r_up	
+BBY	20120611	19.25	18.79	r_down	
+BBY	20120612	18.79	19.31	r_up	
+BBY	20120613	19.31	18.69	r_down	
+BBY	20120614	18.69	19.09	r_up	's:1 28:1
+BBY	20120615	19.09	19.3	r_up	
+BBY	20120618	19.3	19.08	r_down	
+BBY	20120619	19.08	19.49	r_up	
+BBY	20120620	19.49	19.57	r_up	's:2
+BBY	20120621	19.57	18.77	r_down	6:1
+BBY	20120622	18.77	18.49	r_down	
+BBY	20120625	18.49	17.84	r_down	
+BBY	20120626	17.84	18.66	r_up	biggest:1 gaining:1 stocks:1 declining:1
+BBY	20120627	18.66	19.08	r_up	futures:1 watch:1 n't:1 flattened:1 data:1 stock:1
+BBY	20120628	19.08	20.12	r_up	
+BBY	20120629	20.12	20.2	r_up	
+BBY	20120702	20.2	21.39	r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+BBY	20120703	21.39	20.96	r_down	watch:1
+BBY	20120705	20.96	20.95	r_down	
+BBY	20120706	20.95	20.8	r_down	week:1 2-6:1 600:2 lead:1 top:1 cement:1 2,400:1 3:2 stories:1 seeks:1 cuts:1 jobs:1 2nd:1 over:1 500:1 more:1
+BBY	20120709	20.8	20.41	r_down	
+BBY	20120710	20.41	20.37	r_down	
+BBY	20120711	20.37	18.66	r_down	stocks:1 wary:1
+BBY	20120712	18.66	18.33	r_down	streak:1 adds:1 over:1 since:1 worries:1 longest:1 retailers:1 losing:1 electronics:1 suffer:1
+BBY	20120713	18.33	18.31	r_down	
+BBY	20120716	18.31	18.21	r_down	back-to-school:1 retail:1 raises:1 stakes:1
+BBY	20120717	18.21	18.13	r_down	real:1 10:1 threats:1 estate:1 top:1 facing:1 500:1
+BBY	20120718	18.13	18.16	r_up	
+BBY	20120719	18.16	18.08	r_down	
+BBY	20120720	18.08	17.57	r_down	
+BBY	20120723	17.57	18.0	r_up	
+BBY	20120724	18.0	17.44	r_down	11:1
+BBY	20120725	17.44	16.71	r_down	disappoints:1 everyone:1 exits:1 after:1 weak:1 slumps:1 all-time:1 low:1 dividend:1 quarter:1 halts:1
+BBY	20120726	16.71	16.6	r_down	
+BBY	20120727	16.6	17.11	r_up	
+BBY	20120730	17.11	17.4	r_up	
+BBY	20120731	17.4	17.43	r_up	two-day:1 rally:1 stocks:1 retreat:1 after:1
+BBY	20120801	17.43	17.41	r_down	
+BBY	20120802	17.41	16.76	r_down	now:1 retail:1 gauge:1 key:1 capital:1 stocks:1
+BBY	20120803	16.76	17.0	r_up	
+BBY	20120806	17.0	19.26	r_up	task:1 's:2 lead:1 founder:1 broad:1 slate:1 futures:1 $:2 edge:1 tech:1 helps:1 hopes:1 higher:1 herculean:1 gains:1
+BBY	20120807	19.26	19.18	r_down	gaining:1 stocks:2 's:4 $:1 months:1 three:1 1bln:1 biggest:1 close:1 highest:1 declining:1
+BBY	20120808	19.18	19.14	r_down	territory:1 beyond:1 into:1 takeover:1 moves:1 targets:1
+BBY	20120809	19.14	18.49	r_down	's:1
+BBY	20120810	18.49	18.51	r_up	
+BBY	20120813	18.51	18.77	r_up	
+BBY	20120814	18.77	18.65	r_down	bruises:1 likely:1 13f:1 reports:1 show:1
+BBY	20120815	18.65	18.66	r_up	10.1:1
+BBY	20120816	18.66	19.67	r_up	launches:1 's:2 $:1 tablet:1 new:1
+BBY	20120817	19.67	19.53	r_down	's:1
+BBY	20120820	19.53	17.5	r_down	'':1 lower:1 's:2 mostly:1 lead:1 futures:1 ``:1 up:1 n't:1 heats:1 8:2 decliners:1 retail:1
+BBY	20120821	17.5	17.26	r_down	shop:1 ending:1 stocks:2 surprises:1 advisories:1 500:2 stock:1 flat:1 pare:1 good:1 's:2 lose:1 watch:2 falls:1 91:2 now:1 loss:1 ahead:1 futures:1 up:1 steam:1 n't:1 time:1 spotlight:1
+BBY	20120822	17.26	17.07	r_down	bets:1 leads:1 hits:2 retail:1 's:1 big:1 n't:1 flow:1 cash:1 high:1 52-week:1 9-year:1 low:1 rallies:1 '07:1 if:1
+BBY	20120823	17.07	17.35	r_up	stocks:1 's:2 store:2
+BBY	20120824	17.35	16.68	r_down	's:1 v.:1
+BBY	20120827	16.68	17.22	r_up	
+BBY	20120828	17.22	17.21	r_down	lower:1 's:1 $:1 lifts:1 end:1 stocks:1
+BBY	20120829	17.21	17.55	r_up	
+BBY	20120830	17.55	17.15	r_down	
+BBY	20120831	17.15	17.09	r_down	
+BBY	20120904	17.09	17.36	r_up	short:1 big:1 betting:1 sellers:1 4:1 stocks:1
+BBY	20120905	17.36	17.26	r_down	n't:1 aisle:1 price:1 changes:1 4:1
+BBY	20120906	17.26	17.58	r_up	
+BBY	20120907	17.58	17.73	r_up	
+BBY	20120910	17.73	17.68	r_down	
+BBY	20120911	17.68	18.07	r_up	
+BBY	20120912	18.07	18.07	r_up	school:1 big-box:1 back:1 defends:1 goes:1 position:1 its:1
+BBY	20120913	18.07	17.82	r_down	
+BBY	20120914	17.82	18.07	r_up	ways:1 pay:1 online:1 less:1
+BBY	20120917	18.07	17.47	r_down	ways:1 pay:1 online:1 5:1 less:1
+BBY	20120918	17.47	17.18	r_down	
+BBY	20120919	17.18	17.45	r_up	
+BBY	20120920	17.45	17.6	r_up	's:1
+BBY	20120921	17.6	17.32	r_down	brands:1 code:1 reach:1 consumers:1 crack:1
+BBY	20120924	17.32	17.13	r_down	over:1 5:3
+BBY	20120925	17.13	16.47	r_down	
+BBY	20120926	16.47	17.11	r_up	
+BBY	20120927	17.11	17.1	r_down	
+BBY	20120928	17.1	16.73	r_down	
+BBY	20121001	16.73	16.53	r_down	's:1
+BBY	20121002	16.53	16.51	r_down	screen:1 coupons:1 time:1
+BBY	20121003	16.51	17.27	r_up	after:1 jobs:1 pushes:1 win:1 futures:1 weak:1 up:1 edge:1 slammed:1 stock:1 out:1 data:1 view:1
+BBY	20121004	17.27	17.9	r_up	
+BBY	20121005	17.9	17.54	r_down	
+BBY	20121008	17.54	17.42	r_down	
+BBY	20121009	17.42	17.35	r_down	bright:1 potential:1 spots:1
+BBY	20121010	17.35	17.31	r_down	but:1
+BBY	20121011	17.31	17.35	r_up	whose:1 flow:1 companies:1 cash:1 tale:1 5:1 tells:1
+BBY	20121012	17.35	17.18	r_down	8:1 12:1
+BBY	20121015	17.18	17.0	r_down	sales:1 but:1 helped:1 only:1 touch:1 retail:1
+BBY	20121016	17.0	17.13	r_up	pricing:1 match:1 online:1
+BBY	20121017	17.13	17.11	r_down	down:1 weigh:1 stocks:1 tech:1 results:1
+BBY	20121018	17.11	17.01	r_down	249:1 $:1
+BBY	20121019	17.01	16.78	r_down	
+BBY	20121022	16.78	16.63	r_down	8:1 's:1
+BBY	20121023	16.63	16.41	r_down	8:1
+BBY	20121024	16.41	16.46	r_up	
+BBY	20121025	16.46	14.76	r_down	stokes:1 initiatives:1 's:2 surprises:1 movers:1 big:1 after:2 sales:1 shares:1 hours:2 lower:1 leap:1 advisories:1 pricing:1 online:1 drops:1
+BBY	20121026	14.76	14.55	r_down	
+BBY	20121031	14.55	14.79	r_up	
+BBY	20121101	14.79	14.64	r_down	
+BBY	20121102	14.64	14.29	r_down	's:1
+BBY	20121105	14.29	14.07	r_down	3.7:2 2007:3
+BBY	20121106	14.07	14.54	r_up	
+BBY	20121107	14.54	15.05	r_up	's:1
+BBY	20121108	15.05	14.84	r_down	earlier:1 stores:1 bargains:1 debut:1 tempt:1 holiday:1
+BBY	20121109	14.84	14.88	r_up	
+BBY	20121112	14.88	15.42	r_up	's:1
+BBY	20121113	15.42	15.27	r_down	's:1 ahead:1 trades:1 budget:1 stall:1 turnaround:1 gain:1 after-hours:1 talks:1 new:1 stocks:1 outlines:1 plan:1
+BBY	20121114	15.27	14.91	r_down	's:1 rejects:1 movers:1 big:1 sales:1 talk:1
+BBY	20121115	14.91	14.83	r_down	's:1
+BBY	20121116	14.83	13.37	r_down	do:1 stores:1 signal:1 competitive:1 retailers:1 holiday:1 open:1
+BBY	20121119	13.37	13.37	r_up	streak:1 en:1 's:2 français:1 win:1 likely:1 earnings:1 end:1
+BBY	20121120	13.37	11.63	r_down	stock:1 futures:1 's:2 $:1 movers:1 big:1 2012:1 after:1 steady:1 565:1 rallies:1 reclaim:1 neutral:1 warning:1 earnings:1 sense:1 hit:1 20:1 stocks:1 urgency:1 cliff:1
+BBY	20121121	11.63	11.25	r_down	gaining:1 's:2 countdown:1 retail’s:1 biggest:1 stocks:1 declining:1
+BBY	20121123	11.25	11.38	r_up	gives:1 23:1 n't:1 retailers:1 holiday:1 hope:1 2012:1
+BBY	20121126	11.38	12.14	r_up	billion:1 1.5:1 20:1 $:1 reach:1 could:1 watch:1 sales:1 's:1
+BBY	20121127	12.14	12.54	r_up	movers:1 big:1 over:1 sales:1 may:1 3:1 rallies:1 not:1 8:1 save:1
+BBY	20121128	12.54	12.98	r_up	
+BBY	20121129	12.98	12.6	r_down	n't:1
+BBY	20121130	12.6	12.75	r_up	holiday:1 financial:1 movers:1 big:1 stake:1 sale:1 rocks:1 vu:1 news:1 reading:1 miss:1 raises:1
+BBY	20121203	12.75	12.57	r_down	
+BBY	20121204	12.57	11.82	r_down	's:1
+BBY	20121205	11.82	11.75	r_down	27:1 's:4 $:1 movers:1 wishes:1 biggest:1 star:1
+BBY	20121206	11.75	12.02	r_up	27:1 's:2 $:1
+BBY	20121207	12.02	11.82	r_down	n't:1
+BBY	20121210	11.82	12.22	r_up	myths:1 sells:1 other:1 retail:1
+BBY	20121211	12.22	11.94	r_down	
+BBY	20121212	11.94	12.01	r_up	
+BBY	20121213	12.01	13.93	r_up	streak:1 flat:1 13:1 futures:1 's:1 movers:1 big:1 after:2 private:1 finally:1 developments:1 win:1 go:1 awaiting:1 500:1 cliff:1
+BBY	20121214	13.93	11.88	r_down	week:1 4.4:1 lower:1 's:1 movers:1 big:1 2012’s:1 jitters:1 down:1 say:1 winners:1 losers:1 end:1 stocks:1 2013:1 fiscal-cliff:1
+BBY	20121217	11.88	12.1	r_up	n't:1 's:3
+BBY	20121218	12.1	11.95	r_down	you’ve:1 won’t:1 rest:1 gifts:1 till:1 your:1 bought:1
+BBY	20121219	11.95	11.74	r_down	disappointing:1 may:1 sales:1 n't:1 see:1 holiday:1 if:1
+BBY	20121220	11.74	11.81	r_up	
+BBY	20121221	11.81	11.51	r_down	
+BBY	20121224	11.51	11.41	r_down	
+BBY	20121226	11.41	11.31	r_down	
+BBY	20121227	11.31	11.35	r_up	's:1 would:1 spring:1 sales:1 strike:1 threaten:1 retail:1
+BBY	20121228	11.35	11.13	r_down	quiz:1 2012:1
+BBY	20121231	11.13	11.69	r_up	disappointing:1 gird:1 sales:1 2012:2
+BBY	20130102	11.69	11.65	r_down	
+BBY	20130103	11.65	11.82	r_up	
+BBY	20130104	11.82	11.94	r_up	n't:1 8:2
+BBY	20130107	11.94	12.04	r_up	
+BBY	20130108	12.04	11.66	r_down	new:1 doesn’t:1 role:1 change:1 reality:1
+BBY	20130109	11.66	11.43	r_down	60:1 8:2
+BBY	20130110	11.43	12.04	r_up	movers:1 fails:1 sway:1
+BBY	20130111	12.04	14.01	r_up	11:1 help:1 bid:1 sales:1 but:1 holiday:1
+BBY	20130114	14.01	14.28	r_up	
+BBY	20130115	14.28	14.22	r_down	
+BBY	20130116	14.22	14.47	r_up	
+BBY	20130117	14.47	14.42	r_down	
+BBY	20130118	14.42	14.68	r_up	
+BBY	20130122	14.68	15.18	r_up	9:1 's:1
+BBY	20130123	15.18	15.19	r_up	
+BBY	20130124	15.19	15.13	r_down	's:2
+BBY	20130125	15.13	15.56	r_up	
+BBY	20130128	15.56	15.84	r_up	's:2
+BBY	20130129	15.84	15.77	r_down	work:1 burn:1 calories:1 while:1 not:1 you:1
+BBY	20130130	15.77	15.68	r_down	
+BBY	20130131	15.68	16.04	r_up	15:1
+BBY	20130201	16.04	15.89	r_down	
+BBY	20130204	15.89	15.54	r_down	
+BBY	20130205	15.54	15.71	r_up	vs.:1
+BBY	20130206	15.71	15.69	r_down	
+BBY	20130207	15.69	15.37	r_down	
+BBY	20130208	15.37	15.08	r_down	
+BBY	20130211	15.08	15.49	r_up	
+BBY	20130212	15.49	15.22	r_down	bear-market:1 overlooked:1 stores:1 strategy:1 most:1 retailers:1 close:1
+BBY	20130213	15.22	14.91	r_down	
+BBY	20130214	14.91	15.49	r_up	're:1 's:1
+BBY	20130215	15.49	16.64	r_up	biggest:1 gaining:1 stocks:1 declining:1
+BBY	20130219	16.64	17.09	r_up	46:1
+BBY	20130220	17.09	17.01	r_down	high:1 closes:1 stocks:1 gain:1 5-year:2
+BBY	20130221	17.01	17.17	r_up	
+BBY	20130222	17.17	16.79	r_down	
+BBY	20130225	16.79	16.77	r_down	n't:1 's:1
+BBY	20130226	16.77	16.23	r_down	tide:1 rising:1 housing-market:1 rides:1 's:1
+BBY	20130227	16.23	16.37	r_up	
+BBY	20130228	16.37	16.18	r_down	loss:1 narrows:1 miss:1 's:1 forecasts:1
+BBY	20130301	16.18	16.92	r_up	's:3 exits:1 movers:1 months:1 watch:1 spotlight:1 3:1 has:1 day:1 best:1
+BBY	20130304	16.92	17.53	r_up	
+BBY	20130305	17.53	18.15	r_up	
+BBY	20130306	18.15	18.49	r_up	
+BBY	20130307	18.49	18.99	r_up	record:1 rise:1 extends:1 gain:1
+BBY	20130308	18.99	19.89	r_up	
+BBY	20130311	19.89	19.8	r_down	's:1
+BBY	20130312	19.8	20.01	r_up	triumphs:1 troubles:1
+BBY	20130313	20.01	20.67	r_up	9:1
+BBY	20130314	20.67	21.2	r_up	streak:1 's:1 1996:1 win:1 since:1 gain:1 has:1 longest:1
+BBY	20130315	21.2	21.15	r_down	's:1 4:1
+BBY	20130318	21.15	21.83	r_up	
+BBY	20130319	21.83	22.11	r_up	
+BBY	20130320	22.11	22.93	r_up	
+BBY	20130321	22.93	22.32	r_down	
+BBY	20130322	22.32	22.64	r_up	's:1 4:1
+BBY	20130325	22.64	23.06	r_up	drop:1 stocks:1 concerns:1
+BBY	20130326	23.06	22.56	r_down	shift:1 fall:1 up:1 stays:1 stocks:1 market:1
+BBY	20130327	22.56	22.01	r_down	movers:1 jumps:1 500:1 lead:1
+BBY	20130328	22.01	22.01	r_up	
+BBY	20130401	22.01	21.55	r_down	
+BBY	20130402	21.55	21.51	r_down	
+BBY	20130403	21.51	21.52	r_up	
+BBY	20130404	21.52	24.98	r_up	tables:1 's:1 movers:1 turns:1 jumps:1 4:1 ‘showrooming’:1 new:1
+BBY	20130405	24.98	25.29	r_up	movers:1 stocks:1 watch:1 hammered:1 shares:1
+BBY	20130408	25.29	25.8	r_up	
+BBY	20130409	25.8	25.58	r_down	
+BBY	20130410	25.58	24.67	r_down	
+BBY	20130411	24.67	23.96	r_down	
+BBY	20130412	23.96	23.94	r_down	
+BBY	20130415	23.94	22.8	r_down	
+BBY	20130416	22.8	23.51	r_up	
+BBY	20130417	23.51	23.24	r_down	
+BBY	20130418	23.24	22.83	r_down	
+BBY	20130419	22.83	23.11	r_up	
+BBY	20130422	23.11	23.53	r_up	25:1 200:1 $:1 soars:1 trade:1 late:1 reclaiming:1
+BBY	20130423	23.53	23.98	r_up	
+BBY	20130424	23.98	23.62	r_down	's:1
+BBY	20130425	23.62	23.99	r_up	brands:1 most:1 damaged:1
+BBY	20130426	23.99	23.36	r_down	26:1
+BBY	20130429	23.36	24.05	r_up	
+BBY	20130430	24.05	25.83	r_up	hits:1 30:1 gains:1 amid:1 tally:1 n't:1 record:1 pause:1 earnings:1 stocks:1 data:1 500:1 futures:1
+BBY	20130501	25.83	25.74	r_down	's:1 gains:1 17:1 movers:1 deal:1 bln:1 debt:1 500:1 $:1
+BBY	20130502	25.74	26.1	r_up	
+BBY	20130503	26.1	26.36	r_up	
+BBY	20130506	26.36	26.18	r_down	8:1
+BBY	20130507	26.18	25.96	r_down	
+BBY	20130508	25.96	25.35	r_down	
+BBY	20130509	25.35	25.44	r_up	
+BBY	20130510	25.44	25.21	r_down	
+BBY	20130513	25.21	25.15	r_down	
+BBY	20130514	25.15	26.58	r_up	movers:1 shifts:1 reverse:1
+BBY	20130515	26.58	26.24	r_down	
+BBY	20130516	26.24	25.74	r_down	
+BBY	20130517	25.74	26.73	r_up	
+BBY	20130520	26.73	26.65	r_down	's:1
+BBY	20130521	26.65	25.48	r_down	speakers:1 's:1 ahead:1 watch:1 futures:1 steady:1 a.m:1 stocks:1
+BBY	20130522	25.48	25.49	r_up	movers:1 surprises:1 after:1 falls:1 advisories:1 testimony:1
+BBY	20130523	25.49	26.13	r_up	
+BBY	20130524	26.13	25.87	r_down	
+BBY	20130528	25.87	26.57	r_up	's:1
+BBY	20130529	26.57	26.87	r_up	
+BBY	20130530	26.87	27.57	r_up	
+BBY	20130531	27.57	27.38	r_down	
+BBY	20130603	27.38	27.19	r_down	
+BBY	20130604	27.19	27.23	r_up	movers:1 layoff:1 sinks:1 plan:1
+BBY	20130605	27.23	26.92	r_down	
+BBY	20130606	26.92	27.51	r_up	
+BBY	20130607	27.51	27.36	r_down	
+BBY	20130610	27.36	28.04	r_up	
+BBY	20130611	28.04	27.89	r_down	1.5:1 's:1 $:1
+BBY	20130612	27.89	26.88	r_down	
+BBY	20130613	26.88	27.56	r_up	
+BBY	20130614	27.56	26.87	r_down	
+BBY	20130617	26.87	27.41	r_up	
+BBY	20130618	27.41	28.06	r_up	
+BBY	20130619	28.06	27.66	r_down	900:1 2011:1
+BBY	20130620	27.66	26.59	r_down	
+BBY	20130621	26.59	26.77	r_up	

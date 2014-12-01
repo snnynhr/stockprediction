@@ -1,0 +1,535 @@
+stock_M r_up	sector:2 advance:1 stocks:1 's:7 $:2 lead:1 broad:1 gaining:1 2.3:1 ahead:1 reports:1 but:1 key:1 advances:1 biggest:1 retail:1 declining:1 earnings:1
+stock_M r_up	rises:1 's:2 profit:2 tax:1 benefit:1 drops:1
+stock_M r_down	's:2 rise:1 generally:1 but:1 red:1
+stock_M r_up	's:1
+stock_M r_down	's:1
+stock_M r_down	's:1
+stock_M r_up	's:1 proposed:1 deal:1 credit-card:1 see:1 upside:1
+stock_M r_up	six:1 's:2 must-have:1 year:1 leads:1 worst:1 fashions:1 apparel:1
+stock_M r_down	goods:1 sales:1 shares:1 hurt:1 home:1 new:1 retail:1 data:1 orders:1
+stock_M r_down	's:1
+stock_M r_down	slashes:1 outlook:1 retail:1 first-quarter:1 tumble:1 profit:1 bell:1 hammered:1 shares:1 forecast:1 n't:1 warning:2 1st:1 's:1 sounds:1 drops:1 grim:1
+stock_M r_up	's:1 $:1 2007:1
+stock_M r_down	's:2
+stock_M r_down	up:1 shares:1 bucking:1 7:1 laggards:1 retail:1
+stock_M r_up	session:1 retailers:1
+stock_M r_down	boost:1 gets:1 steady:1 holding:1
+stock_M r_down	surprises:1 advisories:1
+stock_M r_down	flat:1 buyout:1 bid:1 but:1 soars:1
+stock_M r_down	decline:1 operators:1 's:3 department-store:1 lead:1
+stock_M r_up	's:1
+stock_M r_up	financing:1 gets:1 valuation:1 rise:1 some:1 back:1 hurdle:1 merchandise:1 stocks:1 might:1 than:1 bigger:1
+stock_M r_up	's:1
+stock_M r_down	's:1 cloudy:1 forecast:1
+stock_M r_up	's:1
+stock_M r_down	's:1
+stock_M r_up	strength:1 sales:1 shares:1 hurt:1 lifts:1 net:1
+stock_M r_down	shift:1 weak:1 sales:1 but:2 visible:1 trends:1 lift:1 still:1
+stock_M r_down	mixed-bag:1 play:1 still:1 's:1 ahead:1 shift:1 weak:1 sales:3 shares:1 results:1 discounts:1 lift:1 reports:1 slip:1 seen:1 off:1 outlook:1 stocks:1 data:1
+stock_M r_down	's:2
+stock_M r_up	pull:1 oil:1 may:1 dips:1 stocks:1 bid:1 higher:1
+stock_M r_up	focus:1
+stock_M r_up	loss:1 swings:1 magic:1 deal:1 bullet:1 up:1 08:1 after:2 searching:1 futures:1 backs:1 full-year:1 edge:1 caution:1 forecast:1 inflation:1 rise:1 's:10 still:1 stock:1
+stock_M r_up	sales:1 woods:1 close:1 out:1 profit:1 tame:1 points:1 earnings:1 beating:1 higher:2 's:2 views:1 advances:1 falls:1 hurt:1 inflation:1 stocks:1 data:1 ahead:1 50:2 n't:1 street:1 analysts:1 push:1 clearance:1
+stock_M r_down	sector:1 13c:1 retail:1 's:5 markets:1 drop:1 two:1 gaining:1 leads:1 declining:1 biggest:1 stocks:2 tale:1 store:1
+stock_M r_down	's:1
+stock_M r_down	challenges:1 progress:1 loom:1 makes:1 but:1
+stock_M r_down	's:1
+stock_M r_down	sector:1 chain-store:1 up:1 1.8:1 sales:1 shares:1 surge:1 earnings:1 retail:1 boost:1
+stock_M r_up	sector:1 retail:1 sales:1 boosts:1
+stock_M r_down	's:1
+stock_M r_up	holds:1 warns:1 rise:1 inflation:1 rates:1 stocks:1 after:1
+stock_M r_down	bag:1 drops:1 5:1 retailers:1
+stock_M r_up	advance:1 gets:1 upgrade:1
+stock_M r_down	blow:1 's:1 deals:1 malls:1 another:1 bankruptcy:1
+stock_M r_down	files:1 explores:1 propel:1 deal:1 reach:1 sale:1 's:2 retail:1 bankruptcy:1
+stock_M r_down	department:1 further:1 stores:1 retreat:1 slip:1
+stock_M r_up	sector:1 upgrade:1 's:4 healthy:1 leading:1 jumps:1 retailer:1 focus:1 shares:1 'financially:1 reassures:1 higher:1
+stock_M r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_M r_up	sector:1 surges:1 inches:1 higher:1
+stock_M r_down	decline:1 investors:1 shares:1 earnings:1 mixed:1 digest:1
+stock_M r_up	's:1
+stock_M r_up	's:1
+stock_M r_down	11:1 's:1
+stock_M r_up	extend:1 unchanged:1 after:1 shares:1 rate:1 keeps:1 rally:1
+stock_M r_down	hard:1 hit:1 sink:1 shares:1
+stock_M r_up	's:1
+stock_M r_up	oil:1 $:1 price:1 shares:1 falls:1 jump:1 114:1 below:1 barrel:1
+stock_M r_up	sector:1 1.4:1 sales:2 down:1 slip:1 further:1 decline:1 takes:1 spending:1 debts:1 fears:1 outlooks:1 earnings:1 holiday:1 stock:1 's:7 views:1 after:1 focus:1 drag:1 data:1 lower:1 futures:1 bad:1 figures:1 2008:1 spotlight:1
+stock_M r_up	gaining:1 advance:1 outlook:1 oil:1 's:1 21:1 17:1 beat:1 declining:1 lower:1 shares:1 pops:1 hikes:1 bank:1 biggest:1 end:1 stocks:2 financials:1 down:1 pressured:1
+stock_M r_up	outlook:1 's:1 target:1 17:1 profit:1 company:1 cautions:1 climbs:1 while:1 lifts:1 trims:1 economy:1
+stock_M r_down	's:1
+stock_M r_up	fund:1 top:1 's:1 manager:1 list:1
+stock_M r_down	pressure:1 retail:1 numbers:1 stocks:1
+stock_M r_up	's:1
+stock_M r_down	surges:1 markets:1 broader:1
+stock_M r_down	bending:1 breaking:1 but:1 not:1 behavior:1 shoppers:1
+stock_M r_down	slimmer:1 economy:1 bend:1 fit:1 fashions:1
+stock_M r_down	shares:1 rate:1 edge:1 call:1 digests:1 market:1 higher:1
+stock_M r_up	's:1
+stock_M r_down	slips:1 markets:1 broader:1
+stock_M r_down	's:1 could:1 six:1 years:1 worst:1 shake:1 holiday:1 out:1
+stock_M r_up	cut:1 pinch:1 credit:1 costs:1 survey:1 feeling:1 more:1
+stock_M r_down	ugly:1 holiday:1 brace:1 analysts:1 season:1
+stock_M r_down	week:1 slashes:1 finish:1 off:1 profit:1 sales:1 but:1 indexes:1 n't:1 more:1 plunge:1 lows:1 forecasts:1 's:4 still:1 spotlight:1 stock:1
+stock_M r_up	license:1 brand:1 maker:1 products:1 its:1 massage:1
+stock_M r_down	33:1
+stock_M r_down	industrials:1 's:2 dive:1 fears:1 shares:1 recession:1 behind:1 plunge:1 1st:1 shoppers:1
+stock_M r_up	n't:1 's:2
+stock_M r_down	fourth-quarter:1 giant:1 's:2 business:1 decline:1 liquidate:1 view:1 sales:1 shares:1 forecast:1 recessionary:1 cuts:2 'going:1 fear:1 hold:1 spotlight:1 out:1
+stock_M r_down	gaining:1 sector:1 outlook:1 's:1 profit:1 keeps:1 mixed:1 retail:1
+stock_M r_down	's:1 dent:1 profit:1 but:1 sales:1 shares:1 haunts:1 recession:1 '09:1 keeps:1 retail:1 view:1
+stock_M r_down	slashes:1 fourth-quarter:1 's:2 profit:1 unhappy:1 forecast:2 holiday:1
+stock_M r_up	's:1 dollar:1 cuts:1 fears:1 earnings:1 demand:1 view:1
+stock_M r_up	profit:1 's:1 into:1 bites:1 cutback:1
+stock_M r_up	spending:1 sour:1 consumer:1 declining:1 shares:1
+stock_M r_down	profit:1 jumps:1 maintains:1 40:2 full-year:1 quarterly:1 net:1 view:1
+stock_M r_down	surprises:1 advisories:1
+stock_M r_down	hit:1 's:1 bankrupt:1 profit:1 broad:1 brighten:1 shares:1 third-quarter:1 down:1 follow:1 message:1 retail:1 markets:1
+stock_M r_down	sector:1 lower:1 's:5 $:1 44:1 futures:1 focus:1 turn:1 warning:1 411:1 warns:1 slams:1 downward:1 spotlight:1 stock:1
+stock_M r_up	outlook:1 unexpected:1 back:1 full-year:1 cuts:1 swings:1 adds:1 consumers:1 profit:2 capital:1 biggest:1 gaining:1 's:3 rises:1 gloom:1 but:1 cut:1 loss:1 end:1 stocks:2 day:1 declining:1 10:2 lower:1 third:1 drop:1 n't:1 spending:1 flags:1 34th:1 trims:1
+stock_M r_down	5:1
+stock_M r_up	lowers:1 sector:1 outlook:1 's:2 ``:1 '':1 mixed:1
+stock_M r_up	sector:1 tone:1 season:1 but:1 session:1 sets:1 's:1 holiday:1 hope:1
+stock_M r_down	worries:1 linger:1 shares:1 turn:1 9:1 amp:1 holiday:1 south:1
+stock_M r_up	promotions:1 focus:1 shifts:1 online:1 shoppers:1 stir:1
+stock_M r_up	gaining:1 holiday:1 's:1 broad:1 rise:1 somber:1 shares:1 month:1 record:1 setting:1 worst:1 biggest:1 tone:1 post:1 stocks:1 markets:1 declining:1
+stock_M r_up	's:1 gains:1 up:1 see:1 retailers:1 further:1
+stock_M r_down	back:1 but:1 down:1 roars:1 fall:1 stocks:1
+stock_M r_down	10:1 stocks:1 jumps:1 other:1 economic:1 retailers:1 rally:1 news:1 suffer:1
+stock_M r_down	sector:1 lower:1 falters:1 loses:1 close:1 steam:1
+stock_M r_up	leads:1 sector:1 higher:1
+stock_M r_up	's:2
+stock_M r_up	gaining:1 's:4 n't:1 biggest:1 stocks:1 declining:1
+stock_M r_up	's:1
+stock_M r_down	's:1
+stock_M r_down	week:1 gloom:1 drag:1 shares:1 indexes:1 down:1 retailing:1 stall:1 retailers:1 fresh:1 stocks:1 blankets:1
+stock_M r_up	post-holiday:1 spring:1 discounts:1 fashions:1 put:1 stock:1
+stock_M r_down	shine:1 flat:1 gains:1 gloom:1 signs:1 turns:1 after:1 but:1 early:1 may:1 e-tailers:1 retailers:1 thunder:1 steals:1
+stock_M r_up	sector:1 day:1
+stock_M r_up	even:1 chain-store:1 up:1 sales:1 fall:1 stocks:1
+stock_M r_up	session:1 18:1 stocks:1 end:1 gains:1
+stock_M r_down	start:1 2009:1 gains:1 retailers:1
+stock_M r_up	sector:1 ends:1 retail:1 ahead:1 sales:1 mixed:1 report:1 drops:1
+stock_M r_down	10:1 's:1 may:1 stores:1 --:1 close:1
+stock_M r_down	11:1 disappoint:1 prospects:1 's:4 10:1 profit:1 surges:1 retailer:1 sales:1 but:1 forecast:1 cuts:1 upbeat:1
+stock_M r_down	sector:1 trim:1 ca:1 sales:2 down:1 report:2 mild:1 finish:1 send:1 jobs:1 forecast:1 worry:1 hold:1 adds:1 recovery:1 snow:1 shares:1 2009:1 earnings:1 biggest:1 more:1 gaining:1 'disaster:1 's:1 company:1 after:1 job:1 fall:1 losing:1 stocks:3 lower:1 drops:1 ahead:1 reduces:1 losses:2 up:1 reports:1 n't:1 retailers:2 sets:1 mixed:1 retail:2
+stock_M r_down	sector:1 pattern:1 holding:1
+stock_M r_up	stocks:1 tough:1 gather:1 bad:1 plan:1 year:1 news:1 retail:1
+stock_M r_down	retail:1 batter:1 sales:1 stocks:1
+stock_M r_up	slashes:1 profit:1 inside:1 sales:1 forecasts:1 traffic:1 maximize:1 losing:1 those:1
+stock_M r_up	weighs:1 outlook:1 stocks:1 's:1 retail:1 sworn:1
+stock_M r_up	sector:1 outlook:1 's:1 14:1 starts:1 housing:1 focus:1 8217:2 s:2 gloomy:1 cuts:1 retail:1
+stock_M r_up	end:1 losses:1 modest:1 broader:1 follow:1 stocks:1 markets:1
+stock_M r_up	job:1 rise:1 up:1 retailers:1 cuts:1
+stock_M r_up	desire:1 shop:1 customers:1 rekindle:1 up:1 job:1 retailers:1 cuts:1 rebounds:1 hope:1
+stock_M r_down	sector:1 weighs:1 economic:1 data:1 $:1
+stock_M r_down	lower:1 help:1 no:1 turn:1 cost:1 cuts:1
+stock_M r_down	sector:1 shed:1 layoff:1 parade:1 8217:1 reorg:1 jobs:1 ground:1 blue:1 techs:1 spending:1 boost:1 finish:1 's:7 hits:1 lay:1 joins:1 news:1 chips:1 lower:1 off:1 7,000:4 thousands:1 drop:1 62:1 loses:1 s:1
+stock_M r_up	sector:1 's:3 7,000:1 pushes:1 jumps:1 futures:1 tops:1 expectations:1 8217:1 focus:1 turn:1 s:1 higher:1 4.34:1 stock:1 upward:1
+stock_M r_down	weighs:1 warning:1 retailers:1
+stock_M r_up	week:1 reveal:1 's:2 jobless:1 sales:1 top:1 results:1 off:2 8217:1 focus:1 8216:1 most:1 stories:1 retailers:1 2-6:1 shrugs:1 shrug:1 data:1 grim:3 monthly:1
+stock_M r_down	sector:1 plunge:1 ahead:1 broad:1 selloff:1 sales:1 start:1 report:1 stocks:1 market:1
+stock_M r_up	14:1
+stock_M r_down	advances:1 other:1 stumble:1 retailers:1 25:1
+stock_M r_up	loss:1 profit:1 51:1 tumbles:1 seen:1 quarter:1 first:1
+stock_M r_down	lower:1 's:1 $:1 profit:1 sales:1 hurt:1 costs:1
+stock_M r_up	10:1 stocks:1 's:4 $:2 advance:1 jumps:1 focus:1 pacing:1 s:1 8217:1 59:2 retail:1 spotlight:1
+stock_M r_down	150:1 results:1 's:2 swings:1 $:1 profit:1 expectations:1 discounts:1 biggest:1 8:1 gaining:1 hit:1 10:1 beat:1 after:1 but:1 holidays:1 during:1 stocks:1 declining:1 loss:1 costs:1 steep:1
+stock_M r_down	96:1
+stock_M r_up	lower:1 $:1 55:1 send:1 down:1 s:1 costs:1 8217:1 demand:1 closing:1 net:1
+stock_M r_down	end:1 tunnel:1 light:1 spots:1 not:1 's:1 retail:1
+stock_M r_up	$:1
+stock_M r_down	gaining:1 pull:1 plunges:1 fur:1 rescue:1 sector:1 trend:1 improved:1 sales:1 stops:1 challenges:1 biggest:1 belie:1 luxury:1 still:1 bucks:1 orange:1 's:2 stocks:1 declining:2 out:1
+stock_M r_up	sector:1 's:4 pressured:1 up:1 upgrades:1 plunges:1
+stock_M r_up	shut:1 plans:1 chain:1 jewelry:1
+stock_M r_up	stores:1 open:1 targeting:1
+stock_M r_up	's:3 signals:1 trends:1 coming:1 retail:1 shakeup:1
+stock_M r_up	gaining:1 sector:1 's:1 gains:1 leads:1 biggest:1 stocks:1 declining:1
+stock_M r_up	sector:1 tops:1 estimates:1 leads:1 retail:1 higher:1
+stock_M r_up	s:1 's:1 8217:1
+stock_M r_up	billion:1 fiscal:1 5.4:1 $:2 focus:1 charge:1 's:4 post:1 2008:1
+stock_M r_up	sector:1 loss:1 drops:1 earlier:1 cuts:1
+stock_M r_up	shuts:1 bolsters:1 past:1 worst:1 stores:1 retail:1
+stock_M r_up	n't:1
+stock_M r_up	lower:1 after:1 's:1 offer:1 may:1 over:1 rise:1 some:1 results:1 sales:1 worst:1 mixed:1 retail:1 hope:1
+stock_M r_down	sector:1 retail:1 drop:1 sales:1 dents:1 stocks:1
+stock_M r_down	's:1 50:1
+stock_M r_up	sell:1 exclusive:1 art:1 science:1 up:1 role:1 's:2 stepped:1 retail:1 line:1
+stock_M r_up	after:1 jobless:1 drop:1 claims:1 rises:1 weekly:1
+stock_M r_up	sector:1 upgraded:1 retail:1 stores:1 lead:1 may:1 signal:1 spot:1 turn:1 bright:1 drops:1 apparel:1 troubled:1 market:1
+stock_M r_up	profit:1 beats:1 estimates:1 shares:1 surge:1
+stock_M r_up	outlook:2 retail:1 improved:1 plans:1 closings:1 focus:1 bolsters:1 trimmed:1 shares:1 tumbles:1 's:1 net:1 stocks:1 data:1 trip:1 store:1
+stock_M r_down	profit:1 sales:1 beat:1 70:1 plunges:1 view:1
+stock_M r_down	ahead:1 pare:1 gains:1 shares:1 sales:1
+stock_M r_down	gaining:1 life:1 's:1 remains:1 spring:1 jumps:1 mixed:1 strain:1 biggest:1 outlook:1 stocks:2 declining:1
+stock_M r_up	surprises:1 advisories:1 's:1
+stock_M r_down	signal:1 retail:1 look:1 investors:1 next:1
+stock_M r_down	loss:1 drop:1 's:3 retail:1 losses:1 tumble:1 sales:3 focus:2 quarterly:1 widens:1 fall:1 wider:1 surprise:1 post:1 stocks:1
+stock_M r_down	gaining:1 flat:1 's:1 gains:1 offsets:1 profit:1 dollar:1 value:1 biggest:1 stocks:1 declining:1
+stock_M r_up	jump:1 tops:1 estimates:1 stocks:1 's:1
+stock_M r_up	loss:1 swings:1 luxury:1 falters:1 demand:1
+stock_M r_down	advances:1 stocks:1 slip:1
+stock_M r_down	edges:1 soars:1 higher:1
+stock_M r_up	jump:1 stocks:1 consumer-confidence:1 surge:1
+stock_M r_down	's:1 profit:1 57:1 sales:1 hurt:2 discounts:1 costs:1 durable-goods:1 net:1 drops:1 sags:1 33:1
+stock_M r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_M r_down	2008:1 after:1 results:1 sales:1 tumbles:1
+stock_M r_down	retail:1 consumers:1 wary:1 show:1 sales:1 still:1
+stock_M r_up	sell:1 sector:1 brand:1 rebounds:1
+stock_M r_down	's:1
+stock_M r_up	drop:1 stocks:1 guidance:1 misses:1
+stock_M r_down	brands:1 mix:1 stores:1 up:1
+stock_M r_down	'll:1
+stock_M r_down	edges:1 bounces:1 higher:1
+stock_M r_up	rise:1 stocks:1 economic:1 recovery:1 hope:1
+stock_M r_up	mixed:1 upgraded:1 stocks:1
+stock_M r_down	ways:1 discounts:1 new:1 fine:1 find:1 tune:1
+stock_M r_down	5.6:1
+stock_M r_down	tough:1 hint:1 sales:1 n't:1 second:1 half:1
+stock_M r_up	land:1 's:1 troubles:1 sales:1 send:1 apparel:1 edge:1 wake:1 effects:1 ripple:1 stocks:1 data:1 higher:1
+stock_M r_down	cast:1 drop:1 stocks:1 troubles:1 shadow:1
+stock_M r_up	's:1
+stock_M r_up	reported:1 lifted:1 stocks:1 bailout:1
+stock_M r_down	back-to-school:1 dims:1 outlook:1 stocks:1 fall:1
+stock_M r_up	rise:1 stocks:1 's:2 buy:1
+stock_M r_down	cash:1 goes:1
+stock_M r_up	save:1 coupons:1 online:1
+stock_M r_down	flat:1 stocks:1 public:1 again:1
+stock_M r_up	cuts:1 rise:1 stocks:1 tap:1 more:1
+stock_M r_up	flat:1 rise:1 end:1 after:1 sights:1 early:1 set:1 34th:1 fade:1 doubts:1 's:1 stocks:1 data:1 vs.:1 earnings:1
+stock_M r_up	rise:1 stocks:1 hope:1
+stock_M r_down	's:1
+stock_M r_up	profit:1 19:1 drops:1 's:2
+stock_M r_up	sailing:1 month:1 smooth:1 quite:1 ugly:1 retailers:1 retail:1 yet:1
+stock_M r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_M r_up	focus:1
+stock_M r_up	cost:1 loss:2 outlook:1 's:5 plans:1 n't:1 lifts:1 widens:2 cuts:1 90:1 more:1
+stock_M r_down	sector:1 now:1 stocks:2 's:2 war:1 data:1 leaves:1 rise:1 sales:1 tug:1 hearing:1 suppliers:1 wake:1 retailers:1 between:1 rates:1 retail:2 dip:1 unchanged:1 market:1 stock:1
+stock_M r_up	's:1
+stock_M r_up	stocks:1 's:1 higher:1 edge:1
+stock_M r_down	's:2
+stock_M r_up	shine:1 profit:1 beats:1 estimates:1 shares:1
+stock_M r_down	rise:1 sales:1 home:1 stocks:1 data:1 pending:1
+stock_M r_down	flat:1 's:1 largely:1 falls:1 earnings:1 stocks:1
+stock_M r_up	shrug:1 off:1 surprises:1 focus:1 sales:2 shares:1 data:1 advisories:1 mixed:1 post:1 sluggish:1
+stock_M r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_M r_down	's:1
+stock_M r_up	reality:1 runway:1 face:1 adapt:1 new:2 designers:1 luxury:1
+stock_M r_down	last:1 may:1 drop:1 concerns:1 not:1 rally:1 stocks:1
+stock_M r_up	upgraded:1 futures:1 's:7 rise:1 dollar:1 more:1 economic:1 higher:1 view:2 stocks:1 stock:1
+stock_M r_down	gaining:1 paying:1 's:2 focus:1 biggest:1 off:1 stocks:1 analyst:1 declining:1
+stock_M r_down	spring:1 hunt:1 fashions:1
+stock_M r_up	cheer:1 holiday:1 retailers:1 ahead:1
+stock_M r_up	1:1 $:1
+stock_M r_up	rise:1 stocks:1 improved:1 hope:1
+stock_M r_up	's:1 surprises:1 sales:1 99:1 advisories:1 gain:1 stocks:1 data:1
+stock_M r_down	exclusive:1 holiday:1 's:2 may:1 labels:1 some:1 results:1 promise:1 go:1 hold:1
+stock_M r_down	drop-off:1 shopping:1 another:1 faces:1
+stock_M r_up	slips:1 stocks:2 gains:2 make:1 retail:2 wiped:1 out:1
+stock_M r_down	push:1 stocks:1 higher:1
+stock_M r_down	upgraded:1 rises:1 profit:1 amid:1 sales:1 shortfall:1 fall:1 home:1 stocks:1 data:1
+stock_M r_down	spending:1 drop:1 stocks:1 consumer:1 falls:1
+stock_M r_up	upgrade:1 gains:1 profit:2 rise:1 tops:1 up:1 mark:1 exceeds:1 inch:1 stocks:2 expectations:1
+stock_M r_down	loss:1 's:1 widens:1 consumers:1 retailers:1 caution:1 another:1 surprise:1 upside:1 store:1
+stock_M r_up	10:2 's:1 $:1 monthly:1 surprises:1 over:1 sales:1 advisories:1 year:1 post:1 best:1
+stock_M r_up	gaining:1 10:2 's:6 $:1 focus:1 biggest:1 stocks:1 data:1 declining:1
+stock_M r_down	gaining:1 play:1 short:1 end:1 investors:1 falls:1 drop:1 focus:2 but:2 forecast:1 n't:1 hot:1 growth:1 declining:1 biggest:1 's:15 cold:1 stocks:3 talk:1 higher:1
+stock_M r_down	loss:1 outlook:1 stocks:1 's:4 21:1 falls:1 short:1 but:1 up:1 miracle:1 forecast:1 narrows:1 gears:1 battle:1 holiday:2
+stock_M r_up	outlook:1 welcome:1 led:1 profit:1 rise:1 tops:1 greeted:1 may:1 short:1 view:1 's:1 fall:1 stocks:1 78:3
+stock_M r_down	11:1 2:1
+stock_M r_up	outlook:1 hit:1 profit:1 tops:1 shares:1 view:1
+stock_M r_up	's:1
+stock_M r_down	bets:1 trend:1 's:1 setter:1
+stock_M r_down	closes:1 outlook:1 drop:1 's:3 wane:1 rise:1 fears:1 up:1 shares:1 sales:1 1:1 brightens:1 ho-hum:1 stocks:1
+stock_M r_down	gaining:1 's:2 biggest:1 15:1 stocks:1 declining:1
+stock_M r_up	do:1 's:1 $:1 5:1 message:1 retail:1
+stock_M r_down	job:1 stocks:1 's:2 just:1 up:1 --:1 losses:1 same-store:1 sales:1 expectations:1 inch:1 3:1 slow:1 turnaround:1 not:1 quite:1 miss:1 yet:1
+stock_M r_up	sector:1 surprises:1 bag:1 advisories:1 mixed:1 market:1 stock:1
+stock_M r_up	115:1 's:1
+stock_M r_up	mixed:1 downgrade:1 stocks:1 's:1 tumbles:1
+stock_M r_up	's:1
+stock_M r_up	n't:1
+stock_M r_up	shrug:1 off:1 investors:1 rise:1 shares:1 storm:1 's:2
+stock_M r_up	looms:1 getting:1 safe:1 nicked:1 but:1 hours:1 job:1 edge:1 stocks:1 higher:1
+stock_M r_down	down:1 stocks:1 edge:1
+stock_M r_up	rise:1 focus:1 sales:1 report:1 upbeat:1 holiday:1
+stock_M r_down	advance:1 stocks:2 track:1 6th:1 eke:1 sales:1 mixed:1 holiday:1 straight:1 out:1
+stock_M r_down	note:1 end:1 down:1 year:1 stocks:1 2010:1
+stock_M r_up	up:1 focus:1 shifts:1 inch:1 stocks:1 2010:1 view:1
+stock_M r_down	wins:1 stocks:1 upgrade:1 up:1 's:2
+stock_M r_up	's:2 may:1 game:1 won:1 have:1 chicken:1 holiday:1
+stock_M r_up	's:3 rise:1 tops:1 spotlight:1 mark:1 retailers:1 delivers:1 stocks:1 2010:1
+stock_M r_down	retail:1 jobs:1 data:1 after:1 pace:1 report:1 's:1 stocks:2 dip:1 view:1
+stock_M r_down	second:1 session:1 slip:1 shares:1 straight:1
+stock_M r_down	's:1 lackluster:1 after:1 sales:1 slip:1 report:1 stocks:1
+stock_M r_down	's:1
+stock_M r_down	's:5
+stock_M r_down	gets:1 stores:1 feedback:1 positive:1 revamp:1 slip:1 fall:1 stocks:2
+stock_M r_up	may:1 estimates:1 rise:1 stocks:1 miss:1
+stock_M r_up	profit:1 jumps:1 overseas:1 gains:1
+stock_M r_down	's:1
+stock_M r_up	mixed:1 cut:1 stocks:1 's:1
+stock_M r_up	net:1 hit:1 up:1 warns:1
+stock_M r_up	's:5 surprises:1 focus:1 1:1 3.4:1 advisories:1
+stock_M r_down	's:1 sputters:1 profit:1 jumps:1 report:1 rally:1
+stock_M r_up	manage:1 early:1 modest:1 stocks:1 upswing:1
+stock_M r_up	stocks:1 blizzards:1 most:1 retailers:1 retail:1 stumble:1 chill:1
+stock_M r_up	stocks:1 markets:1 broader:1 fall:1
+stock_M r_up	downgrade:1 rise:1 stocks:1 off:1 shrugs:1
+stock_M r_up	's:1 profit:1 rise:1 pops:1 report:1 stocks:1 2010:1
+stock_M r_up	loss:1 narrows:1 's:3 profit:1 turns:1 focus:1 spotlight:1 more:1
+stock_M r_up	loss:1 confidence:1 narrows:1 's:1 sell-off:1 broad:1 dives:1 luxury:1 demand:1 stocks:1 heals:1
+stock_M r_up	regional:1 's:4 retailers:1 rise:1 results:1 2:1 gainer:1 stocks:1 stir:1 hope:1
+stock_M r_up	leads:1 lower:1 retail:1 shares:1
+stock_M r_up	n't:1
+stock_M r_down	resurgent:1 shopper:1 surprises:1 snow:1 sales:1 advisories:1 lifts:1
+stock_M r_up	sector:1 up:1 sales:1 heat:1 gain:1 report:1 retail:2 powers:1
+stock_M r_up	's:1
+stock_M r_down	's:1
+stock_M r_up	's:1
+stock_M r_down	lifted:1 thaw:1 deal:2 may:1 signal:1 next:1 act:1 's:2 stocks:1
+stock_M r_up	billion:1 pays:1 3:1 $:1
+stock_M r_up	's:1 profit:1 surges:1 up:1 signals:1 luxury:1 pick:1
+stock_M r_down	pace:1 retail:1 stocks:1
+stock_M r_down	sector:1 lower:1 's:2 $:1 profit:1 rises:1
+stock_M r_up	1:1 's:1 $:1
+stock_M r_down	since:1 may:1 rise:1 '94:1 stocks:1 best:1
+stock_M r_down	sector:1 steady:1 gains:1
+stock_M r_up	's:3 $:1 consumers:1 16:1 signal:1 sales:1 back:1 2009:1
+stock_M r_up	stocks:1 end:1 ringing:1 up:1 registers:1 retail:1
+stock_M r_up	security-tabs:1 fall:1
+stock_M r_down	's:2 2010:2
+stock_M r_up	outlook:1 return:1 gains:1 personal:1 makes:1 jumps:1 traction:1 hikes:1 shoppers:1 sees:1 net:1 's:4 2010:1
+stock_M r_up	drop:1 stocks:1 decision:1 after:1 up:1
+stock_M r_down	on-track:1 likely:1 consumer:1 recovery:1 show:1
+stock_M r_up	pull:1 's:1 gains:1 back:1 further:1 stocks:1
+stock_M r_down	since:1 's:1 dampen:1 shift:1 drop:1 sales:1 lack:1 see:1 weather:1 retailers:1 biggest:1 sizzle:1 stocks:1
+stock_M r_down	's:1
+stock_M r_up	index:1 enters:1 's:1 gains:1 pace:1 market:1 stocks:1 500:1 first:1
+stock_M r_down	sector:1 's:2 up:1 focus:1 mixed:1 falls:1
+stock_M r_up	aided:1 cautious:1 's:11 gold:1 profit:1 swings:1 move:1 focus:1 but:1 4.6:1 stays:1 2009:3 32:1 more:1
+stock_M r_down	sector:2 lower:1 's:6 lead:2 5.8:1 45:1 eyes:1 luxury:1 retail:1 updates:1 higher:1
+stock_M r_down	sector:3 outlook:1 bar:1 lead:2 may:1 raised:1 2nd:1 lower:2 's:2 retail:1 miss:1 day:1
+stock_M r_down	's:2
+stock_M r_down	consumer:1 's:1 results:1 pain:1 show:1
+stock_M r_down	's:1
+stock_M r_down	's:1
+stock_M r_up	profit:1 slower:1 growth:1 brace:1
+stock_M r_up	shoppers:1 sparkles:1 net:1 return:1 luxury:1
+stock_M r_down	sector:1 's:1 reportedly:1 bids:1 receives:1 mixed:1
+stock_M r_up	uneven:1 recovery:1 spending:1 suggest:1 obscures:1 sales:1 but:1 results:1 on-track:1 retail:1
+stock_M r_down	surprises:1 advisories:1
+stock_M r_down	rise:1 edge:1 broader:1 mixed:1 stocks:1 markets:1 higher:1
+stock_M r_up	broad:1 tick:1 stocks:1 markets:1 higher:1
+stock_M r_up	33,000:2 $:2
+stock_M r_down	's:1 countries:1 frontier:1 goes:1 new:1 beyond:1
+stock_M r_down	peg:1 currency:1 stocks:1 relaxes:1 fall:1
+stock_M r_down	's:1 down:1 near:1 4th:2 lows:1 close:1 day:1 intraday:1
+stock_M r_up	sector:1 lower:1 retail:1 's:1 lead:1
+stock_M r_down	sector:1 estimates:1 cut:1 's:2 falls:1
+stock_M r_down	sector:1 down:1 spotlight:1
+stock_M r_up	disappointing:1 defy:1 stocks:1 data:1
+stock_M r_up	weighed:1 outlook:1 steady:1 but:1 falls:1 better:1 stocks:1 worry:1
+stock_M r_up	outlook:1 amid:1 1.9:1 sales:1 bag:1 advisories:1 surprises:1 mixed:1 worry:1
+stock_M r_up	1.9:1
+stock_M r_down	's:1
+stock_M r_up	sees:1 increased:1 sentiment:1 rise:1 back:1 results:1 costs:1 caution:1 aid:1 's:1 stocks:1 mood:1
+stock_M r_up	's:2
+stock_M r_down	cautious:1 sees:1 shopper:1 up:1 more:1 stocks:1 dip:1 ups:1 view:1
+stock_M r_down	's:1
+stock_M r_up	stocks:1 markets:1 broader:1 slip:1
+stock_M r_up	back-to-school:1 shift:1 lure:1 gears:1 shoppers:1
+stock_M r_down	bets:1 savings:1 your:1
+stock_M r_up	topping:1 now:1 profit:1 57:1 estimates:1 focus:1 wear:1 want:1 new:1 you:1 rises:1
+stock_M r_up	's:2 surprises:1 sales:3 back-to-school:1 pace:1 advisories:1 shortfall:1 retailers:1 claims:1 stores:1 retail:1 spotlight:1 aid:1
+stock_M r_down	end:1 ahead:1 off:1 report:1 lows:1 jobs:1 's:2 stocks:1
+stock_M r_up	rise:1 stocks:1 's:1 focus:1
+stock_M r_down	's:2
+stock_M r_up	drop:1 chain:1 pays:1 focus:1 economic:2 forex:1 six:1 29c:1 weeks:1 's:14 worst:1 sharply:1 fall:1 dividend:1 stocks:2 data:1 day:1 futures:1 cap:1 up:1 n't:2 worries:2 2009:3 spotlight:1 department-store:1
+stock_M r_down	gaining:1 outlook:2 short:1 's:3 drop:1 lower:1 shares:1 forecasts:1 biggest:1 full-year:1 fall:1 worries:1 stocks:2 declining:1
+stock_M r_down	's:1 14:1 profit:1 posts:1 but:1 forecasts:1 headline:1 disappoint:1 retail:1 mood:1
+stock_M r_up	's:1 up:1 edge:1 n't:1 2:1 higher:1
+stock_M r_up	pull:1 retail:1 's:2 dice:1 show:1 comments:1 fashion:1 retailers:1 firms:1 stocks:1 roll:1 2.5:1 higher:1
+stock_M r_down	2.5:1
+stock_M r_up	stocks:1 heavily:1 surprises:1 results:1 advisories:1 weigh:1 retail:1
+stock_M r_down	4:1
+stock_M r_down	's:1
+stock_M r_up	22:1 bid:1 shares:1 surge:1 potential:1 report:1
+stock_M r_up	stocks:1 36:1 symptom:1 lead:1
+stock_M r_up	mar:1 stores:1 no:1 pickup:1 sales:1 dinosaurs:1 jitters:1 retail:1 more:1
+stock_M r_up	their:1 staying:1 power:1 show:1
+stock_M r_up	global:1 cheered:1 stocks:1 economic:1 data:1
+stock_M r_up	glamour:1 behind:1 's:2 runway:1 stakes:1
+stock_M r_up	profit:1 74:1 falls:1
+stock_M r_up	's:2
+stock_M r_down	sector:1 flat:1 lower:1 retail:1 's:1
+stock_M r_up	rise:1 stocks:1 markets:1 broader:1
+stock_M r_up	positive:1 retail:1 's:1 sales:1 look:1
+stock_M r_up	after:1 sales:1 reports:1 2nd:1 mixed:1 stocks:1
+stock_M r_up	26:1 stocks:1 sales:1 better:1 expected:1 retail:2 powers:1 than:1 higher:1
+stock_M r_down	glimmers:1 holiday:1 hope:1
+stock_M r_down	point:1 frustrates:1 system:1 edge:1 video:1 retailers:1 stocks:1 higher:1
+stock_M r_down	stocks:1 profit:1 up:1 lift:2 earnings:1 holiday:1 hope:1
+stock_M r_up	jumps:1 net:1 sees:1 luxury:1 demand:1
+stock_M r_up	afraid:1 aren’t:1 offer:1 same-store:1 people:1 results:1 sales:3 holidays:1 rise:1 claims:1 stocks:1 spend:1 hope:1 jobless:1
+stock_M r_up	retail:1 jobs:1 surprises:1 advisories:1 report:1 stocks:1 lifts:1
+stock_M r_down	holidays:1 survey:1 up:1 stock:1
+stock_M r_down	focus:2 economic:1 jobless:1 hint:1 pickup:1 7:3 6:1 holiday:1 's:5 jumps:1 after:1 results:1 stocks:1 data:1 futures:1 up:1 optimism:1 edge:1 mixed:1 claims:1 retail:1 consumer:1
+stock_M r_up	end:1 stocks:1 's:2 gains:1
+stock_M r_up	sector:1 lower:1 leads:1 63:1 shines:1 2009:1
+stock_M r_up	73:2
+stock_M r_up	expected:1 loss:1 than:1 widens:1 more:1
+stock_M r_up	little:1 stocks:1 helper:1 give:1 up:1 best:1 sales:1 phone:1 smart:1 holiday:1 your:1 hope:1
+stock_M r_up	10:2 retail:1 's:1 $:2 lead:1 stocks:1 higher:1
+stock_M r_up	stokes:1 holiday:1 's:1 retail:1 show:1 stores:1 shoppers:1 hit:1 stocks:1 hope:1
+stock_M r_down	flat:1 retail:1 focus:1 sales:1
+stock_M r_up	holiday:1 returns:1 stocks:1 steady:1 posted:1
+stock_M r_down	shackles:1 spending:1 sales:1 cheer:1 lifts:1 off:1 holiday:1 's:1
+stock_M r_down	disappoints:1 stocks:1 data:1 fall:1
+stock_M r_up	jump:1 hold:1 stocks:1 steady:1 booksellers:1
+stock_M r_up	rise:1 markets:1 broader:1
+stock_M r_down	mixed:1 stocks:1 rises:1
+stock_M r_up	count:1 pull:1 all:1 stores:1 flat:1 sales:1 stops:1 down:1 last-minute:1 stocks:1 out:1
+stock_M r_down	sweet:1 spot:1 find:1
+stock_M r_up	holiday:1 strong:1 turning:1 season:1 up:1 hopes:1 retailers:1 shoppers:1 stocks:1 out:1
+stock_M r_up	sales:1 worries:1 snows:1 raise:1 fall:1
+stock_M r_up	billion:1 high:1 end:1 $:1 sales:1 28-month:2 1:1 likely:1 mixed:1 postpone:1
+stock_M r_up	jobs:1 rise:1 encouraging:1 sales:1 stocks:1 data:1
+stock_M r_down	's:2 sales:1 cheer:1 725:1 seen:1 holiday:1 bringing:1
+stock_M r_down	trim:1 short:1 gains:1 futures:1 focus:1 expectations:1 sales:1 n't:1 rosy:1 retailers:1 fall:1 claims:2 after:1 jobless:1
+stock_M r_down	's:1 weakness:1 telecom:1 surprises:1 advisories:1 fall:1 retail:1
+stock_M r_up	edge:1 slightly:1 shares:1 higher:1
+stock_M r_down	rise:1 stocks:1 jumps:1
+stock_M r_up	little:1 's:1 $:1 government:1 --:1 get:1 lift:1 5:1 stocks:1 data:1
+stock_M r_up	sector:1 stores:1 gains:1 lead:1 department:1 's:4
+stock_M r_down	real:1 loom:1 spotlights:1 estate:1 over:1 move:1 commodities:1 prices:1 retail:1 markets:1
+stock_M r_up	join:1 restructure:1 board:1
+stock_M r_down	26:1 tap:1 get:1 personal:1 shares:1 profit:1 potential:1 tech:1 fall:1 rises:1 margin:1
+stock_M r_down	spending:1 report:1 edge:1 wake:1 higher:1
+stock_M r_down	flat:1 downbeat:1 after:1 storms:1 sales:1 face:1 report:1 stocks:1 weaken:1
+stock_M r_up	brave:1 stormy:1 surprises:1 advisories:1 weather:1 2011:1
+stock_M r_up	120:1
+stock_M r_up	lackluster:1 start:1 rebound:1 stocks:1 after:1
+stock_M r_up	weak:1 stocks:1 off:1 start:1
+stock_M r_down	week:1 start:1 hold:1 stocks:1 steady:1
+stock_M r_down	increase:1 0.3:1 retail:1 sales:1
+stock_M r_down	35:1
+stock_M r_down	38:1 's:3 50:2 focus:1
+stock_M r_down	exclusives:1 's:1 help:1 costs:1 uses:1 offset:1
+stock_M r_up	weighs:1 's:1 36:1 shares:1
+stock_M r_up	's:2 $:1 10.7:1
+stock_M r_down	prices:1 pressure:1 oil:1 stocks:1 retail:1
+stock_M r_up	haves:1 cheered:1 encouraging:1 jobless:1 data:1 same-store:1 sales:3 up:1 retail-sector:1 focus:1 102:1 claims:1 ring:1 stocks:1 have-nots:1
+stock_M r_down	moves:1 drop:1 high:1 oil:1 2-year:1 stocks:1
+stock_M r_up	it’s:1 retailer:1 point:1
+stock_M r_down	oil:1 mood:1 dent:1 fall:1 prices:1 stocks:1
+stock_M r_up	downbeat:1 surprises:1 top:2 same-store:1 expectations:2 up:1 advisories:1 sales:3 focus:1 claims:1 stocks:1
+stock_M r_down	stokes:1 over:1 fears:1 resilience:1 shopper:1
+stock_M r_down	monthly:1 report:1 rise:1 sales:1 after:1
+stock_M r_down	downgrade:1 slide:1 stocks:1 hit:1
+stock_M r_up	after:1 steady:1 sales:1 report:1 stocks:1 weekly:1
+stock_M r_up	board:1 stocks:1 up:1 across:1
+stock_M r_down	's:1
+stock_M r_down	weighed:1 story:1 gains:1 remains:1 acceptance:1 winning:1 increase:1 inventory:1 stocks:1 dip:1 concern:1
+stock_M r_up	sends:1 rise:1 stocks:1 soaring:1 offer:1
+stock_M r_up	's:2
+stock_M r_up	stocks:1 dent:1 5:1 tumbles:1 retail:1 data:1
+stock_M r_up	after:1 's:1 rise:1 results:1 sales:1 retail-sales:1 upside:1 stocks:1 boost:1 gives:1
+stock_M r_up	inventories:1 risks:1 pose:1 makers’:1
+stock_M r_up	outlook:1 rise:1 's:15 profit:1 watch:1 jumps:1 futures:1 focus:1 up:1 trade:1 130:1 stocks:1 data:1 inspires:1 500:1 stock:1
+stock_M r_up	gaining:1 cheers:1 outlook:1 stocks:2 's:6 investors:1 profit:2 estimates:1 fall:2 tops:1 sales:1 shares:1 surge:1 n't:1 short:1 6:4 biggest:1 jobs:1 rises:1 data:1 declining:1
+stock_M r_down	report:1 ponder:1 managers:1 earnings:1
+stock_M r_down	sector:1 lower:1 rises:1 retail:1 6.7:4 drops:1
+stock_M r_up	profit:1 lift:1 gets:1
+stock_M r_up	's:1
+stock_M r_up	profit:1 sparkles:1 luxury:1 demand:1
+stock_M r_down	can’t:1 good:1 15:2 data:1 futures:1 's:4 more:1 slip:1 news:1 retail:1 boost:1 after:1 stock:1
+stock_M r_down	wilt:1 most:1 retailers:1 but:1 soars:1
+stock_M r_up	retail:1 out:1 gain:1 stocks:1 sit:1
+stock_M r_up	sector:1 pace:1 's:2 gain:1
+stock_M r_up	's:1
+stock_M r_up	taps:1 retail:1 's:2 chief:1
+stock_M r_down	mixed:1 sector:1 's:2 spotlight:1
+stock_M r_up	's:1
+stock_M r_up	major:1 technical:1 test:1 rises:1 500:1 first:1
+stock_M r_down	retail:1 hit:1 leads:1 another:1 off:1 decliners:1 stocks:1 2010:2
+stock_M r_down	down:1 follow:1 market:1 broader:1
+stock_M r_down	lower:1 highs:1 watch:1 lows:1 retailers:1 retail:1
+stock_M r_up	retail:1 jobs:1 paces:1 highs:1 sales:1 's:2 near:1 advisories:1 2004:1 surprises:1 hopes:1 rally:1 stocks:2 2011:1
+stock_M r_down	school:1 's:1 watch:1 well:1 sales:1 back:1 augur:1
+stock_M r_up	750,000:1 's:2 $:1
+stock_M r_up	stresses:1 back-to-school:1 shadow:1 spending:1
+stock_M r_up	demonstrates:1 shines:1 pricing:1 power:1
+stock_M r_down	sigh:1 industry:1 some:1 relief:1 breathes:1
+stock_M r_down	early:1 back-to-school:1 sales:1 favor:1
+stock_M r_down	customer:1 surprises:1 sales:1 reports:1 advisories:1 caution:1 highlight:1
+stock_M r_down	downgrade:1 play:1 retail:1 stocks:1 after:1
+stock_M r_up	watch:1
+stock_M r_down	oil:1 's:9 gold:1 futures:1 watch:1 up:1 64:6 sharply:1 off:1 stock:1
+stock_M r_up	pays:1 store-exclusive:1 off:1 's:1 strategy:1
+stock_M r_up	disappoints:1 outlook:1 shines:1
+stock_M r_down	5.7:4
+stock_M r_down	's:1 64:2
+stock_M r_down	cautious:1 financial:1 turn:1 outlooks:1 960,000:3 's:4
+stock_M r_up	's:1 defy:1 drop:1 consumers-retail:1 960,000:1 stocks:1 market:1
+stock_M r_up	's:1
+stock_M r_up	profit:1 global:1 33:1 winners:1 losers:1 demand:1 sparkles:1 retail:1 lifts:1
+stock_M r_up	lost:1 make:1 up:1 hope:1 sales:1
+stock_M r_down	fails:1 sales:1 retailers’:1 derail:1
+stock_M r_up	's:5 derailed:1 5.7:1 sales:1 dented:1 not:1 retail:1
+stock_M r_down	's:2
+stock_M r_up	's:1
+stock_M r_down	's:1
+stock_M r_down	lens:1 fashion:1 through:1
+stock_M r_up	's:1 4:1
+stock_M r_up	tough:1 show:1 despite:1 times:1 2:1 1st:1 resilience:1
+stock_M r_up	sector:1 resurgent:1 stocks:1 's:1 shoe:1
+stock_M r_up	's:1
+stock_M r_up	profit:1 hikes:1 outlook:1 up:1 24:1
+stock_M r_down	's:2
+stock_M r_down	's:4 $:2
+stock_M r_up	trick:1 's:2 treaters:1 $:1
+stock_M r_up	's:1 holiday:1 miss:1 raises:1 stakes:1
+stock_M r_up	2011:1 7:1
+stock_M r_down	30:1 's:1
+stock_M r_down	gaining:1 's:6 tumble:1 watch:1 futures:1 fears:1 biggest:1 bonds:1 stocks:1 spotlight:1 declining:1 stock:1
+stock_M r_up	begins:1 's:3 surprises:1 earlier:1 advisories:1 fervor:1 20:2 ever:1 than:1 steals:1
+stock_M r_up	30:1
+stock_M r_up	earnings:1 deck:1
+stock_M r_down	's:1 shopper:1 may:2 year:1 spot:1 up:1 herald:1 mobile:1 bright:1 dressing:1 holiday:1
+stock_M r_down	's:1
+stock_M r_up	68:1
+stock_M r_down	're:1 but:1
+stock_M r_down	futures:1 drop:1 euro-zone:1 down:1 retail’s:1 worries:1 stock:1
+stock_M r_up	gaining:1 holiday:1 's:2 shopping:1 biggest:1 new:1 stocks:1 declining:1
+stock_M r_up	hit:1 $:1 giving:1 season:1 sales:1 record:1 hope:1
+stock_M r_up	end:1 $:1 solid:1 sales:1 note:1 1.25:1
+stock_M r_down	's:3
+stock_M r_up	foreshadow:1 season:1 uncertain:1 sales:1
+stock_M r_down	ties:1 fortunes:1 its:1
+stock_M r_down	83:1 's:1 14:1 21:1
+stock_M r_up	112:1
+stock_M r_down	buyers:1 stores:1 24/7:1 touting:1 deals:1 find:1
+stock_M r_down	500:1
+stock_M r_down	set:1 top:1 sales:1 forecasts:1 gain:1 retail:1
+stock_M r_up	's:2 pay:1 price:1 watch:1 sales:1 win:1
+stock_M r_up	sees:1 back:1 saddle:1
+stock_M r_up	150:1 2011:1 $:1
+stock_M r_up	buy:1 consumers:1 code:1 right:1 cracking:1 now:1
+stock_M r_down	's:2
+stock_M r_up	's:2
+stock_M r_up	's:2
+stock_M r_up	's:1
+stock_M r_up	streak:1 continues:1 winning:1
+stock_M r_up	watch:1 surprises:1 13,000:1 advisories:1 's:3
+stock_M r_down	's:2
+stock_M r_up	n't:1
+stock_M r_up	teeters:1 breakout:1 three-year:1 500:1
+stock_M r_up	set:1 join:1 track:1 casino:1 sales:1 solid:1 gain:1 retail:1 gamble:1
+stock_M r_up	top:1 's:2 sales:1 expectations:1
+stock_M r_down	0.1:1 1:1 5:1 but:1
+stock_M r_up	'':1 ``:1
+stock_M r_up	worries:1 outlook:1 eases:1 luxury:1
+stock_M r_down	bubbly:1 impact:1 clamor:1 space:1 uneven:1 firms:1 retail:1 inflation’s:1 market:1
+stock_M r_down	benefit:1 more:1 tourism:1 retailers:1 pitch:1

@@ -1,0 +1,307 @@
+MCD	20120402	94.21	94.46	r_up	's:2
+MCD	20120403	94.46	95.46	r_up	
+MCD	20120404	95.46	93.62	r_down	's:1
+MCD	20120405	93.62	94.71	r_up	's:1
+MCD	20120409	94.71	94.96	r_up	soldiers:1 letter:1
+MCD	20120410	94.96	93.8	r_down	
+MCD	20120411	93.8	94.66	r_up	
+MCD	20120412	94.66	93.77	r_down	
+MCD	20120413	93.77	93.13	r_down	's:1
+MCD	20120416	93.13	92.75	r_down	's:1
+MCD	20120417	92.75	93.26	r_up	's:1
+MCD	20120418	93.26	93.48	r_up	n't:1 45:1
+MCD	20120419	93.48	91.51	r_down	seen:1 quarter:1 good:1 's:1
+MCD	20120420	91.51	92.14	r_up	wants:1 all:1 's:3 watch:2 focus:1 you:2
+MCD	20120423	92.14	91.42	r_down	
+MCD	20120424	91.42	90.84	r_down	
+MCD	20120425	90.84	91.45	r_up	
+MCD	20120426	91.45	92.03	r_up	's:2
+MCD	20120427	92.03	93.52	r_up	
+MCD	20120430	93.52	93.59	r_up	
+MCD	20120501	93.59	93.35	r_down	summer:1 12:1 hang:1 stocks:1
+MCD	20120502	93.35	93.65	r_up	
+MCD	20120503	93.65	93.2	r_down	
+MCD	20120504	93.2	92.07	r_down	$:1 96:1
+MCD	20120507	92.07	91.73	r_down	
+MCD	20120508	91.73	89.84	r_down	pare:1 end:1 losses:1 watch:1 lower:1 but:1 's:1 worry:1
+MCD	20120509	89.84	88.29	r_down	surprises:1 advisories:1
+MCD	20120510	88.29	88.23	r_down	
+MCD	20120511	88.23	88.26	r_up	
+MCD	20120514	88.26	87.28	r_down	
+MCD	20120515	87.28	87.41	r_up	's:1
+MCD	20120516	87.41	87.81	r_up	
+MCD	20120517	87.81	86.07	r_down	
+MCD	20120518	86.07	86.29	r_up	
+MCD	20120521	86.29	87.65	r_up	
+MCD	20120522	87.65	87.72	r_up	bond:1 bargains:1 hiding:1 stock:1
+MCD	20120523	87.72	87.86	r_up	
+MCD	20120524	87.86	87.9	r_up	
+MCD	20120525	87.9	87.44	r_down	
+MCD	20120529	87.44	87.3	r_down	
+MCD	20120530	87.3	86.54	r_down	
+MCD	20120531	86.54	86.47	r_down	
+MCD	20120601	86.47	83.93	r_down	's:1
+MCD	20120604	83.93	83.55	r_down	near:1 term:1
+MCD	20120605	83.55	84.29	r_up	
+MCD	20120606	84.29	85.81	r_up	
+MCD	20120607	85.81	85.54	r_down	
+MCD	20120608	85.54	84.93	r_down	global:1 's:5 may:1 surprises:1 futures:1 watch:1 slowdown:1 finally:1 advisories:1 slip:1 feeling:1 concerns:1 stock:1
+MCD	20120611	84.93	83.81	r_down	's:1
+MCD	20120612	83.81	84.7	r_up	
+MCD	20120613	84.7	85.15	r_up	's:7
+MCD	20120614	85.15	86.84	r_up	
+MCD	20120615	86.84	87.6	r_up	
+MCD	20120618	87.6	87.34	r_down	
+MCD	20120619	87.34	86.72	r_down	n't:1
+MCD	20120620	86.72	85.81	r_down	food:1 challenge:1 's:1 containment:1
+MCD	20120621	85.81	84.83	r_down	
+MCD	20120622	84.83	85.51	r_up	paying:1 stocks:1 worth:1
+MCD	20120625	85.51	85.29	r_down	
+MCD	20120626	85.29	86.24	r_up	
+MCD	20120627	86.24	85.5	r_down	
+MCD	20120628	85.5	85.35	r_down	
+MCD	20120629	85.35	85.69	r_up	's:1
+MCD	20120702	85.69	85.25	r_down	
+MCD	20120703	85.25	85.74	r_up	
+MCD	20120705	85.74	86.43	r_up	
+MCD	20120706	86.43	86.78	r_up	
+MCD	20120709	86.78	86.92	r_up	
+MCD	20120710	86.92	87.35	r_up	
+MCD	20120711	87.35	86.66	r_down	2nd:1
+MCD	20120712	86.66	88.98	r_up	lines:1 hurting:1 2nd:1 dollar:1 bottom:1
+MCD	20120713	88.98	89.33	r_up	's:1 ideas:1 money:1 top:1 fared:1 2012’s:1 far:1 so:1 have:1
+MCD	20120716	89.33	88.71	r_down	's:1
+MCD	20120717	88.71	88.94	r_up	
+MCD	20120718	88.94	89.26	r_up	's:1
+MCD	20120719	89.26	89.78	r_up	
+MCD	20120720	89.78	88.64	r_down	again:1 's:2 23:1 watch:1 apt:1 growth:1 more:1
+MCD	20120723	88.64	86.09	r_down	gaining:1 4.5:6 futures:1 's:17 $:1 no:1 may:1 fears:1 recession-proof:1 tumble:1 2nd:4 watch:1 longer:1 stock:1 biggest:1 return:1 stocks:1 declining:1 2012:1
+MCD	20120724	86.09	85.23	r_down	hours:1 drop:1 sinks:1 again:1 surprises:1 after:1 shares:1 down:1 advisories:1 mounts:1 fear:1 stocks:1
+MCD	20120725	85.23	85.21	r_down	
+MCD	20120726	85.21	86.14	r_up	
+MCD	20120727	86.14	86.33	r_up	could:1 only:1 love:1 13000:1 sponsors:1
+MCD	20120730	86.33	86.46	r_up	
+MCD	20120731	86.46	86.49	r_up	13000:1
+MCD	20120801	86.49	86.56	r_up	back-to-school:1 winners:1 's:1
+MCD	20120802	86.56	86.71	r_up	's:1
+MCD	20120803	86.71	86.71	r_up	
+MCD	20120806	86.71	86.81	r_up	's:1
+MCD	20120807	86.81	86.15	r_down	
+MCD	20120808	86.15	84.72	r_down	surprises:1 2000:1 advisories:1 's:7
+MCD	20120809	84.72	84.35	r_down	's:2 may:1 manage:1 gain:1 stocks:1 fading:1
+MCD	20120810	84.35	85.37	r_up	still:1 dividend-paying:1 best:1 stocks:1
+MCD	20120813	85.37	85.08	r_down	
+MCD	20120814	85.08	85.29	r_up	
+MCD	20120815	85.29	84.99	r_down	
+MCD	20120816	84.99	84.65	r_down	
+MCD	20120817	84.65	84.56	r_down	
+MCD	20120820	84.56	85.34	r_up	
+MCD	20120821	85.34	85.68	r_up	
+MCD	20120822	85.68	85.71	r_up	's:1
+MCD	20120823	85.71	85.42	r_down	
+MCD	20120824	85.42	86.07	r_up	
+MCD	20120827	86.07	86.67	r_up	profit:1 spirit:1
+MCD	20120828	86.67	86.28	r_down	's:1
+MCD	20120829	86.28	86.77	r_up	
+MCD	20120830	86.77	86.53	r_down	
+MCD	20120831	86.53	87.3	r_up	en:1
+MCD	20120904	87.3	86.87	r_down	
+MCD	20120905	86.87	86.88	r_up	
+MCD	20120906	86.88	88.45	r_up	's:1
+MCD	20120907	88.45	88.79	r_up	
+MCD	20120910	88.79	89.07	r_up	
+MCD	20120911	89.07	88.97	r_down	court:2 up:1 futures:1 watch:1 focus:1 awaited:1 gap:1 3.7:3 edge:1 ruling:2 's:5
+MCD	20120912	88.97	88.6	r_down	's:5
+MCD	20120913	88.6	89.33	r_up	burger:1 menu:1 's:1 highest-calorie:1 item:1
+MCD	20120914	89.33	89.46	r_up	2011:3
+MCD	20120917	89.46	89.88	r_up	
+MCD	20120918	89.88	90.8	r_up	
+MCD	20120919	90.8	90.56	r_down	2.8:2 platform:1 into:1 futures:1 steps:1
+MCD	20120920	90.56	90.87	r_up	10:1 's:1
+MCD	20120921	90.87	91.42	r_up	10:1 lifted:1 oil:1 's:1 dividends:1 futures:1 watch:1 5:1 stocks:1 fatten:1 500:1 stock:1
+MCD	20120924	91.42	91.42	r_up	
+MCD	20120925	91.42	90.59	r_down	
+MCD	20120926	90.59	90.92	r_up	
+MCD	20120927	90.92	90.99	r_up	
+MCD	20120928	90.99	89.5	r_down	's:2 raise:1 cars:1 too:1 questions:1 many:1
+MCD	20121001	89.5	89.74	r_up	's:2 give:1 funds:1 lift:1 international:1 stock:1
+MCD	20121002	89.74	88.7	r_down	
+MCD	20121003	88.7	88.14	r_down	2003:1 's:1
+MCD	20121004	88.14	88.8	r_up	
+MCD	20121005	88.8	88.77	r_down	
+MCD	20121008	88.77	89.3	r_up	's:1
+MCD	20121009	89.3	89.86	r_up	's:1
+MCD	20121010	89.86	90.14	r_up	's:1 bench:1
+MCD	20121011	90.14	90.1	r_down	
+MCD	20121012	90.1	90.25	r_up	47:1 's:2
+MCD	20121015	90.25	91.21	r_up	
+MCD	20121016	91.21	91.79	r_up	
+MCD	20121017	91.79	91.39	r_down	
+MCD	20121018	91.39	90.59	r_down	
+MCD	20121019	90.59	86.55	r_down	loss:1 futures:1 's:7 ahead:1 surprises:1 into:1 rise:1 watch:1 advisories:1 cutting:1 3.5:2 earnings:1 weigh:1 stock:1 data:1 weekly:1
+MCD	20121022	86.55	86.29	r_down	
+MCD	20121023	86.29	85.81	r_down	
+MCD	20121024	85.81	85.14	r_down	stocks:1 sharply:1 its:1 retreat:1 earnings:1
+MCD	20121025	85.14	85.19	r_up	
+MCD	20121026	85.19	84.59	r_down	's:1
+MCD	20121031	84.59	84.68	r_up	
+MCD	20121101	84.68	84.68	r_up	
+MCD	20121102	84.68	84.73	r_up	's:2
+MCD	20121105	84.73	85.32	r_up	
+MCD	20121106	85.32	85.82	r_up	
+MCD	20121107	85.82	84.73	r_down	
+MCD	20121108	84.73	83.05	r_down	's:3 movers:1 1.8:2 low:1 5-month:1 biggest:1
+MCD	20121109	83.05	82.67	r_down	's:1
+MCD	20121112	82.67	82.8	r_up	's:2
+MCD	20121113	82.8	82.57	r_down	
+MCD	20121114	82.57	82.55	r_down	
+MCD	20121115	82.55	81.99	r_down	's:5
+MCD	20121116	81.99	82.06	r_up	
+MCD	20121119	82.06	82.96	r_up	
+MCD	20121120	82.96	83.58	r_up	
+MCD	20121121	83.58	83.9	r_up	fiscal:1 games:1 nears:1 seen:1 dividend:1 cliff:1
+MCD	20121123	83.9	84.92	r_up	most:1 workers:1 12:1 companies:1 minimum-wage:1
+MCD	20121126	84.92	84.13	r_down	's:1
+MCD	20121127	84.13	83.82	r_down	
+MCD	20121128	83.82	84.4	r_up	
+MCD	20121129	84.4	85.13	r_up	action:1 workers:1 job:1 fast-food:1
+MCD	20121130	85.13	85.67	r_up	
+MCD	20121203	85.67	85.69	r_up	's:1
+MCD	20121204	85.69	85.83	r_up	
+MCD	20121205	85.83	85.6	r_down	
+MCD	20121206	85.6	86.71	r_up	2:1
+MCD	20121207	86.71	87.09	r_up	's:2
+MCD	20121210	87.09	88.01	r_up	's:5
+MCD	20121211	88.01	88.21	r_up	hopes:1 talks:1 rise:1 stocks:1 fiscal-cliff:1
+MCD	20121212	88.21	87.91	r_down	come:1 do:1 2:1 's:1 $:1
+MCD	20121213	87.91	87.77	r_down	175:1 's:1 $:1
+MCD	20121214	87.77	87.48	r_down	unloved:1 watch:1 3:1 dividend:1 stocks:1 2013:1
+MCD	20121217	87.48	88.5	r_up	
+MCD	20121218	88.5	89.1	r_up	10:1
+MCD	20121219	89.1	88.3	r_down	's:1
+MCD	20121220	88.3	88.63	r_up	
+MCD	20121221	88.63	88.76	r_up	10:1 money-making:1 's:1 ideas:1 investment:1 2013:1
+MCD	20121224	88.76	87.89	r_down	
+MCD	20121226	87.89	87.35	r_down	's:1
+MCD	20121227	87.35	87.33	r_down	
+MCD	20121228	87.33	86.2	r_down	
+MCD	20121231	86.2	86.82	r_up	
+MCD	20130102	86.82	88.7	r_up	
+MCD	20130103	88.7	89.21	r_up	
+MCD	20130104	89.21	88.44	r_down	
+MCD	20130107	88.44	89.48	r_up	
+MCD	20130108	89.48	89.51	r_up	after:1 sales:1 shares:1 hours:1 warning:1 fall:1
+MCD	20130109	89.51	89.38	r_down	's:1
+MCD	20130110	89.38	89.96	r_up	
+MCD	20130111	89.96	90.29	r_up	
+MCD	20130114	90.29	90.09	r_down	
+MCD	20130115	90.09	90.07	r_down	
+MCD	20130116	90.07	89.67	r_down	's:1
+MCD	20130117	89.67	90.32	r_up	
+MCD	20130118	90.32	90.81	r_up	's:1
+MCD	20130122	90.81	91.49	r_up	
+MCD	20130123	91.49	92.01	r_up	n't:1 's:1 pin:1 futures:1 down:1 earnings:2 vote:1 stock:1
+MCD	20130124	92.01	91.84	r_down	13:1 's:1
+MCD	20130125	91.84	92.25	r_up	's:1 earnings:1 expectations:1
+MCD	20130128	92.25	92.88	r_up	
+MCD	20130129	92.88	93.43	r_up	's:1
+MCD	20130130	93.43	93.18	r_down	
+MCD	20130131	93.18	93.79	r_up	
+MCD	20130201	93.79	94.44	r_up	
+MCD	20130204	94.44	93.11	r_down	
+MCD	20130205	93.11	93.42	r_up	dividend-paying:1 stocks:1 pick:1
+MCD	20130206	93.42	93.58	r_up	
+MCD	20130207	93.58	93.14	r_down	
+MCD	20130208	93.14	93.38	r_up	after:1 's:1 futures:1 up:1 trade:1 edge:1 14,000:4 data:1
+MCD	20130211	93.38	93.67	r_up	
+MCD	20130212	93.67	93.61	r_down	
+MCD	20130213	93.61	92.52	r_down	finish:1 produces:1 muted:1 winners:1 speech:1 stock:1 stalls:1 losers:1 stocks:1 higher:1
+MCD	20130214	92.52	92.09	r_down	's:1
+MCD	20130215	92.09	92.42	r_up	
+MCD	20130219	92.42	92.38	r_down	
+MCD	20130220	92.38	92.43	r_up	
+MCD	20130221	92.43	92.66	r_up	
+MCD	20130222	92.66	93.75	r_up	
+MCD	20130225	93.75	94.63	r_up	
+MCD	20130226	94.63	94.71	r_up	trend:1 shift:1 spike:1 volatility:1
+MCD	20130227	94.71	94.99	r_up	
+MCD	20130228	94.99	95.15	r_up	
+MCD	20130301	95.15	94.94	r_down	
+MCD	20130304	94.94	94.33	r_down	's:2
+MCD	20130305	94.33	95.07	r_up	high:1 new:1 ceiling:1 point:1
+MCD	20130306	95.07	96.06	r_up	
+MCD	20130307	96.06	96.34	r_up	
+MCD	20130308	96.34	97.94	r_up	's:1
+MCD	20130311	97.94	98.12	r_up	
+MCD	20130312	98.12	97.99	r_down	's:1
+MCD	20130313	97.99	98.61	r_up	
+MCD	20130314	98.61	98.54	r_down	food:1 're:1 police:1 outruns:1
+MCD	20130315	98.54	98.9	r_up	's:1
+MCD	20130318	98.9	97.8	r_down	
+MCD	20130319	97.8	97.64	r_down	
+MCD	20130320	97.64	98.0	r_up	
+MCD	20130321	98.0	97.76	r_down	
+MCD	20130322	97.76	98.5	r_up	
+MCD	20130325	98.5	97.48	r_down	's:1
+MCD	20130326	97.48	97.73	r_up	's:1
+MCD	20130327	97.73	98.13	r_up	
+MCD	20130328	98.13	98.92	r_up	's:2
+MCD	20130401	98.92	98.28	r_down	
+MCD	20130402	98.28	99.48	r_up	n't:1
+MCD	20130403	99.48	98.48	r_down	
+MCD	20130404	98.48	99.85	r_up	
+MCD	20130405	99.85	100.63	r_up	
+MCD	20130408	100.63	100.71	r_up	
+MCD	20130409	100.71	100.27	r_down	
+MCD	20130410	100.27	100.7	r_up	failed:1 magic:1
+MCD	20130411	100.7	101.2	r_up	's:1
+MCD	20130412	101.2	102.78	r_up	
+MCD	20130415	102.78	101.36	r_down	's:1
+MCD	20130416	101.36	102.24	r_up	's:1
+MCD	20130417	102.24	101.74	r_down	
+MCD	20130418	101.74	101.12	r_down	
+MCD	20130419	101.12	99.14	r_down	weighs:1 futures:1 's:4 a.m:1 rise:2 watch:1 n't:1 cue:1 lifts:1 take:1 equities:1 global:1 stocks:1
+MCD	20130422	99.14	98.55	r_down	
+MCD	20130423	98.55	98.98	r_up	
+MCD	20130424	98.98	100.23	r_up	
+MCD	20130425	100.23	100.16	r_down	
+MCD	20130426	100.16	100.11	r_down	
+MCD	20130429	100.11	101.39	r_up	
+MCD	20130430	101.39	101.35	r_down	
+MCD	20130501	101.35	100.59	r_down	fast-food:1 away:1 returns:1 stocks:1 sin:1 investors’:1
+MCD	20130502	100.59	101.27	r_up	
+MCD	20130503	101.27	102.12	r_up	
+MCD	20130506	102.12	101.28	r_down	
+MCD	20130507	101.28	101.49	r_up	
+MCD	20130508	101.49	100.17	r_down	into:1 but:1 15000:1
+MCD	20130509	100.17	98.92	r_down	's:2
+MCD	20130510	98.92	99.42	r_up	
+MCD	20130513	99.42	99.6	r_up	's:1
+MCD	20130514	99.6	100.41	r_up	's:1
+MCD	20130515	100.41	101.16	r_up	
+MCD	20130516	101.16	100.33	r_down	
+MCD	20130517	100.33	100.75	r_up	
+MCD	20130520	100.75	100.75	r_up	
+MCD	20130521	100.75	101.35	r_up	's:1 50:1
+MCD	20130522	101.35	100.95	r_down	
+MCD	20130523	100.95	100.24	r_down	popular:1 brands:1 's:1
+MCD	20130524	100.24	99.51	r_down	's:1
+MCD	20130528	99.51	100.45	r_up	
+MCD	20130529	100.45	98.28	r_down	
+MCD	20130530	98.28	97.07	r_down	'll:1
+MCD	20130531	97.07	96.57	r_down	
+MCD	20130603	96.57	97.96	r_up	
+MCD	20130604	97.96	98.37	r_up	
+MCD	20130605	98.37	96.42	r_down	
+MCD	20130606	96.42	96.68	r_up	
+MCD	20130607	96.68	98.28	r_up	
+MCD	20130610	98.28	99.53	r_up	's:3 2.6:1
+MCD	20130611	99.53	98.23	r_down	loss:1 stocks:1 end:1 gain:1 's:2
+MCD	20130612	98.23	98.24	r_up	
+MCD	20130613	98.24	98.88	r_up	
+MCD	20130614	98.88	98.42	r_down	
+MCD	20130617	98.42	98.74	r_up	spending:1 could:1 slowdown:1 kill:1 rally:1 2013:1
+MCD	20130618	98.74	99.75	r_up	summer:1 money:1 long:1 hot:1 put:1 your:1
+MCD	20130619	99.75	98.81	r_down	
+MCD	20130620	98.81	96.79	r_down	
+MCD	20130621	96.79	97.23	r_up	

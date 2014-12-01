@@ -1,0 +1,298 @@
+stock_FITB r_up	$:2
+stock_FITB r_down	$:1
+stock_FITB r_up	$:1
+stock_FITB r_down	surprises:1 advisories:1
+stock_FITB r_up	analysts:1 financial:1 may:1 focus:1 sale:1 up:1 say:1 lift:1 cleaning:1 need:1 stocks:1 helps:1 before:1
+stock_FITB r_up	gaining:1 55c:1 's:1 65c:1 offer:1 19:1 dilutive:1 focus:1 biggest:1 declining:1 tumbles:1 mixed:1 stocks:1 financials:1
+stock_FITB r_down	surprises:1 advisories:1 $:1
+stock_FITB r_down	...:1
+stock_FITB r_down	hit:1 losses:1 hedge-fund:1 2:1 policies:1 banks:1 insurance:1
+stock_FITB r_up	slide:1 losses:1 's:1 modest:1 shares:1
+stock_FITB r_up	sector:1 loss:1 's:1 surprises:1 move:1 down:1 advisories:1 warning:1 drags:1 capital:1
+stock_FITB r_down	sector:1 brave:1 's:1 bargains:1 investors:1 holds:1 some:1
+stock_FITB r_down	2nd:2
+stock_FITB r_down	futures:1 soars:1 results:1 oil:1 names:1 rises:1 $:2 slide:1 shares:1 low:1 under:1 biggest:1 new:1 chairman:1 gaining:1 ends:1 plunge:1 's:3 capital:1 pressure:1 sharply:1 boosting:1 stocks:2 declining:1 drop:3 three-month:1 banks:1 stock:1 spotlight:1
+stock_FITB r_up	sector:1 feel:1 back:1 reconsider:1 dives:1 market:1 ground:1 closes:1 taps:1 $:1 housing:1 leap:1 capital:1 tech:1 markets:1 dips:1 gives:1 's:1 reportedly:1 advice:1 gain:1 tanks:1 amp:1 stocks:1 bank:1 raise:1 lower:1 pinch:1 surge:1 hikes:1 're:1 drags:1 banks:1
+stock_FITB r_up	1c:1 5c:1
+stock_FITB r_down	after:1 's:1
+stock_FITB r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_FITB r_down	high:1 lower:1 after:1 end:1 into:1 steeply:1 oil:1 late:1 regionals:1 surges:1 despite:1 rally:1 stocks:1 new:1 skid:1 red:1
+stock_FITB r_down	amp:1 's:1
+stock_FITB r_down	focus:1
+stock_FITB r_up	's:1 bargains:1 surprises:1 advisories:1 basement:1 market:1 stock:1
+stock_FITB r_down	lower:1 surprises:1 rallies:1 reports:1 banks:1 advisories:1 turnaround:1 income:1 quarterly:1 net:1
+stock_FITB r_up	show:1 under:1 results:1 pressure:1 remain:1 quarterly:1 banks:1
+stock_FITB r_down	ask:1 hit:1 over:1 feds:1 harder:1
+stock_FITB r_up	2:4 6:2
+stock_FITB r_down	10:1 after:1 down:1 2:2 6:1 downgrade:1
+stock_FITB r_up	's:1
+stock_FITB r_up	's:1
+stock_FITB r_up	gaining:1 's:1 focus:1 losing:1 biggest:1 stocks:1
+stock_FITB r_up	gaining:1 's:1 losing:1 biggest:1 stocks:1 spotlight:1
+stock_FITB r_down	prevent:1 help:1 future:1 failures:1 insurance:1 bank:1 more:1
+stock_FITB r_up	lower:1 end:1 sixth:1 straight:1 stocks:1 day:1
+stock_FITB r_down	's:1
+stock_FITB r_up	's:1
+stock_FITB r_down	slips:1 25:1 's:1 builds:1 credit:1 reserves:1 net:1
+stock_FITB r_up	sector:1 slips:1 30:1 's:1 regional:2 focus:1 but:1 quarterly:1 reserves:1 bonanza:1 build:1 losses:1 banks:2 buyout:1 post:1 recover:1 gets:1
+stock_FITB r_down	lower:1 end:1 declines:1 led:1 stocks:1 technology:1
+stock_FITB r_down	$:2 529:1
+stock_FITB r_up	balance:1 regional:1 up:1 shore:1 sheets:1 banks:1 moves:1
+stock_FITB r_up	's:1 get:1 but:1 jitters:1 economic:1 capital:1 banks:1 weigh:1
+stock_FITB r_up	's:1 planning:1 companies:1 participate:1
+stock_FITB r_down	's:1
+stock_FITB r_up	's:1
+stock_FITB r_up	's:2
+stock_FITB r_down	's:1
+stock_FITB r_down	's:1
+stock_FITB r_down	's:1
+stock_FITB r_down	's:1
+stock_FITB r_down	's:1 $:1
+stock_FITB r_up	's:1
+stock_FITB r_down	's:1
+stock_FITB r_down	's:1
+stock_FITB r_up	's:1
+stock_FITB r_down	's:1
+stock_FITB r_down	's:3
+stock_FITB r_up	's:5
+stock_FITB r_down	's:2
+stock_FITB r_down	's:1
+stock_FITB r_up	's:1
+stock_FITB r_up	's:1
+stock_FITB r_down	's:1
+stock_FITB r_down	's:1
+stock_FITB r_down	's:1 '09:1
+stock_FITB r_up	's:1
+stock_FITB r_down	's:1
+stock_FITB r_up	's:1
+stock_FITB r_down	93:1 's:2
+stock_FITB r_up	's:1
+stock_FITB r_up	's:1 focus:1
+stock_FITB r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_FITB r_down	focus:1
+stock_FITB r_down	billion:1 seven:1 15:1 $:1 another:1 banks:1 invests:1
+stock_FITB r_down	30:1 focus:2 down:1 financials:1 25:1 20:1 housing:1 shares:1 stock:1 after:1 drag:1 cutting:1 joins:1 fall:1 report:1 those:1 futures:1 lower:1 starts:1 losses:1 turn:1 banks:2 drops:1
+stock_FITB r_up	sector:1 gaining:1 's:1 lead:1 surprises:1 into:1 advisories:1 green:1 biggest:1 stocks:1 declining:1
+stock_FITB r_down	35:1 500:1
+stock_FITB r_down	sector:1 's:1 woes:1 18:2 drop:1 shares:1 down:1 quarterly:1
+stock_FITB r_down	sector:1 weaker:1 financial:1 $:2 2:1 8:1 banks:1 highlight:1
+stock_FITB r_down	hits:1 's:2 wall:1 slide:1 health:1 bank:1
+stock_FITB r_up	gaining:2 's:3 8217:1 8216:1 losing:1 biggest:2 stocks:2 declining:1
+stock_FITB r_down	gaining:2 's:2 losing:1 lift:1 financials:1 biggest:2 stocks:3 declining:1
+stock_FITB r_down	sector:1 gaining:1 tough:1 sales:1 say:1 have:1 fear:1 targets:1 stocks:2 end:1 remains:1 support:1 shares:1 beat:1 lifts:1 declining:1 biggest:1 week:1 nationalize:1 's:3 may:1 rise:1 but:1 plenty:1 rises:1 after:1 lower:1 analysts:1 banks:1 talk:1 weakest:1
+stock_FITB r_down	banks:1 selling:1 brunt:1 bear:1 swoons:1
+stock_FITB r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_FITB r_down	8212:1 's:2 declines:1 after:1 day-session:1 climb:1 stocks:1
+stock_FITB r_up	slope:1 slippery:1 's:1 nationalization:1
+stock_FITB r_up	'':1 amp:1 ``:1
+stock_FITB r_up	eyes:1 bottom:1 energy:1 waiting:1 manager:1 stocks:1
+stock_FITB r_up	again:1 stress:1 analysts:1 close:1 leading:1 ca:1 some:1 lower:1 shares:1 late-day:1 n't:1 sustain:1 details:1 seen:1 test:1 rally:2 climb:1 positive:1 financials:1 higher:1
+stock_FITB r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_FITB r_down	1:1 $:1
+stock_FITB r_down	96:1 8216:1
+stock_FITB r_up	09:1 8217:1 8216:1
+stock_FITB r_up	's:1 23:1
+stock_FITB r_up	durable-goods:1 rises:1 orders:1 surprise:1
+stock_FITB r_up	hit:1 offer:1 falls:1 too:1 banks:1 pulls:1 debt:1 meeting:1 spotlight:1
+stock_FITB r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_FITB r_down	sector:1 sinks:1 attention:1 takes:1 biblical:1 whether:1 guidance:1 fall:1 shares:1 bulls:1 banks:2 enough:1 low:1 toll:1 ask:1 gets:1 its:1 support:1 looks:1
+stock_FITB r_down	gaining:1 outlook:1 after:1 's:1 season:1 futures:1 results:1 shares:1 falls:1 earnings:1 slip:1 biggest:1 dawn:1 stocks:1 climb:1 declining:1 stock:1
+stock_FITB r_up	's:1
+stock_FITB r_up	early:1 gain:1 reports:1
+stock_FITB r_down	's:1 gains:1 but:1 late:1 slide:1 advancing:1 biggest:1 stocks:1 declining:1
+stock_FITB r_up	slips:1 among:1 gainers:1 sector:1 rise:1 shares:1 few:1 late-session:1 action:1 financial:1
+stock_FITB r_down	focus:1 comments:1 warm:1 turnaround:1 banks:1 stage:1
+stock_FITB r_down	late-session:1 end:1 investors:1 applaud:1 surprises:1 after:1 up:1 shares:1 results:1 advisories:1 push:1 higher:1
+stock_FITB r_up	sector:1 banks:1 view:1 upgrades:1
+stock_FITB r_down	banks:1 trims:1 several:1 outlook:1
+stock_FITB r_up	n't:1
+stock_FITB r_up	gaining:1 's:1 stress-test:1 results:1 biggest:1 following:1 climb:1 stocks:2 declining:1
+stock_FITB r_up	sector:1 stress:1 futures:1 jobs:1 stress-test:2 ease:1 after:2 up:1 shares:1 results:1 tests:1 relief:1 weigh:1 test:1 rally:1 climb:1 stocks:1 data:1 over:1
+stock_FITB r_down	banks:1 credit:1 may:1 9:1 downgrade:1 worries:1
+stock_FITB r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_FITB r_down	acquisition:1 surges:1 focus:1 raising:1 capital:1
+stock_FITB r_down	sector:1 weighs:1 financial:1 down:1 slide:1 bank:1
+stock_FITB r_down	's:1
+stock_FITB r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_FITB r_up	gaining:1 's:2 $:1 biggest:1 stocks:1 declining:1
+stock_FITB r_up	sector:1 financial:1 gains:1 rally:1 '09:1 keeps:1 report:1 wind:1 spark:1 sails:1 financials:1
+stock_FITB r_down	billion:1 $:1 68:1 repay:1 can:1 banks:1
+stock_FITB r_up	dividend:1 22:1 boosts:1 stock:1
+stock_FITB r_down	profit:1 18:1 regulation:1 concerns:1 5:1 cuts:1 banks:1
+stock_FITB r_up	1:1 n't:1 's:1 $:1
+stock_FITB r_down	$:1
+stock_FITB r_up	focus:1
+stock_FITB r_up	swings:1 's:1 profit:1 surprises:1 burner:1 back:1 advisories:1 gain:1 repayment:1 put:1
+stock_FITB r_up	gaining:1 's:1 lead:1 high:1 financials:1 biggest:1 stocks:1 declining:1
+stock_FITB r_down	sector:1 slips:1 moderate:1 gains:1 shares:1
+stock_FITB r_up	's:1
+stock_FITB r_up	's:1
+stock_FITB r_up	gaining:1 's:1 funds:1 into:1 bank:1 biggest:1 follow:1 hedge:1 stocks:2 declining:1
+stock_FITB r_down	bank-stock:1 credit:1 rally:1 woes:1 threaten:1
+stock_FITB r_up	bank-stock:1 hedge:1 managers:1 benefit:1 rally:1
+stock_FITB r_up	$:1
+stock_FITB r_down	gaining:1 rises:1 's:1 trend:1 after:1 sale:1 banks:1 debt:1 biggest:1 bucks:1 stocks:1 declining:1
+stock_FITB r_up	focus:1
+stock_FITB r_down	's:1
+stock_FITB r_down	case:1 rise:1 2.8:1 stocks:1 makes:1 its:1 bank:1
+stock_FITB r_up	n't:2 focus:1
+stock_FITB r_down	loss:1 buyers:1 cycle:1 end:1 provisions:1 tunnel:1 surprises:1 rise:1 up:1 waning:1 near:1 advisories:1 see:1 reserve:1 regionals:1
+stock_FITB r_down	gaining:1 sector:1 dragging:1 's:2 down:1 farther:1 slip:1 biggest:1 stocks:1 declining:1
+stock_FITB r_up	rally:1 stocks:1 join:1 market:1 broader:1
+stock_FITB r_down	gloom:1 economic:1 off:1 broader:1
+stock_FITB r_up	closes:1 loading:1 says:1 up:1 cash:1 high:1 banks:1 14-month:1 higher:1
+stock_FITB r_up	buy:1 says:1 manage:1 regional:1 modest:1 gain:1 banks:1 stocks:1
+stock_FITB r_down	rise:1 bar:1 center:1 trades:1 regionals:1 afternoon:1 slip:1 sets:1 banks:1 firms:1 retreat:1
+stock_FITB r_down	gaining:1 lower:1 stocks:1 's:1 drift:1 repay:1 biggest:1 moves:1 declining:1
+stock_FITB r_up	down:1 after:1 leads:1 report:1 hacking:1 financials:1
+stock_FITB r_down	7:1
+stock_FITB r_down	list:1 top:1 's:1 manager:1
+stock_FITB r_up	banks:1 financial:1 insurers:1 join:1 winners:1
+stock_FITB r_down	's:2
+stock_FITB r_up	gaining:1 disappoint:1 claims:1 's:1 jobless:1 heavily:1 futures:1 proposals:1 focus:1 financials:1 fall:1 biggest:1 weigh:1 stocks:1 declining:1 stock:1
+stock_FITB r_up	surprises:1 advisories:1
+stock_FITB r_up	$:1
+stock_FITB r_down	mend:1 banks:1 red:1 but:1 stay:1
+stock_FITB r_up	24:1
+stock_FITB r_up	financials:1 stocks:1 lead:1 bank:1 higher:1
+stock_FITB r_down	n't:1
+stock_FITB r_up	hit:1 bottom:1 since:1 worst:1 stocks:1 market:1
+stock_FITB r_up	sector:1 financial:1 bottom:1 since:1 lift:1 worst:1 hit:1 stocks:2 market:1
+stock_FITB r_up	's:1
+stock_FITB r_down	banks:1 gain:1 rallies:1
+stock_FITB r_down	plan:1 's:1 battered:1 sale:1
+stock_FITB r_up	quarter:1 cap:1 gain:1 strong:1 slight:1
+stock_FITB r_up	falter:1 after:1 's:1 subpoena:1
+stock_FITB r_down	close:1 stocks:1 territory:1 positive:1
+stock_FITB r_up	surprises:1 advisories:1
+stock_FITB r_up	lower:1 falls:1 drags:1 8:1 financials:1 stock:1
+stock_FITB r_up	banks:1 rally:1 stocks:1
+stock_FITB r_down	gaining:1 loss:1 's:1 rout:1 declining:1 biggest:1 financial:1 sees:1 stocks:1 500:1 stock:1
+stock_FITB r_up	's:1
+stock_FITB r_up	up:1
+stock_FITB r_up	68:1
+stock_FITB r_down	73:1
+stock_FITB r_up	15:2
+stock_FITB r_down	's:1
+stock_FITB r_up	's:1
+stock_FITB r_down	3:1 81:1
+stock_FITB r_down	data:1 housing:1 after:1 fluctuate:1 shares:1
+stock_FITB r_up	4.7:1
+stock_FITB r_down	end:1 into:1 month:1 down:1 dip:1 red:1
+stock_FITB r_up	90:1 2010:1
+stock_FITB r_down	loss:1 worse:1 since:1 late:1 post:1 stocks:1
+stock_FITB r_down	gains:1 2:1 post:1 rises:1 than:1 more:1
+stock_FITB r_up	gaining:1 's:1 gains:1 regional-bank:1 fueled:1 2c:1 biggest:1 stocks:1 declining:1 78:1
+stock_FITB r_down	test:1 vs.:1 smack-down:1 2010:1
+stock_FITB r_up	5.8:1
+stock_FITB r_up	sees:1 gains:1 bailouts:1 regional:1 fewer:1 inch:1 banks:2 's:2 post:1 higher:1
+stock_FITB r_down	100:1 2nd:1
+stock_FITB r_up	8:1 surges:1 drop:1 data:1
+stock_FITB r_up	banks:1 close:1 supported:1 higher:1
+stock_FITB r_down	may:1 signal:1 regional:1 buildup:1 capital:1 banks:1
+stock_FITB r_up	110th:1
+stock_FITB r_up	7:1
+stock_FITB r_down	sector:1 into:1 swings:1 red:1
+stock_FITB r_up	119:1
+stock_FITB r_up	drops:1 rallies:1 stocks:1 fade:1 after:1
+stock_FITB r_down	n't:1
+stock_FITB r_up	n't:2
+stock_FITB r_down	n't:1
+stock_FITB r_up	banks:1 financial-sector:1 25th:1 power:1 rally:1
+stock_FITB r_up	lower:1 jobs:1 focus:1 turn:1 keeps:1 rolling:1 along:1
+stock_FITB r_up	hopes:1 close:1 easing:1 higher:1
+stock_FITB r_up	week:1 start:1 results:1 132:1 80.91:1 2010:1 higher:1
+stock_FITB r_down	80.91:1
+stock_FITB r_up	's:2
+stock_FITB r_up	lower:1 surprises:1 leads:1 advisories:1 6:1 drops:1 financials:1
+stock_FITB r_up	2009:1 2010:1
+stock_FITB r_down	banks:1 pull:1 financial:1 down:1 sector:1
+stock_FITB r_down	sector:1 stress:1 financial:1 payouts:1 lead:1 require:1 tests:1 banks:1 before:1 upping:1 higher:1
+stock_FITB r_down	14:1 28th:1
+stock_FITB r_up	'08:1
+stock_FITB r_down	but:1
+stock_FITB r_up	hopes:1 rally:1 extend:1 dividend:1
+stock_FITB r_down	into:1
+stock_FITB r_up	's:1 21:1 2010:1
+stock_FITB r_up	12.5:1
+stock_FITB r_up	regional-bank:1 spur:1 stocks:1 higher:1
+stock_FITB r_up	leads:1 stocks:1 financial:1 higher:1
+stock_FITB r_down	stocks:1 rise:1 financial:1 up:1 pushes:1
+stock_FITB r_up	n't:1
+stock_FITB r_down	n't:1 won’t:1 any:1 deals:1 come:1 price:1
+stock_FITB r_up	test:1 dividends:1 redux:1 bank:1
+stock_FITB r_down	2011:1
+stock_FITB r_up	's:1
+stock_FITB r_down	's:1
+stock_FITB r_down	sector:1 financial:1 14:1 puts:1 4.2:1 surprises:1 focus:1 bounce:1 advisories:1 green:1 claims:1 's:3
+stock_FITB r_up	sector:1 $:1 regional:1 banks:1 rally:1 rises:1
+stock_FITB r_up	stocks:1 good:1 buy:1 market:1
+stock_FITB r_up	'em:1
+stock_FITB r_down	3.4:1 $:1
+stock_FITB r_down	's:1
+stock_FITB r_down	test:1 11:1 report:1 unemployment:1 told:1
+stock_FITB r_up	stocks:1 bank:1 lead:1 higher:1
+stock_FITB r_down	disclosure:1 lower:1 after:1 gainers:1 climbs:1 30:1 falls:1 crude:1 finish:1 subpoena:1 biggest:1 off:1 decliners:1 indexes:1 stock:1
+stock_FITB r_up	unrest:1 stocks:1 fall:1
+stock_FITB r_down	lower:1 stocks:1 end:1 marginally:1
+stock_FITB r_down	99:1
+stock_FITB r_up	announcements:1 coming:1
+stock_FITB r_up	buybacks:1 's:3 dividends:1 rise:1 hikes:1 green:1 light:1 dividend:1 stocks:1 gives:1
+stock_FITB r_down	's:1
+stock_FITB r_up	50:1
+stock_FITB r_down	's:1
+stock_FITB r_down	banks:1 slide:1 regional:1 250:1 paced:1
+stock_FITB r_up	're:1 's:1
+stock_FITB r_up	among:1 top:1 financial:1 gainers:1 stocks:1
+stock_FITB r_down	's:1
+stock_FITB r_down	44:1
+stock_FITB r_up	39:1 2011:1
+stock_FITB r_down	's:1
+stock_FITB r_up	holdings:1 holds:1 bank:1 cuts:1
+stock_FITB r_down	11:1
+stock_FITB r_up	410:1 $:1
+stock_FITB r_down	weak:1 rates:1 interest:1 affect:1 data:1 swoons:1
+stock_FITB r_up	pressure:1 stocks:1 bank:1
+stock_FITB r_up	n't:1
+stock_FITB r_up	led:1 close:1 stocks:1 's:1 up:1
+stock_FITB r_up	76:2
+stock_FITB r_up	stocks:1 up:1 lead:1
+stock_FITB r_down	close:1 up:1 talk:1 sale:1
+stock_FITB r_down	sector:1 weigh:1 stocks:1 financial:1
+stock_FITB r_up	abyss:1 into:1 stocks:1 bank:1 lead:1
+stock_FITB r_down	market:1 stocks:1 broader:1 outpace:1
+stock_FITB r_up	behind:1 stocks:1 end:1 left:1 higher:1
+stock_FITB r_up	1,200:1 's:1
+stock_FITB r_down	's:1
+stock_FITB r_down	around:1 weight:1 their:1 lift:1 throw:1 financials:1
+stock_FITB r_up	banks:1 rally:1 regional:1 gains:1 extend:1
+stock_FITB r_down	33:1 200:1 $:1
+stock_FITB r_down	33:1
+stock_FITB r_up	market:1 stocks:1 broader:1 lead:1 higher:1
+stock_FITB r_up	pull:1 gainers:1 surprises:1 rebound:1 tip:1 watch:1 advisories:1 stocks:1 tops:1 financials:1 higher:1
+stock_FITB r_up	biggest:1 gaining:1 stocks:1 declining:1
+stock_FITB r_up	$:1
+stock_FITB r_up	's:1 fears:1 euro-zone:1 earnings:1 fall:1 miss:1
+stock_FITB r_down	dive:1 stocks:1 bank:1 warnings:1
+stock_FITB r_up	's:1
+stock_FITB r_down	pace:1 stocks:1 market:1 broader:1
+stock_FITB r_up	week:1 pact:1 finish:1 's:1 stocks:1 higher:1
+stock_FITB r_up	pare:1 stocks:1 gains:1 outlook:1
+stock_FITB r_up	higher:1 2011:1 gains:1 financials:1 reverse:1
+stock_FITB r_up	2012:1
+stock_FITB r_down	8:1 drop:1 stocks:1 shares:1 tumble:1
+stock_FITB r_down	flat:1 's:1 futures:1 watch:1 down:1 stock:1
+stock_FITB r_up	off:1 gains:1
+stock_FITB r_up	write:1 big:1 stocks:1 check:1 bank:1
+stock_FITB r_down	n't:1
+stock_FITB r_up	's:1
+stock_FITB r_down	watch:1
+stock_FITB r_up	market:1 stocks:1 broader:1 lead:1 higher:1
+stock_FITB r_up	job:1 data:1 financials:1 lead:1 higher:1
+stock_FITB r_up	n't:1
+stock_FITB r_up	n't:1 's:1
+stock_FITB r_down	prime:1 oil:1 $:2 can:1 9:1 portfolio:1 100-plus:1 your:1
+stock_FITB r_up	rise:1 stocks:1 sentiment:1 home-builder:1
+stock_FITB r_down	n't:1
+stock_FITB r_up	6:1
+stock_FITB r_up	watch:1

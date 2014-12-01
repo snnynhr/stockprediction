@@ -1,0 +1,414 @@
+stock_TWX r_down	's:1
+stock_TWX r_down	stocks:1 higher:1 edge:1
+stock_TWX r_down	's:1
+stock_TWX r_down	's:1
+stock_TWX r_up	new:1 chief:1 's:1 names:1
+stock_TWX r_up	09:1 2011:1 8216:1
+stock_TWX r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_TWX r_up	begins:1 box:1 selling:1 on-demand:1 $:1 office:1 media:1 31:3 tops:1 1:1 movies:1 interest:1 buys:1 old:1 weekend:1 company:1
+stock_TWX r_up	hang:1 media:1 's:1 getting:1
+stock_TWX r_down	cable:1 show:1 big:1 lag:1 topic:1 while:1 can:1 thrive:1
+stock_TWX r_up	n't:1 eacute:1 e:1
+stock_TWX r_down	amend:1 deals:1 free:1 seeks:1
+stock_TWX r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_TWX r_down	not:1 criminals:1
+stock_TWX r_up	...:1 's:1 steroids:1 --:1 sweet:1 but:1 scoop:1
+stock_TWX r_down	n't:1 deal:1 tentative:1 reach:1 producers:1 movies:1 shows:1
+stock_TWX r_up	significantly:1 pension:1 firms:1 underfunded:1 '01:1 plans:1
+stock_TWX r_down	last:1 wo:1 results:1 n't:1 profit:1 magazine:1 biz:1 fail:1 seen:1 declining:1
+stock_TWX r_up	focus:1
+stock_TWX r_up	again:1 off:1 ahead:1 may:1 surprises:1 futures:1 focus:1 up:1 unhappy:1 data:1 --:1 advisories:1 call:1 makes:1 net:1 drops:1 spin:1 stock:1
+stock_TWX r_down	ponders:1 32:1 says:1 independence:1 goodbye:1
+stock_TWX r_up	1:1 10:1 top:1 's:2 stories:1
+stock_TWX r_up	's:1 company:1 movies:1 legacy:1 tarnished:1 loves:1
+stock_TWX r_down	move:1 's:2 hurt:1
+stock_TWX r_down	's:2 may:1 ages:1 fast:1 dinosaur:1 contract:1 2008:1 starting:1
+stock_TWX r_up	media:1 still:1
+stock_TWX r_down	firm:1 newest:1 ad:1 challenged:1 sales:1 past:1 foe:1 improving:1 says:1 has:1
+stock_TWX r_down	33:1 $:1
+stock_TWX r_down	's:1 but:1 anything:1
+stock_TWX r_down	's:2
+stock_TWX r_up	advance:1 move:1 lead:1 mess:1 durable:1 futures:1 cleans:1 up:1 focus:1 finally:1 goods:1 tech:1 spinoff:1 close:1 data:1 after:1 higher:1
+stock_TWX r_down	shareholders:1 main:1 off:1 into:1 traffic:1 turn:1 marriage:1 hurdle:1 's:2 learned:1 battleground:1 spin:1 dollars:1
+stock_TWX r_up	fiscal:1 say:1 crisis:1 would:1
+stock_TWX r_up	'':2 ``:2 2:1 's:1
+stock_TWX r_down	turns:1 lowlights:1 10:1
+stock_TWX r_down	bridges:1 builds:1
+stock_TWX r_up	2011:1 's:1
+stock_TWX r_up	ratings:1 boost:1 consumer:1 video:1 plan:1 desperate:1 online:1 test:1 tech-savvy:1
+stock_TWX r_up	n't:1 media:1 's:1 happy:1
+stock_TWX r_down	ranking:1 's:1 top:1 video:1 rides:1 partnerships:1
+stock_TWX r_up	box:1 office:1 exec:1 sequel:1 tops:1 free:1 n't:1 viewing:1 online:1 worries:1 weekend:1
+stock_TWX r_up	kicks:1 recession:1 breakfast:1 's:1 eats:1
+stock_TWX r_down	2010:1
+stock_TWX r_up	smarter:1 think:1 's:1 than:1 media:1
+stock_TWX r_down	saga:1 did:1 do:1 media:1
+stock_TWX r_up	's:1
+stock_TWX r_up	initiative:1 participate:1
+stock_TWX r_up	$:4
+stock_TWX r_up	3:1 $:1
+stock_TWX r_down	run-up:1 's:1 media:1 slog:1 despite:1 83:1 stocks:1 recent:1
+stock_TWX r_down	run-up:1 ``:2 ahead:1 media:1 '':2 despite:1 stocks:1 road:1
+stock_TWX r_down	seen:1 profits:1
+stock_TWX r_up	million:1 $:1 stake:1 back:1 focus:1 283:1 sells:1
+stock_TWX r_down	's:1 focus:1
+stock_TWX r_down	outlook:1 tough:1 focus:1 affirms:1 choices:1 $:2 profit:1 surprises:1 advisories:1 quarterly:1 net:1 durables:1 red:1 's:3 rises:1 data:1 off:1 14:1 futures:1 34:5 remain:1 faces:1 following:1
+stock_TWX r_up	decline:1 26:1 profit:1 declines:1 earnings:1 expected:1
+stock_TWX r_down	addition:1 's:1
+stock_TWX r_down	charges:1 loss:1 swings:1
+stock_TWX r_up	's:1
+stock_TWX r_down	credibility:1 his:1 has:1 's:1
+stock_TWX r_up	remains:1 pressure:1 high:1 valuation:1
+stock_TWX r_up	's:2
+stock_TWX r_down	say:1
+stock_TWX r_down	's:1
+stock_TWX r_down	billion:1 's:2 $:2 deal:1 acquire:1 shares:1 jump:1 4:2
+stock_TWX r_down	2.0:1 's:1
+stock_TWX r_up	stream:1 basis:1 may:1 focus:1 movies:1 rental:1
+stock_TWX r_up	's:1
+stock_TWX r_down	critic:1 internal:1 heads:1 former:1
+stock_TWX r_up	's:1
+stock_TWX r_up	ongoing:1 sees:1 ...:2 weakness:1
+stock_TWX r_up	mobile:1 charge:1 users:1
+stock_TWX r_up	's:1
+stock_TWX r_down	tough:1 gets:1 's:2
+stock_TWX r_up	race:1 dropping:1 issues:1 ball:1 covering:1
+stock_TWX r_up	rentals:1 fall:1 grow:1 sales:1 hurt:1
+stock_TWX r_up	20:1 -50:1
+stock_TWX r_up	dream:1 turmoil:1 's:1 4:1 script:1
+stock_TWX r_up	pushed:1 out:1 execs:1
+stock_TWX r_down	9:1
+stock_TWX r_down	direct:1 distribution:1 game:1 makers:1 look:1
+stock_TWX r_up	beyond:1 moves:1 networking:1 destiny:1 fad:1
+stock_TWX r_up	n't:1 's:3 unfinished:1 business:1 2010:1
+stock_TWX r_up	case:1 reason:1 voice:1
+stock_TWX r_down	successor:1 awaits:1
+stock_TWX r_down	health:1 's:1 business:1 serious:1
+stock_TWX r_down	3:1 's:1
+stock_TWX r_down	new:1 albatross:1 's:1
+stock_TWX r_up	rival:1 boost:1 deal:1 signs:1
+stock_TWX r_up	focus:1
+stock_TWX r_down	weighs:1 sees:1 focus:1 verge:1 before:1 surprises:1 scrap:1 charge:1 advisories:1 policy:1 280:1 meeting:1 independence:1 stock:1 's:1 parent:1 views:1 lay:1 advance:1 38:3 off:1 futures:1 2009:1
+stock_TWX r_up	profit:1 11:1 falls:1
+stock_TWX r_down	's:1 leg:1 addition:1 ingenuity:1 up:1 holidays:1 line:1 gets:1
+stock_TWX r_up	firm:1 750:1 's:2 $:1 dangerous:1 million:1 mobile-ad:1 buys:1 ever:1 than:1 more:1
+stock_TWX r_up	100:1 $:3
+stock_TWX r_down	200:2 's:1 $:2
+stock_TWX r_up	lifeline:1 decline:1 signs:1 's:3 shows:1
+stock_TWX r_up	date:1 off:1 spin:1 focus:1 sets:1
+stock_TWX r_up	10:1 winner:1 picks:1 editor:1 9:1 new:1
+stock_TWX r_up	$:1
+stock_TWX r_down	again:1 shed:1 now:1 's:1 plans:1 prove:1 employees:1 up:1 returns:1 lot:1 2,500:1 scores:1 38:1 has:1 spotlight:1
+stock_TWX r_down	7:1
+stock_TWX r_up	but:1
+stock_TWX r_down	2014:1
+stock_TWX r_down	2009:1
+stock_TWX r_up	's:1
+stock_TWX r_down	--:1 amp:1 's:1
+stock_TWX r_up	'':1 'rocks:1 ``:1 's:2 its:1
+stock_TWX r_up	do:1 deal:1 media:1 bums:1 n't:1 scrutinize:1 need:1 you:1
+stock_TWX r_down	10:1 $:1 decline:1 back:1 117:1 decade:1
+stock_TWX r_up	's:1 takes:1 fate:1 they:1 effect:1 challenges:1 decide:1 faces:1 1990s:2 now:1 spin-off:1 must:1
+stock_TWX r_down	sector:1 after:1 's:1 $:1 data:2 create:1 futures:1 up:1 but:1 spotlight:1 leads:1 jobless:1 tech:1 stumbles:1 claims:1 jobs:1 new:1 has:1 stock:1 image:1 higher:1
+stock_TWX r_up	's:1 sweepstakes:1 wins:1 could:1 back:1 bounce:1 loses:1 dip:1 second:1 2:1 tech:1 shares:2 action:1 return:1 decade:1 boost:1 day:1 film:1
+stock_TWX r_down	's:1
+stock_TWX r_down	winner:1 together:1 picks:1
+stock_TWX r_down	's:2 $:2
+stock_TWX r_down	oks:1 cut:1 's:2 $:1 third:1 30:1 ``:1 workforce:1 intriguing:1 '':1 plan:1 2010:1 alternative:1 cable:1 analysts:1
+stock_TWX r_down	's:1
+stock_TWX r_up	break:1 his:1 director:1 record:1 '09:1 box-office:1
+stock_TWX r_down	deal:2 reach:1 neutral:1 initiation:1 rates:1 new:1
+stock_TWX r_up	2010:1
+stock_TWX r_up	like:1 starts:1 winner:1 job:1 looks:1 cuts:1 round:1 planned:1
+stock_TWX r_down	lowers:1 boom:1
+stock_TWX r_up	2009:1
+stock_TWX r_down	300:1 devastation:1 $:1
+stock_TWX r_up	closer:1 record:1 mistrust:1 matter:1 world:1 box-office:1
+stock_TWX r_down	assume:1 recall:1 nothing:1 us:1 reminds:1
+stock_TWX r_up	reveals:1 's:1 since:1 50:1 readies:1 earnings:1 report:1 15:1 first:1
+stock_TWX r_up	looks:1 spotlight:1 inspiration:1
+stock_TWX r_up	focus:1
+stock_TWX r_down	control:1 back:1 face-off:1 profit:1 surprises:1 returns:1 advisories:1 extends:1 stock:1 's:2 gear:1 after:1 drift:1 buyback:1 report:1 data:1 lower:1 off:1 futures:1 up:1 chief:1 2008:1
+stock_TWX r_down	ad:1 profit:1 system:1 slowdown:1 returns:1 despite:1 timing:1
+stock_TWX r_down	bikinis:1 big:1 money:1 's:1 mean:1
+stock_TWX r_up	's:1
+stock_TWX r_up	shine:1 late:1 trades:1
+stock_TWX r_up	's:2 focus:1
+stock_TWX r_up	2009:1 's:1 $:1 400:1
+stock_TWX r_up	2010:1
+stock_TWX r_up	16:1
+stock_TWX r_up	sees:1 's:1 bargain:1
+stock_TWX r_down	$:2 10-:1
+stock_TWX r_up	movie:1
+stock_TWX r_up	bin:1 10:1 ``:1 picture:1 wins:1 tally:1 '':1 director:1 movies:1 box-office:1 have:1 you:1 tops:1 your:1 best:2 must:1
+stock_TWX r_down	did:1 cover:1 's:1 merit:1 he:1
+stock_TWX r_up	10:1 showdown:1 $:1
+stock_TWX r_down	10:1 $:1 atop:1 million:1 long:1 stay:1 deals:1 video:1 'local:1 heap:1 can:1
+stock_TWX r_up	sees:1
+stock_TWX r_up	lower:1 amid:1 housing:1 futures:1 focus:1 anyway:1 edge:1 does:1 need:1 spotlight:1 stock:1
+stock_TWX r_down	's:1 $:1 lost:1 exit:1 has:1 2011:1 its:1 identity:1
+stock_TWX r_down	'':2 ``:2 trade:1
+stock_TWX r_up	bid:1 drops:1
+stock_TWX r_up	fire:1 does:1 covet:1 drops:1 belly:1
+stock_TWX r_down	9.5:1 2009:1
+stock_TWX r_up	9:1
+stock_TWX r_up	plug:1 pulls:1 effort:1 networking:1 social:1
+stock_TWX r_up	--:1 back:1 but:1 matter:1 not:1 might:1
+stock_TWX r_up	signs:1 up:1 gives:1
+stock_TWX r_up	eyes:1 2009:1 's:1 $:1 view:1
+stock_TWX r_up	--:1 'category:1 one:1
+stock_TWX r_down	'':1 ``:1
+stock_TWX r_down	sell:1 buy:1 plans:1 hike:1 sales:1 'd:1
+stock_TWX r_up	box:1 's:1 office:1 bumper:1
+stock_TWX r_up	19:1 58:2 2013:1
+stock_TWX r_up	sold:1 drop:1 earnings:1 unit:1 instant-messaging:1
+stock_TWX r_down	battle:1 's:1
+stock_TWX r_up	smart:1 creep:1 one:1
+stock_TWX r_down	's:2 focus:1
+stock_TWX r_down	futures:1 recovery:1 rise:1 focus:1 warning:1 combine:1 earnings:1 fall:1 ad:1 further:1 momentum:1 gives:1
+stock_TWX r_down	surprises:1 advisories:1
+stock_TWX r_down	11:1 summer:1 strength:1 takes:1 show:1 $:1 should:1 earnings:1 pockets:1 follow:1 stage:1 center:1
+stock_TWX r_up	debut:1 brings:1 2:1 $:1 million:1
+stock_TWX r_down	chief:1 taps:1 tech:1 veteran:1
+stock_TWX r_up	's:1
+stock_TWX r_up	firm:1 futures:1 's:1 may:1 bill:1 acquires:1 but:1 sports:1 content:1 beat:1 kill:1 gain:1 backed:1 toughest:1 steam:1 plan:1
+stock_TWX r_up	not:1 vs.:2
+stock_TWX r_down	arrival:1 's:1 show:1
+stock_TWX r_up	3:1
+stock_TWX r_up	you:1
+stock_TWX r_up	21st:1 's:1 century:1
+stock_TWX r_down	huge:1 drives:1 ratings:1
+stock_TWX r_up	viral:1 giant:1 meatballs:1 videos:1
+stock_TWX r_up	hiring:1 binge:1 's:1 goes:1
+stock_TWX r_down	pact:1 revenue-sharing:1 extend:1
+stock_TWX r_down	3:1 counting:1 would:1
+stock_TWX r_down	gains:1 lead:1 shares:1
+stock_TWX r_down	off:1 's:1
+stock_TWX r_up	--:1 perfect:1 together:1
+stock_TWX r_down	rest:1 advertising:1 seen:1 2010:1 momentum:1 '10:1
+stock_TWX r_down	dilemma:1 exit:1 's:1 big:1 gives:1
+stock_TWX r_down	turmoil:1 reigns:1
+stock_TWX r_up	's:2
+stock_TWX r_up	big:1 winner:1 's:2 $:1 bombshell:1
+stock_TWX r_up	3:1 $:1
+stock_TWX r_up	reason:1 voice:1
+stock_TWX r_up	me:1 feel:1 makes:1 too:1
+stock_TWX r_down	profit:1 climbs:1 13:2 's:3
+stock_TWX r_up	buyer:1 1:1 's:1
+stock_TWX r_up	news:1 needs:1 anchors:1
+stock_TWX r_down	not:1 're:1 's:1
+stock_TWX r_down	's:2
+stock_TWX r_up	's:1
+stock_TWX r_up	10:1 's:7 make:1 should:2 go:1 owner:1 new:1 changes:1 shows:1
+stock_TWX r_up	ad:1 office:1 give:1 sales:1 7.3:2 jobs:1 $:2 profit:1 surprises:1 29:1 advisories:1 much:1 7:1 smile:1 higher:1 good:1 's:2 wo:1 after:1 focus:1 data:2 box:1 futures:1 up:1 n't:1 turn:1 so:1 she:1 time:1 far:1 spotlight:1
+stock_TWX r_up	ad:2 sales:1 jobs:1 moves:1 networks:1 1.1:1 decline:1 $:1 profit:2 ground:1 thrive:1 's:1 climbs:1 improve:1 gain:1 stocks:1 recovery:1 billion:1 loss:1 cable:1 amid:1 posts:1 52:1 figures:1
+stock_TWX r_up	head:1 tap:1 should:1 1:2 editor:1 replace:1
+stock_TWX r_down	majors:1 silent:1 plan:1
+stock_TWX r_up	problem:1 tackles:1 bedbug:1
+stock_TWX r_down	high:1 conglomerates:1 flying:1 networks:1
+stock_TWX r_up	reduces:1 stake:1 sharply:1
+stock_TWX r_up	's:1
+stock_TWX r_down	's:1 your:1 grandfather:1
+stock_TWX r_down	's:1
+stock_TWX r_up	may:1 bite:1 bugs:1 but:1 dog:1 n't:1 wo:1 insurers:1 industry:1
+stock_TWX r_down	's:1
+stock_TWX r_up	box:1 summer:1 kind:1 's:2 office:1 reasons:1 flop:1 bad:1 legacy:1 5:1 news:2 'll:1 why:1 he:1
+stock_TWX r_up	ad:1 spending:1 half:1 nearly:1 6:1 rises:1 first:1
+stock_TWX r_down	's:4
+stock_TWX r_down	making:1 difference:1 12:1 broadcasters:1
+stock_TWX r_down	files:1 11:1
+stock_TWX r_up	top:1 sequel:1 uphill:1 leadership:1 looks:1 stoke:1 new:1 climb:1 faces:1
+stock_TWX r_up	going:1 blogging:1
+stock_TWX r_down	2:1
+stock_TWX r_down	n't:1
+stock_TWX r_down	's:2
+stock_TWX r_down	box:1 partners:1 treats:1 office:1 political:1 tricks:1 lines:1 up:1 tops:1
+stock_TWX r_down	's:1 $:1
+stock_TWX r_up	n't:1 's:1
+stock_TWX r_up	ambassador:1 confidence:1 show:1 1:1 vote:1 gets:1
+stock_TWX r_up	supports:1 combination:1
+stock_TWX r_down	's:1 like:1 buying:1
+stock_TWX r_up	its:1 best:1
+stock_TWX r_down	's:1
+stock_TWX r_down	's:1 aren’t:1 dead:1 yet:1
+stock_TWX r_down	n't:2 '':1 ``:1
+stock_TWX r_down	's:1
+stock_TWX r_up	'':1 ``:1
+stock_TWX r_up	's:1
+stock_TWX r_down	10:1 gets:1 's:1 reality:1 without:1 profit:1 media:1 futures:1 steady:1 costs:1 falls:1 1:1 critic:1 growth:2 election:1 focus:2 report:1 debt:1 check:1 after:1 21:1
+stock_TWX r_down	profit:1 surprises:1 shares:1 jump:1 advisories:1 doubles:1 than:1 more:1
+stock_TWX r_down	own:1 game:1 his:1 's:1
+stock_TWX r_up	show:1 flops:1 if:1
+stock_TWX r_up	not:1 's:3 savior:1
+stock_TWX r_down	new:1 has:1 shot:1
+stock_TWX r_down	app:1 rolls:1 out:1
+stock_TWX r_up	24:1 $:1 big:2 million:1 midnight:1 but:1 four:1 steps:1 grab:1 shows:1
+stock_TWX r_down	$:3 500:1
+stock_TWX r_down	media:1 new:1 times:1 sale:1 sign:1
+stock_TWX r_up	heed:1 should:1
+stock_TWX r_up	20,000:1 $:1
+stock_TWX r_down	's:2
+stock_TWX r_down	28:2
+stock_TWX r_up	not:1 2010:1 vs.:1 defines:1
+stock_TWX r_down	2011:1
+stock_TWX r_up	nominees:1 may:1 nods:1 mirror:1
+stock_TWX r_up	's:3
+stock_TWX r_up	's:1
+stock_TWX r_up	message:1 everywhere:1
+stock_TWX r_up	2011:1
+stock_TWX r_down	2010:1 deal:1 scores:1
+stock_TWX r_down	breakup:1 craze:1 take:1 historical:1
+stock_TWX r_down	2:1 's:1
+stock_TWX r_down	2:1 's:2 viewers:1 million:1
+stock_TWX r_down	's:1
+stock_TWX r_down	's:1
+stock_TWX r_down	leads:1 nominations:1 's:1
+stock_TWX r_up	studios:1 15:1 surges:1 choices:1 hikes:1 cheer:1 going:1 analysts:1 go:1 not:1 stock:1
+stock_TWX r_down	replace:1
+stock_TWX r_up	watch:1
+stock_TWX r_up	violence:1 focus:2 biggest:1 weather:1 looks:1 end:1 22:3 profit:1 wobble:1 flares:1 2:1 earnings:1 forward:1 gaining:1 's:1 jumps:1 back:1 quarterly:1 not:1 payrolls:1 stocks:1 declining:1 futures:1 mixed:1
+stock_TWX r_up	n't:1 surprises:1 advisories:1
+stock_TWX r_down	reporter:1
+stock_TWX r_up	does:1 want:1
+stock_TWX r_up	culture:1 clash:1
+stock_TWX r_down	his:1
+stock_TWX r_up	gorilla:1
+stock_TWX r_down	's:2 40:1
+stock_TWX r_up	--:1 10:1 's:1 $:1
+stock_TWX r_up	media:1 blew:1
+stock_TWX r_up	challenges:1 subscription:1 's:2 face:1
+stock_TWX r_up	10:1 plays:1 $:1 acts:1 role:1 key:1 's:1 decisively:1
+stock_TWX r_down	's:1
+stock_TWX r_down	n't:1 's:2
+stock_TWX r_up	makes:1 safe:1 court:1 world:1
+stock_TWX r_up	survives:1 just:1 takes:1 bullet:1 10:1 top:1 lost:1 but:1 movies:1 victim:1 not:1 best:1
+stock_TWX r_up	picture:1 's:2 office:1 crowned:1 2011:1 16th:1 best:1
+stock_TWX r_down	10:1 500:1
+stock_TWX r_down	now:1 fired:1 should:1
+stock_TWX r_down	beautiful:1 not:1 just:1 news:1
+stock_TWX r_down	hits:1 via:1 's:1 plan:1 shares:1
+stock_TWX r_up	other:1 fate:1 headache:1
+stock_TWX r_down	cost-cutting:1 20:2 move:1 workforce:1 lays:1 off:1 's:2
+stock_TWX r_up	n't:1 's:2 smackdown:1
+stock_TWX r_down	again:1 itself:1 reinvents:1 's:2
+stock_TWX r_down	10:1 lost:1 lead:1 top:1 fate:1 actors:1 shows:1
+stock_TWX r_up	's:1
+stock_TWX r_down	n't:1 upgrade:1 rises:1 stock:1
+stock_TWX r_up	return:1 movies:1 never:1 's:1 classic:1
+stock_TWX r_down	pick:1 up:1 should:1
+stock_TWX r_down	spinoff:1 shifts:1 focus:1
+stock_TWX r_up	championship:1 hoops:1 gold:1 would:1
+stock_TWX r_up	280:1 $:1
+stock_TWX r_up	went:1 wrong:1
+stock_TWX r_down	's:1
+stock_TWX r_down	chief’s:1 slips:1 compensation:1 40:1
+stock_TWX r_up	media:1 wedding:1 old:1 shotgun:1
+stock_TWX r_up	me:1 president:1 make:1 laugh:1
+stock_TWX r_up	's:1
+stock_TWX r_down	write:1 could:1
+stock_TWX r_up	=:1 shove:1
+stock_TWX r_up	seen:1 media:1 results:1 big:1
+stock_TWX r_down	watch:1 's:1 10:1
+stock_TWX r_down	slides:1 sweetheart:1 after:1 jobs:2 business:1 10:1 profit:1 surprises:1 futures:1 watch:1 encouraging:1 focus:1 commodities:1 turn:1 advisories:1 9.9:4 quarterly:1 data:2 higher:1
+stock_TWX r_down	's:1 though:1 profit:1 sales:1 falls:1 beat:1 forecast:1 its:1
+stock_TWX r_up	's:1
+stock_TWX r_down	videogame:1 join:1 pump:1 releases:1 sales:1
+stock_TWX r_up	6.9:1
+stock_TWX r_down	6.9:1
+stock_TWX r_down	's:1
+stock_TWX r_up	100:1 million:1 weekend:1 $:1
+stock_TWX r_down	improbable:1 's:1 icon:1
+stock_TWX r_up	1:1 's:1 $:1
+stock_TWX r_down	9:1
+stock_TWX r_up	8:1
+stock_TWX r_up	surprises:1 advisories:1 37:1 $:1 8:1
+stock_TWX r_down	even:1 too:1 creepy:1
+stock_TWX r_down	turmoil:1 doesn’t:1 worry:1
+stock_TWX r_up	online:1 reach:1 sites:1 show:1
+stock_TWX r_up	battle:1 cable:1 disarming:1
+stock_TWX r_up	's:1
+stock_TWX r_down	's:2
+stock_TWX r_down	intriguing:1 cable:1 most:1 5:1 new:1 shows:1
+stock_TWX r_down	picked:1
+stock_TWX r_up	strategy:1 advancing:1 biggest:1 stocks:1 declining:1 define:1
+stock_TWX r_up	's:1 2011’s:1 far:1 joke:1 top:1 killer:1 you’re:1 so:1 think:1
+stock_TWX r_down	2.0:1
+stock_TWX r_down	fits:1
+stock_TWX r_up	tickets:1 hit:1 nears:1 spike:1
+stock_TWX r_down	deals:1 sees:1 's:1 opportunities:1
+stock_TWX r_up	billion:1 1:2 all:1 last:1 $:2 no:1 movie:1 boss:2 better:1 likely:1 than:1
+stock_TWX r_down	million:1 's:1 $:1 debut:1 shatter:1 mark:1 early:1 reopens:1 405:1 report:1
+stock_TWX r_up	global:1 new:1 million:1 $:1 mark:1
+stock_TWX r_down	n't:1
+stock_TWX r_down	'':1 ``:1 's:1
+stock_TWX r_down	's:1 watch:1 $:1 8.4:1
+stock_TWX r_down	await:1 's:3 14:2 point:1 entertainment:1 watch:1 bounce:1 n't:1 earnings:1 data:2 spotlight:1 identity:1
+stock_TWX r_down	surprises:1 advisories:1
+stock_TWX r_up	's:1
+stock_TWX r_up	$:1 6:1
+stock_TWX r_up	1:1
+stock_TWX r_down	grip:1 's:1 but:1 also:1 lauded:1 news:1
+stock_TWX r_down	's:1
+stock_TWX r_up	's:1
+stock_TWX r_down	better:1 amid:1 than:1 bet:1 turmoil:1
+stock_TWX r_down	won’t:1 watch:1
+stock_TWX r_up	not:1 good:1 fit:1 really:1
+stock_TWX r_up	6.5:1
+stock_TWX r_down	wins:1 let:1
+stock_TWX r_down	's:1
+stock_TWX r_down	respect:1 needs:1 your:1
+stock_TWX r_down	watch:1
+stock_TWX r_down	10:1 made:1 ever:1 best:1 movies:1
+stock_TWX r_up	8:1
+stock_TWX r_up	start:1 season:1 labor:1 fail:1 doubt:1 talks:1
+stock_TWX r_up	13:1
+stock_TWX r_up	players:1 lockout:1 lose:1
+stock_TWX r_up	praying:1 watch:1 takeover:1
+stock_TWX r_up	jump:1 outlook:1 plunge:1 earnings:1 shares:1
+stock_TWX r_down	downgrades:1 forecast:1 shares:1 crater:1
+stock_TWX r_up	51:1 's:1
+stock_TWX r_up	's:2
+stock_TWX r_down	via:1
+stock_TWX r_down	anyone:1 watch:1 reboots:1 but:1 watching:1
+stock_TWX r_down	life:1 futures:1 ahead:1 power:1 surprises:1 57:1 after:1 watch:1 results:1 shares:1 $:1 tries:1 advisories:1 higher:1 meeting:1 upbeat:1 8:1 stock:1 come:1 transformation:1 roars:1
+stock_TWX r_down	data:1 results:1 ahead:1 falls:1
+stock_TWX r_down	buybacks:1 earnings:1 slip:1 increased:1
+stock_TWX r_down	$:1 400:1
+stock_TWX r_down	'll:1
+stock_TWX r_up	failing:1
+stock_TWX r_up	's:1
+stock_TWX r_up	--:1 most:1 job:1 fills:1
+stock_TWX r_up	bonds:1 returns:1 pad:1 corporate:1 your:1 stock:1
+stock_TWX r_up	patchwork:1 facing:1 job:1
+stock_TWX r_up	media:1 stories:1 investors:1 key:1 2012:1
+stock_TWX r_down	love-in:1 up:1
+stock_TWX r_down	new:1 has:1 approach:1 again:1
+stock_TWX r_up	bless:1 's:1 $:1 500:1
+stock_TWX r_up	's:1
+stock_TWX r_up	ready:1 off:1 tip:1
+stock_TWX r_up	's:1
+stock_TWX r_up	's:2
+stock_TWX r_down	's:2
+stock_TWX r_up	1:1
+stock_TWX r_up	n't:1
+stock_TWX r_up	forward:1 click:1 back:1 two:1
+stock_TWX r_up	's:1
+stock_TWX r_up	field:1 smaller:1 's:1 lead:1
+stock_TWX r_down	move:1 end:1 era:1 digital:1
+stock_TWX r_up	out:1
+stock_TWX r_up	firm:1 rises:1 's:1 profit:1 surprises:1 company:1 futures:1 watch:2 up:1 edge:1 hikes:1 advisories:1 boring:1 hopes:1 dividend:1 happy:1 stock:1
+stock_TWX r_down	dares:1 go:1 already:1 goes:1
+stock_TWX r_down	enjoys:1 bounce:1
+stock_TWX r_up	9:1
+stock_TWX r_up	pride:1 family:1
+stock_TWX r_up	bump:1 ratings:1 gets:1 show:1
+stock_TWX r_up	's:1
+stock_TWX r_down	big:1 loser:1
+stock_TWX r_down	's:2 7:1
+stock_TWX r_down	business’:1 good:1 journalism:1 service:1 unveils:1
+stock_TWX r_up	'21:1
+stock_TWX r_up	being:1 thrills:1 investors:1 satisfied:1
+stock_TWX r_up	over:1
+stock_TWX r_down	not:1 yet:1 dead:1
+stock_TWX r_down	win:1 never:1 back:1
+stock_TWX r_up	don’t:1 just:1 killing:1

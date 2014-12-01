@@ -1,0 +1,307 @@
+HES	20120402	58.42	59.02	r_up	
+HES	20120403	59.02	58.41	r_down	
+HES	20120404	58.41	58.06	r_down	
+HES	20120405	58.06	57.35	r_down	
+HES	20120409	57.35	56.23	r_down	
+HES	20120410	56.23	54.95	r_down	
+HES	20120411	54.95	54.97	r_up	
+HES	20120412	54.97	56.15	r_up	
+HES	20120413	56.15	54.79	r_down	
+HES	20120416	54.79	53.77	r_down	30:1
+HES	20120417	53.77	55.07	r_up	
+HES	20120418	55.07	54.66	r_down	
+HES	20120419	54.66	54.76	r_up	$:1
+HES	20120420	54.76	54.58	r_down	
+HES	20120423	54.58	53.64	r_down	
+HES	20120424	53.64	54.55	r_up	
+HES	20120425	54.55	50.72	r_down	surprises:1 advisories:1 watch:1
+HES	20120426	50.72	51.29	r_up	gaining:1 top:1 brighten:1 rallies:1 stocks:2 energy:1 declining:1
+HES	20120427	51.29	51.08	r_down	's:1
+HES	20120430	51.08	51.67	r_up	
+HES	20120501	51.67	53.55	r_up	
+HES	20120502	53.55	53.56	r_up	energy:1 stocks:1 changes:1 gain:1 rallies:1
+HES	20120503	53.56	51.93	r_down	
+HES	20120504	51.93	50.48	r_down	$:1 2.5:1
+HES	20120507	50.48	49.89	r_down	
+HES	20120508	49.89	49.4	r_down	
+HES	20120509	49.4	48.21	r_down	
+HES	20120510	48.21	48.12	r_down	
+HES	20120511	48.12	47.52	r_down	
+HES	20120514	47.52	46.21	r_down	
+HES	20120515	46.21	44.91	r_down	way:1
+HES	20120516	44.91	43.84	r_down	
+HES	20120517	43.84	44.75	r_up	energy:1 lack:1 pep:1 66:1 fall:1 stocks:1
+HES	20120518	44.75	44.2	r_down	
+HES	20120521	44.2	45.63	r_up	
+HES	20120522	45.63	45.36	r_down	
+HES	20120523	45.36	46.21	r_up	
+HES	20120524	46.21	46.09	r_down	
+HES	20120525	46.09	46.27	r_up	
+HES	20120529	46.27	47.0	r_up	
+HES	20120530	47.0	44.97	r_down	down:1 drop:1 energy:1 stocks:1
+HES	20120531	44.97	43.31	r_down	surprises:1 advisories:1
+HES	20120601	43.31	42.27	r_down	66:1
+HES	20120604	42.27	42.3	r_up	
+HES	20120605	42.3	42.62	r_up	66:1
+HES	20120606	42.62	44.7	r_up	's:1
+HES	20120607	44.7	44.36	r_down	oil:1 's:1 surprises:1 support:1 up:1 advisories:1 equities:1
+HES	20120608	44.36	44.32	r_down	
+HES	20120611	44.32	43.59	r_down	15:2 's:1 $:2
+HES	20120612	43.59	43.54	r_down	
+HES	20120613	43.54	42.74	r_down	
+HES	20120614	42.74	43.66	r_up	
+HES	20120615	43.66	44.5	r_up	
+HES	20120618	44.5	43.42	r_down	stocks:1 energy:1 rise:1 drop:1 but:1
+HES	20120619	43.42	44.04	r_up	
+HES	20120620	44.04	43.92	r_down	
+HES	20120621	43.92	40.7	r_down	$:1
+HES	20120622	40.7	40.73	r_up	new:1 name:1 leaders:1
+HES	20120625	40.73	39.68	r_down	
+HES	20120626	39.68	39.72	r_up	4:1
+HES	20120627	39.72	40.73	r_up	
+HES	20120628	40.73	40.85	r_up	
+HES	20120629	40.85	43.16	r_up	
+HES	20120702	43.16	43.17	r_up	$:2 170:2
+HES	20120703	43.17	45.0	r_up	move:1 rise:1 bullish:1 crude’s:1
+HES	20120705	45.0	44.0	r_down	
+HES	20120706	44.0	43.03	r_down	
+HES	20120709	43.03	43.02	r_down	
+HES	20120710	43.02	42.02	r_down	
+HES	20120711	42.02	43.39	r_up	rise:1 up:1 deal:1
+HES	20120712	43.39	42.32	r_down	drop:1 energy:1 upgrade:1 gains:1 stocks:1
+HES	20120713	42.32	43.0	r_up	
+HES	20120716	43.0	43.21	r_up	
+HES	20120717	43.21	43.81	r_up	
+HES	20120718	43.81	44.6	r_up	
+HES	20120719	44.6	44.69	r_up	
+HES	20120720	44.69	45.1	r_up	66:1
+HES	20120723	45.1	44.11	r_down	24:1 's:1
+HES	20120724	44.11	43.64	r_down	
+HES	20120725	43.64	45.16	r_up	10:2 off:1 surprises:1 energy:1 up:1 advisories:1 flatten:1 66:1 stocks:1
+HES	20120726	45.16	47.24	r_up	refinery:1 's:1
+HES	20120727	47.24	48.04	r_up	
+HES	20120730	48.04	47.86	r_down	
+HES	20120731	47.86	46.85	r_down	
+HES	20120801	46.85	47.48	r_up	
+HES	20120802	47.48	46.21	r_down	
+HES	20120803	46.21	47.39	r_up	
+HES	20120806	47.39	47.96	r_up	
+HES	20120807	47.96	49.09	r_up	
+HES	20120808	49.09	49.7	r_up	
+HES	20120809	49.7	49.26	r_down	
+HES	20120810	49.26	49.35	r_up	stocks’:1 fuels:1 gas:1 energy:1 gains:1
+HES	20120813	49.35	48.76	r_down	
+HES	20120814	48.76	49.25	r_up	
+HES	20120815	49.25	48.9	r_down	
+HES	20120816	48.9	49.68	r_up	
+HES	20120817	49.68	48.98	r_down	drop:1 stocks:1 fall:1
+HES	20120820	48.98	50.15	r_up	sector:1 weighs:1 up:1 deal:1
+HES	20120821	50.15	50.13	r_down	
+HES	20120822	50.13	50.11	r_down	
+HES	20120823	50.11	49.45	r_down	66:1
+HES	20120824	49.45	49.86	r_up	
+HES	20120827	49.86	49.54	r_down	
+HES	20120828	49.54	50.5	r_up	
+HES	20120829	50.5	50.2	r_down	
+HES	20120830	50.2	49.35	r_down	stocks:1 oil:1 retreat:1 lead:1
+HES	20120831	49.35	50.19	r_up	
+HES	20120904	50.19	49.32	r_down	option:1 lead:1 energy:1 miners:1 insider:1 slide:1 action:1 stocks:1 profits:1
+HES	20120905	49.32	48.98	r_down	
+HES	20120906	48.98	50.48	r_up	's:1 firmer:1 66:1 crude:1 rally:1 stocks:1 boost:1 euro:1
+HES	20120907	50.48	52.55	r_up	
+HES	20120910	52.55	52.78	r_up	
+HES	20120911	52.78	54.23	r_up	11:1 lower:1 drops:1 end:1 nearly:1 stocks:1
+HES	20120912	54.23	54.42	r_up	
+HES	20120913	54.42	55.33	r_up	
+HES	20120914	55.33	55.79	r_up	
+HES	20120917	55.79	55.22	r_down	
+HES	20120918	55.22	55.23	r_up	
+HES	20120919	55.23	54.83	r_down	
+HES	20120920	54.83	55.17	r_up	
+HES	20120921	55.17	55.37	r_up	
+HES	20120924	55.37	54.52	r_down	
+HES	20120925	54.52	53.34	r_down	
+HES	20120926	53.34	52.15	r_down	
+HES	20120927	52.15	53.51	r_up	
+HES	20120928	53.51	53.46	r_down	
+HES	20121001	53.46	53.69	r_up	
+HES	20121002	53.69	53.24	r_down	n't:1
+HES	20121003	53.24	52.39	r_down	
+HES	20121004	52.39	53.72	r_up	
+HES	20121005	53.72	53.3	r_down	
+HES	20121008	53.3	53.37	r_up	
+HES	20121009	53.37	53.47	r_up	
+HES	20121010	53.47	52.36	r_down	
+HES	20121011	52.36	53.07	r_up	
+HES	20121012	53.07	53.02	r_down	
+HES	20121015	53.02	52.68	r_down	
+HES	20121016	52.68	54.72	r_up	
+HES	20121017	54.72	55.35	r_up	
+HES	20121018	55.35	55.05	r_down	
+HES	20121019	55.05	54.02	r_down	
+HES	20121022	54.02	54.25	r_up	
+HES	20121023	54.25	52.12	r_down	
+HES	20121024	52.12	52.28	r_up	
+HES	20121025	52.28	53.64	r_up	stocks:1 's:2 $:2 energy:1 525:1 gain:1 2.2:1 rises:1
+HES	20121026	53.64	52.98	r_down	lag:1 energy:1 other:1 stocks:1 soars:1
+HES	20121031	52.98	52.01	r_down	reaction:1 oil:1 top:1 delayed:1 stocks:1 44:1
+HES	20121101	52.01	52.4	r_up	7.4:3
+HES	20121102	52.4	53.13	r_up	pull:1 lower:1 still:1 59:2 get:1 energy:1 hard:1 but:1 87:2 right:1 stocks:1 price:1
+HES	20121105	53.13	54.63	r_up	
+HES	20121106	54.63	55.25	r_up	after:1 losses:1 up:1 edges:1 steep:1 previous:1
+HES	20121107	55.25	52.86	r_down	
+HES	20121108	52.86	51.95	r_down	
+HES	20121109	51.95	50.48	r_down	
+HES	20121112	50.48	50.33	r_down	leads:1 stocks:1 higher:1 edge:1
+HES	20121113	50.33	49.72	r_down	
+HES	20121114	49.72	49.29	r_down	$:2
+HES	20121115	49.29	48.65	r_down	
+HES	20121116	48.65	48.67	r_up	
+HES	20121119	48.67	50.25	r_up	
+HES	20121120	50.25	49.31	r_down	
+HES	20121121	49.31	49.86	r_up	
+HES	20121123	49.86	50.87	r_up	
+HES	20121126	50.87	49.66	r_down	
+HES	20121127	49.66	49.14	r_down	
+HES	20121128	49.14	49.61	r_up	
+HES	20121129	49.61	50.26	r_up	
+HES	20121130	50.26	49.37	r_down	rig:1 stocks:1 order:1 cancels:1 higher:1
+HES	20121203	49.37	49.33	r_down	
+HES	20121204	49.33	48.63	r_down	
+HES	20121205	48.63	49.23	r_up	
+HES	20121206	49.23	48.87	r_down	
+HES	20121207	48.87	49.45	r_up	among:1 energy:1 stocks:1 lead:1
+HES	20121210	49.45	49.78	r_up	
+HES	20121211	49.78	50.33	r_up	
+HES	20121212	50.33	51.77	r_up	
+HES	20121213	51.77	51.69	r_down	leads:1 stocks:1 gain:1 oil:1 find:1
+HES	20121214	51.69	51.23	r_down	
+HES	20121217	51.23	52.1	r_up	
+HES	20121218	52.1	53.89	r_up	
+HES	20121219	53.89	52.89	r_down	
+HES	20121220	52.89	53.3	r_up	
+HES	20121221	53.3	53.23	r_down	
+HES	20121224	53.23	52.49	r_down	cheer:1 holiday:1 energy:1 stocks:1
+HES	20121226	52.49	52.17	r_down	
+HES	20121227	52.17	52.3	r_up	
+HES	20121228	52.3	51.13	r_down	
+HES	20121231	51.13	52.81	r_up	
+HES	20130102	52.81	53.55	r_up	
+HES	20130103	53.55	54.04	r_up	
+HES	20130104	54.04	54.86	r_up	
+HES	20130107	54.86	55.68	r_up	
+HES	20130108	55.68	55.25	r_down	hit:1 refiners:1 stocks:1 worst:1 lag:1
+HES	20130109	55.25	55.44	r_up	extend:1 third:1 into:1 losses:1 6.8:3 stocks:1 day:1 2013:3 $:3
+HES	20130110	55.44	56.44	r_up	
+HES	20130111	56.44	56.09	r_down	
+HES	20130114	56.09	56.26	r_up	mixed:1 ends:1 stocks:1 lower:1
+HES	20130115	56.26	56.5	r_up	
+HES	20130116	56.5	56.86	r_up	
+HES	20130117	56.86	57.13	r_up	
+HES	20130118	57.13	57.49	r_up	
+HES	20130122	57.49	58.7	r_up	
+HES	20130123	58.7	57.66	r_down	
+HES	20130124	57.66	58.27	r_up	
+HES	20130125	58.27	58.73	r_up	
+HES	20130128	58.73	62.3	r_up	's:1 $:2 climbs:1 tensions:1 back:1 2:1 above:1 96:1
+HES	20130129	62.3	67.91	r_up	10:1 soars:1 movers:2 surprises:1 energy:1 clobbered:1 shares:1 down:1 patience:1 second:1 advisories:1 earnings:1 refinery:1 rallies:2 losing:1 news:1 plan:1 stocks:2 day:1 gain:1
+HES	20130130	67.91	67.68	r_down	n't:1 ends:1 's:2 above:1 higher:1 blue-chip:1 supply:1 fears:1 $:1 leads:1 unrest:1 earnings:1 66:1 stocks:1 97:1 72:1
+HES	20130131	67.68	66.96	r_down	off:1 gains:2 after:1 down:1 exit:1 earnings:1 stocks:2
+HES	20130201	66.96	68.01	r_up	
+HES	20130204	68.01	67.29	r_down	n't:1
+HES	20130205	67.29	65.83	r_down	
+HES	20130206	65.83	66.46	r_up	
+HES	20130207	66.46	66.38	r_down	
+HES	20130208	66.38	67.17	r_up	prices:1 even:1 higher:1 gasoline:1 headed:1
+HES	20130211	67.17	66.55	r_down	
+HES	20130212	66.55	66.78	r_up	
+HES	20130213	66.78	67.76	r_up	
+HES	20130214	67.76	68.15	r_up	
+HES	20130215	68.15	67.22	r_down	
+HES	20130219	67.22	68.01	r_up	
+HES	20130220	68.01	65.82	r_down	
+HES	20130221	65.82	64.21	r_down	
+HES	20130222	64.21	65.84	r_up	
+HES	20130225	65.84	63.55	r_down	
+HES	20130226	63.55	64.42	r_up	cheap:1 deal:1
+HES	20130227	64.42	65.49	r_up	
+HES	20130228	65.49	66.31	r_up	portfolio:1 stocks:1 shuffle:1 up:1 edge:1
+HES	20130301	66.31	66.35	r_up	hinge:1 margins:1 more:1 gains:1 surge:1
+HES	20130304	66.35	68.64	r_up	worries:1 lower:1 futures:1 sequester:1
+HES	20130305	68.64	69.62	r_up	shine:1 among:1 's:1 energy:1 shares:1 stocks:1 dull:1
+HES	20130306	69.62	69.29	r_down	energy:1 stocks:1 tops:1 gainer:1
+HES	20130307	69.29	68.84	r_down	
+HES	20130308	68.84	69.27	r_up	
+HES	20130311	69.27	69.69	r_up	
+HES	20130312	69.69	70.17	r_up	
+HES	20130313	70.17	71.58	r_up	20.5:1 energy:1 down:1 drag:1 stocks:1 $:1
+HES	20130314	71.58	71.86	r_up	
+HES	20130315	71.86	72.4	r_up	
+HES	20130318	72.4	72.11	r_down	$:1 265:1
+HES	20130319	72.11	69.9	r_down	
+HES	20130320	69.9	69.8	r_down	
+HES	20130321	69.8	69.17	r_down	
+HES	20130322	69.17	70.16	r_up	
+HES	20130325	70.16	70.33	r_up	
+HES	20130326	70.33	71.0	r_up	's:2
+HES	20130327	71.0	71.92	r_up	rise:1 stocks:1 jumps:1
+HES	20130328	71.92	71.5	r_down	's:1
+HES	20130401	71.5	73.43	r_up	sector:1 gains:1 energy:1 broader:1 2.05:1 drops:1 $:1
+HES	20130402	73.43	74.03	r_up	1:1 via:1 $:2 1.8:1 leads:1 fall:1 stocks:1 retreat:1
+HES	20130403	74.03	71.95	r_down	
+HES	20130404	71.95	71.68	r_down	losses:1 some:1 recoup:1 refiners:1 stocks:1 higher:1
+HES	20130405	71.68	71.58	r_down	
+HES	20130408	71.58	72.33	r_up	
+HES	20130409	72.33	73.19	r_up	
+HES	20130410	73.19	72.81	r_down	's:1
+HES	20130411	72.81	72.55	r_down	
+HES	20130412	72.55	71.28	r_down	
+HES	20130415	71.28	67.87	r_down	
+HES	20130416	67.87	68.69	r_up	drop:1 stocks:1 market:1 broader:1
+HES	20130417	68.69	66.81	r_down	
+HES	20130418	66.81	66.92	r_up	biggest:1 among:1 decliners:1 stocks:1 500:1
+HES	20130419	66.92	66.68	r_down	
+HES	20130422	66.68	67.8	r_up	
+HES	20130423	67.8	68.11	r_up	
+HES	20130424	68.11	70.02	r_up	rally:1 stocks:1 gain:1 shares:1
+HES	20130425	70.02	71.05	r_up	
+HES	20130426	71.05	70.88	r_down	
+HES	20130429	70.88	72.09	r_up	
+HES	20130430	72.09	72.07	r_down	800:1 $:1
+HES	20130501	72.07	70.6	r_down	
+HES	20130502	70.6	72.1	r_up	
+HES	20130503	72.1	72.89	r_up	among:1 top:1 stocks:1 gainers:1 weekly:1
+HES	20130506	72.89	72.35	r_down	outperforms:1 stocks:1 gain:1
+HES	20130507	72.35	72.15	r_down	
+HES	20130508	72.15	71.78	r_down	
+HES	20130509	71.78	70.85	r_down	
+HES	20130510	70.85	69.2	r_down	week:1 set:1 's:1 third:1 rise:1 records:1 stocks:1
+HES	20130513	69.2	69.29	r_up	hit:1 miners:1 coal:1 worst:1 fall:1 stocks:1
+HES	20130514	69.29	72.11	r_up	among:1 's:1 sectors:1 top:1 stocks:1 day’s:1
+HES	20130515	72.11	70.49	r_down	sector:1 decliner:1 sole:1 5:1 fall:1 stocks:1
+HES	20130516	70.49	69.01	r_down	5:1 's:1
+HES	20130517	69.01	69.58	r_up	among:1 oil:1 invest:1 rebound:1 fall:1 refiner:1 losers:1 shock’:1 rallies:1 stocks:2 top:1 ‘supply:1
+HES	20130520	69.58	69.62	r_up	
+HES	20130521	69.62	69.51	r_down	
+HES	20130522	69.51	68.48	r_down	
+HES	20130523	68.48	67.94	r_down	
+HES	20130524	67.94	67.38	r_down	
+HES	20130528	67.38	68.42	r_up	
+HES	20130529	68.42	68.47	r_up	
+HES	20130530	68.47	68.64	r_up	
+HES	20130531	68.64	67.31	r_down	
+HES	20130603	67.31	68.69	r_up	vs.:1
+HES	20130604	68.69	68.15	r_down	
+HES	20130605	68.15	66.66	r_down	
+HES	20130606	66.66	67.89	r_up	
+HES	20130607	67.89	69.08	r_up	
+HES	20130610	69.08	68.65	r_down	
+HES	20130611	68.65	67.19	r_down	off:1
+HES	20130612	67.19	66.72	r_down	
+HES	20130613	66.72	66.85	r_up	
+HES	20130614	66.85	65.97	r_down	
+HES	20130617	65.97	67.51	r_up	--:1 's:1 2013:1
+HES	20130618	67.51	67.52	r_up	
+HES	20130619	67.52	66.38	r_down	90:1 $:1
+HES	20130620	66.38	64.28	r_down	
+HES	20130621	64.28	64.02	r_down	

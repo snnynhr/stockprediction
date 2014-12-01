@@ -1,0 +1,468 @@
+stock_TXN r_down	down:1 pull:1 shares:1 forecasts:1
+stock_TXN r_down	's:1
+stock_TXN r_down	3:1
+stock_TXN r_up	$:1 17:1
+stock_TXN r_up	sector:1 drop:1 's:1 lead:1 losses:1 shares:1 forecasts:1 down:1 falls:1 cut:1 tech:1 inch:1 close:1 upwards:1 futures:1 stock:1
+stock_TXN r_down	lending:1 demand:1 sales:1 down:1 warning:1 cuts:1 close:1 moves:2 makers:1 market:1 5.4:1 beef:1 broad:1 shares:2 forecast:1 3:1 forecasts:1 biggest:1 new:1 consecutive:1 stock:1 gaining:1 's:2 gains:1 weak:1 slump:1 focus:2 wake:1 plan:1 fall:1 end:1 stocks:2 spur:1 declining:1 kids:1 target:1 third:1 futures:1 up:1 surge:1 session:1 tech:1 reduced:1
+stock_TXN r_down	finish:1 after:1 2008:1 moves:1 liquidity:1 higher:1
+stock_TXN r_up	...:1
+stock_TXN r_up	sector:1 closes:1 lower:1
+stock_TXN r_down	hit:1 warns:1 softer:1 conditions:1 sales:1
+stock_TXN r_up	cell:1 2.2:1 concerns:1 downgraded:1 phone:1
+stock_TXN r_down	'':1 ``:1
+stock_TXN r_up	sector:1 0.9:1 lead:1 weak:1 tech:1 day:1
+stock_TXN r_up	bolster:1 operations:1 deal:1 chip:1 wireless:1 merge:1 businesses:1 sets:1 wireless-chip:1
+stock_TXN r_up	42:1
+stock_TXN r_down	sector:1 advances:1 leads:1 while:1 technology:1 retreat:1
+stock_TXN r_up	sector:1 gaining:1 's:1 profit:1 leads:1 expected:1 gain:1 biggest:1 rally:1 post:1 stocks:1 technology:1 declining:1
+stock_TXN r_up	weaker:1 says:1 profit:1 results:1 unlikely:1 escape:1 closes:1 end:1 spending:1 28:1 biggest:1 new:1 gaining:1 crunch:1 oil:1 's:1 gains:1 mostly:1 4.4:1 highs:1 hits:1 focus:1 expected:1 gain:1 report:1 stocks:2 analyst:1 declining:1 lower:1 ahead:1 credit:1 slightly:1
+stock_TXN r_down	sector:1 outlook:1 futures:1 investors:1 declines:1 global:1 focus:2 down:1 close:1 seek:1 market:1 before:1 woes:1 lead:1 4.2:1 profit:1 housing:1 28:3 shares:1 safety:1 earnings:1 under:1 biggest:1 higher:1 gaining:1 's:3 track:1 posts:1 pressure:1 gain:1 prices:1 stocks:2 data:1 declining:1 advance:1 lower:1 cautious:1 drop:2 bounces:1 up:1 turn:1 edge:1 tech:1 stock:1
+stock_TXN r_up	digits:1 lower:1 rises:1 end:1 altitude:1 results:1 oil:1 down:1 lift:1 gain:1 triple:1 weigh:1 firms:1 stocks:2 boost:1 earnings:2
+stock_TXN r_up	slip:1 inches:2 shares:1 other:1 bucking:1 broader:1 fall:1 close:1 tech:1 market:1 higher:2
+stock_TXN r_down	fails:1 gains:1 after:1 rates:1 cuts:1 hold:1
+stock_TXN r_up	chip:1 boost:1 shares:1
+stock_TXN r_down	even:1 correction:1 after:1 attractive:1 not:1 stocks:1
+stock_TXN r_up	broad:1 tech:1 gains:1 lead:1 advance:1
+stock_TXN r_up	capitalism:1
+stock_TXN r_down	sector:1 sinks:1 techs:1 jumps:1 slim:1 leads:1 see:1 tech:1 higher:1 gains:1
+stock_TXN r_up	sector:1 closes:1 rise:1 shares:1 tech:1 higher:1
+stock_TXN r_up	10:1
+stock_TXN r_up	upgrade:1 rises:2 falls:1
+stock_TXN r_up	executive:1 falls:1 move:1 departure:1 up:1 chief:1 quits:1 stocks:1 wings:1
+stock_TXN r_up	close:1 stocks:1 higher:1
+stock_TXN r_up	leads:1 sector:1 technology:1 higher:1
+stock_TXN r_down	giants:1 mobile:1 plans:1 devices:1 unveil:1
+stock_TXN r_up	sector:1 index:1 lower:1 futures:1 's:1 tumbles:1 up:1 after:2 update:1 shares:2 focus:1 edges:1 tech:1 gain:1 fall:1 news:1 tick:1 trim:1 gains:1 stock:1
+stock_TXN r_down	sector:1 outlook:1 futures:1 revenue:1 midquarter:1 raises:1 pulls:1 index:1 end:2 mostly:2 lackluster:1 forecast:2 3:1 biggest:1 higher:1 gaining:1 oil:3 's:1 extend:1 midpoint:1 falls:1 slides:1 crude:1 fall:1 stocks:4 declining:1 lower:2 losses:1 rallies:1 worries:1
+stock_TXN r_down	sector:1 gaining:1 's:2 broad:1 losses:1 tech:1 biggest:1 stings:1 2008:1 stocks:1 2011:1 day:1 declining:1
+stock_TXN r_down	sector:1 slow:1 2011:1 growth:1 through:1 report:1 chips:1
+stock_TXN r_down	13.6:1 $:1
+stock_TXN r_up	may:1 reputations:1 's:1 pursuit:1
+stock_TXN r_down	sector:1 tumble:1
+stock_TXN r_up	life:1 buy:1 $:1 amid:1 million:1 some:1 reports:1 410:1 rest:1 out:1 shows:1
+stock_TXN r_up	sector:1 surges:1 stocks:1 lead:1 higher:1
+stock_TXN r_down	sector:1 lead:1 falls:1 retreats:1 retreat:1 broader:1 bruising:1 market:1
+stock_TXN r_up	sector:1 outlook:1 clouds:1 warning:1 's:1 chips:1
+stock_TXN r_up	9:1
+stock_TXN r_up	ends:1 results:1 mixed:1 issues:1 tumbles:1 report:1 day:1 buoyed:1
+stock_TXN r_down	deal:1 soars:1 sales:1 buyout:1 stocks:1 profit:1 1:1 slammed:1 4:1 expected:1 net:1 earnings:1 ...:1 's:1 after:1 focus:1 gain:1 post:1 falls:1 second-quarter:1 retreat:1 ahead:1 reports:1
+stock_TXN r_down	losses:1 chip:1 focus:1 2nd:1 3.6:4 second:1 shares:1 earnings:1 biggest:1 performance:1 painful:1 stock:1 gaining:1 's:1 but:1 results:1 action:1 half:1 stocks:1 declining:1 knock:1 loom:1 signal:1 futures:1 n't:1 tech:1 worries:1 highlight:1
+stock_TXN r_up	prices:1 weighs:1 08:1 resource:1
+stock_TXN r_down	's:1 500,000:1
+stock_TXN r_down	500,000:1
+stock_TXN r_up	gains:1 tech:1 fail:1 close:1 stocks:1 boost:1
+stock_TXN r_up	staggers:1 into:1 red:1 broader:1 tumbles:1 market:1
+stock_TXN r_down	says:1 money:1 into:1 manager:1 stocks:1 technology:1
+stock_TXN r_down	meltdown:1 reputation:1 's:1
+stock_TXN r_down	's:1
+stock_TXN r_down	bad:1 reputation:1 's:1 gets:1 worse:1
+stock_TXN r_down	blow:1 after:1 form:1 point:1 futures:1 results:1 joint:1 venture:1 dealt:1 wireless-chip:1 higher:1 spotlight:1 stock:1
+stock_TXN r_down	rebounds:1 energy:1 stocks:1 end:1 higher:1
+stock_TXN r_up	's:1 its:1
+stock_TXN r_down	sell-off:1 market:1 pounded:1 get:1
+stock_TXN r_down	jump:1 chip:1 says:1 sales:1
+stock_TXN r_down	losses:1 up:1 add:1 another:1 stocks:1 day:1
+stock_TXN r_down	sector:1 upper:1 projection:1 point:1 chip:1 back:1 leads:1 manages:1 close:2 further:1 makers:1 scales:1 end:1 revenue:1 take:1 stock:1 hit:1 gains:1 pounded:1 but:1 focus:1 gain:1 stocks:2 downgraded:1 down:1 futures:1 tech:2
+stock_TXN r_up	sector:1 point:1 curb:1 boosts:1 bolster:1 end:1 lead:1 shares:1 start:1 financials:1 finances:1 stock:1 gains:1 after:1 forecasts:1 updates:1 stocks:1 chips:1 lower:1 futures:1 up:2 mildly:1 higher:2 spotlight:1 plan:1
+stock_TXN r_up	lower:1 point:1 moments:1 futures:1 outlook:1 shares:1 trade:1 slides:1 start:1 in-line:1 stock:1 sharply:1 rally:1 stocks:1 final:1 boosts:1 higher:1
+stock_TXN r_up	gaining:1 's:1 focus:1 losing:1 biggest:1 stocks:1
+stock_TXN r_down	lower:1 stocks:1 technology:1 lead:1
+stock_TXN r_up	leads:1 sector:1 retreat:1
+stock_TXN r_up	sector:1 broad:1 stocks:1 slump:1 fall:1
+stock_TXN r_down	operations:1 off:1 chip:1 manufacturing:1 spin:1
+stock_TXN r_down	fab:1 spinoff:1 industry:1 's:1 means:1
+stock_TXN r_down	``:1 court:1 asks:1 '':1 unenforceable:1 declare:1 patents:1
+stock_TXN r_up	gains:1 lead:1 up:1 tech:1 close:1 market:1
+stock_TXN r_up	's:1
+stock_TXN r_down	10:1 trades:1 8.5:1 drop:1 shares:1 years:1 late:1 single:1 worst:1 gain:1 plunges:1
+stock_TXN r_up	lower:1 revenue:1 weak:1 focus:1 trends:1 expected:1 post:1 downgraded:1
+stock_TXN r_up	lower:1 shares:1 pullback:1 edge:1 day-session:1 following:1
+stock_TXN r_up	outlook:1 revenue:1 down:1 spinning:1 27:1 muted:1 point:1 only:1 shares:1 start:1 charge:1 expected:1 stock:1 gaining:1 's:1 views:1 biggest:1 report:1 stocks:1 declining:1 lower:1 futures:1 companies:1 up:1 honest:1 tech:1 higher:1
+stock_TXN r_down	sector:1 outlook:1 trades:1 sees:1 cuts:1 focus:1 down:1 losses:1 hit:1 27:1 4.1:1 worsen:1 shares:1 forecast:2 earnings:1 strong:1 's:1 stock:1 gives:1 evening:1 led:1 downgrades:1 weak:1 fall:1 stocks:2 disappointing:1 drop:1 boost:1 futures:1 reports:1 prompts:1 tech:2 talk:1 following:1 higher:1 profits:1
+stock_TXN r_down	three-day:1 gaining:1 lower:2 slow:1 end:1 declines:1 send:1 snapping:1 led:1 's:1 reports:1 earnings:1 prices:1 biggest:1 rally:1 share:1 stocks:3 technology:1 skids:1 declining:1 6.8:1
+stock_TXN r_down	reset:1 outlook:1 bar:1 been:1 low:1 has:1 shows:1
+stock_TXN r_down	08:1 09:1
+stock_TXN r_up	sector:2 1.6:1 2009:1 1.1:1 lead:1 advances:1 sales:1 up:1 upgrades:1 stocks:1 slightly:1 analyst:1 market:1 higher:1
+stock_TXN r_up	sector:1 sell:1 power:1 reports:1 tech:1 heavy:1 stocks:1
+stock_TXN r_down	11:1 '09:1 22:1
+stock_TXN r_down	pain:1 's:1 comes:1 market:1 wisdom:1
+stock_TXN r_up	hit:1 warns:1 after:1 sales:1 shortfall:1 stocks:1
+stock_TXN r_down	broad:1 layoffs:1 tech:1 lead:1 losses:1
+stock_TXN r_down	n't:1 '09:3 5.6:3 '01:1
+stock_TXN r_down	2009:1 sees:1 drop:1 slump:1 sales:1 disappointing:1 another:1 losses:1 highlight:1 stocks:1 day:1
+stock_TXN r_up	sell-off:1 leaves:1 stocks:1 tech:1 battered:1
+stock_TXN r_down	10:1
+stock_TXN r_up	mixed:1 end:1 gain:1 techs:1 though:1
+stock_TXN r_down	stocks:1 up:1 hungry:1 bulls:1 more:1 slams:1 tech:1 nearly:1 9:1 gobble:1 plunges:1 2.4:1
+stock_TXN r_up	slips:1 warns:1 surges:1
+stock_TXN r_up	highlight:1 tech:1 rally:1
+stock_TXN r_up	jobs:1 could:1 cut:1 says:1 forecast:1
+stock_TXN r_up	chorus:1 warnings:1 downbeat:1 chip:2 cuts:1 sales:1 round:1 leads:1 earnings:1 joins:1 tumbles:1 news:1 forecasts:1 makers:1
+stock_TXN r_up	lowers:1 sector:1 outlook:1 drop:1 ca:1 sales:2 rest:1 jump:1 second:1 chain-store:1 2.1:1 2.7:1 weekly:1 $:1 negative:1 shares:1 earnings:1 biggest:1 into:1 gaining:1 's:1 warnings:1 rise:1 focus:1 lift:1 gain:1 despite:1 stocks:1 day:1 declining:1 futures:1 n't:1 turn:1 tech:1 rallies:1 spotlight:1
+stock_TXN r_up	decline:1 industrials:1 warnings:1 profit:1 amid:1 slide:1 outlooks:1 disappoint:1 stocks:1 corporate:1
+stock_TXN r_down	sector:1 's:1 lead:1 notes:1 losses:1 headwinds:1 maker:1 down:1 job:1 warning:1 tech:1 upgrades:1 close:1 still:1 chip:1 faces:1
+stock_TXN r_up	25:1 12:1 just:1 fall:1 sales:1 years:1 time:1 fifth:1
+stock_TXN r_up	lowers:1 lower:1 's:1 16:1 weak:1 sales:2 forecast:1 citing:1 '09:1 demand:1 years:1 suffer:1
+stock_TXN r_down	2009:1 hold:1 off:1 investors:1 soars:1 job:1 cuts:1 chip:1 fall:1 say:1 shares:1 should:1 next:1 while:1 lowered:1 forecast:1 year:1 plunges:1 until:1
+stock_TXN r_down	's:1
+stock_TXN r_up	2009:1 '10:1
+stock_TXN r_down	gains:1 holds:1 while:1 mixed:1 stocks:1 onto:1
+stock_TXN r_up	4.5:1 sector:1 ends:1 lower:1 tech:1 drops:1 stock:1
+stock_TXN r_up	2009:1
+stock_TXN r_down	2009:1
+stock_TXN r_down	sees:1 rebound:1 months:1 few:1 'a:1 chips:1 away:1
+stock_TXN r_up	sector:1 winner:1 lone:1 slumps:1 tech:1 stock:1
+stock_TXN r_down	fourth-quarter:1 after:1 's:1 target:1 themes:1 again:1 broad:1 losses:1 sales:1 $:1 leads:1 warning:1 tech:1 cuts:1 2009:1 10:1
+stock_TXN r_down	recovery:1 'disaster:1 up:1 mild:1 earnings:1 sets:1 2009:1
+stock_TXN r_up	lowers:1 chip-industry:1 outlook:1 sales:1 woes:1
+stock_TXN r_up	advance:1 lower:1 gains:1 techs:1 results:1 shares:1 jump:1 in-line:1 following:1 close:1
+stock_TXN r_down	outlook:1 cuts:1 weak:1 due:1 sales:1 demand:1
+stock_TXN r_down	's:1
+stock_TXN r_up	15:1 posting:1 7.3:1 drop:1 -20:1 sales:1 turn:1 gloomy:1 64:1 analysts:1 seen:1
+stock_TXN r_down	12:2 big:1 drop:1 sales:1 quarterly:1 expected:1 post:1 86:1
+stock_TXN r_up	drop:1 says:1 investors:1 point:1 over:1 results:1 cuts:1 86:1 cut:1 group:1 profit:1 shares:1 labor:1 disappoint:1 stock:1 after:2 jobs:2 big:1 rise:1 but:1 focus:2 hurt:1 12:1 futures:1 posts:1 up:1 reports:1 n't:1
+stock_TXN r_up	gaining:1 sector:1 's:1 jumps:1 results:1 leads:1 higher:1 biggest:1 stocks:1 technology:1 declining:1 better-than-expected:1
+stock_TXN r_up	quietly:1 layoffs:1 says:1 underway:1 group:1 2009:1
+stock_TXN r_up	sector:1 yearly:1 give:1 chip:1 sales:1 2.8:1 group:1 22:1 make:1 since:1 biggest:1 boost:1 gaining:1 's:1 gains:1 big:1 stocks:1 declining:1 drop:1 2001:2 tech:1 2008:1 first:1
+stock_TXN r_up	4.34:1
+stock_TXN r_up	s:1 8217:1
+stock_TXN r_up	investors:1 optimism:1 outpace:1 ask:1 justified:1 chips:1
+stock_TXN r_down	's:2 focus:1
+stock_TXN r_up	gaining:1 sector:1 fizzles:1 's:1 rise:1 but:1 biggest:1 rally:1 stocks:1 declining:1
+stock_TXN r_up	shares:1 falls:1 below:1 tech:1 slip:1 1,400:1
+stock_TXN r_up	24:1 09:1 22:1 8216:1
+stock_TXN r_down	starts:1 bruising:1 brutal:1 month:1
+stock_TXN r_up	sector:1 gains:1 broad:1 ca:1 n't:1 lift:1 tech:1 small:1
+stock_TXN r_down	outlook:1 narrows:1 first-quarter:1 lead:1 big:1 revised:1 steady:1 sales:1 shares:1 forecast:1 futures:1 fall:1 mixed:1 overseas:1 drops:1 markets:1 retreat:1 stock:1
+stock_TXN r_up	sector:1 ripe:1 revised:1 focus:1 sharp:1 seen:1 bottom:1 shares:1 forecast:1 rally:1 biggest:1 has:1 boost:1 gives:1 gaining:1 's:2 not:1 stocks:2 declining:1 surge:1 deals:1 tech:1 failures:1
+stock_TXN r_up	s:1 8217:1
+stock_TXN r_up	billion:1 1:1 swings:1 $:1 loss:1 up:1 shares:1 n't:1 heat:1 lifts:1 tech:1 strong:1 stocks:1 than:1 gains:1 more:1
+stock_TXN r_up	rally:1 speculation:1 move:1 over:1 deal:1
+stock_TXN r_down	week:1 ends:1 gains:1 posts:1 but:1 second:1 red:1
+stock_TXN r_up	lowers:1 outlook:1 gainers:1 pushes:1 techs:1 into:1 lead:1 negative:1 surge:1 black:1 chips:1
+stock_TXN r_up	sector:1 end:1 gains:1 lead:1 month:1 tech:1
+stock_TXN r_down	's:1
+stock_TXN r_up	8220:1 8221:1 $:1 50:1
+stock_TXN r_up	techs:1 ahead:1 get:1 lift:1 report:1 stocks:1 other:1 weaken:1
+stock_TXN r_down	slips:1 outlook:1 after:1 rise:1 ekes:1 struggles:1 shares:1 up:1 pressures:1 late-session:1 tech:1 but:1 gain:1 action:1 small:1 plan:1 stocks:1 out:1
+stock_TXN r_up	loss:1 lower:1 techs:1 lead:1 sales:1 report:1 expected:1 makers:1 higher:1
+stock_TXN r_up	week:1 advance:1 gains:1 lead:1 ease:1 posts:1 focus:1 shares:1 late:1 session:1 another:1
+stock_TXN r_down	result:1 loss:1 lower:3 futures:1 sales:1 after:2 profit:1 estimates:1 surges:1 posts:1 focus:1 but:2 expects:1 leads:1 run-up:1 beats:1 tech:1 retreat:1 drop:1 97:1 stock:1
+stock_TXN r_down	outlook:1 over:1 fall:1 session:1 led:1 moves:1 rises:1 profit:1 brighten:1 shares:2 earnings:1 biggest:1 economy:1 gaining:1 's:1 rise:1 v.:1 slides:1 wake:1 lows:1 others:1 report:1 stocks:1 declining:1 euro:1 off:1 climb:1 profits:1
+stock_TXN r_down	sector:1 rally:1 into:1 black:1 pushes:1
+stock_TXN r_down	chips:1 led:1 retreat:1
+stock_TXN r_up	development:1 closes:1 stocks:1 advance:1 chip:1 through:1 month:1 mark:1 outsource:1 tech:1 new:1 strong:1 breaks:1 1,700:1
+stock_TXN r_down	30:1 gains:1 quarter:1 chip:1 manage:1 sales:1 pressure:1 slide:1 3.3:1 despite:1 stocks:1 first:1
+stock_TXN r_up	case:1 growth:1 analysts:1 rally:1 stocks:1 debate:1
+stock_TXN r_up	down:1 led:1 gains:1 weakness:1 make:1 shares:1 hardware:1 edge:1 despite:1 stocks:1 chip:1
+stock_TXN r_down	tech:1 chips:1 retreat:1 lead:1 sinks:1
+stock_TXN r_down	expected:1 loss:1 swing:1
+stock_TXN r_up	positive:1 after:1 up:1 shares:1 comments:1
+stock_TXN r_up	rally:1 stocks:1 tech:1 rises:1 lead:1
+stock_TXN r_up	's:1
+stock_TXN r_down	leading:1 but:1 tech:1 not:1 seen:1 chips:1 yet:1
+stock_TXN r_up	sector:1 ``:1 give:1 '':1 tech:1 stocks:1 boost:1
+stock_TXN r_down	boosted:1 stocks:1 gains:1
+stock_TXN r_up	5:1 $:1
+stock_TXN r_up	25:1 led:1 1,800:1 tops:1 6.4:1 rally:1
+stock_TXN r_down	week:1 gains:1 3rd:1 posts:1 but:1 dip:1
+stock_TXN r_up	outlook:1 tough:1 $:1 hike:1 aside:1 but:1 face:1 1:1 hikes:1 shares:1 climb:1 forecasts:1 chips:1 road:1
+stock_TXN r_up	raised:1 focus:1 raises:1 close:1 rally:1 inventories:1 targets:1 traders:1 end:1 recovery:1 shares:2 forecast:1 1:1 tight:1 take:1 biggest:1 luster:1 gaining:1 modestly:1 's:2 gains:1 wary:1 eyed:1 stocks:3 second-quarter:1 declining:1 shine:1 lower:1 off:1 futures:1 range:1 follow:1 higher:1 spotlight:1
+stock_TXN r_down	following:1 sell:1 plan:1 shares:1 falls:1
+stock_TXN r_down	cut:1 's:2 losses:1 stocks:1 close:1 still:1 red:1
+stock_TXN r_down	loss:1 posts:1 upswing:1 stay:1 names:1 despite:1 new:1 stocks:1 red:1
+stock_TXN r_down	balanced:1 debate:1 bear:1 vs.:1 bull:1
+stock_TXN r_up	27:1 $:1 pushes:1 soars:1 sell-off:1 but:1 1,800:1 below:1 shares:1 red:1 stock:1
+stock_TXN r_down	rises:1 's:2 gains:1 results:1 keep:1 stocks:1
+stock_TXN r_up	falter:1 down:1 report:1 stocks:1 ahead:1
+stock_TXN r_down	roadblock:1 run:1 but:1 warn:1 analysts:1 's:1
+stock_TXN r_up	close:1 mild:1 stocks:1 but:1 losses:1
+stock_TXN r_up	rise:1 stocks:1 led:1
+stock_TXN r_down	fuels:1 debate:1 market:1
+stock_TXN r_down	's:1
+stock_TXN r_up	gains:1 23:1 mild:1 9.8:1 '09:1 way:1 close:1 stocks:1 find:1
+stock_TXN r_up	week:1 small:1 stocks:1 end:1 gains:1
+stock_TXN r_up	``:2 move:1 's:8 triggers:1 mobile:1 casts:1 into:1 grand:2 '':2 slam:1 'grand:3 rally:1 technology:1 cloud:1
+stock_TXN r_up	'grand:1 's:2
+stock_TXN r_up	week:1 ends:1 focus:1 7.4:2 gain:1
+stock_TXN r_up	upgraded:1 sector:1 56:1 focus:1 seen:1 upgrade:1 $:1 positive:1 views:1 upbeat:1 gets:1 stock:1 's:1 rescue:1 get:1 after:1 but:1 results:1 said:1 demand:1 picking:1 futures:1 up:2 reviews:1 more:1 2009:1
+stock_TXN r_down	week:1 sales:1 bounce:1 trade:1 down:1 shippers:1 session:1 decline:1 techs:1 profit:1 broad:1 shares:4 late:1 start:1 2:1 net:1 slate:1 back:1 gains:1 highs:1 seventh:1 but:2 hurt:1 fall:2 stocks:2 advance:1 lower:1 12:1 off:1 56:2 up:2 drops:1
+stock_TXN r_up	loss:1 ``:1 smaller:1 1.3:1 posts:1 '':1 5:1 second-quarter:1
+stock_TXN r_up	'':1 3.7:1 ``:1
+stock_TXN r_up	'':2 ``:2
+stock_TXN r_down	end:1 gains:1 day:1 mild:1 stocks:1 erratic:1
+stock_TXN r_down	5:1
+stock_TXN r_down	sector:1 lower:1 tech:1 lead:1
+stock_TXN r_down	sector:1 tech:1 lead:1 higher:1
+stock_TXN r_up	instruments:1
+stock_TXN r_up	gains:1 leads:1 tech:1 close:1 rally:1 stocks:1
+stock_TXN r_up	$:3
+stock_TXN r_up	2,000:1
+stock_TXN r_up	techs:1 rise:1 ekes:2 late:1 gain:2 rally:1 boosts:1
+stock_TXN r_down	5.3:1 retreats:1 sink:1 broader:1 18.2:1 market:1
+stock_TXN r_up	gains:1 quiet:1 see:1 trading:1 small:1 stocks:1
+stock_TXN r_up	n't:1 focus:1
+stock_TXN r_down	outlook:1 sales:2 trade:1 raises:1 follow:1 lifts:1 issues:1 end:1 jobless:1 shares:3 2:1 outlooks:1 earnings:1 markets:1 higher:3 jumps:1 after:1 focus:2 push:1 225:1 data:1 paces:1 futures:1 up:1 turn:1 mixed:1 slightly:1
+stock_TXN r_down	's:1 raises:1 views:1
+stock_TXN r_down	quarterly:1 dividend:1 raise:1
+stock_TXN r_up	slides:1 surges:1 gains:1 lead:1 tech-sector:1 rise:1 focus:1 trade:1 late:2 1c:1 12:1 choppy:1
+stock_TXN r_down	sink:1 retreat:1
+stock_TXN r_down	wide:1 plunge:1 stocks:1 selloff:1
+stock_TXN r_down	upgrade:1 gains:1 weak:1 sales:1 stay:1 5:1 fall:1 stocks:1
+stock_TXN r_up	's:1 23:1
+stock_TXN r_down	's:1 gains:1 manage:1 close:1 stocks:1 find:1 market:1
+stock_TXN r_down	4.5:1
+stock_TXN r_down	17:2 drop:1 focus:1 sales:1 expected:1 post:1
+stock_TXN r_up	aided:1 copper:1 outlook:1 drop:1 point:1 dollar:1 bright:1 4.4:3 lead:1 profit:1 surprises:1 shares:1 advisories:1 earnings:2 stock:1 's:2 gains:1 opening:1 rise:1 futures:1 ahead:2 losses:1 reports:1 tech:1 broad:1
+stock_TXN r_up	sector:1 200:1 gains:1 4.4:2 surprises:1 ca:1 results:1 shares:1 focus:1 n't:2 advisories:1 cheer:1 lift:1 tech:1 above:1 quarterly:1 climb:1 markets:1 jumps:1 $:1
+stock_TXN r_down	upbeat:1 rises:1 results:1
+stock_TXN r_up	broad:1 losses:1 lose:1 close:1 stocks:1 steam:1
+stock_TXN r_up	sector:1 tech:1 retreat:1 lead:1
+stock_TXN r_down	sector:1 case:1 says:1 holidays:1 implicated:1 faces:1 worries:1 beyond:1
+stock_TXN r_up	19.7:1
+stock_TXN r_up	gains:1 give:1 tech:1 stocks:1 boost:1 help:1
+stock_TXN r_up	close:1 mild:1 stocks:1 gains:1 800:2
+stock_TXN r_up	10.2:1 11.6:1 sales:1 fall:1 2009:1 grow:1
+stock_TXN r_down	big:1 technologies:1 thing:1 next:1
+stock_TXN r_down	sector:1 lower:1 pessimism:1 hit:1 takes:1 profit:1 swings:1 downgrades:1 futures:1 shares:1 spotlight:1 economic:1 recovers:1 demand:1 fall:2 's:2 stocks:1 chips:1 chip:1 stock:1
+stock_TXN r_down	gaining:1 outlook:1 's:1 shares:1 mark:1 misses:1 biggest:1 hit:1 stocks:1 declining:1
+stock_TXN r_up	rally:1 broad-based:1 rise:1 stocks:1 part:1
+stock_TXN r_up	27:1
+stock_TXN r_down	stocks:1 red:1 stay:1
+stock_TXN r_up	3.5:1
+stock_TXN r_up	late:1 turnaround:1 gains:1 lead:1 help:1
+stock_TXN r_up	broad:1 losses:1 lose:1 close:1 stocks:1 steam:1
+stock_TXN r_down	pull:1 after:1 back:1 shares:1 update:1 midquarter:1
+stock_TXN r_down	slips:1 view:1 futures:1 's:4 sinks:1 sales:1 declines:1 eke:1 after:1 dollar:1 update:1 bounce:1 up:1 earnings:1 narrows:1 midquarter:1 gain:1 focus:1 rises:1 stock:1
+stock_TXN r_down	late:1 stuck:1 trades:1 red:1 shares:1
+stock_TXN r_down	n't:1 do:1 belong:1 map:1
+stock_TXN r_up	's:1
+stock_TXN r_down	11:1 says:1 11.4:1 fall:1 sales:1 second:1 year:1 2009:1
+stock_TXN r_up	3:1 's:1 7:1
+stock_TXN r_down	breaks:1 resistance:1 capped:1 500:1 out:1
+stock_TXN r_down	sector:1 gains:1 tech:1 small:1 claims:1 shines:1
+stock_TXN r_down	gains:1 sell-off:1 chip:1 mild:1 see:1 despite:1 stocks:1
+stock_TXN r_down	3.7:1 8.5:1
+stock_TXN r_down	=:1
+stock_TXN r_up	9:1
+stock_TXN r_down	$:1
+stock_TXN r_down	swayed:1 lead:1 could:1 tech:1 retreat:1 banks:1 chips:1 market:1 stock:1
+stock_TXN r_up	concerns:1 stocks:1 weak:1 inventory:1 demand:1
+stock_TXN r_down	broad:1 head:1 tech:1 up:1 gains:1
+stock_TXN r_down	...:1 drops:1 's:1 bid:1 after:1 results:1 up:1 shares:1 losse:1 close:1 follow:1 stocks:1 south:1
+stock_TXN r_down	mostly:1 amid:1 focus:1 results:1 upbeat:1 correcting:1 market:1
+stock_TXN r_up	down:1 outlook:1 rise:1 's:2 ahead:1 profit:1 big:1 after:1 posts:1 sales:2 shares:2 results:1 jump:1 19:1 leap:1 earnings:1 expected:1 post:1 stocks:1 gain:1
+stock_TXN r_down	again:1 's:1 surprises:1 fears:1 focus:1 advisories:1 tightening:1 markets:1 skid:1
+stock_TXN r_up	gains:1 results:1 shares:1 6:1 fail:1 follow:1 stocks:1 retreat:1 '10:1
+stock_TXN r_up	sector:1 stocks:1 tech:1 lead:1 higher:1
+stock_TXN r_up	stocks:1 hit:1 gains:2 sell-off:1 broad:1 hard:1 late:1 trading:1 dayside:1 bit:1 hold:1
+stock_TXN r_up	push:1 auto:1 industry:1 here:1 stay:1
+stock_TXN r_up	show:1 sales:1 growth:1 surprise:1 bubble:1 negativity:1
+stock_TXN r_down	sector:1 help:1 broad:1 score:1 tech:1 stocks:1 gains:1
+stock_TXN r_down	lower:1 narrows:1 's:1 gains:1 stocks:1 rise:1 sales:1 shares:1 edge:1 earnings:1 outlook:1 rises:1 shadow:1
+stock_TXN r_down	lower:1 futures:1 's:1 rebound:1 rise:1 anniversary:1 but:1 focus:1 edge:1 -2:1 flatlines:1 close:1 stocks:1
+stock_TXN r_up	outlook:1 slip:1 raises:1 but:1 shares:1
+stock_TXN r_down	sector:1 's:2 tentative:1 chip:1 3:1 steps:1 take:1 forward:1 stocks:1 momentum:1
+stock_TXN r_down	3:1
+stock_TXN r_up	action:1 stalemate:1 weak:1 tech:1 highlights:1
+stock_TXN r_up	end:1 gains:1 decision:1 after:1 stocks:1 day:1
+stock_TXN r_down	sector:1 slips:1 plunge:1 shares:1
+stock_TXN r_down	eke:1 rises:1 gain:1
+stock_TXN r_up	's:2 lead:1 found:1 parts:1 gain:1 close:1 follow:1 stocks:1
+stock_TXN r_down	's:1
+stock_TXN r_up	reveals:1 's:1 $:1 study:1 costs:1 260:1 make:1
+stock_TXN r_down	rebound:1 stocks:1 led:1
+stock_TXN r_up	upgrade:1 's:1 rise:1 shares:1 reviews:1 upbeat:1
+stock_TXN r_up	's:2 gains:1 give:1 lift:1 tech:1 stocks:1 help:1
+stock_TXN r_up	's:1 gains:1 lead:1 broad:1 chip:1 tech:1 stocks:1
+stock_TXN r_down	5:1
+stock_TXN r_down	's:1 losses:1 tech:1 highlight:1 rough:1 stocks:1 day:1
+stock_TXN r_down	hopes:1 suppliers:1 rise:1 sales:1
+stock_TXN r_up	tap:1 gains:1 extend:1 big:1 futures:1 results:1 score:1
+stock_TXN r_down	slips:1 after:1 's:3 profit:2 quarter:1 support:1 rise:1 near-term:1 focus:1 shares:1 results:1 jump:1 technical:1 first:1 view:1 surges:1 despite:1 cuts:1 out:1
+stock_TXN r_down	down:1 drag:1 losses:1 tech:1 stocks:1
+stock_TXN r_down	week:1 broad:1 begin:1 stocks:1 gains:1
+stock_TXN r_up	aim:1 mobile:1 takes:1 devices:1 update:1
+stock_TXN r_down	weighs:1 ripe:1 shares:1 tech:1 picking:1 strong:1 debuts:1
+stock_TXN r_up	's:1
+stock_TXN r_up	27:1 target:1 chip:1 n't:1 lifts:1 '09:1 sales-growth:1 2010:1
+stock_TXN r_up	's:1 focus:1
+stock_TXN r_down	trim:1 outlook:2 stocks:2 end:1 brokers:1 bottom:1 caution:1 futures:1 focus:1 shares:1 up:1 late:1 slide:1 volatile:1 raises:1 losses:1 trade:1 close:1 higher:1 market:1 before:1
+stock_TXN r_up	outlook:1 stocks:1 led:1 gains:1 give:1 tech-sector:1 chip:1 but:1 shares:2 semiconductor:1 raises:1 slip:2 rally:1 muscle:1
+stock_TXN r_up	all:1 gains:1 late:1 nearly:1 lose:1 action:1 stocks:1
+stock_TXN r_down	financial:1 're:1 eye:1 storm:1
+stock_TXN r_up	aim:1 stocks:1 off:1 4:1 shows:1
+stock_TXN r_up	week:1 off:1 results:1 start:1 mixed:1 stocks:1
+stock_TXN r_up	rapid:1 says:1 gains:1 power:1 tech-sector:1 broad:1 growth:1 tablets:1 poised:1
+stock_TXN r_down	close:1 cut:1 stocks:1 gains:1 losses:1
+stock_TXN r_up	4:2
+stock_TXN r_up	market:1 industry:1 tablet:1 rocked:1
+stock_TXN r_up	sector:1 tech:1 sentiment:1 boosts:1 battered:1
+stock_TXN r_up	's:1 surprises:1 futures:1 watch:1 bounce:1 advisories:1 tech:1 stock:1 close:1 stocks:1 spotlight:1 higher:2
+stock_TXN r_down	weighs:1 losses:1 triples:1 energy:1 sales:1 metals:1 trade:1 2-month:1 hit:1 group:1 extend:1 lead:1 profit:1 shares:1 late:1 low:1 biggest:1 new:1 seeks:1 stock:2 gaining:1 finish:1 's:2 gains:2 reportedly:1 rebound:1 watch:1 but:1 short:1 nearly:1 fall:1 stocks:2 rebounds:1 declining:1 gloom:1 drop:1 paces:1 futures:1 posts:1 higher:1
+stock_TXN r_down	around:1 turns:1 sales:1 shares:1 late:1 75:1 but:2 fall:1 disappoint:1 stumble:1
+stock_TXN r_up	week:1 off:1 gains:1 broad:1 start:1 stocks:1
+stock_TXN r_down	's:1
+stock_TXN r_down	65:1
+stock_TXN r_down	case:1 's:2 seller:1 cell:1 remorse:1 chips:1
+stock_TXN r_up	n't:1 's:4
+stock_TXN r_up	's:1 deal:1 leads:1 tech:1 upbeat:1 stocks:1 day:1
+stock_TXN r_up	0.1:1
+stock_TXN r_down	smartphone:1 capitalize:1 boom:1
+stock_TXN r_down	spending:1 consumer:1 focus:1
+stock_TXN r_up	losses:1 weak:1 techs:1 lead:1 month:1
+stock_TXN r_down	's:1
+stock_TXN r_up	late:1 narrows:1 's:2 gains:1 trades:1 focus:1 stocks:1 sales:1 down:1 earnings:1 close:1 lululemon:1 follow:1 forecast:1
+stock_TXN r_down	drop:1 jobs:1 gains:1 pressured:1 inventory:1 downgrades:1 tally:1 up:1 data:1 mild:1 mildly:1 stocks:3 chips:1 spotlight:1 before:1
+stock_TXN r_up	$:2
+stock_TXN r_up	focus:1 buyback:1 jump:1 shares:1 dividend:1 boost:1
+stock_TXN r_up	futures:1 $:3 rise:1 late:1 trades:1 7.5:1 rally:1 2010:1 stock:1
+stock_TXN r_up	stocks:1 black:1 back:1 rises:1
+stock_TXN r_down	chip:1 growth:1 open:1 firms:1 opportunities:1
+stock_TXN r_up	sector:1 outlook:1 weaker:1 shares:1 fall:1
+stock_TXN r_down	n't:1
+stock_TXN r_down	not:1 love:1 much:1 investor:1 getting:1
+stock_TXN r_down	disappointing:1 outlook:1 shares:1 fall:1
+stock_TXN r_down	surprises:1 advisories:1
+stock_TXN r_up	action:1 highlight:1 tech:1 gains:1 n't:1
+stock_TXN r_up	expected:1 post:1 sales:1 focus:1 higher:1
+stock_TXN r_up	trim:1 jump:1 lower:1 evening:1 's:1 gains:1 profit:1 meeting:1 futures:1 focus:1 shares:1 trade:1 60:6 rise:1 wake:1 reports:1 back:1 stocks:1 stock:1 day’s:1
+stock_TXN r_down	buck:1 beaten:1 futures:1 lifts:1 color:1 losses:1 60:1 economic:1 tech:1 gain:1 slip:1 mixed:1 export:1 firms:1 stocks:2 data:1 day:1 awaits:1
+stock_TXN r_up	worries:1 market:1 slip:1 shares:1 slowing:1
+stock_TXN r_down	54:1
+stock_TXN r_up	tech:1 mild:1 stocks:1 boost:1 give:1
+stock_TXN r_down	's:1
+stock_TXN r_up	sector:1 outlook:1 's:1 n't:1 slams:1 tech:1
+stock_TXN r_up	late:1 action:1 losses:1 tech:1 lead:1
+stock_TXN r_up	's:2
+stock_TXN r_up	pace:1 tech:1 gains:1 broad:1
+stock_TXN r_down	session:1 shortened:1 stocks:1 retreat:1
+stock_TXN r_up	watch:1
+stock_TXN r_up	deal:1 give:1 mild:1 lift:1 tech:1 helps:1 stocks:1
+stock_TXN r_up	ranges:1 outlook:1 futures:1 off:1 surprises:1 ahead:1 2011:1 shaky:1 watch:1 forecast:1 narrows:1 advisories:1 cautious:1 turns:1 open:1 stock:1
+stock_TXN r_down	stage:1 tech:1 take:1 center:1
+stock_TXN r_down	n't:1 78:1
+stock_TXN r_down	's:1 lead:1 losses:1 tech:1 activity:1 mixed:1
+stock_TXN r_up	small:1 eke:1 stocks:1 gains:1 out:1
+stock_TXN r_up	2011:1
+stock_TXN r_down	38:1 $:2
+stock_TXN r_up	put:1 's:1 everywhere:1
+stock_TXN r_up	's:1
+stock_TXN r_down	're:1
+stock_TXN r_up	even:1 advance:1 's:2 slips:1 shares:1
+stock_TXN r_up	's:3 lead:1 profit:1 44:1 futures:1 watch:1 up:1 reports:1 jump:1 matches:1 edge:1 tech:1 12000:1 rally:1
+stock_TXN r_down	ekes:1 sales:1 trade:1 seen:1 out:1 stocks:2 posting:1 44:1 shares:1 late:1 rise:1 's:1 sinks:1 after:1 weak:1 buyback:1 gain:1 fall:2 rises:1 data:1 17:1 ahead:1 12000:2 cheer:1 slightly:1
+stock_TXN r_up	tablets:1 sees:1 payoff:1
+stock_TXN r_down	2011:1
+stock_TXN r_up	'':1 ``:1
+stock_TXN r_down	=:1
+stock_TXN r_up	advance:1 's:2 lead:1 2:1 tech:1 our:1 stocks:1
+stock_TXN r_up	sector:1 oil:1 end:1 $:1 limits:1 rise:1 but:1 upgrades:1 102:1 stocks:1 gains:1 higher:1
+stock_TXN r_up	late:1 narrows:1 first-quarter:1 trades:1 watch:1 down:1 's:1 view:1
+stock_TXN r_down	third:1 market’s:1 money:1 make:1 bull:1 year:1
+stock_TXN r_down	sector:1 rare:1 risk:1 warns:1 faces:1 broker:1 tech:1 stumbles:1 gainer:1 ‘bubble’:1 market:1
+stock_TXN r_up	rally:1 tech:1 gains:1 lead:1
+stock_TXN r_up	late:1 loss:1 sales:1 up:1 shares:1 expects:1 down:1 trading:1 quake:1 damage:1
+stock_TXN r_down	ahead:1 tumble:1 surprises:1 companies:1 watch:1 advisories:1 tech:1 market:1 forge:1 stocks:1 rattles:1
+stock_TXN r_up	n't:1 's:1
+stock_TXN r_up	up:1 6:1
+stock_TXN r_down	focus:1
+stock_TXN r_down	bets:1 $:1 spreads:1 shares:1 surge:1 wireless:1 6.5:1 trading:1 after-hours:1
+stock_TXN r_up	help:1 deal:2 focus:2 jump:1 6.5:1 slip:1 our:1 makers:1 before:1 index:1 $:2 merger:1 data:1 shares:3 fuel:1 rebalance:1 soar:1 buy:1 's:1 gains:1 fab:1 chatter:1 billion:1 heftier:1 futures:1 up:1 sparks:1 edge:1 tech:1 weigh:1 stock:1 minutes:2
+stock_TXN r_up	'the:1 10:1 stocks:1 's:1 after:1 gaining:1 hours:1 biggest:1 active:1 du:1 chips:1 declining:1
+stock_TXN r_up	season:1 over:1 looms:1 earnings:1
+stock_TXN r_down	money:1 bear:1 world’s:1 making:1 biggest:1 our:1
+stock_TXN r_up	quits:1 stocks:1 tech:1 fall:1
+stock_TXN r_up	weigh:1 stocks:1 watch:1 tech:1
+stock_TXN r_down	decline:1 profit:1 watch:3 chip:1 posts:1 sales:1 shares:1 trade:1 modest:1 embrace:1 gain:2 after-hours:1 expected:1 design:1 should:1 analyst:1
+stock_TXN r_down	outlook:1 losses:1 color:1 results:2 close:1 moves:1 rises:1 ease:1 comments:1 late:1 earnings:2 6:1 gets:1 boost:1 housing:1 slips:1 after:1 rebound:1 rise:1 watch:1 miners:1 focus:1 cut:1 lift:1 stocks:4 starts:1 futures:1 optimism:1 slide:1 tech:2 worries:1 pre-earnings:1
+stock_TXN r_up	surprises:1 advisories:1 $:1
+stock_TXN r_up	$:1 600:1
+stock_TXN r_down	1999:1 it’s:1 's:1 like:1
+stock_TXN r_down	big:1 weak:1 tech:1 gainer:1 stocks:1 day:1
+stock_TXN r_up	4.9:1 $:1
+stock_TXN r_up	2015:1 13:1 own:1 chips:1 market:1
+stock_TXN r_up	n't:1
+stock_TXN r_down	8:1 sparked:1
+stock_TXN r_down	sell:1 bonds:1
+stock_TXN r_up	paths:1 45:2 n't:1 tech:1 action:1 highlight:1 divergent:1
+stock_TXN r_up	3:1 's:1 29:2 $:1
+stock_TXN r_down	strong:1 woos:1 mobile:1 keep:1 makers:1 heats:1 ties:1 developers:1 war:1
+stock_TXN r_up	peek:1 offers:1 8:1
+stock_TXN r_down	profile:1 mobile:1 war:1 raises:1 its:1
+stock_TXN r_up	outlook:1 futures:1 15:1 cuts:1 rise:1 watch:2 shares:1 trade:1 hours:1 quarterly:1 fall:1 jobs:1 's:2 data:1 75.42:1 after:2 stock:1
+stock_TXN r_down	15:3 watch:1
+stock_TXN r_down	weighs:1 gains:1 techs:1 sell-off:1 chip:1 while:1
+stock_TXN r_up	concerns:1 voice:1 stocks:1 analysts:1 fall:1
+stock_TXN r_down	's:1
+stock_TXN r_down	sector:1 's:1 down:1 tech:1 weigh:1 stocks:1
+stock_TXN r_down	see:1 chips:1 uptick:1 second:1 half:1
+stock_TXN r_down	gains:1 get:1 rise:1 leads:1 upbeat:1 stocks:1 chips:1 bolstered:1 view:1
+stock_TXN r_up	watch:1
+stock_TXN r_down	13:3 lead:1 watch:1 futures:1 slump:1 gridlock:1 second:1 tech:1 earnings:1 slip:1 after-hours:1 action:1 highlight:1 quarter:1 debt-ceiling:1 retreat:1 stock:1
+stock_TXN r_up	13:5 futures:1 rise:1 watch:1 focus:1 talks:1 debt:1 data:1 stock:1
+stock_TXN r_down	n't:1
+stock_TXN r_down	27:2
+stock_TXN r_down	surprises:1 advisories:1
+stock_TXN r_down	session:1 cap:1 volatile:1 losses:1 weekly:1
+stock_TXN r_up	11:1 takes:1 down:1 fall:1 sharp:1 2011:1
+stock_TXN r_down	second:1 financial:1 side:1 storm:1
+stock_TXN r_down	's:1
+stock_TXN r_down	recession:1 not:1 recovery:1
+stock_TXN r_up	37:1
+stock_TXN r_down	sell:1 leads:1 stocks:1 off:1 slump:1
+stock_TXN r_down	watch:1
+stock_TXN r_up	outlook:1 weaker:1 point:1 demand:1 leads:1 cuts:1 hit:1 open:1 gainers:1 lead:1 shares:1 citing:1 falter:1 's:4 broadly:1 weak:1 rise:1 watch:1 fall:1 retreat:1 lower:1 rare:1 techs:1 futures:1 tech:1 after-hours:1 action:1 spotlight:1
+stock_TXN r_up	paths:1 own:1 mobile:1 into:1 pushing:1 team:1
+stock_TXN r_up	action:1 watch:1 sink:1 shares:1 after-hours:1
+stock_TXN r_up	31:1 watch:1
+stock_TXN r_down	rating:1 sink:1 tumble:1
+stock_TXN r_down	late:1 rise:1 shares:1 trades:1
+stock_TXN r_down	watch:1 500:1
+stock_TXN r_up	kicks:1 share:1 drop:1 off:1 era:1
+stock_TXN r_up	's:1
+stock_TXN r_down	's:3
+stock_TXN r_up	may:1 slowed:1 sales:1 economy:1
+stock_TXN r_up	sinks:1 rise:1 tops:1 shares:1 400:1 $:1
+stock_TXN r_up	falls:1 stocks:1 tech:1 lead:1 higher:1
+stock_TXN r_down	's:1
+stock_TXN r_up	30:1 under:1 watch:1 sales:1 shares:1 pressure:1 slip:1 after-hours:1 net:1 drops:1
+stock_TXN r_down	seeing:1 ahead:1 bottom:1 broad:1 futures:1 watch:1 flat:1 rally:1 near:1 summit:1 tech:1 signs:1 highlight:1 chips:1 stock:1
+stock_TXN r_up	highlight:1 slide:1 losses:1 tech:1
+stock_TXN r_up	35:1
+stock_TXN r_up	's:1 $:1 462,000:1
+stock_TXN r_up	gains:1 gas:1 late:1 turn:1 close:1 stocks:1
+stock_TXN r_up	techs:1 30:1 but:1 lift:1 weigh:1 chips:1
+stock_TXN r_up	's:1
+stock_TXN r_down	's:2
+stock_TXN r_down	loss:1 199:1 takes:1 study:1 small:1 $:2
+stock_TXN r_up	slips:1 broad:1 join:1 but:1 rally:1
+stock_TXN r_up	session:1 close:1 stocks:1 slip:1
+stock_TXN r_down	lowered:1 sink:1 shares:1 forecast:1
+stock_TXN r_up	among:1 outlook:1 drop:1 deal:1 focus:2 bright:1 's:3 ground:1 gainers:1 surprises:1 fears:1 shares:1 lights:1 advisories:1 stock:1 after:1 hit:1 rise:2 hours:1 sharply:1 stocks:2 futures:1 summit:1 tech:2 lose:1 following:1 2012:1
+stock_TXN r_down	n't:1 's:1
+stock_TXN r_down	down:1 leads:1 warning:1 tech:1 stocks:1 day:1
+stock_TXN r_down	rush:1 's:1 lead:1 wireless:1 tech:1 joins:1 stocks:1 retreat:1
+stock_TXN r_up	down:1 $:1 techs:1 leads:1 3.3:1 shines:1
+stock_TXN r_down	0.9:2 302:1 2011:2 $:2
+stock_TXN r_up	lower:1 techs:1 lead:1
+stock_TXN r_down	500:1
+stock_TXN r_up	2012:1
+stock_TXN r_up	smartphone:1 deal:1 ink:1
+stock_TXN r_up	's:1
+stock_TXN r_up	sparks:1 rally:1 22:1 optimism:1 2012:1
+stock_TXN r_up	gaining:1 gains:1 lead:1 tech:1 biggest:1 stocks:2 declining:1
+stock_TXN r_down	weighs:1 watch:1 up:1 but:1 techs:1
+stock_TXN r_down	after:1 off:1 calls:1 techs:1 bottom:1 dives:1 futures:1 watch:1 shares:1 hours:1 lift:1 fall:1 climb:1 rises:1 chips:1
+stock_TXN r_up	beat:1 10:1 stocks:1 crowd:1 income-paying:1
+stock_TXN r_up	week:1 begin:1 stocks:1 mild:1 losses:1
+stock_TXN r_up	chip:1 results:1 40:1 leads:1 rally:1 strong:1
+stock_TXN r_down	cameras:1
+stock_TXN r_up	32:1
+stock_TXN r_down	view:1 rebounds:1 analysts:1 long:1 take:1
+stock_TXN r_down	siege:1 13,000:1 under:1
+stock_TXN r_up	wake-up:1 tech:1 call:1 disaster:1
+stock_TXN r_down	after:1 declines:1 rise:1 watch:1 shares:2 hours:1 slip:1 cuts:1 view:1
+stock_TXN r_down	even:1 slips:1 jobs:1 futures:1 watch:1 up:1 edge:1 report:1 higher:1 stock:1
+stock_TXN r_down	good:1 stay:1
+stock_TXN r_down	500:1

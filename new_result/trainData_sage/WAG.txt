@@ -1,0 +1,271 @@
+stock_WAG r_down	n't:1
+stock_WAG r_up	gaining:1 8.3:1 's:1 focus:1 4:1 biggest:1 stocks:1 declining:1
+stock_WAG r_down	2:1
+stock_WAG r_up	focus:1
+stock_WAG r_up	bolster:1 sector:1 5.2:2 stocks:1 's:2 $:1 10:1 results:1 feature:1 retail:1
+stock_WAG r_down	gaining:1 's:1 $:1 profit:1 advances:1 stock:1 biggest:1 post:1 stocks:1 declining:1 higher:1
+stock_WAG r_down	$:1
+stock_WAG r_down	4.4:1
+stock_WAG r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_WAG r_down	...:1
+stock_WAG r_down	surprises:1 1.6:1 advisories:1
+stock_WAG r_up	focus:1
+stock_WAG r_down	...:1
+stock_WAG r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_WAG r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_WAG r_up	...:1
+stock_WAG r_down	chain-store:1 1.8:1 sales:1 shares:1 up:1 earnings:1 surge:1
+stock_WAG r_down	amp:1
+stock_WAG r_down	watch:1
+stock_WAG r_down	aided:1 's:3 generic:1 surprises:1 focus:1 up:1 drug:1 sales:1 advisories:1 2:4 quarterly:1 net:1
+stock_WAG r_down	gaining:1 15:1 biggest:1 's:2 stocks:1 declining:1
+stock_WAG r_down	inflationary:1 environment:1 creativity:1 takes:1
+stock_WAG r_up	stocks:1 higher:1 edge:1
+stock_WAG r_up	's:3
+stock_WAG r_up	300,000:1
+stock_WAG r_up	insiders:1 buy:1 battered:1 stock:1
+stock_WAG r_down	n't:1
+stock_WAG r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_WAG r_up	oil:1 back:1 bounce:1 shares:1 prices:1 retreat:1
+stock_WAG r_up	billion:1 2.9:1 acquire:1 $:1
+stock_WAG r_up	firm:1 's:2 may:1 faltering:1 shares:1 reflect:1 not:1 strengths:1
+stock_WAG r_up	shareholders:1 question:1 bid:1 value:1
+stock_WAG r_down	closer:1 shareholders:1 look:1 deal:1 give:1
+stock_WAG r_down	's:1
+stock_WAG r_down	's:1 8.4:1
+stock_WAG r_up	's:1
+stock_WAG r_down	plunge:1 61:1 poised:1 stocks:1 starting:1 bankruptcy:1
+stock_WAG r_down	's:2 deal:1 offer:1 favors:1 spurns:1 still:1
+stock_WAG r_up	financial:1 battered:1 weigh:1 failures:1 fear:1 stocks:1
+stock_WAG r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_WAG r_down	's:1 remains:1 advances:1 hearing:1 spotlight:1 cool:1
+stock_WAG r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_WAG r_up	sector:1 's:1 rescue:1 focus:1 passage:1 lift:1 plan:1 hopes:1 retail:1
+stock_WAG r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_WAG r_down	gaining:1 hits:1 12:1 's:1 $:2 losing:1 biggest:1 pharmacies:1 stocks:1 chill:1
+stock_WAG r_down	prescription-drug:1 12:1 profit:1 up:1 slowing:1 sales:1
+stock_WAG r_down	gaining:1 's:1 biggest:1 stocks:1 spotlight:1 declining:1
+stock_WAG r_down	slides:1 market:1 broader:1
+stock_WAG r_down	rival:1 bid:1 drops:1 $:1
+stock_WAG r_down	gaining:1 's:1 focus:1 biggest:1 stocks:1 declining:1
+stock_WAG r_down	closer:1 finish:1 edges:1 line:1 deal:1
+stock_WAG r_up	's:1
+stock_WAG r_down	index:1 after:1 near-record:1 scraping:1 surges:1 lows:1 9:1
+stock_WAG r_up	n't:1
+stock_WAG r_down	120,000:1
+stock_WAG r_down	'09:1
+stock_WAG r_down	4.6:1
+stock_WAG r_down	shop:1 goods:1 's:1 exchange:1 bear:1 winners:1 health:1 virtual:1 stock:1 consumer:1 market:1 care:1
+stock_WAG r_down	$:1
+stock_WAG r_up	gaining:1 's:1 surprises:1 advisories:1 biggest:1 stocks:1 declining:1
+stock_WAG r_down	may:1 rally:1 play:1 bear-market:1
+stock_WAG r_down	8217:2 8216:1
+stock_WAG r_up	wider:1 loss:1 forecast:1 reports:1 cuts:1
+stock_WAG r_up	focus:1
+stock_WAG r_down	week:1 modestly:1 holiday:1 's:3 chain:1 opening:1 profit:1 futures:1 bell:1 focus:1 start:1 plan:1 drops:1 cuts:1 11:1 stock:1 store:1 higher:1
+stock_WAG r_down	gaining:1 lower:1 's:1 tone:1 auto:1 drag:1 shares:1 indexes:1 down:1 their:1 retailing:1 setting:1 struggle:1 biggest:1 close:1 wheels:1 stocks:2 spin:1 makers:1 declining:1
+stock_WAG r_up	10.8:1 4.9:1
+stock_WAG r_down	1,000:1 $:1 down:1 part:1 turnaround:1 plan:1 slims:1
+stock_WAG r_down	outlook:1 12:1 hit:1 shares:1 1,000:1 2009:1
+stock_WAG r_down	's:1
+stock_WAG r_up	750:2 focus:1
+stock_WAG r_up	plunge:1 retail:1 2.7:2 sales:1
+stock_WAG r_up	4.34:1
+stock_WAG r_down	sector:1 's:1 1.9:1 lead:1 higher:1
+stock_WAG r_down	up:1
+stock_WAG r_up	90:1 downgrades:1 hold:1 unionization:1 concern:1
+stock_WAG r_up	6.7:1 plan:1 spotlight:1
+stock_WAG r_down	gaining:1 leads:1 's:1 gains:1 sector:1 profit:1 down:1 restructuring:1 costs:1 biggest:1 stocks:1 declining:1
+stock_WAG r_down	loss:1 retail:1 shuts:1 posts:1 bolsters:1 past:1 worst:1 stores:1 wider-than-expected:1
+stock_WAG r_up	's:1 lead:1 rise:1 lags:1 health:1 care:1
+stock_WAG r_down	5.7:1
+stock_WAG r_down	after:1 results:1 sales:1 tumbles:1
+stock_WAG r_down	retail:1 consumers:1 wary:1 show:1 sales:1 still:1
+stock_WAG r_down	gaining:1 stocks:2 's:3 target:1 8.7:3 8.9:1 focus:1 hurt:1 profit:2 misses:1 costs:1 fall:1 biggest:1 9.7:1 declining:1
+stock_WAG r_down	's:2
+stock_WAG r_down	paying:1 purchase:1 finally:1 off:1 stock:1
+stock_WAG r_down	stocks:1 sales:1 up:1 job:1 numbers:1 3.4:1 fall:1 disappoint:1 hold:1
+stock_WAG r_up	22:1
+stock_WAG r_down	's:1 50:1 focus:1
+stock_WAG r_up	18:1
+stock_WAG r_down	18:1
+stock_WAG r_up	inks:1 deal:1 supply:1
+stock_WAG r_down	incomes:1 personal:1 drop:1 '09:1 fall:1 stocks:1
+stock_WAG r_down	flat:1 save:1 's:2 largely:1 1.9:2 falls:1 unlikely:1 retailers:1 stocks:1 earnings:1
+stock_WAG r_down	surprises:1 advisories:1
+stock_WAG r_up	sell:1 buy:1 stocks:1 flu:1
+stock_WAG r_down	stock:1 stumble:1 analysts:1 market:1 expect:1
+stock_WAG r_up	stocks:1 bargain:1 cash-flow:1 helps:1 pick:1 you:1 primer:1
+stock_WAG r_up	focus:1
+stock_WAG r_up	upgrades:1 1.6:2 futures:1 's:2 $:1 price:1 rise:1 focus:1 expectations:1 shares:1 surge:1 report:1 beats:1 upside:1 350:1 2015:1 home:1 stocks:1 bolstered:1 stock:1
+stock_WAG r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_WAG r_down	5.3:1 spotlight:1
+stock_WAG r_up	favors:1
+stock_WAG r_down	hold:1 's:1 may:1 some:1 results:1 promise:1 holiday:1
+stock_WAG r_up	chains:1 downgraded:1 ahead:1 earnings:1
+stock_WAG r_up	$:1
+stock_WAG r_down	payout:1 staples:1 profit:1 4.9:2 tops:1 up:1 mark:1 stock-market:1 focus:1 inch:1 found:1 stocks:1 consumer:1
+stock_WAG r_up	monthly:1 over:1 sales:1 year:1 post:1 best:1
+stock_WAG r_up	's:1
+stock_WAG r_up	taking:1 bugs:1 gold:2 mainstream:1
+stock_WAG r_down	3.9:2
+stock_WAG r_down	slow:1 's:1 sales:1 merchandise:1
+stock_WAG r_down	's:1
+stock_WAG r_up	's:1 $:1
+stock_WAG r_down	's:1 fund:1 manager:1 catch:1 eye:1 stocks:1
+stock_WAG r_down	's:1
+stock_WAG r_down	shrug:1 n't:1 off:1 investors:1 ca:1 rise:1 flu:1 shares:1 spotlight:1 jump:1 mania:1 reports:1 storm:1 offset:1 20:3 consumer:1 skittish:1 earnings:1
+stock_WAG r_up	surprises:1 advisories:1
+stock_WAG r_down	3:1
+stock_WAG r_down	data:1 0.3:2 employment:1 focus:1
+stock_WAG r_up	1.5:1 's:1 $:1 rise:1 tops:1 mark:1 stocks:1
+stock_WAG r_up	n't:1
+stock_WAG r_down	1.1:2
+stock_WAG r_down	gaining:1 's:2 drop:1 biggest:1 led:1 stocks:2 declining:1
+stock_WAG r_down	profit:1 rally:1 jumps:1 report:1 sputters:1
+stock_WAG r_down	15:1
+stock_WAG r_up	billion:1 buy:1 's:2 $:5 1.08:2 rise:1 battered:1 buys:2 stocks:1
+stock_WAG r_up	n't:1 's:1
+stock_WAG r_up	play:1 momentum:1
+stock_WAG r_up	surprises:1 advisories:1 0.4:3
+stock_WAG r_down	's:1 stocks:1 dip:1 disappoint:1
+stock_WAG r_down	heat:1 retail:1 up:1 sales:1
+stock_WAG r_down	2010:1
+stock_WAG r_up	focus:1
+stock_WAG r_up	4.6:1 's:1 prescriptions:1 rises:1 profit:1 stocks:1 pace:1 margins:1 retail:1 spotlight:1
+stock_WAG r_down	4.6:1
+stock_WAG r_up	4.6:2
+stock_WAG r_up	rise:1 sales:1 home:1 stocks:1 data:1 pending:1
+stock_WAG r_down	2.3:3
+stock_WAG r_down	juice:1 dividend:1 returns:1 best:1 strategies:1
+stock_WAG r_up	570:1 's:1 $:1
+stock_WAG r_down	45:1 's:1
+stock_WAG r_up	pull:1 's:1 gains:1 0.2:2 back:1 further:1 stocks:1
+stock_WAG r_up	's:1 4:1
+stock_WAG r_up	n't:1
+stock_WAG r_down	n't:2 's:1
+stock_WAG r_down	5.7:1
+stock_WAG r_down	0.2:1
+stock_WAG r_up	gaining:1 's:1 takes:1 aim:1 biggest:1 stocks:1 declining:1
+stock_WAG r_down	's:1 16:1
+stock_WAG r_up	's:1
+stock_WAG r_down	focus:1
+stock_WAG r_up	$:1
+stock_WAG r_up	sector:1 cut:1 end:1 gold:1 higher:1 make:1 up:1 focus:1 edge:1 brightens:1 mixed:1 stocks:1 spat:1 view:1
+stock_WAG r_down	11:5 lower:1 weaker:1 's:2 futures:1 linger:1 after:1 focus:3 sales:1 turn:1 jitters:1 home:1 drop:1 stocks:1 stock:1
+stock_WAG r_down	gaining:1 hit:1 profit:1 energy:1 slumps:1 fight:1 costs:1 drilling:1 biggest:1 's:2 stocks:1 declining:1 higher:1
+stock_WAG r_down	's:1
+stock_WAG r_up	2:3 's:1 focus:1 -2:1
+stock_WAG r_up	121:1 3:2 's:2
+stock_WAG r_up	third:1 up:1 121:1 points:1 gain:1 stocks:1 day:1
+stock_WAG r_up	27:1 2004:1
+stock_WAG r_down	0.4:2
+stock_WAG r_down	jobs:1 ground:1 figures:1 gain:1 stocks:1 improve:1
+stock_WAG r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_WAG r_up	cheered:1 jobs:1 assets:1 jumps:1 trade:1 numbers:1 stocks:1 data:1 spotlight:1
+stock_WAG r_up	's:1
+stock_WAG r_down	's:1
+stock_WAG r_down	3,000:1 $:1
+stock_WAG r_up	rise:1 's:1 housing:1 futures:1 focus:1 deals:1 continue:1 7.8:4 spotlight:1 stock:1
+stock_WAG r_down	gaining:1 surges:1 rise:1 deals:1 earnings:1 spike:1 biggest:1 stocks:2 declining:1 stock:1
+stock_WAG r_down	tricks:1 political:1 treats:1
+stock_WAG r_up	's:1
+stock_WAG r_up	positive:1 retail:1 sales:1 look:1
+stock_WAG r_up	share:1 lead:1
+stock_WAG r_up	's:1 $:1 hike:1 up:1 buyback:1 1:1 dividend:1
+stock_WAG r_up	2010:1
+stock_WAG r_up	21:1 1.3:1
+stock_WAG r_up	drop:1 injects:1 fund:1 growth:1 aid:1 stocks:1
+stock_WAG r_down	25:1
+stock_WAG r_up	$:1
+stock_WAG r_up	3.2:1
+stock_WAG r_up	surprises:1 advisories:1
+stock_WAG r_down	'em:1
+stock_WAG r_up	scale:1 undercuts:1 3:1 athletic:1 surprises:1 futures:1 watch:1 back:1 data:1 19:2 rise:1 advisories:1 gain:1 small:1 segment:1 spotlight:1
+stock_WAG r_up	gaining:1 session:1 profit:1 estimates:1 rise:1 tops:1 up:1 shares:1 edge:1 fifth:1 biggest:1 stocks:2 declining:1 higher:1
+stock_WAG r_up	0.6:2
+stock_WAG r_up	retail:1 led:1 tailwind:1 industry:1 drop:1 focus:1 29:1 2.8:2 economic:1 losing:1 jobs:2 stocks:1 data:2 temper:1 retreat:1 futures:1
+stock_WAG r_up	expectations:1 short:1 rosy:1 sales:1 fall:1
+stock_WAG r_up	$:1
+stock_WAG r_down	$:1
+stock_WAG r_down	1.1:1
+stock_WAG r_up	8.1:1 claims:1 jobless:1 6.1:1 focus:1
+stock_WAG r_up	pace:1 retail:1 gains:1 stocks:1
+stock_WAG r_up	's:1
+stock_WAG r_up	100:1 $:1
+stock_WAG r_down	's:1
+stock_WAG r_down	's:1
+stock_WAG r_up	surprises:1 advisories:1
+stock_WAG r_up	gaining:1 $:1 525:1 '09:1 biggest:1 stocks:1 declining:1
+stock_WAG r_down	down:1 note:1 bull-market:1 anniversary:1 mark:1
+stock_WAG r_up	's:1 watch:1
+stock_WAG r_down	point:1 10:2 rises:1 tumble:1 profit:1 n't:1 futures:1 focus:1 shares:1 slides:1 start:1 flat:1 mixed:1 stocks:1 stock:1
+stock_WAG r_up	gaining:1 lower:1 oil:1 end:1 $:1 surprises:1 hits:1 advisories:1 104:1 biggest:1 barrel:1 stocks:2 declining:1
+stock_WAG r_up	gaining:1 play:1 oil:1 's:1 focus:1 prices:1 online:1 biggest:1 stocks:1 declining:1
+stock_WAG r_down	20:1 's:1
+stock_WAG r_up	advance:1 stocks:1 minutes:1 focus:1 rises:1
+stock_WAG r_up	streak:1 18-month:1 win:1 could:1 sales:1 snap:1 retail:1
+stock_WAG r_up	's:1
+stock_WAG r_up	n't:1 's:1
+stock_WAG r_up	$:1
+stock_WAG r_up	369,744:1 $:1
+stock_WAG r_up	369,744:1 $:1
+stock_WAG r_down	stocks:1 's:2 dent:1 3.4:2 5:1 tumbles:1 retail:1 data:1
+stock_WAG r_down	7.5:4
+stock_WAG r_down	focus:1
+stock_WAG r_down	after:1 jobs:1 5.6:2 soars:1 wilt:1 futures:1 watch:1 but:1 most:1 sink:1 retailers:1 report:1 's:2 anemic:1
+stock_WAG r_up	's:1
+stock_WAG r_down	index:1 confidence:1 futures:1 point:1 over:1 30:4 watch:2 gain:1 stocks:1 higher:1
+stock_WAG r_down	gaining:1 retail:1 hit:1 surprises:1 leads:1 advisories:1 another:1 biggest:1 off:1 decliners:1 stocks:2 declining:1
+stock_WAG r_down	's:1
+stock_WAG r_down	down:1 follow:1 market:1 broader:1
+stock_WAG r_up	4.8:2 after:1 extend:1 watch:1 futures:1 well:1 sales:1 hike:1 retailers:1 fall:1 stock:1 bode:1 weekly:1
+stock_WAG r_down	uphill:1 battle:1 against:1 face:1
+stock_WAG r_up	$:3 29:1
+stock_WAG r_down	then:1 's:2 $:3 29:3 800:2 its:1
+stock_WAG r_up	lifted:1 's:1 $:1 29:1 shares:1 along:1
+stock_WAG r_up	facing:1 big:1 3:1 stocks:1 trouble:1
+stock_WAG r_up	's:1
+stock_WAG r_down	's:1 2.7:2
+stock_WAG r_down	surprises:1 advisories:1
+stock_WAG r_down	3:1
+stock_WAG r_up	70:1
+stock_WAG r_down	payday:1 way:1 investors:1
+stock_WAG r_up	5.6:1
+stock_WAG r_down	timing:1 dividend:1 buy:1 yield:1 market:1
+stock_WAG r_up	rules:1 new:1 travel:1 products:1 launch:1
+stock_WAG r_up	's:1
+stock_WAG r_down	plummeting:1 puts:1 shares:1
+stock_WAG r_down	80:1
+stock_WAG r_down	787:2
+stock_WAG r_down	gaining:1 global:1 end:1 deal:1 tumble:1 69:2 futures:1 watch:1 's:1 shares:1 likely:1 market:1 rally:1 biggest:1 join:1 stocks:1 markets:1 spotlight:1 declining:1 stock:1
+stock_WAG r_down	's:1
+stock_WAG r_down	1.3:1
+stock_WAG r_up	's:1
+stock_WAG r_up	5.4:1 3.1:1
+stock_WAG r_up	5:1
+stock_WAG r_up	buy:1 should:1 's:1 investors:1 stock:1
+stock_WAG r_down	pact:1 boost:1 helps:1 shares:1 strategy:1
+stock_WAG r_down	7.7:1 $:1
+stock_WAG r_down	7.7:1
+stock_WAG r_up	19:1 2.9:1
+stock_WAG r_down	7.3:1 2.6:1
+stock_WAG r_down	97:1
+stock_WAG r_down	's:1
+stock_WAG r_up	300,000:1
+stock_WAG r_up	2:1 1.9:1
+stock_WAG r_up	medications:1 less:1 surprises:1 futures:1 1.8:1 advisories:1 gain:1 pay:1 progress:1 your:1 hope:1
+stock_WAG r_down	2012:1
+stock_WAG r_up	30:2 's:1 2012:2
+stock_WAG r_down	4.5:10 watch:2 resolution:1 unlikely:1
+stock_WAG r_up	'12:1
+stock_WAG r_down	5:1 $:1
+stock_WAG r_down	slower:1 winter:1 missing:1 sales:1 likely:1 goes:1
+stock_WAG r_up	surprises:1 advisories:1
+stock_WAG r_down	profit:1 3.7:1 outlook:1 rise:1
+stock_WAG r_up	's:1
+stock_WAG r_down	's:1
+stock_WAG r_down	now:1 prudent:1 money:1 speculator:1 5:1 making:1 moves:1
+stock_WAG r_up	's:1
+stock_WAG r_up	's:1 watch:1 7.7:1
+stock_WAG r_down	retrench:1 after:1 advisories:1 surprises:1 rally:1 stocks:1 steep:1

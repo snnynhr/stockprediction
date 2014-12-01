@@ -1,0 +1,267 @@
+stock_UTX r_down	1960:1 's:1
+stock_UTX r_down	2008:1 4.85:1 $:2
+stock_UTX r_down	billion:2 lower:1 $:8 rejects:1 bid:1 futures:1 2.63:6 focus:1 indicate:1 offers:1 2008:1 4.85:1 start:1 stock:1
+stock_UTX r_down	sector:1 slip:1 close:1 still:1 technology:1 touches:1 $:1 blue-chip:1 struggles:1 biggest:1 gaining:1 oil:2 's:1 rules:1 advances:1 after:1 press:1 stocks:4 day:1 declining:1 downbeat:1 2.63:1 record:1 while:1
+stock_UTX r_up	$:1
+stock_UTX r_down	nomination:1 extends:1 board:1 deadline:1
+stock_UTX r_down	profit:1 focus:1 3.5:2 compete:1 firms:1 prestige:1
+stock_UTX r_down	gaining:1 's:1 $:1 biggest:1 stocks:1 declining:1
+stock_UTX r_down	08:1 $:1
+stock_UTX r_up	fuel:1 flies:1 plane:1 cells:1 powered:1
+stock_UTX r_down	billion:1 engine:1 lands:1 $:4 jet:1 23:4 contract:1
+stock_UTX r_down	's:1 $:1 110:1
+stock_UTX r_up	dollar:1 benefit:1 weaker:1 's:1 should:1
+stock_UTX r_down	gaining:1 's:2 $:1 22:5 get:1 focus:2 lift:1 declining:1 aerospace:1 biggest:1 stocks:1 profits:1
+stock_UTX r_up	30:1
+stock_UTX r_down	's:1 $:1
+stock_UTX r_up	44:1
+stock_UTX r_down	8.1:2
+stock_UTX r_up	2:1 $:3
+stock_UTX r_down	front:1 rise:1 stocks:1 deal-making:1 activity:1
+stock_UTX r_up	1:1 $:1
+stock_UTX r_down	2:1
+stock_UTX r_down	amp:1 's:1
+stock_UTX r_up	focus:1
+stock_UTX r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_UTX r_down	10:1 's:1 investing:1 changed:1 themes:1 doing:1 '08:1 our:1
+stock_UTX r_up	taps:1 $:1 head:1 bln:1 aviation:1 its:1 unit:1 16.8:1
+stock_UTX r_up	advance:1 tiny:1 expected:1 market:1 report:1 stocks:1 employment:1 comes:1
+stock_UTX r_down	put:1 damper:1 mood:1
+stock_UTX r_down	airshow:1 notebook:1 's:1 forget:1
+stock_UTX r_up	rush:1 's:2 wo:1 response:1 n't:1 earnings:1 tapped:1 grow:1
+stock_UTX r_up	lift:1 results:1 futures:1 stock:1
+stock_UTX r_down	gaining:1 sink:1 stocks:1 groundings:1 investors:1 over:1 view:1 outlook:1 shares:1 quarterly:1 costs:1 raises:1 airline:1 biggest:1 's:1 fret:1 declining:1 higher:1
+stock_UTX r_down	11:2 2008:2
+stock_UTX r_up	11:1 's:1 bargains:1 basement:1 2008:1 market:1 stock:1
+stock_UTX r_down	engine:1 new:1 challenge:1 set:1
+stock_UTX r_down	$:1
+stock_UTX r_up	tea:1 leaves:1
+stock_UTX r_up	...:1
+stock_UTX r_up	says:1 spending:1 big:1 could:1 revive:1 4.8:1 military:1 analyst:1 conflict:1
+stock_UTX r_down	11:1
+stock_UTX r_down	153:1
+stock_UTX r_up	crash:1 imperils:1
+stock_UTX r_up	trend:1 follow:1 cycle:1
+stock_UTX r_down	stake:1 $:1 million:1 ethics:1 sells:1 grounds:1
+stock_UTX r_up	15:1 $:1
+stock_UTX r_up	tarnish:1 outlook:1 $:1 could:1 results:1
+stock_UTX r_up	after:1 gains:1 extend:1 futures:1 focus:2 inflation:1 6:2 2009:1 data:1 stock:1
+stock_UTX r_down	into:1 close:1 rally:1 market:1 if:1 end:1 indexes:1 late:1 biggest:1 you:1 higher:1 gaining:1 buy:1 's:1 after:1 bear:1 quarterly:1 know:1 post:1 stocks:1 declining:1 traps:1 ahead:1 can:1 stock:1 profits:1
+stock_UTX r_down	trim:1 may:1 big:1 defense:1 earnings:1 contractors:1 spotlight:1 more:1
+stock_UTX r_down	's:1
+stock_UTX r_up	heavy:1 's:2 plans:1 feel:1 suppliers:1 losses:1 also:1 pension:1 toll:1 hammer:1 union:1 market:1 take:1
+stock_UTX r_up	three-day:1 mostly:1 extend:1 stretch:1 stocks:1 gains:1
+stock_UTX r_down	advisories:1 surprises:1 2009:1 3.3:1 focus:1
+stock_UTX r_up	5.15:1 2009:1 $:2 3.3:1 '09:1
+stock_UTX r_up	bolster:1 use:1 saving:1 plans:1 cash:1 $:1 pension:1 firms:1 stock:1
+stock_UTX r_up	market-beating:1 newsletters:1 stuffers:1 picks:1
+stock_UTX r_down	outlook:1 's:1 could:1 report:1 take:1 quarterly:1 backseat:1 '09:1
+stock_UTX r_up	deluge:1 amid:1 earnings:1 president:1 new:1 brace:1
+stock_UTX r_down	focus:1
+stock_UTX r_down	futures:1 higher:1 point:1 helps:1 surprises:1 guidance:1 09:1 reaffirms:1 but:1 spotlight:1 remain:1 advisories:1 '09:1 8:2 's:2 stock:1 concerns:1 view:1
+stock_UTX r_down	's:2
+stock_UTX r_down	credit:1 losses:1 sees:1 2009:1 more:1
+stock_UTX r_down	downtrend:1 buck:1 stocks:1
+stock_UTX r_down	may:2 deliveries:2 delay:1 put:1 hold:1 more:1
+stock_UTX r_down	8217:1
+stock_UTX r_down	report:1 stocks:1 home-sales:1 depresses:1
+stock_UTX r_down	's:1
+stock_UTX r_down	firms:1 notice:1
+stock_UTX r_up	gaining:1 2009:1 's:2 futures:1 defend:1 09:1 execs:1 11,600:3 bank:1 6:1 biggest:1 performance:1 climb:1 stocks:1 declining:1 stock:1
+stock_UTX r_up	cut:1 jobs:1 additional:1 11,600:1 shares:1 laggard:1 gain:1 elusive:1
+stock_UTX r_up	2009:1 's:1
+stock_UTX r_up	pilot:1 its:1 crashes:1 jet:1 killing:1
+stock_UTX r_up	firms:1 opportunities:1 foreign:1
+stock_UTX r_up	better:1 investment:1 500:1
+stock_UTX r_down	focus:1
+stock_UTX r_up	gaining:1 's:1 biggest:1 stocks:1 spotlight:1 declining:1
+stock_UTX r_down	briefly:1 pauses:1 28:1 direct:1 shares:1 falls:1 banks:1 only:1 gain:1 quarterly:1 rally:1 net:1 action:1 stock:1
+stock_UTX r_down	20:1
+stock_UTX r_up	sector:1 new:1 reach:1
+stock_UTX r_down	1:1
+stock_UTX r_up	roar:1 muffles:1 2009:1
+stock_UTX r_down	24:1 weaker:1 $:1 point:1 start:1 backtracks:1 sharply:1 fall:1 crude:1 stocks:1 markets:1
+stock_UTX r_down	surprises:1 advisories:1 's:1 $:1 7:1
+stock_UTX r_down	thriving:1 aircraft:1 tough:1 sales:1 times:1
+stock_UTX r_down	investing:1 midyear:1 2009:1 ideas:1
+stock_UTX r_down	bring:1 stocks:1 high-quality:1 gains:1 funds:1
+stock_UTX r_up	leaner:1 markets:1 focus:1 struggles:1
+stock_UTX r_down	industrial:1 's:1 additional:1 23:1 edge:1 futures:1 rug:1 loses:1 funding:1 under:1 rally:1 view:1 ups:1 2010:1 higher:1
+stock_UTX r_down	quarterly:1 profit:1 23:1 falls:1
+stock_UTX r_up	emerges:1 earnings:1
+stock_UTX r_up	95:1
+stock_UTX r_down	2009:1
+stock_UTX r_up	9/15:1
+stock_UTX r_up	quarterly:1 profit:1 softer:1 's:1 faces:1
+stock_UTX r_up	focus:1
+stock_UTX r_down	rise:1 17:2 futures:1 focus:2 back:1 spotlight:1 fall:1 stocks:1 2010:1 stock:1
+stock_UTX r_up	tumble:1 predict:1 correction:1 falls:1 profit:1 analysts:1 quarterly:1 stocks:1
+stock_UTX r_down	spending:1 defense:1 2010:1 bill:1 sign:1
+stock_UTX r_down	losses:1 's:1 $:2 point:1 --:1 futures:1 focus:1 modest:1 swap:1 -2:1 security:1 stock:1
+stock_UTX r_up	services:1 its:1 grow:1 buys:1
+stock_UTX r_up	$:1
+stock_UTX r_up	19:1
+stock_UTX r_up	2010:1 '10:1
+stock_UTX r_down	provide:1 jet:1 engines:1
+stock_UTX r_up	'09:1
+stock_UTX r_down	's:1
+stock_UTX r_up	's:1
+stock_UTX r_down	profit:1 post:1 smaller:1
+stock_UTX r_down	fourth-quarter:1 profit:1 falls:1 6.3:1 6:1 2010:1
+stock_UTX r_down	2010:1
+stock_UTX r_up	tough:1 $:1 arms:1 trade:1 stand:1 takes:1
+stock_UTX r_up	over:1 companies:1 arms:1 sanction:1
+stock_UTX r_down	10:1
+stock_UTX r_up	$:1
+stock_UTX r_up	$:1 10-:1
+stock_UTX r_up	oil:1 's:1 your:1 defense:1 portfolio:1 2010:1
+stock_UTX r_down	2:2
+stock_UTX r_up	$:1
+stock_UTX r_up	60:1
+stock_UTX r_up	focus:1
+stock_UTX r_up	's:1
+stock_UTX r_up	's:9
+stock_UTX r_down	$:1
+stock_UTX r_up	engine:1 weigh:1 's:1 new:1
+stock_UTX r_down	quarter:1 shrinking:1 profits:1 another:1 faces:1
+stock_UTX r_up	may:1 early:1 growth:1 stages:1
+stock_UTX r_down	profit:1 after:1 down:1 ruling:1 take:1 cuts:1 action:1 considers:1 more:1
+stock_UTX r_up	20:2 surprises:1 results:1 focus:1 pushed:1 advisories:1 stocks:1 higher:1
+stock_UTX r_down	quarterly:1 profit:1 cost:1 boosts:1 cuts:1
+stock_UTX r_up	20:1
+stock_UTX r_down	stocks:1 fewer:1 good-quality:1
+stock_UTX r_up	404:1
+stock_UTX r_up	's:2 insulated:1 says:1 problems:1
+stock_UTX r_down	currency:1 exporters:1 bar:1 raises:1 euro:1
+stock_UTX r_down	's:1
+stock_UTX r_down	new:1 bid:1 presidential:1 helicopters:1
+stock_UTX r_up	surprises:1 advisories:1
+stock_UTX r_up	n't:1 do:1 agree:1 investors:1
+stock_UTX r_down	streak:1 run:1 win:1 leads:1 five:1 stocks:1
+stock_UTX r_up	15:1
+stock_UTX r_down	may:1 cloudy:1 have:1 linings:1 quarter:1 silver:1
+stock_UTX r_up	still:1 's:1 stalled:1 may:1 decision:1 inks:1 budget:1 aims:1 face:1 deals:1 talks:1 but:1 flattens:1 jets:1 overseas:1 single-aisle:1 order:1 $:2
+stock_UTX r_up	helicopters:1 jet:1 over:1 militaries:1 reign:1 pricing:1 not:1 austerity:1 issue:1
+stock_UTX r_down	after:1 14:1 profit:1 surprises:1 rise:1 watch:1 focus:1 advisories:1 earnings:1 rises:1
+stock_UTX r_up	's:1 14:2
+stock_UTX r_up	's:1
+stock_UTX r_up	2010:1
+stock_UTX r_up	billion:1 plans:1 747:1 30:1 sale:1 report:1 $:1
+stock_UTX r_up	747:2
+stock_UTX r_down	over:1 takes:1
+stock_UTX r_up	face:1 slump:1 long:1 maintenance:1 providers:1
+stock_UTX r_up	extends:1 step:1 stocks:1 cautiously:1 loss:1
+stock_UTX r_down	's:1
+stock_UTX r_down	's:1
+stock_UTX r_down	's:1
+stock_UTX r_up	earn:1 off:1 study:1 lay:1 workers:1 more:1
+stock_UTX r_down	billion:1 cut:1 $:2 may:1 bill:1 defense:1 8:2
+stock_UTX r_up	's:1
+stock_UTX r_down	tricks:1 political:1 treats:1
+stock_UTX r_up	market’s:1 pay:1 opportunities:1 7:1 themselves:1 stocks:1 buying:1
+stock_UTX r_up	headwinds:1 pension:1 faces:1
+stock_UTX r_down	2010:1
+stock_UTX r_up	13:1 rise:1 may:1 surprises:1 after:1 focus:2 results:1 shares:1 diverge:1 advisories:1 costs:1 2011:1
+stock_UTX r_up	's:1 737:1
+stock_UTX r_up	interior:1 's:1 revamps:1 737:2
+stock_UTX r_down	after:1 election:1 gold:1
+stock_UTX r_up	may:1 delayed:1 reports:1 cost:1 further:1 more:1
+stock_UTX r_up	's:1
+stock_UTX r_up	survival:1 inflation:1 guide:1
+stock_UTX r_up	'':1 ``:1
+stock_UTX r_down	787:1 programs:1 fire:1 delays:2 after:1 face:1 faces:1 further:2 could:1
+stock_UTX r_down	900:1 parts:1 replace:1
+stock_UTX r_down	787:2
+stock_UTX r_down	787:1
+stock_UTX r_up	looking:1 engine:1 costs:1 rising:1
+stock_UTX r_down	engine:1 amid:1 carries:1 calm:1 issues:1
+stock_UTX r_up	edges:1 spot:1 out:1
+stock_UTX r_up	industrials:1 bust:1 should:1 follow:1 transports:1 out:1
+stock_UTX r_down	2011:1
+stock_UTX r_up	25:1 own:1 sectors:1 top:1 2011:1 2010:1
+stock_UTX r_down	400:2
+stock_UTX r_up	2011:1
+stock_UTX r_up	19:1 20:1 2010:1
+stock_UTX r_down	money-making:1 2011:1 investment:1 ideas:1
+stock_UTX r_up	closer:1 breakout:1 look:1
+stock_UTX r_down	787:1
+stock_UTX r_down	good:1 get:1 companies:1 start:1 say:1 talks:1
+stock_UTX r_up	787:1
+stock_UTX r_down	12:3 rise:1 focus:1 12000:1 stock:1 markets:1 await:1 futures:1
+stock_UTX r_up	surprises:1 lifted:1 advisories:1 12000:1 aerospace:1
+stock_UTX r_up	's:1
+stock_UTX r_up	stay:1 here:1 market:1 bull:1
+stock_UTX r_up	stocks:1 love:1 bugs:1 gold:1 can:1
+stock_UTX r_down	winner:1 tap:1 tanker:1 controversy:1 latest:1
+stock_UTX r_up	stocks:1 tank:1 look:1 deal:1 past:1 portfolio’s:1 investors:1 fuel:1 tanker:1 your:1 risk:1
+stock_UTX r_down	but:1
+stock_UTX r_down	third:1 market’s:1 money:1 make:1 year:1 points:1 growth:1 bull:1 orders:1
+stock_UTX r_down	's:1
+stock_UTX r_up	disruptions:1 readies:1
+stock_UTX r_up	engine:1 work:1 stop:1 orders:1
+stock_UTX r_up	300:1
+stock_UTX r_down	focus:1
+stock_UTX r_down	profit:1 growth:1 looks:1 demand:1
+stock_UTX r_up	after:1 17:2 profit:1 boosted:1 futures:1 growth:1 tech:1 earnings:1 rally:1 2011:1 187:1
+stock_UTX r_up	surprises:1 sales:1 leap:1 advisories:1 home:1 stocks:1 '12:1 96:1
+stock_UTX r_up	case:1 international:1 make:1 tax:1 reform:1
+stock_UTX r_down	great:1 still:1 spending:1 good:1 prices:1 stocks:1 restrained:1
+stock_UTX r_up	but:1
+stock_UTX r_down	200:1 set:1 's:1 up:1 bulls:1 fall:1
+stock_UTX r_down	's:1
+stock_UTX r_down	engines:1 orders:1 jet:1 $:1
+stock_UTX r_up	10:1 $:1 carriers:1 wins:1 budget:1 737:1 big:1 orders:1
+stock_UTX r_up	737:1
+stock_UTX r_up	engine:1 strength:1 join:1 $:2 blue-chip:1 team:1 report:1 close:1 firms:1 stocks:1 higher:1
+stock_UTX r_down	1,000:1 80:1
+stock_UTX r_down	week:1 blockbuster:1 order:1 caps:1
+stock_UTX r_down	off:1 2011’s:1 far:1 money:1 top:1 holds:1 ideas:1 fared:1 so:1 have:1
+stock_UTX r_up	services:1 aircraft:1 rev:1 up:1 demand:1
+stock_UTX r_down	watch:1
+stock_UTX r_up	watch:1 737:1
+stock_UTX r_down	ceiling:1 's:2 may:1 --:1 drop:1 watch:1 19:2 see:1 lift:1 737:1 debt:1 spotlight:1
+stock_UTX r_up	10:1 unemployment:1 surprises:1 soon:1 advisories:1 have:1 we’ll:1
+stock_UTX r_down	's:2 default:1 safe:1 event:1 2.8:2 haven:1
+stock_UTX r_down	3.7:1
+stock_UTX r_down	fears:1 stocks:1 hit:1 debt:1
+stock_UTX r_up	week:1 gains:1 losses:1 soften:1 volatile:1 stock:1
+stock_UTX r_down	's:1
+stock_UTX r_up	fall:1 indexes:1 ahead:1 stock:1
+stock_UTX r_down	2017:1 737:1
+stock_UTX r_down	down:1 storms:1 hatches:1 market:1
+stock_UTX r_down	timing:1 dividend:1 buy:1 yield:1 market:1
+stock_UTX r_down	onward:1 still:1 longest:1 marches:1 war:1
+stock_UTX r_up	10:1 $:1
+stock_UTX r_down	rally:1 stocks:1
+stock_UTX r_up	12:2 's:1 spotlight:1
+stock_UTX r_up	gaining:1 demand:1 after:1 aircraft:1 futures:1 drives:1 shares:1 hours:1 rise:1 pop:1 fall:1 biggest:1 talk:1 buyout:1 stocks:1 new:1 downgraded:1 declining:1
+stock_UTX r_down	short:1 deal:1 reportedly:1 offer:1 amid:1 rout:1 futures:1 slump:1 shares:1 global:1 watch:1 set:1 fall:1 stock:1
+stock_UTX r_up	gaining:1 's:1 drop:1 most:1 five:1 biggest:1 weeks:1 stocks:2 declining:1
+stock_UTX r_up	shoot:1 n't:1 787:1 bargains:1 up:1 delivery:1 parts:1 hopes:1 stocks:1 boost:1 makers:1
+stock_UTX r_up	rally:1 pare:1 rise:1 but:1
+stock_UTX r_up	'':1 ``:1
+stock_UTX r_down	lower:1 drops:1 drag:1 sink:1 rallies:1 100:1 stocks:1
+stock_UTX r_up	draw:1 scrutiny:1 earnings:1 pension:1
+stock_UTX r_down	11:3 boost:1 markets:1 focus:1 aerospace:1
+stock_UTX r_up	woes:1 may:1 surprises:1 advisories:1 earnings:1 tell:1
+stock_UTX r_up	44:2
+stock_UTX r_up	surprises:1 26:1 advisories:1
+stock_UTX r_down	harvest:1 profits:1 market:1 stock:1
+stock_UTX r_down	investments:1
+stock_UTX r_down	3:1
+stock_UTX r_down	billion:1 defense:1 $:1 bill:1 662:1
+stock_UTX r_down	's:1
+stock_UTX r_down	pressure:1 costs:1
+stock_UTX r_up	2012:1
+stock_UTX r_down	2012:1
+stock_UTX r_up	2011:1 's:1
+stock_UTX r_down	wants:1 slow:1 leaner:1 budget:1 growth:1 military:1
+stock_UTX r_down	's:1 watch:1
+stock_UTX r_down	surprises:1 advisories:1 's:1
+stock_UTX r_down	progress:1 stocks:1 gains:1 extend:1
+stock_UTX r_down	's:1 2012:1
+stock_UTX r_down	'':1 ``:1
+stock_UTX r_up	$:1
+stock_UTX r_down	's:1
+stock_UTX r_down	's:1
+stock_UTX r_down	loss:1 gains:1 extend:1 futures:1 struggle:1 weekly:1 stocks:1 out:1 wipe:1 stock:1

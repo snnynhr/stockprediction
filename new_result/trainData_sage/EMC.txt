@@ -1,0 +1,319 @@
+stock_EMC r_up	sector:1 tech:1 '09:1 close:1 boost:1 gives:1
+stock_EMC r_down	down:1 data:1 gets:1 economic:1 dragged:1
+stock_EMC r_down	'':1 3:1 ``:1 9.3:1
+stock_EMC r_up	n't:1 '08:1
+stock_EMC r_down	sector:1 closes:1 lower:1 $:1 offer:1 buyout:1 boosts:1
+stock_EMC r_up	's:1
+stock_EMC r_up	has:1 its:1 lost:1 luster:1
+stock_EMC r_down	's:1 $:3 3.85:1
+stock_EMC r_up	750,000:1 $:1
+stock_EMC r_down	companies:1 cautious:1 storage:1 analyst:1
+stock_EMC r_up	crunch:1 says:1 spending:1 credit:1 unlikely:1 escape:1 analyst:1
+stock_EMC r_down	focus:1
+stock_EMC r_up	shaky:1 closes:1 $:1 profit:1 broad:1 shares:1 start:1 biggest:1 stock:1 gaining:1 's:2 gains:1 falls:1 stocks:1 declining:1 14:3 17:1 signal:1 futures:1 costs:1 2008:1 higher:1 acquisition:1
+stock_EMC r_down	blue:1 surprises:1 move:1 up:1 advisories:1 chips:1
+stock_EMC r_down	$:1
+stock_EMC r_down	sector:1 broad:1 losses:1 tech:1 lead:1
+stock_EMC r_down	value:1 opportunities:1 buying:1 traps:1
+stock_EMC r_up	's:2
+stock_EMC r_down	's:1
+stock_EMC r_down	'':1 's:1 ``:1 86:1
+stock_EMC r_down	30:1
+stock_EMC r_down	22:1 6:1
+stock_EMC r_up	focus:1
+stock_EMC r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_EMC r_down	10:1 's:1 investing:1 changed:1 themes:1 doing:1 '08:1 our:1
+stock_EMC r_up	amp:1 92:1 '07:1 40:1
+stock_EMC r_up	cut:1 pressured:1 show:1 industry:1 losses:1 capital:1 close:1 stocks:1 data:1 crisis:1 market:1
+stock_EMC r_down	control:1 24:1 gains:1 fall:1 departure:1 but:1 falls:1 assert:1 '08:1 replaced:1 shares:1 scores:1 worries:1 surprise:1 moves:1 than:1 more:1
+stock_EMC r_down	oil:1 's:1 $:1 calms:1 40:1 worries:1 drops:1 solidly:1 stocks:1 talk:1 higher:1
+stock_EMC r_down	19:1 13:1
+stock_EMC r_up	disappoints:1 outlook:1 rise:1 but:1 '08:1 earnings:1 53:1
+stock_EMC r_up	13:1 $:1 surprises:1 ``:1 '':1 advisories:1 '08:1 2008:1
+stock_EMC r_down	gains:1 lead:1 broad:1 storage:1 sales:1 shares:1 surge:1 leads:1 growth:1 tech:1 stocks:1
+stock_EMC r_up	'':1 ``:1
+stock_EMC r_up	gains:1 tech:1 fail:1 close:1 stocks:1 boost:1
+stock_EMC r_up	favored:1 over:1 says:1 analyst:1 space:1
+stock_EMC r_down	'':1 ``:1
+stock_EMC r_down	'':1 ``:1
+stock_EMC r_up	losses:1 up:1 add:1 another:1 stocks:1 day:1
+stock_EMC r_down	's:1
+stock_EMC r_up	new:1 's:1 road:1 tough:1 faces:1
+stock_EMC r_down	's:1 surge:1 lifts:1 tech:1 close:1 stocks:1 market:1
+stock_EMC r_up	companies:1 takes:1 axe:1
+stock_EMC r_up	're:1 's:1
+stock_EMC r_down	profit:1 fears:1 shares:1 fade:1 quarterly:1 miss:1
+stock_EMC r_down	again:1 hits:1 cut:1 estimates:1 hardware:1 plunge:1 tech:1 low:1 firms:1 stocks:1 five-year:1
+stock_EMC r_down	22:1
+stock_EMC r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_EMC r_down	strong:1 tech:1 stocks:1 boost:1 talk:1 gives:1
+stock_EMC r_up	sector:1 losses:1 's:1 17:4 slight:1 top:1 get:1 results:1 shares:1 forecasts:1 1:1 wash:1 lift:1 -2:1 close:1 2009:2 over:1 market:1
+stock_EMC r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_EMC r_up	2:1
+stock_EMC r_up	500,000:2 3.75:1
+stock_EMC r_down	sector:1 rise:1 tech:1 gains:1 lead:1
+stock_EMC r_up	's:1 drive:1 unveil:1 joint:1 venture:1 solid-state:1 2009:1
+stock_EMC r_down	2009:1 's:1
+stock_EMC r_up	6.9:1
+stock_EMC r_down	money:1 make:1 ideas:1 you:1 2009:2 investment:1
+stock_EMC r_up	15:1
+stock_EMC r_down	cut:1 jobs:1 $:2 surprises:1 6:1 focus:1 reports:1 results:1 advisories:1 5:1 7:1 preliminary:1 2,400:1 plans:1
+stock_EMC r_up	late-session:1 gains:1 get:1 futures:1 shares:1 late:1 restructuring:1 lift:1 earnings:1 rise:1 trades:1 highlight:1 drop:1 stock:1 warning:1 spotlight:1 plans:1
+stock_EMC r_down	gaining:1 's:1 after:1 cash:1 jobless-claims:1 report:1 higher:1 biggest:1 stocks:1 declining:1 executives:1
+stock_EMC r_down	500:1
+stock_EMC r_up	sector:1 gains:1 lift:1 tech:1 close:1 market:1 help:1
+stock_EMC r_down	's:1
+stock_EMC r_down	charges:1 43:1 45:2 focus:1 8217:2 t:1 n't:1 s:1 take:1 toll:1 fall:1 earnings:1
+stock_EMC r_up	surprises:1 advisories:1
+stock_EMC r_up	4.34:1
+stock_EMC r_up	sector:1 closes:1 tech:1 spotlight:1 gains:1
+stock_EMC r_up	s:1 8217:1
+stock_EMC r_down	leads:1 broad:1 falls:1 sector:1 decline:1
+stock_EMC r_up	'':1 amp:1 ``:1
+stock_EMC r_down	's:1
+stock_EMC r_down	3.7:1 09:1 8216:1
+stock_EMC r_down	s:1 8217:1
+stock_EMC r_up	fail:1 sector:1 hold:1 gains:1 swoons:1
+stock_EMC r_up	1:1 10:1 $:1 8216:1
+stock_EMC r_down	year:1 storage:1 sales:1 forecast:1 external:1 fall:1 disk:1 pegs:1
+stock_EMC r_up	3.1:1
+stock_EMC r_up	manager:1 buy:1 technology:1 value:1 stocks:1
+stock_EMC r_up	similarities:1 's:1 low:1 2003:1
+stock_EMC r_down	sector:1 set:1 's:3 sinks:1 pushes:1 23:1 into:1 20:1 cost:1 black:1 cuts:1 quarterly:1 rally:1 net:1 5:1 more:1
+stock_EMC r_down	week:1 gaining:1 's:1 gains:1 posts:1 straight:1 seventh:1 losing:1 advisories:1 surprises:1 biggest:1 stocks:1
+stock_EMC r_down	's:1
+stock_EMC r_down	--:1
+stock_EMC r_down	1.5:1 $:1
+stock_EMC r_up	billion:1 $:1 launches:1 bid:1 1.8:1 focus:1
+stock_EMC r_up	25:1 13:1 pause:1 's:1 $:2 futures:1 rally:1 after:1 stock:1
+stock_EMC r_down	gaining:1 's:1 techs:1 lead:1 soars:1 bid:1 focus:1 trumping:1 raises:1 biggest:1 stocks:1 declining:1 higher:1
+stock_EMC r_up	unsolicited:1 's:1 deal:1 investors:1 soars:1 patent:1 win:1 review:1 drop:1 continuing:1 slide:1 reaches:1 see:1 shares:2 bidding:1 bid:1 war:1 but:1
+stock_EMC r_up	'in:1
+stock_EMC r_up	battle:1
+stock_EMC r_up	's:1
+stock_EMC r_up	30:1 $:1
+stock_EMC r_down	player:1 poker:1 good:1 's:2
+stock_EMC r_down	off:1 rejects:1 favors:1 bid:1 fall:1 's:1 sells:1 stocks:1 market:1
+stock_EMC r_down	2009:1 10.6:1
+stock_EMC r_up	900:1 next:1 reclaims:1 pitch:1 mark:1 awaits:1
+stock_EMC r_up	11:5 cut:1 's:1 $:7 losses:1 up:1 stocks:1 fight:1 heat:1 but:1 30:1 close:1 still:1 red:1
+stock_EMC r_down	2009:1 6:1
+stock_EMC r_up	do:1 stocks:1 losses:1 kills:1 deal:1 bid:1 winner:1 send:1 tech:1 close:1 tumbling:1 now:1 agrees:1 $:1
+stock_EMC r_up	futures:1 gains:1 point:1 after:2 hang:1 results:1 focus:1 losing:1 close:1 stocks:1 options:1 higher:1
+stock_EMC r_up	week:1 end:1 gains:1 focus:1 small:1 stocks:1
+stock_EMC r_up	week:1 start:1 stocks:1 gains:1 broad:1
+stock_EMC r_down	losses:1 rise:1 stocks:1 despite:1
+stock_EMC r_down	38:1 focus:1
+stock_EMC r_up	flex:1 outweighs:1 stocks:2 's:4 gains:2 38:1 '09:2 surprises:1 lift:1 drop:1 43:4 forecast:1 2009:1 advisories:1 follow:1 earnings:1 broad:1 close:2 muscle:1 gets:1 4:1
+stock_EMC r_up	9:1 28:1
+stock_EMC r_up	up:1 4:1
+stock_EMC r_up	11:1 $:2 .15:1
+stock_EMC r_down	30:1 $:2 .15:1
+stock_EMC r_up	'':1 ``:1
+stock_EMC r_down	$:1
+stock_EMC r_up	's:1 decides:1 blood:1 new:1 time:1
+stock_EMC r_up	shark:2 bait:1 gains:1 just:1 49:1 leads:1 tech:1 close:1 rally:1 stocks:1
+stock_EMC r_up	but:1
+stock_EMC r_down	support:1 industrials:1 violate:1 500:1 first:1
+stock_EMC r_up	focus:1
+stock_EMC r_up	150:1 $:1
+stock_EMC r_up	reorganization:1 exec:1 veteran:1 unveils:1 2009:1 leaves:1
+stock_EMC r_down	north:1 gains:1 posts:1 turn:1 close:1 stocks:1
+stock_EMC r_up	late:1 trading:1 stocks:1 hit:1 losses:1
+stock_EMC r_down	leads:1 sector:1 industry:1 gains:1
+stock_EMC r_up	2010:1
+stock_EMC r_up	themes:1 forward:1 stocks:1 drive:1
+stock_EMC r_up	's:1
+stock_EMC r_up	play:1 giant:1 returns:1 acquisitive:1
+stock_EMC r_down	sector:1 gains:1 ca:1 riches:1 n't:2 lift:1 tech:1 path:1 inside:1
+stock_EMC r_down	54:1
+stock_EMC r_down	sector:1 24:2 ``:1 's:1 54:1 focus:1 '':1 lifts:1 tech:1 close:1 rally:1 market:1
+stock_EMC r_up	giant:1 surprises:1 storage:1 outlook:1 but:1 advisories:1 earnings:1 fall:1 lifts:1
+stock_EMC r_down	's:1
+stock_EMC r_up	gains:1 give:1 tech:1 stocks:1 boost:1 help:1
+stock_EMC r_down	outlook:1 alliance:1 data-center:1 gains:1 over:1 crushed:1 shares:1 orders:1 mild:1 earnings:1 key:1 fall:1 expected:1 close:1 unveil:1 stocks:1 carries:1
+stock_EMC r_down	probe:1
+stock_EMC r_up	case:1 investors:1 reassures:1
+stock_EMC r_up	small:1 stocks:1 gains:1 cling:1 afternoon:1
+stock_EMC r_down	sector:1 hit:1 takes:1 chip:1 fall:1 stocks:1
+stock_EMC r_up	5.1:1 $:1
+stock_EMC r_down	lowers:1 charge:1 $:1 sporting:1 after:1 results:1 shares:1 forecast:1 restructuring:1 2010:1 gains:1
+stock_EMC r_down	jobless:1 focus:2 loses:1 -2:1 mixed:1 stocks:1 data:1 $:1 ground:1
+stock_EMC r_up	help:1 lead:1 tops:1 late:1 turnaround:1 board:1 leader:1 gains:1
+stock_EMC r_down	10:1 $:1
+stock_EMC r_down	broad:1 losses:1 lose:1 close:1 stocks:1 steam:1
+stock_EMC r_down	sector:1 mild:1 tech:1 highlight:1 stocks:1 day:1
+stock_EMC r_up	's:1
+stock_EMC r_up	late:1 close:1 stocks:1 stumble:1 losses:1
+stock_EMC r_up	gains:1 propel:1 broad:1 chip:1 tech:1 stocks:1
+stock_EMC r_up	biotech:1 's:1 lead:1 two:1 picks:1 manager:1 tech:1 stocks:1
+stock_EMC r_up	2010:1
+stock_EMC r_up	advance:1 tech:1 gains:1 lead:1
+stock_EMC r_up	's:2 ahead:1 49:2 rise:1 results:1 earnings:1 stocks:1
+stock_EMC r_up	58:3 surprises:1 rise:1 focus:1 advisories:1 lift:1 earnings:1 54:1 2008:1 gets:1 2010:1
+stock_EMC r_down	fail:1 follow:1 stocks:1 gains:1
+stock_EMC r_up	close:1 stocks:1 luster:1 market:1 lose:1
+stock_EMC r_up	slides:1 climb:1 's:2
+stock_EMC r_down	firm:1 stocks:1 's:1 gains:1 after:1 focus:1 shares:1 warning:1 hit:1 testifies:1 $:1
+stock_EMC r_up	$:3
+stock_EMC r_up	bubble:1 negativity:1
+stock_EMC r_up	close:1 rise:1 stocks:1 but:1 flatlines:1
+stock_EMC r_up	stocks:1 bubble:1 anniversary:1 gains:1 mark:1
+stock_EMC r_down	styles:1 have:1 vs.:1
+stock_EMC r_up	survives:1 support:1 significant:1 test:1 500:1 first:1
+stock_EMC r_down	sector:1 tech:1 chips:1 gains:1 power:1
+stock_EMC r_down	led:1 rebound:1 downgrade:1 hit:1 stocks:2 's:1
+stock_EMC r_up	's:1
+stock_EMC r_up	's:2
+stock_EMC r_down	's:2 gains:1 give:1 lift:1 tech:1 stocks:1 help:1
+stock_EMC r_up	follow:1 stocks:1 gains:1 close:1
+stock_EMC r_down	's:1 losses:1 tech:1 highlight:1 rough:1 stocks:1 day:1
+stock_EMC r_up	12:1 tap:1 rise:1 earnings:1 multiple:1 stocks:1
+stock_EMC r_up	12:1 2,000:1 's:1 gains:1 lead:1 surprises:1 rise:1 focus:1 advisories:1 tech:1 helps:1 92:1 stocks:1
+stock_EMC r_down	profit:1 jumps:1 spending:1 tech:1 92:1 grows:1
+stock_EMC r_up	92:1
+stock_EMC r_up	session:1 weigh:1 middling:1 stocks:1 tech:1
+stock_EMC r_up	late:1 rally:1 rebound:1 stocks:1 stage:1
+stock_EMC r_down	's:1
+stock_EMC r_down	hit:1 losses:1 28:1 down:1 session:1 tech:1 stocks:1
+stock_EMC r_up	growing:1 play:1 tech:1 gear:1 hunger:1
+stock_EMC r_down	worries:1 $:2 focus:1
+stock_EMC r_down	downgrades:1 1.9:1 upgrades:1
+stock_EMC r_up	n't:1 but:1
+stock_EMC r_down	beating:1 losses:1 month:1 vendors:1 tech:1 take:1 worries:1 close:1 stocks:1 out:1
+stock_EMC r_down	gains:1 17:2 show:1 shift:1 storage:1 sales:1 rose:1 3par:1 quarter:1 first:1
+stock_EMC r_up	's:1
+stock_EMC r_up	25:1 's:1
+stock_EMC r_up	's:2
+stock_EMC r_up	11:1 upgraded:1 gains:1 power:1 tech-sector:1 outperform:1 rise:1 shares:1 broad:1
+stock_EMC r_up	11:1 watch:1 10,000:1 regaining:1 rally:1 stocks:1
+stock_EMC r_up	close:1 out:1 stands:1 higher:1
+stock_EMC r_down	outlook:1 's:1 woes:1 profit:1 surprises:1 comments:1 tech-sector:1 add:1 advisories:1 raises:1 doubles:1
+stock_EMC r_up	decline:1 lower:1 shares:1 tech:1 joins:1 close:1
+stock_EMC r_up	6.4:1
+stock_EMC r_up	's:1
+stock_EMC r_up	billion:1 firm:1 1.15:1 's:1 $:1 pay:1 data-storage:1
+stock_EMC r_down	$:2
+stock_EMC r_down	everyone:1 buy:1 bidding:1 ignites:1 storage:1 does:1 interest:1 firms:1 war:1 want:1
+stock_EMC r_up	's:1
+stock_EMC r_down	already:1 too:1 expensive:1 getting:1
+stock_EMC r_up	knock:1 fight:1 's:1 can:1 out:1
+stock_EMC r_down	's:1 vs.:1
+stock_EMC r_up	's:1 techs:1 lead:1 weak:1 losses:1 slump:1 month:1 through:1 carry:1 you:1 stocks:1 vs.:2
+stock_EMC r_up	buy:1 20:1 lost:1 rise:1 sales:1 else:1 second:1 quarter:1 might:1
+stock_EMC r_down	20:1
+stock_EMC r_up	stocks:1 tech:1 lead:1 higher:1
+stock_EMC r_up	's:1
+stock_EMC r_up	's:2
+stock_EMC r_down	looking:1 stability:1 likely:1 new:1
+stock_EMC r_down	week:1 start:1 stocks:1 losses:1
+stock_EMC r_down	industry:1 mania:1 tech:1
+stock_EMC r_up	dividends:1 companies:1 cash:1 tech:1 have:1 pay:1
+stock_EMC r_up	tech:1 gains:1 lead:1
+stock_EMC r_up	jump:1 buyout:1 rumor:1 shares:1
+stock_EMC r_down	gaining:1 leads:1 action:1 tech:1 biggest:1 speculation:1 stocks:1 declining:1
+stock_EMC r_up	's:3 58:1 surprises:1 focus:1 advisories:1 2010:1
+stock_EMC r_up	stocks:1 58:1 profit:1 slump:1 behind:1 tech:1 relief:1 margins:1 rises:1 expand:1
+stock_EMC r_up	action:1 highlight:1 tech:1 gains:1 n't:1
+stock_EMC r_down	tech:1 lead:1 reports:1 gains:1
+stock_EMC r_down	deal:1 sales:2 's:1 stocks:2 $:2 2.25:1 29:1 buying:1 biggest:1 gaining:1 rise:2 hit:1 after:1 focus:1 data-storage:1 modest:1 debt:1 declining:1 futures:1 yields:1 retain:1 retail:2 latest:1
+stock_EMC r_down	sector:1 down:1 lower:1 's:1 $:2 deal:1 settles:1 up:1 late:1 trading:1 heats:1 tech:1 reverses:1 2.25:2
+stock_EMC r_down	's:1 72:2
+stock_EMC r_up	72:1
+stock_EMC r_up	rise:1 stocks:1 's:1 behind:1 gains:1
+stock_EMC r_up	may:1 feel:1 little:1 redemption:1 pressure:1
+stock_EMC r_up	deal:1 possible:1 negotiating:1
+stock_EMC r_up	buy:1 $:1 after:1 share:1 data-storage:1 remain:1 spree:1 acquisition:1
+stock_EMC r_down	's:1
+stock_EMC r_up	outlook:1 deal:1 takeovers:1 poison:1 chance:1 2011:2 pill:1 adopts:1
+stock_EMC r_up	patent:1 group:1
+stock_EMC r_up	2010:1
+stock_EMC r_down	gains:1 make:1 quiet:1 small:1 stocks:1 day:1
+stock_EMC r_up	dominate:1 2011:1 sectors:1
+stock_EMC r_up	rises:1 led:1 rise:1 edge:1 stocks:2 higher:1
+stock_EMC r_up	chief:1 hunt:1 search:1
+stock_EMC r_down	's:3 lead:1 selloff:1 overdone:1 say:1 tech:1 analysts:1 stocks:1 retreat:1
+stock_EMC r_up	's:1 sinks:1 ekes:1 61:2 gain:1 out:1
+stock_EMC r_up	profit:1 surprises:1 reports:1 jump:1 61:1 advisories:1
+stock_EMC r_up	awash:1 deal:1 46:1 cash:1 ready:1 firms:1
+stock_EMC r_up	's:1
+stock_EMC r_up	2011:1 $:1 65:1 4:1
+stock_EMC r_down	disappoints:1 outlook:1 shares:1 tumble:1
+stock_EMC r_up	's:1
+stock_EMC r_up	sector:1 decline:1 deal:1 shares:1 slide:1 continue:1 drags:1 worries:1 tech:1
+stock_EMC r_down	reasons:1 needs:1 why:1 sale:1
+stock_EMC r_down	stocks:1 tech:1 rattles:1 market:1 tumble:1
+stock_EMC r_up	call:1 broker:1 bullish:1 get:1
+stock_EMC r_up	's:2
+stock_EMC r_up	highlight:1 advisories:1 tech:1 gains:1 surprises:1
+stock_EMC r_up	jump:1 shares:1
+stock_EMC r_down	investors:1 vexed:1
+stock_EMC r_down	down:1 weigh:1 stocks:1 tech:1 sector:1
+stock_EMC r_down	our:1
+stock_EMC r_up	'the:1 blue:1 's:1 ripe:1 spinoffs:1 chips:1
+stock_EMC r_down	our:1
+stock_EMC r_up	12:1
+stock_EMC r_up	quits:1 stocks:1 tech:1 fall:1
+stock_EMC r_up	edges:1 sinks:1 but:1 higher:1
+stock_EMC r_down	's:1 growth:1 tech:1 portfolio:1 firms:1 your:1
+stock_EMC r_up	's:1
+stock_EMC r_up	slips:1 's:1 28:5 tech:1 stocks:1 boost:1 spotlight:1
+stock_EMC r_up	surprises:1 advisories:1
+stock_EMC r_up	modest:1 techs:1 lead:1 gains:1
+stock_EMC r_up	n't:1
+stock_EMC r_down	's:1
+stock_EMC r_down	$:2 327:1
+stock_EMC r_up	via:1
+stock_EMC r_down	2nd:1
+stock_EMC r_down	7.2:1 $:1
+stock_EMC r_down	's:1
+stock_EMC r_up	has:1 hoping:1 soon:1
+stock_EMC r_up	stocks:1 tech:1 lead:1 higher:1
+stock_EMC r_up	$:4
+stock_EMC r_down	5000:1 $:1
+stock_EMC r_down	sales:1 seen:1 earnings:1 posting:1 higher:1
+stock_EMC r_up	n't:1 's:1
+stock_EMC r_down	2011:2 28:5 's:3
+stock_EMC r_down	gains:1 surprises:1 behind:1 advisories:1 fail:1 rally:1 stocks:1
+stock_EMC r_up	needs:1 star:1 exec:1 visionary:1 analysts:1 not:1
+stock_EMC r_down	property:1 race:1 heats:1 up:1 nabs:1
+stock_EMC r_down	alarms:1 analysts:1 off:1 budgets:1 sets:1
+stock_EMC r_down	fail:1 lift:1 market:1 swoons:1
+stock_EMC r_up	11:1 takes:1 down:1 fall:1 sharp:1 2011:1
+stock_EMC r_down	's:1 ahead:1 sparks:1 surprises:1 slump:1 times:1 hardware:1 suggests:1 advisories:1 fear:1 warning:1 corporate:1
+stock_EMC r_down	's:1 slump:1 leads:1 tech:1 relief:1 stocks:1
+stock_EMC r_up	5:1 $:1
+stock_EMC r_down	sell:1 leads:1 stocks:1 off:1 slump:1
+stock_EMC r_up	$:2
+stock_EMC r_up	$:1
+stock_EMC r_up	go:1 forced:1 workers:1 begging:1
+stock_EMC r_up	might:1 lost:1
+stock_EMC r_up	top:1 lost:1
+stock_EMC r_up	1:1 7.2:1 $:2
+stock_EMC r_up	touch’:1 says:1 ‘not:1
+stock_EMC r_down	's:1
+stock_EMC r_up	watch:1 28:1
+stock_EMC r_down	gains:1 surprises:1 slumps:1 most:1 advisories:1 tech:1 close:1 stocks:1
+stock_EMC r_up	hits:1 30:1 flooding:1 chip:1 makers:1
+stock_EMC r_up	's:1
+stock_EMC r_down	's:1
+stock_EMC r_up	highlight:1 tech:1 stocks:1 weak:1 day:1
+stock_EMC r_down	surprises:1 advisories:1 5.6:1
+stock_EMC r_down	outlook:1 losses:1 weak:1 falls:1 tech:1 questions:1 highlight:1 stocks:1 day:1
+stock_EMC r_down	's:1
+stock_EMC r_down	2012:1
+stock_EMC r_down	tops:1
+stock_EMC r_up	1:1 's:1 $:1
+stock_EMC r_down	's:1
+stock_EMC r_up	's:1 12/21:1
+stock_EMC r_up	eke:1 upgrade:1 gain:1 lifts:1 out:1
+stock_EMC r_up	's:1
+stock_EMC r_up	gaining:1 office:1 techs:1 muddies:1 surprises:1 lift:1 watch:1 up:1 advisories:1 shake-up:1 deflated:1 biggest:1 path:1 stocks:2 chips:1 declining:1
+stock_EMC r_up	down:1 margins:1 fears:1 drag:1
+stock_EMC r_up	spending:1 may:1 bad:1 not:1 feared:1
+stock_EMC r_up	week:1 begin:1 stocks:1 mild:1 losses:1
+stock_EMC r_up	tech:1 gains:1 lead:1
+stock_EMC r_up	loss:1 after:1 tragic:1 analysts:1 faces:1
+stock_EMC r_up	boost:1 techs:1 falls:1
+stock_EMC r_up	global:1 selloff:1 stocks:1 slammed:1
+stock_EMC r_down	mixed:1 stocks:1 tech:1 day:1 lead:1

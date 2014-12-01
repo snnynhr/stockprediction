@@ -1,0 +1,307 @@
+TWX	20120402	36.64	36.49	r_down	$:1
+TWX	20120403	36.49	36.39	r_down	
+TWX	20120404	36.39	35.84	r_down	
+TWX	20120405	35.84	35.58	r_down	
+TWX	20120409	35.58	34.97	r_down	news:1 forever:1 changed:1
+TWX	20120410	34.97	34.37	r_down	got:1 'm:1
+TWX	20120411	34.37	34.67	r_up	
+TWX	20120412	34.67	34.97	r_up	
+TWX	20120413	34.97	34.64	r_down	
+TWX	20120416	34.64	34.66	r_up	
+TWX	20120417	34.66	35.27	r_up	
+TWX	20120418	35.27	35.16	r_down	
+TWX	20120419	35.16	35.25	r_up	's:1
+TWX	20120420	35.25	35.53	r_up	
+TWX	20120423	35.53	35.21	r_down	's:1
+TWX	20120424	35.21	35.35	r_up	
+TWX	20120425	35.35	36.09	r_up	hero:1 true:1
+TWX	20120426	36.09	36.77	r_up	
+TWX	20120427	36.77	36.95	r_up	long:1
+TWX	20120430	36.95	36.37	r_down	
+TWX	20120501	36.37	36.81	r_up	
+TWX	20120502	36.81	36.2	r_down	peaked:1 11:1 stocks:1 gaining:1 surprises:1 watch:1 advisories:1 biggest:1 has:1 declining:1 if:1
+TWX	20120503	36.2	35.9	r_down	
+TWX	20120504	35.9	35.28	r_down	we:1 her:1 movies:1 if:1 know:1 world:1 you:1 doesn’t:1 hate:1 care:1
+TWX	20120507	35.28	34.95	r_down	
+TWX	20120508	34.95	34.64	r_down	
+TWX	20120509	34.64	34.6	r_down	fend:1 tries:1 activists:1 off:1 those:1
+TWX	20120510	34.6	34.82	r_up	
+TWX	20120511	34.82	34.64	r_down	
+TWX	20120514	34.64	34.53	r_down	's:1
+TWX	20120515	34.53	34.25	r_down	
+TWX	20120516	34.25	34.24	r_down	
+TWX	20120517	34.24	33.61	r_down	
+TWX	20120518	33.61	33.27	r_down	
+TWX	20120521	33.27	33.49	r_up	
+TWX	20120522	33.49	33.54	r_up	
+TWX	20120523	33.54	33.41	r_down	's:1
+TWX	20120524	33.41	33.57	r_up	
+TWX	20120525	33.57	33.68	r_up	's:1
+TWX	20120529	33.68	34.49	r_up	3:1 's:1 $:1 70:1
+TWX	20120530	34.49	33.74	r_down	
+TWX	20120531	33.74	33.71	r_down	studio:1 names:1 chairman:1
+TWX	20120601	33.71	33.02	r_down	watch:1
+TWX	20120604	33.02	33.37	r_up	
+TWX	20120605	33.37	33.29	r_down	
+TWX	20120606	33.29	34.09	r_up	
+TWX	20120607	34.09	34.23	r_up	
+TWX	20120608	34.23	34.46	r_up	1:1 $:1 10-:1
+TWX	20120611	34.46	33.8	r_down	watch:1 's:1
+TWX	20120612	33.8	34.55	r_up	
+TWX	20120613	34.55	34.06	r_down	
+TWX	20120614	34.06	34.65	r_up	ends:1 's:1 show:1
+TWX	20120615	34.65	35.62	r_up	'':1 ``:1
+TWX	20120618	35.62	36.33	r_up	never:1 cable:1 get:1 bill:1 cheaper:1 your:1
+TWX	20120619	36.33	36.51	r_up	
+TWX	20120620	36.51	36.31	r_down	own:1 enemy:1 his:1 worst:1
+TWX	20120621	36.31	36.45	r_up	
+TWX	20120622	36.45	36.67	r_up	paying:1 stocks:1 worth:1
+TWX	20120625	36.67	35.82	r_down	
+TWX	20120626	35.82	36.33	r_up	n't:1 's:1
+TWX	20120627	36.33	37.16	r_up	
+TWX	20120628	37.16	37.04	r_down	moment:1 defeats:1
+TWX	20120629	37.04	37.65	r_up	
+TWX	20120702	37.65	37.9	r_up	
+TWX	20120703	37.9	37.99	r_up	
+TWX	20120705	37.99	37.45	r_down	
+TWX	20120706	37.45	37.74	r_up	
+TWX	20120709	37.74	37.27	r_down	
+TWX	20120710	37.27	36.9	r_down	3.03:2 3:1 $:3
+TWX	20120711	36.9	37.26	r_up	
+TWX	20120712	37.26	36.88	r_down	
+TWX	20120713	36.88	37.35	r_up	
+TWX	20120716	37.35	37.28	r_down	
+TWX	20120717	37.28	37.88	r_up	
+TWX	20120718	37.88	38.06	r_up	
+TWX	20120719	38.06	38.28	r_up	
+TWX	20120720	38.28	38.01	r_down	records:1 set:1 box-office:1
+TWX	20120723	38.01	36.67	r_down	among:1 decliners:1 tech:1 's:1 broad:1
+TWX	20120724	36.67	37.05	r_up	million:1 $:2 takes:1
+TWX	20120725	37.05	37.7	r_up	home:1 close:1 hits:1 until:1 2nd:2
+TWX	20120726	37.7	37.51	r_down	
+TWX	20120727	37.51	38.12	r_up	needs:1 's:2 daring:1 style:1 boss:1 new:1
+TWX	20120730	38.12	37.73	r_down	
+TWX	20120731	37.73	38.26	r_up	
+TWX	20120801	38.26	38.73	r_up	after:1 gains:1 33:3 futures:1 watch:1 2nd:2 retain:1 data:1
+TWX	20120802	38.73	39.78	r_up	
+TWX	20120803	39.78	40.47	r_up	
+TWX	20120806	40.47	40.7	r_up	compete:1 tries:1 's:1
+TWX	20120807	40.7	41.02	r_up	
+TWX	20120808	41.02	41.38	r_up	
+TWX	20120809	41.38	41.61	r_up	
+TWX	20120810	41.61	41.96	r_up	
+TWX	20120813	41.96	41.73	r_down	
+TWX	20120814	41.73	41.48	r_down	survive:1 newspapers:1 can:1
+TWX	20120815	41.48	41.75	r_up	
+TWX	20120816	41.75	41.59	r_down	
+TWX	20120817	41.59	41.67	r_up	
+TWX	20120820	41.67	41.8	r_up	
+TWX	20120821	41.8	41.24	r_down	
+TWX	20120822	41.24	41.26	r_up	pact:1 extend:1
+TWX	20120823	41.26	40.88	r_down	
+TWX	20120824	40.88	41.17	r_up	
+TWX	20120827	41.17	40.94	r_down	
+TWX	20120828	40.94	40.62	r_down	
+TWX	20120829	40.62	41.19	r_up	tips:1
+TWX	20120830	41.19	40.82	r_down	
+TWX	20120831	40.82	40.89	r_up	
+TWX	20120904	40.89	40.7	r_down	deal:1 rocked:1 shares:1
+TWX	20120905	40.7	41.58	r_up	
+TWX	20120906	41.58	42.54	r_up	
+TWX	20120907	42.54	42.95	r_up	
+TWX	20120910	42.95	42.39	r_down	
+TWX	20120911	42.39	42.36	r_down	
+TWX	20120912	42.36	42.39	r_up	
+TWX	20120913	42.39	43.63	r_up	
+TWX	20120914	43.63	44.0	r_up	
+TWX	20120917	44.0	44.16	r_up	
+TWX	20120918	44.16	44.16	r_up	
+TWX	20120919	44.16	44.79	r_up	
+TWX	20120920	44.79	45.07	r_up	
+TWX	20120921	45.07	45.17	r_up	
+TWX	20120924	45.17	45.1	r_down	
+TWX	20120925	45.1	44.28	r_down	's:1
+TWX	20120926	44.28	43.93	r_down	
+TWX	20120927	43.93	44.66	r_up	
+TWX	20120928	44.66	44.62	r_down	n't:1
+TWX	20121001	44.62	44.78	r_up	if:1
+TWX	20121002	44.78	44.58	r_down	if:1
+TWX	20121003	44.58	45.08	r_up	sexy:1 's:1 look:1
+TWX	20121004	45.08	45.11	r_up	
+TWX	20121005	45.11	45.45	r_up	
+TWX	20121008	45.45	45.76	r_up	
+TWX	20121009	45.76	44.84	r_down	
+TWX	20121010	44.84	44.62	r_down	
+TWX	20121011	44.62	44.3	r_down	
+TWX	20121012	44.3	44.35	r_up	
+TWX	20121015	44.35	44.26	r_down	's:1 fret:1
+TWX	20121016	44.26	44.57	r_up	
+TWX	20121017	44.57	44.94	r_up	
+TWX	20121018	44.94	45.15	r_up	line:1 crossed:1 debate:1
+TWX	20121019	45.15	44.22	r_down	
+TWX	20121022	44.22	44.28	r_up	
+TWX	20121023	44.28	43.32	r_down	
+TWX	20121024	43.32	43.31	r_down	
+TWX	20121025	43.31	42.9	r_down	
+TWX	20121026	42.9	42.95	r_up	's:1 28:1
+TWX	20121031	42.95	42.78	r_down	
+TWX	20121101	42.78	43.11	r_up	's:1
+TWX	20121102	43.11	42.67	r_down	
+TWX	20121105	42.67	42.36	r_down	2012:1
+TWX	20121106	42.36	42.43	r_up	poison-pill:1 thwart:1 plan:1 adopts:1
+TWX	20121107	42.43	44.2	r_up	already:1 's:1 woes:1 give:1 movie:1 franchises:1 futures:1 1.9:4 break:1 slide:1 earnings:1 time:1 stock:1
+TWX	20121108	44.2	43.43	r_down	surprises:1 advisories:1
+TWX	20121109	43.43	43.96	r_up	
+TWX	20121112	43.96	43.94	r_down	
+TWX	20121113	43.94	43.9	r_down	
+TWX	20121114	43.9	43.4	r_down	
+TWX	20121115	43.4	43.34	r_down	
+TWX	20121116	43.34	43.99	r_up	's:1
+TWX	20121119	43.99	44.56	r_up	
+TWX	20121120	44.56	44.91	r_up	
+TWX	20121121	44.91	44.26	r_down	holiday:1 defines:1
+TWX	20121123	44.26	45.42	r_up	
+TWX	20121126	45.42	45.78	r_up	
+TWX	20121127	45.78	45.86	r_up	
+TWX	20121128	45.86	46.51	r_up	's:1 $:1 lead:1 over:1 revive:1 50:1 struggling:1 stock:1
+TWX	20121129	46.51	46.56	r_up	reason:1 buy:1 ticket:1 only:1 one:1
+TWX	20121130	46.56	46.81	r_up	n't:1 fix:1 can:1
+TWX	20121203	46.81	46.32	r_down	
+TWX	20121204	46.32	46.22	r_down	
+TWX	20121205	46.22	45.58	r_down	
+TWX	20121206	45.58	46.09	r_up	
+TWX	20121207	46.09	46.33	r_up	
+TWX	20121210	46.33	46.15	r_down	10:1 2013:1
+TWX	20121211	46.15	46.64	r_up	
+TWX	20121212	46.64	46.77	r_up	
+TWX	20121213	46.77	46.21	r_down	
+TWX	20121214	46.21	46.29	r_up	
+TWX	20121217	46.29	47.45	r_up	love:1 movies:1 other:1 4:1 you:1 must-see:1 if:1
+TWX	20121218	47.45	47.65	r_up	
+TWX	20121219	47.65	47.15	r_down	call:1 smart:1
+TWX	20121220	47.15	47.76	r_up	
+TWX	20121221	47.76	47.08	r_down	
+TWX	20121224	47.08	46.96	r_down	1:1
+TWX	20121226	46.96	46.99	r_up	
+TWX	20121227	46.99	46.93	r_down	
+TWX	20121228	46.93	46.45	r_down	
+TWX	20121231	46.45	47.34	r_up	
+TWX	20130102	47.34	49.25	r_up	2:1
+TWX	20130103	49.25	49.27	r_up	biggest:1 gaining:1 stocks:1 watch:1 declining:1
+TWX	20130104	49.27	48.86	r_down	
+TWX	20130107	48.86	48.61	r_down	gaining:1 renews:1 's:2 takes:1 deal:2 movie:1 aim:1 biggest:1 stocks:1 analyst:1 declining:1
+TWX	20130108	48.61	49.63	r_up	
+TWX	20130109	49.63	49.12	r_down	
+TWX	20130110	49.12	49.3	r_up	
+TWX	20130111	49.3	49.1	r_down	movies:1 vie:1
+TWX	20130114	49.1	48.79	r_down	win:1
+TWX	20130115	48.79	48.62	r_down	's:1
+TWX	20130116	48.62	48.66	r_up	bottom:1 movie:1 matter:1 're:1 awards:1 line:1
+TWX	20130117	48.66	48.89	r_up	
+TWX	20130118	48.89	49.42	r_up	
+TWX	20130122	49.42	49.81	r_up	
+TWX	20130123	49.81	50.3	r_up	
+TWX	20130124	50.3	50.28	r_down	rise:1 surges:1 sales:1 subscribers:1
+TWX	20130125	50.28	49.88	r_down	make:1 every:1 goal:1 special:1 day:1
+TWX	20130128	49.88	49.57	r_down	week:1 10:1 watch:1 earning:1 reports:1
+TWX	20130129	49.57	49.54	r_down	
+TWX	20130130	49.54	49.62	r_up	still:1 tough:1 make:1 30:1 has:1 decisions:1
+TWX	20130131	49.62	50.0	r_up	bag:1
+TWX	20130201	50.0	50.36	r_up	14000:1 's:1
+TWX	20130204	50.36	49.92	r_down	
+TWX	20130205	49.92	49.45	r_down	's:1
+TWX	20130206	49.45	51.47	r_up	turn:1 lower:1 futures:1 earnings:1 higher:1
+TWX	20130207	51.47	51.82	r_up	's:1 up:1 2nd:1 edge:1 earnings:1 8:1 falls:1 2012:1
+TWX	20130208	51.82	52.03	r_up	owner:1 content:1 feeling:1 pinch:1
+TWX	20130211	52.03	51.59	r_down	
+TWX	20130212	51.59	51.96	r_up	's:1
+TWX	20130213	51.96	52.31	r_up	pace:1 tech:1 gains:1 's:1
+TWX	20130214	52.31	53.08	r_up	
+TWX	20130215	53.08	52.97	r_down	its:1
+TWX	20130219	52.97	53.24	r_up	
+TWX	20130220	53.24	52.68	r_down	
+TWX	20130221	52.68	52.07	r_down	
+TWX	20130222	52.07	52.44	r_up	
+TWX	20130225	52.44	51.11	r_down	wins:1 picture:1 makes:1 best:1 history:1
+TWX	20130226	51.11	52.03	r_up	
+TWX	20130227	52.03	53.06	r_up	
+TWX	20130228	53.06	52.92	r_down	's:1 if:1
+TWX	20130301	52.92	53.36	r_up	
+TWX	20130304	53.36	53.9	r_up	
+TWX	20130305	53.9	54.79	r_up	
+TWX	20130306	54.79	55.2	r_up	
+TWX	20130307	55.2	56.51	r_up	1980s:1 spin:1 's:1 off:1 group:1
+TWX	20130308	56.51	57.19	r_up	
+TWX	20130311	57.19	56.99	r_down	debut:1 's:1 $:1 wins:1 million:1 80:1 weekend:1
+TWX	20130312	56.99	56.15	r_down	
+TWX	20130313	56.15	56.36	r_up	
+TWX	20130314	56.36	57.05	r_up	
+TWX	20130315	57.05	56.38	r_down	's:1
+TWX	20130318	56.38	55.95	r_down	
+TWX	20130319	55.95	55.22	r_down	
+TWX	20130320	55.22	56.09	r_up	
+TWX	20130321	56.09	55.84	r_down	2:1
+TWX	20130322	55.84	56.52	r_up	
+TWX	20130325	56.52	56.27	r_down	
+TWX	20130326	56.27	56.64	r_up	gains:1 lead:1 watch:1 tech:1 swirl:1 news:1
+TWX	20130327	56.64	56.36	r_down	
+TWX	20130328	56.36	57.35	r_up	
+TWX	20130401	57.35	57.35	r_up	
+TWX	20130402	57.35	57.31	r_down	
+TWX	20130403	57.31	57.82	r_up	video:1 into:1 sees:1 crowding:1 market:1
+TWX	20130404	57.82	57.99	r_up	jump:1 stands:1 movers:2 jumps:1 slump:1 leads:1 tech:2 action:1 new:1 flogged:1 rumor:1 out:1
+TWX	20130405	57.99	57.6	r_down	
+TWX	20130408	57.6	58.07	r_up	
+TWX	20130409	58.07	58.52	r_up	
+TWX	20130410	58.52	59.28	r_up	
+TWX	20130411	59.28	59.38	r_up	
+TWX	20130412	59.38	59.18	r_down	
+TWX	20130415	59.18	58.19	r_down	
+TWX	20130416	58.19	59.45	r_up	
+TWX	20130417	59.45	59.24	r_down	
+TWX	20130418	59.24	58.19	r_down	
+TWX	20130419	58.19	59.47	r_up	
+TWX	20130422	59.47	59.9	r_up	n't:1 22:1
+TWX	20130423	59.9	60.11	r_up	200:1 $:1
+TWX	20130424	60.11	59.31	r_down	
+TWX	20130425	59.31	59.11	r_down	
+TWX	20130426	59.11	59.39	r_up	
+TWX	20130429	59.39	59.84	r_up	174:1 's:2 $:1
+TWX	20130430	59.84	59.5	r_down	2:1 6:1
+TWX	20130501	59.5	59.2	r_down	streak:1 disappoints:1 snaps:1 a.m:1 revenue:1 surprises:1 futures:1 watch:1 4-day:1 advisories:1 sink:1 win:1 fall:1 stocks:2
+TWX	20130502	59.2	59.47	r_up	
+TWX	20130503	59.47	60.14	r_up	
+TWX	20130506	60.14	60.35	r_up	
+TWX	20130507	60.35	61.23	r_up	2014:1
+TWX	20130508	61.23	60.84	r_down	
+TWX	20130509	60.84	60.81	r_down	
+TWX	20130510	60.81	60.65	r_down	
+TWX	20130513	60.65	60.62	r_down	
+TWX	20130514	60.62	60.98	r_up	
+TWX	20130515	60.98	60.84	r_down	
+TWX	20130516	60.84	60.43	r_down	
+TWX	20130517	60.43	60.42	r_down	flaw:1
+TWX	20130520	60.42	59.78	r_down	
+TWX	20130521	59.78	60.18	r_up	
+TWX	20130522	60.18	59.67	r_down	
+TWX	20130523	59.67	59.87	r_up	
+TWX	20130524	59.87	59.0	r_down	
+TWX	20130528	59.0	60.0	r_up	
+TWX	20130529	60.0	59.2	r_down	
+TWX	20130530	59.2	59.58	r_up	
+TWX	20130531	59.58	58.37	r_down	
+TWX	20130603	58.37	58.6	r_up	
+TWX	20130604	58.6	58.34	r_down	
+TWX	20130605	58.34	56.9	r_down	
+TWX	20130606	56.9	57.48	r_up	$:1 yielding:1 picks:1 3:2 long-term:1 50:1
+TWX	20130607	57.48	58.77	r_up	
+TWX	20130610	58.77	57.7	r_down	
+TWX	20130611	57.7	56.89	r_down	
+TWX	20130612	56.89	56.16	r_down	
+TWX	20130613	56.16	57.91	r_up	dividend:1 hunters:1 play:1 stock:1
+TWX	20130614	57.91	57.47	r_down	's:1
+TWX	20130617	57.47	57.94	r_up	--:1 's:1 2013:1
+TWX	20130618	57.94	58.89	r_up	
+TWX	20130619	58.89	57.86	r_down	next:1
+TWX	20130620	57.86	56.32	r_down	dies:1 age:1 star:1 51:1
+TWX	20130621	56.32	56.81	r_up	

@@ -1,0 +1,205 @@
+stock_ICE r_up	30:1
+stock_ICE r_down	n't:1 $:1
+stock_ICE r_up	plunge:1 $:1 fears:1 shares:1 dismisses:1 brokerage:1 liquidity:1
+stock_ICE r_down	oil:1 calls:1 cools:1 heating:1 prompts:1 demand:1 regulation:1
+stock_ICE r_up	$:2
+stock_ICE r_up	$:1 seat:1 record:1 volumes:1 prices:2 falling:1 '07:1
+stock_ICE r_up	rift:1 resolve:1 clearing:1 over:1 access:1 pledges:1
+stock_ICE r_up	gaining:1 's:1 $:1 surprises:1 focus:1 advisories:1 66:2 biggest:1 stocks:1 declining:1
+stock_ICE r_down	advance:1 oil:1 gains:1 airlines:1 producers:1 push:1 climb:1 rises:1
+stock_ICE r_down	08:1
+stock_ICE r_down	lowers:1 rating:1 outlook:1 its:1
+stock_ICE r_down	widen:1 energy:1 speculation:1 testify:1 probes:1
+stock_ICE r_down	$:2 focus:1
+stock_ICE r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_ICE r_up	arena:1 derivatives:1 clearing:1 put:1 world:1 seek:1 spotlight:1
+stock_ICE r_down	'':1 ``:1
+stock_ICE r_up	oil:1 markets:1 strip:1 vow:1 secrecy:1 boost:1
+stock_ICE r_up	's:1 70:2
+stock_ICE r_up	close:1 moves:1 loophole:1 builds:1 pressure:1
+stock_ICE r_up	nerve:1 oil:1 curb:1 speculators:1 strike:1 efforts:1
+stock_ICE r_down	25:1
+stock_ICE r_down	loopholes:1 guide:1 commodity:1
+stock_ICE r_up	oversold:1 's:1 according:1 analysis:1 stock:1
+stock_ICE r_up	's:1
+stock_ICE r_down	open:1 's:1 power:1 market:1 derivatives:1
+stock_ICE r_down	150,000:1
+stock_ICE r_down	focus:1
+stock_ICE r_down	gaining:1 lower:1 's:2 58:1 leads:1 declining:1 biggest:1 stocks:1 financials:1
+stock_ICE r_up	surprises:1 advisories:1 58:1
+stock_ICE r_down	$:1
+stock_ICE r_up	25:1
+stock_ICE r_up	sector:1 financial:1 sink:1
+stock_ICE r_up	09:1
+stock_ICE r_down	amp:1
+stock_ICE r_down	$:2
+stock_ICE r_down	2009:1
+stock_ICE r_up	2009:1
+stock_ICE r_down	's:1
+stock_ICE r_up	worldwide:1 rose:1 wreckage:1 amid:1
+stock_ICE r_up	default:1 rise:1 shares:1 credit:1 market:1 swap:1 talk:1
+stock_ICE r_up	4:1 2nd:1
+stock_ICE r_down	n't:1
+stock_ICE r_up	500:1
+stock_ICE r_down	broad:1 post:1 stocks:1 drop:1
+stock_ICE r_up	2009:1
+stock_ICE r_down	2009:1
+stock_ICE r_up	sector:1 loss:1 12:1 star:1 surprises:1 crushed:1 advisories:1 big:1 rally:1
+stock_ICE r_down	derivatives:1 ``:1 may:1 clear:1 '':1 credit:1 thin:1 '09:1
+stock_ICE r_up	8.9:2 29:1
+stock_ICE r_up	29:1
+stock_ICE r_up	gains:1 exchange:1 pace:1 extends:1 4:1 rally:1 stocks:1
+stock_ICE r_up	'09:2
+stock_ICE r_down	gaining:1 sector:1 picture:1 's:1 mull:1 investors:1 credit:1 1999:2 22:3 mixed:1 biggest:1 stocks:1 data:1 declining:1 21:1
+stock_ICE r_down	among:1 oil:1 gainers:1 big:1 focus:1 financials:1
+stock_ICE r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_ICE r_up	's:2
+stock_ICE r_down	24:1 much:1 drop:1 shares:1 fall:1
+stock_ICE r_down	focus:1
+stock_ICE r_down	24:1 hit:1 exchange:1 surprises:1 falls:1 write-down:1 advisories:1 net:1
+stock_ICE r_up	banks:1 plan:1 sinks:1
+stock_ICE r_down	amp:1 $:1 53:1
+stock_ICE r_up	's:1
+stock_ICE r_up	gaining:1 's:1 warm:1 analysts:1 biggest:1 stocks:1 declining:1
+stock_ICE r_up	wane:1 profit:1 30:1 falls:1 volumes:1 margins:1
+stock_ICE r_up	focus:1
+stock_ICE r_up	gaining:1 's:1 22:1 surprises:1 advisories:1 biggest:1 stocks:1 declining:1
+stock_ICE r_down	2.7:1 2.4:1
+stock_ICE r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_ICE r_down	financials:1 upgrade:1 helps:1 bank:1
+stock_ICE r_down	volume:1 boost:1 wary:1
+stock_ICE r_down	gaining:1 's:1 limits:1 sixth:1 day:1 commodities:1 trading:1 fall:1 biggest:1 consecutive:1 stocks:2 considers:1 declining:1
+stock_ICE r_up	sector:1 pull:1 lower:1 's:1 gaining:1 declining:1 exchanges:1 biggest:1 stocks:1 warming:1
+stock_ICE r_up	last:1 rose:1 study:1 61:1 trading:1 year:1 market:1
+stock_ICE r_up	's:1
+stock_ICE r_up	$:1
+stock_ICE r_down	impact:1 little:1 led:1 target:1 23:1 climbs:1 revenue:1 shares:1 falls:1 jump:1 profit:1 beats:1 crackdown:1 but:1 any:1 market:1
+stock_ICE r_up	hit:1 surprises:1 energy:1 advisories:1 speculators:1 could:1
+stock_ICE r_down	credits:1 squeeze:1 short:1 rally:1
+stock_ICE r_down	banks:1 most:1 clear:1 trades:1 swap:1
+stock_ICE r_down	shed:1 turns:1 losses:1 up:1 banks:1 insurers:1
+stock_ICE r_down	feud:1 over:1 limits:1
+stock_ICE r_up	focus:1
+stock_ICE r_down	surprises:1 advisories:1 's:1
+stock_ICE r_up	sector:1 rise:1 sluggish:1 insurance:1 despite:1
+stock_ICE r_down	bets:1 currency:1 rebound:1 's:1 risk:1
+stock_ICE r_down	13:1
+stock_ICE r_down	down:1 moves:1 dip:1 insurers:1 up:1
+stock_ICE r_up	after:1 sessions:1 rebound:1 drop:1 3:1 6:1 view:1
+stock_ICE r_up	sector:1 rally:1 regional:1 financial:1 joins:1
+stock_ICE r_down	'08:1
+stock_ICE r_up	focus:1
+stock_ICE r_up	surprises:1 up:1 advisories:1 catch:1 close:1 market:1 higher:1
+stock_ICE r_up	pace:1 market:1 broader:1 rally:1
+stock_ICE r_up	17:1
+stock_ICE r_up	depends:1 dollar:1 value:1 view:1
+stock_ICE r_up	300:1 $:1
+stock_ICE r_down	12:1 2:1
+stock_ICE r_down	financial:1 propel:1 regional:1 banks:1 stocks:1 higher:1
+stock_ICE r_up	sector:1 pace:1 moderate:1 financial:1 gains:1
+stock_ICE r_up	close:1 stocks:1 territory:1 positive:1
+stock_ICE r_up	hold:1 stocks:1 onto:1 gains:1 weekly:1
+stock_ICE r_up	slips:1 announces:1 sale:1
+stock_ICE r_down	losses:1 600:1 over:1 focus:1 month:1 close:1 financials:1 end:1 $:1 lead:1 shares:2 8:1 stock:2 pare:1 rise:1 after:1 falls:1 report:1 buying:1 million:1 lower:2 futures:1 drags:1
+stock_ICE r_up	weighs:1 shed:1 recovery:1 earlier:1 second:1 40:1 down:1 3.4:1 close:1 stocks:1 day:1 red:1
+stock_ICE r_down	surprises:1 advisories:1
+stock_ICE r_up	$:2 29:1
+stock_ICE r_up	rise:1 's:1 testify:1 execs:1
+stock_ICE r_up	warm:1 stocks:1 end:1 up:1 gains:1
+stock_ICE r_down	's:2
+stock_ICE r_down	oil:1 bans:1 futures:1 'market:1 broker:1 abuse:1
+stock_ICE r_up	black:1 foothold:1 end:1 rocky:1 day:1
+stock_ICE r_down	sector:1 gains:1 lead:1
+stock_ICE r_up	surprises:1 advisories:1
+stock_ICE r_down	rally:1 edge:1 higher:1
+stock_ICE r_down	week:1 lower:1 down:1 5:1 nearly:1 close:1
+stock_ICE r_up	decline:1 straight:1 session:1 fifth:1
+stock_ICE r_up	head:1 bank:1 south:1 woes:1
+stock_ICE r_up	's:1
+stock_ICE r_down	leads:1 decliners:1 bank:1
+stock_ICE r_down	10:1 -2-:1
+stock_ICE r_down	2:1
+stock_ICE r_down	--:2
+stock_ICE r_up	$:1 583:1
+stock_ICE r_down	finish:1 bullish:1 analysts’:1 rebound:1 rise:1 black:1 call:1
+stock_ICE r_up	2011:1
+stock_ICE r_down	2011:1
+stock_ICE r_up	10:1 after:1 's:1 18:1 end:1 watch:1 hikes:1 rate:1 fall:1 weigh:1 higher:1
+stock_ICE r_up	'':1 ``:1 's:1 vs.:1
+stock_ICE r_up	disappoints:1 lower:1 end:1
+stock_ICE r_down	merger:1 hopes:1 lifts:1 targets:1
+stock_ICE r_up	lower:1 end:1 gains:1 give:1 back:1 exchanges:1
+stock_ICE r_up	's:2
+stock_ICE r_down	week:1 $:1 up:1 edge:1 500:1 higher:1
+stock_ICE r_up	worries:1 persist:1 fall:1
+stock_ICE r_up	$:2
+stock_ICE r_down	n't:1 unrest:1 stocks:1 fall:1
+stock_ICE r_down	$:1 but:1
+stock_ICE r_down	's:1
+stock_ICE r_up	39:1 $:1
+stock_ICE r_up	make:1 move:1 its:1
+stock_ICE r_up	banks:1 close:1 lower:1 settlement:1 talk:1
+stock_ICE r_down	move:1 focus:1 '':1 jobs:1 its:1 after:1 lead:1 +:1 add:1 biggest:1 =:1 stock:1 gaining:1 ``:1 good:1 's:2 far:1 rise:1 report:1 stocks:1 data:1 declining:1 markets:1 futures:1 so:1 banks:1 higher:1 makes:1
+stock_ICE r_down	's:1 $:1 surprises:1 rise:1 but:1 advisories:1 slip:1 firms:1 'm:1 financials:1
+stock_ICE r_up	merger:1 says:1 set:1 's:1 reject:1
+stock_ICE r_up	shakes:1 rise:1 up:1 surge:1 lift:1 helps:1 500:2
+stock_ICE r_up	investors:1 into:1 its:1 market:1 ground:1 end:1 stands:1 lackluster:1 3:1 take:1 cling:1 's:1 gains:1 may:1 bid:2 rejected:1 autos:1 gain:1 fall:1 stock-index:1 stocks:2 lower:1 off:1 hostile:1 futures:1 outpace:1 're:1 team:1 small:1 weigh:1
+stock_ICE r_down	's:1
+stock_ICE r_up	30:1 $:1
+stock_ICE r_up	20:1 $:1 vs.:1 if:1
+stock_ICE r_down	's:1 starts:1 sweeten:1 focus:1 pot:1 housing:1
+stock_ICE r_up	profit:1 rises:1 's:1 70:2
+stock_ICE r_up	77:1 's:1
+stock_ICE r_down	145:1 $:1 bid:1 bloody:1 behind:1 truth:1
+stock_ICE r_up	3:1 stocks:1 off:1 slip:1
+stock_ICE r_down	10:1 its:1
+stock_ICE r_down	flank:1 its:1
+stock_ICE r_up	's:1 watch:1
+stock_ICE r_down	8.2:2 's:2 $:1 watch:1 1.7:2 trading:1 afternoon:1 slip:1 stocks:1
+stock_ICE r_down	--:2 n't:1 27:4 's:2
+stock_ICE r_up	n't:2
+stock_ICE r_up	20:1 2nd:1
+stock_ICE r_down	take:1 swing:1
+stock_ICE r_up	seasonal:1 deal:1 mainly:1 focus:1 down:1 market:1 gains:1 end:1 financials:1 stock:1 flat:1 ends:1 's:6 sinks:2 after:2 lower:2 stay:1 malaise:1 fall:1 100:1 stocks:2 data:1 13:1 futures:1 slumps:1 edge:1
+stock_ICE r_down	gaining:1 again:1 's:2 manage:1 falls:1 declining:1 gain:1 biggest:1 stocks:1 financials:1
+stock_ICE r_up	boost:1
+stock_ICE r_up	's:1
+stock_ICE r_down	2008:1
+stock_ICE r_up	0.8:2 20:2
+stock_ICE r_up	1:1
+stock_ICE r_up	24:2 22:4
+stock_ICE r_up	joy:1 selling:1
+stock_ICE r_down	12:1
+stock_ICE r_up	week:1 12:1 end:1 down:1 financial:1 stocks:1 day:1
+stock_ICE r_up	systemic:1 clearinghouses:1 cleared:1 identify:1
+stock_ICE r_down	saga:1 close:1 lower:1 stocks:1 debt:1
+stock_ICE r_down	's:1
+stock_ICE r_down	14:2
+stock_ICE r_down	's:1 19:3 after:1 trade:1 close:1 choppy:1 higher:1
+stock_ICE r_down	76.97:1
+stock_ICE r_down	has:1 's:1 lag:1 tax:1 stocks:1 concerns:1 highest:1 analyst:1 exposure:1
+stock_ICE r_down	$:2
+stock_ICE r_down	40,000:1
+stock_ICE r_down	8.25:1 $:1
+stock_ICE r_up	drop:1 stocks:1 downgrades:1
+stock_ICE r_down	500:1
+stock_ICE r_down	's:1 'll:1 '12:1 $:2
+stock_ICE r_up	's:1
+stock_ICE r_down	's:1
+stock_ICE r_down	200:1 38:2 8.5:1 $:1 21:1
+stock_ICE r_up	1:2 5:2 's:1
+stock_ICE r_down	about-face:1 recover:1 after:1
+stock_ICE r_up	n't:1
+stock_ICE r_down	trend:1 bucks:1 lower:1 end:1 broadly:1
+stock_ICE r_down	2012:1 $:2 350,000:2
+stock_ICE r_down	8:1 drop:1 stocks:1 shares:1 tumble:1
+stock_ICE r_down	n't:1
+stock_ICE r_up	's:3
+stock_ICE r_up	1:1
+stock_ICE r_up	profit:1 watch:1 rises:1 28:1 2012:1
+stock_ICE r_up	3:1 rise:1 financials:1 propel:1 higher:1
+stock_ICE r_down	's:1
+stock_ICE r_up	data:1 rise:1 stocks:1 economic:1
+stock_ICE r_up	market:1 stocks:1 broader:1 lead:1 higher:1
+stock_ICE r_down	's:2
+stock_ICE r_down	n't:1 its:1

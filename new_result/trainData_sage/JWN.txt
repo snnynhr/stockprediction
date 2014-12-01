@@ -1,0 +1,292 @@
+stock_JWN r_up	gaining:1 weighs:1 outlook:1 move:1 's:1 profit:1 surprises:1 dips:1 after:1 loses:1 9:1 advisories:1 ground:1 biggest:1 stocks:1 declining:1 economy:1
+stock_JWN r_up	's:1
+stock_JWN r_down	gaining:1 's:1 offer:1 5.8:1 some:1 sales:1 hope:1 retailers:1 biggest:1 stocks:1 declining:1
+stock_JWN r_down	territory:1 's:1 surprises:1 into:1 negative:1 shares:1 advisories:1 send:1 worries:1 retail:1
+stock_JWN r_up	head:1 oil:1 $:1 tops:1 lower:1 shares:1 108:1 barrel:1
+stock_JWN r_up	's:1
+stock_JWN r_down	slashes:1 outlook:1 's:1 tumble:1 bell:1 shares:1 forecast:1 warning:1 first-quarter:1 sounds:1 retail:1 grim:1
+stock_JWN r_up	's:1 $:1 2007:1
+stock_JWN r_up	6.7:1 9.1:1
+stock_JWN r_down	$:1
+stock_JWN r_down	decline:1 operators:1 's:1 department-store:1 lead:1
+stock_JWN r_down	breakdown:1 give:1 retailer:1 sales:1 shares:1 fall:1 not:1 8:1 opts:1
+stock_JWN r_down	36:1 2007:1
+stock_JWN r_down	advance:1 's:1 leading:1 jumps:1 retailers:1 9:1
+stock_JWN r_down	mixed-bag:1 play:1 off:1 surprises:1 sales:1 results:1 advisories:1 's:1 stocks:1 3.8:1
+stock_JWN r_up	sales:1 move:1 focus:2 warning:1 profit:2 surprises:1 shares:1 advisories:1 earnings:1 issue:1 higher:3 's:5 advances:1 falls:1 60c:1 post:1 hurt:1 54c:1 lower:1 drop:1 50:1 push:1 clearance:1
+stock_JWN r_up	sector:1 gaining:1 retail:1 's:4 gains:1 futures:1 point:1 drop:1 leads:1 department:1 rise:1 oil:2 declining:1 further:1 biggest:1 stores:1 stocks:2 spotlight:1 store:1 stock:1
+stock_JWN r_down	upbeat:1 fashion:1 weathering:1 downturn:1
+stock_JWN r_down	tale:1 seen:1 remain:1 bifurcation:1 sales:1
+stock_JWN r_up	consumers:1 mostly:1 hunters:1 sales:1 but:1 bargain:1 mixed:1 gloomy:1 trained:1 report:1
+stock_JWN r_up	advance:1 gets:1 upgrade:1
+stock_JWN r_up	sector:1 tracks:1 while:1 broader:1 tumbles:1 moves:1 market:1
+stock_JWN r_down	help:1 give:1 5.8:1 surprises:1 break:1 advisories:1 weather:1 retailers:1 checks:1
+stock_JWN r_down	hit:1 stores:2 sales:1 slip:1 fall:1 department:2 further:1 retreat:1
+stock_JWN r_down	sector:1 upgrade:1 's:3 healthy:1 leading:1 jumps:1 retailer:1 shares:1 'financially:1 reassures:1 higher:1
+stock_JWN r_up	sector:1 surges:1 inches:1 higher:1
+stock_JWN r_up	hit:1 amid:1 shares:1 worries:1 corporate:1 profits:1
+stock_JWN r_up	outlook:1 sees:1 lags:1 malaise:1 's:1 continued:1 view:1
+stock_JWN r_up	sector:1 oil:1 drop:1 stocks:1 lifts:1 prices:1 retail:1
+stock_JWN r_down	end:1 stimulus:1 targets:1 retailers:1 miss:1 checks:1
+stock_JWN r_up	surprises:1 advisories:1
+stock_JWN r_down	eacute:1 e:1
+stock_JWN r_down	outlooks:1 lower:1 's:2 focus:1
+stock_JWN r_up	's:2 21:1 focus:1 shares:1 down:1 moves:1 higher:1
+stock_JWN r_up	advance:2 outlook:1 oil:1 's:4 target:1 gold:1 surprises:1 futures:1 dollar:1 focus:1 commodities:1 trims:1 while:1 advisories:1 drop:1 rises:1 lifts:1 paced:1 stock:1
+stock_JWN r_down	loss:1 outlook:1 downbeat:1 retailer:1 posts:1 provides:1
+stock_JWN r_up	fund:1 top:1 's:1 manager:1 list:1
+stock_JWN r_up	doldrums:1 malaise:1 retailers:1 lead:1
+stock_JWN r_down	picture:1 tops:1 sales:1 remain:1 mixed:1 retail:1
+stock_JWN r_up	week:1 plunge:1 's:1 show:1 weakness:1 top:1 1-5:1 slide:1 stories:1 take:1 retailers:1 jobs:1 stocks:2
+stock_JWN r_down	slow:1 off:1 shares:1 start:1 mixed:1 got:1 chains:1
+stock_JWN r_up	bending:1 breaking:1 but:1 not:1 behavior:1 shoppers:1
+stock_JWN r_down	slimmer:1 economy:1 bend:1 fit:1 fashions:1
+stock_JWN r_up	gloom:1 woes:1 may:1 spell:1 luxury:1 retailers:1 not:1
+stock_JWN r_down	yearly:1 outlook:1 retailers:1 woes:1 broad:1 sales:1 falls:1 down:1 drag:1 earnings:1 back:1 market:1
+stock_JWN r_down	gaining:1 holiday:1 's:1 season:1 sales:1 losing:1 sets:1 biggest:1 tough:1 stocks:1 miss:1 stage:1
+stock_JWN r_down	slashes:1 profit:1 's:2 sales:1 forecasts:1
+stock_JWN r_down	sector:1 confidence:1 amid:1 gains:1 lackluster:1 surprises:1 sales:1 haunts:1 early:1 advisories:1 retailers:1 erases:1 consumer:1
+stock_JWN r_down	profit:1 message:1 's:1 brighten:1 third-quarter:1
+stock_JWN r_down	's:1
+stock_JWN r_up	10:2 outlook:1 swings:1 's:3 loss:1 profit:1 light:1 drop:1 full-year:1 shares:1 focus:1 late:1 spending:1 bright:1 but:1 cuts:1 trims:1 rises:1 capital:1
+stock_JWN r_down	gaining:1 losses:1 's:2 point:1 57:1 futures:1 list:1 sales:1 focus:1 warnings:1 slide:1 add:1 5:1 opening:1 biggest:1 retail:2 stocks:1 declining:1 stock:1
+stock_JWN r_down	gaining:1 's:1 focus:1 losing:1 biggest:1 stocks:1
+stock_JWN r_up	pull:1 all:1 's:1 stops:1 stir:1 buying:1 out:1
+stock_JWN r_down	'':1 ``:1 's:1
+stock_JWN r_down	shop:1 10:1 $:1 under:1 stocks:1 around:1
+stock_JWN r_up	16:1
+stock_JWN r_up	gaining:1 holiday:1 's:1 surprises:1 somber:1 month:1 record:1 advisories:1 worst:1 biggest:1 tone:1 post:1 stocks:1 setting:1 declining:1
+stock_JWN r_down	stores:1 gear:1 drop:1 days:1 stocks:1 final:1
+stock_JWN r_up	18:1
+stock_JWN r_up	sector:1 ends:1 retail:1 's:1 ahead:1 sales:1 mixed:1 report:1 drops:1
+stock_JWN r_up	worsen:1 following:1 bleak:1 retailers:1
+stock_JWN r_down	sector:1 drops:1 adds:1 snow:1 sales:1 surprises:1 company:1 after:1 losses:1 shares:1 forecast:1 job:1 advisories:1 retailers:1 fall:1 report:1 retail:1 reduces:1 worry:1 more:1
+stock_JWN r_up	stocks:1 send:1 shares:1 lows:1
+stock_JWN r_up	sector:1 slashes:1 rises:1 jobs:1 profit:1 poster:1 warns:1 child:1 sales:1 forecasts:1 tragedy:1 cuts:1 retail:1 newspapers:1
+stock_JWN r_up	sector:1 weighs:1 outlook:1 retail:1 's:1 stocks:1 chief:1 names:1 mixed:1 new:1 2009:1 sworn:1
+stock_JWN r_up	desire:1 shop:1 customers:1 retailers:1 rekindle:1 hope:1
+stock_JWN r_up	focus:1
+stock_JWN r_down	even:1 tighten:1 satisfaction:1 budgets:1 consumer:1 grows:1
+stock_JWN r_up	loss:1 profit:1 51:1 tumbles:1 seen:1 quarter:1 first:1
+stock_JWN r_down	68:1
+stock_JWN r_up	sector:1 sends:1 declines:1 results:1 mild:1 recovery:1 surprises:1 had:1 advisories:1 earnings:1 expected:1 stock:2 's:2 after:1 focus:2 kicks:1 dividend:1 spark:1 bigger:1 10:1 lower:1 drop:1 up:2 reports:1 while:1 analysts:1 higher:1
+stock_JWN r_down	sector:1 150:1 results:2 's:2 miss:1 swings:1 profit:1 expectations:1 shares:1 discounts:1 tumbles:1 quarterly:1 gaining:1 hit:1 10:1 beat:1 after:2 but:1 holidays:1 slides:1 biggest:1 fall:1 during:1 stocks:1 declining:1 loss:1 up:1 costs:1 mixed:1 retail:1 steep:1
+stock_JWN r_down	lower:1 retail:1 gains:1 send:1 worries:1 stocks:1
+stock_JWN r_down	gaining:1 pull:1 plunges:1 fur:1 rescue:1 sector:1 trend:1 improved:1 sales:1 stops:1 challenges:1 biggest:1 belie:1 luxury:1 still:1 bucks:1 orange:1 's:2 stocks:1 declining:2 out:1
+stock_JWN r_down	's:1
+stock_JWN r_down	stocks:1 sends:1 lift:1 higher:1 action:1 retail:1 economy:1
+stock_JWN r_up	s:1 's:1 8217:1
+stock_JWN r_down	sector:1 drops:1 over:1 board:1 spar:1 retail:1
+stock_JWN r_up	short:1 's:2 offer:1 may:1 hint:1 over:1 after:1 some:1 sales:2 shares:1 days:1 down:1 whether:1 behind:1 worst:2 fall:1 retail:2 data:1 hope:1
+stock_JWN r_up	sector:1 upgraded:1 retail:1 stores:1 lead:1 may:1 signal:1 spot:1 turn:1 bright:1 drops:1 apparel:1 troubled:1 market:1
+stock_JWN r_up	profit:1 beats:1 estimates:1 shares:1 surge:1
+stock_JWN r_up	11:1 's:1
+stock_JWN r_down	profit:1 sales:1 beat:1 70:1 plunges:1 view:1
+stock_JWN r_down	remains:1 spring:1 life:1 strain:1
+stock_JWN r_down	again:1 's:1 pay:1 value:1 off:1 message:1
+stock_JWN r_up	surprises:1 advisories:1 's:1 focus:1
+stock_JWN r_up	outlook:1 stocks:1 less:1 profit:1 views:1 focus:1 shares:1 beat:1 mixed:1 sink:1 expected:1 drops:1 than:1 raises:1
+stock_JWN r_up	jump:1 tops:1 estimates:1 stocks:1 's:1
+stock_JWN r_down	's:1 profit:1 57:1 hurt:1 discounts:1 costs:1 drops:1
+stock_JWN r_up	gaining:1 's:1 caught:1 vary:1 outlooks:1 biggest:1 stocks:1 war:1 declining:1 tug:1
+stock_JWN r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_JWN r_up	sell:1 sector:1 brand:1 rebounds:1
+stock_JWN r_up	department:1 stores:1 rise:1 stocks:1 led:1
+stock_JWN r_down	5.6:1
+stock_JWN r_up	downbeat:1 brace:1 sales:1
+stock_JWN r_up	tough:1 gains:1 hint:1 after:1 results:1 sales:2 second:1 half:1
+stock_JWN r_up	reported:1 lifted:1 stocks:1 bailout:1
+stock_JWN r_up	rise:1 stocks:1 's:1 buy:1
+stock_JWN r_up	raised:1 sailing:1 views:1 profit:1 smooth:1 some:1 month:1 ugly:1 retailers:1 retail:1 yet:1 quite:1 higher:1
+stock_JWN r_up	sector:1 27:1 retail:1 suppliers:1 focus:2 tug:1 hearing:1 retailers:1 between:1 now:1 war:1 market:1 stock:1
+stock_JWN r_down	after:1 's:1 climbs:1 surprises:1 drop:1 results:1 forecast:1 -2-:1 misses:1 advisories:1 hit:1 stocks:1
+stock_JWN r_down	's:2
+stock_JWN r_up	's:1
+stock_JWN r_up	shine:1 profit:1 beats:1 estimates:1 shares:1
+stock_JWN r_down	rise:1 sales:1 home:1 stocks:1 data:1 pending:1
+stock_JWN r_up	mixed:1 post:1 sales:1
+stock_JWN r_down	cooler:1 rise:1 see:1 strategists:1 beach:1 stock:1
+stock_JWN r_up	amid:1 drop:1 trade:1 concerns:1 stocks:1 war:1
+stock_JWN r_up	reality:1 runway:1 face:1 adapt:1 new:2 designers:1 luxury:1
+stock_JWN r_down	spring:1 housing:1 hunt:1 fall:1 fashions:1 stocks:1 data:1 orders:1
+stock_JWN r_up	cheer:1 holiday:1 retailers:1 ahead:1
+stock_JWN r_down	after:1 losses:1 job:1 accelerate:1 stocks:1 retreat:1
+stock_JWN r_up	rise:1 stocks:1 improved:1 hope:1
+stock_JWN r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_JWN r_up	surprises:1 advisories:1
+stock_JWN r_down	hold:1 's:1 may:1 some:1 results:1 promise:1 holiday:1
+stock_JWN r_up	spotlight:1
+stock_JWN r_up	upgrade:1 gains:1 profit:1 rise:1 tops:1 up:1 mark:1 inch:1 stocks:2
+stock_JWN r_down	surprise:1 upside:1 store:1 another:1 retailers:1
+stock_JWN r_up	monthly:1 surprises:1 over:1 sales:1 advisories:1 year:1 post:1 best:1
+stock_JWN r_up	sector:1 10:1 's:1 quarters:1 pace:1 gain:1 1st:1
+stock_JWN r_down	short:1 's:3 drop:1 forecast:1 falls:1 n't:1 stocks:1
+stock_JWN r_down	advance:1 outlook:1 narrows:1 's:3 21:1 loss:1 short:1 surprises:1 focus:1 shares:1 falls:1 down:1 advisories:1 but:1
+stock_JWN r_down	led:1 17:1 rise:2 focus:1 rue21:1 's:1 stocks:1 market:1 debuts:1
+stock_JWN r_up	's:1 rise:1 stocks:1 upside:1
+stock_JWN r_up	sector:1 sparkle:1 luxury:1 beaten-down:1 lends:1
+stock_JWN r_down	1:1 's:1
+stock_JWN r_up	profit:1 rise:1 stocks:1 tops:1 mark:1
+stock_JWN r_up	do:1 message:1 retail:1 's:1
+stock_JWN r_up	stocks:1 's:1 just:1 up:1 losses:1 same-store:1 sales:1 expectations:1 inch:1 job:1 slow:1 turnaround:1 not:1 quite:1 miss:1 yet:1
+stock_JWN r_down	's:1 drop:1 slump:1 environment:1 sees:1 stocks:1
+stock_JWN r_up	mixed:1 holiday:1 stocks:1 track:1 sales:1
+stock_JWN r_down	2010:1
+stock_JWN r_up	may:1 game:1 won:1 have:1 chicken:1 holiday:1
+stock_JWN r_up	delivers:1 2010:1 retailers:1
+stock_JWN r_down	outlook:1 strong:1 after:1 sales:1 raises:1 holiday:1
+stock_JWN r_down	poised:1 hit:1 warns:1 5th:1 up:1 sales:1 pickup:1 straight:1 post:1 net:1
+stock_JWN r_down	surprises:1 advisories:1 's:1
+stock_JWN r_down	stocks:1 gains:1 slip:1
+stock_JWN r_up	loss:1 stocks:1 narrows:1 's:3 surprises:1 business:1 views:1 profit:2 turns:1 after:1 focus:1 shares:1 results:1 down:1 slide:1 advisories:1 rise:1 double:1 holiday:1 profits:1 beats:1
+stock_JWN r_up	loss:1 confidence:1 narrows:1 sell-off:1 broad:1 dives:1 luxury:1 demand:1 stocks:1 heals:1
+stock_JWN r_up	's:3 regional:1 results:1 retailers:1 stir:1 hope:1
+stock_JWN r_up	n't:1
+stock_JWN r_up	heat:1 retail:1 up:1 sales:1
+stock_JWN r_up	's:1 top:1 rise:1 sales:1 mark:1 stocks:1
+stock_JWN r_up	profit:1 surges:1 up:1 signals:1 luxury:1 pick:1
+stock_JWN r_up	pace:1 retail:1 stocks:1
+stock_JWN r_down	's:1
+stock_JWN r_up	's:1 gift:1 16:1 may:1 years:1 bunny:1 best:1
+stock_JWN r_down	back:1 great:1 stores:1 consumers:1 16:1 signal:1 up:1 sales:2 record:1 pastime:1 's:1 post:1 stocks:1
+stock_JWN r_down	2009:1 37:1 security-tabs:1 fall:1
+stock_JWN r_up	sector:1 retail:1 boost:1 sales:1 give:1
+stock_JWN r_up	rise:1 stocks:1 data:1 manufacturing:1
+stock_JWN r_up	selling:1 stocks:1 up:1 reportedly:1 stake:1
+stock_JWN r_up	lowest:1 yields:1 month:1
+stock_JWN r_down	outlook:1 return:1 gains:1 jumps:1 traction:1 hikes:1 shoppers:1 sees:1 net:1 's:3
+stock_JWN r_down	acquisitions:1 eyes:1 adds:1 spending:1 jumps:1 net:1
+stock_JWN r_up	spending:2 rise:1 surge:1 deals:1 record:1 stocks:2 consumer:1 transport:1
+stock_JWN r_down	on-track:1 likely:1 consumer:1 recovery:1 show:1
+stock_JWN r_down	's:1
+stock_JWN r_down	sizzle:1 's:1 dampen:1 shift:1 lack:1 sales:1 weather:1 retailers:1
+stock_JWN r_up	index:1 enters:1 's:1 gains:1 pace:1 market:1 stocks:1 500:1 first:1
+stock_JWN r_up	aided:1 swings:1 's:2 profit:1 move:1 focus:1
+stock_JWN r_down	sector:2 lower:1 45:1 's:3 lead:2 up:1 profit:2 jumps:1 after:1 focus:1 2nd:1 down:1 result:1 retail:1 falls:1 higher:1 72:1
+stock_JWN r_down	sector:3 outlook:1 raised:1 2nd:1 higher:1 miss:1 stocks:1 lead:2 surprises:1 fears:1 43:1 advisories:1 stock:1 week:1 's:1 may:1 after:1 fall:1 debt:1 data:1 day:1 lower:3 bar:1 futures:1 remain:1 retail:2
+stock_JWN r_down	's:1
+stock_JWN r_up	shoppers:1 sparkles:1 net:1 return:1 luxury:1
+stock_JWN r_up	uneven:1 spending:1 suggest:1 sales:1 likely:1 still:1
+stock_JWN r_down	uneven:1 spending:1 suggest:1 after:1 generally:1 sales:2 but:1 up:1 on-track:1 stocks:1 data:1
+stock_JWN r_down	down:1 near:1 4th:2 lows:1 close:1 day:1 intraday:1
+stock_JWN r_down	sector:1 down:1 spotlight:1
+stock_JWN r_up	better:1 weighed:1 outlook:1 worry:1
+stock_JWN r_down	gaining:1 recession:1 outlook:1 's:1 amid:1 ca:1 sales:1 biggest:1 n't:1 bag:1 declining:1 shake:1 mixed:1 worries:1 stocks:1 worry:1
+stock_JWN r_up	rich:1 winning:1
+stock_JWN r_up	sees:1 increased:1 sentiment:1 rise:1 back:1 results:1 costs:1 caution:1 aid:1 's:1 stocks:1 mood:1
+stock_JWN r_down	cautious:1 sees:1 shopper:1 view:1 ups:1 more:1
+stock_JWN r_up	topping:1 now:1 profit:1 57:1 estimates:1 focus:1 wear:1 want:1 new:1 you:1 rises:1
+stock_JWN r_down	stores:1 sales:2 back-to-school:1 pace:1 shortfall:1 retailers:1 aid:1
+stock_JWN r_down	's:2 chain:1 pays:1 drop:1 up:1 economic:1 worries:1 dividend:1 stocks:1 department-store:1
+stock_JWN r_down	outlook:2 short:1 's:3 14:1 surprises:1 drop:1 focus:1 lower:1 shares:1 forecasts:1 full-year:1 advisories:1 fall:1 worries:1 stocks:1
+stock_JWN r_down	focus:1 trade:1 down:1 3.3:1 led:1 profit:1 late:1 biggest:1 disappoint:1 gaining:1 's:3 after:1 but:1 forecasts:1 fall:1 stocks:2 66c:1 declining:1 13th:1 14:1 posts:1 up:1 ruling:1
+stock_JWN r_down	n't:1
+stock_JWN r_up	's:1
+stock_JWN r_up	pull:1 retail:1 's:1 dice:1 show:1 0.1:1 comments:1 fashion:1 retailers:1 firms:1 stocks:1 roll:1 higher:1
+stock_JWN r_down	$:1 500:1
+stock_JWN r_up	stocks:1 heavily:1 focus:1 results:1 weigh:1 retail:1
+stock_JWN r_down	underperform:1 cut:1 stocks:1 fall:1
+stock_JWN r_up	22:1 bid:1 shares:1 surge:1 potential:1 report:1
+stock_JWN r_up	mixed:1 bid:1 stocks:1 rumors:1 center:1
+stock_JWN r_up	stores:1 sales:2 jobs:1 log:1 no:1 pickup:1 biggest:1 upbeat:1 higher:1 gaining:1 mar:1 's:1 gains:1 dinosaurs:1 report:1 stocks:2 declining:1 ahead:1 more:1 jitters:1 push:1 retail:1
+stock_JWN r_up	staying:1 power:1 show:1 surprises:1 their:1 advisories:1
+stock_JWN r_down	surprise:1 get:1
+stock_JWN r_down	stocks:1 gains:1 get:1 positive:1 sales:1 tech:1 retail:1 downdraft:1 look:1
+stock_JWN r_up	2nd:1
+stock_JWN r_down	profit:1 lift:1
+stock_JWN r_up	's:1
+stock_JWN r_up	's:1
+stock_JWN r_down	jumps:1 net:1 sees:1 luxury:1 demand:1
+stock_JWN r_up	afraid:1 aren’t:1 offer:1 people:1 sales:1 holidays:1 spend:1 hope:1
+stock_JWN r_up	report:1 lifts:1 jobs:1 stocks:1 retail:1
+stock_JWN r_up	lifted:1 retail:1 hit:1 rise:1 sales:1 up:1 yields:1 stocks:2
+stock_JWN r_down	bolster:1 try:1 surprises:2 focus:1 traders:1 advisories:2 retailers:1
+stock_JWN r_up	hitting:1 fever:1 's:1 lead:1 higher:1 profit:1 pick-up:1 stocks:1 deals:1 signaling:1 pitch:1 sparkles:1 retail:1 luxury:1
+stock_JWN r_down	shoppers:1 stores:1 hit:1 show:1
+stock_JWN r_down	count:1 pull:1 all:1 stores:1 flat:1 sales:1 stops:1 down:1 last-minute:1 stocks:1 out:1
+stock_JWN r_up	sweet:1 spot:1 find:1
+stock_JWN r_down	's:1
+stock_JWN r_down	sales:1 worries:1 snows:1 raise:1 fall:1
+stock_JWN r_up	damper:1 cheer:1 holiday:1 retailers’:1 puts:1
+stock_JWN r_up	jobs:1 rise:1 encouraging:1 sales:1 stocks:1 data:1
+stock_JWN r_up	short:1 expectations:1 sales:1 n't:1 rosy:1 fall:1
+stock_JWN r_down	jumps:1 drops:1
+stock_JWN r_down	2011:1
+stock_JWN r_down	holiday:1 outlook:1 lifts:1 sales:1 sparkle:1
+stock_JWN r_down	2010:1
+stock_JWN r_down	26:1 profit:1 shares:1 fall:1 rises:1 margin:1
+stock_JWN r_up	's:1 surprises:1 surprisingly:1 advisories:1 robust:1 post:1
+stock_JWN r_up	watch:1
+stock_JWN r_down	'the:1
+stock_JWN r_up	boost:1 's:1 retailers:1
+stock_JWN r_down	focus:1
+stock_JWN r_up	session:1 climbs:1 surprises:1 rise:1 focus:1 shares:1 late:1 advisories:1 35:1 drops:1
+stock_JWN r_down	watch:1
+stock_JWN r_up	late:1 rise:1 15:1 shares:1 trade:1
+stock_JWN r_down	oil:1 pressures:1 rise:1 sales:1 pressure:1 prices:1 retail:1 stocks:1 shadow:1 expected:1
+stock_JWN r_up	surprises:1 advisories:1 's:1 191.40:1
+stock_JWN r_down	moves:1 drop:1 high:1 oil:1 2-year:1 stocks:1
+stock_JWN r_down	shines:1 after:1 deal:1 stock:1
+stock_JWN r_up	profit:1 climbs:1 demand:1 29:1 luxury:1
+stock_JWN r_up	streak:1 18-month:1 win:1 could:1 sales:1 snap:1 retail:1
+stock_JWN r_up	downbeat:1 surprises:1 top:2 expectations:2 up:1 advisories:1 sales:2 stocks:1
+stock_JWN r_down	mixed:1 cut:1 raised:1 stocks:1
+stock_JWN r_down	stokes:1 $:1 shopper:1 over:1 million:1 fears:1 deal:1 350:1 mixed:1 stocks:1 resilience:1
+stock_JWN r_up	's:1
+stock_JWN r_up	profit:1 18:1 rises:1 boosted:1
+stock_JWN r_down	story:1 gains:1 remains:1 2020:1 youthful:1 especially:1
+stock_JWN r_down	retail-sales:1 boost:1 results:1 gives:1
+stock_JWN r_up	's:1
+stock_JWN r_up	outlook:1 's:2 profit:1 jumps:1 watch:1 up:1 stocks:1
+stock_JWN r_up	outlook:1 investors:1 sends:1 estimates:1 sales:1 25:1 strength:1 profit:2 shares:2 2011:1 jobs:1 rises:1 tops:1 after:1 watch:1 back:1 hours:1 fall:2 stocks:1 data:1 cheers:1 lower:1 short:1 surge:1 range:1
+stock_JWN r_down	sector:1 25:3 's:1 surprises:1 drop:1 watch:1 leads:1 advisories:1 earnings:1 report:1 retail:1 2011:3
+stock_JWN r_up	profit:1 sparkles:1 luxury:1 demand:1
+stock_JWN r_down	may:1 high:1 strongest:1 end:1 sales:1
+stock_JWN r_down	surprises:1 advisories:1
+stock_JWN r_up	sector:1 taps:1 pace:1 chief:1 gain:1 retail:2
+stock_JWN r_up	deals:1 now:1 right:1 should:1 jump:1 you:1 retail:1
+stock_JWN r_up	lower:1 watch:1 highs:1 well:1 sales:1 lows:1 retailers:1 retail:1 bode:1 weekly:1
+stock_JWN r_up	2004:1
+stock_JWN r_down	watch:1
+stock_JWN r_up	rises:1 whipsaws:1 raise:1 questions:1 recent:1
+stock_JWN r_down	early:1 back-to-school:1 sales:1 favor:1
+stock_JWN r_down	customer:1 highlight:1 caution:1 sales:1 reports:1
+stock_JWN r_down	downgrade:1 play:1 retail:1 stocks:1 after:1
+stock_JWN r_up	store-exclusive:1 off:1 surprises:1 surges:1 pays:1 results:1 strategy:1 watch:1 advisories:1 after-hours:1 following:1 's:1
+stock_JWN r_up	disappoints:1 outlook:1 20:2 jumps:1 futures:1 watch:2 up:1 shines:1 retail:1 data:1 stock:1
+stock_JWN r_down	turn:1 cautious:1 financial:1 outlooks:1
+stock_JWN r_up	profit:1 global:1 33:1 lifts:1 demand:1 sparkles:1
+stock_JWN r_down	not:1 derailed:1 retail:1 sales:1 dented:1
+stock_JWN r_down	guarded:1 surprises:1 hopeful:1 but:1 echo:1 advisories:1 outlooks:1
+stock_JWN r_up	surprises:1 advisories:1
+stock_JWN r_down	buyers:1 fashion:1 turning:1 into:1 focus:1 lens:1 browsers:1 through:1
+stock_JWN r_down	tough:1 show:1 sales:1 times:1 despite:1 expected:1 grow:1 resilience:1
+stock_JWN r_up	sector:1 stocks:1 resurgent:1 shoe:1
+stock_JWN r_down	's:1
+stock_JWN r_up	trick:1 treaters:1
+stock_JWN r_up	holiday:1 miss:1 raises:1 stakes:1
+stock_JWN r_up	30:1
+stock_JWN r_down	's:1
+stock_JWN r_up	6.7:1 surprises:1 after:1 watch:1 slumps:1 hours:1 advisories:1 shines:1
+stock_JWN r_down	futures:1 's:1 ease:1 rise:1 watch:1 worries:1 stock:1
+stock_JWN r_up	earnings:1 deck:1
+stock_JWN r_down	's:1 may:1 spot:1 up:1 bright:1 dressing:1 holiday:1
+stock_JWN r_down	down:1
+stock_JWN r_down	$:1
+stock_JWN r_up	end:1 $:1 solid:1 sales:1 note:1 1.25:1
+stock_JWN r_up	's:3
+stock_JWN r_up	foreshadow:1 season:1 uncertain:1 sales:1
+stock_JWN r_up	set:1 top:1 sales:1 forecasts:1 gain:1 retail:1
+stock_JWN r_up	pay:1 price:1 watch:1 sales:1 win:1
+stock_JWN r_down	's:1 sign:1 warning:1 luxury:1 cuts:1 view:1
+stock_JWN r_up	slower:1 winter:1 missing:1 sales:1 likely:1 goes:1
+stock_JWN r_up	inches:1 profits:1 higher:1
+stock_JWN r_up	's:1 surprises:1 after:1 watch:1 shares:1 hours:1 advisories:1 higher:1
+stock_JWN r_up	's:2
+stock_JWN r_up	's:1
+stock_JWN r_down	track:1 solid:1 retail:1 sales:1 gain:1
+stock_JWN r_up	top:1 sales:1 mall:1 expectations:1
+stock_JWN r_down	0.1:1
+stock_JWN r_up	worries:1 outlook:1 eases:1 luxury:1
+stock_JWN r_down	impact:1 uneven:1 retail:1 inflation’s:1
+stock_JWN r_up	benefit:1 more:1 tourism:1 retailers:1 pitch:1

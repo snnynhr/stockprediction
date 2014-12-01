@@ -1,0 +1,307 @@
+TGT	20120402	56.67	56.69	r_up	
+TGT	20120403	56.69	56.29	r_down	
+TGT	20120404	56.29	56.23	r_down	see:1 muscle:1 continued:1 sales:1 shopper:1
+TGT	20120405	56.23	56.13	r_down	
+TGT	20120409	56.13	55.94	r_down	
+TGT	20120410	55.94	54.85	r_down	
+TGT	20120411	54.85	55.63	r_up	's:1
+TGT	20120412	55.63	56.34	r_up	department:1 money:1 made:1 stores:1 analyst:1
+TGT	20120413	56.34	55.85	r_down	's:1
+TGT	20120416	55.85	55.81	r_down	
+TGT	20120417	55.81	56.02	r_up	
+TGT	20120418	56.02	55.8	r_down	
+TGT	20120419	55.8	55.23	r_down	targeted:1 spending:1 boardrooms:1 political:1
+TGT	20120420	55.23	55.71	r_up	
+TGT	20120423	55.71	55.08	r_down	
+TGT	20120424	55.08	55.17	r_up	consumables:1 heel:1
+TGT	20120425	55.17	55.27	r_up	
+TGT	20120426	55.27	55.91	r_up	
+TGT	20120427	55.91	56.66	r_up	
+TGT	20120430	56.66	56.35	r_down	
+TGT	20120501	56.35	56.42	r_up	expected:1 slow:1 sales:1
+TGT	20120502	56.42	56.39	r_down	says:1 15:1 rules:1 cutting:1 fees:1 's:1 card:1
+TGT	20120503	56.39	55.0	r_down	lonely:1 same-store:1 sales:1 number:1
+TGT	20120504	55.0	54.12	r_down	
+TGT	20120507	54.12	54.23	r_up	
+TGT	20120508	54.23	54.02	r_down	
+TGT	20120509	54.02	53.76	r_down	's:2
+TGT	20120510	53.76	53.79	r_up	
+TGT	20120511	53.79	53.91	r_up	's:1 profit:1 rings:1 up:1 see:1 analysts:1 wait:1
+TGT	20120514	53.91	53.7	r_down	sentiment:1
+TGT	20120515	53.7	53.86	r_up	loss:1 dividend:1 swings:1 's:1 suspends:1
+TGT	20120516	53.86	54.09	r_up	's:1 watch:1 1.2:2
+TGT	20120517	54.09	53.59	r_down	gains:1 big:1 wins:1 jumps:1 offset:1 results:1 least:1 sales:1 traction:1 cost:1 plan:1 gain:1 rallies:1 spin-off:1 day:1 more:1
+TGT	20120518	53.59	54.23	r_up	
+TGT	20120521	54.23	54.59	r_up	
+TGT	20120522	54.59	55.41	r_up	streak:1 bad:1
+TGT	20120523	55.41	55.52	r_up	's:2
+TGT	20120524	55.52	55.98	r_up	
+TGT	20120525	55.98	56.34	r_up	
+TGT	20120529	56.34	56.84	r_up	
+TGT	20120530	56.84	56.51	r_down	seen:1 modest:1 growth:1 posting:1 sales:1
+TGT	20120531	56.51	56.63	r_up	miserable:1 10:1 made:1 people:1
+TGT	20120601	56.63	55.93	r_down	's:1
+TGT	20120604	55.93	56.29	r_up	
+TGT	20120605	56.29	56.05	r_down	
+TGT	20120606	56.05	56.23	r_up	
+TGT	20120607	56.23	56.05	r_down	tricky:1 pose:1
+TGT	20120608	56.05	57.89	r_up	
+TGT	20120611	57.89	57.4	r_down	
+TGT	20120612	57.4	56.87	r_down	
+TGT	20120613	56.87	56.76	r_down	20:2
+TGT	20120614	56.76	57.25	r_up	1:4 26:2 's:1 1st:2
+TGT	20120615	57.25	57.2	r_down	
+TGT	20120618	57.2	57.17	r_down	
+TGT	20120619	57.17	57.4	r_up	pressure:1 cooker:1
+TGT	20120620	57.4	57.2	r_down	
+TGT	20120621	57.2	56.13	r_down	's:1 8.5:1 $:1
+TGT	20120622	56.13	56.28	r_up	paying:1 9:1 stocks:1 worth:1 $:1
+TGT	20120625	56.28	55.96	r_down	
+TGT	20120626	55.96	56.35	r_up	
+TGT	20120627	56.35	56.28	r_down	
+TGT	20120628	56.28	56.19	r_down	
+TGT	20120629	56.19	56.9	r_up	
+TGT	20120702	56.9	56.98	r_up	
+TGT	20120703	56.98	56.5	r_down	may:1 watch:1 sales:1 years:1 3:1 smallest:1 gain:1 retail:1
+TGT	20120705	56.5	55.88	r_down	winter:1 sales:2 melt:1 years:1 mild:1 worst:1 three:1 post:1
+TGT	20120706	55.88	56.78	r_up	surprises:1 advisories:1
+TGT	20120709	56.78	56.75	r_down	little:1 has:1 room:1 analyst:1 error:1
+TGT	20120710	56.75	57.92	r_up	join:1 forces:1
+TGT	20120711	57.92	58.46	r_up	's:1
+TGT	20120712	58.46	58.55	r_up	
+TGT	20120713	58.55	60.58	r_up	's:1
+TGT	20120716	60.58	60.14	r_down	back-to-school:1 retail:1 raises:1 stakes:1
+TGT	20120717	60.14	59.9	r_down	set:1 's:1 rules:1 update:1 culture:1 protection:1
+TGT	20120718	59.9	60.03	r_up	
+TGT	20120719	60.03	59.89	r_down	jump:1 stocks:1 views:1 spending:1 could:1 fears:1 back-to-school:1 lift:1 retail:1
+TGT	20120720	59.89	60.01	r_up	
+TGT	20120723	60.01	59.1	r_down	
+TGT	20120724	59.1	59.21	r_up	223,000:1
+TGT	20120725	59.21	59.02	r_down	after:2 slumps:1 all-time:1 low:1 dividend:1 223,000:1 halts:1
+TGT	20120726	59.02	59.71	r_up	apparel:1 brighter:1 other:1 stocks:1
+TGT	20120727	59.71	60.16	r_up	's:1
+TGT	20120730	60.16	60.66	r_up	
+TGT	20120731	60.66	59.31	r_down	's:4 $:1
+TGT	20120801	59.31	59.28	r_down	15.1:3 15:1 may:1 sales:1 2nd:1 better:1 turn:1 winners:1 back-to-school:1 expected:1 's:1 than:1 out:1
+TGT	20120802	59.28	60.6	r_up	15.1:1 school:1 's:1 may:1 big:1 well:1 sales:1 back:1 takeover:1 upside:1 hedge:1 has:1 bode:1
+TGT	20120803	60.6	60.98	r_up	738:1 $:1
+TGT	20120806	60.98	61.01	r_up	
+TGT	20120807	61.01	61.25	r_up	12:2
+TGT	20120808	61.25	61.54	r_up	territory:1 into:1 moves:1
+TGT	20120809	61.54	61.3	r_down	progress:1 remain:1 concerns:1 makes:1 but:1
+TGT	20120810	61.3	61.45	r_up	play:1 retail:1 turnaround:1
+TGT	20120813	61.45	61.48	r_up	
+TGT	20120814	61.48	62.33	r_up	sector:1 's:1 up:1 sales:1 back-to-school:1 earnings:1
+TGT	20120815	62.33	63.43	r_up	sector:1 amid:1 divided:1 watch:1 results:1 quarterly:1
+TGT	20120816	63.43	62.85	r_down	surprises:1 advisories:1
+TGT	20120817	62.85	63.08	r_up	
+TGT	20120820	63.08	62.59	r_down	
+TGT	20120821	62.59	63.07	r_up	's:1
+TGT	20120822	63.07	62.63	r_down	mobile:1 260,000:1 payment:1 venture:1
+TGT	20120823	62.63	61.95	r_down	260,000:1
+TGT	20120824	61.95	62.64	r_up	
+TGT	20120827	62.64	62.31	r_down	
+TGT	20120828	62.31	62.75	r_up	
+TGT	20120829	62.75	63.2	r_up	watch:1
+TGT	20120830	63.2	63.1	r_down	n't:1 600,700:2 boost:1 sales:1 retailers:1
+TGT	20120831	63.1	63.03	r_down	central-bank:1 stocks:1 slammed:1 jitters:1
+TGT	20120904	63.03	62.78	r_down	
+TGT	20120905	62.78	62.68	r_down	
+TGT	20120906	62.68	63.79	r_up	$:3 67.1:2 1.93:1
+TGT	20120907	63.79	62.94	r_down	
+TGT	20120910	62.94	63.73	r_up	
+TGT	20120911	63.73	63.41	r_down	
+TGT	20120912	63.41	63.32	r_down	defends:1 position:1 its:1 big-box:1
+TGT	20120913	63.32	63.98	r_up	1:1 headed:1 4:1 store:1 latest:1
+TGT	20120914	63.98	63.6	r_down	
+TGT	20120917	63.6	63.34	r_down	
+TGT	20120918	63.34	63.22	r_down	
+TGT	20120919	63.22	63.93	r_up	's:1
+TGT	20120920	63.93	64.32	r_up	's:1
+TGT	20120921	64.32	64.36	r_up	2011:1 50,000:1
+TGT	20120924	64.36	64.07	r_down	's:1
+TGT	20120925	64.07	63.32	r_down	13:2 than:2
+TGT	20120926	63.32	62.77	r_down	
+TGT	20120927	62.77	62.54	r_down	
+TGT	20120928	62.54	62.42	r_down	
+TGT	20121001	62.42	61.95	r_down	
+TGT	20121002	61.95	61.94	r_down	screen:1 coupons:1 time:1
+TGT	20121003	61.94	62.05	r_up	
+TGT	20121004	62.05	62.6	r_up	2.1:2 stocks:1 watch:1 sales:1 ahead:1
+TGT	20121005	62.6	63.12	r_up	holidays:1 flags:1 sales:1 red:1 raise:1
+TGT	20121008	63.12	62.93	r_down	's:2
+TGT	20121009	62.93	61.85	r_down	bright:1 potential:1 89,000:2 spots:1
+TGT	20121010	61.85	61.62	r_down	$:1
+TGT	20121011	61.62	60.24	r_down	
+TGT	20121012	60.24	60.5	r_up	
+TGT	20121015	60.5	60.79	r_up	
+TGT	20121016	60.79	61.86	r_up	pricing:1 match:1 online:1
+TGT	20121017	61.86	62.0	r_up	's:1 6,200:1 1.2:1
+TGT	20121018	62.0	61.9	r_down	's:1 6,200:1 1.2:1
+TGT	20121019	61.9	61.2	r_down	
+TGT	20121022	61.2	61.18	r_down	
+TGT	20121023	61.18	61.6	r_up	's:2
+TGT	20121024	61.6	61.79	r_up	
+TGT	20121025	61.79	62.08	r_up	pricing:1 stokes:1 initiatives:1 sales:1 online:1
+TGT	20121026	62.08	62.86	r_up	hurricane-hit:1 aid:1 up:1 shoppers:1 stock:1
+TGT	20121031	62.86	62.7	r_down	stores:1 benefit:1 some:1 bet:1
+TGT	20121101	62.7	61.9	r_down	small:1 surprises:1 see:1 advisories:1 impact:1
+TGT	20121102	61.9	61.67	r_down	's:2 $:2
+TGT	20121105	61.67	62.35	r_up	3.7:2 $:1 2007:3
+TGT	20121106	62.35	62.34	r_down	10:2 30:1 $:1
+TGT	20121107	62.34	61.75	r_down	30:1 $:1
+TGT	20121108	61.75	60.8	r_down	earlier:1 stores:1 bargains:1 debut:1 tempt:1 's:2 holiday:1
+TGT	20121109	60.8	60.99	r_up	warm:1 up:1 yet:1
+TGT	20121112	60.99	60.96	r_down	9:2 8:2 p.m:2 's:1 p.m.:2
+TGT	20121113	60.96	61.06	r_up	's:2
+TGT	20121114	61.06	60.37	r_down	
+TGT	20121115	60.37	61.41	r_up	15:5 over:1 4th:2 earnings:1 faces:1 backlash:1
+TGT	20121116	61.41	61.47	r_up	do:1 stores:1 movers:1 big:1 into:1 competitive:1 slides:1 advisories:1 retailers:1 surprises:1 2.1:1 holiday:1 open:1 signal:1
+TGT	20121119	61.47	62.33	r_up	en:1 's:4 français:1 $:4
+TGT	20121120	62.33	62.32	r_down	urgency:1 sense:1
+TGT	20121121	62.32	63.03	r_up	countdown:1 retail’s:1 's:1
+TGT	20121123	63.03	63.78	r_up	sector:1 focus:1 rally:1 weekly:1 strong:1 23:1 workers:1 13000:1 12:1 holiday:1 hope:1 stock:1 gives:1 gains:1 minimum-wage:1 rise:1 most:1 mania:1 stocks:1 retail:1 futures:1 companies:1 n't:1 tech:1 retailers:1 2012:1 consumer:1
+TGT	20121126	63.78	62.1	r_down	billion:1 1.5:1 's:1 $:1 reach:1 could:1 watch:1 sales:1
+TGT	20121127	62.1	61.89	r_down	movers:1 big:1 over:1 sales:1 may:1 3:1 rallies:1 not:1 save:1
+TGT	20121128	61.89	62.13	r_up	
+TGT	20121129	62.13	62.11	r_down	$:1 things:1 n't:1 wallets:1 5:1 know:1 650:1 digital:1
+TGT	20121130	62.11	62.45	r_up	holiday:1 miss:1 raises:1 stake:1
+TGT	20121203	62.45	61.62	r_down	
+TGT	20121204	61.62	61.32	r_down	
+TGT	20121205	61.32	61.37	r_up	
+TGT	20121206	61.37	61.53	r_up	
+TGT	20121207	61.53	61.6	r_up	
+TGT	20121210	61.6	61.29	r_down	
+TGT	20121211	61.29	60.76	r_down	's:1
+TGT	20121212	60.76	59.88	r_down	
+TGT	20121213	59.88	60.59	r_up	go:1 finally:1 private:1
+TGT	20121214	60.59	59.84	r_down	
+TGT	20121217	59.84	60.43	r_up	
+TGT	20121218	60.43	61.6	r_up	you’ve:1 won’t:1 rest:1 gifts:1 till:1 your:1 2013:1 bought:1
+TGT	20121219	61.6	60.85	r_down	may:1 disappointing:1 see:1 holiday:1 sales:1
+TGT	20121220	60.85	59.71	r_down	
+TGT	20121221	59.71	58.95	r_down	
+TGT	20121224	58.95	58.89	r_down	
+TGT	20121226	58.89	58.57	r_down	hustle:1 retailers’:1 stakes:1
+TGT	20121227	58.57	58.29	r_down	's:1 would:1 spring:1 sales:1 strike:1 threaten:1 retail:1
+TGT	20121228	58.29	57.94	r_down	
+TGT	20121231	57.94	58.53	r_up	disappointing:1 gird:1 sales:1
+TGT	20130102	58.53	58.18	r_down	
+TGT	20130103	58.18	59.51	r_up	after:1 note:1 start:1 year:1 jittery:1 new:1
+TGT	20130104	59.51	59.92	r_up	
+TGT	20130107	59.92	60.64	r_up	
+TGT	20130108	60.64	59.98	r_down	's:5
+TGT	20130109	59.98	59.53	r_down	prices:1 match:1 vows:1
+TGT	20130110	59.53	59.66	r_up	
+TGT	20130111	59.66	59.42	r_down	
+TGT	20130114	59.42	59.74	r_up	10:1 industry’s:1 gather:1 companies:1 most-hated:1 ‘mini:1
+TGT	20130115	59.74	60.43	r_up	0.5:1
+TGT	20130116	60.43	60.66	r_up	
+TGT	20130117	60.66	60.79	r_up	$:1 190:1
+TGT	20130118	60.79	60.86	r_up	
+TGT	20130122	60.86	60.82	r_down	dons:1
+TGT	20130123	60.82	60.38	r_down	
+TGT	20130124	60.38	61.19	r_up	
+TGT	20130125	61.19	60.87	r_down	
+TGT	20130128	60.87	60.47	r_down	
+TGT	20130129	60.47	60.68	r_up	2013:1
+TGT	20130130	60.68	60.32	r_down	's:1
+TGT	20130131	60.32	59.76	r_down	
+TGT	20130201	59.76	60.49	r_up	
+TGT	20130204	60.49	60.19	r_down	
+TGT	20130205	60.19	61.72	r_up	
+TGT	20130206	61.72	62.01	r_up	
+TGT	20130207	62.01	61.62	r_down	
+TGT	20130208	61.62	61.81	r_up	
+TGT	20130211	61.81	61.99	r_up	
+TGT	20130212	61.99	62.05	r_up	close:1 stores:1 retailers:1 most:1
+TGT	20130213	62.05	62.01	r_down	produces:1 muted:1 winners:1 losers:1 speech:1 stock:1
+TGT	20130214	62.01	62.41	r_up	
+TGT	20130215	62.41	61.39	r_down	week:1 n't:1 up:1 2nd:3 down:1 7th:3 500:3
+TGT	20130219	61.39	61.55	r_up	
+TGT	20130220	61.55	62.33	r_up	
+TGT	20130221	62.33	63.07	r_up	worries:1 economic:1 its:1 clip:1 forecast:1
+TGT	20130222	63.07	63.27	r_up	
+TGT	20130225	63.27	62.57	r_down	
+TGT	20130226	62.57	63.72	r_up	
+TGT	20130227	63.72	62.79	r_down	cautious:1 sees:1 up:1 slightly:1 since:1 sales:1 but:1 surge:1 after:1 2:2 5:1 data:1 goods:1 softness:1 stocks:1 consumer:1 day:1 best:1 futures:1
+TGT	20130228	62.79	62.63	r_down	leash:1 short:1
+TGT	20130301	62.63	63.8	r_up	
+TGT	20130304	63.8	66.1	r_up	3:1
+TGT	20130305	66.1	66.34	r_up	
+TGT	20130306	66.34	65.78	r_down	ahead:1 5:1 focus:1 retailers:1 sales:1
+TGT	20130307	65.78	65.51	r_down	
+TGT	20130308	65.51	66.01	r_up	got:1 2012:1 $:1 28.5:1
+TGT	20130311	66.01	66.99	r_up	
+TGT	20130312	66.99	66.76	r_down	test:1 record:1 39:1 territory:1 's:1
+TGT	20130313	66.76	67.08	r_up	
+TGT	20130314	67.08	66.99	r_down	's:1
+TGT	20130315	66.99	66.46	r_down	
+TGT	20130318	66.46	66.42	r_down	's:1
+TGT	20130319	66.42	66.12	r_down	
+TGT	20130320	66.12	68.17	r_up	
+TGT	20130321	68.17	67.7	r_down	
+TGT	20130322	67.7	68.07	r_up	you:1 computer:1 knows:1
+TGT	20130325	68.07	68.06	r_down	
+TGT	20130326	68.06	68.26	r_up	blame:1 game:1 weather:1 joins:1
+TGT	20130327	68.26	68.69	r_up	
+TGT	20130328	68.69	68.1	r_down	
+TGT	20130401	68.1	68.31	r_up	n't:1
+TGT	20130402	68.31	68.47	r_up	
+TGT	20130403	68.47	67.63	r_down	
+TGT	20130404	67.63	68.43	r_up	tables:1 ``:1 's:1 turns:1 '':1 ‘showrooming’:1
+TGT	20130405	68.43	68.49	r_up	
+TGT	20130408	68.49	68.9	r_up	
+TGT	20130409	68.9	68.56	r_down	
+TGT	20130410	68.56	68.5	r_down	failed:1 magic:1
+TGT	20130411	68.5	68.76	r_up	's:2
+TGT	20130412	68.76	69.13	r_up	's:1
+TGT	20130415	69.13	68.13	r_down	
+TGT	20130416	68.13	68.03	r_down	streak:1 case:1 snaps:1 futures:1 hit:1 3-day:1 movers:1 rebound:1 after:1 beats:1 forecasts:1 mixed:1 hardest:1 warning:1 rise:1 losing:1 investment:1 2013:1 stock:1
+TGT	20130417	68.03	68.41	r_up	dissecting:1 already:1 disaster:1
+TGT	20130418	68.41	67.94	r_down	
+TGT	20130419	67.94	68.68	r_up	's:1
+TGT	20130422	68.68	68.74	r_up	
+TGT	20130423	68.74	69.33	r_up	
+TGT	20130424	69.33	69.35	r_up	group:1 could:1 tax:1 curb:1 ‘showrooming’:1 retail:1
+TGT	20130425	69.35	70.31	r_up	
+TGT	20130426	70.31	70.16	r_down	
+TGT	20130429	70.16	70.28	r_up	
+TGT	20130430	70.28	70.2	r_down	
+TGT	20130501	70.2	70.18	r_down	
+TGT	20130502	70.18	68.83	r_down	
+TGT	20130503	68.83	70.14	r_up	
+TGT	20130506	70.14	69.67	r_down	
+TGT	20130507	69.67	70.19	r_up	
+TGT	20130508	70.19	69.44	r_down	
+TGT	20130509	69.44	69.12	r_down	
+TGT	20130510	69.12	69.38	r_up	
+TGT	20130513	69.38	69.44	r_up	's:1
+TGT	20130514	69.44	69.44	r_up	
+TGT	20130515	69.44	70.39	r_up	
+TGT	20130516	70.39	70.0	r_down	
+TGT	20130517	70.0	71.06	r_up	
+TGT	20130520	71.06	70.65	r_down	
+TGT	20130521	70.65	71.26	r_up	
+TGT	20130522	71.26	68.4	r_down	's:1 ahead:1 third:1 movers:1 surprises:1 futures:1 watch:1 up:1 edge:1 n't:1 advisories:1 rallies:1 a.m:1 stocks:1 data:1 day:1
+TGT	20130523	68.4	68.67	r_up	worries:1 drop:1 stocks:1 's:1 tapering:1
+TGT	20130524	68.67	69.72	r_up	
+TGT	20130528	69.72	69.51	r_down	
+TGT	20130529	69.51	69.42	r_down	's:1
+TGT	20130530	69.42	69.82	r_up	
+TGT	20130531	69.82	69.5	r_down	
+TGT	20130603	69.5	71.05	r_up	
+TGT	20130604	71.05	71.51	r_up	
+TGT	20130605	71.51	70.17	r_down	
+TGT	20130606	70.17	70.26	r_up	n't:1
+TGT	20130607	70.26	70.36	r_up	
+TGT	20130610	70.36	69.88	r_down	
+TGT	20130611	69.88	70.0	r_up	
+TGT	20130612	70.0	69.43	r_down	19:1 's:1
+TGT	20130613	69.43	69.59	r_up	
+TGT	20130614	69.59	69.03	r_down	
+TGT	20130617	69.03	69.86	r_up	
+TGT	20130618	69.86	70.16	r_up	
+TGT	20130619	70.16	68.88	r_down	
+TGT	20130620	68.88	68.66	r_down	
+TGT	20130621	68.66	68.83	r_up	its:1

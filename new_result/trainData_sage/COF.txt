@@ -1,0 +1,344 @@
+stock_COF r_up	tough:1 makes:1 value-stock:1 choosing:1 options:1
+stock_COF r_up	$:1
+stock_COF r_up	's:1
+stock_COF r_up	--:4 banks:1 worst:1 best:1
+stock_COF r_down	upgrades:1
+stock_COF r_up	750:1
+stock_COF r_down	upgrade:1 funding:1 lines:1 up:1 asset:1 managers:1 brokers:1
+stock_COF r_down	reports:1 bank:1 grim:1 braces:1
+stock_COF r_up	19:1 's:1 focus:1
+stock_COF r_down	gaining:1 's:1 $:2 19:1 surprises:1 watch:1 advisories:1 1.62:1 biggest:1 1.47:1 stocks:1 declining:1
+stock_COF r_up	surprises:1 advisories:1
+stock_COF r_down	brokers:1 hurts:1
+stock_COF r_up	flat:1 housing:1 set:1 bailout:1
+stock_COF r_down	dim:1 cut:1 hit:1 rate:1 hopes:1 's:1 financials:1
+stock_COF r_up	amp:1
+stock_COF r_down	banks:1 housing:1 ongoing:1 fallout:1 weakened:1
+stock_COF r_up	launches:1 program:1 its:1 award:1 latest:1
+stock_COF r_down	banks:1 better:1 customers:1 serve:1
+stock_COF r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_COF r_down	2nd:2
+stock_COF r_down	's:2
+stock_COF r_down	credit-card:1 industry:1 concerns:1 results:1 raise:1
+stock_COF r_down	$:2 southern:1 second:1 banks:1 seen:1 quarter:1
+stock_COF r_down	plunge:1 investors:1 mull:1 next:1 potential:1 stocks:1 casualty:1
+stock_COF r_up	late-session:1 hit:1 sell-off:1 surprises:1 focus:1 advisories:1 part:1
+stock_COF r_up	gaining:1 's:1 lead:1 profit:1 into:1 drop:1 reports:1 quarterly:1 second:1 40:1 biggest:1 rally:1 stocks:1 day:1 declining:1
+stock_COF r_down	surprises:1 advisories:1 $:1
+stock_COF r_up	gloom:1 chokes:1 38:1 hit:1 ahead:1 credit-card:1 companies:1 results:1 40:1 falls:1 other:1 growth:1 amid:1 '08:1 net:1 drops:1 warning:1 economy:1
+stock_COF r_up	banks:1 turnaround:1 rallies:1
+stock_COF r_down	's:2
+stock_COF r_down	'90s:1
+stock_COF r_up	week:2 drama:1 selling:1 end:1 ago:1 lifeboat:1 unchanged:1 focus:1 try:1 short:1 aboard:1 scramble:1 virtually:1
+stock_COF r_down	28:1 expanded:1 list:1 others:1 ban:1 include:1
+stock_COF r_down	$:1
+stock_COF r_down	$:1 focus:1
+stock_COF r_down	sector:1 financial:1 talks:1 action:1 $:1 49:1 debate:1 bailout:1 volatile:1 biggest:1 higher:1 gaining:1 's:1 rescue:1 climbs:1 continues:1 reported:1 plan:1 stocks:1 declining:1 futures:1 quick:1 urges:1 stock:1
+stock_COF r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_COF r_up	shot:1 credit-card:1 could:1 fears:1 rip:1 next:1 concerns:1 volatile:1 through:1 firms:1 debt:1 crisis:1 economy:2
+stock_COF r_down	climate:1 stocks:1 financial:1 rate:1 buy:1 's:1 still:1 today:1
+stock_COF r_up	's:1 top:1 morning:1 stories:1 joins:1 rallies:1 party:1
+stock_COF r_down	's:1
+stock_COF r_up	n't:1 focus:2
+stock_COF r_up	2008:1
+stock_COF r_up	quarterly:1 24:1 net:1 falls:1
+stock_COF r_down	's:1
+stock_COF r_down	draw:1 balance:1 off:1 $:3 regional:1 cash:1 up:1 shore:1 sheets:1 fall:1 banks:1 's:1 shrugs:1 moves:1
+stock_COF r_up	's:1
+stock_COF r_down	's:1 planning:1 companies:1 participate:1
+stock_COF r_up	's:1
+stock_COF r_up	's:1
+stock_COF r_up	's:1
+stock_COF r_down	's:1
+stock_COF r_down	's:1
+stock_COF r_down	's:1
+stock_COF r_down	's:1
+stock_COF r_down	billion:1 3.5:2 's:1 $:2 asks:1
+stock_COF r_up	's:1
+stock_COF r_down	's:1
+stock_COF r_down	33.6:1 's:1 $:1 bln:1 plan:1 under:1 banks:1 gives:1 21:1
+stock_COF r_down	's:2 $:1
+stock_COF r_down	's:2
+stock_COF r_down	's:1
+stock_COF r_up	billion:1 bolster:1 $:1 lending:1 unveils:1 plan:1 800:1 housing:1
+stock_COF r_down	's:3
+stock_COF r_up	200:1 's:5 $:1
+stock_COF r_up	buy:1 's:2 $:1 --:1 million:1 520:1
+stock_COF r_down	drop:1 's:1 investors:1 ease:1 futures:1 job:1 cut:1 cuts:1 jobs:1 data:1 spotlight:1 digest:1 stock:1
+stock_COF r_up	's:1
+stock_COF r_up	's:1
+stock_COF r_down	's:1
+stock_COF r_down	's:1
+stock_COF r_down	biggest:1 gaining:1 stocks:1 's:2 declining:1
+stock_COF r_up	sector:1 wrack:1 's:1 into:1 shares:1 hardest:1 edge:1 green:1 hit:1 layoffs:1 data:1 outlines:1
+stock_COF r_down	's:1 money:1 deals:1 cost:1 you:1 more:1
+stock_COF r_up	's:1
+stock_COF r_up	's:1
+stock_COF r_up	's:1
+stock_COF r_up	's:1
+stock_COF r_down	s:1 8230:1 8217:1
+stock_COF r_down	focus:1
+stock_COF r_down	sector:1 disappoints:1 weaker:1 lead:1 point:1 surprises:1 into:1 focus:1 8217:4 8216:2 start:1 s:2 advisories:1 green:1 t:1 08:1 2010:1 2009:1 spotlight:1
+stock_COF r_down	sector:1 09:1 driving:1 8.7:1 drop:1 posts:1 down:1 sours:1 income:1 banks:1 further:1 net:1 79:2
+stock_COF r_up	help:1 consumers:1 get:1 credit-card:1 readies:1 plan:1 debt:1 more:1
+stock_COF r_down	fed:1 just:1 --:1 funds:1 slide:1 much:1 rates:1 not:1 card:1
+stock_COF r_down	35:1 500:1
+stock_COF r_down	18:1 42:1 $:2
+stock_COF r_up	's:1
+stock_COF r_down	mystery:1 weighs:1 's:1 may:1 nationalize:1 say:1 analysts:1 have:1 banks:1 stocks:1 weakest:1
+stock_COF r_up	n't:1
+stock_COF r_up	'':1 amp:1 ``:1
+stock_COF r_up	stress:1 positive:1 some:1 details:1 test:1 seen:1 climb:1 analysts:1
+stock_COF r_up	spreads:1 investors:1 credit-card:1 anticipate:1 drop:1 n't:1
+stock_COF r_up	gaining:1 advance:1 's:1 $:1 lead:1 surprises:1 capital:1 preserve:1 advisories:1 financials:1 cuts:1 biggest:1 rare:1 dividend:1 stocks:1 87:3 declining:1
+stock_COF r_up	gaining:1 's:1 credit-card:1 upgrades:1 biggest:1 stocks:2 declining:1
+stock_COF r_up	buy:2 short:1 says:1 bank:1
+stock_COF r_up	's:2 23:2
+stock_COF r_down	billion:1 injection:1 gets:1 $:1 1.2:1
+stock_COF r_up	's:1
+stock_COF r_up	8217:1
+stock_COF r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_COF r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_COF r_up	strapped:1 credit-card:1 holders:1 aid:1 efforts:1 roll:1 out:1
+stock_COF r_down	biggest:1 stocks:1 's:1 declining:1 advancing:1
+stock_COF r_up	slips:1 among:1 gainers:1 inches:1 lift:1 rise:1 results:1 shares:1 few:1 late-session:1 sector:1 action:1 financial:1 higher:1
+stock_COF r_up	off:1 $:1 profit:1 aside:1 n't:1 bad:1 bln:1 4:1 put:1 's:1 loans:1 bank:1
+stock_COF r_down	focus:1
+stock_COF r_up	focus:1
+stock_COF r_down	after:1 drop:1 results:1 but:1 shares:1 climb:1
+stock_COF r_up	wants:1 tops:1 estimates:1 s:1 8217:1 repay:1
+stock_COF r_up	3:1
+stock_COF r_up	sector:1 's:1 gains:1 broader:1 banks:1 rally:1 lifting:1
+stock_COF r_up	biggest:2 gaining:2 stocks:2 's:2 declining:2
+stock_COF r_up	billion:1 tests:1 600:1 losses:1 possible:1 see:1 bank:1 $:1
+stock_COF r_down	run-up:1 drop:1 after:1 futures:1 benchmark:1 focus:1 shares:1 pressure:1 repay:1 shareholder:1 expense:1 bank:1 stock:1
+stock_COF r_down	gaining:1 sell:1 's:1 plans:1 shares:1 hurt:1 repayment:1 others:1 biggest:1 eye:1 stocks:1 declining:1 stock:1
+stock_COF r_up	sector:1 tap:1 snapshot:1 's:1 card:1
+stock_COF r_down	financials:1 upgrade:1 helps:1 bank:1
+stock_COF r_down	sector:1 buy:1 eye:1 plans:1 investors:1 may:1 up:1 sour:1 tactics:1 'm:1 debt:1 more:1
+stock_COF r_up	rally:1 capital-raising:1 could:1 plans:1 dampen:1
+stock_COF r_up	n't:1
+stock_COF r_down	back:1 $:1 'mega-grants:1
+stock_COF r_down	among:1 set:1 's:2 $:2 repay:1 banks:1
+stock_COF r_down	stock:1 long:1 but:1 feasting:1
+stock_COF r_up	billion:1 11:1 $:1 68:1 repay:1 can:1 banks:1
+stock_COF r_down	card:1 charge-offs:1 shares:1 breather:1 credit:1 take:1 dip:2 financials:1
+stock_COF r_down	bonds:1 rules:1 18:1 downgrades:1 after:1 weak:1 profit:1 regulation:1 concerns:1 5:1 cuts:1 banks:1 stocks:1 overhauls:1 weaken:1
+stock_COF r_down	evening:1 trades:1 repay:1 other:1 banks:1 tick:1 higher:1
+stock_COF r_up	8.8:1 $:1
+stock_COF r_down	--:1 renewed:1 pummeled:1 economic:1 concern:1
+stock_COF r_down	credit-card:1 industry:1 adapt:1 analyst:1
+stock_COF r_up	credit:1 slide:1 news:1 stocks:1 card:1 issuers:1
+stock_COF r_down	selling:1 raise:1 mln:1 new:1 stock:1 500:1 $:1
+stock_COF r_up	ease:1 surges:1 delinquencies:1
+stock_COF r_up	gaining:1 's:1 assuage:1 biggest:1 declining:1 worries:1 stocks:1 makers:1 financials:1
+stock_COF r_up	focus:1
+stock_COF r_up	quarterly:1 surprises:1 drop:1 advisories:1 profits:1
+stock_COF r_up	pull:1 after:1 's:2 miss:1 loss:1 big:1 futures:1 back:1 focus:2 advisories:1 surprises:1 following:1 dip:1 9000:1 stock:1
+stock_COF r_down	but:1
+stock_COF r_up	$:1
+stock_COF r_up	losses:1 stronger:1 credit:1 offset:1 margins:1 card:1
+stock_COF r_up	funds:1 into:1 follow:1 hedge:1 stocks:1 bank:1
+stock_COF r_down	's:1
+stock_COF r_down	's:3 recovery:1 over:1 fears:1 focus:1 down:1 economic:1 manufacturing:1 data:1 4.83:2
+stock_COF r_down	4.4:1 4.2:1
+stock_COF r_up	starts:1 annual:1 some:1 credit:1 fees:1 cards:1
+stock_COF r_down	wins:1 buyers:1 flock:1 out:1
+stock_COF r_up	big:2 bailout:1 pay:1 recipients:1 get:1
+stock_COF r_up	bank-stock:1 managers:1 benefit:1 rally:1 's:1 hedge:1
+stock_COF r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_COF r_down	's:1 '09:1
+stock_COF r_up	industry:1 growth:1 sees:1 card:1 no:1
+stock_COF r_up	wants:1 off:1 revenue:1 futures:1 stronger:1 attractive:1 large:1 start:1 growth:1 earnings:1 point:1 banks:2 ups:1 kick:1 eyed:1
+stock_COF r_up	gaining:1 week:1 4.7:1 's:2 raise:1 views:1 credit-card:1 posts:1 results:1 best:1 biggest:1 firms:1 stocks:1 declining:1
+stock_COF r_down	's:1
+stock_COF r_up	's:1
+stock_COF r_down	sector:1 shorts:1 season:1 after:1 precarious:1 results:1 down:1 proves:1
+stock_COF r_up	13:1 after:1 focus:2 shares:1 results:1 jump:1
+stock_COF r_up	gaining:1 strong:1 's:1 14:1 rise:1 results:1 shares:1 up:1 edge:1 biggest:1 stocks:1 declining:1 futures:1
+stock_COF r_down	's:1 14:1
+stock_COF r_up	's:1 trend:1 18:1 showing:1 near-term:1 500:1
+stock_COF r_up	sector:1 rally:1 powers:1 higher:1
+stock_COF r_down	$:1 highs:1 back:1 another:1 crack:1 new:1 500:1
+stock_COF r_down	cards:1 new:1 law:1 ahead:1 consumers:1
+stock_COF r_up	do:1 buy:1 's:1 stake:1 deals:1 more:1 selling:1 debt:1 lifts:1 financials:1 stock:1
+stock_COF r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_COF r_up	loss:1 end:1 rise:1 near:1 says:1 cycle:1
+stock_COF r_down	$:1
+stock_COF r_up	help:1 losses:1 job:1 lift:1 stocks:1 bank:1
+stock_COF r_down	tumble:1 credit-card:1 companies:1 focus:1 late-session:1 take:1 upgrades:1 market:1
+stock_COF r_up	modest:1 surrender:1 gains:1
+stock_COF r_up	$:1
+stock_COF r_up	$:1
+stock_COF r_up	reform:1 lend:1 back:1 bankers:1 pressures:1 more:1
+stock_COF r_down	sector:1 weighs:1 lower:1 oil:1 $:4 moves:1 drift:1 repay:1 rallies:1 stocks:1
+stock_COF r_up	's:2 thorn:1 remain:1 side:1 market:1 stock:1
+stock_COF r_down	9:1
+stock_COF r_up	extend:1 nearly:1 2:1 change:1 gain:1 lose:1 rally:1 dynamics:1 steam:1 financials:1 stock:1
+stock_COF r_up	trade:1 commissions:1 firms:1 cuts:1 fall:1
+stock_COF r_down	's:1
+stock_COF r_down	focus:1
+stock_COF r_down	triples:1 almost:1 47:1 focus:1 profit:1 quarterly:1
+stock_COF r_down	hit:1 again:1 lower:1 's:3 beat:1 surprises:1 results:1 focus:1 but:1 trade:1 jitters:1 advisories:1 shares:1 regulatory:1 8:1 take:1
+stock_COF r_up	hold:1 stocks:1 pat:1 gains:1 stands:1
+stock_COF r_up	2010:2 $:2
+stock_COF r_up	bolster:1 stocks:1 financial:1 gains:1
+stock_COF r_up	--:1
+stock_COF r_up	's:1
+stock_COF r_up	broad:1 spark:1 help:1 rally:1
+stock_COF r_up	775,000:2 18,000:2 $:2
+stock_COF r_up	's:1
+stock_COF r_up	data:1 spotlight:1
+stock_COF r_up	leads:1 among:1 lower:1 gainers:1 financial:1
+stock_COF r_up	help:1 extend:1 broader:1 stocks:1 market:1 gains:1
+stock_COF r_down	sector:1 fails:1 financial:1 but:1 lift:1 rallies:1
+stock_COF r_down	surprises:1 advisories:1
+stock_COF r_up	after:1 focus:2 results:1 up:1 quarterly:1 struggle:1 report:1 strong:1 profits:1
+stock_COF r_up	stocks:1 's:1 gains:1 surprises:1 advisories:1 hold:1 onto:1 weekly:1
+stock_COF r_up	banks:1 rally:1 stocks:1
+stock_COF r_up	's:1
+stock_COF r_down	probe:1 crash:1 flash:1 weak:1 down:1 link:1 bank:1 's:1 expands:1 retreat:1
+stock_COF r_up	large:1 bank-stock:1 's:3 holdings:1 keep:1
+stock_COF r_up	upend:1 concerns:1 regulatory:1 rally:1 =:1 bank:1
+stock_COF r_up	debut:1 rally:1 hold:1 shares:1
+stock_COF r_up	slogans:1 advertising:1
+stock_COF r_down	14:1 $:2
+stock_COF r_down	13:1 cut:1 may:1 big:1 regs:1 profit:1 bank:1
+stock_COF r_down	13:1 -14:1
+stock_COF r_down	rules:1 credit:1 still:1 cards:1
+stock_COF r_down	loss:1 pare:1 's:1 jumps:1 stock:1
+stock_COF r_up	's:1 top:1 estimates:1 results:1 analyst:1
+stock_COF r_down	gaining:1 's:3 surprises:1 results:1 bank-test:1 advisories:1 gain:1 biggest:1 stocks:1 declining:1
+stock_COF r_up	's:1
+stock_COF r_up	25:3 sees:1 bailouts:1 credit:1 tight:1 regional:1 show:1 results:1 fewer:1 improving:1 banks:1 's:4 margins:1
+stock_COF r_up	3:1 1/2:1 1st:1
+stock_COF r_down	's:1
+stock_COF r_down	's:2
+stock_COF r_down	's:1
+stock_COF r_down	after:1 's:1 jobless:1 extend:1 losses:1 forecasts:1 short:1 fall:1 data:1
+stock_COF r_up	decline:1 straight:1 session:1 's:1 fifth:1
+stock_COF r_down	sector:1 into:1 swings:1 red:1
+stock_COF r_up	's:1
+stock_COF r_up	n't:1
+stock_COF r_up	recession:1 stocks:1 end:1 surge:1
+stock_COF r_down	's:1
+stock_COF r_up	close:1 shed:1 gains:1 loss:1
+stock_COF r_down	's:1
+stock_COF r_up	mortgage:1 surprises:1 slump:1 late:1 advisories:1 worries:1
+stock_COF r_down	biggest:1 gaining:1 stocks:1 declining:1
+stock_COF r_down	71:2
+stock_COF r_up	's:1
+stock_COF r_up	29:1
+stock_COF r_down	late:1 pare:1 after:1 hit:1 gains:1
+stock_COF r_up	car:1 sales:1 economic:1 128:1 data:1 spotlight:1
+stock_COF r_up	's:1 $:1
+stock_COF r_up	week:1 note:1 strong:1 end:1 high:1 stocks:1
+stock_COF r_up	's:1
+stock_COF r_up	2011:1
+stock_COF r_down	2:1 's:1 2010:1 $:1
+stock_COF r_down	2.35:1 $:1 2010:1
+stock_COF r_down	surprises:1 advisories:1
+stock_COF r_up	watch:1 85:1
+stock_COF r_up	'em:1
+stock_COF r_down	hikes:1 rate:1 after:1 end:1 higher:1
+stock_COF r_up	's:1
+stock_COF r_down	19:1 's:1
+stock_COF r_down	regulator:1 understand:1 still:1 hard:1 risks:1
+stock_COF r_down	$:1 1.1:1
+stock_COF r_down	30:1 off:1 $:1 23:1
+stock_COF r_down	2011:1
+stock_COF r_up	announcements:1 coming:1
+stock_COF r_up	's:1
+stock_COF r_up	early:1 losses:1 50:1 n't:1 erase:1 stocks:1
+stock_COF r_down	250:1
+stock_COF r_down	offers:1 results:1 other:1 bank:1 clues:1
+stock_COF r_up	60:1 46:1 watch:2 's:1
+stock_COF r_up	3:1 stocks:1 off:1 slip:1
+stock_COF r_up	's:1
+stock_COF r_up	's:4 4:1
+stock_COF r_up	holdings:1 holds:1 bank:1 cuts:1
+stock_COF r_down	dollar:1 times:1 better:1 rough:1 than:1 bet:1
+stock_COF r_down	$:6 2nd:2
+stock_COF r_up	eyes:1 job:1 reportedly:1 aide:1
+stock_COF r_down	ratings:1 fuels:1 quest:1 's:1 bumper:1
+stock_COF r_down	's:1 down:1 drag:1 financial:1 stocks:1 2011:1
+stock_COF r_up	pull:1 's:5 gains:1 lag:1 watch:1 makeover:1 banks:1
+stock_COF r_down	's:6 $:2 pay:1 bln:1 5:1 9:2
+stock_COF r_down	n't:1
+stock_COF r_up	n't:1 318:1 $:2
+stock_COF r_up	2013:1
+stock_COF r_down	$:2 surprises:1 watch:1 50:7 advisories:1 2:1
+stock_COF r_down	sector:1 financial:1 $:1 sits:1 out:1 gains:1
+stock_COF r_down	3:1 $:1
+stock_COF r_up	gives:1 's:1 leverage:1 pick:1
+stock_COF r_up	's:1
+stock_COF r_up	10:1 we’ll:1 soon:1 have:1 unemployment:1
+stock_COF r_down	leave:1 bureau:1 1:1 consumer:1
+stock_COF r_down	's:1
+stock_COF r_down	sector:1 weigh:1 stocks:1 financial:1 's:3
+stock_COF r_down	15:1 's:1
+stock_COF r_up	abyss:1 's:1 lead:1 into:1 stocks:1 bank:1
+stock_COF r_up	oil:1 off:1 gold:1 futures:1 up:1 sharply:1 's:1 stock:1
+stock_COF r_up	pull:1 into:1 back:1 financials:1 red:1
+stock_COF r_down	gaining:1 jobless:1 rebound:1 jump:1 biggest:1 claims:1 stocks:1 spur:1 declining:1
+stock_COF r_up	's:1
+stock_COF r_down	's:1
+stock_COF r_down	's:1
+stock_COF r_up	support:1 's:1 analysts:1 shares:1
+stock_COF r_down	n't:1 's:1
+stock_COF r_up	're:1 's:1
+stock_COF r_down	9/11:1 's:1 40,000:1
+stock_COF r_up	gaining:1 heavy:1 lower:1 selling:1 signal:1 futures:1 drag:1 sharply:1 biggest:1 stocks:2 declining:1
+stock_COF r_down	's:1
+stock_COF r_down	into:1
+stock_COF r_down	deal:1 seek:1 's:1 block:1 groups:1
+stock_COF r_down	's:1
+stock_COF r_down	2013:1
+stock_COF r_down	's:1
+stock_COF r_up	needs:1 corporate:1 sponsors:1
+stock_COF r_down	's:2
+stock_COF r_up	91:1 5:1 's:2 $:2
+stock_COF r_down	13:1
+stock_COF r_up	watch:1 surprises:1 13:1 advisories:1 's:1
+stock_COF r_up	's:1
+stock_COF r_down	3.5:1 's:1 $:1
+stock_COF r_down	's:1
+stock_COF r_down	's:1
+stock_COF r_up	's:3
+stock_COF r_down	's:1 fears:1 euro-zone:1 earnings:1 fall:1 miss:1
+stock_COF r_down	's:1
+stock_COF r_down	pace:1 stocks:1 market:1 broader:1
+stock_COF r_up	market:1 stocks:1 broader:1 lead:1 higher:1
+stock_COF r_down	4,500:1
+stock_COF r_down	47:4 's:1
+stock_COF r_down	77:1 1.5:1 $:1
+stock_COF r_up	5:1 's:1 $:1
+stock_COF r_up	'':1 ``:1
+stock_COF r_up	1.6:2 $:2
+stock_COF r_down	n't:1
+stock_COF r_down	decline:1 second:1 's:1 day:1 market:1
+stock_COF r_up	broad:1 stocks:1 market:1 lead:1 higher:1
+stock_COF r_down	2011:1
+stock_COF r_up	2012:1
+stock_COF r_up	banks:1 stocks:1 financial:1 drive:1 higher:1
+stock_COF r_up	22:1
+stock_COF r_up	$:1 140:1
+stock_COF r_up	's:1
+stock_COF r_down	hit:1 surprises:1 after:1 watch:1 shares:1 hours:1 advisories:1 's:2 higher:1
+stock_COF r_down	42:1
+stock_COF r_up	sector:1 pare:1 after:1 downgrades:1 losses:1 up:1 edge:1 8:1 higher:1
+stock_COF r_down	talks:1 drag:1 retreat:1 7:1
+stock_COF r_up	's:1
+stock_COF r_up	's:1
+stock_COF r_up	's:2
+stock_COF r_down	deal:1
+stock_COF r_up	15:1 deal:1 leaves:1 doubts:1 approval:1 still:1 's:1 bank:1
+stock_COF r_up	n't:1 's:1
+stock_COF r_down	's:1
+stock_COF r_down	n't:1
+stock_COF r_down	's:1
+stock_COF r_down	may:1 not:1 last:1 deal:1
+stock_COF r_up	n't:1
+stock_COF r_up	n't:2 lower:1 's:2 after:1 shares:1 hours:1
+stock_COF r_up	futures:1 rise:1 watch:1 retain:1 data:1 after:1 stock:1
+stock_COF r_up	week:1 $:1 up:1 fourth:1 9:1 strong:1 day:1

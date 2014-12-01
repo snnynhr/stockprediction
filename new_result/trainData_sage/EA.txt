@@ -1,0 +1,268 @@
+stock_EA r_up	11:1
+stock_EA r_down	's:1
+stock_EA r_up	beat:1 game:1 estimates:1 sales:1
+stock_EA r_up	2:1 15:1
+stock_EA r_down	25:1 95:1
+stock_EA r_up	close:1 climbs:1 broad:1 rise:1 results:1 focus:1 leads:1 slammed:1 despite:1 quarterly:1 tech:1 miss:1 market:1
+stock_EA r_up	cost-cutting:1 outlook:1 off:1 plans:1 surprises:1 losses:1 focus:1 shares:1 jump:1 3:1 advisories:1 1,100:2 lay:1 -2:1 's:1 net:1 2009:1 grow:1
+stock_EA r_up	gaining:1 sector:1 crash:1 drags:1 lack:1 results:1 shares:1 forecast:1 down:1 wake:1 market:1 close:1 biggest:1 's:3 stocks:1 declining:1
+stock_EA r_down	holiday:1 hit:1 dollar:1 30:1 weak:1 sales:1 rise:1 's:1 net:1 drops:1
+stock_EA r_down	loss:1 beat:1 sales:1 but:1 forecasts:1 game:1 reports:1
+stock_EA r_down	10:1 2009:2 17:1
+stock_EA r_up	sector:1 tougher:1 fewer:1 blockbusters:1 game:1 going:1 faces:1
+stock_EA r_up	'':1 amp:1 ``:1
+stock_EA r_up	's:1
+stock_EA r_down	launch:1 sell-off:1 slides:1 game:1 tech:1 low:1 four-month:1 sharp:1 branded:1
+stock_EA r_up	15:1
+stock_EA r_up	video-game:1 study:1 finds:1 likely:1 3.0:1 grow:1 market:1
+stock_EA r_up	11:1 see:1 sales:1 modest:1 game:1 growth:1 9:1
+stock_EA r_down	gaming:1 console:1 backing:1 launches:1 new:1 's:1
+stock_EA r_down	's:1
+stock_EA r_down	ahead:1 big:1 could:1 see:1 distribution:1 changes:1
+stock_EA r_up	99:1 $:1 23:1
+stock_EA r_up	s:1 8217:1
+stock_EA r_up	s:1 8217:1
+stock_EA r_down	spill:1 surprises:1 missing:1 sales:1 game:1 advisories:1 take:1 targets:1
+stock_EA r_down	17:1
+stock_EA r_down	breaks:1 mark:1 through:1 1,700:1
+stock_EA r_down	decline:1 entertainment:1 see:1 sales:1 push:1 game:1 expected:1 teams:1 makers:1
+stock_EA r_up	focus:1
+stock_EA r_up	surprises:1 advisories:1
+stock_EA r_down	up:1 beat:1 losses:1 expectations:1 shares:1 focus:1 game:1 sales:1 earnings:1 cuts:1 despite:1 slowdown:1 its:1 '10:1
+stock_EA r_down	gaining:1 's:3 biggest:1 stocks:1 declining:1 '10:1
+stock_EA r_up	--:1 $:1
+stock_EA r_up	slide:1 game:1 continue:1 sales:1
+stock_EA r_up	17:1 rise:1 weak:1 sales:1 despite:1 stocks:1 data:1
+stock_EA r_down	'':1 ``:1
+stock_EA r_up	may:1 price:1 game:1 devices:1 see:1 unlikely:1 cuts:1 new:1
+stock_EA r_up	's:1
+stock_EA r_down	game:1 out:1 companies:1 stars:1 trot:1
+stock_EA r_down	core:1 focus:1 makers:1 market:1 keep:1
+stock_EA r_down	23:1
+stock_EA r_up	third-straight:1 video-game:1 rebound:1 sales:2 month:1 game:1 expect:1 fall:1
+stock_EA r_up	focus:1
+stock_EA r_up	2:1
+stock_EA r_down	decline:1 's:1 see:1 sales:1 game:1 expected:1 still:1
+stock_EA r_up	sharp:1 game:1 drop:1 sales:1 see:1
+stock_EA r_down	31:1
+stock_EA r_up	powers:1 up:1
+stock_EA r_up	worries:1 delay:1 game:1 pressured:1
+stock_EA r_up	slide:1 concerns:1 outlook:1 shares:1
+stock_EA r_up	expected:1 report:1 strong:1 's:1 results:1
+stock_EA r_up	loss:1 stronger:1 narrower:1 focus:2 sales:1 expected:1 post:1
+stock_EA r_down	outlook:1 over:1 results:1 down:1 wash:1 mild:1 close:1 market:1 end:1 top:1 shares:1 leap:1 biggest:1 grows:1 gaining:1 's:4 gains:1 after:1 but:1 forecasts:1 stocks:3 day:1 declining:1 loss:1 losses:1 tech:1 erratic:1
+stock_EA r_down	game:1 continue:1 slump:1 sales:1
+stock_EA r_up	29:1
+stock_EA r_down	cut:1 console:1 pressure:1 game:1 prices:1 makers:1
+stock_EA r_down	$:3 price:1 cuts:1 3:1 299:2 100:1
+stock_EA r_down	3:2
+stock_EA r_down	$:2 pushes:1 reliance:1 100:2 beyond:1 360:2
+stock_EA r_down	11:1 's:1
+stock_EA r_down	's:3
+stock_EA r_down	again:1 's:1 takes:1 16:1 sales:1 update:1 game:1 fall:1 stage:1
+stock_EA r_up	worries:1 game:1 pressured:1 shares:1 sales:1
+stock_EA r_down	199:1 $:1
+stock_EA r_up	``:1 shares:1 '':1 hurts:1 view:1 higher:1
+stock_EA r_down	says:1 '':1 jobs:1 na:1 declining:1 biggest:1 has:1 's:1 'no:1 stock:1 gaining:1 ``:1 led:1 plans:1 acquire:1 wake:1 sink:2 report:1 stocks:1 retreat:1 --:1 futures:1 gain:1
+stock_EA r_up	jump:1 into:1 unlikely:1 acquisition:1 fray:1
+stock_EA r_up	99:1 2.8:1
+stock_EA r_down	direct:1 distribution:1 game:1 makers:1 look:1
+stock_EA r_up	expected:1 recover:1 slump:1 sales:1 after:1
+stock_EA r_down	1:1 miss:1 sales:2 expectations:1 disappointing:1 game:1 fall:1 stocks:1 data:1
+stock_EA r_up	5:1
+stock_EA r_up	gaining:1 arts:1 's:1 martial:1 big:1 mixed:1 bet:1 another:1 biggest:1 stocks:1 makes:1 declining:1
+stock_EA r_up	focus:1 $:2 17:1 275:2
+stock_EA r_down	losses:1 hit:1 sinks:1 surprises:1 sets:1 results:1 focus:1 shares:2 1,500:1 jump:1 job:2 advisories:1 cuts:2 report:1 grow:1 after:1
+stock_EA r_up	gaining:1 's:1 see:1 dips:1 drop:1 sales:1 shares:1 likely:1 another:1 fall:1 biggest:1 stocks:1 declining:1
+stock_EA r_down	move:1 $:1 see:1 19:1 drop:1 sales:1 pondering:1 game:1 2:1 another:1 digital:1 still:1 makers:1
+stock_EA r_down	2:1 5:1 $:1
+stock_EA r_down	12:1 third:1 rise:1 3:1 earnings:1 quarter:1
+stock_EA r_down	sticking:1 's:1 sponsors:1
+stock_EA r_down	'10:1
+stock_EA r_down	's:1 29:1
+stock_EA r_up	games:1 video:1 retailer:1 tumbles:1
+stock_EA r_up	``:1 big:1 murky:1 sales:1 '':1 titles:1 they:1 despite:1 1990s:2 outlook:1 now:1
+stock_EA r_up	disappointing:1 's:1 see:1 games:1 sales:1
+stock_EA r_down	7.6:1
+stock_EA r_up	$:1
+stock_EA r_up	speculation:1 rise:1 's:1 shares:1
+stock_EA r_up	6:1
+stock_EA r_up	healthy:1 crops:1 grows:1 like:1
+stock_EA r_up	$:1
+stock_EA r_down	's:1 sponsor:1 dump:1 latest:1
+stock_EA r_down	's:1
+stock_EA r_down	outlook:1 annual:1 expects:1 sends:1 warns:1 focus:1 cuts:1 wider:1 80:1 miss:1 market:1 sinks:1 console:1 $:1 lead:1 profit:1 stake:1 shares:1 discounts:1 earnings:2 buys:1 stock:2 swayed:1 disappointments:1 results:1 pressure:1 sales:1 fall:1 stocks:2 chips:1 retreat:1 11:1 loss:1 lower:1 could:1 futures:1 slide:1 tech:1 -2:1 banks:1 dip:1 reduced:1
+stock_EA r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_EA r_up	show:1 weakness:1 sales:2 game:1 4:2 fall:1 expected:1 more:1
+stock_EA r_down	4:1
+stock_EA r_up	3:1
+stock_EA r_up	's:1
+stock_EA r_up	2010:1
+stock_EA r_up	core:1 makers:1 recovery:1 look:1
+stock_EA r_up	after:1 surprises:1 drop:1 shares:1 forecasts:1 advisories:1 trying:1
+stock_EA r_down	losses:1 investors:1 sub-10,000:1 focus:1 cuts:1 close:2 recover:1 market:1 disappoints:2 fails:1 crowd:1 shares:1 forecast:2 rally:1 biggest:1 luster:1 gaining:1 's:3 after:1 but:2 fall:1 stocks:3 declining:1 join:1 futures:1 lose:1
+stock_EA r_down	hopes:1 stocks:1 's:1 bailout:1 surge:1
+stock_EA r_up	again:1 13:1 get:1 fourth-quarter:1 sales:1 shares:1 results:1 game:1 fall:1 following:1 boost:1 targets:1 beats:1
+stock_EA r_down	13:1
+stock_EA r_up	bubble:1 negativity:1
+stock_EA r_up	$:1 offer:1 million:1 sponsorship:1 75:1 rebuffs:1
+stock_EA r_up	game:1 service:1 cloud-based:1 launch:1
+stock_EA r_up	again:1 game:1 sales:1 fall:1
+stock_EA r_down	has:1 stake:1 lot:1
+stock_EA r_down	developers:1 loses:1
+stock_EA r_down	game:1 strong:1 estimates:1 raises:1 sales:1
+stock_EA r_up	return:1 gains:1 sales:1 game:1 growth:1 close:1 follow:1 stocks:1
+stock_EA r_up	rise:1 studio:1 deal:1 shares:1
+stock_EA r_up	publishers:1 quarter:1 strong:1 expect:1
+stock_EA r_down	jump:1 game:1 strong:1 earnings:1 sales:1
+stock_EA r_up	swings:1 's:1 fears:1 profit:1 off:1 futures:1 focus:2 sales:1 results:1 game:1 hike:1 strong:1 aid:1 mixed:1 close:1 stocks:1 cool:1
+stock_EA r_down	hit:1 gaining:1 outlook:1 4.6:1 gainers:1 surprises:1 32:1 guidance:1 after:1 lower:1 shares:3 advisories:1 take:1 fall:1 biggest:2 's:4 decliners:1 stocks:1 declining:1
+stock_EA r_up	lower:1 gains:1 after:1 results:1 leads:1 tech:1
+stock_EA r_down	disappointing:1 stocks:1 sales:1 fall:1
+stock_EA r_up	aim:1 stretch:1 firms:1 consoles:1 lifespan:1
+stock_EA r_down	all:1 gains:1 handheld:1 unveils:1 late:1 nearly:1 lose:1 action:1 new:1 stocks:1
+stock_EA r_down	date:1 price:1 lays:1 out:1
+stock_EA r_down	high:1 new:1 aiming:1 makers:1
+stock_EA r_down	not:1 selling:1 interested:1 company:1 maker:1
+stock_EA r_down	stocks:1 end:1 broad:1 losses:1 glum:1 quarter:1
+stock_EA r_up	surprises:1 advisories:1
+stock_EA r_up	again:2 slow:1 sales:2 game:2 fall:1 expected:1
+stock_EA r_up	's:1
+stock_EA r_down	publishers:1 quarter:1 tough:1 deck:1
+stock_EA r_down	revenue:1 profit:1 turns:1 increases:1 advisories:1 surprises:1
+stock_EA r_up	focus:1 trade:1 close:1 decline:1 stocks:1 29:1 shares:1 late:1 earnings:1 biggest:1 upbeat:1 gaining:1 's:1 gains:1 advances:1 joins:1 report:1 rises:1 declining:1 lower:1 surge:1 tech:2 highlight:1
+stock_EA r_down	12:2
+stock_EA r_up	11:1
+stock_EA r_down	console:1 fall:1 sales:1 game:1 gain:1 despite:1
+stock_EA r_down	11:1 5:1
+stock_EA r_up	jump:1 strong:1 sales:1 shares:1
+stock_EA r_up	's:1 gains:1 highlights:1 rise:1 tech:1 broad:1
+stock_EA r_up	sector:1 advance:1 's:1 gains:1 tech:1 highlight:1
+stock_EA r_down	's:2 -2:1
+stock_EA r_up	disappoint:1 game:1 sales:1 again:1
+stock_EA r_down	delay:1 game:1 dip:1 shares:1
+stock_EA r_down	1:2 stocks:1 warning:1 fall:1
+stock_EA r_down	note:1 rough:1 stocks:1 end:1 month:1
+stock_EA r_up	videogame:1 eating:1 into:1 play:1 sales:1 online:1
+stock_EA r_down	rally:1 broad:1 stocks:1 surge:1
+stock_EA r_up	app:1 developers:1 courts:1
+stock_EA r_up	handsets:1 wraps:1 lifts:1 off:1 7:2
+stock_EA r_down	biggest:1 gaining:1 stocks:1 7:2 declining:1
+stock_EA r_up	reviews:1 shares:1 fall:1
+stock_EA r_down	19:1
+stock_EA r_down	19:1 drop:1 sales:2 game:2 fall:1 surprise:1 post:1 stocks:1 data:1 latest:1
+stock_EA r_down	|:1
+stock_EA r_up	$:1
+stock_EA r_up	$:1
+stock_EA r_down	play:1 speech:1 focus:1 free:1
+stock_EA r_up	decline:1 's:2 sales:1 shares:2 forecast:1 late:1 trading:1 fall:2
+stock_EA r_down	after:1 end:1 14:1 surprises:1 decision:1 rise:1 focus:1 advisories:1 broad:1 stocks:2 day:1 gains:1
+stock_EA r_down	sell:1 industry:1 struggles:1 investors:1
+stock_EA r_down	fans:1 hear:1
+stock_EA r_down	's:1
+stock_EA r_down	26:1
+stock_EA r_up	game:1 26:1 uptick:1 sales:1 see:1
+stock_EA r_up	2011:1
+stock_EA r_up	videogame:1 big:1 revive:1 sales:1 titles:1 holiday:1
+stock_EA r_up	strategy:1 lays:1 out:1
+stock_EA r_up	360:1
+stock_EA r_up	360:1
+stock_EA r_up	profit:1 swings:1
+stock_EA r_up	targets:1 dispute:1
+stock_EA r_down	2010:1
+stock_EA r_down	27:2 's:1 launch:1 price:1 sets:1 date:1
+stock_EA r_up	51:1
+stock_EA r_down	61:1 's:2
+stock_EA r_up	watch:1
+stock_EA r_up	watch:1
+stock_EA r_up	violence:1 sales:1 declines:1 results:1 trade:1 jump:1 advisories:1 end:1 wobble:1 shares:1 late:1 flares:1 2:1 earnings:1 widens:1 rallies:1 biggest:1 digital:1 gaining:1 's:3 -2:1 but:1 focus:1 stocks:1 grow:1 declining:1 loss:1 14:1 futures:1 surprises:1 mixed:1
+stock_EA r_up	firms:1 still:1 key:1 investors:1
+stock_EA r_up	's:1
+stock_EA r_up	shifts:1 year:1 business:1 faces:1
+stock_EA r_up	's:1 franchises:1 chief:1 tech:1 key:1 push:1 stocks:1 targets:1 higher:1
+stock_EA r_down	10:1 500:1
+stock_EA r_up	's:1
+stock_EA r_down	's:1 lands:1 funding:1 $:2 developer:1
+stock_EA r_down	's:1
+stock_EA r_up	our:1
+stock_EA r_up	'the:1 's:1
+stock_EA r_down	our:1
+stock_EA r_up	rise:1 drop:1 sales:1 game:1 despite:1 stocks:1
+stock_EA r_up	firms:1 350:1 raises:1 million:1 $:1
+stock_EA r_up	vote:1 social:1 side:1 shows:1
+stock_EA r_up	's:1
+stock_EA r_down	watch:1
+stock_EA r_down	gains:1 surprises:1 jumps:1 trades:1 watch:2 advisories:1 after-hours:1
+stock_EA r_up	gaining:1 after:1 's:1 jobless:1 beat:1 futures:1 watch:1 sales:1 jump:1 more:1 game:1 earnings:1 fall:1 biggest:1 stocks:1 data:1 targets:1 declining:1 stock:1
+stock_EA r_up	can’t:1 sector:1 outlook:1 gains:1 investors:1 past:1 lift:1 tech:1 gets:1 boost:1 look:1
+stock_EA r_up	n't:1
+stock_EA r_up	20:1
+stock_EA r_up	videogame:1 20:1 releases:1 sales:2 shares:1 pump:1 gain:1 strong:1
+stock_EA r_up	among:1 decliners:1 stocks:1 tech:1 retreat:1
+stock_EA r_down	8:1 's:1 500:1
+stock_EA r_down	3:1
+stock_EA r_down	core:1 wraps:1 console:1 gamers:1 early:1 lifts:1 release:1 targets:2
+stock_EA r_up	watch:1 5:1
+stock_EA r_down	's:1
+stock_EA r_up	bets:1 big:1 handhelds:1 place:1
+stock_EA r_down	biggest:1 gaining:1 stocks:1 declining:1
+stock_EA r_down	gains:1 late:1 close:1 rally:1 stocks:1 stage:1
+stock_EA r_up	boost:1 expectations:1 shares:1 give:1
+stock_EA r_down	biggest:1 decliners:1 gainers:1
+stock_EA r_up	's:1 $:1
+stock_EA r_down	mixed:1 outlook:1 has:1 business:1
+stock_EA r_down	hours:1 deal:1 after:1 shares:1 down:1 following:1
+stock_EA r_down	750:1 's:1 $:1 million:1 watch:2 buy:1
+stock_EA r_down	biggest:1 gaining:1 stocks:1 declining:1
+stock_EA r_up	10:1
+stock_EA r_up	's:1
+stock_EA r_up	ante:1 up:1 investors:1
+stock_EA r_down	revenue:1 rise:1 forecast:1 beats:1 earnings:1 targets:1
+stock_EA r_down	surprises:1 jumps:1 after:1 watch:2 hours:1 advisories:1 drops:1
+stock_EA r_down	's:1
+stock_EA r_down	early:1 access:1 offers:1 gamers:1 online:1
+stock_EA r_down	's:1
+stock_EA r_up	'06:1
+stock_EA r_up	gaining:1 sales:1 down:1 biggest:1 stocks:2 data:1 declining:1 latest:1
+stock_EA r_down	's:1
+stock_EA r_up	sales:1 dip:1 gains:1 touts:1 digital:1
+stock_EA r_up	cheer:1 never:1 you:1
+stock_EA r_down	holiday:1 firms:1 strong:1 betting:1
+stock_EA r_down	challenges:1 videogame:1 rentals:1 faces:1
+stock_EA r_up	3:1
+stock_EA r_up	react:1 death:1
+stock_EA r_up	peek:1 off:1 takes:1 some:1 strategy:1 games:1 new:1 gives:1
+stock_EA r_up	should:1 ring:1 bells:1 valuation:1 6:1
+stock_EA r_up	eyebrows:1 starting:1 raise:1
+stock_EA r_down	3:1
+stock_EA r_up	surprises:1 advisories:1 's:1
+stock_EA r_down	into:1 watch:1 drive:1 sports:1 beats:1 games:1 upside:1 targets:1
+stock_EA r_up	's:1
+stock_EA r_down	decline:1 subs:2 drop:1 shares:1 beats:1 fall:1 targets:1
+stock_EA r_up	's:1
+stock_EA r_up	's:1 $:1 400:1
+stock_EA r_down	data:1 results:1 ahead:1 falls:1
+stock_EA r_down	buybacks:1 earnings:1 slip:1 increased:1
+stock_EA r_up	's:1 broad:1 highlight:1 rally:1 stocks:1 market:1
+stock_EA r_down	billion:1 terms:1 raise:1 1:1 sets:1 $:1
+stock_EA r_down	sell:1 rating:1 gets:1 yet:1 public:1
+stock_EA r_down	bets:1 big:1
+stock_EA r_up	billion:1 $:1 offering:1 initial:1 1:1 prices:1 public:1
+stock_EA r_down	500:1
+stock_EA r_down	's:1
+stock_EA r_down	stocks:1 weak:1 sales:1 fall:1
+stock_EA r_down	high:1 made:1 aims:1
+stock_EA r_up	tech:1 gains:1 lead:1 results:1
+stock_EA r_down	$:1
+stock_EA r_down	videogame:2 lead:1 watch:2 sales:1 results:1 beats:1 strong:1 targets:1
+stock_EA r_up	gaining:1 outlook:1 after:1 's:1 subside:1 surges:1 fears:1 back:1 shares:1 hours:1 snap:1 turns:1 biggest:1 stocks:1 declining:1 higher:1
+stock_EA r_down	tech:1 gains:1 lead:1
+stock_EA r_down	slips:1 drops:1 after-hours:1
+stock_EA r_down	weak:1 sales:1 beats:1 sink:1 slip:1 stems:1 stocks:1 data:1 targets:1
+stock_EA r_up	expected:1 big:1 revenue:1 gain:1 show:1
+stock_EA r_down	expect:1 2012:1
+stock_EA r_down	600:1
+stock_EA r_down	game:1 slumping:1 stands:1 market:1 out:1
+stock_EA r_up	game:1 developers:1 makes:1 pitch:1
+stock_EA r_down	again:1 slide:1 sales:1
+stock_EA r_up	getting:1 mobile:1 rattled:1 up:1 steps:1 digital:1 bet:1

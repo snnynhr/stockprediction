@@ -1,0 +1,259 @@
+stock_UNH r_up	biggest:1 gaining:1 stocks:1 's:2 declining:1
+stock_UNH r_down	's:3
+stock_UNH r_down	drop:1 cut:1 2008:1 shares:1 forecasts:1
+stock_UNH r_down	futures:1 's:1 mood:1 lending:1 move:1 surge:1 cheers:1 plan:1 new:1 rally:1 08:1 stock:1
+stock_UNH r_down	27:1 's:1 gains:1 dive:1 shares:1 oil:1 sink:1 insurers:1 warning:1 take:1
+stock_UNH r_up	days:1 's:2 second:1 profit:1 warns:1 after:1 back:1 shares:1 two:1 slide:1 settle:1 rough:1 insurers:1 day:1
+stock_UNH r_down	's:1 '08:1
+stock_UNH r_down	but:1
+stock_UNH r_up	3.6:1
+stock_UNH r_up	2:1 's:1
+stock_UNH r_up	21st:1
+stock_UNH r_down	lower:2 's:4 housing:1 futures:1 focus:2 results:1 shares:1 forecast:1 7.2:1 edge:1 '08:1 fall:1 before:1 2008:1 stock:1 data:1 2012:1
+stock_UNH r_up	'08:1 's:2 25:1
+stock_UNH r_down	climb:1 drops:1 earnings:1 but:1 forecast:1
+stock_UNH r_up	2007:1 months:1 $:1 4:1
+stock_UNH r_down	'07:1 $:1
+stock_UNH r_down	's:1
+stock_UNH r_up	80:2
+stock_UNH r_down	31:1 3:1 $:1
+stock_UNH r_down	3:1
+stock_UNH r_up	1,200:1
+stock_UNH r_up	2000:1
+stock_UNH r_up	's:1
+stock_UNH r_down	'08:1
+stock_UNH r_up	plunge:1 soars:1
+stock_UNH r_down	lowers:1 's:1 ahead:1 point:1 profit:1 na:1 futures:1 focus:1 expectations:1 start:1 economic:1 year:1 mixed:1 data:1 stock:1
+stock_UNH r_down	reaction:1 's:1 sectors:1 undervalued:1 warning:1 reaffirm:1 market:1
+stock_UNH r_down	gaining:1 lowers:1 outlook:2 slashes:1 's:1 $:1 profit:1 suits:1 futures:1 focus:1 up:1 n't:1 settle:1 costs:1 stock-option:1 cuts:1 biggest:1 seen:1 stocks:1 declining:1 higher:1
+stock_UNH r_down	gaining:1 's:1 biggest:1 'll:1 stocks:1 declining:1
+stock_UNH r_down	hit:1 bill:1 passage:1 wake:1 's:1 insurers:1
+stock_UNH r_up	old:1 look:1 nets:1 rickety:1 safety:1 new:1 failsafes:1 seek:1
+stock_UNH r_down	focus:1
+stock_UNH r_up	's:2 target:1 surprises:1 but:1 falls:1 beats:1 advisories:1 73:2 net:1
+stock_UNH r_up	1,000,000:1 10:1
+stock_UNH r_down	3:1 $:1
+stock_UNH r_down	's:1
+stock_UNH r_up	's:1 gains:1 revenue:1 37:2 income:1 underwriting:1 rises:1
+stock_UNH r_up	2008:1 's:1 17:1
+stock_UNH r_up	sector:1 but:1 $:1 lead:1 same:1 '08:1 '09:1 420:1 cycles:1 market:1
+stock_UNH r_down	's:1 '09:1
+stock_UNH r_down	85:2
+stock_UNH r_up	settlement:1 pay:1 30:1 $:1 million:1
+stock_UNH r_up	...:1
+stock_UNH r_down	health-care:1 plans:1 get:1 rise:1 cost:1 5:1
+stock_UNH r_up	26:1
+stock_UNH r_down	surprises:1 advisories:1
+stock_UNH r_up	24:1 surprises:1 advisories:1 '09:1 focus:1
+stock_UNH r_up	gaining:1 's:1 rise:1 sales:1 but:1 earnings:1 fall:1 biggest:1 stocks:1 declining:1
+stock_UNH r_down	2009:1
+stock_UNH r_down	5.4:1 's:1 '09:1
+stock_UNH r_down	vs.:1
+stock_UNH r_up	08:1 35:1
+stock_UNH r_down	93c:1 's:1 17c:1
+stock_UNH r_down	'08:1
+stock_UNH r_up	best:1 still:1 business:1 but:1 change:1
+stock_UNH r_up	'09:1
+stock_UNH r_up	1,000:1
+stock_UNH r_up	$:1 350:1
+stock_UNH r_up	surprises:1 advisories:1
+stock_UNH r_up	starts:1 housing:1 focus:2 40:2 forecasts:1 reaffirm:1
+stock_UNH r_up	surprises:1 advisories:1
+stock_UNH r_up	61:1
+stock_UNH r_down	's:1
+stock_UNH r_down	8217:1 8216:1
+stock_UNH r_up	28:1
+stock_UNH r_up	$:2
+stock_UNH r_up	08:1 $:1 8216:1
+stock_UNH r_down	$:1
+stock_UNH r_down	amp:2 $:2
+stock_UNH r_down	0.5:1
+stock_UNH r_down	outweigh:1 among:1 gains:1 early:1 tech:1 banks:1
+stock_UNH r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_UNH r_down	not:1 's:2 ordered:1 doctor:1
+stock_UNH r_up	5.6:1
+stock_UNH r_up	1st:1
+stock_UNH r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_UNH r_up	focus:1
+stock_UNH r_up	job:1 senior:1 moves:1 centers:1 fitness:1
+stock_UNH r_down	're:1
+stock_UNH r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_UNH r_up	9.3:1
+stock_UNH r_down	these:1 crow:1 over:1 picks:1 stupid:1 have:1 7.5:1 eat:1
+stock_UNH r_down	$:2
+stock_UNH r_down	gaining:1 cost-savings:1 15:1 deal:1 tone:1 announces:1 's:1 softens:1 biggest:1 rally:1 stocks:2 hospitals:1 declining:1
+stock_UNH r_down	8.1:1 's:3
+stock_UNH r_up	biggest:1 gaining:1 stocks:1 's:2 declining:1
+stock_UNH r_down	$:1 focus:1
+stock_UNH r_up	's:1 $:1 futures:1 focus:1 edge:1 2008:1 higher:1 ups:1 view:1
+stock_UNH r_up	outlook:1 raised:1 earnings:1 up:1
+stock_UNH r_up	outlook:1 cuts:1 months:1 two:1 second:1 time:1
+stock_UNH r_down	bets:1 bill:1 48:1 insurer:1 advances:1 reform:1 against:1 slip:1 healthcare:1 stocks:1
+stock_UNH r_down	insurer:1 up:1 beefs:1 attack:1 fall:1 stocks:1
+stock_UNH r_up	all:1 stocks:1 bank:1 way:1 laugh:1
+stock_UNH r_up	everyone:1 's:3 option:1 investors:1 health-insurance:1 but:1 slam:1 fade:1 not:1 insurers:1 public:1 stock:1
+stock_UNH r_down	surprises:1 advisories:1
+stock_UNH r_up	's:1
+stock_UNH r_up	wicked:1 health-care:1 profiteers:1 mirror:1
+stock_UNH r_down	's:5 prognosis:1 health:1 mixed:1 market:1 care:1
+stock_UNH r_up	sector:1 decline:1 drop:1 lead:1 shares:1
+stock_UNH r_up	gaining:1 's:1 n't:1 biggest:1 stocks:1 declining:1
+stock_UNH r_down	gaining:1 's:1 $:1 biggest:1 stocks:1 declining:1
+stock_UNH r_up	lawmakers:1 return:1 takes:1 spotlight:1 care:1
+stock_UNH r_up	after:1 's:2 rise:1 shares:1 speech:1 insurers:1
+stock_UNH r_down	cooler:1 rise:1 see:1 strategists:1 beach:1 stock:1
+stock_UNH r_up	n't:1 count:1 panacea:1 plan:1
+stock_UNH r_up	've:1
+stock_UNH r_down	stocks:1 bargain:1 cash-flow:1 helps:1 pick:1 you:1 primer:1
+stock_UNH r_down	portfolio:1 punctuate:1 stocks:1 diversified:1
+stock_UNH r_down	off:1 insurer:1 wellness:1 value:1 offers:1 health:2 plan:1 pays:1 options:1
+stock_UNH r_down	1.7:1 's:3
+stock_UNH r_down	's:1
+stock_UNH r_down	99:1
+stock_UNH r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_UNH r_down	's:1
+stock_UNH r_up	insurers:1 exemption:1 proposed:1 antitrust:1
+stock_UNH r_up	13:4 's:1 profit:1 focus:1 hikes:1 rate:1 cuts:1 boost:1 '10:1
+stock_UNH r_down	votes:1 exemption:1 antitrust:1 ax:1 's:1 panel:1
+stock_UNH r_down	's:1
+stock_UNH r_up	's:2 23:1
+stock_UNH r_down	11:4 's:1 proposed:1 opt-out:1 after:1 up:1 insurers:1
+stock_UNH r_up	fund:1 manager:1 like:1 65:1 2010:1
+stock_UNH r_up	's:1
+stock_UNH r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_UNH r_up	passage:1 health-care:1 dent:1 n't:1 does:1 stocks:1
+stock_UNH r_up	undeterred:1 still:1 sanguine:1
+stock_UNH r_down	ends:1 note:1 bright:1 bonanza:1 decade:1 care:1
+stock_UNH r_down	futures:1 deliver:1 up:1 focus:1 cheer:1 stock-market:1 mildly:1 tends:1 stock:1
+stock_UNH r_up	's:1
+stock_UNH r_up	'10:1
+stock_UNH r_down	's:2
+stock_UNH r_up	investors:1 big:1 health:1 flock:1 insurers:1 stock:1
+stock_UNH r_down	industry:1 make:1 bundle:1 execs:1
+stock_UNH r_up	$:1
+stock_UNH r_up	's:2 ads:1 money:1 health-care:1 funded:1 spent:1 debate:1 say:1 they:1 insurers:1 anti-overhaul:1 well:1
+stock_UNH r_up	stocks:1 overhaul:1 pushes:1 higher:1
+stock_UNH r_down	30:4 's:2 unemployment:1 rise:1 focus:2 2009:1 earnings:1 fourth:1 claims:1 2008:1 quarter:1 2010:1
+stock_UNH r_down	38:1 $:2
+stock_UNH r_down	creates:1 among:1 uncertainty:1 election:1 insurers:1
+stock_UNH r_up	n't:1
+stock_UNH r_down	profit:1 fourth-quarter:1 swings:1
+stock_UNH r_up	n't:1 15:1 2010:1
+stock_UNH r_up	passes:1 major:1 support:1 test:1 500:1 first:1
+stock_UNH r_down	over:1 profits:1 firestorm:1 faces:1
+stock_UNH r_down	hearing:1 investor:1 day:1 cancels:1 due:1
+stock_UNH r_up	5:1
+stock_UNH r_up	hike:2 rise:1 rate:1 propose:1 report:1 stocks:1 oversight:1
+stock_UNH r_up	leads:1 sector:1 play:1 momentum:1 higher:1
+stock_UNH r_down	health-insurance:1 meet:1
+stock_UNH r_down	stocks:1 's:1 distributors:1 ground:1 lose:1 sales:1 speech:1 upgrades:1 close:1 retail:1 2010:1 after:1 higher:1
+stock_UNH r_up	's:1
+stock_UNH r_down	overhaul:1 pushes:1 drop:1 shares:1 slams:1 health:1 speech:1 insurers:1
+stock_UNH r_down	troubles:1 gain:1
+stock_UNH r_up	hit:1 snags:1 backdating:1 rates:1 gain:1 swing:1 device:1 cases:1 makers:1 stick:1
+stock_UNH r_up	's:1 trades:1 keep:1 nears:1 gain:1 key:1 vote:1 climbing:1 insurers:1 afternoon:1
+stock_UNH r_down	after:1 health-care:1 wake:1 gain:1 lose:1 vote:2 fall:1 insurers:1 ground:1
+stock_UNH r_up	second:1 selling:1 succumb:1 shares:1 day:1
+stock_UNH r_up	bets:1 overhaul:1 bold:1 since:1 passage:1 health:1 insurers:1 anemic:1 care:1
+stock_UNH r_down	2011:1
+stock_UNH r_down	2009:1 $:1
+stock_UNH r_down	$:1
+stock_UNH r_up	focus:1
+stock_UNH r_down	led:1 21:3 sell-off:1 turns:1 estimates:1 blasts:1 through:1 rally:1 climb:1 2010:3 view:1
+stock_UNH r_down	moves:1 's:1 ahead:1 profit:1 forecast:1 2010:1 down:1 upped:1 rises:1 day:1
+stock_UNH r_up	's:1
+stock_UNH r_down	's:1
+stock_UNH r_up	n't:1
+stock_UNH r_up	outlook:1 move:1 jumps:1 after:1 29:1 shares:1 traction:1 raises:1 net:1 gain:1
+stock_UNH r_up	's:1 $:1 1.3:1
+stock_UNH r_down	's:1
+stock_UNH r_up	n't:1 but:1
+stock_UNH r_down	waste:1 exemption:1 antitrust:1 --:1 funds:1 costs:1 rising:1 9:1 health:1 insurers:1 2011:1 insurance:1
+stock_UNH r_up	's:1
+stock_UNH r_up	fizzles:1 gains:1 health-care:1 but:1 n't:1 rally:1
+stock_UNH r_up	3:2 $:2
+stock_UNH r_up	gloom:1 outlook:1 losses:1 extend:1 weighs:1 profit:1 surprises:1 31:2 futures:1 watch:1 focus:1 advisories:1 raises:1 rises:1 stock:1
+stock_UNH r_up	30:1
+stock_UNH r_down	health:1 care:1
+stock_UNH r_down	's:1
+stock_UNH r_up	2:1
+stock_UNH r_down	's:1
+stock_UNH r_up	uphill:1 battle:1 repeal:1
+stock_UNH r_up	1:2 7:2
+stock_UNH r_down	move:1 democracy:1 23:4 surprises:1 futures:1 focus:2 rate:1 advisories:1 slip:1 2011:2 2010:1
+stock_UNH r_up	sector:1 while:1 stumble:1 shares:1 gains:1
+stock_UNH r_down	outlook:1 strong:1 shares:1 surge:1
+stock_UNH r_down	's:2
+stock_UNH r_up	's:1
+stock_UNH r_down	2:1 $:1
+stock_UNH r_up	2011:1
+stock_UNH r_down	2012:4
+stock_UNH r_down	$:2 500:1
+stock_UNH r_up	jump:1 ratings:1 upgrade:1 shares:1
+stock_UNH r_down	's:1
+stock_UNH r_down	watch:1
+stock_UNH r_down	10:4 repeal:1 's:2 14:1 ahead:1 profit:1 surprises:1 shares:2 helped:1 vote:1 advisories:1 but:1 fuel:1 hit:1 rises:1 dip:1 boom:1
+stock_UNH r_up	's:2
+stock_UNH r_down	stresses:1 headwinds:1 after:1 up:1
+stock_UNH r_down	's:1 lift:1 health:1 news:1 insurers:1 gives:1
+stock_UNH r_up	6:1
+stock_UNH r_down	surprises:1 advisories:1
+stock_UNH r_up	gaining:1 health-insurer:1 's:1 gains:1 big:1 points:1 biggest:1 stocks:1 declining:1 out:1
+stock_UNH r_down	n't:1
+stock_UNH r_up	10:1 big:1 'd:1 health:1 gain:1 year:1 first:1 reform’s:1
+stock_UNH r_up	sector:1 13:5 's:1 soars:1 rise:1 chemical:1 lifts:1 earnings:1 stocks:1
+stock_UNH r_down	'01:1
+stock_UNH r_up	boost:1 earnings:1 shares:1 get:1
+stock_UNH r_down	upgrade:1 's:1 after:1 shares:1 edge:1 higher:1
+stock_UNH r_down	2011:1 focus:1 secret:1 care’s:1 patients:1 durables:1
+stock_UNH r_up	're:1
+stock_UNH r_up	major:1 technical:1 test:1 rises:1 500:1 first:1
+stock_UNH r_down	1:2 $:2
+stock_UNH r_up	test:1 health:1 screening:1 calling:1
+stock_UNH r_up	's:2
+stock_UNH r_down	's:1
+stock_UNH r_down	13:7 futures:1 up:1 focus:1
+stock_UNH r_up	surprises:1 falls:1 advisories:1 upside:1 despite:1 profits:1
+stock_UNH r_up	then:1 's:1 $:5 29:2 29.1:1 its:1
+stock_UNH r_up	lifted:1 's:1 $:1 29:1 shares:1 along:1
+stock_UNH r_down	drama:1 dismisses:1 performer:1 5:2 debt:1
+stock_UNH r_up	beat:1 drop:1 but:1 views:1
+stock_UNH r_down	patients:1 treatment:1 cancer:1 less:1
+stock_UNH r_down	fears:1 35:1 health:1 ripple:1 insurers:1 out:1
+stock_UNH r_up	2.7:2
+stock_UNH r_up	2:1
+stock_UNH r_up	n't:1
+stock_UNH r_up	's:1
+stock_UNH r_up	2,300:1
+stock_UNH r_up	downgrade:1 earnings:1 talk:1 falls:1
+stock_UNH r_down	feel:1 pinch:1 stronger:1 plan:1
+stock_UNH r_down	80:1
+stock_UNH r_down	firms:1 hit:1 findings:1 panel:1
+stock_UNH r_up	5:1
+stock_UNH r_down	buy:1 should:1 's:1 investors:1 stock:1
+stock_UNH r_down	21:1 0.5:3 weak:1 but:1 earnings:1 dives:1 2012:1
+stock_UNH r_up	gaining:1 surprises:1 advisories:1 biggest:1 stocks:1 declining:1
+stock_UNH r_up	$:3
+stock_UNH r_up	2:1 's:1 $:1
+stock_UNH r_down	3:1 's:1 $:1
+stock_UNH r_down	3.5:1 's:1 $:1
+stock_UNH r_down	deals:1 hardball:1 hospitals:1 plays:1
+stock_UNH r_down	$:1 1.25:1
+stock_UNH r_down	's:2 4:1
+stock_UNH r_up	futures:1 sales:1 surge:1 news:1 stock:1 2012:1
+stock_UNH r_up	32:1
+stock_UNH r_down	tops:1 2012:1
+stock_UNH r_up	's:1
+stock_UNH r_down	sector:1 drags:1 earnings:1 reports:1 21:1
+stock_UNH r_down	confound:1 hit:1 miss:1 shares:1
+stock_UNH r_up	test:1 jumps:1 results:1
+stock_UNH r_down	sector:1 dim:1 results:1 hurt:1 analyst’s:1 view:1
+stock_UNH r_up	merger:1 warm:1
+stock_UNH r_down	20:1 $:1
+stock_UNH r_down	sell:1 line:1 debt:1 up:1 slip:1
+stock_UNH r_up	lawsuit:1 dip:1 's:1 news:1
+stock_UNH r_down	blow:1 could:1 insurers:1 ruling:1
+stock_UNH r_up	toward:1 health:1 ruling:1 leans:1 care:1
+stock_UNH r_up	health-insurance:1 over:1 mandate:1 split:1 show:1
+stock_UNH r_up	scuttling:1 health-care:1 consider:1 law:1
+stock_UNH r_up	ambiguous:1 insurers:1 health:1 but:1 care:1

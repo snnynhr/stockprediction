@@ -1,0 +1,379 @@
+stock_LLY r_down	slides:1 oil:1 woes:1 slick:1 n't:2 slide:1 slip:1 amp:1 stocks:1
+stock_LLY r_down	n't:1
+stock_LLY r_up	pull:1 says:1 may:1 jitters:1 recession:1 slide:1 program:1 inhaled-insulin:1 stocks:1 out:1
+stock_LLY r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_LLY r_up	's:1 mostly:1 move:1 second:1 laggard:1 slide:1 fall:1 climb:1 stocks:2 day:1
+stock_LLY r_down	9:1
+stock_LLY r_down	's:1 2012:1
+stock_LLY r_up	's:1
+stock_LLY r_up	stocks:1 's:1 drug:1 lead:1 higher:1
+stock_LLY r_up	's:1 views:1 make:1 leadership:1 5:1 lively:1 market:1
+stock_LLY r_up	5:1 15:1 $:2
+stock_LLY r_up	10:1 's:1 pharma:1 but:1 3:1 lose:1 stocks:1 ground:1
+stock_LLY r_down	3:2
+stock_LLY r_up	gaining:1 plunge:1 's:3 study:1 gain:1 others:1 biggest:1 stocks:1 declining:1
+stock_LLY r_up	's:1
+stock_LLY r_down	warning:1 battered:1
+stock_LLY r_up	cancer:1 label:1 link:1 updates:1 lung:1 inhaled-insulin:1 eyed:1
+stock_LLY r_down	's:1
+stock_LLY r_up	500:1
+stock_LLY r_down	weaker:1 focus:2 slip:1 first-quarter:1 4.4:1 end:1 $:1 profit:1 earnings:2 biggest:1 new:1 gaining:1 oil:1 's:5 mostly:1 highs:1 hits:1 slides:1 report:1 stocks:4 declining:1 lower:1 items:1 double:1 weigh:1 slightly:1
+stock_LLY r_down	slips:1 plant:1 's:1 woes:1 slide:1 stocks:1
+stock_LLY r_up	's:1
+stock_LLY r_down	ease:1 futures:1 caution:1 still:1 prevails:1 stock:1
+stock_LLY r_up	begins:1 rate-cut:1 lower:2 end:1 mostly:1 ahead:1 decision:1 move:1 indexes:1 stocks:1 meeting:1
+stock_LLY r_down	's:1
+stock_LLY r_down	amp:1
+stock_LLY r_down	335:1
+stock_LLY r_down	amp:1
+stock_LLY r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_LLY r_down	's:1
+stock_LLY r_up	's:1
+stock_LLY r_down	leads:1 lower:1 drug:1 slides:1 concerns:1 competition:1 stocks:1
+stock_LLY r_down	gaining:1 's:2 rebounds:1 medical:1 data:1 n't:1 rivals:1 meeting:1 biggest:1 unveil:1 stocks:2 dip:1 declining:1
+stock_LLY r_down	's:3
+stock_LLY r_down	10:1 's:1 investing:1 changed:1 themes:1 doing:1 '08:1 our:1
+stock_LLY r_up	3:1
+stock_LLY r_down	's:1
+stock_LLY r_up	mixed:1 stocks:1 gain:1
+stock_LLY r_down	's:1
+stock_LLY r_up	's:2
+stock_LLY r_down	's:1
+stock_LLY r_down	stocks:1 lead:1 third:1 climbs:1 straight:1 dollar:1 back:1 oil:1 session:1 rally:1 drugmakers:1 dips:1 $:2
+stock_LLY r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_LLY r_up	--:2 n't:1
+stock_LLY r_down	20:1
+stock_LLY r_up	focus:1
+stock_LLY r_up	spike:1 charges:1 45:1 reports:1 earnings:1 year-ago:1
+stock_LLY r_down	surprises:1 after:1 update:1 but:1 edge:1 slides:1 strategy:1 advisories:1 stocks:1 higher:1
+stock_LLY r_down	's:1
+stock_LLY r_down	's:5 study:1 move:1 drug:1 sink:1 stocks:1 studies:1
+stock_LLY r_down	's:3
+stock_LLY r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_LLY r_up	1.6:1 $:1
+stock_LLY r_up	n't:1
+stock_LLY r_down	could:1 's:2 way:1
+stock_LLY r_down	stocks:1 warning:1 drug:1 slip:1 falls:1
+stock_LLY r_down	lower:1 lead:1 two-week:1 drug:1 drag:1 lows:1 stocks:2
+stock_LLY r_down	's:1 $:1
+stock_LLY r_down	territory:1 into:1 move:1 negative:1 slide:1 afternoon:1 action:1 stocks:2
+stock_LLY r_down	report:1 new:1 patients:1 taking:1 deaths:1
+stock_LLY r_down	weaker:1 woes:1 tumble:1 focus:1 shares:1 biggest:1 durables:1 higher:1 gaining:1 's:1 pull:1 stung:1 after:1 sales:1 report:1 stocks:2 discuss:1 declining:1 diabetes:1 sending:1 lower:1 futures:1 drug:1 turn:1 back:1 stock:2
+stock_LLY r_up	woes:1 drug:1 tumble:1
+stock_LLY r_down	upswing:1
+stock_LLY r_up	's:1
+stock_LLY r_down	's:1
+stock_LLY r_down	21st:1
+stock_LLY r_down	buyout:1 bid:1 another:1 touts:1
+stock_LLY r_down	into:1 red:1 broader:1 follow:1 stocks:1 market:1
+stock_LLY r_down	's:1 slides:1 takeover:1 doubts:1 mixed:1 stocks:1
+stock_LLY r_down	'':1 ``:1
+stock_LLY r_up	swings:1 1:1 broader:1 mixed:1 stocks:1 market:1
+stock_LLY r_down	10:1
+stock_LLY r_up	amp:1
+stock_LLY r_up	's:1
+stock_LLY r_up	head:1 north:1 reverse:1 course:1 's:1 stocks:1
+stock_LLY r_up	votes:1 bill:1 's:1 tumble:1 after:1 down:1 bailout:1 stocks:1
+stock_LLY r_down	's:1
+stock_LLY r_down	billion:1 lower:1 buy:1 join:1 $:1 reportedly:1 sell-off:1 amid:1 6.1:1 futures:1 fears:1 n't:1 merger:1 report:1 economy:1 broader:1 talks:2 stocks:1 spotlight:1 market:1 stock:1
+stock_LLY r_down	's:2 steeply:1 fears:1 economic:1 fall:1 weigh:1 stocks:1
+stock_LLY r_down	worldwide:1 6.5:2 $:4 rose:1 passage:1 1:1 bailout:1 biggest:1 stock:1 gaining:1 acquire:1 's:1 extend:1 after:1 but:1 stocks:1 declining:1 billion:1 amid:1 futures:1 slide:1 wreckage:1 spotlight:1
+stock_LLY r_up	focus:1 6.5:1 market:1 $:1 implosion:1 shares:1 bailout:1 tumbling:1 crude:1 gaining:1 ends:1 's:1 price:1 after:1 biggest:1 lows:1 despite:1 stocks:2 declining:1 off:1 maimed:1 bill:1 points:1 800:1 sink:1
+stock_LLY r_down	$:1 turn:1 trading:1 afternoon:2 action:1 climb:1 stocks:2 south:1
+stock_LLY r_down	's:1 spotlight:1 more:1
+stock_LLY r_down	action:1 bailout:1 afternoon:1 mixed:1 rally:1 stocks:2 bank:1
+stock_LLY r_up	market:1 stocks:1 broader:1 ahead:1 cruise:1
+stock_LLY r_down	1.4:2 billion:1 's:1 $:2 probe:1 charge:1 settle:1 take:1 talks:1 spotlight:1 more:1
+stock_LLY r_down	gaining:1 's:1 focus:2 biggest:1 stocks:1 declining:1
+stock_LLY r_up	focus:1 triples:1 unit:1 again:1 swings:1 $:1 profit:1 fears:1 charge:1 simmer:1 biggest:2 9.6:1 higher:1 gaining:2 's:6 sales:1 fall:1 stocks:3 declining:2 loss:1 sale:1 recession:1
+stock_LLY r_down	gains:1 soars:1 mount:1 hammered:1 morning:1 late:1 seesaw:1 trading:2 broader:1 tumbles:1 prices:1 rally:1 stocks:1 energy:1 market:1
+stock_LLY r_up	case:1 $:1 focus:1 drug:1 70:1 than:1
+stock_LLY r_down	rally:1 market:1 stocks:1 broader:1 rocket:1
+stock_LLY r_up	mixed:1 stocks:1 tumble:1
+stock_LLY r_down	slide:1 stocks:1 day:1 after:1 election:1
+stock_LLY r_down	's:1
+stock_LLY r_up	's:2
+stock_LLY r_up	...:1
+stock_LLY r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_LLY r_up	1:1 's:2
+stock_LLY r_up	outlook:1 jobs:1 shares:1 earnings:1 biggest:1 net:1 gaining:1 's:1 loss:1 rise:1 but:1 post:1 stocks:2 declining:1 advance:1 2009:3 damped:1 costs:1 '09:1 2008:2 drops:1 spotlight:1 acquisition:1
+stock_LLY r_up	's:1
+stock_LLY r_down	's:2
+stock_LLY r_up	3:1
+stock_LLY r_down	2009:1
+stock_LLY r_up	1.4:2 billion:1 $:6 pay:1 suits:1 settle:1 claims:1 spotlight:1 jobless:1
+stock_LLY r_down	n't:2 's:1 2001:1 2011:1
+stock_LLY r_up	2.3:2 $:2
+stock_LLY r_up	profit:1 quarter:1 swings:1 fourth:1
+stock_LLY r_up	2:1 's:1
+stock_LLY r_down	loss:1 swings:1 $:3 point:1 charges:1 surprises:1 weaker:1 focus:3 start:1 advisories:1 earnings:1 400:1 stocks:1
+stock_LLY r_down	s:1 $:1 8217:1
+stock_LLY r_up	6,000:1
+stock_LLY r_up	active:1 feeling:1 's:1 v.:1 investors:1
+stock_LLY r_down	's:3
+stock_LLY r_down	$:1
+stock_LLY r_down	s:1 8217:1
+stock_LLY r_down	amp:1
+stock_LLY r_down	s:1 8217:1
+stock_LLY r_up	'':1 amp:1 ``:1
+stock_LLY r_down	5,000:1 $:1 focus:1 higher:1
+stock_LLY r_down	s:1 8217:1
+stock_LLY r_down	s:1 8217:1
+stock_LLY r_down	delay:1 retrench:1 stocks:1 drug:1 tumbles:1
+stock_LLY r_up	8217:1 falls:1 s:1 broader:1 rally:1 stocks:1 market:1
+stock_LLY r_down	2009:1 continue:1 '08:1 afternoon:1 fall:1 trading:1 stocks:1
+stock_LLY r_up	2008:1
+stock_LLY r_down	$:2 surges:1 drug:1 issuance:1 2008:1 bond:1
+stock_LLY r_up	$:1 47:1 broader:1 rally:1 stocks:1 market:1
+stock_LLY r_up	's:2
+stock_LLY r_up	sector:1 off:1 chief:1 remarks:1 plays:1 's:3 higher:1
+stock_LLY r_up	3:1 $:1 500:1
+stock_LLY r_up	8217:1 76:1 trading:1 mixed:1 stocks:1 midday:1
+stock_LLY r_down	's:1 4:2
+stock_LLY r_up	's:2 falls:1 gain:1 broader:1 amp:1 stocks:1 market:1
+stock_LLY r_up	rally:1 stocks:1 join:1 market:1 broader:1
+stock_LLY r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_LLY r_up	gaining:1 biotech:1 's:1 lead:1 shares:1 biggest:1 north:1 stocks:1 declining:1
+stock_LLY r_down	break:1 trend:1 downward:1 drugmakers:1
+stock_LLY r_up	sector:1 gaining:1 's:1 lead:1 drug:1 biggest:1 stocks:1 declining:1
+stock_LLY r_up	trend:1 buck:1 downward:1 's:1
+stock_LLY r_down	gaining:1 hurdles:1 's:1 drug:1 biggest:1 weigh:1 stocks:2 declining:1
+stock_LLY r_down	n't:1
+stock_LLY r_up	sales:1 focus:1 report:1 earnings:1 expected:1 higher:1
+stock_LLY r_down	run-up:1 lower:1 maintains:1 23:1 futures:1 revenue:1 profit:1 drop:1 into:1 rise:1 focus:1 negative:1 but:1 forecast:1 result:1 territory:1 net:1 stocks:1 flee:1 after:2 stock:1
+stock_LLY r_up	surprises:1 advisories:1
+stock_LLY r_up	8220:1 8221:1
+stock_LLY r_up	200:1
+stock_LLY r_down	rally:1 filing:1
+stock_LLY r_down	shown:1 's:1 gains:1 study:1 drug:1 better:1 mixed:1 stocks:1 than:1
+stock_LLY r_up	's:1
+stock_LLY r_up	's:1
+stock_LLY r_down	's:1
+stock_LLY r_down	's:1
+stock_LLY r_down	's:2
+stock_LLY r_down	's:2
+stock_LLY r_up	's:1
+stock_LLY r_down	leads:1 rally:1 stocks:1 drug:1
+stock_LLY r_down	n't:1
+stock_LLY r_up	800,000:1 's:1 $:1
+stock_LLY r_down	worries:1 lower:1
+stock_LLY r_down	's:1
+stock_LLY r_down	late:1 gain:1 trade:1
+stock_LLY r_down	's:1
+stock_LLY r_up	's:2
+stock_LLY r_down	's:2
+stock_LLY r_down	stocks:1 drug:1 lead:1 higher:1
+stock_LLY r_up	18:1
+stock_LLY r_up	18:1
+stock_LLY r_down	table:1 health-care:1 operating:1 stocks:1
+stock_LLY r_up	focus:1
+stock_LLY r_down	stock:1 2009:1 lower:1 after:1 north:1 21:1 lead:1 profit:1 futures:1 posts:1 results:1 drug:1 forecast:1 raises:1 stocks:1 bank:1 higher:1
+stock_LLY r_up	's:1 $:1
+stock_LLY r_up	slump:1 after:1 's:2 rejection:1 shares:1
+stock_LLY r_up	's:1
+stock_LLY r_down	2.3:1 3:1 2009:1 85:1
+stock_LLY r_down	's:1
+stock_LLY r_down	south:1 stocks:1 drug:1 lead:1
+stock_LLY r_down	eacute:1
+stock_LLY r_up	focus:1 if:1
+stock_LLY r_up	lead:1 drug:1 n't:1 -2:1 stocks:1 higher:1
+stock_LLY r_up	$:1
+stock_LLY r_up	70:1
+stock_LLY r_down	20:1 $:1
+stock_LLY r_down	n't:1
+stock_LLY r_down	medications:1 biologic:1 coming:1 versions:1
+stock_LLY r_up	advance:1 cut:1 pain:1 pharma:1 ahead:1 patent:1 big:1 losses:1 drug:1 20:1 slides:1 2:3 5,000:1 relief:1 5,500:2 jobs:1 found:1 setback:1 stocks:1 $:4
+stock_LLY r_down	surprises:1 advisories:1
+stock_LLY r_down	10:1 's:2 $:1
+stock_LLY r_down	wins:1 up:1 focus:1 bone-drug:1 dispute:1 rate:1 call:1 stocks:1 round:1 before:1
+stock_LLY r_down	's:1
+stock_LLY r_down	1:1
+stock_LLY r_up	surprises:1 advisories:1
+stock_LLY r_down	focus:1
+stock_LLY r_down	outlook:1 swings:1 's:1 profit:1 surprises:1 focus:1 forecast:1 slides:1 advisories:1 raises:1 plunges:1
+stock_LLY r_up	's:1
+stock_LLY r_down	's:1
+stock_LLY r_up	's:1
+stock_LLY r_down	second:1 stocks:1 gains:1 slip:1 day:1
+stock_LLY r_down	40,000:1
+stock_LLY r_up	's:1
+stock_LLY r_up	's:2 16,000:1
+stock_LLY r_up	6:1
+stock_LLY r_up	30:1
+stock_LLY r_up	follow:1 stocks:1 south:1 market:1 broader:1
+stock_LLY r_down	$:1
+stock_LLY r_up	2:1 's:1 $:1
+stock_LLY r_down	rattle:1 jitters:1 stocks:1 gains:1 drug:1
+stock_LLY r_up	5:1
+stock_LLY r_up	's:1
+stock_LLY r_up	's:1
+stock_LLY r_down	30,000:1 $:1
+stock_LLY r_down	stocks:1 can:1 bounce:1 2010:1
+stock_LLY r_down	gaining:1 's:1 surprises:1 forecast:1 falls:1 advisories:1 biggest:1 climb:1 stocks:2 2010:2 declining:1
+stock_LLY r_down	'':1 n't:1 ``:1
+stock_LLY r_up	climb:1 stocks:1 5:1 deal:1 soars:1
+stock_LLY r_down	surprises:1 advisories:1
+stock_LLY r_down	's:1
+stock_LLY r_up	's:1
+stock_LLY r_down	94:1
+stock_LLY r_up	25:1 26:1 2009:2 2008:2
+stock_LLY r_down	sector:1 health-care:1 's:1 election:1 boosts:1
+stock_LLY r_down	drop:1 stocks:1 market:1 broader:1
+stock_LLY r_up	clears:1 diabetes:1 's:2 drug:1 rallies:1
+stock_LLY r_up	nod:1 drugmakers:1 gain:1
+stock_LLY r_down	hit:1 's:3 14:1 profit:1 after:1 back:1 drug:1 focus:1 leads:1 8,000:1 year:1 last:1 2008:1 stocks:1 south:1
+stock_LLY r_down	surprises:1 advisories:1
+stock_LLY r_up	'08:2 2009:2 's:3
+stock_LLY r_up	pact:1 $:1 drug:1 bln:1 ink:1 1.25:1
+stock_LLY r_down	$:1
+stock_LLY r_up	's:3
+stock_LLY r_down	``:1 's:1 fix:1 sale:1 aims:1 '':1
+stock_LLY r_up	offers:1 advice:1 performer:1 free:1
+stock_LLY r_up	'trash:1 after:1 futures:1 focus:1 rally:1 stock:1 weaken:1
+stock_LLY r_up	$:1 make:1 rise:1 helped:1 stocks:1 late-day:1
+stock_LLY r_up	focus:1
+stock_LLY r_up	vote:1 insurers:1 gain:1 after:1 fall:1
+stock_LLY r_down	's:1
+stock_LLY r_up	$:1 35:1
+stock_LLY r_down	short:1 0.3:1 high:1 all-time:1 close:1 stocks:1
+stock_LLY r_up	2009:1 $:1
+stock_LLY r_up	drop:1 trading:1 profit:1 surprises:1 fears:1 advisories:1 5:6 fade:1 boost:1 stock:1 slips:1 's:2 reverberates:1 get:1 jumps:1 stocks:1 bank:1 futures:1 costs:1 afternoon:1 -2:1 weigh:1 drops:1 spotlight:1
+stock_LLY r_down	49:1 drugs:1 up:1 29:2 profit:1 push:1 new:1
+stock_LLY r_down	n't:1
+stock_LLY r_down	juice:1 dividend:1 returns:1 best:1 strategies:1
+stock_LLY r_up	2009:1
+stock_LLY r_down	rebounds:1 rallies:1
+stock_LLY r_down	're:1
+stock_LLY r_down	n't:1
+stock_LLY r_up	amid:1 star:1 stodgy:1 pharmaceuticals:1
+stock_LLY r_down	's:1
+stock_LLY r_down	$:1
+stock_LLY r_down	's:1 $:1
+stock_LLY r_down	's:1
+stock_LLY r_down	's:1
+stock_LLY r_down	2:1 5:1
+stock_LLY r_down	's:1
+stock_LLY r_up	5:1
+stock_LLY r_up	's:1
+stock_LLY r_down	's:2
+stock_LLY r_up	studies:1 gain:1 diabetes:1
+stock_LLY r_up	's:1
+stock_LLY r_down	's:1
+stock_LLY r_up	16:1 earnings:1 trading:1 afternoon:1 rally:1 latest:1 data:1 gain:1
+stock_LLY r_up	25:2 outlook:1 5.7:1 16:4 posts:1 lifts:1 growth:1 net:1 2010:3
+stock_LLY r_up	's:1
+stock_LLY r_up	fells:1 's:1 latest:1 show:1
+stock_LLY r_down	case:1 lowers:1 outlook:1 patent:1 sales:1 loses:1
+stock_LLY r_down	late:1 surprises:1 after:1 up:1 trade:1 down:1 slide:1 advisories:1 3.3:1 rallies:1 buyout:1 ruling:1
+stock_LLY r_down	's:3 spotlight:1
+stock_LLY r_up	slide:1 rise:1 's:1 indexes:1
+stock_LLY r_down	dividend-paying:1 's:1 consider:1 stocks:1 roster:1
+stock_LLY r_up	's:1
+stock_LLY r_up	selling:1 's:2 shoes:1 mission:1 goes:1 grand:1 beyond:1
+stock_LLY r_down	10:1
+stock_LLY r_up	2014:1
+stock_LLY r_down	2:1 500:1 hostile:1 goes:1 pursuit:1
+stock_LLY r_up	20:1
+stock_LLY r_down	sector:1 4.7:1 lead:1 drug:1 downward:1 makers:1
+stock_LLY r_down	biggest:1 gaining:1 stocks:1 focus:1 declining:1
+stock_LLY r_down	38:4 's:4 optimism:1 38.60:1 diabetes:1 profit:1 tepid:1 decision:1 futures:1 but:1 sales:1 reports:1 makers:1 moves:1 earnings:1 '09:1 gain:1 2009:3 drug:1 higher:1
+stock_LLY r_down	surprises:1 advisories:1 's:1
+stock_LLY r_down	's:1
+stock_LLY r_up	2011:1
+stock_LLY r_down	n't:1
+stock_LLY r_up	's:1
+stock_LLY r_up	300:1 's:1 $:1
+stock_LLY r_up	speculation:1 back:1 deal-making:1
+stock_LLY r_down	's:1
+stock_LLY r_down	slips:1 patent:1 ease:1 stocks:1 ruling:1
+stock_LLY r_down	's:1
+stock_LLY r_down	n't:1 's:1
+stock_LLY r_down	9:1 's:1
+stock_LLY r_up	2008:1 2009:1 2010:1
+stock_LLY r_down	10:1 's:1 expert:1 picks:1 n't:1 2011:1 stock:1
+stock_LLY r_down	80:1 $:1
+stock_LLY r_up	1:1 2008:1
+stock_LLY r_up	n't:1 's:1
+stock_LLY r_down	n't:1 's:1 2010:1
+stock_LLY r_up	good:1 's:1 get:1 companies:1 start:1 say:1 talks:1
+stock_LLY r_down	's:1
+stock_LLY r_down	's:1
+stock_LLY r_up	watch:1
+stock_LLY r_up	jump:1 jobless:1 profit:1 futures:1 28:4 reports:1 down:1 edge:1 12000:1 claims:1 2011:1 higher:1
+stock_LLY r_down	12000:1 jump:1 second:1 hurdle:1 refuses:1 day:1
+stock_LLY r_down	's:1
+stock_LLY r_up	's:1
+stock_LLY r_down	2012:1
+stock_LLY r_up	's:1
+stock_LLY r_up	gaining:1 191.40:1 stocks:1 's:2 months:1 three:1 competitive:1 crushed:1 102:1 concerns:1 declining:1 biggest:1 has:1 day:1 best:1
+stock_LLY r_down	cells:1 live:1 other:1 diseases:1 diabetes:1
+stock_LLY r_up	's:1
+stock_LLY r_down	'd:1
+stock_LLY r_up	gains:1 watch:1 trading:1 afternoon:1 rallies:1 biggest:1 advancers:1 decliners:1
+stock_LLY r_down	drop:1 's:2 140:1 futures:1 watch:2 but:1 15:1 beats:1 earnings:1 weigh:1 spotlight:1 stock:1
+stock_LLY r_up	slips:1 's:1 soars:1 surprises:1 advisories:1 afternoon:1 action:1
+stock_LLY r_up	's:2
+stock_LLY r_up	rise:1 stocks:1 's:1 $:1 21.3:1
+stock_LLY r_down	11:1 's:1 2010:1
+stock_LLY r_up	4:1
+stock_LLY r_up	16:1
+stock_LLY r_up	7:1
+stock_LLY r_up	sector:1 flat:1 lower:1 trades:1 soars:1
+stock_LLY r_down	off:1 meds:1 goes:1 its:1 market:1 if:1
+stock_LLY r_down	's:2
+stock_LLY r_down	13,000:1 's:2
+stock_LLY r_up	's:1
+stock_LLY r_up	watch:2
+stock_LLY r_up	beat:1 dividends:1 over:1 top:1 bonds:1
+stock_LLY r_up	n't:1
+stock_LLY r_up	n't:1
+stock_LLY r_down	56:1 's:2 $:1
+stock_LLY r_up	gains:1 point:1 surprises:1 edges:1 futures:1 focus:1 drug:1 advisories:1 stock:1 claims:1 climb:1 stocks:1 end-of-quarter:1 higher:1
+stock_LLY r_up	's:1
+stock_LLY r_up	n't:1 's:2
+stock_LLY r_down	shine:1 after:1 jobs:1 drug-stocks:1 futures:1 weak:1 trading:1 sink:1 report:1
+stock_LLY r_down	's:1 2012:1
+stock_LLY r_down	's:2
+stock_LLY r_up	n't:1 's:2
+stock_LLY r_down	's:3
+stock_LLY r_up	11:4 's:1 $:1 29:1
+stock_LLY r_down	surprises:1 advisories:1
+stock_LLY r_down	's:1 2011:1
+stock_LLY r_up	's:1
+stock_LLY r_down	's:1
+stock_LLY r_down	stocks:1 best:1
+stock_LLY r_down	down:1 storms:1 hatches:1 market:1
+stock_LLY r_up	25:1
+stock_LLY r_up	2:2 's:1
+stock_LLY r_up	pay:1 stocks:1 your:1 mortgage:1
+stock_LLY r_up	's:1
+stock_LLY r_down	s:1
+stock_LLY r_up	now:1 stocks:1 cheap:1
+stock_LLY r_up	yield-hunting:1 now:1 's:1 money:1 trader:1 5:1 making:1 moves:1
+stock_LLY r_down	's:1
+stock_LLY r_up	1.5:1 $:1
+stock_LLY r_down	5.1:1 point:1 surprises:1 futures:1 watch:1 advisories:1 cautiously:1 5:1 higher:1 stock:1
+stock_LLY r_down	's:1
+stock_LLY r_up	n't:2
+stock_LLY r_up	surprises:1 13:3 advisories:1
+stock_LLY r_up	surprises:1 advisories:1 $:1
+stock_LLY r_up	's:1
+stock_LLY r_down	's:1
+stock_LLY r_up	2012:1
+stock_LLY r_up	2012:1
+stock_LLY r_up	2012:1
+stock_LLY r_down	's:2
+stock_LLY r_down	you:1 buy:1 top:1 stocks:1 2012:1
+stock_LLY r_down	surprises:1 advisories:1 20:1 2012:1
+stock_LLY r_down	20:1 2012:1
+stock_LLY r_down	158:1 $:1
+stock_LLY r_down	's:1
+stock_LLY r_up	's:1
+stock_LLY r_up	point:1 futures:1 higher:1 stock:1
+stock_LLY r_up	surprises:1 advisories:1 's:2
+stock_LLY r_down	88:1 's:1
+stock_LLY r_down	's:1 500:1
+stock_LLY r_up	34:1
+stock_LLY r_up	watch:1
+stock_LLY r_down	rattled:1 getting:1
+stock_LLY r_up	run-up:1 ``:1 amid:1 '':1 caution:1 analysts:1 advise:1 stock:1

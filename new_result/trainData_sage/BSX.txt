@@ -1,0 +1,218 @@
+stock_BSX r_up	wins:1 products:1 three:1 approval:1
+stock_BSX r_down	2:1
+stock_BSX r_down	10:1 '06:1 '07:1 $:1
+stock_BSX r_up	's:1
+stock_BSX r_up	2:1 $:1 30:1
+stock_BSX r_up	's:1
+stock_BSX r_down	...:1
+stock_BSX r_down	expected:1 report:1 earnings:1 higher:1
+stock_BSX r_down	focus:1
+stock_BSX r_up	gaining:1 advance:1 27:1 's:1 help:1 exchange:1 sales:1 foreign:1 earnings:1 biggest:1 2008:1 stocks:1 $:1 declining:1 higher:1
+stock_BSX r_up	's:1 earnings:1 reports:1 higher:1
+stock_BSX r_down	gaining:1 's:3 focus:1 pressure:1 bounces:1 results:1 shares:2 up:1 quarterly:1 '08:1 under:1 biggest:1 wake:1 stocks:1 dip:1 declining:1
+stock_BSX r_down	n't:2
+stock_BSX r_up	1,100:1
+stock_BSX r_down	climbs:1 stent:1 study:1 2:1 slip:1 stocks:1
+stock_BSX r_up	profit:1 flat:1 $:2 reports:1 fourth-quarter:1
+stock_BSX r_down	...:1
+stock_BSX r_down	$:1
+stock_BSX r_up	2009:1 $:3
+stock_BSX r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_BSX r_up	's:1
+stock_BSX r_up	stent:2 dive:1 after:1 shares:1 approval:1 rises:1 approves:1
+stock_BSX r_down	's:1
+stock_BSX r_down	's:1 $:2
+stock_BSX r_up	11:2
+stock_BSX r_up	profit:2 dollar:1 sales:1 reports:1 34:1 climbs:1 low:1 spike:1 quarterly:1 medical-device:1
+stock_BSX r_down	surprises:1 advisories:1 focus:1
+stock_BSX r_down	15:2 34:1 '08:3 49:1
+stock_BSX r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_BSX r_down	$:1 10.7:1
+stock_BSX r_down	's:1
+stock_BSX r_down	's:1
+stock_BSX r_up	$:1 climbs:1 amid:1 n't:1 warning:1 letter:1 approval:1
+stock_BSX r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_BSX r_down	gaining:1 lower:1 continues:1 's:1 $:2 1.2:2 futures:1 focus:1 losing:1 bailout:1 biggest:1 amp:1 stocks:1 debate:1 stock:1
+stock_BSX r_down	hefty:1 charge:1 take:1 suit:1
+stock_BSX r_down	n't:1 '':1 ``:1
+stock_BSX r_up	bolster:1 rally:1 stocks:1 's:1 soars:1 ranks:1 big:1 30:2 list:1 sales:2 consumer-product:1 11.1:1 jump:1 rate:1 lift:1 back:1 claw:1 hit:1 should:1 fifth:1
+stock_BSX r_down	20:1 $:1 profit:1 51:1 posts:1 forecast:1 raises:1 '09:1 higher:1
+stock_BSX r_down	focus:1
+stock_BSX r_down	's:1 focus:1
+stock_BSX r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_BSX r_down	900,000:1
+stock_BSX r_up	14:1
+stock_BSX r_down	$:1
+stock_BSX r_down	1:1 amp:1 's:1 $:1
+stock_BSX r_up	10:1 's:1 $:1
+stock_BSX r_down	2.8:1 $:1
+stock_BSX r_up	profit:1 rise:1 27:1 posts:1
+stock_BSX r_up	12:1 2009:1 16:1
+stock_BSX r_up	2:2 focus:1
+stock_BSX r_up	2009:2 1/28:1
+stock_BSX r_up	'':1 amp:1 ``:1
+stock_BSX r_down	's:2
+stock_BSX r_up	s:1 8217:1
+stock_BSX r_up	amp:1
+stock_BSX r_down	$:1
+stock_BSX r_up	$:1
+stock_BSX r_down	break:1 trend:1 downward:1 drugmakers:1 amp:1
+stock_BSX r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_BSX r_down	giant:1 health-care:1 after:1 reaffirms:1 shares:1 forecast:1 climb:1
+stock_BSX r_down	focus:1
+stock_BSX r_down	focus:1
+stock_BSX r_down	off:1 surprises:1 shares:1 advisories:1 session:1 lows:1 climb:1 moves:1
+stock_BSX r_up	's:1
+stock_BSX r_up	's:1
+stock_BSX r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_BSX r_up	--:1
+stock_BSX r_down	1:1
+stock_BSX r_up	tumbles:1 5.2:1 stocks:1 higher:1 edge:1
+stock_BSX r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_BSX r_up	gaining:1 10:1 set:1 's:3 bullish:1 shares:1 early:1 pace:1 3.3:1 biggest:1 rally:1 stocks:1 declining:1
+stock_BSX r_up	profit:1 lower:1 posts:1
+stock_BSX r_up	2.6:1
+stock_BSX r_down	focus:1
+stock_BSX r_up	surprises:1 advisories:1 's:1 focus:1 61:2
+stock_BSX r_up	late:1 's:1 profit:1 up:1 shares:1 trade:1 down:1 61:1 rises:1
+stock_BSX r_down	14:1
+stock_BSX r_down	$:1
+stock_BSX r_up	$:1
+stock_BSX r_up	's:1
+stock_BSX r_up	3:2
+stock_BSX r_down	2:3
+stock_BSX r_down	$:1
+stock_BSX r_down	's:1 $:1
+stock_BSX r_down	's:2
+stock_BSX r_down	09:2 's:1 1.1:4 '09:2
+stock_BSX r_down	focus:1
+stock_BSX r_up	surprises:1 advisories:1 's:2
+stock_BSX r_down	200:1 plunge:1 $:1 tepid:1 jumps:1 focus:1 shares:2 above:1 report:1 climb:1
+stock_BSX r_down	biggest:1 gaining:1 stocks:1 's:3 declining:1
+stock_BSX r_up	's:2
+stock_BSX r_down	's:1 7:1
+stock_BSX r_up	$:1
+stock_BSX r_up	2.9:1 's:1 $:1
+stock_BSX r_down	2:1 $:1
+stock_BSX r_up	's:1 59:1
+stock_BSX r_down	stocks:1 can:1 bounce:1 2010:1
+stock_BSX r_up	's:1
+stock_BSX r_up	's:3
+stock_BSX r_up	$:1 -2:1
+stock_BSX r_down	2010:1
+stock_BSX r_up	's:2
+stock_BSX r_up	's:1 2010:1
+stock_BSX r_up	'09:1 22:1
+stock_BSX r_down	1.7:1 $:1 patent:1 pay:1 shares:1 bln:1 gain:1 stocks:1 retreat:1 dispute:1
+stock_BSX r_up	focus:1
+stock_BSX r_up	loss:1 narrows:1 focus:1
+stock_BSX r_down	after:1 's:1 gains:1 futures:1 focus:1 late:1 jobless:1 trading:1 fall:1 retain:1 data:1 stock:1
+stock_BSX r_down	gaining:1 advance:1 prospects:1 pound:1 's:2 surprises:1 rise:1 troubles:1 shares:1 n't:1 job:1 advisories:1 biggest:1 stocks:2 declining:1
+stock_BSX r_up	's:1
+stock_BSX r_down	19:1
+stock_BSX r_down	shipments:1 'trash:1 after:1 5th:1 futures:1 troubles:1 focus:2 shares:1 trade:1 weaken:1 halts:1 fall:1 rally:1 defibrillator:1 stock:1 gain:1
+stock_BSX r_up	focus:1 helped:1 3.5:1 7.5:1 makers:1 before:1 $:1 decision:1 make:1 rejects:1 rates:1 biggest:1 stock:1 gaining:1 's:1 bid:1 rise:1 inch:1 stick:1 device:1 stocks:3 downgraded:1 declining:1 billion:1 futures:1 up:2 swing:1 late-day:1 gain:1
+stock_BSX r_up	's:1
+stock_BSX r_down	n't:1 10:1 's:1
+stock_BSX r_up	n't:1
+stock_BSX r_down	2009:1 $:1
+stock_BSX r_down	's:1
+stock_BSX r_down	11000:1
+stock_BSX r_down	bullish:1 focus:1 bull:1 still:1 called:1 market:1
+stock_BSX r_up	after:2 reports:2 falls:2 defibrillators:1 tumbles:2 clears:1 -2:1
+stock_BSX r_down	device:1 stoke:1 sales:1 29:2 earnings:1
+stock_BSX r_down	down:1 moves:1 day:1 ahead:1 2010:1
+stock_BSX r_up	19:1 2010:1
+stock_BSX r_down	loss:1 gains:1 extend:1 futures:1 results:1 write-down:1 records:1
+stock_BSX r_up	losses:1 $:4 extend:1 surprises:1 futures:1 focus:1 shares:1 results:1 n't:1 rise:1 advisories:1 cuts:1 view:1 data:1 2010:1 after:2 home-price:1
+stock_BSX r_down	surprises:1 advisories:1
+stock_BSX r_down	jump:1 ratings:1 upgrade:1 shares:1
+stock_BSX r_up	climb:1 upgrade:1 shares:1
+stock_BSX r_down	's:2
+stock_BSX r_down	2009:1 's:1
+stock_BSX r_down	73:1
+stock_BSX r_up	$:1
+stock_BSX r_up	rally:1 fizzles:1 health-care:1 gains:1 but:1
+stock_BSX r_up	's:1
+stock_BSX r_down	$:3
+stock_BSX r_up	late:1 surprises:1 shares:1 trade:1 down:1 advisories:1 higher:1
+stock_BSX r_down	surprises:1 advisories:1
+stock_BSX r_down	drag:1 health-care:1 lower:1 stocks:1
+stock_BSX r_up	38:1
+stock_BSX r_down	2006:1
+stock_BSX r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_BSX r_down	down:1 sector:1 drag:1 woes:1
+stock_BSX r_up	sharp:1 post:1 pharma:1 distributors:1 gains:1
+stock_BSX r_down	biggest:1 gaining:1 stocks:1 declining:1
+stock_BSX r_down	$:1
+stock_BSX r_down	focus:1
+stock_BSX r_up	gaining:1 25:1 moves:1 gains:1 sector:1 up:1 shares:1 trade:1 slides:1 while:1 2010:1 late:1 biggest:1 stocks:1 stumble:1 declining:1
+stock_BSX r_up	$:2 2012:1
+stock_BSX r_down	10:1 still:1 's:1 bullish:1 but:1
+stock_BSX r_up	$:1
+stock_BSX r_down	800:1 $:1
+stock_BSX r_up	's:2 $:1
+stock_BSX r_up	executive:1 stock:1 shakeup:1 costs:1
+stock_BSX r_up	20:1 $:1
+stock_BSX r_up	$:1
+stock_BSX r_up	$:1
+stock_BSX r_down	n't:1
+stock_BSX r_up	n't:1 $:1 22:1
+stock_BSX r_up	$:1
+stock_BSX r_up	8.9:1
+stock_BSX r_down	n't:1 surprises:1 advisories:1 $:1 482:1
+stock_BSX r_down	$:1 482:1
+stock_BSX r_down	advisories:1 2:1 surprises:1
+stock_BSX r_up	news:1 earnings:1 tumble:1
+stock_BSX r_up	2:1 -2:1
+stock_BSX r_up	's:1
+stock_BSX r_down	upgrade:1 gainers:1 shares:1 jump:1 biggest:1 decliners:1
+stock_BSX r_down	n't:1
+stock_BSX r_up	device:1 recalls:1 stocks:1 weather:1 warnings:1
+stock_BSX r_down	still:1 dip:1 shares:1 but:1 upgrades:1
+stock_BSX r_down	note:1 praising:1 surges:1 device:1
+stock_BSX r_up	advisories:1 'd:1 surprises:1
+stock_BSX r_down	n't:1
+stock_BSX r_up	's:1 watch:1
+stock_BSX r_up	watch:2
+stock_BSX r_up	's:1
+stock_BSX r_up	canceled:1 trades:1 ‘erroneous’:1 after-hours:1
+stock_BSX r_down	investors:1 trading:1 worry:1 snafu:1 should:1
+stock_BSX r_down	gaining:1 drops:1 's:2 retirement:1 biggest:1 stocks:1 declining:1
+stock_BSX r_up	19.5:2 's:3 $:3
+stock_BSX r_up	19:6 's:1
+stock_BSX r_up	19:1
+stock_BSX r_up	's:2
+stock_BSX r_up	38:1
+stock_BSX r_up	's:2 crowd:1 stent:1 jolts:1 up:1 exit:1 cardio:1
+stock_BSX r_down	biotech:1 stocks:1 energizes:1
+stock_BSX r_up	's:1
+stock_BSX r_down	5.2:2
+stock_BSX r_down	150:1 $:2
+stock_BSX r_up	biggest:1 gaining:1 stocks:1 declining:1 49:2
+stock_BSX r_down	49:1 profit:1 surprises:1 lift:1 shares:1 advisories:1 buyback:1
+stock_BSX r_up	114,000:1 says:1 jobs:1 up:1
+stock_BSX r_up	watch:1 's:3
+stock_BSX r_up	6:2
+stock_BSX r_down	's:1
+stock_BSX r_down	900,000:1 $:2
+stock_BSX r_down	900,000:1 $:2 feel:1 pinch:1 stronger:1 plan:1
+stock_BSX r_down	one:1 well:1 dug:1 bull:1 still:1 bulls:1
+stock_BSX r_up	's:2 $:2
+stock_BSX r_down	8.7:1
+stock_BSX r_down	25:2 weaker:1 hit:1 surprises:1 watch:1 sales:1 advisories:1 device:1 makers:1
+stock_BSX r_down	3.5:1 's:1 $:1
+stock_BSX r_up	's:1
+stock_BSX r_up	54:2
+stock_BSX r_up	into:1
+stock_BSX r_down	leads:1 rally:1 health-care:1
+stock_BSX r_up	tops:1
+stock_BSX r_up	500:1
+stock_BSX r_up	's:1
+stock_BSX r_down	confound:1 hit:1 miss:1 shares:1
+stock_BSX r_up	's:1
+stock_BSX r_up	jobs:1 tepidly:1 ahead:1 up:1 report:1 stocks:1
+stock_BSX r_up	's:1
+stock_BSX r_up	watch:1
+stock_BSX r_up	watch:1 's:1
+stock_BSX r_up	device:1 merger:1 boom:1 here:1 analyst:1

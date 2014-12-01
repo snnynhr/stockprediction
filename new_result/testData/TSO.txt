@@ -1,0 +1,307 @@
+TSO	20120402	26.48	26.44	r_down	
+TSO	20120403	26.44	25.75	r_down	
+TSO	20120404	25.75	25.65	r_down	
+TSO	20120405	25.65	25.03	r_down	
+TSO	20120409	25.03	24.91	r_down	
+TSO	20120410	24.91	23.95	r_down	
+TSO	20120411	23.95	23.59	r_down	slide:1 stocks:1 led:1
+TSO	20120412	23.59	24.22	r_up	
+TSO	20120413	24.22	23.32	r_down	
+TSO	20120416	23.32	22.24	r_down	
+TSO	20120417	22.24	22.61	r_up	
+TSO	20120418	22.61	22.59	r_down	
+TSO	20120419	22.59	22.79	r_up	
+TSO	20120420	22.79	22.63	r_down	
+TSO	20120423	22.63	22.76	r_up	
+TSO	20120424	22.76	22.81	r_up	
+TSO	20120425	22.81	22.96	r_up	
+TSO	20120426	22.96	23.16	r_up	
+TSO	20120427	23.16	23.25	r_up	
+TSO	20120430	23.25	22.93	r_down	
+TSO	20120501	22.93	22.92	r_down	
+TSO	20120502	22.92	22.59	r_down	
+TSO	20120503	22.59	22.05	r_down	n't:1
+TSO	20120504	22.05	21.69	r_down	
+TSO	20120507	21.69	21.44	r_down	's:1
+TSO	20120508	21.44	21.26	r_down	
+TSO	20120509	21.26	21.95	r_up	
+TSO	20120510	21.95	22.62	r_up	
+TSO	20120511	22.62	22.15	r_down	
+TSO	20120514	22.15	22.06	r_down	
+TSO	20120515	22.06	21.51	r_down	way:1
+TSO	20120516	21.51	21.8	r_up	
+TSO	20120517	21.8	22.11	r_up	energy:1 lack:1 pep:1 66:1 fall:1 stocks:1
+TSO	20120518	22.11	21.84	r_down	
+TSO	20120521	21.84	22.93	r_up	
+TSO	20120522	22.93	22.61	r_down	
+TSO	20120523	22.61	23.11	r_up	
+TSO	20120524	23.11	22.88	r_down	
+TSO	20120525	22.88	23.44	r_up	
+TSO	20120529	23.44	23.59	r_up	
+TSO	20120530	23.59	22.89	r_down	
+TSO	20120531	22.89	21.82	r_down	add:1 stocks:1 energy:1 red:1
+TSO	20120601	21.82	22.18	r_up	66:1
+TSO	20120604	22.18	21.87	r_down	
+TSO	20120605	21.87	22.09	r_up	66:1
+TSO	20120606	22.09	22.28	r_up	's:1
+TSO	20120607	22.28	22.25	r_down	's:1
+TSO	20120608	22.25	22.12	r_down	
+TSO	20120611	22.12	21.7	r_down	's:1
+TSO	20120612	21.7	22.61	r_up	
+TSO	20120613	22.61	21.98	r_down	
+TSO	20120614	21.98	21.66	r_down	
+TSO	20120615	21.66	22.49	r_up	
+TSO	20120618	22.49	21.98	r_down	
+TSO	20120619	21.98	23.32	r_up	sector:1 energy:1 boost:1
+TSO	20120620	23.32	23.6	r_up	
+TSO	20120621	23.6	23.09	r_down	
+TSO	20120622	23.09	23.98	r_up	
+TSO	20120625	23.98	23.53	r_down	
+TSO	20120626	23.53	23.8	r_up	4:1
+TSO	20120627	23.8	24.27	r_up	
+TSO	20120628	24.27	24.72	r_up	
+TSO	20120629	24.72	24.62	r_down	
+TSO	20120702	24.62	25.13	r_up	
+TSO	20120703	25.13	25.9	r_up	
+TSO	20120705	25.9	25.56	r_down	
+TSO	20120706	25.56	25.56	r_up	
+TSO	20120709	25.56	25.05	r_down	
+TSO	20120710	25.05	25.34	r_up	
+TSO	20120711	25.34	26.02	r_up	
+TSO	20120712	26.02	26.46	r_up	
+TSO	20120713	26.46	26.95	r_up	
+TSO	20120716	26.95	27.2	r_up	
+TSO	20120717	27.2	27.04	r_down	
+TSO	20120718	27.04	27.61	r_up	
+TSO	20120719	27.61	26.75	r_down	
+TSO	20120720	26.75	27.06	r_up	66:1
+TSO	20120723	27.06	27.01	r_down	24:1 's:1
+TSO	20120724	27.01	25.97	r_down	ban:1 energy:1 stocks:1 hit:1 clobbered:1
+TSO	20120725	25.97	26.09	r_up	66:1
+TSO	20120726	26.09	26.74	r_up	refinery:1 's:1
+TSO	20120727	26.74	27.52	r_up	
+TSO	20120730	27.52	27.32	r_down	
+TSO	20120731	27.32	27.27	r_down	12:2 2nd:2
+TSO	20120801	27.27	27.43	r_up	watch:1
+TSO	20120802	27.43	31.36	r_up	sector:1 gaining:1 energy:1 weak:1 bolt:1 biggest:1 stocks:1 declining:1 78:1
+TSO	20120803	31.36	31.36	r_up	
+TSO	20120806	31.36	32.32	r_up	
+TSO	20120807	32.32	33.94	r_up	energy:1 gains:1 lead:1 stock:1
+TSO	20120808	33.94	34.42	r_up	energy:1 lift:1 stocks:1
+TSO	20120809	34.42	34.84	r_up	
+TSO	20120810	34.84	35.02	r_up	
+TSO	20120813	35.02	38.34	r_up	loss:1 end:1 gains:1 deal:1 slight:1 profit:1 energy:1 drop:1 n't:1 healthier:1 tech:1 demand:1 fuel:1 sees:1 stocks:2 's:4 ups:1 2.5:2 $:3
+TSO	20120814	38.34	38.07	r_down	's:2 $:1 2.5:1
+TSO	20120815	38.07	37.89	r_down	end:1 gains:1 flat-to-lower:1 energy:1 holds:1 stocks:1
+TSO	20120816	37.89	38.17	r_up	
+TSO	20120817	38.17	38.85	r_up	
+TSO	20120820	38.85	39.01	r_up	
+TSO	20120821	39.01	38.51	r_down	
+TSO	20120822	38.51	38.39	r_down	n't:1
+TSO	20120823	38.39	38.09	r_down	66:1
+TSO	20120824	38.09	38.91	r_up	
+TSO	20120827	38.91	38.74	r_down	
+TSO	20120828	38.74	39.02	r_up	
+TSO	20120829	39.02	38.86	r_down	
+TSO	20120830	38.86	38.97	r_up	
+TSO	20120831	38.97	39.32	r_up	
+TSO	20120904	39.32	38.89	r_down	
+TSO	20120905	38.89	38.68	r_down	
+TSO	20120906	38.68	39.14	r_up	66:1
+TSO	20120907	39.14	39.72	r_up	
+TSO	20120910	39.72	39.68	r_down	560:2 5.55:3 $:5
+TSO	20120911	39.68	39.88	r_up	
+TSO	20120912	39.88	39.91	r_up	
+TSO	20120913	39.91	39.98	r_up	$:1 925:1
+TSO	20120914	39.98	40.42	r_up	
+TSO	20120917	40.42	40.13	r_down	
+TSO	20120918	40.13	40.31	r_up	
+TSO	20120919	40.31	40.29	r_down	
+TSO	20120920	40.29	41.17	r_up	energy:1 stocks:1 up:1 deal:1 rise:1
+TSO	20120921	41.17	40.76	r_down	
+TSO	20120924	40.76	41.27	r_up	
+TSO	20120925	41.27	40.62	r_down	
+TSO	20120926	40.62	40.26	r_down	
+TSO	20120927	40.26	41.44	r_up	
+TSO	20120928	41.44	41.46	r_up	
+TSO	20121001	41.46	42.54	r_up	
+TSO	20121002	42.54	42.62	r_up	3.8:1
+TSO	20121003	42.62	42.1	r_down	
+TSO	20121004	42.1	43.68	r_up	
+TSO	20121005	43.68	42.78	r_down	
+TSO	20121008	42.78	41.46	r_down	's:1 price:1 rallies:1 gas:1 refinery:1 spread:1 spike:1 buyout:1 won’t:1
+TSO	20121009	41.46	40.56	r_down	
+TSO	20121010	40.56	38.29	r_down	down:1 drag:1 stocks:1 500:1
+TSO	20121011	38.29	38.18	r_down	biggest:1 gaining:1 stocks:1 declining:1
+TSO	20121012	38.18	37.88	r_down	
+TSO	20121015	37.88	37.64	r_down	sector:1 off:1 lags:1
+TSO	20121016	37.64	38.17	r_up	
+TSO	20121017	38.17	38.21	r_up	
+TSO	20121018	38.21	38.16	r_down	
+TSO	20121019	38.16	37.76	r_down	lower:1 stocks:1 off:1 4:1
+TSO	20121022	37.76	37.72	r_down	lower:1 stocks:1 tops:1 500:1
+TSO	20121023	37.72	36.03	r_down	decline:1 top:1 stocks:1 losers:1
+TSO	20121024	36.03	36.82	r_up	among:1 top:1 gainers:1 up:1 4.2:1
+TSO	20121025	36.82	36.98	r_up	
+TSO	20121026	36.98	37.94	r_up	
+TSO	20121031	37.94	37.31	r_down	
+TSO	20121101	37.31	35.8	r_down	21:2
+TSO	20121102	35.8	35.08	r_down	
+TSO	20121105	35.08	36.54	r_up	
+TSO	20121106	36.54	38.57	r_up	top:1 stocks:1 gainers:1 energy:1 66:1
+TSO	20121107	38.57	37.59	r_down	trounced:1 top:1 miners:1 coal:1 losers:1 stocks:1
+TSO	20121108	37.59	36.97	r_down	
+TSO	20121109	36.97	37.19	r_up	
+TSO	20121112	37.19	37.81	r_up	
+TSO	20121113	37.81	37.19	r_down	
+TSO	20121114	37.19	37.22	r_up	
+TSO	20121115	37.22	37.97	r_up	
+TSO	20121116	37.97	37.67	r_down	track:1 turn:1 broader:1 stocks:1 markets:1 higher:1
+TSO	20121119	37.67	39.51	r_up	advance:1 gainers:1 among:1 top:1 's:2 stocks:1
+TSO	20121120	39.51	39.66	r_up	lower:1 stocks:1 ups:1 stake:1
+TSO	20121121	39.66	40.71	r_up	
+TSO	20121123	40.71	41.48	r_up	market:1 stocks:1 gain:1 broader:1 tracking:1
+TSO	20121126	41.48	41.02	r_down	
+TSO	20121127	41.02	41.06	r_up	
+TSO	20121128	41.06	41.35	r_up	
+TSO	20121129	41.35	41.28	r_down	turns:1 lower:1 stocks:1 up:1 edge:1
+TSO	20121130	41.28	41.98	r_up	rig:1 stocks:1 order:1 cancels:1 higher:1
+TSO	20121203	41.98	41.1	r_down	
+TSO	20121204	41.1	40.51	r_down	
+TSO	20121205	40.51	38.66	r_down	deals:1 sector:1 energy:1 boost:1
+TSO	20121206	38.66	38.59	r_down	
+TSO	20121207	38.59	39.37	r_up	
+TSO	20121210	39.37	40.59	r_up	
+TSO	20121211	40.59	40.57	r_down	
+TSO	20121212	40.57	39.71	r_down	's:2 $:2 400:2
+TSO	20121213	39.71	41.07	r_up	leads:1 lower:1 stocks:1 decliners:1 66:1
+TSO	20121214	41.07	43.35	r_up	movers:1 big:1 week:1 down:1 4.4:1
+TSO	20121217	43.35	44.38	r_up	
+TSO	20121218	44.38	44.42	r_up	1:1 rise:1 stocks:1 up:1 nearly:1
+TSO	20121219	44.42	43.64	r_down	
+TSO	20121220	43.64	44.05	r_up	
+TSO	20121221	44.05	43.38	r_down	
+TSO	20121224	43.38	43.09	r_down	cheer:1 holiday:1 energy:1 stocks:1
+TSO	20121226	43.09	43.04	r_down	
+TSO	20121227	43.04	43.21	r_up	lower:1 stocks:1 gas:1 finds:1 sites:1
+TSO	20121228	43.21	42.45	r_down	
+TSO	20121231	42.45	43.74	r_up	
+TSO	20130102	43.74	45.08	r_up	
+TSO	20130103	45.08	43.42	r_down	
+TSO	20130104	43.42	42.24	r_down	
+TSO	20130107	42.24	39.94	r_down	
+TSO	20130108	39.94	41.11	r_up	hit:1 lag:1 worst:1 66:1 refiners:1 stocks:1
+TSO	20130109	41.11	40.19	r_down	extend:1 third:1 into:1 losses:1 stocks:1 day:1
+TSO	20130110	40.19	42.55	r_up	movers:1 fails:1 sway:1
+TSO	20130111	42.55	41.88	r_down	
+TSO	20130114	41.88	42.32	r_up	
+TSO	20130115	42.32	43.1	r_up	
+TSO	20130116	43.1	43.39	r_up	
+TSO	20130117	43.39	43.37	r_down	
+TSO	20130118	43.37	42.19	r_down	
+TSO	20130122	42.19	42.72	r_up	
+TSO	20130123	42.72	44.15	r_up	
+TSO	20130124	44.15	44.3	r_up	
+TSO	20130125	44.3	44.27	r_down	stocks:1 results:1 gain:1 rallies:1
+TSO	20130128	44.27	45.51	r_up	
+TSO	20130129	45.51	47.71	r_up	flight:1 second:1 continue:1 gain:1 benchmarks:1 rallies:1 stocks:1 day:1 take:1
+TSO	20130130	47.71	47.75	r_up	
+TSO	20130131	47.75	48.35	r_up	
+TSO	20130201	48.35	49.02	r_up	
+TSO	20130204	49.02	48.47	r_down	
+TSO	20130205	48.47	49.88	r_up	
+TSO	20130206	49.88	50.8	r_up	leads:1 energy:1 stocks:1 lower:1
+TSO	20130207	50.8	52.18	r_up	among:1 energy:1 stocks:1 gainers:1 few:1
+TSO	20130208	52.18	53.48	r_up	
+TSO	20130211	53.48	54.17	r_up	
+TSO	20130212	54.17	53.12	r_down	hold:1 gains:1 fall:1 refiners:1 stocks:1 recent:1
+TSO	20130213	53.12	53.69	r_up	
+TSO	20130214	53.69	54.79	r_up	
+TSO	20130215	54.79	54.26	r_down	
+TSO	20130219	54.26	54.74	r_up	
+TSO	20130220	54.74	51.66	r_down	
+TSO	20130221	51.66	52.91	r_up	movers:1 after:1 call:1 slumps:1
+TSO	20130222	52.91	54.22	r_up	
+TSO	20130225	54.22	52.44	r_down	
+TSO	20130226	52.44	54.12	r_up	
+TSO	20130227	54.12	55.37	r_up	recoups:1 stocks:1 gain:1 losses:1
+TSO	20130228	55.37	56.06	r_up	
+TSO	20130301	56.06	58.1	r_up	hinge:1 margins:1 more:1 gains:1 surge:1
+TSO	20130304	58.1	58.78	r_up	
+TSO	20130305	58.78	58.11	r_down	
+TSO	20130306	58.11	57.51	r_down	
+TSO	20130307	57.51	57.56	r_up	
+TSO	20130308	57.56	58.21	r_up	
+TSO	20130311	58.21	57.31	r_down	lag:1 up:1 but:1 broader:1 inch:1 stocks:1 market:1
+TSO	20130312	57.31	57.6	r_up	
+TSO	20130313	57.6	55.82	r_down	down:1 drag:1 stocks:1 energy:1
+TSO	20130314	55.82	56.77	r_up	
+TSO	20130315	56.77	56.32	r_down	
+TSO	20130318	56.32	56.68	r_up	
+TSO	20130319	56.68	56.65	r_down	
+TSO	20130320	56.65	58.69	r_up	66:2
+TSO	20130321	58.69	57.81	r_down	
+TSO	20130322	57.81	58.68	r_up	
+TSO	20130325	58.68	57.66	r_down	
+TSO	20130326	57.66	58.31	r_up	trend:1 crude-by-rail:1 play:1 stocks:1 21:1
+TSO	20130327	58.31	57.77	r_down	
+TSO	20130328	57.77	58.36	r_up	
+TSO	20130401	58.36	56.67	r_down	sector:1 energy:1 drops:1 gains:1 broader:1
+TSO	20130402	56.67	54.84	r_down	leads:1 stocks:1 retreat:1 fall:1
+TSO	20130403	54.84	52.09	r_down	
+TSO	20130404	52.09	52.81	r_up	flogged:1 tank:1 movers:1 losses:1 some:1 second:1 recoup:1 fall:1 refiners:2 stocks:2 day:1 rumor:1 higher:1
+TSO	20130405	52.81	53.07	r_up	
+TSO	20130408	53.07	53.64	r_up	
+TSO	20130409	53.64	53.88	r_up	
+TSO	20130410	53.88	53.77	r_down	
+TSO	20130411	53.77	51.92	r_down	stocks:1 gain:1 lags:1
+TSO	20130412	51.92	51.29	r_down	
+TSO	20130415	51.29	48.21	r_down	
+TSO	20130416	48.21	50.76	r_up	movers:1 losing:1 snaps:1 streak:1 3-day:1
+TSO	20130417	50.76	48.98	r_down	
+TSO	20130418	48.98	49.45	r_up	biggest:1 among:1 decliners:1 stocks:1 500:1
+TSO	20130419	49.45	50.51	r_up	stocks:1 gains:1 back:1 lag:1 gives:1
+TSO	20130422	50.51	51.38	r_up	rise:1 stocks:1 top:1 gainer:1
+TSO	20130423	51.38	53.65	r_up	refiners:1 stocks:1 gain:1 lead:1 take:1
+TSO	20130424	53.65	55.02	r_up	
+TSO	20130425	55.02	54.38	r_down	
+TSO	20130426	54.38	53.67	r_down	
+TSO	20130429	53.67	53.69	r_up	new:1 welcome:1 government:1
+TSO	20130430	53.69	53.23	r_down	
+TSO	20130501	53.23	50.71	r_down	decline:1 tracking:1 drop:1 gain:1 broader:1 stocks:2 market:1
+TSO	20130502	50.71	53.72	r_up	movers:1 tweets:1 up:1
+TSO	20130503	53.72	55.29	r_up	following:1 earnings:1 stocks:1 up:1 gains:1
+TSO	20130506	55.29	57.55	r_up	
+TSO	20130507	57.55	57.85	r_up	movers:1 closes:1 $:1 above:1 460:1
+TSO	20130508	57.85	57.2	r_down	
+TSO	20130509	57.2	55.88	r_down	
+TSO	20130510	55.88	54.23	r_down	week:1 set:1 third:1 rise:1 records:1 stocks:1
+TSO	20130513	54.23	55.1	r_up	hit:1 miners:1 coal:1 worst:1 fall:1 stocks:1
+TSO	20130514	55.1	56.53	r_up	
+TSO	20130515	56.53	57.96	r_up	sector:1 decliner:1 stocks:1 sole:1 fall:1
+TSO	20130516	57.96	57.99	r_up	
+TSO	20130517	57.99	62.04	r_up	rebound:1 stocks:1 refiner:1 rallies:1
+TSO	20130520	62.04	64.69	r_up	
+TSO	20130521	64.69	63.08	r_down	rally:1 lower:1 stocks:1 end:1 after:1
+TSO	20130522	63.08	61.78	r_down	
+TSO	20130523	61.78	61.81	r_up	
+TSO	20130524	61.81	61.03	r_down	
+TSO	20130528	61.03	61.96	r_up	
+TSO	20130529	61.96	61.24	r_down	66:1
+TSO	20130530	61.24	61.33	r_up	$:1 1.1:1
+TSO	20130531	61.33	61.65	r_up	2:1 $:1
+TSO	20130603	61.65	60.51	r_down	invest:1 stocks:1 's:1 gain:1 $:1
+TSO	20130604	60.51	59.44	r_down	's:3
+TSO	20130605	59.44	57.53	r_down	
+TSO	20130606	57.53	58.86	r_up	
+TSO	20130607	58.86	58.68	r_down	
+TSO	20130610	58.68	58.09	r_down	
+TSO	20130611	58.09	57.01	r_down	
+TSO	20130612	57.01	57.28	r_up	
+TSO	20130613	57.28	58.32	r_up	trend:1 bucks:1 energy:1 stocks:1 fall:1
+TSO	20130614	58.32	57.16	r_down	
+TSO	20130617	57.16	57.61	r_up	
+TSO	20130618	57.61	57.11	r_down	up:1
+TSO	20130619	57.11	57.41	r_up	turn:1 lower:1 stocks:1 decision:1 after:1
+TSO	20130620	57.41	55.32	r_down	
+TSO	20130621	55.32	54.13	r_down	week:1 lower:1 end:1 rebound:1 but:1 stocks:1

@@ -1,0 +1,427 @@
+stock_QCOM r_up	n't:1
+stock_QCOM r_down	retreats:1 mixed:1 telecoms:1
+stock_QCOM r_up	lower:1 sinks:1 broadly:1
+stock_QCOM r_up	's:1
+stock_QCOM r_down	sector:1 drop:1 lead:1 losses:1 shares:1 forecasts:1 down:1 cut:1 tech:1 close:1
+stock_QCOM r_up	gaining:1 buy:1 's:1 14:1 14c:1 bln:1 except:1 back:1 16c:1 2:1 lifts:1 gain:1 biggest:1 dividend:1 stocks:1 stock:1 declining:1 $:3
+stock_QCOM r_down	lower:1 broad:1 trade:1 equities:1 stocks:1 retreat:1
+stock_QCOM r_down	lower:1 's:2 broadly:1 woes:1 700:1 send:1 lead:1 wireless:1 telecoms:2
+stock_QCOM r_up	mixed:1 decline:1 telecoms:1
+stock_QCOM r_down	retreat:1 higher:1
+stock_QCOM r_up	55:1
+stock_QCOM r_up	still:1 investment:1 risky:1
+stock_QCOM r_down	$:1 rules:1 bid:1 up:1 spectrum:1 'open:1 8:1 confirms:1
+stock_QCOM r_up	focus:1
+stock_QCOM r_down	framework:1 action:1 vendors:1 gain:1 upgrades:1 mixed:1 speed:1 agree:1 plan:1
+stock_QCOM r_down	slumps:1 focus:1 but:1 gains:1
+stock_QCOM r_up	47c:1 5.5:1 focus:1 shares:1 43c:1 trading:1 red:1
+stock_QCOM r_up	sales:1 jump:1 trading:1 close:1 market:1 posting:1 lead:1 profit:2 surprises:1 advisories:1 premarket:1 ground:1 grows:1 higher:1 slips:1 gains:2 form:1 jumps:1 after:2 pact:1 17:1 tech:1 lose:1 2008:1
+stock_QCOM r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_QCOM r_up	gain:1 fall:1
+stock_QCOM r_up	2008:1 telecoms:1 lead:1
+stock_QCOM r_down	lower:1 telecoms:1
+stock_QCOM r_up	retreats:1 '':1 ``:1 gains:1
+stock_QCOM r_up	gains:2 hunting:1 executive:1 3:1 retreats:1 chief:1 helps:1 push:1 quits:1 wings:1
+stock_QCOM r_down	advance:1 lead:1
+stock_QCOM r_down	mobile:1 not:1 redo:1 affair:1 foreign:1
+stock_QCOM r_down	giants:1 plans:1 mobile:1 devices:1 unveil:1 n't:1
+stock_QCOM r_up	decline:1 but:1 most:1 telecoms:1 inch:1 higher:1
+stock_QCOM r_up	's:1
+stock_QCOM r_up	2000:1 retreat:1 lead:1
+stock_QCOM r_up	profit:1 sales:1 forecast:1 retreats:1 '08:1 gain:1 rallies:1 cites:1 ups:1 higher:1
+stock_QCOM r_up	gaining:1 's:1 surprises:1 advisories:1 biggest:1 stocks:1 declining:1
+stock_QCOM r_down	tumble:1
+stock_QCOM r_up	plunge:1 soars:1
+stock_QCOM r_down	undervalued:1 's:1 sectors:1 market:1
+stock_QCOM r_down	summer:1 suffer:1 makers:1 fade:1
+stock_QCOM r_down	lead:1 after:1 bounces:1 hurt:1 3:1 warning:1 falls:1
+stock_QCOM r_up	gain:1 falls:1
+stock_QCOM r_up	top:1 gainers:1
+stock_QCOM r_up	500,000:1
+stock_QCOM r_up	250,000:1 top:1 telecoms:1
+stock_QCOM r_down	full:1 focus:1 retreat:1
+stock_QCOM r_up	surprises:1 postpones:1 third-quarter:1 focus:1 advisories:1 call:1 earnings:1
+stock_QCOM r_up	point:1 telecom:1 250,000:1 long-running:1 focus:1 ending:1 warning:1 higher:1 settlement:1 ground:1 stocks:3 jobless:1 patent:2 pay:1 top:1 shares:2 fight:2 start:1 leap:1 settle:1 6:1 stock:1 crunch:1 's:3 climbs:1 after:2 mixed:1 fall:1 tactics:1 now:1 data:2 220,000:1 lower:1 cautious:1 off:1 ahead:1 futures:1 reports:1 credit:1 economic:1 push:1 200,000:2 climb:1 dispute:1 housing:1
+stock_QCOM r_up	sector:1 gaining:1 gainers:1 gains:1 lead:1 heavily:1 telecom:1 surprises:1 lift:1 biggest:1 advisories:1 tech:1 weigh:1 auto:1 fail:1 close:1 stocks:2 's:1 makers:1 declining:1
+stock_QCOM r_down	decline:1 taps:1 vet:1 's:5 big:1 handset:1 tops:1 head:1 rest:1 boss:1 challenges:1 telecoms:1 faces:1 new:1 unit:1
+stock_QCOM r_up	sector:1 gains:1 lead:1 tech:1 fail:1 close:1 stocks:1 boost:1 higher:1
+stock_QCOM r_down	's:1 $:1 get:1 may:1 bargain:1 but:1 pricey:1 new:1 makes:1 bet:1
+stock_QCOM r_up	invest:1 oil:1 sectors:1 commodity:1 tumble:1
+stock_QCOM r_down	technical:1 hurdles:1 markets:1 surprising:1 surpass:1
+stock_QCOM r_up	billion:1 14.6:1 says:1 $:1 spending:1 money:1 into:1 unveils:1 manager:1 plan:1 capital:1 stocks:1 technology:1
+stock_QCOM r_up	problems:1 fall:1 list:1 shares:1 growing:1 costs:1 faces:1 offset:1 prices:1 raising:1 higher:1
+stock_QCOM r_up	joint:1 wireless-chip:1 venture:1 form:1
+stock_QCOM r_up	's:1
+stock_QCOM r_down	market:1 rest:1 tumble:1
+stock_QCOM r_down	'':1 ``:1
+stock_QCOM r_down	stocks:1 's:1 calls:1 sectors:1 mobile:1 third:1 warns:1 share:1 telecom:1 warning:2 pall:1 losing:1 quarter:1 stumble:1 market:1
+stock_QCOM r_up	lower:1 extend:1 losses:1 up:1 shares:1 vendors:1 mixed:1 stocks:1
+stock_QCOM r_down	lower:1
+stock_QCOM r_down	mixed:1 stocks:1 some:1 recover:1
+stock_QCOM r_up	n't:1
+stock_QCOM r_down	...:1 's:1 but:1
+stock_QCOM r_down	2:1
+stock_QCOM r_down	8.5:1
+stock_QCOM r_up	trading:1 unstable:1 's:2 see-saw:1
+stock_QCOM r_down	``:1 court:1 sinks:1 asks:1 erratic:1 '':1 session:1 gain:1 mixed:1 close:1 stocks:1 unenforceable:1 declare:1 patents:1
+stock_QCOM r_down	move:1 legal:1 calls:1
+stock_QCOM r_up	11.8:1
+stock_QCOM r_up	telecoms:1 lead:1
+stock_QCOM r_down	9:1 $:2 retreat:1 gains:1
+stock_QCOM r_down	outlook:1 's:1 profit:1 shares:1 jump:1 surpasses:1
+stock_QCOM r_up	10.9:1 10.8:1 retreats:1 gain:1 9.5:1 amp:1
+stock_QCOM r_down	seen:1 cutting:1 jobs:1 more:1
+stock_QCOM r_up	loss:1 delays:1 posts:1 biz:1 spinoff:1 2009:1 handset:1
+stock_QCOM r_down	tumble:1 focus:1 down:1 telecoms:1 targets:1 22:1 surprises:1 forecast:1 advisories:1 earnings:1 under:1 stock:1 jobs:1 beat:1 after:1 water:1 data:1 11:1 weighed:1 futures:1 remain:1 '09:1 economy:1
+stock_QCOM r_down	sink:1 up:1
+stock_QCOM r_down	alternative:1 's:1 unveils:1
+stock_QCOM r_up	again:1 lead:1 sell-off:1 1,500:1 mark:1 slides:1 tech:1 under:1 sparking:1 stocks:1 retreat:1
+stock_QCOM r_down	's:1 '09:1 '03:1
+stock_QCOM r_down	lower:1 have:1 just:1 may:1 only:1 gain:1 begun:1 layoffs:1
+stock_QCOM r_down	26:1 eke:1 gains:1
+stock_QCOM r_up	small:1 rally:1 sharply:1 telecoms:1
+stock_QCOM r_down	sector:1 10:1 pace:1 surge:1 leads:1 phone:1 telecoms:1 stocks:1 market:1
+stock_QCOM r_down	does:1 too:1 market:1 tumble:1
+stock_QCOM r_up	gaining:1 's:2 2:1 biggest:1 stocks:1 declining:1
+stock_QCOM r_down	2:1 's:2
+stock_QCOM r_down	's:1
+stock_QCOM r_up	focus:1
+stock_QCOM r_up	's:1 lead:1 16:1 mild:1 '09:1 telecoms:1 rally:1
+stock_QCOM r_down	cost-cutting:1 move:1 pensions:1 salaries:1 freeze:1
+stock_QCOM r_down	2009:1
+stock_QCOM r_down	2009:1
+stock_QCOM r_up	2009:1
+stock_QCOM r_down	decline:1 vendors:1 higher:1
+stock_QCOM r_down	lower:1 tack:1
+stock_QCOM r_down	loss:1 off:1 4,000:1 warns:1 lay:1 another:1 workers:1
+stock_QCOM r_up	loss:1 cut:1 jobs:1 4,000:1 slump:1 sales:1 post:1
+stock_QCOM r_up	early:1 advances:1 after:1 fade:1
+stock_QCOM r_down	's:3 $:2 surprises:1 bellwethers:1 advisories:1 other:1 65:1 lose:1 close:1 ground:1
+stock_QCOM r_up	's:1 assets:1 deal:1 million:1 65:1 acquires:1 $:1
+stock_QCOM r_up	retreats:1 most:1 telecoms:1 but:1 gain:1
+stock_QCOM r_down	outlook:1 weaker:1 point:1 declines:1 results:2 down:1 's:1 stumble:1 soured:1 sentiment:1 surprises:1 top:1 revenue:1 shares:1 start:1 advisories:1 earnings:3 disappoint:1 take:1 hit:1 gains:1 after:2 weak:1 focus:2 despite:1 stocks:1 56:1 drive:1 pace:1 weigh:1 decliners:1 investments:1
+stock_QCOM r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_QCOM r_up	plunges:1 rise:1
+stock_QCOM r_down	delay:1 acts:1 until:1 transition:1 digital:1
+stock_QCOM r_up	s:1 rise:1 8217:1
+stock_QCOM r_up	retreats:1 gains:1 mostly:1
+stock_QCOM r_up	pace:1 gainers:1
+stock_QCOM r_down	across:1 board:1 tumble:1 up:1 team:1
+stock_QCOM r_down	20:1
+stock_QCOM r_down	bright:1 lone:1 spots:1
+stock_QCOM r_down	top:1 telecoms:1
+stock_QCOM r_down	20:1
+stock_QCOM r_up	s:1 180:1 8217:1
+stock_QCOM r_up	off:1 futures:1 bounce:1 multi-year:1 lows:1 stock:1
+stock_QCOM r_down	decliners:1 lead:1
+stock_QCOM r_up	sector:1 's:1 ripe:1 bottom:1 deals:1 failures:1 not:1 seen:1 has:1
+stock_QCOM r_down	08:1
+stock_QCOM r_up	2009:1
+stock_QCOM r_down	downgrade:1 sinks:1 up:1
+stock_QCOM r_up	fail:1 sector:1 hold:1 gains:1 swoons:1
+stock_QCOM r_up	gain:1 falls:1
+stock_QCOM r_down	decline:1 stocks:1 advances:1
+stock_QCOM r_down	gaming:1 console:1 backing:1 launches:1 new:1 's:1
+stock_QCOM r_up	's:1
+stock_QCOM r_up	lowers:1 decliners:1 outlook:1 lead:1 negative:1
+stock_QCOM r_down	optimists:1 funds:1 skeptics:1 brings:1 rally:1 out:1
+stock_QCOM r_up	8220:1 8221:1 $:1 50:1 5:1 2008:1
+stock_QCOM r_down	top:1 telecoms:1
+stock_QCOM r_down	's:1 big:1 study:1 focus:1 2:1 yields:1 margins:1 finds:1
+stock_QCOM r_up	beat:1 expectations:1 results:1 higher:1
+stock_QCOM r_up	gaining:1 settlement:1 's:2 $:2 chip:1 flu:1 focus:1 shares:2 forecast:1 slide:1 gain:1 fall:1 biggest:1 outbreak:1 stocks:1 declining:1 swine:1
+stock_QCOM r_down	surprises:1 advisories:1 gainers:1 14:1 lead:1
+stock_QCOM r_up	advancers:1 lead:1
+stock_QCOM r_down	leads:1 lower:1 telecoms:1
+stock_QCOM r_up	telecom:1 pace:1 gains:1
+stock_QCOM r_up	top:1 telecoms:1
+stock_QCOM r_up	move:1 upgraded:1 stocks:1 higher:1
+stock_QCOM r_down	stocks:1 off:1 gains:1
+stock_QCOM r_down	leads:1 gainers:1 falls:1
+stock_QCOM r_up	gain:1 tumbles:1
+stock_QCOM r_down	$:1
+stock_QCOM r_up	's:2
+stock_QCOM r_down	guidance:1 quarter:1 's:3 raises:1 third:1
+stock_QCOM r_up	gains:1 surprises:1 advisories:1 close:1 follow:1 stocks:1
+stock_QCOM r_down	's:2
+stock_QCOM r_down	11:1
+stock_QCOM r_up	telecom:1 top:1 gainers:1 rank:1
+stock_QCOM r_up	stocks:1 results:1 gains:1 rises:1 keep:1
+stock_QCOM r_down	3:1 jumps:1 sinks:1
+stock_QCOM r_up	telecoms:1 lead:1
+stock_QCOM r_up	giants:1 portable:1 create:1 weak:1 up:1 devices:1 their:1 shore:1 spots:1 new:1 bond:1
+stock_QCOM r_up	newest:1 's:2 rival:1
+stock_QCOM r_down	bring:1 stocks:1 high-quality:1 gains:1 funds:1
+stock_QCOM r_down	sector:1 stocks:1 lead:1
+stock_QCOM r_up	's:2 mobile:1 casts:1 into:1 move:1 back:1 telecom:1 paces:1 gainers:1 pulls:1 cloud:1
+stock_QCOM r_up	powers:1 up:1 focus:1
+stock_QCOM r_up	1.5:1 advance:1 surprises:1 after:1 results:1 shares:1 focus:1 advisories:1 5:1 gain:1 drops:1
+stock_QCOM r_down	return:1 form:1 profit:1 declines:1 futures:1 third-quarter:1 winning:1 leads:1 phone:1 higher:1 stocks:1 stock:1
+stock_QCOM r_down	40s:1 $:1
+stock_QCOM r_up	7:1
+stock_QCOM r_down	3:1 fall:1 rallies:1
+stock_QCOM r_up	not:1 bad:2 so:1 telecoms:1
+stock_QCOM r_down	fall:1
+stock_QCOM r_down	enters:1 netbook:1 market:1
+stock_QCOM r_up	most:1 drops:1 telecoms:1 but:1 gain:1
+stock_QCOM r_down	data:1 productivity:1 spotlight:1
+stock_QCOM r_up	advance:1 telecoms:1 lead:1 higher:1
+stock_QCOM r_up	1000:1
+stock_QCOM r_down	retreat:1 lead:1
+stock_QCOM r_down	favored:1 phones:1 futures:1 down:1 more:1 view:1 report:1 manufacturing:1 smart:1 before:1
+stock_QCOM r_up	'':1 ``:1
+stock_QCOM r_up	2:1
+stock_QCOM r_up	wraps:1 phone:1 2:1 lifts:1 smart:1 first:1
+stock_QCOM r_down	$:1 million:1 225:1 maker:1 seeks:1 raise:1
+stock_QCOM r_down	lawsuit:1 unleashes:1 shares:1 fall:1
+stock_QCOM r_down	decline:1 gains:1
+stock_QCOM r_down	equipment:1 fall:1 makers:1 higher:1
+stock_QCOM r_down	challenge:1 e-reader:1 's:2 latest:1
+stock_QCOM r_up	jump:1 jolts:1 market:1 50:1
+stock_QCOM r_up	500:1
+stock_QCOM r_down	most:1 fall:1 telecoms:1 but:1 soars:1
+stock_QCOM r_down	5:1
+stock_QCOM r_up	's:1
+stock_QCOM r_down	lower:1 stocks:1 drive:1 themes:1 forward:1 rises:1
+stock_QCOM r_up	's:2
+stock_QCOM r_down	rebounds:1 stocks:1 dip:1
+stock_QCOM r_up	quarter:1 drags:1 telecoms:1
+stock_QCOM r_down	not:1 surprises:1 advisories:1 but:1 retreat:1
+stock_QCOM r_down	top:1 decliners:1
+stock_QCOM r_up	mixed:1 big:1 stocks:1 slip:1 phone:1
+stock_QCOM r_down	phone:1 stocks:1 propels:1 higher:1
+stock_QCOM r_down	surprises:1 advisories:1
+stock_QCOM r_up	focus:1
+stock_QCOM r_down	fiscal:1 8.5:1 surprises:1 focus:1 advisories:1 earnings:1 fourth:1 fall:1 quarter:1 2010:1
+stock_QCOM r_up	still:1 sell:1 needs:1 rises:1 north:1 8.5:2 surprises:1 advisories:1 sink:1 phones:1 follow:1 stocks:1 its:1 cool:1
+stock_QCOM r_up	telecoms:1 lead:1 higher:1
+stock_QCOM r_up	again:1 top:1 telecoms:1
+stock_QCOM r_down	some:1 back:1 gains:1 give:1
+stock_QCOM r_up	12:1 2009:1
+stock_QCOM r_down	stocks:1 led:1
+stock_QCOM r_up	telecoms:1 lead:1
+stock_QCOM r_down	11.4:1 11:1 2009:1
+stock_QCOM r_up	do:1 deal:1
+stock_QCOM r_up	's:1
+stock_QCOM r_up	's:1 telecoms:1 lead:1
+stock_QCOM r_down	lower:1 telecoms:1 lead:1
+stock_QCOM r_up	's:1
+stock_QCOM r_up	'':1 ``:1 focus:1
+stock_QCOM r_down	=:1 2:1 's:1 up:1 2010:1
+stock_QCOM r_up	're:1
+stock_QCOM r_down	$:1
+stock_QCOM r_down	wireless:1 amid:1 firms:1 lower:1 competition:1
+stock_QCOM r_up	sector:1 shaky:1 tech:1 stock:1 market:1 ground:1
+stock_QCOM r_down	advancers:1 lead:1
+stock_QCOM r_up	's:1
+stock_QCOM r_up	leads:1 telecom:1 drops:1 higher:1
+stock_QCOM r_down	$:1
+stock_QCOM r_up	slips:1 outlook:1 off:1 after:2 shares:1 surge:1 telecoms:1 6:1 downgrade:1 drops:1 '10:1
+stock_QCOM r_down	outlook:1 drop:1 move:1 focus:1 disappointing:1 rate:1 moves:1 market:1 4.1:1 lead:1 broad:1 shares:1 advisories:1 retreat:1 biggest:1 stock:1 gaining:1 pare:1 's:1 gains:1 after:1 early:1 timing:1 stocks:1 data:1 declining:1 futures:1 up:1 tech:1 surprises:1
+stock_QCOM r_down	after:1 move:1 results:1 up:1 shares:1 fight:1 higher:1 stocks:1 ground:1
+stock_QCOM r_up	advance:1
+stock_QCOM r_up	launches:1
+stock_QCOM r_up	advance:1 lower:1
+stock_QCOM r_down	's:1
+stock_QCOM r_down	12:1 focus:1 $:1
+stock_QCOM r_up	late:1 gains:1 third:1 point:1 straight:1 up:1 shares:1 trade:1 down:1 day:1
+stock_QCOM r_up	worst-on-record:1 focus:1 year:1 close:1 employment:1 market:1 lead:1 biggest:1 's:3 higher:1 gaining:1 after:1 jobs:1 gains:1 rise:1 gain:1 stocks:2 data:2 declining:1 10:1 lower:1 futures:1 up:1 edge:1 tech:1 gears:1
+stock_QCOM r_down	's:2
+stock_QCOM r_up	's:1
+stock_QCOM r_down	decline:1
+stock_QCOM r_up	advances:1 stocks:1 fall:1
+stock_QCOM r_up	new:1 app:1 gains:1 unveils:1
+stock_QCOM r_down	2013:1
+stock_QCOM r_up	jump:1 hits:1 gains:1 consumers:1 guidance:1 despite:1 dollar:1 raised:1 shares:1 commodities:1 lift:1 close:1 mixed:1 rally:1 stocks:1 curbed:1
+stock_QCOM r_down	gaining:1 's:1 surprises:1 3.6:1 advisories:1 biggest:1 stocks:1 declining:1 more:1
+stock_QCOM r_up	gains:1 fueled:1 hurt:1 rivals:1 speculation:1 talk:1 stock:1
+stock_QCOM r_down	funds:1 hedge:1 builds:1 cash:1 vogue:1
+stock_QCOM r_up	smartphones:1 conquer:1 seeks:1
+stock_QCOM r_down	's:1 gains:1 lead:1 rise:1 focus:1 2000:1 tech:1 helps:1 stocks:1
+stock_QCOM r_down	tumble:1 focus:1 economic:1 hit:1 find:1 profit:1 shares:1 forecast:1 late:1 biggest:1 momentum:1 stock:2 gaining:1 's:1 jumps:1 after:2 forecasts:1 buyout:1 stocks:2 data:1 declining:1 lower:1 futures:1 posts:1 remain:1 upward:1
+stock_QCOM r_down	outlook:1 surprises:1 falls:1 advisories:1 weaker-than-expected:1 2009:2
+stock_QCOM r_down	big:1 score:1 tap:1
+stock_QCOM r_down	strong:1 sales:1 soars:1
+stock_QCOM r_up	surprises:1 advisories:1
+stock_QCOM r_down	59:1 's:1
+stock_QCOM r_down	merit:1 have:1 financials:1
+stock_QCOM r_up	aim:1 mobile:1 takes:1 devices:1 update:1
+stock_QCOM r_down	sector:1 year:1 up:1 gains:1 gives:1
+stock_QCOM r_up	's:1
+stock_QCOM r_down	upgrade:1 gains:1 deal:1
+stock_QCOM r_down	picking:1 ripe:1
+stock_QCOM r_up	challenge:1 's:2 makers:1 look:1
+stock_QCOM r_up	2009:1
+stock_QCOM r_down	brokerage:1 surges:1 upgrade:1
+stock_QCOM r_down	upgrade:1 raise:1 tablet:1 joining:1 surges:1 cash:1 unveils:1 battle:1 brokerage:1 higher:1 market:1 risk:1
+stock_QCOM r_down	products:1 new:1 frenzy:1 up:1 picks:1
+stock_QCOM r_up	1:1 's:1 $:2 focus:1
+stock_QCOM r_down	1:1 's:1 $:1
+stock_QCOM r_down	gains:1 eke:1 manage:1 small:1 stocks:1 out:1
+stock_QCOM r_down	gains:1 help:1 turn:1 tech:1 stocks:1 around:1
+stock_QCOM r_down	's:1
+stock_QCOM r_up	tablets:1 poised:1 rapid:1 says:1 growth:1
+stock_QCOM r_up	streak:1 run:1 win:1 leads:1 five:1 stocks:1
+stock_QCOM r_up	stands:1 tablet:1 industry:1 rocked:1 close:1 out:1 market:1 higher:1
+stock_QCOM r_down	tech-sector:1 add:1 's:3 woes:1 comments:1
+stock_QCOM r_up	jump:1 growth:1 follow:1 close:1 hit:1 4.1:1 takes:1 profit:1 shares:1 late:1 much:1 4:1 biggest:1 8:1 earnings:1 gaining:1 's:2 gains:1 but:1 stocks:2 declining:1 trades:1 up:1 reports:1
+stock_QCOM r_down	stress:1 's:2 results:1 shares:1 drive:1 hopes:1 test:1
+stock_QCOM r_down	's:1
+stock_QCOM r_up	's:1
+stock_QCOM r_down	13:1
+stock_QCOM r_up	's:1
+stock_QCOM r_up	sector:1 's:3 over:1 dark:1 tech:1 scandal:1 cloud:1
+stock_QCOM r_up	n't:1 's:1
+stock_QCOM r_up	's:3 gains:1 broad:1 another:1 put:1 stocks:1 day:1
+stock_QCOM r_down	10:1 5:1 's:1
+stock_QCOM r_up	's:1
+stock_QCOM r_down	smartphone:1 capitalize:1 boom:1
+stock_QCOM r_down	draws:1 $:1 move:1 wireless:1 praise:1 's:1 skepticism:1
+stock_QCOM r_up	n't:1
+stock_QCOM r_down	2:1 $:2
+stock_QCOM r_down	eventually:1 software:1 move:1 new:1
+stock_QCOM r_up	chip:1 growth:1 open:1 firms:1 opportunities:1
+stock_QCOM r_up	answer:1 course:1 off:1
+stock_QCOM r_up	life:1 mobile:1 app:1 your:1 save:1 could:1
+stock_QCOM r_down	sell:1 2011:1 set:1 's:2 reportedly:1
+stock_QCOM r_up	's:1
+stock_QCOM r_down	handsets:1 wraps:1 lifts:1 off:1
+stock_QCOM r_up	love:1 getting:1 much:1 not:1 're:1 investor:1
+stock_QCOM r_down	$:1
+stock_QCOM r_up	late:1 advance:1 shares:1 trade:1
+stock_QCOM r_up	's:1 focus:2 spotlight:1 after-hours:1
+stock_QCOM r_up	gaining:1 late:1 stocks:1 gains:1 profit:1 top:1 reports:1 jump:1 growth:1 7.7:3 action:1 8:1 smart-phone:1 rides:1 declining:1 gain:1
+stock_QCOM r_down	north:1 gains:1 surprises:1 advisories:1 tech:1 push:1 stocks:1 help:1
+stock_QCOM r_down	action:1 tech:1 gains:1 lead:1
+stock_QCOM r_up	closing:1 historic:1 deal:1 trade:1
+stock_QCOM r_down	expected:1 explode:1 growth:1 beyond:1
+stock_QCOM r_up	lead:1 no:1 losses:1 late:1 tech:2 action:1 5:1 stocks:1 boost:1
+stock_QCOM r_down	5:1
+stock_QCOM r_down	's:1
+stock_QCOM r_up	's:1
+stock_QCOM r_up	not:1 shortcuts:1 detours:1
+stock_QCOM r_down	gains:1 help:1 turn:1 tech:1 stocks:1 around:1
+stock_QCOM r_up	deal:1 give:1 mild:1 lift:1 tech:1 helps:1 stocks:1
+stock_QCOM r_up	n't:1
+stock_QCOM r_up	stage:1 tech:1 take:1 center:1
+stock_QCOM r_up	n't:1
+stock_QCOM r_up	's:1
+stock_QCOM r_down	's:1
+stock_QCOM r_up	outlook:1 takeovers:1 2011:2 chance:1
+stock_QCOM r_down	$:5 tensions:1 focus:1 driven:1 2:1 tech:1 action:1 highlight:1 stocks:1
+stock_QCOM r_up	$:1 1.93:1
+stock_QCOM r_up	session:1 stocks:1 weak:1 log:1 another:1
+stock_QCOM r_up	gaining:1 new-year:1 extend:1 focus:1 biggest:1 rally:1 stocks:2 declining:1
+stock_QCOM r_up	billion:1 buy:1 's:4 $:6 31.71:1 focus:1 up:1 shares:1 trade:1 late:1 course:1 heat:1 3.1:3 jobs:1 retail:1 data:1 29:1
+stock_QCOM r_up	deal:2 show:1 chip:1 focus:1 high:1 its:1 takes:1 tablet:1 labor:1 new:1 firms:1 2011:1 head:1 's:2 get:1 ‘08:1 everywhere:1 put:1 stocks:1 firms’:1 industry:1 turn:1 lift:1 tech:2 spotlight:1
+stock_QCOM r_up	's:1 no:1 sun:1 disappoint:1 gets:1 day:1
+stock_QCOM r_up	its:1
+stock_QCOM r_down	're:1
+stock_QCOM r_up	chief:1 hunt:1 search:1 |:1
+stock_QCOM r_up	tech:1 back:1
+stock_QCOM r_up	's:1
+stock_QCOM r_up	's:1 posting:1 17:1 sales:1 n't:1 seen:1
+stock_QCOM r_up	39:3 trades:1 watch:2 late:1 hot:1 not:1
+stock_QCOM r_up	gaining:1 jump:1 39:1 surges:1 jobless:1 surprises:1 futures:1 forecast:1 down:1 advisories:1 edge:1 biggest:1 claims:1 net:1 stocks:1 exceeds:1 declining:1 target:1
+stock_QCOM r_down	help:1 telecom:1 declines:1 12000:1 jump:1 pace:1 second:1 hurdle:1 techs’:1 refuses:1 weigh:1 day:1 gains:1
+stock_QCOM r_down	president:1 won’t:1 dominant:1 says:1
+stock_QCOM r_up	2011:1
+stock_QCOM r_up	prospects:1 's:1 tablet:1 may:1 shift:1 driven:1 benefit:1
+stock_QCOM r_up	shift:1
+stock_QCOM r_up	wraps:1 smartphones:1 's:1 tablet:1 lifts:1 teardown:1 costs:1 design:1 4:1 cuts:1 finds:1
+stock_QCOM r_up	expense:1 gain:1
+stock_QCOM r_up	launches:1 first:1 tablet:1 phones:1
+stock_QCOM r_down	'':1 ``:1
+stock_QCOM r_up	index:1 gimmick:1 =:1 smart:1 fund:1
+stock_QCOM r_down	breakdown:1 our:1 price:1 2:1 advantage:1
+stock_QCOM r_up	price:1 2:1 redesigned:1 same:1 debuts:1
+stock_QCOM r_down	prices:1 outlook:1 oil:1 's:1 hiring:1 downgrades:1 pace:1 tech:1 action:1
+stock_QCOM r_down	risk:1 warns:1 faces:1 broker:1 ‘bubble’:1 market:1
+stock_QCOM r_up	follow:1 stocks:1 north:1
+stock_QCOM r_down	talks:1 exit:1 over:1 's:1 n't:1
+stock_QCOM r_up	sparks:1 telecom:1 action:1 deal:1
+stock_QCOM r_up	deal:1 prepaid:1 up:1 want:1 6:1
+stock_QCOM r_up	search:1 seems:1 stalled:1
+stock_QCOM r_up	rise:1 stocks:1 lift:1 gets:1 cloud:1
+stock_QCOM r_down	bets:1 wireless:1 spreads:1
+stock_QCOM r_down	heft:1 tree:1 falls:1 add:1 our:1 100:3 rebalance:1
+stock_QCOM r_up	'the:1 du:1 's:1
+stock_QCOM r_down	5:1 o:1
+stock_QCOM r_up	10:1 3-7:1 money:1 o:1 world’s:1 5:1 bear:1 our:1 biggest:1 stories:1 making:1
+stock_QCOM r_down	big:1 investor:1 concern:1
+stock_QCOM r_down	5:1
+stock_QCOM r_up	's:1 5:1
+stock_QCOM r_down	5:1
+stock_QCOM r_up	62:1 $:1
+stock_QCOM r_up	slips:1 's:1 46:1 after:1 watch:2 29:1 bounce:1 tech:1 shares:1 stocks:1 boost:1 higher:1
+stock_QCOM r_up	$:1 profit:1 watch:2 29:3 reports:1 gain:1 600:1
+stock_QCOM r_up	's:1
+stock_QCOM r_up	n't:1
+stock_QCOM r_up	n't:1
+stock_QCOM r_down	watch:1
+stock_QCOM r_up	sector:1 highlight:1 watch:1 tech:1 activity:1
+stock_QCOM r_up	29:2
+stock_QCOM r_up	laptops:1 plans:1 unveils:1
+stock_QCOM r_down	strong:1 woos:1 mobile:1 keep:1 makers:1 heats:1 ties:1 developers:1 war:1
+stock_QCOM r_up	peek:1 offers:1 8:1
+stock_QCOM r_down	profile:1 sector:1 sees:1 gains:1 mobile:1 opportunities:1 its:1 chief:1 volatile:1 raises:1 tech:1 still:1 war:1
+stock_QCOM r_down	focus:1 war:1 pushes:1 makers:1
+stock_QCOM r_down	creates:1 corporate:1 protesters:1 more:1
+stock_QCOM r_up	10:1
+stock_QCOM r_up	flips:1
+stock_QCOM r_down	2011’s:1 far:1 money:1 top:1 ideas:1 fared:1 so:1 have:1
+stock_QCOM r_up	150:1
+stock_QCOM r_down	report:1 target:1 latest:1
+stock_QCOM r_up	watch:1
+stock_QCOM r_down	's:1
+stock_QCOM r_up	's:2 may:1 estimates:1 benefit:1 35:2 jump:1 see:1 earnings:1 beating:1
+stock_QCOM r_down	surprises:1 advisories:1 watch:1 35:4
+stock_QCOM r_up	's:1 deal:1 rise:1 n't:1 earnings:1 stocks:1
+stock_QCOM r_down	37:1 's:1
+stock_QCOM r_down	crash:1 ways:1 imminent:1 identify:1 7:1 market:1
+stock_QCOM r_up	62:1 $:1
+stock_QCOM r_up	week:1 strong:1 gains:1 these:1 start:1 5:1 stocks:1
+stock_QCOM r_up	5,000:1
+stock_QCOM r_up	paths:1 own:1 mobile:1 into:1 pushing:1 team:1 8:1
+stock_QCOM r_up	might:1 lost:1
+stock_QCOM r_up	top:1 lost:1
+stock_QCOM r_up	's:1
+stock_QCOM r_up	's:1
+stock_QCOM r_down	3:1 's:1 $:1
+stock_QCOM r_down	report:1 hit:1 deal:1 expensive:1
+stock_QCOM r_up	ship:1
+stock_QCOM r_up	's:1
+stock_QCOM r_up	17:2
+stock_QCOM r_down	's:2
+stock_QCOM r_up	35:1
+stock_QCOM r_up	hours:1 stocks:1 gains:1 22:2 surprises:1 jumps:1 after:1 watch:1 up:1 jump:1 shares:1 down:1 advisories:1 earnings:1 strong:1 put:1 8:2 forecast:1
+stock_QCOM r_up	gaining:1 's:2 22:2 watch:2 biggest:1 8:1 stocks:1 declining:1
+stock_QCOM r_up	cut:1 gains:1 rise:1 gas:1 late:1 turn:1 rate:1 500:1 close:1 stocks:2 retreat:1
+stock_QCOM r_down	's:1
+stock_QCOM r_up	gains:1 give:1 mild:1 lift:1 tech:1 stocks:1
+stock_QCOM r_down	's:2
+stock_QCOM r_down	surprises:1 losses:1 advisories:1 tech:1 broad:1 highlight:1
+stock_QCOM r_up	's:1
+stock_QCOM r_down	's:1
+stock_QCOM r_down	rush:1 's:1 $:1 50:1 wireless:1 joins:1
+stock_QCOM r_down	under:1 options:1 looks:1 new:1 its:1
+stock_QCOM r_down	0.9:2 302:1 2011:2 $:2
+stock_QCOM r_up	limited:1 without:1 's:1 options:1
+stock_QCOM r_up	watch:1 managers:1 2012:1 5:1 hedge-fund:1
+stock_QCOM r_down	500:1
+stock_QCOM r_up	mobile:1 under:1 hood:1 get:1
+stock_QCOM r_down	's:1
+stock_QCOM r_down	draw:1 smartphones:1 deal:1 investors:1 could:1 ink:1 prospects:1 smartphone:1 crack:1 hopes:1
+stock_QCOM r_up	2012:1 's:1 22:1 23:1
+stock_QCOM r_up	's:1 21:1 2012:1
+stock_QCOM r_up	muddies:1 shake-up:1 office:1 path:1
+stock_QCOM r_down	beat:1 10:1 stocks:1 crowd:1 income-paying:1
+stock_QCOM r_up	watch:1
+stock_QCOM r_up	jump:1 futures:1 jobless:1 turns:1 surges:1 after:3 watch:1 up:1 shares:1 hurt:1 hours:2 advisories:1 estimates:1 edge:1 earnings:1 surprises:1 beating:1 data:1 higher:1
+stock_QCOM r_up	jobs:1 tepidly:1 ahead:1 up:1 lead:1 tech:1 report:1 stocks:1 gains:1
+stock_QCOM r_down	32:1
+stock_QCOM r_up	3,000:1 long:1 nears:1 take:1 view:1 rebounds:1 wings:1 analysts:1
+stock_QCOM r_up	global:1 selloff:1 stocks:1 slammed:1
+stock_QCOM r_up	run:1 's:1 puts:1 question:1
+stock_QCOM r_down	leads:1 broad:1 rally:1 techs:1 higher:1
+stock_QCOM r_down	500:1

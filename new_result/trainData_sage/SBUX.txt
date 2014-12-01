@@ -1,0 +1,305 @@
+stock_SBUX r_up	training:1 evening:1 's:1 jolt:1 mass:1 your:1
+stock_SBUX r_down	n't:1
+stock_SBUX r_down	off:1 may:1 top:1 long:1 commodities:1 way:1
+stock_SBUX r_down	business:1 energize:1 beware:1 virtual:1 plan:1 broadens:1
+stock_SBUX r_down	...:1
+stock_SBUX r_down	pushes:1 losses:1 brew:1 worries:1 new:1 stock:1 intensify:1 economy:1
+stock_SBUX r_down	grocery-store:1 ca:1 45:2 sites:1 n't:1 close:1 save:1
+stock_SBUX r_up	coffee:1 giant:1 but:1 few:1 hopes:1 bucks:1
+stock_SBUX r_down	...:1
+stock_SBUX r_up	profit:1 focus:1 shares:1 forecast:1 below:1 trading:1 red:1 2008:1 87c:1 expectations:1 issues:1
+stock_SBUX r_down	12:1 's:1 deluge:1 futures:1 tumble:1 earnings:1 four-year:1 share:1 shares:1 data:1 advisories:1 weaker:1 low:1 surprises:1 slightly:1 spotlight:1 after:1 stock:1
+stock_SBUX r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_SBUX r_up	focus:1
+stock_SBUX r_up	gaining:1 's:1 business:1 profit:1 surprises:1 focus:1 hurt:1 15c:1 advisories:1 19c:1 biggest:1 stocks:1 declining:2
+stock_SBUX r_up	meets:1 tumble:1 profit:1 28:1 focus:1 shares:1 expectations:1
+stock_SBUX r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_SBUX r_down	capitalism:1
+stock_SBUX r_up	's:2 check:1 reality:1
+stock_SBUX r_up	real:1 gaining:1 oil:2 's:3 gains:1 point:1 futures:1 department:1 rise:1 declining:1 further:1 biggest:1 stores:1 spark:1 stocks:1 might:1 spotlight:1 change:1 stock:1
+stock_SBUX r_up	's:1
+stock_SBUX r_down	=:1
+stock_SBUX r_down	's:1
+stock_SBUX r_up	sort:1 ...:1 capitalists:1 venture:1
+stock_SBUX r_down	n't:1
+stock_SBUX r_down	's:1
+stock_SBUX r_up	75:1 's:2
+stock_SBUX r_up	cautious:1 tough:1 partnership:1 sense:1 makes:1 market:1
+stock_SBUX r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_SBUX r_down	again:1 great:1
+stock_SBUX r_down	's:1
+stock_SBUX r_down	popular:1 brings:1 request:1 back:1 bold:1
+stock_SBUX r_up	rises:1 's:1 supply:1 months:1 three:1 concerns:1 highest:1
+stock_SBUX r_up	gaining:1 slips:1 after:1 's:1 plans:1 600:2 futures:1 stores:1 focus:2 shares:1 up:2 n't:1 2009:1 pulling:1 biggest:1 seen:1 stocks:1 plug:1 declining:1 higher:1
+stock_SBUX r_down	week:1 's:1 top:1 analysis:1 3:1 1,000,000:1 news:1 'll:1
+stock_SBUX r_down	blow:1 's:1 deals:1 malls:1 another:1 bankruptcy:1
+stock_SBUX r_down	stores:1 600:2 50:2 lists:1 time:1 close:1 first:1
+stock_SBUX r_down	closures:1 list:1 store:1 releases:1
+stock_SBUX r_down	needs:1 changes:1 after:1 'll:1 just:1 might:1 up:1 surprises:1 futures:1 focus:2 edge:1 60:1 advisories:1 growth:1 '09:1 report:1 's:1 2009:1 employment:1 stock:1
+stock_SBUX r_down	gaining:1 end:1 biggest:1 note:1 mixed:1 economic:1 worries:1 hit:1 stocks:2 's:1 declining:1
+stock_SBUX r_down	$:1 600,000:1
+stock_SBUX r_up	31:1
+stock_SBUX r_up	's:2
+stock_SBUX r_down	's:3
+stock_SBUX r_up	's:1 2nd:1
+stock_SBUX r_down	big:1 investor:1 exits:1
+stock_SBUX r_down	's:1 focus:1
+stock_SBUX r_down	n't:1
+stock_SBUX r_up	n't:1
+stock_SBUX r_up	data:1 spotlight:1
+stock_SBUX r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_SBUX r_up	rage:1 menu:1 wars:1 new:1 rolls:1 out:1
+stock_SBUX r_down	n't:1
+stock_SBUX r_up	's:1
+stock_SBUX r_up	100:1 $:1
+stock_SBUX r_down	's:1
+stock_SBUX r_down	sandwich:1 's:1 food:1 menu:1 up:1 ramps:1 n't:1 including:1 new:1 egg:1
+stock_SBUX r_up	country:1 needs:1 your:1 you:1
+stock_SBUX r_down	record:1 stocks:1 gains:1 extend:1
+stock_SBUX r_down	's:1
+stock_SBUX r_down	11:1 's:3
+stock_SBUX r_down	's:1
+stock_SBUX r_down	gaining:1 +5.3:2 's:1 66:1 biggest:1 stocks:1 declining:1
+stock_SBUX r_down	lower:1 unveils:1 end:1 stimulus:1 futures:1 slowdown:1 restructuring:1 costs:1 batter:1 battered:1 falter:1 climb:1 stocks:1 financials:1 stock:1
+stock_SBUX r_down	results:1 60:1 slip:1 signs:1 177:1 end:1 $:1 spending:1 surprises:1 fears:2 shares:2 advisories:1 declining:1 weakening:1 under:1 biggest:1 dominate:1 stock:1 gaining:1 's:1 focus:2 weak:1 but:1 falls:1 pressure:1 fall:1 stocks:1 97:1 disappointing:1 lower:1 futures:1 below:1 economy:2 consumer:1
+stock_SBUX r_down	gaining:1 loss:1 's:1 $:1 bring:1 450,000:1 series:1 fears:1 uneasy:1 411:1 fall:1 biggest:1 announcements:1 stocks:2 declining:1
+stock_SBUX r_down	gloom:1 lower:1 end:1 third:1 4.8:1 adds:1 stocks:1 day:1
+stock_SBUX r_down	5:1
+stock_SBUX r_up	's:1
+stock_SBUX r_down	climate:1 lead:1 energy:1 challenges:1 take:1 firms:1
+stock_SBUX r_down	says:1 warns:1 slip:1 rally:1 tough:1 shares:1 declining:1 biggest:1 stock:1 gaining:1 's:1 gains:1 continues:1 but:1 early:1 gloomy:1 plan:1 stocks:1 appears:1 bank:1 advance:1 ahead:1 futures:1 times:1 lose:1 fresh:1 2009:1
+stock_SBUX r_up	move:1 lifts:1 shares:1 finance:1
+stock_SBUX r_down	438:1
+stock_SBUX r_up	shop:1 10:1 $:1 under:1 stocks:1 around:1
+stock_SBUX r_down	current:1 warns:1 quarter:1 $:1
+stock_SBUX r_up	gaining:1 decline:1 layoffs:1 's:1 surprises:1 thee:1 rise:1 days:1 n't:1 advisories:1 time:1 biggest:1 stocks:2 declining:1 first:1
+stock_SBUX r_down	gaining:1 's:1 auto:1 rise:1 hopes:1 bailout:1 biggest:1 stocks:2 declining:1
+stock_SBUX r_down	's:1
+stock_SBUX r_down	k:1 401:1
+stock_SBUX r_up	after:1 futures:1 focus:1 gain:1 data:1 steam:1 stock:1
+stock_SBUX r_up	poster:1 newspapers:1 tragedy:1 child:1
+stock_SBUX r_down	's:1 execs:1 hit:1 times:1
+stock_SBUX r_down	's:1 66,000:1
+stock_SBUX r_up	n't:1 focus:1
+stock_SBUX r_up	weaker:1 stores:1 investors:1 point:1 sales:1 results:1 down:1 economic:1 suffer:1 $:1 surprises:1 start:1 advisories:1 earnings:1 disappoint:1 bitter:1 more:1 's:2 300:1 after:1 focus:3 plan:1 stocks:1 billion:1 stimulus:1 could:1 drive:1 serves:1 shutter:1 brew:1
+stock_SBUX r_down	picture:1 yen:1 after:1 focus:1 dims:1 bad:1 economic:2 winners:1 news:1 corporate:1 stumble:1 more:1
+stock_SBUX r_up	investing:1 you:1 're:1 think:1 4.34:1
+stock_SBUX r_down	seven:1 level:1 years:1 announcements:1 highest:1 surge:1
+stock_SBUX r_up	battle:1 breakfast:1 heats:1 focus:1 up:1
+stock_SBUX r_down	deals:1 discount:1 offer:1
+stock_SBUX r_down	everyone:1 disaster:1 deflation:1 almost:1 brings:1 spell:1 may:1 bad:1 news:1 stocks:1
+stock_SBUX r_up	coffee:1 instant:1 8217:1 unveils:1 high:1 hopes:1 8216:1
+stock_SBUX r_up	brands:1 big:1 top:1 bargains:1
+stock_SBUX r_up	n't:1 housing:1 data:1 spotlight:1 but:1
+stock_SBUX r_up	dispel:1 myth:1 seeks:1
+stock_SBUX r_up	eye:1 business:1 fair:1 labor:1 plan:1 retailers:1 's:1
+stock_SBUX r_down	n't:1
+stock_SBUX r_down	're:1
+stock_SBUX r_up	2.0:1
+stock_SBUX r_down	spotlight:1
+stock_SBUX r_up	profitable:1 claim:1 play:1 lay:1 commodity:1
+stock_SBUX r_up	focus:1
+stock_SBUX r_up	ahead:1 surprises:1 futures:1 up:1 advisories:1 call:1 stock:1
+stock_SBUX r_up	gaining:1 24:1 plunges:1 's:1 profit:1 price:1 focus:1 shares:1 falls:1 tweaks:1 ground:1 planned:1 back:1 biggest:1 stocks:1 into:1 declining:1 gain:1
+stock_SBUX r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_SBUX r_down	case:1 presses:1 fight:1 proxy:1 heated:1
+stock_SBUX r_down	focus:1
+stock_SBUX r_up	fight:1 differ:1 toward:1 heads:1 crossroads:1 proxy:1 heated:1 firms:1 now:1
+stock_SBUX r_down	group:1 change:1 calls:1 board:1
+stock_SBUX r_up	's:1 bottom:1 one:1 n't:1 see:1 does:1
+stock_SBUX r_up	says:1 wins:1 tally:1 fight:1 early:1 proxy:1 shows:1
+stock_SBUX r_down	employee:1 stock-option:1 completes:1 swap:1
+stock_SBUX r_down	's:2
+stock_SBUX r_down	firm:1 --:1 media:1 social:1 you:1 your:1
+stock_SBUX r_up	7.3:1
+stock_SBUX r_up	5.2:1
+stock_SBUX r_down	gaining:1 confidence:1 's:1 food:1 changes:1 recipes:1 drop:2 sales:1 lift:1 biggest:1 stocks:2 consumer:1 declining:1
+stock_SBUX r_up	funds:1 drink:1 up:1
+stock_SBUX r_up	week:1 13-17:1 top:1 stories:1
+stock_SBUX r_up	focus:1
+stock_SBUX r_down	results:1 after:1 tops:1 focus:1 shares:1 up:1 heat:1 improves:1 traffic:1 targets:1 store:1
+stock_SBUX r_up	gaining:1 lower:1 after:1 's:2 futures:1 results:1 shares:1 focus:1 jump:1 improves:1 traffic:1 bank:1 biggest:1 outlook:1 stocks:1 declining:1 stock:1
+stock_SBUX r_down	11:1 18:1
+stock_SBUX r_down	week:1 stories:1 top:1 's:1 20-24:1
+stock_SBUX r_up	lowers:1 recovery:1 sectors:1 drink:1 some:1 winning:1 hikes:1 others:1 prices:1 confirms:1
+stock_SBUX r_down	view:1 more:1
+stock_SBUX r_down	basket:1 fund:1 fills:1 favorites:1 stock:1
+stock_SBUX r_down	fix:1 coffee:1 next:1
+stock_SBUX r_up	battle:1 brews:1 instant:1 up:1
+stock_SBUX r_down	effect:1
+stock_SBUX r_down	stories:1 top:1 2:1 's:1
+stock_SBUX r_down	focus:1
+stock_SBUX r_up	outlook:1 barometer:1 surprises:1 focus:1 advisories:1 trends:1 economic:1 improving:1 lifts:1
+stock_SBUX r_up	gaining:1 10:1 lower:1 's:2 $:1 unemployment:1 gov't:1 futures:1 tops:1 focus:1 up:1 turn:1 bln:1 seeks:1 biggest:1 15:1 stocks:1 data:1 declining:1
+stock_SBUX r_down	legs:1 's:1 have:1
+stock_SBUX r_down	vs.:1 war:1 wakes:1
+stock_SBUX r_up	's:1
+stock_SBUX r_up	's:1
+stock_SBUX r_down	's:1
+stock_SBUX r_down	's:1 2010:1
+stock_SBUX r_up	may:1 poised:1 run:1 extend:1 shares:1
+stock_SBUX r_down	outlook:1 lifts:1 focus:1 sales:1 improve:1
+stock_SBUX r_up	shine:1 disappoint:1 jobless:1 surprises:1 futures:1 focus:1 shares:1 late:1 advisories:1 trading:1 fall:1 claims:1 stock:1
+stock_SBUX r_down	price:1 's:1 ups:1 targets:1
+stock_SBUX r_down	2.7:1
+stock_SBUX r_down	's:1
+stock_SBUX r_down	recession:1 resilience:1 shows:1
+stock_SBUX r_up	's:1
+stock_SBUX r_up	sell:1 coffee:1 's:1
+stock_SBUX r_down	bets:1 stocks:1 best:1 investors:1
+stock_SBUX r_down	snared:1
+stock_SBUX r_up	week:1 stories:1 top:1 's:1
+stock_SBUX r_up	gone:1 says:1 pickings:1 easy:1 's:1 analyst:1
+stock_SBUX r_up	focus:1
+stock_SBUX r_up	1:1 's:1 $:1
+stock_SBUX r_down	shareholders:1 rewards:1 's:1 surprises:1 age:1 advisories:1 dividend:1 comes:1 first:1
+stock_SBUX r_down	lower:1 rise:1 end:1 two-day:1 after:1 stocks:1
+stock_SBUX r_down	funds:1 hedge:1 builds:1 cash:1 vogue:1
+stock_SBUX r_down	brighter:1 economy:1
+stock_SBUX r_up	's:1 security-tabs:1 fall:1
+stock_SBUX r_up	's:1 ad:1 --:1 surprises:1 cheers:1 advisories:1 plan:1 draws:1 jeers:1
+stock_SBUX r_up	outlook:1 's:2 clash:1 surprises:1 coffee:1 focus:1 better:1 advisories:1 traffic:1 lifts:1 store:1
+stock_SBUX r_up	gaining:1 's:1 tumble:1 focus:1 shares:1 forecasts:1 biggest:1 stocks:1 declining:1
+stock_SBUX r_up	end:1 business:1 people:1 politicians:1 trumps:1 home:1 led:1 stocks:1 builders:1 higher:1
+stock_SBUX r_up	spending:1 deals:1 stocks:1 transport:1 surge:1
+stock_SBUX r_down	everyone:1 's:1 afraid:1
+stock_SBUX r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_SBUX r_up	niche:1 sees:1 coffee:1 flavored:1
+stock_SBUX r_up	portfolio:1 travel-sector:1 stocks:1 your:1
+stock_SBUX r_up	late:1 rise:1 trading:1 out:1
+stock_SBUX r_up	20:2
+stock_SBUX r_up	die:1 live:1
+stock_SBUX r_up	's:1
+stock_SBUX r_up	vs.:1
+stock_SBUX r_up	vs.:1
+stock_SBUX r_down	's:2
+stock_SBUX r_up	's:1
+stock_SBUX r_down	after:1 surprises:1 rise:1 watch:1 advisories:1 earnings:1
+stock_SBUX r_down	hit:1 cautious:1 's:2 takes:1 profit:1 trades:1 up:1 but:1 late:1 lifts:1 dividend:1 comeback:1 boosts:1
+stock_SBUX r_up	88:1
+stock_SBUX r_up	's:1
+stock_SBUX r_up	n't:1 's:1
+stock_SBUX r_down	13-year:1 futures:1 jolt:1 high:1 near:1 producers:1
+stock_SBUX r_down	into:1
+stock_SBUX r_down	prices:1 drink:1 some:1 focus:1 raise:1
+stock_SBUX r_up	's:1
+stock_SBUX r_down	21:1
+stock_SBUX r_down	's:1
+stock_SBUX r_up	market’s:1 's:1 opportunities:1 buying:1
+stock_SBUX r_up	's:1
+stock_SBUX r_down	rise:1 inflation:1 2011:1 into:1
+stock_SBUX r_down	explode:1 set:1 disaster:1
+stock_SBUX r_up	focus:1
+stock_SBUX r_up	8.5:1 focus:1 slumps:1 up:1 late:1 trading:1
+stock_SBUX r_up	outlook:1 raises:1 open:1 market:1 stocks:1 end:1 profit:1 two-year:1 stock:1 week:1 jobs:2 may:1 highs:1 after:1 gain:1 report:1 strong:1 data:1 rift:1 futures:1 up:1 single-cup:1 doubles:1 spotlight:1
+stock_SBUX r_up	n't:1 's:1
+stock_SBUX r_down	arbitration:1 's:3 deal:1 sales:1 focus:1 aid:1 seeks:1 dispute:1
+stock_SBUX r_up	taps:1 grocery:1 take:1 storm:1 push:1 new:1
+stock_SBUX r_up	using:1 office:1 home:1
+stock_SBUX r_up	spotlight:1 contract:1 enforce:1 seeks:1 crisis:1
+stock_SBUX r_up	brews:1 's:1 barista:1 chosen:1 pictures:1 winning:1 finalists:1 strong:1 blend:1
+stock_SBUX r_down	's:1
+stock_SBUX r_up	halting:1 n't:1 deal:1
+stock_SBUX r_down	's:1
+stock_SBUX r_up	's:1
+stock_SBUX r_down	2011:1
+stock_SBUX r_down	course:1 's:1
+stock_SBUX r_down	logo:1 drops:1 word:1
+stock_SBUX r_up	2010:1 comes:1
+stock_SBUX r_up	big:1 goes:1
+stock_SBUX r_up	pinched:1 swipe:1 java:1 getting:1 trades:1 wallet:1 costs:1 higher:1
+stock_SBUX r_up	2011:1
+stock_SBUX r_up	's:1
+stock_SBUX r_down	not:1 late:1 hot:1 trades:1 watch:2
+stock_SBUX r_down	outlook:1 retail:1 dip:1 profit:1 surprises:1 jumps:1 shares:1 advisories:1 lift:1 walks:1 line:1 stocks:1 fine:1 44:1
+stock_SBUX r_down	leader:1 profits:1
+stock_SBUX r_up	's:1
+stock_SBUX r_up	5.3:1 's:1 wins:1 extends:1 gain:1 appetite:1 consumer:1
+stock_SBUX r_down	prices:1 pressures:1 coffee:1 good:1 thirst:1
+stock_SBUX r_up	joins:1 trend:1 late:1 board:1 slip:1 bucks:1
+stock_SBUX r_up	's:1
+stock_SBUX r_up	's:1
+stock_SBUX r_down	gaining:1 wary:1 19:1 media:1 social:1 biggest:1 firms:1 stocks:1 declining:1
+stock_SBUX r_down	's:1
+stock_SBUX r_up	takes:1 aim:1 single-cup:1 crowds:1 market:1 kitchen:1
+stock_SBUX r_down	's:1
+stock_SBUX r_down	's:1 its:1
+stock_SBUX r_up	percolates:1 deal:1 phone:1 mobile:1 possible:1 credit:1
+stock_SBUX r_up	's:1
+stock_SBUX r_up	's:1
+stock_SBUX r_up	pact:1 futures:1 global:1 routed:1 weighed:1 concerns:1 fall:1 brew:1 latest:1 data:2 stock:1
+stock_SBUX r_down	gaining:1 coffee:1 sees:1 option:1 trend:1 big:1 drop:1 trick:1 biggest:1 tries:1 gain:1 new:1 improving:1 insiders:1 stocks:2 miss:1 declining:1
+stock_SBUX r_down	forge:1 companies:1 ahead:1
+stock_SBUX r_up	sell:1 do:2 good:1 brewer:1 well:1 also:1 single-cup:1
+stock_SBUX r_up	's:1
+stock_SBUX r_up	's:1
+stock_SBUX r_down	's:1
+stock_SBUX r_down	add:1 heft:1 rebalance:1 100:1
+stock_SBUX r_up	sell:1 stocks:1
+stock_SBUX r_up	starts:1 exec:1 service:1 deal:1 loses:1
+stock_SBUX r_up	rise:1 20:2 ahead:1 profit:1 futures:1 watch:2 up:1 sales:1 climbing:1 stock:1
+stock_SBUX r_down	20:1 surprises:1 watch:1 advisories:1 brightens:1 after-hours:1
+stock_SBUX r_down	100:1 up:1
+stock_SBUX r_up	files:1 $:1 parent:1 million:1 n't:1 400:1 vs.:1
+stock_SBUX r_down	up:1
+stock_SBUX r_down	's:1
+stock_SBUX r_up	food:1 rivals:1 tops:1 commodities:1 fight:1
+stock_SBUX r_down	rescue:1
+stock_SBUX r_up	price:1 more:1 increases:1 drinkers:1 face:1
+stock_SBUX r_up	stock-price:1 edge:1 targets:1 higher:1
+stock_SBUX r_down	's:1 3.1:1
+stock_SBUX r_down	11:2 21:3
+stock_SBUX r_down	house:1 chief:1 continuing:1 clean:1
+stock_SBUX r_up	mobile:1 code:1 advertising:1
+stock_SBUX r_up	watch:1
+stock_SBUX r_up	seen:1 promising:1
+stock_SBUX r_down	18:1 share:1 $:2 seeks:1 's:1
+stock_SBUX r_up	's:2
+stock_SBUX r_down	's:1
+stock_SBUX r_down	's:1
+stock_SBUX r_down	19:1 solid:1 demand:1 $:1 priced:1
+stock_SBUX r_down	47:1 vs.:1 35:1
+stock_SBUX r_up	's:1 $:1 tops:1 jolt:1 34:2 increase:1 mark:1 new:1 100:1 openings:1 enjoys:1 store:1
+stock_SBUX r_up	disappoints:1 after:1 surprises:1 harder:1 futures:2 watch:2 34:1 delay:1 advisories:1 waver:1 fall:1
+stock_SBUX r_down	$:1 8.4:1
+stock_SBUX r_up	1:1
+stock_SBUX r_down	's:2
+stock_SBUX r_down	's:1
+stock_SBUX r_up	$:1
+stock_SBUX r_up	weigh:1 stock:1
+stock_SBUX r_down	sector:1 bright:1 spot:1
+stock_SBUX r_down	's:1
+stock_SBUX r_up	2:1
+stock_SBUX r_down	10:1 beat:1 glamour:1 gloomy:1 stocks:1 market:1
+stock_SBUX r_down	critique:1 drop:1 's:1 shares:1 after:1
+stock_SBUX r_up	's:1
+stock_SBUX r_down	's:1
+stock_SBUX r_down	's:1
+stock_SBUX r_up	conquest:1 29:2 resumes:1
+stock_SBUX r_up	hours:1 after:2 's:1 string:1 lead:1 flourish:1 futures:1 watch:1 sales:1 29:1 break:1 hikes:1 stock:1 slip:1 weekly:1 dividend:1 payrolls:1 stocks:1 data:1 gains:1
+stock_SBUX r_down	but:1
+stock_SBUX r_up	25:1 's:1
+stock_SBUX r_up	'':1 ``:1 's:2
+stock_SBUX r_down	's:1
+stock_SBUX r_up	's:1
+stock_SBUX r_up	stock-picking:1 game:1 your:1
+stock_SBUX r_up	3:1
+stock_SBUX r_down	push:1 advance:1 stocks:1
+stock_SBUX r_up	vs.:1
+stock_SBUX r_up	hours:1 after:1 's:1 consumers:1 drop:1 watch:1 shares:1 down:1 strength:1 rides:1
+stock_SBUX r_down	surprises:1 advisories:1
+stock_SBUX r_up	's:1
+stock_SBUX r_up	bets:1 brand:1 enters:1
+stock_SBUX r_down	locks:1 outlook:1 costs:1 coffee:1 backs:1
+stock_SBUX r_down	3,000:1 nears:1 wings:1
+stock_SBUX r_down	's:1
+stock_SBUX r_up	n't:1
+stock_SBUX r_up	's:1 watch:1
+stock_SBUX r_up	coffee:2 unveils:1 's:1 brewer:1 futures:1 watch:1 next:1 report:1 edge:1 single-cup:1 battle:1 jobs:1 higher:1 war:1 stock:1
+stock_SBUX r_down	futures:1 watch:1 fall:1 stock:1 meeting:1 before:1
+stock_SBUX r_up	short:1 long:1
+stock_SBUX r_up	biggest:1 gaining:1 stocks:1 declining:1
+stock_SBUX r_up	n't:1 's:1
+stock_SBUX r_up	's:1
+stock_SBUX r_up	line:1 shot:1 caffeine:1
+stock_SBUX r_down	's:1

@@ -1,0 +1,200 @@
+stock_LEN r_up	initiates:1 view:1 positive:1 coverage:1 home-builder:1
+stock_LEN r_down	focus:1
+stock_LEN r_up	gaining:1 's:1 62:1 biggest:1 stocks:1 declining:1 view:1
+stock_LEN r_up	surprises:1 advisories:1
+stock_LEN r_down	downbeat:1 season:1 another:1 braces:1 earnings:1
+stock_LEN r_down	2:1 '07:1 's:2 $:1
+stock_LEN r_down	profit:1 over:1 reports:1 jitters:1 fall:1 stocks:1 grow:1
+stock_LEN r_up	...:1
+stock_LEN r_up	11:1
+stock_LEN r_up	lift:1 data:1 stocks:1
+stock_LEN r_up	into:1
+stock_LEN r_down	$:1
+stock_LEN r_down	move:1 higher:1 indexes:1
+stock_LEN r_up	retreats:1 oil:1 gain:1
+stock_LEN r_down	's:1
+stock_LEN r_up	's:1
+stock_LEN r_down	week:1 busy:1 off:1 brace:1 housing:1 but:1 shake:1 stocks:1 data:1
+stock_LEN r_down	loss:1 lower:1 narrows:1 's:2 revenue:1 surprises:1 futures:1 focus:1 but:1 slides:1 61:2 note:1 advisories:1 sharply:1 quarterly:1 2008:1 data:1 n't:1 after:1 stock:1
+stock_LEN r_down	losses:1 tumble:1 oil:1 nears:1 sharp:1 's:2 market:1 weekly:1 low:1 $:1 investor:2 since:1 build:2 tumbles:1 biggest:1 markets:1 stock:1 gaining:1 plunge:1 142:1 after:1 bear:1 worst:1 lows:1 post:1 stocks:3 data:1 declining:1 hits:1 off:1 futures:1 '08:1 worries:2
+stock_LEN r_down	dealers:1 no:1 hike:1 rise:1 see:1 yields:1 bond:1
+stock_LEN r_up	lower:1 way:1 pave:1 sharply:1 close:1 stocks:1 financials:1
+stock_LEN r_down	's:1
+stock_LEN r_down	home-building:1 's:1 revenue:1 34:1 quarter:1 preliminary:1 falls:1
+stock_LEN r_down	pressure:1 stocks:1 financial:1
+stock_LEN r_up	stocks:1 bailout:1 surge:1
+stock_LEN r_down	divided:1 stocks:1 bombshell:1 after:1 home-builder:1
+stock_LEN r_down	loss:1 narrows:1 help:1 calls:1 government:1 surprises:1 focus:1 hearing:1 advisories:1 builders:1 spotlight:1
+stock_LEN r_up	gaining:1 lower:1 's:1 14:1 amid:1 indecision:1 plan:1 sharply:1 biggest:1 end:1 stocks:2 declining:1 rescue:1
+stock_LEN r_up	's:1
+stock_LEN r_up	industries:1 action:1 piece:1 bailout:1 want:1
+stock_LEN r_down	75:1
+stock_LEN r_down	starts:1 rated:1 builders:1 outperform:1
+stock_LEN r_down	1.4:1 's:1 $:1
+stock_LEN r_down	's:1
+stock_LEN r_up	's:2 but:1
+stock_LEN r_up	program:1 spotlight:1
+stock_LEN r_up	's:1
+stock_LEN r_up	tumble:1 zigzag:1 retailers:1 sales:1
+stock_LEN r_up	rally:1 stocks:1 mortgage:1 talk:1 plan:1
+stock_LEN r_up	gaining:1 's:1 help:1 asks:1 industry:1 killing:1 inventory:1 biggest:1 home:1 stocks:1 builders:1 declining:1
+stock_LEN r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_LEN r_down	loss:1 narrows:1 says:1 $:1 housing:1 spiral:1 but:1 focus:1
+stock_LEN r_down	gaining:1 's:3 41:1 biggest:1 stocks:1 declining:1
+stock_LEN r_up	spotlight:1
+stock_LEN r_down	loss:1 narrows:1 revenue:1 surprises:1 but:1 advisories:1 cut:1 half:1
+stock_LEN r_down	futures:1 n't:1 near:1 earnings:1 meander:1 stock:1
+stock_LEN r_down	2006:1
+stock_LEN r_up	buy:1 's:1 builder:1 after:1 shares:1 upgrades:1 rises:1 analyst:1
+stock_LEN r_down	gaining:1 's:1 investors:1 some:1 sales:1 cheer:1 spike:1 biggest:1 home:1 stocks:1 find:1 declining:1
+stock_LEN r_up	loss:1 narrows:1 's:1 fewer:1 write-offs:1 rises:1 stock:1
+stock_LEN r_up	loss:1 selling:1 jobs:1 300:1 brace:1 reports:1 quarterly:1 cutting:1 another:1 spring:1 wider:1 tough:1 builders:1 season:1
+stock_LEN r_down	loss:1 smaller:1 's:1 recovery:1 focus:1 but:1 plan:1 rallies:1 weigh:1 stocks:1 builders:1 cycle:1
+stock_LEN r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_LEN r_up	eases:1 financial:1 shares:1
+stock_LEN r_down	selloff:1 after:1 's:1 take:1 breather:1
+stock_LEN r_up	rally:1 inspires:1 gains:1
+stock_LEN r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_LEN r_up	show:1 starts:1 housing:1 8217:1 upturn:1 shares:1 home-builder:1 lifting:1
+stock_LEN r_up	1:1
+stock_LEN r_down	loss:1 rise:1 's:2 deeper:1 futures:1 focus:1 first:1 final:1 quarter:1 points:1 quarterly:1 pain:1 stock:1 builders:1 spotlight:1 day:1 more:1
+stock_LEN r_down	gaining:1 's:1 surprises:1 advisories:1 biggest:1 stocks:1 declining:1
+stock_LEN r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_LEN r_up	'09:1
+stock_LEN r_up	gaining:1 's:3 before:1 housing:1 futures:1 focus:1 up:1 edge:1 biggest:1 stocks:1 data:1 declining:1 stock:1
+stock_LEN r_down	's:1
+stock_LEN r_up	water:1 far:1 treading:1 so:1 year:1 stocks:1
+stock_LEN r_up	focus:1
+stock_LEN r_up	gaining:1 loss:1 's:2 21:1 investors:1 surprises:1 posts:1 but:1 improvement:1 foreclosures:1 see:1 advisories:1 biggest:1 resets:1 stocks:1 brace:1 spotlight:1 declining:1 more:1
+stock_LEN r_down	index:1 lower:1 hit:1 revenue:1 drop:1 shares:1 below:1 200-day:1 take:1 gloom:1 spells:1 8:1 climb:1 higher:1 's:3 orders:1 revs:1
+stock_LEN r_up	's:1
+stock_LEN r_up	set:1 sights:1 earnings:1 fade:1 doubts:1 stocks:1
+stock_LEN r_up	...:1
+stock_LEN r_down	's:1
+stock_LEN r_up	42:1 $:1
+stock_LEN r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_LEN r_up	's:3
+stock_LEN r_down	downgrade:1 analyst:1 shares:1 fall:1
+stock_LEN r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_LEN r_down	gaining:1 loss:1 lower:1 's:1 kick:1 futures:1 off:1 prices:1 week:1 nearly:1 volumes:1 fall:1 biggest:1 doubles:1 stocks:1 spotlight:1 declining:1 stock:1
+stock_LEN r_down	2.9:1 's:1 4.2:1
+stock_LEN r_down	's:1 $:1
+stock_LEN r_up	tug-of-war:1 play:1 stocks:1 builder:1
+stock_LEN r_up	mortgages:1 99:1 adjusted:1 plan:1 500,000:1
+stock_LEN r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_LEN r_up	biggest:1 gaining:1 stocks:1 's:3 declining:1
+stock_LEN r_down	industry:1 returns:1 housing:1 market:1 stock:1
+stock_LEN r_up	stimulus:1 eye:1 analysts:1 sectors:1 stock:1
+stock_LEN r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_LEN r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_LEN r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_LEN r_up	biggest:1 gaining:1 stocks:1 's:3 declining:1
+stock_LEN r_down	's:1
+stock_LEN r_up	takes:1 stock:1 troubled:1 builders:1 market:1 view:1
+stock_LEN r_down	's:1
+stock_LEN r_up	buyers:1 mortgage:1 some:1 rates:1 entice:1 home:1
+stock_LEN r_down	beckon:1 home:1 buyers:1 rates:1 mortgage:1
+stock_LEN r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_LEN r_down	after:1 sale:1 shares:1 hours:1 sours:1 fall:1 stock:1
+stock_LEN r_up	's:1
+stock_LEN r_up	offer:1 focus:1 shares:1 common:1 slip:1 debt:1 stock:1
+stock_LEN r_up	gaining:1 swings:1 's:2 jobless:1 after:1 profit:1 futures:1 off:1 remain:1 biggest:1 rally:1 stocks:2 data:1 spotlight:1 declining:1 stock:1
+stock_LEN r_up	surprises:1 advisories:1
+stock_LEN r_down	sees:1 revenue:1 profit:1 dips:1 tax:1 benefit:1
+stock_LEN r_down	after:1 call:1 analyst:1 shares:1 diverge:1
+stock_LEN r_up	sector:1 lift:1 gets:1
+stock_LEN r_down	biggest:1 gainers:1 decliners:1 's:1
+stock_LEN r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_LEN r_up	n't:1 scoops:1 loans:1 distressed:1 up:1
+stock_LEN r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_LEN r_up	lackluster:1 building:1 ``:1 stocks:1 '':1
+stock_LEN r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_LEN r_up	recovery:1 housing:1 long:1 see:1 choppy:1 execs:1
+stock_LEN r_up	focus:1
+stock_LEN r_up	slow:1 sinks:1 surprises:1 durable:1 rise:1 focus:1 sales:1 data:1 advisories:1 euro:1 goods:1 home:1 drop:1 stocks:1 durables:1 after:1 futures:1
+stock_LEN r_up	lower:1 rise:1 end:1 two-day:1 after:1 -2:1 stocks:1 2010:1
+stock_LEN r_down	tallies:1 first:1 years:1 500:1 quarter:1 best:1 dozen:1
+stock_LEN r_down	500:3
+stock_LEN r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_LEN r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_LEN r_up	led:1 end:1 home:1 stocks:1 builders:1 higher:1
+stock_LEN r_up	but:1
+stock_LEN r_down	profit:1 posts:1 shares:1 resist:1 dip:1 market:1
+stock_LEN r_down	n't:1
+stock_LEN r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_LEN r_down	'':1 ``:1 's:1
+stock_LEN r_down	's:1
+stock_LEN r_down	3.25:1
+stock_LEN r_down	n't:1
+stock_LEN r_down	n't:1
+stock_LEN r_down	may:1 data:1 builder:1 spur:1 stocks:1 meeting:1
+stock_LEN r_up	focus:1
+stock_LEN r_down	``:1 goods:1 confirm:1 surprises:1 durable:1 futures:1 focus:1 've:1 '':1 ugly:1 advisories:1 worries:1 weigh:1 builders:1 orders:2 stock:1
+stock_LEN r_up	23:1
+stock_LEN r_down	's:1
+stock_LEN r_down	's:2 $:2 1.3:2
+stock_LEN r_up	sector:1 drop:1 builders:1 after:1 cuts:1
+stock_LEN r_down	trump:1 housing:1 rise:1 earnings:1 stocks:1 data:1
+stock_LEN r_down	's:1 third:1 up:1 2010:1 year:1 rally:1 stocks:1 day:1
+stock_LEN r_up	stocks:1 36:1 symptom:1 lead:1
+stock_LEN r_up	report:1 jobs:1 log:1 ahead:1 gains:1
+stock_LEN r_up	n't:1
+stock_LEN r_up	index:1 swings:1 end:1 profit:1 surprises:1 housing:1 stuck:1 advisories:1 biggest:1 higher:1 gaining:1 's:1 finishes:1 rise:1 gas:1 lows:1 tanks:1 multi-month:1 stocks:2 data:1 declining:1 natural:1 ahead:1 builder:1 futures:2 surge:1 recession:1
+stock_LEN r_up	rally:1 stocks:1 call:1
+stock_LEN r_up	2-3:1 $:1
+stock_LEN r_up	biggest:1 gaining:1 stocks:1 declining:1
+stock_LEN r_up	gaining:1 's:2 sales:1 jump:1 biggest:1 home:1 stocks:1 declining:1
+stock_LEN r_up	slips:1 lifted:1 stocks:1 builders:1 energy:1
+stock_LEN r_up	surprises:1 advisories:1
+stock_LEN r_down	leads:1 gain:1 after-hours:1
+stock_LEN r_up	10:2 's:1 surprises:1 watch:1 advisories:1 2009:1 spotlight:1
+stock_LEN r_up	biggest:1 gaining:1 stocks:1 watch:1 declining:1
+stock_LEN r_up	helped:1 fuel:1 boom:1
+stock_LEN r_down	's:1
+stock_LEN r_up	starts:1 housing:1 rebound:1 pace:1
+stock_LEN r_up	's:1
+stock_LEN r_down	yearly:1 22.5:1 record-low:1 gains:1 nuclear:1 housing:1 starts:1 slump:1 near:1 lose:1 crisis:1
+stock_LEN r_up	sell:1 lower:1 now:1 later:1 stock:1
+stock_LEN r_down	again:1 profit:1 turns:1 futures:1 focus:2 but:1 shares:1 edge:1 stock:1 higher:1 data:1 retreat:1 home-price:1
+stock_LEN r_down	energy:1 telecom:1 rebound:1 stocks:1 bid:1 higher:1
+stock_LEN r_up	s:1 's:1
+stock_LEN r_up	than:1
+stock_LEN r_up	2014:1
+stock_LEN r_up	2008:1
+stock_LEN r_down	not:1 houses:1 housing:1 stock:1
+stock_LEN r_up	billionaire:1 could:1 reverse:1
+stock_LEN r_up	bleaker:1 views:1 stocks:1 watch:1 fall:1
+stock_LEN r_up	rise:1 's:1 jobless:1 futures:1 watch:1 65:7 fall:1 claims:1 stock:1
+stock_LEN r_down	surprises:1 advisories:1
+stock_LEN r_up	ropes:1 short-seller:1 against:1
+stock_LEN r_up	14.6:1 starts:1 rise:1 five-month:1 high:1 advancing:1 biggest:1 stocks:1 declining:1
+stock_LEN r_up	5:1
+stock_LEN r_up	surprises:1 advisories:1
+stock_LEN r_up	decliner:1 builders:1 worst:1 mixed:1 trade:1
+stock_LEN r_down	can’t:1 catch:1 trims:1 break:1 outlook:1
+stock_LEN r_up	watch:1 31:3 's:2
+stock_LEN r_down	2010:1
+stock_LEN r_down	874:1
+stock_LEN r_down	biggest:1 gaining:1 stocks:1 declining:1
+stock_LEN r_down	watch:1
+stock_LEN r_down	650:1
+stock_LEN r_up	bonds:1 housing:1 up:1 3:1 rally:1 stocks:1 337:1
+stock_LEN r_up	starts:1 highest:1 14:1 since:1 2010:1
+stock_LEN r_down	sell:1 says:1
+stock_LEN r_up	's:1
+stock_LEN r_down	biggest:1 gaining:1 stocks:1 declining:1
+stock_LEN r_up	5.5:1 profit:1 surprises:1 futures:1 watch:1 but:1 falls:1 jitters:1 advisories:1 fall:1 margins:1 stock:1 revs:1 improve:1
+stock_LEN r_down	bulk:1 indexes:1 recoup:1 losses:1 stock:1
+stock_LEN r_down	's:2
+stock_LEN r_up	hasty:1 rally:1 host:1 stocks:1
+stock_LEN r_down	rise:1 stocks:1 builder:1 sentiment:1
+stock_LEN r_down	builder:1 rises:1 fifth:1 sentiment:1 month:1
+stock_LEN r_down	home:1 bright:1 builders:1 long:1 but:1
+stock_LEN r_up	9:1
+stock_LEN r_down	closes:1 after:1 selloff:1 13,000:1 late:1 below:1
+stock_LEN r_up	stocks:1 results:1 after:1 surge:1
+stock_LEN r_up	rise:1 stocks:1 outlook:1 debt:1 swap:1
+stock_LEN r_down	5:1
+stock_LEN r_down	hit:1 stocks:1 's:1 data:1
+stock_LEN r_up	's:1 gains:1 extend:1 futures:1 watch:1 struggle:1 stock:1
+stock_LEN r_up	gaining:1 amid:1 bottom:1 signs:1 retrench:1 housing:1 after:1 advisories:1 surprises:1 biggest:1 rally:2 stocks:3 steep:1 declining:1

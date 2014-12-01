@@ -1,0 +1,345 @@
+stock_BRCM r_down	down:1 data:1 gets:1 economic:1 dragged:1
+stock_BRCM r_up	's:1 $:1
+stock_BRCM r_up	demand:1 fall:1 weak:1 shares:1 forecast:1 3:1 cuts:1 forecasts:1 reduced:1
+stock_BRCM r_up	'07:1 's:1 $:1
+stock_BRCM r_up	n't:1
+stock_BRCM r_up	cell:1 phone:1 concerns:1 downgraded:1
+stock_BRCM r_up	7:1
+stock_BRCM r_down	start:1 second-quarter:1 bullish:1 technically:1
+stock_BRCM r_up	0.9:1
+stock_BRCM r_down	framework:1 vendors:1 plan:1 upgrades:1 speed:1 agree:1
+stock_BRCM r_up	expected:1 profit:1 post:1 gain:1
+stock_BRCM r_up	expected:1 report:1 profit:1 28:1 gain:1
+stock_BRCM r_down	outlook:1 drop:1 10c:1 focus:2 14c:1 out:1 20:1 $:1 22:1 profit:1 28:1 500:1 stock:1 breaks:1 resistance:1 cautious:1 gain:1 rises:1 case:1 fraud:1 settles:1 posts:1 options:1
+stock_BRCM r_up	outlook:1 revenue:1 win:1 results:3 jump:1 beats:1 moves:1 closes:1 20:1 $:1 22:2 profit:1 broad:1 altitude:1 shares:1 favor:1 leap:1 biggest:1 higher:1 gaining:1 after:1 's:1 gains:1 rise:1 lift:1 gain:1 stocks:3 declining:1 lower:1 15:1 solid:1 reports:1 tech:1 view:1
+stock_BRCM r_up	blue:1 move:1 chips:1 up:1
+stock_BRCM r_up	62:2 21:1
+stock_BRCM r_up	loss:1 plunge:1 write-off:1 taking:1 reporting:1 shares:1 after:1
+stock_BRCM r_down	's:1
+stock_BRCM r_up	19:1
+stock_BRCM r_up	technical:1 engaged:1 markets:1 tug-of-war:1
+stock_BRCM r_up	files:1 charges:1 against:1 current:1 4:2 former:1 execs:1
+stock_BRCM r_down	upgrade:1 rises:1
+stock_BRCM r_up	leads:1 sector:1 technology:1 higher:1
+stock_BRCM r_up	's:1 founder:1 clients:1 accused:1 spiking:1 drinks:1
+stock_BRCM r_down	sector:1 gains:1 tech:1 close:1 highlight:1 market:1
+stock_BRCM r_down	outlook:1 revenue:1 lackluster:1 midpoint:1 falls:1 midquarter:1 raises:1 forecast:1
+stock_BRCM r_up	gaining:1 fed:1 pleads:1 's:1 founder:1 guilty:1 not:1 report:1 biggest:1 stocks:1 declining:1
+stock_BRCM r_down	's:1
+stock_BRCM r_down	10:1 's:1 investing:1 changed:1 themes:1 doing:1 '08:1 our:1
+stock_BRCM r_up	...:1
+stock_BRCM r_up	case:1 backdating:1 guilty:1 co-founder:1 plead:1
+stock_BRCM r_down	2008:1
+stock_BRCM r_down	muted:1 brings:1 effects:1 but:1 surge:1
+stock_BRCM r_up	close:1 cut:1 stocks:1 market:1 losses:1
+stock_BRCM r_down	profit:1 focus:1 falls:1 1:1 post:1 sales:1 4:1 expected:1 net:1 second-quarter:1 gain:1
+stock_BRCM r_up	focus:1 $:2
+stock_BRCM r_down	lower:1 moves:1 $:2 profit:1 big:1 dips:1 after:1 up:1 shares:1 results:1 jump:1 concerns:1 reports:1 swing:1 expense:1 second-quarter:1
+stock_BRCM r_down	gaining:1 's:2 gains:1 broad:1 leads:1 tech:1 biggest:1 stocks:2 declining:1
+stock_BRCM r_up	gaining:1 's:1 $:1 1:1 biggest:1 stocks:1 declining:1
+stock_BRCM r_up	after:1 breather:1 jump:1 take:1 day-session:1 stocks:1
+stock_BRCM r_up	sector:1 rally:1 chips:1 lead:1
+stock_BRCM r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_BRCM r_down	losses:1 close:1 stocks:1 broad:1
+stock_BRCM r_up	blow:1 12:1 dealt:1
+stock_BRCM r_down	sell:1 begins:1 $:1 futures:1 wave:1 flattish:1 data:1 spotlight:1 unit:1 stock:1
+stock_BRCM r_down	sell-off:1 market:1 pounded:1 get:1
+stock_BRCM r_down	sector:1 stocks:1 technology:1 retreat:1 lead:1
+stock_BRCM r_down	's:1
+stock_BRCM r_down	sector:1 hit:1 but:1 manages:1 tech:1 take:1 close:1 makers:1 gain:1
+stock_BRCM r_up	sector:1 chips:1 lead:1 higher:1
+stock_BRCM r_down	sector:1 turmoil:1 plummet:1 financial:1 roils:1 stocks:1
+stock_BRCM r_up	n't:1
+stock_BRCM r_up	24:1 sector:1 $:2 lead:1 30:1 2:2 rally:1 14:1
+stock_BRCM r_up	68:1 're:1 's:1
+stock_BRCM r_down	sector:1 broad:1 stocks:1 slump:1 fall:1
+stock_BRCM r_down	'':1 ``:1
+stock_BRCM r_down	operations:1 off:1 chip:1 manufacturing:1 spin:1
+stock_BRCM r_up	's:2
+stock_BRCM r_down	``:1 court:1 asks:1 erratic:1 '':1 session:1 mixed:1 close:1 stocks:1 unenforceable:1 declare:1 patents:1
+stock_BRCM r_up	move:1 legal:1 calls:1
+stock_BRCM r_up	's:1
+stock_BRCM r_up	lower:1 revenue:1 weak:1 trends:1 expected:1 post:1 downgraded:1
+stock_BRCM r_up	lower:1 revenue:1 muted:1 outlook:1 report:1 expected:1
+stock_BRCM r_down	4.5:1 outlook:1 evening:1 led:1 $:2 worsen:1 downgrades:1 trades:1 focus:1 shares:1 forecast:1 disappointing:1 prompts:1 tech:1 fall:1 9:1 sees:1 drop:1 stocks:1 profits:1 higher:1
+stock_BRCM r_up	huge:1 profit:1 weak:1 hammered:1 reports:1 focus:1 jump:1 spread:1 earnings:1 quarterly:1 stocks:1
+stock_BRCM r_up	gaining:1 outlook:1 's:1 profit:1 shares:1 jump:1 surpasses:1 biggest:1 stocks:1 declining:1
+stock_BRCM r_up	bears:1 both:1 treacherous:1 backdrop:1 bulls:1
+stock_BRCM r_down	processor:1 digital:1 completes:1 business:1 sale:1
+stock_BRCM r_up	5:1 '09:1
+stock_BRCM r_up	production:1 cutting:1 says:1 back:1 analyst:1
+stock_BRCM r_down	11:1 '09:1 22:1
+stock_BRCM r_down	'':1 ``:1
+stock_BRCM r_down	n't:1
+stock_BRCM r_down	2009:1 sees:1 drop:1 slump:1 sales:1 stocks:1
+stock_BRCM r_down	2.4:1
+stock_BRCM r_up	slips:1 2:1 warns:1 surges:1 's:1
+stock_BRCM r_up	's:1 n't:1 2:1 tech:1 rally:1 highlight:1
+stock_BRCM r_down	's:1
+stock_BRCM r_up	chorus:1 1.05:1 $:2 warnings:1 downbeat:1 surprises:1 chip:2 cuts:1 sales:1 round:1 leads:1 advisories:1 earnings:1 joins:1 tumbles:1 news:1 forecasts:1 makers:1
+stock_BRCM r_up	sector:1 n't:1 outlook:1 warnings:1 ca:1 rise:1 sales:1 shares:1 jump:1 lift:1 tech:1 earnings:1 despite:1 rest:1 lowers:1
+stock_BRCM r_down	headwinds:1 notes:1 upgrades:1 faces:1 still:1 maker:1 chip:1
+stock_BRCM r_up	12:1
+stock_BRCM r_up	remains:1 rally:1 play:1 bear-market:1 attempt:1
+stock_BRCM r_up	2009:1 '10:1
+stock_BRCM r_up	2009:1
+stock_BRCM r_down	2009:1
+stock_BRCM r_up	15:1 posting:1 drop:1 -20:1 sales:1 turn:1 gloomy:1 analysts:1 seen:1
+stock_BRCM r_down	12:1 big:1 drop:1 sales:1 quarterly:1 expected:1 post:1 86:1
+stock_BRCM r_up	cut:1 jobs:1 profit:1 big:1 drop:1 posts:1 86:1
+stock_BRCM r_up	jumps:1 results:1 better-than-expected:1
+stock_BRCM r_down	cost-cutting:1 loss:1 swings:1 measures:1 focus:1 3:1 outlines:1
+stock_BRCM r_down	gaining:1 2009:1 's:1 focus:1 shares:1 falls:1 jump:1 losing:1 upside:1 but:1 biggest:1 surprise:1 stocks:1
+stock_BRCM r_up	sector:1 gains:1 give:1 big:1 tech:1 boost:1
+stock_BRCM r_up	5:1 14:1 4.34:1
+stock_BRCM r_down	200:1
+stock_BRCM r_up	n't:1
+stock_BRCM r_up	into:1 settles:1 back:1 earnings:1 post:1 red:1
+stock_BRCM r_up	'':1 amp:1 ``:1
+stock_BRCM r_up	24:1 09:1 22:1 8216:1
+stock_BRCM r_up	sector:1 's:1 ripe:1 bottom:1 revised:1 shares:1 forecast:1 deals:1 failures:1 seen:1 not:1 rally:1 has:1
+stock_BRCM r_up	08:1
+stock_BRCM r_up	2009:1
+stock_BRCM r_up	sector:1 bear-market:1 gains:1 underway:1 fail:1 rally:1 hold:1 swoons:1
+stock_BRCM r_up	lowers:1 outlook:1 negative:1
+stock_BRCM r_down	technical:1 survive:1 tests:1 initial:1 markets:1
+stock_BRCM r_up	expected:1 report:1 lower:1 sales:1 loss:1
+stock_BRCM r_down	sales:1 loss:1 lower:1 focus:1 expects:1
+stock_BRCM r_down	gaining:1 unsolicited:1 's:1 $:1 bid:1 rise:1 shares:1 fall:1 biggest:1 led:1 stocks:1 declining:1
+stock_BRCM r_up	briefly:1 pauses:1 direct:1 action:1 only:1 banks:1 rally:1 stock:1
+stock_BRCM r_up	beat:1 expectations:1 results:1 higher:1
+stock_BRCM r_up	gaining:1 settlement:1 's:2 $:2 chip:1 flu:1 focus:1 shares:2 forecast:1 slide:1 gain:1 fall:1 biggest:1 outbreak:1 stocks:1 declining:1 swine:1
+stock_BRCM r_down	gaining:1 's:1 14:1 surprises:1 advisories:1 declining:1 biggest:1 led:1 stocks:1 chips:1 retreat:1
+stock_BRCM r_down	3.3:1
+stock_BRCM r_up	bid:1 's:1 rejects:1
+stock_BRCM r_up	$:1
+stock_BRCM r_up	led:1 hostile:1 launches:1 bid:1 down:1 edge:1 stocks:1 chip:1
+stock_BRCM r_down	$:1 than:1
+stock_BRCM r_up	needs:1 war:1 video:1 avoid:1 format:1
+stock_BRCM r_down	streak:1 sector:1 ends:1 's:1 winning:1 slips:1
+stock_BRCM r_up	's:1
+stock_BRCM r_up	$:2
+stock_BRCM r_up	5:1 $:1
+stock_BRCM r_up	25:1 threats:1 led:1 1,800:1 tops:1 v.:1 6.4:1 drugs:1 fraud:1 sues:1 rally:1 cites:1
+stock_BRCM r_up	$:1
+stock_BRCM r_up	raised:1 annual:1 shares:1 forecast:1 schedules:1 rally:1 blasts:1 meeting:1
+stock_BRCM r_down	spat:1 takes:1 gamble:1
+stock_BRCM r_up	falter:1 down:1 report:1 stocks:1 ahead:1
+stock_BRCM r_down	gaining:1 11:2 stocks:2 20:1 $:3 19:1 bid:1 share:1 up:1 raises:1 fall:1 biggest:1 's:1 quarter:1 day:1 declining:1
+stock_BRCM r_up	v.:1
+stock_BRCM r_up	jobs:1 approach:1 over:1 falls:1 softer:1 sink:1 broader:1 win:1 news:1 's:1 market:1
+stock_BRCM r_up	ends:1 gains:1 bid:1 drop:1 hang:1 shares:1 close:1 buyout:1 stocks:1
+stock_BRCM r_down	biggest:1 gaining:1 stocks:1 's:2 declining:1
+stock_BRCM r_up	sector:1 $:1 views:1 after:1 results:1 upbeat:1 more:1
+stock_BRCM r_up	2:1 12:1 53:1
+stock_BRCM r_up	'':1 ``:1 5:1 focus:1
+stock_BRCM r_up	flex:1 stocks:1 gains:1 surprises:1 advisories:1 broad:1 close:1 muscle:1
+stock_BRCM r_down	gaining:2 lower:2 's:2 $:1 tumble:1 profit:2 views:1 revenue:1 posts:2 focus:1 shares:1 beats:1 40s:1 biggest:2 90:1 stocks:2 declining:2
+stock_BRCM r_up	17:1 pushes:1 into:1 black:1 techs:1 rally:1 sinks:1
+stock_BRCM r_up	'':1 3.7:1 ``:1
+stock_BRCM r_up	'':2 ``:2
+stock_BRCM r_down	5:1
+stock_BRCM r_down	18.2:1 5.3:1
+stock_BRCM r_down	million:1 $:2 settles:1 options:1 suit:1 118:2
+stock_BRCM r_down	raises:1 views:1
+stock_BRCM r_down	patent:1 infringement:1 sues:1
+stock_BRCM r_down	focus:1 lawsuit:1 unleashes:1 shares:1 fall:1
+stock_BRCM r_down	9/15:1
+stock_BRCM r_up	breaks:1 500:1 target:1 reaches:1 out:1
+stock_BRCM r_up	9:1
+stock_BRCM r_up	consumer:1 dip:1 grim:1 news:1
+stock_BRCM r_down	5:1
+stock_BRCM r_up	'':1 ``:1
+stock_BRCM r_down	99:1 's:1
+stock_BRCM r_up	stocks:1 gains:1 investors:1 broad:1 after:1 put:1 shares:1 keep:1 active:1 downgrade:1 falls:1 analyst:1 day:1
+stock_BRCM r_down	expected:1 post:1 drop:1 sales:1 17:2
+stock_BRCM r_up	4.4:1 drop:1 ahead:1 profit:1 rise:1 shares:1 reports:1 earnings:1
+stock_BRCM r_down	upbeat:1 rises:1 results:1
+stock_BRCM r_up	sector:1 13:1 after:1 focus:2 shares:1 results:1 jump:1 lifts:1 tech:1 close:1 rally:1 market:1
+stock_BRCM r_down	gaining:1 lower:1 's:2 profit:1 posts:1 quarterly:1 biggest:1 stocks:1 declining:1
+stock_BRCM r_down	49:2 $:1 than:1 22:1 6:1
+stock_BRCM r_down	19.7:1
+stock_BRCM r_up	11.6:1 10.2:1
+stock_BRCM r_up	files:1 suit:1 against:1 antitrust:1
+stock_BRCM r_down	's:1
+stock_BRCM r_down	's:1
+stock_BRCM r_down	downgrades:1 chips:1 shares:1 fall:1
+stock_BRCM r_up	178:1 3.5:1 focus:1 $:1
+stock_BRCM r_up	$:1
+stock_BRCM r_down	sector:1 mild:1 tech:1 highlight:1 stocks:1 day:1
+stock_BRCM r_down	far:1 focus:1 bag:1 so:1 filed:1 mixed:1
+stock_BRCM r_up	lower:1 stocks:1 's:3 gains:1 forecast:1 sales:1 chip:1 after:1 results:1 shares:1 trade:1 thanks:1 quarterly:2 rally:1 hold:1 onto:1 raises:1
+stock_BRCM r_up	3:1 's:1 7:1
+stock_BRCM r_down	sector:1 gains:1 tech:1 small:1 claims:1 shines:1
+stock_BRCM r_down	gains:1 sell-off:1 chip:1 mild:1 see:1 despite:1 stocks:1
+stock_BRCM r_down	sector:1 $:1 shares:1 down:1 settle:1 tech:1 slip:1 weigh:1 rises:1 lawsuit:1 options:1
+stock_BRCM r_up	gaining:1 1.7:1 's:1 $:2 highs:1 focus:2 stocks:1 surge:1 biggest:1 delivers:1 2009:1 declining:1
+stock_BRCM r_down	driven:1 sector:1 chip:1 stocks:1 gains:1
+stock_BRCM r_up	gains:1 propel:1 broad:1 chip:1 tech:1 stocks:1
+stock_BRCM r_up	$:1
+stock_BRCM r_down	'':1 ``:1 5:1
+stock_BRCM r_down	...:1 's:1 losse:1 close:1 follow:1 stocks:1 south:1
+stock_BRCM r_up	expected:1 19:1 post:1 sales:1 gain:1
+stock_BRCM r_up	'10:1 6:1
+stock_BRCM r_down	's:1
+stock_BRCM r_up	focus:1
+stock_BRCM r_down	after:1 surprises:1 rise:1 reports:1 advisories:1 shares:1 quarterly:1
+stock_BRCM r_down	swings:1 's:1 profit:1 rise:1 focus:1 sales:1 1:1 19:1
+stock_BRCM r_up	upgraded:1 stocks:1 hit:1 gains:2 sell-off:1 broad:1 hard:1 results:1 but:1 late:1 trading:1 shares:1 dayside:1 bit:1 hold:1 dip:1
+stock_BRCM r_up	close:1 stocks:1 luster:1 market:1 lose:1
+stock_BRCM r_up	bubble:1 negativity:1
+stock_BRCM r_up	rise:1 stocks:1 's:2 shadow:1 gains:1
+stock_BRCM r_up	's:1
+stock_BRCM r_up	gains:1 tentative:1 anniversary:1 mark:1 steps:1 take:1 forward:1 stocks:2 bubble:1
+stock_BRCM r_up	break:1 resistance:1 challenging:1 500:1 out:1
+stock_BRCM r_up	end:1 gains:1 decision:1 after:1 's:1 stocks:1 day:1
+stock_BRCM r_up	follow:1 stocks:1 gains:1 close:1
+stock_BRCM r_down	highlight:1 mild:1 stocks:1 tech:1 gains:1
+stock_BRCM r_up	's:2 lead:1 gain:1 close:1 follow:1 stocks:1
+stock_BRCM r_down	's:1
+stock_BRCM r_down	reveals:1 's:1 $:1 study:1 costs:1 260:1 make:1
+stock_BRCM r_up	gains:1 lead:1 broad:1 chip:1 tech:1 stocks:1
+stock_BRCM r_down	hopes:1 suppliers:1 rise:1 sales:1
+stock_BRCM r_up	outlook:1 weaker-than-expected:1 2010:1 48:1 falls:1
+stock_BRCM r_up	big:1 score:1 tap:1
+stock_BRCM r_down	late:1 's:1 technical:1 support:1 near-term:1 focus:2 shares:1 trade:1 down:1 out:1 higher:1
+stock_BRCM r_up	jump:1 swings:1 profit:1 losses:1 sales:1 down:1 drag:1 tech:1 71:1 stocks:1
+stock_BRCM r_up	rise:1 revenue:1 surges:1 shares:1 middling:1 session:1 tech:1 weigh:1 stocks:1
+stock_BRCM r_down	juice:1 dividend:1 returns:1 best:1 strategies:1
+stock_BRCM r_down	week:1 broad:1 begin:1 stocks:1 gains:1
+stock_BRCM r_up	broad:1 slide:1 tech:1 lead:1
+stock_BRCM r_up	'':1 ``:1 2007:1
+stock_BRCM r_up	head:1 gains:1 broad:1 losses:1 up:1 month:1 tech:2 rally:1 close:1 stocks:1 out:1
+stock_BRCM r_up	late:1 stocks:1 find:1 momentum:1 upward:1
+stock_BRCM r_down	trim:1 outlook:1 losses:1 slide:1 caution:1 brokers:1 close:1 stocks:2 market:1
+stock_BRCM r_up	gains:1 give:1 tech-sector:1 chip:1 rally:1 muscle:1
+stock_BRCM r_down	decline:1 stocks:1 finish:1 slight:1
+stock_BRCM r_up	4:1
+stock_BRCM r_up	earnings:1 charts:1 reports:1 vie:1
+stock_BRCM r_down	focus:1
+stock_BRCM r_down	lower:1 's:1 soars:1 profit:2 rise:1 watch:1 shares:2 trade:1 late:1 tech:1 earnings:1 slip:1 demand:1 performance:1 sees:1 strong:2 dampens:1 gain:1
+stock_BRCM r_down	's:1
+stock_BRCM r_down	reaction:1 drives:1 down:1 tech:1 earnings:1 stocks:1
+stock_BRCM r_up	n't:1
+stock_BRCM r_down	n't:2 surprises:1 advisories:1 off:1
+stock_BRCM r_down	down:1 help:1 surprises:1 leads:1 n't:2 drag:1 advisories:1 tech:2 cloud:1 6:1 close:1 stocks:2 concerns:1 red:1
+stock_BRCM r_down	n't:1 's:1
+stock_BRCM r_down	's:1 smartphone:1 capitalize:1 boom:1
+stock_BRCM r_down	's:1
+stock_BRCM r_down	draws:1 move:1 wireless:1 praise:1 's:1 skepticism:1
+stock_BRCM r_up	losses:1 weak:1 techs:1 lead:1 month:1
+stock_BRCM r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_BRCM r_up	fight:1 close:1 stocks:1 gains:1 wins:1
+stock_BRCM r_up	2.5:1
+stock_BRCM r_up	end:1 chip:1 results:1 opportunities:1 growth:1 mixed:1 firms:1 stocks:1 open:1 day:1
+stock_BRCM r_up	tech:1 gains:1 lead:1
+stock_BRCM r_up	score:1 tap:1 gains:1 earnings:1
+stock_BRCM r_up	$:1
+stock_BRCM r_down	$:1
+stock_BRCM r_down	focus:1
+stock_BRCM r_down	's:1 estimates:1 forecast:1 jump:1 beats:1 earnings:1
+stock_BRCM r_up	surprises:1 44:1 focus:1 results:1 shares:2 surge:1 late:1 advisories:1 2:1 9:2 climb:1 trade:1
+stock_BRCM r_up	biggest:1 gaining:1 stocks:1 declining:1
+stock_BRCM r_up	7.7:2
+stock_BRCM r_up	's:1
+stock_BRCM r_down	's:3 gains:1 lead:1 tech:1 close:1 stocks:1
+stock_BRCM r_down	n't:1
+stock_BRCM r_down	bears:1 trend:1 near-term:1 vie:1
+stock_BRCM r_down	tech:1 stocks:1 boost:1 no:1
+stock_BRCM r_up	75:1 $:1
+stock_BRCM r_up	into:1 's:3 crosshairs:1 government:1
+stock_BRCM r_down	sector:1 bucks:1 rise:1
+stock_BRCM r_up	12/1:1
+stock_BRCM r_down	gains:1 help:1 turn:1 tech:1 stocks:1 around:1
+stock_BRCM r_down	stage:1 tech:1 take:1 center:1
+stock_BRCM r_up	n't:1
+stock_BRCM r_down	back:1 market:1 bull:1
+stock_BRCM r_down	fourth-quarter:1 outlook:1 revenue:1 surprises:1 watch:1 up:1 advisories:1 raises:1 after-hours:1 action:1 2011:1
+stock_BRCM r_down	's:1 lead:1 surprises:1 losses:1 advisories:1 tech:1 activity:1 mixed:1
+stock_BRCM r_up	9:1 articles:1 3:1 books:1
+stock_BRCM r_down	surprises:1 advisories:1
+stock_BRCM r_up	2010:1
+stock_BRCM r_down	session:1 stocks:1 weak:1 log:1 another:1
+stock_BRCM r_up	dominate:1 2011:1 sectors:1
+stock_BRCM r_up	$:4 3.1:1
+stock_BRCM r_up	's:1
+stock_BRCM r_down	's:1 watch:1 back:1 6,000:3 above:1 push:1
+stock_BRCM r_up	's:1
+stock_BRCM r_down	're:1
+stock_BRCM r_down	track:1 drop:1 stocks:1 tarnished:1 miners:1
+stock_BRCM r_up	's:1
+stock_BRCM r_up	watch:1
+stock_BRCM r_up	net:1 watch:1 jumps:1 than:1 more:1
+stock_BRCM r_down	gaining:1 expense:1 tumble:1 declines:1 rallies:1 shares:1 trade:1 late:1 worries:1 2:1 -2:1 biggest:1 stocks:1 declining:1
+stock_BRCM r_up	key:1 investors:1
+stock_BRCM r_down	teardown:1 costs:1 design:1 finds:1 cuts:1
+stock_BRCM r_down	's:1
+stock_BRCM r_down	=:1
+stock_BRCM r_up	our:1 2:1
+stock_BRCM r_up	's:1
+stock_BRCM r_up	n't:1
+stock_BRCM r_down	2:1
+stock_BRCM r_down	're:1 's:1
+stock_BRCM r_up	n't:1 's:1
+stock_BRCM r_up	up:1 6:1
+stock_BRCM r_down	sector:1 slips:1 chip:1 ekes:1 but:1 gain:1 out:1
+stock_BRCM r_down	bets:1 wireless:1 spreads:1
+stock_BRCM r_up	our:1
+stock_BRCM r_up	'the:1 du:1 's:1
+stock_BRCM r_up	broad:1 tech:1 gains:1 lead:1 advance:1
+stock_BRCM r_down	our:1
+stock_BRCM r_up	$:1 600:1
+stock_BRCM r_up	24:1 fall:1 watch:2 shares:1 slides:1 after-hours:1 9:1
+stock_BRCM r_down	outlook:1 rise:1 's:1 ahead:1 tumble:1 watch:2 futures:1 weak:1 shares:2 forecast:1 but:1 slip:1 9:1 net:1 rises:1 stock:1
+stock_BRCM r_down	gaining:1 gains:1 after:1 comments:1 leads:1 tech:1 biggest:1 stocks:1 declining:1
+stock_BRCM r_up	's:1
+stock_BRCM r_down	profitable:1 trader:1
+stock_BRCM r_down	heads:1 $:2 but:1 edge:1 south:1 higher:1
+stock_BRCM r_up	n't:1
+stock_BRCM r_up	billion:1 $:1 would:1 1:1 cuts:1 mean:1
+stock_BRCM r_up	biggest:1 gaining:1 stocks:1 declining:1
+stock_BRCM r_down	's:1 2012:1
+stock_BRCM r_down	gets:1 tech:1 spotlight:1
+stock_BRCM r_down	weighs:1 's:1 gains:1 techs:1 sell-off:1 chip:1 while:1
+stock_BRCM r_up	concerns:1 voice:1 stocks:1 analysts:1 fall:1
+stock_BRCM r_down	10:1
+stock_BRCM r_down	2:1 tech:1 gains:1 lead:1 rallies:1
+stock_BRCM r_down	see:1 chips:1 uptick:1 second:1 half:1
+stock_BRCM r_up	biggest:1 stocks:1 declining:1 advancing:1
+stock_BRCM r_up	gains:1 get:1 rise:1 leads:1 upbeat:1 stocks:1 chips:1 bolstered:1 view:1
+stock_BRCM r_up	's:1 watch:1
+stock_BRCM r_down	lead:1 watch:1 tech:1 after-hours:1 action:1 highlight:1 retreat:1
+stock_BRCM r_up	gaining:1 rise:1 's:1 beat:1 surprises:1 futures:1 watch:2 focus:1 shares:1 jump:1 talks:1 advisories:1 earnings:1 debt:1 37:1 biggest:1 stocks:1 data:1 targets:1 declining:1 stock:1
+stock_BRCM r_down	sinks:1 techs:1 ride:1 but:1 trends:1 lifts:1 tech:1 key:1 poised:1
+stock_BRCM r_down	9:1
+stock_BRCM r_down	10:1
+stock_BRCM r_down	8:1
+stock_BRCM r_down	gaining:1 's:1 gains:1 lead:1 big:1 late:1 tech:1 biggest:1 stocks:2 declining:1 $:2
+stock_BRCM r_up	play:1 losses:1 deal:1 ground:1 headwinds:1 after:1 logical:1 trade:1 break:1 hopes:1 remain:1 analysts:1 after-hours:1 inch:1 stocks:2 finds:1 higher:3
+stock_BRCM r_up	falls:1 stocks:1 tech:1 lead:1 higher:1
+stock_BRCM r_up	action:1 tech:1 lead:1
+stock_BRCM r_down	watch:1 21:1
+stock_BRCM r_down	outlook:1 21:1 weak:1 fall:1 watch:1 shares:1 slide:1 trading:1 after-hours:1
+stock_BRCM r_up	plunges:1 lifts:1 tech:1
+stock_BRCM r_up	's:1
+stock_BRCM r_down	close:1 stocks:1 tech:1 gains:1 broad:1
+stock_BRCM r_down	after:1 rise:1 reports:1 behind:1 earnings:1 stocks:1 stumble:1
+stock_BRCM r_up	lights:1 bright:1 tech:1 lose:1 stocks:1 ground:1
+stock_BRCM r_down	down:1 leads:1 warning:1 tech:1 stocks:1 day:1
+stock_BRCM r_up	's:1
+stock_BRCM r_down	leads:1 down:1 shines:1 techs:1
+stock_BRCM r_up	climb:1 trading:1 shares:1 after-hours:1
+stock_BRCM r_up	modestly:1 after:1 futures:1 watch:2 up:1 reports:1 stock:1
+stock_BRCM r_down	tech:1 spotlight:1
+stock_BRCM r_down	tech:1 review:1 stocks:1 2011:1 outlook:1
+stock_BRCM r_down	stocks:1 opening:1 leads:1 tech:1 strong:1 day:1
+stock_BRCM r_up	jump:1 upgrade:1 soars:1
+stock_BRCM r_down	draw:1 prospects:1 could:1 investors:1
+stock_BRCM r_up	eke:1 upgrade:1 gain:1 lifts:1 out:1
+stock_BRCM r_up	stocks:1 tech:1 gains:1 lead:1
+stock_BRCM r_down	week:1 begin:1 losses:1 watch:1 mild:1 stocks:1
+stock_BRCM r_up	tumble:1 chip:1 estimates:1 results:2 leads:1 close:1 rally:1 strong:1 techs:1 surprises:1 shares:2 advisories:1 8:1 stock:1 rise:1 beat:1 after:2 watch:1 hours:1 rises:1 off:1 futures:1 up:3 remain:1
+stock_BRCM r_down	gaining:1 gains:1 surprises:1 fuel:1 advisories:1 tech:1 biggest:1 stocks:1 declining:1
+stock_BRCM r_up	among:1 shot:1 chip:1 swoon:1 tech:1 decliners:1 stocks:1 profits:1
+stock_BRCM r_up	run:1 's:1 puts:1 question:1
+stock_BRCM r_up	$:1 techs:1 leading:1 breaks:1 600:1 higher:1

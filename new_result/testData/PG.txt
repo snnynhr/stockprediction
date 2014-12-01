@@ -1,0 +1,307 @@
+PG	20120402	64.53	64.87	r_up	
+PG	20120403	64.87	64.42	r_down	
+PG	20120404	64.42	64.58	r_up	
+PG	20120405	64.58	64.63	r_up	n't:1 's:2
+PG	20120409	64.63	64.15	r_down	
+PG	20120410	64.15	63.71	r_down	
+PG	20120411	63.71	63.79	r_up	
+PG	20120412	63.79	63.46	r_down	
+PG	20120413	63.46	63.19	r_down	win:1 stocks:1 quest:1 yield:1
+PG	20120416	63.19	64.12	r_up	's:1 futures:1 watch:1 sales:1 climb:1 retail:1 stock:1
+PG	20120417	64.12	64.35	r_up	
+PG	20120418	64.35	64.09	r_down	
+PG	20120419	64.09	63.92	r_down	targeted:1 spending:1 boardrooms:1 political:1
+PG	20120420	63.92	64.82	r_up	4th:1
+PG	20120423	64.82	64.0	r_down	
+PG	20120424	64.0	64.33	r_up	's:1
+PG	20120425	64.33	64.77	r_up	
+PG	20120426	64.77	64.75	r_down	's:2
+PG	20120427	64.75	62.4	r_down	trim:1 1.5:1 strong:1 gains:1 futures:1 surprises:1 rise:1 watch:1 reports:1 data:1 discounts:1 advisories:1 earnings:1 stocks:1 blunt:1 seeks:1 stock:1
+PG	20120430	62.4	61.62	r_down	
+PG	20120501	61.62	61.56	r_down	summer:1 12:1 hang:1 stocks:1
+PG	20120502	61.56	61.95	r_up	
+PG	20120503	61.95	62.47	r_up	
+PG	20120504	62.47	62.24	r_down	
+PG	20120507	62.24	62.21	r_down	tired:1 $:1 22:1 getting:1
+PG	20120508	62.21	62.13	r_down	's:1
+PG	20120509	62.13	61.65	r_down	
+PG	20120510	61.65	62.11	r_up	84:1
+PG	20120511	62.11	61.66	r_down	
+PG	20120514	61.66	61.56	r_down	
+PG	20120515	61.56	61.7	r_up	1:1 's:1 $:1
+PG	20120516	61.7	62.25	r_up	's:1
+PG	20120517	62.25	61.93	r_down	
+PG	20120518	61.93	61.51	r_down	
+PG	20120521	61.51	61.38	r_down	if:1
+PG	20120522	61.38	61.15	r_down	's:1
+PG	20120523	61.15	60.41	r_down	
+PG	20120524	60.41	60.59	r_up	
+PG	20120525	60.59	60.51	r_down	2008:1
+PG	20120529	60.51	60.95	r_up	
+PG	20120530	60.95	60.34	r_down	's:1
+PG	20120531	60.34	60.32	r_down	
+PG	20120601	60.32	59.6	r_down	12:1 's:1
+PG	20120604	59.6	59.45	r_down	
+PG	20120605	59.45	59.23	r_down	
+PG	20120606	59.23	59.84	r_up	
+PG	20120607	59.84	60.77	r_up	'07:1
+PG	20120608	60.77	60.76	r_down	
+PG	20120611	60.76	60.56	r_down	control:1 's:1 --:1 k:1 take:1 401:1 your:1 2012:1
+PG	20120612	60.56	60.77	r_up	most:1 sponsorships:1
+PG	20120613	60.77	60.59	r_down	
+PG	20120614	60.59	61.18	r_up	investing:1 high-yield:1
+PG	20120615	61.18	60.89	r_down	pile:1 up:1
+PG	20120618	60.89	60.32	r_down	
+PG	20120619	60.32	60.24	r_down	
+PG	20120620	60.24	58.48	r_down	futures:1 's:1 ahead:1 surprises:1 losses:1 steady:1 n't:1 advisories:1 lift:1 stock:1 stocks:1 minutes:1 out:1
+PG	20120621	58.48	57.86	r_down	outlook:1 off:1 mostly:1 after:1 growth:1 cuts:1
+PG	20120622	57.86	57.93	r_up	
+PG	20120625	57.93	57.43	r_down	
+PG	20120626	57.43	57.39	r_down	
+PG	20120627	57.39	58.08	r_up	
+PG	20120628	58.08	58.38	r_up	
+PG	20120629	58.38	59.31	r_up	outlook:1 's:2 big:1 since:1 negative:1 most:1 batteries:1 2001:1 earnings:1 returns:1
+PG	20120702	59.31	59.25	r_down	
+PG	20120703	59.25	59.42	r_up	
+PG	20120705	59.42	59.41	r_down	
+PG	20120706	59.41	59.34	r_down	code:1 's:1 earnings:1 crack:1
+PG	20120709	59.34	59.6	r_up	
+PG	20120710	59.6	59.77	r_up	4.6:2
+PG	20120711	59.77	59.45	r_down	
+PG	20120712	59.45	61.68	r_up	drop:1 's:1 global:1 concerns:1 stocks:1 corporate:1
+PG	20120713	61.68	63.03	r_up	week:1 gaining:1 's:3 $:1 5.8:1 top:1 trade:1 52-week:1 near:1 stories:1 declining:1 biggest:1 stocks:2 highs:1 9-13:1
+PG	20120716	63.03	62.76	r_down	
+PG	20120717	62.76	63.28	r_up	
+PG	20120718	63.28	63.31	r_up	
+PG	20120719	63.31	63.41	r_up	
+PG	20120720	63.41	63.22	r_down	
+PG	20120723	63.22	62.89	r_down	's:1
+PG	20120724	62.89	62.53	r_down	
+PG	20120725	62.53	62.53	r_up	
+PG	20120726	62.53	63.06	r_up	
+PG	20120727	63.06	63.57	r_up	could:1 only:1 love:1 sponsors:1
+PG	20120730	63.57	63.58	r_up	's:1
+PG	20120731	63.58	63.04	r_down	$:1 125:1
+PG	20120801	63.04	62.52	r_down	
+PG	20120802	62.52	62.03	r_down	
+PG	20120803	62.03	63.97	r_up	after:1 jobs:1 gains:1 extend:1 futures:1 watch:2 45:3 4th:2 data:1
+PG	20120806	63.97	64.28	r_up	portfolio:1 ‘moat’:1 's:1 protect:1 your:1
+PG	20120807	64.28	64.68	r_up	
+PG	20120808	64.68	65.17	r_up	3.3:2
+PG	20120809	65.17	65.18	r_up	's:1
+PG	20120810	65.18	65.21	r_up	still:1 dividend-paying:1 best:1 stocks:1
+PG	20120813	65.21	64.93	r_down	
+PG	20120814	64.93	65.18	r_up	's:1
+PG	20120815	65.18	65.09	r_down	's:1
+PG	20120816	65.09	65.44	r_up	
+PG	20120817	65.44	65.44	r_up	
+PG	20120820	65.44	65.19	r_down	
+PG	20120821	65.19	65.21	r_up	
+PG	20120822	65.21	65.29	r_up	
+PG	20120823	65.29	65.13	r_down	
+PG	20120824	65.13	65.46	r_up	10:1 top:1 stocks:1 players:1 more:1
+PG	20120827	65.46	65.55	r_up	
+PG	20120828	65.55	65.43	r_down	
+PG	20120829	65.43	65.31	r_down	
+PG	20120830	65.31	65.32	r_up	
+PG	20120831	65.32	65.62	r_up	
+PG	20120904	65.62	65.83	r_up	
+PG	20120905	65.83	65.72	r_down	
+PG	20120906	65.72	66.65	r_up	
+PG	20120907	66.65	66.92	r_up	's:1
+PG	20120910	66.92	66.91	r_down	200:1
+PG	20120911	66.91	66.67	r_down	
+PG	20120912	66.67	66.51	r_down	
+PG	20120913	66.51	67.3	r_up	
+PG	20120914	67.3	67.55	r_up	addicted:1 10:1 2009:1 least:1 stocks:1
+PG	20120917	67.55	67.64	r_up	
+PG	20120918	67.64	67.61	r_down	
+PG	20120919	67.61	67.65	r_up	
+PG	20120920	67.65	67.94	r_up	
+PG	20120921	67.94	67.8	r_down	
+PG	20120924	67.8	68.13	r_up	
+PG	20120925	68.13	67.97	r_down	
+PG	20120926	67.97	67.69	r_down	tough:1 ahead:1 global:1 companies:1 times:1 warn:1 7:1
+PG	20120927	67.69	67.69	r_up	50:1
+PG	20120928	67.69	67.74	r_up	
+PG	20121001	67.74	67.83	r_up	comes:1 fear:1 change:1 pushes:1 don’t:1
+PG	20121002	67.83	67.19	r_down	
+PG	20121003	67.19	67.56	r_up	
+PG	20121004	67.56	67.76	r_up	
+PG	20121005	67.76	68.01	r_up	
+PG	20121008	68.01	67.49	r_down	
+PG	20121009	67.49	67.1	r_down	
+PG	20121010	67.1	66.55	r_down	
+PG	20121011	66.55	66.42	r_down	
+PG	20121012	66.42	66.36	r_down	's:2
+PG	20121015	66.36	67.11	r_up	8:1
+PG	20121016	67.11	67.39	r_up	
+PG	20121017	67.39	68.41	r_up	
+PG	20121018	68.41	68.41	r_up	
+PG	20121019	68.41	67.52	r_down	
+PG	20121022	67.52	67.45	r_down	
+PG	20121023	67.45	66.41	r_down	
+PG	20121024	66.41	67.04	r_up	
+PG	20121025	67.04	69.0	r_up	hold:1 end:1 gains:1 surprises:1 futures:1 watch:1 reports:1 advisories:1 earnings:2 6.9:3 stocks:1 data:1 after:1 higher:1
+PG	20121026	69.0	68.38	r_down	modestly:1 good:1 divide:1 business:1 did:1 things:1 rise:1 results:1 3:2 up:1 down:1 bad:1 economic:1 earnings:1 seen:1 stocks:1 data:1 man:1
+PG	20121031	68.38	68.18	r_down	
+PG	20121101	68.18	68.19	r_up	12:1
+PG	20121102	68.19	68.13	r_down	20:1
+PG	20121105	68.13	67.62	r_down	
+PG	20121106	67.62	67.88	r_up	
+PG	20121107	67.88	67.02	r_down	
+PG	20121108	67.02	65.89	r_down	
+PG	20121109	65.89	65.99	r_up	wants:1 13:1 everyone:1 companies:1 work:1
+PG	20121112	65.99	66.06	r_up	
+PG	20121113	66.06	65.83	r_down	
+PG	20121114	65.83	65.51	r_down	
+PG	20121115	65.51	65.31	r_down	
+PG	20121116	65.31	65.8	r_up	50:2
+PG	20121119	65.8	66.88	r_up	
+PG	20121120	66.88	67.26	r_up	
+PG	20121121	67.26	67.42	r_up	
+PG	20121123	67.42	68.53	r_up	
+PG	20121126	68.53	68.42	r_down	
+PG	20121127	68.42	67.94	r_down	
+PG	20121128	67.94	68.38	r_up	
+PG	20121129	68.38	68.44	r_up	
+PG	20121130	68.44	68.76	r_up	
+PG	20121203	68.76	68.52	r_down	
+PG	20121204	68.52	68.25	r_down	
+PG	20121205	68.25	68.35	r_up	
+PG	20121206	68.35	68.88	r_up	10:1 30:1 up:1 bumps:1 biggest:1 2012:1 layoffs:2 corporate:1 than:1 more:1
+PG	20121207	68.88	69.22	r_up	funds:1 top:1 5:1 money:1 raking:1 your:1 stock:1
+PG	20121210	69.22	69.15	r_down	
+PG	20121211	69.15	69.58	r_up	
+PG	20121212	69.58	69.68	r_up	
+PG	20121213	69.68	69.06	r_down	
+PG	20121214	69.06	68.86	r_down	
+PG	20121217	68.86	68.86	r_up	
+PG	20121218	68.86	68.9	r_up	
+PG	20121219	68.9	68.28	r_down	's:1
+PG	20121220	68.28	68.75	r_up	
+PG	20121221	68.75	67.67	r_down	'm:1
+PG	20121224	67.67	67.47	r_down	
+PG	20121226	67.47	66.96	r_down	
+PG	20121227	66.96	66.93	r_down	
+PG	20121228	66.93	66.12	r_down	
+PG	20121231	66.12	66.85	r_up	2012:1
+PG	20130102	66.85	68.33	r_up	
+PG	20130103	68.33	67.9	r_down	
+PG	20130104	67.9	68.03	r_up	
+PG	20130107	68.03	67.57	r_down	
+PG	20130108	67.57	67.46	r_down	's:1
+PG	20130109	67.46	67.83	r_up	's:1 up:1 vs.:1
+PG	20130110	67.83	68.21	r_up	
+PG	20130111	68.21	68.16	r_down	
+PG	20130114	68.16	68.57	r_up	
+PG	20130115	68.57	68.81	r_up	
+PG	20130116	68.81	68.83	r_up	
+PG	20130117	68.83	69.16	r_up	
+PG	20130118	69.16	69.43	r_up	
+PG	20130122	69.43	69.44	r_up	
+PG	20130123	69.44	70.17	r_up	
+PG	20130124	70.17	69.91	r_down	
+PG	20130125	69.91	72.72	r_up	ahead:1 surprises:1 futures:1 1,500:1 reports:1 up:1 advisories:1 home-sales:1 earnings:1 500:1
+PG	20130128	72.72	73.23	r_up	
+PG	20130129	73.23	74.45	r_up	
+PG	20130130	74.45	74.53	r_up	's:1
+PG	20130131	74.53	74.61	r_up	
+PG	20130201	74.61	75.37	r_up	's:1
+PG	20130204	75.37	74.7	r_down	're:1
+PG	20130205	74.7	75.15	r_up	vs:1
+PG	20130206	75.15	75.59	r_up	
+PG	20130207	75.59	75.59	r_up	37:1
+PG	20130208	75.59	75.2	r_down	
+PG	20130211	75.2	75.26	r_up	n't:1 's:1
+PG	20130212	75.26	75.43	r_up	
+PG	20130213	75.43	76.0	r_up	
+PG	20130214	76.0	76.22	r_up	14:1
+PG	20130215	76.22	75.98	r_down	
+PG	20130219	75.98	76.82	r_up	
+PG	20130220	76.82	76.52	r_down	3.0:1
+PG	20130221	76.52	76.48	r_down	2013:1
+PG	20130222	76.48	76.43	r_down	
+PG	20130225	76.43	75.37	r_down	
+PG	20130226	75.37	75.53	r_up	move:1 market’s:1 funds:1 6:1 next:1 big:1 stock:1
+PG	20130227	75.53	76.19	r_up	
+PG	20130228	76.19	75.62	r_down	
+PG	20130301	75.62	75.93	r_up	
+PG	20130304	75.93	76.12	r_up	
+PG	20130305	76.12	76.49	r_up	high:1 new:1 ceiling:1 point:1
+PG	20130306	76.49	76.64	r_up	10:1 reputation:1 companies:1 best:1
+PG	20130307	76.64	76.34	r_down	
+PG	20130308	76.34	76.62	r_up	
+PG	20130311	76.62	76.79	r_up	
+PG	20130312	76.79	76.61	r_down	
+PG	20130313	76.61	76.24	r_down	
+PG	20130314	76.24	76.83	r_up	
+PG	20130315	76.83	75.78	r_down	
+PG	20130318	75.78	75.6	r_down	
+PG	20130319	75.6	76.55	r_up	
+PG	20130320	76.55	77.01	r_up	's:1
+PG	20130321	77.01	76.65	r_down	
+PG	20130322	76.65	76.71	r_up	22:1
+PG	20130325	76.71	76.12	r_down	
+PG	20130326	76.12	76.84	r_up	
+PG	20130327	76.84	76.5	r_down	
+PG	20130328	76.5	76.5	r_up	400:1 bold:1 bet:1 latest:1
+PG	20130401	76.5	77.13	r_up	
+PG	20130402	77.13	78.38	r_up	's:1
+PG	20130403	78.38	77.55	r_down	
+PG	20130404	77.55	77.97	r_up	
+PG	20130405	77.97	77.66	r_down	
+PG	20130408	77.66	78.22	r_up	money:1 know:1 put:1 now:1 your:1 forecasters:1
+PG	20130409	78.22	77.69	r_down	
+PG	20130410	77.69	78.66	r_up	
+PG	20130411	78.66	79.09	r_up	
+PG	20130412	79.09	79.5	r_up	
+PG	20130415	79.5	79.07	r_down	
+PG	20130416	79.07	79.52	r_up	
+PG	20130417	79.52	78.48	r_down	
+PG	20130418	78.48	79.29	r_up	
+PG	20130419	79.29	80.84	r_up	's:1
+PG	20130422	80.84	80.81	r_down	
+PG	20130423	80.81	81.94	r_up	
+PG	20130424	81.94	77.12	r_down	tilt:1 lower:1 futures:1 gains:1 extend:1 auction:1 surprises:1 after:2 watch:1 ``:1 n't:2 advisories:1 mostly:1 '':1 a.m:1 strong:1 data:1
+PG	20130425	77.12	76.58	r_down	closes:1 lower:1 stocks:1 end:1 jobless:1 flat:1 movers:1 futures:1 add:1 500:1 claims:1 drop:1 stock:1 's:1 marginally:1 gains:1
+PG	20130426	76.58	77.1	r_up	
+PG	20130429	77.1	77.68	r_up	
+PG	20130430	77.68	76.77	r_down	's:2
+PG	20130501	76.77	76.99	r_up	's:1 saints:1 500:1 sinners:1
+PG	20130502	76.99	77.76	r_up	
+PG	20130503	77.76	78.19	r_up	vs.:1
+PG	20130506	78.19	77.75	r_down	
+PG	20130507	77.75	77.94	r_up	
+PG	20130508	77.94	78.44	r_up	
+PG	20130509	78.44	78.21	r_down	
+PG	20130510	78.21	78.76	r_up	
+PG	20130513	78.76	78.59	r_down	
+PG	20130514	78.59	79.47	r_up	
+PG	20130515	79.47	80.68	r_up	
+PG	20130516	80.68	80.2	r_down	
+PG	20130517	80.2	80.02	r_down	
+PG	20130520	80.02	79.09	r_down	hit:1 these:1 weak:1 hardest:1 stocks:1 economy:1
+PG	20130521	79.09	78.8	r_down	's:1
+PG	20130522	78.8	78.82	r_up	
+PG	20130523	78.82	78.7	r_down	popular:1 brands:1
+PG	20130524	78.7	81.88	r_up	'':1 lower:1 futures:1 plays:1 movers:1 data:1 safe:1 watch:1 ``:1 return:1 remain:1 a.m:1 biggest:1 's:3 stocks:1 durables:1 after:1
+PG	20130528	81.88	80.86	r_down	
+PG	20130529	80.86	78.9	r_down	movers:1 6:1 than:1 slumps:1 more:1
+PG	20130530	78.9	79.09	r_up	n't:1
+PG	20130531	79.09	76.76	r_down	's:1
+PG	20130603	76.76	77.66	r_up	
+PG	20130604	77.66	77.37	r_down	
+PG	20130605	77.37	76.66	r_down	
+PG	20130606	76.66	76.82	r_up	
+PG	20130607	76.82	77.75	r_up	
+PG	20130610	77.75	78.07	r_up	
+PG	20130611	78.07	78.12	r_up	
+PG	20130612	78.12	77.6	r_down	
+PG	20130613	77.6	78.43	r_up	dividend:1 hunters:1 play:1 stock:1
+PG	20130614	78.43	78.03	r_down	
+PG	20130617	78.03	78.96	r_up	
+PG	20130618	78.96	79.04	r_up	
+PG	20130619	79.04	77.61	r_down	
+PG	20130620	77.61	75.25	r_down	
+PG	20130621	75.25	77.43	r_up	

@@ -1,0 +1,242 @@
+stock_JNPR r_up	sector:1 advances:1 struggles:1 n't:1 while:1 technology:1
+stock_JNPR r_down	20:2 $:2
+stock_JNPR r_down	20:1
+stock_JNPR r_down	sector:1 closes:1 lower:1
+stock_JNPR r_up	's:1
+stock_JNPR r_down	dry:1 following:1 runs:1 first-quarter:1 outlook:1
+stock_JNPR r_up	focus:1
+stock_JNPR r_up	20c:1 focus:1 11c:1
+stock_JNPR r_up	profit:1 rise:1 reports:1 66:2
+stock_JNPR r_down	amp:1
+stock_JNPR r_up	's:1
+stock_JNPR r_down	outlook:1 's:3 touts:1 exec:1 bid:1 resigns:1 leave:1 chief:1 online:1 led:1 company:1 unit:1
+stock_JNPR r_up	sector:1 outlook:1 point:1 telecom:1 focus:1 plunge:1 shares:1 fail:1 close:1 cut:1 gainers:1 lead:1 profit:1 durable:1 40:2 stock:2 rise:1 gains:1 opening:1 jumps:1 surges:1 lift:1 rises:1 data:1 after:1 goods:1 futures:1 tech:1
+stock_JNPR r_down	broad:1 800,000:1 retreat:1 $:1 telecoms:1
+stock_JNPR r_up	gain:1
+stock_JNPR r_down	decline:1 tops:1 rest:1 telecoms:1
+stock_JNPR r_up	rise:1 sales:1 but:1 likely:1 key:1 post:1 economy:1
+stock_JNPR r_up	2009:2
+stock_JNPR r_down	sector:1 rises:1 rebounds:1
+stock_JNPR r_down	technical:1 hurdles:1 markets:1 surprising:1 surpass:1
+stock_JNPR r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_JNPR r_down	leads:1 broad:1 losses:1 tech:1 day:1
+stock_JNPR r_down	lower:1
+stock_JNPR r_down	'':1 ``:1 telecoms:1 lead:1
+stock_JNPR r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_JNPR r_down	bonus:1 rewarded:1 after:1 leaving:1
+stock_JNPR r_down	sell:1 stocks:1 off:1 four-year:1 tech:1 low:1 plunges:1
+stock_JNPR r_down	telecoms:1 lead:1
+stock_JNPR r_up	upgrade:1 buy:1 rise:1 shares:1
+stock_JNPR r_down	's:1 late-traded:1 posts:1 focus:1 shares:1 hurt:1 jump:1 profit:1 75:4 quarterly:1 forecasts:1
+stock_JNPR r_up	fears:1 falls:1 recession:1 sink:1 broader:1 market:1
+stock_JNPR r_down	ratings:1 cut:1 's:1 decline:1 after:1 shares:1 falls:1 6:1
+stock_JNPR r_down	s:1
+stock_JNPR r_down	break:1 new:1 clean:1 seeks:1
+stock_JNPR r_down	amp:1
+stock_JNPR r_down	sector:1 's:1 lead:1 losses:1 down:1 job:1 warning:1 tech:1 close:1
+stock_JNPR r_down	surprises:1 advisories:1 focus:1
+stock_JNPR r_down	telecom:1 estimates:2 focus:1 jump:1 7.8:1 miss:1 shares:1 earnings:1 biggest:1 surprise:1 gaining:1 's:2 gains:1 but:3 falls:2 losing:1 stocks:1 shy:1 posts:1 up:1 pace:1 upside:1 decliners:1
+stock_JNPR r_up	21:1
+stock_JNPR r_up	$:2
+stock_JNPR r_up	11:1 7.8:1 $:3
+stock_JNPR r_up	shares:1 falls:1 below:1 tech:1 slip:1 1,400:1
+stock_JNPR r_down	2009:1
+stock_JNPR r_down	's:1
+stock_JNPR r_up	acquisitions:1 center:1 singles:1 candidates:1 data:1 out:1
+stock_JNPR r_down	week:1 ends:1 tumble:1 up:1 but:1 6:1
+stock_JNPR r_down	amp:1
+stock_JNPR r_down	outlook:1 gains:1 give:1 sales:1 fall:1 up:1 shares:3 surge:1 lower:1 expenses:1 but:1 cuts:1 downgrade:1 worries:1 forecasts:1 demand:1
+stock_JNPR r_up	advance:2 lower:1 rise:1 reverse:1 tech-sector:1 futures:2 focus:1 projected:1 expenses:1 leads:1 course:1 -2:1 higher:1 builders:1 stock:1
+stock_JNPR r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_JNPR r_down	week:1 advance:1 's:1 gains:1 lead:1 after:1 posts:1 shares:1 downgrade:1 advancing:1 another:1 fall:1 biggest:1 stocks:1 declining:1
+stock_JNPR r_down	50:1
+stock_JNPR r_up	loss:1 swings:1 up:1 after:1 results:1 focus:1 down:1 quarter:1 first:1
+stock_JNPR r_up	week:1 gains:1 soars:1 seventh:1 straight:1 posts:1 stability:1 points:1 more:1
+stock_JNPR r_down	ties:1 strengthens:1
+stock_JNPR r_up	expected:1 report:1 drop:1 sales:1 earnings:1
+stock_JNPR r_up	break:1 atop:1 major:1 another:1 resistance:1
+stock_JNPR r_down	expected:1 see:1 drop:1 earnings:1 sales:1
+stock_JNPR r_up	's:1
+stock_JNPR r_up	better-than-expected:1 results:1 soars:1
+stock_JNPR r_down	focus:1
+stock_JNPR r_up	techs:1 lead:1 higher:1
+stock_JNPR r_up	``:2 's:3 triggers:1 grand:2 '':2 slam:1 'grand:3 rally:1 technology:1
+stock_JNPR r_down	'grand:1 's:1
+stock_JNPR r_down	4:1
+stock_JNPR r_up	flex:1 stocks:1 gains:1 surprises:1 advisories:1 broad:1 close:1 muscle:1
+stock_JNPR r_up	8:1 88:1 focus:1
+stock_JNPR r_down	27:1 $:1
+stock_JNPR r_down	's:1 up:1 picks:1 see:1 rising:1 demand:1
+stock_JNPR r_down	's:2 $:1
+stock_JNPR r_down	small:1 rises:1 ekes:1 gain:1
+stock_JNPR r_down	techs:1 ekes:1 late:1 gain:1 rally:1 boosts:1
+stock_JNPR r_down	's:1
+stock_JNPR r_up	advance:1 led:1
+stock_JNPR r_down	jump:1 opportunity:1 2009:1 sees:1 shares:1
+stock_JNPR r_down	sink:1 retreat:1
+stock_JNPR r_up	rating:1 led:1 $:1 advance:1 28:1 lift:1 's:1 gets:1
+stock_JNPR r_up	tough:1 cuts:1 pay:1 into:1 executive:1 year:1
+stock_JNPR r_up	'':1 ``:1
+stock_JNPR r_down	$:1
+stock_JNPR r_down	may:1 back:1 rivals:1 game:1 tech:1 want:1 than:1 more:1
+stock_JNPR r_down	billion:1 2.9:1 buy:1 $:1
+stock_JNPR r_up	focus:2
+stock_JNPR r_down	surprises:1 advisories:1
+stock_JNPR r_down	44:1
+stock_JNPR r_down	alliance:1 data-center:1 unveil:1
+stock_JNPR r_down	billion:1 $:1 deal:1 shares:1 following:1 2.7:1 soar:1
+stock_JNPR r_up	gaining:1 's:1 outperform:1 upgrades:1 biggest:1 stocks:1 2.6:1 declining:1
+stock_JNPR r_down	's:1 $:1 3.8:1
+stock_JNPR r_down	7:1
+stock_JNPR r_up	snaps:1 's:1 up:1 $:1 assets:1
+stock_JNPR r_up	tech-sector:1 rally:1 power:1
+stock_JNPR r_up	list:1 buy:1 adds:1 conviction:1
+stock_JNPR r_up	's:1
+stock_JNPR r_down	sector:1 but:1 leads:1 tech:1 stumbles:1 higher:1
+stock_JNPR r_down	5:1
+stock_JNPR r_up	attacks:1 flaw:1 used:1 issues:1 patch:1
+stock_JNPR r_up	conferencing:1 video:1 up:1 team:1
+stock_JNPR r_down	1.1:1 lead:1 broad:1 focus:1 tech:1 retreat:1
+stock_JNPR r_up	topping:1 after:2 views:2 profit:1 tops:1 move:1 posts:1 up:1 shares:1 results:1 lower:1 but:1 rises:1
+stock_JNPR r_up	full:1 recovery:1 mode:1
+stock_JNPR r_down	$:1
+stock_JNPR r_up	$:1
+stock_JNPR r_down	weak:1 plunge:1 's:1 results:1 shares:1
+stock_JNPR r_down	's:1
+stock_JNPR r_up	fail:1 big:1 through:1 too:1
+stock_JNPR r_up	's:1
+stock_JNPR r_up	hype:1 work:1 seems:1 investors:1
+stock_JNPR r_up	ties:1 video:1 expand:1 conferencing:1
+stock_JNPR r_down	source:1 still:1 chasing:1
+stock_JNPR r_up	parts:1 value:1
+stock_JNPR r_up	clear:1 's:1 bid:1
+stock_JNPR r_up	's:1
+stock_JNPR r_down	's:2 $:1
+stock_JNPR r_down	100:1 $:1
+stock_JNPR r_down	focus:1 vs.:1
+stock_JNPR r_up	swings:1 networking:1 profit:1 tap:1 rise:1 sales:1 earnings:1 multiple:1 stocks:1
+stock_JNPR r_down	trades:1 's:1 gains:1 lead:1 sweeten:1 rise:1 focus:1 shares:1 falls:1 late:1 tech:1 helps:1 stocks:1
+stock_JNPR r_down	gaining:1 's:1 shares:1 concerns:1 growth:1 fall:1 biggest:1 stocks:1 declining:1
+stock_JNPR r_down	expected:1 shifts:1 benefit:1 data:1 center:1
+stock_JNPR r_down	's:1
+stock_JNPR r_down	weighs:1 strong:1 tech:1 shares:1 debuts:1
+stock_JNPR r_up	new:1 data:1 center:1 initiative:1 unveils:1
+stock_JNPR r_up	growing:1 play:1 tech:1 gear:1 hunger:1
+stock_JNPR r_down	broad:1 tech:1 retreat:1
+stock_JNPR r_up	close:1 stocks:1 tech:1 spotlight:1 higher:1
+stock_JNPR r_up	24:1 late:1 up:1 surprises:1 confirm:1 sales:1 shares:1 trade:1 down:1 advisories:1 earnings:1 benchmarks:1 downtrend:1 surge:1 higher:1
+stock_JNPR r_down	around:1 turns:1 watch:1 but:1 late:1 stumble:1
+stock_JNPR r_up	's:1
+stock_JNPR r_up	sector:1 's:3 over:1 dark:1 tech:1 scandal:1 cloud:1
+stock_JNPR r_down	's:1 network:1 surprises:1 caution:1 leads:1 3:1 advisories:1 tech:1 cloud:1 knocks:1 close:1 stocks:2 red:1
+stock_JNPR r_down	jobs:1 stocks:1 warning:1 data:1 fall:1
+stock_JNPR r_down	n't:1
+stock_JNPR r_down	frenzy:1 tech:1 's:1 next:1
+stock_JNPR r_down	all:1 's:3 upcoming:1 exec:1 makes:1 executive:1 impress:1 n't:1 does:1 names:1 pick:1 new:1 naming:1 odd:1
+stock_JNPR r_up	incoming:1 advice:1 's:1
+stock_JNPR r_up	mixed:1 reviews:1 draws:1 long:1 view:1
+stock_JNPR r_up	biggest:1 gaining:1 stocks:1 declining:1
+stock_JNPR r_down	surprises:1 advisories:1 's:1 focus:1 61:1
+stock_JNPR r_up	late:1 up:1 focus:1 trade:1 slides:1 61:1 moves:1
+stock_JNPR r_down	highlight:1 tech:1 gains:1
+stock_JNPR r_up	's:1
+stock_JNPR r_down	's:1
+stock_JNPR r_up	expected:1 post:1 sales:1 gain:1
+stock_JNPR r_up	outlook:1 fuels:1 shares:1 late:1 slammed:1 trading:1 skepticism:1 investor:1
+stock_JNPR r_down	's:4 air:1 historic:1 trigger:1 pockets:1 fall:1 stock:1
+stock_JNPR r_up	outlook:1 's:4 frowns:1 slumps:1
+stock_JNPR r_down	's:1 $:1
+stock_JNPR r_down	95:1 $:1
+stock_JNPR r_up	driven:1 stocks:1
+stock_JNPR r_up	bridge:1 market:1
+stock_JNPR r_up	dominate:1 2011:1 sectors:1
+stock_JNPR r_up	panic:1 tech:1 addresses:1 next:1
+stock_JNPR r_down	even:1 advance:1 's:2 slips:1 shares:1
+stock_JNPR r_down	stocks:1 tech:1 retreat:1 lead:1
+stock_JNPR r_down	biggest:1 gaining:1 stocks:1 declining:1
+stock_JNPR r_up	watch:1
+stock_JNPR r_down	down:1 late:1 session:1 shares:1
+stock_JNPR r_up	jump:1 eightfold:1 profit:1 watch:1 reports:1
+stock_JNPR r_up	slips:1 rise:1 stocks:1
+stock_JNPR r_up	rally:1 stocks:1 networking:1 up:1 edge:1
+stock_JNPR r_up	biggest:1 gaining:1 stocks:1 declining:1
+stock_JNPR r_up	hit:1 $:1 techs:1 downgrades:1 hard:1 some:1 results:1 shares:1 50:1 fall:1 recover:1 ground:1
+stock_JNPR r_up	expected:1 post:1 rise:1 modest:1 sales:1
+stock_JNPR r_up	's:1
+stock_JNPR r_down	's:1
+stock_JNPR r_up	1:2 $:3 +125:1
+stock_JNPR r_down	$:1
+stock_JNPR r_down	's:1
+stock_JNPR r_up	's:1
+stock_JNPR r_up	sector:1 gets:1 's:1 rise:1 cheap:1 driven:1 lift:1 5:1 tech:1 stocks:3 cloud:1 higher:1
+stock_JNPR r_down	our:1
+stock_JNPR r_down	'the:1 's:1
+stock_JNPR r_down	money:1 bear:1 world’s:1 making:1 biggest:1 our:1
+stock_JNPR r_down	cut:1 tough:1 dump:1 after:1 flips:1 but:1 550:1 down:1 shutting:1 camera:1 faces:1 expected:1 jobs:1 road:1 more:1
+stock_JNPR r_up	sell:1 stocks:1 's:1 should:1 committee:1 ditch:1 structure:1
+stock_JNPR r_down	watch:1
+stock_JNPR r_up	slips:1 20:2 soars:1 color:1 watch:1 tech:1 earnings:1 after-hours:1 action:1 's:1 rises:1 eases:1
+stock_JNPR r_up	slips:1 after:1 20:1 surprises:1 futures:1 watch:3 advisories:1 tech:2 earnings:1 rally:1 stocks:1 boost:1
+stock_JNPR r_up	end:1 surprises:1 advisories:1 potential:1 party:1 has:1
+stock_JNPR r_down	's:1
+stock_JNPR r_up	n't:1
+stock_JNPR r_up	strength:1 credit:1 sends:1 back:1 fast:1 giving:1 range:1 moves:1
+stock_JNPR r_down	's:1
+stock_JNPR r_down	's:1
+stock_JNPR r_down	slow:1 3:1 stocks:1 spiral:1 death:1
+stock_JNPR r_down	advance:1 stocks:1 tech:1 gains:1 lead:1
+stock_JNPR r_up	gaining:1 9:1 's:2 biggest:1 worries:1 weigh:1 stocks:2 declining:1
+stock_JNPR r_down	chief:1 still:1 sees:1 opportunities:1
+stock_JNPR r_up	flex:1 behind:1 strength:1 disk-drivers:1
+stock_JNPR r_down	n't:1
+stock_JNPR r_down	vs.:1
+stock_JNPR r_down	facing:1 tough:1 headwinds:1 's:1
+stock_JNPR r_down	turf:1 switch:1 eroding:1 market:1 seen:1
+stock_JNPR r_up	upbeat:1 5:1 up:1 shares:1 results:1
+stock_JNPR r_down	hits:1 shares:1 deal:1
+stock_JNPR r_up	's:1
+stock_JNPR r_up	11:1 outlook:1 profit:1 posts:1 drop:1 weak:1
+stock_JNPR r_down	outlook:1 losses:1 trends:1 's:1 decline:1 networking:1 techs:1 murky:1 durable:1 shares:1 biggest:1 poised:1 stock:1 gaining:1 ends:1 hit:1 jumps:1 after:1 slump:1 hours:1 drag:1 key:1 stocks:1 declining:1 11:1 hits:1 goods:1 ride:1 futures:1 tech:1 drops:1 dip:1
+stock_JNPR r_down	hits:1 analysts:1 outlook:1 split:1
+stock_JNPR r_down	lifted:1 upgrade:1 rosy:1 views:1
+stock_JNPR r_down	turns:1 market:1 tumbles:1
+stock_JNPR r_up	blue:1 surprises:1 3:1 advisories:1 prices:1 fire-sale:1 chips:1
+stock_JNPR r_up	gaining:1 sees:1 get:1 shares:1 jump:1 behind:1 biggest:1 rally:1 stocks:2 declining:1
+stock_JNPR r_up	$:1 12.5:1
+stock_JNPR r_down	driven:1 stocks:1 deal:1
+stock_JNPR r_down	's:1
+stock_JNPR r_up	loss:1 give:1 weak:1 month:1 note:1 start:1 lift:1 helps:1 stocks:1
+stock_JNPR r_up	upgraded:1 improved:1 view:1
+stock_JNPR r_down	falter:1 gainers:1 rare:1 techs:1
+stock_JNPR r_up	meet:1 upbeat:1 more:1
+stock_JNPR r_down	targets:1 company:1 up:1 shares:1 sets:1
+stock_JNPR r_down	mixed:1 reviews:1 combative:1 gets:1 more:1
+stock_JNPR r_down	shines:1 lower:1 but:1 techs:1 lead:1
+stock_JNPR r_up	highlight:1 gainers:1 tech:1
+stock_JNPR r_up	sector:1 tech:1 upgrades:1
+stock_JNPR r_down	sinks:1 rise:1 tops:1 shares:1 400:1 $:1
+stock_JNPR r_up	38:1 lead:1 sell-off:1 support:1 watch:1 maintain:1 tech:1 500:1 first:1
+stock_JNPR r_down	38:3 gains:1 surprises:1 slumps:1 most:1 advisories:1 tech:1 close:1 stocks:1
+stock_JNPR r_up	2012:1
+stock_JNPR r_up	over:1 uncertainty:1 ahead:1 but:1
+stock_JNPR r_up	's:4
+stock_JNPR r_down	losses:1 weak:1 tech:1 highlight:1 stocks:1 day:1
+stock_JNPR r_down	stocks:1 tech:1 retreat:1 lead:1
+stock_JNPR r_down	gaining:1 gains:1 tech:1 board:1 biggest:1 stocks:2 across:1 declining:1
+stock_JNPR r_up	1:1 268:2 $:4
+stock_JNPR r_up	gaining:1 behind:1 biggest:1 rally:1 stocks:2 declining:1
+stock_JNPR r_down	drop:1 soars:1 focus:1 jump:1 targets:1 upgrade:1 surprises:1 holds:1 shares:1 advisories:1 biggest:1 gaining:1 rise:1 cutting:1 despite:1 stocks:1 data:1 declining:1 futures:1 steady:1 up:1 after-hours:1
+stock_JNPR r_down	sinks:1 but:1 broadly:1 higher:1
+stock_JNPR r_down	's:1
+stock_JNPR r_up	outlook:1 off:1 take:1 shares:1 results:1
+stock_JNPR r_down	hours:1 after:1 's:1 drop:1 watch:1 shares:1 down:1
+stock_JNPR r_down	slides:1 outlook:1 after:1 end:1 gains:1 spending:1 broad:1 futures:1 watch:1 bad:1 shares:1 down:1 may:1 mild:1 weak:1 sink:1 not:1 stocks:1 day:1 feared:1
+stock_JNPR r_down	week:1 begin:1 stocks:1 mild:1 losses:1
+stock_JNPR r_up	expected:1 stability:1 strength:1 show:1
+stock_JNPR r_up	techs:1 lead:1 higher:1
+stock_JNPR r_down	's:1
+stock_JNPR r_up	biggest:1 gaining:1 stocks:1 declining:1
+stock_JNPR r_down	among:1 shot:1 chip:1 swoon:1 tech:1 decliners:1 stocks:1 profits:1
+stock_JNPR r_down	$:1 6:1
+stock_JNPR r_up	600:1 techs:1 back:1 but:1 most:1 gain:1 pulls:1 $:1
+stock_JNPR r_down	among:1 decliners:1 session:1 weak:1 tech:1

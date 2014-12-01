@@ -1,0 +1,328 @@
+stock_MU r_down	3.6:1 50-50:1
+stock_MU r_down	's:1
+stock_MU r_up	53:1
+stock_MU r_down	credit:1 review:1 rating:1 shares:1 fall:1
+stock_MU r_up	sell:1 business:1 just:1 flash:1 should:1 memory:1 amp:1 its:1
+stock_MU r_down	sector:1 wash:1 over:1 losses:1 close:1
+stock_MU r_down	's:1
+stock_MU r_down	8:1 rush:1 drops:1 focus:1 higher:1
+stock_MU r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_MU r_up	's:1
+stock_MU r_up	1.01:1 loss:1 7c:1 $:1 extend:1 futures:1 focus:2 reports:1 gains:1 quarterly:1 tap:1 bigger:1 stock:1
+stock_MU r_up	gaining:1 losses:1 's:1 jobless:1 after:1 futures:1 add:1 biggest:1 claims:1 stocks:1 declining:1 stock:1
+stock_MU r_down	$:1
+stock_MU r_down	128:1
+stock_MU r_up	$:1
+stock_MU r_up	look:1 stronger:1 legal:1 victory:1 each:1 patents:1
+stock_MU r_up	gaining:1 n't:1 ``:1 hold:1 's:1 $:1 pinch:1 ca:1 futures:1 sprints:1 '':1 worries:1 rise:1 oil:1 past:1 biggest:1 stocks:1 130:1 spotlight:1 declining:1 stock:1
+stock_MU r_down	's:1
+stock_MU r_down	sector:1 $:1 broad:1 losses:1 tech:1 stings:1 2008:1 day:1
+stock_MU r_down	close:1 tech:1 gains:1 lead:1
+stock_MU r_up	's:1
+stock_MU r_down	rejection:1 $:3 bid:1 after:2 focus:2 up:1 results:1 falls:1
+stock_MU r_down	sector:1 loss:2 gaining:1 biggest:1 's:1 tumble:1 shares:1 falls:1 retreats:1 quarterly:1 reports:1 declining:1 broader:1 wider:2 pressure:1 stocks:1 market:1 pricing:1
+stock_MU r_down	$:2
+stock_MU r_down	basement:1 's:1 bargains:1 market:1 stock:1
+stock_MU r_up	gaining:1 's:1 consumer-spending:1 upswing:1 worries:1 tech:1 declining:1 biggest:1 stocks:2 downgraded:1 boosts:1
+stock_MU r_up	week:1 end:1 note:1 mixed:1 stocks:1 day:1
+stock_MU r_down	10:1 2009:1 $:1
+stock_MU r_down	7:1
+stock_MU r_up	its:1
+stock_MU r_down	gaining:1 advance:1 's:1 price:1 drop:1 shares:1 helps:1 biggest:1 stocks:1 declining:1
+stock_MU r_up	comment:1 10:1 hurting:1 still:1 's:1 oversupply:1 prompts:1 chip:1 losses:1 up:1 makers:1 merger:1 add:1 exec:1 analysts:1 another:1 speculation:1 stocks:1 day:1 say:1
+stock_MU r_down	2009:1
+stock_MU r_down	gaining:1 turmoil:1 plummet:1 's:1 sector:1 roils:1 biggest:1 financial:1 stocks:2 declining:1
+stock_MU r_down	downgrades:1 shares:1 tumble:1
+stock_MU r_up	follow:1 stocks:1 north:1 gains:1 close:1
+stock_MU r_down	'':1 ``:1
+stock_MU r_up	prospects:1 end:1 rescue:1 optimism:1 indexes:1 bailout:1 plan:2 rally:1 higher:1 stock:1
+stock_MU r_up	move:1 20:2 up:1 after:1 focus:1 results:1 falls:1 banking:1 stocks:1
+stock_MU r_up	sees:1 focus:1 market:1 20:1 $:1 profit:1 surprises:1 shares:1 344:1 advisories:1 memory:1 biggest:1 gaining:1 's:2 rise:1 despite:1 deepen:1 stocks:1 declining:1 loss:1 losses:1 'challenging:1 remains:1 chipmaker:1
+stock_MU r_down	sector:1 broad:1 stocks:1 slump:1 fall:1
+stock_MU r_down	's:1
+stock_MU r_up	gaining:1 's:1 chip:1 15:2 production:1 cutting:1 memory:1 biggest:1 jobs:1 stocks:1 declining:1
+stock_MU r_down	2008:1 3.5:1 15:1
+stock_MU r_up	gaining:1 3,000:1 's:1 $:2 35.6:2 biggest:1 stocks:1 declining:1
+stock_MU r_up	surges:1 second-best:1 record:1 tech:1 boosting:1 stocks:1 day:1
+stock_MU r_down	's:1
+stock_MU r_up	billion:1 $:2 deal:1 ventures:1 flash:1 1:2
+stock_MU r_down	$:1
+stock_MU r_up	1.6:1 1.1:1
+stock_MU r_down	sector:1 down:1 losses:1 send:1 close:1
+stock_MU r_down	n't:1
+stock_MU r_down	2009:1 sees:1 drop:1 slump:1 sales:1 disappointing:1 another:1 losses:1 highlight:1 stocks:1 day:1
+stock_MU r_up	sell-off:1 leaves:1 stocks:1 tech:1 battered:1
+stock_MU r_up	10:1
+stock_MU r_down	2.4:1
+stock_MU r_down	33:1 $:1
+stock_MU r_up	sector:1 led:1 bounces:1 back:1
+stock_MU r_up	investors:1 move:1 leads:1 expo:1 retreat:1 rattles:1
+stock_MU r_up	while:1 plunges:1 soars:1
+stock_MU r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_MU r_down	80:1 's:1 21:1 $:1
+stock_MU r_down	drag:1 loss:1 after:1 focus:1 results:1 shares:2 mark:1 down:2 retailing:1 reports:1 quarterly:1 net:1 indexes:1 miss:1 bigger:1
+stock_MU r_up	focus:1 higher:1 wider:1 close:1 $:2 lead:1 shares:1 biggest:1 stock:1 gaining:1 after:1 's:1 rise:1 quarterly:1 gain:1 stocks:1 data:1 declining:1 loss:1 futures:1 reports:1 '09:1 2009:1 steam:1
+stock_MU r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_MU r_up	14:1
+stock_MU r_up	n't:1
+stock_MU r_down	sector:1 gaining:1 sweep:1 report:1 finish:1 close:1 's:1 patent:1 shares:1 biggest:1 across:1 week:1 plunge:1 jobs:1 after:2 sharply:1 losing:1 stocks:2 lawsuit:1 lower:1 defeat:1 maket:1
+stock_MU r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_MU r_up	90:1 's:1
+stock_MU r_down	$:1
+stock_MU r_up	7.3:1 3.4:1 $:1
+stock_MU r_down	gaining:1 sector:1 's:1 gains:1 22:1 give:1 big:1 2.8:1 tech:1 biggest:1 2008:1 stocks:1 boost:1 declining:1
+stock_MU r_up	25:1 t:1 8217:1
+stock_MU r_up	federal:1 decision:1 plunge:1 court:1
+stock_MU r_up	down:1 sector:1 drags:1 market:1 close:1
+stock_MU r_up	2009:1 15:1
+stock_MU r_down	lower:1 rise:1 techs:1 mostly:1
+stock_MU r_up	decline:1 lead:1 reaction:1 leading:1 regional:2 bailout:1 declines:1 drops:1 2.5:1
+stock_MU r_down	disaster:1 deflation:1 may:1 spell:1 stocks:1 $:1
+stock_MU r_down	exception:1 rare:1 finishes:1 session:1 tech:1 's:1 red:1
+stock_MU r_down	into:1 settles:1 back:1 earnings:1 post:1 red:1
+stock_MU r_up	2,000:1
+stock_MU r_up	10:1 outlook:1 futures:1 's:1 plans:1 roar:1 workers:1 2,000:3 focus:1 aside:1 up:1 tech:1 lay:1 before:1 off:1 stock:1 nudge:1 issues:1 higher:2
+stock_MU r_up	24:1 gaining:1 's:1 22:1 09:1 8216:1 biggest:1 stocks:1 declining:1
+stock_MU r_up	jump:1 federal:1 court:1 ruling:1 shares:1
+stock_MU r_down	consolidate:1 chip:1 makers:1 plan:1 floats:1
+stock_MU r_down	little:1 jobs:1 chip:1 cheer:1 shares:1 consolidation:1 slide:1 plan:1 data:1 find:1 before:1
+stock_MU r_up	$:2
+stock_MU r_up	10:1 2009:1 20:1 $:2
+stock_MU r_up	down:1 analyst:1 market:1 likes:1
+stock_MU r_up	fail:1 sector:1 hold:1 gains:1 swoons:1
+stock_MU r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_MU r_up	's:1 tankan:1 focus:1 shares:1 up:1 jump:1 ignores:1
+stock_MU r_up	futures:1 jobless:1 ahead:1 after:1 focus:1 remain:1 weekly:1 data:1 solidly:1
+stock_MU r_down	loss:1 lower:1 futures:1 jobs:1 lost:1 narrower:1 showing:1 rise:1 posts:1 results:1 shares:1 sales:1 but:1 soar:1 data:1 after:2 stock:1
+stock_MU r_down	$:2
+stock_MU r_down	leads:1 tech-sector:1 focus:1 $:1 advance:1
+stock_MU r_up	gaining:1 's:1 $:1 n't:2 biggest:1 stocks:1 declining:1
+stock_MU r_up	higher:1 makers:1 lead:1 techs:1
+stock_MU r_up	3.3:1
+stock_MU r_up	25:1 6.4:1
+stock_MU r_down	65:1
+stock_MU r_up	signals:1 direction:1 seek:1 investors:1
+stock_MU r_up	focus:1
+stock_MU r_up	loss:1 surprises:1 surges:1 focus:1 deep:1 advisories:1 not:1 feared:1
+stock_MU r_down	big:1 could:1 rebound:1 have:1 fourth-quarter:1
+stock_MU r_up	gains:1 mild:1 way:1 close:1 stocks:1 find:1
+stock_MU r_down	$:1
+stock_MU r_up	6.5:1 2:1
+stock_MU r_up	10:1
+stock_MU r_up	rally:1 2,000:4 above:1 pushes:1 close:1
+stock_MU r_down	end:1 gains:1 day:1 mild:1 stocks:1 erratic:1
+stock_MU r_up	case:1 company:1 bad:1 'good:1 stock:1
+stock_MU r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_MU r_up	gaining:1 8.50:1 's:2 $:2 focus:1 biggest:1 stocks:1 declining:1 14:1
+stock_MU r_down	's:1 price:1 futures:1 report:1 home:1 bolstered:1 stock:1
+stock_MU r_down	sector:1 leads:1 play:1 's:1 gains:1 profit-taking:1 loss:1 quarterly:1 posts:1 focus:1 n't:1 lower:1 fall:1 worries:1 stocks:1
+stock_MU r_up	1:2
+stock_MU r_down	7:2
+stock_MU r_down	$:2 8th:1
+stock_MU r_down	19.7:1
+stock_MU r_up	gains:1 give:1 focus:1 tech:1 stocks:1 boost:1 help:1
+stock_MU r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_MU r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_MU r_up	200:1 $:1
+stock_MU r_up	3.5:1
+stock_MU r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_MU r_up	broad:1 losses:1 lose:1 close:1 stocks:1 steam:1
+stock_MU r_up	sector:1 mild:1 tech:1 highlight:1 stocks:1 day:1
+stock_MU r_down	settlement:1 rises:1
+stock_MU r_down	18:1 $:1
+stock_MU r_down	wins:1 race:1 business:1 best:1 city:1
+stock_MU r_up	focus:1
+stock_MU r_up	week:1 gains:1 focus:1 start:1 follow:1 stocks:1
+stock_MU r_up	gaining:1 memory:1 stocks:1 swings:1 's:1 futures:1 point:1 profit:1 chip:1 after:1 sales:1 shares:1 hours:1 3:1 rise:1 gain:1 1st:1 biggest:1 higher:1 declining:1 stock:1
+stock_MU r_up	sector:2 industrial:1 focus:1 jump:1 economic:1 swinging:1 follow:1 shines:1 financials:1 profit:1 shares:1 biggest:1 stock:1 gaining:1 pare:1 's:1 gains:2 after:2 stocks:1 data:1 declining:1 lower:1 futures:1 tech:1 small:1 claims:1
+stock_MU r_up	consecutive:1 rise:1 slightly:1 gain:1 fourth:1
+stock_MU r_up	2010:1
+stock_MU r_up	8.5:1 gains:1 propel:1 broad:1 chip:1 3.7:1 tech:1 stocks:1
+stock_MU r_down	9:1
+stock_MU r_up	15:1
+stock_MU r_down	...:1 's:2 losse:1 close:1 follow:1 stocks:1 south:1
+stock_MU r_up	investors:1 50:1 delayed:1 trial:1 2010:1 limbo:1
+stock_MU r_down	better:1 position:1 led:1 gains:1 deal:1 advances:1 shares:1 falls:1 jump:1 while:1 settle:1 legal:1 slip:1 70:1 's:1 settlement:1 2010:1 $:1
+stock_MU r_down	's:1 2010:1
+stock_MU r_down	115:1 3:1 5:1
+stock_MU r_up	's:1
+stock_MU r_down	report:1 charge:1 price-fixing:1 chip:1 makers:1
+stock_MU r_up	's:1 2010:1 2nd:1
+stock_MU r_up	$:1
+stock_MU r_down	billion:1 's:1 $:1 deal:1 shares:1 fall:1 1.27:1
+stock_MU r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_MU r_down	n't:1
+stock_MU r_up	2010:1 40:1
+stock_MU r_down	gaining:1 stocks:2 's:1 gains:1 after:1 biggest:1 testifies:1 declining:1
+stock_MU r_up	bubble:1 negativity:1
+stock_MU r_down	sector:1 gaining:1 's:1 help:1 broad:1 score:1 tech:1 biggest:1 stocks:2 declining:1 gains:1
+stock_MU r_down	close:1 rise:1 stocks:1 but:1 flatlines:1
+stock_MU r_down	's:1 gains:1 tentative:1 anniversary:1 mark:1 steps:1 take:1 forward:1 stocks:2 bubble:1
+stock_MU r_up	claim:1 gains:1 some:1 late:1 session:1 mixed:1 stocks:1
+stock_MU r_up	end:1 gains:1 decision:1 after:1 's:1 stocks:1 day:1
+stock_MU r_down	follow:1 stocks:1 gains:1 close:1
+stock_MU r_up	's:1
+stock_MU r_down	'':1 ``:1 after:1 deeper:1 ahead:1 futures:1 back:1 focus:1 down:1 slip:1 report:2 stocks:1 2010:1 red:1 stock:1
+stock_MU r_down	after:1 techs:1 profit:1 swings:1 close:1 posts:1 results:2 focus:1 sales:1 spikes:1 green:1 higher:1 rally:1 quarterly:1 upbeat:1 falls:1 boosts:1 stock:1
+stock_MU r_up	's:2
+stock_MU r_up	's:1 gains:1 lead:1 broad:1 chip:1 tech:1 stocks:1
+stock_MU r_up	775,000:1 's:1 $:1
+stock_MU r_down	biggest:1 gainers:1 decliners:1 's:1
+stock_MU r_up	1:1 strong:1 spending:1 million:1 sales:1 surge:1 deals:1 month:1 rally:1 sells:1 stocks:1 makers:1 transport:1 first:1
+stock_MU r_down	week:1 broad:1 begin:1 stocks:1 gains:1
+stock_MU r_down	broad:1 slide:1 tech:1 lead:1
+stock_MU r_down	$:1
+stock_MU r_up	biggest:1 gainers:1 decliners:1 's:1
+stock_MU r_down	1:1
+stock_MU r_down	head:1 gains:1 broad:1 up:1 tech:1 rally:1
+stock_MU r_up	2:1
+stock_MU r_up	late:1 stocks:1 find:1 momentum:1 upward:1
+stock_MU r_down	rehearing:1 court:1 order:1 shares:1 fall:1
+stock_MU r_up	's:1
+stock_MU r_up	head:1 gains:1 tech-sector:1 broad:1 up:1 rally:1
+stock_MU r_up	week:1 81:1 's:1 gains:1 mild:1 5:1 end:1 stocks:1
+stock_MU r_down	shed:1 gains:1 after:1 early:1 close:1 stocks:1 red:1
+stock_MU r_down	173:1 $:1
+stock_MU r_down	gains:1 watch:1 results:1 near:1 intraday:1 following:1 close:1 stocks:1 retreat:1 lows:1
+stock_MU r_down	sector:1 gaining:1 trade:1 down:1 shares:1 stumble:1 comments:1 start:1 slammed:1 economy:1 biggest:1 performance:1 gets:1 higher:1 slashes:1 evening:1 's:3 read:1 watch:1 stocks:3 declining:1 week:1 off:1 futures:1 jitters:1 tech:1 relief:1 plummets:1 mixed:1 stock:1
+stock_MU r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_MU r_up	week:1 's:3 $:2 4.2:2 chip:1 results:1 start:1 mixed:2 -2:1 action:1 off:1 stocks:2 finds:1
+stock_MU r_up	's:1
+stock_MU r_up	$:2
+stock_MU r_down	50:1
+stock_MU r_down	need:1 nerves:1 still:1 steel:1 investors:1
+stock_MU r_up	strong:1 off:1 gains:1 month:1 start:1 stocks:1
+stock_MU r_down	2010:1
+stock_MU r_down	demand:1 signs:1 weaker:1 shares:1 fall:1
+stock_MU r_down	broad:1 stocks:1 end:1 day:1 losses:1
+stock_MU r_up	leads:1 tech:1 cloud:1 close:1 stocks:1 red:1
+stock_MU r_down	$:1 7.7:1
+stock_MU r_down	buy:1 techs:1 but:1 most:1 fall:1 rises:1
+stock_MU r_up	's:1
+stock_MU r_up	rare:1 remains:1 tech:1 gainer:1 stocks:1 stumble:1
+stock_MU r_down	's:1
+stock_MU r_up	falter:1 battle:1 stocks:1 heats:1 up:1
+stock_MU r_down	's:1
+stock_MU r_down	's:1
+stock_MU r_up	follow:1 stocks:1 gains:1 close:1
+stock_MU r_up	gaining:1 sector:1 's:1 lead:1 chip:1 surge:1 tech:1 biggest:1 stocks:1 declining:1
+stock_MU r_up	stocks:1 tech:1 up:1 lead:1
+stock_MU r_down	's:1
+stock_MU r_up	remarks:1 after:1 dip:1 shares:1
+stock_MU r_up	mixed:1 stocks:1 end:1 day:1 results:1
+stock_MU r_up	note:1 rough:1 stocks:1 end:1 month:1
+stock_MU r_up	all:1
+stock_MU r_up	late:1 up:1 shares:1 focus:1 down:1 trading:1
+stock_MU r_up	pare:1 futures:1 profit:1 swings:1 drop:1 focus:1 sales:1 11000:1 payrolls:1 surge:1 data:1 after:1
+stock_MU r_up	executive-pay:1 out:1 study:1 singled:1
+stock_MU r_up	$:1
+stock_MU r_up	tech:1 mild:1 stocks:1 boost:1 give:1
+stock_MU r_up	north:1 gains:1 tech:1 push:1 stocks:1 help:1
+stock_MU r_down	14:1
+stock_MU r_up	turmoil:1 after:1 clash:1 escalate:1 tensions:1 rise:1 stocks:1 bank:1
+stock_MU r_down	's:2
+stock_MU r_up	1995:1
+stock_MU r_up	networkers:1 slate:1 tech:1 gains:1 lead:1
+stock_MU r_down	creates:1 100:2 opportunities:1 dressing:1
+stock_MU r_up	gains:1 surprises:1 eke:1 watch:1 advisories:1 small:1 stocks:1 2011:1 out:1
+stock_MU r_down	24:2 among:1 drop:1 revenue:1 climbs:1 despite:1 watch:1 leads:1 movers:1 gain:1 after-hours:2 prices:1 2008:1
+stock_MU r_down	action:1 highlight:1 tech:1 gains:1
+stock_MU r_up	off:1 mode:1 year:1 rally:1 stocks:1 kick:1
+stock_MU r_up	's:1
+stock_MU r_up	biggest:1 gaining:1 stocks:1 2011:1 declining:1
+stock_MU r_up	rises:1 're:1 higher:1 stocks:1 edge:1
+stock_MU r_up	biggest:1 gaining:1 stocks:1 declining:1
+stock_MU r_up	down:1 weighs:1 tech:1 slips:1
+stock_MU r_up	's:1
+stock_MU r_up	course:1 reverse:1
+stock_MU r_up	chips:1 stocks:1 led:1 higher:1 edge:1
+stock_MU r_down	=:1
+stock_MU r_up	our:1 2:1
+stock_MU r_down	biggest:1 gaining:1 stocks:1 declining:1
+stock_MU r_down	's:1 600:1
+stock_MU r_up	sector:1 decline:1 gains:1 lead:1 drags:1 n't:1 tech:2 rally:1
+stock_MU r_up	2:1
+stock_MU r_down	're:1 's:1
+stock_MU r_down	n't:1
+stock_MU r_down	watch:1
+stock_MU r_up	's:1
+stock_MU r_up	gaining:1 late:1 red-hot:1 gains:1 lead:1 broad:1 6:1 results:1 shares:2 up:1 jump:1 trading:1 higher:1 upbeat:1 biggest:1 close:1 stocks:3 makers:1 declining:1 car:1
+stock_MU r_up	20:1 ahead:1 dive:1 rise:1 shares:1 late:1 trading:1 earnings:1 's:1 hope:1
+stock_MU r_down	2011:1
+stock_MU r_down	10:1 oil:1 gains:1 lead:1 firms:1 quarter:1
+stock_MU r_down	44:1 's:1 $:1 2.6:1
+stock_MU r_down	n't:1
+stock_MU r_down	billion:1 6.5:1 buy:1 $:1 sentiment:1
+stock_MU r_up	du:1
+stock_MU r_up	's:1
+stock_MU r_up	slips:1 $:2 2011:1 tech:1 1.56:1 stocks:1 boost:1
+stock_MU r_up	surprises:1 advisories:1 $:2 600:1
+stock_MU r_down	's:1
+stock_MU r_down	edge:1 heads:1 south:1 but:1 higher:1
+stock_MU r_down	's:1
+stock_MU r_up	buy:1 $:3 million:1 327:2
+stock_MU r_down	grease:1 rise:1 tech:1 report:1 stocks:1 skids:1
+stock_MU r_down	giant:1 deal:1 seals:1
+stock_MU r_down	's:1
+stock_MU r_down	tech:1 lower:1 stocks:1 drags:1 rises:1
+stock_MU r_down	weighs:1 's:1 gains:1 techs:1 sell-off:1 chip:1 while:1
+stock_MU r_up	concerns:1 voice:1 stocks:1 analysts:1 fall:1
+stock_MU r_up	watch:1
+stock_MU r_up	's:2 watch:2
+stock_MU r_down	win:1 down:1 close:1 rally:1 weekly:1 decline:1 lead:1 surprises:2 late:1 advisories:2 7:1 gains:2 after:1 watch:1 hours:1 post:1 stocks:3 stage:1 13:1 cling:1 losses:1 tech:1 rallies:1
+stock_MU r_up	chip:1 stocks:1 led:1 slip:1 higher:1
+stock_MU r_down	trading:1 slip:1 shares:1 after-hours:1
+stock_MU r_up	$:1
+stock_MU r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_MU r_down	2011:1
+stock_MU r_down	down:1 up:1 financials:1 after-hours:1
+stock_MU r_down	tech:1 stocks:1 boost:1 up:1 keeps:1
+stock_MU r_up	rise:1 edge:1 higher:1
+stock_MU r_up	week:1 strong:1 gains:1 these:1 start:1 5:1 stocks:1
+stock_MU r_down	's:1 gains:1 ahead:1 results:1 falls:1 after-hours:1 close:1 stocks:1 find:1 momentum:1
+stock_MU r_up	broad:1 join:1 retreat:1 market:1
+stock_MU r_up	falter:1 rare:1 gainers:1 's:1 techs:1
+stock_MU r_up	gains:1 lead:1 big:1 late:1 tech:1 stocks:1
+stock_MU r_down	flex:1 muscles:1 stocks:1 late-day:1 rally:1
+stock_MU r_down	's:1
+stock_MU r_down	techs:1 lose:1 after-hours:2 results:1 falls:1 trading:1 fall:2 following:1 momentum:1
+stock_MU r_down	gaining:1 loss:1 lower:2 after:1 's:2 lead:1 posts:1 futures:1 watch:2 shares:1 stay:1 chipmaker:1 slide:1 '08:2 market:1 income:1 biggest:1 stocks:1 data:1 declining:1 stock:1
+stock_MU r_down	techs:1 slump:1 up:1 but:1 most:1 new:1 speculation:1
+stock_MU r_up	gaining:1 off:1 surge:1 tech:1 biggest:1 stocks:2 declining:1 shows:1
+stock_MU r_up	techs:1 lead:1 higher:1
+stock_MU r_down	2011:1
+stock_MU r_down	note:1 close:1 stocks:1 weak:1
+stock_MU r_up	plunge:1 fall:1 shares:1 rocks:1 tech:1 after-hours:1 close:1 stocks:1
+stock_MU r_down	gaining:2 slips:1 plunges:1 mostly:1 after:1 back:1 bounce:1 trade:1 60:1 losing:1 shares:1 case:1 biggest:2 stocks:3 declining:2 higher:1
+stock_MU r_down	losses:1 after:1 weak:1 shares:1 hours:1 tech:1 slip:1 highlight:1 stocks:1 day:1
+stock_MU r_down	far:1
+stock_MU r_down	takes:1 center:1 tech’s:1 buyout:1 talk:1 stage:1
+stock_MU r_up	12:1 's:1 $:1
+stock_MU r_up	's:1
+stock_MU r_down	lower:1 surprises:1 after:1 watch:1 shares:1 hours:1 advisories:1
+stock_MU r_up	watch:1 climb:1 trading:1 shares:1 after-hours:1
+stock_MU r_down	gaining:1 's:1 behind:1 biggest:1 rally:1 stocks:2 declining:1
+stock_MU r_up	gaining:1 strong:1 start:1 biggest:1 stocks:1 declining:1 2012:1
+stock_MU r_up	rise:1 stocks:1 falls:1
+stock_MU r_up	gaining:1 lead:1 mostly:1 up:1 tech:1 plan:1 biggest:1 easing:1 stocks:3 declining:1 gains:1
+stock_MU r_up	muted:1 advances:1 flat:1
+stock_MU r_down	down:1 margins:1 fears:1 drag:1
+stock_MU r_down	retreats:1 rally:1 stocks:1 but:1
+stock_MU r_up	good:1 jobs:1 techs:1 surprisingly:1 cheer:1 death:1 strong:1 stocks:1 data:1 day:1 mutes:1
+stock_MU r_down	watch:1
+stock_MU r_up	cut:1 lead:1 techs:2 losses:1 up:1 falls:1 edges:1 higher:1
+stock_MU r_down	loss:1 after:1 tragic:1 analysts:1 faces:1
+stock_MU r_up	pace:1 mild:1 stocks:1 tech:1 gains:1
+stock_MU r_up	pact:1 could:1
+stock_MU r_up	gaining:1 's:1 13000:1 biggest:1 stocks:1 declining:1
+stock_MU r_up	gains:1 techs:1 falls:1 rises:1 boost:1 event:1
+stock_MU r_down	biggest:1 gaining:1 stocks:1 declining:1
+stock_MU r_up	start:1 stocks:1 gains:1 broad:1
+stock_MU r_up	weighed:1 down:1 chip:1 stocks:1 selloff:1
+stock_MU r_up	ends:1 stocks:1 's:1 lead:1 since:1 3,000:1 2000:1 upgrade:1 tech:1 above:1 time:1 mixed:1 rises:1 day:1 first:1
+stock_MU r_down	tear:1 numerous:1 's:1 setbacks:1 despite:1
+stock_MU r_down	$:1 techs:1 leading:1 breaks:1 600:1 higher:1
+stock_MU r_down	loss:1 lower:1 swings:1 gains:1 after:1 watch:1 up:1 shares:1 sales:1 hours:1 slip:1 small:1 close:1 stocks:1 retreats:1
+stock_MU r_down	flat:1 ahead:1 surprises:1 housing:1 futures:1 watch:2 advisories:1 pricing:1 slip:1 worries:1 data:1 stock:1
+stock_MU r_up	lazy:1 good:1 techs:1 portfolios:1 stay:1 leads:1 broad:1 rally:1 hates:1 higher:1
+stock_MU r_up	into:1 red:1 slip:1 sinks:1

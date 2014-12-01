@@ -1,0 +1,222 @@
+stock_BIIB r_up	slide:1 warning:1 $:3
+stock_BIIB r_up	positive:1 stocks:1 economic:1 gain:1 data:1
+stock_BIIB r_up	12:2 profit:2 reports:1 expected:1 post:1 boost:1 higher:1
+stock_BIIB r_down	12:4 's:3 sales:1 analysts:1 weigh:1 amp:1
+stock_BIIB r_up	fails:1 multiple:1 sclerosis:1 drug:1 n't:1 trial:1 key:1
+stock_BIIB r_up	drugmakers:1 's:1 lead:1 stronger:1 companies:1 shares:1 surge:1 edge:1 rockets:1 '09:1 rally:1 overseas:1 stocks:1 market:1 higher:1
+stock_BIIB r_down	focus:1
+stock_BIIB r_down	gaining:1 24:1 38c:1 's:1 23:2 profit:1 54c:1 up:1 sales:1 biggest:1 2008:1 stocks:1 grow:1 declining:1
+stock_BIIB r_up	surprises:1 advisories:1
+stock_BIIB r_down	n't:1 's:1
+stock_BIIB r_down	failure:1 slide:1 drug:1 lupus:1 shares:1
+stock_BIIB r_up	57:1
+stock_BIIB r_down	gaining:1 's:2 focus:1 biggest:1 stocks:1 declining:1
+stock_BIIB r_up	10:1
+stock_BIIB r_up	's:1
+stock_BIIB r_down	surprises:1 advisories:1
+stock_BIIB r_down	270,000:1 $:1
+stock_BIIB r_down	...:1
+stock_BIIB r_up	down:1 shareholders:1 's:1 investors:1 give:1 slate:1 n't:1 much:1 does:1 vote:1 smile:1 proxy:1
+stock_BIIB r_down	's:1
+stock_BIIB r_up	lower:1 's:1 lead:1 drug:1 slide:1 shares:1 setback:1 stocks:1
+stock_BIIB r_down	oil:1 climbs:1 dips:1 dollar:1 rally:1 stocks:1
+stock_BIIB r_down	profit:1 boost:1 5:1 second-quarter:1 reports:1
+stock_BIIB r_up	stokes:1 's:1 biotech:1 bid:1 focus:1 stocks:1
+stock_BIIB r_up	11:1 's:2 surprises:1 sales:1 hammered:1 2nd-quarter:1 second:1 advisories:1 earnings:1 2008:1 strong:1 day:1 buoyed:1
+stock_BIIB r_up	favors:1 risk/reward:1 markets:1 bullish:1 view:1
+stock_BIIB r_down	gaining:1 biotech:1 plunge:1 's:1 futures:1 focus:2 shares:1 trade:1 report:1 after:1 concerns:1 safety:1 higher:1 biggest:1 weigh:1 stocks:2 jobs:1 declining:1 stock:1
+stock_BIIB r_up	sector:1 upgrade:1 's:1 gains:1 amid:1 drug:1 shares:1 broad:1 climb:1
+stock_BIIB r_up	inch:1 lower:1 stocks:1 tumbles:1
+stock_BIIB r_up	--:1
+stock_BIIB r_up	move:1 positive:1 into:1 stocks:1 territory:1
+stock_BIIB r_up	mixed:1 continues:1 stocks:1 rebound:1
+stock_BIIB r_down	pull:1 back:1 drug:1 stocks:1 discuss:1 diabetes:1
+stock_BIIB r_up	drug-stock:1 lead:1 rally:1
+stock_BIIB r_up	stocks:1 's:1 drug:1 lead:1 higher:1
+stock_BIIB r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_BIIB r_down	turn:1 stocks:1 trading:1 afternoon:1 south:1
+stock_BIIB r_down	17:1
+stock_BIIB r_down	's:1 17:1
+stock_BIIB r_down	head:1 strong:1 's:1 lead:1 earnings:1 focus:1 73:1 south:1 report:1 stocks:1 rolls:1 issues:1 out:1
+stock_BIIB r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_BIIB r_up	loss:1 narrows:1 revenue:1 53:1 quarterly:1 rises:1 2011:1
+stock_BIIB r_down	rally:1 market:1 stocks:1 broader:1 rocket:1
+stock_BIIB r_down	close:1 straight:1 day:1 third:1 higher:1
+stock_BIIB r_up	's:1 launch:1 led:1 date:1 rally:1 stocks:1
+stock_BIIB r_up	climbs:1 upgrade:1 stocks:1 higher:1 edge:1
+stock_BIIB r_down	's:2
+stock_BIIB r_down	's:2
+stock_BIIB r_up	2009:1
+stock_BIIB r_up	could:1 dollar:1 pressure:1 unhedged:1 risks:1 left:1 if:1 earnings:1
+stock_BIIB r_up	review:1 drugmaker:1 plans:1 rallies:1
+stock_BIIB r_up	47:2 '09:2
+stock_BIIB r_up	suggests:1 likely:1 downside:1 sentiment:1 further:1
+stock_BIIB r_down	s:1 $:1 8217:1
+stock_BIIB r_up	68:1 $:1
+stock_BIIB r_up	v.:1
+stock_BIIB r_up	's:1
+stock_BIIB r_down	's:1 surprises:1 focus:1 advisories:1 figures:1 '09:1 2.7:2 spotlight:1 4:1
+stock_BIIB r_down	10:1 '09:1
+stock_BIIB r_up	s:1 8217:1
+stock_BIIB r_up	'':1 amp:1 ``:1
+stock_BIIB r_up	s:1 8217:1
+stock_BIIB r_down	2008:1
+stock_BIIB r_down	57:1
+stock_BIIB r_up	's:1
+stock_BIIB r_down	's:2
+stock_BIIB r_up	gainers:1 lead:1
+stock_BIIB r_up	gaining:1 biotech:1 's:1 lead:1 shares:1 biggest:1 north:1 stocks:1 declining:1
+stock_BIIB r_down	2008:1 's:1
+stock_BIIB r_down	re:1 8217:1
+stock_BIIB r_up	focus:1
+stock_BIIB r_down	slides:1 climb:1 stocks:1 's:1 earnings:1
+stock_BIIB r_up	's:1
+stock_BIIB r_down	stoke:1 stocks:1 drug:1
+stock_BIIB r_up	mixed:1 rally:1 stocks:1
+stock_BIIB r_down	1:1
+stock_BIIB r_down	's:1 $:1 71:1
+stock_BIIB r_down	stocks:1 's:2 update:1 falls:1 slide:1 10th:1
+stock_BIIB r_down	biggest:1 gaining:1 stocks:1 's:2 declining:1
+stock_BIIB r_up	gaining:1 outlook:1 's:1 21:1 mixed:1 tanks:1 biggest:1 stocks:2 declining:1
+stock_BIIB r_down	13:1 's:1 $:1 invest:1 41:1 1:1 billion-plus:1 rallies:1
+stock_BIIB r_up	focus:1
+stock_BIIB r_up	gaining:1 '':2 carves:1 's:5 jobless:1 profit:1 into:1 ``:2 drug:1 leads:1 31:1 claims:1 biggest:1 north:1 stocks:2 payment:1 declining:1 view:1
+stock_BIIB r_down	surprises:1 advisories:1
+stock_BIIB r_up	benchmark:1 rally:1 's:2 boosts:1 biotech:1
+stock_BIIB r_up	'09:1 loss:1 grows:1 shrinks:1 revenue:1
+stock_BIIB r_up	mixed:1 defends:1 stocks:1 quality:1 controls:1
+stock_BIIB r_up	31:1
+stock_BIIB r_down	31:1
+stock_BIIB r_up	31:1
+stock_BIIB r_down	10:2
+stock_BIIB r_down	wins:1 loses:1
+stock_BIIB r_up	medications:1 biologic:1 coming:1 versions:1
+stock_BIIB r_up	sell:1 stocks:1 after:1 's:1 $:4 futures:1 flu:1 shares:1 n't:1 buy:1 higher:1 jobs:1 stock:1 data:1 gains:1 log:1
+stock_BIIB r_up	gaining:1 's:1 rejects:1 bid:1 'inadequate:1 biggest:1 buyout:1 stocks:1 declining:1
+stock_BIIB r_down	leaves:1 rocket:1 shares:1 higher:1
+stock_BIIB r_down	lower:1 deal:1 seeking:1 price:1 futures:1 focus:1 fall:1 worries:1 stock:1
+stock_BIIB r_down	advance:1 jumps:1 stocks:1 's:2 launch:1
+stock_BIIB r_down	's:1
+stock_BIIB r_down	'10:3
+stock_BIIB r_down	's:1
+stock_BIIB r_down	25:1 $:1
+stock_BIIB r_up	rally:1 plunges:1
+stock_BIIB r_up	's:1
+stock_BIIB r_down	's:1
+stock_BIIB r_down	focus:1 16:1
+stock_BIIB r_down	lower:1 surprises:1 focus:1 34:4 advisories:1 broader:1 follow:1 stocks:1 market:1
+stock_BIIB r_down	gaining:1 's:1 woes:1 drug:1 fall:1 biggest:1 stocks:1 declining:1
+stock_BIIB r_up	's:3
+stock_BIIB r_up	's:3
+stock_BIIB r_down	'06:1 4:1
+stock_BIIB r_up	's:1
+stock_BIIB r_down	30:1
+stock_BIIB r_up	lupus:1 fuels:1 drug:1 shares:1
+stock_BIIB r_up	's:2 falls:1 focus:1 forecast:1 climb:1 stocks:1
+stock_BIIB r_up	's:1
+stock_BIIB r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_BIIB r_up	gains:1 give:1 some:1 back:1 focus:1 late:1 trade:1 stocks:1
+stock_BIIB r_down	slips:1 biotech:1 's:2 lead:1 -2:1 update:1 two:1 manager:1 tech:1 picks:1 stocks:2 dip:1
+stock_BIIB r_down	--:1 leads:1 stocks:1 higher:1 biotech:1
+stock_BIIB r_down	's:1 2009:1 28:1 $:1 30:1
+stock_BIIB r_up	28:1
+stock_BIIB r_down	stocks:1 overhaul:1 pushes:1 higher:1
+stock_BIIB r_down	31:1 drop:1 stocks:1 market:1 broader:1
+stock_BIIB r_down	n't:1
+stock_BIIB r_up	48:2 lead:1 profit:1 focus:2 reports:1 forecast:1 n't:1 more:1 raises:1 drug:1 stocks:1 2010:2 higher:1
+stock_BIIB r_up	surprises:1 advisories:1 2010:2
+stock_BIIB r_up	35:1
+stock_BIIB r_up	stoke:1 stocks:1 bids:1 biotech:1
+stock_BIIB r_up	's:2
+stock_BIIB r_up	loss:1 end:1 focus:1 shares:1 session:1 small:1 's:1 choppy:1
+stock_BIIB r_up	light:1 trades:1 focus:1 shares:1 up:1 late:1
+stock_BIIB r_up	focus:1 forecast:1
+stock_BIIB r_up	north:1 stocks:1 's:1 drug:1 lead:1
+stock_BIIB r_down	42:1
+stock_BIIB r_down	10:1 slide:1 42:1 up:1 deal:1
+stock_BIIB r_up	appointments:1 cut:1 's:1 board:1 deal:1
+stock_BIIB r_down	lifetime:1 closes:1 high:1 benchmark:1 stock:1
+stock_BIIB r_down	's:1
+stock_BIIB r_down	46:1 11:1 6:1
+stock_BIIB r_down	11:3
+stock_BIIB r_down	11:1
+stock_BIIB r_up	2009:2 's:2 $:2
+stock_BIIB r_down	's:2
+stock_BIIB r_up	's:1
+stock_BIIB r_up	'':2 ``:2
+stock_BIIB r_up	2012:1
+stock_BIIB r_down	2012:1
+stock_BIIB r_up	's:1
+stock_BIIB r_down	advisory:1 futures:1 's:2 nod:1 wins:1 drop:1 sclerosis:1 sales:1 drug:1 multiple:1 retail:1 after:1 stock:1
+stock_BIIB r_up	6:1
+stock_BIIB r_down	's:1
+stock_BIIB r_up	19:1 move:1 rumors:1
+stock_BIIB r_up	's:1
+stock_BIIB r_down	1:1 3:1
+stock_BIIB r_up	's:2
+stock_BIIB r_up	surprises:1 advisories:1
+stock_BIIB r_up	's:1
+stock_BIIB r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_BIIB r_up	ratings:1 analyst:1 fall:1
+stock_BIIB r_down	's:1 5:1
+stock_BIIB r_down	bid:1 takeover:1 rejects:1
+stock_BIIB r_up	'':1 ``:1
+stock_BIIB r_down	shares:1 fall:1
+stock_BIIB r_up	biggest:1 gaining:1 stocks:1 declining:1
+stock_BIIB r_up	8.5:3
+stock_BIIB r_down	n't:1
+stock_BIIB r_up	13:1
+stock_BIIB r_up	5:1
+stock_BIIB r_up	not:1 shortcuts:1 detours:1
+stock_BIIB r_up	1:1 4:1
+stock_BIIB r_up	1:1 4:1
+stock_BIIB r_up	'09:1
+stock_BIIB r_down	gaining:1 drug-sector:1 biggest:1 stocks:1 spotlight:1 declining:1
+stock_BIIB r_up	21:3
+stock_BIIB r_up	surprises:1 advisories:1
+stock_BIIB r_up	2001:1
+stock_BIIB r_down	8.1:1
+stock_BIIB r_down	10:1 4:1
+stock_BIIB r_up	's:1
+stock_BIIB r_down	's:1
+stock_BIIB r_up	leads:1 3:1 stocks:1 north:1 drug:1
+stock_BIIB r_down	n't:1 biggest:1 stocks:1 gaining:1 declining:1
+stock_BIIB r_up	watch:2
+stock_BIIB r_down	watch:2
+stock_BIIB r_up	68:1 $:1
+stock_BIIB r_up	35:4
+stock_BIIB r_up	off:1 rise:1 focus:1 record:1 gain:1 report:1 stocks:2
+stock_BIIB r_up	960:1 $:1
+stock_BIIB r_down	13:1
+stock_BIIB r_up	into:1 move:1 makers:1 spotlight:1
+stock_BIIB r_down	2.6:1 5.6:1
+stock_BIIB r_down	5.6:1
+stock_BIIB r_down	patients:1 secret:1 2011:1 care’s:1
+stock_BIIB r_down	watch:1 market:1 drug:1
+stock_BIIB r_down	1:1 $:1
+stock_BIIB r_up	breakdown:1 return:1 scene:1
+stock_BIIB r_up	gaining:1 north:1 lead:1 top:1 drug:1 stocks:2 declining:1
+stock_BIIB r_up	5.2:1 3.4:1
+stock_BIIB r_up	3.4:1
+stock_BIIB r_up	12:1
+stock_BIIB r_down	's:1
+stock_BIIB r_up	2011:1 1.8:4
+stock_BIIB r_down	's:1
+stock_BIIB r_down	's:1
+stock_BIIB r_down	's:2
+stock_BIIB r_up	targets:1 easier:1 mean:1 board:1 elections:1
+stock_BIIB r_down	3:1 's:1 $:1
+stock_BIIB r_down	's:2
+stock_BIIB r_up	's:2
+stock_BIIB r_up	watch:1
+stock_BIIB r_up	's:3
+stock_BIIB r_up	biggest:1 gaining:1 stocks:1 $:1 declining:1
+stock_BIIB r_up	's:1 38:3 watch:1
+stock_BIIB r_down	major:1 technical:1 within:1 test:1 500:1 view:1
+stock_BIIB r_down	's:1 4:1
+stock_BIIB r_up	now:1 expert:1 money:1 top:1 5:1 making:1 moves:1 stock:1
+stock_BIIB r_down	300:1 $:1
+stock_BIIB r_up	$:1
+stock_BIIB r_down	tops:1 2012:1
+stock_BIIB r_up	watch:1 25:1 's:1
+stock_BIIB r_down	surprises:1 advisories:1

@@ -1,0 +1,266 @@
+stock_NDAQ r_down	2009:1
+stock_NDAQ r_down	$:1 6:1
+stock_NDAQ r_up	talks:1 after:1 gain:1 shares:1
+stock_NDAQ r_down	2009:1
+stock_NDAQ r_down	2-4:2
+stock_NDAQ r_down	focus:1
+stock_NDAQ r_down	2008:1
+stock_NDAQ r_down	29:1
+stock_NDAQ r_up	getting:1 funds:1 companies:1 29:1 lists:1 options:1
+stock_NDAQ r_up	2:1
+stock_NDAQ r_down	2:1 22:1
+stock_NDAQ r_down	flat:1 hit:1 broadly:1 downgrades:1 pressure:1 analyst:1 financials:1
+stock_NDAQ r_down	firm:1 loss:1 swings:1 $:2 1.3:2 after:1 shares:1 bln:1 fall:1
+stock_NDAQ r_down	focus:1
+stock_NDAQ r_up	amp:1 $:1 53:1
+stock_NDAQ r_down	$:1
+stock_NDAQ r_up	$:1
+stock_NDAQ r_down	billion:1 $:1 3.8:1
+stock_NDAQ r_up	again:1 's:1 surprises:1 53:2 advisories:1 '09:1 leading:1 rally:1 financials:1 higher:1
+stock_NDAQ r_down	30:1
+stock_NDAQ r_up	launches:1 trading:1 platform:1 new:1
+stock_NDAQ r_down	uptick:1 's:1 shorts:1 propose:1 modified:1 rule:1 limit:1
+stock_NDAQ r_up	's:2
+stock_NDAQ r_up	4.1:1
+stock_NDAQ r_down	gaining:1 's:1 focus:1 biggest:1 stocks:1 declining:1
+stock_NDAQ r_down	pressure:1 bulls:1 ups:1 shorts:1
+stock_NDAQ r_down	loss:1 charge:1 swings:1 after:1 goodwill:1
+stock_NDAQ r_down	end:1 expects:1 bourse:1 year:1 20:1 more:1
+stock_NDAQ r_up	3.6:1 volume:1 boost:1 wary:1
+stock_NDAQ r_up	4:1 0.7:1
+stock_NDAQ r_down	5:1
+stock_NDAQ r_down	's:1 p.m.:1
+stock_NDAQ r_up	2010:2
+stock_NDAQ r_up	2010:1
+stock_NDAQ r_down	3:1
+stock_NDAQ r_down	rs:1 6:1
+stock_NDAQ r_up	1:1 $:1
+stock_NDAQ r_up	1:2
+stock_NDAQ r_up	4:5
+stock_NDAQ r_down	's:1
+stock_NDAQ r_down	's:1
+stock_NDAQ r_up	1:2 31:1
+stock_NDAQ r_down	5.1:1 focus:1
+stock_NDAQ r_up	late:1 rallied:1 slid:1 stocks:1 interest:1
+stock_NDAQ r_up	early:1 rose:1 interest:1
+stock_NDAQ r_up	2010:1
+stock_NDAQ r_up	2nd:1
+stock_NDAQ r_up	2nd:1
+stock_NDAQ r_down	talks:1 taps:1 buy:1 's:1
+stock_NDAQ r_up	$:1
+stock_NDAQ r_down	3rd:2
+stock_NDAQ r_down	's:1
+stock_NDAQ r_down	6:1
+stock_NDAQ r_down	's:1 focus:1 secret:1 telling:1 market:1 stock:1
+stock_NDAQ r_down	trading:1 heighten:1 systems:1 scrutiny:1
+stock_NDAQ r_up	2009:1 '09:1
+stock_NDAQ r_down	'':1 ``:1 focus:1
+stock_NDAQ r_down	surprises:1 3.4:1 advisories:1
+stock_NDAQ r_up	3:1 100:1
+stock_NDAQ r_up	's:1
+stock_NDAQ r_up	late:1 advance:1 's:3 falls:1
+stock_NDAQ r_down	housing-market:1 join:1 fears:1 broader:1 fall:1 rally:1 stocks:2 market:1
+stock_NDAQ r_up	3:1
+stock_NDAQ r_up	's:1
+stock_NDAQ r_down	2009:1 focus:1
+stock_NDAQ r_up	buy:1 $:1 point:1 futures:1 2nd:1 stock:1 higher:1
+stock_NDAQ r_up	13:1
+stock_NDAQ r_up	$:2
+stock_NDAQ r_up	jump:1 slides:1 after:1 hours:1 shares:1
+stock_NDAQ r_down	19:1 $:2
+stock_NDAQ r_up	sessions:1 after:1 up:1 two:1 7:3 stocks:1 retreat:1
+stock_NDAQ r_down	2010:2 7:1
+stock_NDAQ r_down	debt:1 10000:1 23:1 surprises:1 28:3 n't:1 worries:1 advisories:1 sink:1 regulatory:1 stocks:1
+stock_NDAQ r_up	2010:1
+stock_NDAQ r_down	's:1
+stock_NDAQ r_up	300:2 $:2
+stock_NDAQ r_up	2010:1
+stock_NDAQ r_up	2nd:1
+stock_NDAQ r_up	sector:1 pace:1 moderate:1 financial:1 gains:1
+stock_NDAQ r_down	2nd:1
+stock_NDAQ r_up	5:1
+stock_NDAQ r_up	stocks:1 's:2 gains:1 hold:1 onto:1 weekly:1
+stock_NDAQ r_down	jittery:1 1st:1 skids:1 investors:1 16:1
+stock_NDAQ r_up	focus:1
+stock_NDAQ r_down	20:1 $:2 surprises:1 35:2 1:1 advisories:1
+stock_NDAQ r_down	20:1
+stock_NDAQ r_down	play:1 faulty:1 's:3 sell-off:1 amid:1 probe:1 focus:1 cancellations:1 trade:2 leads:1 defense:1 're:1 euro:1
+stock_NDAQ r_up	unified:1 rescue:1 --:1 system:1 focus:1 looks:1 plan:1 creating:1
+stock_NDAQ r_down	blame:1 's:2 focus:1 n't:1 glitch:1 machines:1 500:1
+stock_NDAQ r_up	's:1
+stock_NDAQ r_down	's:1
+stock_NDAQ r_up	unified:1 's:1 creating:1 system:1 proposes:1 6:1
+stock_NDAQ r_up	300:1 $:1
+stock_NDAQ r_up	$:2 29:1
+stock_NDAQ r_down	's:2
+stock_NDAQ r_up	's:1
+stock_NDAQ r_down	--:1
+stock_NDAQ r_up	--:1
+stock_NDAQ r_down	's:1
+stock_NDAQ r_down	$:1
+stock_NDAQ r_down	's:1 1000:1
+stock_NDAQ r_up	n't:2
+stock_NDAQ r_up	hopes:1 rally:1 surges:1 earnings:1
+stock_NDAQ r_up	39:3 's:2 gains:1 focus:1 inch:1 banks:1 post:1 higher:1
+stock_NDAQ r_down	surprises:1 advisories:1
+stock_NDAQ r_up	confusion:1 arises:1 exit:1 after:1
+stock_NDAQ r_down	stock-price:1 trades:1 caused:1 1.1:1 error:1
+stock_NDAQ r_up	losses:1 data:1 jobless:1 extend:1 after:1
+stock_NDAQ r_down	bad:1 rates:1 financials:1
+stock_NDAQ r_down	1.6:1
+stock_NDAQ r_down	1st:1
+stock_NDAQ r_up	's:1 losses:1 recouping:1 climb:1 day:1 previous:1
+stock_NDAQ r_up	2011:1 5.4:1
+stock_NDAQ r_up	8:1
+stock_NDAQ r_down	2:1 $:2 2013:2
+stock_NDAQ r_down	2:1 -3:1
+stock_NDAQ r_up	plans:1 launch:1 system:1 trading:1 new:1 alternative:1
+stock_NDAQ r_up	$:1
+stock_NDAQ r_up	1.2:1 2nd:1
+stock_NDAQ r_up	25:1
+stock_NDAQ r_up	68:2 2009:1 's:1 30-31:1
+stock_NDAQ r_up	6.8:1
+stock_NDAQ r_up	'':2 ``:2
+stock_NDAQ r_down	rebound:1 finish:1 black:1
+stock_NDAQ r_down	's:1
+stock_NDAQ r_up	's:1
+stock_NDAQ r_down	's:1
+stock_NDAQ r_down	100:2
+stock_NDAQ r_up	8:1 's:1 $:2
+stock_NDAQ r_up	fee:1 hit:1 companies:1 actions:1 credit:1 card:1
+stock_NDAQ r_down	2011:1
+stock_NDAQ r_down	market:1 stocks:1 broader:1 lag:1
+stock_NDAQ r_down	's:1
+stock_NDAQ r_up	5.4:1 's:1
+stock_NDAQ r_up	's:1
+stock_NDAQ r_up	weigh:1 dollar:1 data:1 investors:1 falls:1
+stock_NDAQ r_up	11:1
+stock_NDAQ r_up	2nd:1
+stock_NDAQ r_up	0.7:1
+stock_NDAQ r_up	's:1 watch:1
+stock_NDAQ r_down	's:1
+stock_NDAQ r_up	close:1 stocks:1 's:1 lead:1 higher:1
+stock_NDAQ r_down	's:1
+stock_NDAQ r_up	10:1 after:1 's:4 deal:1 exchange:1 exchanges:1 rate:1 end:1 hikes:1 merging:1 benefits:1 fall:1 weigh:1 higher:1 stock:1
+stock_NDAQ r_up	10:1 ``:1 's:1 $:1 '':1 vs.:1
+stock_NDAQ r_up	end:1 lower:1 's:2 disappoints:1
+stock_NDAQ r_up	week:1 's:1 $:1 up:1 start:1 edge:1 7:1 stocks:1
+stock_NDAQ r_down	gaining:1 merger:1 focus:1 biggest:1 lifts:1 7:1 hopes:1 stocks:1 targets:1 declining:1
+stock_NDAQ r_up	's:2
+stock_NDAQ r_up	week:1 $:1 up:1 edge:1 500:1 higher:1
+stock_NDAQ r_up	worries:1 persist:1 's:1 fall:1
+stock_NDAQ r_up	1.3:1
+stock_NDAQ r_up	's:1
+stock_NDAQ r_down	's:1 $:2
+stock_NDAQ r_up	n't:1 unrest:1 stocks:1 fall:1
+stock_NDAQ r_down	's:1
+stock_NDAQ r_down	lower:1 stocks:1 end:1 marginally:1
+stock_NDAQ r_down	9:1 $:1
+stock_NDAQ r_down	$:1 but:1
+stock_NDAQ r_up	's:1
+stock_NDAQ r_up	39:1 $:1 turns:1 into:1 rise:1 shares:1 late:1 trading:1 drought:1 trickle:1
+stock_NDAQ r_up	's:1
+stock_NDAQ r_up	make:1 move:1 its:1
+stock_NDAQ r_down	2008:1
+stock_NDAQ r_down	flash-crash:1 effort:1 drives:1 rule:1
+stock_NDAQ r_up	needs:1 deal:1 lower:1 but:1 banks:1 not:1 close:1 settlement:1 talk:1
+stock_NDAQ r_up	move:1 focus:1 '':1 jobs:1 its:1 after:1 lead:1 +:1 add:1 biggest:1 =:1 stock:1 gaining:1 ``:1 good:1 's:2 far:1 rise:1 report:1 stocks:1 data:1 declining:1 markets:1 futures:1 so:1 banks:1 higher:1 makes:1
+stock_NDAQ r_down	's:1 $:1 surprises:1 rise:1 but:1 advisories:1 slip:1 firms:1 'm:1 financials:1
+stock_NDAQ r_up	set:1 's:1 gains:1 minutes:1 merger:1 data:1 futures:1 tree:1 falls:1 tech:1 slip:1 reject:1 fuel:1 says:1 before:1 rebalance:1 stock:1
+stock_NDAQ r_up	shakes:1 less:1 advances:1 rise:1 sag:1 up:2 surge:1 lift:1 tech:1 helps:1 100:1 stocks:1 500:2 take:1
+stock_NDAQ r_up	n't:1
+stock_NDAQ r_down	's:1 $:1
+stock_NDAQ r_down	investors:1 into:1 its:1 market:1 ground:1 end:1 stands:1 lackluster:1 3:1 take:1 cling:1 's:1 gains:1 may:1 bid:2 rejected:1 autos:1 gain:1 fall:1 stock-index:1 stocks:2 lower:1 off:1 hostile:1 futures:1 outpace:1 're:1 team:1 small:1 weigh:1
+stock_NDAQ r_down	's:1
+stock_NDAQ r_down	30:1 $:1
+stock_NDAQ r_up	20:1 $:1 vs.:1 if:1
+stock_NDAQ r_down	's:1 starts:1 sweeten:1 focus:1 pot:1 housing:1
+stock_NDAQ r_down	's:1 profit:1 watch:1 70:3 rises:1 spotlight:1
+stock_NDAQ r_up	77:1 surprises:1 advisories:1 's:1
+stock_NDAQ r_down	145:1 $:1 bid:1 bloody:1 behind:1 truth:1
+stock_NDAQ r_up	3:1 stocks:1 off:1 slip:1
+stock_NDAQ r_up	10:1 3.2:2 its:1
+stock_NDAQ r_down	9.6:4 flank:1 its:1
+stock_NDAQ r_down	's:1 watch:1
+stock_NDAQ r_up	climbs:1 hours:1 after:1 falls:1
+stock_NDAQ r_down	$:1 trades:1 watch:1 canceled:1 ‘erroneous’:1 4:1 slip:1 after-hours:1 trading:1 stocks:1 afternoon:1
+stock_NDAQ r_down	--:2 n't:1 27:2 's:2
+stock_NDAQ r_down	's:2 investors:1 snafu:1 should:1 trading:1 worry:1
+stock_NDAQ r_up	n't:2
+stock_NDAQ r_down	n't:1 2011:1
+stock_NDAQ r_down	's:1 take:1 swing:1
+stock_NDAQ r_down	seasonal:1 deal:1 mainly:1 focus:1 down:1 market:1 gains:1 execution:1 end:1 47:1 financials:1 stock:1 flat:1 ends:1 's:8 sinks:2 after:2 lower:2 stay:1 failure:1 malaise:1 fall:1 100:1 stocks:2 data:1 13:1 futures:1 slumps:1 edge:1
+stock_NDAQ r_down	gaining:1 again:1 30:1 's:2 manage:1 falls:1 declining:1 meds:1 market:1 gain:1 goes:1 biggest:1 off:1 stocks:1 its:1 financials:1 if:1
+stock_NDAQ r_up	boost:1
+stock_NDAQ r_down	's:1
+stock_NDAQ r_up	's:1 1.9:2
+stock_NDAQ r_up	buy:1 says:1 gain:1
+stock_NDAQ r_down	its:1
+stock_NDAQ r_up	later:1 's:1 trades:1 still:1 decade:1 risky:1
+stock_NDAQ r_up	2:1 $:1
+stock_NDAQ r_up	2013:1
+stock_NDAQ r_up	--:2 30:1
+stock_NDAQ r_down	n't:1
+stock_NDAQ r_up	's:1 1000:1
+stock_NDAQ r_up	's:2
+stock_NDAQ r_up	10:1 's:1 energy:1 drive:1 100:1 stocks:1 higher:1
+stock_NDAQ r_up	vote:1 rise:1 stocks:1 data:1 after:1
+stock_NDAQ r_up	joy:1 selling:1
+stock_NDAQ r_down	2:2
+stock_NDAQ r_down	12:1
+stock_NDAQ r_up	week:1 12:1 end:1 $:1 down:1 12.6:1 financial:1 stocks:1 day:1
+stock_NDAQ r_up	's:1
+stock_NDAQ r_up	week:1 pipeline:1 1.1:2 1st:2
+stock_NDAQ r_down	lower:1 debt:1 's:3 4.2:3 saga:1 close:1 stocks:1
+stock_NDAQ r_up	19:1
+stock_NDAQ r_up	slide:1 1.7:1 tank:1 financials:1
+stock_NDAQ r_up	1.4:2 2nd:4
+stock_NDAQ r_down	18.3:1
+stock_NDAQ r_up	18.3:1
+stock_NDAQ r_down	$:1 140:1 rebound:1 jump:1 3:2 claims:1 spur:1 jobless:1
+stock_NDAQ r_down	76.97:1
+stock_NDAQ r_down	has:1 's:1 lag:1 tax:1 stocks:1 concerns:1 highest:1 analyst:1 exposure:1
+stock_NDAQ r_up	4th:1 's:1 3rd:2 2nd:2
+stock_NDAQ r_up	end:1 behind:1 4th:1 higher:1 1st:1 4.1:1 stocks:1 's:1 left:1
+stock_NDAQ r_down	1st:1
+stock_NDAQ r_up	trading:1 keep:1 's:1 looms:1 vows:1
+stock_NDAQ r_up	's:2
+stock_NDAQ r_down	31:1
+stock_NDAQ r_up	's:1
+stock_NDAQ r_down	n't:1
+stock_NDAQ r_up	biggest:1 gaining:1 stocks:1 declining:1
+stock_NDAQ r_down	9/11:1 's:1 40,000:1
+stock_NDAQ r_up	2nd:1
+stock_NDAQ r_up	's:1
+stock_NDAQ r_up	2:1 $:1
+stock_NDAQ r_up	4.4:1
+stock_NDAQ r_down	proposal:1 tax:1 pressured:1 shares:1
+stock_NDAQ r_down	500:1
+stock_NDAQ r_up	's:1
+stock_NDAQ r_up	surprises:1 2.1:1 advisories:1 $:1
+stock_NDAQ r_up	3:2
+stock_NDAQ r_up	18:1
+stock_NDAQ r_down	$:1 78:1
+stock_NDAQ r_up	'10:1
+stock_NDAQ r_down	2.4:1 1st:1
+stock_NDAQ r_down	8.9:1 's:1
+stock_NDAQ r_up	's:1
+stock_NDAQ r_down	2nd:1
+stock_NDAQ r_up	easing:1 stocks:1 fears:1 gain:1
+stock_NDAQ r_down	2013:1
+stock_NDAQ r_up	here’s:1 off:1 never:1 took:1 24-hour:1 trading:1 why:1 stock:1
+stock_NDAQ r_down	...:1
+stock_NDAQ r_down	's:1 19:1 rise:1 '08:1 banks:1 news:1 stocks:1
+stock_NDAQ r_down	's:1
+stock_NDAQ r_down	's:1
+stock_NDAQ r_up	hours:1 news:1 after:1 delisting:1 falls:1
+stock_NDAQ r_down	2012:1
+stock_NDAQ r_down	n't:1
+stock_NDAQ r_up	's:4 stalls:1 40:1 n't:1 game:1 exchanges:1
+stock_NDAQ r_down	15:1 vs.:1
+stock_NDAQ r_down	's:1
+stock_NDAQ r_down	's:1
+stock_NDAQ r_down	23:1
+stock_NDAQ r_down	n't:1 its:1
+stock_NDAQ r_up	listings:1 halt:1 error:1
+stock_NDAQ r_up	lower:1 financials:1 lead:1

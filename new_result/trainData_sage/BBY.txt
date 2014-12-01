@@ -1,0 +1,295 @@
+stock_BBY r_down	comp:1 needs:1 executive:1 system:1 fixing:1
+stock_BBY r_down	2.8:1 's:1
+stock_BBY r_up	's:1 $:1 6:1
+stock_BBY r_up	profit:1 split:1 leaps:1 targets:1 2010:3
+stock_BBY r_up	upgrade:1 's:1 gains:1 profit:1 into:1 drop:1 but:1 misses:1 guidance:1 analysts:1 fall:1 stocks:2 eat:1 100,000:1
+stock_BBY r_up	cut:1 drop:1 stocks:1 focus:1
+stock_BBY r_down	people:1 sell-off:1 focus:1 miss:1 stocks:1 profit:1 housing:1 stock:1 's:3 views:1 after:1 sales:1 'd:1 fall:1 hurt:1 15:1 starts:1 futures:1 up:1 edge:1 '10:1 spend:1
+stock_BBY r_up	gaining:1 cold:1 says:1 7.3:1 comfort:1 mine:1 canary:1 biggest:1 coal:1 offers:1 green:1 'll:1 not:1 's:1 shoots:1 stocks:1 analyst:1 declining:1 economy:1
+stock_BBY r_down	$:2 7:1
+stock_BBY r_up	15:2
+stock_BBY r_up	focus:1
+stock_BBY r_up	's:1
+stock_BBY r_down	alliance:1 's:1 form:1
+stock_BBY r_up	's:1 6.3:1 view:1
+stock_BBY r_up	beat:1 rise:1 stocks:1 lifts:1 sentiment:1
+stock_BBY r_up	vs.:1
+stock_BBY r_down	giant:1 views:1 rise:1 beats:1 apparel:1 stocks:1
+stock_BBY r_down	stocks:1 deal:1 inks:1 fall:1
+stock_BBY r_down	sector:1 lower:1 's:1 $:1 18:3 sales:1 99:1 heads:1 disappoint:1 2008:1
+stock_BBY r_up	save:1 's:1 profit:1 sales:1 but:1 online:1 disappoint:1 rises:1 coupons:1
+stock_BBY r_down	's:2
+stock_BBY r_down	's:1
+stock_BBY r_up	set:1 's:1 gear:1 sights:1 back-to-school:1 hot:1 tech:1 earnings:1 fade:1 doubts:1 stocks:1
+stock_BBY r_up	rise:1 stocks:1 hope:1
+stock_BBY r_down	release:1 devices:1
+stock_BBY r_up	enters:1 netbook:1 market:1
+stock_BBY r_down	gaining:1 ``:1 's:1 downgrades:1 drop:1 '':1 biggest:1 stocks:2 declining:1
+stock_BBY r_down	5.8:1
+stock_BBY r_up	32:2
+stock_BBY r_down	's:1
+stock_BBY r_up	4.5:1 2.7:1 2nd:1
+stock_BBY r_up	kicking:1 giant:1 certainly:1
+stock_BBY r_up	100:1 $:1
+stock_BBY r_up	100:1 $:1
+stock_BBY r_down	cut:1 drop:1 6.4:1 stocks:1
+stock_BBY r_up	amid:1 drop:1 trade:1 concerns:1 stocks:1 war:1
+stock_BBY r_down	gaining:1 drops:1 's:6 22:3 missing:1 profit:1 positive:1 drop:1 focus:2 up:1 futures:1 mark:2 misses:1 sales:1 '09:1 biggest:1 retail:1 stocks:2 declining:1 stock:1
+stock_BBY r_down	rentals:1 fall:1 grow:1 sales:1 hurt:1
+stock_BBY r_down	little:1 stocks:1 's:2 ahead:1 challenge:1 changed:1 e-reader:1 decision:1 latest:1
+stock_BBY r_down	's:1
+stock_BBY r_down	surprises:1 advisories:1
+stock_BBY r_down	positive:1 outlook:1 maintains:1 sees:1 holiday:1
+stock_BBY r_up	wish:1 straight:1 sales:1 2nd:1 retail:1 dip:1
+stock_BBY r_up	upgraded:1 buy:1 's:1 $:1 rise:1 60:1 stocks:1
+stock_BBY r_up	's:1
+stock_BBY r_up	's:1
+stock_BBY r_up	15:1 $:1
+stock_BBY r_up	's:1
+stock_BBY r_up	gains:1 give:1 profit:1 tops:1 up:1 mark:1 -2-:1 tech:1 inch:1 stocks:2 boost:1 help:1
+stock_BBY r_down	gaining:1 's:1 up:1 delivery:1 team:1 biggest:1 stocks:1 declining:1
+stock_BBY r_up	rise:1 stocks:1 raised:1
+stock_BBY r_up	sector:1 10:1 's:1 quarters:1 pace:1 gain:1 1st:1
+stock_BBY r_up	short:1 's:1 drop:1 forecast:1 falls:1 stocks:1
+stock_BBY r_down	's:1
+stock_BBY r_up	outlook:1 short:1 profit:1 tops:1 may:1 fall:1 view:1
+stock_BBY r_down	confirm:1 breaks:1 uptrend:1 markets:1 500:1 out:1
+stock_BBY r_up	's:1
+stock_BBY r_up	3:1 $:1
+stock_BBY r_up	holiday:1 selling:1 ahead:1 up:1 start:1 stocks:1
+stock_BBY r_down	'08:1
+stock_BBY r_up	exceed:1 21.6:1 's:2 $:1 business:1 views:1 rise:1 jostle:1 stocks:1
+stock_BBY r_down	bets:1 selling:1 hit:1 trend:1 amid:1 over:1 successfully:1 posts:1 cross:1 1,000:1 profit:1 better-than-expected:1 pond:1 's:1 stocks:1 setter:1
+stock_BBY r_up	ho-hum:1 drop:1 sales:1 3:1 stocks:1 3,500:1
+stock_BBY r_up	shoppers:1 's:1 expect:1 retailers:1 more:1
+stock_BBY r_down	3:1 's:1
+stock_BBY r_down	1990s:2 now:1 they:1
+stock_BBY r_up	3:1 up:1 horizon:1 no:1
+stock_BBY r_down	gaining:1 among:1 futures:1 's:3 up:1 blessing:1 watch:1 focus:2 eve:1 mixed:1 weaken:1 biggest:1 call:1 stocks:3 declining:1 stock:1
+stock_BBY r_down	outlook:1 hit:1 come:1 price:1 drop:1 sales:1 shares:1 fall:1 's:2 stocks:1 margin:1 spotlight:1
+stock_BBY r_down	's:1 gains:1 may:1 steady:1 1:1 fortunes:1 erase:1 rates:1 keeps:1 turning:1 stocks:1
+stock_BBY r_down	week:1 's:1 top:1 1:1 stories:1 14-18:1
+stock_BBY r_up	shrug:1 off:1 investors:1 rise:1 shares:1 storm:1
+stock_BBY r_up	plow:1 could:1 some:1 sales:1 under:1 retail:1
+stock_BBY r_up	holiday:1 lifted:1 stocks:1 'll:1 retail:1 may:1 season:1 futures:1 markdowns:1 sales:1 report:1 save:1 2010:1
+stock_BBY r_down	24:1 5:1
+stock_BBY r_up	up:1 focus:1 shifts:1 inch:1 stocks:1 2010:1 view:1
+stock_BBY r_up	10:1 3:1 's:1 2010:1
+stock_BBY r_down	25:1 may:1 game:1 won:1 have:1 chicken:1 holiday:1 2013:1
+stock_BBY r_up	10:1 hotspot:1 launches:1
+stock_BBY r_down	8.2:1 jobs:1 data:1 top:1 after:1 sales:1 expectations:1 report:1 's:1 stocks:1 dip:1 view:1
+stock_BBY r_down	2010:3
+stock_BBY r_up	's:1
+stock_BBY r_up	profit:1 guidance:1 annual:1 raises:1
+stock_BBY r_down	estimate:1 rise:1 raised:1 stock:1
+stock_BBY r_down	business:1 usual:1
+stock_BBY r_up	7:1
+stock_BBY r_down	hhgregg:1
+stock_BBY r_down	26:1
+stock_BBY r_down	leads:1 lower:1 retail:1 shares:1
+stock_BBY r_up	sector:1 3:1 gain:1 report:1 retail:1 powers:1
+stock_BBY r_up	first-mover:1 advantage:1 seeks:1
+stock_BBY r_up	but:1
+stock_BBY r_up	upgraded:1 futures:1 's:1 drop:1 slumps:1 tight:1 range:1 stocks:1 spotlight:1 stock:1
+stock_BBY r_up	surprise:1 year:1 's:1 coming:1
+stock_BBY r_down	but:1
+stock_BBY r_up	sector:1 redefine:1 dollar:1 results:1 rally:1 close:1 jobless:1 consumers:1 curbed:1 stock:1 's:2 gains:2 after:1 focus:2 bulk:1 lift:1 gain:1 despite:1 stocks:1 data:1 discretionary:1 hits:1 claims:1 futures:1 commodities:1 pace:1 mixed:1 retain:1 retail:1
+stock_BBY r_up	futures:1 's:1 reportedly:1 could:1 rise:1 sale:2 next:1 3.6:1 more:1 edge:1 act:1 stocks:1 data:1 after:1 higher:1
+stock_BBY r_down	set:1 's:1 highs:1 37:4 shares:1 2:1 frenzy:1 new:1
+stock_BBY r_up	awaiting:1 's:1 expectations:1
+stock_BBY r_up	surprises:1 advisories:1 11000:1
+stock_BBY r_up	pull:1 rise:1 may:1 since:1 focus:1 shares:1 back:1 late:1 '94:1 trades:1 stocks:1 best:1
+stock_BBY r_up	's:1
+stock_BBY r_up	--:1 most:1 's:2 eat:1 pie:1
+stock_BBY r_down	sector:2 slips:1 's:1 gains:1 inches:1 sales:1 upgraded:1 up:1 pace:1 lift:1 retailers:1 drops:1 data:1
+stock_BBY r_up	's:1 ad:1 --:1 surprises:1 cheers:1 advisories:1 plan:1 draws:1 jeers:1
+stock_BBY r_up	n't:1 rise:1 stocks:1 data:1 manufacturing:1
+stock_BBY r_down	30:1
+stock_BBY r_up	selling:1 stocks:1 up:1 reportedly:1 stake:1
+stock_BBY r_up	's:1
+stock_BBY r_down	16:2
+stock_BBY r_up	's:1 $:2 2.4:1
+stock_BBY r_up	28:1 's:1
+stock_BBY r_down	-2:1
+stock_BBY r_down	29:1 2nd:1
+stock_BBY r_down	sector:1 sees:1 paces:1 price:1 misses:1 gain:1 slashed:1 view:1
+stock_BBY r_down	sector:1 may:1 have:1 reportedly:1 auction:1 price:1 bids:2 up:1 report:1 settle:1 heats:1 receives:1 mixed:1 gets:1
+stock_BBY r_down	ev3:1 $:1
+stock_BBY r_up	's:1 $:1 500,000:1
+stock_BBY r_down	's:1 watch:1
+stock_BBY r_down	sector:1 all:1 1.3:3 results:1 hit:1 around:1 profit:1 2:2 disappoint:1 more:1 's:1 gains:1 falls:1 shortfall:1 downgraded:1 futures:1 up:1 deals:1 spending:1 -2:1 200-day:2 choppy:1 consumer:1 spotlight:1 view:1
+stock_BBY r_down	gaining:1 head:1 's:1 gains:1 tech-sector:1 broad:1 average:1 up:1 surge:1 n't:1 200-day:2 rally:1 biggest:1 crossed:1 stocks:2 declining:1
+stock_BBY r_down	threaten:1 summer:1 warnings:1
+stock_BBY r_up	10:1 stories:1 14:1 18:1
+stock_BBY r_down	5:2 4:1
+stock_BBY r_up	profit:1 slipping:1 economy:1
+stock_BBY r_down	4:1 7:2
+stock_BBY r_down	sector:1 lower:1 retail:1 lead:1
+stock_BBY r_up	'':1 ``:1 1.7:1 4s:4
+stock_BBY r_down	3.6:1 $:2
+stock_BBY r_down	5:1
+stock_BBY r_down	's:1
+stock_BBY r_up	blues:1 wallflower:1 's:1
+stock_BBY r_down	12.26:1 's:1
+stock_BBY r_down	stocks:1 dip:1 up:1
+stock_BBY r_down	bolster:1 lifted:1 's:4 profit:1 sales:1 down:1 stocks:1
+stock_BBY r_up	lure:1 's:1 shift:1 back-to-school:1 gears:1 shoppers:1
+stock_BBY r_up	network:1
+stock_BBY r_down	5:1 's:4
+stock_BBY r_down	soothe:1 fails:1 retail:1 jitters:1 statement:1
+stock_BBY r_up	declines:1 beginning:1 's:1 just:1
+stock_BBY r_down	down:1 claims:1 stocks:1 data:1 up:1
+stock_BBY r_down	down:1 cut:1 stocks:1 loss:1
+stock_BBY r_down	's:1
+stock_BBY r_up	's:1
+stock_BBY r_up	's:1 --:1 soon:1 too:1 not:1 gets:1 minute:1
+stock_BBY r_up	's:1
+stock_BBY r_up	global:1 cheered:1 stocks:1 economic:1 data:1
+stock_BBY r_up	sales:2 watch:1 61:1 signs:1 next:1 lifts:1 profit:1 surprises:1 forecast:1 advisories:1 test:1 500:1 stock:1 life:1 rise:1 's:2 drift:1 after:2 tops:1 moment:1 estimate:1 stocks:1 shine:2 lower:1 retail:1 futures:1 faces:1 shows:1 spotlight:1
+stock_BBY r_up	streak:1 gaining:1 end:1 gains:1 win:1 rebound:1 safe-haven:1 surge:1 add:1 biggest:1 sharp:1 stocks:3 's:1 declining:1
+stock_BBY r_up	surprise:1 20:1 get:1
+stock_BBY r_down	's:1
+stock_BBY r_up	retail:1 's:1 stocks:1 leads:1 game:1 plan:1 holiday:1 higher:1
+stock_BBY r_up	's:1
+stock_BBY r_up	run-up:1 after:1 clipped:1 shares:1 get:1
+stock_BBY r_down	via:1 $:2 599:2 system:1 rolls:1 out:1
+stock_BBY r_up	via:1 than:1
+stock_BBY r_up	cut:1 gains:1 sentiment:1 drop:1 after:1 sales:1 game:1 surprise:1 post:1 stocks:1 data:1
+stock_BBY r_up	help:1 aims:1 edge:1 poison:1 stocks:1 dip:1 pill:1 store:1 adopts:1
+stock_BBY r_down	sector:1 lower:1 holiday:1 glimmers:1 tumbles:1 retail:1 hope:1
+stock_BBY r_up	23:1
+stock_BBY r_down	leads:1 retail-sector:1 gains:1
+stock_BBY r_down	new:1 wraps:1 lifts:1 e-reader:1
+stock_BBY r_up	2nd:1
+stock_BBY r_down	's:2
+stock_BBY r_up	n't:1 's:2
+stock_BBY r_up	report:1 lifts:1 jobs:1 stocks:1 retail:1
+stock_BBY r_up	sell:1 industry:1 struggles:1 investors:1
+stock_BBY r_down	drop:1 up:1 fight:1 heats:1 online:1 stocks:1
+stock_BBY r_down	6.7:1 5.1:1 30:2 $:2
+stock_BBY r_down	's:1
+stock_BBY r_up	21:1
+stock_BBY r_up	deals:1
+stock_BBY r_up	little:1 stocks:1 helper:1 give:1 up:1 best:1 sales:1 phone:1 smart:1 holiday:1 your:1 hope:1
+stock_BBY r_up	deals:1 hitting:1 fever:1 pitch:1
+stock_BBY r_down	stokes:1 stocks:2 holiday:1 woes:1 retail:1 show:1 slump:1 stores:1 shoppers:1 hit:1 debt:1 hope:1
+stock_BBY r_down	's:1
+stock_BBY r_down	season:1 holiday:1 retailers:1 bet:1
+stock_BBY r_up	law:1 'conflict:1 minerals:1
+stock_BBY r_down	videogame:1 big:1 revive:1 sales:1 titles:1 holiday:1
+stock_BBY r_down	20,000:1 $:1
+stock_BBY r_up	hell:1 made:1 match:1
+stock_BBY r_down	ready:1 year-end:1 market:1 stock:1
+stock_BBY r_down	0.8:1 results:1 4.4:3 surprises:1 shares:1 advisories:1 fumble:1 6:1 biggest:1 disappoint:1 holiday:1 gaining:1 's:3 47.98:1 watch:1 after:1 focus:1 sales:3 prices:1 along:1 stocks:2 declining:1 futures:1 up:1 slide:1 edge:1 dents:1 climb:1 retail:4
+stock_BBY r_down	47.98:1 retail:1 end:1 remains:1 highlights:1 after:1 up:1 's:1 tame:1 mixed:1 inflation:1 sales:1 inch:1 tech:1 stocks:2 warning:1 action:1 higher:1
+stock_BBY r_up	n't:1 's:1
+stock_BBY r_down	pull:1 all:1 sales:1 stops:1 last-minute:1 out:1
+stock_BBY r_down	shoppers:1 turning:1 retailers:1 out:1
+stock_BBY r_up	toast:1 gadgets:1 tech:1 year’s:1 dead:1
+stock_BBY r_down	shoppers:1 ring:1 cheer:1 retailers:1
+stock_BBY r_up	billion:1 $:1 rise:1 sales:1 1:1 likely:1 owns:1 postpone:1 stocks:1 spotlight:1
+stock_BBY r_up	decline:1 1.6:2 jumps:1 sales:1 victory:1 small:1 drops:1
+stock_BBY r_down	sector:1 pressure:1 retail:1 shares:1
+stock_BBY r_up	sector:1 lower:1 up:1 leads:1 static:1 earnings:1
+stock_BBY r_down	personal:1 tech:1 potential:1 tap:1 get:1
+stock_BBY r_up	10:1 4:1
+stock_BBY r_down	's:1
+stock_BBY r_down	boost:1 retailers:1
+stock_BBY r_up	's:1 500:1
+stock_BBY r_down	profit:1 less-than-expected:1 rises:1 's:1 17:1
+stock_BBY r_up	cover:1 slump:1 shares:1 news:1
+stock_BBY r_down	's:1
+stock_BBY r_up	launches:1 2:2 grows:1 tablet:1 demand:1
+stock_BBY r_up	2:1
+stock_BBY r_down	wraps:1 lifts:1 tablet:1
+stock_BBY r_up	2:1
+stock_BBY r_up	investors:1 up:2 face:1 news:1 shines:1 data:1
+stock_BBY r_down	point:1 flat:1 tablet:1 launch:1 price:1 futures:1 start:1 sets:1 date:1 stock:1
+stock_BBY r_up	session:1 slumber:1 stocks:1 through:1 weak:1
+stock_BBY r_down	gaming:1 oil:2 's:2 $:1 after:1 mobile:1 estimates:1 top:1 futures:1 appliance:1 up:1 focus:1 phone:1 rise:1 106:1 prices:1 barrel:1 stocks:1 tops:1 expand:1 stock:1
+stock_BBY r_down	it’s:1 20:1 ahead:1 point:1 rise:1 retailer:1 earnings:1 's:1 hope:1
+stock_BBY r_up	shift:1 retail:1 sees:1 gains:1
+stock_BBY r_up	advance:1 stocks:1 rises:1
+stock_BBY r_down	mixed:1 cut:1 raised:1 stocks:1
+stock_BBY r_down	scale:1 jobs:1 big-box:1 positive:1 drop:1 weak:1 back:2 stocks:1 strategy:1 way:1 claw:1 territory:1 data:1
+stock_BBY r_up	downgrade:1 slide:1 stocks:1 hit:1
+stock_BBY r_up	rise:1 stocks:1 sentiment:1 boosts:1
+stock_BBY r_up	profit:1 big:1 30:1 forecast:1 cuts:1 fail:1 falls:1 spotlight:1
+stock_BBY r_up	's:1 $:1
+stock_BBY r_up	may:1 pressure:1 signs:1 show:1
+stock_BBY r_down	bets:1 tumble:1 tumbles:1 weak:1 shares:1 forecast:2 rallies:1
+stock_BBY r_up	laptops:1 software:1 based:1 its:1 unveils:1
+stock_BBY r_up	leads:1 sector:1 drop:1 retail:1
+stock_BBY r_down	loss:1 swings:1 first-quarter:1
+stock_BBY r_up	value:1 above:1 stocks:1 intrinsic:1 called:1 out:1
+stock_BBY r_down	retail:1 out:1 gain:1 stocks:1 sit:1
+stock_BBY r_up	's:1
+stock_BBY r_up	sector:1 futures:1 estimates:1 sales:4 best:1 profit:1 top:1 shares:1 biggest:1 stock:1 gaining:1 rise:1 after:2 watch:1 hurt:1 hours:1 gain:1 fall:1 post:1 stocks:2 data:1 day:1 declining:1 11:1 12:2 months:1 pace:1 time:1 retail:3 first:1
+stock_BBY r_up	sector:1 pace:1 drop:1
+stock_BBY r_up	gains:1 lead:1 discrimination:1 settles:1 2005:2 225:2 retail:1 lawsuit:1 stock:1
+stock_BBY r_up	confidence:1 $:2 over:1 gain:1 7:1 stocks:1 4:1
+stock_BBY r_down	leads:1 decliners:1 retail:1
+stock_BBY r_down	biggest:1 gaining:1 stocks:1 declining:1
+stock_BBY r_up	's:1
+stock_BBY r_down	cut:1 against:1 face:1 uphill:1 upped:1 battle:1
+stock_BBY r_up	downgrade:1 gets:1 hit:1 analyst:1
+stock_BBY r_down	edge:1 online:1
+stock_BBY r_down	15:1 $:1
+stock_BBY r_up	weighs:1 now:1 boost:1 expansion:1
+stock_BBY r_down	stockpile:1 cash:1 grows:1 its:1
+stock_BBY r_up	's:1
+stock_BBY r_down	poor:1 loss:1 non:1 shuts:1 tablet:1 color:1 could:1 debut:1 posts:1 29:1 results:1 wider:1 stores:1
+stock_BBY r_up	tablets:1 handsets:1 kills:1
+stock_BBY r_up	's:1
+stock_BBY r_down	well:1 bodes:1
+stock_BBY r_up	challenge:1 just:1 latest:1
+stock_BBY r_up	's:1
+stock_BBY r_down	n't:1 futures:1 's:3 tentative:1 30:2 watch:1 up:1 focus:1 challenges:1 remain:1 edge:1 stays:1 stocks:1 view:1
+stock_BBY r_up	bets:1 flat:3 shark:1 30:1 says:1 $:1 flying:1 all:1 gaining:1 eyeing:1 50:1 biggest:1 's:1 stocks:1 declining:1 economy:1
+stock_BBY r_down	buyers:1 into:1 browsers:1 turning:1 focus:1
+stock_BBY r_up	's:1
+stock_BBY r_down	wraps:1 lifts:1 tablet:1
+stock_BBY r_down	2000:1 's:1
+stock_BBY r_up	200:1
+stock_BBY r_down	bets:1
+stock_BBY r_up	's:1
+stock_BBY r_down	's:1
+stock_BBY r_down	's:1
+stock_BBY r_down	2011:1 $:1 7:1 unveils:1
+stock_BBY r_up	's:1
+stock_BBY r_up	dive:1 rise:1 yields:1 stocks:1 500:1 2012:1
+stock_BBY r_up	begins:1 10:1 $:1 earlier:1 fervor:1 ever:1 than:1
+stock_BBY r_up	30:1
+stock_BBY r_up	may:1 herald:1 mobile:1 shopper:1 year:1
+stock_BBY r_down	45:1 $:1
+stock_BBY r_down	68:1
+stock_BBY r_down	regain:1 hours:1 some:1 shares:1 ground:1
+stock_BBY r_down	down:1 retail’s:1
+stock_BBY r_up	shopping:1 new:1 holiday:1 's:1
+stock_BBY r_up	hit:1 $:1 giving:1 season:1 sales:1 record:1 hope:1
+stock_BBY r_down	end:1 $:1 solid:1 odds:1 tax:1 sales:2 note:1 over:1 1.25:1
+stock_BBY r_down	's:1
+stock_BBY r_up	foreshadow:1 season:1 uncertain:1 sales:1
+stock_BBY r_down	's:1
+stock_BBY r_down	watch:1
+stock_BBY r_down	gaining:1 play:1 hard:1 get:1 tops:1 rise:1 watch:1 29:8 shares:1 trading:1 after-hours:1 biggest:1 stocks:1 declining:1
+stock_BBY r_down	's:1
+stock_BBY r_up	buyers:1 stores:1 24/7:1 touting:1 deals:1 find:1
+stock_BBY r_up	dash:1 approaches:1 stores:1
+stock_BBY r_up	shut:1 stores:1 woes:1 up:1 120:1 deepen:1 's:1
+stock_BBY r_up	oversee:1 taps:1 retail:1 veteran:1 merchandising:1
+stock_BBY r_up	disappoint:1 sales:1
+stock_BBY r_down	2011:1
+stock_BBY r_up	code:1 consumers:1 cracking:1
+stock_BBY r_down	week:1 13:1 rise:1 up:1 shares:1 half:1
+stock_BBY r_down	gaining:1 retail:1 takes:1 best:1 seat:1 front:1 chief:1 gamble:1 biggest:1 new:1 stocks:1 declining:1
+stock_BBY r_up	close:1 rises:1 up:1 techs:1 8:1
+stock_BBY r_down	's:1
+stock_BBY r_up	set:1 intensify:1 life’:1 consumers:1
+stock_BBY r_down	1:1 5:1 but:1
+stock_BBY r_up	via:1
+stock_BBY r_down	's:1
+stock_BBY r_up	's:1
+stock_BBY r_down	's:1
+stock_BBY r_down	gaining:1 moves:1 surprises:1 watch:3 n't:2 advisories:1 vs:1 biggest:1 meet:1 skepticism:1 stocks:1 investor:1 declining:1
+stock_BBY r_down	10:1 26:1 's:1 gains:1 mostly:1 top:1 30:1 ends:1 lower:1 stories:1 stocks:1

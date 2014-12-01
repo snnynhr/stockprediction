@@ -1,0 +1,337 @@
+stock_CHK r_down	natural:1 ahead:1 spring:1 gas:1 producers:1 cuts:1
+stock_CHK r_up	gain:1 retreat:1 shares:1 inventory:1
+stock_CHK r_up	's:1
+stock_CHK r_up	inventories:1 weigh:1 energy:1 stocks:1 higher:1
+stock_CHK r_up	rally:1 then:1 stocks:1 gas:1 recover:1
+stock_CHK r_up	's:1 but:1 shares:1 services:1 rally:1 refiners:1 2009:1 2008:1 retreat:1
+stock_CHK r_up	gaining:1 's:1 surprises:1 advisories:1 biggest:1 stocks:1 declining:1
+stock_CHK r_down	gaining:1 oil:1 's:1 gains:1 up:1 stocks:1 $:1 past:1 biggest:1 moves:1 107:1 declining:1 gives:1
+stock_CHK r_down	surprises:1 advisories:1
+stock_CHK r_up	1:1 '08:1 '09:1
+stock_CHK r_up	gains:1 falls:1 modest:1 unable:1 sustain:1 midday:1
+stock_CHK r_up	56:1 42:1 $:2
+stock_CHK r_down	mixed:1 gas:1 greater-than-expected:1 inventories:1 natural:1
+stock_CHK r_up	$:1 record:1 120:1 crude:1 near:1 earnings:1 mixed:1 new:1
+stock_CHK r_down	lower:1 petroleum:1 lift:1 earnings:1 crude:1 stocks:1
+stock_CHK r_up	gaining:1 loss:1 swings:1 's:1 finishes:1 surprises:1 rise:1 focus:1 29c:1 parade:1 advisories:1 earnings:1 50c:1 biggest:1 stocks:2 declining:1 out:1
+stock_CHK r_up	$:1 tops:1 up:1 120:1 crude:1 barrel:1
+stock_CHK r_up	oil:1 natural:1 gas:1 up:1 shares:1 record:1 services:1 fresh:1
+stock_CHK r_up	$:1
+stock_CHK r_down	$:1
+stock_CHK r_down	sector:1 weighs:1 breaking:1 winning:1 streak:1 market:1
+stock_CHK r_up	oil:1 gains:1 lead:1 gas:1 month:1 services:1
+stock_CHK r_up	attracts:1 swoon:1 's:1 haven:1 investors:1
+stock_CHK r_up	gains:1 focus:1 prices:1 rising:1 inventory:1 crude:1 dip:1
+stock_CHK r_down	gaining:1 's:1 sharply:1 drop:1 shares:1 declining:1 ethanol:1 biggest:1 stocks:1 makers:1 retreat:1
+stock_CHK r_up	gaining:1 biggest:1 's:1 gains:1 lead:1 140:1 $:1 shares:1 mark:1 crude:1 services:1 stocks:1 declining:1 probes:1
+stock_CHK r_up	gasoline:1 demand:1 weak:1 shares:1 fall:1
+stock_CHK r_up	10:1 's:1 investing:1 changed:1 themes:1 doing:1 '08:1 our:1
+stock_CHK r_down	water:1 chips:1 tread:1
+stock_CHK r_up	20:1
+stock_CHK r_down	$:1
+stock_CHK r_down	peaked:1 oil:1 sell-off:1 top:1 rise:1 gas:1 shares:1 commodities:1 spurs:1 services:1 talk:1 lows:1
+stock_CHK r_down	plunge:1 hit:1 hard:1 oil:1 materials:1 prices:1 stocks:1
+stock_CHK r_up	into:1 trades:1 back:1 falls:1 volatile:1 200,000:1 red:1
+stock_CHK r_up	gains:1 lead:1 energy:1 gas:1 shares:1 sectorer:1
+stock_CHK r_down	lowest:1 unexpected:1 level:1 since:1 shares:1 falls:1 rise:1 fuel:1 supplies:1 retreat:1
+stock_CHK r_down	old:1 look:1 nets:1 rickety:1 1.75:1 advisories:1 safety:1 surprises:1 new:1 failsafes:1 seek:1 $:1
+stock_CHK r_down	$:3
+stock_CHK r_up	250,000:1 400,000:1
+stock_CHK r_up	stocks:1 gains:1 slim:1 trading:1 mixed:1 hold:1
+stock_CHK r_up	100:1 focus:1
+stock_CHK r_down	gaining:1 's:1 focus:1 biggest:1 stocks:1 declining:1
+stock_CHK r_down	shrug:1 off:1 lead:1 service:1 declines:1 shares:1 sharp:1
+stock_CHK r_down	deflates:1 gaining:1 oil:1 's:1 $:1 builders:1 futures:1 spotlight:1 near:1 lows:1 biggest:1 rally:1 stocks:2 12-month:1 shine:1 declining:1
+stock_CHK r_up	100:1 $:1
+stock_CHK r_up	even:1 turmoil:1 buy:1 financial:1 should:1 you:1 stocks:1
+stock_CHK r_up	investors:1 roost:1 home:1 troubled:1 come:1 market:1
+stock_CHK r_down	weighs:1 lower:1 end:1 broad:1 shares:1 2010:1 market:1
+stock_CHK r_up	lead:1 declines:1 futures:1 focus:1 shares:1 unplugs:1 crude:1 fall:1 services:1 post:1 downgrade:1 2010:1 faces:1
+stock_CHK r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_CHK r_down	natural-gas:1 jitters:1 economic:1 retreat:1 shares:1
+stock_CHK r_down	sector:1 south:1 lead:1 spending:1 declines:1 energy:1 but:1 lows:1 slash:1 turns:1 services:1 rises:1 market:1
+stock_CHK r_down	sector:1 lead:1 services:1 underperforms:1 stocks:1 retreat:1
+stock_CHK r_down	service:1 surprises:1 shares:1 day:1 ugly:1 slide:1 advisories:1 broad:1 than:1 market:1 more:1
+stock_CHK r_down	bears:1 plunge:1 stocks:1 continue:1
+stock_CHK r_down	squashed:1 stocks:1 's:1 grueling:1 session:1
+stock_CHK r_up	hit:1 soars:1 ranks:1 big:1 list:1 11.1:1 rally:1 back:1 jump:1 claw:1 's:1 stocks:1 fifth:1
+stock_CHK r_down	economic:1 spin-off:1 again:1 $:3 come:1 'too:1 much:1 slammed:1 bleak:1 biggest:1 gaining:1 do:1 's:1 75:1 stocks:2 data:1 declining:1 amid:1 uncertainty:1 n't:1 drill:1 suspends:1
+stock_CHK r_up	losses:1 money:1 energy:1 hard-hit:1 shares:1 cut:1 $:2 petroleum:1 bust:1 production:1 more:1 crunch:1 around:1 gas:1 break:1 wake:1 prices:1 stocks:1 11:1 catches:1 futures:1 up:1 turn:1 slide:1 rallies:1 rack:1
+stock_CHK r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_CHK r_up	recovery:1 checklist:1 signs:1 results:1 prices:1 rallies:1 crude:1 market:1 higher:1
+stock_CHK r_down	oil:1 surprises:1 price:1 falls:1 advisories:1 broad:1 sliding:1 market:1
+stock_CHK r_down	oil:1 's:1 into:1 move:1 stocks:1 red:1 weakens:1
+stock_CHK r_up	13:1 2016:1
+stock_CHK r_up	...:1 13:1 2016:1
+stock_CHK r_up	derivatives:1 soars:1 profit:1 surprises:1 focus:1 advisories:1 gain:1
+stock_CHK r_down	billion:1 $:1 profit:1 jumps:1 focus:1 3:1 gain:1 hedging:1
+stock_CHK r_down	upgrades:1 cuts:1
+stock_CHK r_up	lead:1 service:1 declines:1 losses:1 tops:1 $:1 shares:1 advisories:1 pile:1 70:1 surprises:1 crude:1 deepen:1 barrel:1 stocks:1 gains:1
+stock_CHK r_down	's:1 84:1
+stock_CHK r_down	deal:1 focus:1 slip:1 signs:1 skid:1 end:1 $:1 spending:1 fears:1 weakening:1 economy:1 oil:1 led:1 continues:1 producers:1 billion:1 lower:1 futures:1 activity:1 banks:1 stock:1 consumer:1
+stock_CHK r_down	gaining:1 loss:1 oil:1 's:1 $:1 bring:1 amid:1 drop:1 fears:1 biggest:1 economic:1 worries:1 stocks:2 declining:1
+stock_CHK r_up	eye:1 slack:1 credit:1 gasoline:1 tight:1 analysts:1 demand:1
+stock_CHK r_down	try:1 rise:1 back:1 shares:1 fall:1
+stock_CHK r_down	unexpected:1 11-year:1 auto:1 16:1 shares:1 routed:1 slide:1 bailout:1 lows:1 fade:1 rise:1 hopes:1 stocks:1 inventory:1
+stock_CHK r_up	outperform:1 energy:1 indexes:1 jump:1 broad:1 market:1
+stock_CHK r_down	major:1 sell-off:1 surprises:1 energy:1 pace:1 advisories:1 drillers:1 stocks:1
+stock_CHK r_down	$:1
+stock_CHK r_down	$:1 surprises:1 dips:1 shares:1 below:1 advisories:1 sharply:1 fall:1 crude:1 44:1
+stock_CHK r_up	generous:1 natural:1 gains:1 surprises:1 after:1 gas:1 sale:1 shares:1 producers:1 advisories:1 drillers:1 scraps:1 post:1 stock:1 soar:1
+stock_CHK r_up	0.9:1 gaining:1 stocks:1 's:1 help:1 deal:1 takes:1 automakers:1 shape:1 sharply:1 biggest:1 end:1 2009:1 declining:1 higher:1
+stock_CHK r_up	sector:1 strength:1 natural:1 lead:1 rise:1 gas:2 shares:1 rally:1 discoveries:1
+stock_CHK r_down	upgraded:1 gains:1 shares:1 service:1 cling:1
+stock_CHK r_down	sector:1 gains:1 lead:1 broad:1 shares:1 joins:1 rally:1
+stock_CHK r_up	crunch:1 oil:1 may:1 companies:1 consolidation:1 wave:1 usher:1
+stock_CHK r_up	's:1
+stock_CHK r_up	$:1
+stock_CHK r_up	streak:1 continues:1 natural:1 gains:1 lead:1 move:1 gas:1 up:1 shares:1 hot:1 continue:1
+stock_CHK r_down	3rd:1
+stock_CHK r_down	major:1 's:1 cash:1 offers:1 growth:1 hoard:1 options:1
+stock_CHK r_down	set:1 natural:1 spite:1 lead:1 rise:1 gas:1 shares:1 slowdown:1 liquefied:1 lifts:1 turnaround:1
+stock_CHK r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_CHK r_down	lead:1 inauguration:1 day:1 stocks:1 energy:1 retreat:1
+stock_CHK r_up	lower:1 move:1 bearish:1 shares:1 inventory:1 data:1
+stock_CHK r_up	strength:1 lends:1 lead:1 shares:1 gains:1
+stock_CHK r_down	$:2
+stock_CHK r_up	11:1 after:1 $:3 jumps:1 move:1 up:1
+stock_CHK r_down	billion:1 maintains:1 's:1 $:1 23:1 profit:1 rise:1 shares:1 spending:1 nearly:1 refining:1 capital:1 2009:1 unit:1
+stock_CHK r_up	2009:1
+stock_CHK r_up	sector:1 gains:1 lead:1 gas:1 shares:1 rises:1
+stock_CHK r_down	surprises:1 advisories:1
+stock_CHK r_up	$:2
+stock_CHK r_up	rise:1 shares:1 after:1
+stock_CHK r_down	federal:1 loans:1 companies:1 shares:1 mixed:1 seek:1 more:1
+stock_CHK r_down	heavy:1 loss:1 finish:1 's:1 $:2 equities:1 energy:1 slim:1 gas:1 focus:1 swings:1 losses:1 crude:1 drop:1 stocks:2 toll:1 takes:1
+stock_CHK r_up	gaining:1 's:1 focus:1 biggest:1 stocks:1 declining:1
+stock_CHK r_up	'':1 amp:1 ``:1
+stock_CHK r_down	'balance:1 eyes:1 1997:1 300:1 four-year:1 falls:1 below:1 production:1 low:1 7:1 cuts:1 2010:1
+stock_CHK r_up	gaining:1 's:1 surprises:1 advisories:1 biggest:1 stocks:1 declining:1
+stock_CHK r_down	surprises:1 advisories:1
+stock_CHK r_up	weighs:1 glut:1 stocks:1 petroleum:1 drilling:1
+stock_CHK r_up	sector:1 generous:1 gains:1 lead:1 gas:1 shares:1
+stock_CHK r_down	1.3:1
+stock_CHK r_up	rally:1 bid:1 stocks:1 join:1 soars:1
+stock_CHK r_down	early:1 oil:1 led:1 into:1 year:1 gas:1 shares:1 next:1 price:1 warns:1 spike:1 path:1 study:1 red:1
+stock_CHK r_down	end:1 tough:1 gas:1 shares:1 liquefied:1 session:1 time:1 natural:1 poised:1 grow:1 see-saw:1 higher:1
+stock_CHK r_down	retreats:1 broad:1 crude:1 prices:1 market:1
+stock_CHK r_up	says:1 bonds:1 deep:1 discount:1 trading:1 convertible:1
+stock_CHK r_up	10:1 says:1 $:1 gas:1 future:1 goodbye:1
+stock_CHK r_up	lower:1 gas:1 forecast:1 slip:1 demand:1 stocks:1
+stock_CHK r_up	gains:1 slim:1 gas:1 up:1 cling:1 cuts:1 output:1 stocks:2
+stock_CHK r_down	35:1
+stock_CHK r_up	rally:1 s:2 upgrade:1 8217:2 joins:1
+stock_CHK r_down	summer:1 tough:1 sees:1 through:1 times:1
+stock_CHK r_up	oil:1 5.4:1 $:1 pushes:1 54:1 surges:1 struggles:1 focus:1 past:1 's:1 barrel:1 sizzles:1
+stock_CHK r_down	gaining:1 loss:1 's:1 surprises:2 gas:1 mark:1 misses:1 advisories:2 retreat:1 write-downs:1 deepens:1 biggest:1 stocks:2 declining:1
+stock_CHK r_up	2.7:1 2.4:1
+stock_CHK r_down	's:1
+stock_CHK r_down	trim:1 $:1 broad:1 rebound:1 losses:1 stocks:1 market:1
+stock_CHK r_down	draw:1 oil:1 $:1 surprises:1 advisories:1 strength:1 70:1 stocks:1
+stock_CHK r_down	's:1
+stock_CHK r_down	gaining:1 's:1 resume:1 pullback:1 crude:1 tandem:1 biggest:1 stocks:2 declining:1
+stock_CHK r_up	eyes:1 gas:1 shale:1 deals:1 banker:1 fresh:1
+stock_CHK r_up	bullish:1 supply:1 crude:1 rally:1 stocks:1 data:1
+stock_CHK r_up	're:1 5:1
+stock_CHK r_up	start:1 stocks:1 gains:1
+stock_CHK r_up	hitting:1 lower:1 after:1 peaks:1 swings:1 profit:1 surprises:1 plans:1 futures:1 drift:1 focus:1 sales:1 60:1 advisories:1 asset:1 stock:1
+stock_CHK r_up	13:2 natural:1 target:1 profit:1 surprises:1 rise:1 gas:1 up:1 shares:2 advisories:1 report:1 production:1 shale:1 fall:1 mixed:1 talk:1 stocks:1 earning:1 boosts:1
+stock_CHK r_up	supply:1 weak:1 bearish:1 against:1 stocks:1 data:1 79:1
+stock_CHK r_down	rules:1 disclosure:1 's:1 $:1 highlight:1
+stock_CHK r_up	natural-gas:1 feeding:1 pool:1
+stock_CHK r_down	's:1
+stock_CHK r_down	rules:1 carbon:1 challenge:1 small:1 big:1
+stock_CHK r_up	$:1
+stock_CHK r_up	extend:1 gains:2 lead:1 energy:1 gas:1 shares:1 service:1 slip:1 stocks:2 stock:1
+stock_CHK r_up	high:1 2009:1 after:1 benchmark:1 stalls:1
+stock_CHK r_up	natural:1 energy:1 gas:1 lift:1 stocks:1 market:1
+stock_CHK r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_CHK r_up	hot:1 gas:1 shares:1 stay:1
+stock_CHK r_down	gas:1 shares:1 inventory:1 despite:1 surprise:1 dip:1
+stock_CHK r_up	rise:1 stocks:1 crude-oil:1 recovery:1
+stock_CHK r_down	week:1 million:1 end:1 $:1 deal:1 supply:1 inks:1 gas:1 shares:1 producers:1 swoon:1 trades:1 mixed:1 tough:1 stocks:1 600:1
+stock_CHK r_down	rules:1 new:1 eyes:1 drilling:1
+stock_CHK r_down	2010:1 surprises:1 advisories:1 $:1 2009:1
+stock_CHK r_up	oil:1 $:1 get:1 75:1 stocks:1 boost:1
+stock_CHK r_down	petroleum:1 shares:1 boosts:1
+stock_CHK r_down	surprises:1 advisories:1
+stock_CHK r_down	early:1 2010:1 investment:1 ideas:1
+stock_CHK r_up	n't:1
+stock_CHK r_down	beats:1 stocks:1 hard:1 7:2 fall:1
+stock_CHK r_down	surprises:1 advisories:1 focus:1 94:1
+stock_CHK r_up	's:1 deal:1 profit:1 surges:1 falls:1 -2-:1 plunges:1
+stock_CHK r_down	perk:1 up:1 factory:1 earnings:1 stocks:1 orders:1
+stock_CHK r_up	92:1
+stock_CHK r_up	500:1
+stock_CHK r_up	shedding:1 assets:1
+stock_CHK r_down	crude:1 rally:1 rebound:1 stocks:1 back:1
+stock_CHK r_down	mixed:1 jitters:1 stocks:1 end:1
+stock_CHK r_up	gaining:1 billion:1 ``:1 buy:1 's:4 $:4 deal:2 lead:1 gas:1 shares:1 41:1 '':1 70:1 biggest:1 stocks:1 declining:1 gains:1
+stock_CHK r_up	31:1 's:5 $:1
+stock_CHK r_up	merger:1
+stock_CHK r_up	+11:1 may:1 energy:1 bring:1 2010:1 independence:1
+stock_CHK r_up	huge:1 's:1 get:1 pay:1 other:1 exit:1 chairman:1 still:1 execs:1
+stock_CHK r_up	early:1 part:1 rising:1 seen:1 stocks:1 2010:1
+stock_CHK r_up	close:1 highs:1 2009:1 gas:1 shares:1
+stock_CHK r_down	lower:1 end:1 $:1 30.3:1 prices:1 stall:1 crude:1 stocks:1 2010:1
+stock_CHK r_up	debut:1 gold:1 point:1 into:1 ink:1 focus:1 '':2 year:1 strong:1 $:1 bust:1 extends:1 boom:1 new:1 energy:1 stock:1 pact:1 ``:2 oil:1 's:2 bandwagon:1 benchmark:1 rise:1 gas:1 shale:1 lift:1 prices:1 stocks:1 billion:1 industry:1 futures:1 2010:4 talk:1 2.25:1
+stock_CHK r_up	gaining:1 's:1 energy:1 up:1 take:1 biggest:1 rally:1 stocks:2 declining:1
+stock_CHK r_down	gas:1 safety:1 jobs:1 touts:1 'fracking:1
+stock_CHK r_down	2:1
+stock_CHK r_down	holdings:1 fund:1 's:1 wealth:1 details:1
+stock_CHK r_up	345:1 13:2 $:1
+stock_CHK r_up	sector:1 after:1 gains:1 point:1 declines:1 energy:1 futures:1 tops:1 focus:1 shares:1 $:1 77:1 barrel:1 gain:1 crude:1 crimp:1 higher:1 data:1 housing:1 stock:1
+stock_CHK r_up	surprises:1 advisories:1 focus:1
+stock_CHK r_up	$:1 rebound:1 tops:1 crude:1 barrel:1 stocks:1 79:1
+stock_CHK r_up	high:1 52-week:1 touches:1 production:1 view:1
+stock_CHK r_down	lead:1 service:1 into:1 shares:1 stocks:1 energy:1 red:1
+stock_CHK r_up	amid:1 study:1 hydraulic:1
+stock_CHK r_down	's:1
+stock_CHK r_up	17:1
+stock_CHK r_up	gas:1 untapped:1 natural:1 cashes:1
+stock_CHK r_down	's:3
+stock_CHK r_up	's:2
+stock_CHK r_down	9:1
+stock_CHK r_down	lower:1 zoom:1 shares:1 trade:1 late:1 80:1
+stock_CHK r_up	choppy:1 end:1 $:3 losses:1 session:1 5:3 stocks:1
+stock_CHK r_up	$:1
+stock_CHK r_down	$:1
+stock_CHK r_down	chopped:1 stocks:1 up:1 market:1
+stock_CHK r_up	2000:1 2010:1 but:1
+stock_CHK r_down	rises:1 big:1 rise:1 losses:1 stocks:1 after:1
+stock_CHK r_up	1,527:1 21:1
+stock_CHK r_down	200:2 $:2
+stock_CHK r_down	's:5 $:3 1.35:1
+stock_CHK r_down	's:1 $:1 1.35:1
+stock_CHK r_down	's:1 $:1 21:1
+stock_CHK r_up	14:1
+stock_CHK r_up	27:1 focus:1
+stock_CHK r_up	280:1 12:1 4.9:1 $:1
+stock_CHK r_down	's:1
+stock_CHK r_down	record:1 hits:1 market:1 bond:1
+stock_CHK r_up	's:1 spotlight:1
+stock_CHK r_down	pressure:1 rise:1 shareholder:1 seen:1
+stock_CHK r_down	's:1
+stock_CHK r_up	sector:1 firms:1 rises:1 energy:1 gallop:1
+stock_CHK r_down	1.15:1 $:3 broader:1 weigh:1 stocks:1 market:1
+stock_CHK r_up	's:1
+stock_CHK r_up	buy:1 's:4 $:2 deal:1 into:1 gas:1 up:1 shares:1 1.1:2
+stock_CHK r_up	slips:1 oil:1 end:1 earnings:1 into:1 rise:1 patch:1 hopes:1 ban:1 edge:1 drilling:1 services:1 's:1 stocks:1 higher:1
+stock_CHK r_down	equities:1 stocks:1 72:1 lead:1 higher:1
+stock_CHK r_down	's:1 $:1
+stock_CHK r_up	's:1 $:1
+stock_CHK r_up	focus:1 spotlight:1 after-hours:1
+stock_CHK r_down	cut:1 natural:1 gas:1 5:3 low:1 prices:1
+stock_CHK r_down	crude:1 stocks:1 earnings:1 rocket:1
+stock_CHK r_up	's:2
+stock_CHK r_down	touch:1 high:1 stocks:1 two-year:1
+stock_CHK r_up	19.90:1
+stock_CHK r_up	's:1 19.90:1
+stock_CHK r_up	slips:1 gaining:1 lifted:1 rise:1 's:1 energy:1 stake:1 watch:1 up:1 -2:1 declining:1 rallies:1 biggest:1 stocks:3 builders:1 bigger:1
+stock_CHK r_up	oil:1 $:1 surprises:1 dips:1 drop:1 below:1 advisories:1 89:1 stocks:1
+stock_CHK r_up	increase:1 output:1 firms:1 quest:1 oil:1
+stock_CHK r_down	week:1 further:1 strong:1 gains:1 ending:1
+stock_CHK r_up	global:1 hot:1 stocks:1 demand:1 stay:1
+stock_CHK r_up	$:2 surprises:1 energy:1 570:2 producers:1 advisories:1 stocks:1 bolstered:1
+stock_CHK r_up	since:1 gains:1 energy:1 settles:1 fuel:1 2008:1 highest:1
+stock_CHK r_down	nervous:1 see:1 values:1 too:1 market:1 stock:1
+stock_CHK r_up	gains:2 point:1 broad:1 make:1 futures:1 deals:1 2:1 stocks:1 opening:1 stock:1
+stock_CHK r_up	surprises:1 advisories:1 $:2
+stock_CHK r_down	fields:1 deal:1 ripe:1
+stock_CHK r_up	billion:1 lower:1 violence:1 end:1 assets:1 surprises:1 futures:1 focus:2 shares:1 $:1 advisories:1 shale:1 worries:1 's:1 buy:1 dip:1 stock:1
+stock_CHK r_up	slips:1 decliners:1 oil:1 's:1 $:1 deepens:1 caught:1 drop:1 selloff:1 2009:1 spike:1 biggest:1 gainers:1 fall:1 stocks:1 broad:1 220:1
+stock_CHK r_up	100:2 $:2
+stock_CHK r_up	$:1
+stock_CHK r_up	enveloped:1 drop:1 stocks:1 equities:1
+stock_CHK r_down	biggest:1 gaining:1 stocks:1 declining:1
+stock_CHK r_up	sector’s:1 advance:1 energy:1 lead:1 shares:1
+stock_CHK r_down	action:1 heating:1 up:1
+stock_CHK r_down	crude:1 rises:1 stocks:1 flatten:1 oil:1
+stock_CHK r_up	oil:1 rise:1 back:1 down:1 lose:1 under:1 stocks:1 pulls:1
+stock_CHK r_up	$:1 lead:1 energy:1 rise:1 gas:1 315:1 shares:1 biggest:1 advancers:1 stocks:1 decliners:1
+stock_CHK r_up	month:1 shed:1 stocks:1 gains:1 70:1
+stock_CHK r_up	's:1
+stock_CHK r_up	n't:1
+stock_CHK r_up	59:1
+stock_CHK r_down	lower:1 climbs:1 equities:1 after:1 watch:2 falls:1 hours:1 close:1 stocks:1 cool:1
+stock_CHK r_down	sector:1 among:1 drop:1 sapping:1 energy:1 futures:1 watch:1 focus:1 stocks:1 stock:1
+stock_CHK r_down	surprises:1 advisories:1
+stock_CHK r_down	gather:1 $:1 drop:1 3.5:1 lawmakers:1 stocks:1
+stock_CHK r_down	$:2 330:1
+stock_CHK r_up	's:1
+stock_CHK r_down	's:1
+stock_CHK r_down	draws:1 surprises:1 watch:2 scrutiny:1 advisories:1 pay:1 meeting:1
+stock_CHK r_down	surprises:1 advisories:1 17:2
+stock_CHK r_up	down:1 energy:1 stocks:1 sag:1
+stock_CHK r_down	casts:1 shadow:1 stocks:1 energy:1 fall:1
+stock_CHK r_down	over:1 jobs:1 fracking:1 risks:1
+stock_CHK r_up	$:1
+stock_CHK r_down	rebound:1 stocks:1 energy:1 up:1
+stock_CHK r_up	's:1 $:2
+stock_CHK r_up	gaining:1 $:4 weak:1 energy:1 steady:1 falls:1 1:2 natural-gas:1 seed:1 market:1 biggest:1 stocks:2 declining:1
+stock_CHK r_up	's:1
+stock_CHK r_up	biggest:1 gaining:1 stocks:1 declining:1
+stock_CHK r_up	feeds:1 premium:1 energy:1 gains:1 stock:1
+stock_CHK r_up	's:1
+stock_CHK r_up	surprises:1 advisories:1
+stock_CHK r_down	knocked:1 down:1 energy:1 drop:1 stock:1
+stock_CHK r_down	surprises:1 advisories:1
+stock_CHK r_up	firms:1 wanted:1 hires:1 competing:1
+stock_CHK r_down	access:1 gas:1 shale:1 widens:1
+stock_CHK r_up	watching:1 're:1 worth:1 buying:1 they’re:1
+stock_CHK r_down	3:1 $:1
+stock_CHK r_up	150:1 $:1
+stock_CHK r_down	lower:1 surrender:1 stocks:1 end:1 gains:1
+stock_CHK r_up	takes:1 energy:1 losses:1 sting:1 out:1 stock:1
+stock_CHK r_up	deals:1 survey:1 firms:1 2011:1 target:1
+stock_CHK r_up	energy:1 lifts:1 weak:1 stocks:1
+stock_CHK r_down	weighs:1 energy:1 stocks:1 drop:1
+stock_CHK r_down	energy:1 drop:1 back:1 stocks:1 fall:1
+stock_CHK r_down	prospects:1 energy:1 fall:1 up:1 shale:1 clobbered:1 stocks:1
+stock_CHK r_up	's:1
+stock_CHK r_down	surprises:1 energy:1 up:1 shares:1 lags:1 advisories:1 downgrade:1
+stock_CHK r_up	sector:1 ripe:1 gas:1 surge:1 picking:1 mergers:1
+stock_CHK r_up	pipelines:1 lead:1 energy:1 stay:1 hot:1 rally:1 shops:1 stock:1
+stock_CHK r_up	3.4:1 watch:1 $:1
+stock_CHK r_down	flat:1 end:1 $:1 energy:1 up:1 3.4:1 65:1 stocks:1
+stock_CHK r_down	's:1
+stock_CHK r_up	19:1 's:1 watch:1 $:1
+stock_CHK r_down	2012:1
+stock_CHK r_down	's:1
+stock_CHK r_up	regulator:1 delays:1 ruling:1
+stock_CHK r_up	door:1 exports:1 gas:1 opens:1
+stock_CHK r_down	's:1
+stock_CHK r_down	firm:1 aim:1 takes:1 shale:1
+stock_CHK r_up	's:1
+stock_CHK r_up	1:1 $:1
+stock_CHK r_up	1:1 $:1
+stock_CHK r_down	lower:1 oil:1 $:1 energy:1 865:1 send:1 pullback:1 stocks:1
+stock_CHK r_up	's:2 point:1 futures:1 watch:1 stock:1 slightly:1 higher:1
+stock_CHK r_down	2011:1
+stock_CHK r_up	shine:1 energy:1 rise:1 up:1 shale:1 deals:1 stocks:1 spotlight:1
+stock_CHK r_up	shale-gas:1 finish:1 off:1 energy:1 up:1 take:1 boom:1 stocks:1 abroad:1 higher:1
+stock_CHK r_down	energy:1 stocks:1 brighten:1
+stock_CHK r_down	suitors:1 assets:1 energy:1 up:1 deals:1 line:1 drawing:1
+stock_CHK r_down	jumps:1 stocks:1 energy:1 rise:1
+stock_CHK r_up	embargo:1 pokes:1 adds:1 gains:1 deal:1 sparks:1 companies:1 energy:1 rise:1 gas:1 focus:1 40:1 oil:1 liquids:1 hole:1 stocks:1 bubble:1 7.8:1 50/50:1
+stock_CHK r_up	loss:1 ends:1 logs:1 1.2:1 sessions:1 lower:1 five:1 fourth:1 vs.:1
+stock_CHK r_up	hitting:1 bumps:1 oil:1 's:1 boom:1
+stock_CHK r_down	ends:1 's:1 gains:1 decision:1 but:1 below:1 100:1 $:1
+stock_CHK r_up	energy:1 drop:1 weaken:1 cuts:1 prices:1 output:1 stocks:1 grow:1 languish:1
+stock_CHK r_down	lose:1 energy:1 stocks:1 ground:1 falls:1
+stock_CHK r_down	8:1
+stock_CHK r_down	30:1 2012:1
+stock_CHK r_up	energy:1 rise:1 up:1 4.8:1 down:1 stocks:1
+stock_CHK r_down	weeks:1 ends:1 highest:1 three:1
+stock_CHK r_up	austerity:1 gains:1 energy:1 rise:1 leads:1 73:1 vote:1 stocks:1 stock:1
+stock_CHK r_up	watch:1
+stock_CHK r_up	sales:1 up:1 pile:1 gain:1 corporate:1 bond:1
+stock_CHK r_down	after:1 surprises:1 drop:1 shares:1 advisories:1 earnings:1 miss:1
+stock_CHK r_down	oil:1 's:1 help:1 edge:1 7:1 rally:1 stocks:1 higher:1
+stock_CHK r_up	rally:1 energy:1 stocks:1 rise:1
+stock_CHK r_down	feed:1 addiction:1 taps:1 's:1 its:1
+stock_CHK r_up	coal:1 lower:1 drop:1 view:1
+stock_CHK r_up	energy:1 retreat:1 lead:1 stock:1
+stock_CHK r_up	market’s:1 energy:1 gas:1 bargain:1 best:1
+stock_CHK r_down	800:1 $:1
+stock_CHK r_down	energy:1 losses:1 lead:1 stock:1

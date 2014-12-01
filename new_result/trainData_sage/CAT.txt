@@ -1,0 +1,324 @@
+stock_CAT r_down	focus:1
+stock_CAT r_up	s:1 8217:1
+stock_CAT r_down	down:1 shutting:1 investment:1
+stock_CAT r_down	cut:1 door:1 8000:1 leaves:1 3:1 another:1 jobs:1 open:1 more:1
+stock_CAT r_down	4.34:1
+stock_CAT r_up	data:1 stocks:1 boost:1 get:1
+stock_CAT r_up	$:1 investing:1 declines:1 send:1 indexes:1 near:1 sense:1 stocks:1 makes:1 higher:1
+stock_CAT r_up	$:1 counter:1 forms:1 chamber:1 3:1 economic:1 panel:1
+stock_CAT r_down	almost:1 brings:1 bad:1 everyone:1 news:1
+stock_CAT r_up	'':1 amp:1 ``:1
+stock_CAT r_up	new:1 partnership:1 economy:1 seeks:1 government:1
+stock_CAT r_up	rally:1 inspires:1 gains:1
+stock_CAT r_down	biggest:2 gaining:2 stocks:2 's:2 declining:2
+stock_CAT r_down	96:1 8216:1
+stock_CAT r_up	2,500:2
+stock_CAT r_down	's:1
+stock_CAT r_up	's:1
+stock_CAT r_up	plays:1 targeted:1 angry:1 seed:1 agriculture:1 workers:1 executives:1
+stock_CAT r_up	'turning:1 summit:1 recovery:1 calls:1 point:1
+stock_CAT r_down	42:1 focus:1
+stock_CAT r_down	1st:2
+stock_CAT r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_CAT r_up	's:1
+stock_CAT r_down	focus:1
+stock_CAT r_up	rating:1 outlook:1 drop:1 gold:1 sell-off:1 fall:1 economic:1 swings:1 brighten:1 charge:1 biggest:1 gets:1 stock:1 gaining:1 ends:1 buy:1 's:2 views:1 workforce:1 v.:1 falls:1 slides:1 cut:1 others:1 stocks:2 declining:1 euro:1 loss:1 lower:1 futures:1 last-minute:1 worries:1 spotlight:1 profits:1
+stock_CAT r_up	dial:1 futures:1 rise:1 diminished:1 expectations:1 trade:1 stocks:1 higher:1
+stock_CAT r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_CAT r_up	d:1 8217:1
+stock_CAT r_down	's:1
+stock_CAT r_up	24:1 's:1
+stock_CAT r_down	's:1
+stock_CAT r_up	bear-market:1 advantage:1 rallies:1
+stock_CAT r_down	2008:1 5:1 focus:1
+stock_CAT r_down	vs.:1
+stock_CAT r_down	's:1
+stock_CAT r_down	n't:1
+stock_CAT r_up	revenue:1 growth:1 signs:1 stock:1 market:1 awaits:1
+stock_CAT r_up	's:2 ahead:1 1998:1 focus:1 n't:1 report:1 rallies:1 quarterly:1
+stock_CAT r_up	industrial:1 focus:1 64:1 66:4 rally:1 market:1 $:2 broad:1 expectations:1 under:1 fuel:1 net:1 markets:1 higher:2 oil:1 's:2 after:1 rug:1 gain:1 stocks:1 drops:1 --:1 futures:1 edge:1 '09:2 950:1 2009:1 ups:2 view:2
+stock_CAT r_down	gaining:1 's:1 1.3:1 biggest:1 8:1 stocks:1 declining:1
+stock_CAT r_up	technical:1 milestones:1 surpass:1 500:1
+stock_CAT r_down	12:1
+stock_CAT r_up	1,000:1 seen:1 resistance:1 500:1 gears:1
+stock_CAT r_up	worldwide:1 bulls:1
+stock_CAT r_down	13:2 surprises:1 outlook:1 advisories:1 rallies:1 upbeat:1
+stock_CAT r_up	got:1 mail:1 bogus:1 've:1
+stock_CAT r_up	's:1 recovery:1 48:1 sectors:1 winning:1 3:1 confirms:1
+stock_CAT r_down	's:1
+stock_CAT r_down	3:1
+stock_CAT r_up	82:1
+stock_CAT r_up	gaining:1 's:1 look:1 investors:1 '09:1 biggest:1 rally:1 stocks:1 abroad:1 declining:1 stock:1
+stock_CAT r_up	9/15:1
+stock_CAT r_down	3:1 20:1
+stock_CAT r_down	3:2 48:2
+stock_CAT r_up	2.9:1 4.2:1
+stock_CAT r_down	beats:1 expectations:1 shares:1 surge:1
+stock_CAT r_down	2.9:1 effect:1 3.8:1
+stock_CAT r_up	2:2 cautious:1 optimism:1 pushes:1 2010:2
+stock_CAT r_up	4.7:1 set:1 's:1 raise:1 machinery:1 prices:1 2010:1
+stock_CAT r_down	but:1
+stock_CAT r_up	6.3:1
+stock_CAT r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_CAT r_up	even:1 rise:1 's:2 sinks:1 focus:2 profit:1 surprises:1 44:1 futures:1 tops:1 back:1 53:2 spotlight:1 n't:1 advisories:1 fall:1 stocks:1 targets:1 stock:1
+stock_CAT r_down	's:1 tumble:1 predict:1 correction:1 analysts:1 stocks:1 2010:1
+stock_CAT r_up	outperform:1 stocks:1 's:1 machinery:1 primed:1
+stock_CAT r_down	's:1 muted:1 rebound:1 firing:1 550:1 hiring:1 2,500:1
+stock_CAT r_down	18:1 's:1 500:1
+stock_CAT r_up	2009:1 '09:1
+stock_CAT r_down	401:1 highs:1 back:1 another:1 crack:1 new:1 k:1 500:1
+stock_CAT r_up	k:1 401:1
+stock_CAT r_down	streak:1 ends:1 's:1 win:1 energy:1 drop:1 6-day:1 banks:1
+stock_CAT r_down	$:1
+stock_CAT r_down	8:1 3:2 50:2
+stock_CAT r_down	10:1 $:1
+stock_CAT r_up	'':1 ``:1 64:1 $:1
+stock_CAT r_down	$:1
+stock_CAT r_up	holiday:1 end:1 ahead:1 13-month:1 highs:1 's:1 stocks:1 31:1
+stock_CAT r_down	3:1 45:1
+stock_CAT r_up	's:1 early:1 part:1 rising:1 seen:1 stocks:1 2010:1
+stock_CAT r_up	7:1
+stock_CAT r_down	2009:1
+stock_CAT r_up	gaining:1 's:1 1.8:1 biggest:1 stocks:1 declining:1
+stock_CAT r_down	11:1
+stock_CAT r_down	month:1 worst:1 stocks:1 end:1 loss:1
+stock_CAT r_down	close:1 books:1 brutal:1 year:1
+stock_CAT r_down	tone:1 focus:1 65:3 financials:1 get:1 send:1 shares:1 3:1 5:1 2010:2 '10:3 's:1 offer:1 may:1 but:1 lift:1 stocks:1 lower:1 cautious:1 35:1 spotlight:1 n't:1 machinery:1 reward:1 late-day:1 risky:1
+stock_CAT r_down	surprises:1 advisories:1 4.1:1
+stock_CAT r_up	ground:1 stocks:1 higher:1 fight:1
+stock_CAT r_up	42:1
+stock_CAT r_up	upgrade:1 industrials:1 's:1 $:1 sub-10,000:1 rise:1 recover:1 focus:1 1:1 more:1 other:1 close:1 220:3 after:1 futures:1
+stock_CAT r_down	hopes:1 stocks:1 's:1 bailout:1 surge:1
+stock_CAT r_up	's:1
+stock_CAT r_up	gaining:1 advance:1 prospects:1 's:1 rise:1 job:1 biggest:1 stocks:2 declining:1
+stock_CAT r_up	27:1 sway:1 holds:1 3:1 economic:1 rise:1 data:1
+stock_CAT r_down	's:1
+stock_CAT r_down	2.3:1
+stock_CAT r_up	24:1 confidence:1 sell-off:1 broad:1 stocks:1 dives:1
+stock_CAT r_up	start:1 stocks:1 gains:1 opportunities:1
+stock_CAT r_up	10:1 's:1
+stock_CAT r_down	weighs:1 shed:1 's:1 gains:1 early:1 health:1 stocks:1 care:1
+stock_CAT r_down	2010:1
+stock_CAT r_up	mulls:1 new:1 excavator:1 facility:1
+stock_CAT r_down	's:1
+stock_CAT r_down	last:1 $:2 reform:1 health-care:1 2nd:1 shots:1
+stock_CAT r_down	certainty:1 stocks:1 health-care:1 surge:1
+stock_CAT r_up	them:1 cost:1 $:2 reform:1 warnings:1 warn:1 costs:1 health:2 more:1
+stock_CAT r_up	billion:1 write-down:1 sees:1 $:1 tied:1 1:1 health:1 law:1
+stock_CAT r_down	advance:1 stocks:1 economic:1 views:1
+stock_CAT r_up	near:1 end:1 up:1 milestone:1
+stock_CAT r_down	11,000:1
+stock_CAT r_up	11,000:2 1.9:1
+stock_CAT r_up	54:1 2009:1 's:1
+stock_CAT r_down	closes:1 11000:1 security-tabs:1 rise:1 above:1 fall:1 11,000:5 stock:1
+stock_CAT r_up	55:1 2014:1
+stock_CAT r_up	outlook:1 industrial:1 just:1 show:1 dollar:1 results:1 rising:1 churn:1 concern:1 extends:1 mend:1 economy:1 's:2 gains:1 extend:1 rise:1 but:1 bull:1 stocks:1 day:1 lower:1 6th:2 futures:1 spotlight:1
+stock_CAT r_down	little:1 stocks:1 help:1 surprises:1 advisories:1 machinery:1 bond:1 pill:1 chill:1
+stock_CAT r_up	's:1
+stock_CAT r_up	's:1 spending:1 merit:1 surge:1 deals:1 financials:1 have:1 stocks:1 transport:1
+stock_CAT r_down	months:1 make:1 drop:1 three:1 focus:1 deepest:1 stocks:1
+stock_CAT r_up	accord:1 months:1 13:2 post:1 day:1 best:1
+stock_CAT r_up	4.6:1
+stock_CAT r_down	leads:1 stocks:1 tech:1 gain:1 recovery:1
+stock_CAT r_down	's:1 4.9:1
+stock_CAT r_down	lower:1 stocks:1 end:1 dominate:1 65:2 's:4 moves:1 euro:1
+stock_CAT r_down	's:1 recovery:1 lead:1 into:1 deep:1 3.6:1 road:1 red:1
+stock_CAT r_up	run:1 correction:1 drop:1 bull:1 stocks:1 first:1
+stock_CAT r_down	15:2
+stock_CAT r_up	10000:1
+stock_CAT r_down	currency:1 exporters:1 bar:1 raises:1 euro:1
+stock_CAT r_down	$:1
+stock_CAT r_up	$:1
+stock_CAT r_down	's:1
+stock_CAT r_up	late:1 's:1 4.8:1 up:1 shares:1 trade:1 down:1 17th:1
+stock_CAT r_up	shareholders:1 bandwagon:1 returning:1 money:1 jumps:1 focus:1 1:1 dividend:1 more:1
+stock_CAT r_up	27:1 since:1 rise:1 most:1 rises:1 euro:1
+stock_CAT r_up	200-day:2
+stock_CAT r_up	's:4 crossed:1 average:1 surge:1 200-day:2 6.3:1 stocks:1 4.69:2
+stock_CAT r_up	bets:1 little:1 short:1 end:1 $:1 changed:1 stocks:1 you:1 6.6:1 place:1 rally:1 congressman:1 firms:1 regulate:1 your:1 after:1
+stock_CAT r_up	11:1 's:1 higher:1 edge:1 brightens:1 stocks:1 view:1
+stock_CAT r_up	into:1
+stock_CAT r_up	4.7:1 $:1 profit:1 slipping:1 2012:1 economy:1
+stock_CAT r_down	lower:1 after:1 end:1 comments:1 sharply:1
+stock_CAT r_up	n't:1 do:1 agree:1 investors:1
+stock_CAT r_up	5.3:2 's:2
+stock_CAT r_down	streak:1 run:1 win:1 leads:1 five:1 stocks:1
+stock_CAT r_up	's:3
+stock_CAT r_down	's:1 6th:1 earnings:1 upbeat:1 rally:1 stocks:1
+stock_CAT r_up	claims:1 jobless:1 's:4 gains:2 clock:1 chips:1 workers:1 watch:1 focus:1 data:1 2:1 earnings:3 latest:1 fuel:1 rally:1 overseas:1 stocks:2 steep:2 salute:1 relief:1
+stock_CAT r_up	stress:1 slows:1 's:1 $:1 22:2 rate-hike:1 profit:1 results:1 shares:1 drive:1 144:1 hopes:1 nearly:1 doubles:1 test:1 pace:1 climb:1 stocks:1 outlook:1 raises:1
+stock_CAT r_up	5.8:1
+stock_CAT r_down	47:1
+stock_CAT r_up	profit:1 47:1 leaps:1 demand:1
+stock_CAT r_down	32:2 's:1
+stock_CAT r_down	outlook:1 global:1 sales:1 home:1 stocks:1 skid:1
+stock_CAT r_up	$:2 943:2
+stock_CAT r_up	hopes:1 rally:1 stocks:1 economic:1 growth:1
+stock_CAT r_up	37:2 3:1 's:3 $:1
+stock_CAT r_down	stocks:1 pop:1 lose:1
+stock_CAT r_up	2.4:1
+stock_CAT r_down	7.7:2 71:1
+stock_CAT r_down	tricks:1 political:1 treats:1
+stock_CAT r_up	's:1
+stock_CAT r_up	11000:1
+stock_CAT r_up	focus:1
+stock_CAT r_down	's:2 38.60:2 gold:1 sitting:1 profit:1 earnings:1 futures:1 focus:1 mine:1 53:1 third-quarter:1 n't:1 3:1 leaps:1 gain:1 optimism:1 vs.:1 96:6
+stock_CAT r_down	1:1 's:1 $:1 surprises:1 equities:1 rise:1 optimism:1 retreats:1 advisories:1 earnings:1 shift:1 810:1 stocks:1 nearly:1
+stock_CAT r_down	buck:1 26:2 beaten:1 lifts:1 export:1 gain:1 firms:1 stocks:1
+stock_CAT r_down	slips:1 again:1 comparisons:1 off:1 cost:1 lows:1 cuts:1 fuel:1 close:1 stocks:1 profits:1
+stock_CAT r_up	's:1
+stock_CAT r_up	after:1 election:1 gold:1
+stock_CAT r_up	survival:1 inflation:1 's:1 guide:1
+stock_CAT r_down	's:1
+stock_CAT r_up	last:1 week’s:1 after:1 slog:1 's:1 sprint:1 stocks:1
+stock_CAT r_down	3i:1 's:1
+stock_CAT r_down	evening:1 up:1 shares:1 trade:1
+stock_CAT r_up	gaining:1 futures:1 hit:1 $:2 retail:2 rise:2 sales:2 focus:1 modest:1 yields:1 debt:1 retain:1 biggest:1 's:4 stocks:2 29:1 declining:1 after:1
+stock_CAT r_down	billion:1 down:1 lower:1 's:2 $:2 8.6:1 surprises:1 settles:1 deep:1 digs:1 late:1 advisories:1 trading:1 reverses:1 buying:1
+stock_CAT r_up	3:1 48:1
+stock_CAT r_up	$:2
+stock_CAT r_down	14:1
+stock_CAT r_up	's:2
+stock_CAT r_down	26:2
+stock_CAT r_up	$:1
+stock_CAT r_up	$:1
+stock_CAT r_up	reveals:1 industrials:1 funds:1 bust:1 should:1 aid:1 banks:1 follow:1 transports:1 out:1
+stock_CAT r_down	may:1 flop:1 year’s:1 stocks:1 2011:1 best:1
+stock_CAT r_up	fails:1 steers:1 deal:1 drive:1 aristocrats:1 growth:1 10-year:1 dividend:1 boost:1
+stock_CAT r_up	$:1
+stock_CAT r_up	deals:1 tests:1 stance:1 rise:1 resistance:1 break:1 rate:1 major:1 stocks:1 out:1
+stock_CAT r_up	51:1
+stock_CAT r_down	money-making:1 2011:1 investment:1 ideas:1
+stock_CAT r_up	12.5:1
+stock_CAT r_down	...:1
+stock_CAT r_up	...:1
+stock_CAT r_up	films:1 top:1 five:1 2010:1 year:1
+stock_CAT r_down	11:1 gains:1 extend:1 into:1 second:1 year:1 stocks:1 2010:1
+stock_CAT r_up	7.3:1 's:1 $:1
+stock_CAT r_down	's:1
+stock_CAT r_down	down:1 worries:1 over:1 end:1
+stock_CAT r_up	watch:1
+stock_CAT r_up	jump:1 's:2 jobless:1 investing:1 futures:1 focus:1 dead:1 down:1 spending:1 cue:1 edge:1 12000:1 not:1 claims:1 investors’:1 plan:1
+stock_CAT r_down	soars:1 profit:1 surprises:1 second:1 12000:1 jump:1 bright:1 advisories:1 hurdle:1 refuses:1 day:1 view:1
+stock_CAT r_up	emerging:2 big:1 economies:1 12000:1 discount:1 can:1 you:1 markets:1 investments:2
+stock_CAT r_up	mixed:1 flares:1 violence:1 end:1
+stock_CAT r_down	media:1 firms:1 social:1 wary:1
+stock_CAT r_down	tips:1 stocks:1 picking:1 winning:1
+stock_CAT r_up	love:1 gains:1 gold:1 49:1 bugs:1 three:1 60:2 extending:1 3:1 can:1 climb:1 stocks:2 500:1 weekly:1
+stock_CAT r_down	's:1
+stock_CAT r_up	adviser:1 cautions:1 ‘slightly:1 overvalued:1
+stock_CAT r_down	30:1 lead:1 6-year:1 swoon:1 could:1 market:1
+stock_CAT r_up	34:1
+stock_CAT r_up	191.40:1 oil:1 end:1 $:1 limits:1 months:1 three:1 but:1 gains:1 102:1 has:1 day:1 best:1 higher:1
+stock_CAT r_down	can’t:1 did:1 buy:1 love:1
+stock_CAT r_down	global:1 concerns:1 data:1 routed:1
+stock_CAT r_up	shore:1 moves:1 markets:1 up:1 economy:1
+stock_CAT r_down	nuclear:1 drop:1 stocks:1 hit:1 concerns:1
+stock_CAT r_up	again:1 needs:1 off:1 risk:1 limited:1 rebuild:1 say:1 analysts:1 financial:1
+stock_CAT r_up	week:1 advance:1 end:1 warns:1 production:1 potential:1 losing:1 stocks:1 delays:1
+stock_CAT r_up	high:1 yields:1 rise:1 's:1 two-week:1
+stock_CAT r_up	default:1 debt:1 would:1
+stock_CAT r_down	2011:1 's:1
+stock_CAT r_up	week:1 note:1 high:1 start:1 gain:1 stocks:1
+stock_CAT r_up	amid:1 global:1 havens:1 calamity:1 weather:1 worst:1 portfolio:1 your:1
+stock_CAT r_down	second:1 quarter:1 upswing:1
+stock_CAT r_down	deals:1 seen:1 passing:1 free-trade:1
+stock_CAT r_down	rating:1 outlook:1 's:1 140:1 negative:1 cuts:1
+stock_CAT r_up	's:1
+stock_CAT r_up	2011:1
+stock_CAT r_down	44:1
+stock_CAT r_up	rally:1 highs:1 stocks:1 115.49:1 multiyear:1
+stock_CAT r_up	commodities:1 bonds:1 stocks:1 watch:1 short:1
+stock_CAT r_up	ends:1 's:2 watch:1 rise:1 steady:1 focus:1 trade:1 high:1 61:1 near:1 three-year:1 after-hours:1 stocks:1 data:1
+stock_CAT r_down	bin:1 death:1 futures:1 rally:1 after:1 stock:1
+stock_CAT r_down	reason:1 worry:1 market:1 give:1
+stock_CAT r_down	's:1
+stock_CAT r_down	100-plus:1
+stock_CAT r_down	case:1 13:1 's:1 reform:1 make:1 tax:1 international:1
+stock_CAT r_down	sell:1 's:1 bonds:1 after:1 yields:1 low:1 fall:1 five-month:1 data:1
+stock_CAT r_up	patch’:1 ‘soft:1 dead:1 worries:1 economic:1 fall:1 not:1 stocks:1
+stock_CAT r_up	streak:1 end:1 3:1 66:1 losing:1 stocks:1 minutes:1
+stock_CAT r_down	slow:1 3:1 stocks:1 spiral:1 death:1
+stock_CAT r_down	11:1 dips:1 slowing:1 130:1 growth:1 data:1
+stock_CAT r_down	4.5:1 hit:1 $:2 global:1 indexes:1 concerns:1 stock:1
+stock_CAT r_up	's:1
+stock_CAT r_down	200:1 279.65:1
+stock_CAT r_up	's:1
+stock_CAT r_up	not:1 houses:1 housing:1 stock:1
+stock_CAT r_down	4.5:2 $:2 sixth:1 52:1 economic:1 fall:1 nerves:1 stocks:1 day:1
+stock_CAT r_up	75.42:1
+stock_CAT r_down	streak:1 now:1 raging:1 money:1 rebound:1 stocks:1 one:1 5:1 bull:1 losing:1 making:1 moves:1 stock:1
+stock_CAT r_down	12000:1
+stock_CAT r_up	12000:1
+stock_CAT r_down	's:1
+stock_CAT r_down	11:1 reasons:1 back:1 soon:1 storm:1 stocks:1
+stock_CAT r_up	crumbling:1 roads:1 fix:1 rails:1 airways:1
+stock_CAT r_up	strength:1 's:1 blue-chip:1 52:1 89:1 close:1 stocks:1 higher:1
+stock_CAT r_up	confidence:1 over:1 after:1 focus:1 hours:1 report:1 gain:1 quarterly:1 stocks:1
+stock_CAT r_down	2011’s:1 far:1 money:1 top:1 ideas:1 fared:1 so:1 have:1
+stock_CAT r_up	may:1 stalling:1 construction:1 boom:1
+stock_CAT r_down	lifted:1 stocks:1 over:1 optimism:1
+stock_CAT r_down	watch:1
+stock_CAT r_up	stimulus:1 climb:1 stocks:1 talk:1
+stock_CAT r_down	41:2
+stock_CAT r_up	200:1
+stock_CAT r_up	facing:1 high:1 profit:1 's:2 expectations:1
+stock_CAT r_down	gaining:1 futures:1 's:7 gains:1 surprises:1 ride:1 45:1 watch:2 focus:1 slide:1 advisories:1 earnings:1 biggest:1 along:1 stocks:2 stock:1 44:5 declining:1 weekly:1
+stock_CAT r_down	gird:1 's:4 $:4 against:1 risk:1
+stock_CAT r_down	3.7:1
+stock_CAT r_down	$:1
+stock_CAT r_down	watch:1
+stock_CAT r_down	hit:1 spending:1 dollar:1 fight:1 may:1 falling:1 next:1 investments:1
+stock_CAT r_down	stockpile:1 companies:1 cash:1 more:1
+stock_CAT r_up	2012:1
+stock_CAT r_down	recession:1 's:2 recovery:1 120:1 3:1 not:1
+stock_CAT r_down	's:1
+stock_CAT r_up	's:1
+stock_CAT r_up	46:2 n't:1 'd:1 's:1
+stock_CAT r_down	stocks’:1 mining:1 moment:1 eureka:1
+stock_CAT r_up	hit:1 get:1 storms:1 hatches:1 down:1 going:1 earnings:1 market:1
+stock_CAT r_down	's:1
+stock_CAT r_down	3:2 34:2
+stock_CAT r_down	2012:1
+stock_CAT r_up	250:2 's:1 $:2
+stock_CAT r_down	menu:1 industrials:1 back:1
+stock_CAT r_up	102:1
+stock_CAT r_up	unemployed:1 now:1
+stock_CAT r_up	33:1
+stock_CAT r_up	outlook:1 investors:1 focus:1 rising:1 shares:1 after-hours:1 crisis:1 eye:1 44:5 hangs:1 cashes:1 under:1 rise:2 watch:1 but:1 pressure:1 prices:1 stocks:2 response:1 31:2 futures:1 metal:1 deals:1 rallies:1 mixed:1 grab:1 spotlight:1
+stock_CAT r_down	gaining:1 mining:1 's:2 manufacturers:1 surprises:1 but:1 60:1 advisories:1 curb:1 declining:1 biggest:1 outlooks:1 stocks:1 out:1 boom:1 '11:1 stakes:1
+stock_CAT r_up	outlook:1 up:1 bleak:1 offer:1
+stock_CAT r_up	$:1
+stock_CAT r_up	$:1
+stock_CAT r_up	watch:1
+stock_CAT r_up	's:1
+stock_CAT r_down	investments:1
+stock_CAT r_up	31:2 3:1
+stock_CAT r_up	rise:1 middle-class:1
+stock_CAT r_up	490:1
+stock_CAT r_down	technical:1 meets:1 recovery:1 resistance:1
+stock_CAT r_down	$:1
+stock_CAT r_down	$:1 600:1
+stock_CAT r_down	18:1 's:1
+stock_CAT r_up	streak:1 loss:1 's:1 extending:1 sink:1 stocks:1 euro:1
+stock_CAT r_up	3:2 30:2
+stock_CAT r_up	bonds:1 housing:1 up:1 3:1 rally:1 stocks:1 337:1
+stock_CAT r_down	not:1 2011:1 says:1 's:2 currency:1
+stock_CAT r_up	2011:1 's:1
+stock_CAT r_up	's:1
+stock_CAT r_up	watch:1 's:1
+stock_CAT r_up	after:1 's:3 futures:1 watch:2 sales:1 reports:1 up:1 traction:1 lose:1 home:1 stocks:1 data:1
+stock_CAT r_down	surprises:1 advisories:1
+stock_CAT r_down	's:1
+stock_CAT r_down	's:1 2012:1
+stock_CAT r_up	13,000:1
+stock_CAT r_down	prime:1 machine:1 global:1 growth:1 makers’:1
+stock_CAT r_down	13,000:1 barrier:1
+stock_CAT r_down	watch:1 's:1
+stock_CAT r_down	n't:1 200:1 fears:1 down:1 most:1 year:1 stocks:1
+stock_CAT r_down	streak:1 winning:1 stocks:1 breaking:1 fall:1
+stock_CAT r_down	losing:1 stretch:1 stocks:1 extend:1
+stock_CAT r_up	week:1 tough:1 note:1 bright:1 close:1 stocks:1
+stock_CAT r_down	drop:1 global:1 fears:1 growth:1 percolate:1 stocks:1
+stock_CAT r_up	2012:1
+stock_CAT r_up	ends:1 stocks:1 lower:1 mostly:1 gains:1

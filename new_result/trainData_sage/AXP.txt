@@ -1,0 +1,446 @@
+stock_AXP r_up	wants:1 results:1 tops:1 after:1 estimates:1 focus:1 up:1 down:1 repay:1
+stock_AXP r_up	gaining:1 lifted:1 's:4 surprises:2 futures:1 losing:1 results:1 shares:1 jump:1 advisories:2 cost:1 cuts:1 biggest:1 stocks:1 boost:1 stock:1
+stock_AXP r_down	first-quarter:1 6.2:1 income:1 's:2 net:1 rises:1
+stock_AXP r_down	's:1 drops:1 2.7:1 afternoon:1 retreat:1
+stock_AXP r_up	's:1 71:1
+stock_AXP r_up	problem:1 's:1 fade:1
+stock_AXP r_down	stress:1 tests:1 bank:1 criticizes:1
+stock_AXP r_up	sector:1 needs:1 's:1 gains:1 show:1 some:1 billions:1 better:1 expected:1 say:1 reports:1 bank:1 broader:1 capital:1 banks:1 rally:1 than:1 lifting:1 more:1
+stock_AXP r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_AXP r_up	billion:1 sector:1 tests:2 600:1 losses:1 possible:1 see:1 weigh:1 bank:1 $:1
+stock_AXP r_up	sector:1 sell:1 tap:1 data:1 after:1 up:1 sales:1 snapshot:1 banks:1 new:1 debt:2 issue:1 card:1
+stock_AXP r_down	upgrade:1 $:1 35:1 bank:1 financials:1 helps:1
+stock_AXP r_down	flat:1 futures:1 jobs:3 4,000:2 dent:1 climbs:1 starts:1 housing:2 after:2 reduce:1 focus:2 trade:1 more:1 cut:2 plans:1 spending:1 stock:1 data:1 trimming:1
+stock_AXP r_down	sector:1 eye:1 $:1 investors:1 tactics:1 'm:1 800:1 2.1:1 2.5:1
+stock_AXP r_down	6.3:1 20:1 6.2:1
+stock_AXP r_up	$:1 after:1 focus:1 close:1 still:1 spotlight:1 500:1
+stock_AXP r_down	turned:1 focus:1 trade:1 offerings:1 rally:1 2.2:1 really:1 pause:1 $:1 shares:2 offers:1 7:1 new:1 stock:2 satisfy:1 selling:1 's:2 around:1 price:1 after:1 flurry:1 lower:1 amid:1 futures:1 banks:1
+stock_AXP r_down	's:1 futures:1 speech:1 fall:1 stock:1 before:1
+stock_AXP r_down	banks:1 among:1 repay:1 set:1
+stock_AXP r_up	's:1 plans:1 due:1 back:1 fight:1 large:1 nine:1 gain:1 rallies:1 banks:1 raising:1
+stock_AXP r_up	billion:1 11:1 safe:1 after:1 's:2 $:1 rise:1 1:1 68:1 repay:1 can:1 banks:2 out:1 come:1 details:1
+stock_AXP r_down	's:1
+stock_AXP r_down	new:1 posts:1 names:1 loss:1
+stock_AXP r_down	11:1 credit:1 dip:1 charge-offs:1 card:1
+stock_AXP r_down	$:1
+stock_AXP r_up	banks:1 repay:1 other:1
+stock_AXP r_up	's:1
+stock_AXP r_down	but:1
+stock_AXP r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_AXP r_down	credit-card:1 industry:1 adapt:1 analyst:1
+stock_AXP r_down	surprises:1 advisories:1 21:1
+stock_AXP r_up	gaining:1 's:1 credit:1 slide:1 card:1 biggest:1 news:1 stocks:2 declining:1 issuers:1
+stock_AXP r_down	selling:1 raise:1 5.6:1 mln:1 new:1 stock:1 500:1 $:1
+stock_AXP r_up	$:1
+stock_AXP r_up	$:1
+stock_AXP r_up	...:1 's:1 jobless:1 assuage:1 shares:1 like:1 makers:1 worries:1 acting:1 financials:1 claims:1 not:1 upbeat:1 more:1 yet:1 bank:1 view:1
+stock_AXP r_down	3.9:1
+stock_AXP r_up	rescue:2 emergency:1 get:1 remain:1 lift:1 higher:1
+stock_AXP r_up	may:1 debt:1 issue:1 soon:1
+stock_AXP r_down	focus:1
+stock_AXP r_up	drop:1 return:1 form:1 futures:1 surprises:1 after:1 results:1 shares:1 winning:1 advisories:1 slammed:1 quarterly:1 profits:1 stock:1
+stock_AXP r_up	pull:1 9000:1 after:1 's:2 48:2 miss:1 loss:1 big:1 futures:1 focus:2 back:1 bankers:1 advisories:1 surprises:1 following:1 dip:1 overrun:1 stock:1
+stock_AXP r_up	supporting:1 26:1 made:1 says:1 $:1 government:1 confidence:1 warning:1 stocks:1
+stock_AXP r_up	1.8:1 's:1 $:1
+stock_AXP r_up	profit:1 rise:1 shares:1 reports:1
+stock_AXP r_up	10:1 9.2:1 but:1
+stock_AXP r_up	sector:1 slips:1 gains:1 --:1 focus:1 shares:1 n't:1 moderate:1 if:1
+stock_AXP r_down	4.4:1 4.83:2 4.2:1
+stock_AXP r_up	rise:1 lift:1 financials:1
+stock_AXP r_up	gaining:1 4.4:1 's:1 4.2:1 biggest:1 stocks:1 declining:1
+stock_AXP r_up	1.1:1 starts:1 annual:1 some:1 credit:1 fees:1 cards:1
+stock_AXP r_up	10:1 up:1 $:1
+stock_AXP r_down	wins:1 buyers:1 flock:1 out:1
+stock_AXP r_up	5:1 $:1
+stock_AXP r_up	1:1 's:2 $:3
+stock_AXP r_up	's:1 $:2
+stock_AXP r_down	$:4
+stock_AXP r_down	unwary:1 's:1 $:2 students:1 deals:1 cost:1 can:1 +125:1
+stock_AXP r_down	12:1 's:1 $:1
+stock_AXP r_up	big:2 bailout:1 pay:1 recipients:1 get:1
+stock_AXP r_up	4.1:1 4.2:1
+stock_AXP r_up	industry:1 growth:1 sees:1 card:1 no:1
+stock_AXP r_down	's:1 2010:1
+stock_AXP r_down	's:1 $:1
+stock_AXP r_up	's:2 $:3 sees:1 no:1 surprises:1 airfare:1 advisories:1 part:1 mixed:1 83:1 sells:1 2010:1 recovery:1
+stock_AXP r_down	'modest:1 see:1 recovery:1 2010:1
+stock_AXP r_up	$:2
+stock_AXP r_up	credit-card:1 firms:1 raise:1 views:1
+stock_AXP r_up	shadow:1 's:1 left:1
+stock_AXP r_up	's:1 '08:1
+stock_AXP r_up	4.1:1
+stock_AXP r_down	n't:1 k:3 401:3
+stock_AXP r_up	13:1 after:1 focus:2 shares:1 results:1 jump:1
+stock_AXP r_down	10000:1 21:1 profit:1 rise:1 results:1 shares:1 falls:1 strong:1
+stock_AXP r_up	21:3
+stock_AXP r_up	's:1
+stock_AXP r_down	10:1 $:1
+stock_AXP r_up	's:1
+stock_AXP r_down	says:1 profit:1 surges:1 quarterly:1 's:1 net:1
+stock_AXP r_up	sector:1 rally:1 2009:1 powers:1 higher:1
+stock_AXP r_up	200:1 jumps:1 win:1 straight:1 surge:1 points:1 gain:1 gets:1 highs:1 fifth:1 '09:1
+stock_AXP r_up	cards:1 new:1 law:1 ahead:1 consumers:1
+stock_AXP r_down	exec:1 support:1 lend:1 comments:1 drifts:1 higher:1
+stock_AXP r_up	4.1:1 stake:1 's:1 lifts:1 financials:1
+stock_AXP r_up	$:2 300:1 keep:1 giving:1 fees:1 --:1 2010:1 card:1 issuers:1
+stock_AXP r_down	again:1 catches:1 financial:1 returns:1 scores:1 stocks:1
+stock_AXP r_up	closes:1 fears:1 up:1 wane:1
+stock_AXP r_down	's:1 15:1
+stock_AXP r_down	ends:1 gold:1 banks:1 fall:1 mixed:1 rises:1
+stock_AXP r_down	3:1 trades:1 's:1 afternoon:1 retreat:1
+stock_AXP r_up	tumble:1 credit-card:1 companies:1 focus:1 late-session:1 take:1 upgrades:1 market:1
+stock_AXP r_down	modest:1 surrender:1 gains:1
+stock_AXP r_up	reform:1 lend:1 back:1 bankers:1 pressures:1 more:1
+stock_AXP r_down	lower:1 4.1:1 drift:1 repay:1 moves:1 3.9:1
+stock_AXP r_down	's:1 14:4
+stock_AXP r_down	's:1
+stock_AXP r_down	year-end:1 futures:1 gain:1 point:1
+stock_AXP r_up	insurers:1 stock-fund:1 up:1 down:1 manager:1 names:1 year:1 moves:1 dip:1
+stock_AXP r_up	sure:1 scammers:1 relief:1 not:1 you:1 donate:1
+stock_AXP r_down	3.7:1 3.9:1
+stock_AXP r_down	triples:1 almost:1 47:2 focus:1 profit:1 quarterly:1
+stock_AXP r_down	hit:1 again:1 lower:1 's:3 5.7:1 beat:1 surprises:1 results:1 focus:1 but:1 trade:1 jitters:1 advisories:1 shares:1 regulatory:1 8.5:1 take:1
+stock_AXP r_down	three-day:1 streak:1 losing:1 snap:1 stocks:1 2.7:1
+stock_AXP r_up	mixed:1 60:1 jump:1 profit:1 sees:1
+stock_AXP r_up	60:1 2:1 $:1
+stock_AXP r_up	bolster:1 stocks:1 financial:1 gains:1
+stock_AXP r_down	33:2
+stock_AXP r_down	33:1
+stock_AXP r_down	10000:2
+stock_AXP r_up	10,000:1 --:1 average:1 drop:1 sends:1 below:1 stock:1
+stock_AXP r_up	moves:1 losses:1 mild:1 eyed:1 post:1 stocks:1
+stock_AXP r_up	3.6:1 3.7:1
+stock_AXP r_down	broad:1 spark:1 help:1 rally:1
+stock_AXP r_down	19:1 's:1 $:1
+stock_AXP r_up	sell-off:1 broad:1 confidence:1 stocks:1 dives:1
+stock_AXP r_up	but:1
+stock_AXP r_up	reform:1 financial:1 killing:1
+stock_AXP r_up	2009:1 $:1 17.4:1
+stock_AXP r_up	'09:1 17.4:1 $:1
+stock_AXP r_down	's:1
+stock_AXP r_up	finish:1 gains:1 health:1 higher:1 stocks:1 care:1
+stock_AXP r_down	'll:1 less:1 rules:1 money:1 lose:1 under:1 gift-card:1 new:1
+stock_AXP r_up	92:1
+stock_AXP r_down	3.6:1
+stock_AXP r_down	's:1
+stock_AXP r_down	's:1 $:1
+stock_AXP r_up	0.3:1 's:1 1.9:1
+stock_AXP r_up	retail:1 financial:1 ringing:1 end:1 drive:1 up:1 registers:1 brokers:1 banks:1 rally:1 stocks:1 stock:1
+stock_AXP r_up	1,200:1 500:1
+stock_AXP r_up	3.6:1 3.3:1
+stock_AXP r_up	's:3
+stock_AXP r_up	's:1
+stock_AXP r_up	lower:1 futures:1 after:2 focus:2 results:1 up:1 quarterly:1 remain:1 economic:1 struggle:1 report:1 strong:1 data:1 profits:1
+stock_AXP r_up	stocks:3 end:1 gains:1 16:1 surprises:1 energy:1 's:1 advisories:1 higher:1 led:1 hold:1 onto:1 weekly:1
+stock_AXP r_down	's:5 $:1
+stock_AXP r_up	33:1 's:1 $:2
+stock_AXP r_up	's:1 since:1 push:1 rally:1 day:1 best:1 stock:1
+stock_AXP r_down	's:2
+stock_AXP r_up	banks:1 rally:1 stocks:1 's:1
+stock_AXP r_down	weighs:1 shed:1 recovery:1 earlier:1 second:1 down:1 3.4:1 close:1 stocks:1 day:1 red:1
+stock_AXP r_down	1:1 60:1 's:1 $:1
+stock_AXP r_down	5.7:1 1.3:1
+stock_AXP r_up	's:1
+stock_AXP r_up	$:1 17:1
+stock_AXP r_down	5.8:1 's:1 $:1 17:1
+stock_AXP r_down	down:1 crash:1 flash:1 weak:1 link:1
+stock_AXP r_up	's:3 4.9:1 3.3:1 3.1:1
+stock_AXP r_down	's:1 losses:1 back:1 bounce:1 early:1 stocks:1
+stock_AXP r_up	bank-stock:1 lower:1 stocks:1 end:1 dominate:1 holdings:1 keep:1 large:1 65:2 's:3 moves:1 euro:1
+stock_AXP r_up	=:1 $:1 40:1
+stock_AXP r_down	3.6:1 3.7:1
+stock_AXP r_down	's:1
+stock_AXP r_up	track:1 stocks:1 weekly:1 gain:1 sets:1
+stock_AXP r_up	bruising:1 's:1 two-day:1 rebound:1 after:1 testify:1 swoon:1 rise:1 stocks:1 2.6:1 execs:1
+stock_AXP r_down	n't:1 's:1
+stock_AXP r_down	's:1
+stock_AXP r_up	debut:1 shares:1 2.9:1 3.1:1 rally:1 hold:1
+stock_AXP r_up	6.3:1
+stock_AXP r_down	slips:1 higher:1 offering:1 trade:1
+stock_AXP r_down	1982:1 's:1
+stock_AXP r_down	14:2 $:2
+stock_AXP r_down	13:1 cut:1 may:1 big:1 regs:1 profit:1 bank:1
+stock_AXP r_down	slashes:1 read:1 13:1 -14:1 economy:1
+stock_AXP r_down	1.6:2 's:2 $:2 rules:1 credit:1 cards:1 still:1
+stock_AXP r_down	snap:1 losing:1 streak:1 stocks:1 gain:1
+stock_AXP r_up	10000:2
+stock_AXP r_up	10,000:1 rally:1 stocks:1 1.9:1 regaining:1
+stock_AXP r_up	1.9:1
+stock_AXP r_up	n't:1 75:1 6:1
+stock_AXP r_down	=:1 2.9:1 2.7:1
+stock_AXP r_down	's:1
+stock_AXP r_up	's:1 gains:2 clock:1 watch:1 top:1 regional-bank:1 estimates:1 results:1 fueled:1 2:1 earnings:1 stocks:1 steep:1 analyst:1 relief:1
+stock_AXP r_up	gaining:1 fly:1 stress:2 's:4 3:1 focus:1 results:1 up:1 past:1 bank-test:1 3.2:2 gain:2 biggest:1 stocks:2 tests:2 week:1 declining:1 earnings:1
+stock_AXP r_up	's:1
+stock_AXP r_down	12.26:1
+stock_AXP r_up	1.8:2 's:1 but:1 23:1
+stock_AXP r_down	6.7:1 75:1 's:1 $:2 23:1
+stock_AXP r_down	31:1
+stock_AXP r_down	's:1
+stock_AXP r_down	25:1 's:1
+stock_AXP r_up	's:1
+stock_AXP r_down	billion:1 named:1 's:1 $:2 1.3:2 profit:1 posts:1 new:1
+stock_AXP r_down	's:3
+stock_AXP r_down	2.7:1 2.6:1
+stock_AXP r_up	42:3
+stock_AXP r_down	$:1 600,000:1
+stock_AXP r_up	earn:1 off:1 study:1 lay:1 workers:1 more:1
+stock_AXP r_down	streak:1 end:1 win:1 but:1 stocks:1 four-day:1
+stock_AXP r_down	's:5 $:5 but:1
+stock_AXP r_up	...:1 's:2 $:1 losses:1 recouping:1 climb:1 day:1 previous:1
+stock_AXP r_up	're:1
+stock_AXP r_up	streak:1 end:1 win:1 surge:1 safe-haven:1 stocks:1 2.6:1 2.4:1
+stock_AXP r_up	2009:1 end:1 profit:1 falls:1 recession:1 74:2 stocks:1 surge:1
+stock_AXP r_down	's:1
+stock_AXP r_up	lead:1 views:1 profit:1 drop:1 bleak:1 stock:1
+stock_AXP r_up	2000:1
+stock_AXP r_down	stolen:1 pay:1 back:1 goods:1 cards:1 you:1
+stock_AXP r_down	sector:1 weighs:1 financial:1 third-quarter:1 jitters:1 fall:1 stocks:1
+stock_AXP r_down	gaining:1 over:1 rally:2 recovery:1 swipe:1 declining:1 biggest:1 violations:1 500:1 giants:1 rewards:1 's:1 power:1 financial-sector:1 sues:1 hopes:1 along:1 stocks:2 card:1 takes:1 antitrust:1 cards:1 banks:1
+stock_AXP r_down	heart:1 hits:1 business:1 suit:1
+stock_AXP r_up	hopes:1 close:1 easing:1 higher:1
+stock_AXP r_down	2.5:1 2.4:1
+stock_AXP r_up	focus:1
+stock_AXP r_up	quarterly:1 profit:1 jumps:1 's:1 71:1
+stock_AXP r_down	surprises:1 advisories:1 focus:1 71:4
+stock_AXP r_up	new:1 manager:1 30:1 names:1 investment:1
+stock_AXP r_up	51:1
+stock_AXP r_down	30:1 'll:1
+stock_AXP r_up	's:2
+stock_AXP r_up	2.3:1 2.5:1
+stock_AXP r_down	's:1
+stock_AXP r_up	tests:1 payouts:1 require:1 stress:1 upping:1 before:1
+stock_AXP r_up	lower:1 probe:1 fears:1 financials:1 pushes:1
+stock_AXP r_down	after:1
+stock_AXP r_down	pact:1 n't:1 goods:1 virtual:1 boon:1
+stock_AXP r_up	car:1 sales:1 economic:1 128:1 data:1 spotlight:1
+stock_AXP r_down	's:1
+stock_AXP r_up	's:1 may:1 flop:1 year’s:1 stocks:1 2011:1 best:1
+stock_AXP r_down	2.3:1 2.2:1
+stock_AXP r_down	may:1 debit-card:1 curb:1 fees:1 act:1
+stock_AXP r_down	stocks:1 data:1 gain:1 forecast:1
+stock_AXP r_down	slips:1 lifted:1 stocks:1 builders:1 energy:1
+stock_AXP r_up	weighs:1 fuels:1 futures:1 deal:2 rise:1 up:1 optimism:1 gain:1 activity:1 downgrade:1 news:1 stocks:1 after:1 stock:1
+stock_AXP r_down	29:1 2010:1
+stock_AXP r_up	's:1
+stock_AXP r_down	highs:1 stocks:1 two-year:1 '11:1 retreat:1
+stock_AXP r_up	31.71:1
+stock_AXP r_down	get:1 lift:1 labor:1 high:1 ‘08:1 new:1 stocks:1
+stock_AXP r_down	test:1 dividends:1 redux:1 bank:1
+stock_AXP r_down	's:1
+stock_AXP r_up	after:1 results:1 shares:1 higher:1
+stock_AXP r_up	2.2:1 2.1:1 're:1 's:1 2010:1
+stock_AXP r_down	roles:1 20:1 sinks:1 takes:1 after:1 550:2 late:1 charge:1 2:1 trading:1 earnings:1 3,500:1 fall:1 rises:1 2010:1 500:1 parade:1
+stock_AXP r_up	copper:1 decline:1 pare:1 after:3 's:1 jobless:1 disappoints:1 surprises:1 futures:1 lower:1 advisories:1 economic:1 slip:1 fall:1 claims:1 stocks:2 data:1 turns:1 gains:1
+stock_AXP r_down	sell:1 's:1 48:1 matches:1 watch:1 warrants:1 futures:1 steady:1 up:1 12000:1 edge:1 out:1
+stock_AXP r_down	rises:1 48:1 ahead:1 profit:1 surprises:1 jumps:1 rise:1 buyback:1 12000:2 trade:1 late:1 cheer:1 advisories:1 shares:1 fall:1 quarterly:1 stocks:2 slightly:1 44:1
+stock_AXP r_down	12000:1
+stock_AXP r_down	7.6:1 's:1 $:1 2010:1
+stock_AXP r_up	it’s:1 up:1 'em:1
+stock_AXP r_down	disappoints:1 's:1 retreat:1 16:1
+stock_AXP r_down	2.1:1 's:2
+stock_AXP r_up	lower:1 end:1 gains:1 give:1 back:1 exchanges:1
+stock_AXP r_down	test:1 11:1 report:1 unemployment:1 told:1
+stock_AXP r_down	performance:1 's:1 than:1
+stock_AXP r_down	regulator:1 understand:1 still:1 hard:1 risks:1
+stock_AXP r_up	$:1
+stock_AXP r_down	1:1 $:2
+stock_AXP r_down	litigation:1 $:1 could:1 losses:1 3:1 bln:1 top:1
+stock_AXP r_down	2010:1 's:2 $:2 but:1 16.8:1
+stock_AXP r_up	hopes:1 stocks:1 bank-dividend:1 surge:1
+stock_AXP r_down	4:1 selloff:1 up:1 swept:1 stock:1
+stock_AXP r_down	1:1 hit:1 insurers:1 off:1 again:1
+stock_AXP r_up	remains:1 back:1 bounce:1 focus:1
+stock_AXP r_up	's:2 light:1 actions:1 hikes:1 green:1 dividend:2 bank:1 gives:1
+stock_AXP r_up	gains:1 extend:1
+stock_AXP r_down	streak:1 stocks:1 extend:1 third:1 winning:1 quarter:1
+stock_AXP r_up	's:1
+stock_AXP r_up	firms:1 rise:1 slip:1 financials:1 but:1
+stock_AXP r_up	sector:1 flat:1 financial:1 trades:1 while:1 rises:1
+stock_AXP r_up	lift:1 rise:1 helps:1 500:1
+stock_AXP r_down	250:1
+stock_AXP r_up	stocks:1 trading:1 afternoon:1 slip:1
+stock_AXP r_up	bid:1 12:1 off:1 rejected:1 fall:1
+stock_AXP r_down	banks:1 report:1 stocks:1 set:1 fall:1
+stock_AXP r_down	comes:1 's:1 results:1 offers:1 're:1 retreat:1 clues:1 off:1 bloom:1 other:1 bank:1
+stock_AXP r_up	gainers:1 trend:1 paces:1 rise:1 watch:2 but:1 33:2 financial-sector:1 bucks:1
+stock_AXP r_up	surprises:1 advisories:1 watch:2
+stock_AXP r_up	rise:1 boosts:1
+stock_AXP r_up	stocks:1 pat:1 gain:1 stands:1
+stock_AXP r_up	decline:1 life:1 insurers:1 extend:1 advance:1 sparks:1 highs:1 insurer:1 but:1 limit:1 fall:1 rally:1 stocks:1 multiyear:1
+stock_AXP r_up	smartest:1 know:1
+stock_AXP r_up	24:1 off:1 weakness:1 initial:1 trading:1 afternoon:1 slip:1 shake:1 stocks:1
+stock_AXP r_down	financial:1 help:1 sink:1 components:1 stocks:1 4:1
+stock_AXP r_down	24:3 financial:1 $:2 weigh:1 's:1 stocks:1 data:1
+stock_AXP r_down	drops:1 financial:1 $:1 40:1 drag:1 stocks:1
+stock_AXP r_down	financial:1 into:1 commodities:1 follow:1 stocks:2 boost:1 red:1
+stock_AXP r_down	's:2 $:2 downgrades:1 rise:1 stocks:1 sinks:1
+stock_AXP r_down	sector:1 weigh:1 financial:1
+stock_AXP r_up	13:1 end:1 mainly:1 lower:1 slumps:1 4:1 financials:1
+stock_AXP r_up	again:1 manage:1 gain:1 financials:1 falls:1
+stock_AXP r_up	financial:1 track:1 slides:1 's:1 stocks:1 higher:1
+stock_AXP r_up	climbs:1 trend:1 defying:1 financials:1
+stock_AXP r_down	's:2
+stock_AXP r_down	financial:1 stocks:1 fears:1 dampen:1
+stock_AXP r_down	dip:1 slip:1 financials:1
+stock_AXP r_down	end:1 rise:1 one-month:1 but:1 loses:1 near:1 5:1 lows:1 broader:1 stocks:1 financials:1
+stock_AXP r_up	financials:1 rise:1 2006:1 but:1 pressured:1
+stock_AXP r_up	buy:1 says:1 gain:1
+stock_AXP r_up	leads:1 advance:1 stocks:1 financial:1
+stock_AXP r_down	$:2 weak:1 725:1 rates:1 interest:1 affect:1 data:1 swoons:1
+stock_AXP r_up	rebound:1 stocks:1 trading:1 afternoon:1
+stock_AXP r_down	report:1 jobs:1 stocks:1 wake:1 retreat:1
+stock_AXP r_up	lower:1 lead:1 wake:1 speech:1 stocks:1 dip:1 bank:1
+stock_AXP r_down	sixth:1 economic:1 fall:1 nerves:1 stocks:1 day:1
+stock_AXP r_up	ratings:1 now:1 help:1 reasons:1 drop:1 banking:1 after:1 5:1 card:1 new:1 vote:1 rally:1 stocks:2 boost:1 bank:1 economy:1
+stock_AXP r_down	follow:1 stocks:1 market:1 broader:1 higher:1
+stock_AXP r_down	down:1 drag:1 stocks:1 financial:1
+stock_AXP r_up	banks:1 pull:1 lag:1 's:1 gains:1
+stock_AXP r_up	$:1 rise:1 while:1 other:1 financials:1 swoons:1
+stock_AXP r_up	's:1
+stock_AXP r_up	pressure:1 stocks:1 bank:1
+stock_AXP r_up	hopes:1 boosted:1 stocks:1 debt:1
+stock_AXP r_down	buck:1 lower:1 after:1 gains:1 trend:1 decision:1 swoon:1 close:1 financials:1
+stock_AXP r_down	's:1
+stock_AXP r_up	financials:1 lead:1 higher:1
+stock_AXP r_up	went:1 marriage:1 gay:1
+stock_AXP r_up	loosen:1 lag:1 costly:1 less:1 may:1 debit-card:1 rule:1 swipe-fee:1 rules:1 debt:1 debit:1 banks:1 pressure:1 stocks:1 card:1
+stock_AXP r_up	wraps:1 stocks:2 reports:1 second:1 stoked:1 rally:1 quarter:1
+stock_AXP r_up	lower:1 financials:1 lead:1
+stock_AXP r_down	one:1 lower:1 now:1 money:1 watch:1 reality:1 5:1 making:1 not:1 close:1 firms:1 moves:1 chartist:1 stock:1
+stock_AXP r_down	financials:1 issues:1 hurt:1
+stock_AXP r_down	pace:1 financials:1 decline:1
+stock_AXP r_down	sector:1 sits:1 financial:1 gains:1 out:1
+stock_AXP r_up	week:1 end:1 gains:1 holds:1 down:1 slide:1 banks:1 financial:1 stocks:1 day:1
+stock_AXP r_down	drop:1 stocks:1 2.8:1 sinks:1
+stock_AXP r_up	watch:1
+stock_AXP r_up	led:1 look:1 challenged:1 cheap:1 watch:1 up:1 shares:1 but:1 close:1 stocks:1 's:1
+stock_AXP r_up	surprises:1 31:3 advisories:1 watch:1
+stock_AXP r_down	deal:1 lead:1 rise:1 up:1 earnings:1 stocks:2
+stock_AXP r_down	shed:1 gains:1 up:1 sale:1 lower:1 close:2 stocks:1 talk:1
+stock_AXP r_down	lower:1 stocks:1 's:1 saga:1 40:1 close:1 debt:1
+stock_AXP r_up	's:1 slight:1 eke:1 40:1 gain:1 stocks:1 out:1
+stock_AXP r_down	stocks:2 resource:1 retreats:1 broader:1 fall:2 exporters:1 market:1
+stock_AXP r_up	falling:1 dollar:1 investments:1
+stock_AXP r_up	slide:1 1.7:1 tank:1 financials:1
+stock_AXP r_up	regain:1 abyss:1 lead:1 into:1 stocks:2 bank:1 ground:1
+stock_AXP r_up	pull:1 into:1 back:1 financials:1 red:1
+stock_AXP r_up	's:1
+stock_AXP r_up	stocks:1 concerns:1 lag:1
+stock_AXP r_down	weighs:1 's:1 up:1 outpace:1 edge:1 broader:1 stocks:2 market:1
+stock_AXP r_up	retreats:1 financials:1 fall:1
+stock_AXP r_up	financials:1 down:1 lead:1 shares:1
+stock_AXP r_up	behind:1 stocks:1 end:1 left:1 higher:1
+stock_AXP r_up	leads:1 ascent:1 financials’:1
+stock_AXP r_up	's:1 surprises:1 into:1 back:1 n't:1 advisories:1 swing:1 rises:1 red:1
+stock_AXP r_up	stocks:1 financial:1 lead:1 higher:1
+stock_AXP r_up	leads:1 rally:1 finance:1 sector:1 hurt:1
+stock_AXP r_down	further:1 sanctions:1 falls:1
+stock_AXP r_up	sector:1 losses:1 hurt:1
+stock_AXP r_down	around:1 weight:1 their:1 lift:1 throw:1 financials:1
+stock_AXP r_down	layoff:1 surprises:1 after:1 shares:1 down:1 advisories:1 3:1 concerns:1 sink:1 pulls:1 2.2:1 financials:1
+stock_AXP r_up	1.4:1 $:2
+stock_AXP r_up	rise:1 lifts:1 financials:1
+stock_AXP r_up	6:1
+stock_AXP r_down	streak:1 lower:1 off:1 drive:1 but:1 winning:1 lows:1 snap:1 stocks:1 financials:1
+stock_AXP r_up	's:2
+stock_AXP r_down	drop:1 stocks:1 downgrades:1
+stock_AXP r_down	market:1 stocks:1 sink:1 broader:1
+stock_AXP r_up	9:1 gain:1 nearly:1 rallies:1
+stock_AXP r_down	sector:1 pace:1 financial:1 gains:1
+stock_AXP r_down	proposal:1 tax:1 pressured:1 shares:1
+stock_AXP r_down	dive:1 quarter:1 worst:1 since:1 crisis:1
+stock_AXP r_down	off:1 down:1 drag:1 9.8:1 broader:1 market:1
+stock_AXP r_down	banks:1 rally:1 hope:1 last-minute:1
+stock_AXP r_up	hit:1 gains:1 lead:1 8.8:1 of.:1 up:1 shares:1 gain:1 swing:1
+stock_AXP r_down	n't:1
+stock_AXP r_up	rally:1 stocks:1 optimism:1
+stock_AXP r_up	into:1 stocks:1 dip:1 back:1 red:1
+stock_AXP r_up	market:1 stocks:1 broader:1 lead:1 higher:1
+stock_AXP r_down	stocks:1 results:1 after:1 fall:1
+stock_AXP r_down	2010:1
+stock_AXP r_up	into:1 led:1 red:1
+stock_AXP r_down	's:1 13:1 watch:1 financials:1 buoy:1
+stock_AXP r_up	13:1 gainers:1 surprises:1 tops:1 rebound:1 watch:1 shares:1 trade:1 advisories:1 struggle:1 after-hours:1 financials:1
+stock_AXP r_up	gains:1 into:1 indexes:1 lifts:1 rally:1 stock:1 weekly:1
+stock_AXP r_up	lead:1 out:1 financials:1 portfolio:1 stocks:1 bail:1 your:1 bank:1 higher:1
+stock_AXP r_up	stocks:1 earnings:1 slip:1
+stock_AXP r_up	rise:1 stocks:1 summit:1
+stock_AXP r_up	financials:1 power:1
+stock_AXP r_down	banks:1 drop:1 insurers:1 checks:1 financials:1
+stock_AXP r_up	178:1
+stock_AXP r_up	close:1 stocks:1 after:1 higher:1
+stock_AXP r_down	about-face:1 recover:1 after:1
+stock_AXP r_up	2011:1 7:1 17:1
+stock_AXP r_up	recover:1 $:3 17:1 trail:1 100:1 stocks:1 market:1
+stock_AXP r_down	plans:1 rise:1 jitters:1 fall:1 stocks:2 bond:1
+stock_AXP r_down	rise:1 stocks:1 market:1 broader:1
+stock_AXP r_up	easing:1 stocks:1 fears:1 gain:1
+stock_AXP r_down	buy:1 $:1 lead:1 big:1 10.7:1 shares:1 down:1 broader:1 stocks:1 makes:1 market:1
+stock_AXP r_up	premium:1 tech:1 buying:1
+stock_AXP r_down	rise:1 stocks:1 market:1 broader:1 buoy:1
+stock_AXP r_down	dive:1 stocks:1 's:1 bank:1 warnings:1
+stock_AXP r_down	supercommittee:1 fall:1
+stock_AXP r_down	's:1
+stock_AXP r_down	lower:1 end:1 broadly:1 trend:1 down:1 board:1 bucks:1 stocks:1 across:1
+stock_AXP r_down	retreats:1 pare:1 gains:1 market:1
+stock_AXP r_up	88:1
+stock_AXP r_down	pace:1 stocks:1 market:1 broader:1
+stock_AXP r_up	decline:1 lead:1 officials:1 broader:1 meet:1 stocks:1 market:1 higher:1
+stock_AXP r_up	week:1 suits:1 over:1 drop:1 years:1 2:1 bank:1 rally:1 stocks:1 best:1
+stock_AXP r_down	's:2
+stock_AXP r_up	sector:1 flat:1 financial:1 rise:1 banks:2 news:1 stocks:1 weakest:1
+stock_AXP r_down	drop:1 stocks:1 comments:1
+stock_AXP r_up	3:1
+stock_AXP r_down	sector:1 down:1 back:1 leads:1 fear:1 euro:1
+stock_AXP r_down	gains:2 give:1 inspired:1 up:2 down:1 stocks:1 market:1 gives:1
+stock_AXP r_down	47:4 's:1
+stock_AXP r_up	emerge:1 buyers:1 lifts:1 bank:1
+stock_AXP r_up	sector:1 financial:1 gains:1 caps:1
+stock_AXP r_down	decline:1 second:1 day:1 market:1
+stock_AXP r_up	broad:1 stocks:1 market:1 lead:1 higher:1
+stock_AXP r_up	=:1 +:1 rise:1 minutes:1 after:1
+stock_AXP r_up	's:1 broader:1 weigh:1 stocks:1 2011:1 market:1
+stock_AXP r_up	higher:1 gains:1 financials:1 reverse:1
+stock_AXP r_up	banks:1 stocks:1 financial:1 drive:1 higher:1
+stock_AXP r_up	rally:1 fuels:1 charge:1 financials’:1
+stock_AXP r_up	early:1 lower:1 weakness:1 after:1 leads:1 close:1 stocks:1 bank:1 higher:1
+stock_AXP r_up	8:1 drop:1 stocks:1 shares:1 tumble:1
+stock_AXP r_up	's:1 gains:1 limit:1 banks:1 close:1 stocks:1 higher:1
+stock_AXP r_up	hit:1 surprises:1 lift:1 after:1 watch:1 shares:1 hours:1 advisories:1 financials:1 higher:1
+stock_AXP r_down	week:1 12:1 third:1 watch:1 high:1 near:1 gain:1 6-month:1 stocks:1
+stock_AXP r_down	40:1
+stock_AXP r_down	weigh:1 lower:1 end:1 off:1 gains:1
+stock_AXP r_down	banks:1 led:1 fall:1
+stock_AXP r_up	sector:1 59:1 up:1 edge:1 8:1 higher:1
+stock_AXP r_up	surges:1 rallies:1 edge:1 mandate:1 talk:1 higher:1
+stock_AXP r_up	report:1 hits:1
+stock_AXP r_up	settlement:1 after:1 mortgage:1 fall:1
+stock_AXP r_down	financial-sector:1 bucks:1 weakness:1
+stock_AXP r_down	leads:1 financials:1 higher:1
+stock_AXP r_down	stocks:1 downgrades:1 sales:1 sink:1 broader:1 fall:1 retail:1 market:1
+stock_AXP r_down	data:1 drop:1 stocks:1 weak:1 euro-zone:1
+stock_AXP r_up	n't:1 data:1 rise:1 stocks:1 economic:1
+stock_AXP r_up	financials:1 lead:1 higher:1
+stock_AXP r_down	banks:1 mixed:1 rise:1 stocks:1 data:1
+stock_AXP r_up	stocks:1 fall:1
+stock_AXP r_down	lead:1 financials:1 weigh:1 stocks:1 market:1 higher:1
+stock_AXP r_down	disclosure:1 stocks:1 stress-test:1 retreat:1
+stock_AXP r_up	via:1 lead:1 drop:1 global:1 jitters:1 broader:1 stocks:2 market:1 higher:1
+stock_AXP r_up	rise:1 stocks:1 fears:1 ease:1
+stock_AXP r_up	lead:1 data:1 job:1 2011:1 financials:1 higher:1
+stock_AXP r_down	down:1 drawn:1 stocks:1 banks:1
+stock_AXP r_up	n't:1 dividend:1 stocks:1 raises:1 surge:1
+stock_AXP r_up	n't:2 's:2
+stock_AXP r_up	ends:1 logs:1 lead:1 sixth:1 lower:1 session:1 500:1 win:1 stocks:1 data:1 market:1 higher:1
+stock_AXP r_down	week:1 strong:1 up:1 fourth:1 day:1
+stock_AXP r_up	stocks:1 supports:1 gains:1 extend:1
+stock_AXP r_down	rise:1 stocks:1 sentiment:1 home-builder:1
+stock_AXP r_up	gains:1 trend:1 rise:1 negative:1 but:1 bucking:1 fail:1 stocks:1 financials:1 inspire:1
+stock_AXP r_up	downtrend:1 bucks:1 off:1
+stock_AXP r_down	lift:1 help:1 financials:1
+stock_AXP r_up	watch:1
+stock_AXP r_down	rise:1 stocks:1 2007:1 comments:1
+stock_AXP r_up	drag:1 stocks:1 market:1 broader:1
+stock_AXP r_down	banks:1 stocks:1 day:1 finish:1 up:1
+stock_AXP r_down	lower:2 stocks:1 mostly:1 lead:1 rise:1 ends:1 heady:1 gains:1 close:1 quarter:1 financials:1 out:1

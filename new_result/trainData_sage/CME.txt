@@ -1,0 +1,301 @@
+stock_CME r_down	gaining:1 decline:1 several:1 's:1 months:1 price:1 futures:1 biggest:1 15:1 stocks:1 declining:1
+stock_CME r_down	's:4 $:1
+stock_CME r_down	join:1 downfall:1 ranks:1 trader:1 high-stakes:1 's:3 gambles:1
+stock_CME r_up	25:1
+stock_CME r_down	said:1 join:1 exchange:1 futures:1 4:1 banks:1 new:1
+stock_CME r_down	4:1
+stock_CME r_down	's:1
+stock_CME r_down	inch:1 move:1 back:1 moves:2 blue:1 $:6 sock:1 shares:1 biggest:1 dominate:1 9.3:1 gaining:1 buy:1 's:2 big:1 expected:1 stocks:2 chips:1 declining:1 volatility:1 billion:1 10:1 lower:1 sale:1 banking:1 banks:1
+stock_CME r_up	plunge:1 $:1 fears:1 shares:1 dismisses:1 brokerage:1 liquidity:1
+stock_CME r_down	's:2
+stock_CME r_down	850,000:1 2007:1 $:1
+stock_CME r_down	stock:1 flat:1 futures:1 end:1 gains:1 point:1 rise:1 revamp:1 shares:1 back:1 quarter:1 plan:1 aids:1 stocks:1 slumps:1 finance:1
+stock_CME r_up	15:1
+stock_CME r_up	prices:2 record:1 falling:1 volumes:1 seat:1
+stock_CME r_down	's:1
+stock_CME r_up	3:1
+stock_CME r_down	3:1
+stock_CME r_up	's:2
+stock_CME r_down	gaining:1 sort:1 's:1 investors:1 offer:1 earnings:1 dilutive:1 fall:1 shares:1 biggest:1 declining:1 tumbles:1 mixed:1 stocks:1 financials:1 out:1
+stock_CME r_up	surprises:1 advisories:1
+stock_CME r_up	27:2 30:1
+stock_CME r_up	merger:1 bid:1 buys:1 two:1 persist:1 stakes:1
+stock_CME r_up	operator:1 summer:1 exchange:1 plans:1 stock:1
+stock_CME r_up	4:1
+stock_CME r_down	10:2 widen:1 19:1 energy:1 testify:1 2nd:1 speculation:1 probes:1
+stock_CME r_up	arena:1 derivatives:1 clearing:1 put:1 world:1 seek:1 spotlight:1
+stock_CME r_down	's:1 $:2 exchange:1 bid:1 maintains:1 high:1 jitters:1 hurdle:1 faces:1 equity:1 price:1
+stock_CME r_up	focus:1
+stock_CME r_up	gaining:1 's:2 $:1 biggest:1 stocks:1 declining:1
+stock_CME r_down	close:1 moves:1 loophole:1 builds:1 pressure:1
+stock_CME r_down	food:1 funds:1 energy:1 proposes:1 banning:1 big:1 investing:1
+stock_CME r_up	$:2
+stock_CME r_down	gaining:1 25:1 's:1 biggest:1 stocks:1 declining:1
+stock_CME r_down	managers:1 forum:1 topics:1 commodities:1 fund:1 hot:1
+stock_CME r_down	...:1
+stock_CME r_down	worries:1 weigh:1 sector:1 banking:1
+stock_CME r_down	0.7:1
+stock_CME r_up	oversold:1 's:1 according:1 analysis:1 stock:1
+stock_CME r_up	's:1
+stock_CME r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_CME r_down	focus:1
+stock_CME r_up	$:3 surprises:1 60:1 advisories:1 71:1 750,000:3
+stock_CME r_up	's:1
+stock_CME r_down	21:1
+stock_CME r_up	profit:1 rises:1 81:1 second-quarter:1
+stock_CME r_up	$:1
+stock_CME r_up	25:1
+stock_CME r_down	gains:1 after:1 up:1 focus:1 regular-session:1 slide:1 edge:1 stocks:1
+stock_CME r_up	amp:1 watch:1
+stock_CME r_down	2009:1
+stock_CME r_up	gaining:1 ends:1 's:1 $:1 atop:1 holds:1 lower:1 but:1 traders:1 storm:1 demand:1 biggest:1 eye:1 100:1 stocks:1 declining:1
+stock_CME r_up	toward:2 storms:2 coast:2
+stock_CME r_up	among:1 woes:1 contempt:1 reactions:1
+stock_CME r_down	gaining:1 2009:1 's:2 biggest:1 stocks:1 declining:1
+stock_CME r_up	2009:1
+stock_CME r_down	30:1
+stock_CME r_down	's:1
+stock_CME r_up	gaining:1 worldwide:1 wreckage:1 's:3 rose:1 amid:1 biggest:1 stocks:1 declining:1
+stock_CME r_down	default:1 rise:1 shares:1 credit:1 market:1 swap:1 talk:1
+stock_CME r_up	600:1 500:1
+stock_CME r_down	case:1 surprisingly:1 bear:1 n't:1 bull:1 balanced:1
+stock_CME r_up	$:1
+stock_CME r_down	500:1
+stock_CME r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_CME r_up	2009:1 focus:1
+stock_CME r_up	surprises:1 advisories:1 2009:1 16:1
+stock_CME r_up	focus:1 16:1
+stock_CME r_up	gaining:1 derivatives:1 's:1 may:1 clear:1 credit:1 '09:1 biggest:1 stocks:1 declining:1 thin:1
+stock_CME r_up	13:1
+stock_CME r_down	2009:1
+stock_CME r_down	2008:1 's:1 $:1
+stock_CME r_down	's:1
+stock_CME r_down	giants:1 support:1 regulation:1 more:1
+stock_CME r_down	8.9:1 29:1
+stock_CME r_up	29:1
+stock_CME r_up	gains:1 exchange:1 pace:1 extends:1 4:1 rally:1 stocks:1
+stock_CME r_up	'09:3
+stock_CME r_down	2009:1
+stock_CME r_down	12/1:1
+stock_CME r_down	's:3
+stock_CME r_down	1999:2 21:1 22:3
+stock_CME r_down	among:1 gainers:1 big:1 2:1 4:1 financials:1
+stock_CME r_down	2:1 4:1 2-4:2
+stock_CME r_down	's:1
+stock_CME r_down	4:1
+stock_CME r_up	1st:1
+stock_CME r_up	69:2 2008:1 $:2 focus:1
+stock_CME r_up	surprises:1 advisories:1 's:2
+stock_CME r_up	'':1 amp:1 ``:1
+stock_CME r_up	1.5:1
+stock_CME r_up	warm:1 analysts:1
+stock_CME r_down	similarities:1 's:1 low:1 2003:1
+stock_CME r_up	wane:1 profit:1 30:1 falls:1 volumes:1 margins:1
+stock_CME r_down	late-session:1 end:1 surprises:1 after:1 advisories:1 push:1 higher:1
+stock_CME r_up	22:1
+stock_CME r_up	gaining:2 's:2 wholesale:1 focus:1 prices:1 biggest:2 stocks:2 declining:2
+stock_CME r_down	financials:1 upgrade:1 helps:1 bank:1
+stock_CME r_up	outlook:1 spotlight:1
+stock_CME r_up	may:1 stabilizes:1 slump:1 volumes:1 economy:1
+stock_CME r_up	volume:1 boost:1 wary:1
+stock_CME r_down	fail:1 lift:1 inflation:1 data:1 financials:1
+stock_CME r_down	gaining:1 's:1 limits:1 sixth:1 day:1 commodities:1 trading:1 fall:1 biggest:1 consecutive:1 stocks:2 considers:1 declining:1
+stock_CME r_up	sector:1 pull:1 lower:1 's:1 gaining:1 declining:1 exchanges:1 biggest:1 stocks:1 warming:1
+stock_CME r_up	10:1 views:1 profit:1 surprises:1 beat:1 advisories:1 earnings:1 rises:1
+stock_CME r_down	strict:1 energy:1 trading:1 considers:1 limits:1
+stock_CME r_down	limit:1 trader:1 trading:1 energy:1 calls:1
+stock_CME r_down	support:1 industrials:1 violate:1 500:1 first:1
+stock_CME r_up	banks:1 most:1 clear:1 trades:1 swap:1
+stock_CME r_up	firms:1 trade:1 dollar:1 spat:1 falls:1
+stock_CME r_up	proposes:1 curb:1 own:1 steps:1 speculation:1
+stock_CME r_down	shed:1 turns:1 losses:1 up:1 banks:1 insurers:1
+stock_CME r_up	aided:1 copper:1 outlook:1 's:1 $:2 losses:1 dollar:1 2.8:2
+stock_CME r_down	feud:1 over:1 limits:1
+stock_CME r_down	focus:1
+stock_CME r_up	20:1 gains:1 surprises:1 reports:1 advisories:1 financial-sector:1 aid:1
+stock_CME r_down	's:1
+stock_CME r_up	sector:1 rise:1 sluggish:1 insurance:1 despite:1
+stock_CME r_up	taking:1 bugs:1 gold:2 mainstream:1
+stock_CME r_up	$:1 4:1
+stock_CME r_down	's:1
+stock_CME r_down	13:1
+stock_CME r_down	2010:1
+stock_CME r_down	--:1
+stock_CME r_down	surprises:1 2008:2 advisories:1 's:2 focus:1
+stock_CME r_up	leads:1 decline:1 financial:1 steep:1 sector:1
+stock_CME r_down	'08:1
+stock_CME r_down	90:2 buy:1 focus:1 business:1 index:1
+stock_CME r_up	's:1 but:1 stay:1 banks:1 2:1 mend:1 2011:1 red:1 2012:1
+stock_CME r_down	's:1
+stock_CME r_up	's:1
+stock_CME r_up	pace:1 market:1 broader:1 rally:1
+stock_CME r_up	17:2
+stock_CME r_up	300:1 $:1
+stock_CME r_up	2010:1
+stock_CME r_down	fed:1 ball:1 no:1 funds:2 futures:2 crystal:1 rate:1 invest:1 hikes:1
+stock_CME r_up	surge:1 insurer:1 's:2 stocks:1 bond:1
+stock_CME r_down	12:1 2:1
+stock_CME r_down	sector:1 pace:1 moderate:1 financial:1 gains:1
+stock_CME r_up	financial:1 rebound:1 stocks:1 boost:1
+stock_CME r_up	close:1 stocks:1 territory:1 positive:1
+stock_CME r_down	hold:1 stocks:1 onto:1 gains:1 weekly:1
+stock_CME r_up	slips:1 announces:1 sale:1
+stock_CME r_up	21:1
+stock_CME r_down	35:1
+stock_CME r_up	40:1
+stock_CME r_down	play:1 's:1 sell-off:1 amid:1 probe:1 cancellations:1 trade:2 leads:1 defense:1 faulty:1
+stock_CME r_down	's:1 500:1
+stock_CME r_up	's:2
+stock_CME r_up	system:1 proposes:1 unified:1 creating:1 6:1
+stock_CME r_down	6:1
+stock_CME r_down	drop:1 hit:1 $:1 lead:1 rebound:1 after:1 early:1 slide:1 market:1 2.2:1 worry:1
+stock_CME r_up	$:2 29:1
+stock_CME r_up	12:2
+stock_CME r_down	's:2
+stock_CME r_down	's:1
+stock_CME r_up	n't:2
+stock_CME r_down	's:1
+stock_CME r_up	sector:1 gains:1 lead:1
+stock_CME r_up	10:1 12:1 gains:1 22:2 surprises:1 up:1 advisories:1 post:1 moderate:1
+stock_CME r_down	22:1
+stock_CME r_down	losses:1 data:1 jobless:1 extend:1 after:1
+stock_CME r_down	bad:1 rates:1 financials:1
+stock_CME r_up	decline:1 straight:1 session:1 fifth:1
+stock_CME r_up	session:1 straight:1 stocks:1 fourth:1 slip:1
+stock_CME r_up	's:1 $:1 1.2:1
+stock_CME r_up	sector:1 's:1 gains:1 evaporate:1 dip:1 late-day:1
+stock_CME r_up	data:1 housing:1 rise:1 jobs:1 after:1
+stock_CME r_down	20:1
+stock_CME r_up	$:2 6:2
+stock_CME r_up	's:2 2nd:1
+stock_CME r_down	's:1
+stock_CME r_down	28:2
+stock_CME r_down	's:1
+stock_CME r_down	's:1
+stock_CME r_up	gaining:1 week:1 19:1 results:1 start:1 80.91:1 biggest:1 stocks:1 declining:1 higher:1
+stock_CME r_down	19:1
+stock_CME r_up	oil:1 get:1 predict:1 traders:1 future:1 new:1 tools:1
+stock_CME r_up	ease:1 apparent:1 role:1 into:1
+stock_CME r_up	21:2
+stock_CME r_up	21:1
+stock_CME r_down	2011:1
+stock_CME r_up	--:2
+stock_CME r_down	1,400:1 $:1
+stock_CME r_up	's:2 $:1 583:1
+stock_CME r_up	0.1:1
+stock_CME r_down	rise:1 call:1 bullish:1 analysts’:1
+stock_CME r_up	2011:1
+stock_CME r_up	paces:1 lower:1 losses:1 end:1
+stock_CME r_down	85:1
+stock_CME r_up	n't:2 's:2
+stock_CME r_down	moves:1 open:1 foreigners:1 futures:1
+stock_CME r_down	slide:1 show:1
+stock_CME r_down	watch:1 surprises:1 advisories:1 's:2
+stock_CME r_up	gaining:1 after:1 losses:1 fight:1 biggest:1 stocks:1 miss:1 declining:1
+stock_CME r_up	's:2
+stock_CME r_up	10:1 ``:1 's:2 $:1 '':1 vs.:1
+stock_CME r_up	end:1 lower:1 's:1 disappoints:1
+stock_CME r_down	week:1 's:1 up:1 start:1 edge:1 stocks:1
+stock_CME r_down	week:1 forget:1 merger:1 won’t:1 lifts:1 hopes:1 targets:1
+stock_CME r_up	lower:1 end:1 gains:1 give:1 back:1 merge:1 exchanges:1
+stock_CME r_up	's:2 $:1
+stock_CME r_up	surprises:1 advisories:1
+stock_CME r_up	worries:1 persist:1 's:1 fall:1
+stock_CME r_down	's:2
+stock_CME r_down	's:1 $:2
+stock_CME r_up	n't:1
+stock_CME r_down	9:1 $:1
+stock_CME r_down	$:1
+stock_CME r_down	's:1
+stock_CME r_up	39:1 $:1
+stock_CME r_down	make:1 move:1 its:1
+stock_CME r_up	'':1 ``:1 's:2
+stock_CME r_up	'm:1 's:1 $:1
+stock_CME r_down	's:1
+stock_CME r_down	n't:1
+stock_CME r_down	into:1 're:1 's:1
+stock_CME r_down	's:1
+stock_CME r_up	30:1 $:1
+stock_CME r_up	vs.:1
+stock_CME r_down	's:1
+stock_CME r_up	's:1
+stock_CME r_down	77:1 's:2
+stock_CME r_down	its:1
+stock_CME r_down	surprises:1 advisories:1 watch:1 its:1 90:4
+stock_CME r_down	badly:1 fever:1 end:1 may:1 break:2 mania:1 abrupt:1 's:2 come:1
+stock_CME r_down	1.7:5 's:2 8.2:2 futures:1 commodities:1 other:1 7.6:1 4:1 slip:1 12:1
+stock_CME r_down	$:1 40:1
+stock_CME r_down	ends:1 selling:1 hit:1 $:1 gold:1 rise:1 below:1 110:1 report:1 's:1 inventories:1
+stock_CME r_up	n't:1
+stock_CME r_up	750:1 $:1
+stock_CME r_up	lifted:1 $:1 deal:1 futures:1 103:1 stock:1
+stock_CME r_down	commodities:1 drop:1 stocks:1 's:1 sink:1
+stock_CME r_up	ends:1 oil:1 trump:1 gasoline:1 $:1 falls:1 halted:1 below:1 sinks:1 trading:1 nearly:1 8:1 100:1 data:1 higher:1
+stock_CME r_down	oil:1 's:1 gold:1 stake:1 silver:1 hikes:1 threaten:1 your:1
+stock_CME r_down	30:1
+stock_CME r_up	's:1
+stock_CME r_down	disappointing:1 data:1 after:1 economic:1 falls:1
+stock_CME r_down	scheme:1 oil:1 says:1
+stock_CME r_down	2008:1
+stock_CME r_down	value:1 above:1 stocks:1 intrinsic:1 called:1 out:1
+stock_CME r_down	off:1 season:1 hurricane:1 kicks:1 misery:1 cards:1
+stock_CME r_up	0.8:2 20:4
+stock_CME r_down	its:1
+stock_CME r_up	's:1
+stock_CME r_down	claims:1 niche:1 trading:1 gold:1 form:1
+stock_CME r_down	24:2 22:4
+stock_CME r_up	week:1 end:1 down:1 financial:1 stocks:1 day:1
+stock_CME r_up	systemic:1 clearinghouses:1 cleared:1 identify:1
+stock_CME r_down	rival:1 's:1 gold:1 worthy:1
+stock_CME r_down	saga:1 close:1 lower:1 stocks:1 debt:1
+stock_CME r_up	8.5:2
+stock_CME r_up	vote:1 rival:1 debt:1 plan:1 bills:1
+stock_CME r_down	17:1
+stock_CME r_up	finally:1 's:1 shares:1
+stock_CME r_down	's:1
+stock_CME r_down	has:1 lag:1 tax:1 stocks:1 concerns:1 highest:1 analyst:1 exposure:1
+stock_CME r_down	's:1
+stock_CME r_down	's:1
+stock_CME r_up	's:1
+stock_CME r_up	1,800:1 's:1 $:1 5.6:1
+stock_CME r_down	27:1 5.6:1
+stock_CME r_up	nervousness:1 closes:1 returns:1 higher:1
+stock_CME r_up	expected:1 open:1 's:1 mayor:1 exchanges:1
+stock_CME r_down	46:1
+stock_CME r_up	2:1 $:1
+stock_CME r_up	20:2
+stock_CME r_down	lower:1 after:1 's:3 futures:1 stay:1 12:1 '08:2 income:1 data:1 500:1 stock:1
+stock_CME r_up	'll:1 its:1 '12:1
+stock_CME r_up	18:1
+stock_CME r_down	3:1
+stock_CME r_down	12:1
+stock_CME r_up	's:1
+stock_CME r_down	drops:1 $:1 22:1 monthly:2 18:1 over:1 6:1 29:2 but:1 down:1 drag:1 gain:2 broader:1 scores:1 tally:1 stocks:1 market:1 futures:1
+stock_CME r_up	ends:1 8.5:1 21:1 lower:1 jitters:1 's:2
+stock_CME r_up	's:1
+stock_CME r_up	50:1
+stock_CME r_up	's:1
+stock_CME r_down	rise:1 stocks:1 market:1 broader:1
+stock_CME r_down	's:1
+stock_CME r_down	dive:1 stocks:1 bank:1 warnings:1
+stock_CME r_up	2012:1
+stock_CME r_down	's:1
+stock_CME r_down	customer:1 's:1 may:1 loan:1 have:1 known:1
+stock_CME r_up	's:1 missing:1 funds:1 accusation:1 2011:1 rebuts:1
+stock_CME r_up	$:2 50,000:2
+stock_CME r_down	$:2 50,000:2
+stock_CME r_down	weigh:1 stocks:1 market:1 broader:1
+stock_CME r_up	early:1 close:1 after:1 weakness:1 higher:1
+stock_CME r_down	n't:1
+stock_CME r_up	's:3
+stock_CME r_up	biggest:1 gaining:1 stocks:1 declining:1
+stock_CME r_up	2012:1
+stock_CME r_up	1.2:1
+stock_CME r_down	100:1 $:1
+stock_CME r_up	vs.:1
+stock_CME r_down	's:1
+stock_CME r_up	's:1 7:1
+stock_CME r_down	n't:1
+stock_CME r_down	0.1:1
+stock_CME r_down	's:2
+stock_CME r_up	's:1

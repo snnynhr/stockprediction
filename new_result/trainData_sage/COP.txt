@@ -1,0 +1,307 @@
+stock_COP r_down	portfolio:1 punctuate:1 stocks:1 diversified:1
+stock_COP r_down	1:2 09:2 72:2
+stock_COP r_up	giants:1 push:1 oil:1 courts:1
+stock_COP r_down	confidence:1 's:1 slack:1 shares:1 data:1 weaken:1
+stock_COP r_down	3:1 822:1
+stock_COP r_up	2.9:1 3.8:1
+stock_COP r_up	's:1
+stock_COP r_up	roar:1 n't:1 life:1 stocks:1 back:1
+stock_COP r_up	10:1 eye:1 $:5 energy:1 up:1 shares:1 s:1 's:2 stocks:1
+stock_COP r_up	's:1 jobless:1 back:1 2.8:1 claims:1 gains:1
+stock_COP r_down	stocks:1 's:3 take:1 rises:1 breather:1
+stock_COP r_up	official:1 confirms:1 deal:1
+stock_COP r_down	's:1
+stock_COP r_up	's:1
+stock_COP r_up	1:1 2011:1 '11:1
+stock_COP r_up	's:1
+stock_COP r_down	's:1
+stock_COP r_up	5-:1 focus:1
+stock_COP r_down	flat:1 hikes:1 's:1 sharply:1 supply:1 profit:1 surprises:1 bearish:1 falls:1 n't:1 advisories:1 fortunes:1 production:1 71:4 fall:1 9:1 output:1 stocks:1 data:1 seeks:1 raise:1
+stock_COP r_up	1:1 's:1
+stock_COP r_down	profit:1 production:1 slide:1 fights:1 more:1
+stock_COP r_up	's:2 under:1
+stock_COP r_up	n't:1 225:1 $:1
+stock_COP r_up	2.9:1
+stock_COP r_down	's:1 2010:1
+stock_COP r_up	's:1 2010:1
+stock_COP r_up	1.28:1 's:2
+stock_COP r_down	raised:1 upgrade:1 's:1 16:1 rebound:1 back:1 refinery:1 crude:1 rally:1 stocks:1 delays:1 stakes:1
+stock_COP r_down	's:1 up:1
+stock_COP r_down	77:1 's:1 2010:1 $:1
+stock_COP r_up	fades:1 turn:1 oil:1 refining:1 production:1
+stock_COP r_up	surprises:1 advisories:1 's:1
+stock_COP r_down	crude:1 stocks:1 hard:1 skid:1 drops:1
+stock_COP r_down	billion:1 10:2 's:2 $:3 1.5:1 capital:1 11.2:2 spend:1 cuts:1 2010:2 '10:1
+stock_COP r_down	9:1 's:1 $:2 '10:1
+stock_COP r_down	's:1
+stock_COP r_up	conference:1 investors:1 means:1
+stock_COP r_down	's:1 41:1
+stock_COP r_up	's:1 $:2 12/2:1 2:1 9:1 2010:1 '10:1
+stock_COP r_up	's:1 $:1 70:1
+stock_COP r_up	4.1:1 's:4 $:1
+stock_COP r_up	billion:1 sector:1 eyes:1 buy:1 's:2 $:3 deal:1 after:1 41:1 deals:1 70:1 more:1
+stock_COP r_down	's:3
+stock_COP r_down	+11:1 2010:1
+stock_COP r_up	's:1
+stock_COP r_up	's:1
+stock_COP r_down	oil:1 's:2 supply:1 rise:1 lifts:1 prices:1 stocks:1 data:1 2010:1
+stock_COP r_down	advance:1 oil:1 stronger:1 gas:1 prices:1 stocks:1 2010:1
+stock_COP r_up	's:1
+stock_COP r_up	rebound:1 slim:1 gain:1 crude:1 post:1 stocks:1
+stock_COP r_up	$:1 4:1
+stock_COP r_up	6-15:1
+stock_COP r_up	6-15:1
+stock_COP r_down	's:1 $:1
+stock_COP r_up	'':1 ``:1 $:1 80:1
+stock_COP r_up	24:1
+stock_COP r_up	2010:1 3:1 $:2 400:1
+stock_COP r_up	38:1 42:1 265:1 2nd:1
+stock_COP r_down	sell-off:1 stocks:1 join:1 market:1
+stock_COP r_up	losses:1 stocks:1 back:1 bounce:1 grueling:1
+stock_COP r_down	surprises:1 advisories:1 $:1 40:1
+stock_COP r_down	comment:1 ``:1 3:1 profit:2 dips:2 after:1 posts:1 returns:1 spotlight:1 '':1 remain:1 production:1 focus:1 stocks:1 2010:1 red:1
+stock_COP r_down	surprises:1 advisories:1 's:1 $:1
+stock_COP r_up	23:1
+stock_COP r_up	's:2
+stock_COP r_down	4th:1
+stock_COP r_down	's:1
+stock_COP r_down	's:1
+stock_COP r_up	access:1 win:1 oil:1
+stock_COP r_down	's:1
+stock_COP r_up	n't:1
+stock_COP r_down	focus:1
+stock_COP r_up	2009:1 141:1
+stock_COP r_up	60:2 2020:2 2nd:1
+stock_COP r_down	'':1 ``:1
+stock_COP r_up	's:1
+stock_COP r_down	12:1 's:2 2018:1 $:2
+stock_COP r_down	lead:1 service:1 into:1 shares:1 stocks:1 energy:1 red:1
+stock_COP r_down	's:1 $:1
+stock_COP r_up	10:2 buy:1 sinks:1 futures:1 halve:1 durable:1 stake:1 focus:1 data:1 advisories:1 goods:1 surprises:1 drop:1 euro:1 durables:1 after:1 stock:1
+stock_COP r_down	emerge:1 emerging:1 stocks:1 $:1 23:1 wo:1 2011:1 move:1 n't:1 oil:1 weakens:1 2009:1 markets:1 down:1 2012:1
+stock_COP r_down	's:5 $:2 solid:1 after:1 up:1 edge:1 '09:2 stocks:1 gains:1
+stock_COP r_down	's:1
+stock_COP r_up	1.4:1 billion:1 $:5 '09:1 loses:1 1:1 raises:1 ground:1
+stock_COP r_up	billion:1 stake:1 's:1 $:3 rise:1 up:1 deals:1 sells:1 stocks:1 '11:1
+stock_COP r_down	sector:1 lower:1 upgrade:1 draws:1 declines:1 energy:1 fall:1 group:1 stocks:1 2010:1
+stock_COP r_up	's:1 $:1
+stock_COP r_up	2.7:1 $:1
+stock_COP r_down	billion:1 buy:1 $:1 deal:1 4:1 moves:1
+stock_COP r_up	2009:2 $:1 21:1
+stock_COP r_down	supplies:1 stocks:1 rising:1 oil:1 weaken:1
+stock_COP r_up	surprises:1 advisories:1 's:1
+stock_COP r_up	doubles:1 looms:1 $:1 sit:1 surprises:1 spill:1 focus:1 1:1 more:1 advisories:1 income:1 rally:1 net:1 stocks:1 than:1 out:1
+stock_COP r_up	'':1 ``:1
+stock_COP r_down	10:1 $:1 70:1
+stock_COP r_down	14:1
+stock_COP r_up	2:1 20:1
+stock_COP r_down	's:1
+stock_COP r_down	's:2 7:1
+stock_COP r_up	4:2 2013:1 2012:1
+stock_COP r_down	4:1
+stock_COP r_down	units:1 2012:1
+stock_COP r_up	's:1
+stock_COP r_down	2:1 4:1 $:1
+stock_COP r_down	$:1
+stock_COP r_up	'09:1 '10:1
+stock_COP r_up	events:1 14-18:1
+stock_COP r_down	growing:1 's:2
+stock_COP r_up	spill:1 broad:1 move:1 up:1 strategy:1 lays:1 stocks:1 market:1 out:1
+stock_COP r_up	2:1 's:1
+stock_COP r_up	n't:1 63:1 20:1 $:2
+stock_COP r_up	's:1
+stock_COP r_down	's:1
+stock_COP r_down	's:1 $:1 2010:1
+stock_COP r_down	profit:1 slipping:1 economy:1
+stock_COP r_down	30:2
+stock_COP r_down	's:2 -2:1
+stock_COP r_down	's:1
+stock_COP r_down	10,000:1
+stock_COP r_down	$:1 -2:1
+stock_COP r_up	2:1 7/6:1
+stock_COP r_up	7:1
+stock_COP r_up	's:1
+stock_COP r_up	giants:1 $:1 launch:1 data:1 without:1 earnings:1 rally:1 effort:1 latest:1
+stock_COP r_up	swept:1 get:1 broad:1 up:1 rally:1 stocks:1
+stock_COP r_up	$:1 9.9:1
+stock_COP r_up	all:1 into:1 move:1 down:1 7.6:1 further:1 surprises:1 durable:1 advisories:1 poised:1 red:1 selling:1 's:2 after:1 watch:1 post:1 stocks:1 fatter:1 goods:1 futures:1 up:1 profits:1
+stock_COP r_up	slump:1 worries:1 economic:1 growth:1 91:2 stocks:1
+stock_COP r_up	91:1 thriving:1 beyond:1
+stock_COP r_up	k:1 401:2
+stock_COP r_down	oil:1 end:1 may:1 k:1 official:1 soon:1 drilling:1 401:1 ban:1
+stock_COP r_down	$:1 600,000:1
+stock_COP r_down	seen:1 says:1 wake:1 expert:1 spill:1
+stock_COP r_down	15:1 29:1
+stock_COP r_up	10:1
+stock_COP r_down	n't:1 's:1 16:2
+stock_COP r_down	1.2:1 's:1 $:2 500:1
+stock_COP r_up	20:2 $:2
+stock_COP r_up	're:1
+stock_COP r_up	's:1
+stock_COP r_up	10:1
+stock_COP r_up	76:1 $:1
+stock_COP r_down	broad:1 stocks:1 sag:1 $:4 market:1
+stock_COP r_up	150,000:1 's:1
+stock_COP r_down	...:1 's:1
+stock_COP r_up	's:1 2011:1
+stock_COP r_down	new:1 draw:1 praise:1 execs:1
+stock_COP r_down	services:1 ban:1 rise:1 end:1 drilling:1
+stock_COP r_up	's:1
+stock_COP r_down	's:2
+stock_COP r_up	's:1
+stock_COP r_down	's:1
+stock_COP r_up	's:1
+stock_COP r_down	$:2 4:1
+stock_COP r_up	digits:1 double:1 grow:1 profits:1
+stock_COP r_down	26th:1 ``:1 focus:1 '':1 2:2 '11:1
+stock_COP r_down	equities:1 lower:1 moves:1 's:1 55:1 surprises:1 over:1 drop:1 sag:1 falls:1 profit:1 advisories:1 doubles:1 under:1 end:1 stocks:1 production:1 concern:1
+stock_COP r_down	selloff:1 's:1 overdone:1 calls:1
+stock_COP r_up	prices:1 gas:1 cut:1 natural:1 low:1
+stock_COP r_up	$:3 1.2:1
+stock_COP r_down	's:3
+stock_COP r_up	's:1
+stock_COP r_down	's:1 $:2
+stock_COP r_up	flaring:2 2:1 reports:2
+stock_COP r_down	2:1 $:1
+stock_COP r_down	's:1 2010:1
+stock_COP r_down	12:1 's:2 woes:1 end:1 mixed:1 weigh:1 stocks:2 dip:1
+stock_COP r_up	coal:1 oil:1 heats:1 sectors:1 warming:1
+stock_COP r_up	30:1
+stock_COP r_down	money-making:1 2011:1 investment:1 ideas:1
+stock_COP r_up	2010:1
+stock_COP r_up	top:1 stocks:1 modest:1 market:1 gains:1
+stock_COP r_up	2011:1 dominate:1 's:1 sectors:1
+stock_COP r_down	2011:1
+stock_COP r_up	's:1
+stock_COP r_down	pipeline:1 shutdown:1 shares:1 fall:1
+stock_COP r_down	high:1 settle:1 futures:1 two-year:1
+stock_COP r_up	lower:1 settles:1 dollar:1 cushioned:1
+stock_COP r_down	's:5 2nd:1
+stock_COP r_down	helped:1 fuel:1 $:1 40:1 boom:1
+stock_COP r_up	2:1
+stock_COP r_down	8.3:1 2010:1 21:1
+stock_COP r_up	's:1 surprises:1 into:1 watch:1 focus:1 back:1 60:3 advisories:1 red:1 fall:1 post:1 stocks:1 profits:1 higher:1
+stock_COP r_up	sector:1 gains:1 lead:1 surprises:1 energy:1 after:1 advisories:1 flatten:1 fall:1 stocks:1
+stock_COP r_up	100:1 $:2 year:1
+stock_COP r_up	's:2
+stock_COP r_up	surprises:1 advisories:1 $:1
+stock_COP r_up	oil:1 $:1 price:1 drop:1 up:1 shares:1 rally:1 refiners:1
+stock_COP r_up	n't:2 prices:1 weaker:1 oil:1 upgrades:1
+stock_COP r_up	's:1
+stock_COP r_up	majors:1 broad:1 caught:1 uncertainty:1 selloff:1 jump:1 fall:1 despite:1 stocks:1
+stock_COP r_down	1:2 's:2 $:2
+stock_COP r_up	oil:1 $:1 players:1 effects:1 weigh:1 100:1
+stock_COP r_up	heat:1 stocks:1 up:1
+stock_COP r_down	down:1 last:1 leg:1
+stock_COP r_down	stocks:1 's:1 sanctions:1 fall:1
+stock_COP r_down	pins:1 down:1 crude:1 zone:1
+stock_COP r_up	sector:1 deal:1 gains:1 shale:1
+stock_COP r_up	buybacks:1 's:1 rise:1 gasoline:1 cash:1 shares:1 flows:1 capital:1 supplies:1 dip:1 projects:1
+stock_COP r_up	$:1 rise:1 near:1 crude:1 stocks:1 106:1
+stock_COP r_down	's:1
+stock_COP r_down	25:1 $:1 2.5:1
+stock_COP r_up	week:1 oil:1 end:1 big:1 up:1 shares:1 stocks:1
+stock_COP r_down	n't:1
+stock_COP r_up	'':2 ``:2 's:1
+stock_COP r_up	's:1
+stock_COP r_down	week:1 oil:1 off:1 $:1 profit:1 big:1 rise:1 earnings:1 100:1 stocks:1 cool:1
+stock_COP r_down	's:1 profit:1 dividends:1 energy:1 watch:2 up:1 but:1 falls:1 lift:1 sharply:1 output:1 stocks:1 boost:1 44:5
+stock_COP r_down	short:1 bonds:1 surprises:1 commodities:1 advisories:1 output:1 dings:1 stocks:1 dip:1
+stock_COP r_up	shrug:1 criticism:1 off:1 profit:1 swell:1 36:4 shares:1 up:1 edge:1 's:1 stocks:1 dips:1 profits:1
+stock_COP r_down	sector:1 among:1 energy:1 stocks:1 sapping:1
+stock_COP r_down	paying:1 $:1 spill:1 million:1 85:1 more:1
+stock_COP r_up	oil:1 over:1 tax:1 up:1 ramps:1 breaks:1
+stock_COP r_down	grilled:1 get:1
+stock_COP r_down	could:1 refineries:1 hurt:1 refinery:1 levees:1 raises:1 flooding:1
+stock_COP r_up	's:1 $:4 energy:1 gas:1 35:2 stock:1 stocks:1 retreat:1 halt:1
+stock_COP r_up	oil:1 sheds:1 $:4 top:1 lobbyist:1 35:3 industry’s:1 roots:1
+stock_COP r_up	500:2
+stock_COP r_up	1:1 $:1 500:1
+stock_COP r_down	3.5:1 's:1 $:1
+stock_COP r_up	's:5 energy:1 stocks:1 boost:1
+stock_COP r_down	12000:1
+stock_COP r_up	18-19:1 casts:1 energy:1 fall:1 shadow:1 stocks:1
+stock_COP r_down	2011’s:1 far:1 money:1 top:1 ideas:1 fared:1 so:1 have:1
+stock_COP r_up	sizzle:1 energy:1 stocks:1 up:1
+stock_COP r_up	's:1
+stock_COP r_up	shine:1 funds:1 continue:1 bond:1
+stock_COP r_down	3:1
+stock_COP r_up	draw:1 move:1 sparks:1 energy:1 after:1 but:1 2:2 fizzle:1 spinoff:1 stocks:1 talk:1
+stock_COP r_up	premium:1 gains:1 investors:1 may:1 energy:1 drop:1 shale:1 deals:1 reassess:1 buyout:1 hasten:1 feeds:1 stock:1
+stock_COP r_down	n't:1
+stock_COP r_up	majors:1 seen:1 posting:1 profits:1 higher:1
+stock_COP r_down	down:1 pull:1 energy:1 stocks:1 's:1
+stock_COP r_down	tap:1 $:2 profit:1 18:6 energy:1 drop:1 watch:1 up:1 per:1 15:1 steps:1 earnings:1 14:1 's:3 barrel:1 stocks:1 2012:1
+stock_COP r_down	20:1 $:3 surprises:1 41:3 advisories:1 18:1 's:1
+stock_COP r_down	30:2 43:1 3rd:2 41:1
+stock_COP r_down	2011:1 's:1
+stock_COP r_down	access:1 gas:1 shale:1 widens:1
+stock_COP r_down	's:1
+stock_COP r_down	prospects:1 cautious:1 gains:1 energy:1 back:1 stocks:1 fall:1 firms:1 hold:1 $:1
+stock_COP r_up	30:1
+stock_COP r_up	51:2
+stock_COP r_up	week:1 ends:2 's:1 get:1 boost:1 hurricane:1 up:1 products:1 slightly:1 3.8:1 higher:2
+stock_COP r_up	's:1 spending:1 rallies:1 demand:1 hopes:1 spurs:1
+stock_COP r_up	's:1
+stock_COP r_down	86:1 $:1
+stock_COP r_up	ailing:1 quits:1 industry:1 refining:1 2012:1
+stock_COP r_up	ride:1 stocks:1 energy:1 reversal:1 up:1
+stock_COP r_down	generation:1 next:1
+stock_COP r_down	n't:1
+stock_COP r_down	n't:1
+stock_COP r_down	fall:1 energy:1 stocks:1 names:1 leaders:1
+stock_COP r_up	$:1
+stock_COP r_up	10:1 $:2 've:1
+stock_COP r_up	's:1
+stock_COP r_down	's:1
+stock_COP r_up	's:1
+stock_COP r_up	's:1
+stock_COP r_down	's:1
+stock_COP r_up	's:2 16:2 focus:1 reports:1 other:1 earnings:1 15:2 2012:2
+stock_COP r_up	energy:1 stocks:1 up:1 rise:1 14:1
+stock_COP r_down	oil:1 's:2 profit:1 rise:1 prices:1 doubles:1
+stock_COP r_down	3:1
+stock_COP r_down	's:1
+stock_COP r_up	2:1
+stock_COP r_up	66:1
+stock_COP r_up	100:1 's:1 $:1 vs.:1
+stock_COP r_down	weighs:1 pipeline:1 oil:1 's:1 $:1 energy:1 toward:1 2:1 slip:1 stocks:1 reverses:1
+stock_COP r_down	pipeline:1 competitors:1 delay:1 lower:1 drag:1 stocks:1 markets:1 spurs:1
+stock_COP r_down	11:1
+stock_COP r_down	's:1 up:1
+stock_COP r_down	$:1 7:1
+stock_COP r_up	'':1 ``:1
+stock_COP r_up	's:1 vs.:1
+stock_COP r_up	's:1
+stock_COP r_down	25:1 exports:1 15:1 $:1 350,000:2 gas:1 door:1 opens:1
+stock_COP r_down	15:1 's:2 $:2 25:1
+stock_COP r_down	slips:1 markets:1 's:1 mostly:1 higher:1
+stock_COP r_down	's:1
+stock_COP r_down	swoon:1 weighs:1 energy:1 stocks:1
+stock_COP r_up	's:1
+stock_COP r_up	gaining:1 $:2 330:1 biggest:1 stocks:1 declining:1
+stock_COP r_up	sector:1 tops:1 energy:1 's:1 gains:1
+stock_COP r_down	gets:1 award:1
+stock_COP r_down	's:1
+stock_COP r_up	energy:1 holds:1 gains:1 stocks:1 rise:1
+stock_COP r_up	108:1
+stock_COP r_down	50/50:1 's:2 40:1
+stock_COP r_up	2012:1
+stock_COP r_down	's:2 profit:1 energy:1 rise:1 watch:1 up:1 but:1 refining:1 weigh:1 stocks:1 dip:1
+stock_COP r_down	ends:1 gains:1 decision:1 but:1 below:1 100:1 $:1
+stock_COP r_down	ends:1 since:1 gasoline:1 lower:1 cuts:1 prices:1 output:1 grow:1 best:1 languish:1
+stock_COP r_down	lose:1 energy:1 stocks:1 ground:1 falls:1
+stock_COP r_up	feels:1 refineries:1 its:1 weight:1
+stock_COP r_up	's:1
+stock_COP r_up	strategy:1 winning:1
+stock_COP r_down	1.29:1 $:1
+stock_COP r_up	still:1 right:1 he’s:1 bullish:1
+stock_COP r_up	stocks:1 's:1 split:1
+stock_COP r_down	prices:1 record:1 retail:1 gasoline:1 nearing:1
+stock_COP r_down	prices:1 ...:1 lower:1 pump:1
+stock_COP r_up	'at:1
+stock_COP r_up	market’s:1 energy:2 rise:1 gas:1 bargain:1 up:1 down:1 stocks:1 best:1
+stock_COP r_down	's:1
+stock_COP r_up	advances:1 breaks:1 repeal:1 tax:1 oil:1
+stock_COP r_down	company:1 oil:1 tax:1 target:1 breaks:1
+stock_COP r_down	urges:1 breaks:1 repeal:1 tax:1

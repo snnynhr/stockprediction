@@ -79,7 +79,7 @@ u"\uff5d", u"\uff5f", u"\uff60", u"\uff61", u"\uff62", u"\uff63", u"\uff64", u"\
 
 stopwords = {"a", "about", "an", "are", "as", "at", "be", "by", "com","for", "from", 
 "how", "in", "is", "it", "of", "on", "or", "that", "the", "this","to", "was", 
-"what", "when", "where", "who", "will", "with", "the", "www", "and"}
+"what", "when", "where", "who", "will", "with", "the", "www", "and","'s"}
 
 wordD = dict()
 

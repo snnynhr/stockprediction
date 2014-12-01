@@ -1,0 +1,220 @@
+stock_CVS r_up	amp:1
+stock_CVS r_down	's:1
+stock_CVS r_down	$:1 350,000:1
+stock_CVS r_down	oil:1 sink:1 shares:1 gains:1
+stock_CVS r_up	's:1 $:2
+stock_CVS r_up	2:1
+stock_CVS r_up	2008:1 's:1 $:1 5.2:1
+stock_CVS r_down	$:1
+stock_CVS r_up	's:2 $:2 profit:1 jumps:1 focus:1 83:3
+stock_CVS r_down	gaining:1 's:1 '08:1 biggest:1 stocks:1 declining:1
+stock_CVS r_down	$:1
+stock_CVS r_down	2:1
+stock_CVS r_down	aided:1 's:1 generic:1 up:1 drug:1 sales:1 2:2 quarterly:1 net:1
+stock_CVS r_down	inflationary:1 environment:1 creativity:1 takes:1
+stock_CVS r_down	stocks:1 higher:1 edge:1
+stock_CVS r_up	's:1
+stock_CVS r_up	insiders:1 buy:1 battered:1 stock:1
+stock_CVS r_up	38.60:1 but:1
+stock_CVS r_down	gaining:1 short:1 's:1 sales:1 but:1 beats:1 fall:1 biggest:1 net:1 stocks:1 declining:1 view:1
+stock_CVS r_down	billion:1 2.9:1 acquire:1 $:3
+stock_CVS r_down	sector:1 deal:1 soars:1 sales:2 down:1 slip:1 further:1 decline:1 debts:1 fears:1 earnings:1 stock:1 's:4 views:1 after:2 focus:1 slides:1 drag:1 data:1 futures:1 bad:1 figures:1 spotlight:1
+stock_CVS r_up	gaining:1 down:1 financials:1 end:1 $:1 pressured:1 faltering:1 shares:2 beat:1 bank:1 biggest:1 strengths:1 firm:1 oil:1 's:3 may:1 reflect:1 not:1 stocks:2 declining:1 lower:1 rival:1 larger:1 faces:1
+stock_CVS r_up	week:1 stories:1 top:1 's:1 11-15:1
+stock_CVS r_down	$:1
+stock_CVS r_down	3:1
+stock_CVS r_up	shareholders:1 surprises:1 bid:1 question:1 value:1 advisories:1
+stock_CVS r_up	gaining:1 closer:1 shareholders:1 's:1 look:1 deal:1 give:1 biggest:1 stocks:1 declining:1
+stock_CVS r_down	through:1 going:1 sees:1 deal:1
+stock_CVS r_down	week:1 stories:1 top:1 's:2 1-5:1
+stock_CVS r_down	surges:1 markets:1 broader:1
+stock_CVS r_up	paying:1 real:1 deal:1 estate:1 never:1 up:1 admits:1 debt:1 issue:1 more:1
+stock_CVS r_up	deal:1 wo:1 bids:1 back:1 n't:1 fund:1 other:1 seeks:1
+stock_CVS r_down	n't:1
+stock_CVS r_down	plunge:1 8217:2 8216:1 61:1 s:1 poised:1 stocks:1 starting:1 bankruptcy:1
+stock_CVS r_down	biggest:1 gaining:1 stocks:1 's:3 declining:1
+stock_CVS r_down	's:2 deal:1 offer:1 favors:1 spurns:1 still:1
+stock_CVS r_up	financial:1 battered:1 weigh:1 failures:1 fear:1 stocks:1
+stock_CVS r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_CVS r_down	's:1 remains:1 advances:1 hearing:1 spotlight:1 cool:1
+stock_CVS r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_CVS r_up	sector:1 's:1 rescue:1 passage:1 lift:1 plan:1 hopes:1 retail:1
+stock_CVS r_up	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_CVS r_down	pharmacies:1 hits:1 chill:1
+stock_CVS r_up	yearly:1 outlook:1 $:1 rival:1 bid:1 back:1 falls:1 earnings:1 drops:1
+stock_CVS r_up	gaining:1 's:1 focus:1 biggest:1 stocks:1 declining:1
+stock_CVS r_up	closer:1 finish:1 edges:1 line:1 deal:1
+stock_CVS r_up	's:1
+stock_CVS r_down	index:1 after:1 near-record:1 scraping:1 surges:1 lows:1 9:1
+stock_CVS r_up	give:1 some:1 shares:1 relief:1 retail:1 data:1
+stock_CVS r_up	's:1 surprises:1 focus:1 6.7:1 advisories:1 data:1 spotlight:1
+stock_CVS r_up	gaining:1 sending:1 's:1 profit:1 up:1 shares:1 6:1 biggest:1 stocks:1 declining:1 higher:1
+stock_CVS r_up	gaining:1 's:1 focus:1 biggest:1 stocks:1 declining:1
+stock_CVS r_up	transformer:1 's:1 $:2 chief:1 scripts:1 blockbuster:1
+stock_CVS r_up	2008:1
+stock_CVS r_down	8217:2 8216:1
+stock_CVS r_up	wider:1 loss:1 forecast:1 reports:1 cuts:1
+stock_CVS r_down	's:1
+stock_CVS r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
+stock_CVS r_down	down:1 part:1 slims:1 turnaround:1 plan:1
+stock_CVS r_down	gaining:1 outlook:1 losing:1 mild:1 hit:1 recovery:1 surprises:1 shares:1 advisories:1 earnings:1 biggest:1 's:1 week:1 finish:1 jobs:1 'disaster:1 sharply:1 report:1 stocks:2 after:1 lower:1 12:1 up:1 1,000:1 sets:1 2009:2
+stock_CVS r_down	's:1 companies:1 outlooks:1 earnings:1 slashed:1 economy:1 more:1
+stock_CVS r_up	11:1 2009:1
+stock_CVS r_down	2.25:1 focus:1 $:1
+stock_CVS r_up	gaining:1 's:2 17:3 surprises:1 focus:1 advisories:1 biggest:1 stocks:1 declining:1
+stock_CVS r_down	strength:1 17:1 business:1 profit:1 up:1 n't:1 retail:1
+stock_CVS r_up	'':1 amp:1 ``:1
+stock_CVS r_down	up:1
+stock_CVS r_down	90:1
+stock_CVS r_up	90:2 downgrades:1 hold:1 unionization:1 concern:1
+stock_CVS r_down	loss:1 wider-than-expected:1 posts:1
+stock_CVS r_down	s:1 8217:1
+stock_CVS r_up	's:1 lead:1 rise:1 lags:1 health:1 care:1
+stock_CVS r_down	focus:1 5.7:1
+stock_CVS r_down	decline:1 outlook:1 slight:1 profit:1 posts:1 raised:1 focus:1
+stock_CVS r_up	differ:1 zigzags:1 sales:1 previews:1
+stock_CVS r_down	's:1
+stock_CVS r_down	$:1
+stock_CVS r_down	$:1
+stock_CVS r_up	's:1
+stock_CVS r_up	's:1
+stock_CVS r_up	rise:1 outlooks:1 key:1 stocks:1 earnings:1
+stock_CVS r_up	's:2
+stock_CVS r_down	paying:1 purchase:1 finally:1 off:1 stock:1
+stock_CVS r_up	18:1
+stock_CVS r_up	18:1
+stock_CVS r_down	2009:1
+stock_CVS r_down	15:3 incomes:1 personal:1 drop:1 focus:1 '09:1 fall:1 stocks:1
+stock_CVS r_up	profit:1 posts:1 forecast:1 '09:1 higher:1 raises:1
+stock_CVS r_down	28:1
+stock_CVS r_down	firm:1 60:1 going:1 value-stock:1 strong:1
+stock_CVS r_up	sell:1 buy:1 stocks:1 flu:1
+stock_CVS r_down	says:1 debt:1 rising:1 sales:1 month:1
+stock_CVS r_up	2015:1 's:2 $:1 350:1
+stock_CVS r_down	13:1 '09:1 2010:1
+stock_CVS r_up	focus:1
+stock_CVS r_down	gaining:1 39:3 plunge:1 's:1 pharma:1 losses:1 shares:1 contract:1 biggest:1 stocks:1 2010:1 declining:1
+stock_CVS r_up	5:1 10000:1 's:1
+stock_CVS r_down	$:2
+stock_CVS r_down	's:1
+stock_CVS r_up	$:1
+stock_CVS r_up	's:1
+stock_CVS r_up	3:1
+stock_CVS r_up	1.5:1 's:1 $:1
+stock_CVS r_down	15:1 lackluster:1 after:1 sales:1 slip:1 report:1 stocks:1
+stock_CVS r_up	10000:2 sputters:1 point:1 focus:1 jump:1 rally:1 stocks:1 profit:2 surprises:1 shares:1 advisories:1 biggest:1 meeting:1 higher:1 gaining:1 's:1 jumps:1 after:1 report:1 rises:1 declining:1 10:6 futures:1 stock:1
+stock_CVS r_up	sends:1 average:1 drop:1 10,000:1 below:1 stock:1
+stock_CVS r_up	billion:1 buy:1 's:1 $:1 1.08:1 rise:1 buys:1 stocks:1
+stock_CVS r_up	's:1
+stock_CVS r_down	's:1
+stock_CVS r_down	'09:1 $:1
+stock_CVS r_down	's:1
+stock_CVS r_up	food:1 summer:1 portfolios:1 leisure:1 picks:1
+stock_CVS r_down	4.5:3 outlook:1 profit:1 surprises:1 up:1 focus:1 advisories:1 4:1 2011:1
+stock_CVS r_down	24:1 pull:1 gains:1 back:1 further:1 stocks:1
+stock_CVS r_up	2011:1
+stock_CVS r_up	1:1 2011:1 $:2
+stock_CVS r_down	5.7:1
+stock_CVS r_down	2011:1
+stock_CVS r_down	3:1
+stock_CVS r_up	gaining:1 's:1 takes:1 aim:1 biggest:1 stocks:1 declining:1
+stock_CVS r_down	16:1
+stock_CVS r_up	's:1
+stock_CVS r_up	focus:1
+stock_CVS r_down	$:1
+stock_CVS r_up	sector:1 cut:1 end:1 gold:1 higher:1 make:1 up:1 focus:1 edge:1 brightens:1 mixed:1 stocks:1 spat:1 view:1
+stock_CVS r_down	11:3 's:1
+stock_CVS r_up	profit:1 costs:1 's:1 slumps:1 higher:1
+stock_CVS r_down	's:1
+stock_CVS r_down	2:2 's:1
+stock_CVS r_up	retail:1 sales:1 focus:1
+stock_CVS r_up	goods:1 's:3 revenue:1 surprises:1 durable:1 42:1 focus:1 advisories:1 disappointment:1 drops:1
+stock_CVS r_down	$:1
+stock_CVS r_up	's:1
+stock_CVS r_up	n't:1
+stock_CVS r_up	7.8:1 's:1
+stock_CVS r_down	's:1
+stock_CVS r_up	's:2
+stock_CVS r_down	tricks:1 political:1 treats:1
+stock_CVS r_down	2.5:2
+stock_CVS r_down	case:1 $:2 pay:1 million:1 75:2 fine:1
+stock_CVS r_up	75:1 $:1
+stock_CVS r_down	300:1
+stock_CVS r_up	slips:1 21:1 profit:1 decision:1 rise:1 sales:1 but:1 focus:2 election:1 retail:1
+stock_CVS r_up	surprises:1 drop:1 injects:1 fund:1 advisories:1 growth:1 aid:1 stocks:1
+stock_CVS r_down	63:1
+stock_CVS r_up	$:1
+stock_CVS r_up	jump:1 buyout:1 shares:1
+stock_CVS r_up	executive:1 stock:1 shakeup:1 costs:1
+stock_CVS r_down	's:1
+stock_CVS r_up	's:1
+stock_CVS r_down	gaining:1 11:1 gains:1 extend:1 into:1 focus:1 second:1 1.25:1 year:1 biggest:1 stocks:2 2010:1 declining:1 $:2
+stock_CVS r_up	$:1 1.25:1
+stock_CVS r_up	$:1
+stock_CVS r_up	43:1 $:1
+stock_CVS r_down	1:2 's:2 focus:1
+stock_CVS r_up	1.1:1
+stock_CVS r_down	8.1:1 's:2 profit:1 surprises:1 drop:1 watch:1 shares:1 advisories:1 slip:1 2.2:1
+stock_CVS r_down	pace:1 30:1 gains:1 stocks:1 retail:1
+stock_CVS r_down	's:1
+stock_CVS r_up	525:1 $:1
+stock_CVS r_down	n't:1 10:1
+stock_CVS r_up	's:1
+stock_CVS r_down	124:1 2010:1 $:1
+stock_CVS r_down	's:1
+stock_CVS r_down	2010:1
+stock_CVS r_down	$:1
+stock_CVS r_up	369,744:1 $:1
+stock_CVS r_down	369,744:1 $:1
+stock_CVS r_down	watch:1
+stock_CVS r_up	after:1 's:1 jobless:1 surprises:1 futures:1 watch:1 more:1 advisories:1 7.5:6 fall:1 2009:1 data:1 stock:1
+stock_CVS r_up	1:2 $:2
+stock_CVS r_up	's:2
+stock_CVS r_up	run:1 money:1 hazard:1 moral:1 funds:1 says:1
+stock_CVS r_up	biggest:1 gaining:1 stocks:1 declining:1
+stock_CVS r_down	wilt:1 most:1 retailers:1 but:1 soars:1
+stock_CVS r_up	30:1
+stock_CVS r_down	retail:1 hit:1 leads:1 another:1 off:1 decliners:1 stocks:1
+stock_CVS r_down	adviser:1 's:1 proxy:1 clout:1
+stock_CVS r_down	down:1 follow:1 market:1 broader:1
+stock_CVS r_down	uphill:1 battle:1 against:1 face:1
+stock_CVS r_down	$:2
+stock_CVS r_up	then:1 's:2 $:5 29:2 29.1:1 its:1
+stock_CVS r_down	25:1 lifted:1 's:1 $:1 29:2 shares:1 along:1 events:1
+stock_CVS r_down	give:1 breaks:1 offer:1 tax:1 up:1 reforms:1
+stock_CVS r_up	's:1
+stock_CVS r_down	2.7:2
+stock_CVS r_down	's:1 $:2 surprises:1 watch:2 advisories:1 45,000:2
+stock_CVS r_up	's:1
+stock_CVS r_up	$:1
+stock_CVS r_down	ready:1 recession:1 double-dip:1
+stock_CVS r_up	20:1
+stock_CVS r_down	80:1
+stock_CVS r_up	$:1
+stock_CVS r_up	1.3:1
+stock_CVS r_up	5:1
+stock_CVS r_up	buy:1 should:1 's:1 investors:1 stock:1
+stock_CVS r_down	$:1
+stock_CVS r_up	19:1 2.9:1
+stock_CVS r_down	4.3:1
+stock_CVS r_up	cut:1 's:1 futures:1 watch:1 rate:1 7.3:2 cheer:1 stock:1
+stock_CVS r_up	red:1 shares:1 after-hours:1
+stock_CVS r_down	move:1 his:1 buy:1 says:1 next:1
+stock_CVS r_down	clinics:1 jump:1 retail:1 health:1 sharply:1
+stock_CVS r_up	's:1
+stock_CVS r_down	2:1 1.9:1
+stock_CVS r_up	pay:1 medications:1 your:1 less:1
+stock_CVS r_down	2012:1
+stock_CVS r_up	30:3 2012:3
+stock_CVS r_up	4.5:6 surprises:1 advisories:1
+stock_CVS r_up	'12:1
+stock_CVS r_down	500:1
+stock_CVS r_up	start:1 strong:1 's:1 2012:1
+stock_CVS r_up	5:1 $:1
+stock_CVS r_up	outlook:1 rise:1 profit:1 futures:1 watch:2 up:1 edge:1 hopes:1 stock:1
+stock_CVS r_down	n't:1
+stock_CVS r_down	's:1
+stock_CVS r_down	520:1 $:1
+stock_CVS r_down	's:1
+stock_CVS r_up	n't:1
+stock_CVS r_down	's:1 500:1

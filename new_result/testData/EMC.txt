@@ -1,0 +1,307 @@
+EMC	20120402	29.88	29.71	r_down	
+EMC	20120403	29.71	29.85	r_up	
+EMC	20120404	29.85	29.18	r_down	
+EMC	20120405	29.18	28.94	r_down	leads:1 big:1 drop:1 up:1 techs:1
+EMC	20120409	28.94	28.64	r_down	
+EMC	20120410	28.64	28.25	r_down	
+EMC	20120411	28.25	28.6	r_up	
+EMC	20120412	28.6	29.2	r_up	
+EMC	20120413	29.2	28.87	r_down	's:1
+EMC	20120416	28.87	28.81	r_down	week:1 lead:1
+EMC	20120417	28.81	29.33	r_up	
+EMC	20120418	29.33	29.14	r_down	's:1
+EMC	20120419	29.14	28.1	r_down	watch:1 slide:1 surges:1 tech:1 lead:1
+EMC	20120420	28.1	27.9	r_down	stocks:1 ‘big:1 mostly:1 soars:1 weak:1 109:1 data’:1 tech:1 rises:1
+EMC	20120423	27.9	27.66	r_down	
+EMC	20120424	27.66	27.5	r_down	
+EMC	20120425	27.5	28.17	r_up	
+EMC	20120426	28.17	28.49	r_up	
+EMC	20120427	28.49	28.32	r_down	
+EMC	20120430	28.32	28.21	r_down	
+EMC	20120501	28.21	28.67	r_up	
+EMC	20120502	28.67	28.51	r_down	
+EMC	20120503	28.51	28.22	r_down	
+EMC	20120504	28.22	27.8	r_down	
+EMC	20120507	27.8	27.71	r_down	
+EMC	20120508	27.71	27.37	r_down	
+EMC	20120509	27.37	27.47	r_up	
+EMC	20120510	27.47	26.14	r_down	sector:1 forecast:1 down:1 tech:1 rattles:1 pulls:1 corporate:1 market:1
+EMC	20120511	26.14	26.36	r_up	
+EMC	20120514	26.36	26.1	r_down	
+EMC	20120515	26.1	26.11	r_up	
+EMC	20120516	26.11	25.57	r_down	's:1
+EMC	20120517	25.57	25.48	r_down	
+EMC	20120518	25.48	24.94	r_down	
+EMC	20120521	24.94	25.75	r_up	
+EMC	20120522	25.75	25.59	r_down	
+EMC	20120523	25.59	25.46	r_down	's:2 dive:1 shares:1 points:1 analyst:1 effect’:1
+EMC	20120524	25.46	24.23	r_down	's:4 sinks:1 late:1 tech:1 gets:1 boost:1
+EMC	20120525	24.23	24.24	r_up	disappoints:1 hits:1 lows:1 outlook:1
+EMC	20120529	24.24	24.22	r_down	
+EMC	20120530	24.22	24.03	r_down	
+EMC	20120531	24.03	23.85	r_down	sector:1 hot:1 tech:1 rekindles:1
+EMC	20120601	23.85	23.18	r_down	3.4:1 's:1 $:1
+EMC	20120604	23.18	22.85	r_down	
+EMC	20120605	22.85	23.38	r_up	
+EMC	20120606	23.38	24.38	r_up	
+EMC	20120607	24.38	24.58	r_up	
+EMC	20120608	24.58	24.64	r_up	
+EMC	20120611	24.64	24.34	r_down	
+EMC	20120612	24.34	24.55	r_up	
+EMC	20120613	24.55	24.3	r_down	
+EMC	20120614	24.3	23.98	r_down	
+EMC	20120615	23.98	24.7	r_up	
+EMC	20120618	24.7	24.68	r_down	
+EMC	20120619	24.68	25.46	r_up	
+EMC	20120620	25.46	25.35	r_down	
+EMC	20120621	25.35	24.18	r_down	
+EMC	20120622	24.18	24.71	r_up	
+EMC	20120625	24.71	23.81	r_down	
+EMC	20120626	23.81	23.95	r_up	n't:1 but:1
+EMC	20120627	23.95	24.2	r_up	mettle:1 prove:1 its:1 market:1 seeking:1
+EMC	20120628	24.2	23.71	r_down	
+EMC	20120629	23.71	25.63	r_up	
+EMC	20120702	25.63	25.23	r_down	season:1 investors:1 fund:1 stock:1
+EMC	20120703	25.23	25.63	r_up	
+EMC	20120705	25.63	25.24	r_down	
+EMC	20120706	25.24	24.07	r_down	
+EMC	20120709	24.07	23.69	r_down	
+EMC	20120710	23.69	23.56	r_down	
+EMC	20120711	23.56	23.55	r_down	
+EMC	20120712	23.55	23.32	r_down	end:1 up:1 add:1 tech:1 stocks:1 day’s:1
+EMC	20120713	23.32	23.65	r_up	techs:1 favored:1 over:1 broker:1 stay:1 while:1 gain:1 red:1
+EMC	20120716	23.65	23.29	r_down	
+EMC	20120717	23.29	22.92	r_down	decline:1 confirmed:1 uncertainty:1 's:1 heightens:1 surprises:1 after:1 up:2 shares:2 hours:1 seesaw:1 advisories:1 changes:1 stock:1
+EMC	20120718	22.92	25.08	r_up	watch:1
+EMC	20120719	25.08	25.46	r_up	gaining:1 surge:1 deck:1 surprises:1 after:1 results:1 shares:1 trade:1 hours:1 advisories:1 further:1 biggest:1 103:1 stocks:1 declining:1 higher:1
+EMC	20120720	25.46	25.05	r_down	
+EMC	20120723	25.05	24.8	r_down	13:1 $:3 1.26:3
+EMC	20120724	24.8	25.34	r_up	13:1 $:1 lead:1 19:2 watch:1 slump:1 wsj.com:1 1.26:1 tech:1 |:1
+EMC	20120725	25.34	25.16	r_down	surprises:1 advisories:1
+EMC	20120726	25.16	25.76	r_up	
+EMC	20120727	25.76	26.55	r_up	
+EMC	20120730	26.55	26.31	r_down	
+EMC	20120731	26.31	26.21	r_down	
+EMC	20120801	26.21	26.14	r_down	record:1 lows:1 shares:1 fall:1
+EMC	20120802	26.14	26.08	r_down	
+EMC	20120803	26.08	26.8	r_up	
+EMC	20120806	26.8	26.62	r_down	
+EMC	20120807	26.62	26.93	r_up	
+EMC	20120808	26.93	26.8	r_down	
+EMC	20120809	26.8	27.01	r_up	
+EMC	20120810	27.01	26.99	r_down	
+EMC	20120813	26.99	26.74	r_down	
+EMC	20120814	26.74	25.71	r_down	results:1 deliver:1 gun:1 under:1
+EMC	20120815	25.71	25.44	r_down	54:2 plunge:1 slump:1 techs:1
+EMC	20120816	25.44	26.26	r_up	54:4 2:1
+EMC	20120817	26.26	26.85	r_up	surprises:1 advisories:1
+EMC	20120820	26.85	26.58	r_down	
+EMC	20120821	26.58	26.14	r_down	
+EMC	20120822	26.14	26.35	r_up	pain:1 being:1 could:1 it’s:1 told:1 mean:1
+EMC	20120823	26.35	25.98	r_down	
+EMC	20120824	25.98	26.68	r_up	
+EMC	20120827	26.68	26.41	r_down	
+EMC	20120828	26.41	26.43	r_up	slips:1 action:1 rises:1 tech:1
+EMC	20120829	26.43	26.89	r_up	
+EMC	20120830	26.89	26.27	r_down	's:3
+EMC	20120831	26.27	26.29	r_up	
+EMC	20120904	26.29	26.35	r_up	
+EMC	20120905	26.35	26.41	r_up	
+EMC	20120906	26.41	27.51	r_up	15:1
+EMC	20120907	27.51	27.7	r_up	15:1
+EMC	20120910	27.7	27.38	r_down	
+EMC	20120911	27.38	27.32	r_down	
+EMC	20120912	27.32	27.31	r_down	
+EMC	20120913	27.31	27.52	r_up	
+EMC	20120914	27.52	27.86	r_up	$:1
+EMC	20120917	27.86	27.58	r_down	
+EMC	20120918	27.58	27.67	r_up	leads:1 losses:1 but:1 high:1 tech:1 new:1 claims:1
+EMC	20120919	27.67	27.73	r_up	
+EMC	20120920	27.73	27.52	r_down	
+EMC	20120921	27.52	28.02	r_up	
+EMC	20120924	28.02	27.76	r_down	
+EMC	20120925	27.76	27.17	r_down	
+EMC	20120926	27.17	26.75	r_down	
+EMC	20120927	26.75	27.52	r_up	
+EMC	20120928	27.52	27.27	r_down	
+EMC	20121001	27.27	27.26	r_down	
+EMC	20121002	27.26	27.24	r_down	
+EMC	20121003	27.24	27.04	r_down	
+EMC	20121004	27.04	27.19	r_up	
+EMC	20121005	27.19	27.29	r_up	can’t:1 change:1 missed:1 boat:1
+EMC	20121008	27.29	27.13	r_down	
+EMC	20121009	27.13	26.14	r_down	
+EMC	20121010	26.14	25.84	r_down	
+EMC	20121011	25.84	25.68	r_down	
+EMC	20121012	25.68	25.64	r_down	
+EMC	20121015	25.64	25.73	r_up	
+EMC	20121016	25.73	26.31	r_up	
+EMC	20121017	26.31	25.6	r_down	down:1 weigh:1 stocks:1 tech:1 results:1
+EMC	20121018	25.6	25.0	r_down	down:1 sinks:1 techs:1
+EMC	20121019	25.0	24.58	r_down	
+EMC	20121022	24.58	25.04	r_up	
+EMC	20121023	25.04	24.68	r_down	12:1
+EMC	20121024	24.68	24.46	r_down	12:4 soars:1 watch:1 slump:1 leads:1 3.4:2 tech:1 earnings:1
+EMC	20121025	24.46	24.14	r_down	surprises:1 advisories:1
+EMC	20121026	24.14	23.91	r_down	
+EMC	20121031	23.91	24.42	r_up	
+EMC	20121101	24.42	25.21	r_up	
+EMC	20121102	25.21	24.98	r_down	
+EMC	20121105	24.98	24.88	r_down	
+EMC	20121106	24.88	25.33	r_up	
+EMC	20121107	25.33	24.54	r_down	
+EMC	20121108	24.54	24.17	r_down	stocks:1 three:1 tech:1 not:1 weeks:1 now:1
+EMC	20121109	24.17	24.22	r_up	
+EMC	20121112	24.22	24.1	r_down	
+EMC	20121113	24.1	23.91	r_down	
+EMC	20121114	23.91	23.4	r_down	34:1
+EMC	20121115	23.4	23.56	r_up	uncertainty:1 bargain:1 remains:1 surges:1 bounces:1 back:1 but:1 falls:1 jump:1 buy:1 caution:1 shares:1 grand:1 surprise:1 34:1 yet:1 earnings:1
+EMC	20121116	23.56	23.56	r_up	
+EMC	20121119	23.56	24.34	r_up	week:1 strong:1 gains:1 may:1 start:1 analysts:1 stocks:1 look:1
+EMC	20121120	24.34	24.22	r_down	$:1
+EMC	20121121	24.22	24.35	r_up	
+EMC	20121123	24.35	24.81	r_up	
+EMC	20121126	24.81	24.67	r_down	
+EMC	20121127	24.67	24.57	r_down	
+EMC	20121128	24.57	24.86	r_up	
+EMC	20121129	24.86	25.03	r_up	
+EMC	20121130	25.03	24.82	r_down	
+EMC	20121203	24.82	24.76	r_down	
+EMC	20121204	24.76	24.92	r_up	
+EMC	20121205	24.92	25.15	r_up	
+EMC	20121206	25.15	25.18	r_up	
+EMC	20121207	25.18	24.91	r_down	
+EMC	20121210	24.91	25.02	r_up	
+EMC	20121211	25.02	25.32	r_up	
+EMC	20121212	25.32	24.67	r_down	
+EMC	20121213	24.67	24.72	r_up	
+EMC	20121214	24.72	24.72	r_up	
+EMC	20121217	24.72	25.27	r_up	now:1 money:1 true-blue:1 5:1 bull:1 making:1 moves:1
+EMC	20121218	25.27	25.86	r_up	
+EMC	20121219	25.86	25.91	r_up	
+EMC	20121220	25.91	25.91	r_up	
+EMC	20121221	25.91	25.62	r_down	
+EMC	20121224	25.62	25.62	r_up	
+EMC	20121226	25.62	25.33	r_down	
+EMC	20121227	25.33	25.29	r_down	down:1 stocks:1 tech:1 lead:1 2013:1
+EMC	20121228	25.29	24.83	r_down	
+EMC	20121231	24.83	25.3	r_up	
+EMC	20130102	25.3	24.84	r_down	
+EMC	20130103	24.84	24.37	r_down	
+EMC	20130104	24.37	24.33	r_down	
+EMC	20130107	24.33	24.13	r_down	
+EMC	20130108	24.13	23.87	r_down	2013:1
+EMC	20130109	23.87	24.02	r_up	losses:1 tech:1 lead:1 falls:1
+EMC	20130110	24.02	23.85	r_down	
+EMC	20130111	23.85	24.15	r_up	
+EMC	20130114	24.15	24.21	r_up	
+EMC	20130115	24.21	24.32	r_up	weighs:1 tech:1 shares:1 soar:1
+EMC	20130116	24.32	24.08	r_down	
+EMC	20130117	24.08	24.03	r_down	
+EMC	20130118	24.03	24.33	r_up	
+EMC	20130122	24.33	24.28	r_down	
+EMC	20130123	24.28	24.53	r_up	'':1 ``:1
+EMC	20130124	24.53	25.04	r_up	
+EMC	20130125	25.04	25.26	r_up	
+EMC	20130128	25.26	25.2	r_down	
+EMC	20130129	25.2	24.18	r_down	surprises:1 advisories:1
+EMC	20130130	24.18	24.6	r_up	down:1 drive:1 techs:1
+EMC	20130131	24.6	24.61	r_up	
+EMC	20130201	24.61	24.85	r_up	
+EMC	20130204	24.85	24.59	r_down	
+EMC	20130205	24.59	24.88	r_up	
+EMC	20130206	24.88	24.79	r_down	
+EMC	20130207	24.79	24.75	r_down	
+EMC	20130208	24.75	24.88	r_up	
+EMC	20130211	24.88	24.63	r_down	
+EMC	20130212	24.63	24.54	r_down	
+EMC	20130213	24.54	24.22	r_down	
+EMC	20130214	24.22	24.04	r_down	do:1 tells:1 us:1 should:1
+EMC	20130215	24.04	24.0	r_down	
+EMC	20130219	24.0	23.92	r_down	
+EMC	20130220	23.92	23.5	r_down	selloff:1 sink:1 market:1 crushed:1
+EMC	20130221	23.5	23.41	r_down	2013:1
+EMC	20130222	23.41	23.44	r_up	
+EMC	20130225	23.44	22.83	r_down	
+EMC	20130226	22.83	22.94	r_up	
+EMC	20130227	22.94	23.28	r_up	n't:1
+EMC	20130228	23.28	23.01	r_down	follow:1 into:1 stocks:1 red:1
+EMC	20130301	23.01	23.25	r_up	
+EMC	20130304	23.25	23.22	r_down	
+EMC	20130305	23.22	23.74	r_up	
+EMC	20130306	23.74	24.3	r_up	
+EMC	20130307	24.3	23.95	r_down	
+EMC	20130308	23.95	24.3	r_up	
+EMC	20130311	24.3	24.56	r_up	
+EMC	20130312	24.56	24.47	r_down	
+EMC	20130313	24.47	24.9	r_up	late:1 leads:1 gets:1 boost:1 techs:1
+EMC	20130314	24.9	25.62	r_up	push:1 stocks:1 lift:1 data’:1 ‘big:1
+EMC	20130315	25.62	25.35	r_down	
+EMC	20130318	25.35	25.05	r_down	
+EMC	20130319	25.05	24.7	r_down	
+EMC	20130320	24.7	24.85	r_up	
+EMC	20130321	24.85	24.5	r_down	
+EMC	20130322	24.5	24.15	r_down	
+EMC	20130325	24.15	23.74	r_down	's:1
+EMC	20130326	23.74	23.75	r_up	
+EMC	20130327	23.75	23.83	r_up	
+EMC	20130328	23.83	23.89	r_up	
+EMC	20130401	23.89	23.57	r_down	
+EMC	20130402	23.57	23.84	r_up	
+EMC	20130403	23.84	23.59	r_down	
+EMC	20130404	23.59	23.45	r_down	
+EMC	20130405	23.45	23.08	r_down	
+EMC	20130408	23.08	23.13	r_up	
+EMC	20130409	23.13	23.14	r_up	
+EMC	20130410	23.14	23.23	r_up	
+EMC	20130411	23.23	22.89	r_down	
+EMC	20130412	22.89	23.11	r_up	
+EMC	20130415	23.11	22.78	r_down	
+EMC	20130416	22.78	23.08	r_up	
+EMC	20130417	23.08	22.71	r_down	
+EMC	20130418	22.71	22.34	r_down	
+EMC	20130419	22.34	21.5	r_down	
+EMC	20130422	21.5	21.85	r_up	
+EMC	20130423	21.85	22.36	r_up	's:1
+EMC	20130424	22.36	22.52	r_up	
+EMC	20130425	22.52	22.63	r_up	
+EMC	20130426	22.63	22.39	r_down	
+EMC	20130429	22.39	22.49	r_up	
+EMC	20130430	22.49	22.43	r_down	
+EMC	20130501	22.43	22.46	r_up	head:1 tech:1 up:1 gains:1
+EMC	20130502	22.46	22.88	r_up	
+EMC	20130503	22.88	23.38	r_up	
+EMC	20130506	23.38	23.29	r_down	growing:1 threat:1
+EMC	20130507	23.29	23.12	r_down	
+EMC	20130508	23.12	23.45	r_up	
+EMC	20130509	23.45	22.9	r_down	
+EMC	20130510	22.9	23.34	r_up	
+EMC	20130513	23.34	23.04	r_down	
+EMC	20130514	23.04	23.0	r_down	
+EMC	20130515	23.0	23.02	r_up	
+EMC	20130516	23.02	24.06	r_up	
+EMC	20130517	24.06	24.24	r_up	
+EMC	20130520	24.24	24.16	r_down	
+EMC	20130521	24.16	24.1	r_down	
+EMC	20130522	24.1	23.68	r_down	
+EMC	20130523	23.68	23.66	r_down	
+EMC	20130524	23.66	23.65	r_down	
+EMC	20130528	23.65	23.87	r_up	
+EMC	20130529	23.87	23.66	r_down	
+EMC	20130530	23.66	24.93	r_up	
+EMC	20130531	24.93	24.76	r_down	help:1 movers:1 charger:1 after:1 tech:1 wobbly:1 news:1 stocks:1 spur:1 upward:1
+EMC	20130603	24.76	24.74	r_down	
+EMC	20130604	24.74	24.42	r_down	
+EMC	20130605	24.42	24.3	r_down	
+EMC	20130606	24.3	24.76	r_up	
+EMC	20130607	24.76	24.74	r_down	
+EMC	20130610	24.74	24.88	r_up	
+EMC	20130611	24.88	24.67	r_down	
+EMC	20130612	24.67	24.33	r_down	
+EMC	20130613	24.33	24.71	r_up	among:1 gainers:1 tech:1 rally:1
+EMC	20130614	24.71	24.76	r_up	2013:1
+EMC	20130617	24.76	24.83	r_up	--:1 's:1 2013:1
+EMC	20130618	24.83	24.99	r_up	
+EMC	20130619	24.99	24.86	r_down	
+EMC	20130620	24.86	24.74	r_down	
+EMC	20130621	24.74	24.33	r_down	

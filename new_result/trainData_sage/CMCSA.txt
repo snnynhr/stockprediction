@@ -1,0 +1,256 @@
+stock_CMCSA r_down	gaining:1 after:1 's:2 -50:1 would:1 deluge:1 make:1 futures:1 weak:1 focus:1 stay:1 bad:1 marriage:1 biggest:1 20:1 stocks:1 data:1 declining:1 stock:1
+stock_CMCSA r_down	count:1 reaction:1 's:1 help:1 deal:1 should:1 n't:1 mixed:1 talks:1 denies:1
+stock_CMCSA r_up	dream:1 turmoil:1 's:1 script:1
+stock_CMCSA r_up	's:1 steady:1 down:1 pushed:1 holding:1 economy:1 out:1 execs:1
+stock_CMCSA r_down	profit:1 's:1 into:1 limps:1 third-quarter:1
+stock_CMCSA r_down	13:2 's:1 profit:1 jumps:1 42:3 gain:1 brass:1 than:1
+stock_CMCSA r_up	's:1 53:1
+stock_CMCSA r_down	n't:1
+stock_CMCSA r_down	25:1 's:1 $:1
+stock_CMCSA r_up	n't:1 tricks:1 treats:1
+stock_CMCSA r_up	30:1 's:1 focus:1 $:1
+stock_CMCSA r_down	advance:1 ``:1 's:1 22:2 profit:1 surprises:1 futures:1 focus:1 '':1 advisories:1 22.5:2 before:1 rises:1 meeting:1 stock:1
+stock_CMCSA r_up	profit:1 11:1 falls:1
+stock_CMCSA r_up	billion:1 1.5:2 said:1 's:1 $:3 investors:1 getting:1 value:1 venture:1 reportedly:1 agree:1
+stock_CMCSA r_down	1.56:2 $:5
+stock_CMCSA r_up	9.5:1 's:2 $:1
+stock_CMCSA r_up	comment:1 stake:1 's:3 '09:1 78:2
+stock_CMCSA r_up	services:1 its:1 grow:1 buys:1
+stock_CMCSA r_up	--:1 billion:1 1.15:1 's:1 $:1
+stock_CMCSA r_down	--:1 's:1
+stock_CMCSA r_down	's:2
+stock_CMCSA r_up	2008:1 $:1
+stock_CMCSA r_down	quietly:1 $:1 million:1 raises:1 another:1 920:1 2009:1
+stock_CMCSA r_down	's:2
+stock_CMCSA r_down	n't:1 11:1
+stock_CMCSA r_up	futures:1 's:2 reportedly:1 deal:2 strikes:1 stake:2 up:1 reports:1 reaches:1 containment:1 hopes:1 stock:1
+stock_CMCSA r_down	amp:1 's:1 up:1
+stock_CMCSA r_up	drop:1 lightly:1 '':2 's:8 stocks:1 20:1 $:5 5.8:1 make:1 add:1 40:2 3:1 2:3 5:2 you:1 stock:1 ``:2 jobs:1 gains:1 after:1 careful:1 data:1 wish:1 futures:1 jitters:1 late-session:1
+stock_CMCSA r_up	gaining:1 's:2 $:1 19:1 top:1 stories:1 4:1 biggest:1 stocks:1 declining:1
+stock_CMCSA r_up	needs:1 says:1 network:1 n't:1 's:2 improve:1
+stock_CMCSA r_up	gaining:1 25:1 's:2 10:1 biggest:1 stocks:1 declining:1
+stock_CMCSA r_up	relevance:1 put:1 test:1 's:1
+stock_CMCSA r_up	2:1
+stock_CMCSA r_up	's:1
+stock_CMCSA r_up	's:1
+stock_CMCSA r_down	intriguing:1 alternative:1 cable:1 analysts:1
+stock_CMCSA r_up	n't:1 's:1 2010:1
+stock_CMCSA r_down	'10:1 lot:1 prove:1
+stock_CMCSA r_up	confidence:1 's:1 show:1 'improving:1 committed:1 says:1 gives:1
+stock_CMCSA r_down	's:3 backs:1
+stock_CMCSA r_down	o:1
+stock_CMCSA r_down	running:1 still:1
+stock_CMCSA r_up	stability:1 behind:1 2009:1 's:1 puts:1
+stock_CMCSA r_down	10:1 $:1 4:1
+stock_CMCSA r_down	return:1 19:4 'solid:1 30:1 but:1 growth:1 sees:1 2011:1
+stock_CMCSA r_up	's:2
+stock_CMCSA r_up	focus:1
+stock_CMCSA r_down	lower:1 after:1 's:3 profit:1 surprises:1 futures:1 drift:1 back:1 data:1 broadband:1 chief:1 advisories:1 demand:1 report:1 off:1 rises:1 climbs:1 stock:1
+stock_CMCSA r_down	merger:1 offer:1 reassurances:1 execs:1
+stock_CMCSA r_down	's:1
+stock_CMCSA r_down	$:2
+stock_CMCSA r_down	2010:1
+stock_CMCSA r_up	do:1 investors:1 n't:1 too:1 seem:1 spooked:1
+stock_CMCSA r_down	$:1 7.4:1
+stock_CMCSA r_down	still:1 scant:1 fiber:1 's:2 details:1
+stock_CMCSA r_down	neutrality:1 invest:1 influence:1 rivals:1
+stock_CMCSA r_up	n't:1
+stock_CMCSA r_up	09:1 's:2 50:2 '09:1
+stock_CMCSA r_up	quarter:1 shrinking:1 profits:1 another:1 faces:1
+stock_CMCSA r_down	eyes:1 third:1 profit:2 31:2 down:1 nearly:1 cuts:2 drops:1 considers:1 more:1
+stock_CMCSA r_down	sell:1 buy:1 'd:1
+stock_CMCSA r_down	focus:1 $:1
+stock_CMCSA r_up	12:2 's:1 rebound:1 soothe:1 earnings:1 nerves:1 stocks:1
+stock_CMCSA r_up	's:1
+stock_CMCSA r_up	food:1 summer:1 portfolios:1 leisure:1 picks:1
+stock_CMCSA r_down	gaining:1 preserve:1 's:4 move:1 neutrality:1 biggest:1 stocks:1 declining:1
+stock_CMCSA r_down	neutrality:1 move:1 hit:1 shares:1
+stock_CMCSA r_down	outlook:1 stocks:1 cloudy:1 fall:1
+stock_CMCSA r_up	's:1
+stock_CMCSA r_up	n't:1
+stock_CMCSA r_down	not:1 succeed:1 guilty:1 should:1
+stock_CMCSA r_up	$:1
+stock_CMCSA r_down	6/1:1 $:1
+stock_CMCSA r_up	3:1 's:1
+stock_CMCSA r_up	12:1 15:1
+stock_CMCSA r_down	1.4:1 billion:1 $:1 buys:1
+stock_CMCSA r_up	's:2 $:1 3.1:1
+stock_CMCSA r_down	's:2
+stock_CMCSA r_down	n't:1
+stock_CMCSA r_down	de:1 's:1
+stock_CMCSA r_up	's:1
+stock_CMCSA r_up	's:2
+stock_CMCSA r_down	13:2 good:1 's:2 --:1 some:1 profit:1 news:1 has:1 climbs:1
+stock_CMCSA r_up	's:1
+stock_CMCSA r_up	image:1 focus:1 expenses:1 down:1 8.6:1 profit:1 surprises:1 durable:2 advisories:1 improve:1 's:1 after:1 watch:1 falls:1 goods:2 now:1 wait:1 griping:1 customer-service:1 futures:1 costs:1 works:1
+stock_CMCSA r_up	's:1
+stock_CMCSA r_up	's:1
+stock_CMCSA r_down	$:1 11.4:1 traffic:1 talks:1 speculation:1 stir:1
+stock_CMCSA r_up	majors:1 silent:1 plan:1
+stock_CMCSA r_down	high:1 conglomerates:1 flying:1 networks:1
+stock_CMCSA r_down	anchor:1
+stock_CMCSA r_down	n't:1 defends:1 traffic:1 plan:1 exec:1
+stock_CMCSA r_down	closer:1 's:1 acquiring:1 inches:1
+stock_CMCSA r_up	own:1 give:1 show:1 her:1 should:1
+stock_CMCSA r_up	input:1 wake:1 plan:1 seeks:1
+stock_CMCSA r_down	's:1
+stock_CMCSA r_up	2000:1
+stock_CMCSA r_down	's:1
+stock_CMCSA r_down	...:2 30:1
+stock_CMCSA r_up	top:1 legacy:1 's:2 problem:1
+stock_CMCSA r_down	2.1:2 $:2 7.7:1
+stock_CMCSA r_down	3:2
+stock_CMCSA r_down	accelerates:1 dive:1 3:1 yields:1 debt:1 binge:1
+stock_CMCSA r_down	tricks:1 political:1 treats:1
+stock_CMCSA r_up	18:3 's:2
+stock_CMCSA r_up	's:1
+stock_CMCSA r_up	impasse:1 moves:1 five:1 day:1
+stock_CMCSA r_up	$:1
+stock_CMCSA r_down	fund:1 's:1 back:1 $:1
+stock_CMCSA r_up	8.2:3 profit:1 declines:1 focus:1 expenses:1 increase:1
+stock_CMCSA r_down	technical:1 stocks:1 muscle:1
+stock_CMCSA r_up	$:1 34:1
+stock_CMCSA r_down	life:1 cutting:1 fighting:1 staff:1
+stock_CMCSA r_down	$:1 2.4:1
+stock_CMCSA r_down	's:1
+stock_CMCSA r_down	's:2
+stock_CMCSA r_down	's:2
+stock_CMCSA r_up	app:1 out:1 2010:1 rolls:1
+stock_CMCSA r_down	might:1 make:1 's:1
+stock_CMCSA r_down	's:1 2011:2
+stock_CMCSA r_up	reasons:1 media:1 thanks:1 give:1
+stock_CMCSA r_down	3:1 's:2
+stock_CMCSA r_up	pull:1 lower:1 heart:1 3:1 tech:1 stocks:1 dispute:1
+stock_CMCSA r_down	3:2
+stock_CMCSA r_up	n't:1 |:1
+stock_CMCSA r_up	3:1 's:1
+stock_CMCSA r_up	3:1 's:4
+stock_CMCSA r_up	's:1
+stock_CMCSA r_up	2011:1
+stock_CMCSA r_up	outlook:1 takeovers:1 2011:2 chance:1
+stock_CMCSA r_down	3:1
+stock_CMCSA r_down	n't:2
+stock_CMCSA r_down	early:1 won’t:1 come:1 $:1 year:1
+stock_CMCSA r_down	's:2
+stock_CMCSA r_up	's:2
+stock_CMCSA r_up	streaming:1 live:1 offer:1
+stock_CMCSA r_up	approve:1 deal:1
+stock_CMCSA r_up	breathe:1 do:1 's:1 sigh:1 over:1 up:1 relief:1 easier:1
+stock_CMCSA r_up	's:1
+stock_CMCSA r_up	's:1 profit:1 surprises:1 51:1 advisories:1 lift:1
+stock_CMCSA r_down	's:1
+stock_CMCSA r_down	's:1 $:1 500,000:1
+stock_CMCSA r_up	's:1
+stock_CMCSA r_up	you:1 remember:1
+stock_CMCSA r_up	gorilla:1
+stock_CMCSA r_down	several:1 's:1 sold:1 stocks:1 fourth:1 quarter:1
+stock_CMCSA r_up	--:1 's:3
+stock_CMCSA r_up	after:1 's:2 deal:1 19:4 profit:1 boosted:1 rise:1 results:1 focus:1 n't:2 6.6:4 3:2 dividend:1 rises:1
+stock_CMCSA r_up	surprises:1 advisories:1
+stock_CMCSA r_up	10:1 just:1 lost:1 top:1 movies:1 victim:1 not:1 best:1
+stock_CMCSA r_down	case:1 makes:1 its:1
+stock_CMCSA r_down	fired:1 should:1 bad:1 news:1 now:1 gives:1
+stock_CMCSA r_down	beautiful:1 just:1 millionaires:1 news:1 not:1 billionaires:1 war:1 vs.:1
+stock_CMCSA r_up	hits:1 plan:1 shares:1
+stock_CMCSA r_down	group:1 takes:1 fate:1 aim:1 other:1 headache:1
+stock_CMCSA r_up	shuffles:1 management:1 top:1
+stock_CMCSA r_down	's:1 shares:1 surge:1 video:1 position:1 grows:1
+stock_CMCSA r_up	wins:1 ticket:1 sales:1 power:1 sponsorship:1
+stock_CMCSA r_down	10:1 lost:1 lead:1 top:1 fate:1 actors:1 shows:1
+stock_CMCSA r_up	's:1
+stock_CMCSA r_down	way:1 exit:1 pave:1 would:1
+stock_CMCSA r_down	blue:1 's:1 ripe:1 spinoffs:1 wrong:1 went:1 chips:1
+stock_CMCSA r_up	10-year:1 broadcast:1 reach:1 deal:1
+stock_CMCSA r_up	brings:1 time:1 's:1 big:1
+stock_CMCSA r_up	noble:1 legacy:1 failure:1
+stock_CMCSA r_up	rivals:1 some:1 its:1 yet:1 faces:1
+stock_CMCSA r_up	seen:1 media:1 results:1 big:1
+stock_CMCSA r_up	death:1 media:1 watch:1 coverage:1 finds:1 best:1
+stock_CMCSA r_down	profit:1 tops:1 watch:2 up:1 results:1 shame:1 9:1 corporate:1 hall:1
+stock_CMCSA r_down	9:2 surprises:1 sweetheart:1 advisories:1 watch:1
+stock_CMCSA r_down	shine:1 show:1 could:1 idea:1 afternoon:1 resurfaces:1
+stock_CMCSA r_down	succeeds:1
+stock_CMCSA r_down	happy:1 stay:1
+stock_CMCSA r_down	even:1 make:1 exit:1
+stock_CMCSA r_down	forges:1 12:1 deal:1 season:1 introduce:1 streaming:1 new:1 shows:1
+stock_CMCSA r_up	control:1 cable:1 no:1 dies:1 took:1 cost:1 65:1 key:1 stocks:1 anchor:1
+stock_CMCSA r_down	$:3
+stock_CMCSA r_down	improbable:1 icon:1
+stock_CMCSA r_up	call:1 vet:1 right:1 makes:1 hiring:1
+stock_CMCSA r_down	place:1 never:1 's:1 can:1 take:1
+stock_CMCSA r_up	big:1 gamble:1 deal:1 4:1
+stock_CMCSA r_up	redux:1 makes:1 statement:1
+stock_CMCSA r_down	brings:1 calls:1
+stock_CMCSA r_down	turmoil:1 doesn’t:1 worry:1
+stock_CMCSA r_up	's:1
+stock_CMCSA r_up	battle:1 returns:1 cable:1 disarming:1
+stock_CMCSA r_up	's:1
+stock_CMCSA r_down	intriguing:1 cable:1 most:1 5:1 new:1 shows:1
+stock_CMCSA r_up	facing:1 headwinds:1 tough:1
+stock_CMCSA r_up	joke:1 you’re:1 2010:1 think:1
+stock_CMCSA r_down	fits:1
+stock_CMCSA r_down	's:1
+stock_CMCSA r_down	10:1
+stock_CMCSA r_down	buy:1 investor:1 equity:1
+stock_CMCSA r_down	early:1 reopens:1 405:1 report:1
+stock_CMCSA r_up	3:1 's:1
+stock_CMCSA r_down	outlook:1 hit:1 takes:1 23:2 another:1 questions:1
+stock_CMCSA r_down	'':1 ``:1 's:1
+stock_CMCSA r_up	await:1 snickers:1 point:1 16:4 bounce:1 earnings:1 skeptics:1 data:2 spotlight:1
+stock_CMCSA r_down	n't:1 surprises:1 advisories:1
+stock_CMCSA r_up	15:1 's:1
+stock_CMCSA r_down	up:1 signs:1
+stock_CMCSA r_up	's:1
+stock_CMCSA r_down	's:1
+stock_CMCSA r_down	big:1 fans:1 's:1 business:1
+stock_CMCSA r_up	ripe:1 spinoffs:1 blue-chip:1 valuable:1 4:1 stocks:1
+stock_CMCSA r_down	deals:1 drives:1 ahead:1
+stock_CMCSA r_up	ready:1 start:1 9/11:1 networks:1
+stock_CMCSA r_down	roars:1 lockout:1 back:1
+stock_CMCSA r_up	manager:1 slow:1 lane:1 cruises:1
+stock_CMCSA r_up	athletes:1 thousands:1 college:1 worth:1 hundreds:1
+stock_CMCSA r_up	soccer:1 alongside:1 pushes:1
+stock_CMCSA r_down	doomed:1 's:1
+stock_CMCSA r_up	training:1 off:1 preseason:1 calls:1 vows:1 cancels:1 games:1 return:1
+stock_CMCSA r_down	respect:1 needs:1 your:1
+stock_CMCSA r_down	2:1 lose:1 momentum:1 techs:1 fall:1
+stock_CMCSA r_up	8:1 naming:1 deal:1
+stock_CMCSA r_down	buy:1 should:1 investors:1 stock:1
+stock_CMCSA r_up	13:1 's:1
+stock_CMCSA r_down	's:1
+stock_CMCSA r_up	tough:1 profit:1 rise:1 period:1 seals:1 mega-deal:1 expected:1 international:1
+stock_CMCSA r_down	1.1:1
+stock_CMCSA r_down	eye:1 futures:1 markets:1 sink:1
+stock_CMCSA r_down	watch:1
+stock_CMCSA r_up	4.7:1 surprises:1 watch:1 advisories:1 earnings:1 progress:1 2012:1 shows:1
+stock_CMCSA r_up	roar:1 earnings:1
+stock_CMCSA r_up	square:1 off:1 looms:1 key:1 final:1 smackdown:1
+stock_CMCSA r_down	's:1
+stock_CMCSA r_up	's:1
+stock_CMCSA r_up	$:1 bonds:1 returns:1 pad:1 corporate:1 your:1 stock:1
+stock_CMCSA r_down	may:1 see:1 sponsorships:1 rule:1 more:1
+stock_CMCSA r_down	media:1 stories:1 investors:1 key:1 2012:1
+stock_CMCSA r_down	control:1 out:1
+stock_CMCSA r_up	10:1 2012:1
+stock_CMCSA r_up	exploitation:1 again:1 mutual:1 signs:1
+stock_CMCSA r_up	8.5:1 exec’s:1 departure:1 500,000:1 bless:1 315:1 's:1 drops:1 500:1 $:4
+stock_CMCSA r_down	ratings:1 drop:1 sees:1
+stock_CMCSA r_up	billion:1 10:1 1.7:1 ads:1 top:1 years:1 study:1 $:1
+stock_CMCSA r_up	problem:1 have:1
+stock_CMCSA r_up	joins:1
+stock_CMCSA r_down	record:1 audience:1
+stock_CMCSA r_down	sports:1 success:1 shows:1
+stock_CMCSA r_up	13:1 profit:1 estimates:1 but:1 falls:1 beats:1
+stock_CMCSA r_up	shines:1 $:1 falls:1
+stock_CMCSA r_up	won’t:1 sees:1 $:1 primary:1 pay:1 app:1 million:1 sponsors:1 20:1 easy:1 allow:1 year:1 new:1 voting:1 events:1 away:1 ads:1
+stock_CMCSA r_down	profit:1 seen:1 crowd:1 third-biggest:1
+stock_CMCSA r_up	surprises:1 advisories:1 out:1
+stock_CMCSA r_up	gaining:1 hit:1 surprises:1 futures:1 focus:1 up:1 data:1 watch:1 advisories:1 earnings:1 biggest:1 stocks:2 minutes:1 declining:1 stock:1
+stock_CMCSA r_up	3,000:1 could:1 use:1 break:1 nears:1 wings:1
+stock_CMCSA r_up	biggest:1 gaining:1 stocks:1 declining:1
+stock_CMCSA r_up	director:1 wins:1 actor:1 best:1 picture:1
+stock_CMCSA r_up	's:1
+stock_CMCSA r_down	far:1 too:1 goes:1
+stock_CMCSA r_down	sweet:1 land:1 spot:1 shifting:1
+stock_CMCSA r_up	's:1
+stock_CMCSA r_down	business’:1 good:1 journalism:1
