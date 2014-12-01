@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project name="ark-sage" basedir="." default="jar">
+  <property name="name" value="${ant.project.name}" />
+  <property name="version" value="0.1" />
+
+  <property name="src.dir" value="src" />
+  <property name="bin.dir" value="bin" />
+  <property name="lib.dir" value="externals" />
+  <property name="javadoc.dir" value="javadoc" />
+
+  <path id="classpath">
+    <fileset dir="${lib.dir}" includes="**/*.jar" />
+  </path>
+
+  <target name="clean" description="Removes the bin and javadoc folders.">
+    <delete dir="${bin.dir}" />
+    <delete dir="${javadoc.dir}" />
+    <delete file="${name}-${version}-javadoc.jar" />
+    <delete file="${name}-${version}.jar" />
+    <delete file="${name}-${version}.tar.gz" />
+  </target>
+
+  <target name="compile" description="Compiles Java classes.">
+    <mkdir dir="${bin.dir}" />
+    <javac srcdir="${src.dir}" destdir="${bin.dir}" classpathref="classpath" includeantruntime="false" />
+  </target>
+
+  <target name="javadoc" description="Build Javadocs.">
+    <javadoc destdir="${javadoc.dir}" overview="${src.dir}/overview.html" access="protected" author="true" windowtitle="Javadoc for ${name} v${version}" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" source="1.7" splitindex="true" use="true" version="true">
+      <doctitle>Overview ${name} v${version}</doctitle>
+      <packageset dir="${src.dir}" />
+      <classpath refid="classpath" />
+      <link href="http://download.oracle.com/javase/7/docs/api/" />
+      <link href="http://commons.apache.org/proper/commons-math//apidocs/" />
+      <link href="http://nlp.stanford.edu/nlp/javadoc/javanlp/"/>
+      <link href="http://skylander.bitbucket.org/yc-config/" />
+      <link href="http://trove4j.sourceforge.net/javadocs/" />
+      <link href="http://www.martiansoftware.com/jsap/doc/javadoc/" />
+      <bottom><![CDATA[${name} v${version} is licensed under the Lesser GNU Public License. A copy of this license is available at <a href="http://www.gnu.org/licenses/lgpl.html">http://www.gnu.org/licenses/lgpl.html</a>.]]></bottom>
+    </javadoc>
+  </target>
+
+  <target name="jar-javadoc" depends="javadoc" description="Build JAR for Javadocs.">
+    <jar destfile="${basedir}/${name}-${version}-javadoc.jar" filesetmanifest="mergewithoutmain">
+      <manifest>
+        <attribute name="Specification-Title" value="${name} Javadocs" />
+        <attribute name="Specification-Version" value="${version}" />
+        <attribute name="Created-By" value="${java.version} (${java.vendor})" />
+      </manifest>
+      <fileset dir="${basedir}/${javadoc.dir}" />
+    </jar>
+  </target>
+
+    <target name="jar" depends="compile" description="Build JAR for source code and classes.">
+      <jar destfile="${basedir}/${name}-${version}.jar" filesetmanifest="mergewithoutmain">
+        <manifest>
+          <attribute name="Specification-Title" value="${name}" />
+          <attribute name="Specification-Version" value="${version}" />
+          <attribute name="Class-Path" value="." />
+          <attribute name="Created-By" value="${java.version} (${java.vendor})" />
+        </manifest>
+        <fileset dir="${basedir}/${bin.dir}" />
+      </jar>
+    </target>
+
+  <target name="release" depends="jar-javadoc, jar" description="Build release Tarball.">
+    <tar destfile="${name}-${version}.tar.gz" compression="gzip">
+      <tarfileset dir="${basedir}">
+        <include name="README.md" />
+        <include name="${name}-${version}-javadoc.jar" />
+        <include name="${name}-${version}.jar" />
+        <include name="src/**" />
+      </tarfileset>
+
+      <tarfileset dir="${basedir}" filemode="755">
+        <include name="supervised-SAGE.sh" />
+      </tarfileset>
+
+      <tarfileset dir="${lib.dir}">
+        <include name="commons-math3-3.1.1.jar" />
+        <include name="stanford-classifier.jar" />
+        <include name="trove-3.0.3.jar" />
+        <include name="yc-config-0.2.jar" />
+      </tarfileset>
+    </tar>
+  </target>
+</project>
