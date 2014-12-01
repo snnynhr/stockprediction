@@ -32,11 +32,16 @@ def evaluate(predDir,dataDict):
 	return (correct_count/float(pred_count),money)
 
 label = ['stock','expected_gain']
+statD = dict()
 for predDir in predDirs:
+	statD[predDir] = ([],[])
 	method = predDir.split('/')[-1].split('_')[-1]
+
 	label.extend(['%s_accuracy' %method,'%s_gain' %method])
+statD["expected_gain"] = [] 
 
 print '\t'.join(label)
+
 for fname in os.listdir(predDirs[-1]):
 	if fname.endswith('.txt'):
 		stock = fname[:-4]
@@ -62,10 +67,19 @@ for fname in os.listdir(predDirs[-1]):
 		dataFile.close()
 
 		summary = [stock,str(end/start)]
+		statD['expected_gain'].append(end/start)
 		for predDir in predDirs:
 			accuracy,money = evaluate(predDir,dataDict)
+			statD[predDir][0].append(accuracy)
+			statD[predDir][1].append(money)
 			summary.extend([str(accuracy),str(money)])
 
 		print "\t".join(summary)
 
+average = [str(sum(statD["expected_gain"]) / len(statD["expected_gain"]))]
+for predDir in predDirs:
+	aList,mList = statD[predDir]
+	average.extend([str(sum(aList)/len(aList)),str(sum(mList)/len(mList))])
+
+print "\t".join(average)
 		#print "%s:%f accuracy for %d predictions, earn %f compared to %f" %(stock, (correct_count/float(pred_count)),pred_count,money, end/start)
