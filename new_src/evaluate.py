@@ -7,7 +7,7 @@ import datetime
 import nltk
 
 testDir = "../new_result/testData"
-predDirs = ["../new_result/predictions_reg","../new_result/predictions_sage","../new_result/predictions_reg+temp"]
+predDirs = ["../new_result/predictions_reg+all","../new_result/predictions_reg","../new_result/predictions_sage","../new_result/predictions_reg+temp"]
 
 def evaluate(predDir,dataDict):
 	pred_count = 0

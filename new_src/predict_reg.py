@@ -6,9 +6,9 @@ import os
 import datetime
 import nltk
 
-weightDir = '../new_result/reg+temp_result'
-testDir = "../new_result/testData+temp"
-predictDir = "../new_result/predictions_reg+temp"
+weightDir = '../new_result/reg+all_result'
+testDir = "../new_result/testData+all"
+predictDir = "../new_result/predictions_reg+all"
 
 
 def log_likelihood(words,d):
