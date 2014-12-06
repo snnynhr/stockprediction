@@ -50,7 +50,7 @@ for fname in os.listdir(predDirs[1]):
 			elif len(info) == 6:
 				s, day, prev_p, cur_p, true_l, words = info
 
-			if start == None:
+			if start is None:
 				start = float(prev_p)
 			dataDict[day] = (float(prev_p),float(cur_p),true_l)
 			end = float(cur_p)
@@ -61,6 +61,6 @@ for fname in os.listdir(predDirs[1]):
 			accuracy,money = evaluate(predDir,dataDict)
 			summary.extend([str(accuracy),str(money)])
 
-		print "\t".join(summary)
+		print "\t\t".join(summary)
 
 		#print "%s:%f accuracy for %d predictions, earn %f compared to %f" %(stock, (correct_count/float(pred_count)),pred_count,money, end/start)

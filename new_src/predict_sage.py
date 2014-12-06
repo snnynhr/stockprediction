@@ -5,32 +5,32 @@ import json
 import os
 import datetime
 import nltk
-
-weightPath = '../new_result/sage_result/weights300'
+import sys
+weightPath = '../new_result/sage_result/weights'+sys.argv[1]
 weightFile = codecs.open(weightPath,'r','utf-8')
 testDir = "../new_result/testData"
-predictDir = "../new_result/predictions"
+predictDir = "../new_result/predictions_sage"
 
 
-def log_likelihood(words,d):
+def log_likelihood(words, d):
 	result = 0
 	for w in words:
 		if w in d:
 			result += d[w] * words[w]
-	return result 
+	return result
 
 for line in weightFile:
 	tag, words = line.strip().split('\t', 1)
 	if tag == 'r_up':
-		up_dict = dict([(s.split(':')[0],float(s.split(':')[1])) for s in words.split()])
+		up_dict = dict([(s.split(':')[0], float(s.split(':')[1])) for s in words.split()])
 	elif tag == 'r_down':
-		down_dict = dict([(s.split(':')[0],float(s.split(':')[1])) for s in words.split()])
+		down_dict = dict([(s.split(':')[0], float(s.split(':')[1])) for s in words.split()])
 
 weightFile.close()
 
 for fname in os.listdir(testDir):
-	dataFile = codecs.open('%s/%s' %(testDir,fname),'r','utf-8')
-	predictFile = codecs.open('%s/%s' %(predictDir,fname),'w','utf-8')
+	dataFile = codecs.open('%s/%s' % (testDir, fname), 'r', 'utf-8')
+	predictFile = codecs.open('%s/%s' % (predictDir, fname), 'w', 'utf-8')
 	stock = fname[:-4]
 	for line in dataFile:
 		if line.strip() == '':
@@ -52,14 +52,3 @@ for fname in os.listdir(testDir):
 
 	predictFile.close()
 	dataFile.close()
-
-
-
-
-
-
-
-
-
-
-
