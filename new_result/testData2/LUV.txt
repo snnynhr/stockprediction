@@ -1,0 +1,50 @@
+LUV	20140801	28.2	28.3	r_up	
+LUV	20140804	28.3	28.3	r_up	10:1 splits:1 gone:1 partnership:1 long:1 deals:1 bad:1 endorsement:1 line:1 latest:1
+LUV	20140805	28.3	28.0	r_down	
+LUV	20140806	28.0	28.0	r_up	management:1 20:1 target:1 could:1 price:1 possible:1 strategy:1 earnings:1 boost:1 greatly:1 doubles:1 changes:1 its:1 $:1
+LUV	20140807	28.0	28.0	r_up	passenger:1 said:1 fuller:1 jumped:1 earlier:1 flew:1 6.6:1 carrier:1 traffic:1 planes:1 year:1
+LUV	20140808	28.0	28.2	r_up	you’ll:1 risk:1 delayed:1 getting:1 luggage:1 airlines:1 having:1 canceled:1 losing:1 flights:2 worst:1 airline:1 pick:1 carefully:1 off:1 your:3 higher:1
+LUV	20140811	28.2	28.5	r_up	
+LUV	20140812	28.5	28.6	r_up	mile:1 passenger:2 revenue:1 over:1 measure:1 period:2 0.7:1 seat:1 3.5:1 sector:1 year:3 86:1 its:2 year-earlier:1 said:1 capacity:1 4.3:1 seats:1 rose:1 point:1 available:1 per:1 1:1 factor:1 performance:1 percentage:2 filled:1 more:1 files:1 year-ago:1 customers:1 edged:1 million:1 load:1 discount:1 important:1 traffic:1 cities:1 than:1 grew:2 reported:1 --:4 30:1 up:1 carrier:1 airline:2
+LUV	20140813	28.6	29.2	r_up	saying:1 revenue:1 results:1 fancy:1 disappointing:1 officials:1 year:1 debate:1 use:1 attendance:1 pens:1 media:1 guidance:1 cameras:1 its:2 everything:1 treatment:1 has:1 stop:1 hurt:1 reported:1 theft:1 slashed:1 second-quarter:1 recent:1 baggage:1 airport:1
+LUV	20140814	29.2	29.6	r_up	attendants:1 flight:1 discount:1 union:1 majority:1 airline:1 approved:1 first:1
+LUV	20140815	29.6	29.7	r_up	
+LUV	20140818	29.7	30.7	r_up	
+LUV	20140819	30.7	30.7	r_up	
+LUV	20140820	30.7	31.5	r_up	can:1 upgrade:1 's:1 continue:1 revenue:1 jumped:1 company:1 after:1 shares:1 few:1 3.5:1 streams:1 airline:1 innovative:1 adds:1 climb:1 new:1 stock:1
+LUV	20140821	31.5	31.2	r_down	
+LUV	20140822	31.2	31.8	r_up	
+LUV	20140825	31.8	32.1	r_up	
+LUV	20140826	32.1	31.9	r_down	then:2 bullish:2 bonds:2 big:2 few:2 5:2 riding:2 rally:2 stocks:2 crisis:2 dodging:2
+LUV	20140827	31.9	32.2	r_up	
+LUV	20140828	32.2	32.0	r_down	
+LUV	20140829	32.0	32.0	r_up	
+LUV	20140902	32.0	32.9	r_up	
+LUV	20140903	32.9	32.5	r_down	10:1 van:1 index:1 far:1 big:1 writes:1 up:1 outpace:1 while:1 worst:1 best:1 retailers:1 lose:1 82:1 2014:1 stocks:1 500:1
+LUV	20140904	32.5	32.6	r_up	passengers:1 keeping:1 less:1 civil:1 advice:1 air:1 planes:1 has:1
+LUV	20140905	32.6	32.8	r_up	deal:1 jetliners:1 many:1 nearing:1 according:1 person:1 737:1 familiar:1 100:1 matter:1
+LUV	20140908	32.8	32.8	r_up	job:1 over:1 unveiled:1 stealing:1 's:1 its:2 decade:1 size:1 said:1 would:1 carriers:1 since:1 next:1 paint:1 which:1 new:2 has:1 200:2 updated:1 buy:1 partly:1 plans:1 flag:1 part:1 traffic:1 nearly:1 jets:1 along:1 look:1 many:1 aircraft:2 n't:1 logo:1 2001:1 double:1 680:1
+LUV	20140909	32.8	32.9	r_up	flat:1 compared:1 last:1 4.9:1 same:1 month:1 increase:1 while:1 said:1 traffic:1 year:1 its:1 posted:1
+LUV	20140910	32.9	33.6	r_up	ad:1 drive:1 catalysts:1 upside:1 airline:1 2015:1 tailwinds:1 has:1 valuation:1 earnings:1
+LUV	20140911	33.6	33.6	r_up	billion:1 plate:1 giant:1 said:1 sheet:1 $:1 aluminum:1 supply:1 contract:1 than:1 1:1 valued:1 products:1 signed:1 aerospace:1 multiyear:1 more:1
+LUV	20140912	33.6	33.8	r_up	
+LUV	20140915	33.8	33.8	r_up	
+LUV	20140916	33.8	34.5	r_up	days:1 third:1 job:1 budget:1 paint:1 aircraft:1 carrier:1 unveiled:1 new:1 retool:1 its:1 recent:1
+LUV	20140917	34.5	34.4	r_down	
+LUV	20140918	34.4	35.2	r_up	
+LUV	20140919	35.2	34.5	r_down	down:1 ends:1 his:1 's:1 contract:1 been:1 criticized:1 discount:1 step:1 carrier:1 longtime:1 lagging:1 year:1 performance:1 has:1
+LUV	20140922	34.5	34.1	r_down	
+LUV	20140923	34.1	33.2	r_down	
+LUV	20140924	33.2	34.3	r_up	
+LUV	20140925	34.3	33.6	r_down	
+LUV	20140926	33.6	33.9	r_up	
+LUV	20140929	33.9	33.6	r_down	
+LUV	20140930	33.6	33.7	r_up	control:1 facility:1 one:1 occur:1 even:1 capacity:1 winter:1 service:1 airlines:1 reduction:1 does:1 storm:1 until:1 complete:1 fire:1 after:1 but:1 restoration:1 key:1 projects:1 air-traffic:1 n't:1 drags:1 akin:1
+LUV	20141001	33.7	32.5	r_down	because:1 investors:1 gauge:1 devices:1 identities:1 its:1 knows:1 impact:1 lead:1 travel:1 system:1 flights:1 much:1 under:1 new:1 has:2 shrink:1 diagnosed:1 advertising:2 's:2 tried:1 advantage:1 big:1 digital:1 but:1 they:1 demand:1 users:1 potential:1 case:1 episode:1 mobile:1 changed:1 aims:1 air:1 jitters:1 edge:1 airline:1 gave:1 first:1
+LUV	20141002	32.5	32.4	r_down	control:1 lowest:1 set:1 investors:2 almost:1 suburban:1 global:1 growth:1 expected:1 tightening:1 employment:1 skid:1 tumbled:1 manufacturing:1 raise:1 start:1 delays:1 since:1 than:1 their:1 causing:1 policy:1 international:1 territory:1 sabotage:1 correction:1 stock:1 week:1 sell:2 's:2 nationwide:1 may:1 after:1 sooner:1 hundreds:1 disrupted:1 levels:1 traffic:1 upbeat:1 stocks:2 data:1 concerns:1 assets:1 airports:1 center:1 amid:1 harder:1 cancellations:1 air:1 courses:1 2000:1 continue:2 growing:1 worries:1 800:1 travel:1 risky:1
+LUV	20141003	32.4	33.4	r_up	
+LUV	20141006	33.4	33.0	r_down	
+LUV	20141007	33.0	32.2	r_down	
+LUV	20141008	32.2	32.1	r_down	week:1 holiday:1 your:1 reservations:1 travel:2 make:1 is…:1 book:1 next:1 day:1 best:2 times:1
+LUV	20141009	32.1	31.3	r_down	
+LUV	20141010	31.3	30.5	r_down	

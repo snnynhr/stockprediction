@@ -1,0 +1,50 @@
+ACN	20140801	78.2	77.6	r_down	
+ACN	20140804	77.6	78.2	r_up	
+ACN	20140805	78.2	77.4	r_down	
+ACN	20140806	77.4	76.8	r_down	give:1 move:1 say:1 experts:1 moves:1 technology:1 heft:1 show:1 investigation:1 tech:1 firms:1 more:1 's:1 auto:1 dealings:1 pressure:1 regulators:1 probes:1 desire:1 antitrust:2 companies:3 foreign:2 regulator:1 offices:1 latest:1
+ACN	20140807	76.8	76.4	r_down	
+ACN	20140808	76.4	77.8	r_up	return:1 investors:1 company:1 pushing:1 cash:1 should:1 their:1 support:1 executives:1 cause:1 former:1 more:1
+ACN	20140811	77.8	77.9	r_up	
+ACN	20140812	77.9	77.5	r_down	
+ACN	20140813	77.5	77.9	r_up	
+ACN	20140814	77.9	78.2	r_up	
+ACN	20140815	78.2	77.9	r_down	
+ACN	20140818	77.9	78.7	r_up	
+ACN	20140819	78.7	79.2	r_up	
+ACN	20140820	79.2	79.3	r_up	
+ACN	20140821	79.3	79.7	r_up	
+ACN	20140822	79.7	79.4	r_down	
+ACN	20140825	79.4	79.9	r_up	
+ACN	20140826	79.9	80.5	r_up	
+ACN	20140827	80.5	79.9	r_down	
+ACN	20140828	79.9	79.9	r_up	
+ACN	20140829	79.9	79.9	r_up	
+ACN	20140902	79.9	80.0	r_up	
+ACN	20140903	80.0	80.7	r_up	
+ACN	20140904	80.7	80.6	r_down	seven:1 says:1 they:1 investors:1 watches:1 makers:1 their:1 wearable:1 platform:1 parents:1 build:1 smart:1 more:1 run:1 business:2 students:1 familiar:1 applications:1 student:1 device:1 using:1 trying:1 loans:1 clear:1 up:1 're:1 software:1 its:1 steer:1 glasses:1
+ACN	20140905	80.6	80.7	r_up	
+ACN	20140908	80.7	80.6	r_down	
+ACN	20140909	80.6	79.8	r_down	
+ACN	20140910	79.8	80.1	r_up	
+ACN	20140911	80.1	80.4	r_up	
+ACN	20140912	80.4	79.8	r_down	favored:1
+ACN	20140915	79.8	79.5	r_down	
+ACN	20140916	79.5	79.0	r_down	
+ACN	20140917	79.0	78.6	r_down	
+ACN	20140918	78.6	79.3	r_up	
+ACN	20140919	79.3	78.8	r_down	
+ACN	20140922	78.8	78.1	r_down	
+ACN	20140923	78.1	78.5	r_up	week:2 ratings:2 president:2 said:2 growth:2 last:2 credit:2 country:2 spurring:2 tax:2 's:4 accelerating:2 following:2 other:2 governance:2 aimed:2 pursuing:2 improving:2 new:2 downgrade:2 overhauls:2
+ACN	20140924	78.5	79.1	r_up	saying:1 just:1 fourth-quarter:1 short:1 into:1 estimates:1 results:1 quarters:1 10,000:1 actively:1 trading:1 year:1 forecast:1 fiscal:1 market:1 gains:1 4.5:1 again:1 stocks:2 ‘death’:1 $:1 once:1 giving:1 surprises:1 revenue:1 rose:1 expectations:1 shares:1 than:1 late:1 advisories:1 earnings:3 action:1 expected:1 you:1 until:1 stumbles:1 town:1 's:4 worse:1 whole:1 surges:1 but:1 driven:1 ‘death:1 fell:1 trade:1 future:1 seeing:1 why:1 wait:1 roundup:1 crosses:1 concerns:1 corporate:1 companies:2 reports:1 profit:1 session:1 analysts:1 night:1 hype:1 small-caps:1 ‘golden’:1 broad:1 comes:1 latest:1
+ACN	20140925	79.1	77.9	r_down	gains:1 its:1 while:1 earnings:1 gain:1 following:2 debuts:1 spotlight:1 better-than-expected:1
+ACN	20140926	77.9	78.2	r_up	keeping:1 peace:1 families:1 tear:1 over:1 guidelines:1 estates:1 can:1 apart:1
+ACN	20140929	78.2	78.8	r_up	
+ACN	20140930	78.8	80.2	r_up	
+ACN	20141001	80.2	78.6	r_down	
+ACN	20141002	78.6	78.3	r_down	
+ACN	20141003	78.3	79.2	r_up	
+ACN	20141006	79.2	79.6	r_up	
+ACN	20141007	79.6	77.7	r_down	
+ACN	20141008	77.7	78.7	r_up	
+ACN	20141009	78.7	77.1	r_down	
+ACN	20141010	77.1	75.8	r_down	

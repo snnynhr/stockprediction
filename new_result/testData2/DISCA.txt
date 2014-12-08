@@ -1,0 +1,50 @@
+DISCA	20140801	43.5	42.5	r_down	
+DISCA	20140804	42.5	43.1	r_up	
+DISCA	20140805	43.1	43.0	r_down	
+DISCA	20140806	43.0	42.4	r_down	television:1 right:1 decided:1 ad:1 parent:1 downbeat:1 reduce:1 admission:1 had:1 reliance:1 most:1 said:1 advertising:1 now:1 its:1 market:1
+DISCA	20140807	42.4	40.9	r_down	
+DISCA	20140808	40.9	42.2	r_up	impact:1 lower:1 smaller:1 highlighting:1 cable:1 showed:1 programmers:1 programming:1 two:1 competitive:1 results:1 challenges:1 surviving:1 costs:1 rising:1 each:1 face:1 television:1 second-quarter:1 market:1
+DISCA	20140811	42.2	42.5	r_up	
+DISCA	20140812	42.5	42.3	r_down	
+DISCA	20140813	42.3	42.7	r_up	
+DISCA	20140814	42.7	42.7	r_up	sell:1 looking:1 ``:3 producer:1 people:1 familiar:1 company:1 stake:1 according:1 '':3 matter:1 production:1 he:1
+DISCA	20140815	42.7	43.4	r_up	
+DISCA	20140818	43.4	44.3	r_up	
+DISCA	20140819	44.3	44.4	r_up	
+DISCA	20140820	44.4	44.8	r_up	
+DISCA	20140821	44.8	44.7	r_down	
+DISCA	20140822	44.7	44.3	r_down	
+DISCA	20140825	44.3	43.9	r_down	
+DISCA	20140826	43.9	44.0	r_up	
+DISCA	20140827	44.0	43.7	r_down	
+DISCA	20140828	43.7	43.7	r_up	
+DISCA	20140829	43.7	43.7	r_up	giants:1 purchase:1 practice:1 's:1 feedback:1 proposed:1 offer:1 media:1 agency:1 companies:1 encouraging:1 same:1 reviews:1 competitors:1 gripe:1 terms:1 cable:1 gives:1
+DISCA	20140902	43.7	44.0	r_up	
+DISCA	20140903	44.0	43.4	r_down	
+DISCA	20140904	43.4	43.5	r_up	
+DISCA	20140905	43.5	43.4	r_down	
+DISCA	20140908	43.4	42.4	r_down	
+DISCA	20140909	42.4	40.9	r_down	
+DISCA	20140910	40.9	40.9	r_up	among:1 pressured:1 seesaws:1 after:1 focus:1 6:1 stocks:1 event:1
+DISCA	20140911	40.9	40.3	r_down	acquisitions:1 's:1 proposed:1 companies:1 into:1 question:1 reviewing:1 senator:1 has:1 called:1
+DISCA	20140912	40.3	39.6	r_down	
+DISCA	20140915	39.6	39.3	r_down	
+DISCA	20140916	39.3	39.4	r_up	advance:1 ``:1 ad:2 tepid:1 spending:1 season:2 upfront:1 sales:1 been:1 surge:1 '':1 banking:1 fall:1 weaker-than-expected:1 have:1 coming:1 following:1 new:1 weeks:1 looking:1 networks:1
+DISCA	20140917	39.4	39.9	r_up	force:1 toy:1 's:2 network:1 cable:1 joint:1 partnership:1 children:1 television:1 ending:1 their:1 become:1 hoped:1 maker:1
+DISCA	20140918	39.9	39.9	r_up	
+DISCA	20140919	39.9	40.5	r_up	
+DISCA	20140922	40.5	39.3	r_down	
+DISCA	20140923	39.3	38.2	r_down	
+DISCA	20140924	38.2	38.1	r_down	
+DISCA	20140925	38.1	38.0	r_down	billion:1 would:1 transaction:1 $:1 proposed:1 critics:1 pay:1 make:1 45:1 back:1 against:1 their:1 concerns:1 online:1 defending:1 merger:1 world:1 fired:1
+DISCA	20140926	38.0	39.0	r_up	
+DISCA	20140929	39.0	37.7	r_down	considering:1 via:1 provide:1 companies:1 regulations:1 video:1 services:1 subscription:1
+DISCA	20140930	37.7	37.8	r_up	wants:1 billion:1 owners:1 programming:1 proposed:1 wary:1 merger:1 media:1 45:1 companies:1 $:1 submit:1 reviews:1 their:1 details:1 channel:1 agreements:1
+DISCA	20141001	37.8	36.3	r_down	
+DISCA	20141002	36.3	36.2	r_down	
+DISCA	20141003	36.2	37.0	r_up	
+DISCA	20141006	37.0	36.8	r_down	
+DISCA	20141007	36.8	36.2	r_down	
+DISCA	20141008	36.2	37.1	r_up	
+DISCA	20141009	37.1	35.7	r_down	
+DISCA	20141010	35.7	35.0	r_down	

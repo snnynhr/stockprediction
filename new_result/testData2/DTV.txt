@@ -1,0 +1,50 @@
+DTV	20140801	86.0	86.1	r_up	saying:1 major:1 financial:1 distributors:1 revenue:1 over:1 results:1 quarters:1 second:1 reports:1 year:1 operator:1 swung:1 its:2 unit:1 decline:1 said:1 surprises:1 sports:1 advisories:1 earnings:1 bid:1 channel:1 customers:1 's:1 weak:1 jumps:1 problems:1 sales:1 most:1 lucrative:1 delivers:1 continued:1 roundup:1 drops:1 cable:1 reported:1 losses:2 companies:1 likely:1 contract:1 future:1 lose:1 standoff:1 weigh:1 quarter:1 corporate:1 other:1 latest:1
+DTV	20140804	86.1	85.5	r_down	21st:1 merger:1 media:1 companies:1 great:1 should:1 battle:1 earnings:1 2014:1 report:1 making:1 prevail:1 why:1
+DTV	20140805	85.5	85.1	r_down	
+DTV	20140806	85.1	84.5	r_down	saying:1 focus:1 cyber:1 argues:1 '':2 regulatory:1 good:1 owner:1 message:1 its:3 staff:1 21st:1 said:2 would:1 send:1 reality:1 start:1 breaches:2 proposal:1 has:2 might:1 disclose:1 building:1 ``:2 his:1 's:2 plans:1 business:1 billionaire:1 company:1 acquire:1 prospects:1 wrong:1 withdrawn:1 pursuit:1 not:1 grim:1 he:1 faced:1 keeping:1 engage:1 internally:1 abandoned:1 entrepreneur:1 quiet:1 us:1 replaced:1 either:1 transparency:1 think:1 acquisition:1
+DTV	20140807	84.5	83.5	r_down	says:1 arbitragers:1 telecom:1 over:1 others:1 some:1 years:1 '':1 suffered:1 bankruptcy:1 traders:1 giant:1 court:1 $:1 would:1 stymie:1 rout:1 takeovers:1 day:1 sports:1 late:1 their:1 take:2 under:1 struggling:1 worth:1 channel:1 stock:1 ``:1 after:1 's:1 big:1 may:1 funds:1 company:1 provider:1 regulators:1 fell:1 worst:1 two:1 they:1 filed:1 known:1 hedge:1 proposal:1 apart:1 39:1 stand-alone:1 deals:1 steps:1 professional:1 corporate:1 bet:1
+DTV	20140808	83.5	84.0	r_up	
+DTV	20140811	84.0	83.8	r_down	``:2 like:1 media:1 hazards:1 consolidation:1 '':2 their:1 regulators:1 concerns:1 flooding:1 potential:1 shows:1
+DTV	20140812	83.8	84.0	r_up	
+DTV	20140813	84.0	84.2	r_up	have:1 developing:1 government:1 level:1 political:1 same:1 campaigns:1 platforms:1 benefit:1 practices:1 candidates:1 allow:1 parties:1 high-tech:1 every:1 national:1
+DTV	20140814	84.2	84.4	r_up	's:1 cable:1 holdings:1 stake:1 second:1 operator:1 add:1 small:1 during:1 quarter:1 continued:1 its:1 buying:1
+DTV	20140815	84.4	84.2	r_down	
+DTV	20140818	84.2	84.1	r_down	documents:1 love:1 investors:2 dump:2 auto:1 up:1 but:2 according:1 regulatory:1 second:1 snap:1 quarter:1 maker:1
+DTV	20140819	84.1	84.6	r_up	
+DTV	20140820	84.6	84.9	r_up	
+DTV	20140821	84.9	84.8	r_down	
+DTV	20140822	84.8	84.5	r_down	foster:1 ``:1 selling:1 court:1 say:1 reservations:1 influence:1 had:1 them:1 but:1 understanding:1 '':1 likely:1 because:1 papers:1 believed:1 serious:1 broadcaster:1 he:1
+DTV	20140825	84.5	85.4	r_up	named:1 financial:1 next:1 chief:1 officer:1 its:1 more:1
+DTV	20140826	85.4	85.4	r_up	
+DTV	20140827	85.4	86.1	r_up	
+DTV	20140828	86.1	86.0	r_down	
+DTV	20140829	86.0	86.4	r_up	
+DTV	20140902	86.4	86.7	r_up	
+DTV	20140903	86.7	86.5	r_down	his:2 's:1 collapse:1 --:1 long:1 gaze:1 turning:1 pursuit:1 seen:1
+DTV	20140904	86.5	86.6	r_up	help:1 increasingly:1 over:1 fortify:1 networks:1 huge:1 threats:1 leverage:1 looking:1 other:1 which:1 online:1 has:1 them:1 rise:1 football:1 services:1 now:1 league:1 television:1 against:1 video:1
+DTV	20140905	86.6	87.2	r_up	
+DTV	20140908	87.2	86.8	r_down	harm:1 consumers:1 1998:1 began:1 companies:1 content:1 without:1 any:1
+DTV	20140909	86.8	86.6	r_down	pushes:1 telecom:1 friction:1 carry:2 reached:1 its:1 giant:1 said:1 proposed:1 removing:1 had:1 sports:1 source:1 has:1 channel:2 buy:1 's:4 agreement:1 fueled:1 takeover:1 complaints:1 given:1 viewers:1 pressure:1 clear:1 companies:1 popular:1 rural:1
+DTV	20140910	86.6	86.6	r_up	
+DTV	20140911	86.6	87.0	r_up	acquisitions:1 's:1 proposed:1 companies:1 into:1 question:1 reviewing:1 senator:1 has:1 called:1
+DTV	20140912	87.0	86.8	r_down	24:1 's:3 $:1 beat:1 funds:1 private:1 morning:1 banks:1 including:1 lot:1 equity:1 biggest:1 news:1 hedge:1 happening:1 your:1 today:1 finance:1
+DTV	20140915	86.8	86.9	r_up	
+DTV	20140916	86.9	87.0	r_up	acquisitions:1 sell:1 giant:1 said:1 controlled:1 assets:1 top:1 executive:1 telephone:1 former:1 planning:1 partner:1 open:1 company:1
+DTV	20140917	87.0	87.2	r_up	criticism:1 meetings:1 defended:1 sense:1 its:2 market:1 considering:1 reviews:1 use:1 sheet:1 merger:1 make:1 bad:1 yet:1 better:1 secret:1 does:1 has:1 do:1 good:1 's:1 reportedly:1 than:1 completed:1 job:1 during:1 response:1 purchase:2 sorting:1 assets:1 could:1 regulators:1 n't:2 stretch:1 chief:1 senator:1 balance:1 mergers:1
+DTV	20140918	87.2	87.2	r_up	
+DTV	20140919	87.2	87.7	r_up	claim:1 his:1 partners:1 funds:1 aside:1 its:1 purchase:1 set:1 has:1 lawsuit:1 responded:1
+DTV	20140922	87.7	87.2	r_down	prospect:1 like:1 providers:1 demand:1 face:1 fees:1 pressure:1 broadcasters:1 get:1 margin:1 networks:1 bigger:1 higher:1
+DTV	20140923	87.2	86.8	r_down	
+DTV	20140924	86.8	86.8	r_up	
+DTV	20140925	86.8	86.3	r_down	firm:1 shop:1 shareholders:1 's:1 around:1 proposed:1 company:1 approved:1 investment:1 banking:1 provider:1 has:1 its:1 acquisition:1
+DTV	20140926	86.3	87.0	r_up	
+DTV	20140929	87.0	86.6	r_down	via:1 hoping:1 distributors:1 point:1 programming:1 over:2 video:1 picked:1 wider:1 debate:1 considering:1 provide:1 generally:1 sports:1 turning:1 regulations:1 services:1 subscription:1 cable:1 companies:1 n't:1 costs:1 fiasco:1
+DTV	20140930	86.6	86.5	r_down	'':1 cost:1 aimed:1 its:1 shown:1 said:1 strategy:1 traction:1 much:1 has:1 ``:1 's:1 plans:1 wireless:1 gain:1 subscribers:1 continued:1 off:1 third:1 devices:1 n't:1 quarter:1
+DTV	20141001	86.5	86.5	r_up	sell:1 's:1 fighting:1 new:1 proposal:1 bankruptcy:1 out:1
+DTV	20141002	86.5	87.3	r_up	heavy:1 exclusive:1 right:1 company’s:1 key:1 deal:1 ``:1 trade:1 '':1 carry:1 session:2 trading:1 years:1 reached:2 its:1 whose:1 said:1 $:2 would:1 hint:1 clearing:1 shares:2 next:1 broadcasting:1 continue:1 way:1 expected:1 markets:1 pending:1 brushing:1 product:1 selling:1 's:2 extend:2 climbs:1 football:1 agreement:1 falls:1 game:1 eight:1 they:1 stocks:1 provision:1 multiyear:1 billion:2 purchase:1 stabilized:1 off:1 prize:1 package:2 49:2 companies:2 actively:1 games:1 afternoon:1 every:1 overseas:1 acquisition:1
+DTV	20141003	87.3	87.7	r_up	major:1 companies:1 unchanged:1 manage:1 channels:1 session:1 rising:1 rally:1 market:1 finishes:1 swings:1 service:2 their:1 dropping:1 virtually:1 wildly:1 instead:1 stock:1 plug:1 pare:1 gains:1 between:1 but:1 groups:1 focusing:1 stocks:1 faced:1 cable:1 losses:2 programming:1 costs:2 pulling:1
+DTV	20141006	87.7	87.8	r_up	
+DTV	20141007	87.8	87.3	r_down	over:1 hearing:1 spinning:1 itself:1 bankruptcy:1 near-record:1 began:1 breaking:1 split:1 themselves:1 out:1 arguments:1 giants:1 selling:1 business:1 get:1 off:1 whether:1 lines:1 up:1 pace:1 can:1 corporate:1 decision:1 comes:1
+DTV	20141008	87.3	87.7	r_up	major:1 contracts:1 media:2 over:1 companies:1 two:1 hand:1 their:1 part:1 details:1 review:1 forcing:1 its:1 mergers:1
+DTV	20141009	87.7	86.6	r_down	
+DTV	20141010	86.6	86.2	r_down	all:1 ask:1 rising:1 questions:1 arts:1 consumers:1 writes:1 much:1 answer:1 themselves:1 shaving:1 explores:1 men:1 but:1 most:1 studio:1 not:1 packages:1 aren’t:1 martial:1 many:1 columnist:1 so:1 can:1 mixed:1 bills:1

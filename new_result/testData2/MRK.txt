@@ -1,0 +1,50 @@
+MRK	20140801	56.3	56.3	r_up	pharmaceutical:1 giant:1 could:1 see:1 5:1 9:1
+MRK	20140804	56.3	56.6	r_up	
+MRK	20140805	56.6	55.6	r_down	
+MRK	20140806	55.6	55.5	r_down	
+MRK	20140807	55.5	55.2	r_down	
+MRK	20140808	55.2	56.1	r_up	
+MRK	20140811	56.1	56.2	r_up	
+MRK	20140812	56.2	56.6	r_up	
+MRK	20140813	56.6	57.4	r_up	said:1 $:1 would:1 profit:1 million:1 share:1 reporting:1 buyback:1 sales:1 rise:1 infusions:1 another:1 annual:1 small:1 net:1 higher:1 maker:1 after:1 consider:1
+MRK	20140814	57.4	58.3	r_up	
+MRK	20140815	58.3	58.1	r_down	arbitration:1 claim:1 said:1 's:1 exclusive:1 over:1 rights:1 drug:1 favor:1 lucrative:1 panel:1 its:1 ruled:1
+MRK	20140818	58.1	58.0	r_down	
+MRK	20140819	58.0	58.4	r_up	
+MRK	20140820	58.4	59.0	r_up	
+MRK	20140821	59.0	58.4	r_down	
+MRK	20140822	58.4	58.7	r_up	option:1 funds:1 but:1 one:1 maybe:1 not:1 choice:1 best:1 volatility:1
+MRK	20140825	58.7	59.3	r_up	
+MRK	20140826	59.3	59.7	r_up	dodging:2 partnership:1 back:1 trade:1 60:3 actively:1 lung-cancer:1 another:1 rally:2 further:1 crisis:2 out:1 even:1 pharmaceutical:1 said:1 $:3 would:1 since:1 immunotherapy:1 shares:1 looking:1 few:2 breaches:1 extends:1 treatment:1 expected:1 5:2 you:1 today:1 stock:1 then:2 collaborate:1 's:1 bonds:2 big:2 jumps:1 chart:1 they:1 riding:2 stocks:2 capitalize:1 potential:1 bullish:2 study:1 companies:2 disease:1 fighting:1 session:1 evaluating:1 time:1 long-term:1 2008:1 latest:1 first:1
+MRK	20140827	59.7	59.8	r_up	
+MRK	20140828	59.8	59.5	r_down	medicines:1 distribute:1 unapproved:1 rights:1 whether:1 can:1 hinges:1 views:1 violating:1 drug:1 without:1 materials:1 speech:1 free:1 they:1 competing:1 battle:1 uses:1 makers:1 latest:1
+MRK	20140829	59.5	59.6	r_up	
+MRK	20140902	59.6	59.3	r_down	
+MRK	20140903	59.3	60.0	r_up	
+MRK	20140904	60.0	59.6	r_down	week:1 antibiotic:1 cancer:2 cost:1 drug:1 patient:1 said:1 $:1 system:1 been:1 approved:1 immune:1 expected:1 new:2 has:1 body:1 's:3 drugs:2 hefty:1 company:1 unleash:1 regulators:1 designed:1 prices:1 class:1 kind:1 harbinger:1 tumors:1 annual:1 sale:1 against:1 pneumonia:1 command:1 promising:1 went:1 average:1 first:1
+MRK	20140905	59.6	60.7	r_up	smaller:1 deal:1 revised:1 0.7:1 trade:2 down:1 session:2 trading:1 1.2:1 its:2 again:1 unanimously:1 actively:2 $:3 support:1 shares:5 citing:1 concerns:1 board:1 premarket:1 expected:2 's:5 bid:1 rejected:1 said:1 antitrust:1 rival:1 companies:2 takeover:1 were:1 slightly:1 fell:2
+MRK	20140908	60.7	60.6	r_down	both:1 hold:1 promise:1 significant:1 therapies:1
+MRK	20140909	60.6	60.1	r_down	
+MRK	20140910	60.1	60.3	r_up	
+MRK	20140911	60.3	60.1	r_down	
+MRK	20140912	60.1	59.5	r_down	cancer:1 been:1 have:1 comeback:1 yet:1 index:1 stocks:1 staging:1 writes:1 three:1 least:1 returns:1 van:1 2014:1 epic:1 after:1 five:1 240:1 breast-cancer:1 vials:2 10:1 countries:1 months:1 quiet:1 drug:2 were:1 found:2
+MRK	20140915	59.5	59.5	r_up	
+MRK	20140916	59.5	59.9	r_up	just:1 sales:1 said:2 develop:1 stands:1 much:1 5:1 9:1 has:1 's:2 rake:1 but:1 chance:1 jointly:1 they:1 $:1 billion:1 success:1 could:1 annual:1 drug:1 experimental:1 risky:1
+MRK	20140917	59.9	59.8	r_down	sector:1 plastics:1 move:1 further:1 its:3 roots:1 pharmaceutical:1 said:1 would:1 away:1 strategy:1 sciences:1 interview:1 life:1 's:1 plans:1 business:1 separate:1 wo:1 company:1 spate:1 chemicals:1 change:1 recent:1 abandoned:1 megadeals:1 shift:1 signed:1 n't:1 following:1 toward:1 acquisition:1
+MRK	20140918	59.8	60.3	r_up	operations:1 plastics:1 move:1 focus:2 life-sciences:1 seek:1 its:2 profitable:1 cut:1 business:1 create:1 initial:1 sciences:1 public:1 stock:1 division:1 life:1 float:1 's:1 plans:2 offering:1 company:1 material:1 not:1 science:1 clear:1 value:1 more:1
+MRK	20140919	60.3	60.4	r_up	
+MRK	20140922	60.4	60.5	r_up	risk-averse:1 investors:1 global:1 primed:1 sign:1 lies:1 growth:2 investment:1 concerns:2 falling:1 stock:1 may:2 big:1 but:2 caps:2 they:1 prices:2 trouble:2 stocks:2 why:1 bigger:1 fret:1 here’s:1 sending:1 lower:1 commodity:1 worried:1 turn:1 plus:1 you:1 small:1 weigh:1 problem:1
+MRK	20140923	60.5	60.2	r_down	biggest:1 their:1 companies:1 target:1 buying:1
+MRK	20140924	60.2	60.3	r_up	renewed:1 two-day:1 after:1 selloff:1 but:1 disappointing:1 pressure:1 economic:1 out:1 came:1 under:1 stocks:1 data:1 recovered:1 euro:1
+MRK	20140925	60.3	59.6	r_down	do:1 made:1 business:1 eligible:1 benchmark:1 clear:1 companies:1 but:1 n't:1 stock-market:1 have:1 overseas:1
+MRK	20140926	59.6	59.3	r_down	
+MRK	20140929	59.3	59.4	r_up	cancer-drug:1 teenage:1 girls:1 some:1 years:1 promise:2 pitch:1 next:1 technology:1 investment:1 conference:1 said:1 offering:1 writes:1 visit:1 opportunities:1 should:1 their:1 other:1 combined:1 recommend:1 biggest:1 extensive:1 several:1 meeting:1 begins:1 them:1 slows:1 business:1 long-acting:1 big:1 implantable:1 innovation:1 choice:1 minister:1 courts:1 active:1 existing:1 data:1 prime:1 immunotherapies:2 especially:1 companies:2 devices:1 thing:1 prescribing:1 mature:1 fresh:1 drugs:1 first:2
+MRK	20140930	59.4	59.2	r_down	gone:1 consider:1 summer:1 trend:1 days:1 still:1 market:1 concerned:1 burst:2 long:1 far:1 sure:1 shorts:1 may:1 week’s:1 pushing:1 southern:1 here:1 but:1 picking:1 ominous:2 those:1 volatility:2 made:1 dog:1
+MRK	20141001	59.2	58.7	r_down	point:1 said:1 potential:1 significantly:1 clinical:1 study:1 after:1 treatment:1 drug:2 patients:1 trial:1 bad:1 lowered:1 shares:1 cholesterol:2 long-term:1 rally:2 data:1 its:1 therapies:1 developer:1
+MRK	20141002	58.7	58.8	r_up	help:1 two:1 its:1 stage:1 option:1 delivered:1 $:2 over-the-counter:1 once-a-year:1 reduction:1 sugar:1 pump:1 setting:1 potentially:1 treatment:1 7:2 medicine:1 has:1 implantable:1 's:1 finance:1 business:1 bonds:1 sold:1 blood:1 sustained:1 diabetes:1 billion:1 drug:1 worth:1 patients:1 small:1 studies:1 acquisition:1
+MRK	20141003	58.8	59.9	r_up	pork:1 number:1 pushed:1 say:1 discloses:1 errors:1 deadly:1 create:1 there:1 vaccines:1 roiled:1 new:1 has:1 racing:1 highs:1 swine:1 physicians:1 government:1 company:1 virus:1 doctors:1 prices:1 meat:1 database:1 industry:1 companies:1 record:1 payments:1 medical-device:1
+MRK	20141006	59.9	59.5	r_down	
+MRK	20141007	59.5	58.4	r_down	gaining:1 breadth:1 debt:1 sale:1 depth:1 bond:1 20-year:1 corporate:1 market:1 shows:1
+MRK	20141008	58.4	60.1	r_up	virus:1 limited:1 use:2 hit:1 high-risk:1 deadly:1 hardest:1 likely:2 say:1 experts:1 risks:1 has:1 vaccine:2 areas:1
+MRK	20141009	60.1	59.2	r_down	
+MRK	20141010	59.2	58.6	r_down	

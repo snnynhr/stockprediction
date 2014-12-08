@@ -1,0 +1,50 @@
+FSLR	20140801	63.1	62.0	r_down	
+FSLR	20140804	62.0	63.1	r_up	due:1 second:2 trading:1 looks:1 moves:1 its:1 three:1 day:2 earnings:1 worth:1 more:1 recently:1 risk:1 may:1 after:1 threatened:1 falls:1 solar:2 during:1 rises:1 than:1 projects:2 lower:1 say:1 while:1 green:1 tariffs:2 panels:1 researchers:1
+FSLR	20140805	63.1	63.6	r_up	regain:2 closes:1 rise:1 ahead:2 can:1 whether:1 after:2 results:2 keen:1 market:1 week:1 looks:1 solar:1 gain:1 report:1 developer:1 companies’:1 second-quarter:2 momentum:2 earnings:2
+FSLR	20140806	63.6	65.6	r_up	withdraws:2 tumble:1 increased:1 trading:1 year:2 miss:1 skid:1 sinks:1 decline:1 21st:2 missed:1 deferred:2 spending:1 media:1 delays:3 revenue:2 due:1 shares:3 its:1 earnings:2 widens:1 quarterly:1 steeper:1 company:3 higher:2 extended:1 's:3 gains:1 bid:2 after:4 hours:1 reported:3 fell:2 gain:1 sharply:2 fall:1 second-quarter:2 earlier:2 loss:2 deals:1 daily:1 project:3 profit:2 while:1 costs:2 maker:2
+FSLR	20140807	65.6	68.1	r_up	rallied:1 21st:1 improved:1 gains:1 climbed:1 results:1 outlook:1 up:1 earnings:1 post:1
+FSLR	20140808	68.1	67.8	r_down	
+FSLR	20140811	67.8	69.1	r_up	
+FSLR	20140812	69.1	69.0	r_down	
+FSLR	20140813	69.0	69.5	r_up	
+FSLR	20140814	69.5	69.2	r_down	$:2 tops:2 results:1 slides:1 wake:1 earnings:1 quarterly:1 200,000:2 drops:1
+FSLR	20140815	69.2	69.1	r_down	
+FSLR	20140818	69.1	70.2	r_up	
+FSLR	20140819	70.2	70.1	r_down	
+FSLR	20140820	70.1	70.8	r_up	
+FSLR	20140821	70.8	70.7	r_down	
+FSLR	20140822	70.7	70.4	r_down	
+FSLR	20140825	70.4	71.1	r_up	modestly:1 use:1 after:2 deal:1 energy:1 rise:1 up:1 shares:1 solar:2 news:1 its:1 expand:1 developer:1
+FSLR	20140826	71.1	71.0	r_down	
+FSLR	20140827	71.0	70.0	r_down	
+FSLR	20140828	70.0	69.1	r_down	
+FSLR	20140829	69.1	69.6	r_up	promises:1 business:1 solar-power:1 value:1 years:1 destroyed:1 brighter:1 legacy:1 future:1
+FSLR	20140902	69.6	69.4	r_down	
+FSLR	20140903	69.4	71.6	r_up	
+FSLR	20140904	71.6	71.5	r_down	investors:1 their:1 companies:1 fewer:1 attracted:1 say:1 what’s:1 owned:1 have:1 performance:1 stocks:1 than:1 analysts:1
+FSLR	20140905	71.5	71.4	r_down	ago:1 quarter:1 21:2 power:1 advances:1 megawatts:1 up:1 installed:1 second:1 solar:2 year:2 panels:1
+FSLR	20140908	71.4	71.7	r_up	
+FSLR	20140909	71.7	70.9	r_down	off:1 tumble:1 company:1 after:1 expectations:1 reports:1 disappointing:1 nearly:2 9:2 miss:1 earnings:2
+FSLR	20140910	70.9	70.9	r_up	
+FSLR	20140911	70.9	71.6	r_up	
+FSLR	20140912	71.6	72.7	r_up	rating:1 saying:1 alongside:1 market:1 top:1 their:1 2:1 interest:1 poised:1 gets:1 rides:1 stock:1 rise:1 electric:1 nod:1 cars:1 company:1 after:1 nearly:1 grow:1 analysts:1 gave:1 electric-car:1
+FSLR	20140915	72.7	69.9	r_down	
+FSLR	20140916	69.9	70.6	r_up	
+FSLR	20140917	70.6	71.6	r_up	
+FSLR	20140918	71.6	71.6	r_up	
+FSLR	20140919	71.6	70.8	r_down	
+FSLR	20140922	70.8	67.1	r_down	deal:1 remains:1 surges:1 companies:1 loses:1 spotlight:1 news:1 climb:1 falls:1 steam:1
+FSLR	20140923	67.1	67.7	r_up	them:1 selling:1 countries:1 may:1 nearly:1 after:1 year:1 sale:1 near:1 eight:1 solar-panel:1 coming:1 you:1 panels:1 expand:1 systems:1
+FSLR	20140924	67.7	68.4	r_up	
+FSLR	20140925	68.4	67.2	r_down	
+FSLR	20140926	67.2	67.9	r_up	
+FSLR	20140929	67.9	67.5	r_down	
+FSLR	20140930	67.5	65.8	r_down	
+FSLR	20141001	65.8	63.7	r_down	
+FSLR	20141002	63.7	63.8	r_up	10:1 van:1 missed:1 widest:1 companies:1 writes:1 beaten:1 estimates:1 three:1 shares:1 earnings:1 have:1 year:1 margin:1 500:1
+FSLR	20141003	63.8	64.1	r_up	
+FSLR	20141006	64.1	62.3	r_down	
+FSLR	20141007	62.3	60.4	r_down	
+FSLR	20141008	60.4	62.1	r_up	
+FSLR	20141009	62.1	56.4	r_down	
+FSLR	20141010	56.4	53.7	r_down	

@@ -1,0 +1,50 @@
+MSI	20140801	63.3	63.4	r_up	
+MSI	20140804	63.4	63.7	r_up	
+MSI	20140805	63.7	61.0	r_down	all:1 partial:1 courts:1 pointing:1 agreed:1 major:1 trade:2 session:2 stores:1 its:4 $:2 spin:1 guidance:1 acting:1 than:1 premarket:1 include:1 day’s:1 giants:1 them:1 smartphone:1 gains:1 big:1 five:1 fall:1 bit:1 years:1 loss:2 like:1 drop:1 companies:3 slumps:1 calling:1 each:1 tumble:1 sign:1 past:1 actively:2 trading:1 close:1 said:2 tensions:1 cried:1 shares:2 current:1 outside:1 between:1 full:1 creating:1 business:1 disputes:1 news:1 boy:1 watchers:1 movers:1 reports:1 turn:1 wolf:1 military:1 traded:1 outlook:1 slipped:1 presence:1 period:1 due:1 market:3 industrials:1 publishing:1 few:1 question:1 two:2 their:2 expected:3 war:1 building:1 buy:1 posting:1 sessions:1 company:1 dismiss:1 lowered:1 sharply:1 triple-digit:1 second-quarter:2 has:1 publicly:1 whether:1 up:1 while:1 risk-averse:1 weaker:1 false:1 investors:1 1.8:1 sales:2 proven:1 promotional:1 warning:1 markdowns:1 technology:1 marking:1 patent:1 border:1 4.8:1 fourth:1 stock:1 's:3 separate:1 after:1 confirmed:1 fell:2 ownership:1 stocks:4 billion:1 lower:1 off:1 alarm:1 easing:1 truce:1
+MSI	20140806	61.0	60.8	r_down	own:1 's:1 service:1 watch:2 smartwatch:1 sports:1 n't:2 phone:1 does:1 cellular:1 need:1 has:1 its:2 fray:1 joining:1
+MSI	20140807	60.8	60.9	r_up	
+MSI	20140808	60.9	61.8	r_up	
+MSI	20140811	61.8	61.3	r_down	10:1 soured:1 van:1 these:1 writes:1 estimates:1 prospects:1 suffering:1 earnings:1 have:1 cuts:1 biggest:1 stocks:1 companies’:1
+MSI	20140812	61.3	61.3	r_up	
+MSI	20140813	61.3	61.6	r_up	
+MSI	20140814	61.6	61.1	r_down	operations:1 its:2 said:1 publishing:1 would:1 stake:1 had:2 activist:1 disclosed:1 split:1 business:1 separate:1 company:1 after:1 such:1 investor:1 than:1 he:1 10:1 days:1 broadcasting:1 planned:1 push:1
+MSI	20140815	61.1	60.6	r_down	acquisitions:1 them:1 light:1 's:1 government:1 federal:1 big:1 company:1 had:1 two:1 but:1 one:1 green:1 got:1 approval:1 awaiting:1 has:1 maker:1
+MSI	20140818	60.6	60.4	r_down	
+MSI	20140819	60.4	61.0	r_up	
+MSI	20140820	61.0	61.3	r_up	
+MSI	20140821	61.3	61.3	r_up	
+MSI	20140822	61.3	60.8	r_down	
+MSI	20140825	60.8	60.6	r_down	
+MSI	20140826	60.6	59.9	r_down	customers:1 benefited:1 revenue:1 more:1 reported:1 second:1 growth:1 video:1 world-wide:1 digital:1 pioneer:1 recorder:1 quarter:1 higher:1
+MSI	20140827	59.9	59.3	r_down	
+MSI	20140828	59.3	59.0	r_down	whose:1 people:1 highlights:1 museum:1 advancements:1 number:1 silicon:1 computer:1 passion:1 small:1 electronics:1 chips:1 industry:1 points:1
+MSI	20140829	59.0	59.0	r_up	
+MSI	20140902	59.0	58.6	r_down	
+MSI	20140903	58.6	58.6	r_up	
+MSI	20140904	58.6	58.6	r_up	saying:1 hit:1 14:1 offered:1 smartwatch:1 details:1 coming:1 device:1 stores:1 its:1 more:1
+MSI	20140905	58.6	58.5	r_down	does:1 right:1 just:1 smartwatch:1 turned:1 back:1 owned:1 due:1 hardware:1 not:1 today:1 done:1 smartwatches:1 250:1 still:1 out:1 n't:3 given:1 $:1 ugly:1 things:1 writes:1 ping:1 two:1 quickly:1 case:1 spread:1 too:1 which:1 criteria:1 has:1 ever:1 360:4 nice:1 do:1 's:4 far:1 big:1 fitness:1 watch:1 collection:1 wave:1 phone:1 step:1 wrist:1 watches:1 they:1 meet:1 put:1 data:1 than:2 software:1 me:2 begins:1 like:1 shipping:1 've:1 looked:1 collect:1 apt:1 're:1 announced:1 time:1 tall:1 more:2 my:3 order:1 first:1
+MSI	20140908	58.5	60.6	r_up	
+MSI	20140909	60.6	60.7	r_up	
+MSI	20140910	60.7	60.8	r_up	
+MSI	20140911	60.8	61.2	r_up	
+MSI	20140912	61.2	61.5	r_up	closer:1 financial:1 writes:1 think:1 matter:1 only:1 time:1 services:1 you:1 than:1
+MSI	20140915	61.5	61.4	r_down	10:1 's:1 companies:1 economies:1 rule:1 public:1 aimed:1 hurts:1 'conflict:1 minerals:1
+MSI	20140916	61.4	61.6	r_up	
+MSI	20140917	61.6	61.9	r_up	
+MSI	20140918	61.9	62.0	r_up	
+MSI	20140919	62.0	61.8	r_down	
+MSI	20140922	61.8	61.6	r_down	
+MSI	20140923	61.6	61.5	r_down	
+MSI	20140924	61.5	61.8	r_up	
+MSI	20140925	61.8	62.2	r_up	among:2 deal:1 over:1 some:1 one:1 trading:1 its:1 gainers:1 corporation:1 old-fashioned:1 few:2 responsibilities:1 take:1 which:1 6:1 biggest:1 higher:1 insurer:1 big:1 running:1 plan:1 risks:1 complaints:1 stocks:1 bendy:1 drops:1 losers:1 pension:2 30,000:1 retirees:1 latest:1
+MSI	20140926	62.2	63.4	r_up	control:1 among:1 requirement:1 week:1 suitors:1 bent:1 deal:1 obligations:1 some:1 consulting:1 years:1 telecommunications:1 3.1:1 premium:1 strategy:1 stock:1 its:1 declined:1 reputation:1 intense:1 said:1 just:1 name:1 winner:1 appointed:1 equipment:1 responsibilities:2 other:1 take:1 multibillion-dollar:1 treasury:1 newly:1 insurers:1 bid:1 told:1 firm:1 paying:1 's:3 finance:1 business:1 bonds:1 started:1 company:1 continues:1 chiefs:1 five:1 losing:1 former:1 recent:1 billion:1 kind:1 assets:1 third:1 unload:1 auction:1 getting:1 reports:1 $:1 without:1 so:1 pension:2 embracing:1 30,000:1 requires:1 retirees:1 vision:1
+MSI	20140929	63.4	63.1	r_down	
+MSI	20140930	63.1	63.2	r_up	investors:1 reassure:1 guard:1 involvement:1 during:1 need:1 plans:1 mounting:1 their:1 role:1 board:1 more:1 's:1 greater:1 unveil:1 chiefs:1 finance:1 changing:1 transition:1 companies:1 together:1 complexity:1 leading:1 long-term:1
+MSI	20141001	63.2	62.3	r_down	1.4:2 investors:1 obligations:1 reassure:1 guard:1 involvement:1 during:1 need:1 plans:2 said:1 $:2 transfer:1 their:1 board:1 greater:1 unveiling:1 job:1 reflecting:1 changing:1 billion:1 like:1 transition:1 complexity:1 pension:1
+MSI	20141002	62.3	61.0	r_down	
+MSI	20141003	61.0	61.3	r_up	
+MSI	20141006	61.3	61.5	r_up	
+MSI	20141007	61.5	60.4	r_down	ability:2 burdens:2 trend:2 fueling:2 billions:2 rising:1 promised:1 have:2 fees:1 retired:1 ditch:1 weaken:2 pay:1 workers:1 pensions:1 other:2 way:1 millions:1 around:1 payouts:1 insurer:1 employers:1 they:1 altogether:1 protect:2 off:2 --:1 could:2 required:1 companies:2 cast:2 pension:3 were:1 found:1 companies’:1 retirees:1 latest:2
+MSI	20141008	60.4	61.5	r_up	
+MSI	20141009	61.5	60.4	r_down	almost:1 messages:1 helped:1 noise:1 have:1 tools:1 engineer:1 plays:1 democracy:1 media:1 support:1 also:1 role:1 has:2 movement:1 product:1 added:1 protesters:1 expansion:1 but:1 hobbled:1 rapidly:1 like:1 well:3 social:1 mixed:1 mobilize:1
+MSI	20141010	60.4	59.0	r_down	

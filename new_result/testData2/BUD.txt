@@ -1,0 +1,50 @@
+BUD	20140801	107.9	107.0	r_down	
+BUD	20140804	107.0	108.5	r_up	
+BUD	20140805	108.5	107.8	r_down	
+BUD	20140806	107.8	107.8	r_up	volume:1 decline:1 said:1 improved:1 profit:1 8.8:1 sales:1 second-quarter:1 helped:1 beer:1 pricing:1 world-wide:1 despite:1 boost:1 its:1 higher:1
+BUD	20140807	107.8	106.7	r_down	
+BUD	20140808	106.7	107.6	r_up	
+BUD	20140811	107.6	108.4	r_up	
+BUD	20140812	108.4	108.3	r_down	
+BUD	20140813	108.3	108.0	r_down	saying:1 attendance:1 revenue:1 media:1 guidance:1 year:1 debate:1 results:1 second-quarter:1 disappointing:1 reported:1 hurt:1 treatment:1 slashed:1 has:1 its:2 recent:1
+BUD	20140814	108.0	109.3	r_up	everyone:1 deal:1 show:1 agreed:1 some:1 close:1 drinks:1 combines:1 $:1 zone:1 pay:1 stake:1 16.7:1 their:1 enough:1 splash:1 enjoys:1 get:1 energy:1 buy:1 sitting:1 big:1 visitors:1 part:1 not:1 2.15:1 billion:1 thrill:1 companies:1 time:1
+BUD	20140815	109.3	110.0	r_up	
+BUD	20140818	110.0	110.7	r_up	
+BUD	20140819	110.7	111.1	r_up	
+BUD	20140820	111.1	110.3	r_down	
+BUD	20140821	110.3	111.1	r_up	
+BUD	20140822	111.1	110.1	r_down	
+BUD	20140825	110.1	111.7	r_up	
+BUD	20140826	111.7	112.0	r_up	
+BUD	20140827	112.0	111.9	r_down	industrial:1 police:1 investors:1 also:1 writes:2 rage:1 friction:1 should:1 matter:1 economic:1 between:1 sapping:1 jobs:1 has:1 opportunity:1 killed:1 roots:1
+BUD	20140828	111.9	111.2	r_down	
+BUD	20140829	111.2	111.7	r_up	
+BUD	20140902	111.7	111.3	r_down	
+BUD	20140903	111.3	112.4	r_up	
+BUD	20140904	112.4	113.4	r_up	
+BUD	20140905	113.4	113.0	r_down	
+BUD	20140908	113.0	111.4	r_down	
+BUD	20140909	111.4	111.4	r_up	
+BUD	20140910	111.4	111.7	r_up	
+BUD	20140911	111.7	112.1	r_up	
+BUD	20140912	112.1	110.9	r_down	
+BUD	20140915	110.9	114.4	r_up	saying:1 less:1 small-cap:1 bring:2 guidance:1 five-week:1 its:1 weekly:1 rose:2 writes:1 bell:1 only:1 suffered:2 has:2 remaining:1 do:1 predict:1 around:1 seeking:1 big:1 watch:1 consolidation:2 cutting:1 nearly:1 closely:1 finance:1 falling:1 loss:1 lost:1 always:1 debut:1 companies:1 slumps:1 benefit:1 round:1 shed:1 deal:3 burst:1 energy:1 trading:2 changed:1 declined:1 index:3 lead:1 away:1 remain:1 shares:1 closed:1 brewers:1 firms:1 contributes:1 approach:1 public:1 independence:2 toes:1 led:1 opening:1 jumps:2 here:1 takeover:2 backed:1 news:1 100:2 both:1 cautious:1 last:1 spurned:1 could:1 losses:5 mixed:1 slightly:1 segments:1 small-caps:1 major:1 family:1 point:2 into:1 one:2 snapped:1 world’s:1 dividend:1 vote:2 frenetic:1 market:1 little:1 van:1 would:1 two:2 their:1 beer:2 way:1 500:2 wants:1 flat:1 posting:1 mostly:1 offer:1 started:1 wars:1 but:2 slides:1 controlling:1 prices:1 than:1 posted:1 pull:1 made:1 rival:1 excitement:1 while:2 can:1 were:3 making:1 streak:1 wishes:1 weaker:1 tap:1 investors:4 brewer:1 0.1:1 0.3:1 alongside:1 0.4:1 0.6:1 n't:1 sharp:2 watched:1 riskiest:1 moves:3 technology:3 gains:1 end:1 market-moving:1 43:1 indexes:1 concerned:1 potentially:1 largest:1 commentary:1 stock:5 week:2 independent:2 oil:1 's:3 after:5 stay:1 fell:3 stocks:7 sides:1 lower:4 kept:1 clear:1 futures:5 together:1 points:2 tech:1 rallies:1 fresh:1
+BUD	20140916	114.4	114.4	r_up	emerging:1 increasingly:1 argues:1 session:1 speed:1 its:1 previous:1 upgrade:1 rose:1 concerned:1 gains:1 criticizes:1 very:1 they:1 trade:1 companies:1 depositary:1 some:1 back:1 actively:1 trading:1 's:1 best:1 out:1 enticing:1 dial:1 said:1 giving:1 decision:1 shares:4 current:1 goes:1 run:1 defensive:1 receipts:1 publisher:1 ahead:1 perks:1 faces:1 mixed:1 traded:1 maker:2 reasons:1 down:1 hurdle:1 handled:1 small-company:1 their:1 beer:1 rates:1 interest:1 markets:1 season:1 but:2 financing:1 made:1 edged:1 up:1 incidents:1 were:1 feeling:1 slid:1 slip:1 investors:1 turned:1 disappointing:1 have:2 if:1 different:1 also:1 lifts:1 declined:2 which:1 week:1 lawyers:1 index:5 after:1 drag:1 fell:1 stocks:3 recent:1 antitrust:2 overshadowed:1 beverage:1 banks:1 investments:1
+BUD	20140917	114.4	113.2	r_down	control:1 brewer:1 increasingly:1 '':1 116:1 have:1 quality:1 its:1 said:2 $:1 best-selling:1 top:1 beer:2 concerned:1 which:1 recent:1 ``:1 's:4 plans:1 season:1 odor:1 million:1 disappointed:1 improve:1 league:1 handling:1 overshadowed:1 remove:1 spend:1 bad:1 incidents:1 maker:1
+BUD	20140918	113.2	114.7	r_up	majors:1 among:1 system:1 would:1 industry:1 tax:1 consolidation:1 overly:1 beer:1 complex:1 highlight:1
+BUD	20140919	114.7	114.8	r_up	
+BUD	20140922	114.8	114.5	r_down	league:1 handling:1 picked:1 marketing:1 over:1 executive:1 mounting:1 backlash:1 players:1 chief:1 involving:1 incidents:1 officer:1 female:1 confronts:1 new:1 its:2 ad:1
+BUD	20140923	114.5	114.0	r_down	
+BUD	20140924	114.0	114.2	r_up	
+BUD	20140925	114.2	112.5	r_down	
+BUD	20140926	112.5	112.0	r_down	
+BUD	20140929	112.0	110.6	r_down	
+BUD	20140930	110.6	110.8	r_up	has:1 's:2 greater:1 weakness:1 dollar:1 benefit:1 against:1 currency:1 slide:1 businesses:1 interest:1 exporting:1 led:1 euro:1 investor:1 recent:1
+BUD	20141001	110.8	107.7	r_down	
+BUD	20141002	107.7	106.9	r_down	heavy:1 companies:2 over:1 sales:1 trade:1 product:1 second:2 actively:1 trading:1 have:1 its:1 whose:1 hint:1 profit:1 factory:1 shares:3 beer:1 continue:1 earnings:1 buys:1 expected:1 lower-than-expected:2 boost:1 announced:1 brushing:1 plant:1 selling:1 's:1 business:2 climbs:1 outperformed:1 falls:1 glass:1 host:1 12:1 party:1 stocks:1 those:1 posted:1 fiscal:1 purchase:1 peers:1 stabilized:1 off:1 markets:1 past:1 months:1 posts:1 likely:1 session:2 overseas:1 quarter:2 maker:1
+BUD	20141003	106.9	107.4	r_up	promoter:1 concert:1 cow:1 industry:1 cash:1 but:1 one:1 stopped:1 much:1 fan:1 together:1 base:1 genre:1 world:1 trying:1 yet:1
+BUD	20141006	107.4	108.4	r_up	said:1 last:1 approached:1 takeover:1 normal:1 rival:1 bid:1 had:1 expansion:1 month:1 part:1 against:1 defensive:1 measure:1 not:1 strategy:1 its:1
+BUD	20141007	108.4	105.3	r_down	finance:1 beat:1 funds:1 private:1 banks:1 including:1 equity:1 biggest:1 news:1 hedge:1 your:1
+BUD	20141008	105.3	106.5	r_up	
+BUD	20141009	106.5	105.0	r_down	
+BUD	20141010	105.0	106.2	r_up	beautiful:1 there:2 headed:1 reasons:1 pot:1 say:1 yet:1 weekly:1 since:1 their:1 beer:1 it’s:1 booze:1 good:1 string:1 hang:1 but:1 weed:1 moment:1 worst:2 coming:1 stocks:1 come:1 losses:1 up:1 times:1 thing:1

@@ -1,0 +1,50 @@
+ICE	20140801	191.5	191.5	r_up	
+ICE	20140804	191.5	193.2	r_up	week:4 back:1 month:1 four:1 rising:1 speculators:1 saw:1 previous:1 decline:1 would:1 23:1 29:2 long:2 their:2 3:1 fourth:1 crude:1 weeks:2 many:1 higher:1 bets:2 head:1 oil:1 increased:3 exchange:1 price:2 after:1 released:1 rise:1 cutting:1 data:1 net:2 also:1 short:1 last:1 commodity:1 --:3 positions:2 drop:1 time:1 position:1 slightly:1 bet:1 first:1
+ICE	20140805	193.2	190.5	r_down	
+ICE	20140806	190.5	191.5	r_up	
+ICE	20140807	191.5	187.7	r_down	1.4:1 financial:1 deal:1 people:1 allegations:1 locations:1 related:1 trade:2 spinoff:2 session:2 same:1 year:2 operator:1 misconduct:1 crisis:1 market:1 gains:1 run-up:1 some:1 said:3 $:4 record:1 profit:2 pay:1 sale:1 shares:2 its:3 revenue:1 costs:1 earnings:1 which:1 expected:2 before:1 more:1 ago:1 's:7 premarket:1 than:1 familiar:1 company:1 million:5 transfer:1 paid:1 period:1 part:2 operating:2 half:1 101:1 continued:1 second-quarter:1 bank:1 assets:1 billion:2 increased:1 resolve:1 excluding:1 17:1 16:1 --:1 euros:1 companies:2 according:1 doubled:1 matter:1 while:1 actively:2 revenues:1 rose:3 landmark:1 closing:1 stock:1 first:1
+ICE	20140808	187.7	190.7	r_up	
+ICE	20140811	190.7	188.7	r_down	
+ICE	20140812	188.7	187.2	r_down	
+ICE	20140813	187.2	187.0	r_down	
+ICE	20140814	187.0	188.6	r_up	
+ICE	20140815	188.6	186.9	r_down	
+ICE	20140818	186.9	189.3	r_up	
+ICE	20140819	189.3	185.0	r_down	
+ICE	20140820	185.0	186.2	r_up	10:1 van:1 faster:1 rivals:1 share:1 writes:1 companies:1 per:1 clearly:1 their:1 winners:1 gauge:1 highlights:1 growing:1 than:1 500:1
+ICE	20140821	186.2	187.9	r_up	
+ICE	20140822	187.9	188.4	r_up	
+ICE	20140825	188.4	188.9	r_up	
+ICE	20140826	188.9	188.7	r_down	
+ICE	20140827	188.7	187.5	r_down	week:1 oil:1 last:1 petroleum:1 expectations:1 crude:1 fell:1 products:1 prices:1 supplies:1 crude-oil:1 higher:1
+ICE	20140828	187.5	188.0	r_up	
+ICE	20140829	188.0	188.3	r_up	
+ICE	20140902	188.3	187.6	r_down	talked:1 have:1 culture:1 trading:1 another:1 home:1 saved:1 impact:1 overhaul:1 floor:1 shrinking:1 there:1 stoop:1 also:1 turnaround:1 ambitious:1 under:1 faltering:1 company’s:1 's:2 business:2 big:2 workforce:1 but:1 includes:1 base:1 plan:1 new:1 front:1 consideration:1 midst:1 renovation:1 change:1 owners:1 storied:1 look:1 could:1 headquarters:1 begun:1 capitalism:1 leave:1 reshaping:1 chieftain:1 corporate:1
+ICE	20140903	187.6	184.7	r_down	
+ICE	20140904	184.7	184.9	r_up	
+ICE	20140905	184.9	186.0	r_up	smaller:1 financial:1 gold:1 over:1 manage:1 0.7:1 trade:2 down:1 actively:2 trading:1 1.2:1 's:5 its:3 again:1 said:2 deal:1 takeover:1 clearing:1 fix:1 shares:5 citing:1 setting:1 take:1 widely:1 expected:2 premarket:1 bid:1 board:1 revised:1 recently:1 which:1 marketing:1 price:2 350:2 rejected:1 unanimously:1 services:1 data:1 silver:1 expand:1 $:5 million:1 acquire:1 would:1 rights:1 concerns:1 rival:1 antitrust:1 companies:2 cash:1 daily:2 order:1 session:2 responsibility:1 were:1 slightly:1 support:1 fell:2
+ICE	20140908	186.0	186.8	r_up	
+ICE	20140909	186.8	186.5	r_down	management:1 space:1 according:1 paid:2 asset:1 brokerage:1 highest:2
+ICE	20140910	186.5	189.6	r_up	
+ICE	20140911	189.6	189.6	r_up	
+ICE	20140912	189.6	194.6	r_up	
+ICE	20140915	194.6	195.5	r_up	said:1 transfer:1 later:1 month:1 listing:1 its:1 stock:1
+ICE	20140916	195.5	196.8	r_up	
+ICE	20140917	196.8	201.8	r_up	
+ICE	20140918	201.8	204.0	r_up	
+ICE	20140919	204.0	203.8	r_down	said:1 commodity:1 warehousing:1 effect:1 regulator:1 participants:1 survey:1 solicit:1 prices:1 asked:1 market:1
+ICE	20140922	203.8	200.7	r_down	helps:1 charitable:1 's:1 committee:1 seeking:1 whether:1 into:1 exchange:1 fund:1 advocacy:1 its:1 federal:1 investigation:1 donations:1 election:1 groups:1 need:1 employees:2 contributions:1 violated:1 laws:1
+ICE	20140923	200.7	199.5	r_down	
+ICE	20140924	199.5	199.0	r_down	
+ICE	20140925	199.0	195.6	r_down	derivatives:1 rules:1 over:1 policy:1 international:1 efforts:1 postcrisis:1 makers:1
+ICE	20140926	195.6	196.4	r_up	
+ICE	20140929	196.4	195.2	r_down	bets:1 slid:1 oil:2 further:1 their:1 price:1 three:1 long:1 34:1 biggest:1 cut:1 rising:1 prices:1 slashed:1 crude:1 position:1 net:1 years:1
+ICE	20140930	195.2	195.0	r_down	ago:1 all:2 said:2 chose:1 third:1 technology:1 over:1 half:1 companies:1 up:1 41:1 62:1 listed:1 year:1 go:1 8:2 quarter:2 its:1 public:1 market:1 stock:1
+ICE	20141001	195.0	194.0	r_down	
+ICE	20141002	194.0	197.7	r_up	
+ICE	20141003	197.7	198.4	r_up	
+ICE	20141006	198.4	199.1	r_up	
+ICE	20141007	199.1	196.3	r_down	seven:1 spending:1 switching:1 sides:1 companies:1 years:1 go:1 public:1
+ICE	20141008	196.3	201.3	r_up	
+ICE	20141009	201.3	203.0	r_up	
+ICE	20141010	203.0	203.6	r_up	

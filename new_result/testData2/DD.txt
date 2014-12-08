@@ -1,0 +1,50 @@
+DD	20140801	63.8	63.7	r_down	
+DD	20140804	63.7	64.1	r_up	
+DD	20140805	64.1	63.5	r_down	
+DD	20140806	63.5	64.3	r_up	
+DD	20140807	64.3	63.9	r_down	
+DD	20140808	63.9	64.5	r_up	growing:1 their:1 number:1 but:1 pressure:1 foods:1 small:1 firms:1 consumer:1
+DD	20140811	64.5	64.5	r_up	
+DD	20140812	64.5	65.0	r_up	
+DD	20140813	65.0	65.1	r_up	preserve:1 serve:1 documents:1 requirements:1 risk:1 being:2 some:1 into:1 caught:1 companies:1 evidence:1 may:1 courts:1 time:1 first:1 dragged:1 more:1
+DD	20140814	65.1	65.2	r_up	roundup:1 news:1 's:2 private:1 morning:1
+DD	20140815	65.2	65.2	r_up	
+DD	20140818	65.2	65.8	r_up	
+DD	20140819	65.8	66.2	r_up	
+DD	20140820	66.2	66.2	r_up	
+DD	20140821	66.2	66.3	r_up	
+DD	20140822	66.3	65.8	r_down	patented:1 's:1 patent:1 technology:2 company:1 alleging:1 paste:1 against:1 infringement:1 affiliate:1 solar:1 filed:1 lawsuit:1 its:1
+DD	20140825	65.8	66.1	r_up	
+DD	20140826	66.1	66.1	r_up	handing:1 techniques:1 federal:1 crops:1 modern:1 companies:1 modified:1 against:1 curbing:1 chemical:1 genetically:1 seed:1 victory:1 battle:1 agricultural:1 judge:1 new:1 law:1 over:1 ruled:1
+DD	20140827	66.1	65.9	r_down	
+DD	20140828	65.9	66.1	r_up	agreed:1 dead:1 trade:1 actively:1 soybean:1 cut:1 $:1 farmers:1 pay:1 hazardous:1 alleged:1 shares:1 next:1 chemical:2 leaks:1 1.28:1 expected:2 violations:1 sliding:1 do:1 plant:1 's:1 season:1 corn:1 million:1 worker:1 tied:1 plan:1 despite:1 prices:2 one:1 session:1 resolve:1 incomes:1 companies:2 dent:1 n't:1 seed:1 growing:1 left:1
+DD	20140829	66.1	66.1	r_up	
+DD	20140902	66.1	65.8	r_down	n't:1 group:1 investors:1 give:1 these:1 comfortable:1 companies:2 benefit:1 years:1 four:1 enough:1 doubt:1 under:1 accounting:1 scrutiny:1 spotlight:1
+DD	20140903	65.8	65.8	r_up	whose:1 plant:1 full:1 return:1 has:1 pursue:1 dollars:1 resistance:1 climate:1 hundreds:1 implementation:1 depends:1 decided:1 have:1 postpone:1 regulation:1 investments:1 millions:1
+DD	20140904	65.8	65.9	r_up	26:2 settlement:1 neighborhood:1 $:2 lead:1 pay:1 agreed:1 million:1 parts:1 state:1 cleanup:1 contamination:1 estimated:1
+DD	20140905	65.9	66.0	r_up	
+DD	20140908	66.0	65.3	r_down	scrambling:1 prowess:1 like:1 technical:1 becomes:1 industry:2 up:1 else:1 everything:1 build:1 agricultural:1 farming:1 its:1
+DD	20140909	65.3	65.2	r_down	``:1 '':1 foray:1 agricultural:1 technology:1 guides:1 sell:1 planting:1 service:1 farmers:1 harvest:1 rivals:1 plant:1 seeking:1 conglomerate:1 host:1 data:1 developing:1 crops:1 pits:1 against:1 software:1
+DD	20140910	65.2	65.2	r_up	
+DD	20140911	65.2	65.1	r_down	$:1 business:1 big:1 startup:1 decisions:1 their:1 growers:1 7:1 using:1 data:1 guide:1 help:1
+DD	20140912	65.1	64.7	r_down	
+DD	20140915	64.7	65.3	r_up	
+DD	20140916	65.3	65.8	r_up	chemical:1 giant:1 rebuffed:1 force:1 calls:1 campaign:1 record:1 successful:1 after:1 itself:1 up:1 private:1 break:1 track:1 activist:1 change:1 investor:1 launched:1
+DD	20140917	65.8	69.2	r_up	trade:1 session:1 through:1 its:3 giant:1 economy:1 board:1 equity:2 2014:1 arguments:1 do:1 his:1 break:2 new:1 investor:1 entire:1 companies:1 morning:1 deals:2 higher:1 force:1 back:1 related:1 edition:1 actively:1 year:1 close:1 agriculture:1 closes:1 shares:1 five-year:1 got:1 firms:1 peek:1 reaching:1 burn:1 delivering:1 news:1 change:1 roundup:1 rebuffed:1 makes:1 campaign:1 into:1 private:3 message:1 market:2 little:1 two:1 rates:1 interest:1 memory:1 expected:1 curtain:1 lease:1 wants:2 nutrition:1 life:1 biggest:1 gain:1 bull:1 than:1 inventor:1 case:1 18:1 up:2 record:2 can:1 more:1 investors:1 high:2 itself:1 embrace:1 make:1 chemical:1 split:1 units:1 stock:1 's:7 slightly:1 after:1 letter:2 stocks:2 recent:1 off:1 calls:1 pulled:1 corporate:1 stick:1
+DD	20140918	69.2	71.2	r_up	least:1 financial:1 may:1 campaign:1 increasingly:1 well:1 soon:1 private:1 tempered:1 slam:1 including:1 concerns:1 have:2 go:1 hit:1 morning:1 your:1 market:1 gains:1 discloses:1 stocks:1 van:1 appear:1 would:1 no:1 efficient:1 writes:1 breaking:1 feature:1 been:1 shares:1 being:1 activist:4 rates:1 earnings:1 way:1 equity:1 expected:1 2014:1 weeks:1 more:1 dunk:1 begin:1 after:1 's:3 finance:1 beat:1 funds:1 commentary:1 activity:1 long:1 sooner:1 provides:1 break:1 biggest:1 running:1 real-time:1 news:2 hedge:1 now:1 investor:2 than:1 raising:1 recent:1 falls:2 10:1 grew:1 19:1 conglomerates:1 stake:2 list:1 up:1 analysis:1 worried:1 while:1 time:1 banks:1 become:1 climb:1 investors’:1
+DD	20140919	71.2	71.2	r_up	
+DD	20140922	71.2	71.4	r_up	
+DD	20140923	71.4	71.0	r_down	operations:1 major:1 they:2 investors:1 almost:1 some:1 bring:1 offer:1 have:1 rid:1 any:1 story:1 court:1 metropolitan:1 icons:1 get:1 governance:1 center:1 their:2 activist:1 amenities:1 you:1 pride:1 tell:1 more:1 's:3 around:1 demands:1 club:1 big:1 company:1 hotel:1 glimpse:1 environmental:1 invested:1 members:1 such:1 faded:1 assets:1 theater:1 boards:1 country:1 industry:2 companies:1 without:1 era:1 entice:1 social:1 strategies:1 corporate:1 employees:1
+DD	20140924	71.0	72.8	r_up	
+DD	20140925	72.8	71.7	r_down	
+DD	20140926	71.7	72.5	r_up	
+DD	20140929	72.5	72.0	r_down	major:1 short:1 gains:1 electricity:1 able:1 into:1 they:1 convert:1 their:1 materials:1 have:1 time:1 percentage:1 made:1
+DD	20140930	72.0	71.7	r_down	
+DD	20141001	71.7	70.4	r_down	
+DD	20141002	70.4	70.2	r_down	
+DD	20141003	70.2	70.6	r_up	buy:1 string:1 company:1 deals:1 sweeping:1 chemicals:1 acquisitive:1 talks:1 investor:1 industry:1 advanced:1 latest:1
+DD	20141006	70.6	70.1	r_down	industries:1 facing:1 ``:1 no:1 --:2 companies:1 play:1 choice:1 '':1 exception:1 major:1 changes:1
+DD	20141007	70.1	69.0	r_down	giants:1 off:1 business:1 near-record:1 decision:1 breaking:1 lines:1 up:1 pace:1 spinning:1 split:1 themselves:1 corporate:1 comes:1
+DD	20141008	69.0	68.5	r_down	
+DD	20141009	68.5	67.3	r_down	
+DD	20141010	67.3	66.5	r_down	

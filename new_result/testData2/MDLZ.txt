@@ -1,0 +1,50 @@
+MDLZ	20140801	35.8	36.1	r_up	
+MDLZ	20140804	36.1	36.2	r_up	weighs:1 financial:2 help:1 formerly:1 over:1 tax:1 rest:1 its:2 said:1 chain:1 take:1 international:1 drugstore:1 touted:1 his:1 's:2 retailer:1 company:1 moving:1 new:1 buying:1 lower:1 bill:1 experience:1 chief:2 officer:2 overseas:1
+MDLZ	20140805	36.2	35.8	r_down	exotic:1 saying:1 outlook:1 full:1 stores:1 ago:1 pointing:1 1.8:1 sales:1 trade:1 session:1 trading:1 breakfast:1 markdowns:1 its:3 confirmed:1 said:1 $:2 no:1 come:1 4.8:1 shares:1 trip:1 looking:1 few:1 're:1 premarket:1 between:1 expected:1 you:1 has:1 store:1 'd:1 me:1 product:1 buy:1 's:3 creating:1 business:1 separate:1 some:1 starting:1 propelled:1 lowered:1 two:1 ownership:1 airfare:1 promotional:1 spin:1 second-quarter:1 publishing:1 billion:1 absent:1 grocery:1 off:1 publicly:1 --:2 similar:1 taking:1 companies:2 days:1 experience:1 matter:1 actively:1 products:1 three:1 items:1 traded:1 fell:1
+MDLZ	20140806	35.8	35.5	r_down	streak:1 financial:1 revenue:1 increasingly:1 trade:1 weighed:1 session:1 have:2 moves:1 its:1 closer:1 decline:1 said:1 rose:1 shares:1 1:1 rates:1 earnings:1 interest:1 expected:1 markets:2 stock:1 turmoil:1 's:2 increased:1 valuations:1 slight:1 food:1 geopolitical:1 feels:1 offset:1 expenses:1 second-quarter:1 raising:1 volatility:1 lower:1 like:1 companies:1 anxious:1 credit:1 actively:1 3.5:2 become:1 maker:1 history:1
+MDLZ	20140807	35.5	34.9	r_down	
+MDLZ	20140808	34.9	35.3	r_up	
+MDLZ	20140811	35.3	35.6	r_up	
+MDLZ	20140812	35.6	35.5	r_down	
+MDLZ	20140813	35.5	35.6	r_up	
+MDLZ	20140814	35.6	35.5	r_down	
+MDLZ	20140815	35.5	35.6	r_up	
+MDLZ	20140818	35.6	35.8	r_up	
+MDLZ	20140819	35.8	36.0	r_up	
+MDLZ	20140820	36.0	36.0	r_up	
+MDLZ	20140821	36.0	36.0	r_up	
+MDLZ	20140822	36.0	35.7	r_down	
+MDLZ	20140825	35.7	35.9	r_up	
+MDLZ	20140826	35.9	35.9	r_up	firm:1 sending:1 peers:1 ad:2 unlike:1 space:1 profit:1 many:1 31:1 soaring:1 second:1 video:1 stock:1 after-hours:1 trading:1 quarter:1 technology:1 its:2 posted:1
+MDLZ	20140827	35.9	36.0	r_up	look:1 less:1 4:1 three:1 other:1 so:1 attractive:1 argues:1 names:1
+MDLZ	20140828	36.0	36.1	r_up	
+MDLZ	20140829	36.1	36.0	r_down	
+MDLZ	20140902	36.0	35.5	r_down	control:1 major:1 world-wide:1 people:1 well:1 powerful:1 world’s:2 have:1 impact:1 working:1 diets:1 environment:1 their:1 biggest:1 conditions:1 food:2 most:1 10:2 influential:1 companies:2 beverage:1 so:1 can:1 policies:1
+MDLZ	20140903	35.5	35.6	r_up	sell:1 agribusiness:1 giant:1 million:1 's:1 business:1 grains:1 agreed:1 440:1 deal:1 chocolate:1 private:1 capabilities:1 its:1 expand:1 $:1
+MDLZ	20140904	35.6	35.3	r_down	
+MDLZ	20140905	35.3	35.5	r_up	
+MDLZ	20140908	35.5	35.1	r_down	
+MDLZ	20140909	35.1	35.3	r_up	's:1 food:1 32:1 straight:1 sales:1 years:1 trends:1 growth:1 despite:1 breakfast:1 has:1 changes:1
+MDLZ	20140910	35.3	35.4	r_up	
+MDLZ	20140911	35.4	35.6	r_up	
+MDLZ	20140912	35.6	35.1	r_down	
+MDLZ	20140915	35.1	35.2	r_up	
+MDLZ	20140916	35.2	35.3	r_up	ad:2 tepid:1 fall:1 sales:1 '':1 have:1 networks:1 spending:1 been:1 looking:1 new:1 weeks:1 include:1 ``:1 coming:1 season:2 weaker-than-expected:1 upfront:1 advance:1 surge:1 banking:1 following:1
+MDLZ	20140917	35.3	35.2	r_down	force:1 campaign:1 back:1 private:1 itself:1 year:1 its:1 giant:1 chemical:1 curtain:1 more:1 his:1 's:3 after:1 break:1 letter:1 than:1 change:1 entire:1 calls:1 rebuffed:1 up:1 pulled:1
+MDLZ	20140918	35.2	35.6	r_up	campaign:1 soon:1 slam:1 have:1 go:1 van:1 no:1 efficient:1 writes:1 long:1 activist:2 way:1 more:1 dunk:1 hit:1 may:1 break:1 stocks:1 investor:1 10:1 conglomerates:1 list:1 up:1 become:1 investors’:1
+MDLZ	20140919	35.6	35.5	r_down	600:1 foods:1 aimed:1 eliminating:1 close:1 its:1 said:1 factory:1 mix:1 2:1 yogurt:1 sluggish:1 cost-cutting:1 plant:1 jobs:1 packaged:1 offsetting:1 nearly:1 cereal:2 demand:1 up:1 steps:1 cake:1 first:1 other:1 plan:1
+MDLZ	20140922	35.5	34.8	r_down	
+MDLZ	20140923	34.8	34.4	r_down	
+MDLZ	20140924	34.4	35.1	r_up	
+MDLZ	20140925	35.1	34.5	r_down	marketing:1 veteran:1 chief:1 advertising:1 promoted:1 post:1 officer:1
+MDLZ	20140926	34.5	34.4	r_down	
+MDLZ	20140929	34.4	34.2	r_down	conference:1 mining:1 's:1 mobile:1 marketing:1 topics:1 year:1 data:1 digital:1 chatter:1
+MDLZ	20140930	34.2	34.2	r_up	
+MDLZ	20141001	34.2	33.7	r_down	operations:1 current:1 end:1 plans:1 funds:1 its:2 down:1 year:1 next:1 dissolve:1 wind:1
+MDLZ	20141002	33.7	33.8	r_up	
+MDLZ	20141003	33.8	34.2	r_up	
+MDLZ	20141006	34.2	34.4	r_up	
+MDLZ	20141007	34.4	33.9	r_down	giants:1 off:1 business:1 near-record:1 decision:1 breaking:1 lines:1 up:1 pace:1 spinning:1 split:1 themselves:1 corporate:1 comes:1
+MDLZ	20141008	33.9	34.3	r_up	value:1 off:1 together:1 company:1 splitting:1 been:1 up:1 better:1 pressure:1 shareholder:1 build:1 under:1 problem:1 has:1
+MDLZ	20141009	34.3	33.6	r_down	said:1 financial:1 offer:1 executive:1 serve:1 its:1 next:1 chief:1 has:1 tapped:1 former:1
+MDLZ	20141010	33.6	33.4	r_down	emerging:1 revenue:1 offset:1 named:2 flavor:1 2.6:1 finance:1 end:1 three:1 its:1 increase:1 fragrance:1 markets:1 division:1 's:1 gains:1 sales:1 reported:1 demand:1 reinsurance:1 former:1 lower:1 incoming:1 maker’s:1 months:1 chief:1

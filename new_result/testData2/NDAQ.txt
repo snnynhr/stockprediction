@@ -1,0 +1,50 @@
+NDAQ	20140801	42.0	41.8	r_down	reeling:1 wholesaler:1 into:2 turbulent:1 years:1 '':1 ended:1 its:2 weekly:1 stumbled:1 industrials:1 goal:1 brand:1 two:1 indexes:1 2014:1 over:1 500:1 week:1 ``:1 's:2 purchase:1 company:1 benchmark:1 step:1 fell:1 worst:1 key:1 known:1 roller-coaster:1 stocks:1 he:1 loss:1 lifestyle:1 red:1 toward:1 left:1
+NDAQ	20140804	41.8	42.1	r_up	's:1 finance:1 beat:1 funds:1 private:1 morning:1 banks:1 including:1 equity:1 biggest:1 news:1 hedge:1 your:1
+NDAQ	20140805	42.1	41.5	r_down	firm:1 major:1 acquiring:1 high-frequency:1 markets:1 upside:1 microwave:1 linking:1 part:1 trading:1 plan:1 have:1 's:1 establish:1 networks:1 stock:1
+NDAQ	20140806	41.5	41.5	r_up	securities:1 ``:1 led:1 takes:1 consistently:1 across:1 '':1 beta:1 strategic:1 passive:1 strategy:1 approaches:1 index:1 which:1 applies:1 active:2 has:1 approach:1 notion:1
+NDAQ	20140807	41.5	41.3	r_down	
+NDAQ	20140808	41.3	41.4	r_up	publisher:1 shareholders:1 's:1 $:1 some:1 million:1 list:1 includes:1 115:1 companies:1 game:1 tech:1 hottest:1 has:1
+NDAQ	20140811	41.4	41.8	r_up	
+NDAQ	20140812	41.8	41.4	r_down	biotech:1 all:1 six:1 disaster:1 share:1 commitment:1 down:1 through:1 thanks:1 follow:1 hit:1 market:1 sat:1 stands:1 wreck:1 botched:1 there:2 shares:1 only:1 issuing:1 details:1 announce:1 stock:1 firm:1 buy:1 's:5 after:1 but:1 failure:1 train:1 key:1 desk:1 alone:1 investor:1 debut:1 days:1 morning:1 n't:3 notorious:1 traded:1
+NDAQ	20140813	41.4	41.8	r_up	investors:1 two-day:1 fell:1 following:1 rally:1 stocks:1 market:1
+NDAQ	20140814	41.8	42.0	r_up	quarter:1 holdings:1 sold:1 second:1 including:1 firms:1 several:1 technology:1 out:1
+NDAQ	20140815	42.0	41.9	r_down	
+NDAQ	20140818	41.9	42.2	r_up	busy:1 's:1 equity:1 bankers:1 been:1 have:1 capital:1 markets:1
+NDAQ	20140819	42.2	42.3	r_up	days:1 sudden:1 have:1 soured:1 stocks:1 rose:1 lately:1 grapple:1 earnings:1 his:1 's:1 business:1 boosted:1 fallout:1 strong:1 data:1 he:1 closure:1 up:1 bakery:1 economic:1 positive:1
+NDAQ	20140820	42.3	42.5	r_up	about-face:1 his:1 's:1 just:1 views:1 bears:1 pulled:1 --:2 equity:1 biggest:1 strategist:1 market:1 stock:1
+NDAQ	20140821	42.5	42.6	r_up	
+NDAQ	20140822	42.6	42.6	r_up	mainland:1 risk:1 rules:1 outdated:1 between:1 new:1 opened:1 trading:1 posing:1 wrongdoing:1 error:1 link:1 seen:1 exchanges:1 technology:1 stock:1
+NDAQ	20140825	42.6	43.3	r_up	n't:1 investors:1 give:1 reasons:1 after:1 should:1 hitting:1 record:2 fret:1 market:1 stock:1
+NDAQ	20140826	43.3	43.4	r_up	
+NDAQ	20140827	43.4	43.5	r_up	roundup:1 news:1 private:1
+NDAQ	20140828	43.5	43.6	r_up	
+NDAQ	20140829	43.6	43.3	r_down	tension:1 renewed:1 reports:1 fell:1 economic:1 upbeat:1 enthusiasm:1 stocks:1 border:1 any:1
+NDAQ	20140902	43.3	43.3	r_up	less:1 within:1 back:1 private:1 ended:1 trading:1 year:1 seek:1 gains:1 monthly:1 pulling:1 since:1 largest:1 500:2 stock:1 week:1 plans:1 mostly:1 exchange:1 upstart:1 increases:1 regulatory:1 approval:1 stocks:1 than:1 ago:1 lower:1 venue:1 were:1 become:1 launched:1
+NDAQ	20140903	43.3	43.2	r_down	sector:1 0.8:1 slid:1 slipped:1 0.1:2 declines:1 one:1 0.6:1 down:1 dropped:1 broader:1 heels:1 technology:1 its:1 before:1 24:1 index:1 27:1 competitor:1 4.3:1 rose:1 two:1 2001:1 expected:1 pared:1 500:2 week:1 product:1 edged:1 gains:3 but:1 unveil:1 early:1 fell:1 new:1 stocks:3 those:1 weighed:1 up:1 points:3 tech:2 midday:2 benchmarks:2 dragged:1 launched:1 latest:1
+NDAQ	20140904	43.2	42.9	r_down	because:1 related:1 sign:1 offerings:1 accounting:1 its:1 market:2 said:1 errors:1 positive:1 initial:1 young:1 failed:1 health:1 earnings:1 has:1 2011:1 unprecedented:1 stock:1 risk:1 big:1 but:1 levels:1 nearly:1 surged:1 day:1 box:1 companies:1 public:1 n't:1 banking:1 venture:1 pay:1 2012:1 maker:1 set-top:1
+NDAQ	20140905	42.9	42.9	r_up	via:1 secure:1 investors:2 brokerages:1 challenges:1 regulatory:1 officials:1 trading:2 shares:1 have:1 environment:1 granting:1 equities:1 seamless:1 opportunities:1 access:1 program:1 finding:1 new:2 stepping:1 stock:2 buy:1 creating:1 possible:1 link:2 exchanges:4 prepares:1 concerns:1 present:1 both:1 mainland:1 prepare:1 launch:2 companies:2 foreign:1 while:1 allow:1 including:1
+NDAQ	20140908	42.9	43.1	r_up	unsolicited:1 investors:1 exchanges:2 major:1 trumping:1 handed:1 have:1 $:1 make:1 high-frequency:1 claiming:1 legal:1 traders:1 forces:1 expected:1 firms:1 stock:1 million:1 offer:1 big:1 bid:1 earlier:1 unfair:1 regular:1 advantages:1 all-cash:1 law:1 pursue:1 rival:1 joined:1 against:1 action:1
+NDAQ	20140909	43.1	42.8	r_down	major:1 over:1 unfair:1 have:1 sue:1 stocks:1 claiming:1 handed:1 traders:1 closed:1 firms:1 500:1 stock:1 high-frequency:1 big:1 advantages:1 although:1 exchanges:2 law:1 gained:1 lower:1 joined:1 tech:1 slightly:1
+NDAQ	20140910	42.8	43.3	r_up	cybersecurity:1 roadshow:1 private:1 platforms:1 trading:3 disclosures:1 its:1 considering:1 additional:1 22:1 start:1 oversight:1 greater:1 company:1 regulators:1 kicks:1 aiming:1 off:2 heightened:1 require:1 steps:1 transparency:1 strategies:1 software:1
+NDAQ	20140911	43.3	43.3	r_up	loss:1 industrials:1 interest:1 slight:1 rose:1 rise:1 weighed:1 long-term:1 while:1 rates:1 issues:1 closed:1 geopolitical:1 500:1 recent:1
+NDAQ	20140912	43.3	43.8	r_up	
+NDAQ	20140915	43.8	43.6	r_down	session:1 said:1 's:1 transfer:1 later:1 companies:1 shares:1 month:1 actively:1 listing:1 expected:1 trade:1 its:1 stock:1
+NDAQ	20140916	43.6	43.9	r_up	slid:1 investors:2 turned:1 weighed:1 its:1 out:1 just:1 small-company:1 rates:2 emphasize:1 interest:2 meeting:1 low:1 week:1 's:1 defensive:1 coming:1 stocks:2 likelihood:1 rallied:1 short:1 ahead:1 record:1 continue:1 closing:1 decision:1
+NDAQ	20140917	43.9	43.8	r_down	
+NDAQ	20140918	43.8	43.7	r_down	
+NDAQ	20140919	43.7	43.9	r_up	
+NDAQ	20140922	43.9	43.2	r_down	
+NDAQ	20140923	43.2	42.5	r_down	
+NDAQ	20140924	42.5	42.7	r_up	streak:1 global:1 losing:1 ended:1 second:1 session:1 higher:1 three:1 indexes:1 economy:1 's:1 sessions:1 weak:1 fueled:1 fell:1 report:1 stocks:1 investor:1 straight:1 snapping:1 jitters:1 growth:1 more:1
+NDAQ	20140925	42.7	42.0	r_down	march:1 billion-dollar:1 listing:1 companies:1 exchanges:1 continued:1
+NDAQ	20140926	42.0	42.3	r_up	financial:1 global:1 past:1 growth:1 home:1 vulnerable:1 tumbled:1 tensions:1 new:1 markets:1 lingering:1 firm:1 's:1 bonds:1 geopolitical:1 hopes:1 during:1 stocks:1 rallied:1 great:1 up:1 future:1 time:1 worries:1
+NDAQ	20140929	42.3	42.3	r_up	later:1 chain:1 civil:1 years:1 shape:1 6.4:1 its:1 said:1 $:2 initial:1 shares:1 decades:1 public:1 's:2 plans:1 offering:1 offer:1 million:1 posted:1 restaurant:1 18:1 16:1 war:1 bad:1 growth:1 each:1 2010:1
+NDAQ	20140930	42.3	42.4	r_up	ago:1 all:2 said:2 chose:1 third:1 technology:1 over:1 half:1 companies:1 up:1 41:1 62:1 listed:1 year:1 go:1 8:2 quarter:2 its:1 public:1 market:1 stock:1
+NDAQ	20141001	42.4	41.9	r_down	all:1 pledge:1 over:1 major:1 startups:1 its:2 create:1 much:1 between:1 grip:1 tighten:1 's:2 gains:1 government:1 but:1 gloomy:1 not:1 stocks:1 grow:1 posted:1 room:1 third:1 n't:1 fell:1 benchmarks:1 efforts:1 quarter:1
+NDAQ	20141002	41.9	42.0	r_up	all:1 deal:1 increasingly:1 days:1 canceled:1 trading:4 laments:1 its:1 ground:1 again:1 revived:1 said:1 away:1 it’s:1 had:1 stock-market:1 several:1 public:1 stock:1 company’s:1 head:1 offer:1 after:2 but:1 most:1 focused:1 exchanges:1 losing:1 bankers:1 value:1 went:1
+NDAQ	20141003	42.0	42.7	r_up	investors:1 sigh:1 broaden:1 both:1 sells:1 its:2 range:1 tea:1 include:1 coffee:1 plans:1 received:1 regional:1 reach:1 reason:1 approval:1 expand:1 purchase:1 has:1 regulators:1 commodities:1 cheer:1
+NDAQ	20141006	42.7	42.1	r_down	
+NDAQ	20141007	42.1	41.2	r_down	seven:1 spending:1 switching:1 sides:1 companies:1 years:1 go:1 public:1
+NDAQ	20141008	41.2	42.1	r_up	sending:1 investors:1 government:1 over:1 global:1 piling:1 pace:1 tumbling:1 economic:1 growth:1 lows:1 fresh:1 worries:1 yields:1 bonds:1 into:1 sent:1
+NDAQ	20141009	42.1	41.5	r_down	merge:1 transaction:1 plans:1 unveiled:1
+NDAQ	20141010	41.5	41.3	r_down	previously:1 global:1 share:1 prices:1 growth:1 pricing:1 its:2 market:1 end:1 $:2 2:1 low:1 grew:1 markets:1 public:1 announced:1 oil:1 around:1 after:1 fell:1 losing:1 concerns:1 both:1 made:1 17:2 debut:1 pace:1 range:1 dropped:1

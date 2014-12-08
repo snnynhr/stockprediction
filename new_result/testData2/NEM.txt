@@ -1,0 +1,50 @@
+NEM	20140801	24.8	25.1	r_up	holds:1 steelmaker:1 give:1 agreed:2 titan:1 raw:1 its:2 out:1 shareholders:1 said:1 would:1 ingredients:1 95:1 sum:1 stake:3 two:1 tumbling:1 interest:1 largest:1 has:1 mining:1 buy:1 's:3 business:1 company:1 undisclosed:1 iron-ore:1 despite:1 prices:1 world:1 continued:1 purchase:1 effective:1 --:1 50:1 project:2 near:1 deposit:1 growing:1
+NEM	20140804	25.1	25.6	r_up	
+NEM	20140805	25.6	25.7	r_up	just:1 classic:1 over:1 elected:1 say:1 its:1 20:1 economists:1 inaugural:1 looking:1 boom:1 newly:1 has:1 economy:1 's:2 weak:1 but:1 president:1 now:1 takes:1 could:1 up:1 pick:1
+NEM	20140806	25.7	26.0	r_up	
+NEM	20140807	26.0	26.1	r_up	
+NEM	20140808	26.1	26.3	r_up	
+NEM	20140811	26.3	26.5	r_up	
+NEM	20140812	26.5	27.0	r_up	
+NEM	20140813	27.0	27.0	r_up	upgrade:2 rallying:1 gains:2 headwinds:1 could:1 reverses:1 record:1 while:1 which:1 face:1 analyst:1 closed:1
+NEM	20140814	27.0	27.0	r_up	
+NEM	20140815	27.0	26.8	r_down	
+NEM	20140818	26.8	26.7	r_down	billion:1 loss:1 $:2 gold:1 annual:1 miner:1 write:1 reported:1 operations:1 2.07:2 continued:1 down:1
+NEM	20140819	26.7	26.8	r_up	
+NEM	20140820	26.8	26.7	r_down	
+NEM	20140821	26.7	26.5	r_down	's:3 office:1 win:1 challenge:1 legal:1 him:1 hurdle:1 rejected:1 clearing:1 final:1 take:1
+NEM	20140822	26.5	26.3	r_down	
+NEM	20140825	26.3	25.9	r_down	
+NEM	20140826	25.9	26.4	r_up	
+NEM	20140827	26.4	26.4	r_up	
+NEM	20140828	26.4	26.8	r_up	
+NEM	20140829	26.8	27.0	r_up	week:1 says:1 said:1 's:1 negotiations:1 resume:1 --:1 begin:1 contract:1 next:1 following:1 can:1 exporting:1 hopes:1 new:1 local:1 round:1 unit:1
+NEM	20140902	27.0	26.3	r_down	week:1 copper:1 said:1 deal:1 resume:1 government:1 early:1 concentrate:1 exporting:1 has:1
+NEM	20140903	26.3	26.2	r_down	
+NEM	20140904	26.2	25.5	r_down	
+NEM	20140905	25.5	25.9	r_up	selling:1 means:1 things:1 writes:1 it’s:1 some:1 others:1 finally:1 inflation:1 portfolio:1 buying:1 time:1 protecting:1 your:1 worry:1
+NEM	20140908	25.9	25.2	r_down	
+NEM	20140909	25.2	25.5	r_up	
+NEM	20140910	25.5	25.3	r_down	
+NEM	20140911	25.3	25.5	r_up	
+NEM	20140912	25.5	25.1	r_down	already:1 producer:1 450:1 agreed:1 private:1 own:1 including:1 your:1 24:1 $:2 44:1 stake:1 does:1 lot:1 equity:1 biggest:1 has:1 today:1 buy:1 's:4 finance:1 beat:1 funds:1 million:1 joint:1 news:1 hedge:1 happening:1 precious-metals:1 morning:1 n't:1 venture:1 banks:1
+NEM	20140915	25.1	25.0	r_down	
+NEM	20140916	25.0	25.0	r_up	
+NEM	20140917	25.0	24.6	r_down	
+NEM	20140918	24.6	24.4	r_down	
+NEM	20140919	24.4	24.2	r_down	
+NEM	20140922	24.2	23.6	r_down	
+NEM	20140923	23.6	23.9	r_up	
+NEM	20140924	23.9	23.8	r_down	
+NEM	20140925	23.8	23.9	r_up	
+NEM	20140926	23.9	23.8	r_down	
+NEM	20140929	23.8	23.4	r_down	
+NEM	20140930	23.4	23.0	r_down	
+NEM	20141001	23.0	23.0	r_up	
+NEM	20141002	23.0	23.2	r_up	
+NEM	20141003	23.2	22.7	r_down	
+NEM	20141006	22.7	23.1	r_up	city:1 term:1 2003:1 politician:1 served:1 previously:1 favored:1 veteran:1 four-year:1 seen:1 marking:1 capital:1 elected:1 largest:1 comeback:1 2011:1 mayor:2
+NEM	20141007	23.1	22.5	r_down	mining:1 showed:1 tougher:1 support:1 regional:1 three:1 least:1 elections:1 candidates:1 promised:1 strong:1 projects:1
+NEM	20141008	22.5	23.6	r_up	
+NEM	20141009	23.6	22.4	r_down	
+NEM	20141010	22.4	22.2	r_down	

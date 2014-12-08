@@ -1,0 +1,50 @@
+X	20140801	33.4	33.3	r_down	outlook:1 steelmaker:1 reaping:1 despite:1 reduce:1 years:2 full-year:2 cost:1 swinging:1 cuts:1 sharp:1 miss:1 its:3 resurgence:1 would:1 profit:2 two:2 brunt:1 earnings:2 quarterly:1 net:1 shipments:1 's:1 biggest:1 iron-ore:1 demand:1 prices:2 world:1 second-quarter:1 nearly:1 posted:1 steel:1 lower:1 benefits:1 target:1 commodity:1 --:2 warned:2 drop:1 bears:1 time:1 first:2
+X	20140804	33.3	33.9	r_up	
+X	20140805	33.9	34.7	r_up	deal:1 electricity:1 clean-energy:1 energy:1 acquire:1 nearing:1 steam:1 heat:1 into:1 investor:1 company:1 renewable:1
+X	20140806	34.7	34.7	r_up	
+X	20140807	34.7	34.7	r_up	
+X	20140808	34.7	35.3	r_up	
+X	20140811	35.3	35.5	r_up	
+X	20140812	35.5	35.6	r_up	
+X	20140813	35.6	36.1	r_up	
+X	20140814	36.1	36.8	r_up	
+X	20140815	36.8	36.3	r_down	
+X	20140818	36.3	37.8	r_up	
+X	20140819	37.8	37.6	r_down	
+X	20140820	37.6	37.4	r_down	
+X	20140821	37.4	36.8	r_down	
+X	20140822	36.8	37.8	r_up	
+X	20140825	37.8	38.8	r_up	steel:1 said:1 plans:1 pipes:1 fight:1 oil:1 antidumping:1 tariffs:1 tubes:1 drilling:1
+X	20140826	38.8	39.4	r_up	
+X	20140827	39.4	39.0	r_down	still:1 raised:1 manufacturing:1 's:1 revival:1 rivals:1 energy:1 losing:1 shale:1 cheaper:1 fueled:1 part:1 boom:1 hopes:1 factories:1 has:1 ground:1
+X	20140828	39.0	37.5	r_down	
+X	20140829	37.5	38.6	r_up	
+X	20140902	38.6	38.1	r_down	
+X	20140903	38.1	39.1	r_up	recently:1 tear:1 company:1 since:1 50:1 been:1 remains:1 surging:1 shares:1 has:1 steal:1
+X	20140904	39.1	40.1	r_up	
+X	20140905	40.1	40.1	r_up	
+X	20140908	40.1	39.4	r_down	
+X	20140909	39.4	38.4	r_down	
+X	20140910	38.4	38.3	r_down	
+X	20140911	38.3	40.2	r_up	
+X	20140912	40.2	39.9	r_down	
+X	20140915	39.9	39.6	r_down	
+X	20140916	39.6	41.4	r_up	steel:1 purchase:1 $:1 presence:1 pay:1 agreed:1 million:1 fracking:1 industry:1 products:1 expanding:1 mill:1 its:1
+X	20140917	41.4	45.6	r_up	operations:1 revenue:2 alternatives:1 decline:1 trade:1 high:2 session:2 close:1 apply:1 moves:1 miss:1 its:1 market:1 strategic:2 closes:1 said:1 court:1 seeking:1 below:1 shares:2 comes:1 under:1 expected:1 higher:1 company’s:1 exploring:1 after:2 's:1 reaching:1 surges:1 extended:1 slides:1 quarterly:1 gain:1 estimate:1 stocks:1 software:1 operate:1 companies:1 consensus:1 record:2 while:1 actively:1 relief:1 stock:1 slightly:2 order:1 creditors:1 allowing:1
+X	20140918	45.6	46.0	r_up	
+X	20140919	46.0	45.1	r_down	
+X	20140922	45.1	43.8	r_down	major:1 says:1 into:1 back:1 competitive:1 years:1 '':1 bring:1 year:1 table:1 needs:1 said:1 leading:1 since:1 everything:1 interview:1 over:1 ``:1 his:1 's:1 company:2 tries:1 five:1 change:1 he:1 taking:1 losses:1 remain:1 first:1
+X	20140923	43.8	43.9	r_up	
+X	20140924	43.9	42.7	r_down	
+X	20140925	42.7	41.7	r_down	
+X	20140926	41.7	41.5	r_down	operations:1 reduce:1 one:1 2.8:1 steelmakers:1 its:1 market:1 relatively:1 debt:1 advantage:1 initial:1 take:1 largest:1 public:1 steel:1 's:1 plans:1 offering:1 strong:1 $:1 billion:1 valued:1 up:1
+X	20140929	41.5	40.6	r_down	control:1 over:1 zero:1 have:1 threats:1 lead:1 make:1 board:1 new:1 evolving:1 sure:1 's:1 business:1 they:1 address:1 efforts:1 consequences:1 minimize:1 keep:1 directors:1 practices:1 can:1 threat:1 security:1 writes:1
+X	20140930	40.6	39.1	r_down	
+X	20141001	39.1	37.1	r_down	
+X	20141002	37.1	36.9	r_down	
+X	20141003	36.9	36.3	r_down	
+X	20141006	36.3	35.7	r_down	
+X	20141007	35.7	35.5	r_down	
+X	20141008	35.5	36.5	r_up	
+X	20141009	36.5	33.9	r_down	
+X	20141010	33.9	32.5	r_down	

@@ -1,0 +1,50 @@
+MYL	20140801	49.3	49.2	r_down	deal:1 owe:1 tax:1 years:1 likely:1 drug:1 said:1 $:2 person:1 generic:1 least:1 1:1 intends:1 familiar:1 part:1 ownership:1 capital-gains:1 billion:1 inversion:1 --:1 involved:1 could:1 companies:1 value:1 deals:1 ways:1 nine:1 situation:1 maker:1
+MYL	20140804	49.2	49.1	r_down	
+MYL	20140805	49.1	48.4	r_down	
+MYL	20140806	48.4	47.9	r_down	tax:4 ideas:1 including:1 directly:1 shareholders:2 reform:1 pay:1 make:1 offer:1 system:2 enough:1 income:1 isn’t:1 taxing:1 broken:1 address:1 scraping:1 tweaking:1 inversions:1 experts:1 entirely:1 corporate:2
+MYL	20140807	47.9	46.4	r_down	1.4:1 outlook:3 30:2 financial:1 deal:1 people:1 generic-drug:2 8.2:1 year:1 allegations:1 results:1 trade:2 full-year:2 session:2 now:1 trimmed:2 misconduct:1 7.8:2 forecast:1 expects:1 crisis:1 run-up:1 21st:1 said:3 $:11 record:1 profit:2 pay:1 top:2 sale:1 citing:1 shares:2 its:6 revenue:5 also:2 increase:1 according:1 3.25:2 earnings:5 which:1 approvals:1 expected:2 ongoing:1 company:3 more:1 billion:6 's:7 gains:2 than:1 familiar:1 premarket:1 rise:1 locations:1 fell:2 8:1 key:1 share:1 post:1 expenses:2 continued:1 second-quarter:3 bank:1 rallied:1 compared:1 resolve:1 improved:1 17:1 16:1 challenge:1 climbed:1 companies:2 up:1 doubled:1 adjusted:1 matter:1 actively:2 products:1 rose:1 landmark:1 closing:1 higher:2 prior:1 delays:1
+MYL	20140808	46.4	45.8	r_down	lowest:2 geopolitical:2 developing:2 mood:2 investors:2 level:2 since:2 late:2 concerns:2 cautious:2 slumped:2 its:2 left:2
+MYL	20140811	45.8	45.3	r_down	consolidate:1 upgrade:2 plans:1 business:1 soars:1 jumped:1 climbed:1 analyst:1 while:1 rallies:1 its:1 after:1
+MYL	20140812	45.3	44.9	r_down	
+MYL	20140813	44.9	45.3	r_up	
+MYL	20140814	45.3	46.1	r_up	
+MYL	20140815	46.1	46.4	r_up	
+MYL	20140818	46.4	46.4	r_up	mutual:1 retail:1 hit:1 deal:1 investors:1 most:1 may:1 sweet:1 get:1 taxes:1 fund:2 likely:1 but:1 not:1 such:1 holders:1 save:1
+MYL	20140819	46.4	47.0	r_up	
+MYL	20140820	47.0	48.5	r_up	private-equity:1 bidding:1 being:1 over:1 some:1 up:1 second:1 itself:1 through:1 drug:2 portfolio:1 's:2 considers:1 intraday:1 said:1 decision:1 generic:3 granted:1 agency:2 makers:1 drugs:2 way:1 new:1 has:1 sold:1 temporary:1 may:1 company:2 groups:1 filed:1 put:1 approval:2 lawsuit:1 made:2 versions:1 challenge:1 well:1 sale:2 against:2 round:1 record:2 while:1 products:1 mature:1 sets:2 order:1
+MYL	20140821	48.5	47.7	r_down	
+MYL	20140822	47.7	48.2	r_up	
+MYL	20140825	48.2	48.5	r_up	
+MYL	20140826	48.5	48.3	r_down	then:2 bullish:2 bonds:2 big:2 few:2 5:2 riding:2 rally:2 stocks:2 crisis:2 dodging:2
+MYL	20140827	48.3	48.0	r_down	seven:1 often:1 executive:1 mind:1 decided:1 analysis:1 makers:2 pharmaceutical:1 proxies:1 pay:1 next:1 does:1 biggest:1 new:1 specialty:2 filed:1 tier:1 packages:1 come:1 those:2 look:1 like:1 industry:1 drug:2 players:1 compensation:2 examined:1 executives:1
+MYL	20140828	48.0	48.1	r_up	faced:1 available:1 peers:1 reverse:1 widely:1 make:1 pushing:1 drug:1 states:1 their:1 loved:1 ones:1 can:1 which:1 users:1 more:1
+MYL	20140829	48.1	48.6	r_up	
+MYL	20140902	48.6	48.6	r_up	
+MYL	20140903	48.6	47.8	r_down	fend:1 inversion:1 off:1 deal:1 company:1 administration:1 drug:1 pressure:1 put:1 's:1 effort:1
+MYL	20140904	47.8	46.9	r_down	
+MYL	20140905	46.9	46.9	r_up	
+MYL	20140908	46.9	47.9	r_up	
+MYL	20140909	47.9	47.4	r_down	
+MYL	20140910	47.4	47.4	r_up	
+MYL	20140911	47.4	47.7	r_up	
+MYL	20140912	47.7	47.0	r_down	
+MYL	20140915	47.0	46.7	r_down	criticism:1 seven:1 over:1 trade:2 price:1 actively:2 licensing:1 reached:1 its:2 expensive:1 sell:2 large:1 said:1 based:1 $:1 shares:2 generic:2 make:1 hepatitis:2 makers:2 treatment:1 expected:2 has:1 pill:1 's:2 bid:1 cheaper:1 91:1 countries:2 versions:2 developing:2 companies:2 drug:2 deals:1 session:2 allow:1 lower-cost:1
+MYL	20140916	46.7	47.9	r_up	
+MYL	20140917	47.9	48.0	r_up	while:1 star:1 addresses:1 charges:1 reversed:1 barred:1 back:1 course:1 running:1 have:1 team:1 suspended:1 sponsorship:1 its:1 he:1
+MYL	20140918	48.0	48.4	r_up	
+MYL	20140919	48.4	47.3	r_down	
+MYL	20140922	47.3	46.5	r_down	firm:1 billion:1 life:1 buy:1 's:1 $:1 deal:1 pharmaceutical:1 year:1 rush:1 drug:1 acquisitions:1 sciences:1 sector:1 17:1 have:1 marks:1 maker:1 mergers:1 latest:1
+MYL	20140923	46.5	46.6	r_up	cracking:1 investors:1 less:2 process:1 tweak:1 tax:3 down:1 device:1 say:1 unveiled:1 harder:1 administration:1 open:1 makers:1 viewed:1 intended:1 profitable:1 deals:2 stocks:1 ripe:1 their:1 guidance:1 long-awaited:1 looking:1 rivals:1 attractive:1 issued:1 rethink:1 cause:1 pending:1 after:1 's:1 halt:1 combat:1 may:1 some:1 sold:1 handful:1 following:1 takeover:1 sharply:1 new:1 sweeping:1 law:1 effort:1 off:1 rules:1 proposed:1 companies:2 drug:1 n't:1 appealing:1 so:1 inversions:3 changes:1 make:2 mergers:1 once:1
+MYL	20140924	46.6	46.4	r_down	among:2 opting:1 tax:1 one:1 ended:1 shares:1 have:1 year:1 talks:1 pharmaceutical:1 matter:1 two:1 been:2 hedge-fund:1 also:1 potential:1 potentially:1 between:1 new:1 weeks:1 has:2 bets:1 hit:1 rules:1 familiar:1 lower:1 but:1 most:2 takeover:1 stocks:1 recent:1 inversion:2 rival:1 companies:2 according:1 deals:1 person:1 explored:1 popular:1
+MYL	20140925	46.4	45.9	r_down	
+MYL	20140926	45.9	46.2	r_up	
+MYL	20140929	46.2	45.7	r_down	
+MYL	20140930	45.7	45.4	r_down	
+MYL	20141001	45.4	45.2	r_down	
+MYL	20141002	45.2	46.5	r_up	
+MYL	20141003	46.5	50.2	r_up	among:1 outlook:1 trade:1 ended:1 session:1 year:1 multiple:1 its:1 jolt:1 shares:1 citing:1 boosted:1 expected:1 gets:1 product:1 's:1 big:1 report:1 during:1 rises:1 financing:1 movers:1 launches:1 companies:1 actively:1 approvals:1 quarter:2
+MYL	20141006	50.2	50.9	r_up	
+MYL	20141007	50.9	50.1	r_down	
+MYL	20141008	50.1	51.2	r_up	
+MYL	20141009	51.2	50.1	r_down	
+MYL	20141010	50.1	49.3	r_down	

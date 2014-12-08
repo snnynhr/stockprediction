@@ -1,0 +1,50 @@
+M	20140801	57.4	57.5	r_up	
+M	20140804	57.5	58.2	r_up	
+M	20140805	58.2	57.3	r_down	
+M	20140806	57.3	58.5	r_up	
+M	20140807	58.5	58.4	r_down	
+M	20140808	58.4	59.9	r_up	
+M	20140811	59.9	59.8	r_down	n't:1 holiday:1 shopping:2 longer:1 consumers:1 no:1 challenging:1 season:1 means:1 but:1 blame:1 likely:1 weather:1 back-to-school:1 does:1 have:1 which:1 out:1 =:1 mean:1
+M	20140812	59.8	59.4	r_down	show:1 reasons:1 concludes:1 racial:1 shifts:1 written:1 earnings:1 week:1 profiling:1 's:1 importance:2 season:1 records:1 flurry:1 cases:1 stocks:1 maintaining:1 training:1 retail:1 employees:1 companies:1 reports:1 stopped:1 policies:1 providing:1 spotlight:1
+M	20140813	59.4	56.1	r_down	stores:2 chain:1 being:1 results:2 trade:1 already:1 before:1 giant:1 troubles:1 should:1 quarterly:1 has:2 500’s:1 earnings:2 scheduled:1 customers:1 hit:1 gains:1 combination:1 food:1 increases:1 half:1 report:2 trouble:1 look:1 reveal:1 biotechs:1 companies:2 facing:1 session:1 release:1 higher:1 dour:1 hard:1 sign:1 second:1 economic:1 year:1 muted:1 shares:2 continue:1 beating:1 full:2 led:1 weak:1 never:1 stronger-than-expected:1 coupons:1 reaction:1 reports:1 leaving:1 expecting:1 analysts:1 passing:1 retail:2 purported:1 industrial:1 had:1 spreading:1 retailer:1 undermining:1 rising:1 open:1 market:1 would:1 been:1 mark:1 their:1 stock:1 expected:1 upbeat:1 store:1 health-care:1 season:1 company:1 pinching:2 year-over-year:1 made:1 sectors:1 these:1 n't:2 actively:1 similar:1 crazy:1 almost:1 penny:2 sales:3 disappointing:1 rally:2 technology:1 relatively:1 strength:1 pay:2 5:1 take:1 which:1 department:1 you:1 economy:1 's:4 price:2 frequently:1 stocks:1 data:1 surprising:1 downbeat:1 profit:1 costs:1 so:1 push:1
+M	20140814	56.1	57.5	r_up	sector:1 saying:1 all:1 chain:1 over:1 slashed:1 results:1 quarters:1 leads:2 looks:2 broader:1 yet:1 giant:1 rose:2 guidance:1 same-store:1 labor:1 advisories:1 pretty:2 good:1 gains:1 rebound:1 game:1 traffic:1 front:1 day:2 companies:1 bad:1 its:2 tepid:1 back:1 year:5 slew:1 even:1 said:1 gainers:1 prompts:1 forecast:1 sluggish:1 downgrades:1 reported:1 weaker-than-expected:1 news:1 strong:1 roundup:1 improved:1 industry:1 reports:1 disappointment:1 surprises:1 retail:3 slightly:1 maker:1 department-store:1 major:1 into:1 one:1 another:1 market:1 decline:2 story:1 positive:1 territory:1 500:2 flat:1 lowered:1 demand:1 second-quarter:1 posted:1 performers:1 solid:1 up:1 while:1 future:1 drops:1 shook:1 investors:1 sales:3 expenses:1 pushed:1 different:1 indexes:1 earnings:3 outlook:1 economy:1 's:6 after:1 stocks:2 data:1 fiscal:1 lower:1 off:1 corporate:1 retail-sales:1 costs:1 green:1 consumer:1 latest:1
+M	20140815	57.5	57.1	r_down	fiscal:1 said:1 's:2 increased:1 margins:1 became:1 weaker:1 retailer:1 second-quarter:1 fell:1 5:1 earnings:1 amid:1 discounting:1 post:1 its:1 department-store:1 latest:1
+M	20140818	57.1	57.7	r_up	
+M	20140819	57.7	58.6	r_up	
+M	20140820	58.6	59.7	r_up	stores:1 agreed:1 allegations:2 sales:1 related:1 trade:1 trends:1 session:1 enhanced:1 racial:2 settlement:2 its:2 $:2 profit:1 pay:2 shares:1 expected:1 higher:1 profiling:2 's:5 increased:1 parent:1 offer:1 weak:1 reported:1 traffic:1 reaches:1 650,000:2 training:1 employees:1 companies:1 actively:1 retail:1 industry:1
+M	20140821	59.7	60.3	r_up	
+M	20140822	60.3	61.4	r_up	
+M	20140825	61.4	62.0	r_up	
+M	20140826	62.0	62.2	r_up	
+M	20140827	62.2	62.2	r_up	
+M	20140828	62.2	62.0	r_down	
+M	20140829	62.0	61.9	r_down	
+M	20140902	61.9	61.8	r_down	cheap:1 high:1 not:1 lesson:1 spark:1 stocks:2 group:1 their:1 breakout:1 low:1 technicals:1 but:1 groups:1 improving:1 awaiting:1 strong:1 buying:1 building:1 bases:1 like:1 always:1 tinder:1
+M	20140903	61.8	61.3	r_down	
+M	20140904	61.3	62.1	r_up	plays:1 's:1 father:1
+M	20140905	62.1	61.5	r_down	enticing:1 unexpected:1 's:1 remains:1 drop:1 sales:1 shares:1 valuation:1 pressuring:1
+M	20140908	61.5	60.3	r_down	product:1 builds:1 ahead:1 catalysts:1 sentiment:1 excitement:1 other:1 unveilings:1 seen:1 products:1 investors’:1 buoy:1
+M	20140909	60.3	60.1	r_down	has:1 industry:1 never:1 stopped:1 following:1 8:1 retail:1 analyst:1
+M	20140910	60.1	59.6	r_down	purchases:1 chain:1 introducing:1 digital-wallet:1 phones:1 agreed:1 executive:1 some:1 product:1 watches:1 years:1 four:1 simply:1 called:1 unveiled:1 world:1 need:1 unveils:1 technology:2 casual:1 market:2 category:1 said:1 service:1 their:1 spending:1 make:2 two:1 fast:1 your:1 dining:1 way:1 digital:1 biggest:1 new:3 entered:1 has:1 transformation:1 more:1 do:1 customers:1 smartphone:1 's:2 than:1 tries:1 moving:1 hopes:1 president:1 line:1 segment:1 payment:1 change:1 screens:1 forever:1 room:1 vice:1 did:1 into:2 larger:1 companies:1 fast-growing:1 easier:1 plunging:1 mobile:1 habits:1 payments:1 swiping:1 field:1 lending:1 its:1 support:1 first:1
+M	20140911	59.6	59.8	r_up	good:1 15:1 investors:2 months:1 being:1 after:1 sales:1 shares:1 past:1 buy:1 slowing:1 signs:1 not:1 's:1 get:1 hold:1 warning:1 downgraded:1 momentum:1
+M	20140912	59.8	59.5	r_down	risk:2 just:1 incentives:1 taking:1 partnership:1 some:1 system:1 payment:1 banks:1 say:2 experts:2 which:1 pass:1 usually:1 new:1 one:1 its:1
+M	20140915	59.5	59.5	r_up	
+M	20140916	59.5	60.2	r_up	
+M	20140917	60.2	60.6	r_up	
+M	20140918	60.6	60.5	r_down	
+M	20140919	60.5	60.1	r_down	
+M	20140922	60.1	58.9	r_down	
+M	20140923	58.9	58.6	r_down	
+M	20140924	58.6	59.5	r_up	fashion:1 help:1 into:2 global:1 accessories:1 consultants:1 say:1 year:1 empire:1 clothing:1 debate:1 veteran:1 their:1 build:1 has:1 events:1 full:1 shopping:1 brand:1 hired:1 moving:1 day:1 openings:1 industry:1 up:1 turn:1 retailers:1 could:1
+M	20140925	59.5	58.8	r_down	week:1 after:1 last:1 conclusions:1 challenged:1 sales:1 period:1 growth:1 footwear:1 double-digit:1 report:1 drawn:1 maker:1 dropped:1
+M	20140926	58.8	59.6	r_up	
+M	20140929	59.6	58.9	r_down	seasonal:1 represent:1 consulting:1 right:1 vie:1 money:1 engaged:1 focus:1 trade:1 hiring:1 actively:1 shares:1 total:1 best:1 staff:1 said:1 $:1 consumers:1 top:1 battles:1 priority:1 their:1 market:1 season:1 finding:1 has:1 brand:2 2013:1 4:1 firm:1 them:1 's:1 share:1 discerning:1 sales:1 expected:1 compared:1 those:1 billion:1 training:1 holiday:3 culture:1 18:1 employees:1 companies:1 according:1 session:1 survey:1 can:1 retailers:3 growing:1 become:1 align:1
+M	20140930	58.9	58.1	r_down	town:1 lockdown:1 into:1 but:1 much:1 lax:1 goes:1 security:1 might:1 comes:1
+M	20141001	58.1	57.7	r_down	
+M	20141002	57.7	58.3	r_up	
+M	20141003	58.3	59.6	r_up	promotions:1 repeat:1 last:1 working:1 space:1 stop:1 avoid:1 hard:1 convincing:1 pushing:1 delivery:2 year’s:1 retailers:1 fiasco:1 guarantees:1 challenge:1 out:1
+M	20141006	59.6	58.5	r_down	necessary:1 may:1 closings:1 reduce:1 cost:1 structure:1 store:1
+M	20141007	58.5	57.3	r_down	drop:1 showed:1 sales:1 company:1 after:1 results:1 third-quarter:1 maker:1 systems:1 lot:1 losing:1 sharp:1 morning:1 its:1 fizz:1
+M	20141008	57.3	57.9	r_up	investors:1 meeting:1 update:1 analyst:2 turnaround:1 expect:1 expected:1 progress:1 years:1 its:2 day:1 two:1 first:1
+M	20141009	57.9	56.4	r_down	awash:1 office:1 headed:1 middle:1 street:1 picked:1 open:1 its:2 physical:1 20-year:1 provide:1 workers:1 experiment:1 shoppers:1 has:1 type:1 tourists:1 store:2 plans:1 outlet:1 brick-and-mortar:1 flow:1 experience:1 across:1 traditional:1 retailers:1 found:1 history:1 block:1 first:2
+M	20141010	56.4	56.6	r_up	awash:1 stores:1 office:1 headed:1 sales:2 slowdown:1 say:1 street:1 restore:1 picked:1 its:1 physical:1 recovery:1 workers:1 forecast:1 makeover:1 2:1 shoppers:1 has:1 meeting:1 tourists:1 store:1 analysts:1 company’s:1 disastrous:1 plan:1 during:1 $:1 billion:1 lost:1 odds:1 flow:1 shape:1 across:1 34th:1 skepticism:1 taking:1 block:1 first:1

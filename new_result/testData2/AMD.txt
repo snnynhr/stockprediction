@@ -1,0 +1,50 @@
+AMD	20140801	3.9	3.9	r_up	
+AMD	20140804	3.9	4.0	r_up	
+AMD	20140805	4.0	4.0	r_up	
+AMD	20140806	4.0	4.1	r_up	
+AMD	20140807	4.1	4.1	r_up	
+AMD	20140808	4.1	4.1	r_up	
+AMD	20140811	4.1	4.1	r_up	's:1 $:1 23:1 upgrades:1 price-target:1 establishes:1 graphics:1 chipmaker:1
+AMD	20140812	4.1	4.0	r_down	
+AMD	20140813	4.0	4.1	r_up	
+AMD	20140814	4.1	4.0	r_down	
+AMD	20140815	4.0	4.1	r_up	
+AMD	20140818	4.1	4.2	r_up	
+AMD	20140819	4.2	4.2	r_up	
+AMD	20140820	4.2	4.2	r_up	report:1 highlights:1 analysts:1
+AMD	20140821	4.2	4.2	r_up	
+AMD	20140822	4.2	4.2	r_up	
+AMD	20140825	4.2	4.1	r_down	
+AMD	20140826	4.1	4.1	r_up	ideas:1 so:1 burning:1 attend:1 get:1 festival:1 return:1 could:2 back:1 experience:1 should:1 five:1 their:1 tech:1 new:1 5:1 desert:1 mojo:1
+AMD	20140827	4.1	4.1	r_up	
+AMD	20140828	4.1	4.1	r_up	
+AMD	20140829	4.1	4.1	r_up	
+AMD	20140902	4.1	4.1	r_up	
+AMD	20140903	4.1	4.1	r_up	
+AMD	20140904	4.1	4.1	r_up	
+AMD	20140905	4.1	4.1	r_up	
+AMD	20140908	4.1	4.1	r_up	version:2 computing:2 chip:2 rooms:2 unveiled:2 its:4 said:2 three:2 offers:2 microprocessor:1 performance:2 engine:1 calculating:1 models:2 company:2 new:2 --:1 up:2 times:2 prior:2 corporate:2 latest:2
+AMD	20140909	4.1	4.0	r_down	
+AMD	20140910	4.0	4.0	r_up	
+AMD	20140911	4.0	4.0	r_up	
+AMD	20140912	4.0	3.9	r_down	
+AMD	20140915	3.9	3.9	r_up	
+AMD	20140916	3.9	3.8	r_down	
+AMD	20140917	3.8	3.8	r_up	
+AMD	20140918	3.8	3.8	r_up	
+AMD	20140919	3.8	3.8	r_up	
+AMD	20140922	3.8	3.7	r_down	
+AMD	20140923	3.7	3.6	r_down	
+AMD	20140924	3.6	3.7	r_up	
+AMD	20140925	3.7	3.6	r_down	
+AMD	20140926	3.6	3.6	r_up	
+AMD	20140929	3.6	3.5	r_down	
+AMD	20140930	3.5	3.4	r_down	
+AMD	20141001	3.4	3.3	r_down	
+AMD	20141002	3.3	3.3	r_up	
+AMD	20141003	3.3	3.4	r_up	
+AMD	20141006	3.4	3.3	r_down	
+AMD	20141007	3.3	3.2	r_down	
+AMD	20141008	3.2	3.2	r_up	semiconductor:1 named:1 said:1 effective:1 positions:1 company:1 executive:1 down:1 chief:1 member:1 board:1 immediately:1 president:1 stepped:1 has:1 those:1
+AMD	20141009	3.2	2.9	r_down	just:1 results:1 session:2 its:3 retirement:1 send:1 combo:1 quarterly:1 hoard:1 might:1 clouded:1 good:1 return:1 big:1 rise:1 timing:1 nasty:1 replace:1 investor:1 day:1 drop:1 slumps:1 bad:1 officer:1 quarter:1 estimates:1 result:1 year:1 makers:1 gainers:2 shares:3 enough:1 activist:1 got:1 net:1 announced:1 comparable:1 belief:1 weak:1 hours:1 operating:1 news:3 advance:2 movers:1 prior:1 efforts:1 top:1 among:3 named:1 one:2 down:1 miss:1 mere:1 market:2 decline:1 shareholders:1 raise:1 positive:1 support:1 few:2 rates:2 interest:2 biggest:1 call:1 500:1 more:2 company’s:2 lot:1 surges:1 but:1 raising:1 he:1 rush:1 calls:1 triple-top:1 cash:1 while:1 investors:1 chip:1 sales:2 sense:1 rally:1 no:1 jitters:1 delay:1 earnings:1 stock:1 extended:1 after:4 upon:1 falls:1 coming:1 stocks:2 expand:1 short:1 surprising:1 overshadowed:1 face:1 chief:1 tech:2
+AMD	20141010	2.9	2.7	r_down	

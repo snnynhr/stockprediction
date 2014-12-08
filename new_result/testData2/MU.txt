@@ -1,0 +1,50 @@
+MU	20140801	30.5	31.0	r_up	sector:1 into:1 sales:1 session:1 weak:2 open:1 delivers:1 out:1 travel:1 agency:1 problems:1 concerns:1 earnings:1 leader:1 red:1 gains:1 big:1 jumps:1 rise:1 slump:1 along:1 stocks:1 sending:1 bid:1 losses:1 economic:1 tech:3 stand:1 drops:1 otherwise:1
+MU	20140804	31.0	31.6	r_up	
+MU	20140805	31.6	31.0	r_down	
+MU	20140806	31.0	30.6	r_down	
+MU	20140807	30.6	29.6	r_down	
+MU	20140808	29.6	30.0	r_up	its:1 shares:1 takeaways:1
+MU	20140811	30.0	30.7	r_up	
+MU	20140812	30.7	30.7	r_up	
+MU	20140813	30.7	31.3	r_up	
+MU	20140814	31.3	31.0	r_down	
+MU	20140815	31.0	31.4	r_up	ago:1 training:1 flying:1 's:1 federal:1 according:1 executive:1 two:1 years:1 specific:1 chief:1 plane:1 report:1 crash:1 lacked:1 investigators:1 died:1 he:2
+MU	20140818	31.4	32.0	r_up	
+MU	20140819	32.0	32.4	r_up	
+MU	20140820	32.4	33.3	r_up	
+MU	20140821	33.3	33.1	r_down	
+MU	20140822	33.1	33.2	r_up	
+MU	20140825	33.2	33.2	r_up	
+MU	20140826	33.2	32.8	r_down	
+MU	20140827	32.8	32.9	r_up	
+MU	20140828	32.9	32.8	r_down	
+MU	20140829	32.8	32.6	r_down	
+MU	20140902	32.6	31.5	r_down	
+MU	20140903	31.5	31.6	r_up	
+MU	20140904	31.6	32.1	r_up	
+MU	20140905	32.1	32.9	r_up	
+MU	20140908	32.9	33.1	r_up	
+MU	20140909	33.1	31.9	r_down	
+MU	20140910	31.9	32.0	r_up	
+MU	20140911	32.0	32.0	r_up	
+MU	20140912	32.0	31.5	r_down	
+MU	20140915	31.5	30.0	r_down	cautious:1 tone:1 surges:2 departure:1 shares:1 while:1 exit:1 following:1 drags:1 its:1 retreat:1
+MU	20140916	30.0	31.4	r_up	gains:2 steep:1 selloff:2 recovers:1 while:1 buyout:1 rebounds:1 rumor:1 previous:1
+MU	20140917	31.4	31.9	r_up	
+MU	20140918	31.9	32.4	r_up	
+MU	20140919	32.4	31.6	r_down	
+MU	20140922	31.6	30.6	r_down	
+MU	20140923	30.6	31.2	r_up	
+MU	20140924	31.2	32.2	r_up	
+MU	20140925	32.2	31.7	r_down	streak:1 fourth-quarter:2 set:1 revenue:1 trend:2 results:2 helped:1 still:1 its:2 market:3 said:1 profit:2 top:1 bell:1 expectations:2 shares:1 increase:1 hot:1 earnings:1 beating:1 conditions:1 more:1 ``:1 after:1 run:1 peaks:1 rise:1 falls:1 sales:1 favorable:1 bull:1 report:2 debt:1 recent:2 fiscal:2 '':1 has:2 room:1 third:1 past:1 up:1 keep:1 closing:1 memory-chip:1 margin:1 maker:1 better-than-expected:1
+MU	20140926	31.7	33.8	r_up	seeing:1 own:1 set:1 quarters:1 bell:1 chip:1 there’s:1 trade:1 down:1 session:2 rally:2 ready:1 multiple:1 still:1 yet:1 market:2 whose:1 heads:1 their:1 surprises:1 top:1 future:1 expectations:1 shares:3 few:1 advisories:1 earnings:3 quarterly:1 revs:1 has:1 isn’t:1 do:1 extended:1 's:2 showing:1 after:3 yesterday:1 but:1 results:2 hours:1 visibility:1 plenty:1 saying:1 active:1 heroes:1 falls:1 data:1 day:1 expand:1 roundup:1 improved:1 could:2 prove:1 companies:3 up:1 reports:1 ‘just:1 maker:1 plus:1 it’:1 banks:1 climb:1 latest:1 corporate:1 bruised:1 surge:1
+MU	20140929	33.8	34.5	r_up	
+MU	20140930	34.5	34.2	r_down	major:2 benchmarks:2 technical:1 teeter:1 support:2 important:1 have:1 test:1 reached:1
+MU	20141001	34.2	33.5	r_down	
+MU	20141002	33.5	33.8	r_up	
+MU	20141003	33.8	33.9	r_up	
+MU	20141006	33.9	32.5	r_down	
+MU	20141007	32.5	31.8	r_down	favored:1 six:1 others:1
+MU	20141008	31.8	32.3	r_up	$:2 5.7:1 sold:1 million:1 shares:1 70,000:1 options:1 2.4:1
+MU	20141009	32.3	30.6	r_down	
+MU	20141010	30.6	27.7	r_down	sector:1 overpriced:1 headed:1 issued:1 over:1 fueling:1 years:1 high:1 player:1 computer:1 its:1 concern:1 sell:1 stocks:2 chips:1 writes:1 two:1 semiconductor:1 3:1 future:1 earnings:1 downturn:1 microchip:1 higher:1 even:1 buy:1 defy:1 after:1 nearly:1 key:1 highest:1 surged:1 slowdown:1 level:1 industry:1 alarm:1 companies:1 odds:1 warning:1 maker:1

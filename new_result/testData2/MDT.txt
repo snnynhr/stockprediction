@@ -1,0 +1,50 @@
+MDT	20140801	61.4	61.1	r_down	inversion:1 owe:1 involved:1 companies:1 deals:1 likely:1 tax:1 capital-gains:1
+MDT	20140804	61.1	62.1	r_up	
+MDT	20140805	62.1	61.6	r_down	
+MDT	20140806	61.6	61.0	r_down	deal:1 tax:4 ideas:1 including:1 directly:1 shareholders:2 reform:1 pay:1 make:1 offer:1 system:2 enough:1 causing:1 take:1 income:1 isn’t:1 hit:1 taxing:1 bid:1 broken:1 address:1 stocks:1 off:1 target:1 scraping:1 tweaking:1 inversions:1 experts:1 entirely:1 drops:1 corporate:2
+MDT	20140807	61.0	60.7	r_down	load:1 deal:1 arbitragers:1 acquired:1 hard:1 some:2 years:1 '':1 suffered:1 have:1 year:1 's:4 plans:1 take:1 information:1 mutual:1 said:1 would:1 stymie:1 rout:1 takeovers:1 two:2 been:1 deal-making:1 traders:1 their:1 cardiology:1 boom:1 which:2 funds:3 products:1 tax:1 company:2 merged:1 more:2 ``:1 buy:1 hit:1 collapse:1 seeking:1 may:1 big:2 lighten:1 after:1 inversion:1 but:1 includes:1 spared:1 regulators:2 fell:1 worst:1 they:1 others:1 known:1 hedge:2 day:1 apart:1 11:1 received:1 regarding:1 cautious:1 largely:1 face:1 deals:2 steps:1 subpoena:1 2012:1 corporate:1 bet:1
+MDT	20140808	60.7	61.8	r_up	use:1 enable:1 says:1 help:1 their:1 reinvestment:1 companies:1 hurt:1 not:1 inversions:1 more:1 profits:1 economy:1
+MDT	20140811	61.8	61.7	r_down	down:1 inversion:1 dealmakers:1 's:1 offer:1 may:1 deals:1 coming:1 administration:1 sign:1 looking:1 say:1 crack:1 new:1 next:1
+MDT	20140812	61.7	61.9	r_up	
+MDT	20140813	61.9	63.1	r_up	's:1 invest:1 let:1 inversions:1 businesses:1 more:1
+MDT	20140814	63.1	63.4	r_up	
+MDT	20140815	63.4	62.9	r_down	
+MDT	20140818	62.9	63.1	r_up	prevent:1 consider:1 deal:1 increasingly:1 sweet:1 tax:1 likely:1 officials:1 portfolio:1 any:1 sell:1 mutual:1 management:1 investors:1 would:1 ways:1 save:1 administrative:1 pursues:1 stock:1 dodge:1 his:1 hit:1 get:1 may:1 popular:1 shareholders:1 but:1 deter:1 most:1 not:1 such:1 overseas:1 fund:2 companies:1 taxes:1 bad:1 can:1 inversions:1 holders:1 retail:1 options:1
+MDT	20140819	63.1	63.6	r_up	being:1 results:1 trade:1 '':1 session:1 topped:1 committed:1 first-quarter:1 its:1 expectations:1 shares:1 expected:1 remaining:1 ``:1 buy:1 's:3 bid:1 analyst:1 posted:1 fully:1 companies:1 while:1 actively:1
+MDT	20140820	63.6	63.8	r_up	saying:1 quarters:1 high:1 ended:1 caution:1 close:2 surprises:1 retreats:1 advisories:1 earnings:1 commentary:1 slides:1 analyst:2 roundup:1 cautious:1 companies:1 reports:1 record:2 while:1 future:1 sets:1 corporate:1 latest:1
+MDT	20140821	63.8	63.7	r_down	shareholders:1 affected:1 help:1 consequences:1 their:1 ways:1 big:1 clients:1 tax:1 looking:1 carry:1 inversions:1 now:1
+MDT	20140822	63.7	63.2	r_down	code:1 financial:1 point:1 tax:1 narcotic:1 restrict:1 sweeping:1 curb:1 taxes:1 loosened:1 managers:1 economist:1 pills:1 special:1 painkillers:1 wealth:1 advisers:1 avoid:1 administration:1 other:1 interest:1 taken:1 millions:1 his:1 's:2 prescriptions:1 government:1 bid:1 deter:1 grasp:1 restructuring:1 abuse:1 coverage:1 planners:1 known:1 effort:1 man:1 career:1 taking:1 companies:1 reports:1 morning:1 're:1 steps:1 briefing:1 overseas:1
+MDT	20140825	63.2	63.3	r_up	hamburger:1 deal:1 move:1 tax:2 talks:1 its:1 cut:1 chain:1 would:1 reform:1 structured:1 much:1 cooperation:1 capital:1 international:1 buy:2 's:1 may:1 taxation:1 income:1 base:1 case:1 inversion:2 taxes:1 n't:1
+MDT	20140826	63.3	63.2	r_down	hamburger:1 chain:1 acquired:1 broaden:1 move:1 tax:1 looks:1 talks:1 its:1 said:1 $:1 would:1 structured:1 medical-devices:1 capabilities:1 seller:1 field:1 200:1 buy:1 's:1 million:1 base:1 inversion:1 cash:1 deal:1 maker:1
+MDT	20140827	63.2	63.0	r_down	session:1 said:1 's:2 $:1 deal:1 acquired:1 company:1 million:1 companies:1 shares:1 trade:1 offerings:1 actively:1 values:1 expand:1 350:1 expected:1 hospital:1 its:1 seeks:1
+MDT	20140828	63.0	62.8	r_down	said:1 plans:1 business:1 people:1 seek:1 medical:1 catheters:1 devices:1 stents:1 including:1 familiar:1 buyer:1 makes:1 matter:1
+MDT	20140829	62.8	63.5	r_up	
+MDT	20140902	63.5	63.6	r_up	sell:1 packaging:1 inversion:1 business:1 triggered:1 top:1 billion:1 tax:1 $:1 taxes:1 its:1 deals:1 more:1 1.23:1 has:1 agreed:1 execs:1
+MDT	20140903	63.6	63.9	r_up	among:1 deal:1 played:1 administration:1 something:1 year:1 fend:1 top:1 had:1 next:1 anyone:1 their:1 candidates:1 has:3 's:1 company:1 pressure:1 put:1 effort:1 inversion:2 off:1 target:1 drug:1 games:1 become:1
+MDT	20140904	63.9	63.6	r_down	
+MDT	20140905	63.6	63.9	r_up	some:1 advisers:1 investors:1 many:1 create:1 tax:1 cross-border:1 companies:1 see:1 involved:1 long-time:1 bills:1 opportunity:1
+MDT	20140908	63.9	64.4	r_up	
+MDT	20140909	64.4	65.2	r_up	both:1 ``:1 move:1 taxes:1 their:2 many:1 parties:1 legislation:1 headquarters:1 urged:1 reduce:1 '':1 companies:1 warning:1 plan:1 pass:1 lawmakers:1 overseas:1 more:1
+MDT	20140910	65.2	65.6	r_up	ratings:1 lower:2 hit:1 get:1 may:1 warned:1 credit:1 tax:1 headquarters:1 their:2 moving:1 rates:1 overseas:1 trying:1 's:1
+MDT	20140911	65.6	65.4	r_down	deals:1 ``:1 exemption:1 provisions:1 trigger:1 could:1 minimum:1 '':1 other:2 tax:1 inversions:1 alternative:1 corporate:1
+MDT	20140912	65.4	64.8	r_down	
+MDT	20140915	64.8	64.6	r_down	industrial:1 deal:3 strengthen:2 within:1 sharpens:1 accept:1 stand-alone:1 close:1 2.1:4 technology:1 its:4 market:3 shareholders:1 said:4 group:3 $:5 would:1 pay:1 recommending:1 should:1 late:1 platform:1 board:1 expected:1 2014:1 company:1 worth:2 buy:1 's:1 business:1 offer:1 share:1 dental:4 acquire:3 early:1 2015:1 billion:3 transaction:1 --:1 cash:3 healthcare:3 position:3 operate:1 maker:3
+MDT	20140916	64.6	65.8	r_up	
+MDT	20140917	65.8	65.6	r_down	
+MDT	20140918	65.6	66.2	r_up	
+MDT	20140919	66.2	65.8	r_down	
+MDT	20140922	65.8	65.6	r_down	
+MDT	20140923	65.6	63.7	r_down	cracking:1 investors:1 less:2 process:1 tweak:1 tax:3 down:1 device:1 say:1 unveiled:1 harder:1 administration:1 open:1 makers:1 viewed:1 intended:1 profitable:1 deals:2 stocks:1 ripe:1 their:1 guidance:1 long-awaited:1 looking:1 rivals:1 attractive:1 issued:1 rethink:1 cause:1 pending:1 after:1 's:1 halt:1 combat:1 may:1 some:1 sold:1 handful:1 following:1 takeover:1 sharply:1 new:1 sweeping:1 law:1 effort:1 off:1 rules:1 proposed:1 companies:2 drug:1 n't:1 appealing:1 so:1 inversions:3 changes:1 make:2 mergers:1 once:1
+MDT	20140924	63.7	63.4	r_down	among:2 deal:1 companies:1 opting:1 tax:4 actions:1 one:1 been:2 long:1 year:1 hit:1 hedge-fund:1 any:1 said:1 would:1 administration:1 two:1 least:1 should:1 also:1 lower:1 potentially:1 questioned:1 new:2 has:2 bets:1 independent:1 tighten:1 buy:1 's:3 rules:3 popular:1 effect:1 most:2 tracks:1 inversion:2 advisor:1 not:1 such:1 acquisition:1 stocks:1 maneuvers:1 discourage:1 last:1 especially:1 many:1 implications:1 against:1 deals:2 planned:1 shares:1 inversions:2 corporate:2 chilling:1
+MDT	20140925	63.4	62.4	r_down	's:3 plans:1 government:1 simple:1 invert:1 agreement:1 so:1 n't:1 clear:1 regulation:1 future:1 through:1 change:1 not:1 protecting:1 company:1 acquisition:1 shows:1
+MDT	20140926	62.4	63.0	r_up	them:1 useful:1 family:1 working:1 medical:1 make:1 devices:1 patients:1 other:1 members:1 more:1 monitors:1 glucose:1
+MDT	20140929	63.0	62.2	r_down	's:1 finance:1 beat:1 funds:1 private:1 morning:1 banks:1 including:1 equity:1 biggest:1 news:1 hedge:1 your:1
+MDT	20140930	62.2	61.6	r_down	just:2 win:2 say:2 including:2 want:2 need:2 even:2 also:2 do:2 roster:2 big:2 regulators:2 part:1 approval:2 antitrust:2 many:2 countries:1 days:2 nations:1 n't:2 growing:2 mergers:2
+MDT	20141001	61.6	62.4	r_up	
+MDT	20141002	62.4	62.8	r_up	
+MDT	20141003	62.8	65.0	r_up	operations:1 deal:2 cash:1 2.6:1 unit:1 plans:1 paths:1 use:1 $:3 two:1 its:2 instead:1 finance:2 took:1 fund:1 takeover:2 scrapped:1 debt:2 billion:3 16:2 diverging:1 rival:1 borrow:1 merge:1 while:1 overseas:1 maker:1 mergers:1
+MDT	20141006	65.0	64.9	r_down	relatively:1 raise:1 joining:1 merger:1 taking:1 purposes:1 companies:1 number:1 up:1 flag:1 analysts:1 small:1 buyout:1 debt:1 its:1 red:1 finance:1
+MDT	20141007	64.9	63.9	r_down	
+MDT	20141008	63.9	65.7	r_up	
+MDT	20141009	65.7	63.6	r_down	
+MDT	20141010	63.6	64.1	r_up	executive:1 private:1 trade:1 session:1 including:1 helm:1 its:1 complete:1 said:1 remain:1 shares:1 your:1 chairman:1 equity:1 biggest:1 new:1 combined:1 's:1 finance:1 beat:1 funds:1 company:1 after:1 expected:1 news:1 hedge:1 maker’s:1 companies:1 chief:1 actively:1 acquisition:1 banks:1 medical-device:1

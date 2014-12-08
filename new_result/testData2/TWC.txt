@@ -1,0 +1,50 @@
+TWC	20140801	144.3	145.1	r_up	saying:1 major:1 financial:1 distributors:1 over:1 results:1 quarters:1 likely:1 year:1 operator:1 its:1 said:1 surprises:1 sports:1 advisories:1 earnings:1 bid:1 channel:1 's:1 weak:1 jumps:1 problems:1 sales:1 delivers:1 roundup:1 drops:1 cable:1 losses:1 companies:1 reports:1 future:1 weigh:1 latest:1 corporate:1 other:1 standoff:1
+TWC	20140804	145.1	146.5	r_up	21st:1 merger:1 media:1 companies:1 great:1 should:1 battle:1 earnings:1 2014:1 report:1 making:1 prevail:1 why:1
+TWC	20140805	146.5	144.6	r_down	discipline:1 partly:1 though:1 revenue:1 up:1 3.7:1 second:2 cost:1 thanks:1 subscribers:1 lose:1 prices:1 quarter:2 continued:1 its:1 came:1 higher:1
+TWC	20140806	144.6	143.5	r_down	right:1 ad:1 reduce:1 decided:1 reality:1 its:2 market:1 said:1 admission:1 had:1 reliance:1 start:1 's:2 plans:1 parent:1 company:1 prospects:1 most:1 pursuit:1 regulatory:1 now:1 grim:1 faced:1 television:1 abandoned:1 downbeat:1 advertising:1 acquisition:1
+TWC	20140807	143.5	142.4	r_down	lonely:1 target:1 deal:1 may:2 away:1 been:1 walk:1 feel:1 long:1 have:1 not:1 one:1 its:1
+TWC	20140808	142.4	144.9	r_up	
+TWC	20140811	144.9	145.2	r_up	acquisitions:1 named:1 's:1 lead:1 month:1 company:1 strategic:1 early:1 magazine:1 planning:1 team:1 next:1 starting:1 veteran:1 mergers:1
+TWC	20140812	145.2	145.1	r_down	
+TWC	20140813	145.1	145.7	r_up	
+TWC	20140814	145.7	147.2	r_up	among:1 million:1 's:3 funds:1 showing:1 stake:1 took:1 shares:1 wave:1 1:1 riding:1 been:1 disclosed:1 have:1 30:1 new:1 hedge:1 deal-making:1 second-quarter:1
+TWC	20140815	147.2	147.5	r_up	ago:1 own:1 neighborhoods:1 service:1 started:1 expanding:1 company:1 three:1 years:1 their:1 provider:1 now:1 more:1
+TWC	20140818	147.5	147.6	r_up	's:1 finance:1 beat:1 funds:1 private:1 morning:1 banks:1 including:1 equity:1 biggest:1 news:1 hedge:1 your:1
+TWC	20140819	147.6	147.1	r_down	
+TWC	20140820	147.1	147.2	r_up	
+TWC	20140821	147.2	146.7	r_down	share:1 affiliates:1 collect:1 fees:1 focusing:1 increasing:1 its:2
+TWC	20140822	146.7	145.7	r_down	because:1 divide:1 reservations:1 influence:1 them:1 '':2 likely:1 cost:1 debate:1 court:1 provide:1 had:1 foster:1 digital:1 ``:2 selling:1 's:1 rolled:1 papers:1 but:2 understanding:1 next-generation:1 changing:1 effort:1 he:1 lower:1 faster:1 say:1 broadband:1 broadcaster:1 speeds:1 believed:1 serious:1 stirring:1
+TWC	20140825	145.7	147.2	r_up	shareholders:1 management:1 hostile:1 stance:1 opening:1 radical:1 bids:1 teams:1 boards:1 new:1 aggressive:1 changes:1 avenues:1 more:1
+TWC	20140826	147.2	146.5	r_down	
+TWC	20140827	146.5	147.1	r_up	all:2 says:2 back:1 operator:1 its:1 considering:1 said:1 service:1 finally:1 markets:2 worth:1 smart:1 after:2 outage:2 early:2 outages:1 demand:2 services:2 largely:2 up:1 morning:2 following:1 restored:2
+TWC	20140828	147.1	147.1	r_up	5.3:1 last:1 $:1 her:1 million:1 according:1 owned:1 released:1 documents:1 least:1 year:1 husband:1 assets:1
+TWC	20140829	147.1	147.9	r_up	interests:2 relevant:1 financial:1 feedback:1 proposed:1 providers:1 into:1 year:1 encouraging:1 strategic:1 down:1 fiduciary:1 need:1 terms:1 technology:1 tomorrow:1 leaders:1 abyss:1 needs:1 broadband:1 media:1 agency:1 gripe:1 while:1 same:1 forms:1 according:1 widely:1 today:1 gives:1 giants:1 staying:1 regional:1 's:4 offer:1 practice:1 them:1 released:1 regulators:1 balancing:1 they:1 regulatory:1 changing:1 trying:1 disclosure:1 customer:1 purchase:1 12:1 last:1 cable:1 industry:2 annual:1 companies:1 drag:1 reviews:1 investing:1 competitors:1 ensure:1 situations:1 banks:1 divergent:1
+TWC	20140902	147.9	147.3	r_down	case:1 necessarily:1 's:1 would:1 offer:1 actually:1 expect:1 not:1 firms:1 technology:1 advertising:1
+TWC	20140903	147.3	147.5	r_up	billion:1 named:1 said:1 's:1 $:1 cable:1 formed:1 45:1 deal:1 joint:1 venture:1 pending:1
+TWC	20140904	147.5	147.3	r_down	
+TWC	20140905	147.3	150.2	r_up	real:1 do:1 said:1 's:1 help:1 regulator:1 broadband:1 top:1 actions:1 choices:1 n't:1 increase:1 high-speed:1 competition:1 have:1 provider:1 nation:1 telecommunications:1 comes:1
+TWC	20140908	150.2	150.7	r_up	harm:1 deal:1 allows:1 agreed:1 trade:1 session:1 trading:1 3.3:1 years:1 been:1 any:1 sell:1 group:1 $:2 consumers:1 pay:1 began:1 shares:2 content:1 without:1 exit:1 premarket:1 expected:1 has:1 into:1 division:1 's:3 business:1 trying:1 billion:1 edged:1 several:1 ranks:1 1998:1 suppliers:1 companies:2 up:1 actively:1 top:1
+TWC	20140909	150.7	152.6	r_up	said:1 's:3 proposed:1 fueled:1 removing:1 companies:1 agreement:1 friction:1 sports:1 source:1 buy:1 complaints:1 carry:1 reached:1 channel:1 had:1
+TWC	20140910	152.6	153.5	r_up	
+TWC	20140911	153.5	154.2	r_up	proposed:1 into:1 some:1 reviewing:1 year:1 reached:1 networks:1 increase:1 broadband:1 question:1 next:1 access:2 their:2 other:1 international:1 has:1 's:2 agreement:1 subscribers:1 acquisitions:1 companies:1 each:1 senator:1 called:1
+TWC	20140912	154.2	154.3	r_up	24:1 's:3 $:1 beat:1 funds:1 private:1 morning:1 banks:1 including:1 lot:1 equity:1 biggest:1 news:1 hedge:1 happening:1 your:1 today:1 finance:1
+TWC	20140915	154.3	154.0	r_down	
+TWC	20140916	154.0	154.6	r_up	
+TWC	20140917	154.6	154.6	r_up	criticism:1 use:1 's:1 merger:1 meetings:1 secret:1 defended:1 reviews:1 chief:1 senator:1 during:1 response:1
+TWC	20140918	154.6	153.5	r_down	loved:1 large-cap:1 managers:1 14:1 top-performing:1 44:1 among:1 up:1 shares:1 fund:1 year:1 van:1 stocks:1 writes:1 gains:1
+TWC	20140919	153.5	153.1	r_down	claim:1 his:1 partners:1 funds:1 aside:1 its:1 purchase:1 set:1 has:1 lawsuit:1 responded:1
+TWC	20140922	153.1	150.6	r_down	
+TWC	20140923	150.6	147.8	r_down	
+TWC	20140924	147.8	147.0	r_down	billion:1 would:1 transaction:1 fired:1 proposed:1 their:1 merger:2 pay:1 make:1 45:1 reduce:1 back:1 against:1 choice:1 critics:1 say:1 concerns:1 defending:1 online:1 world:1 $:1
+TWC	20140925	147.0	144.2	r_down	fired:1 proposed:2 trend:1 some:1 back:1 private:1 trade:1 past:1 session:1 including:1 defending:1 world:1 run:1 still:1 your:2 market:2 peaks:1 shareholders:1 $:1 would:1 their:1 merger:1 pay:1 make:1 45:1 shares:1 its:1 critics:1 concerns:1 provider:1 biggest:1 has:2 more:1 's:3 finance:1 beat:1 funds:1 equity:1 expected:1 online:1 bull:1 news:1 hedge:1 debt:1 approved:1 recent:1 billion:1 transaction:1 room:1 home:1 companies:1 against:1 morning:1 n't:1 actively:1 banks:1 analysis:1 margin:1 ease:1 acquisition:1
+TWC	20140926	144.2	145.0	r_up	
+TWC	20140929	145.0	144.9	r_down	distributors:1 hoping:1 cable:1 point:1 programming:1 over:2 generally:1 sports:1 n't:1 costs:1 picked:1 fiasco:1 wider:1 turning:1 debate:1
+TWC	20140930	144.9	143.4	r_down	wants:1 billion:1 owners:1 programming:1 proposed:1 wary:1 merger:1 media:1 45:1 companies:1 $:1 submit:1 reviews:1 their:1 details:1 channel:1 agreements:1
+TWC	20141001	143.4	141.9	r_down	just:1 money:1 sign:1 promise:1 miss:1 your:2 service:1 agreeing:1 fine:1 legal:1 lot:1 print:1 you:2 them:1 company:1 plenty:1 child:2 one:1 extreme:1 case:1 cable:1 rights:1 could:1 up:1 promising:1
+TWC	20141002	141.9	141.4	r_down	back:1 itself:1 seen:1 its:1 sell:1 takes:1 activism:1 stake:1 shares:1 slew:1 increase:1 which:1 has:1 buy:1 's:2 billionaire:1 company:2 break:1 sequels:1 dividend:1 investor:1 --:2 up:1 executives:1
+TWC	20141003	141.4	144.5	r_up	
+TWC	20141006	144.5	143.6	r_down	
+TWC	20141007	143.6	142.7	r_down	personal:1 scoops:1 guided:1 tour:1 stories:1 every:1 day:1 best:1
+TWC	20141008	142.7	147.2	r_up	major:1 contracts:1 media:2 over:1 companies:1 two:1 hand:1 their:1 part:1 details:1 review:1 forcing:1 its:1 mergers:1
+TWC	20141009	147.2	142.4	r_down	among:1 raise:1 deal:2 sales:1 shareholders:3 $:1 favor:1 merger:2 support:1 45:1 been:1 approved:2 also:1 rates:1 interest:1 got:1 has:1 pending:1 more:2 company’s:1 comparable:1 belief:1 get:1 big:1 surges:1 weak:1 votes:1 99:1 regulators:1 lot:1 now:1 than:1 must:1 billion:1 rush:1 movers:1 light:1 just:1 no:1 slumps:1 cast:1 green:1 approve:1
+TWC	20141010	142.4	141.2	r_down	

@@ -1,0 +1,50 @@
+FDX	20140801	146.6	146.5	r_down	big:1 companies:1 their:1 completely:1 including:1 pricing:1 basic:1 using:1 data:1 structure:1
+FDX	20140804	146.5	148.6	r_up	sector:1 networking:1 broader:1 defined:1 big:1 into:1 companies:1 morning:1 generation:1 other:1 embrace:1 economy:1 another:1 new:1 ready:1 's:1 moving:1 sign:1 tech:1 software:1
+FDX	20140805	148.6	146.6	r_down	own:1 office:1 twist:1 chartered:1 through:1 questions:1 its:1 rivals:1 agency:1 two:1 their:1 enough:1 biggest:1 charging:1 more:1 customers:1 's:1 pressure:1 putting:1 whether:1 post:1 packages:1 raising:1 surprising:1 these:1 days:1 --:1 moving:1
+FDX	20140806	146.6	145.2	r_down	
+FDX	20140807	145.2	145.8	r_up	
+FDX	20140808	145.8	147.6	r_up	
+FDX	20140811	147.6	148.0	r_up	
+FDX	20140812	148.0	148.2	r_up	taxi:1 's:2 business:1 heavily:1 charges:1 dubious:1 targets:1 other:1 demise:1 another:1 each:1 upstarts:1 plotting:1 vs.:1
+FDX	20140813	148.2	149.1	r_up	customer:1 said:1 networking:1 gear:1 demands:1 cheaper:1 not:1 software-defined:1 known:1 falling:1 ears:1
+FDX	20140814	149.1	149.4	r_up	delivery:1 living:1 mail:1 mountain:1 may:1 well:1 there:1 serve:1 system:1 us:1 n't:2 benefit:1 does:1 no:1 home:1 rural:1 those:1 areas:1
+FDX	20140815	149.4	148.5	r_down	
+FDX	20140818	148.5	150.2	r_up	billion:1 10:1 buy:1 's:2 $:1 jumped:1 company:1 after:1 administration:1 focus:1 same:1 talks:1 only:1 going:1 rest:1 media:1 report:1 now:1 're:1
+FDX	20140819	150.2	149.8	r_down	
+FDX	20140820	149.8	150.4	r_up	week:1 compliance:1 's:1 laundering:1 allegedly:1 pay:1 over:1 controls:1 connection:1 against:1 regulators:1 lax:1 anti-money:1 between:1 action:1 scrutinizing:1 shows:1
+FDX	20140821	150.4	150.3	r_down	week:1 operations:1 's:1 closely:1 airspace:1 volcano:2 caused:1 disruption:1 another:1 nearly:1 they:1 signs:1 need:1 monitoring:1 contingency:1 closed:1 2010:1 enact:1 plans:1
+FDX	20140822	150.3	149.2	r_down	accuses:1 company:1 's:1 paid:1 getting:1
+FDX	20140825	149.2	149.5	r_up	
+FDX	20140826	149.5	149.0	r_down	
+FDX	20140827	149.0	148.9	r_down	
+FDX	20140828	148.9	147.6	r_down	
+FDX	20140829	147.6	147.6	r_up	
+FDX	20140902	147.6	150.2	r_up	
+FDX	20140903	150.2	151.5	r_up	catch:1 provided:1 play:1 's:1 consumers:1 business:1 maps:1 mobile:1 rival:1 mapping:2 up:1 bring:1 tries:1 services:1 directly:1 new:1 push:1 making:1 its:1
+FDX	20140904	151.5	151.8	r_up	aggressively:1 piece:1 pie:1 e-commerce:1 experiment:1 launched:1 have:1 has:1 bigger:1
+FDX	20140905	151.8	153.1	r_up	aggressively:1 business:1 e-commerce:1 both:1 companies:1 holidays:1 biggest:1 slashing:1 time:1 prices:1 aiming:1 steal:1 its:1
+FDX	20140908	153.1	152.4	r_down	considering:1 restrictions:1 passenger:1 bellies:1 highlighting:1 air-safety:1 cargo:1 fire:1 hazards:1 potential:1 batteries:1 officials:1 airliners:1 escalating:1 further:1 lithium:1 concerns:1 carried:1
+FDX	20140909	152.4	151.0	r_down	love:1 economists:1 game-changer:1 gadgets:1 juice:1 say:1 writes:1 everything:1 fans:1 much:1 don’t:1 new:1 has:1 economy:2 company’s:1 move:1 that’s:1 may:1 wrong:1 device:1 potential:1 whether:1 matter:1 exemplifies:1 so:1
+FDX	20140910	151.0	150.7	r_down	
+FDX	20140911	150.7	152.5	r_up	
+FDX	20140912	152.5	153.7	r_up	power:1 company:1 shipping:1 fierce:1 free:1 squeezed:1 competition:1
+FDX	20140915	153.7	154.0	r_up	glimpse:1 's:2 target:1 provide:1 into:1 annual:1 able:1 hoping:1 its:1 whether:1 profit:1 turnaround:1 earnings:1 ambitious:1 year:1 report:1 meet:1 company:2 first:1
+FDX	20140916	154.0	154.6	r_up	rate:1 increases:1 5:1 services:1 implement:1 its:1
+FDX	20140917	154.6	159.7	r_up	operations:1 before:1 set:1 deal:1 give:1 divisions:1 health-care:1 share:1 results:2 trade:1 high:2 say:1 actively:1 expect:1 freight:1 close:1 2.2:1 open:1 its:3 market:1 ground:1 24:2 closes:1 giant:1 said:2 $:1 would:1 show:1 profit:2 jumped:1 cash-and-stock:1 reaching:1 three:1 shares:1 revenue:1 also:1 program:1 investors:1 earnings:1 exceed:1 expected:1 expecting:1 has:1 highs:1 stock:2 fiscal:2 all:1 men:1 's:3 offer:1 may:1 estimates:1 company:2 acquire:1 watch:1 buyback:1 sales:1 reported:1 increases:1 strength:1 gain:1 year-over-year:1 new:2 report:1 dividend:1 stocks:1 first-quarter:2 analyst:1 raise:1 billion:1 easily:1 pipeline:1 made:1 launch:1 companies:1 can:1 record:2 express:1 session:1 products:1 analysts:1 higher:2 slightly:1
+FDX	20140918	159.7	158.9	r_down	financial:1 point:1 into:1 some:1 results:1 private:1 month:1 '':1 networks:1 computer:1 have:1 year:1 transportation:1 linked:1 impact:1 discloses:1 said:1 court:1 working:1 workers:1 stake:2 shares:1 its:2 adverse:1 activist:2 earnings:1 ``:1 after:1 's:1 gains:1 government:1 material:1 possible:1 falls:2 broke:1 20:1 one:1 investor:1 regarding:1 last:1 could:1 companies:1 say:1 times:1 while:1 ruling:1 military:1 climb:1 reasonably:1 investigators:1
+FDX	20140919	158.9	158.3	r_down	
+FDX	20140922	158.3	157.8	r_down	adults:1 their:1 doughnuts:1 number:1 but:1 one:1 growing:1 spots:1 small:1 new:1 catering:1 kick:1 like:1
+FDX	20140923	157.8	158.0	r_up	selling:1 risk:1 bonds:1 plans:1 reduce:1 their:1 pension:1 stocks:1 corporate:2 buying:1 more:1
+FDX	20140924	158.0	159.3	r_up	firm:1 tough:1 parcel:1 no:1 warned:1 guidance:1 expects:1 delivery:1 full-year:1 trading:1 amid:1 meet:1 its:1 longer:1
+FDX	20140925	159.3	157.1	r_down	wants:1 deliver:1 groceries:1 others:1 potentially:1 more:1
+FDX	20140926	157.1	159.7	r_up	
+FDX	20140929	159.7	162.1	r_up	
+FDX	20140930	162.1	161.4	r_down	major:2 benchmarks:2 technical:1 teeter:1 support:2 important:1 have:1 test:1 reached:1
+FDX	20141001	161.4	158.1	r_down	named:1 internally:1 finance:1 retiring:1 chiefs:1 their:1 succeed:1 permanent:1 promote:1
+FDX	20141002	158.1	159.0	r_up	
+FDX	20141003	159.0	162.7	r_up	all:1 extra:1 hard:1 some:1 stop:1 want:2 your:1 if:1 scoring:1 guarantees:1 gon:1 working:1 space:1 na:1 avoid:1 it’s:1 4:1 you:2 holiday:2 approach:1 more:1 even:1 repeat:1 jobs:1 may:1 season:1 pushing:1 convincing:1 delivery:2 job:1 year’s:1 coveted:1 those:1 promotions:1 hire:1 land:1 last:1 like:1 surprising:1 1999:1 positions:1 rethink:1 retailers:1 fiasco:1 strategies:1 out:1 challenge:1
+FDX	20141006	162.7	159.2	r_down	giant:1 $:1 14.3:1 sold:1 shipping:1 shares:1 89,000:1 nearly:1 insiders:1 options:1
+FDX	20141007	159.2	156.0	r_down	
+FDX	20141008	156.0	160.2	r_up	health-care:1 federal:1 costs:1 workers:1 contain:1 premiums:1 its:1 other:1 part-time:1 cutting:1 health:1 another:1 corporations:1 push:1 employees:1 30,000:2 wake:1 insurance:1 raising:1
+FDX	20141009	160.2	156.5	r_down	postal:1 settlement:1 breached:1 antitrust:1 company:1 allegations:1 agreement:1 competition:1 delivery:1 authority:1 reached:1 has:1 over:1 market:1 laws:1
+FDX	20141010	156.5	154.7	r_down	

@@ -1,0 +1,50 @@
+JNPR	20140801	23.4	23.1	r_down	all:1 share:1 taking:1 market:1 away:1
+JNPR	20140804	23.1	23.1	r_up	
+JNPR	20140805	23.1	23.2	r_up	
+JNPR	20140806	23.2	23.2	r_up	operations:1 named:1 financial:1 directors:1 chief:2 officer:2 its:1 board:1
+JNPR	20140807	23.2	22.9	r_down	
+JNPR	20140808	22.9	23.1	r_up	
+JNPR	20140811	23.1	23.2	r_up	
+JNPR	20140812	23.2	23.2	r_up	gains:1 get:1 upstart:1 tougher:1 but:1 likely:1 against:1 making:1 competition:1
+JNPR	20140813	23.2	23.4	r_up	
+JNPR	20140814	23.4	22.9	r_down	$:2 tops:2 results:1 slides:1 wake:1 earnings:1 quarterly:1 200,000:2 drops:1
+JNPR	20140815	22.9	22.8	r_down	
+JNPR	20140818	22.8	23.1	r_up	
+JNPR	20140819	23.1	23.5	r_up	
+JNPR	20140820	23.5	23.6	r_up	
+JNPR	20140821	23.6	23.8	r_up	
+JNPR	20140822	23.8	23.9	r_up	
+JNPR	20140825	23.9	23.6	r_down	
+JNPR	20140826	23.6	23.4	r_down	
+JNPR	20140827	23.4	23.1	r_down	
+JNPR	20140828	23.1	23.1	r_up	
+JNPR	20140829	23.1	23.1	r_up	
+JNPR	20140902	23.1	23.1	r_up	do:1 set:1 networking:1 worse:1 maker:1 could:1 example:1 equipment:1 became:1 want:1 follow:1 become:1 than:1
+JNPR	20140903	23.1	23.1	r_up	
+JNPR	20140904	23.1	23.1	r_up	
+JNPR	20140905	23.1	23.3	r_up	
+JNPR	20140908	23.3	23.5	r_up	
+JNPR	20140909	23.5	23.3	r_down	
+JNPR	20140910	23.3	23.7	r_up	
+JNPR	20140911	23.7	23.7	r_up	
+JNPR	20140912	23.7	23.1	r_down	
+JNPR	20140915	23.1	23.0	r_down	
+JNPR	20140916	23.0	22.8	r_down	breaches:1 buy:1 cybersecurity:1 investors’:1 writes:1 companies:1 three:1 focus:1 these:1 today:1 can:1 leading:1 put:1 you:1 stocks:1 best:1
+JNPR	20140917	22.8	22.8	r_up	
+JNPR	20140918	22.8	22.7	r_down	
+JNPR	20140919	22.7	22.6	r_down	favored:1
+JNPR	20140922	22.6	22.6	r_up	
+JNPR	20140923	22.6	22.5	r_down	
+JNPR	20140924	22.5	22.5	r_up	
+JNPR	20140925	22.5	22.1	r_down	
+JNPR	20140926	22.1	22.2	r_up	
+JNPR	20140929	22.2	22.1	r_down	
+JNPR	20140930	22.1	22.1	r_up	
+JNPR	20141001	22.1	21.6	r_down	
+JNPR	20141002	21.6	21.9	r_up	
+JNPR	20141003	21.9	22.0	r_up	roundup:1 news:1 's:1 private:1 morning:1
+JNPR	20141006	22.0	21.6	r_down	
+JNPR	20141007	21.6	21.2	r_down	
+JNPR	20141008	21.2	21.2	r_up	off:1 company:1 data-storage:1 manager:1 sent:1 letter:1 unit:1 spin:1 its:1 urging:1 board:1
+JNPR	20141009	21.2	20.9	r_down	saying:1 over:1 expects:1 years:1 challenges:1 session:1 year:1 market:1 planting:1 farmers:1 spending:1 fears:1 two:1 shares:2 forecast:1 their:1 split:1 supplies:1 suit:1 lower-than-expected:1 change:1 numerous:1 tighten:1 extended:1 farm:1 routers:1 rise:2 hours:2 protection:1 gain:1 coming:1 prices:1 continued:1 after:2 fiscal:1 maker’s:1 amid:1 service-provider:1 edge:1 grain:1 router:1 security:1 weakest:1 maker:1 profits:1 software:1
+JNPR	20141010	20.9	19.0	r_down	beautiful:1 there:2 session:1 up:1 reasons:1 declines:1 pot:1 demand:1 years:2 past:1 whiplash:1 sudden:1 third-quarter:1 swinging:1 sharp:1 suffer:1 yet:1 weekly:3 sinks:1 cut:1 mostly:1 falls:1 pace:1 guidance:1 since:2 selloff:1 two:1 shares:1 its:1 their:2 beer:1 deepest:1 expected:1 lower-than-expected:1 main:1 it’s:1 500:1 2012:1 week:1 booze:1 good:1 's:1 string:1 unveiling:1 after:1 hang:1 but:1 weed:1 suffering:1 worst:3 coming:1 trade:1 thing:1 stocks:4 come:1 than:1 case:1 loss:1 include:1 service:1 losses:1 companies:1 moment:1 headed:1 times:1 record:1 actively:1 three:1 benchmarks:1 moving:1 more:1 say:1

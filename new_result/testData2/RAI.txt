@@ -1,0 +1,50 @@
+RAI	20140801	55.2	55.1	r_down	
+RAI	20140804	55.1	55.5	r_up	
+RAI	20140805	55.5	55.2	r_down	
+RAI	20140806	55.2	55.8	r_up	given:1 woman:1 patient:1 doctor:1 deadly:1 virus:1 hundreds:1 second:1 arrived:1 questioned:1 were:1 authorities:1 health:1 experimental:1 treatment:1
+RAI	20140807	55.8	55.6	r_down	
+RAI	20140808	55.6	56.4	r_up	
+RAI	20140811	56.4	56.8	r_up	
+RAI	20140812	56.8	56.4	r_down	
+RAI	20140813	56.4	56.3	r_down	received:1 use:1 combat:1 drugs:1 light:1 after:1 some:1 treatments:1 two:1 green:1 questions:1 demand:1 growing:1 outbreak:1 experimental:1 gave:1
+RAI	20140814	56.3	57.0	r_up	unusual:1 tobacco:1 real-estate:1 less:1 holdings:1 value:1 its:1 conglomerate:1 trading:1 7:1 intrinsic:1 than:1
+RAI	20140815	57.0	56.5	r_down	
+RAI	20140818	56.5	57.1	r_up	giant:1 off:1 brand:1 two:1 facing:1 cigarettes:1 range:1 owns:2 court:1 electronic:1 maker:1 vs.:1
+RAI	20140819	57.1	57.4	r_up	outlook:1 600:1 revenue:1 backing:1 course:1 full-year:1 nine-month:1 its:3 decline:1 said:1 guidance:1 4.9:1 leap:1 lifts:1 complete:1 climbs:1 jumps:1 after:2 reported:1 brands:1 raising:1 cigarette:1 while:1 small:1 acquisition:1 pack:1
+RAI	20140820	57.4	57.2	r_down	
+RAI	20140821	57.2	57.5	r_up	
+RAI	20140822	57.5	57.3	r_down	
+RAI	20140825	57.3	57.5	r_up	led:1 wane:1 79:1 industry:1 its:1 computer:1 longtime:1 old:1 years:1 dominance:1 died:1 began:1
+RAI	20140826	57.5	57.1	r_down	flavors:1 restrictions:1 use:1 curbs:1 tougher:1 candy:1 cigarettes:1 fruit:1 including:1 advertising:1 such:1 electronic:1 called:1
+RAI	20140827	57.1	57.2	r_up	reversing:1 stores:1 into:1 number:1 years:1 high:1 say:1 growth:1 e-cigarette:1 electronic:1 its:1 three:1 finally:1 too:1 new:1 teens:1 shows:1 's:1 big:1 sales:1 regular:1 boosting:1 now:1 falling:1 school:1 kids:1 hooking:1 smokes:1 try:1 cigarettes:1 convenience:1 survey:1 push:1 making:1 more:1
+RAI	20140828	57.2	57.3	r_up	
+RAI	20140829	57.3	57.8	r_up	raised:1 code:1 financial:1 choosing:1 people:1 cents:1 certain:1 bankers:1 sales:1 deep:1 trade:2 widened:1 session:2 topped:1 have:1 year:1 sells:1 deal-making:1 its:3 one:1 information:1 said:1 end:2 $:1 names:1 also:1 profit:1 broad:1 guidance:1 revenue:1 expectations:1 shares:2 second-quarter:2 discounts:1 setting:1 growth:1 treatment:1 which:1 scientists:1 expected:2 has:1 pending:1 higher:1 requested:1 buy:1 's:4 premarket:1 cocktail:1 earnings:1 company:2 powerhouse:1 but:1 test:1 virus:1 offsetting:1 five:1 sharply:1 putting:1 brands:1 dose:1 surged:1 monkeys:1 stage:1 fiscal:2 loss:1 posted:1 2.8:1 name:1 items:1 bottom:1 companies:2 regulators:1 drug:1 deals:2 game:1 actively:2 expenses:1 young:1 divest:1 more:1 called:1 experimental:1 dropped:1
+RAI	20140902	57.8	58.4	r_up	
+RAI	20140903	58.4	58.3	r_down	
+RAI	20140904	58.3	58.1	r_down	ambassador:1 pays:1 over:1 mansion:1 battle:1 its:1 roots:1 said:1 her:1 trademark:1 legal:1 company:1 seeks:1 's:1 e-cigarettes:1 brand:1 lighter:1 former:1 protect:1 name:1 tobacco:1 taking:1 range:1 maker:1
+RAI	20140905	58.1	58.2	r_up	
+RAI	20140908	58.2	57.7	r_down	
+RAI	20140909	57.7	57.2	r_down	's:1 food:1 32:1 straight:1 sales:1 years:1 trends:1 growth:1 despite:1 breakfast:1 has:1 changes:1
+RAI	20140910	57.2	57.3	r_up	
+RAI	20140911	57.3	57.4	r_up	
+RAI	20140912	57.4	57.4	r_up	
+RAI	20140915	57.4	57.5	r_up	
+RAI	20140916	57.5	57.6	r_up	
+RAI	20140917	57.6	57.0	r_down	
+RAI	20140918	57.0	57.5	r_up	
+RAI	20140919	57.5	57.4	r_down	's:1 tobacco:1 company:2 executive:1 commercial:1 chief:1 president:1 appointed:1
+RAI	20140922	57.4	57.9	r_up	
+RAI	20140923	57.9	57.0	r_down	
+RAI	20140924	57.0	58.1	r_up	
+RAI	20140925	58.1	57.7	r_down	marketing:1 veteran:1 chief:1 advertising:1 promoted:1 post:1 officer:1
+RAI	20140926	57.7	58.3	r_up	
+RAI	20140929	58.3	58.6	r_up	
+RAI	20140930	58.6	59.0	r_up	
+RAI	20141001	59.0	58.7	r_down	
+RAI	20141002	58.7	58.6	r_down	back:1 itself:1 seen:1 its:1 sell:1 takes:1 activism:1 stake:1 shares:1 slew:1 increase:1 which:1 has:1 buy:1 's:2 billionaire:1 company:2 break:1 sequels:1 dividend:1 investor:1 --:2 up:1 executives:1
+RAI	20141003	58.6	59.4	r_up	
+RAI	20141006	59.4	59.3	r_down	
+RAI	20141007	59.3	59.1	r_down	
+RAI	20141008	59.1	60.0	r_up	
+RAI	20141009	60.0	59.2	r_down	
+RAI	20141010	59.2	59.6	r_up	provided:1 ran:1 taking:1 patients:1 production:1 steps:1 expand:1 supplies:1 before:1 new:1 several:1 out:1 experimental:1 treatment:1

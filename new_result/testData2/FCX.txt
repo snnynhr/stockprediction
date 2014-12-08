@@ -1,0 +1,50 @@
+FCX	20140801	36.8	36.4	r_down	
+FCX	20140804	36.4	36.8	r_up	copper:1 exports:1 last:1 stalemate:1 start:1 --:1 six-month:1 government:1 after:2 agreement:1 resume:1 month:1 late:1 may:1 concentrate:1 exporting:1 reached:1
+FCX	20140805	36.8	36.5	r_down	just:1 over:1 executive:1 years:2 zinc:1 its:3 before:1 25:2 20:2 rose:2 expectations:1 late:2 stalemate:1 2017:1 has:1 local:2 agreed:1 earnings:1 exports:3 return:1 halt:1 government:2 couple:1 rise:1 overall:1 five:2 report:1 now:1 continued:1 down:2 --:4 suppliers:1 taxes:1 six-month:2 ban:4 quarter:2 elected:1 export:4 investment:2 said:2 shares:1 looking:1 shipment:1 exporting:2 newly:1 business:1 resume:2 weak:1 agreement:1 concentrate:1 ore:3 between:1 resumed:1 last:3 could:1 analysts:1 pick:1 climb:1 copper:2 economists:1 60:1 reached:1 unit:1 takes:1 smelter:1 there:1 selloff:1 start:1 ton:1 stock:1 basic:1 duties:1 month:1 company:1 but:1 grew:2 performers:1 challenge:2 up:1 pace:1 iron:1 were:2 market-wide:1 clip:1 classic:1 almost:1 metric:1 sales:1 slowing:2 weighed:2 10,000:1 say:1 posing:2 pay:1 inaugural:1 topped:1 boom:1 economy:3 week:2 begin:1 's:6 may:1 after:5 president:1 building:1 lower:1 chief:1 materials:1 weakest:2 having:1 latest:2
+FCX	20140806	36.5	36.3	r_down	lowest:1 growth:1 pressured:1 level:1 concerns:1 dollar:1 stronger:1 consumer:1 metal:1 their:1 fell:1 five:1 largest:1 prices:1 world:1 weeks:1 's:1 than:1 more:1
+FCX	20140807	36.3	35.7	r_down	
+FCX	20140808	35.7	36.1	r_up	
+FCX	20140811	36.1	36.5	r_up	
+FCX	20140812	36.5	36.5	r_up	
+FCX	20140813	36.5	36.0	r_down	
+FCX	20140814	36.0	35.6	r_down	
+FCX	20140815	35.6	35.7	r_up	
+FCX	20140818	35.7	36.0	r_up	
+FCX	20140819	36.0	35.9	r_down	
+FCX	20140820	35.9	36.6	r_up	
+FCX	20140821	36.6	36.3	r_down	
+FCX	20140822	36.3	36.0	r_down	
+FCX	20140825	36.0	36.1	r_up	
+FCX	20140826	36.1	36.0	r_down	shareholders:1 's:1 less:1 big:1 clear:1 miner:1 paid:1 conservative:1 n't:1 favor:1 which:1 dividends:1 found:1 appeal:1 its:1 out:1
+FCX	20140827	36.0	36.0	r_up	
+FCX	20140828	36.0	35.8	r_down	
+FCX	20140829	35.8	36.0	r_up	copper:3 producer:1 transit:1 tax:1 mine:2 have:1 continent:1 blocked:1 clarification:1 top:1 snag:1 2:1 outbreak:1 seeks:1 exports:1 's:2 after:1 authorities:1 $:1 billion:1 hits:1 sale:2 taxes:1
+FCX	20140902	36.0	35.1	r_down	week:1 copper:1 said:1 deal:1 resume:1 government:1 early:1 concentrate:1 exporting:1 has:1
+FCX	20140903	35.1	34.9	r_down	
+FCX	20140904	34.9	34.8	r_down	
+FCX	20140905	34.8	34.6	r_down	
+FCX	20140908	34.6	34.5	r_down	
+FCX	20140909	34.5	34.0	r_down	billion:1 entire:1 said:1 $:1 offering:1 contracts:1 stake:1 dollar:1 via:1 shares:1 foreign:1 2.6:2 future:1 selling:1 deter:1 its:1 investment:1 secondary:1
+FCX	20140910	34.0	34.2	r_up	
+FCX	20140911	34.2	34.2	r_up	
+FCX	20140912	34.2	33.9	r_down	
+FCX	20140915	33.9	33.9	r_up	operations:1 development:1 suspended:1 ``:1 one:1 '':1 have:1 affected:1 still:1 mining:2 unit:2 spokeswoman:1 giant:1 said:2 government:1 been:1 which:1 underground:1 has:1 local:1 told:1 province:1 activities:1 life:1 's:2 eastern:1 company:1 took:1 mine:1 running:1 along:1 recent:1 produced:1 accident:1 developing:1 --:1 work:1 incident:2 n't:2 investigate:1 place:1 team:1 normally:1
+FCX	20140916	33.9	34.5	r_up	
+FCX	20140917	34.5	34.1	r_down	
+FCX	20140918	34.1	33.9	r_down	
+FCX	20140919	33.9	33.7	r_down	
+FCX	20140922	33.7	32.8	r_down	
+FCX	20140923	32.8	32.6	r_down	
+FCX	20140924	32.6	32.9	r_up	
+FCX	20140925	32.9	32.3	r_down	
+FCX	20140926	32.3	32.5	r_up	
+FCX	20140929	32.5	32.0	r_down	session:1 's:1 companies:1 shares:1 trade:1 actively:1 expected:1
+FCX	20140930	32.0	32.3	r_up	
+FCX	20141001	32.3	31.5	r_down	
+FCX	20141002	31.5	31.7	r_up	
+FCX	20141003	31.7	32.0	r_up	
+FCX	20141006	32.0	32.1	r_up	billion:1 copper:1 stake:1 $:1 agreed:1 acquire:1 1.8:1 mine:1 controlling:1
+FCX	20141007	32.1	31.2	r_down	session:1 we:1 's:1 watching:1 some:1 companies:1 shares:1 trade:1 actively:1 expected:1 stocks:1 're:1 more:1
+FCX	20141008	31.2	31.9	r_up	
+FCX	20141009	31.9	30.8	r_down	saying:1 over:1 expects:1 years:1 year:1 planting:1 farmers:1 spending:1 forecast:1 their:1 supplies:1 tighten:1 farm:1 coming:1 prices:1 change:1 fiscal:1 lower-than-expected:1 amid:1 grain:1 profits:1 weakest:1
+FCX	20141010	30.8	30.6	r_down	

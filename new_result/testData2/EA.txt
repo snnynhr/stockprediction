@@ -1,0 +1,50 @@
+EA	20140801	33.6	33.7	r_up	impact:1 world’s:1 popular:1 sporting:1 whiners:1 most:1 winners:1 books:1 victory:1 stars:1 suite:1 biggest:2 2014:1 playing:1 still:1 corporate:2 event:1 out:1
+EA	20140804	33.7	34.1	r_up	
+EA	20140805	34.1	34.1	r_up	
+EA	20140806	34.1	34.2	r_up	
+EA	20140807	34.2	33.3	r_down	publisher:1 needs:1 's:1 launch:1 perform:1 shooter:1 well:1 window:1 helps:1 release:1 newest:1 cleared:1 its:1
+EA	20140808	33.3	34.2	r_up	
+EA	20140811	34.2	35.0	r_up	smartphone:1 turning:1 help:1 apps:1 freebies:1 dominance:1 maintain:1 its:1
+EA	20140812	35.0	35.5	r_up	's:2 could:1 trade-in:1 policy:1 new:1 slimmer:1 margins:1 mean:1
+EA	20140813	35.5	36.4	r_up	upgrade:2 rallying:1 gains:2 headwinds:1 could:1 reverses:1 record:1 while:1 which:1 face:1 analyst:1 closed:1
+EA	20140814	36.4	36.5	r_up	
+EA	20140815	36.5	36.1	r_down	
+EA	20140818	36.1	36.6	r_up	
+EA	20140819	36.6	37.0	r_up	play:1 's:1 giving:1 well:1 together:1 small:1 size:1 stage:1
+EA	20140820	37.0	37.5	r_up	
+EA	20140821	37.5	37.7	r_up	lifted:1 said:1 profit:1 software:1 consoles:1 doubled:1 than:1 hardware:1 game:1 sales:1 second-quarter:1 demand:1 new:1 strong:1 its:2 more:1
+EA	20140822	37.7	38.1	r_up	
+EA	20140825	38.1	37.6	r_down	
+EA	20140826	37.6	37.5	r_down	
+EA	20140827	37.5	37.2	r_down	
+EA	20140828	37.2	37.1	r_down	
+EA	20140829	37.1	37.8	r_up	
+EA	20140902	37.8	38.0	r_up	
+EA	20140903	38.0	37.8	r_down	10:1 van:1 index:1 far:1 big:1 writes:1 up:1 outpace:1 while:1 worst:1 best:1 retailers:1 lose:1 82:1 2014:1 stocks:1 500:1
+EA	20140904	37.8	37.3	r_down	
+EA	20140905	37.3	37.6	r_up	publisher:1 price:1 nearing:1 all-time-high:1 games:1 other:1 stock:1
+EA	20140908	37.6	38.0	r_up	
+EA	20140909	38.0	37.4	r_down	criticism:1 associated:1 founder:1 people:1 appeared:1 over:1 domestic:1 ``:1 defended:1 '':1 talking:1 through:1 corporations:1 its:2 standing:1 video:1 cut:1 would:1 top:1 trash:1 been:1 him:2 according:1 goes:1 under:1 has:1 commissioner:1 his:1 name:1 big:1 showing:1 after:1 most:1 wake:1 closely:1 ties:1 day:1 widening:1 faced:1 league:1 account:1 handling:1 episode:1 her:1 surprising:1 wife:1 shy:1 inside:1 violence:1 sale:1 n't:1 turn:1 including:1
+EA	20140910	37.4	37.8	r_up	criticism:1 die-hards:1 set:1 suspended:1 deal:1 people:1 appeared:1 over:1 indefinitely:1 ``:2 him:1 sale:1 '':2 culture:1 his:2 video:1 sponsor:1 go:1 discussions:1 faced:1 children:1 negotiations:1 standing:1 --:1 giant:1 $:1 would:1 he:1 following:1 top:1 striking:1 inside:1 spirit:1 behind:1 2:1 between:1 destroy:1 has:1 showing:1 day:1 more:1 independent:1 videogame:3 buy:2 's:2 clash:1 big:1 company:1 football:1 its:1 game:1 let:1 ties:1 major:1 than:1 after:1 widening:1 billion:1 league:1 handling:1 episode:1 derailed:1 player:1 whether:2 could:1 up:1 players:1 team:1 popular:1 serious:1 corporate:2 maker:2 release:1
+EA	20140911	37.8	38.0	r_up	
+EA	20140912	38.0	37.1	r_down	
+EA	20140915	37.1	36.5	r_down	
+EA	20140916	36.5	37.0	r_up	
+EA	20140917	37.0	36.4	r_down	
+EA	20140918	36.4	37.2	r_up	company’s:1 bullish:1 reasons:1 writes:1 up:1 past:1 twice:1 much:1 7:1 year:1 500:1 stock:1
+EA	20140919	37.2	36.7	r_down	
+EA	20140922	36.7	36.6	r_down	
+EA	20140923	36.6	36.6	r_up	
+EA	20140924	36.6	36.8	r_up	
+EA	20140925	36.8	35.8	r_down	plug:1 pull:1 's:1 have:1 investors:1 shares:1 should:1 n't:2 critic:1 but:1 clipped:1 scores:1
+EA	20140926	35.8	35.9	r_up	
+EA	20140929	35.9	35.7	r_down	
+EA	20140930	35.7	35.6	r_down	
+EA	20141001	35.6	35.1	r_down	10:1 van:1 extend:1 risen:1 whose:1 outperformance:1 into:1 up:1 shares:1 fourth:1 may:1 winners:1 73:1 earnings:1 have:1 quarter:1 companies’:1 writes:1 500:1
+EA	20141002	35.1	35.5	r_up	
+EA	20141003	35.5	35.9	r_up	
+EA	20141006	35.9	36.0	r_up	
+EA	20141007	36.0	34.9	r_down	
+EA	20141008	34.9	35.2	r_up	
+EA	20141009	35.2	35.0	r_down	
+EA	20141010	35.0	34.5	r_down	

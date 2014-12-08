@@ -1,0 +1,50 @@
+NWSA	20140801	17.6	17.7	r_up	different:1 calls:1 ways:1 big:1 attention:1 deals:1 invest:1 such:1
+NWSA	20140804	17.7	17.8	r_up	plunge:1 investors:1 just:1 drop:1 two:1 years:1 biggest:1 suffered:1 stocks:1 beginning:1 its:1 500:1 weekly:1
+NWSA	20140805	17.8	17.6	r_down	operations:1 decided:1 businesses:1 have:1 its:4 publishing:1 endangered:1 media:2 should:1 their:2 split:1 digital:2 print:1 string:1 business:2 separate:1 conglomerate:1 joins:1 broadcast:1 assets:1 newspapers:1 companies:2 broadcasting:2 species:1 magazines:1 latest:1
+NWSA	20140806	17.6	17.6	r_up	fourth-quarter:1 saying:1 '':1 growth:1 owner:1 networks:1 unit:1 21st:1 strength:1 profit:1 withdrawn:1 film:1 proposal:1 has:2 ``:1 's:1 acquire:1 reported:1 continued:1 fiscal:1 engage:1 cable:1 us:1 its:4 better-than-expected:1
+NWSA	20140807	17.6	17.4	r_down	unsolicited:1 ad:1 arbitragers:1 some:1 strategic:1 helped:1 substantial:1 agents:1 have:1 upgrades:1 led:1 its:1 said:1 winter:1 stymie:1 profit:1 decision:1 takeovers:1 two:1 day:1 traders:1 their:1 suffered:1 take:1 largest:1 net:1 has:1 bid:1 ``:1 after:1 's:2 big:1 may:1 funds:1 company:1 rise:1 rout:1 regulators:1 fell:1 worst:1 online:1 they:1 others:1 known:1 hedge:1 years:1 appears:1 apart:1 acquisitions:1 '':1 made:1 last:1 real-estate:1 --:1 annual:1 37:1 drive:1 deals:1 steps:1 corporate:1 delays:1 bet:1
+NWSA	20140808	17.4	17.1	r_down	outlook:2 weaker:1 people:1 well:1 reported:1 global:1 sales:1 trade:1 widened:1 unit:1 session:1 trading:1 higher:1 world:1 wider:1 door:1 news:1 open:1 its:3 2.5:1 developer:1 impact:1 information:1 confirmed:1 said:3 $:1 would:1 profit:1 segment:1 quarterly:1 struggles:1 shares:1 issues:1 book:1 treatment:1 premarket:1 largest:1 expected:1 lower-than-expected:1 digital:1 slumps:1 earnings:2 gaming:1 extended:1 's:5 fourth:1 company:3 felt:1 weak:2 supplier:1 virus:1 fell:1 offset:1 using:1 continued:1 after:1 publishing:1 fiscal:1 loss:2 third:1 real-estate:1 restaurant:1 18:1 climbed:1 companies:1 drug:1 actively:1 sinks:1 social:1 quarter:2 slightly:1 projected:1 experimental:1
+NWSA	20140811	17.1	17.3	r_up	declared:1 legendary:1 four:1 's:1 market:1 if:1 travel:1 lately:1 health:1 under:1 has:1 public:1 affected:1 risk:1 emergency:1 beat:1 restricting:1 overreact:1 employers:1 liability:1 recent:1 they:1 multinationals:1 investor:1 areas:1 helped:1 piece:1 employees:1 profiles:1 pullback:1 values:1 discusses:1 evacuating:1
+NWSA	20140812	17.3	17.2	r_down	estimates:1 one:1 '':1 not:1 year:1 its:1 reruns:1 van:1 network:1 writes:1 two:1 next:1 earnings:1 biggest:1 has:1 ``:1 's:1 homes:1 but:1 broadcast:1 increases:1 improving:1 world:1 stocks:1 10:1 prospects:1 enjoying:1 cable:1 these:1 sitcom:1 worries:1 found:1 companies’:1
+NWSA	20140813	17.2	17.1	r_down	down:1 's:2 laundering:1 country:1 crack:1 anti-money:1 public:1 regulator:1 officials:1 agents:1 anti-corruption:1 scams:1 hosted:1 join:1 consumer:1 class:1 first:1
+NWSA	20140814	17.1	17.3	r_up	operations:1 its:2 said:1 publishing:1 would:1 stake:1 had:2 activist:1 disclosed:1 split:1 business:1 separate:1 company:1 after:1 such:1 investor:1 than:1 he:1 10:1 days:1 broadcasting:1 planned:1 push:1
+NWSA	20140815	17.3	17.2	r_down	
+NWSA	20140818	17.2	17.2	r_up	
+NWSA	20140819	17.2	17.1	r_down	
+NWSA	20140820	17.1	17.4	r_up	
+NWSA	20140821	17.4	17.5	r_up	
+NWSA	20140822	17.5	17.4	r_down	
+NWSA	20140825	17.4	17.6	r_up	shareholders:1 management:1 hostile:1 stance:1 opening:1 radical:1 bids:1 teams:1 boards:1 new:1 aggressive:1 changes:1 avenues:1 more:1
+NWSA	20140826	17.6	17.6	r_up	buyouts:1 division:1 's:3 voluntary:1 cable:1 offer:1 familiar:1 employees:1 people:1 according:1 matter:1 planning:1 week:1 between:1 500:1 600:1
+NWSA	20140827	17.6	17.6	r_up	
+NWSA	20140828	17.6	17.6	r_up	
+NWSA	20140829	17.6	17.6	r_up	
+NWSA	20140902	17.6	17.4	r_down	
+NWSA	20140903	17.4	17.6	r_up	hallmark:1 revitalize:1 ailing:1 portfolio:1 media:1 been:1 looking:1 their:1 digital:1 new:1 has:1 niche:1 get:1 but:1 wave:1 brands:1 news:1 now:1 organizations:1 companies:1 websites:1 traditional:1 act:1 newspaper:1 starting:1
+NWSA	20140904	17.6	17.6	r_up	
+NWSA	20140905	17.6	17.7	r_up	
+NWSA	20140908	17.7	17.6	r_down	
+NWSA	20140909	17.6	17.2	r_down	traditional:1 $:1 investors:1 increasingly:1 bites:1 company:1 display:1 content:1 advertising:1 banner:1 recommendation:1 100:1 attract:1 into:1 hoping:1
+NWSA	20140910	17.2	17.4	r_up	
+NWSA	20140911	17.4	17.2	r_down	publishers:1 power:1 federal:1 leveraged:1 retailer:1 crush:1 online:1
+NWSA	20140912	17.2	17.1	r_down	heavy:1 crowd:1 honoring:1 top:1 had:1 celebration:1 co-founder:1 executives:1
+NWSA	20140915	17.1	17.0	r_down	
+NWSA	20140916	17.0	17.0	r_up	advance:1 ``:1 ad:2 tepid:1 spending:1 season:2 upfront:1 sales:1 been:1 surge:1 '':1 banking:1 fall:1 weaker-than-expected:1 have:1 coming:1 following:1 new:1 weeks:1 looking:1 networks:1
+NWSA	20140917	17.0	17.0	r_up	saying:2 proposed:1 executive:1 accept:1 '':1 supervisory:1 have:1 sense:1 internal:1 market:1 regulators:1 shareholders:1 deal:1 would:1 make:1 than:1 better:1 potential:1 has:1 do:1 ``:1 good:1 's:2 minority:1 offer:2 company:1 hurt:1 reflect:1 job:1 takeover:1 competition:1 advised:1 not:1 approved:1 nor:1 sorting:1 boards:1 mergers:1 value:1 n't:3 bad:1 does:2 long-term:1 acquisition:1
+NWSA	20140918	17.0	17.0	r_up	says:1 joins:1 proposed:1 over:1 four-year:1 ``:1 weighed:1 platform:1 settlement:3 debate:1 out:2 takes:1 privacy:1 personal:1 its:1 rivals:1 jab:1 customers:1 after:1 's:1 publisher:1 safe:1 letter:1 data:1 throw:2 '':1 calls:1 us:1 calling:1 probe:1 piracy:1 urging:1
+NWSA	20140919	17.0	17.2	r_up	giant:1 's:2 business:1 blessing:1 but:1 can:1 fleeting:1 triumph:1
+NWSA	20140922	17.2	17.0	r_down	
+NWSA	20140923	17.0	16.9	r_down	
+NWSA	20140924	16.9	16.9	r_up	control:1 set:1 deal:1 people:1 buyer:1 phones:1 over:2 not:2 networks:2 21st:1 necessarily:1 entertainment:1 met:1 pay:1 its:1 their:1 state:1 concerns:1 biggest:1 has:1 interested:1 firm:1 tighten:1 parliament:1 's:1 10:1 company:2 paid:1 broadcast:1 phone:1 said:2 but:1 known:1 such:1 raising:1 publisher:1 hire:1 look:1 pressure:1 mobile:1 companies:1 foreign:1 players:1 compensation:1 steps:1 either:1 social:1 hacking:1 voice:1 executives:1
+NWSA	20140925	16.9	16.7	r_down	shop:1 competition:1 argues:1 its:1 web:1 use:1 piracy:1 investment:1 quash:1 online:1 has:1 leader:1 more:1 firm:1 dominant:1 around:1 company:1 most:1 than:1 search:1 companies:1 tackles:1 n't:1 banking:1 does:1 position:1
+NWSA	20140926	16.7	16.9	r_up	criticism:1 fosters:1 phones:1 agreed:1 executive:1 denying:1 $:1 piracy:1 pay:1 six:1 their:1 individuals:1 has:1 engine:1 phone:1 known:1 publisher:1 search:1 mobile:1 settle:1 newspaper:1 claims:1 hacking:1 voice:1 responded:1
+NWSA	20140929	16.9	16.8	r_down	distributors:1 hoping:1 cable:1 point:1 programming:1 over:2 generally:1 sports:1 n't:1 costs:1 picked:1 fiasco:1 wider:1 turning:1 debate:1
+NWSA	20140930	16.8	16.3	r_down	summer:1 consider:1 proposed:1 agreed:1 midnight:1 month:1 session:2 including:1 spinoff:1 still:1 networks:1 whose:1 21st:1 retirement:1 solace:1 merger:1 rose:1 concerned:1 equity:1 struck:1 has:1 into:1 customers:1 his:2 finance:1 far:1 week’s:1 stop:1 made:1 hedge:1 trade:2 volatility:2 down:1 wary:1 cable:1 real-estate:2 companies:3 morning:1 deals:1 7.1:1 replacement:1 says:1 billion:1 deal:1 burst:2 trend:1 challenges:1 see:1 economic:1 year:1 shares:2 find:1 million:4 business:1 pushing:1 confidence:1 here:1 active:1 news:1 picking:1 manufacturing:1 $:5 owners:1 listings:1 programming:1 days:1 reports:1 faces:1 mixed:1 presence:1 limp:1 private:1 channels:1 submit:1 operator:1 total:1 your:1 market:2 little:1 ominous:2 housing:1 due:1 long:2 their:1 growth:1 agreements:1 expected:2 more:1 wants:1 fiscal:1 buy:1 shorts:1 funds:1 company:1 surges:1 but:2 biggest:1 carrying:1 all-cash:1 than:1 those:1 valued:1 value:1 reviews:1 compensation:1 actively:1 gone:1 investors:1 expanding:1 end:1 950:1 45:1 1:1 beat:1 details:1 online:1 channel:1 sure:1 's:4 may:1 southern:1 paid:1 plan:1 stocks:1 29.2:2 salary:1 lower:1 dog:1 media:2 banks:1 12:1 consumer:1 latest:1
+NWSA	20141001	16.3	15.9	r_down	
+NWSA	20141002	15.9	15.8	r_down	10:1 van:1 missed:1 widest:1 companies:1 writes:1 beaten:1 estimates:1 three:1 shares:1 earnings:1 have:1 year:1 margin:1 500:1
+NWSA	20141003	15.8	15.9	r_up	case:1 illegally:1 guilty:1 messages:1 marking:1 one:1 2000:1 phone-hacking:1 2006:1 editor:1 between:1 high-profile:1 final:1
+NWSA	20141006	15.9	15.9	r_up	industries:1 facing:1 ``:1 no:1 --:2 companies:1 play:1 choice:1 '':1 exception:1 major:1 changes:1
+NWSA	20141007	15.9	15.4	r_down	deal:1 yen:1 battery:1 programming:1 distributors:1 executive:1 some:1 billions:1 evidence:1 spinning:1 its:1 worry:1 24:1 partners:1 said:1 $:1 near-record:1 decision:1 breaking:1 factory:1 sports:1 their:1 split:1 new:1 electronics:1 giants:1 business:1 company:1 pressure:1 say:1 themselves:1 billion:1 television:1 off:1 cable:1 installment:1 invest:1 lines:1 up:1 value:1 pace:1 chief:1 lithium-ion:1 growing:1 bills:1 corporate:1 comes:1 first:1
+NWSA	20141008	15.4	15.9	r_up	same-sex:1 own:1 himself:1 station:1 federal:1 21st:1 area:1 reformer:1 housing:1 there:1 strategy:1 investigation:1 new:1 markets:1 corruption:1 his:1 part:1 franchise:1 buying:1 case:1 television:1 progressive:1 stations:1 work:1 recalling:1 without:1 marriage:1 small:1
+NWSA	20141009	15.9	15.4	r_down	funding:1 one:1 most:1 can:1 startups:1 hand:1 rounds:1
+NWSA	20141010	15.4	15.1	r_down	giant:1 21st:2 formed:1 creating:1 entertainment:1 companies:1 into:1 partnership:1 programming:1 three:1 one:1 aim:1 production:1 combine:1 have:1 television:1

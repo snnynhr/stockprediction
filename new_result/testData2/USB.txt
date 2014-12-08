@@ -1,0 +1,50 @@
+USB	20140801	41.7	41.0	r_down	
+USB	20140804	41.0	41.4	r_up	private-equity:1 managers:2 some:1 past:1 best:1 returns:1 finding:1 new:1 percentage:1 several:1 worth:1 more:1 checking:1 fund:1 complicated:1 performance:1 than:1 skills:1 study:1 annual:1 points:1 can:1 finds:1
+USB	20140805	41.4	40.9	r_down	billion:1 's:1 $:1 investors:1 whether:1 involved:1 they:1 private:1 extension:1 another:1 approve:1 have:1 deal:1 mortgage-securities:1 settlement:1 decide:1 asked:1 1.13:1
+USB	20140806	40.9	40.8	r_down	still:1 opinions:1 another:1 investors:1 advisors:1 ``:1 private:1 '':1 have:1 68:1 relates:1 settlement:3 decide:1 said:1 $:1 expert:1 trusts:1 few:1 waiting:1 trustees:2 which:1 units:1 include:1 more:1 notice:1 's:2 may:1 each:1 agreement:1 wrapped:1 they:2 not:1 1.13:1 billion:1 extension:1 whether:1 involved:2 proposed:1 months:1 up:1 deal:1 were:1 mortgage-securities:2 approve:1 asked:1
+USB	20140807	40.8	40.4	r_down	
+USB	20140808	40.4	40.9	r_up	
+USB	20140811	40.9	40.7	r_down	
+USB	20140812	40.7	40.9	r_up	
+USB	20140813	40.9	41.1	r_up	
+USB	20140814	41.1	41.3	r_up	
+USB	20140815	41.3	41.0	r_down	
+USB	20140818	41.0	41.4	r_up	
+USB	20140819	41.4	41.6	r_up	
+USB	20140820	41.6	41.4	r_down	
+USB	20140821	41.4	41.9	r_up	
+USB	20140822	41.9	41.7	r_down	
+USB	20140825	41.7	42.0	r_up	
+USB	20140826	42.0	42.1	r_up	billion:1 claims:1 needs:1 set:1 financial:1 $:1 mortgage:1 soured:1 country:1 over:1 aside:1 certain:1 say:1 settle:1 largest:1 's:1 loans:1 institutions:1
+USB	20140827	42.1	41.9	r_down	all:1 protests:1 that’s:1 pawn:1 reeling:1 did:1 money:1 writes:1 system:1 go:1 payday:1 part:1 banks:1 financial:1 shops:1 has:1 loans:1 problem:1 based:1
+USB	20140828	41.9	41.8	r_down	seeing:1 ``:1 said:1 determine:1 working:1 enforcement:1 after:1 '':1 unusual:1 morning:1 n't:1 attack:2 fraud:1 closely:1 scope:1 hacking:1 law:1 recent:1
+USB	20140829	41.8	42.0	r_up	
+USB	20140902	42.0	42.0	r_up	
+USB	20140903	42.0	41.8	r_down	
+USB	20140904	41.8	41.9	r_up	
+USB	20140905	41.9	41.8	r_down	
+USB	20140908	41.8	41.7	r_down	
+USB	20140909	41.7	41.3	r_down	``:1 said:1 's:1 banks:1 may:1 certain:1 top:1 exempt:1 medium-sized:1 '':1 banking:1 regulation:1 time:1 small:1 aspects:1 financial:1 2010:1 law:1 man:1
+USB	20140910	41.3	41.6	r_up	
+USB	20140911	41.6	41.8	r_up	
+USB	20140912	41.8	41.9	r_up	purchases:1 move:1 them:1 gadgets:1 embrace:1 further:1 electronic:1 consumers:1 pay:1 away:1 lets:1 technology:1 product:1 fueling:1 's:1 they:1 hopes:1 launches:1 industry:1 cash:1 credit-card:1 latest:1
+USB	20140915	41.9	42.1	r_up	assets:1 list:1 banks:1 place:1 biggest:1 5:1 has:1 fifth:1
+USB	20140916	42.1	42.1	r_up	lower:1 last:1 would:1 under:1 year:1 projected:1 released:1 levels:1 economic:1 have:1 capital:1 downturn:1 data:1 than:1
+USB	20140917	42.1	42.4	r_up	10:1 van:1 indexes:1 investors:1 can:1 beat:1 writes:1 rock-solid:1 conservative:1 less:1 their:1 low:1 stocks:1 risk:1 volatility:1
+USB	20140918	42.4	42.7	r_up	four:1 seen:1 favored:1 regionals:1 super:1
+USB	20140919	42.7	42.9	r_up	
+USB	20140922	42.9	42.7	r_down	borrowers:1 smaller:1 mortgage:1 data:1 share:1 according:1 receiving:1 loans:1
+USB	20140923	42.7	42.3	r_down	
+USB	20140924	42.3	42.3	r_up	
+USB	20140925	42.3	41.6	r_down	statements:1 restitution:1 see:1 something:1 want:1 fine:1 check:1 if:1 penalize:1 $:2 billing:1 should:1 their:1 practices:1 9:1 carpet:1 do:1 million:2 regulators:1 protection:1 they:2 identity-theft:2 bank:1 paying:1 48:1 order:1 n't:1 involving:1 products:1 called:1 latest:1
+USB	20140926	41.6	41.8	r_up	customers:1 required:1 return:1 $:2 48:1 fined:1 over:1 million:2 ``:1 related:1 '':1 billing:1 regulators:1 practices:1 products:1 illegal:1 9:1 's:1 identity-theft:1 bank:1
+USB	20140929	41.8	41.7	r_down	lowest:1 federal:1 work:1 branches:1 level:1 mobile:1 according:1 since:1 ramp:1 number:1 up:1 services:1 cut:1 online:1 2005:2 banks:1 new:1 costs:1 data:1 its:1 bank:1
+USB	20140930	41.7	41.8	r_up	
+USB	20141001	41.8	41.2	r_down	
+USB	20141002	41.2	41.2	r_up	
+USB	20141003	41.2	41.6	r_up	
+USB	20141006	41.6	41.5	r_down	
+USB	20141007	41.5	40.6	r_down	
+USB	20141008	40.6	41.3	r_up	
+USB	20141009	41.3	40.5	r_down	
+USB	20141010	40.5	40.0	r_down	

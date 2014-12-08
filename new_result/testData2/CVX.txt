@@ -1,0 +1,50 @@
+CVX	20140801	128.1	126.8	r_down	saying:1 proposed:2 less:1 agreed:1 quarters:1 session:2 thanks:1 yes:1 its:5 fifth:1 cut:1 $:4 surprises:1 opportunities:1 than:1 terminal:1 production:3 premarket:1 has:1 gave:2 good:1 greater:1 coast:2 they:1 fall:1 producing:1 trade:2 continued:1 day:1 like:1 drop:1 companies:4 taxes:1 worried:1 divest:1 companies’:1 side:1 says:1 deal:1 energy:1 some:1 actively:2 export:1 3.3:1 natural-gas:1 slot-machine:1 headlines:1 declined:1 out:1 n't:1 said:5 profit:1 jumped:1 bearish:1 shares:3 exit:2 crude:2 incentives:1 ominous:1 declining:1 roundup:1 prospects:1 38:1 improved:1 dip:1 30:1 reports:1 a.m.:1 rose:1 slightly:1 maker:1 fourth-quarter:1 outlook:2 slipped:1 supply:1 liquefied:1 would:1 holdings:1 advisories:1 asset:1 interest:1 expected:3 boom:1 billion:1 ``:1 company:2 acquire:1 gas:4 wisdom:1 demand:1 organic:1 line:1 surged:1 second-quarter:2 buying:1 paying:1 cash:1 project:2 while:2 future:1 values:1 were:1 trading:1 balance:1 weaker:2 share:1 sales:2 '':1 numbers:1 partner:1 no:1 provide:1 stake:1 investment:1 also:1 earnings:4 which:1 income:1 short-term:1 oil:3 's:5 plans:1 though:1 may:1 boosted:1 after:1 effect:1 shale:1 eight:1 sheets:1 fiscal:1 natural:2 assets:1 federal:1 costs:1 corporate:1 latest:1
+CVX	20140804	126.8	127.0	r_up	downsizing:1 major:1 oil:1 turning:1 consider:1 just:1 seeking:1 companies:1 should:1 slowly:1 approval:1 investor:1 than:1
+CVX	20140805	127.0	123.9	r_down	loss:1 industrials:1 posting:1 sessions:1 their:1 fell:1 five:1 fourth:1 stocks:1
+CVX	20140806	123.9	124.6	r_up	all:1 right:1 want:1 investors:1 money:1 bull:1 there’s:1 evacuations:1 say:1 allure:1 incredible:1 have:3 participate:1 any:1 market:2 if:1 one:1 hold:1 fashionable:1 travel:1 should:1 don’t:2 way:1 you:1 relatively:1 more:1 requested:1 affected:1 which:1 get:1 becoming:1 restricting:1 but:1 else:1 defensive:1 know:1 plenty:1 others:1 trade:1 turbulence:1 stocks:2 areas:1 aren’t:1 mega:1 room:1 space:1 well:1 up:1 dinosaur:1 while:2 continue:1 can:1 mega-mind:1 recommendations:1 caps:1 make:1
+CVX	20140807	124.6	124.5	r_down	sector:1 predictive:1 his:1 century:1 almost:1 caused:1 over:1 global:1 reduce:1 period:1 month:1 helped:1 analytics:1 agreed:1 plunge:1 shares:1 have:1 year:1 partner:1 total:1 its:1 fifth:1 85:1 move:1 said:1 group:1 $:1 general:1 23:1 profit:1 leading:1 two:1 40:2 production:2 listed:1 test:1 consecutive:1 lawmakers:1 energy:2 interests:1 closer:1 oil:4 's:7 opening:1 some:1 company:1 acquire:1 gas:2 producers:1 membership:1 historic:1 pumps:1 supplies:1 prices:1 consideration:1 coveted:1 second-quarter:1 advanced:1 pilot:1 million:1 fraud:1 completed:1 concerns:1 country:1 region:1 area:1 roughly:1 giving:1 while:1 victory:1 rose:3 push:1 quarter:2 comes:1 software:1
+CVX	20140808	124.5	126.7	r_up	duty:1 operations:1 have:2 1.2:2 give:1 strengthen:1 into:1 some:1 back:1 innovations:1 large:1 passwords:1 experts:1 spread:1 suspended:1 world:1 tend:1 networks:1 cloud:1 halt:1 lessons:1 information:1 shirt:1 encryption:1 away:1 computing:1 should:1 bad:1 been:1 quickly:1 their:2 much:1 minute:1 which:1 airstrikes:1 you:1 developers:1 corporate:1 too:1 do:1 we:1 good:1 's:2 intended:1 massive:1 returning:1 may:1 broader:1 billion:1 stop:1 first:1 soon:1 early:1 important:1 moving:1 user:1 theft:1 not:2 such:1 technologies:1 merchandise:1 keep:1 begins:1 advance:1 people:1 fields:1 taking:1 companies:3 budget:1 reports:2 morning:1 n't:3 thing:1 core:1 so:1 can:1 patriotic:1 security:1 balance:1 consumer:1 say:1 gang:1
+CVX	20140811	126.7	126.6	r_down	
+CVX	20140812	126.6	126.0	r_down	
+CVX	20140813	126.0	126.5	r_up	
+CVX	20140814	126.5	125.8	r_down	city:1 gradually:1 remote:1 appear:1 northern:1 both:1 area:1 number:1 up:1 eager:1 outside:1 base:1 cooperation:1 ramping:1 military:1 sides:1 expand:1
+CVX	20140815	125.8	126.1	r_up	even:1 faster:1 getting:1 fees:1 but:1 rising:1 award:1 climbing:1 aid:1 largest:1 strategies:1
+CVX	20140818	126.1	126.3	r_up	barrels:1 said:1 off:2 300:1 country:1 million:1 up:1 one:1 possibly:1 oil:1 largest:1 crude:1 found:1 's:1 discoveries:1 decades:1
+CVX	20140819	126.3	127.6	r_up	claim:1 last:2 polls:1 primary:1 competitive:1 chance:1 candidates:1 decide:1 go:1 2014:1 nomination:1
+CVX	20140820	127.6	127.4	r_down	
+CVX	20140821	127.4	127.9	r_up	sending:1 oil:1 off:1 facility:1 lots:1 some:1 coast:1 crude:2 authorities:1 whether:1 questions:1 small:1 appears:1 raising:1
+CVX	20140822	127.9	127.1	r_down	sending:1 oil:1 off:1 they:1 increasingly:1 facility:1 lots:1 global:1 some:1 coast:1 crude:2 say:1 authorities:1 whether:1 questions:1 making:1 small:1 's:1 markets:1 appears:1 raising:1
+CVX	20140825	127.1	127.8	r_up	
+CVX	20140826	127.8	128.2	r_up	roundup:1 news:1 private:1
+CVX	20140827	128.2	128.6	r_up	
+CVX	20140828	128.6	128.7	r_up	oil:1 's:2 venture:1 shale:1 joint:1 massive:1 drill:1
+CVX	20140829	128.7	129.4	r_up	oil:1 develop:1 agreed:1 shale:1 massive:1 's:3
+CVX	20140902	129.4	127.5	r_down	lower:1 since:1 gains:1 mostly:1 monthly:1 largest:1 back:1 ended:1 increases:1 pulling:1 were:1 stocks:1 500:2
+CVX	20140903	127.5	127.8	r_up	
+CVX	20140904	127.8	126.8	r_down	operations:1 charter:1 said:1 's:1 $:1 extension:1 pounds:1 --:1 secured:1 million:2 contract:1 88:1 providing:1 services:1 has:1 worth:1
+CVX	20140905	126.8	127.4	r_up	
+CVX	20140908	127.4	126.2	r_down	aggressively:1 prospects:1 's:3 places:1 huge:1 being:1 government:1 rode:1 state:2 rising:1 iron-ore:2 time:1 prices:2 transformed:1 falling:1 royalties:1 boom:1
+CVX	20140909	126.2	125.1	r_down	
+CVX	20140910	125.1	124.2	r_down	
+CVX	20140911	124.2	123.8	r_down	
+CVX	20140912	123.8	122.6	r_down	
+CVX	20140915	122.6	124.2	r_up	delivery:1 shut:1 accident:1 point:1 deadly:1 storage:1 pipeline:1 down:1 production:1 wake:1 natural-gas:1 feeds:1 has:1
+CVX	20140916	124.2	124.9	r_up	
+CVX	20140917	124.9	124.7	r_down	
+CVX	20140918	124.7	124.1	r_down	said:1 may:1 onshore:1 50:1 made:1 have:1 largest:1 natural-gas:1 years:1 discovery:1
+CVX	20140919	124.1	124.8	r_up	
+CVX	20140922	124.8	123.4	r_down	
+CVX	20140923	123.4	123.0	r_down	family:1 loan:1 refinery:1 thermal:1 decided:1 its:2 considering:1 buyers:1 van:1 electricity:1 pay:1 away:1 investment:1 bank:1 largest:1 billionaires:1 has:2 's:1 stay:1 hired:1 solar:1 world:1 stocks:1 modern-day:1 look:1 off:1 like:1 invest:1 sale:1 project:1 federal:2 writes:1
+CVX	20140924	123.0	122.4	r_down	streak:1 sessions:1 snapping:1 three:1 indexes:1 ended:1 losing:1 stocks:1 higher:1
+CVX	20140925	122.4	120.6	r_down	sell:1 gas:1 exports:1 's:1 also:1 country:1 ramp:1 up:1 some:1 example:1 prepares:1 planning:1 rising:1 which:1 fuel:1 natural-gas:1 overseas:1 bills:1 its:1 cautionary:1
+CVX	20140926	120.6	121.4	r_up	series:1 energy:1 positioned:1 soon:2 challenges:1 world-wide:1 open:1 its:1 overhaul:1 due:1 better:1 few:1 international:1 shale-gas:1 oil:1 's:2 wo:1 gas:1 producers:1 part:1 than:1 join:1 ranks:1 companies:1 up:1 anytime:1 n't:1 technical:1 beneath:1
+CVX	20140929	121.4	120.5	r_down	
+CVX	20140930	120.5	119.3	r_down	pointing:1 there’s:1 prices:1 any:1 market:1 little:1 recovery:1 third-quarter:1 oil:2 gains:1 extend:1 nicked:1 gas:1 soon:1 worst:1 not:1 stocks:2 performers:1 did:1 horizon:1 time:1 toward:1
+CVX	20141001	119.3	117.6	r_down	
+CVX	20141002	117.6	117.1	r_down	
+CVX	20141003	117.1	117.7	r_up	
+CVX	20141006	117.7	118.0	r_up	1.5:1 agreed:1 trade:1 session:1 its:1 sell:1 giant:1 said:1 develop:1 $:1 stretch:1 shares:1 expected:1 has:1 play:1 oil:1 's:1 plans:1 shale:1 western:1 key:1 subsidiary:1 billion:1 presses:1 ahead:1 30:1 companies:1 actively:1
+CVX	20141007	118.0	116.0	r_down	
+CVX	20141008	116.0	117.9	r_up	sell:1 firm:1 productive:1 led:1 people:1 familiar:1 agreed:1 consortium:1 two:1 matter:1 say:1 oil:1 has:1 block:1
+CVX	20141009	117.9	114.5	r_down	saying:1 investors:1 point:2 ran:1 over:1 expects:1 years:1 year:3 their:1 decline:1 farmers:1 spending:1 one-day:1 selloff:1 forecast:1 335:1 supplies:1 lower-than-expected:1 into:1 stock:1 tighten:1 planting:1 farm:1 worst:2 coming:1 prices:1 than:2 change:1 fiscal:1 sending:1 suffers:1 exits:1 amid:1 grain:1 more:2 profits:1 weakest:1
+CVX	20141010	114.5	113.8	r_down	

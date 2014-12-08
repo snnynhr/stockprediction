@@ -1,0 +1,50 @@
+MET	20140801	52.2	51.7	r_down	's:1 gains:1 --:1 recovery:1 energy:1 profit:1 tied:1 2nd:1 jump:1 record:1 other:1 businesses:1 economy:1 quarterly:1 railroad:1 41:1 continued:1 its:2 posted:1
+MET	20140804	51.7	52.0	r_up	
+MET	20140805	52.0	51.3	r_down	says:1 members:1 systemic:1 questions:2 financial:1 doesn’t:1 insurance:1 subject:1 additional:1 federal:1 top:1 late:1 regulation:1 oversight:2 's:2 insurer:1 company:1 pose:1 push:1 letter:1 raising:1 regulator:2 mounts:1 efforts:1 avoid:1
+MET	20140806	51.3	51.3	r_up	
+MET	20140807	51.3	51.0	r_down	
+MET	20140808	51.0	51.7	r_up	via:1 give:1 agreed:1 agent:1 accused:1 improperly:1 litigation:1 ratings:1 use:1 poses:1 $:1 23:1 pay:1 class-action:1 legal:1 machine:1 way:1 insurers:1 firm:1 deemed:1 resolve:1 's:1 around:1 government:1 may:2 blasting:1 million:1 pitches:1 regulators:1 important:1 such:1 wrinkle:1 has:1 challenge:1 credit:1 life-insurance:1 systemically:1
+MET	20140811	51.7	51.7	r_up	
+MET	20140812	51.7	52.1	r_up	
+MET	20140813	52.1	52.4	r_up	
+MET	20140814	52.4	52.9	r_up	
+MET	20140815	52.9	52.4	r_down	
+MET	20140818	52.4	53.4	r_up	
+MET	20140819	53.4	53.6	r_up	gaming:1 within:1 officials:1 facilities:1 month:1 pushing:1 failing:1 harder:1 three:1 slated:1 ever:1 their:1 near:1 casinos:1 doors:1 new:1 close:1 next:1 shiny:1 than:1
+MET	20140820	53.6	53.7	r_up	closer:1 ‘systemically:1 designation:2 later:1 possible:1 vote:1 important’:1
+MET	20140821	53.7	53.9	r_up	streak:1 outlook:1 financial:1 people:1 moved:1 private:1 one:1 '':1 officials:1 including:1 your:1 closer:1 turn:1 fined:1 top:1 two:1 winning:1 their:1 equity:1 biggest:1 has:1 more:1 firm:1 ``:1 extended:1 's:1 finance:1 government:1 beat:1 funds:1 after:1 possible:1 brief:1 step:1 important:1 news:1 hedge:1 stocks:1 institution:1 panel:1 lower:1 designation:1 policy:1 according:1 morning:1 matter:1 jitters:1 familiar:1 banks:1 systemically:1
+MET	20140822	53.9	53.5	r_down	
+MET	20140825	53.5	54.2	r_up	buyers:1 's:1 seeking:1 companies:1 most:1 connection:1 so:1 can:1 boon:1
+MET	20140826	54.2	54.5	r_up	
+MET	20140827	54.5	54.7	r_up	saying:1 investors:1 fail:1 investment:1 make:1 trusts:1 needed:1 protections:1 too:1 wants:1 life:1 added:1 's:1 insurer:1 may:1 big:2 pushing:1 regulators:1 understand:1 not:1 nontraded:1 restrictions:1 real-estate:1 fully:1 securities:1 risks:1 small:1
+MET	20140828	54.7	54.3	r_down	
+MET	20140829	54.3	54.7	r_up	
+MET	20140902	54.7	55.3	r_up	treating:1 's:1 than:1 companies:1 explain:1 seems:1 demanding:1 why:1 better:1 regulators:1 asset:1 managers:1 insurance:1 top:1 panel:1
+MET	20140903	55.3	55.1	r_down	
+MET	20140904	55.1	55.4	r_up	
+MET	20140905	55.4	55.2	r_down	declared:1 financial:1 proposed:1 tougher:1 showdown:1 closer:1 decision:1 giving:1 top:1 insurer:1 legal:1 their:1 oversight:1 's:1 government:1 explanation:1 possible:1 step:1 important:1 bringing:1 institution:1 panel:1 clear:1 regulators:3 provide:1 systemically:1
+MET	20140908	55.2	54.8	r_down	
+MET	20140909	54.8	54.2	r_down	10:1 13:1 total:2 's:1 assets:1 annuity:1 industry:1 share:1 only:1 insurance:1 2012:1 competitors:1 force:1 800:1 than:1 market:1 more:1
+MET	20140910	54.2	54.7	r_up	
+MET	20140911	54.7	54.7	r_up	paying:1 's:2 designation:1 attention:1 but:1 finally:1 mistake:1
+MET	20140912	54.7	55.4	r_up	
+MET	20140915	55.4	55.0	r_down	later:1 would:1 give:1 amend:1 could:1 bill:1 companies:1 released:1 flexibility:1 regulating:1 vote:1 get:1 copy:1 insurance:1 more:1
+MET	20140916	55.0	55.2	r_up	
+MET	20140917	55.2	55.2	r_up	just:1 give:1 known:1 flexibility:1 sought:1 sport:1 insurance:1 would:1 legislation:1 long:1 any:1 hockey:2 fledgling:1 firms:1 save:1 more:1 his:1 former:1 half:1 not:1 such:1 now:1 approved:1 career:1 companies:1 large:1 regulating:1 can:1 team:1 talk:1
+MET	20140918	55.2	55.8	r_up	forced:1 season:1 schedules:1 two:1 one:1 compensate:1 their:3 game:1 adjust:1 games:1 internal:1 night:2 clocks:1 sleep:1 order:1
+MET	20140919	55.8	55.9	r_up	
+MET	20140922	55.9	55.2	r_down	ones:1 plays:1 did:1 make:1 but:1 n't:1 stupid:1 too:1 they:1 avoided:1 any:1
+MET	20140923	55.2	54.7	r_down	's:1 showed:1 win:1 over:1 finally:1 grasping:1 they:1 offense:1 company:1
+MET	20140924	54.7	55.4	r_up	
+MET	20140925	55.4	54.1	r_down	
+MET	20140926	54.1	54.2	r_up	life:1 universal:1 rosy:1 say:1 projections:1 performance:1 too:1
+MET	20140929	54.2	53.9	r_down	
+MET	20140930	53.9	53.7	r_down	
+MET	20141001	53.7	52.2	r_down	
+MET	20141002	52.2	52.5	r_up	
+MET	20141003	52.5	53.3	r_up	formally:1 challenging:1 proposed:2 insurer:1 federal:1 contest:1 designation:1 hearing:1 hitting:1 their:1 have:1 announce:1 surgery:1 has:1 asked:1
+MET	20141006	53.3	52.9	r_down	hearing:1 whether:1 review:1 should:1 regulators:1 further:1 hold:1 oversight:1 subject:1
+MET	20141007	52.9	51.4	r_down	do:1 major:1 selling:1 especially:1 investors:1 things:1 company:2 acquirer:1 growth:1 can:1 capital:1 taking:1 riskiest:1 mission-driven:1 grow:1 involves:1
+MET	20141008	51.4	51.9	r_up	
+MET	20141009	51.9	50.3	r_down	
+MET	20141010	50.3	49.7	r_down	language:1 house:3 we’re:1 visit:1 here:1 should:3 looking:1 shore:1 other:1 rent:1 learn:1 new:1 improve:1

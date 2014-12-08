@@ -1,0 +1,50 @@
+UNH	20140801	80.7	81.1	r_up	
+UNH	20140804	81.1	81.9	r_up	
+UNH	20140805	81.9	80.6	r_down	
+UNH	20140806	80.6	81.1	r_up	
+UNH	20140807	81.1	78.9	r_down	among:1 them:1 drops:1 off:1 takes:1 conviction:2 cuts:1 price:1 after:2 list:1 shares:1 loses:1 industrials:1 components:1 losses:1 biggest:1 suffer:1 analyst:1 target:1
+UNH	20140808	78.9	79.7	r_up	
+UNH	20140811	79.7	79.5	r_down	
+UNH	20140812	79.5	79.8	r_up	
+UNH	20140813	79.8	81.1	r_up	
+UNH	20140814	81.1	81.4	r_up	
+UNH	20140815	81.4	81.1	r_down	
+UNH	20140818	81.1	81.9	r_up	
+UNH	20140819	81.9	83.1	r_up	buy:1 means:1 these:1 selloff:1 manage:1 companies:1 stocks:1 discount:1 programs:1 contrarians:1 can:1
+UNH	20140820	83.1	83.0	r_down	
+UNH	20140821	83.0	83.4	r_up	
+UNH	20140822	83.4	83.4	r_up	24:2 applied:1 major:1 sell:1 marketplaces:1 plans:1 markets:1 next:1 states:1 including:1 year:1 such:1 has:1 consumer:1 health-law:1
+UNH	20140825	83.4	83.8	r_up	billion:1 's:1 $:1 may:1 sale:1 fetch:1 2:1 medical-device:1 its:1 unit:1 more:1
+UNH	20140826	83.8	84.7	r_up	10:1 people:2 influential:2 universe:1 industry:1 both:1 most:2 magazine:1 health:2 ranks:1 out:1 care:2
+UNH	20140827	84.7	86.0	r_up	
+UNH	20140828	86.0	85.9	r_down	
+UNH	20140829	85.9	86.3	r_up	
+UNH	20140902	86.3	86.0	r_down	selling:1 marketplaces:1 hoping:1 business:1 process:1 smoother:1 around:1 reopen:1 much:1 coverage:1 time:1 15:1 millions:1 insurers:1 health-law:1
+UNH	20140903	86.0	86.4	r_up	
+UNH	20140904	86.4	86.6	r_up	
+UNH	20140905	86.6	87.3	r_up	
+UNH	20140908	87.3	87.5	r_up	
+UNH	20140909	87.5	88.1	r_up	
+UNH	20140910	88.1	87.2	r_down	
+UNH	20140911	87.2	87.0	r_down	
+UNH	20140912	87.0	86.1	r_down	
+UNH	20140915	86.1	86.0	r_down	filings:1 working:1 companies:1 official:1 some:1 parts:1 demanding:1 better:1 their:1 catching:1 asking:1 spend:1 really:1
+UNH	20140916	86.0	87.1	r_up	
+UNH	20140917	87.1	86.9	r_down	
+UNH	20140918	86.9	87.6	r_up	
+UNH	20140919	87.6	87.8	r_up	
+UNH	20140922	87.8	87.7	r_down	's:1 there:1 while:1 maintain:1 can:1 margins:1 concerns:1 improve:1
+UNH	20140923	87.7	86.5	r_down	
+UNH	20140924	86.5	88.2	r_up	
+UNH	20140925	88.2	86.1	r_down	
+UNH	20140926	86.1	86.6	r_up	
+UNH	20140929	86.6	86.5	r_down	
+UNH	20140930	86.5	86.2	r_down	deal:1 providers:1 trend:1 move:1 held:1 manage:1 billing:1 going:1 collections:1 helps:1 which:1 role:1 health-care:1 integrated:1 disclosed:1 buy:1 's:1 company:1 acquire:1 closely:1 deepen:1 physician:1 movies:1 practices:1 growing:1 toward:1
+UNH	20141001	86.2	84.8	r_down	
+UNH	20141002	84.8	84.9	r_up	
+UNH	20141003	84.9	86.0	r_up	
+UNH	20141006	86.0	85.0	r_down	
+UNH	20141007	85.0	84.1	r_down	
+UNH	20141008	84.1	86.6	r_up	use:1 shopping:1 consumers:1 long:1 month:1 application:1 complex:1 year’s:1 last:1 next:1 starting:1 insurance:1
+UNH	20141009	86.6	84.9	r_down	
+UNH	20141010	84.9	85.3	r_up	received:1 promises:1 100,000:1 $:1 requiring:1 medicines:1 tag:1 carries:1 drug:2 without:1 price:1 most:1 patients:1 cure:1 hepatitis:1 approval:1 new:1 other:1 nearly:1

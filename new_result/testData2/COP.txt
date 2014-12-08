@@ -1,0 +1,50 @@
+COP	20140801	81.6	79.9	r_down	roundup:1 saying:1 drops:1 bid:1 surprises:1 jumps:1 losses:1 companies:1 sales:1 reports:1 quarters:1 advisories:1 weak:1 earnings:1 problems:1 future:1 corporate:1 delivers:1 latest:1
+COP	20140804	79.9	81.1	r_up	downsizing:1 major:1 oil:1 turning:1 consider:1 just:1 seeking:1 companies:1 should:1 slowly:1 approval:1 investor:1 than:1
+COP	20140805	81.1	78.9	r_down	week:1 peers:1 oil:1 's:2 network:1 widen:1 stations:1 amid:1 regional:1 gas:1 took:1 filling:1 battle:1 group:1 retail:1 opportunity:1 its:2 bought:1
+COP	20140806	78.9	79.8	r_up	
+COP	20140807	79.8	78.8	r_down	
+COP	20140808	78.8	80.5	r_up	
+COP	20140811	80.5	80.0	r_down	
+COP	20140812	80.0	79.6	r_down	
+COP	20140813	79.6	80.1	r_up	week:1 interruption:1 exports:1 oil:1 plans:1 people:1 familiar:1 after:1 one-year:1 port:1 matter:1 said:1 largest:1 next:1 its:1 restart:1
+COP	20140814	80.1	79.3	r_down	
+COP	20140815	79.3	79.8	r_up	
+COP	20140818	79.8	78.5	r_down	
+COP	20140819	78.5	79.1	r_up	claim:1 last:2 polls:1 primary:1 competitive:1 chance:1 candidates:1 decide:1 go:1 2014:1 nomination:1
+COP	20140820	79.1	79.7	r_up	
+COP	20140821	79.7	80.1	r_up	ahead:1 confidence:1 plans:1 investors:1 brighter:1 share:1 days:1 favor:1 dropping:1 raising:1 debt:1 issue:1 surprised:1 signaling:1
+COP	20140822	80.1	79.4	r_down	
+COP	20140825	79.4	80.0	r_up	operations:1 resumed:1 giant:1 said:1 's:2 normal:1 country:1 jumps:1 violence:1 had:1 urban:1 field:1 oil:1 mounting:1 output:1 centers:1 contrast:1
+COP	20140826	80.0	79.7	r_down	firm:1 brokerage:1 's:1 expand:1 more:1
+COP	20140827	79.7	80.2	r_up	
+COP	20140828	80.2	79.8	r_down	
+COP	20140829	79.8	80.4	r_up	barrels:1 one-year:1 producer:1 agreed:1 partnership:1 ending:1 bed:1 22,000:1 multiple:1 port:3 terminal:3 said:2 $:2 million:1 stoppage:1 storage:1 proceedings:1 40:1 day:1 late:1 capital:2 supplies:2 receiving:2 week:1 exports:2 oil:6 's:5 eastern:1 started:1 after:3 gas:1 despite:2 between:2 now:2 intense:2 supplying:1 legal:1 resumed:2 last:1 largest:2 --:1 fields:2 official:1 companies:2 fighting:2 coal:1 shipped:1 settle:1 pay:1 methane:1
+COP	20140902	80.4	79.4	r_down	
+COP	20140903	79.4	80.1	r_up	
+COP	20140904	80.1	79.0	r_down	
+COP	20140905	79.0	79.5	r_up	
+COP	20140908	79.5	78.2	r_down	
+COP	20140909	78.2	78.1	r_down	
+COP	20140910	78.1	78.2	r_up	impact:1 specific:1 oil:1 group:1 later:1 companies:1 energy:1 commit:1 some:1 prepared:1 producers:1 environmental:1 reduction:1 sands:1 world:1 biggest:1 including:1 month:1 's:1 targets:1
+COP	20140911	78.2	78.6	r_up	
+COP	20140912	78.6	77.6	r_down	
+COP	20140915	77.6	78.6	r_up	gone:1 global:1 mine:1 '':1 raw:1 21st:1 much:1 has:1 shows:1 ``:1 buy:1 's:4 wrong:1 iron-ore:1 analyst:1 11:2 troubled:1 name:1 up:1 materials:1 published:1 push:1
+COP	20140916	78.6	79.9	r_up	
+COP	20140917	79.9	79.8	r_down	
+COP	20140918	79.8	79.1	r_down	
+COP	20140919	79.1	79.7	r_up	
+COP	20140922	79.7	78.9	r_down	
+COP	20140923	78.9	78.1	r_down	
+COP	20140924	78.1	77.9	r_down	
+COP	20140925	77.9	76.8	r_down	
+COP	20140926	76.8	77.3	r_up	floodgates:1 move:1 may:1 commercial:1 approves:1 six:1 companies:1 others:1 grants:1 drones:2 ban:1 open:1 exemptions:1
+COP	20140929	77.3	77.0	r_down	
+COP	20140930	77.0	75.7	r_down	operations:1 plastics:1 departed:1 headed:1 retire:1 sales:1 export:2 decade:2 buyers:1 said:1 terminal:1 state:1 shipment:1 exporting:1 2015:2 has:2 oil:2 's:1 which:1 started:1 early:1 crude:2 chemicals:1 such:2 mount:1 foreign:1 continue:1 refining:1 including:1 tanker:1 first:2
+COP	20141001	75.7	74.2	r_down	
+COP	20141002	74.2	73.9	r_down	
+COP	20141003	73.9	74.0	r_up	
+COP	20141006	74.0	74.2	r_up	
+COP	20141007	74.2	73.1	r_down	
+COP	20141008	73.1	73.8	r_up	sell:1 firm:1 productive:1 led:1 people:1 familiar:1 agreed:1 consortium:1 two:1 matter:1 say:1 oil:1 has:1 block:1
+COP	20141009	73.8	71.4	r_down	saying:1 over:1 expects:1 years:1 year:1 planting:1 farmers:1 spending:1 forecast:1 their:1 supplies:1 tighten:1 farm:1 coming:1 prices:1 change:1 fiscal:1 lower-than-expected:1 amid:1 grain:1 profits:1 weakest:1
+COP	20141010	71.4	70.3	r_down	

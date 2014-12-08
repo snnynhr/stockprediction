@@ -1,0 +1,50 @@
+TSN	20140801	37.1	36.9	r_down	
+TSN	20140804	36.9	37.1	r_up	
+TSN	20140805	37.1	36.6	r_down	
+TSN	20140806	36.6	37.0	r_up	
+TSN	20140807	37.0	36.3	r_down	trim:1 sector:1 imports:2 foods:1 officials:1 wider:1 agricultural:1 out:1 considering:1 said:1 muted:1 farm:1 laid:1 other:1 banning:1 expected:1 impact:1 's:2 though:1 food:1 measures:1 overall:1 producers:1 response:1 poultry:1 wide:1 sanctions:1 could:1 range:1 products:1 ban:1 revenues:1 industry:1
+TSN	20140808	36.3	36.8	r_up	
+TSN	20140811	36.8	37.2	r_up	
+TSN	20140812	37.2	37.2	r_up	billion:1 received:1 's:2 additional:1 information:1 connection:1 purchase:1 7.7:1 have:1 requests:1 pending:1 $:1
+TSN	20140813	37.2	37.5	r_up	fourth-quarter:1 dressings:1 into:1 sales:1 have:1 year:1 sought:1 its:4 documents:1 service:1 8.6:1 rose:1 segments:1 revenue:1 chemical:1 investigation:1 criminal:1 brand:1 fiscal:1 plant:1 gains:1 food:1 company:1 continues:1 driven:1 records:1 said:2 authorities:1 second-quarter:1 11:2 both:1 last:1 salad:1 spill:1 climbed:1 benefit:1 part:1 retail:1 acquisition:1
+TSN	20140814	37.5	37.5	r_up	
+TSN	20140815	37.5	37.3	r_down	shown:1 own:1 risk:1 deal:1 get:1 shareholders:1 needs:1 deals:1 few:1 increases:1 have:1 buyer:1 burned:1 if:1 approve:1 its:1 recent:1
+TSN	20140818	37.3	37.2	r_down	
+TSN	20140819	37.2	37.4	r_up	all:1 's:1 deal:1 vulnerable:1 antitrust:1 being:1 bid:1 no:1 leaving:1 try:1 few:1 regulators:1 offers:1 protections:1 left:1 block:1 if:1
+TSN	20140820	37.4	37.3	r_down	
+TSN	20140821	37.3	37.3	r_up	
+TSN	20140822	37.3	36.9	r_down	
+TSN	20140825	36.9	37.3	r_up	
+TSN	20140826	37.3	37.1	r_down	billion:1 extended:1 $:1 third:1 offer:1 said:1 companies:1 shares:1 day:1 deal:1 maker:1 7.7:1 time:2 tender:1 close:1 its:2 seeks:1
+TSN	20140827	37.1	37.7	r_up	
+TSN	20140828	37.7	38.0	r_up	deal:1 agreed:1 7.7:1 tender:1 biggest-ever:1 settlement:1 its:3 completion:1 said:1 $:1 concerns:1 way:1 under:1 has:1 's:1 business:1 offer:1 completed:1 takeover:1 paving:1 billion:1 meat:1 antitrust:1 industry:1 later:1 companies:1 divest:1
+TSN	20140829	38.0	38.0	r_up	
+TSN	20140902	38.0	38.3	r_up	faced:1 perils:1 food:1 companies:1 troubles:1 foreign:1 lesson:1 processor:1
+TSN	20140903	38.3	37.7	r_down	
+TSN	20140904	37.7	37.3	r_down	beat:1 rises:1 focus:1 earnings:1 fall:1
+TSN	20140905	37.3	37.8	r_up	roundup:1 saying:1 surprises:1 companies:1 reports:1 quarters:1 advisories:1 earnings:1 future:1 corporate:1 latest:1
+TSN	20140908	37.8	38.3	r_up	
+TSN	20140909	38.3	38.2	r_down	fare:1 buy:1 's:2 $:1 business:1 presence:1 betting:1 million:1 consumption:1 traditional:1 foods:1 other:1 cereals:1 energize:1 aisles:1 breakfast:1 flagging:1 agreed:1 bigger:1 sapped:1
+TSN	20140910	38.2	38.8	r_up	says:1 preserving:1 mainly:1 itself:1 distributor:1 mom-and-pop:1 its:1 sell:1 rely:1 end:1 crucial:1 won:1 which:1 store:2 stock:1 relationships:1 customers:1 food:1 timeline:1 company:1 wholesaler:1 approval:1 grocery:1 shelves:1 try:1
+TSN	20140911	38.8	38.8	r_up	
+TSN	20140912	38.8	38.2	r_down	
+TSN	20140915	38.2	38.3	r_up	
+TSN	20140916	38.3	39.0	r_up	roundup:1 's:1 $:1 16:1 private:1 morning:1 related:1 equity:1 news:1
+TSN	20140917	39.0	38.4	r_down	
+TSN	20140918	38.4	38.7	r_up	
+TSN	20140919	38.7	38.5	r_down	
+TSN	20140922	38.5	37.8	r_down	
+TSN	20140923	37.8	37.2	r_down	
+TSN	20140924	37.2	38.2	r_up	
+TSN	20140925	38.2	37.7	r_down	
+TSN	20140926	37.7	37.7	r_up	
+TSN	20140929	37.7	38.8	r_up	
+TSN	20140930	38.8	39.3	r_up	
+TSN	20141001	39.3	39.9	r_up	
+TSN	20141002	39.9	40.8	r_up	use:1 antibiotic:1 voluntary:1 bill:1 limit:1 plan:1 controversial:1 animals:1
+TSN	20141003	40.8	41.7	r_up	
+TSN	20141006	41.7	41.5	r_down	
+TSN	20141007	41.5	41.0	r_down	
+TSN	20141008	41.0	41.5	r_up	purchases:1 own:1 agreed:1 ended:2 have:1 year:1 close:1 before:1 even:1 selected:1 their:1 3:1 other:1 2014:1 fish:1 stock:1 week:1 them:1 buy:1 seeking:1 bigger:1 graphic:1 look:1 companies:1 up:2 outfits:1 activity:1 gobble:1
+TSN	20141009	41.5	40.9	r_down	
+TSN	20141010	40.9	40.4	r_down	

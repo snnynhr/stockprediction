@@ -1,0 +1,50 @@
+ADM	20140801	46.1	46.3	r_up	
+ADM	20140804	46.3	46.7	r_up	
+ADM	20140805	46.7	48.3	r_up	few:1 outlook:1 full:1 stores:1 publishing:1 pointing:1 tumble:1 1.8:1 sales:1 proven:1 trade:2 past:1 second:1 actively:1 through:1 year:1 years:1 transportation:1 markdowns:1 its:3 market:3 greater:1 has:1 confirmed:1 said:2 network:1 driving:1 major:1 fell:1 cried:1 question:1 4.8:1 shares:1 whether:1 acting:1 premarket:1 expected:1 include:1 boost:1 day’s:1 warning:1 creating:1 buy:1 's:3 gains:1 business:1 separate:1 big:1 company:1 each:1 sign:1 lowered:1 two:1 ownership:1 false:1 bit:1 promotional:1 spin:1 second-quarter:1 $:2 billion:1 boy:1 stocks:1 watchers:1 off:1 like:1 publicly:1 movers:1 straight:1 drop:1 companies:2 slumps:1 crops:1 session:1 wolf:1 due:1 volumes:1 bumper:1 trading:1 stock:1 traded:1 alarm:1 profits:1 executives:1
+ADM	20140806	48.3	48.4	r_up	
+ADM	20140807	48.4	48.2	r_down	fiscal:1 fourth-quarter:1 12:2 's:1 energy:1 conglomerate:1 weighed:1 economic:1 fell:1 shifting:1 earnings:1 operations:1 agricultural:1 trading:1 struggling:1 conditions:1 abroad:1
+ADM	20140808	48.2	48.8	r_up	
+ADM	20140811	48.8	49.5	r_up	
+ADM	20140812	49.5	49.4	r_down	
+ADM	20140813	49.4	49.8	r_up	
+ADM	20140814	49.8	49.7	r_down	
+ADM	20140815	49.7	49.5	r_down	
+ADM	20140818	49.5	49.5	r_up	
+ADM	20140819	49.5	49.6	r_up	
+ADM	20140820	49.6	49.8	r_up	upper:1 major:1 transportation:1 costs:1 crops:1 over:1 delaying:1 companies:1 two:1 shipping:1 hearing:1 concerns:1 grain:1 snarls:1 railroad:1 higher:1 operators:1 called:1 movement:1
+ADM	20140821	49.8	49.5	r_down	
+ADM	20140822	49.5	49.1	r_down	
+ADM	20140825	49.1	49.4	r_up	
+ADM	20140826	49.4	49.2	r_down	
+ADM	20140827	49.2	49.5	r_up	
+ADM	20140828	49.5	49.7	r_up	
+ADM	20140829	49.7	49.8	r_up	
+ADM	20140902	49.8	50.0	r_up	
+ADM	20140903	50.0	49.9	r_down	agribusiness:1 deal:1 agreed:1 private:2 including:1 its:1 sell:1 giant:1 $:1 capabilities:1 your:1 equity:1 biggest:1 million:1 's:3 finance:1 business:1 beat:1 funds:1 440:1 chocolate:1 news:1 hedge:1 expand:1 grains:1 morning:1 banks:1
+ADM	20140904	49.9	50.2	r_up	edition:1 4:1 2014:1
+ADM	20140905	50.2	50.3	r_up	
+ADM	20140908	50.3	50.5	r_up	
+ADM	20140909	50.5	50.4	r_down	
+ADM	20140910	50.4	50.6	r_up	said:1 $:1 food:1 company:2 million:1 buy:1 subsidiary:1 800:1 its:1
+ADM	20140911	50.6	50.9	r_up	
+ADM	20140912	50.9	50.4	r_down	
+ADM	20140915	50.4	50.5	r_up	
+ADM	20140916	50.5	51.2	r_up	
+ADM	20140917	51.2	51.2	r_up	
+ADM	20140918	51.2	52.0	r_up	
+ADM	20140919	52.0	51.6	r_down	
+ADM	20140922	51.6	51.4	r_down	
+ADM	20140923	51.4	50.7	r_down	
+ADM	20140924	50.7	51.4	r_up	
+ADM	20140925	51.4	50.4	r_down	
+ADM	20140926	50.4	50.8	r_up	
+ADM	20140929	50.8	51.3	r_up	
+ADM	20140930	51.3	51.1	r_down	
+ADM	20141001	51.1	50.4	r_down	
+ADM	20141002	50.4	50.5	r_up	
+ADM	20141003	50.5	51.1	r_up	
+ADM	20141006	51.1	50.5	r_down	
+ADM	20141007	50.5	49.5	r_down	fiscal:1 core:1 26:1 said:1 first-quarter:1 grain:1 business:1 farmers:1 crop:1 slow:1 sell:1 earnings:1 prices:1 proved:1 falling:1 its:1 dropped:1
+ADM	20141008	49.5	48.0	r_down	fiscal:1 lower:1 cotton:1 headwinds:1 corn:1 industry:1 company:1 year:1 forecast:1 disappointing:1 planted:1 earnings:1 coming:1 acres:1 its:1 faces:1
+ADM	20141009	48.0	47.1	r_down	saying:1 over:1 expects:1 years:1 year:1 planting:1 farmers:1 spending:1 forecast:1 their:1 supplies:1 tighten:1 farm:1 coming:1 prices:1 change:1 fiscal:1 lower-than-expected:1 amid:1 grain:1 profits:1 weakest:1
+ADM	20141010	47.1	46.3	r_down	

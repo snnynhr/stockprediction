@@ -1,0 +1,50 @@
+WLP	20140801	109.4	110.5	r_up	
+WLP	20140804	110.5	111.1	r_up	
+WLP	20140805	111.1	110.0	r_down	's:1 create:1 exchanges:1 up:1 nation:1 largest:1 teaming:1 one:1
+WLP	20140806	110.0	110.9	r_up	
+WLP	20140807	110.9	106.9	r_down	
+WLP	20140808	106.9	108.1	r_up	
+WLP	20140811	108.1	106.9	r_down	
+WLP	20140812	106.9	108.2	r_up	name:1 insurer:1 health-insurance:1 brand:1 most:1 uses:1 products:1 now:1 its:2 change:1 plans:1
+WLP	20140813	108.2	109.9	r_up	
+WLP	20140814	109.9	112.0	r_up	
+WLP	20140815	112.0	111.3	r_down	
+WLP	20140818	111.3	111.9	r_up	
+WLP	20140819	111.9	113.2	r_up	buy:1 means:1 these:1 selloff:1 manage:1 companies:1 stocks:1 discount:1 programs:1 contrarians:1 can:1
+WLP	20140820	113.2	112.6	r_down	
+WLP	20140821	112.6	112.7	r_up	sector:1 withstand:1 all:1 shield:1 decline:1 volatility:1 ultimate:1 one:1 market:1 can:1 ‘bubble’:1 care:1 writes:1 talk:1 stock:1
+WLP	20140822	112.7	112.4	r_down	
+WLP	20140825	112.4	112.8	r_up	
+WLP	20140826	112.8	114.2	r_up	
+WLP	20140827	114.2	115.3	r_up	
+WLP	20140828	115.3	115.8	r_up	
+WLP	20140829	115.8	116.0	r_up	
+WLP	20140902	116.0	115.2	r_down	selling:1 marketplaces:1 hoping:1 business:1 process:1 smoother:1 around:1 reopen:1 much:1 coverage:1 time:1 15:1 millions:1 insurers:1 health-law:1
+WLP	20140903	115.2	116.1	r_up	
+WLP	20140904	116.1	117.5	r_up	
+WLP	20140905	117.5	118.5	r_up	
+WLP	20140908	118.5	118.1	r_down	
+WLP	20140909	118.1	120.8	r_up	
+WLP	20140910	120.8	119.8	r_down	
+WLP	20140911	119.8	119.9	r_up	
+WLP	20140912	119.9	118.6	r_down	
+WLP	20140915	118.6	118.4	r_down	
+WLP	20140916	118.4	120.3	r_up	
+WLP	20140917	120.3	120.2	r_down	
+WLP	20140918	120.2	122.1	r_up	
+WLP	20140919	122.1	122.0	r_down	
+WLP	20140922	122.0	121.8	r_down	
+WLP	20140923	121.8	119.3	r_down	
+WLP	20140924	119.3	124.1	r_up	
+WLP	20140925	124.1	120.6	r_down	
+WLP	20140926	120.6	120.8	r_up	
+WLP	20140929	120.8	121.3	r_up	
+WLP	20140930	121.3	119.6	r_down	
+WLP	20141001	119.6	118.1	r_down	
+WLP	20141002	118.1	118.4	r_up	
+WLP	20141003	118.4	122.0	r_up	among:1 share:1 cyber:1 report:1 boosts:1 huge:1 giant:1 $:1 jolt:1 5:1 details:1 breach:1 gets:1 boost:1 buybacks:1 big:1 plan:1 repurchase:1 rises:1 billion:1 financing:1 movers:1
+WLP	20141006	122.0	119.0	r_down	
+WLP	20141007	119.0	117.5	r_down	
+WLP	20141008	117.5	119.8	r_up	exchange:1 voter:1 premium:1 would:1 grant:1 veto:1 health-insurance:1 over:1 official:1 increases:1 state:2 complicate:1 initiative:1 split:1 health-care:1 new:1 work:1 powers:1 could:1 say:1
+WLP	20141009	119.8	118.9	r_down	
+WLP	20141010	118.9	116.9	r_down	

@@ -1,0 +1,50 @@
+BMY	20140801	50.2	49.4	r_down	pharmaceutical:1 giant:1 could:1 see:1 5:1 9:1
+BMY	20140804	49.4	49.6	r_up	development:1 --:1 company:1 institutions:1 research:2 joint:1 venture:1 innovations:1 technology:1 university:1 announced:1
+BMY	20140805	49.6	49.0	r_down	
+BMY	20140806	49.0	49.1	r_up	
+BMY	20140807	49.1	48.3	r_down	
+BMY	20140808	48.3	48.8	r_up	
+BMY	20140811	48.8	48.7	r_down	prompted:1 distributors:1 allegations:1 sales:1 bribery:1 warning:1 fine:1 makers:2 regulator:1 anti-trust:1 $:1 working:1 profit:1 conspiring:1 other:1 between:1 several:1 meeting:1 million:1 's:1 allegedly:1 pharmaceutical:1 1.8:1 company:1 under:1 weak:1 took:1 contends:1 pressure:1 country:1 drug:3 keep:1 large:1 generic:1 place:1 maker:1
+BMY	20140812	48.7	48.6	r_down	
+BMY	20140813	48.6	48.8	r_up	
+BMY	20140814	48.8	49.4	r_up	
+BMY	20140815	49.4	49.3	r_down	
+BMY	20140818	49.3	49.6	r_up	
+BMY	20140819	49.6	49.9	r_up	
+BMY	20140820	49.9	49.6	r_down	collaborate:1 cancer:1 study:1 immunotherapy:1 clinical:1 treatment:1 combining:1 chemotherapy:1 potential:1
+BMY	20140821	49.6	49.6	r_up	attack:1 prelude:1 price:1 controls:1
+BMY	20140822	49.6	49.8	r_up	major:1 help:1 companies:2 some:1 narcotic:1 restrict:1 curb:1 drug:1 pills:1 millions:1 ice:1 research:1 5:1 expected:1 painkillers:1 awareness:1 prescriptions:1 bid:1 taken:1 abuse:1 taking:1 bucket:1 reports:1 benefit:1 're:1 steps:1 fuel:1 challenge:1
+BMY	20140825	49.8	50.3	r_up	
+BMY	20140826	50.3	50.4	r_up	pharmaceutical:1 collaborate:1 they:1 would:1 study:1 partnership:1 companies:1 immunotherapy:1 lung-cancer:1 disease:1 looking:1 said:1 treatment:1 another:1 fighting:1 latest:1 capitalize:1 potential:1 evaluating:1
+BMY	20140827	50.4	49.9	r_down	all:1 dig:1 hepatitis:1 appreciate:1 over:1 briefly:1 trade:1 course:1 session:1 done:1 drug:1 have:2 yes:1 've:1 campus:1 approved:1 blue:1 use:1 pause:1 cup:1 life:1 menu:1 there:1 please:1 shares:1 why:1 stimulation:1 much:1 expected:1 you:3 're:1 ever:1 skies:1 ...:1 we:1 's:1 combination:1 company:1 stop:1 treatments:1 moment:1 said:1 not:1 day:2 cool:1 short:1 join:1 items:1 work:1 companies:1 finished:1 us:1 morning:1 below:1 actively:1 so:2 can:1 interesting:1 regulators:1 tasty:1 shiny:1
+BMY	20140828	49.9	50.1	r_up	5.3:1 last:1 $:1 her:1 million:1 according:1 owned:1 released:1 documents:1 least:1 year:1 husband:1 assets:1
+BMY	20140829	50.1	50.2	r_up	disclosure:1 12:1 's:1 leaders:1 last:1 situations:1 regional:1 according:1 forms:1 released:1 widely:1 year:1 banks:1 financial:1 annual:1 divergent:1
+BMY	20140902	50.2	50.2	r_up	
+BMY	20140903	50.2	50.1	r_down	
+BMY	20140904	50.1	50.1	r_up	week:1 cancer:2 cost:1 drug:1 patient:1 $:1 system:1 approved:1 immune:1 expected:1 new:2 body:1 's:2 drugs:2 hefty:1 unleash:1 regulators:1 designed:1 prices:1 class:1 kind:1 harbinger:1 tumors:1 annual:1 sale:1 against:1 command:1 promising:1 went:1 average:1 first:1
+BMY	20140905	50.1	50.7	r_up	own:1 cancer:2 process:1 sales:1 billions:1 transform:1 market:1 drugs:1 huge:1 use:1 anticipation:1 create:1 system:1 approved:1 immune:1 treatment:1 medicine:1 new:2 has:1 type:1 body:1 's:1 combat:1 pharmaceutical:1 may:1 could:1 anticipated:1 part:1 designed:1 wave:1 generate:1 industry:1 dollars:1 months:1 drug:1 tumors:1
+BMY	20140908	50.7	50.8	r_up	body:1 own:1 cancer:2 violated:1 evidence:1 promise:1 heated:1 fight:1 makers:1 market:1 out:1 develop:1 system:1 immune:1 patent:1 sites:1 its:1 late:1 also:1 clinical:1 treatment:1 which:1 between:1 new:2 type:1 method:1 therapies:1 week:1 's:1 significant:1 filed:1 hold:1 lawsuit:1 harnessing:1 both:1 last:1 alleging:1 well:1 drug:1 trial:1 race:1 laboratories:1 playing:1 latest:1
+BMY	20140909	50.8	50.1	r_down	
+BMY	20140910	50.1	50.7	r_up	
+BMY	20140911	50.7	50.3	r_down	
+BMY	20140912	50.3	49.9	r_down	downsizing:1 all:1 right:1 coming:1 share:1 them:1 rising:1 home:1 find:1 'll:2 goings:1 there:1 your:1 anyone:1 going:1 new:1 layoffs:1 's:1 movement:1 wants:1 we:2 someone:1 star:1 comings:1 some:1 spot:1 know:1 others:1 news:1 exciting:1 especially:1 shy:1 and…:1 us:2 n't:1 solved:1 ongoing:1 changes:1 latest:1
+BMY	20140915	49.9	49.6	r_down	
+BMY	20140916	49.6	50.7	r_up	
+BMY	20140917	50.7	50.5	r_down	sector:1 month:1 its:1 2.5:1 pharmaceutical:1 said:1 $:1 50,000:1 shares:1 strategy:1 interview:1 wo:1 sold:1 earlier:1 spate:1 change:1 recent:1 abandoned:1 megadeals:1 sale:1 signed:1 n't:1 planned:1 following:1 acquisition:1
+BMY	20140918	50.5	50.7	r_up	
+BMY	20140919	50.7	51.1	r_up	
+BMY	20140922	51.1	51.3	r_up	
+BMY	20140923	51.3	50.9	r_down	
+BMY	20140924	50.9	51.5	r_up	
+BMY	20140925	51.5	51.2	r_down	
+BMY	20140926	51.2	50.7	r_down	
+BMY	20140929	50.7	51.3	r_up	cancer-drug:1 conference:1 immunotherapies:2 actively:1 especially:1 offering:1 drugs:1 session:1 companies:1 's:1 shares:1 existing:1 their:1 other:1 promise:2 combined:1 expected:1 fresh:1 trade:1 data:1
+BMY	20140930	51.3	50.8	r_down	
+BMY	20141001	50.8	50.5	r_down	session:1 1.4:2 said:1 's:1 $:2 point:1 obligations:1 transfer:1 billion:1 companies:1 shares:1 trade:1 long-term:1 actively:1 pension:1 expected:1 data:1 potential:1 therapies:1 plans:1
+BMY	20141002	50.5	50.2	r_down	
+BMY	20141003	50.2	50.8	r_up	
+BMY	20141006	50.8	51.1	r_up	said:1 cancer:3 efficacy:1 trials:1 combining:1 two:1 three:1 therapies:1 clinical:1 lung:1 treatment:1 conduct:1 has:1 its:1 experimental:1 treat:1
+BMY	20141007	51.1	49.7	r_down	burdens:1 have:1 trend:1 fueling:1 billions:1 trade:1 session:1 shares:1 dual:2 retired:1 landscape:2 weaken:1 said:1 won’t:1 hepatitis:1 citing:1 other:1 treatment:2 expected:1 millions:1 treat:1 's:1 ability:1 payouts:1 drugs:1 protect:1 employers:1 promised:1 not:1 approval:2 regimen:2 off:1 pursue:2 amid:1 could:1 companies:2 cast:1 actively:1 pension:1 drops:1 workers:1 latest:1
+BMY	20141008	49.7	50.2	r_up	all:1 everyone:1 people:1 explained:1 some:1 bounce:1 middle:2 say:1 have:1 touch:1 our:2 happen:1 alternative:1 market:1 happens:1 again:1 busy:1 away:1 less:1 tomorrow:1 you:3 has:1 day:1 mascots:1 week:2 then:1 we:1 do:1 get:1 stay:1 arrived:1 cracking:1 world:1 ...:1 than:1 official:1 shine:1 short:1 lifestyle:1 adopt:1 keep:1 time:1 conquer:1
+BMY	20141009	50.2	49.5	r_down	
+BMY	20141010	49.5	50.2	r_up	

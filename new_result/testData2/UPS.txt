@@ -1,0 +1,50 @@
+UPS	20140801	96.4	96.3	r_down	
+UPS	20140804	96.3	96.5	r_up	
+UPS	20140805	96.5	95.8	r_down	own:1 office:1 twist:1 chartered:1 through:1 questions:1 its:1 rivals:1 agency:1 two:1 their:1 enough:1 biggest:1 charging:1 more:1 customers:1 's:1 pressure:1 putting:1 whether:1 post:1 packages:1 raising:1 surprising:1 these:1 days:1 --:1 moving:1
+UPS	20140806	95.8	95.0	r_down	
+UPS	20140807	95.0	94.3	r_down	
+UPS	20140808	94.3	95.2	r_up	
+UPS	20140811	95.2	95.4	r_up	
+UPS	20140812	95.4	95.7	r_up	
+UPS	20140813	95.7	95.9	r_up	
+UPS	20140814	95.9	96.0	r_up	delivery:1 living:1 mail:1 mountain:1 may:1 well:1 there:1 serve:1 system:1 us:1 n't:2 benefit:1 does:1 no:1 home:1 rural:1 those:1 areas:1
+UPS	20140815	96.0	96.8	r_up	
+UPS	20140818	96.8	97.6	r_up	
+UPS	20140819	97.6	98.2	r_up	
+UPS	20140820	98.2	98.8	r_up	customer:1 said:1 transactions:1 may:1 51:1 compromised:1 have:1 between:1 breach:1 data:2 its:1
+UPS	20140821	98.8	98.4	r_down	operations:1 stores:2 they:1 airspace:1 caused:1 beware:1 locations:2 trade:1 states:2 economic:1 shares:1 another:1 signs:1 need:1 rally:1 its:1 24:2 index:1 monitoring:1 companies:1 credit:1 supplied:1 list:1 been:2 closed:1 series:1 expected:1 upbeat:1 2010:1 500:2 week:1 's:3 plans:1 information:1 may:2 after:1 paid:1 disruption:1 nearly:1 closely:1 fresh:1 stocks:1 data:2 four-day:1 card:2 session:1 stolen:1 carried:1 breach:2 warned:1 51:4 reports:1 across:2 record:1 actively:1 enact:1 have:2 impacted:2 volcano:2 contingency:1
+UPS	20140822	98.4	97.7	r_down	all:1 results:1 losses:2 companies:1 malware:1 infection:1 possible:1 targets:1 while:1 registers:1 gain:2 which:1 cash:1 wider:2 urges:1 falls:1 check:1 drops:1
+UPS	20140825	97.7	97.9	r_up	
+UPS	20140826	97.9	97.4	r_down	limited:1 just:1 into:1 probe:1 sales:1 years:1 strongest:1 year:1 natural-gas:1 premium:1 market:1 cargo:1 unusual:1 powered:1 union:1 looking:1 more:1 infrastructure:1 crash:1 haulers:1 reps:1 company:1 commercial:1 took:1 step:1 plane:1 eight:1 prices:1 ago:1 both:1 accident:1 ahead:1 trucks:1 slowed:1 efficient:1 pilots:1 investigators:1
+UPS	20140827	97.4	97.3	r_down	
+UPS	20140828	97.3	97.4	r_up	
+UPS	20140829	97.4	97.3	r_down	
+UPS	20140902	97.3	97.9	r_up	
+UPS	20140903	97.9	97.9	r_up	
+UPS	20140904	97.9	98.4	r_up	sector:1 logistics:1 all:1 small-cap:1 led:1 like:1 company:1 firing:1 railroads:1 air:1 buy:1 looks:1 freight:1 cylinders:1 transportation:1
+UPS	20140905	98.4	98.8	r_up	aggressively:1 business:1 e-commerce:1 both:1 companies:1 holidays:1 biggest:1 slashing:1 time:1 prices:1 aiming:1 steal:1 its:1
+UPS	20140908	98.8	98.4	r_down	passenger:1 people:1 caused:1 probe:1 batteries:1 mistakes:1 airliners:1 year:1 further:1 considering:1 cargo:2 highlighting:1 hazards:1 fire:1 escalating:1 safety:1 expected:1 lithium:1 officially:1 potential:1 carried:1 crash:1 rules:1 familiar:1 company:1 plane:1 concerns:1 pilot:1 restrictions:1 bellies:1 last:1 air-safety:1 according:1 officials:1
+UPS	20140909	98.4	97.7	r_down	love:1 economists:1 series:1 move:1 gadgets:1 juice:1 say:1 year:1 crash:2 cargo:1 errors:1 jet:1 writes:1 everything:1 fans:1 much:1 safety:1 don’t:1 caused:1 new:1 violations:1 has:1 economy:2 company’s:1 game-changer:1 formally:1 that’s:1 may:1 wrong:1 device:1 procedures:1 potential:1 pilot:1 last:1 whether:1 matter:1 exemplifies:1 determined:1 so:1 investigators:1
+UPS	20140910	97.7	97.6	r_down	
+UPS	20140911	97.6	97.9	r_up	
+UPS	20140912	97.9	98.0	r_up	named:1 being:1 guided:1 competition:1 analytics:1 open:1 best:1 power:1 remains:1 scoops:1 since:1 question:1 their:1 much:1 interview:1 extensive:1 gives:1 his:1 's:3 business:1 very:1 company:1 but:1 part:1 every:1 free:1 fierce:1 data:1 day:1 those:1 essential:1 shipping:1 morning:1 personal:1 tour:1 stories:1 architecture:1 embracing:1 squeezed:1 investments:1 first:1
+UPS	20140915	98.0	97.6	r_down	glimpse:1 's:2 target:1 provide:1 into:1 annual:1 able:1 hoping:1 its:1 whether:1 profit:1 turnaround:1 earnings:1 ambitious:1 year:1 report:1 meet:1 company:2 first:1
+UPS	20140916	97.6	97.9	r_up	seasonal:3 prospective:1 deliveries:1 sign:1 hiring:1 rate:1 actively:1 taking:1 during:1 year:2 go:1 temporary:1 its:1 increased:1 said:1 additional:1 consumers:1 spending:1 media:1 workers:3 support:1 shares:1 5:1 way:1 between:2 expected:2 holiday:3 2013:1 's:6 plans:3 targeted:1 season:2 company:2 reach:1 rush:1 increases:1 services:1 90,000:2 trade:1 handle:1 hire:4 tear:1 could:1 companies:1 up:2 surge:1 n't:1 session:1 steps:1 planned:1 social:1 implement:1 employees:2 mistake:1
+UPS	20140917	97.9	99.3	r_up	operations:1 exceed:1 set:1 investors:1 revenue:1 share:1 results:2 say:1 expect:1 freight:1 open:1 its:3 before:1 24:2 giant:1 said:1 raise:1 profit:2 jumped:1 show:1 three:1 also:1 program:1 earnings:1 new:2 ground:1 highs:1 higher:1 all:1 first-quarter:2 divisions:1 may:1 estimates:1 company:1 express:1 watch:1 buyback:1 sales:1 reported:1 increases:1 strength:1 year-over-year:1 report:1 dividend:1 analyst:1 fiscal:2 easily:1 launch:1 can:1 expecting:1 analysts:1 stock:1
+UPS	20140918	99.3	99.6	r_up	20:1 one:1 's:1 working:1 government:1 into:1 year:1 companies:1 private:1 networks:1 say:1 computer:1 broke:1 military:1 transportation:1 times:1 linked:1 investigators:1
+UPS	20140919	99.6	99.4	r_down	
+UPS	20140922	99.4	98.1	r_down	
+UPS	20140923	98.1	97.3	r_down	seasonal:1 own:1 shot:1 fired:1 people:1 crucial:1 number:1 one:1 facilities:1 year:2 's:1 hires:1 before:1 said:1 police:1 workers:1 help:1 two:1 same:1 employee:1 holiday-shopping:1 45,000:1 life:1 his:1 recently:1 season:1 company:1 period:1 during:1 killed:1 hire:1 made:1 last:1 taking:1 near:1
+UPS	20140924	97.3	98.0	r_up	firm:1 tough:1 parcel:1 no:1 warned:1 guidance:1 expects:1 delivery:1 full-year:1 trading:1 amid:1 meet:1 its:1 longer:1
+UPS	20140925	98.0	96.5	r_down	wants:1 deliver:1 groceries:1 others:1 potentially:1 more:1
+UPS	20140926	96.5	97.4	r_up	
+UPS	20140929	97.4	97.3	r_down	
+UPS	20140930	97.3	98.2	r_up	
+UPS	20141001	98.2	96.9	r_down	
+UPS	20141002	96.9	97.1	r_up	
+UPS	20141003	97.1	98.7	r_up	all:1 extra:1 hard:1 some:1 stop:1 want:2 your:1 if:1 scoring:1 guarantees:1 gon:1 working:1 space:1 na:1 avoid:1 it’s:1 4:1 you:2 holiday:2 approach:1 more:1 even:1 repeat:1 jobs:1 may:1 season:1 pushing:1 convincing:1 delivery:2 job:1 year’s:1 coveted:1 those:1 promotions:1 hire:1 land:1 last:1 like:1 surprising:1 1999:1 positions:1 rethink:1 retailers:1 fiasco:1 strategies:1 out:1 challenge:1
+UPS	20141006	98.7	98.5	r_down	
+UPS	20141007	98.5	96.4	r_down	
+UPS	20141008	96.4	98.1	r_up	stores:1 health-care:1 down:1 another:1 corporations:1 insurance:1 premiums:1 said:1 service:1 federal:1 workers:1 part-time:1 stops:1 its:1 their:1 other:1 health:1 launching:1 customers:1 contain:1 delivery:1 cutting:2 wake:1 allowing:1 packages:1 raising:1 dry:1 cleaners:1 employees:1 up:1 convenience:1 costs:1 pick:1 push:1 pharmacies:1 30,000:2
+UPS	20141009	98.1	96.5	r_down	control:1 industrial:1 terrorists:1 number:1 directly:1 risk:1 alarming:1 other:1 health:1 systems:1 transportation:1 increased:1 utilities:1 connected:1 services:1 care:1 organizations:1 many:1 lapse:1 morning:1 exploitation:1 leaves:1
+UPS	20141010	96.5	95.7	r_down	information:1 malware:1 affected:1 announcing:1 confirm:1 company:1 locations:1 its:1 became:1 395:1 breach:1 data:1 payment:1 card:1 latest:1

@@ -1,0 +1,50 @@
+MCO	20140801	86.7	86.7	r_up	firm:1 private-equity:1 run:1 process:1 sale:1 up:1 private:1 label:1 hiring:1 products:1 put:1 has:1 maker:1
+MCO	20140804	86.7	87.9	r_up	bondholders:1 likely:2 economic:2 thanks:1 have:1 cuts:2 fail:2 meltdown:1 miss:2 targets:2 said:2 spending:2 sitting:1 had:1 due:2 its:2 reduction:2 deficit:2 pretty:1 markets:1 stock:1 's:4 government:2 --:1 fully:2 torrid:1 growth:2 risks:2 time:1 implement:2
+MCO	20140805	87.9	86.5	r_down	show:1 racked:1 fortunes:1 hospital:1 health:1 newly:1 insurers:1 filings:1 boosted:1 operators:1 but:1 insured:1 services:1 using:1 rush:1 has:2 did:1 anticipate:1 up:1 n't:1 patients:1 costs:1 corporate:1 interviews:1 executives:1
+MCO	20140806	86.5	87.0	r_up	major:1 just:1 1.3:2 hard:1 back:2 four:1 currency:1 broader:1 vote:1 slumped:1 before:1 deals:1 credit-rating:1 said:2 group:1 $:2 took:1 federal:2 rout:1 lawyers:1 negative:2 cross-border:1 hitting:1 state:2 bike:1 biggest:1 lira:1 setting:1 development:2 billion:2 's:8 government:2 driver:1 doldrums:1 but:1 nation:1 expected:1 nearly:2 they:1 making:1 not:1 firms:1 presidential:1 emerging-market:1 attempt:2 country:1 ride:1 days:1 deal:1 motion:1 payments:2 popular:1 claw:2 wheels:1 first:1
+MCO	20140807	87.0	86.6	r_down	
+MCO	20140808	86.6	87.6	r_up	outlook:1 downgrading:1 telecom:2 scattered:1 competition:1 '':1 its:1 down:1 regime:1 subscriber:1 credit-rating:1 create:1 six:1 regulation:1 looking:1 outside:1 concerns:1 low:1 biggest:1 troubled:1 numerous:1 cite:1 firm:1 ``:1 's:4 plans:1 government:1 operators:1 revenue:1 confidence:1 wireless:1 lenders:1 anemic:1 high:1 has:1 industry:2 across:1 players:1 banks:1 making:1 consumer:1 dragged:1 latest:1
+MCO	20140811	87.6	89.0	r_up	smaller:1 over:1 some:1 larger:1 likely:1 growth:1 rent:2 leading:1 their:1 other:1 squeezing:1 income:1 indicators:1 percentage:1 weak:1 released:1 increases:1 coming:1 areas:1 paying:1 metro:1 months:1 according:1 remain:1 residents:1
+MCO	20140812	89.0	89.4	r_up	
+MCO	20140813	89.4	90.6	r_up	
+MCO	20140814	90.6	91.4	r_up	restrictions:1 preventing:1 financial:1 credit-ratings:1 finalize:1 tougher:1 month:1 early:1 repeat:1 aimed:1 expected:1 firms:1 crisis:1
+MCO	20140815	91.4	91.0	r_down	debt:1 's:1 know:1 downgrade:1 wanted:1 its:1
+MCO	20140818	91.0	91.3	r_up	
+MCO	20140819	91.3	91.3	r_up	
+MCO	20140820	91.3	91.9	r_up	
+MCO	20140821	91.9	92.5	r_up	eased:1 official:1 related:1 losses:1 said:1 jumped:1 shares:1 lender:1 concerns:1 earnings:1 local:1 's:4 collapse:1 may:1 big:1 after:1 immediate:1 not:1 bank:3 exposure:1 case:1 central:1 impose:1 regulator:1 future:1 risks:1 following:1 creditors:1
+MCO	20140822	92.5	91.8	r_down	activities:1 eyes:1 used:1 riskier:1 look:1 language:1 do:1 large:1 describe:1 overall:1 play:1 's:1 n't:1 ensure:1 too:1 threshold:1 role:1 has:1 investment-banking:1 bank:1 earnings:1
+MCO	20140825	91.8	92.1	r_up	
+MCO	20140826	92.1	92.8	r_up	
+MCO	20140827	92.8	92.8	r_up	firm:1 financial:1 revenue:1 over:1 number:1 according:1 all-time:1 shape:1 growth:1 desperate:1 year:1 hospitals:1 cloud:1 relatively:1 rate:1 credit:1 attract:1 traction:1 their:2 returns:1 doubt:1 declined:1 income:1 new:1 bankruptcy:1 2013:1 low:1 poor:1 them:1 good:1 's:4 but:1 juicy:1 fell:1 report:1 cities:1 those:1 case:1 surprising:1 straight:1 median:1 second:1 gaining:1 large:1 cast:1 bad:1 yields:1 banks:1 residents:1 other:1
+MCO	20140828	92.8	92.7	r_down	sell-off:1 lending:1 $:1 2nd:1 second:1 distributor:1 its:1 recovery:1 sale:1 1.87:1 being:1 state:1 slowly:1 4:1 largest:1 announce:1 hope:1 gaining:1 infrastructure:1 's:1 rebound:1 signaling:1 put:1 raising:1 posted:1 billion:1 real-estate:1 industry:1 up:2 ports:1 large:1 gain:1 quarter:1 steam:1 latest:1
+MCO	20140829	92.7	93.5	r_up	sluggish:1 decline:1 industrial:1 's:1 government:1 auto:1 growth:1 month:1 driven:1 production:2 export:1 activity:1 consecutive:1 falling:1 data:1 16th:1 fell:1
+MCO	20140902	93.5	93.2	r_down	
+MCO	20140903	93.2	93.0	r_down	billion:1 selling:1 $:2 bonds:1 familiar:1 plans:1 later:1 1:2 matter:1 said:1 official:1 year:1 international:1 government:1 markets:1 raise:1
+MCO	20140904	93.0	94.1	r_up	eyebrows:1 among:1 raised:1 lighter:1 increasingly:1 over:1 turned:1 beleaguered:1 negative:1 say:1 through:1 watchdog:1 two-year:1 marking:1 recovery:1 banking:1 broad:1 they:1 sovereign:1 lender:1 their:1 under:1 developers:1 method:1 briefly:1 's:3 rescue:1 funds:1 watch:1 regulators:1 makes:1 armed:1 milestone:1 debt:2 than:1 raising:1 trek:1 has:1 look:1 country:1 perpetual:1 yield:1 securities:1 placed:1 analysts:1 time:1 loads:1 property:1 powers:1 first:1
+MCO	20140905	94.1	95.2	r_up	cut:1 's:2 stimulus:1 measures:1 decision:1 after:1 shares:1 fell:1 rates:1 introduce:1 further:1 following:1 rally:1 set:1
+MCO	20140908	95.2	95.5	r_up	aggressively:1 prospects:1 's:3 places:1 huge:1 being:1 government:1 rode:1 state:2 rising:1 iron-ore:2 time:1 prices:2 transformed:1 falling:1 royalties:1 boom:1
+MCO	20140909	95.5	94.8	r_down	outlook:1 family:1 tepid:1 executive:1 decline:1 economic:1 accounts:1 election:1 donating:1 its:1 ratings:3 confidence:1 said:1 $:1 no:1 sovereign:1 citing:1 concerns:1 largest:1 deteriorating:1 has:1 firm:1 million:1 's:9 government:1 350:1 richest:1 cut:1 investor:2 gift:1 university:1 history:1 activity:1 outcome:1 perspective:1
+MCO	20140910	94.8	95.6	r_up	rating:2 outlook:4 cut:2 's:7 sovereign:2 tepid:2 --:1 country:2 activity:2 among:2 major:2 its:2 following:2 citing:2 economic:2 negative:1 stable:1 banks:2 factors:2 reduced:2 others:2
+MCO	20140911	95.6	95.7	r_up	ago:1 them:1 good:1 's:1 dump:1 investors:1 bonds:1 giving:1 could:1 get:1 flexibility:1 fast:1 years:1 n't:2 enough:2 they:1 deal:1 ca:1
+MCO	20140912	95.7	95.0	r_down	
+MCO	20140915	95.0	94.7	r_down	
+MCO	20140916	94.7	95.5	r_up	affair:1 love:1 years:1 down:1 officials:1 investment-grade:1 credit-rating:1 remains:1 system:1 elevated:1 slamming:1 firms:1 short-lived:1 status:1 's:2 continues:1 proving:1 two:1 loans:1 weighed:1 last:1 country:1 companies:1 banking:1 problem:1 struggle:1
+MCO	20140917	95.5	95.3	r_down	considering:1 purchase:2 balance:1 sheet:1 assets:1 reportedly:1 stretch:1 could:1 completed:1 its:2 n't:1 has:1 yet:1
+MCO	20140918	95.3	95.2	r_down	1.6:1 producer:1 forecaster:1 companies:1 over:1 global:1 share:1 one:1 export:1 higher:2 year:1 should:1 post:1 before:1 impact:1 announcement:1 now:1 20:1 $:3 would:1 roughly:1 notch:1 though:1 long-awaited:1 million:1 than:2 current:1 paying:1 only:1 2:1 rates:1 earnings:1 which:1 capital:1 biggest:1 bonds:1 territory:1 markets:1 company:1 more:2 fiscal:1 junk:1 kicked:1 's:6 interest:2 loss:1 dividends:1 price:2 after:1 stop:1 paid:2 difference:1 fell:1 worst:1 nearly:1 sold:1 downgrade:1 spree:1 debt:2 day:1 raising:1 billion:2 10:1 feeling:1 off:1 aluminum:1 into:1 annual:1 metal:1 according:1 commodities:1 credit:1 slide:1 points:1 represents:1 payments:1 were:1 banks:1 peak:1 approaching:1 average:1 1.25:1 iron-ore:1
+MCO	20140919	95.2	94.7	r_down	
+MCO	20140922	94.7	94.0	r_down	
+MCO	20140923	94.0	93.3	r_down	tax:2 downgrade:2 growth:2 aimed:2 flagging:1 spurring:2 industries:1 ratings:2 said:2 support:1 governance:2 other:2 pursuing:2 new:2 economy:1 week:2 's:7 dollar:1 slump:1 immediate:1 helping:1 improving:2 president:2 recent:1 last:2 bring:1 country:3 accelerating:2 credit:2 range:1 relief:1 following:2 overhauls:2
+MCO	20140924	93.3	94.4	r_up	billion:1 buy:1 's:1 $:1 deal:1 may:1 54:1 after:1 tax:1 rules:1 announced:1 were:1 inversions:1 new:1 vulnerable:1
+MCO	20140925	94.4	92.3	r_down	upgraded:1 financial:1 lending:1 close:1 arm:1 decade:1 said:1 its:2 citing:1 issuing:1 bond:1 performance:1 more:1 's:2 company:1 moving:1 likelihood:1 than:1 improved:1 person:1 situation:1 toward:1 first:1
+MCO	20140926	92.3	93.7	r_up	rating:2 outlook:1 managed:1 investors:1 saying:1 series:1 meetings:1 upgrades:1 negative:1 hosted:1 accounting:1 its:3 standing:1 threatens:1 able:1 sovereign:2 looking:1 confident:1 only:1 fourth:1 stable:1 new:1 has:2 issue:1 into:1 economy:1 's:5 government:1 push:1 important:1 problem:1 territory:1 country:2 shock:1 credit:2 knocked:1 implement:1 changes:1 worrying:1 bond:1
+MCO	20140929	93.7	94.1	r_up	
+MCO	20140930	94.1	94.5	r_up	actively:1 raised:1 said:1 's:3 would:1 acquire:1 companies:1 outlook:1 shares:1 trade:1 full:1 session:1 earnings:1 ownership:1 year:1 expected:1 its:1
+MCO	20141001	94.5	92.6	r_down	manufacturing:1 payroll:1 up:1 according:1 hiring:1 businesses:1 picked:1 survey:1 strong:1 processor:1
+MCO	20141002	92.6	92.4	r_down	unemployment:1 number:1 sign:1 strongest:1 year:1 saw:1 again:1 generally:1 two:1 rates:1 new:1 weeks:1 layoffs:1 final:1 economy:1 week:1 but:1 applications:1 fell:1 8,000:1 improving:1 last:1 declining:1 benefits:1 amid:1 days:1 latest:1 first:1
+MCO	20141003	92.4	93.9	r_up	even:1 ratings:1 subdued:1 's:2 period:1 region:1 year:1 expects:1 next:1 credit:1 remain:1 economic:1 through:2 muddles:1 stable:1 end:1 growth:1
+MCO	20141006	93.9	94.5	r_up	30-year:1 selling:1 return:1 14:1 investors:1 bonds:1 started:1 hiatus:1 after:1 dollar:1 marking:1 years:1 10-year:1 more:1 than:1 market:1 bond:1
+MCO	20141007	94.5	92.6	r_down	
+MCO	20141008	92.6	96.2	r_up	emerging:1 says:1 hindered:1 diversification:1 exports:1 high:1 oil:1 its:1 ratings:1 six:1 start:1 causing:1 program:1 volatile:1 between:1 2015:1 performance:1 poised:1 has:1 development:1 junk:1 parliament:1 's:2 relationship:1 government:1 after:1 bailout:1 fluctuate:1 advance:1 off:1 could:1 months:1 borrowing:1 credit:1 while:1 economic:1 analysts:1 shaking:1 think:1
+MCO	20141009	96.2	94.6	r_down	
+MCO	20141010	94.6	92.0	r_down	expanding:1 tax:1 rest:1 cash:1 prices:1 unveiled:1 cuts:1 narrowed:1 impact:1 negative:1 than:1 widely:1 imports:1 expected:1 net:1 increasing:1 more:1 exports:1 plans:1 rise:1 but:1 gap:1 cushion:1 position:1 services:1 world:1 trade:1 between:1 goods:1 lower-income:1 citizens:1 budget:1 tightening:1

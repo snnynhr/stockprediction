@@ -1,0 +1,50 @@
+NKE	20140801	76.9	76.5	r_down	
+NKE	20140804	76.5	76.9	r_up	10:1 splits:1 gone:1 partnership:1 long:1 deals:1 bad:1 endorsement:1 line:1 latest:1
+NKE	20140805	76.9	76.6	r_down	
+NKE	20140806	76.6	76.9	r_up	
+NKE	20140807	76.9	76.1	r_down	
+NKE	20140808	76.1	76.8	r_up	product:1 selection:1 increased:1 did:1 competition:1 helped:1 far:1 so:1 lay:1 have:1 fall:1 low:1
+NKE	20140811	76.8	76.8	r_up	own:1 stores:1 retailers:1 unauthorized:1 their:1 sold:1 some:1 site:1 purge:1 prestigious:1 e-commerce:1 brands:1 they:1 goods:1 telling:1 open:1 its:1 once:1
+NKE	20140812	76.8	76.5	r_down	
+NKE	20140813	76.5	77.0	r_up	
+NKE	20140814	77.0	77.0	r_up	
+NKE	20140815	77.0	76.9	r_down	financial-services:1 ads:1 consumers:1 give:1 commercials:1 picks:1 their:1 stick:1 time:1 over:1
+NKE	20140818	76.9	78.3	r_up	
+NKE	20140819	78.3	78.2	r_down	development:1 evolve:1 play:1 larger:1 positioned:1 product:1 write:1 role:1 digital:1 components:1 contain:1 products:1 more:1
+NKE	20140820	78.2	78.6	r_up	
+NKE	20140821	78.6	78.7	r_up	athletic:1 denim:1 used:1 something:1 desperate:1 craze:1 yoga:1 their:1 too:1 lot:1 has:1 pants:2 them:1 men:1 hit:1 intended:1 never:1 they:1 now:1 fades:1 industry:1 're:1 apparel:2
+NKE	20140822	78.7	79.0	r_up	
+NKE	20140825	79.0	79.7	r_up	
+NKE	20140826	79.7	79.2	r_down	
+NKE	20140827	79.2	79.4	r_up	star:1 shoes:1 attend:1 line:1 part:1 new:1 's:3 promotion:1 former:1 match:1
+NKE	20140828	79.4	78.8	r_down	5.3:1 last:1 $:1 her:1 million:1 according:1 owned:1 released:1 documents:1 least:1 year:1 husband:1 assets:1
+NKE	20140829	78.8	78.5	r_down	disclosure:2 12:2 's:2 leaders:2 last:2 --:1 situations:2 regional:2 according:2 forms:2 released:2 widely:2 year:2 banks:2 financial:2 annual:2 2013:1 divergent:2
+NKE	20140902	78.5	79.2	r_up	because:1 help:1 prized:1 culture:1 home:1 return:1 intraday:1 their:1 also:1 nuances:1 breach:1 firms:1 draw:1 hit:1 upon:1 focus:1 records:1 understand:1 they:1 new:1 employers:1 expand:1 practices:1 can:1 overseas:1 executives:1
+NKE	20140903	79.2	78.8	r_down	help:1 could:1 time:1 sales:1 cement:1 dent:1 band:1 likely:1 health:1 devices:1 fitness:1 device:1 fledgling:1 holiday:1 wearable:1 over:1 market:1
+NKE	20140904	78.8	79.9	r_up	back:1 executive:1 's:1 missed:1 may:1 grabs:1 company:1 year:1 some:1 up:1 but:1 sports:1 deals:1 chief:1 have:1 endorsement:1 biggest:1 says:1 more:1 its:1 out:1
+NKE	20140905	79.9	82.0	r_up	among:1 3:1 spot:1 brand:1 well:1 only:1 n't:1 challenger:1 behind:1 dropped:1 time:1 brands:1 problem:1 has:1 falling:1 sportswear:1 first:1
+NKE	20140908	82.0	82.4	r_up	investors:1 played:1 up:1 event:1 decade:1 won’t:1 there:1 worth:1 should:1 6:2 new:1 you:1 include:1 final:2 minor:1 gear:1 attention:1 seemingly:1 nearly:1 one:1 care:1 paying:1 launches:1 venue:1 hosting:1 element:1 without:1 men’s:1 time:1 first:1
+NKE	20140909	82.4	81.8	r_down	criticism:1 drop:1 just:1 people:1 appeared:1 over:1 domestic:1 sales:1 defended:1 relative:1 seed:1 video:1 comeback:1 its:2 standing:1 cut:1 beating:1 her:1 title:2 top:1 him:2 behind:1 won:1 longtime:1 under:1 new:1 has:2 company:1 too:1 commissioner:1 his:3 's:1 first-ever:2 showing:1 after:1 but:1 wake:1 plan:1 2014:1 not:1 ties:1 day:1 widening:1 faced:1 league:1 account:1 handling:1 episode:1 name:1 14:1 wife:1 rival:1 inside:1 violence:1 according:1 chief:1 wins:1 newcomer:1 steep:1 left:1
+NKE	20140910	81.8	82.4	r_up	criticism:1 purchases:1 major:1 suspended:1 people:1 appeared:1 phones:1 over:1 top:1 product:1 watches:1 years:1 four:1 player:1 his:2 simply:1 sponsor:1 unveiled:1 go:1 category:1 its:2 standing:1 spending:1 make:1 striking:1 your:1 their:1 way:1 new:2 entered:1 he:1 easier:1 day:1 more:1 introducing:1 customers:1 after:1 him:1 videogame:1 big:1 showing:1 football:1 release:1 following:1 let:1 ties:1 line:1 than:1 change:1 widening:1 faced:1 league:1 forever:1 handling:1 episode:1 --:1 inside:1 maker:1 indefinitely:1 habits:1 team:1 swiping:1 video:1 corporate:1 called:1 first:1
+NKE	20140911	82.4	81.8	r_down	run-up:1 has:1 's:2 stretch:1 legs:1 company:1 due:1 forecast:1 strong:1 spiking:1 think:1 short-covering:1 stock:1
+NKE	20140912	81.8	81.8	r_up	his:1 's:1 convicted:1 year:1 judge:1 last:1 shooting:1
+NKE	20140915	81.8	81.6	r_down	faced:1 ratchets:1 may:1 sanctions:1 addition:1 experts:1 up:1 according:1 choice:1 increasingly:1 complexity:1 them:1 difficult:2 which:1 making:1 further:1 increasing:1 round:1 comply:1 latest:1
+NKE	20140916	81.6	81.2	r_down	bets:1 now:1 's:1 big:1 manager:1 likes:1 6:1 sells:1 rarely:1 he:1
+NKE	20140917	81.2	81.5	r_up	addresses:1 geography:1 back:1 affected:2 course:1 see:1 have:1 's:1 seem:1 its:1 shoes:1 'll:1 barred:1 sponsorship:1 if:1 do:1 we:1 star:1 wears:1 reversed:1 team:1 running:1 they:1 suspended:1 he:2 12:1 charges:1 n't:1 whether:1 while:1 're:1 signature:1
+NKE	20140918	81.5	81.9	r_up	deals:1 swirls:1 task:1 around:1 violence:1 make:1 like:1 domestic:1 against:1 controversy:1 facing:1 wrongdoing:1 lucrative:1 statement:1 brands:1 league:1 strong:1 without:1 difficult:1
+NKE	20140919	81.9	81.8	r_down	athletic:1 focus:1 likely:1 high-profile:1 suspensions:1 meager:1 their:1 concerns:1 several:1 meeting:1 's:3 whistleblower:1 endorsements:1 collection:1 shareholder:1 news:1 bar:1 whistleblowers:1 annual:1 companies:1 violent:1 aim:1 record:1 bad:1 risks:1 behavior:1 wake:1 athletes:1 executives:1
+NKE	20140922	81.8	80.7	r_down	female:1 over:1 executive:1 primed:1 sign:1 lies:1 picked:1 confronts:1 its:2 ad:1 mounting:1 why:1 big:1 new:1 you:1 may:2 marketing:1 but:2 caps:2 involving:1 plus:1 trouble:2 stocks:1 backlash:1 bigger:1 here’s:1 league:1 handling:1 worried:1 investment:1 players:1 chief:1 incidents:1 officer:1 small:1 problem:1
+NKE	20140923	80.7	80.1	r_down	their:1 attention:1 expectations:1 high:1 turn:1 analysts:1 have:1 toward:1 technology:1 mobile-payment:1
+NKE	20140924	80.1	80.8	r_up	building:1 expense:1 would:1 investors:1 endorsements:1 scrutinizing:1 considers:1 n't:1 products:1 demand:1 such:1 line:1 out:1 its:1 essential:1
+NKE	20140925	80.8	79.7	r_down	all:1 gold:1 supply:1 trend:1 fireworks:1 bull:1 pulse:1 one:1 past:1 all-time:1 see:1 buy:1 shares:1 investors:1 hell:1 still:3 trade:1 market:2 peaks:1 even:1 again:1 $:2 no:1 disruptions:1 40:1 asking:1 black:1 earnings:1 you:1 has:2 highs:1 more:1 we:1 oil:2 run:1 collapse:1 component:1 breaks:1 loose:1 watch:1 counter-intuitive:1 here:1 70:1 prices:2 debt:1 overseas:1 recent:1 count:1 room:1 whether:1 could:1 drop:1 thing:1 near:1 can:1 usually:1 barrel:1 margin:1
+NKE	20140926	79.7	89.5	r_up	shoes:1 among:1 results:2 trade:1 session:2 still:1 yet:1 whose:1 expectations:1 late:1 quarterly:1 has:1 wearing:1 do:1 them:1 showing:1 day:2 underperform:1 turns:1 companies:2 it’:1 clothes:1 people:1 trading:1 out:1 even:1 index:1 shares:3 its:1 exit:1 innovation:1 sinks:1 business:1 hours:1 active:1 could:2 prove:1 ‘just:1 plus:1 afternoon:1 climb:1 bruised:1 otherwise:1 seeing:1 own:1 bell:1 pays:1 down:1 market:2 heads:1 few:1 top:1 their:1 upbeat:1 insurer:1 gym:1 but:1 there’s:1 demand:1 women:1 up:2 isn’t:1 30:1 sales:1 bulking:1 have:1 ready:1 rally:2 leaving:1 no:1 earnings:1 tumbles:1 revs:1 grows:1 extended:1 's:2 price:1 after:3 yesterday:1 falls:1 important:2 plenty:1 heroes:1 data:1 banks:1 surge:1
+NKE	20140929	89.5	89.1	r_down	levers:1 top:1 flow:1 cash:1 free:1 growth:2 sustained:1 line:1 strong:1 boost:1
+NKE	20140930	89.1	89.2	r_up	
+NKE	20141001	89.2	87.7	r_down	12:1 shoes:1 would:1 launch:1 indefinitely:1 delayed:1 identify:1 due:1 n't:1 did:1 said:1 cosmetic:1 small:1 new:1 issue:1 basketball:1
+NKE	20141002	87.7	89.3	r_up	over:1 trade:1 session:1 yes:1 any:1 van:1 writes:1 shares:1 answer:1 expected:1 's:1 beat:1 company:1 but:1 possibly:1 not:1 years:1 short:1 maybe:1 companies:1 actively:1 many:1
+NKE	20141003	89.3	90.2	r_up	
+NKE	20141006	90.2	89.2	r_down	
+NKE	20141007	89.2	88.0	r_down	
+NKE	20141008	88.0	88.8	r_up	
+NKE	20141009	88.8	87.2	r_down	represent:1 said:1 's:1 business:1 show:1 may:1 navigate:1 but:1 foreign:1 massive:1 easy:1 not:1 firms:1 morning:1 opportunity:1 market:1
+NKE	20141010	87.2	87.1	r_down	colleges:1 coach:1 overpriced:1 over:1 influence:1 high:2 have:1 sell:1 said:1 writes:1 3:1 much:1 too:1 which:1 higher:1 even:1 head:1 buy:1 defy:1 basketball:1 such:1 stocks:1 school:1 join:1 odds:1 companies:2 players:1 men’s:1 team:1

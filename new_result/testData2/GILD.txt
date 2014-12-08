@@ -1,0 +1,50 @@
+GILD	20140801	91.5	91.5	r_up	
+GILD	20140804	91.5	92.1	r_up	medication:1 salvo:1 fired:1 over:1 2.9:1 cost:2 including:1 $:2 spending:1 hepatitis:1 increase:1 2015:1 new:2 do:1 5.8:1 drugs:1 sold:1 treatments:1 report:1 projects:1 billion:2 these:1 federal:1 latest:1
+GILD	20140805	92.1	92.2	r_up	
+GILD	20140806	92.2	92.7	r_up	
+GILD	20140807	92.7	92.0	r_down	medication:1 delicious:1 look:1 over:1 move:1 some:1 rest:1 three:1 continues:1 everyone:1 per:1 another:1 our:1 yes:1 campus:1 provided:1 busy:1 $:2 start:1 daily:1 please:1 vacation:1 hepatitis:1 day:3 stimulation:1 few:1 treatment:1 which:1 tidbits:1 weeks:1 has:1 ever:1 price:1 available:1 ...:1 we:1 felt:1 patient:1 may:1 mind:1 offered:1 after:1 menu:1 but:1 pleasant:1 reported:1 productive:1 become:1 world:1 spin:1 you:2 manufacturer:1 900:2 join:1 like:1 same:1 country:1 cup:1 us:2 morning:1 below:1 're:1 can:1 have:1 time:1 quick:1 making:1 shiny:1 comes:1 latest:1
+GILD	20140808	92.0	92.4	r_up	
+GILD	20140811	92.4	92.9	r_up	
+GILD	20140812	92.9	93.3	r_up	being:1 estimates:1 sales:1 years:1 van:1 $:1 writes:1 hepatitis:1 quickly:1 1:1 earnings:1 biggest:1 enjoying:1 ever:1 treatment:1 after:1 increases:1 fastest:1 coming:1 improving:1 world:1 stocks:1 billion:1 10:1 prospects:1 launch:1 these:1 up:1 drug:1 worries:1 companies’:1 discontinued:1
+GILD	20140813	93.3	93.9	r_up	prevent:1 medication:1 tussle:1 people:1 may:1 treated:1 over:1 programs:1 hepatitis:1 being:1 cost:1 treatment:1 another:1 segment:1 yet:1 population:1
+GILD	20140814	93.9	96.3	r_up	all:1 has:1 prescription:1 although:1 government:1 drugs:1 pay:1 agency:1 patients:1 hepatitis:1 recommended:1 cost:1 treatment:1 controversial:1 not:1 evaluates:1 effectiveness:1
+GILD	20140815	96.3	99.4	r_up	claim:1 exclusive:1 over:1 trade:1 actively:1 shares:1 its:2 arbitration:1 said:1 pay:1 system:1 hepatitis:1 favor:1 recommended:1 health:1 treatment:1 expected:1 panel:2 price:1 's:4 sold:1 discount:1 lucrative:1 ruled:1 rights:1 30:1 companies:1 drug:1 session:1
+GILD	20140818	99.4	100.7	r_up	
+GILD	20140819	100.7	101.2	r_up	11:1 biotech:1 not:1 big:1 but:1 favor:1 team:1 banks:1
+GILD	20140820	101.2	100.7	r_down	10:1 van:1 faster:1 rivals:1 share:1 writes:1 companies:1 per:1 clearly:1 their:1 winners:1 gauge:1 highlights:1 growing:1 than:1 500:1
+GILD	20140821	100.7	102.2	r_up	attack:1 prelude:1 price:1 controls:1
+GILD	20140822	102.2	103.9	r_up	
+GILD	20140825	103.9	107.4	r_up	
+GILD	20140826	107.4	106.2	r_down	
+GILD	20140827	106.2	107.4	r_up	booming:1 again:1 use:1 said:1 combination:1 biotech:1 spring:1 company:1 selloff:1 treatments:1 drug:1 regulators:1 hepatitis:1 have:1 stocks:1 approved:1
+GILD	20140828	107.4	107.5	r_up	
+GILD	20140829	107.5	107.5	r_up	
+GILD	20140902	107.5	109.3	r_up	index:1 20:1 14:1 boring:1 beaten:1 years:1 picks:1 has:1
+GILD	20140903	109.3	109.4	r_up	
+GILD	20140904	109.4	106.8	r_down	biotech:1 cancer:1 correction:1 trade:1 cost:1 market:1 $:1 profit:1 due:1 powerhouse:1 may:1 offers:1 expected:1 new:1 week:1 patient:1 drugs:2 hefty:1 protection:1 prices:1 class:1 harbinger:1 average:1 annual:1 sale:1 suggests:1 command:1 promising:1 went:1 options:1 first:1
+GILD	20140905	106.8	105.3	r_down	have:2 people:1 please:1 soon:2 up:3 see:1 catching:1 simply:1 another:1 close:1 our:2 yes:1 quickly:1 any:1 special:1 around:1 to-do:1 pause:1 working:1 spending:1 opportunity:1 make:1 seems:1 event:1 few:1 button:1 which:1 grand:1 you:5 reading:1 worth:1 life:1 more:1 week:1 holiday:1 draw:1 someone:1 hit:1 plans:1 do:1 personal:1 may:1 safe:1 but:1 includes:1 reflect:1 ...:1 catch:1 low-key:1 weekend:1 castle:1 your:1 short:1 last:1 recall:1 signal:1 list:1 days:1 perhaps:1 're:1 so:2 agenda:1 time:4 went:1 could:2 once:1
+GILD	20140908	105.3	106.5	r_up	authorize:1 results:1 hypertension:1 finalizing:1 sell:1 pharmaceutical:1 $:1 generic:1 positive:1 hepatitis:1 treatment:1 countries:1 pill:1 blood:1 prices:1 condition:1 drugmaker:1 lower:1 several:1 versions:1 --:1 study:1 developing:1 companies:1 deals:1 late-stage:1
+GILD	20140909	106.5	105.8	r_down	company’s:1 love:1 that’s:1 fans:1 writes:1 exemplifies:1 gadgets:1 everything:1 wrong:1 much:1 don’t:1 matter:1
+GILD	20140910	105.8	108.2	r_up	
+GILD	20140911	108.2	106.3	r_down	
+GILD	20140912	106.3	103.6	r_down	
+GILD	20140915	103.6	100.9	r_down	criticism:1 seven:1 over:1 trade:2 price:1 actively:2 licensing:1 reached:1 its:2 expensive:1 sell:2 large:1 said:1 based:1 $:1 shares:2 generic:2 make:1 hepatitis:2 makers:2 treatment:1 expected:2 has:1 pill:1 's:2 bid:1 cheaper:1 91:1 countries:2 versions:2 developing:2 companies:2 drug:2 deals:1 session:2 allow:1 lower-cost:1
+GILD	20140916	100.9	104.7	r_up	
+GILD	20140917	104.7	103.8	r_down	beautiful:1 all:1 right:1 delicious:1 cancer:1 clinical:1 companies:1 some:1 to-do:1 trade:1 list:1 session:1 another:1 our:1 50,000:1 campus:1 2.5:1 given:1 busy:1 $:1 cup:1 provide:1 sale:1 patients:1 shares:2 shaping:1 stimulation:1 also:1 're:1 treatment:1 way:1 familiar:1 expected:1 new:1 skies:1 ...:2 we:1 earlier:1 's:1 interest:1 opening:1 month:1 upon:2 sold:1 after:1 sunny:1 pancreatic:1 here:1 results:1 2:1 said:1 nearly:1 everyone:1 now:1 day:3 advanced:1 celebration:1 shine:1 great:1 showed:1 calls:1 package:1 did:1 items:1 clear:1 breezes:1 well:1 up:1 us:2 morning:1 n't:1 benefit:1 actively:1 so:1 planned:1 occasion:1 its:1 study:1
+GILD	20140918	103.8	105.9	r_up	loved:1 large-cap:1 managers:1 14:1 top-performing:1 44:1 among:1 up:1 shares:1 fund:1 year:1 van:1 stocks:1 writes:1 gains:1
+GILD	20140919	105.9	105.9	r_up	
+GILD	20140922	105.9	105.4	r_down	
+GILD	20140923	105.4	105.3	r_down	
+GILD	20140924	105.3	108.7	r_up	biotech:1 prospects:1 said:1 's:1 generic:1 study:1 contain:1 able:1 primary:1 competition:1 pill:1 met:1 goals:1 company:1 boosting:1 new:1 anticipated:1 studies:1 its:2 two:1 late-stage:1
+GILD	20140925	108.7	107.3	r_down	
+GILD	20140926	107.3	108.3	r_up	
+GILD	20140929	108.3	107.5	r_down	
+GILD	20140930	107.5	106.4	r_down	because:1 says:1 money:1 agreed:1 held:1 including:1 privately:1 makers:2 developer:1 viral:1 use:2 group:1 $:2 their:1 not:1 pay:1 image:1 hepatitis:2 research:1 1.75:2 going:1 out:1 drug:2 do:1 provide:1 diseases:1 may:1 acquire:1 treatments:2 break:1 pressure:1 value:1 doctors:1 device:1 billion:1 academics:1 receive:1 medicines:1 database:1 companies:1 taxes:1 creates:1 movies:1 payments:1 experimental:1 pricing:1
+GILD	20141001	106.4	105.5	r_down	received:1 them:1 last:1 do:1 had:1 doctors:1 companies:1 purposes:1 drug:1 nothing:1 patient:1 payments:1 year:1 biggest:1 got:1 medical-device:1 care:1
+GILD	20141002	105.5	104.5	r_down	medication:1 costly:1 members:1 hepatitis:1 over:1 '':1 planning:1 pricing:1 have:2 makers:1 market:1 out:1 pharmaceutical:1 said:1 generic:2 been:1 debate:1 needed:1 another:1 investigation:1 health:1 policy:1 lawmakers:1 insurers:1 charging:1 interests:1 ``:1 costs:1 academics:1 they:1 prices:1 data:1 align:1 manufacturer:1 14:1 roll:1 medicines:1 companies:1 drug:4 asked:1 patients:1 escalating:1 so:1 providing:1 changes:1 called:1 launched:1 raises:1
+GILD	20141003	104.5	106.5	r_up	outlook:1 multiple:1 boosted:1 product:1 ended:1 citing:1 year:1 during:1 approvals:1 quarter:2 its:1 launches:1
+GILD	20141006	106.5	105.1	r_down	
+GILD	20141007	105.1	104.2	r_down	regimen:2 said:1 pursue:2 amid:1 won’t:1 hepatitis:1 drugs:1 citing:1 treatment:2 dual:2 not:1 approval:2 drops:1 landscape:2 treat:1
+GILD	20141008	104.2	108.8	r_up	all:1 everyone:1 people:1 explained:1 some:1 bounce:1 middle:2 say:1 have:1 touch:1 our:2 happen:1 alternative:1 market:1 happens:1 again:1 busy:1 away:1 less:1 tomorrow:1 you:3 has:1 day:1 mascots:1 week:2 then:1 we:1 do:1 get:1 stay:1 arrived:1 cracking:1 world:1 ...:1 than:1 official:1 shine:1 short:1 lifestyle:1 adopt:1 keep:1 time:1 conquer:1
+GILD	20141009	108.8	105.8	r_down	
+GILD	20141010	105.8	103.7	r_down	promises:1 winner:1 simple:1 requiring:1 high:1 tag:1 van:1 medicines:2 carry:1 seem:1 still:1 best:1 if:1 profitable:1 based:1 $:1 writes:1 offer:1 patients:1 hepatitis:1 may:1 returns:1 other:1 earnings:1 money:1 new:2 get:1 might:1 price:2 stock:1 you’ll:1 greater:1 tags:1 drugs:1 100,000:1 specialty:1 but:1 confer:1 most:2 nearly:1 approval:1 stocks:1 you:1 received:1 these:1 study:1 companies:1 drug:2 carries:1 without:1 reasonable:1 pick:1 value:1 cure:1 finds:1

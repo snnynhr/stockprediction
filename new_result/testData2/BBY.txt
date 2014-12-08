@@ -1,0 +1,50 @@
+BBY	20140801	29.5	29.0	r_down	
+BBY	20140804	29.0	29.5	r_up	
+BBY	20140805	29.5	29.3	r_down	purchases:1 slow:1 weighing:1 which:1 prompting:1 chains:1 make:1 drop:1 persistent:1 sales:1 facing:1 their:1 traffic:1 retailers:1 online:1 shoppers:1 openings:1 steep:1 store:2 more:1
+BBY	20140806	29.3	29.4	r_up	smaller:1 groundwork:1 laptop:2 beats:1 our:1 picks:1 based:1 would:1 top:1 few:1 too:1 pursuing:1 new:1 firm:1 after:1 possible:1 fund:1 disastrous:1 buying:1 short:1 revival:1 laying:1 investments:1 deals:1 while:1 guide:1
+BBY	20140807	29.4	28.8	r_down	paltry:1 them:1 stores:1 consumers:1 get:1 these:1 stores’:1 some:1 terrible:1 choice:1 credit:2 perks:1 5:1 interest:1 cards:2 rates:1 make:1
+BBY	20140808	28.8	29.4	r_up	
+BBY	20140811	29.4	29.4	r_up	website:1 product:1 sharing:1 placement:1 just:1 but:1 promotional:1 also:1 costs:1 pricing:1 between:1 not:1 involves:1 dispute:1
+BBY	20140812	29.4	29.2	r_down	shop:1 back-to-school:1 school:1 big-box:1 skip:1 visit:1 should:1 deals:1 ones:1 parents:1 can:1 they:1 not:1 supplies:1 clothing:1 chains:1 other:1 essentials:1
+BBY	20140813	29.2	29.4	r_up	
+BBY	20140814	29.4	29.3	r_down	
+BBY	20140815	29.3	29.0	r_down	
+BBY	20140818	29.0	29.7	r_up	
+BBY	20140819	29.7	30.5	r_up	
+BBY	20140820	30.5	31.1	r_up	
+BBY	20140821	31.1	30.9	r_down	
+BBY	20140822	30.9	31.0	r_up	
+BBY	20140825	31.0	31.8	r_up	week:1 investors:1 danger:1 some:1 50:1 underlying:1 summer:1 lurks:1 given:1 $:1 writes:1 vacation:1 been:1 improvement:1 much:1 electronics:1 has:2 cord:1 's:3 retailer:1 price:1 safe:1 dismal:1 front:1 obscured:1 here’s:1 lower:1 last:1 impressive:1 assume:1 quiet:1 n't:1 backdrop:1
+BBY	20140826	31.8	29.6	r_down	stores:1 2000′s:1 shopper:1 revenue:1 over:1 retailer:1 sales:2 deep:1 trade:1 actively:1 anticipating:1 another:1 cuts:1 battle:1 financial:1 its:1 looking:1 given:1 end:1 momentum:2 lead:1 come:1 writes:1 it’s:1 same-store:1 shares:1 should:1 rally:1 far:1 going:2 earnings:1 online:1 expected:1 electronics:1 holiday:1 500:1 stock:1 eventually:1 's:1 intensifies:1 may:1 season:1 price:1 results:1 pressure:1 takeover:1 fall:1 van:1 beginning:1 second-quarter:1 declining:1 both:1 lower:2 has:1 dollars:1 companies:1 reports:1 keep:2 consensus:1 2000:1 session:1 predicted:1 retailers:1 further:1 margin:1 flirts:1
+BBY	20140827	29.6	31.5	r_up	saying:1 steady:1 2,000:2 share:1 number:1 quarters:1 trends:2 close:1 total:1 surprises:1 same-store:1 should:1 advisories:1 earnings:1 above:2 buys:1 riding:1 500:1 stock:1 ends:1 continue:1 big:1 showing:1 rallies:1 benchmark:1 first:1 sales:3 finished:1 gain:1 fall:1 falls:1 roundup:1 first-ever:1 companies:1 wrong:1 reports:1 future:1 time:1 weigh:1 climb:1 higher:1 corporate:1 round:1 latest:1
+BBY	20140828	31.5	32.0	r_up	over:1 2,000:2 some:1 staying:1 roughly:1 jump:1 battered:1 market:1 rumors:1 holds:1 shares:1 closed:2 swirl:1 new:1 electronics:1 500:2 stock:1 flat:2 life:1 finish:1 around:1 get:1 retailer:1 company:1 after:1 infusion:2 possible:1 milestone:1 stocks:1 day:1 cash:2 time:1 first:1
+BBY	20140829	32.0	31.7	r_down	turning:1 they:1 give:1 reasons:1 chance:1 but:1 backs:1 their:1 3:1 too:1 another:1 acting:1 stores:1
+BBY	20140902	31.7	31.1	r_down	summer:1 tap:1 billion:1 investors:1 purchases:1 into:1 retailer:1 few:1 four:1 improving:1 spending:1 estimated:1 next:1 its:1 $:1 till:1 provide:1 make:1 three:1 long:1 reality:1 failed:1 3:1 stock-market:1 earnings:1 way:1 big:1 2015:1 lower-than-expected:1 struggling:1 over:1 today:1 more:2 division:1 customers:1 diversified:1 's:2 than:1 any:1 season:1 after:1 watch:1 break:1 reported:1 75:1 closely:1 kicks:1 stocks:2 second-quarter:1 fiscal:1 back-to-school:1 retail:1 these:1 months:1 appliance:1 spend:1 credit:1 payments:1 rock:1 economy:1 consumer:2 writes:1
+BBY	20140903	31.1	31.0	r_down	10:1 van:1 index:1 far:1 big:1 writes:1 up:1 outpace:1 while:1 worst:1 best:1 retailers:1 lose:1 82:1 2014:1 stocks:1 500:1
+BBY	20140904	31.0	31.9	r_up	
+BBY	20140905	31.9	32.2	r_up	his:1 's:1 famous:1 leaves:1 days:1 ice:1 wrapped:1 most:1 hot:1 walker:1 hat:1 long-distance:1
+BBY	20140908	32.2	31.9	r_down	
+BBY	20140909	31.9	31.8	r_down	deal:1 site:1 2.5:1 1:2 confirmed:1 $:2 million:1 giving:1 access:1 8:1 has:1 website:1 paying:1 customers:1 buy:1 never:1 new:1 all-cash:1 analyst:1 billion:1 industry:1 stopped:1 following:1 retail:2
+BBY	20140910	31.8	32.3	r_up	purchases:1 all:1 prompt:1 communication:1 retailer:1 known:1 ditch:1 technology:1 its:2 bankruptcy:1 embattled:1 needs:1 service:2 imminent:1 support:1 acceptance:1 had:1 system:1 winning:1 their:2 mobile-payment:1 reader:1 shoppers:1 new:1 has:2 checkout:1 more:1 customers:1 may:1 line:1 merchants:2 hopes:1 trouble:1 must:1 relies:1 reorganization:1 impressive:1 credit-card:1 list:1 up:1 wallet:1 payments:1 install:1 banks:1 make:1 issuers:1
+BBY	20140911	32.3	32.5	r_up	all:1 already:1 some:1 ``:1 '':1 still:1 its:1 needs:1 toy:2 publishing:1 service:1 support:1 three:1 their:1 mobile-payment:1 has:1 more:2 customers:1 both:1 merchants:1 but:1 game:1 lists:1 than:1 aisle:1 holiday:1 credit-card:1 months:1 up:1 banks:1 away:1 issuers:1
+BBY	20140912	32.5	33.6	r_up	
+BBY	20140915	33.6	34.0	r_up	files:1 buy:1 stores:1 bankrupt:1 may:1 scooping:1 some:1 up:1 should:1 prudent:1 consider:1 its:1 bankruptcy:1
+BBY	20140916	34.0	34.8	r_up	already:1 financial:1 often:1 exists:1 metric:1 sales:1 square:1 market:1 per:1 should:1 add:1 way:1 innovation:1 new:1 dominance:1 stock:1 's:3 propelled:1 key:1 foot:1 path:1 underrated:1
+BBY	20140917	34.8	34.5	r_down	control:1 people:1 one:1 locks:1 thermostats:1 want:1 makers:1 bulbs:1 use:1 their:2 also:1 only:1 too:1 coffee:1 door:1 but:1 consoles:1 boxes:1 set-top:1 not:1 remote:1 light:1 game:1 making:1 bet:1
+BBY	20140918	34.5	34.9	r_up	
+BBY	20140919	34.9	34.6	r_down	
+BBY	20140922	34.6	33.6	r_down	
+BBY	20140923	33.6	33.3	r_down	
+BBY	20140924	33.3	33.9	r_up	seeing:1 into:1 consultants:1 say:1 trading:1 year:1 debate:1 late:1 their:1 earnings:1 openings:1 events:1 full:1 shopping:1 surges:1 moving:1 stocks:1 day:1 industry:1 up:1 turn:1 retailers:1 action:1 could:1
+BBY	20140925	33.9	33.2	r_down	fly:1 10:1 van:1 network:1 huge:1 writes:1 sales:1 primed:1 franchise:1 below:1 growth:1 including:1 retailers:1 winners:1 radar:1 auto-parts:1
+BBY	20140926	33.2	32.9	r_down	
+BBY	20140929	32.9	33.6	r_up	flagship:1 coming:1 's:1 store:1 first:1
+BBY	20140930	33.6	33.5	r_down	
+BBY	20141001	33.5	32.6	r_down	10:1 van:1 extend:1 risen:1 whose:1 outperformance:1 into:1 up:1 shares:1 fourth:1 may:1 winners:1 73:1 earnings:1 have:1 quarter:1 companies’:1 writes:1 500:1
+BBY	20141002	32.6	32.7	r_up	
+BBY	20141003	32.7	33.3	r_up	
+BBY	20141006	33.3	32.2	r_down	
+BBY	20141007	32.2	30.2	r_down	both:1 lower:1 way:1 lead:1 among:1 make:1 life:1 deal:1 down:1 competitors:1 sharply:1 6:1 100:1 low-price:1 speed:1 writes:1 best:1 $:1
+BBY	20141008	30.2	31.5	r_up	among:1 up:1 slides:1 active:1 earnings:1 downgrade:1 stocks:1 analyst:1 market:1 more:1
+BBY	20141009	31.5	30.8	r_down	studios:1 join:1 knowledge:1 people:1 three:1 least:1 consortium:1 according:1 talks:1 situation:1 several:1
+BBY	20141010	30.8	30.4	r_down	

@@ -1,0 +1,50 @@
+AMGN	20140801	126.7	124.9	r_down	
+AMGN	20140804	124.9	128.0	r_up	help:1 just:1 agreed:1 results:1 years:1 course:1 session:2 looks:1 touch:1 yes:1 still:1 its:4 weekly:1 $:1 cup:1 treatment:1 premarket:1 under:1 has:1 meetings:1 hope:1 ...:1 means:1 showing:1 wholesaler:1 during:1 trade:2 multiple:1 day:3 always:1 drop:1 list:1 morning:1 consensus:1 interim:1 4-session:1 everyone:1 companies:2 estimates:1 second:2 actively:2 trading:2 our:1 investment:1 declined:1 living:1 said:2 patients:2 shares:2 3:1 tidbits:1 shows:1 we:1 here:1 met:1 respite:1 losing:1 rises:1 contract:1 keep:1 trial:2 late-stage:1 fourth-quarter:1 cancer:1 revenue:1 primary:1 private:1 because:1 deadlines:1 another:2 working:1 weekend:1 there:1 two:1 long:1 stimulation:1 treat:1 way:1 expected:2 waste:1 500:1 firm:1 cope:1 started:1 some:1 offered:1 taken:1 downing:1 endpoint:1 gotten:1 see:1 while:1 're:1 expiration:1 following:1 treated:1 streak:1 flavor:1 1.2:1 myeloma:1 drug:2 have:1 rally:2 moves:1 again:1 productive:1 no:1 get:1 topped:1 hampered:1 successful:1 earnings:1 you:3 worsening:1 survival:1 nice:1 week:1 snaps:1 's:3 after:1 falls:1 fell:1 tackle:1 stocks:2 meaningful:1 fiscal:1 lower:1 longer:1 disease:1 analysis:1 reports:1 without:1 green:1 time:1
+AMGN	20140805	128.0	127.2	r_down	
+AMGN	20140806	127.2	126.4	r_down	
+AMGN	20140807	126.4	125.1	r_down	
+AMGN	20140808	125.1	126.3	r_up	
+AMGN	20140811	126.3	126.7	r_up	
+AMGN	20140812	126.7	126.3	r_down	
+AMGN	20140813	126.3	127.3	r_up	flat:1 extended:1 but:1 network:1 beat:1 company:1 after:2 turned:1 expectations:1 shares:1 hours:1 equipment:1 trading:1 wake:1 earnings:2 volatile:2 still:1
+AMGN	20140814	127.3	131.8	r_up	sector:1 cancer:1 results:1 trade:1 actively:1 looks:2 year:1 multiple:1 its:2 market:1 different:1 said:1 $:2 failed:1 shares:1 labor:1 their:1 clinical:1 earnings:1 pretty:2 quarterly:1 economy:1 good:1 's:3 overall:1 survival:1 tops:2 story:1 primary:1 slides:1 expected:1 endpoint:1 wake:1 meet:1 improving:1 subsidiary:1 drops:1 companies:1 myeloma:1 drug:1 trial:1 patients:1 session:1 200,000:2 retail:1 late-stage:1
+AMGN	20140815	131.8	132.8	r_up	
+AMGN	20140818	132.8	133.2	r_up	
+AMGN	20140819	133.2	133.0	r_down	has:2 less-charted:2 technical:1 breaks:1 resistance:1 reaches:1 while:1 significant:1 reached:1 territory:2 14-year:1 highs:1 500:1 out:1
+AMGN	20140820	133.0	132.6	r_down	
+AMGN	20140821	132.6	132.5	r_down	case:1 we:1 's:2 turns:1 twists:1 against:1 're:2 curious:1 reading:1 lawsuit:1 more:1
+AMGN	20140822	132.5	132.8	r_up	
+AMGN	20140825	132.8	134.7	r_up	hard-drive:1 said:1 's:2 finance:1 vice:1 over:1 chief:1 take:1 8:1 president:1 financial:1 maker:1 officer:1
+AMGN	20140826	134.7	137.2	r_up	partnership:1 bring:1 another:1 its:1 market:1 before:1 pharmaceutical:1 said:1 would:1 immunotherapy:1 lung-cancer:1 looking:1 potential:1 treatment:2 new:1 type:1 collaborate:1 led:1 they:1 capitalize:1 racing:1 study:1 companies:1 disease:1 fighting:1 competitors:1 evaluating:1 onto:1 latest:1
+AMGN	20140827	137.2	137.8	r_up	biotech:1 prospective:1 spring:1 have:1 its:1 booming:1 again:1 said:1 granted:1 selloff:1 priority:1 application:1 treatment:1 new:1 heart-failure:1 's:1 company:1 regulators:1 stocks:1 designation:1 drug:1 review:1
+AMGN	20140828	137.8	138.6	r_up	
+AMGN	20140829	138.6	139.3	r_up	downsizing:1 all:1 right:1 coming:1 share:1 them:1 rising:1 home:1 find:1 'll:2 goings:1 there:1 your:1 anyone:1 going:1 new:1 layoffs:1 's:1 movement:1 wants:1 we:2 someone:1 star:1 comings:1 some:1 spot:1 know:1 others:1 news:1 exciting:1 especially:1 shy:1 and…:1 us:2 n't:1 solved:1 ongoing:1 changes:1 latest:1
+AMGN	20140902	139.3	137.9	r_down	pursue:1 guidelines:1 pricing:1 huge:1 depend:1 convinced:1 potential:1 adoption:1 treatment:1 factor:1 new:2 physicians:1 option:1 treatments:1 although:1 doctors:1 data:1 both:1 lower:1 whether:1 suggests:1 patients:1 survey:1 can:1 cholesterol:1 injectable:2 outcome:1
+AMGN	20140903	137.9	138.5	r_up	
+AMGN	20140904	138.5	138.0	r_down	
+AMGN	20140905	138.0	137.8	r_down	
+AMGN	20140908	137.8	139.2	r_up	
+AMGN	20140909	139.2	137.3	r_down	
+AMGN	20140910	137.3	139.1	r_up	
+AMGN	20140911	139.1	138.9	r_down	
+AMGN	20140912	138.9	137.8	r_down	
+AMGN	20140915	137.8	137.9	r_up	
+AMGN	20140916	137.9	139.3	r_up	
+AMGN	20140917	139.3	140.7	r_up	
+AMGN	20140918	140.7	142.0	r_up	
+AMGN	20140919	142.0	144.0	r_up	
+AMGN	20140922	144.0	142.1	r_down	
+AMGN	20140923	142.1	140.6	r_down	decidedly:1 all:2 everyone:1 sees:1 feel:1 over:1 some:1 soon:1 accept:1 years:1 autumn:1 done:1 daily:1 have:1 go:1 our:1 category:1 now:1 any:1 defines:1 blue:1 1:1 documents:1 likes:1 $:1 cup:1 sun:1 there:1 sparkling:1 event:1 stimulation:1 hitting:1 hot:1 piping:1 interest:1 8:1 you:2 if:1 's:3 across:1 skies:1 ...:1 we:1 run:1 get:1 means:1 smashing:1 why:1 here:1 much:1 15:1 cracking:1 don:1 line:1 items:1 day:1 he:2 your:1 120:1 intriguing:1 crisp:1 always:1 clear:1 drop:1 us:2 morning:1 're:1 today:1 time:1 simply:1 something:1
+AMGN	20140924	140.6	142.2	r_up	
+AMGN	20140925	142.2	139.8	r_down	
+AMGN	20140926	139.8	141.0	r_up	
+AMGN	20140929	141.0	140.0	r_down	
+AMGN	20140930	140.0	140.4	r_up	
+AMGN	20141001	140.4	138.8	r_down	
+AMGN	20141002	138.8	137.2	r_down	
+AMGN	20141003	137.2	139.1	r_up	
+AMGN	20141006	139.1	137.6	r_down	
+AMGN	20141007	137.6	136.0	r_down	
+AMGN	20141008	136.0	140.0	r_up	
+AMGN	20141009	140.0	137.5	r_down	everyone:1 departed:1 clip:1 people:1 feel:1 house:1 whatever:1 thanks:1 learning:1 our:2 flavor:1 campus:1 documents:1 cup:1 interesting:1 show:1 sky:1 find:1 stimulation:1 another:1 other:1 grand:1 tidbits:1 you:2 has:1 local:1 today:2 mascots:1 sort:1 ...:1 we:1 track:1 sunny:1 free:1 moving:1 accept:1 snooze:1 now:1 day:2 those:1 remember:1 school:1 short:1 join:1 faster:1 secrets:1 official:1 us:1 morning:1 thing:1 below:1 can:1 have:1 found:1 settled:1 stimulating:1
+AMGN	20141010	137.5	137.3	r_down	

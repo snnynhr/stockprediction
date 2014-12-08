@@ -1,0 +1,50 @@
+BK	20140801	39.0	38.7	r_down	billion:1 's:1 $:1 pointing:1 government:1 default:1 could:1 hope:1 selloff:1 29:1 brought:1 held:1 stock-market:1 finger:1 investors:1 reached:1 debt:1 resolution:1 crisis:1 creditors:1 out:1
+BK	20140804	38.7	39.2	r_up	
+BK	20140805	39.2	38.9	r_down	ordered:1 rebuke:1 investors:1 private:1 n't:1 economic:1 have:2 settlement:1 decide:1 again:1 said:1 $:1 another:1 causing:1 biggest:1 damaging:1 billion:1 them:1 's:2 collapse:1 nation:1 regulators:1 they:2 sweeping:1 1.13:1 11:1 extension:1 whether:1 involved:1 deal:1 try:1 without:1 can:1 banks:1 mortgage-securities:1 approve:1 asked:1
+BK	20140806	38.9	39.3	r_up	still:1 opinions:1 force:1 units:1 tough:1 they:3 investors:1 advisors:1 ``:1 satisfied:1 private:1 '':1 not:2 have:1 relates:1 fail:1 financial:1 settlement:3 decide:1 crisis:1 if:1 living:2 said:1 $:1 expert:1 few:1 banks’:1 wills:2 waiting:1 approve:1 their:1 another:1 other:1 notice:1 trustees:2 which:1 biggest:1 sparking:1 include:1 68:1 more:1 them:1 's:2 ability:1 get:1 may:1 big:1 each:1 agreement:1 pressure:1 regulators:2 designed:1 background:1 put:1 1.13:1 bank:1 improve:1 billion:1 extension:1 whether:1 involved:2 proposed:1 months:1 up:1 deal:1 wrapped:1 divestiture:1 without:1 allow:1 were:1 banks:1 trusts:1 mortgage-securities:2 changes:1 asked:1
+BK	20140807	39.3	38.4	r_down	high-stakes:1 over:1 some:1 bring:1 battle:1 still:1 its:1 giant:1 debts:1 legal:1 0:1 too:1 between:1 has:1 wants:1 big:1 nation:1 hear:1 they:1 lawsuit:1 11:1 against:1 think:1 unpaid:1 admit:1 banks:1 fail:1 asked:1 creditors:1
+BK	20140808	38.4	38.5	r_up	directed:1 ``:1 hold:1 false:1 threatening:1 obligations:1 country:2 court:1 stop:1 '':1 misleading:1 statements:2 continued:1 making:1 debt:1 's:1 contempt:1 if:1
+BK	20140811	38.5	38.4	r_down	
+BK	20140812	38.4	38.4	r_up	
+BK	20140813	38.4	38.4	r_up	mutual:1 broad:1 examination:1 funds:1 alternative:1 has:1 launched:1
+BK	20140814	38.4	38.2	r_down	
+BK	20140815	38.2	38.2	r_up	
+BK	20140818	38.2	38.5	r_up	
+BK	20140819	38.5	38.5	r_up	
+BK	20140820	38.5	38.7	r_up	bondholders:1 financial:1 moved:1 month:1 creditor:1 led:1 seek:1 its:3 said:1 court:2 would:1 pay:1 make:1 administration:1 exit:1 swap:1 instead:1 proposal:1 has:1 markets:1 congressional:1 dispute:1 's:1 offering:1 bonds:1 some:1 after:2 met:1 sidestepping:1 let:1 courts:1 international:1 approval:1 dwindling:1 last:1 her:1 default:2 country:1 options:1 debt:1 payments:1 night:1 skepticism:1 latest:1 order:2 bond:1
+BK	20140821	38.7	39.1	r_up	debt:1 's:2 carried:1 bonds:1 illegal:1 out:1 hearing:1 said:1 swap:1 not:1 proposal:1 law:2 local:1 its:1 can:1
+BK	20140822	39.1	39.1	r_up	
+BK	20140825	39.1	39.4	r_up	investors:1 group:1 $:1 seeking:1 access:1 holding:1 suit:1 bonds:1 has:1 's:1 interest:1 government:1 funds:1 nation:1 gain:1 they:1 filed:1 hedge:1 bank:1 billion:2 against:1 payments:2 charged:1 bond:1
+BK	20140826	39.4	39.3	r_down	operations:1 bondholders:1 office:1 global:1 some:1 divestitures:1 likely:1 accelerate:1 have:1 its:1 has:1 local:1 's:2 permission:1 small:1 representative:1 analyst:1 revoked:1 enemy:1 subsidiaries:1 especially:1 according:1 foreign:1 common:1 banks:1 found:1 operate:1
+BK	20140827	39.3	39.1	r_down	firm:1 enemy:1 operate:1 central:1 office:1 woes:1 country:1 over:1 filed:1 while:1 against:1 revokes:1 other:1 authorization:1 have:1 funds:1 hedge:1 latest:1 lawsuit:1 bank:1 bond:1
+BK	20140828	39.1	39.0	r_down	relationships:1 city:1 shed:1 ultimatum:1 's:2 venture:1 ahead:1 web:1 big:1 six:1 counterparty:1 launched:1 council:1 light:1 banks:1 new:1 has:1 issues:1 more:1
+BK	20140829	39.0	39.1	r_up	saying:1 's:1 no:1 had:2 been:1 nation:1 victims:1 cyberattack:1 incident:1 indication:1 they:2 largest:1 banks:1 hit:1 themselves:1 similar:1
+BK	20140902	39.1	39.6	r_up	
+BK	20140903	39.6	39.5	r_down	
+BK	20140904	39.5	39.4	r_down	all:1 wealth-management:1 into:1 back:1 one:1 year:1 market:2 aim:1 $:1 service:1 1:1 other:1 rates:1 low:1 interest:1 brokerages:1 biggest:1 new:2 week:2 's:3 far:1 big:1 sold:1 stripes:1 direct:1 debt:1 divisions:1 busiest:1 companies:1 borrow:1 deals:1 so:1 making:1 flooding:1 taking:1 bond:2
+BK	20140905	39.4	39.4	r_up	
+BK	20140908	39.4	39.4	r_up	operations:1 named:1 retired:1 reasons:1 executive:2 private:1 trust:1 technology:1 said:1 due:1 late:1 health:1 board:3 equity:1 has:1 firm:1 's:4 includes:1 background:1 bank:1 vice:1 positions:1 wsj:1 joined:1
+BK	20140909	39.4	38.7	r_down	
+BK	20140910	38.7	39.1	r_up	financial:2 parties:1 moves:2 support:2 system:2 new:1 shrink:1 risk:2 big:2 pose:2 regulators:2 signaling:2 recent:2 both:1 --:1 impose:2 lessen:2 continue:2 pressed:2 banks:2 efforts:2 constraints:2
+BK	20140911	39.1	39.3	r_up	has:1 documents:1 's:2 interest:1 payment:1 over:1 30:1 hand:1 n't:1 fund:1 does:1 have:1 attempt:1 part:1 next:1 hedge:1 block:1 ruled:1
+BK	20140912	39.3	39.9	r_up	
+BK	20140915	39.9	39.9	r_up	assets:1 list:1 banks:1 place:1 biggest:1 5:1 has:1 fifth:1
+BK	20140916	39.9	40.1	r_up	include:1
+BK	20140917	40.1	40.2	r_up	
+BK	20140918	40.2	40.2	r_up	
+BK	20140919	40.2	39.6	r_down	
+BK	20140922	39.6	39.3	r_down	
+BK	20140923	39.3	38.9	r_down	headache:1 trust:1 salvo:1 into:1 turned:1 resign:1 its:1 trustee:1 has:2 asked:1 bank:1 latest:1
+BK	20140924	38.9	39.2	r_up	deal:1 startup:1 price:1 trading:1 7.4:1 seen:1 alternative:1 group:1 service:1 rose:1 initial:1 traders:1 their:1 lower-than-expected:1 public:1 buy:1 's:1 offering:1 company:1 after:1 day:1 near:1 messaging:2 first:1
+BK	20140925	39.2	38.6	r_down	buy:1 financial:1 instant-messaging:1 deal:1 may:1 bid:1 startup:1 group:1 service:1 take:1 chat:1 announce:1 popular:1 led:1 firms:1 's:1 trader:1
+BK	20140926	38.6	38.9	r_up	
+BK	20140929	38.9	38.6	r_down	declared:1 court:1 government:1 continues:1 battle:1 creditors:1 holding:1 judge:1 bonds:1 its:2 contempt:1
+BK	20140930	38.6	38.7	r_up	such:1 interest:1 's:2 $:2 leading:1 equivalent:1 million:1 sidestep:1 nation:1 bondholders:1 payments:2 another:1 sets:1 effort:1 court:1 order:1 its:1 precedent:1 latest:1
+BK	20141001	38.7	38.2	r_down	operations:1 sales:1 competitive:1 regulatory:1 trading:1 close:1 's:1 open:1 its:1 landscape:1 looking:1 marking:1 said:1 would:1 traders:1 their:2 way:1 online:1 biggest:1 new:3 firms:1 bought:1 financial-services:1 instant-messaging:1 business:2 offer:1 company:3 formed:1 search:1 tries:1 streamline:1 groups:1 services:1 world:1 aiming:1 continued:1 change:1 improve:1 chapter:1 training:1 programs:1 companies:1 derivatives:1 courses:1 remain:1 massive:1 model:1 starting:1 software:1
+BK	20141002	38.2	38.2	r_up	financial-services:1 's:1 instant:1 company:2 formed:1 aims:1 traders:1 way:1 new:1 biggest:1 world:1 firms:1 technology:1 change:1 bought:1
+BK	20141003	38.2	38.7	r_up	information:1 customers:1 said:1 summer:1 cybersecurity:1 played:1 detected:1 attack:2 contact:1 compromised:1 response:1 millions:1
+BK	20141006	38.7	38.7	r_up	
+BK	20141007	38.7	37.8	r_down	
+BK	20141008	37.8	38.5	r_up	customer:1 information:1 illegally:1 said:1 have:1 insurer:1 agreed:1 sell:1 been:1 server:1 asset-management:1 holding:1 subsidiary:1 week:1
+BK	20141009	38.5	37.3	r_down	
+BK	20141010	37.3	36.8	r_down	

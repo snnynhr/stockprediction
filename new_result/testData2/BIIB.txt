@@ -1,0 +1,50 @@
+BIIB	20140801	334.3	329.8	r_down	
+BIIB	20140804	329.8	326.5	r_down	
+BIIB	20140805	326.5	325.2	r_down	
+BIIB	20140806	325.2	325.2	r_up	
+BIIB	20140807	325.2	320.6	r_down	
+BIIB	20140808	320.6	324.0	r_up	
+BIIB	20140811	324.0	320.3	r_down	
+BIIB	20140812	320.3	324.9	r_up	
+BIIB	20140813	324.9	334.6	r_up	
+BIIB	20140814	334.6	337.0	r_up	
+BIIB	20140815	337.0	342.4	r_up	
+BIIB	20140818	342.4	344.6	r_up	billion:1 10:1 buy:1 's:1 $:1 jumped:1 company:1 rest:1 talks:1 're:1 media:1 report:1
+BIIB	20140819	344.6	345.8	r_up	
+BIIB	20140820	345.8	342.5	r_down	
+BIIB	20140821	342.5	338.6	r_down	firm:1 ``:1 said:1 business:1 vice:1 executive:1 '':1 solutions:1 biotechnology:1 president:1 technology:1 joining:1
+BIIB	20140822	338.6	339.9	r_up	some:1 help:1 bucket:1 challenge:1 companies:2 major:1 ice:1 research:1 fuel:1 benefit:1 5:1 drug:1 expected:1 awareness:1
+BIIB	20140825	339.9	342.7	r_up	
+BIIB	20140826	342.7	342.9	r_up	
+BIIB	20140827	342.9	343.3	r_up	
+BIIB	20140828	343.3	341.2	r_down	
+BIIB	20140829	341.2	343.0	r_up	downsizing:1 all:1 right:1 coming:1 share:1 them:1 rising:1 home:1 find:1 'll:2 goings:1 there:1 your:1 anyone:1 going:1 new:1 layoffs:1 's:1 movement:1 wants:1 we:2 someone:1 star:1 comings:1 some:1 spot:1 know:1 others:1 news:1 exciting:1 especially:1 shy:1 and…:1 us:2 n't:1 solved:1 ongoing:1 changes:1 latest:1
+BIIB	20140902	343.0	342.6	r_down	biotech:1 years:2 ice:1 have:1 market:1 index:1 20:1 takes:1 writes:1 beaten:1 two:1 tiny:1 has:1 real:1 may:1 company:1 therapy:1 14:1 boring:1 challenge:1 bucket:1 picks:1
+BIIB	20140903	342.6	344.1	r_up	
+BIIB	20140904	344.1	334.8	r_down	
+BIIB	20140905	334.8	330.4	r_down	
+BIIB	20140908	330.4	331.3	r_up	
+BIIB	20140909	331.3	326.8	r_down	
+BIIB	20140910	326.8	332.0	r_up	
+BIIB	20140911	332.0	327.1	r_down	
+BIIB	20140912	327.1	323.3	r_down	
+BIIB	20140915	323.3	320.1	r_down	
+BIIB	20140916	320.1	326.8	r_up	
+BIIB	20140917	326.8	327.5	r_up	
+BIIB	20140918	327.5	329.9	r_up	loved:1 large-cap:1 managers:1 14:1 top-performing:1 44:1 among:1 up:1 shares:1 fund:1 year:1 van:1 stocks:1 writes:1 gains:1
+BIIB	20140919	329.9	329.2	r_down	
+BIIB	20140922	329.2	329.7	r_up	
+BIIB	20140923	329.7	332.2	r_up	
+BIIB	20140924	332.2	346.3	r_up	
+BIIB	20140925	346.3	333.4	r_down	
+BIIB	20140926	333.4	333.5	r_up	
+BIIB	20140929	333.5	330.1	r_down	
+BIIB	20140930	330.1	330.8	r_up	buck:1 sectors:1 tech:1 rising:1 can:1 interest:1 rates:1 thinks:1 market:1 care:1
+BIIB	20141001	330.8	323.5	r_down	
+BIIB	20141002	323.5	319.8	r_down	
+BIIB	20141003	319.8	327.0	r_up	pharmaceutical:1 comings:1 industry:1 and…:1 goings:1 changes:1 latest:1
+BIIB	20141006	327.0	325.0	r_down	commerce:1 managing:1 into:1 one:1 services:1 report:1 various:1 organization:1 promoted:1 role:1 learned:1 has:2 him:1 merged:1 he:1
+BIIB	20141007	325.0	315.9	r_down	
+BIIB	20141008	315.9	324.5	r_up	
+BIIB	20141009	324.5	319.1	r_down	
+BIIB	20141010	319.1	315.1	r_down	

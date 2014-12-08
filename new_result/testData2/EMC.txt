@@ -1,0 +1,50 @@
+EMC	20140801	29.1	28.9	r_down	
+EMC	20140804	28.9	29.4	r_up	fourth-quarter:1 1.2:1 revenue:1 agreed:1 estimates:1 results:1 private:1 trade:1 session:1 trading:1 contract:1 still:1 its:1 declined:1 said:1 $:1 topped:1 shares:1 investment:1 hampered:1 premarket:1 expected:1 firm:1 's:2 taken:1 fell:1 wholesaler:1 fiscal:1 companies:1 drug:1 consensus:1 actively:1 expiration:1
+EMC	20140805	29.4	29.1	r_down	limited:1 could:1 downside:1 have:1 soar:1
+EMC	20140806	29.1	29.0	r_down	
+EMC	20140807	29.0	28.8	r_down	
+EMC	20140808	28.8	28.9	r_up	
+EMC	20140811	28.9	29.2	r_up	
+EMC	20140812	29.2	29.2	r_up	
+EMC	20140813	29.2	29.3	r_up	
+EMC	20140814	29.3	29.6	r_up	
+EMC	20140815	29.6	29.6	r_up	
+EMC	20140818	29.6	29.8	r_up	internally:1 accelerate:1 're:1 products:1 helps:1 way:1 overhauling:1 services:1 says:1 delivers:1 effort:1 maker:1 market:1 software:1
+EMC	20140819	29.8	29.7	r_down	has:2 less-charted:2 technical:1 breaks:1 resistance:1 reaches:1 while:1 significant:1 reached:1 territory:2 14-year:1 highs:1 500:1 out:1
+EMC	20140820	29.7	29.5	r_down	venture-capital:1 around:1 analysis:1 round-up:1 news:1 $:1
+EMC	20140821	29.5	29.5	r_up	investors:1 them:1 sale:1 '':1 signs:1 corner:1 out:1 n't:1 office:1 their:1 other:1 so:1 do:1 ``:1 hang:1 clues:1 front:1 11:1 vacancy:1 look:1 corporate:1 companies:1 up:1 try:1 offices:1 analysts:1 traded:1
+EMC	20140822	29.5	29.5	r_up	
+EMC	20140825	29.5	29.5	r_up	emerging:1 threats:1 plans:1 widely:1 company:1 two:1 been:1 lucrative:1 have:1 seen:1 franchise:1 announce:1 technologies:1 's:1 software:1
+EMC	20140826	29.5	29.4	r_down	
+EMC	20140827	29.4	29.3	r_down	
+EMC	20140828	29.3	29.2	r_down	
+EMC	20140829	29.2	29.4	r_up	
+EMC	20140902	29.4	29.3	r_down	
+EMC	20140903	29.3	29.4	r_up	
+EMC	20140904	29.4	28.9	r_down	undervalued:1 direct:1 competitive:1 table:1 market:1 mounting:1 improvement:1 longtime:1 entered:1 more:1 infrastructure:1 business:1 company:1 paid:1 assault:1 putting:1 gain:1 off:1 chips:1 allies:1 server:1 while:1 2009:1 bet:1
+EMC	20140905	28.9	28.9	r_up	
+EMC	20140908	28.9	29.1	r_up	
+EMC	20140909	29.1	29.1	r_up	
+EMC	20140910	29.1	29.3	r_up	
+EMC	20140911	29.3	29.5	r_up	
+EMC	20140912	29.5	29.5	r_up	exploring:1 matter:1 familiar:1 company:1 stake:1 sale:1 person:1 spinoff:1 told:1 its:1 software:1
+EMC	20140915	29.5	29.3	r_down	
+EMC	20140916	29.3	29.4	r_up	billion:1 10:1 infrastructure:1 's:1 center:1 revenue:1 data:1 company:1 top:1 storage:1 aims:1 servers:1 computer:1 five:1 said:1 executive:1 years:1 boost:1 its:2 $:1
+EMC	20140917	29.4	29.3	r_down	
+EMC	20140918	29.3	29.6	r_up	
+EMC	20140919	29.6	29.4	r_down	sector:1 massive:1 potential:1 says:1 merger:1 targets:1 consolidation:1 cloud-based:1 next:1 other:1 --:1 number:1 mania:1 who’s:1 sets:2 sees:1 buyout:2 software:1 analyst:1 acquisition:1 stage:2
+EMC	20140922	29.4	29.5	r_up	emerging:1 executive:1 trade:1 session:1 including:1 its:1 giant:2 slow:1 thank:1 merger:3 highlights:1 opportunities:1 penalty:1 equity:1 has:2 longtime:2 do:1 good:1 finance:1 seeking:1 beat:1 big:1 hedge:1 investor:1 companies:4 morning:2 facing:1 steam:1 weighs:1 talked:1 deal:4 sign:1 culture:1 growth:1 loses:1 shares:1 looking:1 activist:2 unit:1 new:1 public:1 million:1 pressure:2 retirement:2 news:2 along:1 $:1 faced:2 conviction:1 could:2 according:1 reports:1 climb:1 options:3 into:1 private:1 bribery:1 likes:1 message:1 your:1 market:2 considering:2 confidence:1 would:1 remains:1 positive:1 biggest:1 markets:2 500:1 more:1 offer:1 successful:1 funds:1 surges:1 but:1 expected:3 bull:1 than:1 include:2 rival:2 challenge:1 n't:1 near:1 actively:1 under:2 spotlight:1 tap:1 cure:1 rally:1 technology:1 reality:1 other:2 you:1 stock:1 development:1 's:5 reportedly:1 falls:1 shareholder:2 rolling:1 chief:1 fundamental:1 keeps:1 banks:1
+EMC	20140923	29.5	29.7	r_up	outlook:1 help:1 give:1 sidestep:1 turned:1 sales:2 trading:1 have:1 small-:1 debate:1 mid-cap:1 bullish:1 remains:1 broad:1 shares:1 its:1 4:1 6:2 boost:1 more:1 week:1 pull:1 million:1 weak:1 back:1 following:1 than:2 markets’:1 10:1 lower:1 technical:1 losses:1 bull-bear:1 tech:1 benchmarks:1 action:1
+EMC	20140924	29.7	29.6	r_down	says:1 strategic:1 including:1 seen:1 considering:1 giant:1 said:2 networking:1 merger:1 been:1 interested:3 which:1 has:1 isn’t:1 's:1 company:3 possible:1 preferred:1 data-storage:2 not:1 acquiring:3 standalone:1 n't:1 options:1
+EMC	20140925	29.6	28.7	r_down	sector:1 vulnerability:1 prompt:1 hackers:1 extra:1 into:2 private:1 discovered:1 code:1 including:1 's:1 your:1 issues:1 out:1 memories:1 system:1 lets:1 systems:1 tumbles:1 biggest:1 command:1 newly:1 over:1 red:1 ``:1 hit:1 finance:1 insert:1 beat:1 funds:1 equity:1 slump:1 reviving:1 known:1 news:1 hedge:1 stocks:1 bug:1 '':1 many:1 taking:1 losses:1 morning:2 computer:1 tech:2 stand:1 threat:1 affects:1 banks:1 found:1 security:1 software:1
+EMC	20140926	28.7	28.9	r_up	
+EMC	20140929	28.9	28.8	r_down	
+EMC	20140930	28.8	29.2	r_up	set:1 's:1 slump:1 expansion:1 growth:1 earnings:1 strong:1
+EMC	20141001	29.2	28.4	r_down	
+EMC	20141002	28.4	28.5	r_up	control:1 named:2 financial:2 less:1 over:1 within:1 direct:1 trade:1 past:1 actively:1 nears:1 have:1 next:1 technology:1 its:1 plans:1 information:1 giant:1 shares:1 former:1 role:1 take:1 expected:1 new:1 executive:1 direction:1 move:1 's:2 deeper:1 business:2 offer:1 may:2 company:1 but:1 data-storage:1 they:1 services:1 president:1 than:1 companies:1 according:1 crossroads:1 chief:2 session:1 indication:1 officer:2 corporate:1 playing:1
+EMC	20141003	28.5	28.6	r_up	
+EMC	20141006	28.6	28.4	r_down	operations:2 set:1 financial:1 wall:1 lean:1 into:1 retire:1 splitting:1 up:1 hardware:2 ready:1 computer:1 businesses:2 have:1 year:1 separating:2 message:1 its:5 decade:1 heeds:1 different:1 said:2 based:1 asks:1 call:1 breakup:1 make:1 had:1 two:4 next:1 finally:1 turnaround:1 split:1 new:1 reflects:1 more:1 printer:2 hit:1 plans:1 very:1 smaller:1 company:2 after:1 innovate:1 break:1 nimble:1 plan:1 services:2 doughnut:1 --:1 companies:3 roughly:1 deals:1 courses:1 chief:1 officer:1 own:1 efforts:1 corporate:2 maker:1 mean:1
+EMC	20141007	28.4	28.1	r_down	beautiful:1 current:1 longer:1 than:1 no:2 may:1 writes:1 footing:1 companies:1 drives:1 wave:1 exposes:1 start:1 split:1 innovation:1 new:1 reality:1 technology:1 company:1 profits:1
+EMC	20141008	28.1	28.8	r_up	being:1 one:1 manager:1 its:2 unit:2 shareholders:1 other:1 board:1 which:1 largest:1 sent:1 company:1 data-storage:1 fund:1 letter:1 hedge:1 spin:3 acquisitions:1 off:3 pursue:1 urged:1 urges:1 urging:1
+EMC	20141009	28.8	28.3	r_down	control:1 saying:1 outlook:1 industrial:1 their:1 terrorists:1 cybersecurity:1 into:1 some:1 results:1 increased:1 years:1 helped:1 amid:1 businesses:1 directly:1 year:1 expects:1 its:1 risk:1 out:1 planting:1 said:1 brighter:1 spending:1 breakup:1 two:1 forecast:1 tighten:1 pioneer:1 supplies:1 other:1 health:1 split:1 which:1 lower-than-expected:1 lapse:1 fizz:1 over:1 transportation:1 plans:1 split—for:1 utilities:1 commercial:1 systems:1 antivirus:1 number:1 snack:1 connected:1 coming:1 services:1 now:1 change:1 care:1 fiscal:1 organizations:1 farm:1 prices:1 calls:2 publicly:1 many:1 taking:1 farmers:1 companies:1 quiet:1 morning:1 exploitation:1 beverage:1 grain:1 alarming:1 leaves:1 weakest:1 traded:1 maker:1 profits:2 software:1
+EMC	20141010	28.3	27.9	r_down	

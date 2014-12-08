@@ -1,0 +1,50 @@
+CBS	20140801	56.6	56.8	r_up	
+CBS	20140804	56.8	57.5	r_up	investors:1 years:1 battle:1 prevail:1 its:1 weekly:1 21st:1 just:1 merger:1 media:1 two:1 should:1 earnings:1 biggest:1 2014:1 suffered:1 500:1 plunge:1 report:1 stocks:1 beginning:1 why:1 great:1 drop:1 companies:1 making:1
+CBS	20140805	57.5	56.8	r_down	
+CBS	20140806	56.8	57.5	r_up	spun:1 shut:2 buy:1 off:1 means:2 won’t:2 it’s:1 please:1 up:4 which:1 time:1 put:1 says:1 channel:1
+CBS	20140807	57.5	56.7	r_down	investors:1 revenue:1 increasingly:1 charts:1 states:1 rising:1 have:1 happen:1 lacks:1 its:1 voter:1 stumbled:1 said:1 missed:1 expectations:1 next:1 looking:1 overhead:1 earnings:1 interest:1 ramping:1 2010:1 higher:1 hit:1 company:1 but:1 fell:1 key:1 clues:1 expenses:1 second-quarter:1 volatility:1 38:2 uncertainty:1 up:1
+CBS	20140808	56.7	59.0	r_up	syndication:1 outlook:2 benefited:1 people:1 well:1 global:1 sales:1 slowdown:1 continued:1 widened:1 actively:1 '':2 drug:1 exceeded:1 wider:1 door:1 projected:1 p.m.:1 open:1 its:4 2.5:1 developer:1 impact:1 confirmed:1 said:5 $:1 would:1 rose:2 quarterly:1 revenue:2 weaker:1 expectations:1 shares:1 telecommunications:1 issues:1 gaming:1 earnings:3 premarket:1 largest:1 expected:1 slumps:1 treatment:1 suggested:1 ``:2 felt:1 's:5 7:1 licensing:1 company:3 after:2 weak:2 lower:1 extended:1 hurt:1 supplier:1 virus:1 fell:2 despite:1 trade:1 using:1 rights:1 strong:1 investor:1 second-quarter:2 session:1 struggles:1 television:3 third:2 world:1 restaurant:1 --:1 amid:1 climbed:1 companies:2 sinks:1 reports:1 social:1 broadcaster:2 advertising:2 18:1 trading:1 quarter:1 loss:2 experimental:1 published:1
+CBS	20140811	59.0	60.0	r_up	``:1 suicide:1 's:1 months:1 apparent:1 had:1 three:1 been:1 '':1 his:1 cancelled:1 news:1 comedy:1 came:1 after:1
+CBS	20140812	60.0	58.7	r_down	
+CBS	20140813	58.7	59.1	r_up	
+CBS	20140814	59.1	59.3	r_up	
+CBS	20140815	59.3	59.8	r_up	
+CBS	20140818	59.8	60.0	r_up	
+CBS	20140819	60.0	60.5	r_up	
+CBS	20140820	60.5	60.2	r_down	
+CBS	20140821	60.2	60.2	r_up	share:1 fees:1 agricultural:2 its:2 grappling:1 farmers:1 lender:1 also:1 largest:1 vegetable:1 import:1 increasing:1 's:1 affiliates:1 fruit:1 effects:1 focusing:1 pain:1 goods:1 collect:1 ban:1 feeling:1
+CBS	20140822	60.2	60.3	r_up	foster:1 ``:1 selling:1 court:1 say:1 reservations:1 influence:1 had:1 them:1 but:1 understanding:1 '':1 likely:1 because:1 papers:1 believed:1 serious:1 broadcaster:1 he:1
+CBS	20140825	60.3	60.4	r_up	cord:1 given:1 's:2 $:1 price:1 50:1 been:1 lower:1 much:1 has:1
+CBS	20140826	60.4	59.8	r_down	drama:1 ``:1 multiple:1 last:1 cable:1 influential:1 year:1 marking:1 its:1 '':1 ended:1 run:1 night:1 2014:1 final:1
+CBS	20140827	59.8	60.2	r_up	lost:1 big:1 companies:2 behind:1 won:1 shook:1 shows:1 out:1
+CBS	20140828	60.2	59.4	r_down	
+CBS	20140829	59.4	59.1	r_down	interests:1 abyss:1 little:1 's:1 vampires:1 found:1 movie:1 into:1 providers:1 drag:1 stores:1 down:1 regulatory:1 theaters:1 them:1 peak:1 were:1 schools:1 invasion:1 trying:1
+CBS	20140902	59.1	58.6	r_down	
+CBS	20140903	58.6	58.3	r_down	
+CBS	20140904	58.3	59.2	r_up	help:1 increasingly:1 over:1 fortify:1 networks:1 huge:1 threats:1 leverage:1 looking:1 other:1 which:1 online:1 has:1 them:1 rise:1 football:1 services:1 now:1 league:1 television:1 against:1 video:1
+CBS	20140905	59.2	59.2	r_up	
+CBS	20140908	59.2	59.0	r_down	'':2 harm:1 consumers:1 1998:1 began:1 companies:1 ``:2 actor:1 content:1 host:1 without:1 succeed:1 has:1 tapped:1 any:1
+CBS	20140909	59.0	57.8	r_down	again:1 anchors:1 would:1 get:1 writes:1 watch:1 diverse:1 station:1 5:1 you:1 lacks:1 changes:1 shows:1
+CBS	20140910	57.8	57.6	r_down	
+CBS	20140911	57.6	58.1	r_up	league:1 said:1 's:1 violence:1 domestic:1 incident:1 evidence:1 investigate:1 handling:1 night:1 former:1
+CBS	20140912	58.1	57.2	r_down	building:1 's:2 like:1 entertainment:1 being:1 universe:1 connects:1 devices:1 maker:1 offerings:1 more:1 step:1 slowly:1 progress:1 making:1 electronics:1 toward:1 its:1 first:1
+CBS	20140915	57.2	56.7	r_down	
+CBS	20140916	56.7	56.9	r_up	advance:1 ``:1 ad:2 tepid:1 spending:1 season:2 upfront:1 sales:1 been:1 surge:1 '':1 banking:1 fall:1 weaker-than-expected:1 have:1 coming:1 following:1 new:1 weeks:1 looking:1 networks:1
+CBS	20140917	56.9	56.8	r_down	
+CBS	20140918	56.8	56.5	r_down	
+CBS	20140919	56.5	55.9	r_down	``:2 's:1 read:1 season:1 35:1 '':2 see:1 hear:1 here:1 recommend:1 you:1
+CBS	20140922	55.9	54.6	r_down	prospect:1 like:1 providers:1 demand:1 face:1 fees:1 pressure:1 broadcasters:1 get:1 margin:1 networks:1 bigger:1 higher:1
+CBS	20140923	54.6	55.0	r_up	broadcasters:1 ratings:1 satellite:1 qualms:1 cable:1 show:1 many:1 launch:1 long-awaited:1 up:1 but:1 companies:1 viewing:1 have:1 measurement:1 networks:2
+CBS	20140924	55.0	54.8	r_down	
+CBS	20140925	54.8	53.8	r_down	firm:1 shop:1 has:1 around:1 entertainment:1 company:1 but:1 crime:1 drama:1 banking:1 new:2 problem:1 else:1 investment:1 out:1
+CBS	20140926	53.8	54.5	r_up	
+CBS	20140929	54.5	54.3	r_down	his:1 blames:1 failure:1 own:1 spooks:1 policy:1
+CBS	20140930	54.3	53.5	r_down	criticism:1 proposed:1 companies:1 over:1 moved:1 officials:1 said:1 group:1 $:1 merger:1 media:1 45:1 submit:1 their:1 details:1 intelligence:1 new:1 underestimating:1 agreements:1 wants:1 wary:1 after:1 wave:1 contain:1 billion:1 owners:1 fault:1 programming:1 reviews:1 channel:1 threat:1 were:1
+CBS	20141001	53.5	52.8	r_down	
+CBS	20141002	52.8	52.3	r_down	both:1 damaged:1 over:1 growth:1 promoting:1 have:1
+CBS	20141003	52.3	53.0	r_up	reporter:1 being:1 here:1 flown:1 team:1 worked:1 he:1
+CBS	20141006	53.0	52.7	r_down	
+CBS	20141007	52.7	52.1	r_down	acquired:1 content:1 has:1 firm:1 marketing:1
+CBS	20141008	52.1	52.5	r_up	
+CBS	20141009	52.5	50.7	r_down	
+CBS	20141010	50.7	49.9	r_down	

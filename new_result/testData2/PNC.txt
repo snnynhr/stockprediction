@@ -1,0 +1,50 @@
+PNC	20140801	82.0	81.5	r_down	
+PNC	20140804	81.5	81.8	r_up	
+PNC	20140805	81.8	81.3	r_down	
+PNC	20140806	81.3	81.0	r_down	
+PNC	20140807	81.0	80.7	r_down	private:1 expenses:1 college:1 year:1 carry:1 said:1 federal:1 investigation:1 rates:1 firms:1 law:1 recently:1 focused:1 reversal:1 now:1 loans:3 than:1 ago:1 lower:1 industry:1 connection:1 foreclosed:1 cooperating:1 charged:1
+PNC	20140808	80.7	81.2	r_up	compared:1 into:1 site:1 tiny:1 resort:1 economic:1 transformed:1 fishing:1 year:1 been:1 has:1 summit:1
+PNC	20140811	81.2	81.2	r_up	``:1 's:1 '':1 book:1 authors:1 talks:1 new:1
+PNC	20140812	81.2	81.3	r_up	
+PNC	20140813	81.3	81.7	r_up	
+PNC	20140814	81.7	81.7	r_up	
+PNC	20140815	81.7	81.5	r_down	
+PNC	20140818	81.5	82.4	r_up	
+PNC	20140819	82.4	82.5	r_up	give:1 policies:1 their:1 0.1:1 could:1 since:1 stronger:1 pace:1 flexibility:1 maintain:1 economic:1 designed:1 which:1 growth:1 prices:1 slowest:1 stimulate:1 advanced:1 more:1
+PNC	20140820	82.5	83.0	r_up	
+PNC	20140821	83.0	84.0	r_up	
+PNC	20140822	84.0	83.8	r_down	
+PNC	20140825	83.8	84.6	r_up	
+PNC	20140826	84.6	84.6	r_up	
+PNC	20140827	84.6	84.4	r_down	
+PNC	20140828	84.4	84.0	r_down	seeing:1 ``:1 said:1 determine:1 working:1 enforcement:1 after:1 '':1 unusual:1 morning:1 n't:1 attack:2 fraud:1 closely:1 scope:1 hacking:1 law:1 recent:1
+PNC	20140829	84.0	84.2	r_up	saying:1 years:2 hit:1 its:2 out:2 5.7:2 rose:2 had:2 two:2 been:1 steering:2 victims:1 economy:4 largest:1 themselves:1 hope:2 more:2 's:5 government:2 similar:1 nation:1 incident:1 fastest:2 they:2 demand:2 cyberattack:1 last:4 slowdown:2 than:2 bank:2 no:1 central:2 --:2 corporate:2 expanded:2 pace:2 indication:1 banks:1 quarter:2 consumer:2
+PNC	20140902	84.2	84.7	r_up	
+PNC	20140903	84.7	84.6	r_down	
+PNC	20140904	84.6	84.6	r_up	
+PNC	20140905	84.6	84.8	r_up	
+PNC	20140908	84.8	84.9	r_up	
+PNC	20140909	84.9	84.3	r_down	``:1 said:1 's:1 banks:1 may:1 certain:1 top:1 exempt:1 medium-sized:1 '':1 banking:1 regulation:1 time:1 small:1 aspects:1 financial:1 2010:1 law:1 man:1
+PNC	20140910	84.3	85.2	r_up	
+PNC	20140911	85.2	85.2	r_up	
+PNC	20140912	85.2	85.7	r_up	purchases:1 fueling:1 encouraging:1 sign:1 gadgets:1 hopes:1 growth:1 embrace:1 further:1 open:1 consumers:2 technology:1 away:1 better:1 their:1 lets:1 cash:1 pay:1 product:1 move:1 's:1 may:1 wallets:1 job:1 them:1 they:1 prices:1 lower:1 electronic:1 launches:1 industry:1 gasoline:1 up:1 retailers:1 credit-card:1 latest:1
+PNC	20140915	85.7	85.8	r_up	
+PNC	20140916	85.8	86.0	r_up	
+PNC	20140917	86.0	86.6	r_up	
+PNC	20140918	86.6	87.4	r_up	seen:1 last:1 would:1 favored:1 super:1 under:1 year:1 projected:1 four:1 released:1 levels:1 economic:1 regionals:1 have:1 capital:1 new:1 downturn:1 data:1 than:1 higher:1
+PNC	20140919	87.4	87.3	r_down	
+PNC	20140922	87.3	86.7	r_down	
+PNC	20140923	86.7	85.5	r_down	
+PNC	20140924	85.5	86.1	r_up	needs:1 still:1 tangible:1 get:1 lift:1 regional:1 value:1 priced:1 capital:1 below:1 book:1 but:1 listing:1 should:1 its:1 bank:1
+PNC	20140925	86.1	84.9	r_down	
+PNC	20140926	84.9	85.3	r_up	firm:1 king:1 's:2 funds:1 may:1 advisers:1 some:1 departure:1 been:1 years:1 straw:1 have:1 using:1 financial:1 final:1
+PNC	20140929	85.3	85.1	r_down	
+PNC	20140930	85.1	85.0	r_down	staying:1 doors:1 perhaps:1 advisers:1 some:1 eyeing:1 say:1 exit:1 they:1 others:1 follow:1 now:1
+PNC	20141001	85.0	84.0	r_down	information:1 ``:1 said:1 's:2 breach:1 cause:1 discussion:1 retailer:1 chief:1 manager:1 '':1 absence:1 officer:1 during:1 year:1 last:1 security:1 root:1 former:1 panel:1
+PNC	20141002	84.0	83.7	r_down	
+PNC	20141003	83.7	84.5	r_up	slipped:1 unemployment:1 hiring:1 rate:1 growth:1 wage:1 since:1 6:1 show:1 sluggish:1 economy:1 returned:1 continues:1 but:1 hopes:1 strong:1 lifting:1 persistent:1 recession:1 pace:1 below:1 time:1 first:1
+PNC	20141006	84.5	84.5	r_up	
+PNC	20141007	84.5	82.7	r_down	
+PNC	20141008	82.7	84.3	r_up	
+PNC	20141009	84.3	82.5	r_down	
+PNC	20141010	82.5	81.7	r_down	pullback:1 attractive:1 after:1 look:1 more:1

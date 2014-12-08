@@ -1,0 +1,50 @@
+ADBE	20140801	69.2	68.9	r_down	
+ADBE	20140804	68.9	68.7	r_down	
+ADBE	20140805	68.7	68.9	r_up	
+ADBE	20140806	68.9	68.2	r_down	
+ADBE	20140807	68.2	67.8	r_down	
+ADBE	20140808	67.8	68.3	r_up	
+ADBE	20140811	68.3	68.9	r_up	
+ADBE	20140812	68.9	68.7	r_down	attorney:1 proposed:1 over:1 helped:1 ready:1 watched:1 wages:1 settlement:1 engineer:1 said:1 deal:1 better:1 other:1 his:1 closely:1 refashion:1 lawsuit:1 former:1 derail:1 lost:1 work:1 plaintiffs:1
+ADBE	20140813	68.7	69.7	r_up	
+ADBE	20140814	69.7	70.0	r_up	
+ADBE	20140815	70.0	70.0	r_up	group:1 favorite:1 including:1 names:1 6:1 discusses:1 its:1
+ADBE	20140818	70.0	71.0	r_up	
+ADBE	20140819	71.0	72.0	r_up	
+ADBE	20140820	72.0	71.0	r_down	
+ADBE	20140821	71.0	71.7	r_up	
+ADBE	20140822	71.7	72.0	r_up	
+ADBE	20140825	72.0	71.8	r_down	
+ADBE	20140826	71.8	71.5	r_down	
+ADBE	20140827	71.5	71.5	r_up	
+ADBE	20140828	71.5	71.3	r_down	
+ADBE	20140829	71.3	71.9	r_up	
+ADBE	20140902	71.9	72.1	r_up	
+ADBE	20140903	72.1	72.4	r_up	
+ADBE	20140904	72.4	72.4	r_up	
+ADBE	20140905	72.4	73.1	r_up	claim:1 set:1 proposed:1 four:1 date:1 parties:1 wages:1 settlement:2 negotiations:1 out:1 workers:2 class-action:1 throw:1 current:2 suppress:1 's:1 resume:1 big:2 possible:1 pressure:1 involving:1 putting:1 they:1 judge:2 former:2 case:2 12:1 antitrust:1 companies:3 trial:1 tech:1 toward:1 decision:1
+ADBE	20140908	73.1	73.3	r_up	
+ADBE	20140909	73.3	72.4	r_down	
+ADBE	20140910	72.4	72.3	r_down	talent:1 exec:1 top:1 startup:1 sales:1 lures:1 company:1 war:1
+ADBE	20140911	72.3	72.4	r_up	current:1 trial:1 workers:1 start:1 big:1 2015:1 class-action:1 companies:1 back:1 four:1 pushed:1 involving:1 tech:1 antitrust:1 judge:1 has:1 former:1
+ADBE	20140912	72.4	70.9	r_down	
+ADBE	20140915	70.9	70.2	r_down	
+ADBE	20140916	70.2	70.7	r_up	now:1 's:2 longer:1 played:1 last:1 big:1 binge:1 fueling:1 question:1 buyback:1 run:1 much:1 role:1 record-breaking:1 has:1 market:1 stock:1
+ADBE	20140917	70.7	67.3	r_down	weaker:1 revenue:3 decline:1 trade:1 high:2 session:2 close:1 margins:1 moves:1 miss:1 its:1 market:1 closes:1 stocks:1 fell:1 46:2 third-quarter:1 shares:2 growth:1 earnings:1 expected:1 higher:2 company’s:1 after:2 's:2 reaching:1 company:1 surges:1 extended:1 slides:1 quarterly:1 modest:1 said:1 operating:1 gain:1 offset:1 estimate:1 strategic:1 fiscal:1 companies:1 consensus:1 record:2 below:1 actively:1 expenses:1 stock:1 slightly:2 comes:1 software:2
+ADBE	20140918	67.3	67.9	r_up	discloses:1 counter:1 run:1 gains:2 declines:1 losses:1 stake:2 shares:1 falls:2 while:1 activist:2 tech:1 take:1 climb:1 sector’s:1 investor:1 spotlight:1 after:1 earnings:1
+ADBE	20140919	67.9	66.9	r_down	
+ADBE	20140922	66.9	67.2	r_up	
+ADBE	20140923	67.2	67.7	r_up	deal:1 give:1 acquired:1 developed:1 down:1 held:1 kits:1 privately:1 developer:1 said:1 create:1 apps:1 other:1 has:1 development:1 used:1 's:1 iconic:1 framework:1 mobile:2 companies:1 software:1
+ADBE	20140924	67.7	69.0	r_up	may:1 beware:1 your:1 liars:1 days:1
+ADBE	20140925	69.0	67.7	r_down	
+ADBE	20140926	67.7	68.3	r_up	
+ADBE	20140929	68.3	69.2	r_up	
+ADBE	20140930	69.2	69.1	r_down	
+ADBE	20141001	69.1	67.5	r_down	gaining:1 's:2 takes:1 family:1 sit:1 text:1 tool:1 alongside:1 designed:1 your:1 member:1 photos:1 video:1 lays:1 smartly:1 new:1 pages:1 called:1 automatically:1 out:1
+ADBE	20141002	67.5	67.0	r_down	
+ADBE	20141003	67.0	68.4	r_up	
+ADBE	20141006	68.4	67.6	r_down	
+ADBE	20141007	67.6	65.9	r_down	down:1 path:1 company:1 traveling:1 one:1
+ADBE	20141008	65.9	67.9	r_up	
+ADBE	20141009	67.9	65.6	r_down	
+ADBE	20141010	65.6	63.2	r_down	

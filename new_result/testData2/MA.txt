@@ -1,0 +1,50 @@
+MA	20140801	74.0	74.8	r_up	
+MA	20140804	74.8	75.5	r_up	prevent:1 eyes:1 mainland:1 much:1 get:1 rules:1 money:1 wealthy:1 runs:1 reports:1 scrutiny:1 casinos:2 them:1 snake:1 under:1 gambling:1 skirt:1 seek:1 spotlight:1 too:1
+MA	20140805	75.5	75.0	r_down	
+MA	20140806	75.0	75.2	r_up	
+MA	20140807	75.2	73.9	r_down	
+MA	20140808	73.9	75.0	r_up	
+MA	20140811	75.0	75.5	r_up	
+MA	20140812	75.5	75.5	r_up	
+MA	20140813	75.5	76.1	r_up	
+MA	20140814	76.1	75.9	r_down	
+MA	20140815	75.9	75.1	r_down	stores:1 secure:1 hackers:1 generation:1 push:1 replace:1 likely:1 year:1 your:1 if:1 matter:1 data:1 won’t:1 next:1 cybersecurity:1 2015:1 new:2 more:1 customers:1 passwords:1 hit:1 around:1 introduce:1 early:1 cards:1 nearly:1 breach:1 technologies:1 password:1 intensify:1 grocery:1 could:1 1,000:1 credit:1 retailers:1 banks:1 steal:1 designed:1
+MA	20140818	75.1	76.6	r_up	projected:1 end:1 embedded:1 circulation:1 up:1 data:1 chip:1 year:1 debit:1 next:1 credit:1 breaches:1 wake:1 have:1 half:1 cards:1 efforts:1 boost:1 security:1 recent:1
+MA	20140819	76.6	76.2	r_down	
+MA	20140820	76.2	76.2	r_up	
+MA	20140821	76.2	76.8	r_up	
+MA	20140822	76.8	76.3	r_down	comes:1 art:1 raise:1 deal:1 many:1 companies:1 negotiating:1 their:1 master:1 but:1 landing:1 's:1 promotion:1 themselves:1 stumble:1 behalf:1
+MA	20140825	76.3	76.3	r_up	rallied:1 rapid:1 clip:1 amid:1 funds:1 results:1 split:1 second:1 strong:1 sharply:1 positions:1 quarter:1 stock:2
+MA	20140826	76.3	76.8	r_up	
+MA	20140827	76.8	76.5	r_down	
+MA	20140828	76.5	76.0	r_down	merchant:1 rating:1 among:1 trading:1 shares:1 year:1 merchants:1 now:2 acceptance:1 topped:1 1:1 favor:1 buying:1 which:1 new:1 500:1 more:1 gaining:1 ranking:1 's:1 users:1 share:1 after:1 cardholders:1 tied:1 accepting:1 highest:1 opportunity:1 downgraded:1 card:1 customer-satisfaction:1 lower:1 list:1 according:2 spy:1 credit:1 survey:1 cards:2 consumer:1
+MA	20140829	76.0	75.7	r_down	
+MA	20140902	75.7	75.4	r_down	index:1 20:1 14:1 boring:1 beaten:1 years:1 picks:1 has:1
+MA	20140903	75.4	75.8	r_up	get:1 mobile:1 lucrative:1 payments:1 potentially:1 piece:1 rushing:1 market:1
+MA	20140904	75.8	76.2	r_up	customer:1 information:1 account:1 replaces:1 's:1 expiration:1 series:1 validates:1 dates:1 numbers:2 cardholder:1 rolling:1 such:1 unique:1 technology:1 identity:1 out:1
+MA	20140905	76.2	76.7	r_up	prevent:1 days:1 technology:1 better:1 pressured:1 cares:1 implementation:1 speed:1 question:1 same:1 anyone:1 start:1 much:1 rates:1 card:2 interest:1 debit:1 smart:1 do:1 's:1 but:1 theft:1 not:1 raising:1 peers:1 these:1 could:1 up:1 credit:1
+MA	20140908	76.7	76.1	r_down	golden:1 show:1 catalysts:1 likely:1 have:1 seen:1 sentiment:1 there:1 boot:1 two:1 only:1 other:1 expected:1 product:1 's:1 smartwatch:1 possibly:1 unveilings:1 off:1 builds:1 ahead:1 redesigned:1 excitement:1 bag:1 products:1 whole:1 investors’:1 buoy:1
+MA	20140909	76.1	75.9	r_down	available:1 purchases:1 use:1 already:1 's:2 want:1 people:1 phones:2 clear:1 n't:1 their:1 uses:1 widely:1 services:1 new:1 technology:1 make:1
+MA	20140910	75.9	76.5	r_up	month:1 its:2 also:1 writes:1 systems:1 has:1 lending:1 do:1 customers:1 smartphone:1 smartwatches:1 get:1 world:1 did:1 companies:3 token:1 habits:1 payments:2 security:2 financial:2 phones:2 some:2 competition:1 devices:1 unveils:1 said:2 consumers:1 benefit:1 inject:1 reader:1 new:2 firms:1 issue:1 available:1 beginning:1 appears:1 change:1 improve:1 larger:1 fast-growing:1 against:1 plunging:1 credit:1 swiping:1 via:1 secure:1 into:3 two:1 screens:1 simply:1 electronic:1 your:1 market:2 van:1 service:1 spending:1 three:1 next:1 their:2 way:1 biggest:1 more:2 introducing:1 ``:2 buy:1 but:1 hopes:1 than:1 made:1 room:1 these:2 aims:1 easier:1 cards:1 called:1 purchases:1 tap:1 digital-wallet:1 coolness:1 '':2 experts:1 something:1 need:1 technology:1 make:2 means:1 field:1 online:1 you:1 's:2 transactions:1 paid:1 tries:1 moving:1 plan:1 segment:1 forever:1 mobile:2 traditional:1 time:1
+MA	20140911	76.5	75.5	r_down	shop:1 purchases:1 now:1 already:1 mojo:1 help:1 partnering:1 phones:1 over:1 networks:1 back:1 competition:2 years:1 set:2 devices:1 have:1 fees:4 news:1 morning:1 rounds:1 reasons:1 interchange:2 believe:1 group:1 consumers:1 pay:1 decision:2 acceptance:1 system:1 been:2 cross-border:2 other:1 3:1 setting:1 upheld:1 low:1 which:1 digital:1 has:4 invade:1 's:2 get:1 rules:1 ban:2 watches:1 they:1 critics:1 backed:1 court:2 trying:1 card:1 case:1 least:1 service:1 up:2 reports:1 loses:1 wallet:1 popular:1 found:1 grounds:1 its:1 top:1 breached:1
+MA	20140912	75.5	75.3	r_down	purchases:1 financial:1 just:1 move:1 some:1 them:1 one:1 gadgets:1 services:1 say:2 writes:1 embrace:1 pass:1 further:1 only:1 electronic:1 its:1 closer:1 consumers:1 pay:1 away:1 partnership:1 system:1 than:1 lets:1 which:1 new:1 technology:1 product:1 fueling:1 's:1 risk:2 time:1 incentives:1 you:1 banks:1 they:1 hopes:1 payment:1 launches:1 industry:1 cash:1 think:1 matter:1 credit-card:1 usually:1 experts:2 taking:1 latest:1
+MA	20140915	75.3	75.1	r_down	
+MA	20140916	75.1	76.4	r_up	prospect:1 ad:2 tepid:1 indulge:1 some:1 sales:1 '':1 twin:1 have:1 ready:1 fear:1 surge:1 networks:1 impact:1 spending:1 been:1 its:2 looking:1 fall:1 high:2 rattled:1 new:1 weeks:1 has:1 stock:1 ``:1 's:2 business:1 may:1 season:2 weaker-than-expected:1 dire:1 coming:1 not:1 upfront:1 advance:1 times:1 banking:1 tech:1 following:1
+MA	20140917	76.4	76.1	r_down	associated:1 exposed:1 reissue:1 accounts:1 have:2 whose:1 people:1 been:1 unions:1 debit:1 breach:2 thousands:1 lookout:1 customers:1 transactions:1 may:1 familiar:1 cards:2 data:2 recent:1 according:1 credit:2 banks:1 situation:1 starting:1
+MA	20140918	76.1	77.6	r_up	
+MA	20140919	77.6	77.1	r_down	
+MA	20140922	77.1	76.0	r_down	's:1 there:1 while:1 maintain:1 can:1 margins:1 concerns:1 improve:1
+MA	20140923	76.0	75.4	r_down	stores:1 debit-card:1 high:1 groceries:1 have:1 hack:1 technology:1 even:1 information:1 use:1 criminals:1 expectations:1 their:1 mobile-payment:1 electronics:1 across:1 buy:1 prepaid:1 transactions:1 showing:1 attention:1 stolen:1 up:1 turn:1 analysts:1 cards:1 toward:1
+MA	20140924	75.4	76.9	r_up	do:1 begin:1 end:1 plans:1 offering:1 checking:1 overdraft:1 within:1 retailer:1 next:1 n't:1 charge:1 accounts:1 fees:1 banks:1 month:1 contrast:1
+MA	20140925	76.9	74.6	r_down	mobile:1 should:1 other:1 know:1 new:1 services:1 using:1 you:1 payment:1
+MA	20140926	74.6	74.9	r_up	
+MA	20140929	74.9	74.4	r_down	give:1 some:1 years:1 pitch:1 seen:1 investment:1 causes:1 before:1 even:1 business:1 giving:1 elite:1 visit:1 opportunities:1 their:1 biggest:1 extensive:1 several:1 meeting:1 them:1 form:1 club:1 levels:1 if:1 minister:1 courts:1 not:2 beginning:1 prime:1 companies:1 first:1
+MA	20140930	74.4	73.8	r_down	major:1 secure:1 people:1 chip:1 move:1 mainly:1 his:1 through:1 follow:1 technology:1 its:1 previous:1 different:1 said:2 away:1 support:1 winning:1 other:1 debit:2 issue:1 over:1 more:1 sure:1 government:1 cards:2 voter:1 moving:1 groups:1 generate:1 bank:1 he:1 approach:1 banks:1 focused:1 ‘chips’:1 first:1
+MA	20141001	73.8	73.2	r_down	spinoff:1 mostly:1 find:1 suitor:1 bearish:1
+MA	20141002	73.2	73.3	r_up	
+MA	20141003	73.3	74.2	r_up	indie:1 film:1 whose:1 takes:1 writes:1 father:1 payments:1 role:1 digital:1 new:1 more:2 wants:1 business:1 may:1 free:1 let:1 coming:1 him:1 roles:1 could:1 stronger:1 without:1 compete:1 planned:1 pick:1 bidder:1
+MA	20141006	74.2	74.4	r_up	
+MA	20141007	74.4	72.9	r_down	says:1 give:1 share:1 hardware:1 say:1 experts:2 year:1 seen:1 message:1 technology:1 advancing:1 before:1 opportunity:1 next:1 breaches:2 mobile-payment:1 provider:1 breach:1 has:1 boost:1 more:2 regain:1 offering:1 after:1 systems:1 market:1 new:1 services:1 data:3 protect:1 credit:1 cards:1 latest:1
+MA	20141008	72.9	74.0	r_up	
+MA	20141009	74.0	71.8	r_down	
+MA	20141010	71.8	70.5	r_down	prevent:1 simple:1 accept:1 heard:1 year:1 seem:1 best:1 if:1 profitable:1 merchants:1 based:1 federal:1 arguments:1 writes:1 winner:1 rivals:1 returns:1 earnings:1 expected:1 you:1 might:1 stock:1 customers:1 you’ll:1 get:1 rules:1 end:1 but:1 most:1 were:1 judge:1 van:1 stocks:1 steering:1 case:1 companies:1 rule:1 pick:1 cards:1

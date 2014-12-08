@@ -1,0 +1,50 @@
+SCHW	20140801	27.6	27.3	r_down	inversion:1 owe:1 involved:1 companies:1 deals:1 likely:1 tax:1 capital-gains:1
+SCHW	20140804	27.3	27.6	r_up	we:2 differences:1 investors:1 offer:1 found:1 make:1 manage:1 them:1 free:1 tested:1 out:1 brokers:1 online:1 portfolio:1 now:1 tools:1 easier:1 build:1
+SCHW	20140805	27.6	27.3	r_down	upside:1 have:1
+SCHW	20140806	27.3	27.5	r_up	remember:1 effective:1 simple:1 marketing:1 campaigns:1 most:1 ones:1 easy:1
+SCHW	20140807	27.5	27.1	r_down	
+SCHW	20140808	27.1	27.6	r_up	
+SCHW	20140811	27.6	27.7	r_up	
+SCHW	20140812	27.7	27.6	r_down	
+SCHW	20140813	27.6	27.5	r_down	
+SCHW	20140814	27.5	27.6	r_up	
+SCHW	20140815	27.6	27.2	r_down	financial-services:1 ads:1 consumers:1 give:1 commercials:1 picks:1 their:1 stick:1 time:1 over:1
+SCHW	20140818	27.2	27.8	r_up	
+SCHW	20140819	27.8	27.8	r_up	
+SCHW	20140820	27.8	28.3	r_up	
+SCHW	20140821	28.3	28.4	r_up	
+SCHW	20140822	28.4	28.5	r_up	donors:1 gift:1 fund:1 advised:1 charitable:1 benefit:1 donations:1 making:1 through:1 trust:1
+SCHW	20140825	28.5	28.9	r_up	
+SCHW	20140826	28.9	28.8	r_down	
+SCHW	20140827	28.8	28.4	r_down	claim:2 least:2 15:3 $:3 10:2 advisers:2 over:2 million:2 damage:2 rejected:2 hiring:2 against:2 former:2
+SCHW	20140828	28.4	28.3	r_down	
+SCHW	20140829	28.3	28.5	r_up	
+SCHW	20140902	28.5	28.7	r_up	
+SCHW	20140903	28.7	28.1	r_down	
+SCHW	20140904	28.1	28.4	r_up	
+SCHW	20140905	28.4	28.6	r_up	
+SCHW	20140908	28.6	28.8	r_up	
+SCHW	20140909	28.8	28.6	r_down	
+SCHW	20140910	28.6	29.3	r_up	
+SCHW	20140911	29.3	29.2	r_down	
+SCHW	20140912	29.2	29.5	r_up	living:1 cut:1 off:1 laundering:1 evasion:1 being:1 brokerages:1 clear:1 tax:1 institutions:1 crackdown:1 money:1 banks:1 financial:1 seek:1 abroad:1 steer:1
+SCHW	20140915	29.5	29.2	r_down	
+SCHW	20140916	29.2	29.4	r_up	
+SCHW	20140917	29.4	30.2	r_up	
+SCHW	20140918	30.2	30.7	r_up	
+SCHW	20140919	30.7	30.3	r_down	stock:1 all:1 financial:2 one-third:1 year:4 portfolio:1 still:2 your:1 best:2 advisers:2 3:2 1:2 their:2 charge:2 does:1 4:2 which:2 expected:2 you:1 take:2 adviser:1 return:2 risk:1 after:2 inflation:2 services:2 world:2 stocks:1 up:1 taxes:2 long-term:2 reward:1
+SCHW	20140922	30.3	30.1	r_down	
+SCHW	20140923	30.1	29.8	r_down	later:1 sometimes:1 focus:1 three:1 most:1 only:1 cost:1 obvious:1 can:1 fees:1 catch:1 you:1 investment:1
+SCHW	20140924	29.8	29.9	r_up	
+SCHW	20140925	29.9	29.5	r_down	
+SCHW	20140926	29.5	29.9	r_up	
+SCHW	20140929	29.9	29.7	r_down	
+SCHW	20140930	29.7	29.3	r_down	
+SCHW	20141001	29.3	28.7	r_down	
+SCHW	20141002	28.7	29.0	r_up	
+SCHW	20141003	29.0	29.5	r_up	
+SCHW	20141006	29.5	29.7	r_up	
+SCHW	20141007	29.7	28.4	r_down	
+SCHW	20141008	28.4	28.7	r_up	
+SCHW	20141009	28.7	27.1	r_down	account:2 risk:1 into:1 protect:1 cyber:1 yourself:1 have:1 thieves:1 know:1 hacked:2 brokerage:1 your:2
+SCHW	20141010	27.1	26.2	r_down	

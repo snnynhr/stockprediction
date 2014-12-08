@@ -1,0 +1,50 @@
+SHLD	20140801	37.7	36.8	r_down	
+SHLD	20140804	36.8	37.2	r_up	
+SHLD	20140805	37.2	36.6	r_down	purchases:1 prompting:1 into:1 sales:1 ducklings:1 's:1 turn:1 slow:1 waits:1 make:1 their:1 low:1 which:1 online:1 shoppers:1 openings:1 chains:1 until:1 store:2 more:1 weighing:1 buys:1 traffic:1 they:1 swans:1 drop:1 persistent:1 facing:1 ugly:1 retailers:1 steep:1 turnover:1
+SHLD	20140806	36.6	36.9	r_up	
+SHLD	20140807	36.9	36.6	r_down	
+SHLD	20140808	36.6	37.4	r_up	
+SHLD	20140811	37.4	37.2	r_down	
+SHLD	20140812	37.2	35.7	r_down	
+SHLD	20140813	35.7	35.4	r_down	customers:1 full:2 stores:2 would:1 almost:1 pay:2 price:2 never:1 crazy:1 should:1 their:1 5:1 frequently:1 release:1 so:1 you:1 coupons:1
+SHLD	20140814	35.4	35.3	r_down	
+SHLD	20140815	35.3	34.7	r_down	
+SHLD	20140818	34.7	34.7	r_up	says:1 sales:1 research:1 beats:1 other:1 earnings:1 possible:1 's:1 strong:1 checks:1 channel:1 points:1
+SHLD	20140819	34.7	35.1	r_up	
+SHLD	20140820	35.1	35.5	r_up	
+SHLD	20140821	35.5	33.0	r_down	raised:1 list:1 sales:1 one:1 session:1 our:1 its:1 van:1 guidance:1 winner:1 shares:1 only:1 expected:1 today:1 more:1 ...:1 's:1 but:1 robust:1 trade:1 vs.:1 posted:1 companies:2 actively:1 writes:1
+SHLD	20140822	33.0	32.7	r_down	prompting:1 retailer:1 results:1 up:1 second:1 through:1 wider:2 its:2 sheet:1 additional:1 while:1 burned:1 drops:1 more:1 weighing:1 falls:1 gain:2 quarter:1 losses:3 cash:1 shore:1 steps:1 balance:1 say:1 once:1
+SHLD	20140825	32.7	33.0	r_up	
+SHLD	20140826	33.0	34.2	r_up	
+SHLD	20140827	34.2	35.5	r_up	
+SHLD	20140828	35.5	35.0	r_down	
+SHLD	20140829	35.0	34.4	r_down	
+SHLD	20140902	34.4	33.7	r_down	
+SHLD	20140903	33.7	31.9	r_down	
+SHLD	20140904	31.9	32.6	r_up	
+SHLD	20140905	32.6	33.0	r_up	
+SHLD	20140908	33.0	32.9	r_down	billion:1 buy:1 's:2 plans:1 business:1 would:1 deal:1 3.3:1 appliances:1 put:1 group:1 head-to-head:1 $:1
+SHLD	20140909	32.9	32.5	r_down	
+SHLD	20140910	32.5	33.2	r_up	being:1 second:1 its:3 ratings:1 said:1 profit:1 rose:1 since:1 4.9:2 only:1 citing:1 earnings:1 spun:1 's:2 company:2 burn:1 report:1 second-quarter:1 fiscal:1 off:1 drop:1 cash:1 credit:1 steep:1
+SHLD	20140911	33.2	34.2	r_up	movers:1 big:1 all:1 hit:1 falls:1
+SHLD	20140912	34.2	33.9	r_down	
+SHLD	20140915	33.9	33.1	r_down	summer:1 over:1 after:1 's:2 $:2 giving:1 retailer:1 cash:1 million:1 borrowing:1 infusion:1 holidays:1 fund:1 through:1 400:2 hedge:1 burned:1
+SHLD	20140916	33.1	30.0	r_down	summer:1 loan:1 retailer:1 trade:1 session:1 through:1 $:1 shares:1 400:1 expected:1 burned:1 over:1 gives:1 million:1 's:3 after:1 infusion:1 holidays:1 fund:2 hedge:2 companies:1 cash:1 actively:1 borrows:1
+SHLD	20140917	30.0	29.2	r_down	
+SHLD	20140918	29.2	27.7	r_down	
+SHLD	20140919	27.7	27.3	r_down	2016:1 analysts:1 's:1 could:1 sales:1 up:1 say:1 short:1 planned:1 go:1 end:1 if:1 come:1 asset:1
+SHLD	20140922	27.3	27.1	r_down	
+SHLD	20140923	27.1	27.3	r_up	
+SHLD	20140924	27.3	26.1	r_down	money:1 loan:1 retailer:1 through:1 short-term:1 said:1 $:1 would:1 take:1 400:1 surprise:1 holiday:1 might:1 chunk:1 week:1 get:1 season:1 million:1 come:1 last:1 large:1 out:1
+SHLD	20140925	26.1	25.3	r_down	help:1 loan:1 retailer:1 primed:1 one:1 past:1 helm:1 growth:1 through:1 year:1 100:2 resigned:1 its:1 short-term:1 huge:1 said:1 van:1 $:2 writes:1 two:1 winners:1 passed:1 holiday:1 auto-parts:1 after:1 's:1 get:1 season:1 million:1 sales:1 fund:1 franchise:1 hedge:1 quarters:1 posted:1 fly:1 10:1 has:3 radar:1 losses:1 up:1 network:1 below:1 affiliate:1 retailers:1 including:1
+SHLD	20140926	25.3	24.5	r_down	
+SHLD	20140929	24.5	25.7	r_up	
+SHLD	20140930	25.7	24.9	r_down	
+SHLD	20141001	24.9	24.9	r_up	
+SHLD	20141002	24.9	26.7	r_up	51:1 some:1 trade:1 session:1 unveiled:1 measure:1 its:2 sell:1 shareholders:1 stake:1 shares:1 're:1 expected:1 new:1 more:1 we:1 's:1 most:1 involving:1 plan:1 stocks:1 off:1 companies:1 actively:1 time:1 eyeing:1 liquidity:1
+SHLD	20141003	26.7	27.9	r_up	over:1 private:1 cash:1 including:1 year:1 need:1 next:1 its:3 ability:1 raise:1 pay:1 stake:1 your:1 majority:1 concerns:1 turnaround:1 equity:1 biggest:1 has:1 more:1 may:1 finance:1 beat:1 funds:1 company:1 news:1 hedge:1 now:1 sale:1 banks:1 bills:1
+SHLD	20141006	27.9	28.8	r_up	commerce:1 managing:1 into:1 one:1 services:1 report:1 various:1 organization:1 promoted:1 role:1 learned:1 has:2 him:1 merged:1 he:1
+SHLD	20141007	28.8	29.9	r_up	
+SHLD	20141008	29.9	28.5	r_down	financial:1 prompted:1 investors:1 obligations:1 moved:1 sales:1 up:1 '':1 report:1 flexibility:1 through:1 fewer:1 swinging:1 stores:1 still:1 its:4 out:1 confidence:1 said:2 raise:1 retailer:1 media:1 missing:1 shares:1 forecast:1 current:1 turnaround:1 statement:1 shoppers:1 struggling:1 has:1 stock:1 shipments:1 ``:1 vendor:1 hopes:1 get:1 season:1 price:1 after:1 bought:1 but:1 else:1 halted:1 cut:1 fell:1 significant:1 press:1 come:1 holiday:1 sharply:1 anything:1 actually:1 morning:1 cash:1 reports:1 worried:1 slide:1 turned:1 have:1 meet:1 chain:1 quarter:1 steep:1 department-store:1
+SHLD	20141009	28.5	26.0	r_down	saying:1 reinvigorate:1 executive:1 long-running:1 sales:1 quarters:1 down:1 year:1 surprises:1 next:1 advisories:1 earnings:1 has:1 brand:1 more:1 company’s:1 recently:1 reversed:1 slump:1 but:1 step:1 he:1 roundup:1 namesake:1 companies:1 reports:1 chief:1 future:1 corporate:1 latest:1
+SHLD	20141010	26.0	24.5	r_down	major:1 said:1 stores:1 string:1 hackers:1 attacked:1 been:1 payment:1 have:1 systems:1 retailers:1 were:1 breached:1 latest:1 its:1 software:1

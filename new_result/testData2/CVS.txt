@@ -1,0 +1,50 @@
+CVS	20140801	76.1	76.2	r_up	
+CVS	20140804	76.2	77.1	r_up	25:1 account:1 said:1 's:2 plans:1 revenue:1 drugs:1 them:1 drug:2 hampered:1 contract:1 need:1 costs:1 expiration:1 wholesaler:1 more:1 its:1 declined:1 know:1
+CVS	20140805	77.1	77.0	r_down	shop:1 saying:1 stores:2 pointing:1 major:1 quarters:1 session:2 including:1 wolf:1 years:1 its:5 slow:1 $:2 surprises:1 advisories:1 premarket:1 openings:1 day’s:1 gains:1 big:1 handily:1 results:1 traffic:1 not:1 bit:1 trade:2 like:1 drop:2 companies:4 slumps:1 deals:1 whether:1 retailers:1 each:1 businesses:1 tumble:1 estimates:1 sign:1 past:1 actively:2 trading:1 best:1 facing:1 said:2 drugstores:1 cried:1 shares:2 acting:1 beating:1 chains:1 full:1 weighing:1 creating:1 business:1 roundup:1 boy:1 watchers:1 movers:1 reports:1 products:1 rose:1 retail:1 traded:1 outlook:1 due:1 market:3 has:1 publishing:1 few:1 remains:1 question:1 two:1 their:1 growth:1 shoppers:1 store:2 more:1 buy:3 drugs:1 company:1 expected:2 lowered:1 spin:1 second-quarter:3 11:1 grocery:1 include:1 publicly:1 these:1 future:1 steep:1 purchases:1 false:1 prompting:1 1.8:1 sales:2 proven:1 promotional:1 warning:1 markdowns:1 confirmed:1 things:1 make:1 4.8:1 5:1 earnings:2 which:1 online:1 instead:1 stock:2 experienced:1 's:3 separate:1 fell:1 ownership:1 services:1 stocks:1 billion:1 off:1 big-box:1 alarm:1 persistent:1 corporate:1 latest:1
+CVS	20140806	77.0	76.7	r_down	managers:1 cost:1 still:1 increased:1 removing:1 two:1 pharmacy:1 their:1 which:1 largest:1 covered:1 more:1 's:1 generates:1 drugs:1 nation:1 known:1 benefits:1 prescription:1 medicines:2 list:1 controversy:1
+CVS	20140807	76.7	75.8	r_down	billion:1 1.5:1 $:1 offering:1 flow:1 reduce:1 profitability:1 expenses:1 much:1 interest:1 cash:1 repurchase:1 debt:1 effort:1 its:2 improve:1
+CVS	20140808	75.8	77.5	r_up	
+CVS	20140811	77.5	78.1	r_up	
+CVS	20140812	78.1	78.4	r_up	
+CVS	20140813	78.4	78.6	r_up	
+CVS	20140814	78.6	79.0	r_up	sector:1 wage:1 fails:1 still:1 's:1 showed:1 stronger:1 improvement:1 growth:1 deliver:1 off:1 nation:1 spending:1 lift:1 labor:1 standstill:1 struggling:1 retail:1 market:1 economy:1
+CVS	20140815	79.0	78.6	r_down	
+CVS	20140818	78.6	78.8	r_up	
+CVS	20140819	78.8	79.2	r_up	giant:1 business:1 pressured:1 after:1 prescription-drug:1 related:1 pharmacy:2 leave:1 chief:1 forecast:1 drugstore:1 its:2 profits:1
+CVS	20140820	79.2	79.3	r_up	
+CVS	20140821	79.3	78.7	r_down	
+CVS	20140822	78.7	78.9	r_up	all:1 says:1 possible:1 assess:1 report:1 continue:1 spinoff:2 resurfaces:1 response:1
+CVS	20140825	78.9	78.9	r_up	
+CVS	20140826	78.9	79.0	r_up	
+CVS	20140827	79.0	79.1	r_up	
+CVS	20140828	79.1	79.1	r_up	faced:1 available:1 peers:1 reverse:1 widely:1 make:1 pushing:1 drug:1 states:1 their:1 loved:1 ones:1 can:1 which:1 users:1 more:1
+CVS	20140829	79.1	79.1	r_up	
+CVS	20140902	79.1	79.4	r_up	
+CVS	20140903	79.4	80.0	r_up	ahead:1 twinkies:1 unhealthy:1 chain:1 one:1 booze:1 itself:1 sells:2 still:1 its:2 products:2 things:1 health:1 5:1 ends:1 selling:1 schedule:1 but:1 new:2 month:1 tobacco:2 customer:1 name:4 renames:1 changed:1 sale:1 purge:1 cigarettes:1 stopped:1 corporate:1 comes:1
+CVS	20140904	80.0	80.0	r_up	cancer:1 sales:1 billions:1 cost:1 extinguishes:1 $:1 expected:1 new:1 week:1 patient:1 drugs:2 hefty:1 focus:1 prices:1 class:1 harbinger:1 sheds:1 tobacco:1 average:1 annual:1 sale:1 command:1 promising:1 went:1 first:1
+CVS	20140905	80.0	81.3	r_up	
+CVS	20140908	81.3	81.1	r_down	
+CVS	20140909	81.1	80.5	r_down	customers:1 medications:1 prescription:1 get:1 clinics:1 off:1 soon:1 back:1 unused:1 drugs:1 street:1 take:1 allow:1 such:1 authorities:1 pharmacies:1 effort:1 addictive:1 painkillers:1
+CVS	20140910	80.5	80.6	r_up	
+CVS	20140911	80.6	80.8	r_up	order:1 round:1 applause:1
+CVS	20140912	80.8	80.3	r_down	
+CVS	20140915	80.3	80.9	r_up	
+CVS	20140916	80.9	81.9	r_up	
+CVS	20140917	81.9	81.9	r_up	
+CVS	20140918	81.9	80.9	r_down	articles:1 's:2 look:1 both:1 big:1 implications:1 sides:1 pond:1 investment:1 developments:1
+CVS	20140919	80.9	81.1	r_up	
+CVS	20140922	81.1	80.3	r_down	
+CVS	20140923	80.3	79.7	r_down	agreed:1 competition:1 one:1 consumer-products:1 its:4 market:1 out:1 giant:1 said:1 driving:1 few:1 generic:1 fight:1 rivals:1 won:1 potentially:1 exit:1 remaining:2 division:1 's:2 business:1 acquire:1 care:1 protect:1 completing:1 pet:1 victory:1
+CVS	20140924	79.7	80.5	r_up	
+CVS	20140925	80.5	79.5	r_down	
+CVS	20140926	79.5	80.0	r_up	
+CVS	20140929	80.0	79.7	r_down	
+CVS	20140930	79.7	79.3	r_down	tests:2 groups:1 claiming:1 process:1 companies:1 could:1 sparked:1 some:1 back:1 scrutiny:1 scaling:1 hiring:1 workplace:1 have:1 discrimination:1
+CVS	20141001	79.3	78.8	r_down	
+CVS	20141002	78.8	79.7	r_up	secret:1 sometimes:1 success:1
+CVS	20141003	79.7	81.0	r_up	
+CVS	20141006	81.0	81.0	r_up	
+CVS	20141007	81.0	80.7	r_down	
+CVS	20141008	80.7	82.2	r_up	
+CVS	20141009	82.2	81.6	r_down	end:1 theft:1 shifts:1 whether:1 employees:1 work:1 paid:1 should:1 being:1 they:1 time:1 warehouse:1 spend:1
+CVS	20141010	81.6	82.2	r_up	promises:1 requiring:1 years:1 say:1 tag:1 have:1 carefully:1 $:1 patients:1 hepatitis:1 treading:1 other:1 new:1 price:1 lawyers:1 100,000:1 employers:1 most:1 nearly:1 approval:1 recent:1 received:1 benefits:1 programs:2 wellness:2 medicines:1 drug:2 carries:1 without:1 cure:1 comes:1 executives:1

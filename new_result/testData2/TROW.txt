@@ -1,0 +1,50 @@
+TROW	20140801	77.2	77.2	r_up	
+TROW	20140804	77.2	77.1	r_down	
+TROW	20140805	77.1	76.6	r_down	billion:1 valued:1 funding:1 $:1 company:1 its:1 1:1 than:1 round:1 more:1
+TROW	20140806	76.6	77.2	r_up	
+TROW	20140807	77.2	76.3	r_down	
+TROW	20140808	76.3	77.6	r_up	
+TROW	20140811	77.6	77.9	r_up	
+TROW	20140812	77.9	77.9	r_up	
+TROW	20140813	77.9	78.1	r_up	150:2 raised:1 managers:1 cybersecurity:1 lock:1 prompt:1 some:1 back:1 private:1 one:1 down:1 startup:1 financial:1 market:1 '':1 $:2 system:1 largest:1 new:1 has:1 turmoil:1 ``:1 big:1 showing:1 million:1 regulations:1 fund:1 step:1 accepting:1 repo:1 smartphones:1 experiencing:1 up:1 departments:1 banks:1 corporate:1 investments:1 software:1
+TROW	20140814	78.1	78.1	r_up	
+TROW	20140815	78.1	77.3	r_down	losses:1 filing:1 initial:1 plans:1 offering:1 million:1 retailer:1 up:1 but:1 raise:1 regulatory:1 according:1 pile:1 disclosed:1 350:1 growing:1 expenses:1 public:1 $:1
+TROW	20140818	77.3	78.3	r_up	
+TROW	20140819	78.3	78.2	r_down	
+TROW	20140820	78.2	79.0	r_up	
+TROW	20140821	79.0	79.3	r_up	
+TROW	20140822	79.3	79.2	r_down	donors:1 gift:1 fund:1 advised:1 charitable:1 benefit:1 donations:1 making:1 through:1 trust:1
+TROW	20140825	79.2	80.2	r_up	
+TROW	20140826	80.2	80.4	r_up	
+TROW	20140827	80.4	80.2	r_down	booming:1 again:1 biotech:1 spring:1 selloff:1 stocks:1
+TROW	20140828	80.2	80.3	r_up	
+TROW	20140829	80.3	80.5	r_up	
+TROW	20140902	80.5	80.2	r_down	lower:1 since:1 gains:1 mostly:1 monthly:1 largest:1 back:1 ended:1 increases:1 pulling:1 were:1 stocks:1 500:2
+TROW	20140903	80.2	80.2	r_up	
+TROW	20140904	80.2	80.5	r_up	
+TROW	20140905	80.5	80.7	r_up	
+TROW	20140908	80.7	80.5	r_down	
+TROW	20140909	80.5	79.9	r_down	
+TROW	20140910	79.9	79.7	r_down	
+TROW	20140911	79.7	79.7	r_up	
+TROW	20140912	79.7	79.5	r_down	financial:1 people:1 being:1 brokerages:1 over:1 tax:1 trade:1 clear:1 single:1 session:1 6.2:1 close:1 turning:1 seek:1 investment:1 living:1 cut:1 evasion:1 shares:1 abroad:1 crackdown:1 between:1 stock:1 firm:1 's:3 laundering:1 familiar:1 sold:1 million:1 volume:1 than:1 off:1 money:1 double:1 average:1 according:1 daily:1 matter:1 banks:1 more:1 institutions:1 steer:1
+TROW	20140915	79.5	78.9	r_down	investors:1 back:1 year:1 market:1 use:1 strong:1 suggest:1 writes:1 it’s:1 charts:1 fund:1 failed:1 shows:1 good:1 but:1 most:1 target-date:2 know:1 they:1 coming:1 stocks:1 failure:1 these:1 properly:1
+TROW	20140916	78.9	79.0	r_up	emerging:1 cut:1 managers:1 prompting:1 back:1 fund:1 rates:1 interest:1 markets:1 investments:1 higher:1
+TROW	20140917	79.0	79.3	r_up	
+TROW	20140918	79.3	80.2	r_up	
+TROW	20140919	80.2	80.0	r_down	
+TROW	20140922	80.0	79.1	r_down	
+TROW	20140923	79.1	79.0	r_down	reports:1 off:1 questions:1 investors:1 structure:1 faces:1 reason:1 but:1 hitch:1 e-commerce:1 say:1 without:1 analysts:1 have:1 listing:1 market:1 went:1 its:1 worry:1
+TROW	20140924	79.0	79.6	r_up	
+TROW	20140925	79.6	78.7	r_down	
+TROW	20140926	78.7	79.2	r_up	even:1 lower:1 retirement:1 off:1 people:1 pay:1 sometimes:1 tax:1 rate:1 accounts:1 can:1 expect:1
+TROW	20140929	79.2	78.5	r_down	move:1 still:1 its:2 even:1 shareholders:1 $:2 start:1 make:1 fight:1 favor:1 intends:1 math:1 's:3 offer:1 big:1 bid:1 continues:1 negotiating:1 reiterated:1 takeover:1 pursuit:1 opposition:1 despite:1 recent:1 billion:2 hostile:3 calls:1 --:1 clear:1 53:2 crystal:1
+TROW	20140930	78.5	78.4	r_down	
+TROW	20141001	78.4	77.0	r_down	advisory:1 major:1 into:1 global:1 site:1 currency:1 want:1 vote:1 home:1 happen:1 any:1 confirmed:1 said:1 funding:1 $:2 factors:1 make:1 should:1 their:1 report:1 critical:1 strike:1 new:1 weeks:1 has:1 might:1 bid:1 firm:1 's:1 coming:1 company:1 million:1 helping:1 shareholder:1 proxy:1 fall:1 prepares:1 165:2 received:1 handling:1 hostile:1 put:1 e-commerce:1 push:1 acquisition:1
+TROW	20141002	77.0	77.4	r_up	
+TROW	20141003	77.4	77.8	r_up	
+TROW	20141006	77.8	78.1	r_up	wants:1 godfather:1 pioneer:1 investing:1 doing:1 music:1 did:1
+TROW	20141007	78.1	76.3	r_down	
+TROW	20141008	76.3	77.5	r_up	billion:1 rush:1 funding:1 $:1 49:1 many:1 no:1 companies:1 number:1 least:1 public:1 1:1 record:1 see:1 private:1 have:1 go:1 highest:1 valuation:1 find:1 more:1
+TROW	20141009	77.5	75.9	r_down	
+TROW	20141010	75.9	75.3	r_down	

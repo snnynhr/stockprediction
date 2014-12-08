@@ -1,0 +1,50 @@
+CME	20140801	73.4	73.7	r_up	
+CME	20140804	73.7	73.7	r_up	
+CME	20140805	73.7	73.2	r_down	high-speed:1 's:1 network:1 deal:1 jumped:1 into:1 acquire:1 microwave:1 linking:1 flagship:1 stock-exchange:1 race:1 trading:1 operator:1 markets:1
+CME	20140806	73.2	73.1	r_down	major:1 financial:2 investors:1 yen:1 into:1 global:1 moved:1 sign:2 rate:2 growth:1 rising:1 year:1 its:2 requirements:2 tensions:1 girding:2 next:1 concerns:1 over:2 interest-rate:2 customers:2 currencies:1 possible:2 most:2 increases:2 services:2 using:2 haven:1 raising:2 gained:1 assets:1 amid:1 against:1 institutions:2 margin:2 other:1 latest:2
+CME	20140807	73.1	72.7	r_down	
+CME	20140808	72.7	72.9	r_up	
+CME	20140811	72.9	72.9	r_up	
+CME	20140812	72.9	72.7	r_down	
+CME	20140813	72.7	73.0	r_up	
+CME	20140814	73.0	73.1	r_up	traders:1 head:1 's:1 hoping:1 unveiling:1 metal:1 benchmark:1 off:1 producers:1 concerns:1 market:1 credibility:1 new:1 silver:1 lingering:1
+CME	20140815	73.1	72.9	r_down	via:1 house:1 executive:1 am:1 private:1 '':1 set:1 trading:1 electronic:3 conference:1 said:2 based:1 few:1 fixing:1 fix:2 system:1 seconds:1 call:1 goes:1 under:1 ``:1 which:1 replacing:1 benchmark:2 metals:1 data:2 silver:1 first-ever:1 daily:2 chief:1 time:2 banks:1 providing:1 first:1
+CME	20140818	72.9	73.3	r_up	
+CME	20140819	73.3	73.0	r_down	
+CME	20140820	73.0	73.7	r_up	
+CME	20140821	73.7	74.1	r_up	investors:1 allure:1 rates:1 interest:1 losing:1 brace:1 its:1 higher:1
+CME	20140822	74.1	74.4	r_up	investors:1 bonds:1 rose:1 signal:1 days:1 four:1 patience:1 continue:1 rates:1 expect:1 interest:1 time:1 speech:1 raising:1 first:1
+CME	20140825	74.4	75.1	r_up	
+CME	20140826	75.1	75.8	r_up	
+CME	20140827	75.8	75.9	r_up	
+CME	20140828	75.9	76.1	r_up	
+CME	20140829	76.1	76.0	r_down	because:1 end:1 finance:1 deputy:1 company:1 headquarters:1 leaving:1 chief:1 year:1 promote:1 its:2
+CME	20140902	76.0	76.2	r_up	rebounding:1 pork:1 protective:1 finance:1 investors:1 chops:1 anticipate:1 pick:1 bacon:1 up:1 soon:1 six-month:1 prices:1 chief:1 materials:1 lows:1 demand:1 promoted:1 maker:1 more:1
+CME	20140903	76.2	76.0	r_down	
+CME	20140904	76.0	76.1	r_up	index:1 based:1 plans:1 launch:1 government:1 futures:1 readying:1 trading:1 debt:1 volatility:1
+CME	20140905	76.1	75.9	r_down	gold:1 over:1 manage:1 better:1 cares:1 much:1 fix:1 question:1 anyone:1 start:1 setting:1 rates:1 take:1 interest:1 which:1 recently:1 widely:1 price:2 but:1 not:1 silver:1 raising:1 rights:1 these:1 days:1 daily:2 responsibility:1
+CME	20140908	75.9	75.9	r_up	unsolicited:1 earlier:1 $:1 offer:1 rival:1 make:1 million:1 trumping:1 all-cash:1 expected:1 bid:1
+CME	20140909	75.9	75.6	r_down	development:1 major:2 investors:1 give:1 over:1 dollar:1 unfair:1 handed:1 have:1 next:1 species:1 traders:1 sue:1 pause:1 claiming:1 expectations:1 send:1 should:1 signals:1 endangered:1 rates:1 interest:1 big:1 firms:1 higher:1 week:1 currencies:1 gains:1 high-frequency:1 some:1 becoming:1 firmer:1 driven:1 advantages:1 exchanges:2 law:1 investor:1 emerging-market:1 joined:1 against:1 stock:1
+CME	20140910	75.6	76.0	r_up	
+CME	20140911	76.0	77.5	r_up	demand:2 said:2 plans:2 gold:2 --:1 futures:2 metal:2 introduce:2 aim:2 tapping:2 contract:2 year:2 trading:2 precious:2 across:1
+CME	20140912	77.5	79.3	r_up	
+CME	20140915	79.3	79.8	r_up	saying:1 unsolicited:1 acquired:1 '':1 's:1 negotiations:1 superior:1 opened:1 lead:1 which:1 under:1 proposal:1 company:1 ``:1 acquire:1 door:1 bid:1 earlier:1 broker:2 agreement:1 would:1 rival:1 could:1
+CME	20140916	79.8	79.8	r_up	
+CME	20140917	79.8	80.6	r_up	
+CME	20140918	80.6	82.9	r_up	
+CME	20140919	82.9	82.8	r_down	
+CME	20140922	82.8	82.5	r_down	
+CME	20140923	82.5	81.1	r_down	
+CME	20140924	81.1	81.2	r_up	
+CME	20140925	81.2	79.2	r_down	derivatives:1 rules:1 over:1 policy:1 international:1 efforts:1 postcrisis:1 makers:1
+CME	20140926	79.2	80.0	r_up	
+CME	20140929	80.0	79.5	r_down	named:1 said:1 's:1 exchange:1 retiring:1 executive:1 search:1 ending:1 flagship:1 chief:1 operator:1 new:1 its:1 successor:1
+CME	20140930	79.5	79.9	r_up	
+CME	20141001	79.9	79.4	r_down	
+CME	20141002	79.4	80.4	r_up	
+CME	20141003	80.4	80.9	r_up	some:1 electronic-trading:1 plans:1 contracts:1 light:1 reduce:1 overnight:1 hours:2 concerns:1 trading:1 sharply:1 its:1 volatility:1
+CME	20141006	80.9	81.3	r_up	
+CME	20141007	81.3	79.7	r_down	
+CME	20141008	79.7	81.1	r_up	
+CME	20141009	81.1	80.9	r_down	rush:1 belief:1 just:1 no:1 support:1 lot:1 rates:1 interest:1 got:1 more:1 raise:1
+CME	20141010	80.9	81.6	r_up	

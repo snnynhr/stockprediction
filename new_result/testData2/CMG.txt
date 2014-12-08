@@ -1,0 +1,50 @@
+CMG	20140801	672.5	675.1	r_up	
+CMG	20140804	675.1	682.9	r_up	
+CMG	20140805	682.9	674.7	r_down	chain:1 results:1 month:1 disappointing:1 27:1 $:1 profit:1 forecast:1 also:1 announced:1 sandwich:1 mostly:1 million:1 reported:1 said:1 plan:1 line:1 second-quarter:1 last:1 up:1 35:1 fell:1 stock-buyback:1
+CMG	20140806	674.7	673.0	r_down	sector:1 beleaguered:1 own:1 's:1 offer:1 reasons:1 some:1 steps:1 holding:1 its:1 hope:1 recent:1
+CMG	20140807	673.0	671.8	r_down	
+CMG	20140808	671.8	669.7	r_down	golden:1 old:1 among:1 seems:1 over:1 global:1 sales:1 foods:1 have:1 scandal:1 aggressive:1 crisis:1 monthly:1 since:1 same-store:1 competitors:1 its:2 their:1 tainted:1 way:1 supplies:1 firms:1 's:2 business:1 weakness:1 but:1 number:1 early:1 reported:1 worst:1 new:1 trouble:1 continued:1 growing:1 meat:1 lost:1 pressure:1 deals:1 2003:1 arches:1 small:1 beneath:1 consumer:1
+CMG	20140811	669.7	680.5	r_up	all:1 says:1 rage:1 column:1 writes:1 it’s:1 facts:1 crash:1 stocks:1 my:1
+CMG	20140812	680.5	676.2	r_down	
+CMG	20140813	676.2	683.6	r_up	
+CMG	20140814	683.6	679.2	r_down	sending:1 outlook:1 said:1 's:1 21:1 full:1 expectations:1 year:1 results:1 shares:1 second-quarter:1 down:1 below:1 lowered:1 trading:1 were:2 20:1 after-hours:1 company:1 its:2 $:1
+CMG	20140815	679.2	678.1	r_down	
+CMG	20140818	678.1	684.8	r_up	's:2 gun-control:1 local:1 over:1 primary:1 test:1 victory:1 high-profile:1 politics:1 sway:1 former:1 latest:1
+CMG	20140819	684.8	681.0	r_down	look:1 valuations:1 research:1 analysts:1 chicken:1 out:1 lofty:1
+CMG	20140820	681.0	678.4	r_down	
+CMG	20140821	678.4	681.0	r_up	real:1 truths:1 them:1 sharing:1 giving:1 money:1 stock-market:1 three:1 these:1 without:1 not:1
+CMG	20140822	681.0	676.9	r_down	
+CMG	20140825	676.9	676.2	r_down	smaller:1 deal:1 chains:1 taste:1 evidence:1 its:1 decade:1 van:1 writes:1 increasingly:1 earnings:1 might:1 customers:1 targeted:1 slump:1 worst:1 losing:1 bigger:1 10:1 younger:1 look:1 restaurant:1 boost:1 companies:2 takeout:1 lose:1 talk:1
+CMG	20140826	676.2	683.8	r_up	
+CMG	20140827	683.8	677.0	r_down	
+CMG	20140828	677.0	677.8	r_up	chasing:1 food:1 millennial:1 generation:1 companies:1 down:1 may:1 other:1 old:1 doubling:1 demographic:1
+CMG	20140829	677.8	678.6	r_up	
+CMG	20140902	678.6	682.9	r_up	index:1 20:1 14:1 boring:1 beaten:1 years:1 picks:1 has:1
+CMG	20140903	682.9	680.1	r_down	
+CMG	20140904	680.1	680.5	r_up	
+CMG	20140905	680.5	677.9	r_down	chain:1 restaurant:1 public:1 since:1 watch:1 its:1 release:1 earnings:2 report:1 went:1 second-quarter:1 first:1
+CMG	20140908	677.9	678.3	r_up	
+CMG	20140909	678.3	669.9	r_down	
+CMG	20140910	669.9	671.3	r_up	social-media:1 energy:1 giant:1 keep:1 their:1 moving:1 escape:1 stocks:1 rut:1 higher:1
+CMG	20140911	671.3	672.7	r_up	
+CMG	20140912	672.7	664.8	r_down	
+CMG	20140915	664.8	655.8	r_down	
+CMG	20140916	655.8	654.2	r_down	
+CMG	20140917	654.2	653.2	r_down	
+CMG	20140918	653.2	664.3	r_up	three:2 fortunes:1 experts:1 year:1 need:1 really:1 heads:1 two:2 appointed:1 better:1 more:1 company’s:1 jointly:1 but:1 not:1 one:1 than:1 last:1 always:1 say:1 suggests:1 steer:1 history:1
+CMG	20140919	664.3	664.0	r_down	
+CMG	20140922	664.0	656.1	r_down	
+CMG	20140923	656.1	654.5	r_down	use:1 high-quality:1 disparate:1 would:1 employees:1 testing:1 training:1 tablets:1 materials:1 train:1 let:1 instead:1 video:1 relying:1 software:1
+CMG	20140924	654.5	664.7	r_up	
+CMG	20140925	664.7	653.3	r_down	
+CMG	20140926	653.3	660.7	r_up	
+CMG	20140929	660.7	662.9	r_up	
+CMG	20140930	662.9	666.5	r_up	trump:1 quality:1 resident:1 always:1 ending:1 patrons:1 pasta:1 doesn’t:1 explains:1
+CMG	20141001	666.5	662.2	r_down	
+CMG	20141002	662.2	662.5	r_up	
+CMG	20141003	662.5	674.5	r_up	
+CMG	20141006	674.5	671.1	r_down	``:1 minority:1 chain:1 restaurant:1 acquired:1 stake:1 itself:1 '':1 describes:1 smorgasbord:1 has:1
+CMG	20141007	671.1	662.8	r_down	beneficial:1 rise:1 's:1 minority:1 chain:1 restaurant:1 acquired:1 price:1 stake:1 itself:1 shareholders:1 trade:1 describes:1 classic:1 skeptics:1 pain:1 has:1 stock:1
+CMG	20141008	662.8	672.1	r_up	
+CMG	20141009	672.1	660.6	r_down	
+CMG	20141010	660.6	655.5	r_down	beautiful:1 there:2 headed:1 reasons:1 pot:1 say:1 yet:1 weekly:1 since:1 their:1 beer:1 it’s:1 booze:1 good:1 string:1 hang:1 but:1 weed:1 moment:1 worst:2 coming:1 stocks:1 come:1 losses:1 up:1 times:1 thing:1

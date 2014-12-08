@@ -1,0 +1,50 @@
+LMT	20140801	165.7	165.8	r_up	
+LMT	20140804	165.8	167.0	r_up	151:1 force:1 said:1 's:1 $:1 company:1 sales:1 contract:1 communications:1 won:1 looks:1 largest:1 police:1 overseas:1 has:1 its:1 expand:1 improve:1
+LMT	20140805	167.0	165.6	r_down	
+LMT	20140806	165.6	161.8	r_down	
+LMT	20140807	161.8	161.7	r_down	
+LMT	20140808	161.7	164.5	r_up	said:1 develop:1 they:1 also:1 work:1 up:1 together:1 weapons:1 joint:1 step:1 want:1 exercises:1 military:1
+LMT	20140811	164.5	164.9	r_up	sector:1 opportunity:1 defense:1 sees:1 aerospace:1
+LMT	20140812	164.9	164.5	r_down	replaces:1 becomes:1 executive:1 controller:1 chief:3 interim:1 officer:3 accounting:2 its:1 names:1
+LMT	20140813	164.5	167.8	r_up	big-ticket:1 being:1 watched:1 unusual:1 develop:1 contest:1 selected:1 two:1 equipment:1 way:1 buys:1 test:1 new:1 has:1 type:1 designs:1 's:1 closely:1 helicopter:1 advance:1 industry:2 teams:1 military:1 changes:1
+LMT	20140814	167.8	168.2	r_up	planner:1 working:1 her:1 people:1 career:1 two:1 decided:1 combine:1 numbers:1 loves:1 become:1 technology:1
+LMT	20140815	168.2	167.8	r_down	
+LMT	20140818	167.8	170.2	r_up	
+LMT	20140819	170.2	170.8	r_up	
+LMT	20140820	170.8	173.9	r_up	
+LMT	20140821	173.9	173.7	r_down	
+LMT	20140822	173.7	173.8	r_up	
+LMT	20140825	173.8	175.2	r_up	
+LMT	20140826	175.2	175.2	r_up	aerial:1 general:1 debris:1 follow:1 said:1 threatening:1 station:1 build:1 new:1 has:1 refueling:1 development:1 company:1 problems:1 satellites:1 he:1 building:1 tracking:1 joined:1 unconcerned:1 n't:1 tech:1 can:1 senior:1 tanker:1
+LMT	20140827	175.2	175.1	r_down	
+LMT	20140828	175.1	174.1	r_down	
+LMT	20140829	174.1	174.0	r_down	
+LMT	20140902	174.0	173.8	r_down	
+LMT	20140903	173.8	173.5	r_down	program:1 another:1 pin:1 caused:2 into:1 testing:2 under:1 month:2 down:1 performance:1 cost:1 have:1 year:1 temporary:1 still:1 yet:1 issues:1 before:1 overruns:1 jet:2 series:1 trigger:1 fix:2 flying:1 had:1 next:1 delay:1 start:2 potential:2 which:1 grounding:1 supplier:1 threaten:1 cause:1 engine:3 after:1 led:1 plans:2 combat:1 restrictions:1 fire:3 sole:1 pressure:1 plane:1 entry:1 catch:2 execution:1 come:1 improve:1 entire:1 accident:1 fighter:2 service:1 --:1 's:1 place:1 planned:1 fleet:1 problem:2 its:1
+LMT	20140904	173.5	173.0	r_down	
+LMT	20140905	173.0	174.5	r_up	
+LMT	20140908	174.5	174.7	r_up	
+LMT	20140909	174.7	174.9	r_up	customers:1 capacity:1 working:1 space:1 expanding:1 industry:1 global:1 companies:1 costs:1 players:1 other:1 win:1 become:1 abroad:1 bigger:1 trimming:1
+LMT	20140910	174.9	174.5	r_down	
+LMT	20140911	174.5	174.2	r_down	major:1 want:1 chances:1 over:1 some:1 satellite:1 actions:1 have:1 yet:1 ways:1 avoid:1 been:1 its:1 does:1 take:1 passed:1 under:1 headache:1 them:1 sure:1 terms:1 but:2 most:1 they:1 fall:1 not:1 sending:1 scrambling:1 sanctions:2 --:1 builder:1 getting:1 companies:1 up:1 against:2 n't:2 whether:1 components:1 executives:1
+LMT	20140912	174.2	174.4	r_up	
+LMT	20140915	174.4	175.6	r_up	deal:1 supply:2 win:1 executive:1 sales:1 one:1 down:1 growth:1 nears:1 human:1 world:1 close:1 decisions:1 availability:1 out:1 said:1 capacity:1 chain:1 engines:1 data:1 create:1 subsidiary:1 contractor:1 write:1 also:1 systems:2 largest:1 new:2 has:1 cause:1 seeks:1 more:2 available:1 ``:1 explosive:1 demands:1 fire:1 company:1 formed:1 broke:1 contracts:1 resource:1 bringing:1 change:1 faster:1 '':1 fighter:1 jet:1 country:1 's:1 think:1 pinning:1 defense:2 ensure:1 can:1 planes:1 make:1
+LMT	20140916	175.6	177.1	r_up	's:2 space:1 station:1 startup:1 soon:1 contract:1 garner:1 international:1 part:1 astronauts:1 team:1 expected:1 led:1
+LMT	20140917	177.1	178.8	r_up	emerging:1 certification:1 defense:1 market:1 behemoths:1 said:1 would:1 space:1 breed:1 1:1 potentially:1 between:1 new:1 's:1 allow:1 joint:1 aerospace:1 cleared:1 like:1 launch:1 could:1 official:1 competitors:1 rockets:2 planned:1 venture:2 senior:1 challenge:1
+LMT	20140918	178.8	179.5	r_up	engine:2 rocket:1 premier:1 startup:1 one:1 supremacy:1 run:1 giant:1 now:1 develop:1 space:2 writes:1 leap:1 going:1 take:1 forces:1 provider:1 new:1 has:1 wants:1 eventually:1 's:2 intended:1 jointly:1 replace:1 joined:1 rockets:1 powers:1 head-to-head:1
+LMT	20140919	179.5	180.7	r_up	dry:1 giant:1 fighter:2 shift:1 away:1 up:1 leaving:1 without:1 preparing:1 rich:1 jets:1 military:1 company:1 orders:1 market:1 history:1
+LMT	20140922	180.7	178.9	r_down	ago:1 's:3 around:1 study:1 orbit:1 planet:1 spacecraft:1 journey:1 nearly:1 year:1 following:1 entered:1 unprecedented:1 red:1 began:1
+LMT	20140923	178.9	176.3	r_down	
+LMT	20140924	176.3	178.3	r_up	
+LMT	20140925	178.3	177.4	r_down	strengthening:1 says:1 executive:1 dollar:1 sales:1 select:1 said:1 end:1 jet:2 fix:1 program:1 expected:1 engine:1 's:4 contracts:1 some:1 company:1 senior:1 account:1 fighter:2 chief:1 planned:1 evaluating:1 military:1 overseas:1
+LMT	20140926	177.4	181.5	r_up	fourth-quarter:1 cuts:1 billions:1 down:1 likely:1 defense:1 another:1 dividend:1 its:1 $:1 spending:1 arms:1 weapons:1 3:1 largest:1 bout:1 worth:1 announced:1 more:1 buy:1 's:1 plans:1 rise:1 visits:1 contractors:1 services:1 world:1 discuss:1 buybacks:1 13:1 room:1 dollars:1 remain:1 highlight:1 stock:1
+LMT	20140929	181.5	181.3	r_down	has:1 plans:1 million:1 whether:1 proposed:1 revised:1 expect:1 award:1 until:1 n't:1 does:1 contract:1 decide:1 deal:1 helicopter:1 800:1 open:1 arm:1 competition:1 $:1
+LMT	20140930	181.3	182.7	r_up	life:1 apartment:1 tough:1 complex:1 reflects:1
+LMT	20141001	182.7	177.8	r_down	
+LMT	20141002	177.8	176.3	r_down	engine:1 's:1 working:1 increasingly:1 companies:1 competitive:1 field:1 entered:1 unit:1 replacement:1
+LMT	20141003	176.3	178.3	r_up	
+LMT	20141006	178.3	176.9	r_down	said:1 develop:1 contest:1 system:1 radar:1 won:1 new:1
+LMT	20141007	176.9	173.0	r_down	
+LMT	20141008	173.0	176.3	r_up	
+LMT	20141009	176.3	174.5	r_down	
+LMT	20141010	174.5	174.4	r_down	
