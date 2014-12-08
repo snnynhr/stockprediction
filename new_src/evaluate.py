@@ -6,8 +6,8 @@ import os
 import datetime
 import nltk
 
-testDir = "../new_result/testData"
-predDirs = ["../new_result/predictions_sage"]
+testDir = "../new_result/testData3"
+predDirs = ["../new_result/predictions_sage3"]
 global r
 global c
 
@@ -35,7 +35,7 @@ def evaluate(predDir,dataDict):
 					correct_count += 1
 	r = r + correct_count
 	c = c + pred_count
-	return (correct_count/float(pred_count),money)
+	return (correct_count/float(pred_count),money, correct_count, pred_count)
 
 l = dict()
 
@@ -71,20 +71,20 @@ for fname in os.listdir(predDirs[0]):
 			dataDict[day] = (float(prev_p), float(cur_p), true_l)
 			end = float(cur_p)
 		dataFile.close()
-		summary = [stock,str(end/start)]
-		statD['expected_gain'].append(end/start)
+		summary = [stock, str(end / start)]
+		statD['expected_gain'].append(end / start)
 		for predDir in predDirs:
-			accuracy,money = evaluate(predDir,dataDict)
+			accuracy, money, pc, cc = evaluate(predDir, dataDict)
 			statD[predDir][0].append(accuracy)
 			statD[predDir][1].append(money)
-			l[stock] = accuracy
-			summary.extend([str(accuracy),str(money)])
+			l[stock] = (accuracy, cc)
+			summary.extend([str(accuracy), str(money)])
 		print "\t\t".join(summary)
 
 import operator
 sorted_x = sorted(l.items(), key=operator.itemgetter(1))
 val = [i[1] for i in sorted_x]
-print sum(val) / len(sorted_x)
+print sum([i[0] for i in val]) / len(sorted_x)
 print r / float(c)
 print [i[0] + " " + str(i[1]) for i in sorted_x]
 

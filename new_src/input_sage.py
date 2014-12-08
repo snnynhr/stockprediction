@@ -47,7 +47,7 @@ def featureAMs(featureD, Xdict, stock):
 Ypath = "../data/stocks/dayStock.json"
 YpathT = "../data/training/dayStockTrain.json"
 Xdir = "../data/dowjones"
-inputDir = "../new_result/trainData1_sage"
+inputDir = "../new_result/trainData3_sage"
 
 if not os.path.exists(inputDir):
 	os.makedirs(inputDir)
@@ -72,13 +72,20 @@ total = len(Ydict)
 
 testDays = []
 trainDays = []
-
+import random
+random.seed(0)
 for key in Ydict.keys():
 	day = int(key[:6])
-	if day >= 201405:
-		testDays.append(key)
-	elif day >= 201401:
-		trainDays.append(key)
+	if day >= 201401:
+		r = random.randint(1, 10)
+		if r > 7:
+			testDays.append(key)
+		else:
+			trainDays.append(key)
+	# if day >= 201408:
+	# 	testDays.append(key)
+	# elif day >= 201401:
+	# 	trainDays.append(key)
 
 testDays.sort()
 trainDays.sort()
@@ -118,7 +125,7 @@ for Xfname in os.listdir(Xdir):
 					temp_list.append(('r_down', featureD[day]))
 
 			prevDay_p = day_p
-		if count > 40:
+		if count > 60:
 			inputFile = codecs.open("%s/%s.txt" % (inputDir, stock), 'w', 'utf-8')
 			for item in temp_list:
 				tags = 'stock_%s %s' % (stock, item[0])

@@ -6,11 +6,13 @@ import os
 import datetime
 import nltk
 import sys
-weightPath = '../new_result/sage_result/weights'+sys.argv[1]
+weightPath = '../new_result/sage_result3/weights'+sys.argv[1]
 weightFile = codecs.open(weightPath,'r','utf-8')
-testDir = "../new_result/testData"
-predictDir = "../new_result/predictions_sage"
+testDir = "../new_result/testData3"
+predictDir = "../new_result/predictions_sage3"
 
+if not os.path.exists(predictDir):
+	os.makedirs(predictDir)
 
 def log_likelihood(words, d):
 	result = 0
