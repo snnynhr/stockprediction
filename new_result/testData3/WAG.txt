@@ -1,0 +1,59 @@
+WAG	20140103	61.5	55.9	r_down	chain:1 results:1 have:1 insurance:1 3:1 pharmacy:1 behind:1 program:1 health:1 got:1 drugstore:1 's:1 plans:1 prescriptions:1 seeking:1 boosted:1 loyalty:1 sales:2 services:1 nation:1 care:1 wellness:1 medical:1 expanded:1 products:1 mixed:1
+WAG	20140108	55.9	58.4	r_up	
+WAG	20140109	58.4	60.2	r_up	
+WAG	20140110	60.2	59.4	r_down	
+WAG	20140115	59.4	58.6	r_down	's:1 look:1 make:1 political:1 like:1 left:1 methods:1
+WAG	20140116	58.6	59.0	r_up	
+WAG	20140121	59.0	57.8	r_down	
+WAG	20140123	57.8	57.4	r_down	raised:1 alliance:2 members:1 revenue:3 over:1 activists:1 some:1 results:1 related:2 trade:1 full-year:1 session:1 election:1 picked:1 year:1 vote:1 first-quarter:2 its:5 3.9:1 edged:1 said:2 $:1 expectations:1 shares:1 also:1 growth:3 earnings:2 premarket:1 expected:1 outlook:1 hardly:1 more:3 real:1 all:1 's:3 that’s:1 get:1 beat:1 company:1 nominees:1 75:3 fell:2 73:1 significant:2 despite:2 expenses:2 fiscal:2 board:3 companies:1 up:1 itself:1 actively:1 each:1 push:1 shareholder:1 say:2
+WAG	20140124	57.4	56.3	r_down	
+WAG	20140128	56.3	56.1	r_down	
+WAG	20140210	56.1	59.7	r_up	
+WAG	20140214	59.7	64.1	r_up	
+WAG	20140219	64.1	64.8	r_up	
+WAG	20140220	64.8	65.8	r_up	
+WAG	20140221	65.8	65.6	r_down	
+WAG	20140225	65.6	66.2	r_up	
+WAG	20140228	66.2	67.2	r_up	
+WAG	20140304	67.2	68.3	r_up	investors:1 these:1 companies:1 surprise:1 8:1 thinks:1
+WAG	20140310	68.3	66.1	r_down	
+WAG	20140311	66.1	65.8	r_down	
+WAG	20140325	65.8	65.7	r_down	saying:1 chain:1 quarters:1 session:3 thanks:1 cold:1 its:5 row:1 whose:1 $:1 surprises:1 revenue:1 advisories:1 premarket:1 drug:2 hit:1 gains:1 views:1 overall:1 they:1 despite:1 trade:3 month:1 eased:2 companies:4 trimmed:1 quarter:1 shoe:1 slowdown:2 see:1 actively:2 year:1 home:1 margins:3 declined:1 said:4 jumped:1 shares:1 current:1 7:1 across:1 milder:2 business:1 opening:1 reported:1 offset:1 active:1 roundup:1 improved:1 ahead:1 restaurant:1 drug-store:2 reports:1 slightly:1 fourth-quarter:1 bell:1 62:1 weather:1 decrease:1 operator:2 decline:1 housing:1 stock:2 expected:3 company:1 partly:1 season:2 offered:1 hurt:1 reflecting:1 prices:1 second-quarter:3 grew:1 15:1 showed:1 flu:2 below:1 future:1 acquisition:1 weaker:2 sales:1 expenses:1 disappointing:1 dropped:1 strength:1 winter:1 generic:2 costs:1 earnings:5 which:1 brand:1 higher:2 's:2 watch:1 after:1 tied:3 forecasts:1 fell:1 stocks:1 data:2 fiscal:4 third:1 futures:2 bottom-line:1 corporate:1 latest:1
+WAG	20140403	65.7	66.4	r_up	front-end:2 private-equity:1 major:1 weaker:2 purchases:1 partnership:1 retailer:1 sales:6 performance:1 manages:1 including:1 drug:3 have:1 year:2 partly:1 aggressive:1 centers:1 sell:1 giant:1 said:2 pressured:1 their:1 rose:3 section:1 stake:1 same-store:3 due:1 been:1 pharmacy:4 majority:1 health:1 take:1 generics:1 steps:1 has:2 drugstore:1 soap:1 overcome:1 more:1 firm:1 's:2 generic-drug:1 led:1 earlier:2 improve:1 results:2 8:1 cereal:1 offset:2 wholesaler:1 subsidiary:1 wave:1 than:1 like:1 pact:1 toward:1 staples:1 --:1 shift:1 industry:1 barely:1 companies:1 persistent:1 signed:1 later:1 3.5:2 discounting:1 360:1 retailers:1 soda:1 growing:1 problem:1 higher:2 consumer:1 consumers:1
+WAG	20140408	66.4	63.1	r_down	
+WAG	20140409	63.1	64.8	r_up	
+WAG	20140411	64.8	63.6	r_down	use:1 get:1 clinics:1 writes:1 health-care:1 walk-in:1 hand:1 helping:1 gain:1 coverage:1 more:2
+WAG	20140416	63.6	65.4	r_up	stores:1 features:1 chain:1 people:1 1,100:1 over:1 move:1 retailer:1 headquarters:1 taxes:2 corner:1 talks:1 close:1 its:2 negotiations:1 considering:1 said:1 business:1 lots:1 stocks:1 class:1 drugs:1 turnaround:1 asset:1 skeptics:1 electronics:1 save:2 store:2 's:1 plans:1 mired:1 government:1 may:1 familiar:1 overvalued:1 but:1 moving:1 lenders:1 argues:1 struggling:1 buying:1 relies:1 has:1 up:1 drug:2 reports:1 magazine:1 overseas:2 consumer:1 grossly:1
+WAG	20140422	65.4	66.7	r_up	
+WAG	20140425	66.7	65.9	r_down	
+WAG	20140523	65.9	69.4	r_up	
+WAG	20140528	69.4	69.4	r_up	sector:1 billion:1 almost:1 sales:1 according:1 past:1 middle:1 thanks:1 year:1 market:1 provided:1 $:1 would:1 toothpaste:1 projected:1 behind:1 attractive:1 increasing:1 drugstore:1 200:1 's:3 power:1 beauty:1 million:1 nation:1 demand:1 world:1 data:1 class:1 population:1 acquisitions:1 has:1 --:1 items:1 shampoo:1 up:1 55:1 products:1 growing:1 become:2 residents:1 similar:1 rack:1 mergers:1
+WAG	20140530	69.4	71.5	r_up	
+WAG	20140603	71.5	71.1	r_down	
+WAG	20140604	71.1	74.1	r_up	stores:1 sales:1 trade:2 helped:1 shippers:1 session:2 its:1 declined:1 4.4:1 said:1 opened:1 service:1 rose:1 shares:2 pharmacy:1 outside:1 closed:1 expected:2 newly:1 store:1 's:2 prescriptions:1 though:1 increases:1 traffic:1 coming:1 front:1 unnamed:1 relying:1 expand:1 excluding:1 months:1 companies:2 actively:2 slightly:1
+WAG	20140609	74.1	74.5	r_up	
+WAG	20140616	74.5	72.8	r_down	
+WAG	20140623	72.8	73.3	r_up	whose:1 watch:1 companies:1 shares:1 trade:1 active:1 see:1 session:1 expected:1 stocks:1
+WAG	20140703	73.3	73.5	r_up	0.9:1 gone:1 major:1 months:1 help:1 transportation:1 toward:1 sales:9 trade:1 helped:2 session:1 including:1 been:1 have:1 7.5:4 led:1 margins:1 its:1 kind:1 take:1 giant:1 said:2 $:1 pressured:1 8.9:1 rose:2 sharing:1 same-store:4 shares:2 pharmacy:4 their:1 points:1 earnings:1 generics:1 expected:1 performance:1 percentage:1 has:2 pay:1 higher:2 billion:1 hospitality:1 partnership:1 's:2 fiscal:1 generic-drug:1 different:1 wave:1 reported:1 traffic:3 offset:3 wholesaler:1 dividend:1 month:1 mainstream:1 improve:1 customer:3 down:1 lower:2 12:1 last:1 third:1 shift:1 drop:1 companies:2 up:1 drug:2 generic:1 actively:1 steps:1 retailers:1 jumped:1 weaker-than-expected:1 quarter:1 dragged:1
+WAG	20140708	73.5	70.7	r_down	
+WAG	20140711	70.7	71.2	r_up	
+WAG	20140714	71.2	71.1	r_down	
+WAG	20140716	71.1	71.0	r_down	proposed:1 fleeing:1 administration:1 tax:1 ``:1 budget:1 '':1 sudden:1 year:1 its:1 would:1 legislation:1 also:1 rates:1 enact:1 congressional:1 them:2 's:1 government:1 may:1 earlier:1 stop:1 lower:1 stay:1 step:1 letter:1 immediately:1 desire:1 rush:1 engage:1 committees:1 ahead:1 rules:1 companies:2 mergers:1 reports:1 foreign:1 limit:1 sent:1 allow:1 inversions:1 tightening:1 overseas:1 urging:1
+WAG	20140722	71.0	72.4	r_up	
+WAG	20140724	72.4	72.6	r_up	revenue:1 retire:1 private:1 expectations:1 including:1 year:1 your:1 finance:1 pharmaceutical:1 said:2 end:1 jumped:1 third-quarter:1 opportunities:1 pharmacy:1 other:1 health:1 equity:1 biggest:1 gains:1 head:1 's:2 plans:1 business:2 beat:2 funds:1 but:1 driven:1 news:1 hedge:1 strong:1 fiscal:1 39:1 pursue:1 wellness:1 morning:1 banks:1 distribution:1 its:2
+WAG	20140728	72.6	71.0	r_down	even:2 inversion:1 transaction:1 proposed:1 inviting:1 makes:1 writes:1 destination:1 better:1 looks:1 law:1 corporate:2 latest:1
+WAG	20140731	71.0	68.4	r_down	
+WAG	20140805	68.4	68.7	r_up	shop:1 stores:2 pointing:1 trade:1 session:1 including:1 its:3 slow:1 $:2 merger:1 spin:1 presence:1 same-store:1 pharmacy:1 premarket:1 openings:1 day’s:1 gains:1 big:1 traffic:2 fall:1 not:1 ruled:1 loss:1 drop:2 companies:2 taxes:1 facing:1 retailers:1 inversions:1 front-end:1 actively:1 trading:1 close:1 best:1 out:1 deals:2 said:3 drugstores:1 shares:1 looking:1 new:2 chains:1 full:1 weighing:1 creating:1 business:1 takeover:1 offset:1 news:1 strong:1 movers:1 reports:1 foreign:1 turn:1 products:1 rose:1 military:1 traded:1 outlook:1 risk-averse:1 names:1 publishing:1 two:1 strategy:1 their:1 tactic:1 shoppers:1 store:2 more:1 billion:1 buy:2 drugs:1 1.8:1 took:1 deter:1 expected:1 lowered:1 sharply:1 triple-digit:1 second-quarter:1 grocery:1 include:1 publicly:1 these:1 up:1 n't:1 steep:1 example:1 purchases:1 weaker:1 investors:2 prompting:1 tax:1 sales:4 promotional:1 helped:1 markdowns:1 border:1 finance:1 confirmed:1 brings:1 retiring:1 things:1 make:1 4.8:1 5:1 which:1 online:1 instead:1 's:1 separate:1 after:1 5.2:1 fell:1 designed:1 ownership:1 stocks:2 building:1 lower:2 off:1 big-box:1 persistent:1 chief:1 corporate:1 latest:1
+WAG	20140811	68.7	61.6	r_down	
+WAG	20140820	61.6	62.0	r_up	over:1 anti-money:1 scrutinizing:1 laundering:1 web:1 pay:1 controls:1 blog:1 between:1 shows:1 week:1 's:1 around:1 allegedly:1 regulators:1 lax:1 roundup:1 articles:1 compliance:1 posts:1 against:1 connection:1 action:1
+WAG	20140828	62.0	60.4	r_down	faced:1 available:1 peers:1 reverse:1 widely:1 make:1 pushing:1 drug:1 states:1 their:1 loved:1 ones:1 can:1 which:1 users:1 more:1
+WAG	20140903	60.4	60.2	r_down	fend:1 inversion:1 off:1 tobacco:1 deal:1 corporate:1 company:1 administration:1 drug:1 purge:1 pressure:1 products:1 new:1 put:1 's:1 effort:1 its:1 name:1
+WAG	20140916	60.2	63.6	r_up	signing:1 associated:1 leaders:1 including:1 such:1 hospitals:1 health-related:2 based:1 investing:1 their:2 other:1 endorse:1 expected:1 new:1 creating:1 initiatives:1 paid:1 includes:1 goals:1 doctors:1 communities:1 changing:1 lobby:1 panel:1 peers:1 tracking:1 tank:1 programs:1 wellness:1 companies:2 agenda:1 corporate:1 think:1
+WAG	20140923	63.6	61.1	r_down	
+WAG	20140924	61.1	61.5	r_up	
+WAG	20140929	61.5	59.6	r_down	session:1 10:1 actively:1 mostly:1 billionaire:1 wealthiest:1 companies:1 according:1 shares:1 trade:1 winners:1 rankings:2 expected:1 's:1 technology:1 latest:1
+WAG	20140930	59.6	59.2	r_down	vital:1 forget:1 chain:1 bell:1 process:1 signs:1 some:1 back:2 miscalculation:1 trade:2 challenges:1 hiring:1 see:1 session:2 including:1 pricing:2 reports:1 rally:1 spinoff:1 been:1 error:1 yet:1 before:1 whose:1 workplace:1 $:1 generic:2 pay:1 guidance:1 get:1 claiming:1 shares:2 pharmacy:1 looking:1 start:1 scrutiny:1 going:1 earnings:1 fourth:1 expected:2 reimbursements:1 has:1 drugstore:1 discrimination:1 hope:1 stock:1 woods:1 tests:2 continues:1 's:2 provides:1 again:1 drugs:1 price:1 surges:1 update:1 but:1 bulls:1 scaling:1 track:1 strong:1 groups:1 active:1 month:1 appear:1 billion:1 operator:1 prescription:1 look:1 sparked:1 could:1 companies:3 drug:1 n't:1 movies:1 missteps:1 actively:1 store:1 have:1 faces:1 1.1:1 quarter:1 out:1 once:1
+WAG	20141001	59.2	59.0	r_down	
+WAG	20141002	59.0	59.7	r_up	
+WAG	20141003	59.7	60.7	r_up	
+WAG	20141010	60.7	62.9	r_up	conference:1 company’s:1 grounded:1 sitting:1 amid:1 week’s:1 shifts:1 chance:1 tech:1 keeps:1 not:1 new:1 seismic:1 still:1 effort:1 industry:1 cloud:1

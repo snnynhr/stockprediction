@@ -1,0 +1,59 @@
+QCOM	20140103	74.0	71.7	r_down	says:1 move:1 some:1 '':1 year:1 your:1 ultimately:1 other:1 biggest:1 party:1 boost:1 smart:1 body:1 ``:1 's:3 going:1 part:1 wrist:1 2014:1 world:1 feet:1 demand:1 like:1 could:1 annual:1 face:1
+QCOM	20140108	71.7	72.5	r_up	200:1 says:1 $:1 phones:1 volume:1 source:1 growth:1 sub-:1
+QCOM	20140109	72.5	72.7	r_up	
+QCOM	20140110	72.7	72.7	r_up	
+QCOM	20140115	72.7	73.3	r_up	represents:1 major:1 alliance:1 's:2 plans:1 deal:1 offer:1 broaden:1 executive:1 chief:1 grow:1 coup:1 carrier:1 through:1 largest:1 smartphone:1 world:1 its:2 market:1
+QCOM	20140116	73.3	73.5	r_up	leaders:1 revenue:1 chip:1 known:1 trends:1 prowess:1 aggressive:1 inventories:1 technology:1 telecommunications:1 market:1 challenging:1 manufacturing:1 capacity:1 tablet:1 makers:1 their:1 setting:1 online:2 2014:1 more:1 smartphone:1 's:1 mostly:1 rebound:1 continues:1 said:1 new:1 services:1 now:1 come:1 mobile:1 later:1 companies:1 devices:1 become:1 maker:1 once:1
+QCOM	20140121	73.5	74.3	r_up	trim:1 fourth-quarter:1 jobs:1 plans:1 profit:1 1,100:1 chip:1 continues:1 focus:1 maker:1 jump:1 refine:1 its:1 94:1 announced:1 posted:1
+QCOM	20140123	74.3	74.7	r_up	subdued:1 weak:1 phone:1 numbers:1 saw:1 subscription:1
+QCOM	20140124	74.7	72.9	r_down	acquired:1 warrants:1 testing:1 purposes:1 covers:1 trade:1 chronic:1 session:1 including:1 portfolio:2 slumped:1 proceeds:1 out:1 n't:1 smartphone:1 actively:1 raise:1 patent:3 jumped:1 granted:2 system:1 shares:2 pioneer:1 3:1 other:1 health:1 disclosed:2 premarket:1 expected:1 1,400:1 struggling:1 agreed:1 pending:2 treatment:1 development:1 terms:1 acquire:1 's:2 which:1 offer:1 company:2 after:1 rapidly:1 results:1 applications:2 running:1 operating:1 breast:1 device:1 20:1 technologies:1 general:1 pain:1 $:1 prospects:1 countries:1 mobile:2 study:1 companies:1 roughly:1 2010:1 1,000:1 severe:1 planning:1 products:1 independence:1 were:1 ending:1 corporate:1 maker:1 patents:2 favorable:1
+QCOM	20140128	72.9	70.8	r_down	
+QCOM	20140210	70.8	73.5	r_up	
+QCOM	20140214	73.5	75.1	r_up	
+QCOM	20140219	75.1	74.6	r_down	
+QCOM	20140220	74.6	74.7	r_up	prospects:1 compared:1 undervalued:1 bright:1 but:1 3:1 have:1 500:1
+QCOM	20140221	74.7	74.4	r_down	
+QCOM	20140225	74.4	73.7	r_down	often:1 just:1 judge:1 four:1 streaming:1 video:1 have:1 fading:1 said:1 processors:1 consumers:1 least:1 noticed:1 their:4 way:1 soccer:1 more:1 week:1 do:1 draw:1 's:1 users:1 may:2 compared:1 goals:1 not:1 during:1 chips:1 than:1 care:1 smartphones:2 faster:1 teams:1 n't:1 action:1
+QCOM	20140228	73.7	74.1	r_up	awarded:1 slid:1 leaders:1 issued:1 some:1 outlook:1 related:1 trade:1 session:1 dismissed:1 committee:1 year:1 helm:1 jury:1 high-level:1 173:1 targets:1 information:1 said:2 court:1 $:2 district:1 patent:1 top:1 had:1 expectations:1 shares:2 its:1 1:1 failed:1 damages:1 premarket:1 expected:1 new:1 has:1 remaining:1 dispute:1 million:1 's:5 which:1 business:1 after:1 gas:1 address:1 additional:1 regarding:1 12:1 last:1 companies:2 sale:1 midstream:1 actively:1 footwear:1 meet:1 security:1 maker:1
+QCOM	20140304	74.1	75.3	r_up	stores:1 gold:1 being:1 1,100:1 expects:1 trade:2 session:2 talks:1 still:1 its:6 boosts:1 24:1 20:3 $:4 expectations:1 program:1 board:1 premarket:2 do:1 his:1 worse:1 aggressively:1 mobile-phone:1 results:1 new:1 continued:1 areas:1 loss:1 companies:2 solution:1 significantly:1 widened:1 actively:2 close:1 margins:1 said:1 broadband:1 pros:1 shares:2 increase:1 solar-powered:1 electronics:1 increasing:1 boost:1 seeks:1 discount:1 tripled:1 repurchase:2 dividend:3 post:1 improve:1 maker:4 fourth-quarter:2 revenue:1 retailer:2 drones:2 market:1 shareholders:1 leading:1 share-repurchase:1 expected:2 assumes:1 more:1 buy:1 offer:1 fund:1 prices:1 than:2 made:1 look:1 up:1 n't:1 while:1 were:1 chip:2 share:2 vs:1 dropped:1 have:1 moves:1 also:1 potential:1 5:3 earnings:1 online:1 struggling:1 stock:1 development:1 's:9 reporting:1 fell:1 plan:2 footprint:1 approved:1 billion:2 reward:1
+QCOM	20140310	75.3	76.2	r_up	
+QCOM	20140311	76.2	75.8	r_down	named:1 said:1 group:1 vice:1 chip:1 executive:1 been:1 president:3 has:1 maker:1
+QCOM	20140325	75.8	77.7	r_up	
+QCOM	20140403	77.7	79.6	r_up	's:1 like:1 direct:1 streaming:1 competitor:1 looks:1 device:1 new:1
+QCOM	20140408	79.6	78.0	r_down	core:1 product:1 via:1 's:1 offering:1 computing:1 into:1 first:1 sign:1 moving:1 reports:1 time:1 morning:1 corporate:1 its:1 cloud:2 latest:1
+QCOM	20140409	78.0	79.0	r_up	
+QCOM	20140411	79.0	77.1	r_down	
+QCOM	20140416	77.1	79.3	r_up	
+QCOM	20140422	79.3	79.7	r_up	buy:1 central:1 tapering:1 may:1 outperform:1 writes:1 companies:1 down:1 shifts:1 risks:1 7:1 winds:1 stimulus:1 stocks:1 its:1 bank:1
+QCOM	20140425	79.7	76.7	r_down	stock:1 border:1 financial:1 over:1 share:1 results:1 engineering:1 session:2 result:1 broader:1 stronger-than-expected:1 technology:1 market:3 finishes:1 blue:1 given:1 end:1 driving:1 powered:1 positive:1 writes:1 generally:1 near:1 shares:1 data:1 volatile:1 earnings:2 upbeat:1 has:1 500:1 higher:2 lid:1 gains:1 moving:1 report:1 stocks:1 chips:1 buybacks:1 several:1 kept:1 splits:1 taking:1 while:1 worries:1 military:1 choppy:1 soft:1
+QCOM	20140523	76.7	79.0	r_up	
+QCOM	20140528	79.0	79.3	r_up	work:1 help:1 developed:1 chip:1 move:1 sign:1 uphill:1 catch:1 tablets:1 accelerate:1 's:2 its:1 market:1 sell:1 use:1 said:2 would:1 create:1 system:1 better:1 willing:1 into:1 entry-level:1 turning:1 company:1 unusual:1 jointly:1 running:1 operating:1 key:1 known:1 chips:2 tactics:1 tablet:1 --:1 computers:1 companies:1 up:1 adopt:1 mobile:1 competitors:1 push:1 maker:1 latest:1
+QCOM	20140530	79.3	79.5	r_up	claim:1 shareholders:1 partial:1 bankrupt:1 deal:1 can:1 companies:1 leave:1 credit:1 airline:1 chairman:1 prepares:1 rare:1 feat:1 he:1
+QCOM	20140603	79.5	79.9	r_up	among:1 emerging:1 start-up:1 startup:1 competition:1 2nd:1 exploit:1 including:2 its:2 market:1 huge:1 said:2 network:1 broad:1 makers:1 potential:2 buys:1 markets:1 chip:1 exploring:2 smartphone:1 business:2 seeking:1 wind-down:2 cellular:2 baseband:2 strategic:2 data:2 buying:1 stiff:1 mobile:2 amid:1 sale:2 --:1 options:2
+QCOM	20140604	79.9	79.4	r_down	
+QCOM	20140609	79.4	79.5	r_up	
+QCOM	20140616	79.5	78.2	r_down	
+QCOM	20140623	78.2	78.9	r_up	``:2 added:1 's:3 like:1 vice:2 company:3 top:2 alongside:1 been:1 appears:1 '':2 charge:2 featuring:1 now:1 managers:2 long-time:1 president:2 senior:2 has:1 page:1
+QCOM	20140703	78.9	80.5	r_up	high-speed:2 purchase:1 smartphones:2 said:1 startup:2 feature:2 standard:2 wireless:2 other:2 products:2 purchased:1 buys:1 become:2 has:1 technology:2 called:2 bet:2
+QCOM	20140708	80.5	80.2	r_down	set:2 global:1 low-priced:1 bring:1 say:1 have:1 market:1 ground:1 group:1 other:1 several:1 smartphone:1 's:1 rules:1 brand:1 but:1 competing:1 hopes:1 trouble:1 calls:1 announcing:1 technical:1 industry:1 companies:1 analysts:1 become:1 latest:1
+QCOM	20140711	80.2	79.1	r_down	
+QCOM	20140714	79.1	79.0	r_down	
+QCOM	20140716	79.0	79.1	r_up	selling:1 's:1 executive:1 devices:1 standards:1 challenges:1 without:1 world:1 home:1 discusses:1 smart:1
+QCOM	20140722	79.1	81.0	r_up	royalties:1 designer:1 earns:1 revenue:1 profit:1 chips:1 rise:1 helped:1 reported:1 manufacturers:1 growth:1 licensing:1 though:1 ship:1 soft:1 second-quarter:1 higher:1
+QCOM	20140724	81.0	75.7	r_down	results:2 trade:1 switches:1 session:1 its:2 giant:1 thank:1 rose:1 premarket:1 quarterly:2 hit:1 bubbles:1 years:1 drop:1 companies:1 after-hours:1 recalls:1 higher:1 better-than-expected:2 related:1 actively:1 trading:2 80:1 eked:1 out:1 said:1 profit:2 shares:1 net:1 can:1 hours:1 reported:2 key:1 strong:1 $:1 quarter:1 changed:1 reports:1 social:2 top:1 first:1 major:1 market:2 little:1 networking:1 jobless:1 housing:1 three:1 start:1 6:1 expected:1 500:1 season:1 company:1 vehicle:1 but:1 second-quarter:2 car:1 up:1 record:4 compensation:1 ignition:1 were:1 investors:1 1.9:1 high:1 victims:1 linked:1 defective:1 media:1 indexes:1 earnings:4 income:1 outlook:1 stock:1 conflicting:1 surges:1 's:2 highs:1 after:2 driven:1 fell:1 plan:1 charges:1 rallies:2 push:1 claims:1 accidents:1 latest:1
+QCOM	20140728	75.7	75.4	r_down	prices:1 building:1 's:1 another:1 government:1 car:1 cars:1 locally:1 way:1 brands:1 investigation:1 luxury:1 have:1 slashed:1 biggest:1 world:1 more:1 response:1 out:1
+QCOM	20140731	75.4	73.3	r_down	spurred:1 hackers:1 over:1 back:1 have:1 ring:1 techniques:1 conference:1 develop:1 bullish:1 troubles:1 been:1 next:1 few:1 take:1 new:1 has:1 week:1 's:1 company:1 but:1 focus:1 step:1 user:1 devices:1 without:1 analysts:1 popular:1 security:2
+QCOM	20140805	73.3	72.3	r_down	
+QCOM	20140811	72.3	74.3	r_up	
+QCOM	20140820	74.3	76.0	r_up	
+QCOM	20140828	76.0	75.9	r_down	
+QCOM	20140903	75.9	74.8	r_down	
+QCOM	20140916	74.8	75.7	r_up	outlook:2 increasingly:2 headwinds:1 executive:1 direct:3 slowing:2 sign:2 four:2 growth:2 numbers:1 watched:1 its:2 even:1 facing:1 monthly:1 investment:3 indicators:1 has:1 minor:1 more:3 lowest:2 head:1 's:4 business:2 importance:1 but:1 fell:2 closely:1 world:1 years:2 than:2 cautious:2 level:2 --:2 taking:1 foreign:5 n't:1 replaced:1 usually:1 economy:1 latest:2
+QCOM	20140923	75.7	75.8	r_up	help:1 give:1 sidestep:1 sales:2 trading:1 its:1 broad:1 shares:1 4:1 6:2 boost:1 more:1 pull:1 million:1 weak:1 back:1 action:1 than:2 10:1 losses:1 tech:1 following:1
+QCOM	20140924	75.8	76.2	r_up	digits:1 double:1 benefit:1 grows:1 market:1
+QCOM	20140929	76.2	74.8	r_down	buy:1 's:3 way:1 investors:1 chip:1 its:1 high:1 into:1 growth:1 have:1 hopes:1 efforts:1 maker:1 market:1
+QCOM	20140930	74.8	74.7	r_down	
+QCOM	20141001	74.7	73.8	r_down	designer:1 get:1 chip:1 next:1 into:1 objects:1 connected:1 push:1 making:1 wave:1 technology:1 its:1
+QCOM	20141002	73.8	73.6	r_down	
+QCOM	20141003	73.6	74.8	r_up	plug:1 smaller:1 like:1 developing:1 create:1 seamless:1 lab:1 screens:1 together:1 image:1 secretive:1 display:1
+QCOM	20141010	74.8	71.2	r_down	

@@ -1,0 +1,59 @@
+AXP	20140103	85.8	88.7	r_up	
+AXP	20140108	88.7	88.6	r_down	
+AXP	20140109	88.6	88.1	r_down	
+AXP	20140110	88.1	87.8	r_down	
+AXP	20140115	87.8	87.5	r_down	because:1 revenue:1 credit-card:1 been:1 forecast:1 pace:1 behind:1 part:1 five:1 have:1 skittish:1 weeks:1 issuers:1 its:2 first:1
+AXP	20140116	87.5	87.0	r_down	saying:1 fourth-quarter:1 quarters:1 see:1 session:1 trade:1 whose:1 said:1 spending:1 rose:1 shares:1 advisories:1 earnings:1 expected:1 firms:1 holiday:1 higher:1 customers:1 shopping:1 season:1 watch:1 active:1 during:1 stocks:1 roundup:1 both:1 credit-card:1 companies:2 leading:1 reports:1 future:1 surprises:1 corporate:1 profits:1 latest:1
+AXP	20140121	87.0	89.8	r_up	
+AXP	20140123	89.8	88.4	r_down	benefited:1 money:1 loan:1 some:1 offerings:1 growth:1 its:1 broadening:1 rapid:1 things:2 competitors:1 plastic:1 bigger:1 you:1 more:1 can’t:2 buy:2 than:1 card:1 11:1 10:1 credit:1 while:1
+AXP	20140124	88.4	86.2	r_down	
+AXP	20140128	86.2	85.9	r_down	
+AXP	20140210	85.9	87.6	r_up	
+AXP	20140214	87.6	88.2	r_up	
+AXP	20140219	88.2	88.1	r_down	customers:1 after:1 look:1 working:1 manage:1 credit:1 numbers:1 theft:1 debit:1 senior:1 millions:1 crisis:1 card:1 executives:1
+AXP	20140220	88.1	88.2	r_up	
+AXP	20140221	88.2	88.0	r_down	
+AXP	20140225	88.0	89.1	r_up	
+AXP	20140228	89.1	90.5	r_up	reveal:1 shareholders:1 his:1 's:1 releases:1 billionaire:1 annual:1 record:1 earnings:1 letter:1 report:1 poised:1 investor:1
+AXP	20140304	90.5	91.8	r_up	
+AXP	20140310	91.8	92.9	r_up	
+AXP	20140311	92.9	92.4	r_down	
+AXP	20140325	92.4	90.0	r_down	
+AXP	20140403	90.0	90.4	r_up	customers:1 $:1 extra:1 pay:1 into:1 million:1 allegations:1 signing:1 up:1 pushed:1 settle:1 products:1 credit-card:1 discussions:1 800:1 than:1 bank:1 more:1
+AXP	20140408	90.4	86.0	r_down	heavy:1 over:1 dropped:1 broader:1 market:2 no:1 began:1 since:2 which:1 has:1 2011:1 stock:2 selling:1 's:1 may:1 continues:1 but:1 falls:1 worst:1 sharply:1 fall:1 stocks:2 loss:1 longer:1 spill:1 3-day:1 bargain:1 n't:1 high-growth:1
+AXP	20140409	86.0	88.2	r_up	van:1 writes:1 ride:1 gap:1 winners:1 losers:1 performance:1 2014:1 widening:1 industry:1 stock:1
+AXP	20140411	88.2	84.0	r_down	
+AXP	20140416	84.0	86.9	r_up	saying:1 addressing:1 7.4:1 revenue:2 correction:1 fall:2 back:1 one:1 high:2 bring:1 see:1 session:2 reports:1 entering:1 left:1 need:1 's:1 miss:2 trade:1 down:1 points:1 hit:1 decline:1 said:1 her:1 profit:1 surprises:1 expectations:1 shares:4 active:1 advisories:1 turnaround:1 earnings:3 boardroom:1 territory:1 veterans:1 into:1 higher:1 briefly:1 extended:1 co-founders:1 business:1 index:1 month:1 company:1 after:1 watch:1 expected:1 controls:1 director:1 biggest:1 public-company:1 fierce:1 quarters:1 first-quarter:1 recent:1 roundup:1 10:2 stocks:1 last:1 whose:1 pushed:1 --:1 14-year:1 drop:1 companies:2 experience:1 matter:1 while:2 future:1 green:1 rose:1 meet:1 fail:1 expense:1 corporate:1 latest:1
+AXP	20140422	86.9	86.5	r_down	
+AXP	20140425	86.5	86.5	r_up	week:1 '':1 ``:1 star:1 bankruptcy:1
+AXP	20140523	86.5	88.2	r_up	
+AXP	20140528	88.2	90.5	r_up	raised:1 quarter:1 's:1 $:1 sold:1 after:1 shares:1 11.3:1 dividend:1 strong:1
+AXP	20140530	90.5	90.9	r_up	
+AXP	20140603	90.9	91.2	r_up	
+AXP	20140604	91.2	91.2	r_up	
+AXP	20140609	91.2	95.0	r_up	
+AXP	20140616	95.0	93.8	r_down	do:1 use:1 option:1 consumers:1 people:1 checking:1 pitches:1 cheaper:1 n't:1 accounts:1 want:1 banks:1 alternative:1 card:1 courting:1
+AXP	20140623	93.8	94.9	r_up	
+AXP	20140703	94.9	95.2	r_up	financial:1 consider:1 fueling:1 idea:1 competition:1 result:1 fees:1 chair:1 rounds:1 merchants:1 consumers:1 crises:1 avoid:1 dismissed:1 rates:1 raising:1 interest:1 has:1 higher:1 's:3 government:1 rules:1 ultimately:1 contends:1 news:1 bank:1 must:1 central:1 up:1 morning:1 future:1
+AXP	20140708	95.2	94.0	r_down	bar:1 merchants:1 attorneys:1 another:1 rules:1 credit-card:1 over:2 prefer:1 customers:1 accept:1 its:1 they:1 telling:1 's:1 one:1 company:1 card:1
+AXP	20140711	94.0	94.1	r_up	
+AXP	20140714	94.1	94.2	r_up	
+AXP	20140716	94.2	94.1	r_down	case:1 customer:1 recently:1 service:1 calls:1 did:1 company:1 canceling:1 one:1 recording:1 phone:1 call:1 can:1 cable:1 learn:1 hell:1 you:1 consumer:1 your:1
+AXP	20140722	94.1	93.0	r_down	
+AXP	20140724	93.0	92.8	r_down	335:1 half:2 expects:3 negative:1 down:1 currency:1 continues:1 another:1 year:2 rally:1 its:3 previous:1 impact:1 little:1 said:2 $:3 million:6 euros:1 profit:1 cross:1 lower:1 earnings:1 interest:1 between:1 before:1 2014:2 poised:1 has:1 2013:1 200:2 currencies:1 's:1 around:1 company:2 depreciation:1 vouchers:1 results:1 levels:1 operating:1 milestone:1 network:1 billion:1 compared:1 level:1 --:1 changed:1 second:1 taxes:1 record:1 social:1 weigh:1 meal:1 first:1
+AXP	20140728	92.8	91.5	r_down	raised:1 full-year:1 broader:1 first-quarter:1 its:2 market:1 said:1 would:1 profit:1 pay:1 divided:1 shares:1 forecast:1 enough:1 earnings:1 largest:1 beating:1 more:1 's:1 after:1 discount:1 reason:1 alone:1 than:1 special:1 improved:1 second:1 doubled:1 n't:2 continue:1 airline:1 quarter:1
+AXP	20140731	91.5	87.7	r_down	executive:1 there:1 's:2 interest:1 rivals:1 had:1 company:1 never:1 companies:1 cash:1 significant:1 chief:1 reason:1 much:2 so:2 have:1 policy:1 rates:1 tax:1 debt:1 disadvantage:1
+AXP	20140805	87.7	86.1	r_down	facing:1 lower:1 highlighting:1 revenue:1 profit:1 becoming:1 since:1 publisher:1 stand-alone:1 challenges:1 report:1 magazine:1 operating:1 quarterly:1 posted:1 company:1 its:1 first:1
+AXP	20140811	86.1	86.6	r_up	
+AXP	20140820	86.6	88.2	r_up	
+AXP	20140828	88.2	88.7	r_up	merchant:1 rating:1 among:1 merchants:1 now:2 acceptance:1 1:1 favor:1 new:1 more:1 gaining:1 ranking:1 users:1 share:1 cardholders:1 tied:1 accepting:1 highest:1 card:1 customer-satisfaction:1 according:2 credit:1 survey:1 cards:2 consumer:1
+AXP	20140903	88.7	89.8	r_up	
+AXP	20140916	89.8	88.1	r_down	
+AXP	20140923	88.1	88.0	r_down	their:1 attention:1 expectations:1 high:1 turn:1 analysts:1 have:1 toward:1 technology:1 mobile-payment:1
+AXP	20140924	88.0	88.2	r_up	sector:1 giant:1 financial:1 offer:1 low-cost:1 into:1 customers:1 unveils:1 checking:2 accounts:2 targeting:1 foray:1 services:1 --:1 its:1 low-income:1 latest:1
+AXP	20140929	88.2	87.6	r_down	even:1 form:1 give:1 club:1 elite:1 giving:1 levels:1 not:2 seen:1 if:1 beginning:1 their:1 causes:1 before:1
+AXP	20140930	87.6	87.2	r_down	purchases:1 set:1 into:1 retailer:1 competition:1 transaction:1 course:1 including:1 directly:1 year:1 aggressive:1 next:1 its:2 unit:1 around:1 giant:1 said:1 players:1 downgraded:1 online:1 's:2 plans:1 business:2 separate:1 company:1 after:1 free:1 part:1 moving:1 plan:1 everyday:1 spin:1 analyst:1 look:1 paying:1 smartphones:1 off:1 reverse:1 publicly:1 pushed:1 involved:1 allows:1 morning:1 investment:1 e-commerce:1 chief:1 entry:1 traded:1 executives:1
+AXP	20141001	87.2	85.8	r_down	spinoff:1 mostly:1 find:1 suitor:1 bearish:1
+AXP	20141002	85.8	85.8	r_up	sell:1 courses:1 set:1 harder:1
+AXP	20141003	85.8	87.1	r_up	week:1 10:1 led:1 theft:1 market-moving:1 huge:1 consumer:1 writes:1 data:1 report:1 van:1 another:1 news:1 biggest:1 outbreak:1 strong:1 employment:1 events:1
+AXP	20141010	87.1	84.9	r_down	case:1 prevent:1 merchants:1 end:1 rivals:1 federal:1 were:1 customers:1 rule:1 cards:1 expected:1 rules:1 accept:1 year:1 judge:1 heard:1 steering:1 arguments:1

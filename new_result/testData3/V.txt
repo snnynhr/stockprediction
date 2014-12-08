@@ -1,0 +1,59 @@
+V	20140103	207.7	219.9	r_up	
+V	20140108	219.9	220.9	r_up	
+V	20140109	220.9	220.6	r_down	
+V	20140110	220.6	219.9	r_down	merchants:1 sued:1 attorneys:1 $:1 banks:1 credit-card:1 over:1 million:1 several:1 fees:2 judge:1 firms:1 law:1 approved:1
+V	20140115	219.9	222.5	r_up	because:1 revenue:1 credit-card:1 been:1 forecast:1 pace:1 behind:1 part:1 five:1 have:1 skittish:1 weeks:1 issuers:1 its:2 first:1
+V	20140116	222.5	220.5	r_down	
+V	20140121	220.5	230.6	r_up	thwart:1 just:1 retailer:1 hacks:1 thanks:1 have:1 technology:2 debate:1 decade:1 shown:1 criminals:1 $:1 wiped:1 three:1 been:1 program:1 learned:1 plug:2 's:2 gains:1 million:1 different:1 but:1 deter:1 early:1 theft:1 stocks:1 spur:1 card:1 recent:1 ago:2 40:1 did:1 credit-card:1 could:1 adopt:1 calling:1 consensus:1 trial:1 cards:1 adopting:1 pulled:2 away:1
+V	20140123	230.6	226.9	r_down	's:1 remains:1 suggest:1 charts:1 least:1 upward:1 broader:1 trajectory:1 now:1 market:1 stock:1
+V	20140124	226.9	220.0	r_down	set:1 1.1:1 energy:1 retailer:1 sales:1 system:1 accounts:1 mission:1 its:2 before:1 idea:1 top:1 attack:1 next:1 behind:1 going:1 split:1 quarterly:1 firms:1 holiday:1 discovery:1 week:1 million:1 's:3 attention:1 but:1 results:1 oldie:1 report:1 ending:1 data:1 payment:1 --:1 scraping:1 months:1 companies:1 n't:2 tech:1 many:1 software:1
+V	20140128	220.0	219.7	r_down	
+V	20140210	219.7	219.3	r_down	
+V	20140214	219.3	225.1	r_up	industries:1 information:1 customers:1 trying:1 financial:1 pointing:1 credit-card:1 over:1 fingers:1 massive:1 theft:1 mend:1 weeks:1 retail:1 fences:1
+V	20140219	225.1	223.0	r_down	customers:1 after:1 look:1 working:1 manage:1 credit:1 numbers:1 theft:1 debit:1 senior:1 millions:1 crisis:1 card:1 executives:1
+V	20140220	223.0	222.6	r_down	curse:1 people:1 generation:1 small-business:1 offer:1 wired:1 can:1 tips:1
+V	20140221	222.6	222.5	r_down	
+V	20140225	222.5	226.2	r_up	among:1 verge:1 household:1 safeguards:1 breakthrough:1 have:1 consider:1 around:1 closer:1 banking:1 bitcoin:2 virtual:1 quickly:1 has:1 into:1 status:1 currencies:1 mainstream:1 believers:1 cult:1 users:1 bringing:1 gained:1 name:1 n't:1 turn:1 advocates:1 can:1 real:1
+V	20140228	226.2	225.0	r_down	
+V	20140304	225.0	224.6	r_down	investors:1 these:1 companies:1 surprise:1 8:1 thinks:1
+V	20140310	224.6	224.6	r_up	
+V	20140311	224.6	226.3	r_up	use:1 organization:1 's:1 secure:2 transactions:1 chip:1 largest:1 systems:1 payment:1 credit:1 said:1 card:1 debit:1 not:1 world:1 technologies:1 retail:1 adequately:1 smart:1 plan:1
+V	20140325	226.3	217.5	r_down	private-equity:1 into:1 executive:1 investment:1 lender:1 long:1 networks:1 access:1 card:1 largest:1 biggest:1 translate:1 can:1 firm:1 's:4 nation:1 operating:1 not:1 payment:1 bank:2 loss:1 join:1 co-chief:2 sanctions:1 according:1 credit:1 officer:1 banks:1 become:1 corporate:1
+V	20140403	217.5	214.2	r_down	said:1 growth:1 weathered:1 country:1 toll:1 had:2 up:1 but:1 driven:1 taken:1 inflation:1 economic:2 worst:1 storm:1 caused:1 authorities:1 crisis:1
+V	20140408	214.2	201.8	r_down	consider:1 money:1 back:1 50:1 have:1 reached:1 2.2:1 around:1 8.4:1 spending:1 trillion:1 been:1 plastic:1 increase:1 only:1 going:1 way:1 you:1 forth:1 2012:1 lot:1 years:1 come:1 card:1 $:1 especially:1 did:1 2011:1 according:1 analysis:1 credit:3 cards:2
+V	20140409	201.8	206.7	r_up	
+V	20140411	206.7	195.8	r_down	
+V	20140416	195.8	208.5	r_up	
+V	20140422	208.5	209.1	r_up	
+V	20140425	209.1	198.1	r_down	stock:2 speculation:1 weaker:1 financial:1 investors:1 revenue:1 over:1 share:1 pop:1 trade:2 down:1 included:1 see:1 session:4 result:1 have:1 rally:1 says:1 driving:1 its:2 market:2 whose:1 given:1 said:1 writes:1 working:1 7-for-1:1 rose:1 make:2 initial:1 fears:1 shares:3 start:1 setting:1 earnings:2 strong:1 largest:1 biggest:1 has:1 public:1 announced:1 higher:1 fiscal:1 's:1 offering:1 after:3 watch:1 long:1 volume:1 expected:2 busy:1 moving:1 plan:2 fall:1 active:1 stocks:1 second-quarter:1 engineering:1 fret:1 buybacks:1 hours:2 drops:2 splits:1 split:1 could:1 futures:1 companies:2 up:2 unusually:1 large:1 actively:1 payments:1 operating:1 drop:1 discusses:1 slightly:1 taking:1 history:2
+V	20140523	198.1	211.6	r_up	operating:2 allow:2 would:2 --:1 country:2 global:2 companies:2 agreement:2 continue:2 officials:2 compromise:2 have:2 reached:2 payment:2 card:2
+V	20140528	211.6	213.3	r_up	breaches:1 said:1 companies:1 amid:1 move:1 cardholders:1 data:1 several:1 acting:1 future:1 steps:1 names:3 high-profile:1 taken:1 security:1 has:1 boost:1 its:1 comes:1 recent:1
+V	20140530	213.3	214.4	r_up	
+V	20140603	214.4	210.9	r_down	seven:1 transition:1 old:1 within:2 retire:2 years:2 past:1 62:1 financial:1 said:3 decision:1 initial:1 been:1 next:2 conduct:1 new:1 has:1 sufficient:1 duties:1 team:1 his:4 's:4 finance:1 offering:1 company:5 assist:1 joined:1 part:1 regulatory:1 post:2 successor:1 search:1 12:2 --:1 months:2 allows:1 according:1 public:1 chief:2 2007:1 time:1 management:1 led:1 filing:1
+V	20140604	210.9	211.0	r_up	operations:3 president:1 says:2 features:1 chain:1 previously:1 executive:3 focus:1 owned:1 down:1 solutions:1 day-to-day:3 strategy:1 technology:1 relationships:1 said:2 based:1 founder:1 would:1 former:1 charge:3 role:4 take:2 new:2 newly:2 2010:1 stakeholders:1 stood:1 's:5 company:5 after:1 unveil:1 immediately:1 appointed:1 card:1 building:1 join:1 her:1 co-chief:1 created:2 mobile:3 1998:1 --:1 vice:1 names:2 board:1 retire:1 credit:1 while:1 future:2 payments:4 served:1 security:1 2012:1 joining:1
+V	20140609	211.0	212.1	r_up	body:1 claim:1 hit:1 successful:1 bid:1 probe:1 allegations:1 sponsors:1 demanding:1 bribery:1 governing:1 world:1 soccer:1 corruption:1
+V	20140616	212.1	209.8	r_down	whose:1 watch:1 companies:1 shares:1 trade:1 active:1 see:1 session:1 expected:1 stocks:1
+V	20140623	209.8	209.0	r_down	revenue:1 poised:1 more:1 look:1 6:1
+V	20140703	209.0	216.1	r_up	share:1 competition:1 high:1 result:1 fees:1 17000:1 technology:1 its:1 market:1 merchants:1 said:1 consumers:1 above:1 new:2 boost:1 higher:1 's:2 government:1 rules:1 ultimately:1 contends:1 stay:1 part:1 half:1 stocks:1 than:1 card:1 ahead:1 curve:1 aims:1 record:1 accounted:1 push:2 more:1 latest:1
+V	20140708	216.1	214.8	r_down	revenue:2 previously:1 over:2 estimates:1 expects:1 owned:1 up:1 down:2 ended:1 second:1 growth:2 40:1 another:1 year:2 telling:1 's:1 technology:1 its:3 rules:1 one:1 confidence:1 rather:1 workers:1 shares:1 than:1 hitting:1 their:1 other:1 helps:1 which:1 provider:1 31:1 company:2 economy:1 customers:3 enable:1 partly:1 33:1 prefer:1 payment:1 merchants:1 moving:1 accept:1 they:1 slashed:1 front:1 bar:1 now:1 blamed:1 card:2 subscription:1 paying:1 sending:1 smartphones:1 attorneys:1 16:1 --:1 credit-card:1 signal:1 30:1 companies:1 full-year:1 mobile:1 payments:3 time:1 growing:1 make:1 road:1
+V	20140711	214.8	216.5	r_up	arbitration:1 case:1 bribes:1 's:2 secure:1 government:1 alleging:1 against:1 paid:1 filed:1 operator:1 run:1 concession:1 ports:1
+V	20140714	216.5	220.6	r_up	team:1 declared:1 championship:1 's:2 providers:1 rival:1 over:1 after:1 its:1 victory:1 fourth:1 country:1 world:1 soccer:1 day:1
+V	20140716	220.6	222.2	r_up	
+V	20140722	222.2	220.8	r_down	
+V	20140724	220.8	222.3	r_up	global:1 '':1 its:1 market:1 said:1 thank:1 rose:1 third-quarter:1 payments:1 start:1 earnings:2 can:1 11:1 ``:1 's:1 transactions:1 season:1 highs:1 volume:1 latest:1 strong:1 fiscal:1 helped:1 record:1 processed:1 push:1 stock:1 called:1 better-than-expected:1
+V	20140728	222.3	213.8	r_down	revenue:1 second:1 broader:1 exceeded:1 its:1 market:2 network:1 had:1 shares:1 enough:1 quarterly:1 new:1 beating:1 week:1 's:3 capitalization:1 reason:1 eight:1 despite:1 alone:1 last:1 town:1 improved:1 times:1 n't:2 continue:1 social:1 quarter:1
+V	20140731	213.8	210.6	r_down	major:1 because:1 roadshow:1 penalties:1 executive:2 snafu:1 system:1 economic:2 its:1 even:1 giant:2 said:1 recovery:1 profit:1 rose:1 make:1 able:1 due:1 any:1 rivals:1 9.8:1 card:1 way:1 between:1 got:1 might:1 offered:1 czar:1 more:1 week:1 's:4 government:1 company:1 under:1 problems:1 award:1 geopolitical:1 reported:1 significant:1 not:1 strong:1 investor:1 second-quarter:1 bank:1 disadvantage:1 pipeline:1 cautious:1 last:1 --:2 amid:1 against:1 n't:1 chief:2 officials:1 payments:1 volumes:1 tensions:1 view:1
+V	20140805	210.6	210.1	r_down	
+V	20140811	210.1	210.1	r_up	pull:1 all:1 tough:1 drum:1 up:1 big:1 company:1 some:1 unusual:1 bankers:1 hurdles:1 e-commerce:1 fervor:1 faces:1 off:1 seek:1
+V	20140820	210.1	216.2	r_up	
+V	20140828	216.2	214.6	r_down	merchant:1 rating:1 among:1 over:1 share:1 focus:1 bankers:1 trading:1 shares:1 year:1 confirms:1 tougher:1 event:1 users:1 write:1 merchants:1 highest:1 spy:1 acceptance:1 topped:1 negotiators:1 favor:1 buying:1 which:1 biggest:1 new:1 500:1 more:1 gaining:1 ranking:1 's:1 risk:1 may:1 smarter:1 becoming:1 after:1 cardholders:1 tied:1 accepting:1 now:2 opportunity:1 downgraded:2 card:2 customer-satisfaction:1 lower:1 list:1 according:2 deals:1 credit:1 1:1 survey:1 analysts:1 cards:2 consumer:1
+V	20140903	214.6	214.9	r_up	
+V	20140916	214.9	217.3	r_up	prospect:1 impact:1 's:2 business:1 may:1 rattled:1 some:1 dire:1 not:1 fear:1 has:1 its:1 stock:1
+V	20140923	217.3	212.4	r_down	stores:1 debit-card:1 bankers:1 high:1 his:1 groceries:1 have:2 hack:1 seem:1 technology:1 even:1 information:1 use:1 criminals:1 writes:1 expectations:1 their:1 mobile-payment:1 electronics:1 across:1 buy:1 prepaid:1 transactions:1 showing:1 attention:1 wrong:1 demand:1 stolen:1 misjudged:1 up:1 turn:1 analysts:1 cards:1 went:1 toward:1
+V	20140924	212.4	214.4	r_up	
+V	20140929	214.4	210.9	r_down	
+V	20140930	210.9	213.3	r_up	major:1 sure:1 secure:1 technology:1 chip:1 move:1 its:1 banks:1 other:1 debit:2 cards:2 follow:1 more:1 issue:1 ‘chips’:1 bank:1 first:1
+V	20141001	213.3	210.0	r_down	spinoff:1 mostly:1 find:1 suitor:1 bearish:1
+V	20141002	210.0	209.7	r_down	
+V	20141003	209.7	211.9	r_up	wants:1 business:1 may:1 could:1 stronger:1 free:1 payments:1 without:1 compete:1 planned:1 digital:1 bidder:1 writes:1 more:1
+V	20141010	211.9	204.9	r_down	prevent:1 simple:1 accept:1 heard:1 year:1 seem:1 best:1 if:1 profitable:1 merchants:1 based:1 federal:1 arguments:1 writes:1 winner:1 rivals:1 returns:1 earnings:1 expected:1 you:1 might:1 stock:1 customers:1 you’ll:1 get:1 rules:1 end:1 but:1 most:1 were:1 judge:1 van:1 stocks:1 steering:1 case:1 companies:1 rule:1 pick:1 cards:1

@@ -1,0 +1,59 @@
+AIG	20140103	50.4	50.5	r_up	
+AIG	20140108	50.5	51.4	r_up	operations:1 executive:1 committee:1 technology:1 its:2 initiatives:1 said:1 group:1 beefing:1 responsible:1 sourcing:1 operational:1 member:1 role:1 shared:1 transformation:1 his:1 's:2 new:2 management:1 2014:1 services:1 former:1 effective:1 --:1 well:1 up:1 procurement:1 chief:1 officer:1 team:1 senior:1
+AIG	20140109	51.4	51.7	r_up	duty:1 supreme:1 sees:1 often:1 softening:1 process:1 tax:1 back:1 billions:1 second:1 pricing:1 financial:1 insurance:1 court:1 federal:1 boardrooms:1 filling:1 crisis:1 state:1 which:1 final:1 massive:1 head:1 's:2 after:1 disputes:1 coming:1 bumpy:1 during:1 benefits:1 nominate:1 dollars:1 losses:1 companies:1 up:1 governor:1 tour:1 can:1 corporate:1 executives:1
+AIG	20140110	51.7	51.8	r_up	operations:1 says:1 some:2 have:1 go:1 recently:1 insurance:1 out:1 profitable:1 goal:2 its:2 does:1 build:1 holding:2 progress:1 has:2 more:2 's:5 way:1 though:1 company:2 after:1 but:1 possibly:1 sexy:1 properties:1 long-term:1 making:1 model:2 bought:1
+AIG	20140115	51.8	51.7	r_down	managed:1 --:1 leading:1 lawsuits:1 settlements:1 up:1 billions:1 crisis:1 n't:1 financial:1 inking:1 related:1 during:1 shake:1 banks:1 off:1 actions:1 has:1 its:1 two:1 bought:1
+AIG	20140116	51.7	51.1	r_down	
+AIG	20140121	51.1	50.2	r_down	resolve:1 swaps:1 commodity:1 series:1 taking:1 problems:1 see:1 their:1 regulators:1 steps:1 have:1 into:1 hobbled:1 efforts:1 data:1 clearly:1 market:1 more:1
+AIG	20140123	50.2	48.8	r_down	considering:1 financial:2 tougher:1 --:2 oversight:1 top:1 people:1 system:1 should:1 whether:1 regulators:1 according:1 risks:1 familiar:1 drawn:1 discussions:1 group:1 poses:1 's:1
+AIG	20140124	48.8	47.5	r_down	reaction:1 's:1 adviser:1 top:1 took:1 past:1 record:1 year:1 over:1 profits:1
+AIG	20140128	47.5	48.1	r_up	thwart:1 into:1 probe:1 related:1 financial:1 's:1 insurance:1 information:1 documents:1 federal:1 mounting:1 regulation:1 its:1 secret:1 crisis:1 largest:1 behind-the-scenes:1 recently:1 hundreds:1 released:1 wake:1 nation:1 --:2 companies:1 keep:1 push:1 stricter:1
+AIG	20140210	48.1	48.5	r_up	sell:1 sector:1 's:1 investors:1 deal:1 majority:1 island:1 agreed:1 stake:1 foreign:1 their:1 exit:1 crowded:1 small:1 banking:1 approved:1 bank:1 latest:1
+AIG	20140214	48.5	48.6	r_up	outlook:1 industrial:1 investors:2 estimates:1 surprisingly:1 bounce:1 trade:1 see:1 taught:1 cuts:1 results:1 its:1 declined:1 whose:1 rapid:1 sentiment:1 repaying:1 top:1 shares:4 production:2 which:1 ramping:1 expected:1 has:1 markets:1 dive:1 stock:2 week:1 rise:1 's:1 showing:1 after:3 watch:1 back:1 quarterly:1 job:1 dismal:1 billions:1 active:1 dividend:1 stocks:1 data:2 change:1 session:1 lower:2 anything:1 dollars:1 futures:2 companies:1 up:2 taxpayers:1 pace:1 while:1 edge:2 can:2 aid:1 reward:1 slightly:2
+AIG	20140219	48.6	48.9	r_up	
+AIG	20140220	48.9	48.8	r_down	's:2 slipped:1 insurer:1 profit:1 half:1 equity:1 second:1 full-year:1 volatile:1 earnings:1 7:1 were:1 hit:1 net:1 markets:1 2013:1
+AIG	20140221	48.8	48.6	r_down	emerging:1 fuel:1 financial:1 just:1 supply:1 money:1 cheap:1 helped:1 ended:1 full-year:1 officials:1 year:2 hit:2 still:1 its:1 market:1 before:1 bolster:1 swings:1 slipped:1 second:1 source:1 profit:2 equities:1 support:1 had:1 system:1 start:1 2.8:1 volatile:1 earnings:1 7:1 equity:1 policy:1 new:1 struggling:1 has:1 markets:1 across:2 2013:1 economy:1 meant:1 currencies:1 's:4 gains:1 insurer:1 crumbling:1 after:3 jolted:1 were:3 half:1 world:1 net:3 growth:1 $:3 billion:2 million:1 rein:1 last:1 would:1 programs:1 --:1 central-bank:1 30:1 days:1 credit:1 calamity:1 economic:1 unleash:1 grasp:1 2008:1 torrent:1 fell:2
+AIG	20140225	48.6	48.6	r_up	
+AIG	20140228	48.6	49.4	r_up	defer:1 long-running:1 leasing:1 restructure:1 executive:1 some:1 have:1 battle:1 its:1 unit:1 said:2 $:2 carriers:1 two:1 legal:1 orders:1 their:1 damages:1 between:1 500:2 more:1 's:1 seeking:1 may:1 big:1 million:1 aircraft:2 part:1 than:1 companies:1 chief:1
+AIG	20140304	49.4	49.9	r_up	
+AIG	20140310	49.9	50.7	r_up	says:1 deal:1 money:1 over:1 float:1 years:1 four:1 return:1 arrangement:1 its:1 decade:1 if:1 sell:1 better:2 aircraft-leasing:1 would:1 day:1 looking:1 finally:1 bailout:1 struck:1 more:1 's:1 company:1 but:1 next:1 nearly:1 they:1 trying:1 than:1 received:1 changed:1 spent:1 n't:1 twice:1 amount:1
+AIG	20140311	50.7	50.3	r_down	financial:1 back:1 private:1 shape:1 including:1 lawyer:1 news:1 your:1 equity:1 biggest:2 firms:1 has:1 decades:1 them:1 lived:1 's:3 finance:1 government:1 beat:1 funds:1 helping:1 world:1 hedge:1 morning:1 banking:1 're:1 policies:1 banks:1 affect:1
+AIG	20140325	50.3	49.9	r_down	life:1 financial:1 study:1 may:1 industry:1 pose:1 system:1 according:1 rising:1 risks:1 published:1 new:1 insurance:1
+AIG	20140403	49.9	50.6	r_up	licensing:1 state:1 interpreting:1 suit:1 requirements:1 law:1 seeks:1 ruling:1
+AIG	20140408	50.6	49.8	r_down	
+AIG	20140409	49.8	50.8	r_up	
+AIG	20140411	50.8	49.1	r_down	
+AIG	20140416	49.1	50.1	r_up	
+AIG	20140422	50.1	50.7	r_up	
+AIG	20140425	50.7	51.3	r_up	
+AIG	20140523	51.3	53.3	r_up	
+AIG	20140528	53.3	53.2	r_down	
+AIG	20140530	53.2	53.8	r_up	
+AIG	20140603	53.8	54.3	r_up	own:1 financial:2 energy:1 one:1 flexibility:1 likes:1 still:1 insurance:1 doesn’t:1 overhaul:1 housing:1 its:1 regulation:1 bailout:1 passed:1 9:1 firms:1 2010:1 seeks:1 more:1 his:1 's:1 big:1 company:1 market-beating:1 law:1 change:1 manager:1 rare:1 industry:1 up:1 value:1 missteps:1 reputation:1 tweaking:1 allow:1 writes:1
+AIG	20140604	54.3	54.6	r_up	accident:1 's:1 lurk:1 avoid:1 hazards:1 regulatory:1 vote:1 got:1 still:1 boost:1 insurers:1
+AIG	20140609	54.6	54.9	r_up	handing:1 titles:1 additional:1 over:1 two:1 related:1 tumor:1 brain:1 internal:1 procedure:1 following:1 managers:1 medical:1 those:1
+AIG	20140616	54.9	54.8	r_down	
+AIG	20140623	54.8	55.5	r_up	
+AIG	20140703	55.5	55.5	r_up	event:1 another:1 's:1 plans:1 dismantle:1 detailing:1 nation:1 released:1 regulators:1 crisis:1 they:1 largest:1 financial:2 firms:1 might:1 themselves:1
+AIG	20140708	55.5	54.8	r_down	
+AIG	20140711	54.8	54.4	r_down	
+AIG	20140714	54.4	54.9	r_up	11.8:1 's:1 $:1 million:1 package:1 pay:1 executive:1 worth:1 approved:1 chief:1 potentially:1 president:1 new:1 has:1 its:1
+AIG	20140716	54.9	54.9	r_up	slid:1 set:1 announces:1 session:1 people:1 probe:1 sign:1 results:1 billions:1 overshadowed:1 gearing:1 actively:1 shares:1 settlement:2 yet:1 down:1 again:1 giant:1 said:1 potential:1 $:4 mortgage:2 banking:1 profit:2 aside:1 had:1 two:1 legal:4 sides:1 lender:1 also:1 asking:1 4:1 650:1 expected:1 more:2 's:4 43:2 offering:1 familiar:1 million:1 slump:1 but:1 falls:1 met:1 one-time:1 trade:1 second-quarter:2 bank:1 billion:2 weighed:1 13:2 resolve:1 charges:3 up:1 companies:1 according:1 large:1 matter:1 settle:1 expenses:1 were:1 originations:1
+AIG	20140722	54.9	54.5	r_down	aren’t:1 enough:1 writes:1 settlements:1 deeds:1 up:1 punishment:1 say:1 election:1 shake:1 bad:1 2016:1 backlash:1
+AIG	20140724	54.5	55.0	r_up	
+AIG	20140728	55.0	53.8	r_down	legislative:1 law:1 run:1 another:1 designation:1 could:1 taking:1 some:1 possible:1 sting:1 systemically:1 important:1 have:1 such:1 part:1 insurers:1 fix:1 hope:1 out:1
+AIG	20140731	53.8	51.8	r_down	
+AIG	20140805	51.8	52.0	r_up	stores:1 they:1 cried:1 over:1 executive:2 major:1 trade:2 session:2 years:1 settlement:1 its:3 $:3 premarket:1 pointing:1 include:1 day’s:1 someone:1 gains:1 big:1 decide:1 bit:1 replace:1 him:1 name:1 like:1 drop:1 companies:3 slumps:1 each:1 deal:1 tumble:1 sign:1 past:1 actively:2 trading:1 said:2 shares:2 acting:1 does:1 full:1 creating:1 business:1 1.13:1 boy:1 watchers:1 extension:1 movers:1 involved:1 taking:1 wolf:1 traded:1 asked:1 outlook:1 private:1 due:1 another:1 market:3 publishing:1 question:1 two:1 few:1 expected:2 buy:1 lowered:1 spin:1 second-quarter:1 he:2 has:1 publicly:1 whether:2 n't:1 mortgage-securities:1 false:1 investors:1 1.8:1 sales:1 proven:1 promotional:1 warning:1 have:1 markdowns:1 confirmed:1 4.8:1 1:1 role:1 stock:1 's:6 separate:1 fell:1 plan:1 ownership:1 stocks:1 billion:2 off:1 approve:1 alarm:1 chief:1
+AIG	20140811	52.0	52.7	r_up	200:1 his:1 disclosure:1 cited:1 executive:1 posed:1 times:1 facing:1 released:1 among:1 right:1 questions:1 2009:1 than:1 more:1
+AIG	20140820	52.7	54.7	r_up	
+AIG	20140828	54.7	55.6	r_up	cancer:1 less:1 previously:1 into:1 staying:1 downgraded:1 year:2 confirms:1 event:1 next:1 interested:1 turnaround:1 has:1 dramatically:1 ends:1 his:2 's:1 earlier:1 focus:1 early:1 him:1 made:1 tenure:1 chieftain:1
+AIG	20140903	55.6	55.4	r_down	
+AIG	20140916	55.4	55.6	r_up	both:1 handing:1 agency:1 's:1 ability:1 federal:1 win:1 inside:1 impose:1 outside:1 rules:2 tries:1 judge:1 apply:1 overseas:1 postcrisis:1 its:2 affirmed:1 swaps:1
+AIG	20140923	55.6	54.5	r_down	
+AIG	20140924	54.5	54.9	r_up	bailouts:1 give:1 federal:2 big:1 top:1 allowed:1 their:1 while:1 said:1 exit:1 raises:1 pay:1 watchdog:1 firms:1 executives:1
+AIG	20140929	54.9	54.1	r_down	now:1 set:1 financial:2 challenging:1 says:1 over:1 global:1 dollar:1 rest:1 height:1 '':2 rising:2 year:1 's:2 crisis:2 expensive:1 out:1 financial-services:1 strength:1 court:1 built:1 tough:1 cast:1 make:1 insurer:1 powerhouse:1 little-known:1 bailout:1 potentially:1 suit:1 5:1 markets:1 into:1 week:1 ``:2 return:1 rescue:1 government:2 unnerve:1 company:1 shareholder:1 characters:1 trader:1 stocks:1 beginning:1 he:1 begins:1 crisis-era:1 could:1 keep:1 trial:1 through:1 playing:1
+AIG	20140930	54.1	54.0	r_down	all:1 stake:3 says:1 consider:1 deal:1 into:1 seizing:2 back:1 month:1 '':2 rate:1 writes:1 40:3 another:1 cuts:1 need:1 rally:1 forget:1 its:2 lawyer:2 if:1 again:1 shareholders:3 court:2 $:4 majority:2 union:1 way:2 workers:1 government:4 been:1 should:1 start:1 bailout:2 fourth:1 under:2 got:2 you:2 has:1 hope:1 stock:1 that’s:1 ``:2 's:5 provides:1 get:1 track:1 litigator:1 sold:1 million:1 pumping:1 but:1 bulls:1 insurer:3 'd:1 know:1 punish:1 100:1 lawsuit:2 extortion:1 he:1 billion:2 interest:1 equity:1 attempt:1 called:1 crisis-era:2 --:1 casino:1 against:2 round:1 ignore:1 federal:2 grab:1 quarter:1 out:1 agree:1 once:1
+AIG	20141001	54.0	52.9	r_down	claim:1 just:1 companies:1 some:1 flips:1 seizure:1 including:1 rally:1 calendar:1 insurance:1 shareholders:2 20:1 investors:1 crisis:1 much:1 fourth:1 capital:1 new:1 firms:1 territory:1 sent:1 seeking:1 rules:1 equity:1 approaches:1 bailout:1 affect:1 post:1 stocks:1 data:1 those:1 longer:1 calls:1 starts:1 could:1 request:1 keep:1 trial:1 can:1 rising:1 quarter:1
+AIG	20141002	52.9	52.6	r_down	financing:1 said:1 recently:1 banks:1 person:1 rival:1 owned:1 lender:2 held:1 takeover:1 familiar:1 discussions:1 matter:1
+AIG	20141003	52.6	53.3	r_up	named:1 set:1 challenging:1 proposed:2 wonder:1 cyber:1 hearing:1 including:1 insurance:1 market:1 millions:1 information:1 soured:1 said:1 mortgage:1 contest:1 federal:1 your:1 breaches:1 equity:1 biggest:1 themselves:1 has:1 formally:1 finance:1 insurer:1 beat:1 funds:1 pitfalls:1 private:1 news:1 hedge:1 hold:1 why:1 those:1 protect:1 designation:1 crisis-era:1 dollars:1 vehicles:1 companies:1 up:1 securities:1 investing:1 chief:1 officer:1 policies:1 were:1 banks:1 security:2 asked:1
+AIG	20141010	53.3	49.9	r_down	financial:2 resting:1 powerful:1 private:1 including:1 world:1 rigorous:1 decisions:1 your:1 rescue:1 lessons:1 person:1 defend:1 high-stakes:1 actually:1 charge:1 bailout:1 too:1 equity:1 answer:1 out:1 might:1 do:1 his:1 finance:1 fate:1 lend:1 beat:1 funds:1 took:1 biggest:1 fall:1 news:1 hedge:1 ear:1 he:1 made:1 most:1 did:1 markets:1 well:1 n't:1 trial:1 stand:1 turns:1 banks:1 exist:1 2008:3

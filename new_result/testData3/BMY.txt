@@ -1,0 +1,59 @@
+BMY	20140103	49.5	51.7	r_up	
+BMY	20140108	51.7	52.2	r_up	all:1 industrial:1 deal:1 revenue:1 some:1 number:1 trade:1 past:1 battle:1 actively:1 agents:1 thanks:1 year:1 need:1 first-quarter:1 education:1 yet:1 its:3 if:1 information:1 26:1 said:1 20:1 $:1 topped:1 profit:1 delays:1 expectations:2 shares:2 should:1 accelerated:1 investigational:1 other:1 electrical:1 earnings:3 for-profit:1 expected:1 types:1 outlook:1 boost:1 hepatitis:1 9.2:1 treatment:2 core:1 's:4 premarket:1 business:1 get:1 company:2 combination:1 effect:1 enrollments:1 regulators:1 fell:1 acquisitions:1 they:2 ask:1 continued:2 declining:1 diabetes:1 fiscal:3 sending:1 third-quarter:1 getting:1 climbed:1 companies:1 up:1 project:1 missed:1 negative:1 session:1 products:1 analysts:1 raised:1 review:1
+BMY	20140109	52.2	53.8	r_up	
+BMY	20140110	53.8	54.9	r_up	
+BMY	20140115	54.9	53.3	r_down	
+BMY	20140116	53.3	53.6	r_up	
+BMY	20140121	53.6	53.4	r_down	
+BMY	20140123	53.4	52.8	r_down	heart:1 cancer:1 these:1 could:1 companies:1 hepatitis:1 failure:1 fortunes:1 5:1 drug:1 2014:1 boost:1
+BMY	20140124	52.8	49.8	r_down	trim:1 fourth-quarter:1 adjusted:1 318:1 set:1 broke:2 investors:1 tumble:1 deep:1 one:1 down:1 see:1 currencies:1 lull:1 further:1 portfolio:1 open:2 trade:1 aiming:1 out:1 whose:1 little:1 said:1 cancer:1 equities:1 revenue:1 question:1 shares:1 going:1 earnings:3 way:1 expected:1 dropping:1 therapies:1 stock:1 week:1 eventually:1 them:1 finish:1 's:2 offer:1 benefiting:1 company:2 rise:1 watch:1 much:1 break:1 reported:1 market:2 respite:1 they:2 active:1 last:1 stocks:3 flee:1 expand:1 futures:1 session:1 improved:1 ahead:1 amid:1 could:1 losses:3 companies:1 emerging-markets:1 keep:1 n't:1 while:1 points:1 were:1 worries:1 drops:1 other:1 better-than-expected:1
+BMY	20140128	49.8	49.9	r_up	
+BMY	20140210	49.9	51.0	r_up	giant:1 $:1 sold:1 million:1 drug:1 shares:1
+BMY	20140214	51.0	53.2	r_up	
+BMY	20140219	53.2	52.3	r_down	
+BMY	20140220	52.3	52.7	r_up	
+BMY	20140221	52.7	52.9	r_up	
+BMY	20140225	52.9	52.5	r_down	available:1 help:1 agreed:1 executive:1 orphan:2 '':1 sources:1 say:1 pleased:1 before:1 25:1 said:3 $:1 specialty-drug:1 chief:1 children:1 development:1 treat:1 affecting:1 bought:1 week:1 ``:1 global:1 company:3 diet:1 therapy:1 adults:1 president:1 approved:3 billion:1 last:1 deficiency:1 --:1 medicines:1 vice:1 drug:2 patients:1 complications:1 officer:1 lives:1 medical:1 acquisition:1 first:1
+BMY	20140228	52.5	52.6	r_up	
+BMY	20140304	52.6	55.2	r_up	rating:1 outlook:2 rises:1 sinks:1 raises:1 hike:1 after:1 disappointing:1 credit:1 while:1 wake:1 earnings:1 drops:1 its:1 gains:1
+BMY	20140310	55.2	54.9	r_down	search:1 lineups:1 's:2 like:1 medicines:1 hunters:1 scouts:1 outside:1 drug:1 labs:1 their:2 have:1 baseball:1 new:1 stars:1 pick:1 become:1 trying:1 drug-company:1 tomorrow:1 scientists:1
+BMY	20140311	54.9	54.6	r_down	
+BMY	20140325	54.6	49.9	r_down	
+BMY	20140403	49.9	50.1	r_up	
+BMY	20140408	50.1	48.3	r_down	into:2 results:3 schizophrenia:1 doses:2 its:2 said:3 antipsychotic:2 positive:2 submit:1 application:1 3:2 clinical:2 treatment:4 new:1 sold:1 12-week:1 body:1 company:1 expects:1 during:1 both:2 third:1 showed:2 --:5 study:1 drug:2 trial:2 injectable:2 quarter:1 once:1
+BMY	20140409	48.3	49.8	r_up	
+BMY	20140411	49.8	48.1	r_down	
+BMY	20140416	48.1	48.4	r_up	
+BMY	20140422	48.4	50.2	r_up	four:1 narrows:1 's:1 business:1 cancer:1 drugs:1 decision:1 vaccines:1 focus:1 treatments:1 leave:1 field:1 hot:1 just:1 products:1 its:1 areas:1
+BMY	20140425	50.2	49.7	r_down	
+BMY	20140523	49.7	48.0	r_down	
+BMY	20140528	48.0	47.9	r_down	breadth:1 given:1 pipeline:1 depth:1 looks:1 its:1 best:1
+BMY	20140530	47.9	49.0	r_up	firm:1 lawyers:1 exits:1 merger:1 larger:1 go:1 between:1 high-profile:1 now:1 heading:1
+BMY	20140603	49.0	48.2	r_down	
+BMY	20140604	48.2	46.8	r_down	
+BMY	20140609	46.8	45.9	r_down	billion:1 buy:1 's:1 $:2 3.85:2 hepatitis:1 --:1 5th:1 three:1 value:2 than:1 high:1 example:1 drug:1 latest:1 makers:1 putting:1 treatments:1 times:1 agreed:1 more:1
+BMY	20140616	45.9	46.5	r_up	
+BMY	20140623	46.5	47.3	r_up	
+BMY	20140703	47.3	48.1	r_up	
+BMY	20140708	48.1	47.5	r_down	'':1 ``:1 said:1 faster:1 developing:1 giving:1 potentially:1 review:1 access:1 designated:1 leukemia:1 breakthrough:1 process:1 therapy:1 treatment:1 regulatory:1 new:1
+BMY	20140711	47.5	48.2	r_up	
+BMY	20140714	48.2	48.7	r_up	beneficial:1 deal:2 health-care:1 tax:3 head:1 marked:1 one:1 '':1 good:2 through:1 looks:1 close:2 pharmaceutical:2 giant:1 said:1 $:2 would:1 offer:1 two:1 their:1 health:1 board:1 which:1 largest:1 got:1 has:2 ``:1 buy:1 's:2 seeking:1 share:1 company:1 recommend:1 lower:1 purposes:1 burden:1 prepared:1 overseas:1 billion:1 inversion:1 like:1 success:1 these:1 54:2 industry:1 companies:3 drug:1 deals:2 itself:1 wins:1 inversions:1 efforts:1 corporate:1 think:1 latest:2
+BMY	20140716	48.7	48.4	r_down	body:1 better:1 million:1 's:1 $:1 cancer:1 attacks:1 type:1 cell:1 45:1 treatments:1 direct:1 aim:1 kill:1 blood:1 injectable:1 white:1 foreign:1 makes:1 cells:1 experimental:1
+BMY	20140722	48.4	48.7	r_up	streak:1 past:1 keeping:1 over:1 30:1 alive:1 years:1 1:1 fund:1 9:1 stock:1
+BMY	20140724	48.7	49.1	r_up	operations:2 body:1 latest:1 highs:1 restructure:2 cancer:2 revenue:1 cents:1 declines:1 sales:3 system:1 helped:1 itself:1 trading:1 shares:1 unveiled:1 year:1 sought:1 still:1 its:4 market:1 25:1 said:1 $:2 analyst:2 immune:1 make:1 better-than-expected:1 had:1 expectations:2 hepatitis:1 second-quarter:3 late:1 can:2 difference:1 clinical:1 earnings:3 certain:1 expected:1 new:2 start:1 treatment:1 development:1 season:1 's:4 plans:1 record:1 though:1 drugs:3 big:1 company:2 continues:1 continuing:1 but:1 focus:1 reported:1 slipped:1 historic:1 thank:1 instead:1 such:1 strong:1 than:1 areas:2 billion:1 last:1 launch:1 --:1 programs:1 disease:1 drug:2 morning:1 harness:1 fell:1 discovery:1 lends:1 push:1 more:1 stock:1 maker:1 eliminating:1 research:1
+BMY	20140728	49.1	49.4	r_up	
+BMY	20140731	49.4	50.2	r_up	raised:1 into:1 focus:1 analytics:1 second:1 year:1 insurance:1 plow:1 profit:1 investment:1 1:1 earnings:1 outlook:1 full:1 though:1 leveraging:1 continues:1 broker:1 net:1 pipeline:1 join:1 quarter:1 its:2
+BMY	20140805	50.2	49.0	r_down	
+BMY	20140811	49.0	48.7	r_down	prompted:1 distributors:1 allegations:1 sales:1 bribery:1 warning:1 fine:1 makers:2 regulator:1 anti-trust:1 $:1 working:1 profit:1 conspiring:1 other:1 between:1 several:1 meeting:1 million:1 's:1 allegedly:1 pharmaceutical:1 1.8:1 company:1 under:1 weak:1 took:1 contends:1 pressure:1 country:1 drug:3 keep:1 large:1 generic:1 place:1 maker:1
+BMY	20140820	48.7	49.6	r_up	collaborate:1 cancer:1 study:1 immunotherapy:1 clinical:1 treatment:1 combining:1 chemotherapy:1 potential:1
+BMY	20140828	49.6	50.1	r_up	5.3:1 last:1 $:1 her:1 million:1 according:1 owned:1 released:1 documents:1 least:1 year:1 husband:1 assets:1
+BMY	20140903	50.1	50.1	r_up	
+BMY	20140916	50.1	50.7	r_up	
+BMY	20140923	50.7	50.9	r_up	
+BMY	20140924	50.9	51.5	r_up	
+BMY	20140929	51.5	51.3	r_down	cancer-drug:1 conference:1 immunotherapies:2 actively:1 especially:1 offering:1 drugs:1 session:1 companies:1 's:1 shares:1 existing:1 their:1 other:1 promise:2 combined:1 expected:1 fresh:1 trade:1 data:1
+BMY	20140930	51.3	50.8	r_down	
+BMY	20141001	50.8	50.5	r_down	session:1 1.4:2 said:1 's:1 $:2 point:1 obligations:1 transfer:1 billion:1 companies:1 shares:1 trade:1 long-term:1 actively:1 pension:1 expected:1 data:1 potential:1 therapies:1 plans:1
+BMY	20141002	50.5	50.2	r_down	
+BMY	20141003	50.2	50.8	r_up	
+BMY	20141010	50.8	50.2	r_down	

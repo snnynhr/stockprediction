@@ -1,0 +1,59 @@
+CAT	20140103	92.7	87.4	r_down	
+CAT	20140108	87.4	86.8	r_down	among:1 hurdles:1 analyze:1 factors:1 deals:1 initial:1 companies:1 stocks:1 damped:1 offerings:1 moratorium:1 have:1 enthusiasm:1 foreign:1 public:1 well-known:1 recent:1
+CAT	20140109	86.8	87.3	r_up	
+CAT	20140110	87.3	88.1	r_up	
+CAT	20140115	88.1	90.0	r_up	
+CAT	20140116	90.0	90.2	r_up	
+CAT	20140121	90.2	88.8	r_down	's:1 gains:1 wiped:1 three:1 been:1 early:1 thanks:1 have:1 stocks:1 away:1
+CAT	20140123	88.8	86.7	r_down	
+CAT	20140124	86.7	84.4	r_down	earlier:1 dealers:1 ended:1 31:1 months:1 selloff:1 sales:1 declined:1 three:1 9:2 16000:2 machinery:1 another:1 year:1 taken:1 has:1 casualty:1 out:1
+CAT	20140128	84.4	90.6	r_up	sector:1 emerging:1 unemployment:1 sporting:1 fall:1 results:2 course:1 bright:1 still:1 its:2 before:1 web:1 writes:1 show:1 had:1 blog:1 pretty:1 2015:1 save:1 earnings:2 advises:1 do:1 around:1 loss:1 rebound:1 rise:1 sooner:1 early:1 inflation:1 despite:1 report:1 chips:1 three-day:1 articles:1 outperform:1 drop:1 companies:1 small:1 side:1 better-than-expected:1 because:1 posts:1 some:2 up:1 rate:1 cost:1 expect:1 home:1 investment:1 short-term:1 even:1 said:2 gainers:2 managing:1 while:1 shares:1 forecast:1 're:2 falling:1 row:1 issue:1 run:1 creating:1 business:1 weak:1 release:1 strong:1 roundup:1 director:1 last:1 ahead:2 dollars:1 wealth-management:1 days:1 against:1 economic:1 positive:1 executives:1 among:1 dilemma:1 selloff:1 betting:1 community:1 down:1 pummeled:1 another:1 millions:1 debt-issuance:1 late:1 debt:1 eye:1 raise:1 leading:1 question:1 least:1 rates:3 interest:3 markets:1 500:1 ``:1 company:2 but:1 quarterly:2 than:1 he:1 weighed:1 keeping:1 has:1 whether:2 flip:1 n't:2 remain:1 growth:1 can:2 prospect:1 costly:1 investors:1 give:1 predict:1 sales:1 expenses:1 '':1 optimistic:1 finance:2 floating-rate:1 5:1 split:1 green:2 gains:1 higher:1 week:1 's:4 after:1 tops:1 chiefs:1 most:1 stocks:3 data:1 attempt:1 so:1 shade:1 senior:1 corporate:1
+CAT	20140210	90.6	92.6	r_up	
+CAT	20140214	92.6	94.6	r_up	
+CAT	20140219	94.6	94.3	r_down	
+CAT	20140220	94.3	95.0	r_up	
+CAT	20140221	95.0	95.5	r_up	
+CAT	20140225	95.5	94.5	r_down	
+CAT	20140228	94.5	95.0	r_up	
+CAT	20140304	95.0	95.1	r_up	
+CAT	20140310	95.1	94.8	r_down	
+CAT	20140311	94.8	94.9	r_up	
+CAT	20140325	94.9	96.6	r_up	
+CAT	20140403	96.6	100.5	r_up	25:1 documents:1 's:2 office:1 groove:1 tales:1 after:1 some:1 back:1 public:1 its:1 officials:1 high-profile:1 failures:1 corrupt:1 targeting:1 has:1 revealed:1 corruption:1
+CAT	20140408	100.5	100.3	r_down	long-running:1 committees:1 tip:1 atop:1 overhauling:1 some:1 taxes:1 debate:1 key:1 coming:1 balance:1 corporate:1 could:1 congressional:1
+CAT	20140409	100.3	100.9	r_up	
+CAT	20140411	100.9	99.4	r_down	
+CAT	20140416	99.4	101.5	r_up	
+CAT	20140422	101.5	102.2	r_up	streak:2 6:1 money:1 offerings:1 currency:1 including:1 world:1 close:1 total:1 its:1 longest:2 equipment:1 use:1 retirement:2 end:1 do-it-yourself:1 million:1 their:1 writes:1 six:1 reinvestment:1 stocks:1 winning:1 eager:1 win:1 500:2 higher:1 modestly:1 mining:1 buy:1 's:2 plans:1 form:1 bonds:1 big:1 rise:1 helping:1 construction:1 brokers:1 they:1 dividend:1 yuan:1 $:1 extend:1 mths:1 largest:1 33:1 months:1 companies:1 35:1 record:1 compensation:1 2013:1 said:1 maker:1 plan:1
+CAT	20140425	102.2	103.2	r_up	lid:1 saying:1 border:1 financial:1 stock:1 flat:1 over:1 share:1 results:1 quarters:1 slowdown:1 engineering:1 session:2 result:1 broader:1 stronger-than-expected:1 first-quarter:1 technology:1 its:1 market:3 finishes:1 blue:1 given:1 end:1 deal:1 driving:1 powered:1 profit:1 surprises:1 writes:1 better-than-expected:1 generally:1 near:1 shares:1 data:1 business:1 equipment:1 advisories:1 volatile:1 earnings:3 upbeat:1 has:1 500:1 higher:2 roundup:1 's:1 gains:1 mostly:1 4.8:1 continues:1 sales:1 construction:1 moving:1 report:1 stocks:1 chips:1 buybacks:1 several:1 kept:1 splits:1 soft:1 taking:1 companies:1 reports:1 rose:1 while:1 future:1 positive:1 worries:1 military:1 choppy:1 corporate:1 maker:1 latest:1
+CAT	20140523	103.2	102.5	r_down	
+CAT	20140528	102.5	101.4	r_down	
+CAT	20140530	101.4	100.8	r_down	
+CAT	20140603	100.8	103.0	r_up	significantly:1 revenue:1 expanding:1 sales:1 past:1 if:1 even:1 lately:1 much:1 has:1 500:1 happened:1 may:1 not:1 rises:1 faster:1 companies:1 n't:2 benefit:1 improves:1 so:1 usually:1 economy:2
+CAT	20140604	103.0	102.8	r_down	
+CAT	20140609	102.8	107.2	r_up	
+CAT	20140616	107.2	105.3	r_down	
+CAT	20140623	105.3	107.2	r_up	agency:1 charter:1 said:1 exports:1 like:1 would:1 show:1 --:2 support:1 placing:1 companies:1 major:1 2nd:1 n't:2 doubt:1 future:1 he:1
+CAT	20140703	107.2	109.5	r_up	's:1 latest:1 high:1 record:1 accounted:1 above:1 half:1 push:1 new:1 stocks:1 17000:1 than:1 more:1
+CAT	20140708	109.5	107.9	r_down	financial:1 investors:1 up:1 backing:1 steady:1 over:2 sign:1 one:1 society:1 have:1 close:1 its:1 market:1 if:2 prosperity:1 would:1 also:1 provide:1 revive:1 long:1 why:1 companies:1 run:1 health:1 income:1 policy:1 you:1 five-year:1 opt:1 's:1 propose:1 endorsement:1 but:1 bull:1 stocks:1 lawmakers:1 change:1 term:1 culture:1 double:1 could:2 clients:1 snapping:1 according:1 airline:1
+CAT	20140711	107.9	108.4	r_up	
+CAT	20140714	108.4	108.5	r_up	effect:1 offer:1 far:1 complies:1 stricter:1 emission:1 next:1 behind:1 race:1 take:1 year:1 railroad:1 standards:1 locomotive:1
+CAT	20140716	108.5	109.8	r_up	
+CAT	20140722	109.8	109.2	r_down	
+CAT	20140724	109.2	104.2	r_down	sector:1 saying:1 help:1 unemployment:1 results:1 quarters:1 switches:1 course:1 session:3 recoup:1 years:1 its:3 24:1 giant:1 thank:1 zone:1 ignition:1 lackluster:1 surprises:1 expectations:1 economy:1 advisories:1 4:1 premarket:1 equity:1 quarterly:1 hit:2 gains:1 linked:1 income:1 propelled:1 geopolitical:1 second-half:1 bubbles:1 trade:2 day:1 --:1 drop:1 companies:3 processed:1 recalls:1 stock:2 better-than-expected:1 set:1 ekes:1 related:1 second:1 economic:2 trading:1 changed:1 close:2 80:1 eked:1 out:3 index:1 said:1 actively:2 profit:3 tensions:1 since:1 compensation:1 shares:2 forecast:1 increase:1 net:1 across:1 can:1 impact:1 after:2 reported:1 key:1 offset:1 strong:2 earlier:1 $:1 roundup:1 quarter:2 benefits:1 region:1 losses:1 reports:5 range:1 figures:1 rose:3 mixed:1 narrow:1 traded:1 first:1 6:1 major:1 three:1 throughout:1 market:3 little:1 industrials:1 networking:1 jobless:2 would:2 start:1 housing:1 two:1 their:2 rates:1 interest:1 vehicle:1 expected:2 lingering:1 some:1 surges:1 but:4 sales:1 filed:1 last:1 second-quarter:2 posted:1 10:1 deluge:1 car:1 straight:1 up:1 record:6 below:1 future:1 500:5 were:2 climbed:1 investors:2 0.1:2 0.2:1 1.9:1 high:1 slip:1 victims:1 technology:1 bolstered:1 defective:1 indexes:3 also:1 earnings:7 season:1 higher:2 week:1 conflicting:1 added:1 's:3 highs:1 social:1 fewest:1 driven:1 applications:1 helped:1 fell:3 funding:1 plan:1 robust:1 stocks:2 data:2 euro:1 especially:1 third:1 charges:1 well:1 gap:1 points:3 2006:1 push:1 claims:2 accidents:1 corporate:3 latest:2
+CAT	20140728	104.2	103.3	r_down	heavy:1 encouraging:1 jump:1 electronic:1 makers:1 adding:1 use:1 monitoring:1 $:1 equipment:1 1:1 their:1 pile:1 usage:1 new:1 announced:1 stock:1 customers:1 bandwagon:1 big:1 buyback:2 repurchase:1 billion:1 assess:1 programs:1 devices:1 activity:1 corporate:1
+CAT	20140731	103.3	99.9	r_down	after:1 20:1 they:1 cheap:1 drop:1 plunged:1 up:1 too:1 have:1 pass:1 military:1 now:1 orders:1 look:1
+CAT	20140805	99.9	100.7	r_up	lock:1 financing:1 unexpected:1 's:1 bonds:1 seizing:1 year:1 upon:1 cheap:1 issuing:1 rates:1 interest:1 fall:1 long-dated:1
+CAT	20140811	100.7	103.7	r_up	
+CAT	20140820	103.7	106.8	r_up	
+CAT	20140828	106.8	107.8	r_up	
+CAT	20140903	107.8	107.6	r_down	
+CAT	20140916	107.6	104.0	r_down	
+CAT	20140923	104.0	99.2	r_down	shop:1 operations:1 saves:1 undermining:1 maintained:1 fail:1 tools:1 their:1 poorly:1 productivity:1 driving:1 floor:1 spending:1 millions:1 before:1 disrupt:1 them:1 infrastructure:1 urging:1 predicting:1 they:1 discuss:1 repairing:1 increasing:1 dollars:1 up:1 costs:1 can:1 options:1 say:1
+CAT	20140924	99.2	100.4	r_up	
+CAT	20140929	100.4	99.0	r_down	prime:1 them:1 business:1 some:1 visit:1 opportunities:1 years:1 companies:1 minister:1 courts:1 pitch:1 biggest:1 extensive:1 several:1 meeting:1 investment:1 first:1
+CAT	20140930	99.0	98.2	r_down	
+CAT	20141001	98.2	96.8	r_down	
+CAT	20141002	96.8	96.6	r_down	
+CAT	20141003	96.6	96.6	r_up	
+CAT	20141010	96.6	92.4	r_down	

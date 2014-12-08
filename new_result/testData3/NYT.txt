@@ -1,0 +1,59 @@
+NYT	20140103	12.0	15.4	r_up	bound:1 up:1 topic:1 unrest:2 see:2 economic:1 experts:1 questions:1 year:2 still:1 technology:1 its:1 swath:1 little:1 court:1 views:1 regulation:1 surveillance:1 their:1 hot:1 future:1 goes:1 between:1 answer:1 2014:2 has:1 across:1 pending:1 foundation:1 's:2 offer:2 rules:1 big:1 serve:1 architects:1 policy:1 new:2 cases:1 case:1 criminal:1 phone:1 likely:1 against:2 connection:1 continue:1 social:2
+NYT	20140108	15.4	15.0	r_down	his:1 himself:1 's:1 multimillionaire:1 cash:1 n't:1 most:1 describes:1 does:1 want:1 says:1
+NYT	20140109	15.0	14.9	r_down	ca:1 random:1 some:1 gadfly:1 n't:1 rooms:1 high-profile:1 seem:1 still:1 standing:1 tables:1 cut:1 attendees:1 there:1 political:1 legal:1 start:1 3:2 potential:1 tycoons:1 can:1 them:1 's:3 power:1 hotel:1 pursuit:1 news:1 prestige:1 day:1 like:1 sound:1 assets:1 quiet:1 deals:1 dinner:1 retreating:1 overseas:1
+NYT	20140110	14.9	15.0	r_up	running:1 investigation:1 's:2
+NYT	20140115	15.0	15.3	r_up	
+NYT	20140116	15.3	15.1	r_down	sell:1 firm:1 network:1 deal:1 situations:1 stake:1 investment:1 majority:1 turnaround:1 news:1 reached:1 has:1 local:1 its:1
+NYT	20140121	15.1	15.2	r_up	
+NYT	20140123	15.2	15.1	r_down	
+NYT	20140124	15.1	14.3	r_down	'':2 ``:2 novel:1 's:2 most:1 successful:1 study:1 reviews:1 their:1 cultural:1 opens:1 31:1 100-year:1 film:1 history:1
+NYT	20140128	14.3	14.4	r_up	information:1 documents:1 show:1 ecosystem:1 app:1 mine:1 contractor:1 targets:1 intelligence:1 published:1 growing:1 spies:1 former:1 latest:1
+NYT	20140210	14.4	14.1	r_down	wage:1 work:1 n't:1 minimum:1 poverty:1 does:1 address:1
+NYT	20140214	14.1	14.3	r_up	website:1 week:1 group:1 hoping:1 students:1 studying:1 age:1 earlier:1 election:1 coverage:1 digital:1 reinvent:1 tech-savvy:1 launched:1
+NYT	20140219	14.3	14.5	r_up	search:1 tags:1 blames:1 climate:1 water:1 prices:1 truck:1 uninsured:1 along:1 more:1 orders:1 change:1 higher:1
+NYT	20140220	14.5	14.6	r_up	
+NYT	20140221	14.6	15.0	r_up	fiscal:1 200:1 $:2 investigations:1 million:1 expects:1 related:1 than:1 bribery:1 potential:1 year:1 foreign:1 violations:1 next:1 spend:1 more:1
+NYT	20140225	15.0	15.7	r_up	
+NYT	20140228	15.7	16.2	r_up	one:1 '':1 zero:1 go:1 's:2 utility:1 hit:1 n't:1 police:1 takes:1 her:1 no:1 hardest:1 rates:1 interest:1 call:1 ``:1 woman:1 door:1 whose:1 stay:1 regular:1 up:1 reviews:1 wallet:1 near:1 steps:1 bills:1
+NYT	20140304	16.2	16.3	r_up	``:1 's:1 glory:1 entertainment:1 ran:1 excerpt:1 days:1 owned:1 '':1 book:1 but:1 team:1 franchise:1 new:1 sweat:1
+NYT	20140310	16.3	16.6	r_up	short-seller:1 jet:1 no:1 federal:1 investigations:1 problems:1 sign:1 taxpayers:1 pension:1 wreckage:1 flee:1 seeks:1
+NYT	20140311	16.6	16.5	r_down	outgoing:1 safe:1 's:1 secrets:1 clients:1 head:1 nation:1 hands:1 lawyers:1 message:1 has:1
+NYT	20140325	16.5	16.1	r_down	publishers:1 major:1 million:1 raise:1 consumers:1 after:1 share:1 two:1 begun:1 years:1 settlement:1 their:1 accused:1 five:1 have:1 prices:1 receiving:1 $:1 e-book:1
+NYT	20140403	16.1	16.1	r_up	
+NYT	20140408	16.1	15.7	r_down	roundup:1 news:1 private:1
+NYT	20140409	15.7	16.0	r_up	website:1 publisher:1 's:1 acquired:1 into:1 continuing:1 push:1 online:1 newspaper:1 new:1 tools:1 resources:1
+NYT	20140411	16.0	15.6	r_down	roundup:1 bin:1 ``:1 knew:1 's:1 army:1 even:1 intelligence:1 agency:1 cover:1 up:1 private:1 reviews:1 chief:1 protected:1 hid:1 '':1 news:1 ally:1
+NYT	20140416	15.6	16.5	r_up	said:1 neighborhoods:1 certain:1 had:1 been:1 criticized:1 other:1 profiling:1 duties:1 units:1 residents:1 has:1 its:1 unit:1
+NYT	20140422	16.5	16.9	r_up	control:1 departed:1 hard:1 election:1 have:1 legal:1 its:2 out:1 media:1 same:1 forecast:1 majority:1 way:1 learned:1 measures:1 's:1 risk:1 battered:1 company:1 predicting:1 protect:1 chance:1 cycle:1 keeping:1 age:1 51:1 leave:1 reputation:1 can:1 social:1 first:1 replacement:1
+NYT	20140425	16.9	16.2	r_down	says:1 ad:1 pointing:1 revenue:1 global:1 uptick:1 years:1 '':1 blip:1 growth:1 economist:1 out:1 wage:1 incomes:1 rose:1 been:1 than:1 fourth:1 print:1 has:2 bottomed:1 more:1 ``:1 publisher:1 2005:1 rare:1 sign:1 appears:1 recent:2 high:1 last:1 industry:1 reports:1 standards:1 time:1 newspaper:1 quarter:2 first:1
+NYT	20140523	16.2	14.8	r_down	
+NYT	20140528	14.8	14.9	r_up	low:1 's:2 target:1 zone:1 era:1 diplomacy:1 inflation:1 too:1 new:1 cause:1 euro:1
+NYT	20140530	14.9	14.7	r_down	
+NYT	20140603	14.7	14.7	r_up	his:1 journalists:1 confidential:1 reporter:1 up:1 legal:1 rejecting:1 source:1 protections:1 take:1 testimony:1 fighting:1 appeal:1 issue:1 seeks:1 subpoena:1
+NYT	20140604	14.7	14.7	r_up	'':1 fed:1 's:1 us:2 government:1 ``:1 encouraging:1 fat:1 reviews:1 crusade:1 spread:1 against:1 foods:1 obesity:1 if:1
+NYT	20140609	14.7	15.4	r_up	
+NYT	20140616	15.4	15.1	r_down	
+NYT	20140623	15.1	15.2	r_up	evolution:1 's:1 theory:1 awkward:1 rejecting:1 academics:1 human:1 position:1
+NYT	20140703	15.2	15.5	r_up	gone:1 have:1 two:1 not:1 single:1 cost:1 triple:1 issue:1 culprit:1 system:1 their:1 only:1 health:2 widely:1 confronting:1 public:1 dilemmas:1 used:1 creating:1 doctors:1 prices:1 last:1 one:1 vaccine:1 care:1 digits:2 prescription:1 decades:1 medicines:1 sometimes:1 well:1 patients:1 budgets:1
+NYT	20140708	15.5	14.7	r_down	
+NYT	20140711	14.7	14.3	r_down	disclosure:1 raised:1 associated:1 less:1 previously:1 one:1 questions:1 its:2 information:2 disclosed:1 time:1 has:1 's:1 after:1 yesterday:1 failure:1 effects:1 report:1 month:1 than:1 made:1 publicly:1 drug:2 side:1 maker:1 were:1 filing:1 comes:1 first:1
+NYT	20140714	14.3	14.3	r_up	session:1 regarding:1 's:4 $:1 allegedly:1 government:1 federal:1 up:1 companies:1 agreement:1 shares:1 trade:1 wireless:1 actively:1 7:1 venture:1 news:1 expected:1 suing:1 morning:1 rounds:1
+NYT	20140716	14.3	14.1	r_down	
+NYT	20140722	14.1	14.1	r_up	's:2 show:1 literally:1 over:1 sometimes:1 sponsors:1 same:1 one:1 past:1 few:1 finger:1 time:1 weeks:1 has:1
+NYT	20140724	14.1	14.1	r_up	false:1 ad:1 had:2 guided:1 allegations:2 year:2 's:2 linked:1 improperly:1 administration:2 commission:2 attack:1 abruptly:2 corruption:2 then:2 his:1 seized:2 earlier:2 groups:2 response:1 he:1 created:2 work:2
+NYT	20140728	14.1	13.9	r_down	operations:1 another:1 campaign:1 liquor:1 one:1 manager:1 virtual:1 have:1 protecting:1 its:3 no:1 perhaps:1 make:1 been:1 find:1 supplier:2 surprise:1 assessment:1 war:1 can:1 's:7 stance:1 views:1 may:1 company:1 problems:1 loyalty:1 reason:1 former:1 address:1 president:1 now:2 than:1 case:1 works:1 faster:1 vice:1 approach:1 could:1 told:1 loyal:1 reputation:1 she:1 reliable:1 argue:1 side:1
+NYT	20140731	13.9	12.4	r_down	billion:1 said:1 $:2 create:1 fund:1 3:1 judge:1 unsecured:1 could:1 creditors:1 trustee:1
+NYT	20140805	12.4	12.7	r_up	bending:1 curve:1 universal:1 share:1 cost:1 businesses:1 have:1 openness:1 corporations:1 afoot:1 species:1 information:1 endangered:1 media:1 bias:1 should:1 their:2 breaches:1 split:1 way:1 movement:1 's:1 government:1 agencies:1 but:1 conglomerate:1 wrong:1 joins:1 data:1 celebration:1 toward:1 decided:1 newspapers:1 companies:1 premature:1 morning:1 n't:1 broadcasting:1 plus:1 magazines:1 stages:1
+NYT	20140811	12.7	12.4	r_down	political:1 regime:1 have:1 staff:1 said:1 writer:1 had:1 citizen:1 mum:1 several:1 illegally:1 's:2 here:1 'd:1 coming:1 now:1 come:1 card:1 moderate:1 join:1 wife:1 my:1 married:1 magazine:2 columnist:1 green:1 supposed:1 newspaper:1 latest:1 changes:1 first:1
+NYT	20140820	12.4	12.2	r_down	after:1 group:1 government:3 within:1 country:1 top:1 reporter:1 leaving:1 discussions:1 barred:1 interim:1 special:1 interest:1 published:1 newspaper:1 article:1 gets:1 public:1 prosecutor:1
+NYT	20140828	12.2	12.3	r_up	
+NYT	20140903	12.3	12.2	r_down	hallmark:1 hunger:1 prefer:1 niche:1 '':1 election:1 ailing:1 portfolio:1 traditional:1 variety:1 media:1 'quality:1 been:1 should:1 looking:1 their:1 digital:1 2014:1 you:1 has:1 available:1 ``:1 's:1 get:1 food:1 but:1 wave:1 'd:1 new:1 brands:1 news:1 now:1 cycle:1 organizations:1 companies:1 websites:1 n't:2 act:1 newspaper:1 feeling:1 starting:1 revitalize:1
+NYT	20140916	12.2	11.8	r_down	consensus:1 made:1 's:1 duo:1 far:1 indeed:1 reviews:1 so:1 6:3 new:1 out:1 best:2 first:1
+NYT	20140923	11.8	11.5	r_down	his:1 things:1 wrong:1 sets:1 president:1 gets:1 apart:1
+NYT	20140924	11.5	11.5	r_up	negotiation:1 less:1 some:1 back:1 clout:1 contract:1 group:1 network:1 sites:1 send:1 their:2 publishers:1 's:2 plans:1 business:1 retailer:1 visits:1 authors:1 ask:1 data:1 publisher:1 websites:1 investigate:1 practices:1 ongoing:1 retailers:1 social:1 growing:1
+NYT	20140929	11.5	11.4	r_down	
+NYT	20140930	11.4	11.1	r_down	says:1 consider:1 household:1 another:1 cuts:1 if:1 $:1 incomes:1 union:1 workers:1 9:1 into:1 's:2 million:1 pumping:1 'd:1 they:1 100:1 than:1 he:1 lower:1 1999:1 casino:1 median:1 round:1 were:1 agree:1
+NYT	20141001	11.1	12.2	r_up	operations:2 6:1 old:1 two-week:1 racked:1 app:2 reduce:1 years:2 '':1 growth:2 video:1 looks:2 year:1 's:2 its:2 relatively:2 cut:3 would:2 investing:2 costs:2 eliminate:2 digital:2 new:2 has:1 ever:1 across:2 ``:1 his:1 jobs:2 views:1 far:1 company:2 after:1 said:2 previous:1 during:2 one:1 panel:1 million:1 13:2 last:1 anything:1 mobile:2 up:1 joined:1 did:1 continue:2 so:1 noted:1
+NYT	20141002	12.2	13.0	r_up	
+NYT	20141003	13.0	12.7	r_down	
+NYT	20141010	12.7	11.8	r_down	roundup:1 catastrophe:1 blames:1 private:1 news:1 er:1

@@ -1,0 +1,59 @@
+PEP	20140103	93.5	80.4	r_down	
+PEP	20140108	80.4	81.4	r_up	
+PEP	20140109	81.4	81.0	r_down	duty:1 second:1 process:1 tour:1 boardrooms:1 companies:1 up:1 back:1 filling:1 can:1 coming:1 bumpy:1 executives:1
+PEP	20140110	81.0	81.7	r_up	financial:1 civil:1 35.1:1 have:1 reached:1 settlement:1 given:1 $:1 their:1 merger:1 agency:1 been:1 also:1 way:1 biggest:1 advertising:1 giants:1 creation:1 's:2 company:1 but:1 regulators:1 paving:1 world:1 former:1 billion:1 charges:1 light:1 against:1 pursue:1 chief:1 continue:1 green:1 officer:1
+PEP	20140115	81.7	81.1	r_down	viral:1 enable:1 blogger:1 aims:1 outlet:1 media:1 go:1 any:1
+PEP	20140116	81.1	81.0	r_down	
+PEP	20140121	81.0	81.1	r_up	madness:1 snacks:2 seat:2 adding:1 snack:1 investor:2 won:1 board:2 has:1 his:2 's:4 business:2 food:1 company:1 but:2 activist:1 effort:1 gets:1 --:1 merge:2 efforts:1 maker:1
+PEP	20140123	81.1	80.6	r_down	wage:1 sector:1 uneven:1 growth:1 developing:1 developed:1 top:1 cuts:1 companies:1 looming:1 face:1 pitfalls:1 including:1 expect:1 world:2 2014:1 several:1 health-care:1 executives:1
+PEP	20140124	80.6	79.6	r_down	emerging:1 revenue:2 ``:1 '':1 foods:1 35:1 total:1 impact:1 said:1 $:3 1:1 production:1 5:2 expand:1 new:1 percentage:1 markets:1 2012:1 junk:1 's:4 plans:1 wo:1 marketing:1 company:1 plan:1 nor:1 billion:2 invest:2 taxes:1 n't:1 accounted:2 a.m.:1
+PEP	20140128	79.6	80.5	r_up	
+PEP	20140210	80.5	78.8	r_down	
+PEP	20140214	78.8	76.4	r_down	investors:1 disclosing:1 period:2 up:2 held:2 economic:1 been:2 have:2 holding:1 close:1 investment:1 row:1 shrug:1 deal:1 data:1 shares:1 activist:2 earnings:1 fourth:1 6:1 international:1 firms:2 higher:1 's:9 around:1 weak:1 company:1 rise:1 focus:1 crosshairs:2 frenzy:1 upbeat:1 news:1 stocks:2 investor:2 days:1 off:1 cable:1 ended:2 31:2 larger:2 companies:1 joined:1 quarter:1 slightly:2 stakes:2
+PEP	20140219	76.4	75.4	r_down	do:2 's:2 activist:1 campaign:1 snacks:1 may:1 just:1 hard:1 companies:1 up:2 but:1 n't:1 renewing:1 beverage:1 businesses:1 split:1 investors:1 stopping:1 its:1 urging:1
+PEP	20140220	75.4	76.3	r_up	all:2 founder:1 show:1 executive:1 soon:1 held:1 distant:1 playbook:1 still:1 debate:1 move:1 snack:1 chain:1 unemployment:1 should:1 policy:2 has:1 might:2 chairman:1 them:1 retire:1 increases:2 they:2 using:1 spur:1 bank:2 like:1 course:1 posts:1 calling:1 higher:1 discussing:1 better-than-expected:1 prevent:1 because:1 acquired:1 tea:1 up:1 rate:3 erase:1 year:1 thinks:1 subject:1 said:1 since:1 its:1 increase:1 activist:1 reading:2 public:1 shows:1 evolving:1 drink:1 business:1 possibility:1 renews:1 rises:1 central:1 ahead:1 many:1 losses:2 horizon:1 act:1 slightly:1 first:1 point:1 into:1 retailer:1 overheating:1 open:1 manufacturing:1 needed:1 sends:1 least:1 few:1 stock:1 declines:1 proposal:1 meeting:1 until:1 flat:1 ``:1 offer:1 company:1 but:1 2015:1 spin:1 behemoth:1 likely:2 officials:2 guide:1 months:1 investors:1 '':1 have:1 seem:1 cafe:1 their:2 forced:1 eventual:1 glimmers:1 same:2 write:1 book:1 split:2 largest:1 struggling:1 start:1 economy:1 's:3 plans:1 may:1 after:2 most:1 shareholder:1 letter:1 future:1 why:1 off:1 pulled:1 futures:2 well:1 roughly:1 chief:1 beverage:1 2006:1 talk:1 push:1 starting:1 came:1 latest:1
+PEP	20140221	76.3	76.5	r_up	deal:1 almost:1 well:1 executive:1 years:1 four:1 held:1 gauge:1 close:1 its:1 manufacturing:1 highest:1 since:1 split:1 largest:1 proposal:1 has:1 boost:1 higher:1 gains:1 time:1 finished:1 jumping:1 shareholder:1 chairman:1 stocks:1 bank:1 level:1 solid:1 posts:1 calling:1 chief:1 involving:1 2006:1 activity:1 found:1 more:1 pulled:1
+PEP	20140225	76.5	77.5	r_up	
+PEP	20140228	77.5	78.3	r_up	slid:1 issued:1 some:1 outlook:1 trade:1 session:1 targets:1 information:1 said:1 $:1 expectations:1 shares:2 its:1 1:1 failed:1 premarket:1 expected:1 's:3 business:1 after:1 gas:1 additional:1 regarding:1 12:1 companies:2 sale:1 midstream:1 actively:1 footwear:1 meet:1 maker:1
+PEP	20140304	78.3	79.1	r_up	talks:1 's:1 look:1 gold:1 sanctions:1 being:1 leading:1 secured:1 pros:1 trade:1 fund:1 threatened:1 suspended:1 prices:1 military:1 cooperation:1 stock:1
+PEP	20140310	79.1	80.5	r_up	
+PEP	20140311	80.5	81.6	r_up	
+PEP	20140325	81.6	81.2	r_down	
+PEP	20140403	81.2	81.7	r_up	
+PEP	20140408	81.7	82.2	r_up	
+PEP	20140409	82.2	82.7	r_up	
+PEP	20140411	82.7	81.9	r_down	
+PEP	20140416	81.9	83.5	r_up	decline:1 emerging:1 since:1 's:1 business:1 slipped:1 though:1 global:1 1:1 other:1 strong:1 volumes:1 soda:1 quarter:1 markets:1 its:1 first:2
+PEP	20140422	83.5	83.9	r_up	
+PEP	20140425	83.9	84.0	r_up	
+PEP	20140523	84.0	84.5	r_up	
+PEP	20140528	84.5	85.8	r_up	
+PEP	20140530	85.8	87.0	r_up	
+PEP	20140603	87.0	86.9	r_down	
+PEP	20140604	86.9	86.8	r_down	
+PEP	20140609	86.8	87.3	r_up	all-time:1 process:1 his:1 14:1 title:1 beat:1 wins:1 list:1 ninth:2 record:1 second:1 titles:1 singles:1 tied:1 win:1
+PEP	20140616	87.3	86.9	r_down	
+PEP	20140623	86.9	87.7	r_up	generation:1 ca:1 proven:1 say:1 experts:1 protein:1 doesn’t:1 drinks:1 industries:1 whose:1 no:1 destroying:1 writes:1 there:1 except:1 process:1 5:1 sliver:1 booming:1 cars:1 but:1 population:1 younger:1 like:1 cable:1 many:1 n't:1 millennials:1 benefit:1 products:1 small:1 soft:1 bodies:1
+PEP	20140703	87.7	89.3	r_up	week:1 even:1 little:1 money:1 ease:1 analysis:1 music:1 your:2 happened:1
+PEP	20140708	89.3	89.0	r_down	smaller:1 stores:1 dollar:1 back:1 growth:1 embrace:1 accelerate:1 its:1 market:1 out:1 giant:1 working:1 favor:1 strategy:1 rivals:1 online:1 new:2 chains:1 store:2 business:1 models:1 share:1 embracing:1 gain:1 fall:1 encroaching:1 trying:1 attempt:1 like:1 concepts:1 strategies:1 retail:1
+PEP	20140711	89.0	89.2	r_up	
+PEP	20140714	89.2	90.4	r_up	
+PEP	20140716	90.4	89.8	r_down	firm:1 over:1 tax:1 years:1 accused:1 bottlers:1 abroad:1 said:1 $:1 six:1 next:1 conspiring:1 local:1 into:1 recovered:1 more:1 monitors:1 's:1 plans:1 8.2:1 eight:1 minister:1 former:1 despite:1 president:1 law:1 than:1 panel:1 billion:1 12:1 assets:1 sanctions:1 invest:1 compliance:1 together:1 soda:1 country:1 its:1
+PEP	20140722	89.8	88.5	r_down	investors:2 ‘golden:1 over:1 activists:1 hail:1 strategic:1 mater:1 growth:1 have:1 its:1 dozen:1 renewed:1 group:1 asks:1 review:2 two:1 same:1 activist:1 dairy:1 largest:1 survive:1 has:1 do:1 company:1 according:1 but:2 not:1 than:1 alma:1 age’:1 whether:1 amid:1 average:1 companies:2 stand-alone:1 us:1 benefit:1 ensure:1 can:1 long-term:1 speculation:1 launched:1
+PEP	20140724	88.5	91.2	r_up	saying:1 stores:1 retailer:1 sales:1 competition:1 quarters:1 said:1 surprises:1 advisories:1 earnings:1 online:1 fought:1 's:2 dollar:1 company:1 lift:1 8:1 roundup:1 off:1 companies:1 reports:1 leave:1 chief:1 future:1 retailers:1 corporate:1 latest:1
+PEP	20140728	91.2	90.3	r_down	
+PEP	20140731	90.3	87.4	r_down	repair:2 navigate:2 executive:4 trade:1 culture:2 session:1 battered:2 sea:2 turning:2 its:4 best:1 taps:1 outsider:2 shares:2 habits:2 way:1 expected:1 new:3 thrive:1 play:1 's:5 bringing:2 change:2 shopping:2 age:1 companies:1 chief:1 actively:1 time:2 first:2 corporate:2 history:2
+PEP	20140805	87.4	88.5	r_up	tap:1 healthier:1 moved:1 debacle:1 have:1 shopping:1 still:1 any:1 much:1 generally:1 should:1 bottled:1 breach:2 you:1 isn’t:1 customers:2 pain:1 300:1 stop:1 but:1 else:1 water:2 they:1 data:2 buying:1 times:1 costs:1 feeling:1
+PEP	20140811	88.5	91.1	r_up	search:1 said:1 off:1 business:1 packaged-foods:1 last:1 company:1 retire:1 struggles:1 next:1 kicking:1 year:1 integrate:1 new:1 leader:1 bought:1
+PEP	20140820	91.1	91.5	r_up	outlook:1 stores:1 bring:1 second:1 year:1 its:2 even:1 again:1 cut:1 rivals:1 make:1 there:1 their:1 costs:1 shoppers:1 fizz:1 's:1 continue:1 though:1 company:1 rise:1 fell:1 traffic:1 losing:1 inroads:1 promotions:1 country:1 up:1 discounter:1 beverage:1 time:1 profits:1
+PEP	20140828	91.5	91.9	r_up	
+PEP	20140903	91.9	92.7	r_up	
+PEP	20140916	92.7	92.5	r_down	force:1 campaign:1 reasons:1 private:1 argues:1 itself:1 enticing:1 different:1 chemical:1 very:1 activist:1 successful:1 after:1 giant:1 but:1 break:1 track:1 stocks:1 investor:1 change:1 calls:1 rebuffed:1 up:1 record:1 beverage:1 investments:1 launched:1
+PEP	20140923	92.5	92.9	r_up	water:1 set:1 smaller:1 pledge:1 sizes:1 help:1 calories:1 diet:1 fight:1 producers:1 beverage:1 goals:1 obesity:1 market:1 drinks:1
+PEP	20140924	92.9	93.5	r_up	cut:1 20:1 work:1 calories:1 bottled:1 diet:1 water:1 beverage:1 through:1 promoting:1 smaller:1 drinks:1
+PEP	20140929	93.5	93.1	r_down	conference:1 mining:1 's:1 mobile:1 marketing:1 topics:1 year:1 data:1 digital:1 chatter:1
+PEP	20140930	93.1	93.0	r_down	paying:1 purchases:1 smartphones:1 reverse:1 course:1 retailer:1 competition:1 its:1 pushed:1 set:1 including:1 free:1 online:1 entry:1 aggressive:1 everyday:1 unit:1
+PEP	20141001	93.0	92.6	r_down	
+PEP	20141002	92.6	92.5	r_down	tough:1 often:1 trade:1 down:1 actively:1 through:2 shares:1 newest:1 find:1 sell:1 snack:1 been:1 its:1 going:1 which:1 expected:1 has:1 junk:1 's:1 government:1 food:1 sold:1 drink:1 cracking:1 trying:1 session:1 restrictions:1 launch:2 companies:1 taxes:1 called:1 healthier:1 products:1 advertising:1 soda:1 soft:1 options:1
+PEP	20141003	92.5	93.5	r_up	over:1 bounce:1 through:1 something:1 if:1 start:1 thinking:1 been:1 also:1 earnings:2 has:1 markets:1 we:1 upcoming:1 get:1 dead-cat:1 know:1 we’ll:1 could:1 time:1 onto:1 scare:1
+PEP	20141010	93.5	94.6	r_up	beautiful:1 raised:1 there:2 headwinds:1 headed:1 reasons:1 developed:1 pot:1 cuts:1 moved:1 outlook:1 say:1 cost:1 increases:1 devices:1 have:1 year:1 been:1 yet:1 market:1 weekly:1 closer:1 emerging:1 long:1 van:1 second:1 their:1 profit:1 drubbing:1 writes:1 since:1 offset:1 its:2 spread:1 beer:1 stock-market:1 it’s:1 biggest:1 performance:1 markets:1 events:1 seeks:1 week:1 booze:1 good:1 led:1 string:1 videogame:1 price:1 after:1 hang:1 but:1 weed:1 moment:1 banned:1 worst:2 letter:1 coming:1 step:1 news:1 stocks:1 come:1 10:1 join:1 like:1 countries:1 sluggish:1 foreign-exchange:1 losses:1 consoles:1 up:1 shipping:1 times:1 thing:1 growth:1 time:1 tapping:1 financial-market:1
