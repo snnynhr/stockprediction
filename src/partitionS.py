@@ -22,11 +22,13 @@ points = fullFile.readlines()
 total = len(points)
 print "%s have %d points in total" % (stock, total)
 
-random.shuffle(points)
-index1, index2 = int(0.7 * total), int(0.1 * total)
-train = points[:index1]
-dev = points[index1: index2]
-test = points[index2:]
+for point in points:
+  if day > 
+#random.shuffle(points)
+#index1, index2 = int(0.7 * total), int(0.1 * total)
+#train = points[:index1]
+#dev = points[index1: index2]
+#test = points[index2:]
 
 trainXPath = traindir + '/' + stock + 'x'
 trainYPath = traindir + '/' + stock + 'y'
@@ -50,13 +52,13 @@ for point in test:
 testXFile.close()
 testYFile.close()
 
-devXPath = devdir + '/' + stock + 'x'
-devYPath = devdir + '/' + stock + 'y'
-devXFile = codecs.open(devXPath, 'w','utf-8')
-devYFile = codecs.open(devYPath, 'w','utf-8')
-for point in test:
-    date, Y, X = json.loads(point)
-    devXFile.write(str(date) + '\t' + json.dumps(X) + '\n')
-    devYFile.write(str(date) + '\t' + str(Y) + '\n')
-devXFile.close()
-devYFile.close()
+#devXPath = devdir + '/' + stock + 'x'
+#devYPath = devdir + '/' + stock + 'y'
+#devXFile = codecs.open(devXPath, 'w','utf-8')
+#devYFile = codecs.open(devYPath, 'w','utf-8')
+#for point in test:
+#    date, Y, X = json.loads(point)
+#    devXFile.write(str(date) + '\t' + json.dumps(X) + '\n')
+#    devYFile.write(str(date) + '\t' + str(Y) + '\n')
+#devXFile.close()
+#devYFile.close()

@@ -6,9 +6,9 @@ import os
 import datetime
 import nltk
 
-weightDir = '../new_result/reg_result'
-testDir = "../new_result/testData"
-predictDir = "../new_result/predictions_reg"
+weightDir = '../new_result/reg+all_result'
+testDir = "../new_result/testData+all"
+predictDir = "../new_result/predictions_reg+all"
 
 
 def log_likelihood(words,d):
@@ -20,6 +20,9 @@ def log_likelihood(words,d):
 
 for fname in os.listdir(testDir):
 	if fname.endswith('txt'):
+		if not os.path.exists('%s/%s' %(weightDir,fname)):
+			continue
+
 		print fname
 		weightFile = codecs.open('%s/%s' %(weightDir,fname),'r','utf-8', errors='ignore')
 
