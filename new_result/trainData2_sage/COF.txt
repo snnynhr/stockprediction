@@ -1,0 +1,41 @@
+stock_COF r_up	settling:1 named:1 after:1 charges:1 compliance:1 conglomerate:1 chief:1 officer:1 new:1 weeks:1 its:1
+stock_COF r_down	fourth-quarter:1 trade:1 see:1 session:1 whose:1 said:1 spending:1 leading:1 shares:1 expected:1 firms:1 holiday:1 higher:1 customers:1 shopping:1 season:1 watch:1 active:1 during:1 stocks:1 both:1 credit-card:1 companies:1 rose:1 profits:1
+stock_COF r_down	show:1 results:3 trade:3 session:3 broader:1 touch:1 still:1 whose:1 $:1 expectations:2 premarket:1 quarterly:2 customers:1 return:1 gains:2 provisions:1 homes:1 watch:1 they:1 fall:1 desire:1 shy:1 drop:4 companies:3 doubled:1 higher:1 noted:1 view:1 estimates:1 up:1 rate:1 cost:1 accelerating:1 2.1:1 avoided:1 said:1 missed:1 profit:1 loan-loss:1 shares:5 capital:1 new:1 moderate:1 numerous:1 quarter:1 slight:1 offset:1 active:1 strong:1 abroad:1 1.4:1 reinvent:1 country:1 climbed:1 analysts:1 comes:1 fourth-quarter:1 revenue:2 loan:1 89:1 miss:2 wobble:1 housing:1 due:1 long:1 suburbs:1 growth:2 expected:3 themselves:1 reflects:1 more:2 pare:1 company:2 but:1 construction:1 sustained:1 effort:1 than:1 '':1 permits:1 see:1 while:1 actively:2 control:1 give:1 tax:1 ``:1 evidence:1 high:1 have:1 around:1 earnings:3 fourth:1 stock:1 development:1 's:5 though:1 after:3 stocks:1 data:1 building:1 short:1 light:1 futures:2 spent:1 embracing:1 came:1
+stock_COF r_up	sector:1 head:1 good:1 sees:1 ahead:1 things:1 energy:1 big:1 banks:1
+stock_COF r_down	refund:1 1.5:1 attorney:1 $:1 pay:1 million:1 borrowers:1 general:1 payments:1 interest:1 under:1 settlement:1 fine:1
+stock_COF r_down	'the:1 customers:1 's:2 mobile:1 make:1 giant:1 devices:1 looking:1 known:1 biggest:1 new:1 more:1 friendly:1 cloud:1 software:2
+stock_COF r_up	climate:1 target:1 investors:1 big:1 taking:1 against:1 fight:1 their:1 banks:1 new:1 change:1
+stock_COF r_up	customers:1 said:1 's:2 developers:1 him:1 software:1 hire:1 demanding:1 one:1 most:1 his:1 digital:1 organization:1 forcing:1 group:1 bank:1 more:1
+stock_COF r_up	even:1 little:1 ease:1 analysis:1 music:1 your:1
+stock_COF r_down	index:1 beaten:1 dividend-paying:1 low-risk:1 names:1 7:1 has:1
+stock_COF r_up	force:1 enforcement:1 issued:1 into:1 probe:1 one:1 '':1 authorities:1 have:1 year:1 made:1 its:2 information:2 said:2 federal:1 administration:1 alleged:1 include:1 state:1 various:1 those:1 which:1 subsidiaries:1 2012:1 requested:1 ``:1 's:1 business:1 received:1 subpoenas:2 task:1 early:1 regulators:1 part:1 regulatory:1 mortgage-bond:1 law:1 bank:1 known:1 both:1 fraud:1 last:1 agencies:1 requests:1 filing:1
+stock_COF r_up	information:1 fraud:1 alleged:1 requested:1 issued:1 into:1 probe:1 subpoenas:1 one:1 part:1 have:1 mortgage-bond:1 subsidiaries:1 its:1 bank:1 said:1
+stock_COF r_up	good:1 candidates:1 others:1
+stock_COF r_down	financing:1 plans:1 offering:1 initial:1 retailers:1 credit:1 provides:1 filed:1 cards:1 public:1 unit:1 private-label:1
+stock_COF r_up	financial:1 over:1 executive:1 '':1 disclosures:1 paperwork:1 its:1 offering:1 federal:1 initial:1 next:1 lender:1 long-time:1 violations:1 tapped:1 public:1 ``:1 's:1 finance:1 business:2 possible:1 released:1 regulators:1 pair:1 probes:1 facing:1 credit:1 chief:1 planned:1 were:1 retail:1 consumer:1 laws:1
+stock_COF r_down	's:1 business:1 laws:1 federal:1 over:1 possible:1 facing:1 credit:1 regulators:1 pair:1 financial:1 violations:1 retail:1 consumer:1 probes:1
+stock_COF r_up	stress:1 watchers:1 takes:1 issued:1 correction:1 annual:1 tests:1 seriously:1 surprise:1 numbers:1 many:1 market:1 caught:1 its:2 exercise:1
+stock_COF r_up	among:1 pharma:1 underpriced:1 big:1 banks:1 retailers:1 finding:1 stocks:1
+stock_COF r_down	clearing:1 plans:1 's:5 hurdle:1 auto:1 government:1 ownership:1 industry:1 review:1 annual:1 regulator:1 potential:1 health:1 plan:1 another:1 capital:1 financial:1 exit:1 approved:1 bank:1 lender:1
+stock_COF r_down	week:1 coming-out:1 murder:1 's:1 investors:2 returning:1 chances:1 money:1 turned:1 cross:1 their:1 future:1 wake:1 supposed:1 between:1 banks:1 party:1 banking:1 killed:1 out:1
+stock_COF r_up	customers:1 $:1 extra:1 pay:1 into:1 million:1 allegations:1 signing:1 up:1 pushed:1 settle:1 products:1 credit-card:1 discussions:1 800:1 than:1 bank:1 more:1
+stock_COF r_up	saying:1 7.4:1 revenue:1 correction:1 quarters:1 high:2 pushed:1 see:1 session:2 entering:1 fail:1 miss:2 trade:1 down:1 points:1 decline:1 stocks:1 surprises:1 expectations:1 shares:4 advisories:1 turnaround:1 earnings:3 expected:1 territory:1 14-year:1 into:1 briefly:1 extended:1 hit:1 index:1 after:1 watch:1 fall:2 fierce:1 month:1 active:1 recent:1 roundup:1 10:2 last:1 whose:1 --:1 drop:1 companies:2 reports:1 matter:1 while:1 future:1 green:1 meet:1 left:1 corporate:1 latest:1
+stock_COF r_down	outlook:1 set:1 revenue:1 loan:1 trade:1 helped:1 improving:1 see:1 session:1 first-quarter:1 its:1 issuer:1 whose:1 confidence:1 said:1 rose:1 amount:1 shares:1 aside:1 potential:1 card:1 expected:1 earnings:1 's:1 decline:1 watch:1 offset:1 active:1 stocks:1 bank:1 drop:1 losses:1 companies:1 benefit:1 9.3:1 consumer:1
+stock_COF r_up	said:1 first-quarter:1 slipped:1 topped:1 profit:1 credit-card:1 company:1 recorded:1 per-share:1 expenses:1 increase:1 earnings:1 growth:1 6.2:1 masking:1 's:1 loan:1 total:1 estimates:1 its:1 higher:1
+stock_COF r_down	may:1 charges:1 sneaky:2 ways:1 watch:1 robbing:1 5:1 banks:1 accounts:1 you:1 your:1 bank:1 out:1
+stock_COF r_up	good:1 financial:1 beat:1 writes:1 but:1 behemoths:1 van:1 surprise:1 firms:1 stocks:1 bank:1
+stock_COF r_up	conduit:1 cash-strapped:1 business:1 funds:1 into:1 crucial:1 scrutiny:1 hitting:1 banks:1 narrowing:1 regulatory:1 nation:1 money-transfer:1
+stock_COF r_up	giants:1 smaller:1 off:1 housing:1 settlements:1 officials:1 lenders:1 fresh:1 billion-dollar:1 bank:1
+stock_COF r_up	's:1 big:1 energy:1 value:1 one:1 manager:1 likes:1 9:1 market-beating:1 firms:1 financial:1 company:1
+stock_COF r_up	group:1 government:1 alleging:1 three:1 authority:1 trade:1 banking:1 regulators:1 abuse:1 against:1 lenders:1 filed:1 's:1 lawsuit:1 short-term:1
+stock_COF r_up	has:1 all:1 highest-paid:1 run:1 their:1 compensation:1 ranked:1 2013:2 total:1 proxies:1 bank:2 numbers:1
+stock_COF r_down	health-care:1 patient:1 application:1 process:1 medical:1 pushing:1 face:1 records:1 changing:1 firms:1 writes:1 care:1
+stock_COF r_up	firm:1 's:1 $:1 industry:1 million:1 spent:1 according:1 credit:1 through:1 vs.:1 research:1 debit:1 end:1 has:1 national:1 card:1 advertising:1
+stock_COF r_up	lenders:1 revenue:1 growth:1 have:1 find:1 again:1 consumers:1 once:1 avoid:1 since:1 jolt:1 crisis:1 regulation:1 offers:1 low:1 sluggish:1 too:1 good:2 seeking:1 ones:3 they:1 scores:1 true:1 than:1 borrowers:1 aggressively:1 amid:1 credit:1 more:1 courting:1
+stock_COF r_up	exceptions:1 prospects:1 van:1 fence:1 writes:1 here:1 most:1 6:1 banks:1 big-bank:1 stocks:1 best:1
+stock_COF r_up	sector:2 financial:1 show:1 hard:1 share:1 growth:1 per:1 broader:1 find:1 market:1 decline:1 profit:1 been:1 forecast:1 only:1 earnings:1 which:1 has:1 500:2 good:1 lag:1 not:1 news:1 stocks:1 especially:1 continue:1 banks:2
+stock_COF r_up	350,000:2 owe:2 over:1 years:1 four:1 not:1 mill:1 debt-collection:1 out:1 based:1 consumers:1 debts:1 actually:1 whom:1 more:1 firm:1 may:1 collection:1 less:1 running:1 complaints:1 law:1 lawsuit:1 than:2 last:1 many:1 against:1 massive:1
+stock_COF r_down	week:1 's:2 pretty:1 investing:1 money:1 worried:1 theme:1 through:1 managers:1 world:1 biggest:1 troubling:1
+stock_COF r_down	investors:1 domestic:1 results:1 trade:1 session:1 its:1 out:1 had:1 shares:1 laid:1 growth:1 expected:1 's:1 business:1 schedule:1 reported:1 second-quarter:1 posted:1 ahead:1 credit-card:1 companies:1 actively:1 better-than-expected:1
+stock_COF r_up	set:1 recovery:1 offering:1 consumers:1 price:1 initial:1 two:1 years:1 afternoon:1 finances:1 largest:1 sign:1 company:1 public:1 latest:1
+stock_COF r_down	year:1 escape:1 spinoff:1 size:1 sell:1 based:1 private-label:1 23:1 giving:1 deserve:1 support:1 initial:1 expectations:2 label:1 low:2 which:1 biggest:1 issuer:1 public:1 them:1 's:1 offering:1 rules:1 priced:2 cards:1 chance:1 important:1 end:2 law:1 change:1 $:1 n't:1 credit:1 so:1 banks:2 stricter:1 systemically:1

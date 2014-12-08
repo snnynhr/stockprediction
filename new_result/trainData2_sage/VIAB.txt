@@ -1,0 +1,63 @@
+stock_VIAB r_down	box:1 ``:1 winter:1 office:1 bitter:1 over:1 chilled:1 topped:1 '':1 weather:1 along:1 weekend:1 receipts:1
+stock_VIAB r_down	duty:1 second:1 process:1 tour:1 boardrooms:1 companies:1 up:1 back:1 filling:1 can:1 coming:1 bumpy:1 executives:1
+stock_VIAB r_down	deals:1 saying:1 major:1 's:1 have:1 antitrust:1 may:1 leading:1 into:1 probe:1 some:1 studios:1 their:1 channels:1 rules:1 regulators:1 film:1 they:1 violated:1 launched:1 licensing:1
+stock_VIAB r_up	deals:1 saying:1 major:1 's:1 have:1 antitrust:1 may:1 leading:1 into:1 probe:1 some:1 studios:1 their:1 channels:1 rules:1 regulators:1 film:1 they:1 violated:1 launched:1 licensing:1
+stock_VIAB r_up	'':1 ``:1 like:1 's:1 plans:1 launch:1 provide:1 according:1 hundreds:1 access:1 tastes:1 parents:1 can:1 episodes:1 old:1 children:1 channel:1 shows:1
+stock_VIAB r_down	holiday:1 $:1 over:1 million:1 opened:1 starring:1 comedy:1 weekend:1 four-day:1 buddy:1
+stock_VIAB r_down	slashes:1 employing:1 one:1 have:1 seen:1 1990s:1 spending:1 movie:1 activism:1 brunt:1 split:1 tactic:1 scored:1 recently:1 becoming:1 felt:1 but:1 producers:1 most:1 lucrative:1 rare:1 deals:1 victory:1
+stock_VIAB r_down	week:1 set:1 's:1 sales:1 --:1 top:1 attention:1 companies:1 results:1 next:1 quarterly:1 going:1 tech:1 report:1 firms:1 holiday:1 energy:1
+stock_VIAB r_down	week:1 ``:2 since:1 releases:1 widest:1 opening:1 rankings:1 unchanged:1 expanded:1 rest:1 '':2 their:1 nearly:1 were:1 nominees:1 weekend:1 box-office:1 earlier:1
+stock_VIAB r_up	'':1 production:1 's:2 its:1 film:1 decline:1 said:1 rose:1 workers:1 costs:1 earnings:1 roll:1 channel:1 media:1 ``:1 first-quarter:1 around:1 business:1 big:1 company:1 kids:1 moving:1 fiscal:1 made:1 jobs:1 16:1 up:1 leaving:1 cutting:1 movie:1
+stock_VIAB r_down	interests:1 league:1 's:2 plans:1 extend:1 reach:1 app:1 each:1 programming:1 according:1 platforms:1 video:1 user:1 unveiled:1 online:1 new:1 digital:1 effort:1 its:1 latest:1
+stock_VIAB r_up	help:1 show:1 ``:1 '':1 through:1 shoe:1 owner:1 seen:1 its:1 whose:1 giant:1 no:1 other:1 struggling:1 has:1 shows:1 eyes:1 's:1 but:1 foot:1 stunt:1 law:1 stranger:1 rights:1 entertainment:1 project:1 small:1 comedian:1 star:1 businesses:1
+stock_VIAB r_up	deal:1 competitive:1 neutrality:1 famed:1 family:1 issues:1 opponents:1 end:1 $:1 not:1 45:1 gift:1 potential:1 net:1 markets:1 draw:1 buy:1 's:3 supporters:1 business:1 get:1 relationship:1 coming:1 prices:1 investor:1 parting:1 billion:1 assets:1 cable:1 covering:1 proposed:1 range:1 could:1 clear:1
+stock_VIAB r_up	sell:1 's:1 hostile:1 takeover:1 junkies:1 rival:1 back:1 agreement:1 should:1 bring:1 itself:1 another:1 memories:1
+stock_VIAB r_up	giant:1 has:1 overpriced:1 room:1 bears:1 over:1 but:1 grow:1 e-commerce:1 battle:1 underrated:1 still:1 thinks:1 out:1
+stock_VIAB r_up	box:2 used:1 office:2 anymore:2 make:1 it’s:1 matter:1 say:1 not:1 difference:1
+stock_VIAB r_down	case:1 sound:1 already:1 natural:1 $:1 emergency:1 clear:1 like:1 alerts:1 used:1 commercials:1 n't:1 severe:1 crackdown:1 2:1 during:1 weather:1 serious:1 disasters:1 its:1 look:1
+stock_VIAB r_up	questionable:1 rewards:1 pony:1 like:1 rights:1 up:1 but:1 tend:1 bragging:1 returns:1 willing:1 such:1 financial:1 efforts:1 prestige:1 best:1
+stock_VIAB r_up	billion:1 19.5:1 rated:1 $:1 advantage:1 bonds:1 lock:1 benchmark:1 sold:1 companies:1 took:1 day:1 rally:1 rates:1 low:1 year:1 corporations:1 busiest:1 recent:1
+stock_VIAB r_up	week:1 billion:1 record-setting:1 rated:1 last:1 $:1 49:1 sold:1 since:1 companies:1 sale:1 sign:1 past:1 most:1 bond:1 upbeat:1 debt:1 market:1 latest:1
+stock_VIAB r_down	ago:1 20:1 which:1 movie:2 into:1 formed:1 years:1 turn:1 studio:1 lot:1 new:1 hopes:1 riding:1 struggling:1 has:1 franchise:1 its:1
+stock_VIAB r_up	seven:1 closely:2 over:1 allowed:2 dialogue:2 related:1 years:1 '':6 reflects:2 including:2 together:2 have:2 our:2 copyrighted:2 terms:1 settlement:3 working:2 litigation:5 1:2 said:4 $:2 copyright:5 had:2 two:3 opportunities:2 content:3 disclosed:1 statement:2 between:6 forward:2 today:2 more:2 resolved:2 tension:1 ``:8 sharing:1 's:3 users:2 collaborative:2 permission:2 2005:2 jointly:2 producers:1 joint:2 we:2 important:2 they:2 post:2 lawsuit:2 vs.:2 look:2 billion:2 service:1 --:1 resolution:2 companies:5 websites:1 n't:1 without:2 announced:2 allow:1 were:1 growing:2 2008:2 settled:1 dragged:1
+stock_VIAB r_down	fractions:1 major:1 into:1 move:1 not:1 computer:1 trading:1 close:1 market:1 out:1 large:1 use:1 rapidly:1 offer:1 two:1 looking:1 treatment:1 which:1 between:2 firms:2 markets:1 systems:1 high-speed:1 's:1 relationship:1 high-frequency:1 seconds:1 operators:2 sophisticated:1 houses:1 exchanges:1 report:1 anti-competitive:1 whether:1 deals:1 investigating:1
+stock_VIAB r_down	alleged:1 copyright:1 violation:1 lawsuit:1 over:1 prolonged:1 years:1 their:1 eight:1 nearly:1 have:1 settled:1
+stock_VIAB r_down	its:1 filings:1 4.1:1 $:1 pay:1 9.8:1 performance:1 2013:1 stock:1 's:1 increased:1 fate:1 company:1 million:1 but:1 early:1 tied:1 closely:1 packages:1 chiefs:1 according:1 survey:1 corporate:1 proxy:1
+stock_VIAB r_up	within:1 boundaries:1 film:1 communities:1 religious:1 debate:1 stirring:1 artistic:1
+stock_VIAB r_up	box:1 easily:1 ``:1 44:1 $:1 office:1 top:1 million:1 rode:1 wave:1 '':1 weekend:1 over:1
+stock_VIAB r_down	``:1 his:2 's:1 would:1 longest:1 retire:1 contract:1 '':1 host:1 serving:1 reign:1 expires:1 2015:1 during:1 end:1 history:1 bringing:1 late-night:1 announced:1 he:1
+stock_VIAB r_down	desire:1 's:1 ad:1 dollars:1 but:1 face:1 against:1 off:1 likes:1
+stock_VIAB r_up	defunct:1 sued:1 copyright:1 seeking:1 infringement:1 movie:1 site:1 file-sharing:1 including:1 earnings:1 studios:1 major:1 former:1 profits:1 executives:1
+stock_VIAB r_down	n't:1 ``:1 his:1 's:1 longer:1 no:1 guaranteed:1 different:1 next:1 '':1 host:1 succeed:1 can:1 following:1 maintain:1 parody:1
+stock_VIAB r_up	major:1 good:1 's:1 fade:1 means:1 could:1 days:1 movies:1 theaters:1 moving:1 reels:1 studios:1 digital:1 small:1 distribution:1 out:1 final:1 film:1 conversion:1
+stock_VIAB r_down	way:1 through:1 have:1 high-profile:1 its:1 lawsuits:1 their:1 protections:1 passed:1 new:1 forcing:1 string:1 interns:1 employers:1 courts:1 schools:1 worked:1 both:1 has:1 rethink:1 internship:1 unpaid:1 policies:1
+stock_VIAB r_up	leaders:1 sectors:1 performers:1 energy:2 continues:1 utilities:1 reports:1 face:1 rally:1 most:1 so:1 earnings:1 determine:1 year:1 heavyweights:1 gauntlet:1 stocks:1 best:1 if:1
+stock_VIAB r_down	significant:1 companies:1 agreed:1 eyeing:1 down:1 growth:1 year:1 go:1 said:1 $:1 spending:1 opportunities:1 5:2 earnings:1 markets:1 worth:1 stock:1 conflicting:1 such:1 acquire:1 's:1 around:1 million:1 rise:1 listening:1 world:1 prominent:1 lower:1 amid:1 taking:1 futures:2 programming:1 reports:1 edge:2 economic:1 mixed:1 claims:1 slightly:1 original:1
+stock_VIAB r_up	saying:1 slip:1 trend:1 trade:1 have:1 market:1 before:1 surprises:1 generally:1 due:1 been:1 traders:1 advisories:1 earnings:1 stock:1 ends:1 jobs:2 defies:1 key:1 report:1 stocks:1 roundup:1 lower:1 cautious:1 ahead:1 companies:1 reports:1 future:1 quarters:1 choppy:1 corporate:1 latest:1
+stock_VIAB r_down	firm:1 independent:1 television:1 buy:1 's:1 producer:1 cable:1 million:1 up:1 have:1
+stock_VIAB r_up	21st:2 said:1 assets:1 started:1 over:1 had:1 multibillion-dollar:1 preliminary:1 discussions:1 its:1 acquisition:1
+stock_VIAB r_up	21st:2 said:1 would:1 create:1 companies:1 agreement:1 three:1 production:1 combine:1 venture:1 preliminary:1 reached:1 has:1 television:1
+stock_VIAB r_up	10:2 shareholders:1 media:1 company:1 boosted:1 sought:1 dividend:1 reward:1 its:1
+stock_VIAB r_up	going:1 rewards:1 financial:1 performance:1 big:1 increasingly:1 companies:1 top:1 handful:1 moderately:1 tied:1 very:1 relative:1 most:1 future:1 rising:1 scale:1 pay:1 biggest:1 awards:1 executives:1
+stock_VIAB r_down	into:1 buy:1 looks:1 want:1 controlled:1 open:1 arm:1 industries:1 additional:1 media:1 investment:1 new:1 man:1 his:2 's:2 offer:1 may:1 billionaire:1 company:1 richest:1 entries:1 known:1 along:1 now:1 he:1 made:1 magnate:1 like:1 companies:1 become:1 stakes:1 first:1
+stock_VIAB r_up	's:1 developing:1 nicely:1 revenue:1 n't:1 pad:1 consumer-products:1 leader:1 profits:1
+stock_VIAB r_up	minority:1 stake:1 content:1 focused:1 which:1 taken:1 video:1 has:1 producing:1
+stock_VIAB r_up	major:1 own:1 deal:1 providers:1 over:2 logical:1 years:1 channels:1 services:1 through:1 have:1 follow:1 priming:1 shareholders:1 scale:1 their:2 media:1 make:1 pairing:1 been:2 strategy:1 content:1 far:1 behind:1 trigger:1 pursuing:1 biggest:1 themselves:1 has:1 mounting:1 shows:1 gaining:1 customers:1 returning:1 may:2 company:1 capital:1 consolidation:2 possible:1 not:1 suit:1 believe:1 former:1 acquisitions:1 sister:1 cautious:1 license:1 cable:1 whether:1 many:1 industry:1 companies:4 up:1 deals:1 merge:1 pay:1 making:1 speculation:1 more:1 round:1 executives:1
+stock_VIAB r_up	900,000:1 months:1 says:1 dispute:1 surviving:1 sidestep:1 tax:3 roughly:1 '':1 middle:1 rate:1 through:1 result:1 have:1 home:1 1:1 total:1 fine:1 households:2 said:1 able:1 two:1 been:1 looking:1 their:1 only:1 blackout:1 channels:1 got:1 meeting:1 across:1 offshore:1 more:1 ``:1 after:1 's:1 some:1 operators:1 attention:1 watch:1 wave:1 small:3 base:1 plenty:1 towns:1 than:1 recent:1 suggested:1 60:4 lower:1 lost:1 cable:2 fee:1 annual:1 companies:2 solution:1 taxes:1 foreign:1 n't:1 without:1 inversions:1 problem:1 eroding:1 corporate:2 mergers:1 once:1
+stock_VIAB r_up	giant:1 large-cap:1 $:1 trades:1 peers:1 discount:1 broadcasting:1 80:1
+stock_VIAB r_down	keeping:1 last:1 succeeded:1 antitrust:1 federal:1 dismissal:1 filed:1 year:1 denied:1 alive:1 motion:1 against:1 suit:2 judge:1 's:1 lawsuit:1
+stock_VIAB r_down	resolved:1 ``:1 said:1 over:1 its:1 '':1 company:1 film:1 dispute:1
+stock_VIAB r_down	incoming:1 complete:1 media:1 company:2 pure-play:1 chairman:1 into:1 's:2 has:1 transformation:1
+stock_VIAB r_up	content:1 's:2 lacking:1 rights:1 could:1 hurt:1 broadcast:1 itself:1 ruling:1 sports:1 networks:1 those:1
+stock_VIAB r_up	``:1 appeal:1 's:1 movie:1 crucial:1 all:1 stops:1 '':1 fortunes:1 audience:1 latest:1 pulled:1 out:1
+stock_VIAB r_up	global:1 some:1 sales:1 '':2 say:1 ticket:1 numbers:1 estimated:1 its:2 $:5 movie:2 do:1 ``:2 hit:1 opening:3 300:2 million:3 but:2 franchise:1 100:3 weekend:2 compute:1 installment:1 n't:1 latest:2
+stock_VIAB r_down	gathering:1 since:1 's:1 last:1 business:1 media:1 annual:1 against:1 year:1 kicks:1 off:1 has:1 technology:1 landscape:1 executives:1
+stock_VIAB r_down	firm:1 purchase:1 giant:1 's:1 business:1 cable:1 among:1 over:1 influence:1 rivals:1 mobile-ad:1 much:1 tech:1 too:1 fear:1 gathering:1 recent:1
+stock_VIAB r_down	his:1 having:1 $:3 campaign:1 re-election:1 million:2 2.4:1 according:1 35:2 hand:1 reported:1 reports:1 finance:1 has:1 effort:1 than:1 more:1
+stock_VIAB r_up	21st:1 buy:2 says:1 just:1 means:1 bid:2 it’s:1 next:1 time:1 beginning:1 could:1
+stock_VIAB r_up	investors:1 soars:1 shrewd:1 jump:1 6.4:1 looks:1 have:1 should:1 targets:1 21st:1 assessing:1 spurned:1 media:3 make:1 stake:1 eying:1 content:1 attractive:1 which:1 between:1 megadeal:1 collaboration:1 's:2 offer:2 jumps:1 consolidation:1 falls:1 anticipation:1 fall:1 news:1 buyout:1 bigger:1 could:1 companies:2 deals:1 broadcaster:1 time:1 acquisition:1
+stock_VIAB r_up	giant:1 people:1 media:1 potential:1 place:1 have:1 units:1
+stock_VIAB r_down	studios:1 's:3 power:1 less:1 event:1 their:1 important:1 role:1 year:1 playing:1 superheroes:1
+stock_VIAB r_down	introducing:1 used:1 videos:1 cable:1 company:1 apps:1 sites:1 owned:1 without:1 channels:1 other:1 music:2 experience:1 way:1 known:1 new:1 its:1 best:1 shows:1
+stock_VIAB r_down	brought:1 ``:2 blowing:1 $:2 opening:1 rival:1 44:1 million:2 29:1 '':2 which:1 away:1 action:1 earned:1 weekend:1 its:2 thriller:1
+stock_VIAB r_down	studios:1 made:1 business:1 deal:1 movie:1 material:1 coalition:1 possible:1 famous:1 close:1 extinction:1 producing:1 film:1 keep:1

@@ -1,0 +1,51 @@
+stock_COP r_down	lifted:1 supporting:1 startup:1 principles:1 trade:1 say:1 revitalize:1 want:1 go:1 makers:1 citing:1 helps:1 which:1 fuel:1 proposal:1 public:1 do:1 exports:1 oil:2 plans:1 benefiting:1 free:1 they:1 others:1 fields:1 companies:1 n't:1 mature:1 ban:1
+stock_COP r_down	major:1 have:1 revenue:1 energy:3 sales:1 billions:1 years:1 say:1 officials:2 export:1 want:1 partner:2 seek:1 said:1 would:2 prompting:1 administration:2 been:2 increase:1 state:3 production:1 which:1 equity:2 lawmakers:2 several:1 boost:1 seeks:1 transportation:1 big:2 pursuing:1 gas:1 agreement:2 they:1 approval:2 declining:1 has:1 natural:1 invest:1 dollars:1 companies:2 's:1 project:3 allow:1 become:2
+stock_COP r_down	week:1 set:1 's:1 sales:1 --:1 top:1 attention:1 companies:1 results:1 next:1 quarterly:1 going:1 tech:1 report:1 firms:1 holiday:1 energy:1
+stock_COP r_down	fourth-quarter:1 said:1 refining:1 17:1 rose:1 but:1 across:1 regions:1 most:1 fell:1 earnings:1 66:2 margins:1 its:1
+stock_COP r_up	fourth-quarter:2 trade:1 interest:1 asset:1 revenue:1 sales:1 share:2 focus:1 strategic:1 ended:1 see:1 session:1 including:1 higher:1 year:2 rally:1 earlier:1 its:4 declined:2 weekly:1 1.16:1 whose:1 said:2 2.5:1 jobless:1 profit:1 rose:3 initial:1 been:1 proceeds:1 business:3 returns:1 production:2 stock:2 7:1 boosted:2 expected:2 noncore:1 has:1 final:1 economy:1 modestly:1 selling:1 recently:1 gains:1 extend:1 government:1 earnings:2 completed:1 after:1 watch:1 2:1 shale:1 forecasts:1 reported:1 fast-growing:1 74:2 gain:3 active:1 such:1 line:1 stocks:1 data:1 than:1 those:1 $:5 billion:3 grew:1 last:1 assets:1 showed:1 up:1 futures:2 companies:1 sale:3 more:1 while:3 shares:1 claims:1 quarter:2 1.43:1
+stock_COP r_down	roundup:1 saying:1 surprises:1 companies:1 reports:1 quarters:1 advisories:1 earnings:1 future:1 corporate:1 latest:1
+stock_COP r_down	firm:1 13:1 oil:1 boutique:1 after:1 gas:1 years:1 joins:1 analyst:1
+stock_COP r_up	business:2 credit:2 giving:2 fast-growing:2 n't:2 undervalued:2 enough:2 66:2 spinoff:2 chemicals:2 its:2 market:2
+stock_COP r_up	disclose:1 investors:1 give:1 half:1 manage:1 month:1 well-known:1 deadline:1 click:1 relatively:1 end:1 $:1 holdings:2 several:1 public:1 bought:1 firm:1 within:1 's:1 filings:1 portfolios:1 sold:1 million:1 here:1 most:1 4th:1 latest:2 100:1 than:1 look:1 required:1 fourth-quarter:1 securities:2 more:1 fresh:1 quarter:2 view:1
+stock_COP r_down	sell:1 $:1 stations:1 agreed:1 gas:1 around:1 2.6:1 refinery:1 world:1 has:1 its:1 assets:1
+stock_COP r_down	thought:1 oil:1 's:1 though:1 previously:1 support:1 gas:2 abundant:1 said:1 looks:1 not:1 90:1 now:1
+stock_COP r_up	eastern:1 dependent:1 country:1 gas:1 others:1 now:1
+stock_COP r_down	sentiment:1 could:1 soon:1 bear:1 fruit:1 low:1 2015:1 investor:1 investments:1
+stock_COP r_down	customers:1 his:1 's:2 like:1 energy:1 him:1 better:1 pressure:1 writes:1 promise:1 treat:1 might:1 make:1
+stock_COP r_up	people:1 big:1 energy:1 number:1 but:1 think:1 materials:1 services:1 leading:1 costs:1 those:1 loves:1 underway:1 tackle:1 soaring:1 now:1 industry:1 projects:2 risky:1
+stock_COP r_up	back:1 thanks:1 go:1 technology:1 sell:1 late:1 use:1 said:1 better:1 forces:1 crude:1 friendly:1 week:1 oil:1 government:1 smarter:1 pushing:1 trying:1 data:1 seize:1 official:1 companies:1 products:1 clean:1 were:1 tanker:1 display:1
+stock_COP r_down	grappling:1 regulate:1 survey:1 being:1 flying:1 commercial:1 purposes:1 but:1 robots:1 sites:1 spray:1 already:1 used:1 drones:1 pesticides:1 construction:1 still:1
+stock_COP r_up	fuels:1 natural:1 created:1 companies:1 energy:1 opportunities:1 gas:1 shale:1 boom:1 flowing:1 new:1 has:1 market:1
+stock_COP r_down	buy:1 15:1 up:1 coast:1 project:1 western:1 talks:1 's:2
+stock_COP r_up	given:1 oil:1 's:1 which:1 rights:1 very:1 gas:1 energy:1 companies:1 reads:1 been:1 foreign:1 explore:1 exception:1 but:1 have:1 news:1 industry:1 offshore:1 like:1
+stock_COP r_up	giants:1 10:1 oil:1 $:1 zero:1 energy:1 billion:1 50:1 up:1 four:1 add:1 production:1 current:1 nearly:1 islands:1 barrels:1
+stock_COP r_up	load:1 set:1 just:1 month:3 '':1 say:1 another:1 seen:1 market:2 out:1 compared:2 recently:1 takes:1 would:1 six:1 due:1 cargoes:1 field:2 only:1 production:1 maintenance:2 crude:1 previous:1 until:1 consultant:1 ``:1 oil:2 's:1 said:1 normal:1 very:1 season:1 knew:1 loading:1 nearly:1 fall:1 not:1 last:1 15:1 programs:1 --:1 fields:1 according:1 large:1 matter:1 amount:1 planned:1 pumped:1 think:1 two:1
+stock_COP r_up	tumbled:1 they:1 sitting:1 suggest:1 gas:1 charts:1 shares:1 can:1 pretty:1 were:1 go:1 higher:1 market:1 before:1
+stock_COP r_down	play:2 plans:2 spending:2 company:2 estimates:2 raised:2 40:2 targets:2 also:2 production:2 growth:2 affirmed:2 capital:2 long-term:2 margin:2 its:6 resources:2 size:2
+stock_COP r_down	land:1 rapid:1 old:1 flow:1 fracking:1 cash:1 n't:1 leases:1 important:1 growth:1 focus:1 now:1 than:1 comes:1 more:1
+stock_COP r_down	control:1 all:1 's:1 help:2 doing:1 win:1 crucial:1 race:1 businesses:1 can:1 they:2 year:1 biggest:1 trying:1
+stock_COP r_up	leaders:1 sectors:1 performers:1 energy:2 continues:1 utilities:1 reports:1 face:1 rally:1 most:1 so:1 earnings:1 determine:1 year:1 heavyweights:1 gauntlet:1 stocks:1 best:1 if:1
+stock_COP r_up	sell:1 oil:1 's:2 company:1 stake:1 gas:1 project:1 state:1 said:1 15:2
+stock_COP r_down	expects:1 sale:1 66:2 's:1 its:4 unit:1 said:2 raise:1 rose:1 initial:1 business:1 earnings:1 public:1 oil:1 first-quarter:1 offering:1 million:1 gas:1 royalty:1 gain:1 recent:1 up:2 $:2
+stock_COP r_up	operations:1 revenue:1 trade:1 down:1 active:1 see:1 economic:1 year:1 go:1 its:2 whose:1 said:1 spending:1 rose:1 watch:1 shares:1 production:1 earnings:1 boosted:1 expected:1 worth:1 higher:1 conflicting:1 selling:1 first-quarter:1 increased:1 gas:1 rise:1 continuing:1 listening:1 prices:1 such:1 stocks:1 prominent:1 session:1 lower:1 natural:1 excluding:1 amid:1 average:1 futures:2 companies:2 reports:1 edge:2 mixed:1 claims:1 stock:1 slightly:1
+stock_COP r_up	saying:1 have:1 trend:1 energy:1 cheap:1 trade:1 slip:1 market:1 before:1 profitable:2 surprises:1 generally:1 due:1 been:1 traders:1 advisories:1 5:1 earnings:1 you:1 stock:1 ends:1 oil:1 jobs:2 defies:1 gas:1 five:1 key:1 report:1 stocks:3 roundup:1 lower:1 cautious:1 ahead:1 cheapest:1 invest:1 companies:1 reports:1 future:1 can:1 quarters:1 choppy:1 corporate:1 latest:1
+stock_COP r_up	around:1 globe:1 many:1 100,000:1 descend:1 engineers:1 energy:1 executives:1
+stock_COP r_down	load:1 seven:1 because:1 up:1 month:2 have:1 seen:1 previous:2 emerges:1 loading:2 make:1 due:3 cargoes:2 field:2 only:1 other:1 maintenance:2 crude:1 oil:1 rise:1 two:1 10:2 account:1 programs:2 --:1 fields:2 according:2 amount:1 pumped:1 basket:1 similar:1
+stock_COP r_up	among:1 renewed:1 spur:1 environmentalists:1 well:1 prices:1 crude:1 concern:1 technology:1 higher:1
+stock_COP r_up	's:1 warns:1 slowing:1 trouble:1 columnist:1 kill:1 bull:1 our:1 sees:1 could:1 market:1 economy:1
+stock_COP r_up	's:1 warns:1 slowing:1 trouble:1 columnist:1 kill:1 bull:1 our:1 sees:1 could:1 market:1 economy:1
+stock_COP r_up	development:1 said:1 off:1 halt:1 least:1 project:1 nearly:1 oil-sands:1 100:1 staff:1 local:1 its:1 unit:1 lay:1
+stock_COP r_down	operations:1 up:1 energy:1 oil-and-gas:1 some:1 focus:1 cash:1 global:1 2.1:1 its:2 sell:1 $:3 pay:1 stake:1 2:1 has:1 agreed:1 more:1 even:1 selling:1 's:1 business:1 company:1 million:1 gas:1 part:1 than:1 reconsidering:1 billion:1 natural:1 --:1 fields:1 companies:1 drive:1 800:1 investments:1
+stock_COP r_up	comment:1 van:1 heed:1 readers:1 pays:1 writes:1 picks:1 field:1 stories:1 7:1 recommendations:1 our:1 beating:1 market:1 stock:1
+stock_COP r_up	seven:1 month:3 down:1 have:1 loaded:1 seen:1 previous:3 4.5:2 loading:1 make:1 six:2 due:2 same:1 cargoes:3 field:1 according:1 crude:1 oil:1 broadly:1 rise:1 15:1 14:1 17:1 programs:1 --:1 fields:2 up:3 19:1 amount:1 pumped:1 basket:1 similar:1
+stock_COP r_up	operations:1 use:2 oil:1 commercial:1 contract:1 aircraft:1 signed:1 drones:1 unmanned:1 first:1 its:1 five-year:1
+stock_COP r_up	heavy:1 spending:1 cash:1 while:1 offers:2 exit:1 rising:1 margins:1
+stock_COP r_up	sector:1 months:1 investors:1 less:1 energy:1 cheap:1 quarters:1 investment:1 van:1 much:1 writes:1 two:1 should:1 1:1 rewarding:1 production:1 5:1 low:1 more:1 buy:1 returned:1 coming:1 off:1 stocks:1 than:1 15:1 30:1 pay:1
+stock_COP r_down	settling:1 court:1 area:1 long-running:1 awarding:1 maritime:1 majority:1 disputed:1 drew:1 sea:1 new:1 border:1 dispute:1
+stock_COP r_down	building:1 pipeline:2 natural:1 rival:1 gas:1 project:1 backed:1 potential:1 talks:1 's:1 ship:1 alternative:1
+stock_COP r_up	25:1 buy:1 850:1 $:1 people:1 familiar:1 agreed:1 million:1 matter:1 said:1 has:1
+stock_COP r_up	now:1 areas:1 's:1 wrath:1 being:1 some:1 energy:1 companies:1 maritime:1 face:1 freeze:1 explore:1 putting:1 projects:1 they:2 under:1 international:1 if:1 could:1 law:1 told:1
+stock_COP r_down	billion:1 revolution:1 's:2 $:2 get:1 shale:1 threatening:1 competition:1 60:2 coal:1 returns:1 drilling:1 others:1 new:1 investments:1 techniques:1
+stock_COP r_down	session:1 's:2 help:1 capitalizing:1 companies:1 shares:1 trade:1 natural-gas:1 actively:1 bonanza:1 expected:1 our:1 economy:1
+stock_COP r_up	hydrocarbons:1 1.5:1 weaker:1 riches:1 player:1 growth:1 66:1 partly:1 its:2 $:1 their:1 role:1 take:1 local:1 earnings:2 oil:1 's:1 greater:1 completed:1 running:1 fell:1 offset:1 segment:1 second-quarter:1 billion:1 assets:1 country:1 companies:1 sale:1 9.9:1 refining:1 amid:1 chemicals:1
+stock_COP r_down	among:1 investors:1 1.5:1 almost:1 28:1 share:1 results:2 years:1 second:1 oil:2 still:1 its:2 if:1 even:1 wear:1 said:1 just:1 no:1 profit:1 highlights:1 support:1 selloff:1 theme:1 shares:3 companies:1 enough:1 production:1 earnings:2 quarterly:1 might:1 reporting:1 higher:2 lowest:1 good:3 's:1 increased:1 virtue:1 3:1 after:1 gas:2 pumping:1 expected:1 fell:1 five:1 nearly:1 they:1 despite:1 prices:2 trade:1 investor:1 second-quarter:1 session:1 longer:1 tolerance:1 average:1 well:1 rate:1 face:1 bad:1 actively:1 thin:1 rose:1 growing:1 selling:1 quarter:1 starting:1 better-than-expected:1
