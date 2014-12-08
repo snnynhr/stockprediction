@@ -1,307 +1,114 @@
-PNC	20120402	62.44	62.66	r_up	
-PNC	20120403	62.66	62.64	r_down	's:1
-PNC	20120404	62.64	61.84	r_down	
-PNC	20120405	61.84	61.51	r_down	
-PNC	20120409	61.51	60.65	r_down	
-PNC	20120410	60.65	59.79	r_down	
-PNC	20120411	59.79	60.49	r_up	
-PNC	20120412	60.49	61.4	r_up	
-PNC	20120413	61.4	59.71	r_down	's:1
-PNC	20120416	59.71	60.55	r_up	
-PNC	20120417	60.55	61.79	r_up	
-PNC	20120418	61.79	62.15	r_up	financial:1 drive:1 's:1 stocks:1 3.8:1 higher:1
-PNC	20120419	62.15	62.95	r_up	leads:1 financial:1 lower:1 stocks:1 's:1
-PNC	20120420	62.95	63.71	r_up	
-PNC	20120423	63.71	63.32	r_down	
-PNC	20120424	63.32	63.89	r_up	but:1
-PNC	20120425	63.89	64.56	r_up	's:1
-PNC	20120426	64.56	65.5	r_up	
-PNC	20120427	65.5	65.02	r_down	
-PNC	20120430	65.02	64.62	r_down	
-PNC	20120501	64.62	65.61	r_up	
-PNC	20120502	65.61	65.02	r_down	
-PNC	20120503	65.02	64.57	r_down	
-PNC	20120504	64.57	63.59	r_down	
-PNC	20120507	63.59	64.36	r_up	
-PNC	20120508	64.36	64.2	r_down	
-PNC	20120509	64.2	62.97	r_down	
-PNC	20120510	62.97	63.85	r_up	
-PNC	20120511	63.85	63.8	r_down	down:1 re-evaluate:1 leads:1 bad:1 banks:1 bet:1
-PNC	20120514	63.8	62.61	r_down	
-PNC	20120515	62.61	61.77	r_down	
-PNC	20120516	61.77	60.92	r_down	
-PNC	20120517	60.92	60.06	r_down	
-PNC	20120518	60.06	59.76	r_down	
-PNC	20120521	59.76	60.67	r_up	n't:1 's:1
-PNC	20120522	60.67	60.43	r_down	
-PNC	20120523	60.43	60.32	r_down	
-PNC	20120524	60.32	60.61	r_up	but:1
-PNC	20120525	60.61	60.5	r_down	
-PNC	20120529	60.5	61.19	r_up	
-PNC	20120530	61.19	59.78	r_down	
-PNC	20120531	59.78	59.85	r_up	
-PNC	20120601	59.85	56.58	r_down	
-PNC	20120604	56.58	55.38	r_down	
-PNC	20120605	55.38	55.76	r_up	
-PNC	20120606	55.76	57.2	r_up	
-PNC	20120607	57.2	57.13	r_down	
-PNC	20120608	57.13	57.83	r_up	
-PNC	20120611	57.83	56.68	r_down	
-PNC	20120612	56.68	56.03	r_down	note:1 end:1 closes:1 gap:1 high:1 while:1
-PNC	20120613	56.03	56.33	r_up	
-PNC	20120614	56.33	56.42	r_up	
-PNC	20120615	56.42	57.5	r_up	
-PNC	20120618	57.5	56.57	r_down	
-PNC	20120619	56.57	58.01	r_up	
-PNC	20120620	58.01	58.33	r_up	
-PNC	20120621	58.33	57.14	r_down	
-PNC	20120622	57.14	57.63	r_up	
-PNC	20120625	57.63	57.06	r_down	
-PNC	20120626	57.06	57.35	r_up	90:1 $:1
-PNC	20120627	57.35	58.07	r_up	
-PNC	20120628	58.07	57.99	r_down	
-PNC	20120629	57.99	59.54	r_up	
-PNC	20120702	59.54	59.91	r_up	
-PNC	20120703	59.91	60.55	r_up	
-PNC	20120705	60.55	59.53	r_down	
-PNC	20120706	59.53	59.15	r_down	
-PNC	20120709	59.15	58.7	r_down	
-PNC	20120710	58.7	58.13	r_down	
-PNC	20120711	58.13	59.84	r_up	
-PNC	20120712	59.84	58.8	r_down	
-PNC	20120713	58.8	60.25	r_up	
-PNC	20120716	60.25	59.94	r_down	
-PNC	20120717	59.94	60.41	r_up	
-PNC	20120718	60.41	59.84	r_down	months:1 lag:1 watch:2 but:1 most:1 3:1 40:5 drops:1 financials:1
-PNC	20120719	59.84	60.14	r_up	surprises:1 advisories:1
-PNC	20120720	60.14	58.01	r_down	
-PNC	20120723	58.01	56.51	r_down	hit:1 hard:1 fears:1 financials:1
-PNC	20120724	56.51	56.27	r_down	
-PNC	20120725	56.27	56.57	r_up	
-PNC	20120726	56.57	57.32	r_up	
-PNC	20120727	57.32	58.42	r_up	
-PNC	20120730	58.42	58.68	r_up	
-PNC	20120731	58.68	57.97	r_down	
-PNC	20120801	57.97	57.97	r_up	
-PNC	20120802	57.97	57.38	r_down	
-PNC	20120803	57.38	59.1	r_up	
-PNC	20120806	59.1	58.98	r_down	
-PNC	20120807	58.98	59.61	r_up	
-PNC	20120808	59.61	59.87	r_up	
-PNC	20120809	59.87	59.61	r_down	
-PNC	20120810	59.61	59.57	r_down	
-PNC	20120813	59.57	59.27	r_down	
-PNC	20120814	59.27	59.27	r_up	
-PNC	20120815	59.27	59.8	r_up	
-PNC	20120816	59.8	60.37	r_up	
-PNC	20120817	60.37	60.86	r_up	
-PNC	20120820	60.86	60.51	r_down	
-PNC	20120821	60.51	61.01	r_up	
-PNC	20120822	61.01	60.97	r_down	
-PNC	20120823	60.97	60.65	r_down	
-PNC	20120824	60.65	60.86	r_up	
-PNC	20120827	60.86	60.82	r_down	
-PNC	20120828	60.82	60.79	r_down	
-PNC	20120829	60.79	61.37	r_up	
-PNC	20120830	61.37	60.85	r_down	
-PNC	20120831	60.85	60.97	r_up	
-PNC	20120904	60.97	61.15	r_up	
-PNC	20120905	61.15	60.66	r_down	
-PNC	20120906	60.66	61.81	r_up	
-PNC	20120907	61.81	62.58	r_up	
-PNC	20120910	62.58	62.66	r_up	
-PNC	20120911	62.66	62.74	r_up	15:2
-PNC	20120912	62.74	62.92	r_up	
-PNC	20120913	62.92	64.48	r_up	
-PNC	20120914	64.48	65.5	r_up	
-PNC	20120917	65.5	64.4	r_down	
-PNC	20120918	64.4	64.41	r_up	
-PNC	20120919	64.41	64.9	r_up	
-PNC	20120920	64.9	64.48	r_down	
-PNC	20120921	64.48	64.59	r_up	
-PNC	20120924	64.59	64.34	r_down	checking:1 account:1
-PNC	20120925	64.34	63.31	r_down	
-PNC	20120926	63.31	62.3	r_down	
-PNC	20120927	62.3	62.61	r_up	3rd:1 2012:1
-PNC	20120928	62.61	61.89	r_down	
-PNC	20121001	61.89	61.56	r_down	season:1 primer:1 profit-taking:1 fall:1
-PNC	20121002	61.56	62.72	r_up	
-PNC	20121003	62.72	63.15	r_up	
-PNC	20121004	63.15	63.51	r_up	
-PNC	20121005	63.51	63.56	r_up	
-PNC	20121008	63.56	63.26	r_down	
-PNC	20121009	63.26	63.17	r_down	
-PNC	20121010	63.17	63.32	r_up	
-PNC	20121011	63.32	63.71	r_up	
-PNC	20121012	63.71	61.91	r_down	
-PNC	20121015	61.91	62.11	r_up	
-PNC	20121016	62.11	59.61	r_down	gaining:1 13:3 's:3 views:1 positive:1 watch:1 recovers:1 earnings:1 biggest:1 stocks:1 declining:1
-PNC	20121017	59.61	58.99	r_down	surprises:1 advisories:1
-PNC	20121018	58.99	59.06	r_up	
-PNC	20121019	59.06	58.65	r_down	
-PNC	20121022	58.65	58.32	r_down	
-PNC	20121023	58.32	57.88	r_down	
-PNC	20121024	57.88	57.24	r_down	
-PNC	20121025	57.24	57.68	r_up	2013:1
-PNC	20121026	57.68	57.01	r_down	
-PNC	20121031	57.01	57.44	r_up	
-PNC	20121101	57.44	58.48	r_up	
-PNC	20121102	58.48	58.42	r_down	
-PNC	20121105	58.42	57.96	r_down	
-PNC	20121106	57.96	58.31	r_up	
-PNC	20121107	58.31	55.86	r_down	
-PNC	20121108	55.86	55.52	r_down	
-PNC	20121109	55.52	55.53	r_up	
-PNC	20121112	55.53	55.58	r_up	
-PNC	20121113	55.58	54.24	r_down	
-PNC	20121114	54.24	52.99	r_down	29:1
-PNC	20121115	52.99	53.66	r_up	
-PNC	20121116	53.66	53.63	r_down	
-PNC	20121119	53.63	54.19	r_up	
-PNC	20121120	54.19	54.09	r_down	
-PNC	20121121	54.09	54.1	r_up	
-PNC	20121123	54.1	55.02	r_up	
-PNC	20121126	55.02	54.83	r_down	
-PNC	20121127	54.83	54.31	r_down	
-PNC	20121128	54.31	54.63	r_up	
-PNC	20121129	54.63	54.63	r_up	
-PNC	20121130	54.63	55.41	r_up	's:2 50:1
-PNC	20121203	55.41	54.59	r_down	sector:1 favor:1 weakens:1 bank:1 out:1
-PNC	20121204	54.59	54.36	r_down	's:1
-PNC	20121205	54.36	55.16	r_up	
-PNC	20121206	55.16	54.61	r_down	's:1
-PNC	20121207	54.61	55.07	r_up	
-PNC	20121210	55.07	55.15	r_up	
-PNC	20121211	55.15	55.51	r_up	
-PNC	20121212	55.51	55.96	r_up	87:1
-PNC	20121213	55.96	55.8	r_down	
-PNC	20121214	55.8	55.12	r_down	
-PNC	20121217	55.12	57.12	r_up	
-PNC	20121218	57.12	58.74	r_up	's:1
-PNC	20121219	58.74	57.87	r_down	
-PNC	20121220	57.87	58.4	r_up	's:1
-PNC	20121221	58.4	57.55	r_down	62,000:1 's:1 $:1 2013:1 2012:1
-PNC	20121224	57.55	57.81	r_up	
-PNC	20121226	57.81	57.29	r_down	
-PNC	20121227	57.29	57.19	r_down	203:1 $:1
-PNC	20121228	57.19	56.71	r_down	
-PNC	20121231	56.71	57.55	r_up	
-PNC	20130102	57.55	58.76	r_up	
-PNC	20130103	58.76	58.97	r_up	
-PNC	20130104	58.97	59.69	r_up	
-PNC	20130107	59.69	60.23	r_up	notorious:1 alumni:1
-PNC	20130108	60.23	59.46	r_down	8.5:1 $:1 foreclosure:1 abuse:1 bln:1 settlement:1
-PNC	20130109	59.46	59.39	r_down	join:1 government:1 --:2 won’t:1 against:1 's:2 lawsuit:1
-PNC	20130110	59.39	60.34	r_up	
-PNC	20130111	60.34	59.66	r_down	
-PNC	20130114	59.66	59.06	r_down	giants:1 squeeze:1 foreclosure:1 over:1 battles:1 most:1 yield:1 lose:1 banks:1 8:1 faulty:1 bank:1
-PNC	20130115	59.06	59.38	r_up	
-PNC	20130116	59.38	59.39	r_up	better:1 lesson:1 bigger:1
-PNC	20130117	59.39	61.6	r_up	rise:1 results:1 scrutinized:1
-PNC	20130118	61.6	61.44	r_down	
-PNC	20130122	61.44	61.71	r_up	
-PNC	20130123	61.71	61.44	r_down	
-PNC	20130124	61.44	61.46	r_up	
-PNC	20130125	61.46	61.56	r_up	
-PNC	20130128	61.56	61.56	r_up	
-PNC	20130129	61.56	61.51	r_down	rally:1 30:1 sees:1
-PNC	20130130	61.51	61.42	r_down	14:1
-PNC	20130131	61.42	61.4	r_down	
-PNC	20130201	61.4	62.79	r_up	
-PNC	20130204	62.79	62.08	r_down	2013:1
-PNC	20130205	62.08	62.78	r_up	
-PNC	20130206	62.78	62.93	r_up	
-PNC	20130207	62.93	63.23	r_up	
-PNC	20130208	63.23	62.94	r_down	
-PNC	20130211	62.94	63.58	r_up	
-PNC	20130212	63.58	64.35	r_up	
-PNC	20130213	64.35	63.75	r_down	
-PNC	20130214	63.75	63.45	r_down	's:1
-PNC	20130215	63.45	63.45	r_up	
-PNC	20130219	63.45	63.09	r_down	
-PNC	20130220	63.09	62.76	r_down	
-PNC	20130221	62.76	61.98	r_down	
-PNC	20130222	61.98	62.49	r_up	
-PNC	20130225	62.49	60.42	r_down	
-PNC	20130226	60.42	60.74	r_up	
-PNC	20130227	60.74	61.28	r_up	
-PNC	20130228	61.28	61.98	r_up	$:1 breaks:1 down:1 bln:1 robo-signing:1 settlement:1 9.3:1
-PNC	20130301	61.98	62.37	r_up	
-PNC	20130304	62.37	63.1	r_up	
-PNC	20130305	63.1	63.24	r_up	
-PNC	20130306	63.24	63.74	r_up	
-PNC	20130307	63.74	64.39	r_up	stress:1 below:1 standard:1 only:1 test:1 bank:1
-PNC	20130308	64.39	64.59	r_up	's:1
-PNC	20130311	64.59	65.44	r_up	
-PNC	20130312	65.44	64.99	r_down	
-PNC	20130313	64.99	65.5	r_up	
-PNC	20130314	65.5	65.83	r_up	
-PNC	20130315	65.83	66.36	r_up	's:4
-PNC	20130318	66.36	65.82	r_down	
-PNC	20130319	65.82	65.82	r_up	
-PNC	20130320	65.82	66.26	r_up	
-PNC	20130321	66.26	65.6	r_down	banks:1 10:1 homeowners:1 foreclosing:1 most:1
-PNC	20130322	65.6	65.78	r_up	
-PNC	20130325	65.78	65.71	r_down	
-PNC	20130326	65.71	65.85	r_up	
-PNC	20130327	65.85	65.76	r_down	
-PNC	20130328	65.76	66.07	r_up	2013:1 but:1
-PNC	20130401	66.07	65.36	r_down	
-PNC	20130402	65.36	66.37	r_up	
-PNC	20130403	66.37	64.7	r_down	
-PNC	20130404	64.7	65.17	r_up	
-PNC	20130405	65.17	64.81	r_down	
-PNC	20130408	64.81	65.64	r_up	
-PNC	20130409	65.64	65.92	r_up	start:1 payments:1 foreclosure:1 making:1
-PNC	20130410	65.92	66.75	r_up	's:1
-PNC	20130411	66.75	66.87	r_up	
-PNC	20130412	66.87	65.81	r_down	
-PNC	20130415	65.81	63.75	r_down	
-PNC	20130416	63.75	64.79	r_up	
-PNC	20130417	64.79	65.05	r_up	
-PNC	20130418	65.05	65.24	r_up	
-PNC	20130419	65.24	65.23	r_down	
-PNC	20130422	65.23	65.41	r_up	
-PNC	20130423	65.41	67.21	r_up	false:1 tweet:1 after:1 back:1 bounce:1 n't:1 stocks:1
-PNC	20130424	67.21	68.44	r_up	
-PNC	20130425	68.44	68.7	r_up	
-PNC	20130426	68.7	68.1	r_down	
-PNC	20130429	68.1	68.41	r_up	
-PNC	20130430	68.41	67.88	r_down	
-PNC	20130501	67.88	67.17	r_down	
-PNC	20130502	67.17	67.18	r_up	
-PNC	20130503	67.18	68.11	r_up	
-PNC	20130506	68.11	68.26	r_up	
-PNC	20130507	68.26	68.76	r_up	
-PNC	20130508	68.76	68.97	r_up	
-PNC	20130509	68.97	68.72	r_down	
-PNC	20130510	68.72	68.57	r_down	
-PNC	20130513	68.57	68.76	r_up	
-PNC	20130514	68.76	70.17	r_up	
-PNC	20130515	70.17	70.85	r_up	
-PNC	20130516	70.85	70.46	r_down	
-PNC	20130517	70.46	71.51	r_up	
-PNC	20130520	71.51	71.28	r_down	
-PNC	20130521	71.28	72.2	r_up	
-PNC	20130522	72.2	71.24	r_down	
-PNC	20130523	71.24	70.94	r_down	
-PNC	20130524	70.94	71.11	r_up	
-PNC	20130528	71.11	71.03	r_down	
-PNC	20130529	71.03	71.8	r_up	
-PNC	20130530	71.8	72.88	r_up	
-PNC	20130531	72.88	71.64	r_down	's:1
-PNC	20130603	71.64	71.83	r_up	
-PNC	20130604	71.83	71.09	r_down	
-PNC	20130605	71.09	69.83	r_down	
-PNC	20130606	69.83	70.27	r_up	
-PNC	20130607	70.27	71.1	r_up	
-PNC	20130610	71.1	72.93	r_up	
-PNC	20130611	72.93	71.75	r_down	
-PNC	20130612	71.75	70.84	r_down	
-PNC	20130613	70.84	71.76	r_up	
-PNC	20130614	71.76	71.0	r_down	
-PNC	20130617	71.0	71.29	r_up	--:1 's:1 2013:1
-PNC	20130618	71.29	71.74	r_up	
-PNC	20130619	71.74	70.88	r_down	
-PNC	20130620	70.88	71.05	r_up	banks:1 party:1 over:1
-PNC	20130621	71.05	71.71	r_up	
+PNC	20140501	83.1	82.8	r_down	
+PNC	20140502	82.8	83.7	r_up	added:1 jobs:1 recovery:1 longstanding:1 paces:1 ills:1 one:1 upturn:1 enough:1 economy:1 fastest:1 strong:1 hopes:1 's:1 employers:1 rekindling:1
+PNC	20140505	83.7	83.2	r_down	little:1 slim:1 says:1 big:1 structured:1 incentive:1 research:1 down:1 offers:1 way:1 banks:2 new:1 analyst:1
+PNC	20140506	83.2	82.0	r_down	
+PNC	20140507	82.0	82.9	r_up	
+PNC	20140508	82.9	82.9	r_up	
+PNC	20140509	82.9	83.2	r_up	
+PNC	20140512	83.2	84.5	r_up	complicate:1 's:2 groups:1 than:1 --:1 pay:1 could:1 research:1 suggests:1 regulators:1 much:1 financial:1 shrink:1 finding:1 performance:1 efforts:1 size:1 its:1 linked:1 bank:1 more:1
+PNC	20140513	84.5	83.8	r_down	
+PNC	20140514	83.8	82.3	r_down	
+PNC	20140515	82.3	81.7	r_down	
+PNC	20140516	81.7	81.8	r_up	
+PNC	20140519	81.8	82.2	r_up	
+PNC	20140520	82.2	81.7	r_down	
+PNC	20140521	81.7	82.5	r_up	
+PNC	20140522	82.5	83.1	r_up	adding:1 's:1 economists:1 consumers:1 weather:1 sales:1 bad:1 concerns:1 downside:1 fuel:1 retail:1 tapped:1 blamed:1 surprised:1 out:1
+PNC	20140523	83.1	83.5	r_up	seeing:1 set:1 tepid:1 period:1 active:1 rate:1 growth:2 year:1 its:1 out:1 cut:1 there:1 feature:1 low:1 interest:2 income:1 acquirers:1 new:2 net:1 led:1 which:1 after:1 pressure:1 weaker-than-expected:1 rolling:1 estimate:1 now:1 loans:1 quarter:1 versions:1 taxes:1 economic:1 risks:1 fixed:1 first:1
+PNC	20140527	83.5	83.7	r_up	
+PNC	20140528	83.7	83.5	r_down	cut:1 sharply:1 plans:1 profit:1 year:1 expectations:1 expenses:1 banks:1 second:1 machines:1 lenders:1 half:1 biggest:1 sputtering:1 raising:1 accelerate:1
+PNC	20140529	83.5	83.8	r_up	sharply:1 civil:4 into:8 expenses:1 helped:4 second:1 officials:2 accelerate:1 have:2 year:1 sputtering:1 viewed:2 has:2 documents:1 opened:4 3rd:1 profit:1 5th:1 expectations:1 least:4 internal:2 machines:1 biggest:1 firms:4 criminal:4 public:1 enable:4 plans:1 investigations:4 memo:2 processing:2 cut:1 lenders:1 half:1 payment:2 raising:1 10:2 made:1 15:5 --:4 according:3 whether:4 activity:4 banks:5
+PNC	20140530	83.8	84.3	r_up	
+PNC	20140602	84.3	84.6	r_up	underperform:1 recovery:1 lead:1 regional:1 continue:1 broader:1 banks:1 market:1
+PNC	20140603	84.6	84.4	r_down	his:1 housing:1 up:1 doesn’t:1 missteps:1 bailout:1 own:1 still:1 writes:1 seeks:1 reputation:1
+PNC	20140604	84.4	84.7	r_up	
+PNC	20140605	84.7	85.6	r_up	
+PNC	20140606	85.6	86.3	r_up	
+PNC	20140609	86.3	87.5	r_up	
+PNC	20140610	87.5	87.4	r_down	officials:1 meat:1 government:1 sluggish:1 economic:1 but:1 n't:1 enough:1 inflation:1 intent:1 paid:1 boosting:1 shoppers:1 distract:1 consumer:1 growth:1 more:1
+PNC	20140611	87.4	87.0	r_down	
+PNC	20140612	87.0	86.3	r_down	
+PNC	20140613	86.3	86.8	r_up	
+PNC	20140616	86.8	86.7	r_down	
+PNC	20140617	86.7	87.3	r_up	
+PNC	20140618	87.3	87.6	r_up	
+PNC	20140619	87.6	87.5	r_down	
+PNC	20140620	87.5	88.4	r_up	
+PNC	20140623	88.4	88.3	r_down	
+PNC	20140624	88.3	87.6	r_down	financial:1 plans:1 into:1 artists:1 alleged:1 scam:1 inquiry:1 payments:1 firms:1 handle:1 cases:1 its:1 more:1
+PNC	20140625	87.6	87.7	r_up	
+PNC	20140626	87.7	87.6	r_down	
+PNC	20140627	87.6	88.3	r_up	
+PNC	20140630	88.3	88.0	r_down	
+PNC	20140701	88.0	88.3	r_up	
+PNC	20140702	88.3	87.9	r_down	
+PNC	20140703	87.9	88.9	r_up	sector:1 picture:1 given:1 said:1 's:1 economists:1 service:1 though:1 being:1 government:1 surveys:1 up:1 suggests:1 growth:1 mixed:1 stimulus:1 still:1 continued:1 expand:1
+PNC	20140707	88.9	88.0	r_down	
+PNC	20140708	88.0	87.0	r_down	both:1 pressured:1 favored:1 face:1 interest:1 income:1 net:1
+PNC	20140709	87.0	87.2	r_up	fiscal:1 measures:1 's:1 room:1 giving:1 eased:1 monetary:1 prop:1 employ:1 pressure:1 targeted:1 economic:1 growth:1 policy:1 slightly:1 makers:1 more:1
+PNC	20140710	87.2	86.4	r_down	
+PNC	20140711	86.4	86.8	r_up	
+PNC	20140714	86.8	86.6	r_down	
+PNC	20140715	86.6	87.7	r_up	
+PNC	20140716	87.7	84.6	r_down	biotech:1 leaders:1 just:1 globe:1 trade:1 rate:1 session:1 close:1 out:1 media:1 small-company:1 shares:1 interest:1 policy:1 speak:1 markets:1 economy:1 play:1 felt:1 's:2 around:1 attention:1 expected:1 effects:1 stocks:1 bank:1 central:1 sway:1 companies:1 actively:1 social:1
+PNC	20140717	84.6	82.8	r_down	soars:1 lending:1 results:1 profitability:1 jump:1 second:1 measure:1 saw:1 decline:1 anticipation:1 spurned:1 media:1 top:1 expectations:1 rates:1 low:1 between:1 megadeal:1 collaboration:1 earnings:1 offer:1 jumps:1 regional:1 falls:1 part:1 key:1 fall:1 news:1 buyout:1 both:1 due:1 banks:1 quarter:1
+PNC	20140718	82.8	83.4	r_up	
+PNC	20140721	83.4	83.4	r_up	surprise:1 could:1 upside:1
+PNC	20140722	83.4	83.2	r_down	
+PNC	20140723	83.2	83.4	r_up	
+PNC	20140724	83.4	84.0	r_up	lowest:1 adjusted:1 economists:1 unemployment:2 revised:1 up:1 ended:1 signs:2 seasonally:1 market:2 strength:2 jobless:1 prior:1 since:1 labor:2 low:2 8:2 layoffs:1 week:4 1/2:2 offering:2 reaching:2 first-time:1 said:1 19,000:1 applications:2 fell:1 proxy:1 aid:1 last:2 benefits:2 level:1 --:2 plunged:2 forecast:1 19:1 below:1 2006:1 claims:3 slightly:1 latest:2
+PNC	20140725	84.0	84.3	r_up	share:1 according:1 market:1 requirements:1 leading:1 next:1 charge:1 capital:1 new:2 deleverage:1 map:1 big:1 regulations:1 moving:1 invasion:1 comply:1 stage:1 up:1 retrench:1 scoop:1 analysts:1 banks:4 meet:1
+PNC	20140728	84.3	83.3	r_down	
+PNC	20140729	83.3	82.9	r_down	
+PNC	20140730	82.9	83.6	r_up	
+PNC	20140731	83.6	82.0	r_down	them:1 based:1 giving:1 deserve:1 support:1 label:1 n't:1 rules:1 chance:1 important:1 so:1 which:1 escape:1 banks:2 stricter:1 law:1 systemically:1 change:1 size:1
+PNC	20140801	82.0	81.5	r_down	
+PNC	20140804	81.5	81.8	r_up	
+PNC	20140805	81.8	81.3	r_down	
+PNC	20140806	81.3	81.0	r_down	
+PNC	20140807	81.0	80.7	r_down	private:1 expenses:1 college:1 year:1 carry:1 said:1 federal:1 investigation:1 rates:1 firms:1 law:1 recently:1 focused:1 reversal:1 now:1 loans:3 than:1 ago:1 lower:1 industry:1 connection:1 foreclosed:1 cooperating:1 charged:1
+PNC	20140808	80.7	81.2	r_up	compared:1 into:1 site:1 tiny:1 resort:1 economic:1 transformed:1 fishing:1 year:1 been:1 has:1 summit:1
+PNC	20140811	81.2	81.2	r_up	``:1 's:1 '':1 book:1 authors:1 talks:1 new:1
+PNC	20140812	81.2	81.3	r_up	
+PNC	20140813	81.3	81.7	r_up	
+PNC	20140814	81.7	81.7	r_up	
+PNC	20140815	81.7	81.5	r_down	
+PNC	20140818	81.5	82.4	r_up	
+PNC	20140819	82.4	82.5	r_up	give:1 policies:1 their:1 0.1:1 could:1 since:1 stronger:1 pace:1 flexibility:1 maintain:1 economic:1 designed:1 which:1 growth:1 prices:1 slowest:1 stimulate:1 advanced:1 more:1
+PNC	20140820	82.5	83.0	r_up	
+PNC	20140821	83.0	84.0	r_up	
+PNC	20140822	84.0	83.8	r_down	
+PNC	20140825	83.8	84.6	r_up	
+PNC	20140826	84.6	84.6	r_up	
+PNC	20140827	84.6	84.4	r_down	
+PNC	20140828	84.4	84.0	r_down	seeing:1 ``:1 said:1 determine:1 working:1 enforcement:1 after:1 '':1 unusual:1 morning:1 n't:1 attack:2 fraud:1 closely:1 scope:1 hacking:1 law:1 recent:1
+PNC	20140829	84.0	84.2	r_up	saying:1 years:2 hit:1 its:2 out:2 5.7:2 rose:2 had:2 two:2 been:1 steering:2 victims:1 economy:4 largest:1 themselves:1 hope:2 more:2 's:5 government:2 similar:1 nation:1 incident:1 fastest:2 they:2 demand:2 cyberattack:1 last:4 slowdown:2 than:2 bank:2 no:1 central:2 --:2 corporate:2 expanded:2 pace:2 indication:1 banks:1 quarter:2 consumer:2
+PNC	20140902	84.2	84.7	r_up	
+PNC	20140903	84.7	84.6	r_down	
+PNC	20140904	84.6	84.6	r_up	
+PNC	20140905	84.6	84.8	r_up	
+PNC	20140908	84.8	84.9	r_up	
+PNC	20140909	84.9	84.3	r_down	``:1 said:1 's:1 banks:1 may:1 certain:1 top:1 exempt:1 medium-sized:1 '':1 banking:1 regulation:1 time:1 small:1 aspects:1 financial:1 2010:1 law:1 man:1
+PNC	20140910	84.3	85.2	r_up	
+PNC	20140911	85.2	85.2	r_up	
+PNC	20140912	85.2	85.7	r_up	purchases:1 fueling:1 encouraging:1 sign:1 gadgets:1 hopes:1 growth:1 embrace:1 further:1 open:1 consumers:2 technology:1 away:1 better:1 their:1 lets:1 cash:1 pay:1 product:1 move:1 's:1 may:1 wallets:1 job:1 them:1 they:1 prices:1 lower:1 electronic:1 launches:1 industry:1 gasoline:1 up:1 retailers:1 credit-card:1 latest:1
+PNC	20140915	85.7	85.8	r_up	
+PNC	20140916	85.8	86.0	r_up	
+PNC	20140917	86.0	86.6	r_up	
+PNC	20140918	86.6	87.4	r_up	seen:1 last:1 would:1 favored:1 super:1 under:1 year:1 projected:1 four:1 released:1 levels:1 economic:1 regionals:1 have:1 capital:1 new:1 downturn:1 data:1 than:1 higher:1
+PNC	20140919	87.4	87.3	r_down	
+PNC	20140922	87.3	86.7	r_down	
+PNC	20140923	86.7	85.5	r_down	
+PNC	20140924	85.5	86.1	r_up	needs:1 still:1 tangible:1 get:1 lift:1 regional:1 value:1 priced:1 capital:1 below:1 book:1 but:1 listing:1 should:1 its:1 bank:1
+PNC	20140925	86.1	84.9	r_down	
+PNC	20140926	84.9	85.3	r_up	firm:1 king:1 's:2 funds:1 may:1 advisers:1 some:1 departure:1 been:1 years:1 straw:1 have:1 using:1 financial:1 final:1
+PNC	20140929	85.3	85.1	r_down	
+PNC	20140930	85.1	85.0	r_down	staying:1 doors:1 perhaps:1 advisers:1 some:1 eyeing:1 say:1 exit:1 they:1 others:1 follow:1 now:1
+PNC	20141001	85.0	84.0	r_down	information:1 ``:1 said:1 's:2 breach:1 cause:1 discussion:1 retailer:1 chief:1 manager:1 '':1 absence:1 officer:1 during:1 year:1 last:1 security:1 root:1 former:1 panel:1
+PNC	20141002	84.0	83.7	r_down	
+PNC	20141003	83.7	84.5	r_up	slipped:1 unemployment:1 hiring:1 rate:1 growth:1 wage:1 since:1 6:1 show:1 sluggish:1 economy:1 returned:1 continues:1 but:1 hopes:1 strong:1 lifting:1 persistent:1 recession:1 pace:1 below:1 time:1 first:1
+PNC	20141006	84.5	84.5	r_up	
+PNC	20141007	84.5	82.7	r_down	
+PNC	20141008	82.7	84.3	r_up	
+PNC	20141009	84.3	82.5	r_down	
+PNC	20141010	82.5	81.7	r_down	pullback:1 attractive:1 after:1 look:1 more:1

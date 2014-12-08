@@ -1,307 +1,114 @@
-TGT	20120402	56.67	56.69	r_up	
-TGT	20120403	56.69	56.29	r_down	
-TGT	20120404	56.29	56.23	r_down	see:1 muscle:1 continued:1 sales:1 shopper:1
-TGT	20120405	56.23	56.13	r_down	
-TGT	20120409	56.13	55.94	r_down	
-TGT	20120410	55.94	54.85	r_down	
-TGT	20120411	54.85	55.63	r_up	's:1
-TGT	20120412	55.63	56.34	r_up	department:1 money:1 made:1 stores:1 analyst:1
-TGT	20120413	56.34	55.85	r_down	's:1
-TGT	20120416	55.85	55.81	r_down	
-TGT	20120417	55.81	56.02	r_up	
-TGT	20120418	56.02	55.8	r_down	
-TGT	20120419	55.8	55.23	r_down	targeted:1 spending:1 boardrooms:1 political:1
-TGT	20120420	55.23	55.71	r_up	
-TGT	20120423	55.71	55.08	r_down	
-TGT	20120424	55.08	55.17	r_up	consumables:1 heel:1
-TGT	20120425	55.17	55.27	r_up	
-TGT	20120426	55.27	55.91	r_up	
-TGT	20120427	55.91	56.66	r_up	
-TGT	20120430	56.66	56.35	r_down	
-TGT	20120501	56.35	56.42	r_up	expected:1 slow:1 sales:1
-TGT	20120502	56.42	56.39	r_down	says:1 15:1 rules:1 cutting:1 fees:1 's:1 card:1
-TGT	20120503	56.39	55.0	r_down	lonely:1 same-store:1 sales:1 number:1
-TGT	20120504	55.0	54.12	r_down	
-TGT	20120507	54.12	54.23	r_up	
-TGT	20120508	54.23	54.02	r_down	
-TGT	20120509	54.02	53.76	r_down	's:2
-TGT	20120510	53.76	53.79	r_up	
-TGT	20120511	53.79	53.91	r_up	's:1 profit:1 rings:1 up:1 see:1 analysts:1 wait:1
-TGT	20120514	53.91	53.7	r_down	sentiment:1
-TGT	20120515	53.7	53.86	r_up	loss:1 dividend:1 swings:1 's:1 suspends:1
-TGT	20120516	53.86	54.09	r_up	's:1 watch:1 1.2:2
-TGT	20120517	54.09	53.59	r_down	gains:1 big:1 wins:1 jumps:1 offset:1 results:1 least:1 sales:1 traction:1 cost:1 plan:1 gain:1 rallies:1 spin-off:1 day:1 more:1
-TGT	20120518	53.59	54.23	r_up	
-TGT	20120521	54.23	54.59	r_up	
-TGT	20120522	54.59	55.41	r_up	streak:1 bad:1
-TGT	20120523	55.41	55.52	r_up	's:2
-TGT	20120524	55.52	55.98	r_up	
-TGT	20120525	55.98	56.34	r_up	
-TGT	20120529	56.34	56.84	r_up	
-TGT	20120530	56.84	56.51	r_down	seen:1 modest:1 growth:1 posting:1 sales:1
-TGT	20120531	56.51	56.63	r_up	miserable:1 10:1 made:1 people:1
-TGT	20120601	56.63	55.93	r_down	's:1
-TGT	20120604	55.93	56.29	r_up	
-TGT	20120605	56.29	56.05	r_down	
-TGT	20120606	56.05	56.23	r_up	
-TGT	20120607	56.23	56.05	r_down	tricky:1 pose:1
-TGT	20120608	56.05	57.89	r_up	
-TGT	20120611	57.89	57.4	r_down	
-TGT	20120612	57.4	56.87	r_down	
-TGT	20120613	56.87	56.76	r_down	20:2
-TGT	20120614	56.76	57.25	r_up	1:4 26:2 's:1 1st:2
-TGT	20120615	57.25	57.2	r_down	
-TGT	20120618	57.2	57.17	r_down	
-TGT	20120619	57.17	57.4	r_up	pressure:1 cooker:1
-TGT	20120620	57.4	57.2	r_down	
-TGT	20120621	57.2	56.13	r_down	's:1 8.5:1 $:1
-TGT	20120622	56.13	56.28	r_up	paying:1 9:1 stocks:1 worth:1 $:1
-TGT	20120625	56.28	55.96	r_down	
-TGT	20120626	55.96	56.35	r_up	
-TGT	20120627	56.35	56.28	r_down	
-TGT	20120628	56.28	56.19	r_down	
-TGT	20120629	56.19	56.9	r_up	
-TGT	20120702	56.9	56.98	r_up	
-TGT	20120703	56.98	56.5	r_down	may:1 watch:1 sales:1 years:1 3:1 smallest:1 gain:1 retail:1
-TGT	20120705	56.5	55.88	r_down	winter:1 sales:2 melt:1 years:1 mild:1 worst:1 three:1 post:1
-TGT	20120706	55.88	56.78	r_up	surprises:1 advisories:1
-TGT	20120709	56.78	56.75	r_down	little:1 has:1 room:1 analyst:1 error:1
-TGT	20120710	56.75	57.92	r_up	join:1 forces:1
-TGT	20120711	57.92	58.46	r_up	's:1
-TGT	20120712	58.46	58.55	r_up	
-TGT	20120713	58.55	60.58	r_up	's:1
-TGT	20120716	60.58	60.14	r_down	back-to-school:1 retail:1 raises:1 stakes:1
-TGT	20120717	60.14	59.9	r_down	set:1 's:1 rules:1 update:1 culture:1 protection:1
-TGT	20120718	59.9	60.03	r_up	
-TGT	20120719	60.03	59.89	r_down	jump:1 stocks:1 views:1 spending:1 could:1 fears:1 back-to-school:1 lift:1 retail:1
-TGT	20120720	59.89	60.01	r_up	
-TGT	20120723	60.01	59.1	r_down	
-TGT	20120724	59.1	59.21	r_up	223,000:1
-TGT	20120725	59.21	59.02	r_down	after:2 slumps:1 all-time:1 low:1 dividend:1 223,000:1 halts:1
-TGT	20120726	59.02	59.71	r_up	apparel:1 brighter:1 other:1 stocks:1
-TGT	20120727	59.71	60.16	r_up	's:1
-TGT	20120730	60.16	60.66	r_up	
-TGT	20120731	60.66	59.31	r_down	's:4 $:1
-TGT	20120801	59.31	59.28	r_down	15.1:3 15:1 may:1 sales:1 2nd:1 better:1 turn:1 winners:1 back-to-school:1 expected:1 's:1 than:1 out:1
-TGT	20120802	59.28	60.6	r_up	15.1:1 school:1 's:1 may:1 big:1 well:1 sales:1 back:1 takeover:1 upside:1 hedge:1 has:1 bode:1
-TGT	20120803	60.6	60.98	r_up	738:1 $:1
-TGT	20120806	60.98	61.01	r_up	
-TGT	20120807	61.01	61.25	r_up	12:2
-TGT	20120808	61.25	61.54	r_up	territory:1 into:1 moves:1
-TGT	20120809	61.54	61.3	r_down	progress:1 remain:1 concerns:1 makes:1 but:1
-TGT	20120810	61.3	61.45	r_up	play:1 retail:1 turnaround:1
-TGT	20120813	61.45	61.48	r_up	
-TGT	20120814	61.48	62.33	r_up	sector:1 's:1 up:1 sales:1 back-to-school:1 earnings:1
-TGT	20120815	62.33	63.43	r_up	sector:1 amid:1 divided:1 watch:1 results:1 quarterly:1
-TGT	20120816	63.43	62.85	r_down	surprises:1 advisories:1
-TGT	20120817	62.85	63.08	r_up	
-TGT	20120820	63.08	62.59	r_down	
-TGT	20120821	62.59	63.07	r_up	's:1
-TGT	20120822	63.07	62.63	r_down	mobile:1 260,000:1 payment:1 venture:1
-TGT	20120823	62.63	61.95	r_down	260,000:1
-TGT	20120824	61.95	62.64	r_up	
-TGT	20120827	62.64	62.31	r_down	
-TGT	20120828	62.31	62.75	r_up	
-TGT	20120829	62.75	63.2	r_up	watch:1
-TGT	20120830	63.2	63.1	r_down	n't:1 600,700:2 boost:1 sales:1 retailers:1
-TGT	20120831	63.1	63.03	r_down	central-bank:1 stocks:1 slammed:1 jitters:1
-TGT	20120904	63.03	62.78	r_down	
-TGT	20120905	62.78	62.68	r_down	
-TGT	20120906	62.68	63.79	r_up	$:3 67.1:2 1.93:1
-TGT	20120907	63.79	62.94	r_down	
-TGT	20120910	62.94	63.73	r_up	
-TGT	20120911	63.73	63.41	r_down	
-TGT	20120912	63.41	63.32	r_down	defends:1 position:1 its:1 big-box:1
-TGT	20120913	63.32	63.98	r_up	1:1 headed:1 4:1 store:1 latest:1
-TGT	20120914	63.98	63.6	r_down	
-TGT	20120917	63.6	63.34	r_down	
-TGT	20120918	63.34	63.22	r_down	
-TGT	20120919	63.22	63.93	r_up	's:1
-TGT	20120920	63.93	64.32	r_up	's:1
-TGT	20120921	64.32	64.36	r_up	2011:1 50,000:1
-TGT	20120924	64.36	64.07	r_down	's:1
-TGT	20120925	64.07	63.32	r_down	13:2 than:2
-TGT	20120926	63.32	62.77	r_down	
-TGT	20120927	62.77	62.54	r_down	
-TGT	20120928	62.54	62.42	r_down	
-TGT	20121001	62.42	61.95	r_down	
-TGT	20121002	61.95	61.94	r_down	screen:1 coupons:1 time:1
-TGT	20121003	61.94	62.05	r_up	
-TGT	20121004	62.05	62.6	r_up	2.1:2 stocks:1 watch:1 sales:1 ahead:1
-TGT	20121005	62.6	63.12	r_up	holidays:1 flags:1 sales:1 red:1 raise:1
-TGT	20121008	63.12	62.93	r_down	's:2
-TGT	20121009	62.93	61.85	r_down	bright:1 potential:1 89,000:2 spots:1
-TGT	20121010	61.85	61.62	r_down	$:1
-TGT	20121011	61.62	60.24	r_down	
-TGT	20121012	60.24	60.5	r_up	
-TGT	20121015	60.5	60.79	r_up	
-TGT	20121016	60.79	61.86	r_up	pricing:1 match:1 online:1
-TGT	20121017	61.86	62.0	r_up	's:1 6,200:1 1.2:1
-TGT	20121018	62.0	61.9	r_down	's:1 6,200:1 1.2:1
-TGT	20121019	61.9	61.2	r_down	
-TGT	20121022	61.2	61.18	r_down	
-TGT	20121023	61.18	61.6	r_up	's:2
-TGT	20121024	61.6	61.79	r_up	
-TGT	20121025	61.79	62.08	r_up	pricing:1 stokes:1 initiatives:1 sales:1 online:1
-TGT	20121026	62.08	62.86	r_up	hurricane-hit:1 aid:1 up:1 shoppers:1 stock:1
-TGT	20121031	62.86	62.7	r_down	stores:1 benefit:1 some:1 bet:1
-TGT	20121101	62.7	61.9	r_down	small:1 surprises:1 see:1 advisories:1 impact:1
-TGT	20121102	61.9	61.67	r_down	's:2 $:2
-TGT	20121105	61.67	62.35	r_up	3.7:2 $:1 2007:3
-TGT	20121106	62.35	62.34	r_down	10:2 30:1 $:1
-TGT	20121107	62.34	61.75	r_down	30:1 $:1
-TGT	20121108	61.75	60.8	r_down	earlier:1 stores:1 bargains:1 debut:1 tempt:1 's:2 holiday:1
-TGT	20121109	60.8	60.99	r_up	warm:1 up:1 yet:1
-TGT	20121112	60.99	60.96	r_down	9:2 8:2 p.m:2 's:1 p.m.:2
-TGT	20121113	60.96	61.06	r_up	's:2
-TGT	20121114	61.06	60.37	r_down	
-TGT	20121115	60.37	61.41	r_up	15:5 over:1 4th:2 earnings:1 faces:1 backlash:1
-TGT	20121116	61.41	61.47	r_up	do:1 stores:1 movers:1 big:1 into:1 competitive:1 slides:1 advisories:1 retailers:1 surprises:1 2.1:1 holiday:1 open:1 signal:1
-TGT	20121119	61.47	62.33	r_up	en:1 's:4 français:1 $:4
-TGT	20121120	62.33	62.32	r_down	urgency:1 sense:1
-TGT	20121121	62.32	63.03	r_up	countdown:1 retail’s:1 's:1
-TGT	20121123	63.03	63.78	r_up	sector:1 focus:1 rally:1 weekly:1 strong:1 23:1 workers:1 13000:1 12:1 holiday:1 hope:1 stock:1 gives:1 gains:1 minimum-wage:1 rise:1 most:1 mania:1 stocks:1 retail:1 futures:1 companies:1 n't:1 tech:1 retailers:1 2012:1 consumer:1
-TGT	20121126	63.78	62.1	r_down	billion:1 1.5:1 's:1 $:1 reach:1 could:1 watch:1 sales:1
-TGT	20121127	62.1	61.89	r_down	movers:1 big:1 over:1 sales:1 may:1 3:1 rallies:1 not:1 save:1
-TGT	20121128	61.89	62.13	r_up	
-TGT	20121129	62.13	62.11	r_down	$:1 things:1 n't:1 wallets:1 5:1 know:1 650:1 digital:1
-TGT	20121130	62.11	62.45	r_up	holiday:1 miss:1 raises:1 stake:1
-TGT	20121203	62.45	61.62	r_down	
-TGT	20121204	61.62	61.32	r_down	
-TGT	20121205	61.32	61.37	r_up	
-TGT	20121206	61.37	61.53	r_up	
-TGT	20121207	61.53	61.6	r_up	
-TGT	20121210	61.6	61.29	r_down	
-TGT	20121211	61.29	60.76	r_down	's:1
-TGT	20121212	60.76	59.88	r_down	
-TGT	20121213	59.88	60.59	r_up	go:1 finally:1 private:1
-TGT	20121214	60.59	59.84	r_down	
-TGT	20121217	59.84	60.43	r_up	
-TGT	20121218	60.43	61.6	r_up	you’ve:1 won’t:1 rest:1 gifts:1 till:1 your:1 2013:1 bought:1
-TGT	20121219	61.6	60.85	r_down	may:1 disappointing:1 see:1 holiday:1 sales:1
-TGT	20121220	60.85	59.71	r_down	
-TGT	20121221	59.71	58.95	r_down	
-TGT	20121224	58.95	58.89	r_down	
-TGT	20121226	58.89	58.57	r_down	hustle:1 retailers’:1 stakes:1
-TGT	20121227	58.57	58.29	r_down	's:1 would:1 spring:1 sales:1 strike:1 threaten:1 retail:1
-TGT	20121228	58.29	57.94	r_down	
-TGT	20121231	57.94	58.53	r_up	disappointing:1 gird:1 sales:1
-TGT	20130102	58.53	58.18	r_down	
-TGT	20130103	58.18	59.51	r_up	after:1 note:1 start:1 year:1 jittery:1 new:1
-TGT	20130104	59.51	59.92	r_up	
-TGT	20130107	59.92	60.64	r_up	
-TGT	20130108	60.64	59.98	r_down	's:5
-TGT	20130109	59.98	59.53	r_down	prices:1 match:1 vows:1
-TGT	20130110	59.53	59.66	r_up	
-TGT	20130111	59.66	59.42	r_down	
-TGT	20130114	59.42	59.74	r_up	10:1 industry’s:1 gather:1 companies:1 most-hated:1 ‘mini:1
-TGT	20130115	59.74	60.43	r_up	0.5:1
-TGT	20130116	60.43	60.66	r_up	
-TGT	20130117	60.66	60.79	r_up	$:1 190:1
-TGT	20130118	60.79	60.86	r_up	
-TGT	20130122	60.86	60.82	r_down	dons:1
-TGT	20130123	60.82	60.38	r_down	
-TGT	20130124	60.38	61.19	r_up	
-TGT	20130125	61.19	60.87	r_down	
-TGT	20130128	60.87	60.47	r_down	
-TGT	20130129	60.47	60.68	r_up	2013:1
-TGT	20130130	60.68	60.32	r_down	's:1
-TGT	20130131	60.32	59.76	r_down	
-TGT	20130201	59.76	60.49	r_up	
-TGT	20130204	60.49	60.19	r_down	
-TGT	20130205	60.19	61.72	r_up	
-TGT	20130206	61.72	62.01	r_up	
-TGT	20130207	62.01	61.62	r_down	
-TGT	20130208	61.62	61.81	r_up	
-TGT	20130211	61.81	61.99	r_up	
-TGT	20130212	61.99	62.05	r_up	close:1 stores:1 retailers:1 most:1
-TGT	20130213	62.05	62.01	r_down	produces:1 muted:1 winners:1 losers:1 speech:1 stock:1
-TGT	20130214	62.01	62.41	r_up	
-TGT	20130215	62.41	61.39	r_down	week:1 n't:1 up:1 2nd:3 down:1 7th:3 500:3
-TGT	20130219	61.39	61.55	r_up	
-TGT	20130220	61.55	62.33	r_up	
-TGT	20130221	62.33	63.07	r_up	worries:1 economic:1 its:1 clip:1 forecast:1
-TGT	20130222	63.07	63.27	r_up	
-TGT	20130225	63.27	62.57	r_down	
-TGT	20130226	62.57	63.72	r_up	
-TGT	20130227	63.72	62.79	r_down	cautious:1 sees:1 up:1 slightly:1 since:1 sales:1 but:1 surge:1 after:1 2:2 5:1 data:1 goods:1 softness:1 stocks:1 consumer:1 day:1 best:1 futures:1
-TGT	20130228	62.79	62.63	r_down	leash:1 short:1
-TGT	20130301	62.63	63.8	r_up	
-TGT	20130304	63.8	66.1	r_up	3:1
-TGT	20130305	66.1	66.34	r_up	
-TGT	20130306	66.34	65.78	r_down	ahead:1 5:1 focus:1 retailers:1 sales:1
-TGT	20130307	65.78	65.51	r_down	
-TGT	20130308	65.51	66.01	r_up	got:1 2012:1 $:1 28.5:1
-TGT	20130311	66.01	66.99	r_up	
-TGT	20130312	66.99	66.76	r_down	test:1 record:1 39:1 territory:1 's:1
-TGT	20130313	66.76	67.08	r_up	
-TGT	20130314	67.08	66.99	r_down	's:1
-TGT	20130315	66.99	66.46	r_down	
-TGT	20130318	66.46	66.42	r_down	's:1
-TGT	20130319	66.42	66.12	r_down	
-TGT	20130320	66.12	68.17	r_up	
-TGT	20130321	68.17	67.7	r_down	
-TGT	20130322	67.7	68.07	r_up	you:1 computer:1 knows:1
-TGT	20130325	68.07	68.06	r_down	
-TGT	20130326	68.06	68.26	r_up	blame:1 game:1 weather:1 joins:1
-TGT	20130327	68.26	68.69	r_up	
-TGT	20130328	68.69	68.1	r_down	
-TGT	20130401	68.1	68.31	r_up	n't:1
-TGT	20130402	68.31	68.47	r_up	
-TGT	20130403	68.47	67.63	r_down	
-TGT	20130404	67.63	68.43	r_up	tables:1 ``:1 's:1 turns:1 '':1 ‘showrooming’:1
-TGT	20130405	68.43	68.49	r_up	
-TGT	20130408	68.49	68.9	r_up	
-TGT	20130409	68.9	68.56	r_down	
-TGT	20130410	68.56	68.5	r_down	failed:1 magic:1
-TGT	20130411	68.5	68.76	r_up	's:2
-TGT	20130412	68.76	69.13	r_up	's:1
-TGT	20130415	69.13	68.13	r_down	
-TGT	20130416	68.13	68.03	r_down	streak:1 case:1 snaps:1 futures:1 hit:1 3-day:1 movers:1 rebound:1 after:1 beats:1 forecasts:1 mixed:1 hardest:1 warning:1 rise:1 losing:1 investment:1 2013:1 stock:1
-TGT	20130417	68.03	68.41	r_up	dissecting:1 already:1 disaster:1
-TGT	20130418	68.41	67.94	r_down	
-TGT	20130419	67.94	68.68	r_up	's:1
-TGT	20130422	68.68	68.74	r_up	
-TGT	20130423	68.74	69.33	r_up	
-TGT	20130424	69.33	69.35	r_up	group:1 could:1 tax:1 curb:1 ‘showrooming’:1 retail:1
-TGT	20130425	69.35	70.31	r_up	
-TGT	20130426	70.31	70.16	r_down	
-TGT	20130429	70.16	70.28	r_up	
-TGT	20130430	70.28	70.2	r_down	
-TGT	20130501	70.2	70.18	r_down	
-TGT	20130502	70.18	68.83	r_down	
-TGT	20130503	68.83	70.14	r_up	
-TGT	20130506	70.14	69.67	r_down	
-TGT	20130507	69.67	70.19	r_up	
-TGT	20130508	70.19	69.44	r_down	
-TGT	20130509	69.44	69.12	r_down	
-TGT	20130510	69.12	69.38	r_up	
-TGT	20130513	69.38	69.44	r_up	's:1
-TGT	20130514	69.44	69.44	r_up	
-TGT	20130515	69.44	70.39	r_up	
-TGT	20130516	70.39	70.0	r_down	
-TGT	20130517	70.0	71.06	r_up	
-TGT	20130520	71.06	70.65	r_down	
-TGT	20130521	70.65	71.26	r_up	
-TGT	20130522	71.26	68.4	r_down	's:1 ahead:1 third:1 movers:1 surprises:1 futures:1 watch:1 up:1 edge:1 n't:1 advisories:1 rallies:1 a.m:1 stocks:1 data:1 day:1
-TGT	20130523	68.4	68.67	r_up	worries:1 drop:1 stocks:1 's:1 tapering:1
-TGT	20130524	68.67	69.72	r_up	
-TGT	20130528	69.72	69.51	r_down	
-TGT	20130529	69.51	69.42	r_down	's:1
-TGT	20130530	69.42	69.82	r_up	
-TGT	20130531	69.82	69.5	r_down	
-TGT	20130603	69.5	71.05	r_up	
-TGT	20130604	71.05	71.51	r_up	
-TGT	20130605	71.51	70.17	r_down	
-TGT	20130606	70.17	70.26	r_up	n't:1
-TGT	20130607	70.26	70.36	r_up	
-TGT	20130610	70.36	69.88	r_down	
-TGT	20130611	69.88	70.0	r_up	
-TGT	20130612	70.0	69.43	r_down	19:1 's:1
-TGT	20130613	69.43	69.59	r_up	
-TGT	20130614	69.59	69.03	r_down	
-TGT	20130617	69.03	69.86	r_up	
-TGT	20130618	69.86	70.16	r_up	
-TGT	20130619	70.16	68.88	r_down	
-TGT	20130620	68.88	68.66	r_down	
-TGT	20130621	68.66	68.83	r_up	its:1
+TGT	20140501	60.7	60.7	r_up	's:1 chain:1 been:1 chief:1 hired:1 turnaround:1 another:1 need:1 electronics:1 has:1 former:1 store:1
+TGT	20140502	60.7	61.0	r_up	
+TGT	20140505	61.0	58.9	r_down	just:1 show:1 over:3 move:1 trade:1 wake-up:1 session:1 businesses:1 pitch:1 plaudits:1 its:1 row:1 web:1 giant:1 $:2 than:1 blog:1 breach:5 holiday:1 customers:2 his:1 around:1 colorful:1 stop:1 five:1 fall:1 articles:1 companies:1 morning:1 lose:1 quarter:1 cybersecurity:1 posts:1 startup:1 analytics:1 second:1 actively:1 result:1 year:2 2.5:2 ability:1 said:1 tensions:1 contributed:1 shares:1 won:1 after:2 merchandising:1 whose:1 million:2 same-day:1 lifer:1 roundup:1 oust:1 competes:1 marred:1 last:1 attacks:1 months:2 disappointment:1 removing:1 major:1 socks:1 massive:1 raise:1 service:1 data:7 resigns:2 their:3 call:1 lot:1 expected:1 more:2 company:1 but:1 delivery:1 compromised:1 former:1 women:1 n't:1 growth:1 110:1 purchases:1 tenure:1 expanding:1 sales:1 have:1 information:1 officers:1 5:1 resignation:1 stock:2 's:6 replacing:1 earlier:1 holidays:1 chiefs:1 uses:1 coming:1 weekend:1 lower:1 amid:1 futures:2 patterns:1 behavioral:1 apparel:1 failures:1 consumer:1 profits:1
+TGT	20140506	58.9	56.7	r_down	operations:1 sector:1 all:1 help:1 show:2 ``:2 outlook:1 shouldn’t:1 interim:2 questions:1 speed:1 its:3 upgrade:1 writes:2 troubles:2 expectations:1 should:2 source:2 charge:1 easy:2 under:1 500’s:1 do:1 greater:1 10:1 updates:1 they:1 report:2 stepped:1 look:1 stalwarts:1 did:1 dig:1 loser:1 morning:1 bag:1 slide:1 session:1 security:2 better-than-expected:1 some:1 cyber:1 culture:1 disappointing:1 individual:1 shrug:1 n't:4 missed:1 ways:1 avoid:1 enough:1 critical:1 health:1 closed:1 reading:1 expose:1 we:1 cyberattack:1 care:1 drops:1 recovering:1 getting:1 credit-card:1 economic:1 analysts:1 stressed:1 mixed:1 makes:1 explain:1 comes:2 software:1 among:1 raised:1 within:1 retailer:2 arsenal:1 one:1 down:1 massive:1 names:1 open:1 given:1 flatline:1 remains:1 two:1 biggest:1 improve:2 more:1 firm:1 life:1 only:1 turned:1 becoming:1 shallow:1 but:1 deteriorating:1 heat:1 known:1 than:2 customer:1 weighed:1 fraud:1 target:1 ouster:1 work:1 harder:2 up:1 promotes:1 trick:1 near:1 're:1 stories:1 applies:1 following:1 situation:1 problem:1 piece:1 investors:3 influence:1 sales:1 spent:1 '':2 dropped:1 sense:1 need:1 saw:1 tells:1 worry:1 gains:2 corporation:1 make:1 fears:1 same:1 also:2 ideal:1 potential:1 5:1 earnings:1 online:1 performance:1 you:1 events:1 higher:1 's:10 acting:1 after:2 falls:1 most:1 modest:1 services:1 stocks:3 data:4 recent:1 short:1 off:1 downbeat:1 sometimes:1 bugs:1 departments:1 think:1 six-year:1 tenure:1 weigh:1 corporate:1 blue-chip:1
+TGT	20140507	56.7	57.1	r_up	fired:1 retailer:1 down:1 pushed:1 mistakes:1 need:1 technology:1 your:1 fire:1 n't:1 van:1 deserve:1 writes:2 had:1 ideas:1 ‘sets:1 actually:1 looking:1 food:1 only:1 new:2 today:1 may:1 handful:1 didn’t:2 its:1 gain:1 they:1 others:1 prices:1 card:1 loss:1 organic:1 like:1 bar’:1 hunt:1 drive:1 large:1 credit:1 so:1 overcome:1 time:1 did:1 security:1 ousted:1 latest:1
+TGT	20140508	57.1	57.3	r_up	we:1 marred:1 's:2 look:1 launch:1 staff:1 shelves:1 customers:1 experience:1 shoppers:1 failed:1 're:1 stories:1 expected:1 trained:1 prices:1 reading:1 disappointed:1 than:1 higher:1
+TGT	20140509	57.3	58.1	r_up	deal:1 cyberspace:1 agreed:2 buy:1 solutions:1 its:1 sell:1 said:1 20:2 $:1 war:1 500:1 firm:1 do:1 smartphone:1 's:3 business:2 bid:1 million:2 understand:1 threats:1 expand:1 great:1 dollars:1 companies:2 n't:1 banking:1 continue:1 growing:1 security:1 retail:1
+TGT	20140512	58.1	58.6	r_up	billion:1 early:1 foray:1 's:1 $:1 lost:1 could:1 into:1 according:1 expansion:1 1:1 start:1 but:1 ambitious:1 money:1 2015:1 making:1 has:1 its:1
+TGT	20140513	58.6	58.6	r_up	expanding:1 retailer:1 sales:1 bring:1 planning:1 north:1 moves:1 clothing:1 its:1 plans:1 management:1 person:1 border:1 stalled:1 's:5 string:1 familiar:1 brand:1 said:1 shake-up:1 namesake:1 according:1 face:1 matter:1 retailers:1 latest:1
+TGT	20140514	58.6	58.3	r_down	
+TGT	20140515	58.3	57.2	r_down	case:1 behemoth:1 things:1 becoming:1 companies:1 say:1 other:1 earnings:1 lot:1 test:1 new:1 trying:1 writes:1
+TGT	20140516	57.2	57.6	r_up	advisory:1 financial:1 cyber-security:1 business:1 do:1 many:1 inside:1 both:1 job:1 against:1 better:1 guarding:1 say:1 experts:1 need:1 threats:1 firms:1 outside:1
+TGT	20140519	57.6	57.7	r_up	stock:2 says:1 back:1 cyber:1 bring:1 likely:1 usher:1 have:1 still:1 event:1 market:1 ‘black:1 assessing:1 their:1 vendors:1 take:1 holding:1 new:1 more:2 firm:1 return:1 becoming:1 pose:1 swan’:1 during:1 true:1 grow:1 volatility:2 room:1 survey:1 risks:1 making:1 drops:1 comes:1
+TGT	20140520	57.7	56.1	r_down	stores:1 chain:1 move:1 results:1 month:1 report:1 softer:1 including:1 its:6 cut:2 group:1 $:5 eligible:1 expectations:1 former:1 going:1 premarket:1 2013:3 do:1 his:2 around:2 advantage:1 than:2 valued:3 traffic:1 nearly:1 they:1 not:1 trade:2 continued:1 --:3 resignation:2 companies:3 serves:1 've:1 leave:1 session:2 actively:2 expect:1 year:2 edged:1 operation:1 said:3 severance:4 profit:1 remain:1 shares:2 bonus:1 hacked:1 business:3 million:4 reported:1 weaker-than-expected:1 struggle:1 rare:1 package:4 taking:2 37:4 admit:1 analysts:1 comes:1 outlook:1 revenue:1 into:1 retailer:1 management:1 investors:1 21.3:1 negative:1 been:1 their:1 much:2 too:1 expected:2 's:10 final:2 more:2 interests:1 ``:1 company:2 sales:1 second-quarter:1 he:3 10:1 replaces:1 up:1 n't:1 below:1 growth:1 following:1 making:1 bet:1 impacts:1 head:1 '':1 currency:1 p.m:1 home:2 heels:2 made:1 pay:2 43:1 earnings:2 struggling:2 reshuffled:1 week:1 first-quarter:2 though:2 replacing:1 earlier:1 fell:2 shareholder:1 shrank:1 complaints:1 president:2 hurt:1 fiscal:2 15.8:3 sometimes:1
+TGT	20140521	56.1	56.6	r_up	sector:1 stores:1 issued:1 results:1 month:2 ended:1 session:4 40:1 its:9 previous:1 whose:1 cut:2 $:1 rose:1 guidance:2 expectations:2 than:1 premarket:1 breach:1 weeks:1 day’s:1 them:2 smartphone:1 hit:1 gains:2 advances:1 rise:1 watch:1 bane:1 they:1 trade:3 rebounds:1 easily:1 level:1 --:2 outperform:1 companies:4 50:1 fewer:1 leave:1 7.1:1 heed:1 security:1 quarter:1 pain:1 people:1 energy:1 back:1 challenges:1 likely:1 computer:1 year:2 first-quarter:2 operation:1 out:1 even:1 deals:1 said:3 highlighting:2 jewelry:1 3rd:1 profit:2 broad:1 avoid:1 shares:3 discounts:1 after:2 led:1 bombs:1 jumps:1 expansion:1 members:1 others:3 active:1 debt:2 loans:1 change:1 wait:1 faced:1 last:1 ahead:1 high-end:1 region:1 losses:3 reports:1 times:1 amount:1 levels:1 massive:1 threat:1 private-equity:2 raised:1 win:1 retailer:3 number:1 takeovers:1 charts:1 few:1 expected:3 speaking:1 more:3 company:3 but:2 shoppers:2 surged:1 discretionary:1 financing:2 16:4 solid:1 edged:1 up:2 n't:1 ugly:1 growth:1 stopping:1 visited:1 ousted:1 urging:1 risky:1 investors:1 1.3:1 exceeded:1 sales:2 high:1 full-year:2 warning:2 have:1 rally:1 forced:1 suggest:1 make:1 six:1 topped:1 5:1 earnings:5 outlook:1 higher:1 actively:2 urge:1 's:6 users:2 see:1 though:1 earlier:2 problems:1 depths:2 most:1 fell:2 moving:1 stocks:4 data:1 missed:1 fiscal:2 trail:1 futures:2 lots:1 banks:2 consumer:1
+TGT	20140522	56.6	55.4	r_down	represent:1 all:1 stores:1 help:1 hack:1 fear:1 its:4 breach:2 luxury:1 do:1 customers:2 smartphone:1 early:1 possibly:1 world:1 password:1 did:1 companies:2 fewer:1 privacy:1 convenience:1 heed:1 become:1 security:3 because:1 says:1 people:1 posts:1 past:1 passwords:4 stronger-than-expected:1 highlighting:1 flux:1 nightmare:1 havoc:1 between:1 new:1 jumps:1 million:2 expansion:2 tempered:1 rises:1 change:2 faced:1 losses:1 urged:1 admit:2 threat:1 think:1 executives:1 retired:1 researcher:1 retailer:3 one:1 post:2 use:1 their:2 data:1 create:1 few:1 growth:1 shoppers:1 ``:2 company:1 innovate:1 strike:1 hopes:1 technologies:1 he:1 '':2 kind:1 fraud:1 16:1 plan:2 up:1 n't:2 while:1 computer:2 can:1 visited:1 balance:2 guide:1 urging:1 helped:1 warning:1 shines:1 technology:1 tells:1 if:1 other:1 big-name:1 earnings:2 forces:1 145:2 's:2 users:2 after:2 problems:1 hand:1 depths:1 fell:1 but:1 opportunity:1 bane:1 remember:1 mention:1 anybody:1 unleash:1 first:1 avoid:1 latest:1
+TGT	20140523	55.4	55.1	r_down	losses:1 climbed:1 attorney:1 bolstering:1 stores:1 significantly:1 chain:1 point:1 suddenly:1 past:1 consistent:1 demand:1 year:1 $:1 general:1 '':1 already:1 through:1 expect:1 have:2 home:1 balk:1 fear:1 its:1 market:3 opened:1 woes:1 few:1 supply:1 contributed:1 shares:2 their:2 breaches:1 systems:1 combing:1 spike:1 reading:1 failure:1 low:2 ``:1 plunge:1 's:5 may:1 there:1 showing:1 after:1 account:1 warn:1 educating:1 protection:1 every:1 others:1 14-month:1 stocks:1 data:1 appears:1 must:1 billion:1 brought:1 processes:1 has:1 ahead:1 records:1 1.4:1 builder:1 counter:1 fell:1 hosts:1 risks:1 gauge:1 security:1 employees:1 first:1
+TGT	20140527	55.1	55.2	r_up	one:1 said:1 's:2 unauthorized:1 breach:1 company:1 aware:1 access:1 music:1 systems:1 accessed:1 provider:1 become:1 has:1 data:1 user:1
+TGT	20140528	55.2	54.8	r_down	advisory:1 seven:2 saying:1 cybersecurity:1 manage:2 retailer:1 helped:1 vote:1 cardholders:1 have:1 serve:1 need:1 shopping:1 hack:1 its:1 out:1 move:1 unusual:1 citing:2 overhaul:1 several:1 boardrooms:1 seriously:1 recommending:1 should:1 failed:1 recommended:1 breaches:1 take:1 high-profile:1 steps:1 taken:1 breach:4 holiday:1 boost:1 more:1 firm:2 adviser:2 focuses:1 's:3 risk:2 10:2 season:1 company:3 after:1 shareholders:2 took:1 most:1 step:1 said:2 recent:1 proxy:3 they:1 during:1 data:5 prominent:2 oust:1 protect:2 has:1 boards:1 ahead:2 failure:2 prevent:1 amid:1 ouster:1 companies:1 board:3 directors:4 could:1 massive:2 urges:1 security:1 called:2 comes:1
+TGT	20140529	54.8	55.3	r_up	seven:1 cybersecurity:1 manage:2 retailer:2 2nd:1 likely:1 warning:1 year:1 take:1 unusual:1 end:1 boardrooms:1 citing:1 recommending:1 seriously:1 board:2 breach:2 failure:1 risks:1 adviser:2 's:3 risk:1 10:1 company:2 shareholders:1 took:1 most:1 step:1 proxy:2 members:1 data:2 prominent:2 oust:1 protect:2 last:1 discount:1 --:2 ouster:1 failing:1 urged:1 more:1 directors:1 upside:1 massive:2 3d:1 corporate:1 called:1
+TGT	20140530	55.3	56.2	r_up	
+TGT	20140602	56.2	55.9	r_down	fiscal:1 due:1 stores:1 show:1 may:1 taking:1 profit:1 up:1 been:1 results:1 pressure:1 increases:1 competition:1 have:1 prices:1 first-quarter:1 margins:1 out:1 scalpel:1
+TGT	20140603	55.9	56.2	r_up	feel:1 guidelines:1 influence:1 lure:1 have:1 corporations:1 shareholders:1 lackluster:1 advisers:1 discounts:1 much:1 too:1 new:1 firms:1 economy:1 customers:1 used:1 readying:1 latest:1 complaints:1 such:1 continued:1 advise:1 amid:1 quarter:1 corporate:1 constraints:1
+TGT	20140604	56.2	56.6	r_up	features:1 chain:1 chip:1 retailer:1 owned:1 technology:3 use:2 said:1 would:1 breaches:1 new:4 's:2 string:1 after:1 unveil:1 data:1 card:2 credit:1 mass:1 security:1 comes:1 first:1
+TGT	20140605	56.6	56.9	r_up	sales:1 existing:1 challenges:1 weather:1 warmer:1 conference:1 said:1 top:1 expectations:1 their:1 other:1 boost:1 overall:1 results:1 traffic:1 report:1 strong:1 continued:1 improve:1 promotions:1 helped:2 integrating:1 companies:2 surge:1 software:2
+TGT	20140606	56.9	57.1	r_up	money:1 results:3 month:3 topped:1 its:1 group:1 expectations:2 opportunities:1 only:1 quarterly:1 weeks:1 has:1 careers:1 exceptional:1 overall:1 traffic:2 new:2 during:1 one:1 continued:2 let’s:1 --:1 retailers:1 each:1 noted:1 reduce:1 related:1 trends:1 titles:1 warmer:1 result:1 picked:1 year:2 best:1 index:1 said:3 consecutive:1 boost:1 affordable:1 college:2 hefty:1 graduates:1 reported:1 terminals:1 cities:2 appears:1 improve:1 toward:1 improved:1 many:1 reports:1 surge:1 retail:1 housing:1 own:1 retailer:1 2nd:1 weather:1 grads:2 would:1 top:1 there:1 been:1 500:2 teen:1 fiscal:1 life:1 posting:1 but:1 second-quarter:1 10:2 made:1 up:1 mall:1 growing:1 trading:1 providing:1 bet:1 sales:3 helped:2 weighting:1 have:2 seek:1 different:1 end:2 generally:1 eagerly:1 which:1 disappoint:1 status:1 begin:1 may:1 student:1 professional:1 phase:1 stocks:1 weekend:1 recent:1 promotions:1 third:1 iffy:1 maker:1 apparel:1 fresh:1 headcount:1 consumer:2
+TGT	20140609	57.1	57.0	r_down	
+TGT	20140610	57.0	56.3	r_down	help:1 less:1 executive:1 including:1 its:3 $:2 breach:3 has:1 renaming:1 fate:1 similar:1 possible:1 theft:1 --:1 anxious:1 officer:1 team:1 security:1 round:1 restaurants:1 series:1 see:1 growth:1 year:1 said:4 funding:1 sentiment:1 literally:1 avoid:1 innovation:1 new:2 told:1 million:2 discount:1 leadership:1 last:1 credit-card:1 months:1 changes:1 executives:1 retailer:3 down:1 accounts:1 raises:1 beef:1 top:1 two:1 payment:1 their:1 more:1 ``:2 memo:1 fund:1 compromised:1 globally:1 stolen:1 announcing:1 up:1 were:1 following:1 investigating:1 ousted:1 changed:1 debit-card:2 '':2 need:1 technology:1 fill:1 information:2 chief:4 40:1 role:1 stepped:1 if:1 company:2 product:1 's:8 plans:1 after:1 75:2 hired:1 data:4 grow:1 overnight:1 accelerated:1 fallout:1
+TGT	20140611	56.3	56.5	r_up	advisory:2 all:2 they:1 cybersecurity:1 guidelines:1 we:1 '':2 optimistic:1 picked:1 year:2 need:1 shrugging:2 tells:1 out:3 shareholders:2 said:1 majority:2 federal:1 protect:1 make:1 approved:2 their:3 health:1 candidates:2 board:2 steps:1 nominees:2 breach:2 has:1 roll:1 necessary:1 firm:2 ``:2 sure:1 's:5 associate:1 track:1 company:2 fitness:1 needs:1 framework:2 tracking:1 know:1 records:1 new:2 off:2 he:2 data:4 throw:2 prominent:2 10:2 great:1 handling:2 last:2 boards:1 calls:2 applications:1 oversee:1 corporate:1 taking:1 official:1 companies:1 easier:1 collect:1 patients:1 're:1 cautiously:1 risks:1 time:1 meet:1 first:1 makes:1 called:1 address:1 software:1
+TGT	20140612	56.5	56.7	r_up	advisory:1 all:1 less:1 approved:1 year:1 sales:1 trade:1 unexpectedly:1 see:1 session:1 trading:1 shrugging:1 's:2 after-hours:1 its:1 weekly:1 whose:1 shareholders:1 jobless:1 their:1 rose:1 jump:1 show:1 shares:1 forecast:1 majority:1 candidates:1 board:1 throw:1 expected:1 breach:1 out:1 company:2 stock:2 firm:1 hours:1 edged:1 gains:1 government:1 improvement:1 reversed:1 after:4 watch:1 bottom:1 early:1 nominees:1 handling:1 active:1 last:1 line:1 stocks:1 data:3 than:1 prominent:1 10:1 lower:2 grew:1 off:1 calls:1 reported:1 --:1 futures:2 companies:1 edge:1 rallies:1 claims:1 retail:1 soft:1
+TGT	20140613	56.7	56.7	r_up	unknown:1 major:1 almost:1 demand:1 retailer:1 number:1 one:1 been:1 have:1 year:2 's:3 its:1 fifth:1 large:1 breached:1 every:1 no:1 waning:1 highlights:1 since:1 chief:1 declined:1 immune:1 role:1 systems:1 debit:1 breach:1 falling:1 has:1 used:1 recently:1 credit:1 becomes:1 were:1 clearer:1 truly:1 part:1 operating:1 compromised:1 theft:1 new:1 data:2 security:1 probes:1 customer:2 last:1 companies:2 departure:1 35:1 recession:1 sensitive:1 admit:1 2001:1 each:1 cards:1 wake:1 share:1 compromise:1 restaurants:1
+TGT	20140616	56.7	57.2	r_up	
+TGT	20140617	57.2	57.6	r_up	deal:1 retailer:1 back:1 good:1 through:1 likes:1 year:1 tender:1 market:1 sell:1 1:1 said:1 $:3 beaten:1 late:1 much:1 4:1 breach:1 has:1 buy:1 's:1 increased:1 offering:1 bonds:1 continues:1 offers:1 fallout:1 2:2 now:1 he:1 billion:2 last:1 notes:1 times:1 bad:1 yields:1
+TGT	20140618	57.6	58.1	r_up	control:1 said:1 programs:1 funds:1 over:1 looks:1 two:1 supermarket:1 more:1 agreements:1 withdraw:1 operator:1 reached:1 has:1 pension:1
+TGT	20140619	58.1	58.2	r_up	wants:1 information:1 headhunter:1 required:1 offer:1 job:1 executive:1 searching:1 chief:1 candidates:1 officer:1 new:1 security:1 typical:1 than:1 seeks:1 more:1
+TGT	20140620	58.2	57.7	r_down	
+TGT	20140623	57.7	57.9	r_up	
+TGT	20140624	57.9	58.1	r_up	scam:1 chain:1 into:1 stores:1 before:1 huge:1 federal:1 broad:1 top:1 there:1 ruling:1 breach:1 reading:1 checks:1 gave:1 prosecute:1 used:2 altered:1 problems:1 expansion:1 cashiers:1 law:1 data:1 artist:1 can:1 were:1 retail:1
+TGT	20140625	58.1	57.5	r_down	confidence:1 initiated:1 profit:1 drive:1 opportunities:1 long-term:1 citing:1 growth:1 quarterly:1 dividend:1 has:1 its:1
+TGT	20140626	57.5	57.3	r_down	underperforming:1 century:1 back:1 rest:1 '':1 bring:1 have:1 year:1 close:1 beyond:1 its:1 seen:1 said:1 network:1 there:1 mark:1 store:1 difficult:1 ``:1 bonds:1 very:1 stay:1 manufacturing:1 grocery:1 largely:1 could:1 well:1 50:2 stores:1 can:1 maker:1
+TGT	20140627	57.3	57.6	r_up	protect:1 fraud:2 risk:1 ways:1 credit-card:1 plans:1 said:1 yourself:1 retire:1 these:1 cut:1 5:1 year:1 next:1 your:1 risky:1
+TGT	20140630	57.6	57.4	r_down	grappling:1 boards:1 warnings:1 cybersecurity:1 series:1 breaches:1 experts:1 they:1 high-profile:1 technology:1 data:1 corporate:1 issues:1 once:1
+TGT	20140701	57.4	57.8	r_up	
+TGT	20140702	57.8	58.2	r_up	firm:1 3,000:2 stores:4 request:1 into:2 retailer:1 ``:2 community:1 '':2 bring:2 scrutinize:1 through:1 determine:1 month-long:1 carry:1 says:1 sells:1 its:3 out:1 even:1 said:2 takes:1 asks:1 no:1 ideas:1 winners:1 comparative:1 online:1 test:1 sorts:1 guns:4 week:1 customers:4 pressure:1 uses:1 not:2 law:1 longer:1 would:3 communities:2 ask:1 keep:1 incubator:1 does:1 each:1 flops:1
+TGT	20140703	58.2	58.9	r_up	stores:1 campaign:1 image:1 ``:2 '':2 ask:1 month-long:1 wages:1 its:2 even:1 said:1 group:1 would:1 pay:1 fix:1 should:2 other:1 over:1 them:1 worker:1 not:1 law:1 raising:1 join:1 bring:1 communities:1 into:1 guns:1 gun-control:1 customers:1 retailers:1 problem:1 writes:1
+TGT	20140707	58.9	59.4	r_up	's:1 consider:1 service:1 against:1 options:1 better:1 their:1 compete:1 retailers:1 expands:1 its:1
+TGT	20140708	59.4	59.2	r_down	
+TGT	20140709	59.2	59.5	r_up	dollar:1 higher:1 even:1 city:1 bottom:1 two:2 shares:2 should:1 their:2 interest:1 weeks:1 sent:1 debuts:1 's:1 index:1 benchmark:1 most:1 fell:1 sharply:1 companies:1 n't:1 so:1 quick:1 retail:1 bet:1
+TGT	20140710	59.5	59.3	r_down	prices:2 because:1 often:1 0.6:1 down:1 ended:1 something:1 have:1 year:1 if:1 increase:1 pay:2 tend:1 better:1 potential:1 way:1 income:1 net:1 might:1 more:1 do:1 after:1 's:1 becoming:1 reporting:1 negotiate:1 they:1 offset:1 report:1 inroads:1 yuan:2 firms:1 ago:1 currency:1 33:1 31:1 companies:1 up:1 agree:1 can:1 making:1 quarter:1 suppliers:1 otherwise:1
+TGT	20140711	59.3	59.4	r_up	point:1 financial:1 final:1 team:1 bigwigs:1 lock:1 into:1 competitive:1 player:1 smartphone:1 tablets:1 human:1 secretive:1 collects:1 massive:1 out:1 aging:1 giant:1 software:1 heads:1 built:1 no:1 create:1 swipe:1 stunning:1 send:1 custom:1 better:1 their:3 grocer:1 growth:1 vs.:1 which:1 billionaire:1 new:1 match:2 type:1 over:1 resources:1 more:1 profile:1 we:1 passwords:1 's:4 users:2 business:1 big:1 screen:1 shortage:1 tool:1 story:1 but:1 analyzes:1 chiefs:1 know:1 performance:1 based:1 technologies:1 data:1 becomes:1 titans:1 building:1 entry:1 15:1 like:1 ahead:1 --:1 wish:1 industry:1 computers:1 cash:1 analysis:1 morning:1 inroads:1 edge:1 products:1 victory:1 behavior:1 were:1 making:1 pizza:1 explanations:1 could:1 gain:1
+TGT	20140714	59.4	59.6	r_up	information:1 's:1 technology:2 company:1 share:1 month:1 their:1 leadership:1 changes:1 data:1 top:1 thoughts:1 previous:1
+TGT	20140715	59.6	60.1	r_up	attorney:1 stores:2 private:1 general:1 costing:1 lie:1 $:2 consumers:1 state:1 breaches:1 suffered:1 2013:1 1.37:1 do:1 big:1 sneakiest:1 released:1 fat:1 report:1 data:1 than:2 billion:1 900:1 according:1 trick:1 thing:1 more:2 institutions:1
+TGT	20140716	60.1	59.6	r_down	billion:1 said:1 sheet:1 $:1 offer:1 retailer:1 oversubscribed:1 aims:1 1:1 discount:1 much:1 repurchase:1 balance:1 struggling:1 debt:1 its:2 improve:1
+TGT	20140717	59.6	59.1	r_down	challenges:1 said:1 's:1 plans:1 her:1 people:1 familiar:1 into:1 retailer:1 deals:1 pressure:1 startup:1 activist:1 expand:1 talks:1 banks:1 investor:1 investment:1 growing:1 matter:1
+TGT	20140718	59.1	59.4	r_up	
+TGT	20140721	59.4	58.7	r_down	
+TGT	20140722	58.7	58.8	r_up	
+TGT	20140723	58.8	60.1	r_up	social-media:1 says:1 into:1 cyber:1 economic:2 including:1 technology:1 cloud:1 viral:1 privacy:1 priority:1 outside:1 doubt:1 steps:1 limit:1 but:1 efficiency:1 frenzy:1 others:1 anxiety:1 benefits:1 especially:1 taking:1 websites:1 n't:2 turn:1 chief:1 discounting:1 officer:1 security:1 once:1
+TGT	20140724	60.1	60.4	r_up	them:1 saving:1 get:1 join:1 sales:1 back-to-school:2 most:2 survey:1 can:1 shoppers:1 serious:1 you:1 shows:1 recent:1
+TGT	20140725	60.4	59.8	r_down	
+TGT	20140728	59.8	59.7	r_down	smaller:1 stores:2 deal:1 dollar:2 sales:1 slowing:1 prices:2 13,000:1 growth:1 opportunities:1 have:2 battle:1 recover:1 cut:1 pressured:1 giant:1 said:1 8.5:3 $:3 would:2 provide:1 create:2 poorest:1 two:2 been:1 rival:1 better:1 their:1 overhead:1 between:1 shoppers:1 command:1 themselves:1 store:3 more:1 cost-cutting:1 buy:1 's:1 ample:1 low-income:1 company:1 largest:1 pressure:1 reducing:1 scale:1 struggle:1 they:1 put:1 frequently:1 manageable:1 billion:2 lower:1 consumers:1 --:1 6th:1 suppliers:1 companies:1 recession:1 costs:1 discounting:1 amid:1 acquisition:1
+TGT	20140729	59.7	60.5	r_up	session:1 billion:1 buy:1 's:3 $:1 consumers:1 rival:1 poorest:1 companies:1 agreement:1 shares:1 trade:1 battle:1 actively:1 expected:1 8.5:1
+TGT	20140730	60.5	60.8	r_up	stores:1 consider:1 dollar:1 one:1 prices:1 buy:1 another:1 parking:1 's:1 wisely:1 its:1 said:1 things:1 citing:1 spokesman:1 seriously:1 5:1 board:1 lot:1 call:1 choose:1 lowest:1 woman:1 shopping:2 company:1 killing:1 crashed:1 plane:1 not:1 center:1 --:1 sale:1 small:1 repeats:1
+TGT	20140731	60.8	59.0	r_down	repair:2 navigate:2 executive:4 trade:1 culture:2 session:1 battered:2 sea:2 turning:2 its:4 taps:1 outsider:2 shares:1 habits:2 expected:1 new:3 's:1 bringing:2 change:2 shopping:2 companies:1 chief:1 actively:1 time:2 first:2 corporate:2 history:2
+TGT	20140801	59.0	59.3	r_up	needs:1 work:1 last:1 divide:1 study:1 suppliers:1 between:1 spent:1 up:1 their:1 have:1 settle:1 retailers:1 businessman:1 new:1 areas:1 's:2 across:1 decade:1 he:1
+TGT	20140804	59.3	60.1	r_up	
+TGT	20140805	60.1	57.5	r_down	shop:1 saying:1 stores:2 pointing:1 expects:1 quarters:1 session:2 including:1 still:1 its:3 slow:1 $:6 surprises:1 presence:1 late:1 advisories:1 systems:1 premarket:1 breach:5 openings:1 day’s:1 customers:2 gains:1 big:1 traffic:1 they:1 fall:1 not:1 now:1 loss:2 drop:2 companies:4 facing:1 debacle:1 retailers:1 financial:1 related:1 cost:1 trading:1 close:1 estimated:1 best:1 deals:1 said:1 actively:2 drugstores:1 shares:2 future:1 chains:1 full:1 weighing:1 creating:1 business:1 million:3 tied:1 news:1 debt:1 roundup:1 movers:1 reports:2 turn:1 products:1 massive:1 spin:1 military:1 traded:1 lowers:1 outlook:2 risk-averse:1 says:1 industrials:1 publishing:1 two:1 their:2 attack:1 which:1 shoppers:1 's:4 store:2 more:1 billion:1 buy:2 shopping:1 posting:1 sessions:1 drugs:1 1.8:1 but:1 else:1 expected:2 lowered:1 sharply:1 2014:1 promotional:1 triple-digit:1 second-quarter:1 grocery:1 include:1 publicly:1 these:1 up:1 computer:1 feeling:1 steep:1 purchases:1 investors:1 prompting:1 moved:1 sales:2 expenses:1 have:1 markdowns:1 border:1 trade:2 confirmed:1 things:1 make:1 4.8:1 book:1 5:1 earnings:1 fourth:1 online:1 instead:1 200:1 pain:1 separate:1 after:1 148:3 fell:2 ownership:1 stocks:3 data:4 building:1 lower:1 off:1 big-box:1 persistent:1 costs:2 five:1 corporate:1 institutions:1 latest:1
+TGT	20140806	57.5	57.4	r_down	outlook:1 stores:1 have:1 pointing:1 national:2 sales:1 trade:1 want:1 markdowns:1 its:2 even:1 investors:1 privacy:1 won’t:1 their:1 don’t:1 you:1 completed:1 product:1 recently:1 may:1 sacrifice:1 lowered:1 promotional:1 data:1 security:2 quarter:1
+TGT	20140807	57.4	56.9	r_down	geopolitical:1 financial:1 trump:1 --:1 companies:1 losses:1 some:1 spending:1 traders:1 their:1 economic:1 worries:1 overseas:1 higher:1 consumer:1 bet:1 recent:1
+TGT	20140808	56.9	58.0	r_up	
+TGT	20140811	58.0	57.8	r_down	all:1 says:1 rage:1 column:1 writes:1 it’s:1 facts:1 crash:1 stocks:1 my:1
+TGT	20140812	57.8	57.9	r_up	shop:1 back-to-school:1 school:1 big-box:1 skip:1 visit:1 should:1 deals:1 ones:1 parents:1 can:1 they:1 not:1 supplies:1 clothing:1 chains:1 other:1 essentials:1
+TGT	20140813	57.9	57.7	r_down	bolster:1 initiatives:1 's:1 foray:1 bid:1 after:1 number:1 its:1 disappointing:1 unveiled:1 year:1 into:1 performance:1 arm:1 last:1
+TGT	20140814	57.7	58.2	r_up	fiscal:1 decline:1 lower:1 said:1 improved:1 chain:1 sales:1 expenses:1 earnings:1 's:2 slightly:1 second-quarter:1 department-store:1
+TGT	20140815	58.2	57.6	r_down	gone:1 months:1 stores:4 hoping:1 chain:2 liquor:1 affected:1 guests:1 have:2 recently:1 open:1 its:3 around:1 confirmed:1 potential:1 snag:1 also:1 attack:1 other:1 doors:1 breach:2 might:2 until:1 more:2 merchant:1 200:1 shopping:1 elsewhere:1 big:1 sold:1 after:1 grocery:1 hundreds:1 dark:1 incident:1 putting:1 half:1 data:2 than:2 recent:1 keeping:1 off:1 country:1 later:1 well:1 roughly:1 against:1 1,000:1 investigating:2 latest:1 stretched:1
+TGT	20140818	57.6	58.5	r_up	over:1 stores:3 groups:1 people:1 chip:1 some:2 primary:1 projected:1 operator:1 registers:1 have:1 year:1 high-profile:1 politics:1 largest:1 longer:1 open:2 sway:1 begin:1 said:1 end:1 $:1 gun-control:2 make:1 show:1 three:1 next:1 weapons:1 lights:1 enough:1 breaches:1 debit:1 9:1 weeks:1 boost:1 betting:1 ago:1 topping:1 buy:1 's:4 offer:1 midnight:1 offered:1 local:1 supermarket:1 nation:1 test:1 carrying:1 wake:1 former:1 half:1 data:1 security:1 pressuring:1 recent:1 billion:1 keeping:1 made:1 embedded:1 circulation:1 rival:1 worth:1 up:2 keep:1 credit:1 individuals:1 victory:1 cards:1 efforts:1 its:1 latest:1
+TGT	20140819	58.5	59.2	r_up	bolstering:1 up:1 meetings:1 sales:1 higher-end:1 gearing:1 say:1 growth:1 year:1 ready:1 shopping:1 education:1 technology:1 its:1 staff:1 one:1 busy:1 raise:1 few:1 profit:1 forecast:1 their:2 only:1 other:1 health:1 board:1 breach:1 care:1 start:1 's:2 far:1 season:1 holidays:1 most:1 traffic:1 they:1 making:1 foot:1 news:1 strong:1 posted:1 organizations:1 recent:1 getting:1 items:1 busiest:1 full-year:1 so:1 retailers:2 already:1 wake:1 security:1 quarter:2
+TGT	20140820	59.2	60.3	r_up	outlook:2 stores:1 investors:2 companies:1 slashed:1 retailer:1 sale:2 high:1 bring:1 second:1 itself:1 caution:1 have:1 year:2 close:2 rally:1 cutting:1 forecast:1 its:5 intraday:1 earlier:1 even:2 again:1 giant:1 cut:1 suggests:1 profit:1 transactions:1 while:2 shares:2 considers:1 retreats:1 enough:1 session:1 earnings:1 between:1 shoppers:1 breach:1 suffered:1 expected:1 fare:1 customer:1 after:2 's:3 said:1 though:1 may:2 commentary:1 sets:3 bright:1 retailing:1 slides:1 discount:1 fell:1 traffic:1 compromised:1 new:1 put:1 now:1 data:2 analyst:2 trade:1 promotions:1 cautious:1 look:2 ended:1 51:1 up:2 record:4 discounter:1 actively:1 month:1 time:1 starting:1 side:1
+TGT	20140821	60.3	61.0	r_up	challenging:1 chain:1 minutes:1 global:1 sales:1 likely:1 nears:1 close:1 recover:1 its:1 end:1 middlemen:1 500:1 higher:1 after:1 dip:1 stocks:1 off:1 warned:1 record:1 remain:1 retail:1 shaking:1
+TGT	20140822	61.0	61.0	r_up	all:1 because:1 shoes:1 just:1 widely:1 athletic:1 sales:1 one:1 registers:1 close:1 publicity:2 targets:1 viewed:1 gains:2 malware:1 stocks:2 breaking:1 profit:1 jumped:1 decision:1 revenue:1 cruel:1 check:1 lower:1 which:1 under:1 9:1 suffered:1 has:1 sluggish:1 more:1 back:1 his:1 's:2 7:1 business:1 fire:1 after:1 possible:1 infection:1 hurt:1 introduce:1 demand:1 estimate:1 strong:1 below:1 string:1 pull:1 39:2 days:1 companies:2 cash:1 bad:1 negative:1 apparel:1 urges:1 comes:1 laws:1
+TGT	20140825	61.0	60.9	r_down	
+TGT	20140826	60.9	60.7	r_down	
+TGT	20140827	60.7	60.7	r_up	all:1 protests:1 that’s:1 pawn:1 reeling:1 did:1 money:1 writes:1 system:1 go:1 payday:1 part:1 banks:1 financial:1 shops:1 has:1 loans:1 problem:1 based:1
+TGT	20140828	60.7	60.3	r_down	seeing:1 set:1 spy:1 organic:1 owned:1 '':1 trading:1 topped:1 determine:1 year:2 unusual:1 said:1 $:1 working:1 space:1 excel:1 grocer:1 least:1 shares:1 attack:2 assets:1 which:1 scope:1 500:1 enforcement:1 ``:1 million:1 's:1 after:2 released:1 5.3:1 closely:1 natural:1 law:1 opportunity:1 downgraded:1 buying:1 recent:1 lower:1 fraud:1 last:1 her:1 list:1 according:1 morning:1 n't:1 growing:1 hacking:1 documents:1 husband:1
+TGT	20140829	60.3	60.0	r_down	disclosure:1 12:1 's:1 leaders:1 last:1 situations:1 regional:1 according:1 forms:1 released:1 widely:1 year:1 banks:1 financial:1 annual:1 divergent:1
+TGT	20140902	60.0	60.1	r_up	customer:1 working:1 debit-card:1 agencies:1 investigate:1 potential:1 banks:1 breach:1 data:1
+TGT	20140903	60.1	60.3	r_up	figure:1 less:1 cybersecurity:2 down:1 say:1 including:1 stepping:1 still:1 its:1 out:2 industries:1 story:2 just:1 breaches:2 details:1 sat:1 oversight:1 happened:1 them:1 's:1 risk:1 get:1 exactly:1 but:1 wake:1 significant:1 desk:1 such:1 trying:2 data:1 than:2 case:1 boards:1 ahead:1 could:1 companies:1 up:1 n't:2 banking:1 retailers:1 healthcare:1 putting:1 higher:1 spend:1 latest:1
+TGT	20140904	60.3	61.0	r_up	social-media:1 moments:1 series:1 validates:1 customers:1 '':1 addressed:1 through:1 numbers:2 technology:1 tells:1 out:1 information:1 now:1 took:1 had:1 investigate:1 its:1 confirming:1 potential:1 identity:1 cardholder:1 breach:3 firms:1 officer:1 website:1 ``:1 's:1 reassure:1 company:1 dates:1 but:1 possible:1 steps:1 short:1 rolling:1 such:1 unique:1 data:1 card:1 customer:1 both:1 account:1 replaces:1 credit:1 chief:1 hired:1 stopped:1 expiration:1 time:1 accounts:1 security:2 first:1
+TGT	20140905	61.0	61.0	r_up	prevent:1 technology:1 takes:1 pressured:1 credit:1 implementation:1 speed:1 defend:1 same:1 hitting:1 also:1 debit:1 biggest:1 smart:1 do:1 's:2 cyberattacks:1 grocery:1 wave:1 theft:1 trying:1 card:2 he:1 peers:1 could:1 up:1 against:1 merger:1 retailers:1 challenge:1 history:1
+TGT	20140908	61.0	60.5	r_down	confirmed:1 stores:1 have:1 may:1 back:1 payment:1 systems:1 hacked:1 were:1 cyberattack:1 its:1 stretched:1
+TGT	20140909	60.5	60.8	r_up	drop:1 evidence:1 extra:1 experts:1 global:1 sales:2 trade:1 screens:1 services:1 say:1 session:1 0.6:1 been:1 have:1 need:1 home:1 drove:1 wearable:1 one:1 said:1 targeting:1 $:1 check:1 confirms:2 two:1 shares:1 its:5 their:1 take:1 premarket:1 digital:1 expected:2 new:2 systems:2 back:1 comparable:1 's:6 around:1 may:1 debit:1 problems:1 smartwatch:1 unveil:1 were:1 fell:1 breach:3 device:1 breached:1 automation:1 data:1 efforts:1 card:1 stretched:1 3.7:1 --:2 suppliers:1 larger:1 companies:1 up:1 stores:1 credit:1 actively:1 payments:1 retailers:2 healthcare:1 trading:1 security:2 software:1 region:1 first:1
+TGT	20140910	60.8	61.9	r_up	purchases:1 fashion:1 stores:1 chain:1 phones:1 agreed:1 executive:1 back:1 strategic:1 down:1 bring:1 actively:1 simply:1 called:1 technology:1 casual:1 said:1 just:1 service:1 their:1 spending:1 support:1 fast:1 its:1 dining:1 way:1 digital:1 shoppers:1 new:3 transformation:1 introducing:1 customers:1 's:4 plans:1 handful:1 expected:1 baby:1 president:1 trade:1 payment:1 change:1 session:1 forever:1 your:1 like:1 vice:1 double:1 companies:1 departments:1 easier:1 discounter:1 habits:1 products:1 shares:1 shift:1 swiping:1 works:1 make:1
+TGT	20140911	61.9	62.5	r_up	leaders:1 focus:1 authority:1 promise:1 have:1 pay:1 more:1 cyberattacks:1 started:1 competing:1 such:1 security:1 bigger:1 companies:1 minds:1 morning:1 directors:1 budgets:1 experts:1 senior:1 higher:1 corporate:1
+TGT	20140912	62.5	62.5	r_up	squeezed:1 just:1 testing:1 some:1 competition:1 one:1 say:2 computer:1 experts:2 shipping:1 pass:1 news:1 its:3 hacker:1 review:1 system:1 systems:1 which:1 breach:1 partnership:1 's:1 risk:2 power:1 defenses:1 company:1 after:1 incentives:1 but:2 banks:1 free:1 new:1 fierce:1 penetrate:1 data:1 payment:1 immediately:1 taking:1 months:1 reports:1 reviews:1 time:1 usually:1 launched:1 left:1
+TGT	20140915	62.5	62.2	r_down	
+TGT	20140916	62.2	62.8	r_up	breaches:1 buy:1 cybersecurity:1 investors’:1 writes:1 companies:1 three:1 focus:1 these:1 today:1 can:1 leading:1 put:1 you:1 stocks:1 best:1
+TGT	20140917	62.8	62.8	r_up	whose:1 customers:1 exposed:1 may:1 data:1 been:1 credit:2 unions:1 reissue:1 accounts:1 have:1 debit:1 cards:2 breach:1 starting:1
+TGT	20140918	62.8	63.9	r_up	deals:1 swirls:1 task:1 around:1 violence:1 make:1 like:1 domestic:1 against:1 controversy:1 facing:1 wrongdoing:1 lucrative:1 statement:1 brands:1 league:1 strong:1 without:1 difficult:1
+TGT	20140919	63.9	63.8	r_down	says:1 retailer:1 have:2 its:1 said:1 do-it-yourself:1 been:2 payment:1 attack:2 much:1 hacked:1 biggest:1 breach:2 holiday:1 's:1 may:2 million:2 terminals:1 compromised:1 data:1 than:2 bigger:2 56:2 up:1 cards:2 making:1 five-month:1
+TGT	20140922	63.8	63.3	r_down	
+TGT	20140923	63.3	63.0	r_down	seasonal:1 help:1 less:1 sales:1 likes:1 year:2 hires:1 workers:1 crucial:1 same:1 6:1 holiday-shopping:1 45,000:1 's:2 season:1 hire:1 but:1 number:1 wallets:1 during:1 great:1 made:1 last:1 could:1 leave:1 period:1 spend:1
+TGT	20140924	63.0	63.8	r_up	
+TGT	20140925	63.8	62.8	r_down	seasonal:1 saying:1 chain:1 some:1 sales:1 one:1 held:1 apparently:1 year:1 scandal:1 technology:1 plans:1 shrug:1 information:1 said:1 47:1 workers:1 system:1 increase:1 factor:1 outrage:1 breach:2 gets:1 merchant:1 sandwich:1 's:5 worse:1 season:1 company:1 debit:1 hits:1 choice:1 25,000:1 compromised:1 new:1 timing:1 president:1 data:4 than:1 card:1 customer:1 where’s:1 holiday:1 last:1 vice:1 barely:1 credit:1 so:1 report:1 hobbled:1 security:1 similar:1 hire:1 latest:1
+TGT	20140926	62.8	63.1	r_up	lure:1 needle:1 media:1 move:1 according:1 research:1 campaigns:1 failed:1 have:1 social:1 shoppers:1 new:1 investments:1
+TGT	20140929	63.1	63.0	r_down	control:1 over:1 some:1 zero:1 computer:1 have:2 owner:1 its:1 information:1 said:2 threats:1 lead:1 personal:1 make:1 been:2 networks:1 determined:1 board:1 new:1 has:1 evolving:1 sure:1 's:1 risk:1 business:1 though:1 they:1 address:1 breached:1 efforts:1 consequences:1 minimize:1 employees:1 keep:1 n't:1 whether:1 directors:1 practices:1 can:1 threat:1 security:1 tenants:1 writes:1
+TGT	20140930	63.0	62.6	r_down	summer:1 major:1 secure:1 just:1 into:1 move:1 one:1 second:1 follow:1 technology:1 its:2 initial:1 system:1 late:1 other:1 card:1 debit:2 breach:1 weeks:1 issue:1 chip:1 more:1 sure:1 after:1 early:2 reported:1 data:1 payment:1 bank:1 cards:2 banks:1 ‘chips’:1 first:1
+TGT	20141001	62.6	62.0	r_down	information:1 ``:1 said:1 's:2 breach:1 cause:1 discussion:1 retailer:1 chief:1 manager:1 '':1 absence:1 officer:1 during:1 year:1 last:1 security:1 root:1 former:1 panel:1
+TGT	20141002	62.0	62.5	r_up	being:1 things:1 after:1 retailer:1 surge:1 range:1 5:1 know:1 above:1 online:1 priced:1 furniture:1
+TGT	20141003	62.5	63.0	r_up	right:1 mission:1 cyber:1 morale:1 plunge:1 tarnished:1 seen:1 next:1 insurance:1 market:1 millions:1 information:1 combines:1 said:1 has:1 investing:1 pay:1 find:1 breaches:1 questioned:1 6:1 themselves:1 holiday:2 herculean:1 leader:1 can:1 good:1 jobs:1 get:1 season:1 listing:1 paid:1 its:3 job:1 pitfalls:1 know:1 you:2 both:1 protect:1 task:1 look:1 dollars:1 companies:1 face:1 chief:1 reputation:1 officer:1 policies:1 organization:1 security:2 out:1
+TGT	20141006	63.0	62.2	r_down	story:1 noise:1 around:1 also:1 writes:1 lines:1 third-quarter:1 but:1 there’s:1 four:1 most:1 important:1 earnings:1 lot:2 time:1 line:1
+TGT	20141007	62.2	61.5	r_down	share:1 say:1 experts:2 year:1 message:1 technology:1 market:1 before:1 opportunity:1 next:1 breaches:2 provider:1 breach:1 has:1 more:2 regain:1 after:1 new:1 services:1 data:3 protect:1 credit:1 cards:1 latest:1
+TGT	20141008	61.5	62.8	r_up	control:2 1.5:1 major:1 have:1 terrorists:1 health-care:1 cyber:1 damage:1 say:1 directly:1 corporations:1 bank:1 any:1 out:2 premiums:1 credit:1 federal:1 workers:1 system:1 been:1 insurance:1 another:1 other:1 health:1 systems:1 finding:1 breach:2 you:1 has:1 600,000:1 2012:1 do:1 customers:1 after:1 affected:1 reaching:1 wake:1 million:1 most:1 cutting:1 connected:1 not:1 data:1 raising:1 card:1 aggressively:1 country:1 employees:1 holes:1 devices:2 leaving:1 more:1 part-time:1 costs:1 contain:1 push:1 found:1 30,000:2 its:1 researchers:1 luck:1
+TGT	20141009	62.8	61.6	r_down	studios:1 people:1 focus:1 competitive:1 consortium:1 middle:1 growth:1 battles:1 unveiled:1 talks:1 plan:1 open:1 its:1 landscape:1 increased:1 brick-and-mortar:1 knowledge:1 provide:1 three:1 least:1 experiment:1 digital:1 several:1 type:1 store:1 plans:1 stay:1 company:1 expansion:1 includes:1 outlet:1 situation:1 changing:1 20-year:1 retail:1 join:1 according:1 experience:1 traditional:1 three-year:1 retailers:1 found:1 first:1 investments:1 history:1
+TGT	20141010	61.6	60.5	r_down	summer:1 major:1 stores:1 395:1 hackers:2 some:1 locations:1 same:1 have:1 stole:1 its:2 information:2 malware:1 said:1 breached:1 confirm:1 been:1 plucked:1 also:1 systems:1 breach:1 affected:1 string:1 attacked:1 company:1 believe:1 data:2 payment:2 card:1 software:1 announcing:1 computers:1 became:1 retailers:1 were:1 latest:2 investigators:1

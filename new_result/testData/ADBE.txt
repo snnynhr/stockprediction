@@ -1,307 +1,114 @@
-ADBE	20120402	34.31	34.7	r_up	
-ADBE	20120403	34.7	34.31	r_down	
-ADBE	20120404	34.31	33.46	r_down	
-ADBE	20120405	33.46	33.59	r_up	
-ADBE	20120409	33.59	33.22	r_down	
-ADBE	20120410	33.22	32.61	r_down	
-ADBE	20120411	32.61	33.01	r_up	
-ADBE	20120412	33.01	33.55	r_up	
-ADBE	20120413	33.55	33.18	r_down	watch:1
-ADBE	20120416	33.18	32.85	r_down	
-ADBE	20120417	32.85	33.84	r_up	
-ADBE	20120418	33.84	33.39	r_down	$:1 1.3:1
-ADBE	20120419	33.39	32.9	r_down	
-ADBE	20120420	32.9	33.06	r_up	2:1 41:1
-ADBE	20120423	33.06	32.62	r_down	
-ADBE	20120424	32.62	32.4	r_down	
-ADBE	20120425	32.4	33.13	r_up	
-ADBE	20120426	33.13	33.26	r_up	
-ADBE	20120427	33.26	33.58	r_up	
-ADBE	20120430	33.58	33.55	r_down	
-ADBE	20120501	33.55	33.77	r_up	
-ADBE	20120502	33.77	33.76	r_down	
-ADBE	20120503	33.76	33.32	r_down	
-ADBE	20120504	33.32	32.61	r_down	
-ADBE	20120507	32.61	32.52	r_down	
-ADBE	20120508	32.52	32.67	r_up	
-ADBE	20120509	32.67	32.52	r_down	
-ADBE	20120510	32.52	31.92	r_down	
-ADBE	20120511	31.92	32.2	r_up	
-ADBE	20120514	32.2	32.23	r_up	
-ADBE	20120515	32.23	32.33	r_up	
-ADBE	20120516	32.33	32.36	r_up	
-ADBE	20120517	32.36	32.01	r_down	
-ADBE	20120518	32.01	31.31	r_down	
-ADBE	20120521	31.31	32.01	r_up	
-ADBE	20120522	32.01	32.01	r_up	
-ADBE	20120523	32.01	32.18	r_up	
-ADBE	20120524	32.18	31.54	r_down	
-ADBE	20120525	31.54	31.6	r_up	
-ADBE	20120529	31.6	32.05	r_up	
-ADBE	20120530	32.05	31.29	r_down	
-ADBE	20120531	31.29	31.05	r_down	
-ADBE	20120601	31.05	29.82	r_down	
-ADBE	20120604	29.82	30.31	r_up	
-ADBE	20120605	30.31	30.71	r_up	
-ADBE	20120606	30.71	31.69	r_up	
-ADBE	20120607	31.69	31.32	r_down	
-ADBE	20120608	31.32	31.65	r_up	
-ADBE	20120611	31.65	31.13	r_down	
-ADBE	20120612	31.13	31.77	r_up	
-ADBE	20120613	31.77	31.79	r_up	
-ADBE	20120614	31.79	31.67	r_down	
-ADBE	20120615	31.67	32.39	r_up	tech-sector:1 highlight:1 losses:1 trading:1
-ADBE	20120618	32.39	32.63	r_up	
-ADBE	20120619	32.63	32.89	r_up	gains:1 rise:1 watch:1 behind:1 stocks:1 2.4:2
-ADBE	20120620	32.89	31.99	r_down	outlook:1 after:1 's:1 surprises:1 drop:1 weak:1 shares:1 hours:1 advisories:1 outlooks:1 fall:1 following:1 2.4:6
-ADBE	20120621	31.99	31.23	r_down	hit:1 takes:1 techs:1 shift:1 mild:1 subscription:1 day:1 stage:1
-ADBE	20120622	31.23	31.57	r_up	
-ADBE	20120625	31.57	30.85	r_down	
-ADBE	20120626	30.85	31.07	r_up	
-ADBE	20120627	31.07	31.41	r_up	
-ADBE	20120628	31.41	31.17	r_down	
-ADBE	20120629	31.17	32.37	r_up	
-ADBE	20120702	32.37	32.19	r_down	
-ADBE	20120703	32.19	32.51	r_up	
-ADBE	20120705	32.51	32.53	r_up	
-ADBE	20120706	32.53	31.37	r_down	mixed:1 outlook:1 stocks:1 software:1
-ADBE	20120709	31.37	30.43	r_down	vs.:1
-ADBE	20120710	30.43	30.44	r_up	losses:1 down:1 pace:1 tech:1 stocks:1 day:1
-ADBE	20120711	30.44	30.2	r_down	
-ADBE	20120712	30.2	30.14	r_down	
-ADBE	20120713	30.14	30.65	r_up	
-ADBE	20120716	30.65	30.4	r_down	
-ADBE	20120717	30.4	30.65	r_up	8:1
-ADBE	20120718	30.65	31.43	r_up	
-ADBE	20120719	31.43	31.89	r_up	
-ADBE	20120720	31.89	31.38	r_down	
-ADBE	20120723	31.38	30.64	r_down	
-ADBE	20120724	30.64	30.02	r_down	
-ADBE	20120725	30.02	30.33	r_up	
-ADBE	20120726	30.33	30.95	r_up	
-ADBE	20120727	30.95	31.9	r_up	
-ADBE	20120730	31.9	31.01	r_down	
-ADBE	20120731	31.01	30.88	r_down	
-ADBE	20120801	30.88	30.69	r_down	
-ADBE	20120802	30.69	30.58	r_down	
-ADBE	20120803	30.58	32.02	r_up	
-ADBE	20120806	32.02	32.14	r_up	
-ADBE	20120807	32.14	32.37	r_up	
-ADBE	20120808	32.37	32.51	r_up	
-ADBE	20120809	32.51	32.65	r_up	
-ADBE	20120810	32.65	32.64	r_down	
-ADBE	20120813	32.64	32.27	r_down	
-ADBE	20120814	32.27	32.11	r_down	
-ADBE	20120815	32.11	32.91	r_up	10.1:1 watch:1
-ADBE	20120816	32.91	33.65	r_up	launches:1 tablet:1 new:1
-ADBE	20120817	33.65	33.8	r_up	
-ADBE	20120820	33.8	33.92	r_up	
-ADBE	20120821	33.92	33.75	r_down	
-ADBE	20120822	33.75	33.84	r_up	
-ADBE	20120823	33.84	33.5	r_down	
-ADBE	20120824	33.5	32.26	r_down	
-ADBE	20120827	32.26	32.32	r_up	
-ADBE	20120828	32.32	32.06	r_down	
-ADBE	20120829	32.06	31.96	r_down	
-ADBE	20120830	31.96	31.46	r_down	
-ADBE	20120831	31.46	31.27	r_down	
-ADBE	20120904	31.27	31.44	r_up	
-ADBE	20120905	31.44	32.26	r_up	
-ADBE	20120906	32.26	32.79	r_up	gains:1 but:1 other:1 tech:1 stocks:1 stumble:1
-ADBE	20120907	32.79	32.46	r_down	
-ADBE	20120910	32.46	32.13	r_down	
-ADBE	20120911	32.13	32.43	r_up	
-ADBE	20120912	32.43	32.42	r_down	
-ADBE	20120913	32.42	32.81	r_up	
-ADBE	20120914	32.81	33.34	r_up	
-ADBE	20120917	33.34	33.41	r_up	
-ADBE	20120918	33.41	32.57	r_down	
-ADBE	20120919	32.57	33.12	r_up	happens:1 faster:1 shift:1 after:1 watch:2 shares:1 hours:1 advisories:1 3.2:3 fall:1 expected:1 than:1 surprises:1
-ADBE	20120920	33.12	34.53	r_up	lower:1 declines:1 futures:1 watch:1 edge:1 tech:1 struggle:1 3.2:2 stocks:1 data:1 stock:1
-ADBE	20120921	34.53	33.83	r_down	
-ADBE	20120924	33.83	33.42	r_down	
-ADBE	20120925	33.42	32.9	r_down	
-ADBE	20120926	32.9	32.53	r_down	
-ADBE	20120927	32.53	32.8	r_up	
-ADBE	20120928	32.8	32.44	r_down	
-ADBE	20121001	32.44	32.62	r_up	
-ADBE	20121002	32.62	32.57	r_down	
-ADBE	20121003	32.57	32.6	r_up	
-ADBE	20121004	32.6	32.68	r_up	
-ADBE	20121005	32.68	32.47	r_down	
-ADBE	20121008	32.47	32.23	r_down	
-ADBE	20121009	32.23	31.69	r_down	
-ADBE	20121010	31.69	31.51	r_down	
-ADBE	20121011	31.51	31.78	r_up	
-ADBE	20121012	31.78	31.94	r_up	
-ADBE	20121015	31.94	32.33	r_up	
-ADBE	20121016	32.33	33.24	r_up	
-ADBE	20121017	33.24	33.44	r_up	
-ADBE	20121018	33.44	33.47	r_up	
-ADBE	20121019	33.47	33.24	r_down	
-ADBE	20121022	33.24	33.49	r_up	
-ADBE	20121023	33.49	33.31	r_down	
-ADBE	20121024	33.31	33.36	r_up	
-ADBE	20121025	33.36	33.4	r_up	
-ADBE	20121026	33.4	34.01	r_up	
-ADBE	20121031	34.01	34.03	r_up	
-ADBE	20121101	34.03	34.36	r_up	
-ADBE	20121102	34.36	34.39	r_up	
-ADBE	20121105	34.39	34.24	r_down	
-ADBE	20121106	34.24	34.39	r_up	
-ADBE	20121107	34.39	33.47	r_down	
-ADBE	20121108	33.47	32.98	r_down	
-ADBE	20121109	32.98	32.9	r_down	
-ADBE	20121112	32.9	32.7	r_down	
-ADBE	20121113	32.7	32.54	r_down	's:1
-ADBE	20121114	32.54	32.24	r_down	
-ADBE	20121115	32.24	32.64	r_up	
-ADBE	20121116	32.64	32.65	r_up	
-ADBE	20121119	32.65	32.92	r_up	18:3 21st:1
-ADBE	20121120	32.92	32.64	r_down	
-ADBE	20121121	32.64	32.84	r_up	
-ADBE	20121123	32.84	33.4	r_up	
-ADBE	20121126	33.4	33.29	r_down	
-ADBE	20121127	33.29	33.18	r_down	
-ADBE	20121128	33.18	33.88	r_up	
-ADBE	20121129	33.88	34.09	r_up	
-ADBE	20121130	34.09	34.61	r_up	
-ADBE	20121203	34.61	34.7	r_up	
-ADBE	20121204	34.7	35.3	r_up	
-ADBE	20121205	35.3	35.4	r_up	
-ADBE	20121206	35.4	35.14	r_down	
-ADBE	20121207	35.14	35.48	r_up	
-ADBE	20121210	35.48	35.75	r_up	
-ADBE	20121211	35.75	35.54	r_down	
-ADBE	20121212	35.54	35.96	r_up	
-ADBE	20121213	35.96	35.53	r_down	hours:1 lower:1 rise:1 's:1 leads:1 profit:1 after:1 28:1 sales:1 shares:1 falls:1 jump:1 tech:1 earnings:1 expected:1 post:1 retreat:1
-ADBE	20121214	35.53	37.56	r_up	week:1 4.4:1 's:1 movers:1 big:1 futures:1 steady:1 up:1 down:1 contained:1 inflation:1 28:3
-ADBE	20121217	37.56	37.42	r_down	
-ADBE	20121218	37.42	37.49	r_up	
-ADBE	20121219	37.49	38.09	r_up	525:1 $:1
-ADBE	20121220	38.09	37.87	r_down	810:2 $:2
-ADBE	20121221	37.87	37.71	r_down	810:2 $:2
-ADBE	20121224	37.71	37.53	r_down	
-ADBE	20121226	37.53	37.55	r_up	
-ADBE	20121227	37.55	37.3	r_down	
-ADBE	20121228	37.3	36.9	r_down	
-ADBE	20121231	36.9	37.68	r_up	
-ADBE	20130102	37.68	38.34	r_up	
-ADBE	20130103	38.34	37.75	r_down	
-ADBE	20130104	37.75	38.13	r_up	
-ADBE	20130107	38.13	37.94	r_down	
-ADBE	20130108	37.94	38.14	r_up	
-ADBE	20130109	38.14	38.66	r_up	
-ADBE	20130110	38.66	38.62	r_down	
-ADBE	20130111	38.62	38.09	r_down	
-ADBE	20130114	38.09	38.16	r_up	's:1
-ADBE	20130115	38.16	38.15	r_down	
-ADBE	20130116	38.15	37.88	r_down	
-ADBE	20130117	37.88	37.73	r_down	
-ADBE	20130118	37.73	37.98	r_up	
-ADBE	20130122	37.98	37.95	r_down	
-ADBE	20130123	37.95	38.25	r_up	
-ADBE	20130124	38.25	38.11	r_down	
-ADBE	20130125	38.11	38.32	r_up	
-ADBE	20130128	38.32	38.24	r_down	
-ADBE	20130129	38.24	38.52	r_up	continue:1 flight:1 take:1 benchmarks:1
-ADBE	20130130	38.52	37.94	r_down	
-ADBE	20130131	37.94	37.83	r_down	
-ADBE	20130201	37.83	38.34	r_up	
-ADBE	20130204	38.34	38.1	r_down	
-ADBE	20130205	38.1	38.51	r_up	
-ADBE	20130206	38.51	38.4	r_down	's:1
-ADBE	20130207	38.4	38.07	r_down	
-ADBE	20130208	38.07	39.12	r_up	
-ADBE	20130211	39.12	38.64	r_down	
-ADBE	20130212	38.64	38.89	r_up	tech:1 stocks:1 rise:1 drags:1 but:1
-ADBE	20130213	38.89	38.81	r_down	
-ADBE	20130214	38.81	38.61	r_down	
-ADBE	20130215	38.61	38.63	r_up	
-ADBE	20130219	38.63	38.99	r_up	
-ADBE	20130220	38.99	38.77	r_down	
-ADBE	20130221	38.77	38.34	r_down	
-ADBE	20130222	38.34	38.55	r_up	
-ADBE	20130225	38.55	38.11	r_down	
-ADBE	20130226	38.11	38.59	r_up	
-ADBE	20130227	38.59	39.6	r_up	
-ADBE	20130228	39.6	39.31	r_down	
-ADBE	20130301	39.31	39.83	r_up	
-ADBE	20130304	39.83	40.46	r_up	
-ADBE	20130305	40.46	41.46	r_up	's:1
-ADBE	20130306	41.46	41.29	r_down	
-ADBE	20130307	41.29	41.5	r_up	
-ADBE	20130308	41.5	41.5	r_up	
-ADBE	20130311	41.5	41.48	r_down	
-ADBE	20130312	41.48	41.4	r_down	
-ADBE	20130313	41.4	41.59	r_up	
-ADBE	20130314	41.59	41.62	r_up	
-ADBE	20130315	41.62	41.38	r_down	's:1
-ADBE	20130318	41.38	41.06	r_down	
-ADBE	20130319	41.06	40.75	r_down	quarterly:1 rise:1 's:1 results:1 shares:1
-ADBE	20130320	40.75	42.46	r_up	suffers:1 off:1 gains:1 lead:1 look:1 movers:1 surprises:1 futures:1 watch:1 cut:1 advisories:1 tech:1 another:1 broad:1 shake:1 target:1
-ADBE	20130321	42.46	42.18	r_down	all-clear:1 rise:1 stocks:1 after:1 getting:1
-ADBE	20130322	42.18	42.97	r_up	debut:1 's:1 falls:1 37:1 soars:1
-ADBE	20130325	42.97	42.49	r_down	
-ADBE	20130326	42.49	42.75	r_up	major:1 resistance:1 back:1 another:1 crack:1
-ADBE	20130327	42.75	42.66	r_down	
-ADBE	20130328	42.66	43.52	r_up	
-ADBE	20130401	43.52	43.38	r_down	
-ADBE	20130402	43.38	43.85	r_up	
-ADBE	20130403	43.85	43.7	r_down	
-ADBE	20130404	43.7	44.21	r_up	action:1 tech:1 stands:1 out:1
-ADBE	20130405	44.21	43.38	r_down	
-ADBE	20130408	43.38	43.79	r_up	
-ADBE	20130409	43.79	44.17	r_up	
-ADBE	20130410	44.17	44.7	r_up	
-ADBE	20130411	44.7	45.21	r_up	
-ADBE	20130412	45.21	45.03	r_down	
-ADBE	20130415	45.03	44.6	r_down	
-ADBE	20130416	44.6	45.28	r_up	
-ADBE	20130417	45.28	44.9	r_down	
-ADBE	20130418	44.9	44.46	r_down	
-ADBE	20130419	44.46	44.74	r_up	
-ADBE	20130422	44.74	44.53	r_down	
-ADBE	20130423	44.53	44.87	r_up	
-ADBE	20130424	44.87	44.67	r_down	
-ADBE	20130425	44.67	45.05	r_up	
-ADBE	20130426	45.05	44.91	r_down	
-ADBE	20130429	44.91	45.06	r_up	
-ADBE	20130430	45.06	45.08	r_up	
-ADBE	20130501	45.08	44.71	r_down	
-ADBE	20130502	44.71	45.69	r_up	
-ADBE	20130503	45.69	47.01	r_up	
-ADBE	20130506	47.01	46.49	r_down	
-ADBE	20130507	46.49	45.6	r_down	7:1
-ADBE	20130508	45.6	45.32	r_down	
-ADBE	20130509	45.32	43.97	r_down	
-ADBE	20130510	43.97	44.02	r_up	
-ADBE	20130513	44.02	43.61	r_down	
-ADBE	20130514	43.61	44.04	r_up	
-ADBE	20130515	44.04	45.07	r_up	$:1 10.7m:1
-ADBE	20130516	45.07	44.56	r_down	
-ADBE	20130517	44.56	44.61	r_up	
-ADBE	20130520	44.61	44.29	r_down	
-ADBE	20130521	44.29	44.02	r_down	
-ADBE	20130522	44.02	43.17	r_down	
-ADBE	20130523	43.17	42.77	r_down	
-ADBE	20130524	42.77	42.43	r_down	
-ADBE	20130528	42.43	42.91	r_up	
-ADBE	20130529	42.91	42.6	r_down	
-ADBE	20130530	42.6	43.19	r_up	
-ADBE	20130531	43.19	42.91	r_down	
-ADBE	20130603	42.91	43.46	r_up	
-ADBE	20130604	43.46	44.39	r_up	
-ADBE	20130605	44.39	43.84	r_down	into:1
-ADBE	20130606	43.84	43.57	r_down	
-ADBE	20130607	43.57	44.12	r_up	
-ADBE	20130610	44.12	44.09	r_down	
-ADBE	20130611	44.09	43.12	r_down	
-ADBE	20130612	43.12	42.72	r_down	
-ADBE	20130613	42.72	43.3	r_up	
-ADBE	20130614	43.3	42.84	r_down	
-ADBE	20130617	42.84	43.39	r_up	
-ADBE	20130618	43.39	43.36	r_down	flat:1 rises:1 after:1 watch:1 hours:1 66:1 stocks:1
-ADBE	20130619	43.36	45.78	r_up	rating:1 set:1 slip:1 move:1 66:2 before:1 sell:1 stocks:2 wobble:1 advisories:1 after:1 rise:1 watch:1 but:1 falls:1 sink:1 rises:1 movers:1 futures:1 jitters:1 yields:1 surprises:1
-ADBE	20130620	45.78	44.9	r_down	
-ADBE	20130621	44.9	44.77	r_down	
+ADBE	20140501	61.6	62.5	r_up	
+ADBE	20140502	62.5	61.5	r_down	's:1 antitrust:1 civil:1 agreed:1 alleging:1 recruiting:1 refrain:1 other:1 agreeing:1 settle:1 violated:1 each:1 employees:1 law:1 lawsuit:1 company:1
+ADBE	20140505	61.5	61.4	r_down	
+ADBE	20140506	61.4	59.4	r_down	
+ADBE	20140507	59.4	58.6	r_down	
+ADBE	20140508	58.6	59.0	r_up	available:1 sketches:1 's:1 music:1 shared:1 text:1 create:1 online:1 lets:1 quickly:1 clips:1 photos:1 only:1 combine:1 can:1 digital:1 video:1 you:1 animated:1
+ADBE	20140509	59.0	59.5	r_up	shrug:1 right:1 off:2 deal:1 needed:1 merger:1 advances:1 companies:1 fight:1 n't:2 failed:1 tech:1
+ADBE	20140512	59.5	60.7	r_up	
+ADBE	20140513	60.7	60.8	r_up	case:2 named:2 's:2 $:2 antitrust:2 inadequate:2 employees:2 million:2 ``:2 recruit:2 '':2 reported:2 conspiring:2 other:2 tech:2 each:2 not:2 plaintiffs:2 settlement:2 grossly:2
+ADBE	20140514	60.8	60.8	r_up	sector:1 giant:1 networking:1 ahead:1 mostly:1 due:1 after:1 negative:1 results:1 equipment:1 trading:1 earnings:1 slip:1 close:1 quarterly:1 performance:1 post:1 stocks:2 awaits:1
+ADBE	20140515	60.8	60.2	r_down	
+ADBE	20140516	60.2	61.6	r_up	
+ADBE	20140519	61.6	62.2	r_up	
+ADBE	20140520	62.2	61.7	r_down	
+ADBE	20140521	61.7	62.4	r_up	
+ADBE	20140522	62.4	63.1	r_up	accessible:1 videos:1 personal:1 create:1 strategy:1 their:1 woo:1 individuals:1 brands:1 professional:1 footage:1
+ADBE	20140523	63.1	64.3	r_up	
+ADBE	20140527	64.3	65.2	r_up	upcoming:1 ahead:1 almost:1 split:1 highs:1 since:1 bellwether:1 two:1 reaches:2 years:1 stock:1 seen:1 not:1 close:1 highest:1 2012:1
+ADBE	20140528	65.2	64.8	r_down	
+ADBE	20140529	64.8	65.4	r_up	among:1 code:1 month:1 four:1 computer:1 need:1 open:1 funding:1 support:1 initial:1 source:1 has:1 announced:1 them:1 full:1 group:1 bug:1 projects:1 audit:1 last:1 created:1 security:1 software:1
+ADBE	20140530	65.4	64.5	r_down	
+ADBE	20140602	64.5	64.6	r_up	
+ADBE	20140603	64.6	64.0	r_down	introducing:1 needs:1 work:1 says:1 greater:1 environment:1 means:1 system:1 departments:1 element:1 access:1 more:1 outside:1 operating:1 allowing:1 closely:1 new:1 developers:1 corporate:1 its:2 risk:1
+ADBE	20140604	64.0	64.1	r_up	
+ADBE	20140605	64.1	65.4	r_up	's:1 business:1 most:1 browsers:1 popular:1 now:1 boost:1 its:1
+ADBE	20140606	65.4	66.9	r_up	
+ADBE	20140609	66.9	66.9	r_up	
+ADBE	20140610	66.9	66.9	r_up	
+ADBE	20140611	66.9	67.4	r_up	
+ADBE	20140612	67.4	66.5	r_down	
+ADBE	20140613	66.5	66.8	r_up	
+ADBE	20140616	66.8	67.6	r_up	buybacks:2 shareholders:1 return:1 way:1 may:1 popular:1 technique:1 companies:1 cash:1 been:1 their:1 but:1 have:1 losing:2 stock:1 its:1 fizz:2
+ADBE	20140617	67.6	67.5	r_down	gathering:1 investors:1 two-day:1 over:2 trade:1 active:1 see:1 officials:1 whose:1 recovery:1 shares:1 next:1 few:1 edge:1 music:1 which:1 policy:1 has:1 meeting:1 's:1 watch:1 expected:1 kicks:1 during:1 stocks:1 session:1 off:1 --:2 might:1 months:1 companies:1 economic:1 ears:1
+ADBE	20140618	67.5	73.0	r_up	sector:1 operations:1 office:2 saying:1 over:2 results:3 trade:1 session:1 freight:1 startups:2 hate:2 its:9 ground:1 announcement:1 giant:1 $:1 headline:1 rose:3 segments:1 seems:1 expectations:1 desktop:1 advisories:1 premarket:1 policy:2 2014:2 subscription:1 sway:1 day’s:1 updated:1 gains:3 ruler:1 expects:1 inflation:1 putting:2 press:1 now:1 16:2 companies:2 email:2 mode:2 release:1 higher:1 inbox:2 says:1 burst:1 some:1 back:1 3.5:1 trading:1 second-quarter:1 year:1 flock:1 event:1 even:1 aim:2 said:3 profit:1 decision:1 since:1 shares:1 creative:1 pen:1 future:1 new:3 across:1 attention:1 free:1 strong:1 roundup:1 last:1 ahead:2 taking:2 reports:1 surprises:1 better-than-expected:2 software:2 fourth-quarter:1 love:2 revenue:2 communication:2 aimed:1 old:2 cloud:1 conference:1 apps:1 overblown:1 fight:2 much:1 growth:2 statement:1 expected:1 upbeat:1 pare:2 upcoming:1 company:1 quarterly:3 big:1 than:1 posted:1 14:1 versions:1 disrupt:2 up:2 n't:1 actively:1 quarters:1 promising:2 following:1 launched:1 sees:1 well:1 turned:1 sales:1 biggest:1 hardware:1 rally:1 topped:1 potential:1 earnings:3 digital:1 stock:1 extended:1 's:3 after:1 update:1 driven:1 services:1 wave:2 recent:1 fiscal:3 mobile:1 futures:2 stronger:1 sale:1 2003:1 tech:1 rallies:1 claims:1 first:1 corporate:3 latest:1
+ADBE	20140619	73.0	72.9	r_down	declines:1 four:1 warning:1 fuel-cell:1 year:1 rally:3 its:1 hurry:1 raise:1 no:1 profit:1 rose:1 jump:1 while:1 comments:1 cell:1 rates:1 issued:1 fuel:1 upbeat:1 weeks:1 assessment:1 company:1 500:3 economy:1 gaining:1 offered:1 after:3 most:1 stocks:2 analyst:1 rallied:1 leads:1 hits:1 companies:1 slumps:1 record:2 chief:1 20th:1 positive:1 closing:1 talk:1
+ADBE	20140620	72.9	72.6	r_down	
+ADBE	20140623	72.6	72.8	r_up	control:1 domain:1 engines:1 addresses:1 power:1 mobile:1 apps:1 over:1 prominence:1 heating:1 up:1 losing:1 traffic:1 names:1 social:1 battle:1 through:1 search:1 more:1 networks:1 like:1
+ADBE	20140624	72.8	72.3	r_down	
+ADBE	20140625	72.3	72.4	r_up	
+ADBE	20140626	72.4	72.8	r_up	road:1 customers:1 kicked:1 's:1 service:1 can:1 question:1 use:1 down:1 held:1 cloud:1 ruling:1 way:1 liable:1 bigger:1 defines:1
+ADBE	20140627	72.8	72.0	r_down	building:1 says:1 business:1 remains:1 support:1 system:1 challenge:1 new:1 model:1 back-office:1
+ADBE	20140630	72.0	72.3	r_up	
+ADBE	20140701	72.3	73.0	r_up	handily:1 's:1 investors:1 beaten:1 fund:1 such:1 has:1 market:1
+ADBE	20140702	73.0	72.7	r_down	
+ADBE	20140703	72.7	73.5	r_up	
+ADBE	20140707	73.5	72.6	r_down	
+ADBE	20140708	72.6	71.1	r_down	among:1 gathering:1 over:1 influence:1 produced:1 hiring:1 watched:1 fear:1 giant:1 court:1 rivals:1 much:1 too:1 new:1 has:1 firm:1 's:1 business:1 mobile-ad:1 involving:1 closely:1 recent:1 case:1 purchase:1 cable:1 antitrust:1 practices:1 tech:1 filing:1
+ADBE	20140709	71.1	71.5	r_up	
+ADBE	20140710	71.5	71.7	r_up	examining:1 office:1 some:1 involve:1 broader:1 use:1 would:1 personal:1 review:1 research:1 also:1 sure:1 's:3 complies:1 company:1 governing:1 data:1 attempt:1 prior:1 future:1 make:1 laws:1
+ADBE	20140711	71.7	72.2	r_up	
+ADBE	20140714	72.2	72.8	r_up	within:1 according:1 watched:1 wages:1 its:1 make:1 documents:1 workers:2 suppress:1 policy:1 newly:1 jobs:1 big:1 offered:1 released:1 closely:1 case:1 hour:1 considered:1 alleging:1 companies:1 recruit:1 tech:1 having:1
+ADBE	20140715	72.8	72.2	r_down	
+ADBE	20140716	72.2	72.3	r_up	
+ADBE	20140717	72.3	71.3	r_down	marketplace:1 dominant:1 $:2 investors:1 media:1 betting:1 million:1 61:2 online:1 can:1 others:1 become:1 stock:1 take:1
+ADBE	20140718	71.3	72.5	r_up	
+ADBE	20140721	72.5	71.9	r_down	
+ADBE	20140722	71.9	72.2	r_up	giant:1 set:1 working:1 reasons:1 writes:1 seems:1 keep:1 report:1 rising:1 earnings:1 9:1 tech:1 out:1 stock:1
+ADBE	20140723	72.2	72.0	r_down	
+ADBE	20140724	72.0	72.8	r_up	
+ADBE	20140725	72.8	72.6	r_down	
+ADBE	20140728	72.6	72.7	r_up	
+ADBE	20140729	72.7	72.2	r_down	
+ADBE	20140730	72.2	71.8	r_down	
+ADBE	20140731	71.8	69.2	r_down	
+ADBE	20140801	69.2	68.9	r_down	
+ADBE	20140804	68.9	68.7	r_down	
+ADBE	20140805	68.7	68.9	r_up	
+ADBE	20140806	68.9	68.2	r_down	
+ADBE	20140807	68.2	67.8	r_down	
+ADBE	20140808	67.8	68.3	r_up	
+ADBE	20140811	68.3	68.9	r_up	
+ADBE	20140812	68.9	68.7	r_down	attorney:1 proposed:1 over:1 helped:1 ready:1 watched:1 wages:1 settlement:1 engineer:1 said:1 deal:1 better:1 other:1 his:1 closely:1 refashion:1 lawsuit:1 former:1 derail:1 lost:1 work:1 plaintiffs:1
+ADBE	20140813	68.7	69.7	r_up	
+ADBE	20140814	69.7	70.0	r_up	
+ADBE	20140815	70.0	70.0	r_up	group:1 favorite:1 including:1 names:1 6:1 discusses:1 its:1
+ADBE	20140818	70.0	71.0	r_up	
+ADBE	20140819	71.0	72.0	r_up	
+ADBE	20140820	72.0	71.0	r_down	
+ADBE	20140821	71.0	71.7	r_up	
+ADBE	20140822	71.7	72.0	r_up	
+ADBE	20140825	72.0	71.8	r_down	
+ADBE	20140826	71.8	71.5	r_down	
+ADBE	20140827	71.5	71.5	r_up	
+ADBE	20140828	71.5	71.3	r_down	
+ADBE	20140829	71.3	71.9	r_up	
+ADBE	20140902	71.9	72.1	r_up	
+ADBE	20140903	72.1	72.4	r_up	
+ADBE	20140904	72.4	72.4	r_up	
+ADBE	20140905	72.4	73.1	r_up	claim:1 set:1 proposed:1 four:1 date:1 parties:1 wages:1 settlement:2 negotiations:1 out:1 workers:2 class-action:1 throw:1 current:2 suppress:1 's:1 resume:1 big:2 possible:1 pressure:1 involving:1 putting:1 they:1 judge:2 former:2 case:2 12:1 antitrust:1 companies:3 trial:1 tech:1 toward:1 decision:1
+ADBE	20140908	73.1	73.3	r_up	
+ADBE	20140909	73.3	72.4	r_down	
+ADBE	20140910	72.4	72.3	r_down	talent:1 exec:1 top:1 startup:1 sales:1 lures:1 company:1 war:1
+ADBE	20140911	72.3	72.4	r_up	current:1 trial:1 workers:1 start:1 big:1 2015:1 class-action:1 companies:1 back:1 four:1 pushed:1 involving:1 tech:1 antitrust:1 judge:1 has:1 former:1
+ADBE	20140912	72.4	70.9	r_down	
+ADBE	20140915	70.9	70.2	r_down	
+ADBE	20140916	70.2	70.7	r_up	now:1 's:2 longer:1 played:1 last:1 big:1 binge:1 fueling:1 question:1 buyback:1 run:1 much:1 role:1 record-breaking:1 has:1 market:1 stock:1
+ADBE	20140917	70.7	67.3	r_down	weaker:1 revenue:3 decline:1 trade:1 high:2 session:2 close:1 margins:1 moves:1 miss:1 its:1 market:1 closes:1 stocks:1 fell:1 46:2 third-quarter:1 shares:2 growth:1 earnings:1 expected:1 higher:2 company’s:1 after:2 's:2 reaching:1 company:1 surges:1 extended:1 slides:1 quarterly:1 modest:1 said:1 operating:1 gain:1 offset:1 estimate:1 strategic:1 fiscal:1 companies:1 consensus:1 record:2 below:1 actively:1 expenses:1 stock:1 slightly:2 comes:1 software:2
+ADBE	20140918	67.3	67.9	r_up	discloses:1 counter:1 run:1 gains:2 declines:1 losses:1 stake:2 shares:1 falls:2 while:1 activist:2 tech:1 take:1 climb:1 sector’s:1 investor:1 spotlight:1 after:1 earnings:1
+ADBE	20140919	67.9	66.9	r_down	
+ADBE	20140922	66.9	67.2	r_up	
+ADBE	20140923	67.2	67.7	r_up	deal:1 give:1 acquired:1 developed:1 down:1 held:1 kits:1 privately:1 developer:1 said:1 create:1 apps:1 other:1 has:1 development:1 used:1 's:1 iconic:1 framework:1 mobile:2 companies:1 software:1
+ADBE	20140924	67.7	69.0	r_up	may:1 beware:1 your:1 liars:1 days:1
+ADBE	20140925	69.0	67.7	r_down	
+ADBE	20140926	67.7	68.3	r_up	
+ADBE	20140929	68.3	69.2	r_up	
+ADBE	20140930	69.2	69.1	r_down	
+ADBE	20141001	69.1	67.5	r_down	gaining:1 's:2 takes:1 family:1 sit:1 text:1 tool:1 alongside:1 designed:1 your:1 member:1 photos:1 video:1 lays:1 smartly:1 new:1 pages:1 called:1 automatically:1 out:1
+ADBE	20141002	67.5	67.0	r_down	
+ADBE	20141003	67.0	68.4	r_up	
+ADBE	20141006	68.4	67.6	r_down	
+ADBE	20141007	67.6	65.9	r_down	down:1 path:1 company:1 traveling:1 one:1
+ADBE	20141008	65.9	67.9	r_up	
+ADBE	20141009	67.9	65.6	r_down	
+ADBE	20141010	65.6	63.2	r_down	

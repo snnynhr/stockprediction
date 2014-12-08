@@ -1,307 +1,114 @@
-AMGN	20120402	66.39	66.53	r_up	
-AMGN	20120403	66.53	66.35	r_down	
-AMGN	20120404	66.35	66.27	r_down	
-AMGN	20120405	66.27	66.44	r_up	
-AMGN	20120409	66.44	65.46	r_down	
-AMGN	20120410	65.46	64.65	r_down	$:1 315:1
-AMGN	20120411	64.65	65.18	r_up	
-AMGN	20120412	65.18	65.36	r_up	
-AMGN	20120413	65.36	64.06	r_down	
-AMGN	20120416	64.06	64.72	r_up	
-AMGN	20120417	64.72	65.78	r_up	
-AMGN	20120418	65.78	65.59	r_down	
-AMGN	20120419	65.59	65.57	r_down	
-AMGN	20120420	65.57	66.88	r_up	
-AMGN	20120423	66.88	66.7	r_down	$:1 1.26:1
-AMGN	20120424	66.7	67.03	r_up	's:1
-AMGN	20120425	67.03	68.56	r_up	
-AMGN	20120426	68.56	69.14	r_up	augur:1 tech:1 earnings:1 comeback:1
-AMGN	20120427	69.14	69.97	r_up	
-AMGN	20120430	69.97	69.46	r_down	
-AMGN	20120501	69.46	69.05	r_down	
-AMGN	20120502	69.05	69.51	r_up	
-AMGN	20120503	69.51	69.26	r_down	
-AMGN	20120504	69.26	68.15	r_down	
-AMGN	20120507	68.15	67.99	r_down	
-AMGN	20120508	67.99	69.05	r_up	
-AMGN	20120509	69.05	68.0	r_down	
-AMGN	20120510	68.0	68.46	r_up	
-AMGN	20120511	68.46	69.13	r_up	
-AMGN	20120514	69.13	68.92	r_down	
-AMGN	20120515	68.92	69.39	r_up	
-AMGN	20120516	69.39	69.68	r_up	
-AMGN	20120517	69.68	69.25	r_down	
-AMGN	20120518	69.25	67.89	r_down	
-AMGN	20120521	67.89	68.05	r_up	
-AMGN	20120522	68.05	67.65	r_down	bond:1 bargains:1 hiding:1 stock:1
-AMGN	20120523	67.65	67.13	r_down	
-AMGN	20120524	67.13	67.84	r_up	
-AMGN	20120525	67.84	67.79	r_down	
-AMGN	20120529	67.79	68.01	r_up	
-AMGN	20120530	68.01	68.32	r_up	
-AMGN	20120531	68.32	68.25	r_down	
-AMGN	20120601	68.25	66.51	r_down	
-AMGN	20120604	66.51	67.44	r_up	
-AMGN	20120605	67.44	67.2	r_down	
-AMGN	20120606	67.2	68.7	r_up	
-AMGN	20120607	68.7	67.84	r_down	
-AMGN	20120608	67.84	67.61	r_down	
-AMGN	20120611	67.61	66.55	r_down	
-AMGN	20120612	66.55	67.37	r_up	
-AMGN	20120613	67.37	67.56	r_up	
-AMGN	20120614	67.56	69.13	r_up	
-AMGN	20120615	69.13	69.99	r_up	
-AMGN	20120618	69.99	70.7	r_up	
-AMGN	20120619	70.7	71.69	r_up	's:1
-AMGN	20120620	71.69	71.46	r_down	
-AMGN	20120621	71.46	70.34	r_down	
-AMGN	20120622	70.34	71.14	r_up	
-AMGN	20120625	71.14	70.09	r_down	
-AMGN	20120626	70.09	70.15	r_up	
-AMGN	20120627	70.15	71.05	r_up	
-AMGN	20120628	71.05	70.11	r_down	
-AMGN	20120629	70.11	71.58	r_up	's:1
-AMGN	20120702	71.58	73.0	r_up	25:1 $:2
-AMGN	20120703	73.0	73.79	r_up	
-AMGN	20120705	73.79	72.97	r_down	
-AMGN	20120706	72.97	72.5	r_down	
-AMGN	20120709	72.5	73.43	r_up	
-AMGN	20120710	73.43	73.56	r_up	
-AMGN	20120711	73.56	74.7	r_up	
-AMGN	20120712	74.7	74.42	r_down	
-AMGN	20120713	74.42	75.55	r_up	
-AMGN	20120716	75.55	75.86	r_up	
-AMGN	20120717	75.86	77.32	r_up	
-AMGN	20120718	77.32	78.16	r_up	
-AMGN	20120719	78.16	78.18	r_up	8.5:2 $:2
-AMGN	20120720	78.18	76.35	r_down	
-AMGN	20120723	76.35	76.11	r_down	
-AMGN	20120724	76.11	74.98	r_down	
-AMGN	20120725	74.98	76.54	r_up	
-AMGN	20120726	76.54	77.84	r_up	8:1 8.2:1 watch:1 2012:2
-AMGN	20120727	77.84	82.39	r_up	week:1 8.2:2 end:1 surprises:1 tops:1 13,000:2 advisories:1 2012:2 stocks:1 higher:1
-AMGN	20120730	82.39	81.93	r_down	
-AMGN	20120731	81.93	81.09	r_down	
-AMGN	20120801	81.09	80.32	r_down	
-AMGN	20120802	80.32	79.56	r_down	
-AMGN	20120803	79.56	80.71	r_up	
-AMGN	20120806	80.71	80.92	r_up	
-AMGN	20120807	80.92	80.08	r_down	
-AMGN	20120808	80.08	79.88	r_down	
-AMGN	20120809	79.88	80.47	r_up	after:1
-AMGN	20120810	80.47	81.22	r_up	
-AMGN	20120813	81.22	80.73	r_down	
-AMGN	20120814	80.73	82.37	r_up	
-AMGN	20120815	82.37	82.48	r_up	
-AMGN	20120816	82.48	81.94	r_down	
-AMGN	20120817	81.94	82.22	r_up	
-AMGN	20120820	82.22	82.08	r_down	
-AMGN	20120821	82.08	81.95	r_down	
-AMGN	20120822	81.95	82.7	r_up	
-AMGN	20120823	82.7	82.49	r_down	
-AMGN	20120824	82.49	83.41	r_up	
-AMGN	20120827	83.41	83.25	r_down	
-AMGN	20120828	83.25	82.84	r_down	
-AMGN	20120829	82.84	82.55	r_down	
-AMGN	20120830	82.55	81.99	r_down	
-AMGN	20120831	81.99	82.75	r_up	
-AMGN	20120904	82.75	83.15	r_up	
-AMGN	20120905	83.15	82.91	r_down	
-AMGN	20120906	82.91	83.63	r_up	
-AMGN	20120907	83.63	82.79	r_down	
-AMGN	20120910	82.79	82.88	r_up	
-AMGN	20120911	82.88	82.77	r_down	
-AMGN	20120912	82.77	81.99	r_down	
-AMGN	20120913	81.99	82.16	r_up	
-AMGN	20120914	82.16	80.22	r_down	2009:1
-AMGN	20120917	80.22	80.94	r_up	
-AMGN	20120918	80.94	80.89	r_down	
-AMGN	20120919	80.89	80.57	r_down	
-AMGN	20120920	80.57	81.15	r_up	
-AMGN	20120921	81.15	80.89	r_down	
-AMGN	20120924	80.89	81.75	r_up	
-AMGN	20120925	81.75	82.64	r_up	
-AMGN	20120926	82.64	82.3	r_down	
-AMGN	20120927	82.3	83.06	r_up	
-AMGN	20120928	83.06	83.11	r_up	
-AMGN	20121001	83.11	83.89	r_up	
-AMGN	20121002	83.89	85.14	r_up	
-AMGN	20121003	85.14	85.59	r_up	
-AMGN	20121004	85.59	85.18	r_down	
-AMGN	20121005	85.18	85.73	r_up	
-AMGN	20121008	85.73	84.84	r_down	
-AMGN	20121009	84.84	84.24	r_down	
-AMGN	20121010	84.24	83.47	r_down	
-AMGN	20121011	83.47	83.43	r_down	
-AMGN	20121012	83.43	82.83	r_down	
-AMGN	20121015	82.83	85.02	r_up	
-AMGN	20121016	85.02	86.81	r_up	sectors:1 rise:1 health-care:1 bank:1 buoyed:1
-AMGN	20121017	86.81	87.95	r_up	
-AMGN	20121018	87.95	88.54	r_up	
-AMGN	20121019	88.54	85.94	r_down	
-AMGN	20121022	85.94	86.57	r_up	
-AMGN	20121023	86.57	86.1	r_down	technical:1 trend:1 watch:1 earnings:1 shift:1
-AMGN	20121024	86.1	86.28	r_up	surprises:1 advisories:1 amid:1
-AMGN	20121025	86.28	86.82	r_up	falter:1 prospects:1 earnings:1 worse:1 grow:1
-AMGN	20121026	86.82	86.41	r_down	seen:1 divide:1 business:1 earnings:1
-AMGN	20121031	86.41	85.28	r_down	
-AMGN	20121101	85.28	85.99	r_up	
-AMGN	20121102	85.99	85.24	r_down	
-AMGN	20121105	85.24	85.14	r_down	
-AMGN	20121106	85.14	86.07	r_up	
-AMGN	20121107	86.07	84.15	r_down	
-AMGN	20121108	84.15	83.56	r_down	
-AMGN	20121109	83.56	83.98	r_up	
-AMGN	20121112	83.98	84.33	r_up	
-AMGN	20121113	84.33	84.93	r_up	
-AMGN	20121114	84.93	83.2	r_down	
-AMGN	20121115	83.2	83.33	r_up	
-AMGN	20121116	83.33	83.71	r_up	
-AMGN	20121119	83.71	84.56	r_up	
-AMGN	20121120	84.56	85.72	r_up	
-AMGN	20121121	85.72	85.8	r_up	
-AMGN	20121123	85.8	86.74	r_up	
-AMGN	20121126	86.74	86.44	r_down	
-AMGN	20121127	86.44	86.13	r_down	
-AMGN	20121128	86.13	86.19	r_up	
-AMGN	20121129	86.19	87.74	r_up	
-AMGN	20121130	87.74	87.93	r_up	
-AMGN	20121203	87.93	87.53	r_down	
-AMGN	20121204	87.53	87.47	r_down	
-AMGN	20121205	87.47	88.14	r_up	
-AMGN	20121206	88.14	87.67	r_down	
-AMGN	20121207	87.67	87.46	r_down	
-AMGN	20121210	87.46	88.86	r_up	415:3 $:4
-AMGN	20121211	88.86	89.07	r_up	
-AMGN	20121212	89.07	89.29	r_up	
-AMGN	20121213	89.29	88.28	r_down	2:1 $:1
-AMGN	20121214	88.28	88.33	r_up	2:1 up:1 $:1
-AMGN	20121217	88.33	88.62	r_up	
-AMGN	20121218	88.62	88.42	r_down	
-AMGN	20121219	88.42	87.62	r_down	's:1 $:1
-AMGN	20121220	87.62	87.54	r_down	's:1 $:1
-AMGN	20121221	87.54	86.31	r_down	
-AMGN	20121224	86.31	86.54	r_up	's:1
-AMGN	20121226	86.54	86.04	r_down	
-AMGN	20121227	86.04	85.31	r_down	
-AMGN	20121228	85.31	84.41	r_down	
-AMGN	20121231	84.41	85.36	r_up	
-AMGN	20130102	85.36	88.28	r_up	
-AMGN	20130103	88.28	87.72	r_down	
-AMGN	20130104	87.72	88.11	r_up	
-AMGN	20130107	88.11	87.66	r_down	
-AMGN	20130108	87.66	87.29	r_down	
-AMGN	20130109	87.29	87.8	r_up	
-AMGN	20130110	87.8	86.95	r_down	
-AMGN	20130111	86.95	86.11	r_down	
-AMGN	20130114	86.11	86.07	r_down	
-AMGN	20130115	86.07	84.25	r_down	
-AMGN	20130116	84.25	83.49	r_down	
-AMGN	20130117	83.49	83.12	r_down	
-AMGN	20130118	83.12	81.28	r_down	
-AMGN	20130122	81.28	82.47	r_up	22:1
-AMGN	20130123	82.47	82.26	r_down	earnings:1
-AMGN	20130124	82.26	81.81	r_down	swings:1 few:1 health:1 earnings:1 wild:1 stock:1
-AMGN	20130125	81.81	82.6	r_up	
-AMGN	20130128	82.6	84.75	r_up	
-AMGN	20130129	84.75	85.74	r_up	
-AMGN	20130130	85.74	84.54	r_down	
-AMGN	20130131	84.54	84.62	r_up	
-AMGN	20130201	84.62	85.46	r_up	mutual:1 buy:1 funds:1 correction:1 after:1 next:1 7:1
-AMGN	20130204	85.46	84.9	r_down	funds:1 mutual:1 crowd:1 7:1 should:1
-AMGN	20130205	84.9	85.68	r_up	
-AMGN	20130206	85.68	85.74	r_up	
-AMGN	20130207	85.74	84.39	r_down	2013:1
-AMGN	20130208	84.39	85.92	r_up	2013:1
-AMGN	20130211	85.92	84.55	r_down	
-AMGN	20130212	84.55	84.17	r_down	
-AMGN	20130213	84.17	84.57	r_up	
-AMGN	20130214	84.57	84.35	r_down	
-AMGN	20130215	84.35	83.24	r_down	
-AMGN	20130219	83.24	83.76	r_up	
-AMGN	20130220	83.76	84.28	r_up	
-AMGN	20130221	84.28	84.76	r_up	
-AMGN	20130222	84.76	86.44	r_up	
-AMGN	20130225	86.44	89.16	r_up	movers:1 12:1 surges:1 's:1
-AMGN	20130226	89.16	89.08	r_down	's:2 recall:1 drug:1 plunges:1 85:1 anemia:1
-AMGN	20130227	89.08	90.63	r_up	
-AMGN	20130228	90.63	91.15	r_up	
-AMGN	20130301	91.15	92.17	r_up	
-AMGN	20130304	92.17	92.32	r_up	
-AMGN	20130305	92.32	93.03	r_up	
-AMGN	20130306	93.03	92.86	r_down	
-AMGN	20130307	92.86	92.54	r_down	
-AMGN	20130308	92.54	92.59	r_up	
-AMGN	20130311	92.59	91.04	r_down	
-AMGN	20130312	91.04	91.35	r_up	
-AMGN	20130313	91.35	91.14	r_down	
-AMGN	20130314	91.14	91.77	r_up	
-AMGN	20130315	91.77	91.41	r_down	
-AMGN	20130318	91.41	89.99	r_down	
-AMGN	20130319	89.99	91.99	r_up	
-AMGN	20130320	91.99	93.64	r_up	
-AMGN	20130321	93.64	93.9	r_up	
-AMGN	20130322	93.9	96.14	r_up	
-AMGN	20130325	96.14	96.38	r_up	
-AMGN	20130326	96.38	98.23	r_up	
-AMGN	20130327	98.23	99.71	r_up	
-AMGN	20130328	99.71	102.06	r_up	
-AMGN	20130401	102.06	101.86	r_down	
-AMGN	20130402	101.86	105.93	r_up	
-AMGN	20130403	105.93	104.35	r_down	
-AMGN	20130404	104.35	105.41	r_up	
-AMGN	20130405	105.41	103.58	r_down	
-AMGN	20130408	103.58	104.64	r_up	
-AMGN	20130409	104.64	103.84	r_down	49:1
-AMGN	20130410	103.84	107.77	r_up	
-AMGN	20130411	107.77	107.74	r_down	
-AMGN	20130412	107.74	111.08	r_up	
-AMGN	20130415	111.08	108.0	r_down	
-AMGN	20130416	108.0	110.36	r_up	flurry:1 companies:1 mergers:1 ripe:1
-AMGN	20130417	110.36	108.96	r_down	
-AMGN	20130418	108.96	106.99	r_down	
-AMGN	20130419	106.99	110.89	r_up	
-AMGN	20130422	110.89	112.92	r_up	
-AMGN	20130423	112.92	112.26	r_down	news:1 dominate:1 watch:1 earnings:1
-AMGN	20130424	112.26	104.47	r_down	
-AMGN	20130425	104.47	108.18	r_up	movers:1 closes:1 lower:1 marginally:1
-AMGN	20130426	108.18	107.9	r_down	rally:1 execution:1 exuberance:1 latest:1
-AMGN	20130429	107.9	106.2	r_down	
-AMGN	20130430	106.2	103.75	r_down	$:1
-AMGN	20130501	103.75	104.08	r_up	
-AMGN	20130502	104.08	105.13	r_up	
-AMGN	20130503	105.13	106.01	r_up	
-AMGN	20130506	106.01	104.37	r_down	
-AMGN	20130507	104.37	104.0	r_down	
-AMGN	20130508	104.0	104.61	r_up	
-AMGN	20130509	104.61	104.1	r_down	
-AMGN	20130510	104.1	106.25	r_up	
-AMGN	20130513	106.25	106.42	r_up	
-AMGN	20130514	106.42	107.94	r_up	
-AMGN	20130515	107.94	107.42	r_down	
-AMGN	20130516	107.42	104.97	r_down	
-AMGN	20130517	104.97	105.63	r_up	
-AMGN	20130520	105.63	102.18	r_down	
-AMGN	20130521	102.18	104.24	r_up	
-AMGN	20130522	104.24	104.53	r_up	
-AMGN	20130523	104.53	105.62	r_up	
-AMGN	20130524	105.62	105.91	r_up	
-AMGN	20130528	105.91	106.2	r_up	
-AMGN	20130529	106.2	104.39	r_down	
-AMGN	20130530	104.39	105.22	r_up	
-AMGN	20130531	105.22	100.53	r_down	
-AMGN	20130603	100.53	99.13	r_down	ways:1 biotech:1 3:1 play:1 boom:1
-AMGN	20130604	99.13	97.29	r_down	
-AMGN	20130605	97.29	94.6	r_down	
-AMGN	20130606	94.6	97.49	r_up	
-AMGN	20130607	97.49	98.81	r_up	
-AMGN	20130610	98.81	98.31	r_down	
-AMGN	20130611	98.31	97.93	r_down	's:1
-AMGN	20130612	97.93	96.37	r_down	
-AMGN	20130613	96.37	98.51	r_up	dividend:1 hunters:1 play:1 stock:1
-AMGN	20130614	98.51	97.42	r_down	's:1
-AMGN	20130617	97.42	99.08	r_up	
-AMGN	20130618	99.08	101.5	r_up	
-AMGN	20130619	101.5	99.18	r_down	
-AMGN	20130620	99.18	96.28	r_down	
-AMGN	20130621	96.28	98.28	r_up	
+AMGN	20140501	110.6	111.6	r_up	
+AMGN	20140502	111.6	111.2	r_down	
+AMGN	20140505	111.2	112.0	r_up	do:1 help:1 puts:1 pay:1 mind:1 yield:1 n't:1 pad:1 can:1 you:1 stocks:1 trips:1 owning:1
+AMGN	20140506	112.0	111.1	r_down	
+AMGN	20140507	111.1	111.6	r_up	
+AMGN	20140508	111.6	109.6	r_down	sees:1 bullishness:1 investing:1 warns:1 newsletters:1 bearish:1 against:1
+AMGN	20140509	109.6	110.3	r_up	1.4:1 week:1 all:1 upper:1 almost:1 1.8:1 results:1 dose:2 including:1 higher:1 skin:1 2.7:1 makers:1 headaches:1 said:2 group:2 positive:1 least:1 improvement:1 adverse:1 3:1 potential:1 treatment:1 shows:1 psoriasis:1 primary:1 met:1 75:1 compared:1 effects:2 placebo:1 included:1 secondary:1 lower:1 12:1 study:1 infections:1 disease:1 drug:1 patients:2 endpoints:1 clear:2 plaque:1
+AMGN	20140512	110.3	110.5	r_up	comment:1 revenue:1 results:1 related:1 trade:2 disappointing:1 session:2 deadline:1 dropped:1 file:1 need:1 accounting:1 miss:1 its:1 recognition:1 said:1 $:1 projected:1 shares:2 delay:1 premarket:1 quarterly:1 's:3 may:1 company:2 period:1 expected:2 revising:1 report:1 doubtful:1 12:1 14:1 policy:1 warned:1 companies:2 trading:1 actively:2 light:1 accounts:1 latest:1
+AMGN	20140513	110.5	110.2	r_down	
+AMGN	20140514	110.2	111.5	r_up	
+AMGN	20140515	111.5	109.7	r_down	
+AMGN	20140516	109.7	111.4	r_up	ago:1 stocks:1 gains:1 racked:1 big:1 up:1 has:1 decades:1 bought:1
+AMGN	20140519	111.4	111.5	r_up	one-year:1 based:1 funds:1 results:1 blame:1 grants:1 not:1 hedge:1 stock:1
+AMGN	20140520	111.5	111.6	r_up	
+AMGN	20140521	111.6	112.9	r_up	
+AMGN	20140522	112.9	114.3	r_up	booming:1 biotech:1 pipeline:1 20:1 drugs:1 price:1 giant:1 premium:1 's:1 justify:1 than:1 more:1
+AMGN	20140523	114.3	113.7	r_down	
+AMGN	20140527	113.7	115.3	r_up	
+AMGN	20140528	115.3	115.1	r_down	
+AMGN	20140529	115.1	115.4	r_up	
+AMGN	20140530	115.4	115.4	r_up	
+AMGN	20140602	115.4	115.8	r_up	
+AMGN	20140603	115.8	116.5	r_up	top:1 picks:1 some:1 4:1 names:1
+AMGN	20140604	116.5	118.5	r_up	product:1 ripe:1 analyst:1 stiff:1 up:1 medicines:1 pipeline:1 competition:1 one:1 facing:1 legacy:1 split:1 lagging:1 portfolio:1 price:1 stock:1
+AMGN	20140605	118.5	117.1	r_down	
+AMGN	20140606	117.1	117.2	r_up	
+AMGN	20140609	117.2	115.8	r_down	
+AMGN	20140610	115.8	116.5	r_up	named:3 industrial:2 financial:7 outstanding:2 proven:2 2nd:1 past:2 serving:2 names:3 years:4 accounting:2 its:5 '':2 27:2 sheet:1 chief:7 same:3 track:2 role:2 take:3 new:3 has:5 worked:2 leader:2 today:1 firm:1 ``:4 recently:2 finance:2 very:2 company:3 three:2 conglomerate:2 controller:2 said:2 suited:2 post:3 strong:3 respected:2 pipeline:1 success:2 effective:1 --:2 record:2 departs:3 future:2 officer:7 team:2 release:2 balance:1 corporate:2 partnerships:1
+AMGN	20140611	116.5	115.7	r_down	
+AMGN	20140612	115.7	115.6	r_down	
+AMGN	20140613	115.6	115.4	r_down	
+AMGN	20140616	115.4	115.6	r_up	
+AMGN	20140617	115.6	115.6	r_up	
+AMGN	20140618	115.6	116.9	r_up	
+AMGN	20140619	116.9	117.2	r_up	
+AMGN	20140620	117.2	120.3	r_up	illnesses:1 raised:1 family:1 revenue:1 doctors:1 one:1 used:1 through:1 investors:1 trust:1 proceeds:1 kidney:1 after:1 stands:1 use:1 said:1 4.1:1 cancer:1 would:1 8.8:1 initial:1 had:1 two:1 shares:1 its:2 other:1 according:1 candidates:2 which:1 clinical:1 net:1 has:2 public:1 therapies:1 9.3:1 development:1 million:2 's:1 offering:1 never:1 pricey:1 much:1 regulators:1 filed:1 regulatory:2 group:1 now:1 concerns:1 expand:1 $:2 loss:1 include:1 developing:1 bills:1 disease:1 drug:4 called:1 out:1 2013:1 owns:1 businessman:1 2012:2 studies:1 filing:2 research:1
+AMGN	20140623	120.3	118.5	r_down	junk:1 work:1 's:1 bonds:1 alternatives:1 dividend-paying:1 some:1 ideas:1 viable:1 growth:1 dropped:1 have:1 desk:1 stocks:1 potential:1
+AMGN	20140624	118.5	118.2	r_down	high-court:1 provided:1 's:2 string:1 investors:1 bag:1 lawsuit:1 companies:1 v.:1 against:1 have:1 ruling:1 joins:1 mixed:1 cases:1 investor:1 recent:1
+AMGN	20140625	118.2	118.8	r_up	
+AMGN	20140626	118.8	118.5	r_down	
+AMGN	20140627	118.5	118.0	r_down	
+AMGN	20140630	118.0	117.8	r_down	
+AMGN	20140701	117.8	119.7	r_up	given:1 said:1 's:2 adults:1 designation:1 company:1 progressing:1 drug:1 rapidly:1 breakthrough:1 therapy:1 blood:1 new:1 has:1 bone:1 cancer:1
+AMGN	20140702	119.7	120.4	r_up	outlook:2 process:1 tidbits:1 we:2 one:1 session:1 rising:1 looks:1 our:1 touch:1 seen:1 its:1 before:1 decline:2 busy:1 service:1 cup:1 menu:1 expectations:1 shares:2 campus:1 increase:1 hot:1 interested:1 earnings:1 folks:1 you:1 hope:1 mascots:1 persevere:1 ...:1 eyes:1 extended:1 business:1 shall:1 beat:1 why:1 after:1 upon:1 here:2 stay:1 quarterly:1 heat:1 edges:1 weeds:1 not:1 join:1 wilting:1 day:1 those:1 cool:1 shine:1 your:2 odds:1 official:1 well:1 overshadowed:1 us:2 morning:1 're:1 can:1 stimulation:1
+AMGN	20140703	120.4	122.2	r_up	reveals:1 cancer:1 agreed:1 soon:1 trade:2 ended:1 session:2 been:1 option:1 said:1 end:1 merger:1 media:1 stake:2 shares:2 targeted:1 9.9:1 expected:2 has:1 collaboration:1 's:2 gains:2 may:1 jumps:1 after:2 jointly:1 not:1 therapy:1 report:1 develop:1 both:1 pursue:1 companies:3 actively:2 rallies:1
+AMGN	20140707	122.2	119.5	r_down	
+AMGN	20140708	119.5	119.3	r_down	
+AMGN	20140709	119.3	119.0	r_down	
+AMGN	20140710	119.0	118.3	r_down	
+AMGN	20140711	118.3	119.2	r_up	
+AMGN	20140714	119.2	118.4	r_down	pharmaceutical:1 said:1 's:1 like:1 deal:1 offer:1 company:1 share:1 prepared:1 good:1 itself:1 board:1 recommend:1 got:1 has:2 looks:1 latest:1
+AMGN	20140715	118.4	116.3	r_down	
+AMGN	20140716	116.3	117.1	r_up	
+AMGN	20140717	117.1	114.8	r_down	
+AMGN	20140718	114.8	117.7	r_up	said:1 showed:1 kidney:1 positive:1 study:1 disease:1 results:1 chronic:1 treatment:1 phase:1 its:1 experimental:1 secondary:1
+AMGN	20140721	117.7	118.4	r_up	
+AMGN	20140722	118.4	120.5	r_up	streak:1 past:1 keeping:1 over:1 30:1 alive:1 years:1 1:1 fund:1 9:1 stock:1
+AMGN	20140723	120.5	121.4	r_up	
+AMGN	20140724	121.4	121.6	r_up	billion:1 's:1 $:1 launch:1 continuing:1 had:1 sales:1 hepatitis:1 than:1 drug:1 historic:1 treatment:1 expected:1 new:1 its:1 second-quarter:1 more:1
+AMGN	20140725	121.6	122.2	r_up	
+AMGN	20140728	122.2	122.0	r_down	
+AMGN	20140729	122.0	122.7	r_up	bets:1 says:1 analyst:1 sign:1 bearish:1 against:1 one:1 market:1 pile:1 historically:1 which:1 growing:1 stocks:1 options:1 worrisome:1
+AMGN	20140730	122.7	129.3	r_up	all:1 global:1 results:2 trade:1 held:1 session:1 yes:1 its:6 25:1 fronts:1 busy:1 $:3 masses:1 expectations:1 second-quarter:2 premarket:1 might:1 resources:1 day’s:1 do:2 customers:1 get:1 beat:1 bid:1 rise:1 focus:1 matters:1 conquer:1 surprise:1 world:1 day:1 loss:1 like:1 facilities:1 drop:2 companies:1 pharma:1 doubled:1 stopped:1 cholesterol:1 quarter:1 everyone:2 aims:1 some:1 idea:1 actively:1 trading:2 pricing:1 our:1 special:1 out:1 said:2 profit:1 review:1 shares:2 forecast:1 're:1 tidbits:1 new:2 burned:1 announced:1 we:2 million:1 free:1 hours:1 reported:1 restructuring:2 lucrative:1 here:1 regulatory:1 strong:1 thank:1 shine:1 hasten:1 last:1 would:1 ahead:1 33:1 could:1 contract:1 keep:1 cheering:1 operating:1 efforts:1 first:1 among:1 revenue:1 feel:1 another:1 narrowed:1 guest:1 service:1 spending:1 night:1 two:1 their:1 much:1 way:1 expected:1 upbeat:1 more:2 buy:1 drugs:1 reduce:1 company:2 else:2 part:1 hear:1 signaling:1 survived:1 prescription:1 line:1 surged:1 than:1 12:1 15:1 anything:1 developing:1 hosting:1 us:1 appealing:1 growth:1 something:1 bearing:1 have:1 ...:1 uptick:1 wsj.com:1 expenses:1 states:1 middle:1 say:1 soars:1 drug:2 chat:2 close:1 plan:1 swung:1 saw:1 if:1 make:1 winners:1 declined:1 which:1 upside:1 you:4 several:1 soar:1 week:1 extended:1 's:2 plans:1 may:1 earnings:1 after:3 reach:1 workforce:1 most:1 fruit:1 user:1 cracking:1 messaging:1 soared:1 fiscal:1 short:1 well:1 so:1 time:1
+AMGN	20140731	129.3	126.7	r_down	little:1 after:1 offered:1 changed:1 ended:1 fell:1 mixed:1 economy:1 500:1 view:1
+AMGN	20140801	126.7	124.9	r_down	
+AMGN	20140804	124.9	128.0	r_up	help:1 just:1 agreed:1 results:1 years:1 course:1 session:2 looks:1 touch:1 yes:1 still:1 its:4 weekly:1 $:1 cup:1 treatment:1 premarket:1 under:1 has:1 meetings:1 hope:1 ...:1 means:1 showing:1 wholesaler:1 during:1 trade:2 multiple:1 day:3 always:1 drop:1 list:1 morning:1 consensus:1 interim:1 4-session:1 everyone:1 companies:2 estimates:1 second:2 actively:2 trading:2 our:1 investment:1 declined:1 living:1 said:2 patients:2 shares:2 3:1 tidbits:1 shows:1 we:1 here:1 met:1 respite:1 losing:1 rises:1 contract:1 keep:1 trial:2 late-stage:1 fourth-quarter:1 cancer:1 revenue:1 primary:1 private:1 because:1 deadlines:1 another:2 working:1 weekend:1 there:1 two:1 long:1 stimulation:1 treat:1 way:1 expected:2 waste:1 500:1 firm:1 cope:1 started:1 some:1 offered:1 taken:1 downing:1 endpoint:1 gotten:1 see:1 while:1 're:1 expiration:1 following:1 treated:1 streak:1 flavor:1 1.2:1 myeloma:1 drug:2 have:1 rally:2 moves:1 again:1 productive:1 no:1 get:1 topped:1 hampered:1 successful:1 earnings:1 you:3 worsening:1 survival:1 nice:1 week:1 snaps:1 's:3 after:1 falls:1 fell:1 tackle:1 stocks:2 meaningful:1 fiscal:1 lower:1 longer:1 disease:1 analysis:1 reports:1 without:1 green:1 time:1
+AMGN	20140805	128.0	127.2	r_down	
+AMGN	20140806	127.2	126.4	r_down	
+AMGN	20140807	126.4	125.1	r_down	
+AMGN	20140808	125.1	126.3	r_up	
+AMGN	20140811	126.3	126.7	r_up	
+AMGN	20140812	126.7	126.3	r_down	
+AMGN	20140813	126.3	127.3	r_up	flat:1 extended:1 but:1 network:1 beat:1 company:1 after:2 turned:1 expectations:1 shares:1 hours:1 equipment:1 trading:1 wake:1 earnings:2 volatile:2 still:1
+AMGN	20140814	127.3	131.8	r_up	sector:1 cancer:1 results:1 trade:1 actively:1 looks:2 year:1 multiple:1 its:2 market:1 different:1 said:1 $:2 failed:1 shares:1 labor:1 their:1 clinical:1 earnings:1 pretty:2 quarterly:1 economy:1 good:1 's:3 overall:1 survival:1 tops:2 story:1 primary:1 slides:1 expected:1 endpoint:1 wake:1 meet:1 improving:1 subsidiary:1 drops:1 companies:1 myeloma:1 drug:1 trial:1 patients:1 session:1 200,000:2 retail:1 late-stage:1
+AMGN	20140815	131.8	132.8	r_up	
+AMGN	20140818	132.8	133.2	r_up	
+AMGN	20140819	133.2	133.0	r_down	has:2 less-charted:2 technical:1 breaks:1 resistance:1 reaches:1 while:1 significant:1 reached:1 territory:2 14-year:1 highs:1 500:1 out:1
+AMGN	20140820	133.0	132.6	r_down	
+AMGN	20140821	132.6	132.5	r_down	case:1 we:1 's:2 turns:1 twists:1 against:1 're:2 curious:1 reading:1 lawsuit:1 more:1
+AMGN	20140822	132.5	132.8	r_up	
+AMGN	20140825	132.8	134.7	r_up	hard-drive:1 said:1 's:2 finance:1 vice:1 over:1 chief:1 take:1 8:1 president:1 financial:1 maker:1 officer:1
+AMGN	20140826	134.7	137.2	r_up	partnership:1 bring:1 another:1 its:1 market:1 before:1 pharmaceutical:1 said:1 would:1 immunotherapy:1 lung-cancer:1 looking:1 potential:1 treatment:2 new:1 type:1 collaborate:1 led:1 they:1 capitalize:1 racing:1 study:1 companies:1 disease:1 fighting:1 competitors:1 evaluating:1 onto:1 latest:1
+AMGN	20140827	137.2	137.8	r_up	biotech:1 prospective:1 spring:1 have:1 its:1 booming:1 again:1 said:1 granted:1 selloff:1 priority:1 application:1 treatment:1 new:1 heart-failure:1 's:1 company:1 regulators:1 stocks:1 designation:1 drug:1 review:1
+AMGN	20140828	137.8	138.6	r_up	
+AMGN	20140829	138.6	139.3	r_up	downsizing:1 all:1 right:1 coming:1 share:1 them:1 rising:1 home:1 find:1 'll:2 goings:1 there:1 your:1 anyone:1 going:1 new:1 layoffs:1 's:1 movement:1 wants:1 we:2 someone:1 star:1 comings:1 some:1 spot:1 know:1 others:1 news:1 exciting:1 especially:1 shy:1 and…:1 us:2 n't:1 solved:1 ongoing:1 changes:1 latest:1
+AMGN	20140902	139.3	137.9	r_down	pursue:1 guidelines:1 pricing:1 huge:1 depend:1 convinced:1 potential:1 adoption:1 treatment:1 factor:1 new:2 physicians:1 option:1 treatments:1 although:1 doctors:1 data:1 both:1 lower:1 whether:1 suggests:1 patients:1 survey:1 can:1 cholesterol:1 injectable:2 outcome:1
+AMGN	20140903	137.9	138.5	r_up	
+AMGN	20140904	138.5	138.0	r_down	
+AMGN	20140905	138.0	137.8	r_down	
+AMGN	20140908	137.8	139.2	r_up	
+AMGN	20140909	139.2	137.3	r_down	
+AMGN	20140910	137.3	139.1	r_up	
+AMGN	20140911	139.1	138.9	r_down	
+AMGN	20140912	138.9	137.8	r_down	
+AMGN	20140915	137.8	137.9	r_up	
+AMGN	20140916	137.9	139.3	r_up	
+AMGN	20140917	139.3	140.7	r_up	
+AMGN	20140918	140.7	142.0	r_up	
+AMGN	20140919	142.0	144.0	r_up	
+AMGN	20140922	144.0	142.1	r_down	
+AMGN	20140923	142.1	140.6	r_down	decidedly:1 all:2 everyone:1 sees:1 feel:1 over:1 some:1 soon:1 accept:1 years:1 autumn:1 done:1 daily:1 have:1 go:1 our:1 category:1 now:1 any:1 defines:1 blue:1 1:1 documents:1 likes:1 $:1 cup:1 sun:1 there:1 sparkling:1 event:1 stimulation:1 hitting:1 hot:1 piping:1 interest:1 8:1 you:2 if:1 's:3 across:1 skies:1 ...:1 we:1 run:1 get:1 means:1 smashing:1 why:1 here:1 much:1 15:1 cracking:1 don:1 line:1 items:1 day:1 he:2 your:1 120:1 intriguing:1 crisp:1 always:1 clear:1 drop:1 us:2 morning:1 're:1 today:1 time:1 simply:1 something:1
+AMGN	20140924	140.6	142.2	r_up	
+AMGN	20140925	142.2	139.8	r_down	
+AMGN	20140926	139.8	141.0	r_up	
+AMGN	20140929	141.0	140.0	r_down	
+AMGN	20140930	140.0	140.4	r_up	
+AMGN	20141001	140.4	138.8	r_down	
+AMGN	20141002	138.8	137.2	r_down	
+AMGN	20141003	137.2	139.1	r_up	
+AMGN	20141006	139.1	137.6	r_down	
+AMGN	20141007	137.6	136.0	r_down	
+AMGN	20141008	136.0	140.0	r_up	
+AMGN	20141009	140.0	137.5	r_down	everyone:1 departed:1 clip:1 people:1 feel:1 house:1 whatever:1 thanks:1 learning:1 our:2 flavor:1 campus:1 documents:1 cup:1 interesting:1 show:1 sky:1 find:1 stimulation:1 another:1 other:1 grand:1 tidbits:1 you:2 has:1 local:1 today:2 mascots:1 sort:1 ...:1 we:1 track:1 sunny:1 free:1 moving:1 accept:1 snooze:1 now:1 day:2 those:1 remember:1 school:1 short:1 join:1 faster:1 secrets:1 official:1 us:1 morning:1 thing:1 below:1 can:1 have:1 found:1 settled:1 stimulating:1
+AMGN	20141010	137.5	137.3	r_down	

@@ -1,307 +1,114 @@
-MCD	20120402	94.21	94.46	r_up	's:2
-MCD	20120403	94.46	95.46	r_up	
-MCD	20120404	95.46	93.62	r_down	's:1
-MCD	20120405	93.62	94.71	r_up	's:1
-MCD	20120409	94.71	94.96	r_up	soldiers:1 letter:1
-MCD	20120410	94.96	93.8	r_down	
-MCD	20120411	93.8	94.66	r_up	
-MCD	20120412	94.66	93.77	r_down	
-MCD	20120413	93.77	93.13	r_down	's:1
-MCD	20120416	93.13	92.75	r_down	's:1
-MCD	20120417	92.75	93.26	r_up	's:1
-MCD	20120418	93.26	93.48	r_up	n't:1 45:1
-MCD	20120419	93.48	91.51	r_down	seen:1 quarter:1 good:1 's:1
-MCD	20120420	91.51	92.14	r_up	wants:1 all:1 's:3 watch:2 focus:1 you:2
-MCD	20120423	92.14	91.42	r_down	
-MCD	20120424	91.42	90.84	r_down	
-MCD	20120425	90.84	91.45	r_up	
-MCD	20120426	91.45	92.03	r_up	's:2
-MCD	20120427	92.03	93.52	r_up	
-MCD	20120430	93.52	93.59	r_up	
-MCD	20120501	93.59	93.35	r_down	summer:1 12:1 hang:1 stocks:1
-MCD	20120502	93.35	93.65	r_up	
-MCD	20120503	93.65	93.2	r_down	
-MCD	20120504	93.2	92.07	r_down	$:1 96:1
-MCD	20120507	92.07	91.73	r_down	
-MCD	20120508	91.73	89.84	r_down	pare:1 end:1 losses:1 watch:1 lower:1 but:1 's:1 worry:1
-MCD	20120509	89.84	88.29	r_down	surprises:1 advisories:1
-MCD	20120510	88.29	88.23	r_down	
-MCD	20120511	88.23	88.26	r_up	
-MCD	20120514	88.26	87.28	r_down	
-MCD	20120515	87.28	87.41	r_up	's:1
-MCD	20120516	87.41	87.81	r_up	
-MCD	20120517	87.81	86.07	r_down	
-MCD	20120518	86.07	86.29	r_up	
-MCD	20120521	86.29	87.65	r_up	
-MCD	20120522	87.65	87.72	r_up	bond:1 bargains:1 hiding:1 stock:1
-MCD	20120523	87.72	87.86	r_up	
-MCD	20120524	87.86	87.9	r_up	
-MCD	20120525	87.9	87.44	r_down	
-MCD	20120529	87.44	87.3	r_down	
-MCD	20120530	87.3	86.54	r_down	
-MCD	20120531	86.54	86.47	r_down	
-MCD	20120601	86.47	83.93	r_down	's:1
-MCD	20120604	83.93	83.55	r_down	near:1 term:1
-MCD	20120605	83.55	84.29	r_up	
-MCD	20120606	84.29	85.81	r_up	
-MCD	20120607	85.81	85.54	r_down	
-MCD	20120608	85.54	84.93	r_down	global:1 's:5 may:1 surprises:1 futures:1 watch:1 slowdown:1 finally:1 advisories:1 slip:1 feeling:1 concerns:1 stock:1
-MCD	20120611	84.93	83.81	r_down	's:1
-MCD	20120612	83.81	84.7	r_up	
-MCD	20120613	84.7	85.15	r_up	's:7
-MCD	20120614	85.15	86.84	r_up	
-MCD	20120615	86.84	87.6	r_up	
-MCD	20120618	87.6	87.34	r_down	
-MCD	20120619	87.34	86.72	r_down	n't:1
-MCD	20120620	86.72	85.81	r_down	food:1 challenge:1 's:1 containment:1
-MCD	20120621	85.81	84.83	r_down	
-MCD	20120622	84.83	85.51	r_up	paying:1 stocks:1 worth:1
-MCD	20120625	85.51	85.29	r_down	
-MCD	20120626	85.29	86.24	r_up	
-MCD	20120627	86.24	85.5	r_down	
-MCD	20120628	85.5	85.35	r_down	
-MCD	20120629	85.35	85.69	r_up	's:1
-MCD	20120702	85.69	85.25	r_down	
-MCD	20120703	85.25	85.74	r_up	
-MCD	20120705	85.74	86.43	r_up	
-MCD	20120706	86.43	86.78	r_up	
-MCD	20120709	86.78	86.92	r_up	
-MCD	20120710	86.92	87.35	r_up	
-MCD	20120711	87.35	86.66	r_down	2nd:1
-MCD	20120712	86.66	88.98	r_up	lines:1 hurting:1 2nd:1 dollar:1 bottom:1
-MCD	20120713	88.98	89.33	r_up	's:1 ideas:1 money:1 top:1 fared:1 2012’s:1 far:1 so:1 have:1
-MCD	20120716	89.33	88.71	r_down	's:1
-MCD	20120717	88.71	88.94	r_up	
-MCD	20120718	88.94	89.26	r_up	's:1
-MCD	20120719	89.26	89.78	r_up	
-MCD	20120720	89.78	88.64	r_down	again:1 's:2 23:1 watch:1 apt:1 growth:1 more:1
-MCD	20120723	88.64	86.09	r_down	gaining:1 4.5:6 futures:1 's:17 $:1 no:1 may:1 fears:1 recession-proof:1 tumble:1 2nd:4 watch:1 longer:1 stock:1 biggest:1 return:1 stocks:1 declining:1 2012:1
-MCD	20120724	86.09	85.23	r_down	hours:1 drop:1 sinks:1 again:1 surprises:1 after:1 shares:1 down:1 advisories:1 mounts:1 fear:1 stocks:1
-MCD	20120725	85.23	85.21	r_down	
-MCD	20120726	85.21	86.14	r_up	
-MCD	20120727	86.14	86.33	r_up	could:1 only:1 love:1 13000:1 sponsors:1
-MCD	20120730	86.33	86.46	r_up	
-MCD	20120731	86.46	86.49	r_up	13000:1
-MCD	20120801	86.49	86.56	r_up	back-to-school:1 winners:1 's:1
-MCD	20120802	86.56	86.71	r_up	's:1
-MCD	20120803	86.71	86.71	r_up	
-MCD	20120806	86.71	86.81	r_up	's:1
-MCD	20120807	86.81	86.15	r_down	
-MCD	20120808	86.15	84.72	r_down	surprises:1 2000:1 advisories:1 's:7
-MCD	20120809	84.72	84.35	r_down	's:2 may:1 manage:1 gain:1 stocks:1 fading:1
-MCD	20120810	84.35	85.37	r_up	still:1 dividend-paying:1 best:1 stocks:1
-MCD	20120813	85.37	85.08	r_down	
-MCD	20120814	85.08	85.29	r_up	
-MCD	20120815	85.29	84.99	r_down	
-MCD	20120816	84.99	84.65	r_down	
-MCD	20120817	84.65	84.56	r_down	
-MCD	20120820	84.56	85.34	r_up	
-MCD	20120821	85.34	85.68	r_up	
-MCD	20120822	85.68	85.71	r_up	's:1
-MCD	20120823	85.71	85.42	r_down	
-MCD	20120824	85.42	86.07	r_up	
-MCD	20120827	86.07	86.67	r_up	profit:1 spirit:1
-MCD	20120828	86.67	86.28	r_down	's:1
-MCD	20120829	86.28	86.77	r_up	
-MCD	20120830	86.77	86.53	r_down	
-MCD	20120831	86.53	87.3	r_up	en:1
-MCD	20120904	87.3	86.87	r_down	
-MCD	20120905	86.87	86.88	r_up	
-MCD	20120906	86.88	88.45	r_up	's:1
-MCD	20120907	88.45	88.79	r_up	
-MCD	20120910	88.79	89.07	r_up	
-MCD	20120911	89.07	88.97	r_down	court:2 up:1 futures:1 watch:1 focus:1 awaited:1 gap:1 3.7:3 edge:1 ruling:2 's:5
-MCD	20120912	88.97	88.6	r_down	's:5
-MCD	20120913	88.6	89.33	r_up	burger:1 menu:1 's:1 highest-calorie:1 item:1
-MCD	20120914	89.33	89.46	r_up	2011:3
-MCD	20120917	89.46	89.88	r_up	
-MCD	20120918	89.88	90.8	r_up	
-MCD	20120919	90.8	90.56	r_down	2.8:2 platform:1 into:1 futures:1 steps:1
-MCD	20120920	90.56	90.87	r_up	10:1 's:1
-MCD	20120921	90.87	91.42	r_up	10:1 lifted:1 oil:1 's:1 dividends:1 futures:1 watch:1 5:1 stocks:1 fatten:1 500:1 stock:1
-MCD	20120924	91.42	91.42	r_up	
-MCD	20120925	91.42	90.59	r_down	
-MCD	20120926	90.59	90.92	r_up	
-MCD	20120927	90.92	90.99	r_up	
-MCD	20120928	90.99	89.5	r_down	's:2 raise:1 cars:1 too:1 questions:1 many:1
-MCD	20121001	89.5	89.74	r_up	's:2 give:1 funds:1 lift:1 international:1 stock:1
-MCD	20121002	89.74	88.7	r_down	
-MCD	20121003	88.7	88.14	r_down	2003:1 's:1
-MCD	20121004	88.14	88.8	r_up	
-MCD	20121005	88.8	88.77	r_down	
-MCD	20121008	88.77	89.3	r_up	's:1
-MCD	20121009	89.3	89.86	r_up	's:1
-MCD	20121010	89.86	90.14	r_up	's:1 bench:1
-MCD	20121011	90.14	90.1	r_down	
-MCD	20121012	90.1	90.25	r_up	47:1 's:2
-MCD	20121015	90.25	91.21	r_up	
-MCD	20121016	91.21	91.79	r_up	
-MCD	20121017	91.79	91.39	r_down	
-MCD	20121018	91.39	90.59	r_down	
-MCD	20121019	90.59	86.55	r_down	loss:1 futures:1 's:7 ahead:1 surprises:1 into:1 rise:1 watch:1 advisories:1 cutting:1 3.5:2 earnings:1 weigh:1 stock:1 data:1 weekly:1
-MCD	20121022	86.55	86.29	r_down	
-MCD	20121023	86.29	85.81	r_down	
-MCD	20121024	85.81	85.14	r_down	stocks:1 sharply:1 its:1 retreat:1 earnings:1
-MCD	20121025	85.14	85.19	r_up	
-MCD	20121026	85.19	84.59	r_down	's:1
-MCD	20121031	84.59	84.68	r_up	
-MCD	20121101	84.68	84.68	r_up	
-MCD	20121102	84.68	84.73	r_up	's:2
-MCD	20121105	84.73	85.32	r_up	
-MCD	20121106	85.32	85.82	r_up	
-MCD	20121107	85.82	84.73	r_down	
-MCD	20121108	84.73	83.05	r_down	's:3 movers:1 1.8:2 low:1 5-month:1 biggest:1
-MCD	20121109	83.05	82.67	r_down	's:1
-MCD	20121112	82.67	82.8	r_up	's:2
-MCD	20121113	82.8	82.57	r_down	
-MCD	20121114	82.57	82.55	r_down	
-MCD	20121115	82.55	81.99	r_down	's:5
-MCD	20121116	81.99	82.06	r_up	
-MCD	20121119	82.06	82.96	r_up	
-MCD	20121120	82.96	83.58	r_up	
-MCD	20121121	83.58	83.9	r_up	fiscal:1 games:1 nears:1 seen:1 dividend:1 cliff:1
-MCD	20121123	83.9	84.92	r_up	most:1 workers:1 12:1 companies:1 minimum-wage:1
-MCD	20121126	84.92	84.13	r_down	's:1
-MCD	20121127	84.13	83.82	r_down	
-MCD	20121128	83.82	84.4	r_up	
-MCD	20121129	84.4	85.13	r_up	action:1 workers:1 job:1 fast-food:1
-MCD	20121130	85.13	85.67	r_up	
-MCD	20121203	85.67	85.69	r_up	's:1
-MCD	20121204	85.69	85.83	r_up	
-MCD	20121205	85.83	85.6	r_down	
-MCD	20121206	85.6	86.71	r_up	2:1
-MCD	20121207	86.71	87.09	r_up	's:2
-MCD	20121210	87.09	88.01	r_up	's:5
-MCD	20121211	88.01	88.21	r_up	hopes:1 talks:1 rise:1 stocks:1 fiscal-cliff:1
-MCD	20121212	88.21	87.91	r_down	come:1 do:1 2:1 's:1 $:1
-MCD	20121213	87.91	87.77	r_down	175:1 's:1 $:1
-MCD	20121214	87.77	87.48	r_down	unloved:1 watch:1 3:1 dividend:1 stocks:1 2013:1
-MCD	20121217	87.48	88.5	r_up	
-MCD	20121218	88.5	89.1	r_up	10:1
-MCD	20121219	89.1	88.3	r_down	's:1
-MCD	20121220	88.3	88.63	r_up	
-MCD	20121221	88.63	88.76	r_up	10:1 money-making:1 's:1 ideas:1 investment:1 2013:1
-MCD	20121224	88.76	87.89	r_down	
-MCD	20121226	87.89	87.35	r_down	's:1
-MCD	20121227	87.35	87.33	r_down	
-MCD	20121228	87.33	86.2	r_down	
-MCD	20121231	86.2	86.82	r_up	
-MCD	20130102	86.82	88.7	r_up	
-MCD	20130103	88.7	89.21	r_up	
-MCD	20130104	89.21	88.44	r_down	
-MCD	20130107	88.44	89.48	r_up	
-MCD	20130108	89.48	89.51	r_up	after:1 sales:1 shares:1 hours:1 warning:1 fall:1
-MCD	20130109	89.51	89.38	r_down	's:1
-MCD	20130110	89.38	89.96	r_up	
-MCD	20130111	89.96	90.29	r_up	
-MCD	20130114	90.29	90.09	r_down	
-MCD	20130115	90.09	90.07	r_down	
-MCD	20130116	90.07	89.67	r_down	's:1
-MCD	20130117	89.67	90.32	r_up	
-MCD	20130118	90.32	90.81	r_up	's:1
-MCD	20130122	90.81	91.49	r_up	
-MCD	20130123	91.49	92.01	r_up	n't:1 's:1 pin:1 futures:1 down:1 earnings:2 vote:1 stock:1
-MCD	20130124	92.01	91.84	r_down	13:1 's:1
-MCD	20130125	91.84	92.25	r_up	's:1 earnings:1 expectations:1
-MCD	20130128	92.25	92.88	r_up	
-MCD	20130129	92.88	93.43	r_up	's:1
-MCD	20130130	93.43	93.18	r_down	
-MCD	20130131	93.18	93.79	r_up	
-MCD	20130201	93.79	94.44	r_up	
-MCD	20130204	94.44	93.11	r_down	
-MCD	20130205	93.11	93.42	r_up	dividend-paying:1 stocks:1 pick:1
-MCD	20130206	93.42	93.58	r_up	
-MCD	20130207	93.58	93.14	r_down	
-MCD	20130208	93.14	93.38	r_up	after:1 's:1 futures:1 up:1 trade:1 edge:1 14,000:4 data:1
-MCD	20130211	93.38	93.67	r_up	
-MCD	20130212	93.67	93.61	r_down	
-MCD	20130213	93.61	92.52	r_down	finish:1 produces:1 muted:1 winners:1 speech:1 stock:1 stalls:1 losers:1 stocks:1 higher:1
-MCD	20130214	92.52	92.09	r_down	's:1
-MCD	20130215	92.09	92.42	r_up	
-MCD	20130219	92.42	92.38	r_down	
-MCD	20130220	92.38	92.43	r_up	
-MCD	20130221	92.43	92.66	r_up	
-MCD	20130222	92.66	93.75	r_up	
-MCD	20130225	93.75	94.63	r_up	
-MCD	20130226	94.63	94.71	r_up	trend:1 shift:1 spike:1 volatility:1
-MCD	20130227	94.71	94.99	r_up	
-MCD	20130228	94.99	95.15	r_up	
-MCD	20130301	95.15	94.94	r_down	
-MCD	20130304	94.94	94.33	r_down	's:2
-MCD	20130305	94.33	95.07	r_up	high:1 new:1 ceiling:1 point:1
-MCD	20130306	95.07	96.06	r_up	
-MCD	20130307	96.06	96.34	r_up	
-MCD	20130308	96.34	97.94	r_up	's:1
-MCD	20130311	97.94	98.12	r_up	
-MCD	20130312	98.12	97.99	r_down	's:1
-MCD	20130313	97.99	98.61	r_up	
-MCD	20130314	98.61	98.54	r_down	food:1 're:1 police:1 outruns:1
-MCD	20130315	98.54	98.9	r_up	's:1
-MCD	20130318	98.9	97.8	r_down	
-MCD	20130319	97.8	97.64	r_down	
-MCD	20130320	97.64	98.0	r_up	
-MCD	20130321	98.0	97.76	r_down	
-MCD	20130322	97.76	98.5	r_up	
-MCD	20130325	98.5	97.48	r_down	's:1
-MCD	20130326	97.48	97.73	r_up	's:1
-MCD	20130327	97.73	98.13	r_up	
-MCD	20130328	98.13	98.92	r_up	's:2
-MCD	20130401	98.92	98.28	r_down	
-MCD	20130402	98.28	99.48	r_up	n't:1
-MCD	20130403	99.48	98.48	r_down	
-MCD	20130404	98.48	99.85	r_up	
-MCD	20130405	99.85	100.63	r_up	
-MCD	20130408	100.63	100.71	r_up	
-MCD	20130409	100.71	100.27	r_down	
-MCD	20130410	100.27	100.7	r_up	failed:1 magic:1
-MCD	20130411	100.7	101.2	r_up	's:1
-MCD	20130412	101.2	102.78	r_up	
-MCD	20130415	102.78	101.36	r_down	's:1
-MCD	20130416	101.36	102.24	r_up	's:1
-MCD	20130417	102.24	101.74	r_down	
-MCD	20130418	101.74	101.12	r_down	
-MCD	20130419	101.12	99.14	r_down	weighs:1 futures:1 's:4 a.m:1 rise:2 watch:1 n't:1 cue:1 lifts:1 take:1 equities:1 global:1 stocks:1
-MCD	20130422	99.14	98.55	r_down	
-MCD	20130423	98.55	98.98	r_up	
-MCD	20130424	98.98	100.23	r_up	
-MCD	20130425	100.23	100.16	r_down	
-MCD	20130426	100.16	100.11	r_down	
-MCD	20130429	100.11	101.39	r_up	
-MCD	20130430	101.39	101.35	r_down	
-MCD	20130501	101.35	100.59	r_down	fast-food:1 away:1 returns:1 stocks:1 sin:1 investors’:1
-MCD	20130502	100.59	101.27	r_up	
-MCD	20130503	101.27	102.12	r_up	
-MCD	20130506	102.12	101.28	r_down	
-MCD	20130507	101.28	101.49	r_up	
-MCD	20130508	101.49	100.17	r_down	into:1 but:1 15000:1
-MCD	20130509	100.17	98.92	r_down	's:2
-MCD	20130510	98.92	99.42	r_up	
-MCD	20130513	99.42	99.6	r_up	's:1
-MCD	20130514	99.6	100.41	r_up	's:1
-MCD	20130515	100.41	101.16	r_up	
-MCD	20130516	101.16	100.33	r_down	
-MCD	20130517	100.33	100.75	r_up	
-MCD	20130520	100.75	100.75	r_up	
-MCD	20130521	100.75	101.35	r_up	's:1 50:1
-MCD	20130522	101.35	100.95	r_down	
-MCD	20130523	100.95	100.24	r_down	popular:1 brands:1 's:1
-MCD	20130524	100.24	99.51	r_down	's:1
-MCD	20130528	99.51	100.45	r_up	
-MCD	20130529	100.45	98.28	r_down	
-MCD	20130530	98.28	97.07	r_down	'll:1
-MCD	20130531	97.07	96.57	r_down	
-MCD	20130603	96.57	97.96	r_up	
-MCD	20130604	97.96	98.37	r_up	
-MCD	20130605	98.37	96.42	r_down	
-MCD	20130606	96.42	96.68	r_up	
-MCD	20130607	96.68	98.28	r_up	
-MCD	20130610	98.28	99.53	r_up	's:3 2.6:1
-MCD	20130611	99.53	98.23	r_down	loss:1 stocks:1 end:1 gain:1 's:2
-MCD	20130612	98.23	98.24	r_up	
-MCD	20130613	98.24	98.88	r_up	
-MCD	20130614	98.88	98.42	r_down	
-MCD	20130617	98.42	98.74	r_up	spending:1 could:1 slowdown:1 kill:1 rally:1 2013:1
-MCD	20130618	98.74	99.75	r_up	summer:1 money:1 long:1 hot:1 put:1 your:1
-MCD	20130619	99.75	98.81	r_down	
-MCD	20130620	98.81	96.79	r_down	
-MCD	20130621	96.79	97.23	r_up	
+MCD	20140501	99.7	99.3	r_down	
+MCD	20140502	99.3	99.7	r_up	
+MCD	20140505	99.7	99.4	r_down	
+MCD	20140506	99.4	99.2	r_down	six:1 distributors:1 people:1 currency:1 go:2 beyond:2 relationships:1 swings:1 hedging:2 since:1 least:1 their:3 attack:1 new:2 forcing:2 structures:1 knife:1 injured:1 them:2 currencies:1 finance:2 normal:2 chiefs:2 train:1 prices:1 third:1 suppliers:1 traditional:2 were:1 strategies:2 corporate:1
+MCD	20140507	99.2	100.2	r_up	organizers:1 ``:1 's:2 groups:1 food:1 gotten:1 continue:1 fast:1 '':1 activist:1 planned:1 another:1 activity:1 push:1 15:1 wages:1 has:1 boost:1 day:1 wind:1
+MCD	20140508	100.2	100.2	r_up	all:1 stores:1 help:1 results:1 trade:2 illustrated:1 session:2 networks:1 21st:3 cut:1 $:3 rose:1 same-store:2 bike:1 premarket:1 has:2 veterans:1 familiar:1 runs:1 cable:1 companies:3 joined:1 convenience:1 quarter:1 unexpected:1 old:1 people:1 crop:1 actively:2 2.3:1 's:9 2.7:1 said:2 network:1 profit:2 shares:2 its:3 between:1 boost:1 public:1 business:1 million:1 expansion:1 discount:1 leadership:1 operating:1 first-quarter:1 cornerstone:1 mainland:1 ahead:1 reported:1 33:1 annual:1 advertising:1 outlook:1 revenue:1 retailer:1 market:1 decline:1 investors:1 initial:1 relations:1 strategy:1 expected:2 tourists:1 flat:1 offering:1 company:1 broadcast:1 225:2 former:1 posted:1 solid:1 ride:1 up:1 n't:1 matter:1 growth:1 can:1 guide:1 hoping:1 1.2:1 give:1 sales:4 secured:1 which:1 stock:1 edged:1 driven:1 offsetting:1 eight:1 president:1 fiscal:1 stronger:1
+MCD	20140509	100.2	101.2	r_up	criticism:1 emerge:1 liked:1 sometimes:1 often:1 people:1 being:1 jacket:1 am:1 direction:1 competition:1 quarters:1 '':2 n't:3 attitude:1 accused:1 battle:2 breakfast:2 its:1 perfect:1 whose:1 uncertainty:1 menu:1 seems:1 makeover:1 rumbles:1 advisories:1 earnings:1 way:2 ruling:1 expected:1 new:1 he:1 urban:1 pants:1 hip:1 do:1 ``:2 sidestep:1 's:3 traditional:1 big:1 cargo:1 even:1 some:1 welcome:1 like:2 wake:1 saying:1 others:1 not:1 future:1 business:1 him:1 change:1 recent:1 roundup:1 hair:1 offering:1 has:1 decided:1 look:1 did:3 corporate:1 past:1 cry:1 companies:1 elections:1 reports:1 morning:1 leave:1 burgers:1 economic:1 week:1 red:1 dispensing:1 surprises:1 rattling:1 approve:1 example:1 latest:1
+MCD	20140512	101.2	101.1	r_down	
+MCD	20140513	101.1	101.8	r_up	
+MCD	20140514	101.8	101.3	r_down	
+MCD	20140515	101.3	100.8	r_down	
+MCD	20140516	100.8	101.4	r_up	even:1 snaps:1 van:1 restaurant:1 beat:1 writes:1 back:1 surpassing:1 operator:1 world’s:1 year:1 biggest:1 tear:1
+MCD	20140519	101.4	100.4	r_down	do:1 we:1 retirement:2 money:1 30:1 never:1 mind:1 given:1 tip:1 yourself:1 early:1 start:1 were:1 planning:1 experts:1 too:1 wish:1 strategies:1 you:2 asked:1
+MCD	20140520	100.4	99.8	r_down	chain:1 over:1 global:1 packaging:1 its:2 he:1 upcoming:1 fast:2 fight:1 new:2 fry:2 mascot:1 ever:1 red:1 more:1 championship:1 's:6 colorful:1 food:2 marketing:1 iconic:1 redesign:1 celebrate:1 look:1 box:1 soccer:1 name:1 taking:1 children:1 first:1
+MCD	20140521	99.8	100.8	r_up	books:1 wages:1 feared:1 even:1 officials:1 raise:1 profit:1 guidance:1 administration:1 their:1 much:1 earnings:1 minimum-wage:1 forward:1 do:1 good:1 's:1 offer:1 season:1 nearly:1 news:1 celebrate:1 companies:1 n't:2 bad:2 growth:1 push:1 voluntarily:1 workers:1
+MCD	20140522	100.8	100.7	r_down	all:1 chain:1 meetings:1 defended:1 burger:1 unveiled:1 children:1 renewed:1 apex:1 their:1 5:1 season:1 new:1 firms:1 today:1 week:1 's:3 marketing:1 company:1 involving:1 nearly:1 hold:1 mascot:1 annual:1 practices:1 were:1
+MCD	20140523	100.7	100.3	r_down	
+MCD	20140527	100.3	100.6	r_up	
+MCD	20140528	100.6	99.6	r_down	billion:2 investors:1 over:1 sales:1 years:1 through:1 return:1 its:2 market:1 shareholders:2 said:1 20:3 $:4 three:1 next:1 increase:1 rewarding:1 under:1 performance:1 2016:1 stock:1 core:1 's:4 plans:2 dividends:1 company:1 pressure:1 2014:1 improve:1 payout:1 10:1 --:1 18:2 buybacks:1 time:1
+MCD	20140529	99.6	100.4	r_up	all:2 asks:1 these:2 together:1 company:1 companies:2 great:1 valuable:1 worth:1 but:1 put:1 really:1 than:2 more:2
+MCD	20140530	100.4	100.5	r_up	
+MCD	20140602	100.5	101.1	r_up	give:1 caused:1 national:1 number:1 smartphone:1 video:1 out:1 viral:1 her:1 media:1 photos:1 young:1 shocked:1 going:1 outrage:1 has:1 murder:2 allegedly:1 after:1 scene:1 phone:1 members:1 cult:1 several:1 restaurant:1 taken:1 brutal:2 she:1 mother:1 social:1
+MCD	20140603	101.1	100.5	r_down	
+MCD	20140604	100.5	101.5	r_up	
+MCD	20140605	101.5	101.5	r_up	
+MCD	20140606	101.5	101.0	r_down	let’s:1 made:1 but:1 stocks:1 may:1 money:1 there:1 generally:1 different:1 been:1 month:1 iffy:1 related:1 year:1 has:1 consumer:2 appears:1 bet:1 result:1
+MCD	20140609	101.0	100.5	r_down	investors:1 feel:1 backers:1 over:1 year:1 sales:2 same-store:2 prices:1 soaring:1 growth:2 have:2 pass:1 mining:1 its:6 market:2 again:2 enters:1 overhaul:1 record:2 stretch:2 legislation:1 been:1 debate:1 end:1 critical:1 decade:3 party:1 fall:1 issue:1 correction:1 day:1 more:2 lookout:1 core:2 comparable:2 's:4 coming:1 after:1 immigration:1 extending:2 moment:1 said:2 longest:2 they:1 fresh:1 active:1 off:1 month:2 than:2 involving:1 town:1 10:1 last:2 commodity:1 --:1 gotten:1 futures:2 without:2 deals:1 whether:1 fell:2 starting:1 act:1 push:1 making:1 slightly:1
+MCD	20140610	100.5	100.0	r_down	we:1 last:1 like:1 giving:1 interviews:1 time:1 were:1 's:2 along:1 still:1 singing:1 networks:1
+MCD	20140611	100.0	99.5	r_down	salvo:1 revenue:1 into:1 tax:2 broader:1 continent:1 out:1 wring:1 three:2 investigation:1 between:1 more:1 giants:1 do:1 's:2 business:1 effort:1 governments:1 companies:1 deals:1 corporate:1 latest:1
+MCD	20140612	99.5	98.9	r_down	
+MCD	20140613	98.9	99.6	r_up	all:1 there:1 legendary:1 family:1 almost:1 share:1 ``:1 '':1 year:2 close:1 your:1 declined:1 recession:1 group:1 would:1 no:1 waning:1 highlights:1 make:1 since:1 feel:1 role:1 falling:1 has:1 staying:1 his:1 's:2 huge:1 wake:1 every:1 members:1 demand:1 franchisee:1 last:1 like:1 many:1 employees:1 work:1 companies:2 departure:1 35:1 large:1 matter:1 chief:1 2001:1 operating:1
+MCD	20140616	99.6	100.2	r_up	whose:1 watch:1 companies:1 shares:1 trade:1 active:1 see:1 session:1 expected:1 stocks:1
+MCD	20140617	100.2	100.4	r_up	
+MCD	20140618	100.4	100.4	r_up	
+MCD	20140619	100.4	101.0	r_up	
+MCD	20140620	101.0	101.0	r_up	
+MCD	20140623	101.0	101.0	r_up	hits:1 's:1 media:1 highs:1 shares:1 other:1 lagging:1 new:1 retail:1 consumer:1 market:1 restaurants:1
+MCD	20140624	101.0	100.6	r_down	quietly:1 often:1 cut:1 make:1 sugar:1 their:1 alter:1 more:1 do:1 customers:1 's:1 greater:1 fat:1 pressure:1 afraid:1 they:2 recipes:1 facing:1 turn:1 products:1 salt:1 away:1
+MCD	20140625	100.6	100.7	r_up	control:1 smaller:1 people:1 chances:1 alive:1 crave:1 3.2:1 have:1 advancing:1 even:1 'll:1 goal:1 would:1 long:1 score:1 which:1 tweets:1 more:2 generating:1 's:3 obsessed:1 get:1 million:1 but:1 nation:1 game:1 struggle:1 targeting:1 now:1 him:1 those:1 he:1 kept:1 consumers:1 getting:1 did:2 n't:1 portion:1 buzz:1
+MCD	20140626	100.7	100.6	r_down	these:1 play:1 good:1 's:3 look:1 factors:1 food:1 many:1 into:1 there:1 burgers:1 comparable:1 us:1 example:1 large:1 --:2 not:1 role:1 go:1 makes:1 clear:1
+MCD	20140627	100.6	100.5	r_down	own:1 just:1 do:1 taste:1 drive:1 minimum:2 through:2 stalls:1 go:1 wage:2 $:2 fit:1 cup:1 federal:1 pay:2 people:1 meals:1 increase:1 their:1 7:1 forward:1 proposal:1 furniture:1 store:1 pizza:1 nutrition:1 's:2 above:1 pushing:1 heat:1 they:1 others:1 not:1 holder:1 than:1 like:1 faster:1 hour:1 frozen:1 car:1 companies:1 up:1 n't:1 hikes:1 can:1
+MCD	20140630	100.5	99.8	r_down	
+MCD	20140701	99.8	100.1	r_up	beleaguered:1 turning:1 corporate:1 fix:1 executive:1 next:1 longtime:1 department:1 tapped:1 former:1 secretary:1
+MCD	20140702	100.1	99.6	r_down	
+MCD	20140703	99.6	100.1	r_up	gained:1 hurting:1 good:1 last:1 slipped:1 rivals:1 may:2 broad:1 couple:1 months:1 while:1 burgers:2 reason:1 worst:1 have:1 says:1 has:1 its:1 market:1 stock:2
+MCD	20140707	100.1	99.3	r_down	
+MCD	20140708	99.3	99.2	r_down	
+MCD	20140709	99.2	100.2	r_up	
+MCD	20140710	100.2	99.7	r_down	
+MCD	20140711	99.7	99.5	r_down	
+MCD	20140714	99.5	99.6	r_up	impact:1 going:1 ``:1 broke:1 help:1 lead:1 lives:1 advisers:1 wonderful:1 clients:1 '':1 without:1 better:1 sudden:1 understand:1 can:1 they:1 money:1 emotional:1 more:1
+MCD	20140715	99.6	99.4	r_down	quietly:1 stores:1 chain:1 held:1 chicken:1 open:1 much:1 biggest:1 has:2 's:1 closely:1 half:1 than:1 present:1 restaurant:1 many:1 barely:1 fewer:1 n't:1 does:1 country:1 become:1
+MCD	20140716	99.4	98.4	r_down	
+MCD	20140717	98.4	97.5	r_down	
+MCD	20140718	97.5	98.1	r_up	
+MCD	20140721	98.1	96.7	r_down	purchases:3 suspend:1 investors:1 there’s:1 see:1 gauge:1 suspended:1 pain:1 chicken:3 appetite:1 market:1 if:2 giant:1 fast-food:1 beef:3 fears:1 its:1 investigation:2 earnings:1 under:3 supplier:3 upbeat:1 caps’:1 more:1 week:1 selling:2 's:2 risk:1 allegedly:3 may:1 watch:1 sold:1 slump:1 geopolitical:1 halt:1 barrage:1 key:1 hold:1 expired:3 outweigh:1 meat:3 ahead:1 pressure:1 country:1 could:1 up:1 reports:1 worries:1 restaurants:1
+MCD	20140722	96.7	95.4	r_down	show:1 domestic:1 results:1 trade:1 session:1 predicts:1 chicken:1 its:2 strategist:1 fix:1 has:3 modestly:1 good:1 sapped:1 blowout:1 food:2 weakness:1 supplier:2 inflation:1 anemic:1 meat:3 ever:1 companies:1 higher:2 better-than-expected:1 surrounding:1 accused:1 ignores:1 year:1 beyond:1 makers:1 best:1 said:1 appear:1 profit:1 shares:1 safety:1 closed:1 ‘death:1 chains:1 business:1 sold:1 weak:1 allegations:1 cut:1 key:1 swift:1 restaurant:1 shift:1 could:1 according:1 reports:5 times:1 products:1 restaurants:2 think:1 outlook:1 although:1 surviving:1 suspended:1 owner:1 scandal:1 market:3 decline:1 ripe:1 beef:1 housing:1 due:1 been:1 their:1 storm:1 expected:2 500:1 more:1 life:1 selling:1 releases:1 fundamentals:1 shelf:1 company:1 but:1 locations:1 low-carb:1 wake:1 gain:1 cereal:1 boon:1 trying:1 second-quarter:1 weathering:1 exception:1 whether:1 blow’:1 while:1 actively:1 purchases:1 investors:2 soars:1 correction:1 sales:3 foods:1 promised:1 seem:1 keep:1 issue:1 end:1 fast-food:2 media:2 flood:1 other:2 earnings:4 which:1 performance:1 stock:2 's:10 plans:1 boosted:1 after:1 tops:1 outlets:1 dented:1 rolling:1 ties:1 strategists:1 stocks:1 expired:1 response:1 amid:1 well:1 chief:1
+MCD	20140723	95.4	94.5	r_down	saying:1 results:1 quarters:1 its:1 before:1 surprises:1 it’s:1 advisories:1 pretty:1 quarterly:1 worth:1 good:2 five:1 preparing:1 joins:1 report:1 investor:1 meat:2 signal:1 companies:1 slumps:2 stock:2 restaurants:1 people:1 alive:1 accused:1 close:1 index:1 state:1 activist:1 market:3 provides:1 supplier:1 turning:1 jumps:1 weak:1 here:1 members:1 franchise:1 news:1 along:1 roundup:1 both:1 owners:1 career:1 could:2 30:1 reports:1 foreign:1 practical:1 analysts:1 danger:1 into:1 one:1 names:1 open:1 unit:1 management:1 bite:1 charts:1 tell:1 more:1 ``:1 selling:1 training:1 than:1 10:2 look:3 pursue:1 n't:1 mobility:1 while:1 future:2 were:1 following:1 unusually:1 providing:1 bell:1 investors:1 nurses:1 '':1 say:1 welders:1 against:1 paths:1 globally:1 things:2 5:1 earnings:3 economy:1 's:8 lie:1 after:2 such:1 expired:1 land:1 consumer:1 well:1 detained:1 rallies:1 latest:1 corporate:1 technical:1 know:1
+MCD	20140724	94.5	94.5	r_up	sticking:1 saying:1 facility:1 sales:1 accused:1 safe:1 have:1 chicken:1 even:1 use:1 said:2 beef:1 decision:1 except:1 been:1 food:1 longtime:1 provider:2 finding:1 week:1 earlier:1 's:4 allegedly:1 may:1 after:1 difficulty:1 expired:2 regarding:1 meat:3 suppliers:1 underscores:1 misled:1 continue:1 selling:1
+MCD	20140725	94.5	94.9	r_up	saying:1 all:1 restore:1 issued:1 over:1 move:3 produced:1 insiders:1 chicken:1 yet:1 better:1 tainted:1 violations:1 has:1 oversight:1 executive:1 advisors:1 crash:1 string:3 government:3 food:2 big:1 stop:1 pave:3 difference:1 meat:2 --:3 positions:3 suppliers:1 companies:1 popular:1 went:1 restaurants:1 some:2 back:4 jump:1 strongest:1 decided:1 our:1 denies:1 said:7 consumers:1 its:2 behind:1 does:1 safety:1 unit:1 between:1 supplier:2 chains:1 public:1 seeks:1 shows:1 available:1 first-day:1 earlier:1 blame:1 ban:1 proxy:1 beef:1 industry:1 favorite:2 days:4 reports:1 shipped:1 involving:1 products:2 think:1 criticism:1 madness:1 date:1 scandal:2 your:1 inspectors:1 shareholders:1 would:3 mounting:1 political:1 charts:1 been:1 rates:1 way:3 biggest:1 ``:1 selling:1 flight:1 1950s:1 fast-food:3 company:1 downing:1 quick:1 realities:1 10:1 17:1 regulator:1 while:1 control:3 real:1 joints:1 evidence:1 '':1 say:1 have:2 codes:1 pay:1 highlighted:1 other:3 take:3 which:2 several:3 stock:1 week:2 shrug:1 's:9 may:1 after:5 most:1 important:3 lax:1 fierce:3 expired:1 stock-price:1 scrambling:1 off:1 especially:1 alleging:1 fighting:3 reputation:1 latest:1
+MCD	20140728	94.9	94.9	r_up	operations:1 sector:1 name:1 have:1 investors:1 food:2 generally:1 liquor:1 some:2 one:1 '':1 good:1 result:1 another:1 assessment:1 go:1 protecting:1 news:1 should:1 its:3 if:1 lovers:1 allegedly:1 northern:1 crises:1 away:1 spreads:1 question:1 been:1 find:1 company:1 approach:1 crisis:1 asking:1 supplier:3 food-safety:1 chains:1 across:1 today:1 told:1 asks:1 ``:1 beef:1 's:8 stance:1 fast-food:1 views:1 may:1 sold:1 problems:1 outlets:1 loyalty:1 dock:1 reason:1 putting:1 reassess:1 former:1 address:1 brands:1 president:1 now:1 expired:1 than:1 buying:1 faster:1 central:1 meat:1 vice:1 round:1 shift:1 could:1 companies:1 foreign:2 facing:1 into:1 reputation:1 products:1 can:1 shortage:1 lucrative:1 works:1 reliable:1 latest:1
+MCD	20140729	94.9	95.0	r_up	withdraws:1 financial:1 caused:1 streets:1 sales:1 expenses:1 accused:1 scandal:1 recently:1 chicken:1 hit:1 forced:1 consumers:1 menu:1 guidance:1 citing:1 supplier:1 2014:1 's:3 higher:1 multiple:1 involving:1 hear:1 pull:1 lost:1 items:1 practices:1
+MCD	20140730	95.0	95.1	r_up	next:1 tone:1 over:1 far-reaching:1 complaints:1 have:2 employer:1 decisions:1 crisis:1 yet:1 now:1 'll:1 workers:1 had:1 legal:1 labor:2 treat:1 week:2 's:2 harshest:1 joint:1 its:1 they:4 franchise:1 ominous:1 last:1 sanctions:1 could:2 impose:1 implications:1 according:1 having:1 dinner:3 're:1 ruling:1 allow:1 sets:1 franchisees:1 franchisers:1 treated:1 decision:1 talk:1
+MCD	20140731	95.1	93.7	r_down	impact:1 10:1 ``:1 said:1 led:1 significant:1 locations:1 over:1 same-store:1 negative:1 sales:1 '':1 days:1 coverage:1 news:1 has:1 last:1
+MCD	20140801	93.7	93.4	r_down	lower:1 said:1 increased:1 fast-food:1 19:1 stronger:1 sales:1 second-quarter:1 growth:1 expenses:1 earnings:1 chain:1 costs:1 its:1 posted:1
+MCD	20140804	93.4	93.5	r_up	right:1 chain:1 over:1 allegations:1 back:1 according:1 bring:1 involvement:1 slapped:1 watchdog:1 's:1 chicken:1 its:1 out:1 beef:1 provide:1 agency:1 threatening:1 due:1 amidst:1 crisis:1 report:1 wrongdoing:1 new:1 bourbon:1 has:1 type:1 contrast:1 week:1 handle:1 faces:1 soon:1 wrong:1 hopes:1 made:1 last:1 sanctions:1 --:2 suppliers:1 chance:1 round:1 stories:1 shortage:1 ban:1 consumer:1 employees:1 came:1
+MCD	20140805	93.5	92.6	r_down	world:1 unexpected:1 ordered:2 supplier:1 producer:1 within:1 lock:1 over:1 capping:1 seizing:1 pork:1 global:1 hopes:1 economic:1 allegedly:1 year:1 importing:1 stores:1 empire:1 long-dated:1 put:1 its:3 parent:1 said:2 $:1 prepare:2 menu:1 bonds:1 expired:1 two:1 crisis:1 business:1 their:1 issuing:1 rates:1 chairman:1 interest:1 biggest:1 stepped:1 has:2 sold:1 week:1 ties:1 his:2 's:6 relationship:1 government:2 cheap:1 company:2 measures:2 upon:1 back:1 pressure:1 cut:1 fall:1 known:1 president:2 surged:1 weeks:1 after:1 he:2 building:1 financing:1 meat:1 grains:1 sanctions:2 many:1 debut:1 well:1 up:1 against:2 burgers:1 products:1 leverage:1 enterprise:1 dream:1 other:1
+MCD	20140806	92.6	92.6	r_up	sector:1 all:1 own:1 want:1 reasons:1 money:1 some:1 there’s:1 trade:1 say:1 right:1 have:2 its:1 if:1 fashionable:1 make:1 get:1 don’t:2 holding:1 you:1 hope:1 beleaguered:1 's:1 offer:1 but:1 else:1 know:1 plenty:1 stocks:1 recent:1 aren’t:1 room:1 space:1 dinosaur:1 allure:1 steps:1 mega-mind:1
+MCD	20140807	92.6	92.5	r_down	reveals:1 force:1 fired:1 woes:1 imports:1 back:1 sign:1 challenges:1 underlying:1 long:1 close:1 its:1 end:1 bans:1 ordering:1 support:1 legal:1 food:1 finally:1 other:1 's:3 business:1 though:1 may:1 clearer:1 focus:1 bank:1 restrictions:1 sanctions:1 --:1 fighting:1 nations:1 products:1 fresh:1 efforts:1 drawing:1 latest:1
+MCD	20140808	92.5	92.7	r_up	all:1 stores:2 less:1 brokerages:1 over:1 global:4 allegations:1 years:1 session:2 using:1 aggressive:1 suffer:1 its:6 issues:3 developer:1 impact:2 whose:1 giant:1 cut:1 $:2 seems:1 labor:1 charge:1 treatment:1 premarket:1 quarterly:1 suffered:1 rice:1 local:1 hurting:1 risk:1 far:1 weakness:1 online:1 investigated:1 early:1 inflation:1 worst:3 new:1 128:1 world:2 trouble:1 trade:2 continued:2 meat:3 lost:1 --:2 shy:1 companies:3 deals:1 bad:1 beneath:1 heading:1 violations:1 old:2 prompted:1 people:1 warns:1 among:1 back:1 computer:1 pass:1 along:1 declined:1 said:6 sentiment:1 profit:1 since:1 bearish:1 shares:3 tainted:1 decade:2 conduct:1 supplier:3 supplies:1 issue:2 says:1 felt:2 business:1 city:1 sold:2 million:1 reported:2 losing:1 estimate:1 franchisees:1 last:1 restaurant:2 country:1 climbed:1 according:1 drug:1 bears:1 survey:1 maker:2 experimental:1 first:1 golden:1 outlook:1 seven-week:1 supply:1 previously:1 same-store:3 manage:1 retailer:2 complaints:1 defense:1 rising:1 scandal:1 open:1 crisis:1 market:1 decline:1 use:1 would:1 monthly:1 bite:1 there:1 negative:1 been:2 way:1 spike:1 expected:2 store:1 selling:1 door:1 big:1 company:4 peanut-butter:1 slump:1 oil:1 prices:1 than:1 buying:1 had:1 10:1 18:1 arches:1 actively:2 customers:1 items:1 toward:1 streak:1 slid:1 cereals:1 investors:1 sales:7 full-year:1 have:2 breakfast:1 denying:1 returned:1 forced:1 confirmed:2 no:1 media:2 struggles:1 food:1 concerns:1 2.5:2 largest:2 products:2 events:1 stock:3 week:1 safe:1 's:13 after:2 southern:1 prepared:1 virus:1 fell:2 services:1 ties:1 expired:2 liability:1 individual:1 programs:1 amid:1 average:1 well:2 traditional:1 2003:1 competitors:1 costs:1 latest:1
+MCD	20140811	92.7	92.7	r_up	evolution:1 's:3 chain:1 restaurant:1 country:1 into:1 stop:1 all:1 month:1 n't:1 burger:1 does:1 smoking:1 last:1 outlets:1 has:1 its:1 nuggets:1
+MCD	20140812	92.7	92.7	r_up	faith:1 toward:1 consumers:1 consumption:1 potato:1 trend:1 growers:1 away:1 around:1 turn:1 convenience:1 race:1 putting:1 preparations:1 sharply:1 processors:1 has:1 fallen:1 greater:1
+MCD	20140813	92.7	93.1	r_up	chain:1 less:1 cheap:1 down:1 year:1 fanfare:1 its:1 said:1 dropping:1 menus:1 only:1 much:1 stock:1 fast-food:1 crushed:1 cases:1 than:1 ago:1 fries:1 disappointment:1 starting:1 other:1 road:1
+MCD	20140814	93.1	92.8	r_down	adding:1 flops:1 fast-food:2 healthy:1 low-cal:1 list:1 5:1 growing:1 failures:1 drops:1
+MCD	20140815	92.8	92.9	r_up	controversial:1 killer:1 pressure:2 bows:2 wake:1 tanks:1 upgrades:1 whale:1 documentary:1 public:1
+MCD	20140818	92.9	93.4	r_up	infant:1 excessive:1 some:1 back:1 ended:1 protest:1 cloud:1 forced:1 police:1 lead:1 there:1 chaos:1 1,400:1 more:1 march:1 food:1 after:1 boxes:1 levels:1 recalled:1 than:1 regulators:1 smoke:1 found:1
+MCD	20140819	93.4	93.6	r_up	sales:1 gearing:1 protest:1 shooting:1 its:1 decade:1 marching:1 large:1 police:1 supermarkets:1 peaceful:1 fatal:1 company:1 more:1 coffee:1 after:1 's:4 contingent:1 packaged:1 sold:1 faces:1 slump:1 here:1 hours:1 worst:1 line:1 than:1 launch:1 up:1 n't:1 night:1
+MCD	20140820	93.6	93.3	r_down	temporarily:1 feel:1 streets:1 startup:1 four:1 protest:1 officials:1 shooting:1 even:1 police:1 since:1 start:1 citing:1 closed:1 peaceful:1 outbreak:1 violations:1 's:3 big:1 after:1 stay:1 dark:1 boys:1 competing:1 you:1 keeping:1 off:1 largely:1 amid:1 challenge:1 violence:1 request:1 country:1 following:1 weigh:1 marred:1 restaurants:1
+MCD	20140821	93.3	93.7	r_up	after:1 's:2 country:1 expanded:1 day:1 temporarily:1 closed:1 were:1 inspections:1 several:1 across:1 restaurants:2
+MCD	20140822	93.7	93.6	r_down	because:1 just:1 less:1 sales:2 executive:1 domestic:1 period:1 negative:1 second:1 years:2 's:2 its:2 viewed:1 around:1 lengthy:1 decision:1 bad:1 former:2 replacing:1 market:1 widely:1 under:1 suffered:1 has:1 leader:1 flat:1 head:2 his:1 publicity:2 7:1 business:2 fire:1 division:1 taps:1 introduce:1 hurt:1 two:2 one:1 than:1 declining:1 third:1 amid:1 companies:1 turn:1 cruel:1 time:1 laws:1
+MCD	20140825	93.6	93.6	r_up	smaller:1 deal:1 chains:1 taste:1 evidence:1 taught:1 ponders:1 its:1 decade:1 might:1 van:1 writes:1 increasingly:1 station:1 music:1 earnings:1 has:1 boost:1 customers:1 's:3 business:1 targeted:1 company:1 slump:1 most:1 running:1 worst:1 losing:1 bigger:1 me:1 10:1 younger:1 look:1 success:1 restaurant:1 country:1 companies:2 takeout:1 lose:1 talk:1
+MCD	20140826	93.6	93.3	r_down	sector:1 private-equity:1 structured:1 tough:1 chain:2 hunger:1 money:1 producer:2 global:1 doughnuts:1 footprint:1 continues:1 sudden:1 generational:1 suspended:1 scandal:1 battle:1 home:1 chicken:2 seller:1 if:1 even:1 giant:1 $:2 would:1 hamburger:1 stake:1 fast:1 18:1 take:1 way:1 400:2 supplier:1 international:1 tax:1 has:1 agreed:1 firm:2 maneuver:1 coffee:1 partnership:1 's:4 relationship:1 means:1 food:2 becomes:1 million:2 invest:1 wake:1 talks:1 put:1 buy:1 effort:1 eat:1 expand:1 inversion:1 acquiring:1 meat:1 announcing:1 move:1 shift:1 deal:1 reviews:1 base:1 faces:1 invests:1 financial:1
+MCD	20140827	93.3	93.8	r_up	all:1 protests:1 investors:1 reeling:1 money:1 over:1 friction:1 financial:1 economic:1 have:1 go:1 close:1 strategy:1 crisis:1 owning:1 police:1 pawn:1 their:1 tensions:1 decision:1 system:1 should:1 also:1 payday:1 investment:1 outliers:1 between:1 several:1 loans:1 minimal:1 's:3 that’s:1 fast-food:1 outlets:1 small:1 part:1 courts:1 backed:1 based:1 opportunity:1 problem:1 has:1 did:1 country:1 industry:1 allows:1 regulator:1 matter:1 growth:1 amid:1 banks:1 shops:1 consumer:1 writes:2 restaurants:1
+MCD	20140828	93.8	94.1	r_up	considering:1 would:1 workers:1 responsible:1 contract:1 businesses:1 action:1 makes:1 more:1
+MCD	20140829	94.1	93.7	r_down	operations:1 says:1 arrested:2 number:1 month:1 down:1 continues:1 accused:1 suspended:1 its:1 shuts:2 tensions:3 grow:1 also:1 inspecting:1 between:1 8:1 subsidiaries:1 more:1 shut:2 selling:2 's:4 fast-food:1 food:1 company:1 after:2 outlets:2 rise:3 accuse:1 authorities:1 100:1 one:1 expired:1 than:1 12:2 prosecutors:1 employees:2 companies:1 regulator:2 products:2 were:2 substandard:1 consumer:1 restaurants:3
+MCD	20140902	93.7	92.8	r_down	chain:1 feel:1 agreed:1 sales:1 packaging:1 say:2 businesses:1 numbers:1 unfairly:1 overhauling:1 food-safety:1 lesson:1 strategy:1 its:2 hit:1 sell:1 unwelcome:1 $:1 image:1 troubles:1 targets:1 crackdown:1 supplier:1 has:1 corruption:1 more:1 faced:1 's:3 business:1 perils:1 food:1 after:1 problems:1 they:2 billion:1 fast-food:1 monopoly:1 amid:1 companies:2 foreign:2 eroded:1 country:1 1.23:1 processor:1 pricing:1
+MCD	20140903	92.8	93.1	r_up	lessons:1 answers:1 you:1 other:1 businesses:1 they:1 surprise:1 learned:1 might:1 discuss:1
+MCD	20140904	93.1	93.0	r_down	style:1 substance:1 appear:1 writes:1 worker:1 strikes:2 they:1 aren’t:1 than:1 more:1
+MCD	20140905	93.0	93.0	r_up	force:1 show:1 increasingly:1 activists:1 dollar:2 locations:1 up:1 raw:1 escape:1 politics:1 wages:1 organizing:1 again:1 citing:1 harsh:1 remains:1 writes:1 two:1 ice:1 than:1 push:1 their:1 hot:1 concerns:1 largest:1 wrapped:1 international:1 has:1 hat:1 events:1 store:1 more:1 draw:1 his:1 's:2 around:1 fast-food:1 bid:1 attention:1 but:1 famous:1 takeover:1 traffic:1 rejected:1 key:1 cities:1 realities:1 recent:1 most:1 home:1 chains:1 leaves:1 antitrust:1 days:1 stores:1 war:1 blocking:1 walker:1 efforts:1 higher:1 workers:1 long-distance:1
+MCD	20140908	93.0	92.5	r_down	
+MCD	20140909	92.5	91.0	r_down	up:1 development:1 larger:1 investors:1 give:1 companies:2 global:2 some:1 sales:4 ending:1 screens:1 3.7:2 actively:2 0.6:1 home:1 close:1 drove:2 wearable:1 its:5 market:1 one:2 decline:1 said:2 $:1 endangered:1 two:2 shares:3 struggling:1 their:1 5:1 automation:1 digital:1 expected:3 new:3 weeks:2 500:1 more:1 lowest:1 core:1 comparable:1 's:11 around:1 unveiling:1 becoming:1 after:1 problems:2 smartwatch:1 unveil:1 levels:1 worst:1 fall:1 trade:2 device:1 stocks:2 continued:1 than:1 session:2 lower:1 premarket:1 --:2 should:1 suppliers:2 drop:2 well:1 pause:1 fell:3 services:1 payments:1 healthcare:1 species:1 trading:1 region:2 first:1
+MCD	20140910	91.0	93.0	r_up	all:1 focus:1 years:1 four:1 hopes:2 kill:1 its:3 giant:1 also:1 had:1 winning:1 window:1 has:3 lending:1 do:1 customers:1 smartphone:1 world:1 trouble:1 impressive:1 did:1 companies:1 payments:2 list:1 energy:1 some:1 escape:1 event:1 category:1 merchants:2 pressured:1 reader:1 new:3 business:1 seesaws:1 rut:1 credit-card:1 could:1 larger:1 tries:1 keep:1 plunging:1 credit:1 support:1 first:1 among:1 communication:1 into:2 two:1 screens:1 ditch:1 market:2 criminals:1 service:2 top:1 acceptance:1 system:1 their:3 mobile-payment:1 6:1 shoppers:1 entered:1 checkout:1 today:1 more:2 but:1 biggest:1 known:1 line:2 than:1 must:1 smartphones:1 room:1 up:2 unveils:1 wallet:1 stories:1 opens:1 install:1 cards:1 purchases:1 social-media:1 prompt:1 digital-wallet:1 watches:1 unveiled:1 need:1 technology:2 vulnerable:1 needs:1 make:2 field:1 higher:1 product:1 's:2 after:1 fast-growing:1 moving:2 stocks:2 segment:1 relies:1 mobile:1 banks:1 issuers:1
+MCD	20140911	93.0	92.9	r_down	all:1 reasons:1 back:1 mojo:1 needs:1 now:1 service:2 support:1 least:1 its:2 3:1 mobile-payment:1 digital:1 has:3 more:1 customers:1 critics:1 merchants:1 believe:1 credit-card:1 up:1 wallet:1 banks:1 issuers:1
+MCD	20140912	92.9	93.3	r_up	all:1 fashion:1 just:1 being:1 partnership:1 some:1 one:1 say:2 experts:2 pass:1 its:1 bags:1 system:1 which:1 new:1 's:1 risk:2 incentives:1 but:1 usually:1 quirky:1 payment:1 anything:1 boring:1 taking:1 banks:1 latest:1
+MCD	20140915	93.3	93.4	r_up	
+MCD	20140916	93.4	93.7	r_up	shoes:1 show:1 number:1 hurdles:1 colors:1 have:1 vote:1 consider:1 before:1 merchants:1 would:1 implementation:1 writes:1 their:1 goes:1 new:1 physical:1 independent:1 we:2 buy:1 may:1 big:1 if:1 pair:1 true:1 rethink:1 leave:1 banks:1
+MCD	20140917	93.7	93.5	r_down	
+MCD	20140918	93.5	93.4	r_down	bars:1 months:1 says:1 had:1 domestic:1 swirls:1 production:1 planning:1 follow:1 its:1 deals:1 won:1 fleeting:1 make:1 apps:1 factory:1 should:1 few:1 only:1 without:1 wrongdoing:1 got:1 boost:1 difficult:1 eateries:1 's:2 around:1 huge:1 lucrative:1 brands:1 strong:1 fad:1 kitchen:1 league:1 task:1 like:1 violence:1 against:1 controversy:1 facing:1 statement:1 more:1 order:1
+MCD	20140919	93.4	94.3	r_up	``:1 said:1 's:2 increased:1 company:1 move:1 flow:1 cash:1 '':1 sustainability:1 strength:1 5:1 our:1 quarterly:1 dividend:1 continued:1 its:1 reflects:1
+MCD	20140922	94.3	93.9	r_down	female:1 facility:1 over:1 executive:1 past:1 picked:1 confronts:1 recover:1 its:4 ad:1 provided:1 cut:1 mounting:1 workers:1 340:1 accusations:1 supplier:1 new:1 seeks:1 customers:1 food:2 marketing:1 involving:1 date:1 backlash:1 league:1 handling:1 players:1 chief:1 incidents:1 officer:1
+MCD	20140923	93.9	93.5	r_down	their:1 attention:1 expectations:1 high:1 turn:1 analysts:1 have:1 toward:1 technology:1 mobile-payment:1
+MCD	20140924	93.5	95.0	r_up	conducting:1 has:1 20:1 retailer:1 union:1 -25:1 online:1 but:1 bargain:1 strikes:1 range:1 growth:1 through:1 against:1 series:1 sustained:1 2016:1
+MCD	20140925	95.0	94.1	r_down	all:1 gold:1 supply:1 fireworks:1 pulse:1 one:1 see:1 hell:1 still:1 even:1 again:1 $:2 no:1 disruptions:1 40:1 black:1 you:1 we:1 oil:2 collapse:1 breaks:1 loose:1 counter-intuitive:1 here:1 70:1 prices:2 overseas:1 count:1 could:1 drop:1 thing:1 can:1 usually:1 barrel:1
+MCD	20140926	94.1	94.7	r_up	
+MCD	20140929	94.7	96.2	r_up	just:1 dollar:1 dubious:1 one:1 economic:1 's:1 technology:1 its:1 market:1 decline:1 writes:1 least:1 next:1 black:1 slow-motion:1 largest:1 new:1 has:1 worth:1 slows:1 hit:1 big:1 innovation:1 milestone:1 begins:1 country:1 bill:1 companies:1 thing:1 mature:1
+MCD	20140930	96.2	94.8	r_down	industrial:1 trump:1 resident:1 probe:1 some:1 back:1 ending:1 hiring:1 have:1 doesn’t:1 quality:1 really:1 asks:1 discrimination:1 claiming:1 employer:1 process:1 does:1 you:1 explains:1 personality:1 tests:3 sparked:1 scrutiny:1 scaling:1 groups:1 pasta:1 trying:1 whether:1 always:1 could:1 companies:1 're:1 patrons:1 workplace:2 mean:1
+MCD	20141001	94.8	94.1	r_down	
+MCD	20141002	94.1	94.1	r_up	
+MCD	20141003	94.1	94.8	r_up	help:1 into:1 high:1 minimum:1 out:1 wage:1 city:1 requirements:1 raise:1 would:1 turn:1 federal:1 pay:1 workers:1 increase:1 joblessness:1 test:1 blunt:1 lift:1 poverty:1 nearly:1 prime:1 level:1 whether:1 drive:1 twice:1 growth:1
+MCD	20141006	94.8	93.8	r_down	sell:1 week:1 there:1 may:1 fast-food:1 food:1 wish:1 after:1 sales:1 recommending:1 scare:1 pinned:1 operator:1 kicked:1 analysts:2 lot:1 hopes:1 off:1 hurt:1 its:2
+MCD	20141007	93.8	92.8	r_down	into:1 sales:3 years:1 strongest:1 year:1 chicken:1 its:1 said:2 would:1 jumped:1 due:1 supplier:1 red:1 higher:1 company’s:1 boosted:1 brand:1 after:1 problems:1 involving:1 sink:1 demand:1 month:1 11:1 lost:1 expenses:1 time:1 history:1 first:1
+MCD	20141008	92.8	93.8	r_up	scare:1 sight:1 sales:1 country:1 during:1 have:1 year:1 choices:1 open:1 its:2 said:1 police:1 no:1 menu:1 make:1 had:1 been:1 safety:1 4:1 new:2 has:1 chains:1 more:1 isn’t:1 introducing:1 life:1 food:2 big:1 protesters:1 but:1 hurt:1 pressure:1 fell:1 here:1 latest:1 end:1 than:1 14:1 restaurant:1 items:1 study:1 changed:1 according:1 dent:1 healthier:1 a.m.:1 were:1 growing:1 obesity:1 quarter:1 could:1 restaurants:1
+MCD	20141009	93.8	92.7	r_down	private-equity:1 chain:1 restaurant:1 healthy:1 many:1 but:1 investment:1 profit:1 so:1 have:1 largest:1 far:1 through:1 firms:1 enjoying:1 its:1 market:1
+MCD	20141010	92.7	92.3	r_down	billion:1 global:1 says:1 $:1 retains:1 brand:2 top:1 spot:1 value:1 than:1 second:1 year:1 terms:1 100:1 worth:1 row:1

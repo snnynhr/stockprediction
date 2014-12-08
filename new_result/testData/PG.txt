@@ -1,307 +1,114 @@
-PG	20120402	64.53	64.87	r_up	
-PG	20120403	64.87	64.42	r_down	
-PG	20120404	64.42	64.58	r_up	
-PG	20120405	64.58	64.63	r_up	n't:1 's:2
-PG	20120409	64.63	64.15	r_down	
-PG	20120410	64.15	63.71	r_down	
-PG	20120411	63.71	63.79	r_up	
-PG	20120412	63.79	63.46	r_down	
-PG	20120413	63.46	63.19	r_down	win:1 stocks:1 quest:1 yield:1
-PG	20120416	63.19	64.12	r_up	's:1 futures:1 watch:1 sales:1 climb:1 retail:1 stock:1
-PG	20120417	64.12	64.35	r_up	
-PG	20120418	64.35	64.09	r_down	
-PG	20120419	64.09	63.92	r_down	targeted:1 spending:1 boardrooms:1 political:1
-PG	20120420	63.92	64.82	r_up	4th:1
-PG	20120423	64.82	64.0	r_down	
-PG	20120424	64.0	64.33	r_up	's:1
-PG	20120425	64.33	64.77	r_up	
-PG	20120426	64.77	64.75	r_down	's:2
-PG	20120427	64.75	62.4	r_down	trim:1 1.5:1 strong:1 gains:1 futures:1 surprises:1 rise:1 watch:1 reports:1 data:1 discounts:1 advisories:1 earnings:1 stocks:1 blunt:1 seeks:1 stock:1
-PG	20120430	62.4	61.62	r_down	
-PG	20120501	61.62	61.56	r_down	summer:1 12:1 hang:1 stocks:1
-PG	20120502	61.56	61.95	r_up	
-PG	20120503	61.95	62.47	r_up	
-PG	20120504	62.47	62.24	r_down	
-PG	20120507	62.24	62.21	r_down	tired:1 $:1 22:1 getting:1
-PG	20120508	62.21	62.13	r_down	's:1
-PG	20120509	62.13	61.65	r_down	
-PG	20120510	61.65	62.11	r_up	84:1
-PG	20120511	62.11	61.66	r_down	
-PG	20120514	61.66	61.56	r_down	
-PG	20120515	61.56	61.7	r_up	1:1 's:1 $:1
-PG	20120516	61.7	62.25	r_up	's:1
-PG	20120517	62.25	61.93	r_down	
-PG	20120518	61.93	61.51	r_down	
-PG	20120521	61.51	61.38	r_down	if:1
-PG	20120522	61.38	61.15	r_down	's:1
-PG	20120523	61.15	60.41	r_down	
-PG	20120524	60.41	60.59	r_up	
-PG	20120525	60.59	60.51	r_down	2008:1
-PG	20120529	60.51	60.95	r_up	
-PG	20120530	60.95	60.34	r_down	's:1
-PG	20120531	60.34	60.32	r_down	
-PG	20120601	60.32	59.6	r_down	12:1 's:1
-PG	20120604	59.6	59.45	r_down	
-PG	20120605	59.45	59.23	r_down	
-PG	20120606	59.23	59.84	r_up	
-PG	20120607	59.84	60.77	r_up	'07:1
-PG	20120608	60.77	60.76	r_down	
-PG	20120611	60.76	60.56	r_down	control:1 's:1 --:1 k:1 take:1 401:1 your:1 2012:1
-PG	20120612	60.56	60.77	r_up	most:1 sponsorships:1
-PG	20120613	60.77	60.59	r_down	
-PG	20120614	60.59	61.18	r_up	investing:1 high-yield:1
-PG	20120615	61.18	60.89	r_down	pile:1 up:1
-PG	20120618	60.89	60.32	r_down	
-PG	20120619	60.32	60.24	r_down	
-PG	20120620	60.24	58.48	r_down	futures:1 's:1 ahead:1 surprises:1 losses:1 steady:1 n't:1 advisories:1 lift:1 stock:1 stocks:1 minutes:1 out:1
-PG	20120621	58.48	57.86	r_down	outlook:1 off:1 mostly:1 after:1 growth:1 cuts:1
-PG	20120622	57.86	57.93	r_up	
-PG	20120625	57.93	57.43	r_down	
-PG	20120626	57.43	57.39	r_down	
-PG	20120627	57.39	58.08	r_up	
-PG	20120628	58.08	58.38	r_up	
-PG	20120629	58.38	59.31	r_up	outlook:1 's:2 big:1 since:1 negative:1 most:1 batteries:1 2001:1 earnings:1 returns:1
-PG	20120702	59.31	59.25	r_down	
-PG	20120703	59.25	59.42	r_up	
-PG	20120705	59.42	59.41	r_down	
-PG	20120706	59.41	59.34	r_down	code:1 's:1 earnings:1 crack:1
-PG	20120709	59.34	59.6	r_up	
-PG	20120710	59.6	59.77	r_up	4.6:2
-PG	20120711	59.77	59.45	r_down	
-PG	20120712	59.45	61.68	r_up	drop:1 's:1 global:1 concerns:1 stocks:1 corporate:1
-PG	20120713	61.68	63.03	r_up	week:1 gaining:1 's:3 $:1 5.8:1 top:1 trade:1 52-week:1 near:1 stories:1 declining:1 biggest:1 stocks:2 highs:1 9-13:1
-PG	20120716	63.03	62.76	r_down	
-PG	20120717	62.76	63.28	r_up	
-PG	20120718	63.28	63.31	r_up	
-PG	20120719	63.31	63.41	r_up	
-PG	20120720	63.41	63.22	r_down	
-PG	20120723	63.22	62.89	r_down	's:1
-PG	20120724	62.89	62.53	r_down	
-PG	20120725	62.53	62.53	r_up	
-PG	20120726	62.53	63.06	r_up	
-PG	20120727	63.06	63.57	r_up	could:1 only:1 love:1 sponsors:1
-PG	20120730	63.57	63.58	r_up	's:1
-PG	20120731	63.58	63.04	r_down	$:1 125:1
-PG	20120801	63.04	62.52	r_down	
-PG	20120802	62.52	62.03	r_down	
-PG	20120803	62.03	63.97	r_up	after:1 jobs:1 gains:1 extend:1 futures:1 watch:2 45:3 4th:2 data:1
-PG	20120806	63.97	64.28	r_up	portfolio:1 ‘moat’:1 's:1 protect:1 your:1
-PG	20120807	64.28	64.68	r_up	
-PG	20120808	64.68	65.17	r_up	3.3:2
-PG	20120809	65.17	65.18	r_up	's:1
-PG	20120810	65.18	65.21	r_up	still:1 dividend-paying:1 best:1 stocks:1
-PG	20120813	65.21	64.93	r_down	
-PG	20120814	64.93	65.18	r_up	's:1
-PG	20120815	65.18	65.09	r_down	's:1
-PG	20120816	65.09	65.44	r_up	
-PG	20120817	65.44	65.44	r_up	
-PG	20120820	65.44	65.19	r_down	
-PG	20120821	65.19	65.21	r_up	
-PG	20120822	65.21	65.29	r_up	
-PG	20120823	65.29	65.13	r_down	
-PG	20120824	65.13	65.46	r_up	10:1 top:1 stocks:1 players:1 more:1
-PG	20120827	65.46	65.55	r_up	
-PG	20120828	65.55	65.43	r_down	
-PG	20120829	65.43	65.31	r_down	
-PG	20120830	65.31	65.32	r_up	
-PG	20120831	65.32	65.62	r_up	
-PG	20120904	65.62	65.83	r_up	
-PG	20120905	65.83	65.72	r_down	
-PG	20120906	65.72	66.65	r_up	
-PG	20120907	66.65	66.92	r_up	's:1
-PG	20120910	66.92	66.91	r_down	200:1
-PG	20120911	66.91	66.67	r_down	
-PG	20120912	66.67	66.51	r_down	
-PG	20120913	66.51	67.3	r_up	
-PG	20120914	67.3	67.55	r_up	addicted:1 10:1 2009:1 least:1 stocks:1
-PG	20120917	67.55	67.64	r_up	
-PG	20120918	67.64	67.61	r_down	
-PG	20120919	67.61	67.65	r_up	
-PG	20120920	67.65	67.94	r_up	
-PG	20120921	67.94	67.8	r_down	
-PG	20120924	67.8	68.13	r_up	
-PG	20120925	68.13	67.97	r_down	
-PG	20120926	67.97	67.69	r_down	tough:1 ahead:1 global:1 companies:1 times:1 warn:1 7:1
-PG	20120927	67.69	67.69	r_up	50:1
-PG	20120928	67.69	67.74	r_up	
-PG	20121001	67.74	67.83	r_up	comes:1 fear:1 change:1 pushes:1 don’t:1
-PG	20121002	67.83	67.19	r_down	
-PG	20121003	67.19	67.56	r_up	
-PG	20121004	67.56	67.76	r_up	
-PG	20121005	67.76	68.01	r_up	
-PG	20121008	68.01	67.49	r_down	
-PG	20121009	67.49	67.1	r_down	
-PG	20121010	67.1	66.55	r_down	
-PG	20121011	66.55	66.42	r_down	
-PG	20121012	66.42	66.36	r_down	's:2
-PG	20121015	66.36	67.11	r_up	8:1
-PG	20121016	67.11	67.39	r_up	
-PG	20121017	67.39	68.41	r_up	
-PG	20121018	68.41	68.41	r_up	
-PG	20121019	68.41	67.52	r_down	
-PG	20121022	67.52	67.45	r_down	
-PG	20121023	67.45	66.41	r_down	
-PG	20121024	66.41	67.04	r_up	
-PG	20121025	67.04	69.0	r_up	hold:1 end:1 gains:1 surprises:1 futures:1 watch:1 reports:1 advisories:1 earnings:2 6.9:3 stocks:1 data:1 after:1 higher:1
-PG	20121026	69.0	68.38	r_down	modestly:1 good:1 divide:1 business:1 did:1 things:1 rise:1 results:1 3:2 up:1 down:1 bad:1 economic:1 earnings:1 seen:1 stocks:1 data:1 man:1
-PG	20121031	68.38	68.18	r_down	
-PG	20121101	68.18	68.19	r_up	12:1
-PG	20121102	68.19	68.13	r_down	20:1
-PG	20121105	68.13	67.62	r_down	
-PG	20121106	67.62	67.88	r_up	
-PG	20121107	67.88	67.02	r_down	
-PG	20121108	67.02	65.89	r_down	
-PG	20121109	65.89	65.99	r_up	wants:1 13:1 everyone:1 companies:1 work:1
-PG	20121112	65.99	66.06	r_up	
-PG	20121113	66.06	65.83	r_down	
-PG	20121114	65.83	65.51	r_down	
-PG	20121115	65.51	65.31	r_down	
-PG	20121116	65.31	65.8	r_up	50:2
-PG	20121119	65.8	66.88	r_up	
-PG	20121120	66.88	67.26	r_up	
-PG	20121121	67.26	67.42	r_up	
-PG	20121123	67.42	68.53	r_up	
-PG	20121126	68.53	68.42	r_down	
-PG	20121127	68.42	67.94	r_down	
-PG	20121128	67.94	68.38	r_up	
-PG	20121129	68.38	68.44	r_up	
-PG	20121130	68.44	68.76	r_up	
-PG	20121203	68.76	68.52	r_down	
-PG	20121204	68.52	68.25	r_down	
-PG	20121205	68.25	68.35	r_up	
-PG	20121206	68.35	68.88	r_up	10:1 30:1 up:1 bumps:1 biggest:1 2012:1 layoffs:2 corporate:1 than:1 more:1
-PG	20121207	68.88	69.22	r_up	funds:1 top:1 5:1 money:1 raking:1 your:1 stock:1
-PG	20121210	69.22	69.15	r_down	
-PG	20121211	69.15	69.58	r_up	
-PG	20121212	69.58	69.68	r_up	
-PG	20121213	69.68	69.06	r_down	
-PG	20121214	69.06	68.86	r_down	
-PG	20121217	68.86	68.86	r_up	
-PG	20121218	68.86	68.9	r_up	
-PG	20121219	68.9	68.28	r_down	's:1
-PG	20121220	68.28	68.75	r_up	
-PG	20121221	68.75	67.67	r_down	'm:1
-PG	20121224	67.67	67.47	r_down	
-PG	20121226	67.47	66.96	r_down	
-PG	20121227	66.96	66.93	r_down	
-PG	20121228	66.93	66.12	r_down	
-PG	20121231	66.12	66.85	r_up	2012:1
-PG	20130102	66.85	68.33	r_up	
-PG	20130103	68.33	67.9	r_down	
-PG	20130104	67.9	68.03	r_up	
-PG	20130107	68.03	67.57	r_down	
-PG	20130108	67.57	67.46	r_down	's:1
-PG	20130109	67.46	67.83	r_up	's:1 up:1 vs.:1
-PG	20130110	67.83	68.21	r_up	
-PG	20130111	68.21	68.16	r_down	
-PG	20130114	68.16	68.57	r_up	
-PG	20130115	68.57	68.81	r_up	
-PG	20130116	68.81	68.83	r_up	
-PG	20130117	68.83	69.16	r_up	
-PG	20130118	69.16	69.43	r_up	
-PG	20130122	69.43	69.44	r_up	
-PG	20130123	69.44	70.17	r_up	
-PG	20130124	70.17	69.91	r_down	
-PG	20130125	69.91	72.72	r_up	ahead:1 surprises:1 futures:1 1,500:1 reports:1 up:1 advisories:1 home-sales:1 earnings:1 500:1
-PG	20130128	72.72	73.23	r_up	
-PG	20130129	73.23	74.45	r_up	
-PG	20130130	74.45	74.53	r_up	's:1
-PG	20130131	74.53	74.61	r_up	
-PG	20130201	74.61	75.37	r_up	's:1
-PG	20130204	75.37	74.7	r_down	're:1
-PG	20130205	74.7	75.15	r_up	vs:1
-PG	20130206	75.15	75.59	r_up	
-PG	20130207	75.59	75.59	r_up	37:1
-PG	20130208	75.59	75.2	r_down	
-PG	20130211	75.2	75.26	r_up	n't:1 's:1
-PG	20130212	75.26	75.43	r_up	
-PG	20130213	75.43	76.0	r_up	
-PG	20130214	76.0	76.22	r_up	14:1
-PG	20130215	76.22	75.98	r_down	
-PG	20130219	75.98	76.82	r_up	
-PG	20130220	76.82	76.52	r_down	3.0:1
-PG	20130221	76.52	76.48	r_down	2013:1
-PG	20130222	76.48	76.43	r_down	
-PG	20130225	76.43	75.37	r_down	
-PG	20130226	75.37	75.53	r_up	move:1 market’s:1 funds:1 6:1 next:1 big:1 stock:1
-PG	20130227	75.53	76.19	r_up	
-PG	20130228	76.19	75.62	r_down	
-PG	20130301	75.62	75.93	r_up	
-PG	20130304	75.93	76.12	r_up	
-PG	20130305	76.12	76.49	r_up	high:1 new:1 ceiling:1 point:1
-PG	20130306	76.49	76.64	r_up	10:1 reputation:1 companies:1 best:1
-PG	20130307	76.64	76.34	r_down	
-PG	20130308	76.34	76.62	r_up	
-PG	20130311	76.62	76.79	r_up	
-PG	20130312	76.79	76.61	r_down	
-PG	20130313	76.61	76.24	r_down	
-PG	20130314	76.24	76.83	r_up	
-PG	20130315	76.83	75.78	r_down	
-PG	20130318	75.78	75.6	r_down	
-PG	20130319	75.6	76.55	r_up	
-PG	20130320	76.55	77.01	r_up	's:1
-PG	20130321	77.01	76.65	r_down	
-PG	20130322	76.65	76.71	r_up	22:1
-PG	20130325	76.71	76.12	r_down	
-PG	20130326	76.12	76.84	r_up	
-PG	20130327	76.84	76.5	r_down	
-PG	20130328	76.5	76.5	r_up	400:1 bold:1 bet:1 latest:1
-PG	20130401	76.5	77.13	r_up	
-PG	20130402	77.13	78.38	r_up	's:1
-PG	20130403	78.38	77.55	r_down	
-PG	20130404	77.55	77.97	r_up	
-PG	20130405	77.97	77.66	r_down	
-PG	20130408	77.66	78.22	r_up	money:1 know:1 put:1 now:1 your:1 forecasters:1
-PG	20130409	78.22	77.69	r_down	
-PG	20130410	77.69	78.66	r_up	
-PG	20130411	78.66	79.09	r_up	
-PG	20130412	79.09	79.5	r_up	
-PG	20130415	79.5	79.07	r_down	
-PG	20130416	79.07	79.52	r_up	
-PG	20130417	79.52	78.48	r_down	
-PG	20130418	78.48	79.29	r_up	
-PG	20130419	79.29	80.84	r_up	's:1
-PG	20130422	80.84	80.81	r_down	
-PG	20130423	80.81	81.94	r_up	
-PG	20130424	81.94	77.12	r_down	tilt:1 lower:1 futures:1 gains:1 extend:1 auction:1 surprises:1 after:2 watch:1 ``:1 n't:2 advisories:1 mostly:1 '':1 a.m:1 strong:1 data:1
-PG	20130425	77.12	76.58	r_down	closes:1 lower:1 stocks:1 end:1 jobless:1 flat:1 movers:1 futures:1 add:1 500:1 claims:1 drop:1 stock:1 's:1 marginally:1 gains:1
-PG	20130426	76.58	77.1	r_up	
-PG	20130429	77.1	77.68	r_up	
-PG	20130430	77.68	76.77	r_down	's:2
-PG	20130501	76.77	76.99	r_up	's:1 saints:1 500:1 sinners:1
-PG	20130502	76.99	77.76	r_up	
-PG	20130503	77.76	78.19	r_up	vs.:1
-PG	20130506	78.19	77.75	r_down	
-PG	20130507	77.75	77.94	r_up	
-PG	20130508	77.94	78.44	r_up	
-PG	20130509	78.44	78.21	r_down	
-PG	20130510	78.21	78.76	r_up	
-PG	20130513	78.76	78.59	r_down	
-PG	20130514	78.59	79.47	r_up	
-PG	20130515	79.47	80.68	r_up	
-PG	20130516	80.68	80.2	r_down	
-PG	20130517	80.2	80.02	r_down	
-PG	20130520	80.02	79.09	r_down	hit:1 these:1 weak:1 hardest:1 stocks:1 economy:1
-PG	20130521	79.09	78.8	r_down	's:1
-PG	20130522	78.8	78.82	r_up	
-PG	20130523	78.82	78.7	r_down	popular:1 brands:1
-PG	20130524	78.7	81.88	r_up	'':1 lower:1 futures:1 plays:1 movers:1 data:1 safe:1 watch:1 ``:1 return:1 remain:1 a.m:1 biggest:1 's:3 stocks:1 durables:1 after:1
-PG	20130528	81.88	80.86	r_down	
-PG	20130529	80.86	78.9	r_down	movers:1 6:1 than:1 slumps:1 more:1
-PG	20130530	78.9	79.09	r_up	n't:1
-PG	20130531	79.09	76.76	r_down	's:1
-PG	20130603	76.76	77.66	r_up	
-PG	20130604	77.66	77.37	r_down	
-PG	20130605	77.37	76.66	r_down	
-PG	20130606	76.66	76.82	r_up	
-PG	20130607	76.82	77.75	r_up	
-PG	20130610	77.75	78.07	r_up	
-PG	20130611	78.07	78.12	r_up	
-PG	20130612	78.12	77.6	r_down	
-PG	20130613	77.6	78.43	r_up	dividend:1 hunters:1 play:1 stock:1
-PG	20130614	78.43	78.03	r_down	
-PG	20130617	78.03	78.96	r_up	
-PG	20130618	78.96	79.04	r_up	
-PG	20130619	79.04	77.61	r_down	
-PG	20130620	77.61	75.25	r_down	
-PG	20130621	75.25	77.43	r_up	
+PG	20140501	81.9	81.6	r_down	
+PG	20140502	81.6	81.2	r_down	sell:1 physicians:1 network:1 agreed:1 patients:1 national:1
+PG	20140505	81.2	81.0	r_down	investors:1 executive:1 private:1 one:1 directly:1 should:1 decisions:1 its:1 mutual:1 said:1 make:1 had:1 two:1 revisit:1 mix:1 basic:1 new:1 match:1 buy:1 's:1 funds:1 marketing:1 fund:1 hired:1 news:1 stocks:1 former:1 roundup:1 success:1 most:1 whether:1 invest:1 morning:1 investment:1 chief:1
+PG	20140506	81.0	80.4	r_down	ago:1 plunge:1 stomach-churning:1 rattled:1 move:1 contributed:1 back:1 spotlight:1 years:1 stock-market:1 trading:1 big:1 practices:1 debate:1 today:1
+PG	20140507	80.4	81.4	r_up	
+PG	20140508	81.4	81.5	r_up	storing:1 says:1 certain:1 startup:1 crop:1 years:1 old:1 its:1 files:1 170:1 300,000:1 make:1 two:1 platform:1 market:1 has:1 stock:1 available:1 sharing:1 kinds:1 collaboration:1 agreement:1 leadership:1 data:1 bar:1 countries:1 whether:1 clear:1 companies:1 n't:1 file-sharing:1 works:1 employees:2
+PG	20140509	81.5	81.7	r_up	
+PG	20140512	81.7	81.0	r_down	
+PG	20140513	81.0	80.9	r_down	they:1 previously:1 money:1 over:1 online:1 moved:1 spent:1 outlets:1 past:1 portion:1 including:1 have:1 year:1 advertisers:1
+PG	20140514	80.9	80.5	r_down	
+PG	20140515	80.5	79.8	r_down	into:1 businesses:1 its:1 headaches:1 giant:1 rivals:1 source:1 stock:1 advertising:1 's:1 marketing:1 know:1 position:1 regulatory:1 during:1 made:1 according:1 turn:1 products:1 can:1 small:1 claims:1 quarter:1 consumer:1 filing:1 first:1
+PG	20140516	79.8	79.6	r_down	sector:2 disclose:1 investors:2 half:1 manage:1 month:1 picked:2 telecommunications:2 previous:1 securities:2 end:1 $:1 holdings:3 deal-making:2 click:2 their:2 firms:2 several:1 bought:1 firm:3 within:1 's:1 sold:1 million:1 here:2 wave:2 most:1 latest:2 100:1 than:1 stakes:2 made:2 amid:2 required:1 up:2 separately:2 more:1 connection:2 quarter:3 view:2
+PG	20140519	79.6	79.3	r_down	
+PG	20140520	79.3	79.5	r_up	woes:1 years:1 '':1 course:1 tastes:1 world:1 consumers:1 few:1 biggest:1 local:1 ``:1 selling:1 's:3 pushing:1 words:1 changing:1 stocks:1 made:1 look:1 companies:1 products:1 high-conviction:1
+PG	20140521	79.5	79.8	r_up	
+PG	20140522	79.8	80.0	r_up	
+PG	20140523	80.0	79.8	r_down	
+PG	20140527	79.8	79.4	r_down	
+PG	20140528	79.4	79.4	r_up	
+PG	20140529	79.4	79.7	r_up	
+PG	20140530	79.7	80.1	r_up	
+PG	20140602	80.1	79.7	r_down	global:1 committee:1 executive:1 revamp:1 includes:1 chief:1 slashing:1 unveiled:1 organizational:1 its:1 size:1
+PG	20140603	79.7	79.3	r_down	
+PG	20140604	79.3	79.2	r_down	index:1 evening:1 's:2 network:1 formerly:1 their:1 diversity:1 gender:1 top:1 companies:1 morning:1 fund:1 ranks:1 have:1 new:1 group:1 women:1 announced:1 85:1
+PG	20140605	79.2	79.4	r_up	among:1 basics:1 stores:1 like:1 pull:1 many:1 betting:1 sales:1 their:1 detergent:1 boost:1 unlikely:1 retailers:1 shoppers:1 consumer:1 into:1
+PG	20140606	79.4	79.4	r_up	
+PG	20140609	79.4	79.4	r_up	
+PG	20140610	79.4	79.5	r_up	material:1 high:1 bail:2 use:1 court:1 develop:1 remain:1 does:1 prison:1 2012:1 his:1 's:1 composite:1 continues:1 free:1 director:1 report:1 insider-trading:1 manufacturing:1 him:1 he:2 tomato:1 17:1 car:1 challenge:1 required:1 n't:1 while:1 continue:1 allow:1 sustainable:1 more:1 asked:1
+PG	20140611	79.5	79.4	r_down	
+PG	20140612	79.4	79.1	r_down	force:1 often:1 point:1 insider-trading:1 technology:1 slow:1 bail:1 while:1 been:1 new:1 has:1 charging:1 2012:1 his:1 bid:1 continues:1 problems:1 but:1 director:1 free:1 deployment:1 frequently:1 change:1 he:1 case:1 conviction:1 lost:1 mobile:1 could:1 devices:1 remain:1 challenge:1 called:1
+PG	20140613	79.1	79.0	r_down	
+PG	20140616	79.0	79.0	r_up	
+PG	20140617	79.0	78.9	r_down	
+PG	20140618	78.9	79.1	r_up	
+PG	20140619	79.1	79.6	r_up	
+PG	20140620	79.6	79.3	r_down	
+PG	20140623	79.3	78.8	r_down	
+PG	20140624	78.8	78.3	r_down	huge:1 chain:1 into:1 there:1 problems:1 expansion:1 were:1 breach:1 retail:1 data:1 top:1 before:1
+PG	20140625	78.3	78.6	r_up	
+PG	20140626	78.6	78.0	r_down	
+PG	20140627	78.0	78.3	r_up	
+PG	20140630	78.3	77.9	r_down	beleaguered:1 says:1 nominate:1 next:1 former:1 secretary:1
+PG	20140701	77.9	78.6	r_up	campaign:1 executive:1 up:1 entering:1 turning:1 startups:1 promote:1 personal:1 fix:1 next:1 field:1 longtime:1 online:1 department:1 care:1 tapped:1 beleaguered:1 's:2 marketing:1 brand:2 host:1 traffic:1 strong:1 former:1 women:1 earn:1 heating:1 secretary:1 corporate:1 latest:1
+PG	20140702	78.6	78.9	r_up	n't:1 's:1 joining:1 chops:1 up:1 but:1 price:1 disclosed:1 team:1 trying:1 scooping:1 its:1 improve:1
+PG	20140703	78.9	79.3	r_up	's:1 latest:1 high:1 record:1 accounted:1 above:1 half:1 push:1 new:1 stocks:1 17000:1 than:1 more:1
+PG	20140707	79.3	79.5	r_up	
+PG	20140708	79.5	79.9	r_up	processing:1 sense:1 face:1 hospitals:1 your:1 even:1 waits:1 disability:1 long:1 next:1 also:1 you:1 issue:1 more:1 brushing:1 smartphone:1 's:3 safe:1 problems:1 but:2 hand:1 toothbrush:2 phone:1 appointments:1 hailed:1 trying:1 than:1 after:1 faster:1 success:1 connectivity:1 finds:1 claims:1 makes:1 think:1 secretary:1
+PG	20140709	79.9	81.0	r_up	value:1 unlock:1 owner:1 further:1 poised:1 shaving:1 cream:1
+PG	20140710	81.0	80.9	r_down	
+PG	20140711	80.9	80.5	r_down	
+PG	20140714	80.5	80.6	r_up	
+PG	20140715	80.6	80.6	r_up	
+PG	20140716	80.6	80.9	r_up	
+PG	20140717	80.9	80.4	r_down	aging:1 adults:1 business:1 getting:1 ranks:1 into:1 takes:1 back:1 aim:1 suffering:1 products:1 growing:1 than:1 decade:1 more:1
+PG	20140718	80.4	80.5	r_up	
+PG	20140721	80.5	80.2	r_down	issued:1 into:1 executive:2 retailer:1 one:1 warning:1 stepping:1 jobs:1 said:1 would:1 profit:1 28:1 largest:1 biggest:1 new:2 tapped:1 global:1 's:1 company:2 but:1 nearly:1 hole:1 years:1 he:1 ago:1 joined:1 leave:2 chief:1 replaced:1 retail:1
+PG	20140722	80.2	80.1	r_down	outlook:1 tough:1 investors:3 ‘golden:2 activists:1 results:1 competition:1 not:2 manager:1 economic:1 investment:1 cut:1 21:1 asks:1 its:1 environment:1 citing:1 activist:2 commentary:1 do:1 increased:1 but:3 fund:1 anticipation:1 date:1 second-quarter:1 lower:1 age’:2 reported:1 average:1 companies:1 us:2 benefit:1
+PG	20140723	80.1	79.9	r_down	social-media:1 because:1 they:1 nominee:3 sales:1 into:1 global:1 ``:1 results:1 years:1 '':1 second:1 extended:1 including:1 confirm:1 committee:1 served:1 vote:2 take:2 its:2 brings:1 viral:1 he:2 unanimously:2 9.6:1 would:1 chamber:1 reported:1 nomination:1 near:1 forecast:1 outside:1 passion:1 voted:2 way:1 endorse:3 profit:1 limit:1 falling:1 has:1 veterans:1 over:1 more:1 briefly:1 full:3 's:6 clears:1 though:1 our:1 familiar:1 endorsement:1 reach:1 hurt:1 met:1 said:1 frenzy:1 members:1 others:1 quick:1 hold:1 reap:1 second-quarter:1 14:1 discounting:1 drop:1 showed:1 ahead:1 room:1 --:1 smartly:1 taking:1 work:1 year:1 websites:1 n't:1 turn:1 benefit:1 steps:1 many:1 growing:1 military:1 quarter:1 reduced:1 care:1 secretary:2
+PG	20140724	79.9	80.2	r_up	advertising:1 's:1 revenue:1 profit:1 amid:1 estimates:1 doubled:1 beat:1 growth:1 mobile:1 strong:1 than:1 more:1
+PG	20140725	80.2	79.5	r_down	
+PG	20140728	79.5	79.2	r_down	short:1 financiers:1 profit:1 rise:1 other:1 's:1 billion-dollar:1 bet:1 stock:1
+PG	20140729	79.2	78.6	r_down	billion:2 secretary:1 confirmed:2 bill:2 funding:2 leaders:2 17:2 reform:2 after:2 help:2 head:1 together:2 one:2 expand:2 agency:2 care:2 day:2 congressional:2 $:2
+PG	20140730	78.6	78.1	r_down	billion:1 overhaul:1 $:2 17:2 bill:1 measure:1 leaving:1 fund:1 compromise:1 voted:1 pass:1 vote:1 next:1 help:1
+PG	20140731	78.1	77.3	r_down	presence:1 expanding:1 sales:1 slowing:1 helped:1 second:1 pricing:1 its:3 market:1 out:1 26:1 said:1 rose:1 guidance:1 revenue:1 due:1 increase:1 earnings:2 income:1 international:1 net:1 unit:1 partly:1 increased:1 though:1 boosted:1 company:1 lowered:1 second-quarter:1 11:1 buoyed:1 consumer:1 eke:1 products:1 advertising:1 quarter:1 slightly:1
+PG	20140801	77.3	79.6	r_up	saying:1 agreed:1 focus:1 quarters:1 session:2 broader:1 yes:1 its:7 giant:1 trying:1 $:4 fit:1 surprises:1 opportunities:1 second-quarter:1 only:1 advisories:1 premarket:1 quarterly:1 has:1 good:1 around:1 get:2 results:2 game:1 ones:1 they:1 half:3 world:2 trade:2 continued:2 categories:1 look:1 early-stage:1 like:2 debut:1 list:1 possibilities:1 retailers:1 aligns:1 dominating:1 dip:1 guessing:1 shedding:1 smaller:1 says:1 often:1 deal:2 trend:1 companies:4 estimates:1 up:1 jump:2 actively:2 trading:1 3.3:1 begun:1 edged:1 80:1 slot-machine:1 headlines:1 2.5:1 said:3 profit:3 jumped:1 decision:1 bearish:1 shares:3 yet:1 looking:1 between:1 period:1 here:1 reported:2 cut:2 focused:1 ominous:1 generate:1 roundup:1 38:2 organic:2 shelves:1 30:1 reports:2 products:7 rose:2 onto:1 skids:1 fourth-quarter:3 major:1 already:1 shed:1 one:1 simply:1 market:2 give:1 expected:2 slightly:2 more:3 fiscal:2 ``:1 knows:1 shelf:1 company:3 surges:1 specialty:1 but:3 wisdom:1 short:1 wake:1 goods:1 90:1 hold:1 surged:1 than:4 improved:2 cash:1 while:4 future:1 values:1 making:1 proprietary:1 investors:1 soars:1 share:1 sales:5 '':1 say:1 numbers:1 sharp:1 rid:1 greater:1 beats:1 no:1 provide:1 also:1 interested:1 earnings:3 which:1 largest:2 a.m.:2 soar:1 product:1 acquire:1 's:9 plans:1 falls:1 70:1 brands:4 data:1 billion:1 drop:1 off:1 longer:1 consumer:4 bankers:1 maker:3 costs:2 corporate:1 latest:1
+PG	20140804	79.6	79.2	r_down	sector:1 managers:1 rally:1 your:1 if:1 mutual:1 you:1 hat:1 stock:1 do:1 good:1 's:1 funds:1 fund:1 despite:1 hold:1 recent:1 invest:1 emerging-markets:1 analysts:1 time:1 think:1
+PG	20140805	79.2	79.4	r_up	billion:1 do:1 little:1 still:1 leaders:1 campaign:1 parties:1 commercial:1 two:1 together:1 trade:1 deals:1 which:1 part:1 relationship:1 unveiled:1 14:2 improve:1 business:1 $:2
+PG	20140806	79.4	81.0	r_up	losses:1 prompt:1 leaders:1 campaign:1 revenue:1 tepid:1 trade:1 unit:1 growth:1 unveiled:1 parties:1 scarce:1 still:1 networks:1 declined:1 5.1:1 little:1 said:1 $:1 entertainment:1 third-quarter:1 its:1 enough:1 potential:1 earnings:1 which:1 invade:1 more:1 do:1 earlier:1 's:2 business:2 dive:1 after:1 commercial:1 took:1 but:1 market:1 fell:1 relationship:1 two:1 remarks:1 news:1 than:1 improve:1 billion:1 14:1 cable:1 double:1 official:1 together:1 deals:1 part:1 were:1 action:1 warning:1
+PG	20140807	81.0	80.1	r_down	billion:1 given:1 law:1 overhaul:1 $:2 founder:1 brand:1 ranch:1 help:1 signed:1 acres:1 hair:1 products:1 measure:1 improve:1 has:1 veterans:1 into:1 care:2
+PG	20140808	80.1	80.9	r_up	
+PG	20140811	80.9	81.4	r_up	
+PG	20140812	81.4	81.4	r_up	's:1 5.5:1 reported:1 tensions:1 warned:1 rise:1 political:1 shampoo:1 second-quarter:1 looking:1 detergent:1 profit:1 trading:1 rising:1 amid:1 tough:1 net:1 has:1 conditions:1 maker:1
+PG	20140813	81.4	81.4	r_up	everyone:1 plenty:1 can:1 ca:1 ``:2 '':2 analytics:1 see:1 ready:1 laundry:1 still:1 your:1 if:1 use:1 $:1 service:1 segments:1 there:1 quickly:1 machine:1 other:1 take:1 way:1 online:1 you:3 500:1 more:1 customers:1 's:1 business:2 focus:2 but:1 primary:2 cleaning:1 they:1 not:3 data:1 he:1 dry:1 organizations:1 outfits:1 n't:1 're:1 massive:1 context:1 making:1 writes:2
+PG	20140814	81.4	81.9	r_up	
+PG	20140815	81.9	81.7	r_down	
+PG	20140818	81.7	82.4	r_up	
+PG	20140819	82.4	82.6	r_up	scary:1 good:1 financial:1 sectors:1 just:1 plain:1 taking:1 health-care:1 strategic:1 shifts:1 bad:1 tech:1 can:1 undecided:1 risks:1 highlight:1 why:1 executives:1
+PG	20140820	82.6	82.8	r_up	
+PG	20140821	82.8	83.2	r_up	
+PG	20140822	83.2	83.3	r_up	week:1 guidelines:1 's:2 option:1 people:1 funds:1 new:1 but:1 one:1 spots:1 issued:1 barring:1 maybe:1 not:1 watchdog:1 choice:1 ad:1 best:1 volatility:1
+PG	20140825	83.3	83.5	r_up	
+PG	20140826	83.5	83.3	r_down	haulers:1 ahead:1 premium:1 just:1 trucks:1 powered:1 efficient:1 commercial:1 sales:1 years:1 prices:1 strongest:1 infrastructure:1 eight:1 natural-gas:1 slowed:1 limited:1 market:1 more:1
+PG	20140827	83.3	83.3	r_up	
+PG	20140828	83.3	83.0	r_down	
+PG	20140829	83.0	83.1	r_up	one:1 over:1 earlier:1 taking:1 executive:1 giant:1 month:1 global:1 next:1 chief:1 crisis:1 planned:1 become:1 retail:1 than:1
+PG	20140902	83.1	82.9	r_down	
+PG	20140903	82.9	82.9	r_up	
+PG	20140904	82.9	83.7	r_up	
+PG	20140905	83.7	83.7	r_up	selling:1 means:1 things:1 writes:1 it’s:1 some:1 others:1 finally:1 inflation:1 portfolio:1 buying:1 time:1 protecting:1 your:1 worry:1
+PG	20140908	83.7	83.3	r_down	financing:1 process:1 brand:1 since:1 according:1 opportunities:1 water:1 company:1 scout:1 sparkling:1 year:1 has:1 tapped:1 its:1
+PG	20140909	83.3	82.9	r_down	his:1 details:1 broadly:1 few:1 outlined:1 but:1 specific:1 included:1 plan:1 image:1 improving:1 organization:1 its:1 short-term:1
+PG	20140910	82.9	83.6	r_up	
+PG	20140911	83.6	83.4	r_down	returns:1 above-average:1 advantage:1 dollars:1 activists:1 number:1 billions:1 hedge-fund:1 their:1 clout:1 take:1 largest:1 increasing:1 effort:1 boardrooms:1 raising:1
+PG	20140912	83.4	83.2	r_down	popularity:2 globe:1 sales:1 diapers:3 have:1 battle:1 seen:1 expensive:2 spending:2 their:2 which:1 new:1 around:1 power:2 moms:1 disposable:1 wars:1 big-name:1 loyalty:1 most:1 fall:1 brands:1 world:2 rises:2 lower:1 developing:2 country:1 rage:1 while:1 growing:2
+PG	20140915	83.2	83.8	r_up	
+PG	20140916	83.8	84.0	r_up	advance:1 ``:1 ad:2 tepid:1 spending:1 season:2 upfront:1 sales:1 been:1 surge:1 '':1 banking:1 fall:1 weaker-than-expected:1 have:1 coming:1 following:1 new:1 weeks:1 looking:1 networks:1
+PG	20140917	84.0	84.1	r_up	league:1 ``:1 said:2 's:2 have:1 brewer:1 increasingly:1 season:1 concerned:1 overshadowed:1 '':1 handling:1 incidents:1 which:1 disappointed:1 recent:1
+PG	20140918	84.1	84.1	r_up	deals:1 swirls:1 task:1 around:1 violence:1 make:1 like:1 domestic:1 against:1 controversy:1 facing:1 wrongdoing:1 lucrative:1 statement:1 brands:1 league:1 strong:1 without:1 difficult:1
+PG	20140919	84.1	84.4	r_up	stepping:1 proposed:1 executive:1 some:1 valuable:1 one:1 down:1 committee:1 scandal:1 open:1 market:1 seemed:1 giant:1 said:1 $:1 two:1 shares:1 their:1 role:1 conduct:1 new:1 weeks:1 has:1 his:1 's:1 around:1 power:1 company:1 most:1 operating:1 surged:1 response:1 league:1 38:1 debut:1 companies:1 e-commerce:1 chief:2 replaced:1 officer:2 making:1
+PG	20140922	84.4	84.8	r_up	
+PG	20140923	84.8	84.4	r_down	exists:1 agreed:1 competition:1 one:1 downgraded:1 underlying:1 looks:1 consumer-products:1 session:1 its:4 market:1 out:1 buyers:1 said:1 potential:1 driving:1 few:1 generic:1 jumped:1 shares:2 fight:1 rivals:1 expensive:1 won:1 potentially:1 too:1 expected:1 exit:1 remaining:2 stock:2 firm:1 division:1 acquire:1 's:5 business:1 fundamentals:1 company:1 after:1 weak:1 giant:1 takeover:1 trade:1 convinced:1 day:1 care:1 thinks:1 protect:1 completing:1 pet:1 companies:1 reports:1 n't:2 realistic:1 actively:1 victory:1 were:1
+PG	20140924	84.4	85.2	r_up	giant:1 wo:1 weak:1 fundamentals:1 n't:1 acquired:1 likely:1 consumer-products:1
+PG	20140925	85.2	84.3	r_down	
+PG	20140926	84.3	84.5	r_up	
+PG	20140929	84.5	84.4	r_down	
+PG	20140930	84.4	83.7	r_down	's:1 beauty:1 frontier:1 industry:1 air:1 effects:1 skin:1 next:1 pollution:1
+PG	20141001	83.7	83.1	r_down	
+PG	20141002	83.1	83.0	r_down	
+PG	20141003	83.0	83.7	r_up	
+PG	20141006	83.7	83.5	r_down	has:1 users:2 mobile:1 desktop:1 economic:1 begun:1 new:1 now:1 cycle:1
+PG	20141007	83.5	83.1	r_down	
+PG	20141008	83.1	84.1	r_up	buy:1 deal:1 battery:1 agreed:1 stake:1 closely:1 buyout:1 more:1 could:1 manufacturer:1
+PG	20141009	84.1	83.6	r_down	
+PG	20141010	83.6	84.6	r_up	conference:1 company’s:1 grounded:1 sitting:1 amid:1 week’s:1 shifts:1 chance:1 tech:1 keeps:1 not:1 new:1 seismic:1 still:1 effort:1 industry:1 cloud:1

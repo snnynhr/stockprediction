@@ -1,307 +1,114 @@
-USB	20120402	30.93	30.96	r_up	
-USB	20120403	30.96	30.85	r_down	play:1 loan:1 race:1 banks:1 your:1 card:1
-USB	20120404	30.85	30.57	r_down	
-USB	20120405	30.57	30.61	r_up	
-USB	20120409	30.61	30.28	r_down	
-USB	20120410	30.28	29.62	r_down	
-USB	20120411	29.62	30.14	r_up	
-USB	20120412	30.14	30.6	r_up	
-USB	20120413	30.6	30.17	r_down	's:1
-USB	20120416	30.17	30.43	r_up	enthusiasm:1 's:1 your:1
-USB	20120417	30.43	30.81	r_up	watch:2 28:1 's:1 23:1
-USB	20120418	30.81	30.56	r_down	stocks:1 financial:1 drive:1 higher:1
-USB	20120419	30.56	30.48	r_down	's:1
-USB	20120420	30.48	30.55	r_up	
-USB	20120423	30.55	30.47	r_down	
-USB	20120424	30.47	30.87	r_up	but:1
-USB	20120425	30.87	30.93	r_up	's:1
-USB	20120426	30.93	31.34	r_up	
-USB	20120427	31.34	31.67	r_up	
-USB	20120430	31.67	31.41	r_down	
-USB	20120501	31.41	31.53	r_up	
-USB	20120502	31.53	31.28	r_down	
-USB	20120503	31.28	31.19	r_down	
-USB	20120504	31.19	30.92	r_down	1,000:1
-USB	20120507	30.92	31.09	r_up	's:1
-USB	20120508	31.09	30.83	r_down	's:1
-USB	20120509	30.83	30.73	r_down	
-USB	20120510	30.73	31.16	r_up	
-USB	20120511	31.16	31.45	r_up	down:1 re-evaluate:1 leads:1 bad:1 banks:1 bet:1
-USB	20120514	31.45	30.82	r_down	
-USB	20120515	30.82	30.56	r_down	
-USB	20120516	30.56	30.33	r_down	's:1
-USB	20120517	30.33	29.93	r_down	
-USB	20120518	29.93	29.56	r_down	
-USB	20120521	29.56	30.0	r_up	
-USB	20120522	30.0	30.27	r_up	
-USB	20120523	30.27	30.36	r_up	
-USB	20120524	30.36	30.4	r_up	60:1 $:1
-USB	20120525	30.4	30.2	r_down	
-USB	20120529	30.2	30.47	r_up	
-USB	20120530	30.47	30.03	r_down	
-USB	20120531	30.03	30.38	r_up	
-USB	20120601	30.38	28.9	r_down	$:1 7:1 4:1
-USB	20120604	28.9	28.11	r_down	
-USB	20120605	28.11	28.53	r_up	
-USB	20120606	28.53	29.0	r_up	
-USB	20120607	29.0	28.88	r_down	
-USB	20120608	28.88	29.39	r_up	
-USB	20120611	29.39	29.17	r_down	
-USB	20120612	29.17	29.91	r_up	
-USB	20120613	29.91	29.84	r_down	
-USB	20120614	29.84	30.28	r_up	250:1 $:1
-USB	20120615	30.28	30.84	r_up	
-USB	20120618	30.84	30.78	r_down	
-USB	20120619	30.78	31.01	r_up	
-USB	20120620	31.01	30.97	r_down	
-USB	20120621	30.97	30.49	r_down	
-USB	20120622	30.49	30.97	r_up	
-USB	20120625	30.97	30.43	r_down	
-USB	20120626	30.43	30.57	r_up	
-USB	20120627	30.57	30.88	r_up	
-USB	20120628	30.88	30.89	r_up	
-USB	20120629	30.89	31.6	r_up	
-USB	20120702	31.6	31.87	r_up	
-USB	20120703	31.87	32.01	r_up	
-USB	20120705	32.01	31.73	r_down	
-USB	20120706	31.73	31.45	r_down	11:2
-USB	20120709	31.45	31.47	r_up	
-USB	20120710	31.47	31.34	r_down	
-USB	20120711	31.34	31.72	r_up	
-USB	20120712	31.72	31.45	r_down	off:1 ahead:1 lending:1 rise:1 financials:1 earnings:1 problem:1 still:1 bank:1
-USB	20120713	31.45	32.13	r_up	
-USB	20120716	32.13	32.21	r_up	
-USB	20120717	32.21	32.38	r_up	's:1
-USB	20120718	32.38	32.9	r_up	18:1 watch:2 $:2 but:1 1.3:2
-USB	20120719	32.9	33.21	r_up	18:1
-USB	20120720	33.21	33.01	r_down	
-USB	20120723	33.01	32.84	r_down	
-USB	20120724	32.84	32.89	r_up	
-USB	20120725	32.89	32.71	r_down	
-USB	20120726	32.71	33.0	r_up	300:1 $:1
-USB	20120727	33.0	33.33	r_up	
-USB	20120730	33.33	33.16	r_down	
-USB	20120731	33.16	32.92	r_down	
-USB	20120801	32.92	32.74	r_down	10:1
-USB	20120802	32.74	32.33	r_down	
-USB	20120803	32.33	32.91	r_up	
-USB	20120806	32.91	32.43	r_down	
-USB	20120807	32.43	32.51	r_up	
-USB	20120808	32.51	32.44	r_down	11:2 $:2 3rd:1
-USB	20120809	32.44	32.45	r_up	
-USB	20120810	32.45	32.58	r_up	
-USB	20120813	32.58	32.6	r_up	
-USB	20120814	32.6	32.44	r_down	
-USB	20120815	32.44	32.59	r_up	's:1
-USB	20120816	32.59	32.63	r_up	
-USB	20120817	32.63	32.53	r_down	
-USB	20120820	32.53	32.65	r_up	
-USB	20120821	32.65	32.45	r_down	estimates:1 sales:1 rising:1 earnings:1 stocks:1 4:1
-USB	20120822	32.45	32.33	r_down	
-USB	20120823	32.33	32.19	r_down	
-USB	20120824	32.19	32.45	r_up	
-USB	20120827	32.45	32.61	r_up	
-USB	20120828	32.61	32.73	r_up	
-USB	20120829	32.73	32.92	r_up	
-USB	20120830	32.92	32.71	r_down	17:1
-USB	20120831	32.71	32.83	r_up	
-USB	20120904	32.83	32.54	r_down	
-USB	20120905	32.54	32.5	r_down	's:1
-USB	20120906	32.5	33.34	r_up	
-USB	20120907	33.34	33.39	r_up	
-USB	20120910	33.39	33.24	r_down	
-USB	20120911	33.24	33.45	r_up	
-USB	20120912	33.45	33.35	r_down	's:1
-USB	20120913	33.35	34.26	r_up	's:1
-USB	20120914	34.26	34.32	r_up	
-USB	20120917	34.32	33.59	r_down	
-USB	20120918	33.59	33.59	r_up	
-USB	20120919	33.59	33.74	r_up	
-USB	20120920	33.74	33.45	r_down	's:2
-USB	20120921	33.45	33.26	r_down	
-USB	20120924	33.26	33.58	r_up	
-USB	20120925	33.58	33.52	r_down	
-USB	20120926	33.52	33.55	r_up	leads:1 lower:1 stocks:1 financial:1
-USB	20120927	33.55	33.76	r_up	
-USB	20120928	33.76	33.9	r_up	
-USB	20121001	33.9	33.69	r_down	season:1 primer:1 profit-taking:1 fall:1
-USB	20121002	33.69	33.68	r_down	off:1 investors:1 ignoring:1 beta:1 're:1 4:1 concepts:1
-USB	20121003	33.68	33.97	r_up	
-USB	20121004	33.97	34.77	r_up	
-USB	20121005	34.77	34.51	r_down	
-USB	20121008	34.51	34.4	r_down	
-USB	20121009	34.4	34.27	r_down	
-USB	20121010	34.27	34.19	r_down	
-USB	20121011	34.19	33.98	r_down	
-USB	20121012	33.98	33.32	r_down	
-USB	20121015	33.32	33.23	r_down	ties:1 bias:1 subprime:1 race:1 suit:1
-USB	20121016	33.23	33.21	r_down	
-USB	20121017	33.21	33.8	r_up	's:3 watch:1 earnings:1 16:4
-USB	20121018	33.8	33.99	r_up	surprises:1 advisories:1 16:1
-USB	20121019	33.99	33.83	r_down	stocks:1 build:1 bank:1 floor:1
-USB	20121022	33.83	33.77	r_down	
-USB	20121023	33.77	32.97	r_down	lower:1 's:1 after:1 results:1 shares:1 close:1
-USB	20121024	32.97	32.74	r_down	
-USB	20121025	32.74	33.08	r_up	2013:1
-USB	20121026	33.08	32.76	r_down	
-USB	20121031	32.76	32.82	r_up	
-USB	20121101	32.82	33.26	r_up	
-USB	20121102	33.26	33.04	r_down	
-USB	20121105	33.04	32.75	r_down	
-USB	20121106	32.75	33.19	r_up	
-USB	20121107	33.19	32.01	r_down	
-USB	20121108	32.01	31.79	r_down	
-USB	20121109	31.79	31.72	r_down	
-USB	20121112	31.72	31.68	r_down	
-USB	20121113	31.68	31.34	r_down	
-USB	20121114	31.34	30.96	r_down	29:1
-USB	20121115	30.96	30.84	r_down	
-USB	20121116	30.84	31.18	r_up	
-USB	20121119	31.18	31.7	r_up	
-USB	20121120	31.7	31.87	r_up	
-USB	20121121	31.87	31.67	r_down	
-USB	20121123	31.67	32.2	r_up	
-USB	20121126	32.2	32.0	r_down	
-USB	20121127	32.0	31.72	r_down	
-USB	20121128	31.72	32.01	r_up	
-USB	20121129	32.01	32.02	r_up	
-USB	20121130	32.02	31.88	r_down	's:1
-USB	20121203	31.88	31.67	r_down	
-USB	20121204	31.67	31.06	r_down	's:1
-USB	20121205	31.06	31.39	r_up	
-USB	20121206	31.39	31.43	r_up	's:1
-USB	20121207	31.43	31.64	r_up	
-USB	20121210	31.64	31.52	r_down	
-USB	20121211	31.52	31.59	r_up	
-USB	20121212	31.59	31.49	r_down	
-USB	20121213	31.49	31.2	r_down	
-USB	20121214	31.2	31.03	r_down	
-USB	20121217	31.03	31.71	r_up	
-USB	20121218	31.71	32.19	r_up	
-USB	20121219	32.19	31.82	r_down	
-USB	20121220	31.82	32.06	r_up	back:1 gains:1 give:1
-USB	20121221	32.06	32.1	r_up	62,000:1 's:1 $:1
-USB	20121224	32.1	31.93	r_down	
-USB	20121226	31.93	31.88	r_down	
-USB	20121227	31.88	31.83	r_down	
-USB	20121228	31.83	31.5	r_down	
-USB	20121231	31.5	31.76	r_up	
-USB	20130102	31.76	32.78	r_up	
-USB	20130103	32.78	32.32	r_down	
-USB	20130104	32.32	33.03	r_up	
-USB	20130107	33.03	32.73	r_down	
-USB	20130108	32.73	32.78	r_up	8.5:1 $:1 foreclosure:1 abuse:1 bln:1 settlement:1
-USB	20130109	32.78	33.08	r_up	--:2 's:2
-USB	20130110	33.08	33.45	r_up	rise:1 eve:1 shares:1 results:1
-USB	20130111	33.45	33.31	r_down	
-USB	20130114	33.31	33.28	r_down	giants:1 foreclosure:1 over:1 battles:1 faulty:1 bank:1
-USB	20130115	33.28	33.09	r_down	
-USB	20130116	33.09	32.96	r_down	earnings:1
-USB	20130117	32.96	32.57	r_down	
-USB	20130118	32.57	32.68	r_up	
-USB	20130122	32.68	32.81	r_up	
-USB	20130123	32.81	32.9	r_up	
-USB	20130124	32.9	32.92	r_up	
-USB	20130125	32.92	32.98	r_up	
-USB	20130128	32.98	32.98	r_up	
-USB	20130129	32.98	33.14	r_up	
-USB	20130130	33.14	32.95	r_down	
-USB	20130131	32.95	32.91	r_down	
-USB	20130201	32.91	33.21	r_up	
-USB	20130204	33.21	32.77	r_down	's:1
-USB	20130205	32.77	32.94	r_up	
-USB	20130206	32.94	33.42	r_up	
-USB	20130207	33.42	33.35	r_down	
-USB	20130208	33.35	33.46	r_up	
-USB	20130211	33.46	33.89	r_up	
-USB	20130212	33.89	34.11	r_up	
-USB	20130213	34.11	33.73	r_down	
-USB	20130214	33.73	33.79	r_up	's:1
-USB	20130215	33.79	33.71	r_down	
-USB	20130219	33.71	33.88	r_up	
-USB	20130220	33.88	33.65	r_down	
-USB	20130221	33.65	33.57	r_down	
-USB	20130222	33.57	33.68	r_up	
-USB	20130225	33.68	33.15	r_down	
-USB	20130226	33.15	33.59	r_up	
-USB	20130227	33.59	33.83	r_up	
-USB	20130228	33.83	33.78	r_down	$:1 breaks:1 down:1 bln:1 robo-signing:1 settlement:1 9.3:1
-USB	20130301	33.78	33.81	r_up	
-USB	20130304	33.81	34.08	r_up	
-USB	20130305	34.08	33.61	r_down	
-USB	20130306	33.61	33.54	r_down	
-USB	20130307	33.54	33.95	r_up	stress:1 below:1 standard:1 n't:1 only:1 test:1 bank:1
-USB	20130308	33.95	34.03	r_up	's:1
-USB	20130311	34.03	34.21	r_up	
-USB	20130312	34.21	34.14	r_down	
-USB	20130313	34.14	34.02	r_down	
-USB	20130314	34.02	33.86	r_down	
-USB	20130315	33.86	34.02	r_up	's:3
-USB	20130318	34.02	33.93	r_down	
-USB	20130319	33.93	33.75	r_down	
-USB	20130320	33.75	33.73	r_down	
-USB	20130321	33.73	33.36	r_down	banks:1 10:1 homeowners:1 foreclosing:1 most:1
-USB	20130322	33.36	33.38	r_up	
-USB	20130325	33.38	33.47	r_up	
-USB	20130326	33.47	33.68	r_up	
-USB	20130327	33.68	33.76	r_up	
-USB	20130328	33.76	33.93	r_up	2013:1 but:1
-USB	20130401	33.93	33.99	r_up	
-USB	20130402	33.99	34.1	r_up	
-USB	20130403	34.1	33.67	r_down	
-USB	20130404	33.67	33.82	r_up	
-USB	20130405	33.82	33.36	r_down	
-USB	20130408	33.36	33.69	r_up	
-USB	20130409	33.69	33.69	r_up	start:1 payments:1 foreclosure:1 making:1
-USB	20130410	33.69	34.19	r_up	's:1
-USB	20130411	34.19	34.2	r_up	10:1 watch:1 earnings:1 bank:1 things:1
-USB	20130412	34.2	34.08	r_down	
-USB	20130415	34.08	33.31	r_down	
-USB	20130416	33.31	32.72	r_down	streak:1 snaps:1 futures:1 hit:1 3-day:1 movers:1 rebound:1 after:1 beats:1 forecasts:1 hardest:1 rise:1 losing:1 's:1 2013:1 stock:1
-USB	20130417	32.72	32.38	r_down	surprises:1 advisories:1
-USB	20130418	32.38	32.27	r_down	
-USB	20130419	32.27	32.51	r_up	
-USB	20130422	32.51	32.47	r_down	
-USB	20130423	32.47	32.82	r_up	
-USB	20130424	32.82	33.15	r_up	
-USB	20130425	33.15	33.31	r_up	
-USB	20130426	33.31	33.13	r_down	
-USB	20130429	33.13	33.29	r_up	
-USB	20130430	33.29	33.28	r_down	
-USB	20130501	33.28	32.81	r_down	
-USB	20130502	32.81	32.58	r_down	
-USB	20130503	32.58	32.77	r_up	
-USB	20130506	32.77	32.89	r_up	
-USB	20130507	32.89	33.15	r_up	
-USB	20130508	33.15	33.33	r_up	
-USB	20130509	33.33	33.31	r_down	
-USB	20130510	33.31	33.49	r_up	
-USB	20130513	33.49	33.5	r_up	
-USB	20130514	33.5	33.89	r_up	
-USB	20130515	33.89	34.34	r_up	$:1 2.5:1
-USB	20130516	34.34	34.31	r_down	
-USB	20130517	34.31	34.67	r_up	
-USB	20130520	34.67	35.13	r_up	
-USB	20130521	35.13	35.29	r_up	2013:1
-USB	20130522	35.29	35.37	r_up	
-USB	20130523	35.37	35.22	r_down	
-USB	20130524	35.22	35.41	r_up	
-USB	20130528	35.41	35.54	r_up	
-USB	20130529	35.54	35.33	r_down	
-USB	20130530	35.33	35.53	r_up	
-USB	20130531	35.53	35.06	r_down	
-USB	20130603	35.06	35.27	r_up	
-USB	20130604	35.27	35.26	r_down	banks:1 beware:1 but:1 buying:1
-USB	20130605	35.26	35.01	r_down	
-USB	20130606	35.01	35.38	r_up	sued:1 $:1 over:1 42:1 but:1 fraud:1
-USB	20130607	35.38	35.87	r_up	
-USB	20130610	35.87	35.59	r_down	
-USB	20130611	35.59	35.41	r_down	
-USB	20130612	35.41	35.4	r_down	
-USB	20130613	35.4	35.46	r_up	
-USB	20130614	35.46	35.01	r_down	
-USB	20130617	35.01	35.23	r_up	
-USB	20130618	35.23	35.35	r_up	
-USB	20130619	35.35	35.19	r_down	
-USB	20130620	35.19	35.06	r_down	9:1 $:1
-USB	20130621	35.06	35.57	r_up	
+USB	20140501	40.3	39.9	r_down	
+USB	20140502	39.9	39.9	r_up	
+USB	20140505	39.9	39.9	r_up	little:1 slim:1 says:1 big:1 structured:1 incentive:1 research:1 down:1 offers:1 way:1 banks:2 new:1 analyst:1
+USB	20140506	39.9	39.6	r_down	
+USB	20140507	39.6	40.0	r_up	
+USB	20140508	40.0	39.8	r_down	said:1 's:1 federal:1 compliance:1 insured:1 requirements:1 authorities:1 investigating:1 loans:1 bank:1
+USB	20140509	39.8	39.8	r_up	
+USB	20140512	39.8	39.9	r_up	among:1 financial:1 collectors:1 including:1 fees:1 stores:1 its:1 size:1 use:1 complicate:1 banking:1 pay:1 top:1 research:1 much:1 finding:1 performance:1 shrink:1 more:1 customers:1 's:3 linked:1 regulators:1 groups:1 than:1 bank:1 --:1 could:1 suggests:1 leading:1 banks:1 efforts:1
+USB	20140513	39.9	40.0	r_up	
+USB	20140514	40.0	39.9	r_down	
+USB	20140515	39.9	40.1	r_up	
+USB	20140516	40.1	40.4	r_up	
+USB	20140519	40.4	40.8	r_up	
+USB	20140520	40.8	40.6	r_down	
+USB	20140521	40.6	40.7	r_up	
+USB	20140522	40.7	40.9	r_up	
+USB	20140523	40.9	40.9	r_up	says:1 share:1 financial:1 its:1 market:1 some:1 mortgage:1 advisers:1 crisis:1 their:1 return:1 bonds:1 proving:1 convincing:1 different:1 pursuit:1 during:1 stocks:1 equities:1 abandoned:1 challenge:1 clients:1 time:1
+USB	20140527	40.9	41.2	r_up	giants:1 smaller:1 off:1 housing:1 settlements:1 officials:1 lenders:1 fresh:1 billion-dollar:1 bank:1
+USB	20140528	41.2	41.5	r_up	
+USB	20140529	41.5	41.5	r_up	cut:1 sharply:1 plans:1 profit:1 year:1 expectations:1 expenses:1 banks:1 second:1 machines:1 lenders:1 half:1 biggest:1 sputtering:1 raising:1 accelerate:1
+USB	20140530	41.5	41.7	r_up	
+USB	20140602	41.7	41.7	r_up	underperform:1 recovery:1 lead:1 regional:1 continue:1 broader:1 banks:1 market:1
+USB	20140603	41.7	41.7	r_up	
+USB	20140604	41.7	41.8	r_up	
+USB	20140605	41.8	42.0	r_up	
+USB	20140606	42.0	42.3	r_up	even:1 easily:1 now:1 's:1 less:1 pay:1 there:1 much:1 deals:1 reason:1 settle:1 accounts:1 no:1 get:1 yields:1 you:1 more:1 best:1 can:1
+USB	20140609	42.3	43.0	r_up	
+USB	20140610	43.0	42.8	r_down	
+USB	20140611	42.8	42.4	r_down	
+USB	20140612	42.4	42.5	r_up	has:1 all:1 highest-paid:1 run:1 their:1 compensation:1 ranked:1 2013:2 total:1 proxies:1 bank:2 numbers:1
+USB	20140613	42.5	42.5	r_up	
+USB	20140616	42.5	42.2	r_down	
+USB	20140617	42.2	42.6	r_up	
+USB	20140618	42.6	42.8	r_up	sued:1 led:1 investors:1 roles:1 bonds:1 residential:1 mortgage-backed:1 securities:1 their:1 trustees:1 units:1 behalf:1 bought:1
+USB	20140619	42.8	42.7	r_down	
+USB	20140620	42.7	43.2	r_up	
+USB	20140623	43.2	43.3	r_up	
+USB	20140624	43.3	42.8	r_down	
+USB	20140625	42.8	42.8	r_up	limited:1 financial:1 increasingly:1 national:1 growth:1 market:1 area:1 opportunities:1 lending:1 more:1 risk:1 banks:2 they:1 auto-lending:1 warned:1 taking:1 worried:1 regulator:2 practices:1 compete:1 growing:1 risky:1
+USB	20140626	42.8	42.8	r_up	
+USB	20140627	42.8	43.1	r_up	
+USB	20140630	43.1	43.0	r_down	200:1 program:1 resolve:1 's:1 $:1 mortgage:1 pay:1 agreed:1 million:1 related:1 investigation:1 endorsement:1 under:1 loans:1 insurance:1
+USB	20140701	43.0	43.0	r_up	's:2 increased:1 business:1 doing:1 notification:1 taking:1 compliance:1 effect:1 face:1 state:1 risks:1 breach:1 new:1 law:1 today:1
+USB	20140702	43.0	43.0	r_up	
+USB	20140703	43.0	43.3	r_up	
+USB	20140707	43.3	43.2	r_down	
+USB	20140708	43.2	42.9	r_down	both:1 pressured:1 favored:1 face:1 interest:1 income:1 net:1
+USB	20140709	42.9	43.1	r_up	
+USB	20140710	43.1	42.8	r_down	
+USB	20140711	42.8	42.9	r_up	good:1 wise:1 look:1 would:1 almost:1 writes:1 some:1 times:1 past:1 ugly:1 numbers:1 second-quarter:1 ready:1 van:1 roll:1
+USB	20140714	42.9	42.8	r_down	
+USB	20140715	42.8	43.0	r_up	
+USB	20140716	43.0	42.2	r_down	biotech:1 leaders:1 just:1 globe:1 trade:1 rate:1 session:1 close:1 out:1 media:1 small-company:1 shares:1 interest:1 policy:1 speak:1 markets:1 economy:1 play:1 felt:1 's:2 around:1 attention:1 expected:1 effects:1 stocks:1 bank:1 central:1 sway:1 companies:1 actively:1 social:1
+USB	20140717	42.2	41.3	r_down	borrowing:1 over:1 results:1 due:1 second:1 measure:1 corporations:1 saw:1 decline:1 said:1 consumers:1 top:1 expectations:1 profitability:1 their:1 rates:1 earnings:2 largest:1 lending:1 low:1 week:1 's:1 regional:1 nation:1 most:1 part:1 key:1 fits:1 second-quarter:1 both:1 last:1 many:1 ramp:1 up:1 reports:1 starts:1 banks:2 quarter:1 starting:1
+USB	20140718	41.3	41.9	r_up	
+USB	20140721	41.9	41.8	r_down	
+USB	20140722	41.8	42.0	r_up	
+USB	20140723	42.0	42.2	r_up	
+USB	20140724	42.2	42.4	r_up	
+USB	20140725	42.4	42.5	r_up	customer:1 insight:1 recovery:1 business:1 hint:1 into:1 regional:1 results:1 their:1 offer:1 economic:1 health:1 earnings:1 base:1 small:1 retail:1 bank:2 economy:1
+USB	20140728	42.5	42.3	r_down	
+USB	20140729	42.3	42.3	r_up	
+USB	20140730	42.3	42.6	r_up	
+USB	20140731	42.6	41.7	r_down	them:1 based:1 giving:1 deserve:1 support:1 label:1 n't:1 rules:1 chance:1 important:1 so:1 which:1 escape:1 banks:2 stricter:1 law:1 systemically:1 change:1 size:1
+USB	20140801	41.7	41.0	r_down	
+USB	20140804	41.0	41.4	r_up	private-equity:1 managers:2 some:1 past:1 best:1 returns:1 finding:1 new:1 percentage:1 several:1 worth:1 more:1 checking:1 fund:1 complicated:1 performance:1 than:1 skills:1 study:1 annual:1 points:1 can:1 finds:1
+USB	20140805	41.4	40.9	r_down	billion:1 's:1 $:1 investors:1 whether:1 involved:1 they:1 private:1 extension:1 another:1 approve:1 have:1 deal:1 mortgage-securities:1 settlement:1 decide:1 asked:1 1.13:1
+USB	20140806	40.9	40.8	r_down	still:1 opinions:1 another:1 investors:1 advisors:1 ``:1 private:1 '':1 have:1 68:1 relates:1 settlement:3 decide:1 said:1 $:1 expert:1 trusts:1 few:1 waiting:1 trustees:2 which:1 units:1 include:1 more:1 notice:1 's:2 may:1 each:1 agreement:1 wrapped:1 they:2 not:1 1.13:1 billion:1 extension:1 whether:1 involved:2 proposed:1 months:1 up:1 deal:1 were:1 mortgage-securities:2 approve:1 asked:1
+USB	20140807	40.8	40.4	r_down	
+USB	20140808	40.4	40.9	r_up	
+USB	20140811	40.9	40.7	r_down	
+USB	20140812	40.7	40.9	r_up	
+USB	20140813	40.9	41.1	r_up	
+USB	20140814	41.1	41.3	r_up	
+USB	20140815	41.3	41.0	r_down	
+USB	20140818	41.0	41.4	r_up	
+USB	20140819	41.4	41.6	r_up	
+USB	20140820	41.6	41.4	r_down	
+USB	20140821	41.4	41.9	r_up	
+USB	20140822	41.9	41.7	r_down	
+USB	20140825	41.7	42.0	r_up	
+USB	20140826	42.0	42.1	r_up	billion:1 claims:1 needs:1 set:1 financial:1 $:1 mortgage:1 soured:1 country:1 over:1 aside:1 certain:1 say:1 settle:1 largest:1 's:1 loans:1 institutions:1
+USB	20140827	42.1	41.9	r_down	all:1 protests:1 that’s:1 pawn:1 reeling:1 did:1 money:1 writes:1 system:1 go:1 payday:1 part:1 banks:1 financial:1 shops:1 has:1 loans:1 problem:1 based:1
+USB	20140828	41.9	41.8	r_down	seeing:1 ``:1 said:1 determine:1 working:1 enforcement:1 after:1 '':1 unusual:1 morning:1 n't:1 attack:2 fraud:1 closely:1 scope:1 hacking:1 law:1 recent:1
+USB	20140829	41.8	42.0	r_up	
+USB	20140902	42.0	42.0	r_up	
+USB	20140903	42.0	41.8	r_down	
+USB	20140904	41.8	41.9	r_up	
+USB	20140905	41.9	41.8	r_down	
+USB	20140908	41.8	41.7	r_down	
+USB	20140909	41.7	41.3	r_down	``:1 said:1 's:1 banks:1 may:1 certain:1 top:1 exempt:1 medium-sized:1 '':1 banking:1 regulation:1 time:1 small:1 aspects:1 financial:1 2010:1 law:1 man:1
+USB	20140910	41.3	41.6	r_up	
+USB	20140911	41.6	41.8	r_up	
+USB	20140912	41.8	41.9	r_up	purchases:1 move:1 them:1 gadgets:1 embrace:1 further:1 electronic:1 consumers:1 pay:1 away:1 lets:1 technology:1 product:1 fueling:1 's:1 they:1 hopes:1 launches:1 industry:1 cash:1 credit-card:1 latest:1
+USB	20140915	41.9	42.1	r_up	assets:1 list:1 banks:1 place:1 biggest:1 5:1 has:1 fifth:1
+USB	20140916	42.1	42.1	r_up	lower:1 last:1 would:1 under:1 year:1 projected:1 released:1 levels:1 economic:1 have:1 capital:1 downturn:1 data:1 than:1
+USB	20140917	42.1	42.4	r_up	10:1 van:1 indexes:1 investors:1 can:1 beat:1 writes:1 rock-solid:1 conservative:1 less:1 their:1 low:1 stocks:1 risk:1 volatility:1
+USB	20140918	42.4	42.7	r_up	four:1 seen:1 favored:1 regionals:1 super:1
+USB	20140919	42.7	42.9	r_up	
+USB	20140922	42.9	42.7	r_down	borrowers:1 smaller:1 mortgage:1 data:1 share:1 according:1 receiving:1 loans:1
+USB	20140923	42.7	42.3	r_down	
+USB	20140924	42.3	42.3	r_up	
+USB	20140925	42.3	41.6	r_down	statements:1 restitution:1 see:1 something:1 want:1 fine:1 check:1 if:1 penalize:1 $:2 billing:1 should:1 their:1 practices:1 9:1 carpet:1 do:1 million:2 regulators:1 protection:1 they:2 identity-theft:2 bank:1 paying:1 48:1 order:1 n't:1 involving:1 products:1 called:1 latest:1
+USB	20140926	41.6	41.8	r_up	customers:1 required:1 return:1 $:2 48:1 fined:1 over:1 million:2 ``:1 related:1 '':1 billing:1 regulators:1 practices:1 products:1 illegal:1 9:1 's:1 identity-theft:1 bank:1
+USB	20140929	41.8	41.7	r_down	lowest:1 federal:1 work:1 branches:1 level:1 mobile:1 according:1 since:1 ramp:1 number:1 up:1 services:1 cut:1 online:1 2005:2 banks:1 new:1 costs:1 data:1 its:1 bank:1
+USB	20140930	41.7	41.8	r_up	
+USB	20141001	41.8	41.2	r_down	
+USB	20141002	41.2	41.2	r_up	
+USB	20141003	41.2	41.6	r_up	
+USB	20141006	41.6	41.5	r_down	
+USB	20141007	41.5	40.6	r_down	
+USB	20141008	40.6	41.3	r_up	
+USB	20141009	41.3	40.5	r_down	
+USB	20141010	40.5	40.0	r_down	

@@ -1,307 +1,114 @@
-EMC	20120402	29.88	29.71	r_down	
-EMC	20120403	29.71	29.85	r_up	
-EMC	20120404	29.85	29.18	r_down	
-EMC	20120405	29.18	28.94	r_down	leads:1 big:1 drop:1 up:1 techs:1
-EMC	20120409	28.94	28.64	r_down	
-EMC	20120410	28.64	28.25	r_down	
-EMC	20120411	28.25	28.6	r_up	
-EMC	20120412	28.6	29.2	r_up	
-EMC	20120413	29.2	28.87	r_down	's:1
-EMC	20120416	28.87	28.81	r_down	week:1 lead:1
-EMC	20120417	28.81	29.33	r_up	
-EMC	20120418	29.33	29.14	r_down	's:1
-EMC	20120419	29.14	28.1	r_down	watch:1 slide:1 surges:1 tech:1 lead:1
-EMC	20120420	28.1	27.9	r_down	stocks:1 ‘big:1 mostly:1 soars:1 weak:1 109:1 data’:1 tech:1 rises:1
-EMC	20120423	27.9	27.66	r_down	
-EMC	20120424	27.66	27.5	r_down	
-EMC	20120425	27.5	28.17	r_up	
-EMC	20120426	28.17	28.49	r_up	
-EMC	20120427	28.49	28.32	r_down	
-EMC	20120430	28.32	28.21	r_down	
-EMC	20120501	28.21	28.67	r_up	
-EMC	20120502	28.67	28.51	r_down	
-EMC	20120503	28.51	28.22	r_down	
-EMC	20120504	28.22	27.8	r_down	
-EMC	20120507	27.8	27.71	r_down	
-EMC	20120508	27.71	27.37	r_down	
-EMC	20120509	27.37	27.47	r_up	
-EMC	20120510	27.47	26.14	r_down	sector:1 forecast:1 down:1 tech:1 rattles:1 pulls:1 corporate:1 market:1
-EMC	20120511	26.14	26.36	r_up	
-EMC	20120514	26.36	26.1	r_down	
-EMC	20120515	26.1	26.11	r_up	
-EMC	20120516	26.11	25.57	r_down	's:1
-EMC	20120517	25.57	25.48	r_down	
-EMC	20120518	25.48	24.94	r_down	
-EMC	20120521	24.94	25.75	r_up	
-EMC	20120522	25.75	25.59	r_down	
-EMC	20120523	25.59	25.46	r_down	's:2 dive:1 shares:1 points:1 analyst:1 effect’:1
-EMC	20120524	25.46	24.23	r_down	's:4 sinks:1 late:1 tech:1 gets:1 boost:1
-EMC	20120525	24.23	24.24	r_up	disappoints:1 hits:1 lows:1 outlook:1
-EMC	20120529	24.24	24.22	r_down	
-EMC	20120530	24.22	24.03	r_down	
-EMC	20120531	24.03	23.85	r_down	sector:1 hot:1 tech:1 rekindles:1
-EMC	20120601	23.85	23.18	r_down	3.4:1 's:1 $:1
-EMC	20120604	23.18	22.85	r_down	
-EMC	20120605	22.85	23.38	r_up	
-EMC	20120606	23.38	24.38	r_up	
-EMC	20120607	24.38	24.58	r_up	
-EMC	20120608	24.58	24.64	r_up	
-EMC	20120611	24.64	24.34	r_down	
-EMC	20120612	24.34	24.55	r_up	
-EMC	20120613	24.55	24.3	r_down	
-EMC	20120614	24.3	23.98	r_down	
-EMC	20120615	23.98	24.7	r_up	
-EMC	20120618	24.7	24.68	r_down	
-EMC	20120619	24.68	25.46	r_up	
-EMC	20120620	25.46	25.35	r_down	
-EMC	20120621	25.35	24.18	r_down	
-EMC	20120622	24.18	24.71	r_up	
-EMC	20120625	24.71	23.81	r_down	
-EMC	20120626	23.81	23.95	r_up	n't:1 but:1
-EMC	20120627	23.95	24.2	r_up	mettle:1 prove:1 its:1 market:1 seeking:1
-EMC	20120628	24.2	23.71	r_down	
-EMC	20120629	23.71	25.63	r_up	
-EMC	20120702	25.63	25.23	r_down	season:1 investors:1 fund:1 stock:1
-EMC	20120703	25.23	25.63	r_up	
-EMC	20120705	25.63	25.24	r_down	
-EMC	20120706	25.24	24.07	r_down	
-EMC	20120709	24.07	23.69	r_down	
-EMC	20120710	23.69	23.56	r_down	
-EMC	20120711	23.56	23.55	r_down	
-EMC	20120712	23.55	23.32	r_down	end:1 up:1 add:1 tech:1 stocks:1 day’s:1
-EMC	20120713	23.32	23.65	r_up	techs:1 favored:1 over:1 broker:1 stay:1 while:1 gain:1 red:1
-EMC	20120716	23.65	23.29	r_down	
-EMC	20120717	23.29	22.92	r_down	decline:1 confirmed:1 uncertainty:1 's:1 heightens:1 surprises:1 after:1 up:2 shares:2 hours:1 seesaw:1 advisories:1 changes:1 stock:1
-EMC	20120718	22.92	25.08	r_up	watch:1
-EMC	20120719	25.08	25.46	r_up	gaining:1 surge:1 deck:1 surprises:1 after:1 results:1 shares:1 trade:1 hours:1 advisories:1 further:1 biggest:1 103:1 stocks:1 declining:1 higher:1
-EMC	20120720	25.46	25.05	r_down	
-EMC	20120723	25.05	24.8	r_down	13:1 $:3 1.26:3
-EMC	20120724	24.8	25.34	r_up	13:1 $:1 lead:1 19:2 watch:1 slump:1 wsj.com:1 1.26:1 tech:1 |:1
-EMC	20120725	25.34	25.16	r_down	surprises:1 advisories:1
-EMC	20120726	25.16	25.76	r_up	
-EMC	20120727	25.76	26.55	r_up	
-EMC	20120730	26.55	26.31	r_down	
-EMC	20120731	26.31	26.21	r_down	
-EMC	20120801	26.21	26.14	r_down	record:1 lows:1 shares:1 fall:1
-EMC	20120802	26.14	26.08	r_down	
-EMC	20120803	26.08	26.8	r_up	
-EMC	20120806	26.8	26.62	r_down	
-EMC	20120807	26.62	26.93	r_up	
-EMC	20120808	26.93	26.8	r_down	
-EMC	20120809	26.8	27.01	r_up	
-EMC	20120810	27.01	26.99	r_down	
-EMC	20120813	26.99	26.74	r_down	
-EMC	20120814	26.74	25.71	r_down	results:1 deliver:1 gun:1 under:1
-EMC	20120815	25.71	25.44	r_down	54:2 plunge:1 slump:1 techs:1
-EMC	20120816	25.44	26.26	r_up	54:4 2:1
-EMC	20120817	26.26	26.85	r_up	surprises:1 advisories:1
-EMC	20120820	26.85	26.58	r_down	
-EMC	20120821	26.58	26.14	r_down	
-EMC	20120822	26.14	26.35	r_up	pain:1 being:1 could:1 it’s:1 told:1 mean:1
-EMC	20120823	26.35	25.98	r_down	
-EMC	20120824	25.98	26.68	r_up	
-EMC	20120827	26.68	26.41	r_down	
-EMC	20120828	26.41	26.43	r_up	slips:1 action:1 rises:1 tech:1
-EMC	20120829	26.43	26.89	r_up	
-EMC	20120830	26.89	26.27	r_down	's:3
-EMC	20120831	26.27	26.29	r_up	
-EMC	20120904	26.29	26.35	r_up	
-EMC	20120905	26.35	26.41	r_up	
-EMC	20120906	26.41	27.51	r_up	15:1
-EMC	20120907	27.51	27.7	r_up	15:1
-EMC	20120910	27.7	27.38	r_down	
-EMC	20120911	27.38	27.32	r_down	
-EMC	20120912	27.32	27.31	r_down	
-EMC	20120913	27.31	27.52	r_up	
-EMC	20120914	27.52	27.86	r_up	$:1
-EMC	20120917	27.86	27.58	r_down	
-EMC	20120918	27.58	27.67	r_up	leads:1 losses:1 but:1 high:1 tech:1 new:1 claims:1
-EMC	20120919	27.67	27.73	r_up	
-EMC	20120920	27.73	27.52	r_down	
-EMC	20120921	27.52	28.02	r_up	
-EMC	20120924	28.02	27.76	r_down	
-EMC	20120925	27.76	27.17	r_down	
-EMC	20120926	27.17	26.75	r_down	
-EMC	20120927	26.75	27.52	r_up	
-EMC	20120928	27.52	27.27	r_down	
-EMC	20121001	27.27	27.26	r_down	
-EMC	20121002	27.26	27.24	r_down	
-EMC	20121003	27.24	27.04	r_down	
-EMC	20121004	27.04	27.19	r_up	
-EMC	20121005	27.19	27.29	r_up	can’t:1 change:1 missed:1 boat:1
-EMC	20121008	27.29	27.13	r_down	
-EMC	20121009	27.13	26.14	r_down	
-EMC	20121010	26.14	25.84	r_down	
-EMC	20121011	25.84	25.68	r_down	
-EMC	20121012	25.68	25.64	r_down	
-EMC	20121015	25.64	25.73	r_up	
-EMC	20121016	25.73	26.31	r_up	
-EMC	20121017	26.31	25.6	r_down	down:1 weigh:1 stocks:1 tech:1 results:1
-EMC	20121018	25.6	25.0	r_down	down:1 sinks:1 techs:1
-EMC	20121019	25.0	24.58	r_down	
-EMC	20121022	24.58	25.04	r_up	
-EMC	20121023	25.04	24.68	r_down	12:1
-EMC	20121024	24.68	24.46	r_down	12:4 soars:1 watch:1 slump:1 leads:1 3.4:2 tech:1 earnings:1
-EMC	20121025	24.46	24.14	r_down	surprises:1 advisories:1
-EMC	20121026	24.14	23.91	r_down	
-EMC	20121031	23.91	24.42	r_up	
-EMC	20121101	24.42	25.21	r_up	
-EMC	20121102	25.21	24.98	r_down	
-EMC	20121105	24.98	24.88	r_down	
-EMC	20121106	24.88	25.33	r_up	
-EMC	20121107	25.33	24.54	r_down	
-EMC	20121108	24.54	24.17	r_down	stocks:1 three:1 tech:1 not:1 weeks:1 now:1
-EMC	20121109	24.17	24.22	r_up	
-EMC	20121112	24.22	24.1	r_down	
-EMC	20121113	24.1	23.91	r_down	
-EMC	20121114	23.91	23.4	r_down	34:1
-EMC	20121115	23.4	23.56	r_up	uncertainty:1 bargain:1 remains:1 surges:1 bounces:1 back:1 but:1 falls:1 jump:1 buy:1 caution:1 shares:1 grand:1 surprise:1 34:1 yet:1 earnings:1
-EMC	20121116	23.56	23.56	r_up	
-EMC	20121119	23.56	24.34	r_up	week:1 strong:1 gains:1 may:1 start:1 analysts:1 stocks:1 look:1
-EMC	20121120	24.34	24.22	r_down	$:1
-EMC	20121121	24.22	24.35	r_up	
-EMC	20121123	24.35	24.81	r_up	
-EMC	20121126	24.81	24.67	r_down	
-EMC	20121127	24.67	24.57	r_down	
-EMC	20121128	24.57	24.86	r_up	
-EMC	20121129	24.86	25.03	r_up	
-EMC	20121130	25.03	24.82	r_down	
-EMC	20121203	24.82	24.76	r_down	
-EMC	20121204	24.76	24.92	r_up	
-EMC	20121205	24.92	25.15	r_up	
-EMC	20121206	25.15	25.18	r_up	
-EMC	20121207	25.18	24.91	r_down	
-EMC	20121210	24.91	25.02	r_up	
-EMC	20121211	25.02	25.32	r_up	
-EMC	20121212	25.32	24.67	r_down	
-EMC	20121213	24.67	24.72	r_up	
-EMC	20121214	24.72	24.72	r_up	
-EMC	20121217	24.72	25.27	r_up	now:1 money:1 true-blue:1 5:1 bull:1 making:1 moves:1
-EMC	20121218	25.27	25.86	r_up	
-EMC	20121219	25.86	25.91	r_up	
-EMC	20121220	25.91	25.91	r_up	
-EMC	20121221	25.91	25.62	r_down	
-EMC	20121224	25.62	25.62	r_up	
-EMC	20121226	25.62	25.33	r_down	
-EMC	20121227	25.33	25.29	r_down	down:1 stocks:1 tech:1 lead:1 2013:1
-EMC	20121228	25.29	24.83	r_down	
-EMC	20121231	24.83	25.3	r_up	
-EMC	20130102	25.3	24.84	r_down	
-EMC	20130103	24.84	24.37	r_down	
-EMC	20130104	24.37	24.33	r_down	
-EMC	20130107	24.33	24.13	r_down	
-EMC	20130108	24.13	23.87	r_down	2013:1
-EMC	20130109	23.87	24.02	r_up	losses:1 tech:1 lead:1 falls:1
-EMC	20130110	24.02	23.85	r_down	
-EMC	20130111	23.85	24.15	r_up	
-EMC	20130114	24.15	24.21	r_up	
-EMC	20130115	24.21	24.32	r_up	weighs:1 tech:1 shares:1 soar:1
-EMC	20130116	24.32	24.08	r_down	
-EMC	20130117	24.08	24.03	r_down	
-EMC	20130118	24.03	24.33	r_up	
-EMC	20130122	24.33	24.28	r_down	
-EMC	20130123	24.28	24.53	r_up	'':1 ``:1
-EMC	20130124	24.53	25.04	r_up	
-EMC	20130125	25.04	25.26	r_up	
-EMC	20130128	25.26	25.2	r_down	
-EMC	20130129	25.2	24.18	r_down	surprises:1 advisories:1
-EMC	20130130	24.18	24.6	r_up	down:1 drive:1 techs:1
-EMC	20130131	24.6	24.61	r_up	
-EMC	20130201	24.61	24.85	r_up	
-EMC	20130204	24.85	24.59	r_down	
-EMC	20130205	24.59	24.88	r_up	
-EMC	20130206	24.88	24.79	r_down	
-EMC	20130207	24.79	24.75	r_down	
-EMC	20130208	24.75	24.88	r_up	
-EMC	20130211	24.88	24.63	r_down	
-EMC	20130212	24.63	24.54	r_down	
-EMC	20130213	24.54	24.22	r_down	
-EMC	20130214	24.22	24.04	r_down	do:1 tells:1 us:1 should:1
-EMC	20130215	24.04	24.0	r_down	
-EMC	20130219	24.0	23.92	r_down	
-EMC	20130220	23.92	23.5	r_down	selloff:1 sink:1 market:1 crushed:1
-EMC	20130221	23.5	23.41	r_down	2013:1
-EMC	20130222	23.41	23.44	r_up	
-EMC	20130225	23.44	22.83	r_down	
-EMC	20130226	22.83	22.94	r_up	
-EMC	20130227	22.94	23.28	r_up	n't:1
-EMC	20130228	23.28	23.01	r_down	follow:1 into:1 stocks:1 red:1
-EMC	20130301	23.01	23.25	r_up	
-EMC	20130304	23.25	23.22	r_down	
-EMC	20130305	23.22	23.74	r_up	
-EMC	20130306	23.74	24.3	r_up	
-EMC	20130307	24.3	23.95	r_down	
-EMC	20130308	23.95	24.3	r_up	
-EMC	20130311	24.3	24.56	r_up	
-EMC	20130312	24.56	24.47	r_down	
-EMC	20130313	24.47	24.9	r_up	late:1 leads:1 gets:1 boost:1 techs:1
-EMC	20130314	24.9	25.62	r_up	push:1 stocks:1 lift:1 data’:1 ‘big:1
-EMC	20130315	25.62	25.35	r_down	
-EMC	20130318	25.35	25.05	r_down	
-EMC	20130319	25.05	24.7	r_down	
-EMC	20130320	24.7	24.85	r_up	
-EMC	20130321	24.85	24.5	r_down	
-EMC	20130322	24.5	24.15	r_down	
-EMC	20130325	24.15	23.74	r_down	's:1
-EMC	20130326	23.74	23.75	r_up	
-EMC	20130327	23.75	23.83	r_up	
-EMC	20130328	23.83	23.89	r_up	
-EMC	20130401	23.89	23.57	r_down	
-EMC	20130402	23.57	23.84	r_up	
-EMC	20130403	23.84	23.59	r_down	
-EMC	20130404	23.59	23.45	r_down	
-EMC	20130405	23.45	23.08	r_down	
-EMC	20130408	23.08	23.13	r_up	
-EMC	20130409	23.13	23.14	r_up	
-EMC	20130410	23.14	23.23	r_up	
-EMC	20130411	23.23	22.89	r_down	
-EMC	20130412	22.89	23.11	r_up	
-EMC	20130415	23.11	22.78	r_down	
-EMC	20130416	22.78	23.08	r_up	
-EMC	20130417	23.08	22.71	r_down	
-EMC	20130418	22.71	22.34	r_down	
-EMC	20130419	22.34	21.5	r_down	
-EMC	20130422	21.5	21.85	r_up	
-EMC	20130423	21.85	22.36	r_up	's:1
-EMC	20130424	22.36	22.52	r_up	
-EMC	20130425	22.52	22.63	r_up	
-EMC	20130426	22.63	22.39	r_down	
-EMC	20130429	22.39	22.49	r_up	
-EMC	20130430	22.49	22.43	r_down	
-EMC	20130501	22.43	22.46	r_up	head:1 tech:1 up:1 gains:1
-EMC	20130502	22.46	22.88	r_up	
-EMC	20130503	22.88	23.38	r_up	
-EMC	20130506	23.38	23.29	r_down	growing:1 threat:1
-EMC	20130507	23.29	23.12	r_down	
-EMC	20130508	23.12	23.45	r_up	
-EMC	20130509	23.45	22.9	r_down	
-EMC	20130510	22.9	23.34	r_up	
-EMC	20130513	23.34	23.04	r_down	
-EMC	20130514	23.04	23.0	r_down	
-EMC	20130515	23.0	23.02	r_up	
-EMC	20130516	23.02	24.06	r_up	
-EMC	20130517	24.06	24.24	r_up	
-EMC	20130520	24.24	24.16	r_down	
-EMC	20130521	24.16	24.1	r_down	
-EMC	20130522	24.1	23.68	r_down	
-EMC	20130523	23.68	23.66	r_down	
-EMC	20130524	23.66	23.65	r_down	
-EMC	20130528	23.65	23.87	r_up	
-EMC	20130529	23.87	23.66	r_down	
-EMC	20130530	23.66	24.93	r_up	
-EMC	20130531	24.93	24.76	r_down	help:1 movers:1 charger:1 after:1 tech:1 wobbly:1 news:1 stocks:1 spur:1 upward:1
-EMC	20130603	24.76	24.74	r_down	
-EMC	20130604	24.74	24.42	r_down	
-EMC	20130605	24.42	24.3	r_down	
-EMC	20130606	24.3	24.76	r_up	
-EMC	20130607	24.76	24.74	r_down	
-EMC	20130610	24.74	24.88	r_up	
-EMC	20130611	24.88	24.67	r_down	
-EMC	20130612	24.67	24.33	r_down	
-EMC	20130613	24.33	24.71	r_up	among:1 gainers:1 tech:1 rally:1
-EMC	20130614	24.71	24.76	r_up	2013:1
-EMC	20130617	24.76	24.83	r_up	--:1 's:1 2013:1
-EMC	20130618	24.83	24.99	r_up	
-EMC	20130619	24.99	24.86	r_down	
-EMC	20130620	24.86	24.74	r_down	
-EMC	20130621	24.74	24.33	r_down	
+EMC	20140501	25.5	25.4	r_down	firm:1 purchase:1 over:1 's:1 $:2 business:1 open:1 guidance:1 million:1 storage:1 movement:1 sign:1 source:1 technology:1 earnings:1 provider:1 175:2 latest:1 disappointed:1 taking:1 open-source:1
+EMC	20140502	25.4	25.4	r_up	
+EMC	20140505	25.4	25.5	r_up	turning:1 service:1 remains:1 into:1 delaying:1 up:1 against:1 anticipated:1 platform:1 going:1 focused:1 likes:1 widely:1 its:2
+EMC	20140506	25.5	25.3	r_down	technologies:1 n't:1 buy:1 's:1 did:1 big:1 agreed:1 storage:1 overblown:1 trend:1 one:1 hardware:1 industry:1 startup:1 company:1 exploiting:1 hottest:1 deter:1 data:1 maker:1 executives:1
+EMC	20140507	25.3	25.0	r_down	
+EMC	20140508	25.0	25.0	r_up	
+EMC	20140509	25.0	25.2	r_up	
+EMC	20140512	25.2	25.3	r_up	
+EMC	20140513	25.3	25.4	r_up	lower:1 replaces:1 's:1 network:1 platform:1 may:1 companies:1 revenue:1 help:1 hardware:1 their:1 costs:1 potentially:1 sources:1 provide:1 new:1 products:1 technology:1 software:1
+EMC	20140514	25.4	25.5	r_up	
+EMC	20140515	25.5	25.6	r_up	raised:1 just:1 month:1 '':1 year:1 $:2 media:1 flash:1 storage:1 capital:1 bets:1 ``:1 million:1 every:1 cutting-edge:1 15:1 225:1 data:1 billion:1 last:1 shift:1 spent:1
+EMC	20140516	25.6	26.0	r_up	
+EMC	20140519	26.0	26.1	r_up	
+EMC	20140520	26.1	26.0	r_down	
+EMC	20140521	26.0	26.1	r_up	even:1 urge:1 them:1 smartphone:1 users:2 people:1 after:1 companies:1 heed:1 bane:1 few:1 likely:1 computer:1 threat:1 others:1 security:1 warning:1 change:1
+EMC	20140522	26.1	26.2	r_up	all:1 because:1 says:1 people:1 researcher:1 helped:1 computer:2 retired:1 its:1 if:1 smartphone:1 few:1 create:1 havoc:1 their:1 breach:1 do:1 ``:2 passwords:2 's:1 users:2 million:1 heed:1 early:1 possibly:1 nightmare:1 password:1 data:1 change:1 he:1 '':2 kind:1 remember:1 did:1 past:1 companies:1 anybody:1 urged:1 guide:1 n't:2 145:1 warning:1 can:1 threat:1 unleash:1 bane:1 become:1 security:1 think:1 first:1
+EMC	20140523	26.2	26.3	r_up	
+EMC	20140527	26.3	26.3	r_up	
+EMC	20140528	26.3	26.3	r_up	
+EMC	20140529	26.3	26.5	r_up	
+EMC	20140530	26.5	26.3	r_down	
+EMC	20140602	26.3	26.3	r_up	acceleration:1 limited:1 growth:1
+EMC	20140603	26.3	26.1	r_down	all:1 regardless:1 valuations:1 sectors:1 amid:1 billion-dollar:1 some:1 play:1 innovations:1 reflect:1 watch:1 important:1 tech:2 ought:1 key:1 startups:2 bubble:1 along:1 talk:1 out:1
+EMC	20140604	26.1	26.1	r_up	'':2 cost:1 downside:1 jargon:1 writes:1 savings:1 going:1 performance:1 integrated:1 ``:2 mainstream:1 becomes:1 tool:1 dramatic:1 change:1 open-source:1 technical:1 companies:1 complexity:1 improvements:1 enterprise:1 adopting:1 software:1
+EMC	20140605	26.1	26.2	r_up	
+EMC	20140606	26.2	26.3	r_up	feel:1 pinch:1 could:1
+EMC	20140609	26.3	26.4	r_up	says:1 effective:1 brings:1 price:1 flash:1 storage:3 but:1 cheaper:1 efficiency:1 improves:1 speedy:1 unveiled:1 slower:1 line:1 disk:1 its:1 software:1
+EMC	20140610	26.4	26.4	r_up	
+EMC	20140611	26.4	26.6	r_up	revealing:1 lifted:1 trove:1 within:1 big:1 differences:1 health-care:1 cities:1 between:1 prices:1 has:1 data:1 its:1
+EMC	20140612	26.6	26.3	r_down	because:1 people:1 developed:1 over:1 say:1 world:1 if:2 index:1 appear:1 privacy:1 deeply:1 top:1 generally:1 priority:1 behave:1 luxury:1 new:1 ca:1 them:1 's:2 though:1 afford:1 but:1 matters:1 important:1 such:1 must:1 most:1 according:1 n't:1 thing:1 while:1 once:1
+EMC	20140613	26.3	26.4	r_up	
+EMC	20140616	26.4	26.4	r_up	
+EMC	20140617	26.4	26.2	r_down	
+EMC	20140618	26.2	26.5	r_up	
+EMC	20140619	26.5	26.6	r_up	
+EMC	20140620	26.6	26.1	r_down	
+EMC	20140623	26.1	26.1	r_up	
+EMC	20140624	26.1	25.8	r_down	both:1 conventional:1 made:1 network:1 integrating:1 suppliers:1 storage:1 devices:1 automation:1 new:1 its:1 software:1
+EMC	20140625	25.8	26.0	r_up	week:1 deal:1 1.3:1 computer:1 rooms:1 have:1 sense:1 consolidating:1 technology:1 documents:1 rapidly:1 $:1 flash:1 been:1 helps:1 memory:1 real:1 buy:1 's:1 get:1 read:1 filed:1 bringing:1 billion:1 connection:1 though:1 activity:1
+EMC	20140626	26.0	26.0	r_up	because:2 software-defined:1 positioned:1 servers:1 hardware:1 pulling:1 politics:1 dominant:1 storage:1 vendor:1 favor:1 firm:1 partly:2 price:1 others:1 brands:1 plug:1 homegrown:1 companies:1 reports:1 e-commerce:1 scrapping:1 mainframe:1 banks:1 software:1
+EMC	20140627	26.0	26.3	r_up	
+EMC	20140630	26.3	26.2	r_down	
+EMC	20140701	26.2	26.5	r_up	skeptical:1 worse:2 business:1 getting:2 could:2 troubles:1 find:1 better:1 indicate:1 investors:1 earnings:1 goals:1 not:1 upbeat:1 out:1 17:1 its:1 achieve:1 more:2
+EMC	20140702	26.5	26.5	r_up	
+EMC	20140703	26.5	26.8	r_up	
+EMC	20140707	26.8	26.7	r_down	
+EMC	20140708	26.7	26.3	r_down	says:1 family:2 computing:1 into:2 private:2 software-defined:1 centers:1 cloud:3 out:1 said:1 service:2 bringing:2 storage:2 cloud-based:1 its:2 rivals:1 version:2 interview:1 new:2 public:2 function:2 elements:2 's:1 gear:2 big:2 pressure:1 user:1 data:5 center:2 smartphones:1 like:1 companies:2 devices:1 morning:1 future:1 lays:1 maker:1 software:1
+EMC	20140709	26.3	26.5	r_up	
+EMC	20140710	26.5	26.6	r_up	
+EMC	20140711	26.6	26.5	r_down	recently:1 business:1 getting:1 provider:1 but:1 cheaper:1 n't:1 competition:1 time:1 growing:1 its:1 bought:1
+EMC	20140714	26.5	26.8	r_up	
+EMC	20140715	26.8	26.7	r_down	
+EMC	20140716	26.7	26.9	r_up	core:1 says:1 's:1 network:1 environment:1 efficient:1 make:1 transition:1 hybrid:1 centers:1 top:1 analytics:1 which:1 plan:1 company:1 software-defined:1 run:1 data:1 its:1 cloud:1 more:1
+EMC	20140717	26.9	26.6	r_down	
+EMC	20140718	26.6	26.8	r_up	
+EMC	20140721	26.8	28.2	r_up	major:1 stake:2 force:1 investors:1 show:1 push:4 some:1 mixed:1 according:1 jump:1 data-storage:2 have:1 close:1 love:1 during:1 video-streaming:1 investor:1 shareholders:1 rises:1 end:1 $:2 lead:1 tensions:1 plans:3 tougher:1 shares:1 day:1 1:2 activist:1 earnings:2 online:1 taken:2 has:2 war:1 higher:1 says:1 's:1 sinks:1 than:2 sending:1 familiar:1 company:1 giant:2 possible:1 geopolitical:1 fund:1 sink:1 sharply:1 report:1 gainers:1 stocks:3 holder:1 second-quarter:1 people:1 apart:2 billion:2 break:4 lower:2 ahead:1 sanctions:1 amid:2 could:1 itself:2 up:2 against:1 matter:1 remain:1 escalating:1 tech:3 jittery:1 more:2
+EMC	20140722	28.2	28.4	r_up	pause:1 set:1 investors:3 ‘golden:1 over:1 activists:1 declined:1 device:1 itself:1 sharp:1 battle:1 hit:1 its:2 market:1 faces:1 management:1 campaign:1 asks:1 breakup:1 lead:1 due:1 long:1 yet:1 activist:2 earnings:1 units:1 has:1 approach:1 do:1 after:1 's:4 gains:1 looming:1 company:2 act:1 but:3 test:1 fell:1 tied:1 not:1 now:1 investor:1 second-quarter:1 structure:2 apart:1 stocks:1 target:1 age’:1 largely:1 mobile:1 32:1 average:1 companies:1 us:1 morning:1 benefit:1 costs:1 tech:1 can:1 broad:1 button:1 calls:1 changes:1 could:1 acquisition:1
+EMC	20140723	28.4	28.6	r_up	operations:1 snack:1 adjusted:1 revenue:3 results:1 trade:2 helped:1 full-year:1 actively:2 year:1 beyond:1 data:1 its:4 cloud:2 4.7:1 said:2 missed:1 profit:1 rose:1 cautiously:1 hybrid:1 expectations:1 shares:2 than:1 increase:1 also:1 costs:1 earnings:3 premarket:1 provider:1 expected:2 international:1 9.6:1 higher:1 beverage:1 ``:1 experienced:1 's:8 increased:1 focus:1 company:2 rise:1 weak:1 but:1 sales:1 '':1 fell:3 moving:1 activist:1 offset:1 customers:1 sign:1 investor:1 second-quarter:3 $:1 wide:1 quarter:1 last:1 name:1 outlook:2 16:1 corporate:1 companies:2 center:1 doubled:1 morning:1 traditional:1 session:2 a.m.:1 analysts:1 volumes:1 steadily:1 more:1 margin:1 reduced:1
+EMC	20140724	28.6	28.7	r_up	right:1 says:1 some:1 cyber:1 '':2 market:1 information:1 there:2 research:1 their:1 compelling:1 way:1 struggling:2 issue:1 ``:2 unless:1 risk:1 becomes:1 stay:1 reason:1 separation:1 president:1 now:1 change:1 roles:1 calls:1 vice:1 belts:1 morning:1 chief:1 officer:1 growing:1 tightening:1 security:1 whole:1
+EMC	20140725	28.7	29.0	r_up	said:1 holding:1 acquired:1 familiar:1 company:1 stake:1 sale:1 6.7:2 person:1 explore:1 advertising:1 which:1 push:1 situation:1 has:1 investor:1 options:1
+EMC	20140728	29.0	29.5	r_up	
+EMC	20140729	29.5	29.3	r_down	fairly:1 year-to-date:1 2,000:2 technicals:1 headline:1 support:1 mark:1 slowly:1 approach:1 500:2 stock:1 case:1 topping:1 's:1 may:1 continues:1 but:1 bull:1 markets’:1 valued:1 14:1 up:1 grind:1 continue:1 steadily:1 toward:1 backdrop:1
+EMC	20140730	29.3	29.7	r_up	
+EMC	20140731	29.7	29.1	r_down	says:1 performance:1 get:1 ways:1 cars:1 their:1 race:1 can:1 collects:1 new:1 more:1 data:1 its:1 out:1
+EMC	20140801	29.1	28.9	r_down	
+EMC	20140804	28.9	29.4	r_up	fourth-quarter:1 1.2:1 revenue:1 agreed:1 estimates:1 results:1 private:1 trade:1 session:1 trading:1 contract:1 still:1 its:1 declined:1 said:1 $:1 topped:1 shares:1 investment:1 hampered:1 premarket:1 expected:1 firm:1 's:2 taken:1 fell:1 wholesaler:1 fiscal:1 companies:1 drug:1 consensus:1 actively:1 expiration:1
+EMC	20140805	29.4	29.1	r_down	limited:1 could:1 downside:1 have:1 soar:1
+EMC	20140806	29.1	29.0	r_down	
+EMC	20140807	29.0	28.8	r_down	
+EMC	20140808	28.8	28.9	r_up	
+EMC	20140811	28.9	29.2	r_up	
+EMC	20140812	29.2	29.2	r_up	
+EMC	20140813	29.2	29.3	r_up	
+EMC	20140814	29.3	29.6	r_up	
+EMC	20140815	29.6	29.6	r_up	
+EMC	20140818	29.6	29.8	r_up	internally:1 accelerate:1 're:1 products:1 helps:1 way:1 overhauling:1 services:1 says:1 delivers:1 effort:1 maker:1 market:1 software:1
+EMC	20140819	29.8	29.7	r_down	has:2 less-charted:2 technical:1 breaks:1 resistance:1 reaches:1 while:1 significant:1 reached:1 territory:2 14-year:1 highs:1 500:1 out:1
+EMC	20140820	29.7	29.5	r_down	venture-capital:1 around:1 analysis:1 round-up:1 news:1 $:1
+EMC	20140821	29.5	29.5	r_up	investors:1 them:1 sale:1 '':1 signs:1 corner:1 out:1 n't:1 office:1 their:1 other:1 so:1 do:1 ``:1 hang:1 clues:1 front:1 11:1 vacancy:1 look:1 corporate:1 companies:1 up:1 try:1 offices:1 analysts:1 traded:1
+EMC	20140822	29.5	29.5	r_up	
+EMC	20140825	29.5	29.5	r_up	emerging:1 threats:1 plans:1 widely:1 company:1 two:1 been:1 lucrative:1 have:1 seen:1 franchise:1 announce:1 technologies:1 's:1 software:1
+EMC	20140826	29.5	29.4	r_down	
+EMC	20140827	29.4	29.3	r_down	
+EMC	20140828	29.3	29.2	r_down	
+EMC	20140829	29.2	29.4	r_up	
+EMC	20140902	29.4	29.3	r_down	
+EMC	20140903	29.3	29.4	r_up	
+EMC	20140904	29.4	28.9	r_down	undervalued:1 direct:1 competitive:1 table:1 market:1 mounting:1 improvement:1 longtime:1 entered:1 more:1 infrastructure:1 business:1 company:1 paid:1 assault:1 putting:1 gain:1 off:1 chips:1 allies:1 server:1 while:1 2009:1 bet:1
+EMC	20140905	28.9	28.9	r_up	
+EMC	20140908	28.9	29.1	r_up	
+EMC	20140909	29.1	29.1	r_up	
+EMC	20140910	29.1	29.3	r_up	
+EMC	20140911	29.3	29.5	r_up	
+EMC	20140912	29.5	29.5	r_up	exploring:1 matter:1 familiar:1 company:1 stake:1 sale:1 person:1 spinoff:1 told:1 its:1 software:1
+EMC	20140915	29.5	29.3	r_down	
+EMC	20140916	29.3	29.4	r_up	billion:1 10:1 infrastructure:1 's:1 center:1 revenue:1 data:1 company:1 top:1 storage:1 aims:1 servers:1 computer:1 five:1 said:1 executive:1 years:1 boost:1 its:2 $:1
+EMC	20140917	29.4	29.3	r_down	
+EMC	20140918	29.3	29.6	r_up	
+EMC	20140919	29.6	29.4	r_down	sector:1 massive:1 potential:1 says:1 merger:1 targets:1 consolidation:1 cloud-based:1 next:1 other:1 --:1 number:1 mania:1 who’s:1 sets:2 sees:1 buyout:2 software:1 analyst:1 acquisition:1 stage:2
+EMC	20140922	29.4	29.5	r_up	emerging:1 executive:1 trade:1 session:1 including:1 its:1 giant:2 slow:1 thank:1 merger:3 highlights:1 opportunities:1 penalty:1 equity:1 has:2 longtime:2 do:1 good:1 finance:1 seeking:1 beat:1 big:1 hedge:1 investor:1 companies:4 morning:2 facing:1 steam:1 weighs:1 talked:1 deal:4 sign:1 culture:1 growth:1 loses:1 shares:1 looking:1 activist:2 unit:1 new:1 public:1 million:1 pressure:2 retirement:2 news:2 along:1 $:1 faced:2 conviction:1 could:2 according:1 reports:1 climb:1 options:3 into:1 private:1 bribery:1 likes:1 message:1 your:1 market:2 considering:2 confidence:1 would:1 remains:1 positive:1 biggest:1 markets:2 500:1 more:1 offer:1 successful:1 funds:1 surges:1 but:1 expected:3 bull:1 than:1 include:2 rival:2 challenge:1 n't:1 near:1 actively:1 under:2 spotlight:1 tap:1 cure:1 rally:1 technology:1 reality:1 other:2 you:1 stock:1 development:1 's:5 reportedly:1 falls:1 shareholder:2 rolling:1 chief:1 fundamental:1 keeps:1 banks:1
+EMC	20140923	29.5	29.7	r_up	outlook:1 help:1 give:1 sidestep:1 turned:1 sales:2 trading:1 have:1 small-:1 debate:1 mid-cap:1 bullish:1 remains:1 broad:1 shares:1 its:1 4:1 6:2 boost:1 more:1 week:1 pull:1 million:1 weak:1 back:1 following:1 than:2 markets’:1 10:1 lower:1 technical:1 losses:1 bull-bear:1 tech:1 benchmarks:1 action:1
+EMC	20140924	29.7	29.6	r_down	says:1 strategic:1 including:1 seen:1 considering:1 giant:1 said:2 networking:1 merger:1 been:1 interested:3 which:1 has:1 isn’t:1 's:1 company:3 possible:1 preferred:1 data-storage:2 not:1 acquiring:3 standalone:1 n't:1 options:1
+EMC	20140925	29.6	28.7	r_down	sector:1 vulnerability:1 prompt:1 hackers:1 extra:1 into:2 private:1 discovered:1 code:1 including:1 's:1 your:1 issues:1 out:1 memories:1 system:1 lets:1 systems:1 tumbles:1 biggest:1 command:1 newly:1 over:1 red:1 ``:1 hit:1 finance:1 insert:1 beat:1 funds:1 equity:1 slump:1 reviving:1 known:1 news:1 hedge:1 stocks:1 bug:1 '':1 many:1 taking:1 losses:1 morning:2 computer:1 tech:2 stand:1 threat:1 affects:1 banks:1 found:1 security:1 software:1
+EMC	20140926	28.7	28.9	r_up	
+EMC	20140929	28.9	28.8	r_down	
+EMC	20140930	28.8	29.2	r_up	set:1 's:1 slump:1 expansion:1 growth:1 earnings:1 strong:1
+EMC	20141001	29.2	28.4	r_down	
+EMC	20141002	28.4	28.5	r_up	control:1 named:2 financial:2 less:1 over:1 within:1 direct:1 trade:1 past:1 actively:1 nears:1 have:1 next:1 technology:1 its:1 plans:1 information:1 giant:1 shares:1 former:1 role:1 take:1 expected:1 new:1 executive:1 direction:1 move:1 's:2 deeper:1 business:2 offer:1 may:2 company:1 but:1 data-storage:1 they:1 services:1 president:1 than:1 companies:1 according:1 crossroads:1 chief:2 session:1 indication:1 officer:2 corporate:1 playing:1
+EMC	20141003	28.5	28.6	r_up	
+EMC	20141006	28.6	28.4	r_down	operations:2 set:1 financial:1 wall:1 lean:1 into:1 retire:1 splitting:1 up:1 hardware:2 ready:1 computer:1 businesses:2 have:1 year:1 separating:2 message:1 its:5 decade:1 heeds:1 different:1 said:2 based:1 asks:1 call:1 breakup:1 make:1 had:1 two:4 next:1 finally:1 turnaround:1 split:1 new:1 reflects:1 more:1 printer:2 hit:1 plans:1 very:1 smaller:1 company:2 after:1 innovate:1 break:1 nimble:1 plan:1 services:2 doughnut:1 --:1 companies:3 roughly:1 deals:1 courses:1 chief:1 officer:1 own:1 efforts:1 corporate:2 maker:1 mean:1
+EMC	20141007	28.4	28.1	r_down	beautiful:1 current:1 longer:1 than:1 no:2 may:1 writes:1 footing:1 companies:1 drives:1 wave:1 exposes:1 start:1 split:1 innovation:1 new:1 reality:1 technology:1 company:1 profits:1
+EMC	20141008	28.1	28.8	r_up	being:1 one:1 manager:1 its:2 unit:2 shareholders:1 other:1 board:1 which:1 largest:1 sent:1 company:1 data-storage:1 fund:1 letter:1 hedge:1 spin:3 acquisitions:1 off:3 pursue:1 urged:1 urges:1 urging:1
+EMC	20141009	28.8	28.3	r_down	control:1 saying:1 outlook:1 industrial:1 their:1 terrorists:1 cybersecurity:1 into:1 some:1 results:1 increased:1 years:1 helped:1 amid:1 businesses:1 directly:1 year:1 expects:1 its:1 risk:1 out:1 planting:1 said:1 brighter:1 spending:1 breakup:1 two:1 forecast:1 tighten:1 pioneer:1 supplies:1 other:1 health:1 split:1 which:1 lower-than-expected:1 lapse:1 fizz:1 over:1 transportation:1 plans:1 split—for:1 utilities:1 commercial:1 systems:1 antivirus:1 number:1 snack:1 connected:1 coming:1 services:1 now:1 change:1 care:1 fiscal:1 organizations:1 farm:1 prices:1 calls:2 publicly:1 many:1 taking:1 farmers:1 companies:1 quiet:1 morning:1 exploitation:1 beverage:1 grain:1 alarming:1 leaves:1 weakest:1 traded:1 maker:1 profits:2 software:1
+EMC	20141010	28.3	27.9	r_down	

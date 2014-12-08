@@ -1,307 +1,114 @@
-NVDA	20120402	15.13	15.06	r_down	
-NVDA	20120403	15.06	14.82	r_down	
-NVDA	20120404	14.82	14.39	r_down	close:1 despite:1 stocks:1 gains:1 weakly:1
-NVDA	20120405	14.39	14.37	r_down	
-NVDA	20120409	14.37	14.19	r_down	
-NVDA	20120410	14.19	13.91	r_down	
-NVDA	20120411	13.91	14.09	r_up	
-NVDA	20120412	14.09	14.42	r_up	
-NVDA	20120413	14.42	13.91	r_down	
-NVDA	20120416	13.91	13.75	r_down	
-NVDA	20120417	13.75	13.78	r_up	
-NVDA	20120418	13.78	13.63	r_down	
-NVDA	20120419	13.63	13.42	r_down	
-NVDA	20120420	13.42	13.16	r_down	techs:1 correction:1 've:1 down:1 drags:1 mode:1
-NVDA	20120423	13.16	13.0	r_down	
-NVDA	20120424	13.0	12.6	r_down	$:2 140:1
-NVDA	20120425	12.6	12.85	r_up	surprises:1 advisories:1
-NVDA	20120426	12.85	12.86	r_up	
-NVDA	20120427	12.86	12.75	r_down	
-NVDA	20120430	12.75	12.77	r_up	
-NVDA	20120501	12.77	13.0	r_up	slips:1 retreats:1 below:1 $:1 600:1
-NVDA	20120502	13.0	12.63	r_down	
-NVDA	20120503	12.63	12.41	r_down	
-NVDA	20120504	12.41	12.05	r_down	
-NVDA	20120507	12.05	12.25	r_up	falter:1 uncertainty:1 outlooks:1 election:1
-NVDA	20120508	12.25	12.24	r_down	drama:1 highlights:1 weak:1 tech:1 action:1
-NVDA	20120509	12.24	12.29	r_up	
-NVDA	20120510	12.29	12.2	r_down	sector:1 pulls:1 tech:1 down:1 forecast:1
-NVDA	20120511	12.2	12.98	r_up	week:1 decline:1 's:3 55:1 surprises:1 watch:2 semis:1 advisories:1 second:1 lift:1 news:1 stocks:1
-NVDA	20120514	12.98	12.9	r_down	50:1
-NVDA	20120515	12.9	12.77	r_down	
-NVDA	20120516	12.77	12.52	r_down	
-NVDA	20120517	12.52	12.43	r_down	
-NVDA	20120518	12.43	11.87	r_down	
-NVDA	20120521	11.87	12.08	r_up	's:2
-NVDA	20120522	12.08	11.93	r_down	
-NVDA	20120523	11.93	12.22	r_up	
-NVDA	20120524	12.22	11.9	r_down	
-NVDA	20120525	11.9	12.18	r_up	
-NVDA	20120529	12.18	12.5	r_up	
-NVDA	20120530	12.5	12.35	r_down	
-NVDA	20120531	12.35	12.21	r_down	
-NVDA	20120601	12.21	11.77	r_down	
-NVDA	20120604	11.77	11.53	r_down	
-NVDA	20120605	11.53	11.86	r_up	8:1
-NVDA	20120606	11.86	12.17	r_up	
-NVDA	20120607	12.17	11.68	r_down	
-NVDA	20120608	11.68	11.91	r_up	
-NVDA	20120611	11.91	12.05	r_up	upgraded:1 position:1 off:1 tablet:1 6:1 new:1 shows:1
-NVDA	20120612	12.05	12.29	r_up	n't:1 close:1 lower:1 techs:1 fall:1
-NVDA	20120613	12.29	11.97	r_down	
-NVDA	20120614	11.97	11.82	r_down	
-NVDA	20120615	11.82	12.08	r_up	898:2 $:2
-NVDA	20120618	12.08	12.18	r_up	
-NVDA	20120619	12.18	13.01	r_up	gaining:1 cheers:1 cautious:1 draws:1 gains:1 tablet:1 rise:1 n't:1 behind:1 biggest:1 stocks:2 declining:1
-NVDA	20120620	13.01	13.22	r_up	
-NVDA	20120621	13.22	12.62	r_down	
-NVDA	20120622	12.62	12.77	r_up	
-NVDA	20120625	12.77	12.37	r_down	
-NVDA	20120626	12.37	12.51	r_up	slides:1 downgrade:1 hard:1 fall:1
-NVDA	20120627	12.51	12.91	r_up	
-NVDA	20120628	12.91	13.01	r_up	199:1 $:1 tablet:1 losses:1 unveils:1 tech:1 7:1 action:1 's:1 spur:1
-NVDA	20120629	13.01	13.58	r_up	10:1 join:1 25:1 broad:1 top:1 29:1 but:1 falls:1 stories:1 rally:1
-NVDA	20120702	13.58	13.22	r_down	deals:1 jumps:1 slumps:1
-NVDA	20120703	13.22	13.56	r_up	
-NVDA	20120705	13.56	13.42	r_down	
-NVDA	20120706	13.42	13.17	r_down	
-NVDA	20120709	13.17	12.99	r_down	
-NVDA	20120710	12.99	12.6	r_down	's:1 losses:1 down:1 pace:1 tech:1 stocks:1 day:1
-NVDA	20120711	12.6	12.39	r_down	's:1 7:1
-NVDA	20120712	12.39	12.18	r_down	152:1 $:1 tablet:1 analysis:1 costs:1 build:1 shows:1
-NVDA	20120713	12.18	12.34	r_up	report:1 amid:1 chip:1 sector:1 warnings:1
-NVDA	20120716	12.34	12.38	r_up	
-NVDA	20120717	12.38	12.15	r_down	
-NVDA	20120718	12.15	12.83	r_up	
-NVDA	20120719	12.83	12.96	r_up	39:1 3rd:2 2nd:2
-NVDA	20120720	12.96	12.59	r_down	39:2 's:2
-NVDA	20120723	12.59	12.75	r_up	
-NVDA	20120724	12.75	12.62	r_down	
-NVDA	20120725	12.62	12.86	r_up	
-NVDA	20120726	12.86	12.92	r_up	
-NVDA	20120727	12.92	13.24	r_up	
-NVDA	20120730	13.24	13.1	r_down	
-NVDA	20120731	13.1	13.3	r_up	
-NVDA	20120801	13.3	13.16	r_down	
-NVDA	20120802	13.16	13.21	r_up	
-NVDA	20120803	13.21	13.48	r_up	
-NVDA	20120806	13.48	13.77	r_up	
-NVDA	20120807	13.77	13.9	r_up	
-NVDA	20120808	13.9	13.98	r_up	
-NVDA	20120809	13.98	14.45	r_up	surprises:1 advisories:1 watch:1 21:2
-NVDA	20120810	14.45	14.36	r_down	after:2 21:1 lead:1 point:1 surprises:1 futures:1 falls:1 hours:1 tech:1 advisories:1 gains:1 rallies:1 upbeat:1 stocks:1 data:1 day:1 south:1 stock:1
-NVDA	20120813	14.36	14.55	r_up	
-NVDA	20120814	14.55	14.34	r_down	
-NVDA	20120815	14.34	14.23	r_down	
-NVDA	20120816	14.23	14.52	r_up	
-NVDA	20120817	14.52	14.39	r_down	
-NVDA	20120820	14.39	14.39	r_up	
-NVDA	20120821	14.39	14.35	r_down	
-NVDA	20120822	14.35	14.38	r_up	
-NVDA	20120823	14.38	14.06	r_down	lead:1 losses:1 down:1 tech:1 stocks:1 day:1
-NVDA	20120824	14.06	14.35	r_up	
-NVDA	20120827	14.35	14.1	r_down	
-NVDA	20120828	14.1	14.04	r_down	
-NVDA	20120829	14.04	14.07	r_up	
-NVDA	20120830	14.07	13.8	r_down	may:1 launches:1 constrain:1 smartphone:1
-NVDA	20120831	13.8	13.79	r_down	
-NVDA	20120904	13.79	13.05	r_down	biggest:1 gaining:1 stocks:1 's:1 declining:1
-NVDA	20120905	13.05	13.09	r_up	sends:1 ride:1 bumpy:1 nears:1 boosts:1 date:1 tech:1 stocks:1 chips:1 market:1
-NVDA	20120906	13.09	13.49	r_up	
-NVDA	20120907	13.49	13.17	r_down	busy:1 get:1 mobile:1 surprises:1 losses:1 better:1 drag:1 advisories:1 tech:1 stocks:1
-NVDA	20120910	13.17	13.05	r_down	
-NVDA	20120911	13.05	13.21	r_up	
-NVDA	20120912	13.21	13.35	r_up	
-NVDA	20120913	13.35	13.44	r_up	
-NVDA	20120914	13.44	13.6	r_up	
-NVDA	20120917	13.6	13.22	r_down	
-NVDA	20120918	13.22	13.31	r_up	leads:1 losses:1 but:1 high:1 tech:1 new:1 claims:1
-NVDA	20120919	13.31	13.47	r_up	
-NVDA	20120920	13.47	13.37	r_down	
-NVDA	20120921	13.37	13.43	r_up	
-NVDA	20120924	13.43	13.42	r_down	
-NVDA	20120925	13.42	13.18	r_down	
-NVDA	20120926	13.18	12.95	r_down	tablets:1 future:1 rethinks:1 smartphones:1
-NVDA	20120927	12.95	13.05	r_up	
-NVDA	20120928	13.05	13.11	r_up	
-NVDA	20121001	13.11	12.89	r_down	
-NVDA	20121002	12.89	12.94	r_up	
-NVDA	20121003	12.94	12.81	r_down	
-NVDA	20121004	12.81	13.38	r_up	chip:1 stocks:1 rise:1 crumble:1
-NVDA	20121005	13.38	13.07	r_down	
-NVDA	20121008	13.07	12.94	r_down	
-NVDA	20121009	12.94	12.66	r_down	52-week:1
-NVDA	20121010	12.66	12.45	r_down	
-NVDA	20121011	12.45	12.52	r_up	
-NVDA	20121012	12.52	12.41	r_down	mild:1 tech:1 stand:1 8:1 stocks:2 day:1 out:1
-NVDA	20121015	12.41	12.57	r_up	
-NVDA	20121016	12.57	12.93	r_up	
-NVDA	20121017	12.93	12.83	r_down	step:1 up:1 tablet:1 competition:1
-NVDA	20121018	12.83	12.64	r_down	8:1 could:1 fog:1 tablet:1 launch:1
-NVDA	20121019	12.64	11.9	r_down	
-NVDA	20121022	11.9	11.76	r_down	's:1
-NVDA	20121023	11.76	12.11	r_up	
-NVDA	20121024	12.11	11.96	r_down	
-NVDA	20121025	11.96	11.97	r_up	
-NVDA	20121026	11.97	11.84	r_down	
-NVDA	20121031	11.84	11.77	r_down	
-NVDA	20121101	11.77	12.33	r_up	
-NVDA	20121102	12.33	12.27	r_down	
-NVDA	20121105	12.27	12.79	r_up	's:1 soars:1 movers:1 big:1 retreats:1 9:1
-NVDA	20121106	12.79	12.78	r_down	rise:1 stocks:1 behind:1 gains:1 52:1
-NVDA	20121107	12.78	12.39	r_down	
-NVDA	20121108	12.39	12.46	r_up	again:1 gains:1 17:1 dumping:1 could:1 falls:1 earnings:1 mean:1
-NVDA	20121109	12.46	11.98	r_down	17:1
-NVDA	20121112	11.98	11.71	r_down	
-NVDA	20121113	11.71	11.62	r_down	slips:1 trades:1 rise:1 but:1 gain:1 after-hours:1
-NVDA	20121114	11.62	11.34	r_down	
-NVDA	20121115	11.34	11.39	r_up	
-NVDA	20121116	11.39	11.18	r_down	
-NVDA	20121119	11.18	11.5	r_up	
-NVDA	20121120	11.5	11.36	r_down	
-NVDA	20121121	11.36	11.69	r_up	
-NVDA	20121123	11.69	11.77	r_up	
-NVDA	20121126	11.77	11.98	r_up	
-NVDA	20121127	11.98	12.02	r_up	
-NVDA	20121128	12.02	12.12	r_up	
-NVDA	20121129	12.12	11.91	r_down	
-NVDA	20121130	11.91	11.84	r_down	
-NVDA	20121203	11.84	11.62	r_down	
-NVDA	20121204	11.62	11.97	r_up	
-NVDA	20121205	11.97	11.83	r_down	
-NVDA	20121206	11.83	11.85	r_up	
-NVDA	20121207	11.85	11.83	r_down	
-NVDA	20121210	11.83	12.22	r_up	
-NVDA	20121211	12.22	12.51	r_up	slips:1 speculation:1 rises:1 but:1
-NVDA	20121212	12.51	12.38	r_down	
-NVDA	20121213	12.38	12.39	r_up	
-NVDA	20121214	12.39	12.45	r_up	's:1
-NVDA	20121217	12.45	12.4	r_down	
-NVDA	20121218	12.4	12.42	r_up	case:1 life:1 strengthening:1 comes:1 bull:1
-NVDA	20121219	12.42	12.51	r_up	
-NVDA	20121220	12.51	12.5	r_down	
-NVDA	20121221	12.5	12.21	r_down	
-NVDA	20121224	12.21	12.11	r_down	
-NVDA	20121226	12.11	12.1	r_down	
-NVDA	20121227	12.1	12.02	r_down	
-NVDA	20121228	12.02	11.97	r_down	
-NVDA	20121231	11.97	12.12	r_up	
-NVDA	20130102	12.12	12.58	r_up	
-NVDA	20130103	12.58	12.59	r_up	
-NVDA	20130104	12.59	13.0	r_up	major:1 watch:1 focus:1 n't:1 tablets:1 8:2 preview:1
-NVDA	20130107	13.0	12.63	r_down	kicks:1 's:2 watch:1 off:1 2013:1
-NVDA	20130108	12.63	12.35	r_down	ahead:1 jumps:1 futures:1 results:1 shares:1 down:1 edge:1 slip:1
-NVDA	20130109	12.35	12.07	r_down	losses:1 tech:1 lead:1 falls:1
-NVDA	20130110	12.07	12.09	r_up	
-NVDA	20130111	12.09	12.07	r_down	
-NVDA	20130114	12.07	12.06	r_down	
-NVDA	20130115	12.06	11.85	r_down	tech:1 stocks:1 hit:1 gains:1
-NVDA	20130116	11.85	11.96	r_up	
-NVDA	20130117	11.96	12.11	r_up	
-NVDA	20130118	12.11	12.03	r_down	
-NVDA	20130122	12.03	11.98	r_down	
-NVDA	20130123	11.98	12.0	r_up	
-NVDA	20130124	12.0	12.05	r_up	
-NVDA	20130125	12.05	12.27	r_up	
-NVDA	20130128	12.27	12.47	r_up	
-NVDA	20130129	12.47	12.2	r_down	
-NVDA	20130130	12.2	12.18	r_down	
-NVDA	20130131	12.18	12.12	r_down	
-NVDA	20130201	12.12	12.23	r_up	
-NVDA	20130204	12.23	12.02	r_down	
-NVDA	20130205	12.02	12.3	r_up	
-NVDA	20130206	12.3	12.2	r_down	
-NVDA	20130207	12.2	12.15	r_down	
-NVDA	20130208	12.15	12.23	r_up	
-NVDA	20130211	12.23	12.37	r_up	reform:1 immigration:1 trade:1
-NVDA	20130212	12.37	12.29	r_down	
-NVDA	20130213	12.29	12.23	r_down	watch:1 pace:1 tech:1 gains:1
-NVDA	20130214	12.23	12.59	r_up	slips:1 's:1 gains:1 surprises:1 leads:1 advisories:1 tech:1
-NVDA	20130215	12.59	12.59	r_up	's:1
-NVDA	20130219	12.59	12.42	r_down	800:1 $:1
-NVDA	20130220	12.42	12.24	r_down	
-NVDA	20130221	12.24	12.15	r_down	all:1 but:1 chief:1 not:1 bit:1 tells:1
-NVDA	20130222	12.15	12.38	r_up	
-NVDA	20130225	12.38	12.16	r_down	
-NVDA	20130226	12.16	12.31	r_up	
-NVDA	20130227	12.31	12.54	r_up	
-NVDA	20130228	12.54	12.6	r_up	
-NVDA	20130301	12.6	12.65	r_up	
-NVDA	20130304	12.65	12.6	r_down	
-NVDA	20130305	12.6	12.74	r_up	
-NVDA	20130306	12.74	12.73	r_down	
-NVDA	20130307	12.73	12.7	r_down	
-NVDA	20130308	12.7	12.76	r_up	
-NVDA	20130311	12.76	12.64	r_down	
-NVDA	20130312	12.64	12.68	r_up	
-NVDA	20130313	12.68	12.68	r_up	
-NVDA	20130314	12.68	12.69	r_up	
-NVDA	20130315	12.69	12.58	r_down	
-NVDA	20130318	12.58	12.49	r_down	
-NVDA	20130319	12.49	12.41	r_down	shrug:1 tech:1 off:1 slump:1
-NVDA	20130320	12.41	12.56	r_up	n't:1
-NVDA	20130321	12.56	12.36	r_down	
-NVDA	20130322	12.36	12.42	r_up	
-NVDA	20130325	12.42	12.35	r_down	
-NVDA	20130326	12.35	12.44	r_up	7:1
-NVDA	20130327	12.44	12.59	r_up	
-NVDA	20130328	12.59	12.77	r_up	
-NVDA	20130401	12.77	12.35	r_down	
-NVDA	20130402	12.35	12.22	r_down	
-NVDA	20130403	12.22	12.07	r_down	
-NVDA	20130404	12.07	12.19	r_up	
-NVDA	20130405	12.19	12.4	r_up	
-NVDA	20130408	12.4	12.37	r_down	
-NVDA	20130409	12.37	12.57	r_up	
-NVDA	20130410	12.57	12.77	r_up	
-NVDA	20130411	12.77	12.71	r_down	
-NVDA	20130412	12.71	13.02	r_up	
-NVDA	20130415	13.02	12.76	r_down	
-NVDA	20130416	12.76	12.89	r_up	
-NVDA	20130417	12.89	12.73	r_down	
-NVDA	20130418	12.73	12.48	r_down	
-NVDA	20130419	12.48	12.51	r_up	
-NVDA	20130422	12.51	12.53	r_up	
-NVDA	20130423	12.53	12.85	r_up	
-NVDA	20130424	12.85	13.29	r_up	
-NVDA	20130425	13.29	13.4	r_up	
-NVDA	20130426	13.4	13.34	r_down	
-NVDA	20130429	13.34	13.5	r_up	
-NVDA	20130430	13.5	13.7	r_up	
-NVDA	20130501	13.7	13.58	r_down	
-NVDA	20130502	13.58	13.74	r_up	
-NVDA	20130503	13.74	13.8	r_up	insider:1 names:1 new:1
-NVDA	20130506	13.8	13.76	r_down	
-NVDA	20130507	13.76	13.58	r_down	
-NVDA	20130508	13.58	13.83	r_up	rally:1 but:1 falls:1
-NVDA	20130509	13.83	13.84	r_up	stocks:1 watch:1
-NVDA	20130510	13.84	14.47	r_up	week:1 hours:1 set:1 's:1 third:1 surprises:1 rise:1 watch:1 29:1 shares:1 results:1 jump:1 records:1 advisories:1 1995:1 stocks:2 after:1
-NVDA	20130513	14.47	14.17	r_down	
-NVDA	20130514	14.17	14.38	r_up	
-NVDA	20130515	14.38	14.63	r_up	
-NVDA	20130516	14.63	14.56	r_down	
-NVDA	20130517	14.56	14.79	r_up	
-NVDA	20130520	14.79	14.76	r_down	
-NVDA	20130521	14.76	14.92	r_up	
-NVDA	20130522	14.92	14.4	r_down	
-NVDA	20130523	14.4	14.63	r_up	
-NVDA	20130524	14.63	14.54	r_down	
-NVDA	20130528	14.54	14.53	r_down	
-NVDA	20130529	14.53	14.44	r_down	
-NVDA	20130530	14.44	14.63	r_up	
-NVDA	20130531	14.63	14.47	r_down	
-NVDA	20130603	14.47	14.45	r_down	
-NVDA	20130604	14.45	14.47	r_up	
-NVDA	20130605	14.47	14.16	r_down	
-NVDA	20130606	14.16	14.25	r_up	
-NVDA	20130607	14.25	14.45	r_up	
-NVDA	20130610	14.45	14.44	r_down	
-NVDA	20130611	14.44	14.17	r_down	
-NVDA	20130612	14.17	14.05	r_down	
-NVDA	20130613	14.05	14.37	r_up	
-NVDA	20130614	14.37	14.35	r_down	
-NVDA	20130617	14.35	14.49	r_up	
-NVDA	20130618	14.49	14.4	r_down	
-NVDA	20130619	14.4	14.84	r_up	sell:1 rating:1 movers:1 but:1 falls:1 lifts:1 licensing:1 slip:1 graphics:1 push:1 rises:1 stock:1
-NVDA	20130620	14.84	14.44	r_down	27:1 $:2 299:1
-NVDA	20130621	14.44	14.42	r_down	
+NVDA	20140501	18.3	18.4	r_up	
+NVDA	20140502	18.4	18.2	r_down	
+NVDA	20140505	18.2	18.4	r_up	
+NVDA	20140506	18.4	18.0	r_down	fiscal:1 due:1 said:2 first-quarter:1 revenue:1 rose:1 email:1 results:1 period:1 makers:1 early:1 released:1 75:2 growth:1 earnings:1 components:1 year-ago:1 computer:1 its:2
+NVDA	20140507	18.0	18.1	r_up	
+NVDA	20140508	18.1	18.3	r_up	old:1 companies:1 crop:1 leadership:1 has:1 market:1 stock:1
+NVDA	20140509	18.3	17.8	r_down	sector:1 outlook:2 revenue:2 days:1 issued:1 chip:1 retailer:1 sales:1 trade:2 actively:2 rising:1 topped:1 slip:1 stronger-than-expected:1 first-quarter:2 41:1 expects:1 after:1 considering:1 said:2 $:2 49:1 profit:1 rose:1 it’s:1 expectations:1 shares:4 forecast:1 current:2 platform:1 premarket:1 expected:2 upbeat:1 gets:1 gave:1 slips:1 fiscal:1 4.5:1 's:2 company:1 rise:1 weak:1 number:1 reported:2 lift:1 diners:1 fall:1 active:1 using:1 strong:1 results:2 buying:1 billion:1 cautious:1 grew:1 improved:1 climbed:1 companies:2 equal:1 reports:1 pace:1 while:1 session:2 tech:1 apparel:1 3.2:1 quarter:3 slightly:1 maker:1 two:1 first:1
+NVDA	20140512	17.8	18.4	r_up	
+NVDA	20140513	18.4	18.1	r_down	
+NVDA	20140514	18.1	17.9	r_down	
+NVDA	20140515	17.9	17.8	r_down	
+NVDA	20140516	17.8	17.8	r_up	sentenced:1 saying:1 hoped:1 learn:1 1/2:1 would:1 federal:1 prison:1 manager:1 three:1 case:1 3:1 half:1 judge:1 portfolio:1 years:1 former:1 he:1
+NVDA	20140519	17.8	18.3	r_up	
+NVDA	20140520	18.3	18.1	r_down	sector:2 says:1 investors:1 soars:1 companies:1 chip:2 back:1 chip-sector:1 names:1 rally:2 expenditures:1 scale:1 lead:2 spending:1 factory:1 should:1 note:1 7:1 capital:1 upbeat:1 poised:1 more:1 slows:1 after:1 free:1 released:1 generate:1 30:1 flow:1 cash:2 reward:1
+NVDA	20140521	18.1	18.1	r_up	
+NVDA	20140522	18.1	18.2	r_up	
+NVDA	20140523	18.2	18.4	r_up	
+NVDA	20140527	18.4	18.7	r_up	
+NVDA	20140528	18.7	18.9	r_up	
+NVDA	20140529	18.9	18.8	r_down	
+NVDA	20140530	18.8	18.9	r_up	
+NVDA	20140602	18.9	18.8	r_down	
+NVDA	20140603	18.8	18.7	r_down	
+NVDA	20140604	18.7	18.8	r_up	
+NVDA	20140605	18.8	18.8	r_up	
+NVDA	20140606	18.8	18.9	r_up	
+NVDA	20140609	18.9	18.9	r_up	
+NVDA	20140610	18.9	19.0	r_up	
+NVDA	20140611	19.0	19.3	r_up	retreats:1 hits:1 leaves:1 after:1 while:1 diverge:1 high:1 52-week:1 mild:1 trading:1 fresh:1 head:1 tech:1
+NVDA	20140612	19.3	19.4	r_up	
+NVDA	20140613	19.4	19.4	r_up	
+NVDA	20140616	19.4	19.3	r_down	
+NVDA	20140617	19.3	19.5	r_up	
+NVDA	20140618	19.5	19.5	r_up	
+NVDA	20140619	19.5	19.0	r_down	
+NVDA	20140620	19.0	18.8	r_down	
+NVDA	20140623	18.8	18.6	r_down	own:2 performance:1 supercomputing:1 upgrades:1 's:4 technology:1 its:3 giant:2 largest:1 new:1 week:1 dominant:1 but:2 strides:1 announce:1 franchise:1 world:1 chips:1 raising:1 bar:1 attacks:1 computers:1 tech:1 faces:1
+NVDA	20140624	18.6	18.3	r_down	has:1 crowd:1 business:1 some:1 battles:1 one:1 competitors:1 other:1 lucrative:1 systems:1 choosing:1 pick:1 drawn:1 server:1 extremely:1
+NVDA	20140625	18.3	18.5	r_up	
+NVDA	20140626	18.5	18.2	r_down	
+NVDA	20140627	18.2	18.3	r_up	
+NVDA	20140630	18.3	18.4	r_up	
+NVDA	20140701	18.4	18.6	r_up	
+NVDA	20140702	18.6	18.6	r_up	
+NVDA	20140703	18.6	18.7	r_up	
+NVDA	20140707	18.7	18.6	r_down	
+NVDA	20140708	18.6	18.4	r_down	
+NVDA	20140709	18.4	19.0	r_up	
+NVDA	20140710	19.0	18.9	r_down	
+NVDA	20140711	18.9	18.9	r_up	all:1 set:1 growth:1 more:1
+NVDA	20140714	18.9	19.2	r_up	
+NVDA	20140715	19.2	19.2	r_up	
+NVDA	20140716	19.2	19.2	r_up	
+NVDA	20140717	19.2	19.2	r_up	
+NVDA	20140718	19.2	18.3	r_down	sector:1 moves:1 financial:1 sinks:1 big:1 results:1 tech:1 low:1 four-month:1 boardroom:1 prompt:1 rises:1 changes:1 earnings:1
+NVDA	20140721	18.3	18.4	r_up	
+NVDA	20140722	18.4	18.3	r_down	major:1 revenue:1 helped:1 computer:1 licensing:1 another:1 ship:1 beyond:1 attract:1 tablet:1 profit:1 manufacturers:1 fans:1 higher:1 introducing:1 videogame:1 designer:1 earns:1 though:1 rise:1 reported:1 step:1 designed:1 chips:2 second-quarter:1 royalties:1 especially:1 taking:1 growth:1 soft:1
+NVDA	20140723	18.3	18.0	r_down	
+NVDA	20140724	18.0	18.0	r_up	
+NVDA	20140725	18.0	17.7	r_down	
+NVDA	20140728	17.7	17.6	r_down	
+NVDA	20140729	17.6	17.7	r_up	
+NVDA	20140730	17.7	18.0	r_up	solid:1 could:1 upside:1 post:1 numbers:1
+NVDA	20140731	18.0	17.4	r_down	
+NVDA	20140801	17.4	17.6	r_up	
+NVDA	20140804	17.6	17.5	r_down	
+NVDA	20140805	17.5	17.5	r_up	
+NVDA	20140806	17.5	17.5	r_up	
+NVDA	20140807	17.5	17.3	r_down	investors:1 increasingly:1 uncertainty:1 up:1 charts:1 looking:1 rising:1 ramping:1 happen:1 next:1 clues:1 volatility:1
+NVDA	20140808	17.3	18.9	r_up	sector:1 operations:1 global:1 results:1 trade:2 session:2 using:1 its:1 issues:1 developer:1 impact:1 $:1 rose:3 contractor:1 treatment:1 premarket:1 quarterly:1 earnings:1 gains:2 government:1 not:1 world:1 continued:1 --:2 warned:1 companies:2 quarter:1 round:1 people:1 growth:1 2.5:1 out:1 said:3 profit:2 broad:1 shares:2 forecast:2 cloud:1 supplier:1 boost:1 after:3 strong:1 ahead:1 restaurant:1 33:2 climbed:1 drug:1 levels:1 stand:1 mixed:1 maker:2 experimental:1 first:1 among:1 revenue:1 open:1 market:1 would:1 spending:1 much:1 expected:2 upbeat:1 door:1 company:2 but:1 second-quarter:1 posted:1 target:1 18:1 actively:2 following:1 uncertainty:1 chip:3 sales:1 reports:1 confirmed:1 struggles:1 declined:1 largest:1 gets:1 gaming:1 designer:1 's:9 felt:1 data-center:1 virus:1 fell:2 stocks:1 fiscal:1 mobile:1 average:1 well:1 federal:1 tech:2
+NVDA	20140811	18.9	18.8	r_down	's:1 $:1 23:1 upgrades:1 price-target:1 establishes:1 graphics:1 chipmaker:1
+NVDA	20140812	18.8	18.8	r_up	
+NVDA	20140813	18.8	18.9	r_up	
+NVDA	20140814	18.9	18.7	r_down	
+NVDA	20140815	18.7	18.9	r_up	
+NVDA	20140818	18.9	19.2	r_up	internally:1 accelerate:1 're:1 products:1 helps:1 way:1 overhauling:1 services:1 says:1 delivers:1 effort:1 maker:1 market:1 software:1
+NVDA	20140819	19.2	19.3	r_up	
+NVDA	20140820	19.3	19.2	r_down	report:1 highlights:1 analysts:1
+NVDA	20140821	19.2	19.0	r_down	
+NVDA	20140822	19.0	19.0	r_up	
+NVDA	20140825	19.0	19.1	r_up	
+NVDA	20140826	19.1	19.4	r_up	
+NVDA	20140827	19.4	19.2	r_down	
+NVDA	20140828	19.2	19.3	r_up	
+NVDA	20140829	19.3	19.4	r_up	
+NVDA	20140902	19.4	19.5	r_up	
+NVDA	20140903	19.5	19.6	r_up	
+NVDA	20140904	19.6	20.0	r_up	
+NVDA	20140905	20.0	19.9	r_down	session:1 sued:1 's:1 certain:1 alleging:1 companies:1 shares:1 trade:1 actively:1 tablets:1 phones:1 expected:1 has:1 patents:1
+NVDA	20140908	19.9	19.7	r_down	urban:1 's:2 dollars:1 technologies:1 spent:1 escaped:1 worst:1 effects:1 have:1 three-year:1 drought:1 having:1 millions:1
+NVDA	20140909	19.7	19.5	r_down	urban:1 muted:1 many:1 effect:1 been:1 one:1 three-year:1 surprise:1 drought:1 has:1 businesses:1
+NVDA	20140910	19.5	19.6	r_up	
+NVDA	20140911	19.6	19.4	r_down	
+NVDA	20140912	19.4	19.1	r_down	
+NVDA	20140915	19.1	18.8	r_down	
+NVDA	20140916	18.8	19.1	r_up	
+NVDA	20140917	19.1	19.1	r_up	
+NVDA	20140918	19.1	19.4	r_up	
+NVDA	20140919	19.4	19.0	r_down	
+NVDA	20140922	19.0	18.8	r_down	
+NVDA	20140923	18.8	18.8	r_up	
+NVDA	20140924	18.8	18.9	r_up	
+NVDA	20140925	18.9	18.5	r_down	
+NVDA	20140926	18.5	18.5	r_up	
+NVDA	20140929	18.5	18.5	r_up	
+NVDA	20140930	18.5	18.4	r_down	
+NVDA	20141001	18.4	18.2	r_down	
+NVDA	20141002	18.2	18.1	r_down	
+NVDA	20141003	18.1	18.2	r_up	
+NVDA	20141006	18.2	18.1	r_down	
+NVDA	20141007	18.1	17.9	r_down	favored:1 six:1 others:1
+NVDA	20141008	17.9	18.2	r_up	
+NVDA	20141009	18.2	17.9	r_down	
+NVDA	20141010	17.9	16.8	r_down	

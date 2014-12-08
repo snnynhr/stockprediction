@@ -1,307 +1,114 @@
-AXP	20120402	56.9	57.04	r_up	rise:1 stocks:1 data:1 after:1
-AXP	20120403	57.04	57.62	r_up	
-AXP	20120404	57.62	56.61	r_down	down:1 close:1 stocks:1
-AXP	20120405	56.61	57.33	r_up	upgrade:1 rises:1 financials:1 fall:1
-AXP	20120409	57.33	56.4	r_down	
-AXP	20120410	56.4	55.44	r_down	
-AXP	20120411	55.44	56.2	r_up	sector:1 financial:1 lead:1 leads:1 managers:1 rally:1 retreat:1 stock:1
-AXP	20120412	56.2	57.27	r_up	
-AXP	20120413	57.27	56.52	r_down	's:1 ahead:1 overshadows:1 slide:1 2:1 earnings:2 climb:1
-AXP	20120416	56.52	57.06	r_up	
-AXP	20120417	57.06	57.41	r_up	holds:1 's:1 gains:1 rise:1 financials’:1 leads:1
-AXP	20120418	57.41	57.27	r_down	financial:1 surprises:1 watch:1 drive:1 n't:1 advisories:1 stocks:1 higher:1
-AXP	20120419	57.27	56.81	r_down	leads:1 lower:1 financial:1 declines:1 after:1 up:1 shares:1 hours:1 stocks:1
-AXP	20120420	56.81	56.69	r_down	down:1 close:1 stocks:1 earnings:1 bank:1
-AXP	20120423	56.69	56.56	r_down	
-AXP	20120424	56.56	56.87	r_up	sector:1 weigh:1 financial:1
-AXP	20120425	56.87	58.13	r_up	financial:1 after:1 up:2 comments:1 results:1 leads:1 close:1 stocks:1
-AXP	20120426	58.13	58.8	r_up	's:2
-AXP	20120427	58.8	59.37	r_up	leads:1 stocks:1 financial:1 sale:1 after:1
-AXP	20120430	59.37	59.41	r_up	
-AXP	20120501	59.41	60.16	r_up	down:1 drop:1 rise:1 stocks:2 5:1
-AXP	20120502	60.16	60.24	r_up	
-AXP	20120503	60.24	60.05	r_down	leads:1 lower:1 stocks:1 financial:1
-AXP	20120504	60.05	59.3	r_down	lower:2 financial:1 $:1 lead:1 leads:1 financials:1 stocks:1 2.5:1
-AXP	20120507	59.3	59.3	r_up	sector:1 financial:1 gains:1 sale:1 falls:1 1.92:1 $:1 stock:1
-AXP	20120508	59.3	59.1	r_down	among:1 falling:1 stocks:1 financial:1
-AXP	20120509	59.1	58.67	r_down	session:1 lower:1 stocks:1 second:1 finish:1
-AXP	20120510	58.67	58.63	r_down	
-AXP	20120511	58.63	58.85	r_up	outpace:1 patch:1 other:1 helps:1 banks:1 financials:1
-AXP	20120514	58.85	57.65	r_down	extend:1 drop:1 shares:1 down:1 pulling:1 banks:1
-AXP	20120515	57.65	57.17	r_down	
-AXP	20120516	57.17	56.63	r_down	
-AXP	20120517	56.63	54.91	r_down	500:1 financials:1 outlier:1
-AXP	20120518	54.91	54.67	r_down	weighs:1 lower:1 financial:2 lead:1 shares:1 stocks:2
-AXP	20120521	54.67	55.58	r_up	
-AXP	20120522	55.58	55.6	r_up	slide:1 gains:1
-AXP	20120523	55.6	55.23	r_down	sector:1 financial:1 gains:1 limits:1 lifts:1 fall:1 rally:1 financials:1 stock:1
-AXP	20120524	55.23	55.59	r_up	
-AXP	20120525	55.59	55.07	r_down	surprises:1 shares:1 advisories:1 fall:1 inch:1 financials:1 higher:1
-AXP	20120529	55.07	55.81	r_up	
-AXP	20120530	55.81	54.72	r_down	off:1 housing:1 rise:1 hurt:1 shake:1 stocks:1 data:1
-AXP	20120531	54.72	55.09	r_up	20:1 off:1 tough:1
-AXP	20120601	55.09	52.72	r_down	off:1
-AXP	20120604	52.72	52.8	r_up	banks:1 wins:1 lower:1 game:1 lead:1
-AXP	20120605	52.8	53.26	r_up	
-AXP	20120606	53.26	54.65	r_up	financial:1 lead:1 housing:1 gainers:1 stocks:1 talk:1 higher:1
-AXP	20120607	54.65	54.51	r_down	's:1 gains:1 up:1 sours:1 2005:1 rally:1 bank:1 gives:1
-AXP	20120608	54.51	55.12	r_up	gainers:1 $:1 10-:1 top:1 1:1 financial:1
-AXP	20120611	55.12	54.37	r_down	
-AXP	20120612	54.37	55.73	r_up	short-lived:1 boost:1 financials:1 fall:1
-AXP	20120613	55.73	54.37	r_down	worries:1 slide:1 stocks:1
-AXP	20120614	54.37	54.32	r_down	slide:1 stocks:1 elections:1 before:1
-AXP	20120615	54.32	55.53	r_up	speculation:1 stocks:1 bank:1 boosts:1
-AXP	20120618	55.53	55.11	r_down	
-AXP	20120619	55.11	56.19	r_up	11:2
-AXP	20120620	56.19	56.68	r_up	end:1 less:1 up:1 leads:1 volatile:1 optimistic:1 day:1 economy:1
-AXP	20120621	56.68	55.57	r_down	
-AXP	20120622	55.57	56.04	r_up	leads:1 boost:1 financials:1 give:1
-AXP	20120625	56.04	55.31	r_down	
-AXP	20120626	55.31	55.37	r_up	financials’:1 leads:1 pace:1 fall:1 financials:1 higher:1
-AXP	20120627	55.37	56.13	r_up	
-AXP	20120628	56.13	55.94	r_down	housing:1 up:1
-AXP	20120629	55.94	57.44	r_up	's:2
-AXP	20120702	57.44	58.27	r_up	
-AXP	20120703	58.27	58.82	r_up	up:1 auto:1 counter:1 sales:1 data:1 close:1 stocks:1 boost:1 financials:1
-AXP	20120705	58.82	58.66	r_down	
-AXP	20120706	58.66	58.05	r_down	data:1 weak:1 hammered:1 woes:1
-AXP	20120709	58.05	57.83	r_down	trend:1 bucks:1 lower:1 end:1
-AXP	20120710	57.83	57.81	r_down	decline:1 upgrade:1 after:1 credit:1 improves:1 vote:1 stocks:1 consumer:1 gets:1
-AXP	20120711	57.81	57.5	r_down	
-AXP	20120712	57.5	56.37	r_down	off:1 ahead:1 rise:1 n't:1 bank:1 financials:1 earnings:1
-AXP	20120713	56.37	57.36	r_up	south:1 financial:1 leads:1 gain:1 6:1 boosts:1 stocks:1 financials:1
-AXP	20120716	57.36	58.06	r_up	
-AXP	20120717	58.06	58.1	r_up	retail:1 gains:1 data:1 lift:1 after:1 sag:1 up:1 forecast:1 global:1 economic:1 card-issuer:1 settlement:1 close:1 drop:1 stocks:2 dip:1 gets:1
-AXP	20120718	58.1	57.71	r_down	months:1 lag:1 watch:1 most:1 3:1 drops:1 financials:1
-AXP	20120719	57.71	55.67	r_down	hours:1 surprises:1 after:2 shares:2 trade:1 reviews:1 advisories:1 fall:1 mixed:1 higher:1
-AXP	20120720	55.67	55.26	r_down	leads:1 losses:1 worst:1 500:1 financials:1
-AXP	20120723	55.26	55.18	r_down	hit:1 hard:1 fears:1 financials:1
-AXP	20120724	55.18	55.08	r_down	
-AXP	20120725	55.08	55.5	r_up	
-AXP	20120726	55.5	57.19	r_up	end:1 wins:1 top:1 high:1 market:1 gain:1 big:1 broad:1 financials:2 helps:1
-AXP	20120727	57.19	57.95	r_up	$:1 up:1 action:1 hopes:1 close:1 84:1
-AXP	20120730	57.95	57.71	r_down	lower:1 's:2 financials:1 lead:1 2nd:4
-AXP	20120731	57.71	57.14	r_down	drop:1 other:1 financial:1 13000:1 stocks:1
-AXP	20120801	57.14	56.24	r_down	
-AXP	20120802	56.24	55.93	r_down	algorithm:1 after:1 sink:1 shares:1 glitch:1
-AXP	20120803	55.93	57.04	r_up	loss:1 after:1 sink:1 shares:1 $:1
-AXP	20120806	57.04	56.53	r_down	rise:1 stocks:1 drops:1
-AXP	20120807	56.53	57.07	r_up	post:1 other:1 financial:1 gains:1 stocks:1
-AXP	20120808	57.07	57.34	r_up	drop:1 shares:1 rallies:1
-AXP	20120809	57.34	55.91	r_down	shift:1 lift:1 gets:1 's:1 falls:1
-AXP	20120810	55.91	55.3	r_down	500:1
-AXP	20120813	55.3	55.57	r_up	flat:1 stocks:1 gains:1 but:1
-AXP	20120814	55.57	55.52	r_down	bonds:1 selling:1 others:1
-AXP	20120815	55.52	56.1	r_up	firm:1 reportedly:1 trade:1 glitch:1 rises:1 finds:1
-AXP	20120816	56.1	56.8	r_up	gainers:1 financial:1 financials:1 lead:2 higher:1
-AXP	20120817	56.8	57.02	r_up	
-AXP	20120820	57.02	56.34	r_down	support:1 insurers:1 financial:1 stocks:1
-AXP	20120821	56.34	56.04	r_down	cards:1 aim:1 wealthier:1 wallets:1
-AXP	20120822	56.04	56.26	r_up	deal:1 mobile:1 shares:1 venture:1 rally:1 payment:1
-AXP	20120823	56.26	55.86	r_down	rally:1 money-fund:1 shares:1 news:1
-AXP	20120824	55.86	56.92	r_up	
-AXP	20120827	56.92	56.85	r_down	jump:1 slip:1 financials:1
-AXP	20120828	56.85	56.99	r_up	
-AXP	20120829	56.99	56.85	r_down	
-AXP	20120830	56.85	56.6	r_down	
-AXP	20120831	56.6	57.72	r_up	ends:1 but:1 lags:1 rivals:1 jitters:1 shares:1 retreat:1 bank:1 higher:1
-AXP	20120904	57.72	58.03	r_up	
-AXP	20120905	58.03	56.62	r_down	post:1 gains:1
-AXP	20120906	56.62	56.84	r_up	gains:1 lead:1 sense:1 rally:1 makes:1 analyst:1
-AXP	20120907	56.84	57.16	r_up	leads:1 stocks:1 financial:1 higher:1
-AXP	20120910	57.16	56.95	r_down	upgrade:1 quietly:1 rises:1 financials:1 trade:1
-AXP	20120911	56.95	56.66	r_down	
-AXP	20120912	56.66	56.7	r_up	10:1 account:1 deal:1 no:1 million:1 lifted:1 households:1 have:1 bank:1
-AXP	20120913	56.7	58.47	r_up	high:1 52-week:1 lifts:1 plan:1 close:1 financials:1
-AXP	20120914	58.47	58.68	r_up	sector:1 gains:1 but:1 fade:1 stays:1 higher:1
-AXP	20120917	58.68	58.59	r_down	offers:1 rises:1 off:1 financials:1 debt:1
-AXP	20120918	58.59	58.09	r_down	
-AXP	20120919	58.09	58.09	r_up	loss:1 extend:1 third:1 into:1 session:1 stocks:1
-AXP	20120920	58.09	57.76	r_down	
-AXP	20120921	57.76	57.29	r_down	214:2 move:1 $:2 shares:1 higher:1
-AXP	20120924	57.29	57.1	r_down	jump:1 back:1 bounce:1
-AXP	20120925	57.1	56.56	r_down	
-AXP	20120926	56.56	55.58	r_down	lower:1 financial:1 losses:1 weak:1 but:1 leads:1 recoup:1 stocks:1 financials:1
-AXP	20120927	55.58	56.01	r_up	3.4:4 's:6
-AXP	20120928	56.01	56.3	r_up	's:1 gains:1 financials’:1 falls:1 gainer:1 underpin:1 still:1 best:1 2012:1
-AXP	20121001	56.3	57.16	r_up	pay:1 practices:1 mln:1 $:1 113:1
-AXP	20121002	57.16	56.61	r_down	lift:1 though:1 get:1
-AXP	20121003	56.61	57.03	r_up	ratings:1 work:1 leaves:1 rise:2 actions:1 behind:1 quartet:1 financials:1
-AXP	20121004	57.03	57.99	r_up	banks:1 rise:1 lift:1
-AXP	20121005	57.99	58.18	r_up	
-AXP	20121008	58.18	58.44	r_up	biggest:1 gaining:1 stocks:1 's:2 declining:1
-AXP	20121009	58.44	57.87	r_down	but:1 note:1 boosts:1 truth:1 fall:1 plunges:1 profits:1 plan:1
-AXP	20121010	57.87	57.6	r_down	confident:1 says:1 holidays:1
-AXP	20121011	57.6	58.09	r_up	end:1 investors:1 await:1 shares:1 earnings:2 report:1 climb:1 higher:1
-AXP	20121012	58.09	57.52	r_down	trigger:1 selloff:1 results:1 bank:1
-AXP	20121015	57.52	57.22	r_down	
-AXP	20121016	57.22	58.25	r_up	
-AXP	20121017	58.25	58.99	r_up	1.2:2 surprises:1 watch:1 advisories:1 earnings:2 rally:1 stocks:1 bank:1
-AXP	20121018	58.99	57.24	r_down	gaining:1 slips:1 1.2:3 declines:1 after:1 hours:1 declining:1 biggest:1 stocks:1 2013:2
-AXP	20121019	57.24	56.49	r_down	drop:1 2013:1 rallies:1
-AXP	20121022	56.49	56.38	r_down	
-AXP	20121023	56.38	55.02	r_down	
-AXP	20121024	55.02	54.88	r_down	its:1
-AXP	20121025	54.88	55.08	r_up	
-AXP	20121026	55.08	55.39	r_up	
-AXP	20121031	55.39	55.61	r_up	
-AXP	20121101	55.61	56.48	r_up	cards:1 their:1 offers:1 crank:1 up:1
-AXP	20121102	56.48	56.35	r_down	financials:1 lead:1 higher:1
-AXP	20121105	56.35	56.0	r_down	
-AXP	20121106	56.0	56.82	r_up	help:1 pace:1 plan:1 slip:1 rises:1 financials:2
-AXP	20121107	56.82	55.21	r_down	paint:1 advisories:1 red:1 financials:1 surprises:1
-AXP	20121108	55.21	55.2	r_down	
-AXP	20121109	55.2	55.47	r_up	
-AXP	20121112	55.47	55.16	r_down	12:1
-AXP	20121113	55.16	54.39	r_down	woe:1 highlight:1 shed:1 morning:1
-AXP	20121114	54.39	53.31	r_down	
-AXP	20121115	53.31	53.3	r_down	move:1 holds:1 gains:1 financials:1 up:1
-AXP	20121116	53.3	53.95	r_up	nod:1 rises:1 gain:1 financials:1
-AXP	20121119	53.95	54.88	r_up	
-AXP	20121120	54.88	55.5	r_up	big-cap:1 green:1 gains:1 financials:1 keep:1
-AXP	20121121	55.5	55.62	r_up	
-AXP	20121123	55.62	56.15	r_up	
-AXP	20121126	56.15	55.33	r_down	
-AXP	20121127	55.33	54.09	r_down	outlook:1 off:1 after:1 weak:1 tweaking:1 financials:1
-AXP	20121128	54.09	55.15	r_up	69:2
-AXP	20121129	55.15	55.56	r_up	's:1 wallets:1 things:1 banks:1 5:1 gain:1 digital:1 active:1 call:1 know:1
-AXP	20121130	55.56	55.54	r_down	
-AXP	20121203	55.54	55.63	r_up	sector:1 favor:1 weakens:1 bank:1 out:1
-AXP	20121204	55.63	55.48	r_down	‘cliff’:1 amid:1 ease:1 caution:1
-AXP	20121205	55.48	56.04	r_up	's:1
-AXP	20121206	56.04	55.76	r_down	's:1
-AXP	20121207	55.76	56.25	r_up	
-AXP	20121210	56.25	56.39	r_up	billion:1 hit:1 $:1 shares:1 2:1 fall:1 claims:1
-AXP	20121211	56.39	56.69	r_up	rise:1 gain:1 financials:1
-AXP	20121212	56.69	57.3	r_up	highlight:1 rising:1 financials:1
-AXP	20121213	57.3	57.35	r_up	
-AXP	20121214	57.35	56.29	r_down	
-AXP	20121217	56.29	56.9	r_up	
-AXP	20121218	56.9	57.45	r_up	
-AXP	20121219	57.45	56.43	r_down	
-AXP	20121220	56.43	57.03	r_up	810:2 $:3 35:1
-AXP	20121221	57.03	57.28	r_up	rewards:1 $:2 up:1 810:2 home:1 renovation:1
-AXP	20121224	57.28	57.16	r_down	
-AXP	20121226	57.16	56.76	r_down	
-AXP	20121227	56.76	56.33	r_down	
-AXP	20121228	56.33	56.31	r_down	
-AXP	20121231	56.31	57.11	r_up	
-AXP	20130102	57.11	58.58	r_up	2013:1
-AXP	20130103	58.58	58.83	r_up	
-AXP	20130104	58.83	59.43	r_up	
-AXP	20130107	59.43	59.68	r_up	
-AXP	20130108	59.68	60.02	r_up	
-AXP	20130109	60.02	60.08	r_up	
-AXP	20130110	60.08	60.61	r_up	lower:1 turns:1 after:1 shares:1 hours:1 gain:1
-AXP	20130111	60.61	61.06	r_up	11:1 flat:1 right:1 gains:1 profit:1 move:1 leads:1 --:1 reason:1 'd:1 bank:1 rises:1 retreat:1 futures:1
-AXP	20130114	61.06	61.03	r_down	week:1 end:1 signal:1 could:1 cuts:1 $:1 financials’:1 break:1 500:1 5:1 era:1 fall:1 downgrade:1 rally:1 travel:1 make:1 financials:1 weakens:1
-AXP	20130115	61.03	60.58	r_down	10:1 office:1 things:1 won’t:1 your:1 you:1 tell:1
-AXP	20130116	60.58	60.44	r_down	's:2
-AXP	20130117	60.44	60.56	r_up	hours:1 after:1 hit:1 earnings:1 shares:1
-AXP	20130118	60.56	59.6	r_down	disappoint:1 results:1 fall:1
-AXP	20130122	59.6	59.22	r_down	reports:1 rise:1 stocks:1 earnings:1 after:1
-AXP	20130123	59.22	58.76	r_down	
-AXP	20130124	58.76	59.12	r_up	's:1
-AXP	20130125	59.12	59.32	r_up	
-AXP	20130128	59.32	58.9	r_down	
-AXP	20130129	58.9	59.27	r_up	're:1
-AXP	20130130	59.27	59.15	r_down	
-AXP	20130131	59.15	58.64	r_down	's:1
-AXP	20130201	58.64	59.73	r_up	14000:1 's:1
-AXP	20130204	59.73	59.23	r_down	
-AXP	20130205	59.23	60.48	r_up	
-AXP	20130206	60.48	60.38	r_down	28:1 $:1
-AXP	20130207	60.38	61.96	r_up	$:1 400:1
-AXP	20130208	61.96	61.62	r_down	
-AXP	20130211	61.62	61.8	r_up	
-AXP	20130212	61.8	62.02	r_up	closes:1 hits:1 high:1 14,000:2 above:1 5-year:2
-AXP	20130213	62.02	61.92	r_down	
-AXP	20130214	61.92	62.16	r_up	
-AXP	20130215	62.16	61.51	r_down	
-AXP	20130219	61.51	62.1	r_up	
-AXP	20130220	62.1	61.73	r_down	
-AXP	20130221	61.73	61.36	r_down	
-AXP	20130222	61.36	62.38	r_up	9.96:1 529:1 $:1 2012:1
-AXP	20130225	62.38	61.84	r_down	
-AXP	20130226	61.84	61.74	r_down	
-AXP	20130227	61.74	62.32	r_up	
-AXP	20130228	62.32	61.97	r_down	
-AXP	20130301	61.97	62.19	r_up	24:1 billion:1 good:1 says:1 $:1 enough:1 wasn’t:1 gain:1 's:1 2012:1
-AXP	20130304	62.19	62.7	r_up	
-AXP	20130305	62.7	63.93	r_up	
-AXP	20130306	63.93	64.46	r_up	
-AXP	20130307	64.46	64.37	r_down	stress:1 end:1 banks’:1 below:1 standard:1 signals:1 only:1 test:2 dividend:1 drought:1 bank:1
-AXP	20130308	64.37	64.51	r_up	got:1 2012:1 's:1 $:1 28.5:1
-AXP	20130311	64.51	65.31	r_up	
-AXP	20130312	65.31	65.1	r_down	
-AXP	20130313	65.1	65.11	r_up	
-AXP	20130314	65.11	65.19	r_up	ways:1 invests:1 you:1 5:1 don’t:1
-AXP	20130315	65.19	65.89	r_up	fail:1 stress:1 's:3 tests:1
-AXP	20130318	65.89	65.59	r_down	
-AXP	20130319	65.59	64.94	r_down	
-AXP	20130320	64.94	65.8	r_up	
-AXP	20130321	65.8	65.22	r_down	
-AXP	20130322	65.22	66.02	r_up	's:1
-AXP	20130325	66.02	65.9	r_down	
-AXP	20130326	65.9	66.97	r_up	27:1
-AXP	20130327	66.97	66.95	r_down	
-AXP	20130328	66.95	67.26	r_up	2013:1 400:1 bold:1 bet:1 latest:1
-AXP	20130401	67.26	67.06	r_down	
-AXP	20130402	67.06	67.44	r_up	
-AXP	20130403	67.44	66.25	r_down	
-AXP	20130404	66.25	66.73	r_up	
-AXP	20130405	66.73	65.3	r_down	
-AXP	20130408	65.3	65.6	r_up	
-AXP	20130409	65.6	65.22	r_down	
-AXP	20130410	65.22	65.4	r_up	
-AXP	20130411	65.4	65.74	r_up	
-AXP	20130412	65.74	65.68	r_down	
-AXP	20130415	65.68	64.1	r_down	
-AXP	20130416	64.1	64.59	r_up	
-AXP	20130417	64.59	64.13	r_down	down:1 late:1 trades:1 earnings:1 disappoint:1
-AXP	20130418	64.13	65.04	r_up	futures:1 up:1 edge:1 claims:1 line:1 81:1 data:1
-AXP	20130419	65.04	67.24	r_up	
-AXP	20130422	67.24	66.66	r_down	
-AXP	20130423	66.66	67.45	r_up	
-AXP	20130424	67.45	67.42	r_down	
-AXP	20130425	67.42	68.13	r_up	after:1 jobs:1 rise:1 earnings:1 upbeat:1 stocks:1 data:1
-AXP	20130426	68.13	67.75	r_down	
-AXP	20130429	67.75	67.63	r_down	leads:1 financial:1 shares:1 higher:1
-AXP	20130430	67.63	68.41	r_up	
-AXP	20130501	68.41	68.28	r_down	
-AXP	20130502	68.28	69.38	r_up	
-AXP	20130503	69.38	70.23	r_up	
-AXP	20130506	70.23	70.06	r_down	's:1 500:1
-AXP	20130507	70.06	70.24	r_up	
-AXP	20130508	70.24	70.31	r_up	15000:1
-AXP	20130509	70.31	70.21	r_down	
-AXP	20130510	70.21	70.08	r_down	
-AXP	20130513	70.08	69.79	r_down	
-AXP	20130514	69.79	71.51	r_up	
-AXP	20130515	71.51	72.78	r_up	
-AXP	20130516	72.78	72.23	r_down	
-AXP	20130517	72.23	73.32	r_up	
-AXP	20130520	73.32	74.4	r_up	
-AXP	20130521	74.4	75.11	r_up	's:1
-AXP	20130522	75.11	74.44	r_down	
-AXP	20130523	74.44	74.69	r_up	
-AXP	20130524	74.69	75.27	r_up	
-AXP	20130528	75.27	76.16	r_up	
-AXP	20130529	76.16	75.83	r_down	
-AXP	20130530	75.83	76.14	r_up	
-AXP	20130531	76.14	75.71	r_down	
-AXP	20130603	75.71	76.47	r_up	
-AXP	20130604	76.47	76.06	r_down	banks:1 beware:1 but:1 buying:1
-AXP	20130605	76.06	74.76	r_down	
-AXP	20130606	74.76	76.24	r_up	
-AXP	20130607	76.24	78.04	r_up	
-AXP	20130610	78.04	78.28	r_up	
-AXP	20130611	78.28	76.52	r_down	
-AXP	20130612	76.52	74.72	r_down	dive:1 stocks:1 's:1 returns:1 volatility:1
-AXP	20130613	74.72	75.21	r_up	dividend:1 hunters:1 play:1 stock:1
-AXP	20130614	75.21	72.97	r_down	
-AXP	20130617	72.97	73.84	r_up	
-AXP	20130618	73.84	74.98	r_up	
-AXP	20130619	74.98	74.23	r_down	
-AXP	20130620	74.23	72.92	r_down	's:1 class-action:1 stops:1 vs:1 suit:1 vs.:1
-AXP	20130621	72.92	73.31	r_up	1:1 's:2 $:1
+AXP	20140501	86.9	86.3	r_down	
+AXP	20140502	86.3	86.4	r_up	
+AXP	20140505	86.4	86.8	r_up	directly:1 investors:1 one:2 shares:1 have:1 corner:1 financial-services:1 should:1 decisions:1 yet:1 market:1 risk:1 mutual:1 still:1 $:1 5.6:1 jumped:1 make:1 two:1 fast:1 revisit:1 mix:1 hot:1 followers:1 investment:1 basic:1 new:1 100,000:1 match:1 employment:1 buy:1 's:1 creating:1 bandwagon:1 rules:1 funds:1 sold:1 giant:1 fund:1 qualify:1 stocks:1 entirely:1 success:1 most:1 whether:1 invest:1 compliance:1 n't:2 stand:1 banks:1 model:1
+AXP	20140506	86.8	85.7	r_down	life:1 target:1 becoming:1 ways:1 make:1 harder:1 cyber:1 trick:1 writes:1 5:1 easy:2 security:1 avoid:1
+AXP	20140507	85.7	87.4	r_up	van:1 pushed:1 bar’:1 technology:1 writes:1 had:1 ‘sets:1 actually:1 credit:1 today:1 security:1 ousted:1 card:1 latest:1
+AXP	20140508	87.4	88.1	r_up	saver:1 half:1 '':1 frequent-flier:1 availability:1 around:1 25:1 use:1 consumers:1 airlines:2 easier:1 more:1 lowest:1 ``:1 greater:1 award:1 levels:1 making:1 world:1 bit:1 than:1 tickets:1 annual:1 miles:1 survey:1 found:1 trips:1
+AXP	20140509	88.1	88.3	r_up	
+AXP	20140512	88.3	89.1	r_up	investors:1 point:1 trade:1 see:1 session:1 trading:1 whose:1 shares:1 take:1 expected:1 instead:1 higher:1 watch:1 active:1 inspiration:1 largely:1 amid:1 futures:2 companies:1 ignore:1 activity:1 climb:1 stock:2
+AXP	20140513	89.1	88.5	r_down	
+AXP	20140514	88.5	87.9	r_down	
+AXP	20140515	87.9	87.1	r_down	financial:1 its:1 van:1 writes:1 stake:1 shares:1 behemoths:1 surprise:1 firms:1 bought:1 good:1 's:2 beat:1 million:1 but:1 during:1 stocks:1 bank:1 11:1 quarter:1 reduced:1 first:1
+AXP	20140516	87.1	87.0	r_down	newsletter:1 outperform:1 honor-roll:1 owned:1 tend:1 writers:1 through:1 thin:1 broader:1 9:1 thick:1 stocks:1 writes:1 market:1
+AXP	20140519	87.0	87.6	r_up	managers:1 deal:1 travelers:1 services:1 year:1 operator:1 families:1 investment:1 out:1 said:1 $:1 49:1 profit:1 cash-and-stock:1 two:1 woo:1 statement:1 new:1 net:1 tickets:1 satellite:1 's:3 business:1 introduce:1 joint:1 fell:1 8:1 put:1 billion:1 budget:1 cheering:1 carrier:1
+AXP	20140520	87.6	86.5	r_down	sentenced:1 27:1 $:1 months:1 federal:1 funds:1 company:1 executive:1 expenses:1 personal:1 including:1 rent:1 400,000:1 prison:1 than:1 more:1
+AXP	20140521	86.5	87.3	r_up	
+AXP	20140522	87.3	87.6	r_up	draw:2 hoping:2 importance:2 national:2 use:2 travels:2 visitors:2 pastime:2 highlight:2 international:2 he:2 tourism:2 more:2
+AXP	20140523	87.6	88.2	r_up	
+AXP	20140527	88.2	90.8	r_up	
+AXP	20140528	90.8	90.5	r_down	raised:1 quarter:1 's:1 $:1 sold:1 after:1 shares:1 11.3:1 dividend:1 strong:1
+AXP	20140529	90.5	90.7	r_up	
+AXP	20140530	90.7	90.9	r_up	
+AXP	20140602	90.9	91.3	r_up	
+AXP	20140603	91.3	91.2	r_down	
+AXP	20140604	91.2	91.2	r_up	
+AXP	20140605	91.2	92.2	r_up	
+AXP	20140606	92.2	94.3	r_up	vice:1 managing:1 memo:1 according:1 its:1 director:1 hired:1 banker:1 internal:1 seen:1 has:1 former:1 chairman:1
+AXP	20140609	94.3	95.0	r_up	
+AXP	20140610	95.0	94.7	r_down	
+AXP	20140611	94.7	94.5	r_down	
+AXP	20140612	94.5	94.2	r_down	
+AXP	20140613	94.2	94.3	r_up	some:1 number:2 couples:1 have:1 working:1 unknown:1 been:1 asking:1 compromise:1 debit:1 flexible:1 grows:1 used:1 mind:1 employers:1 cards:1 part:1 tapping:1 designed:1 theft:1 data:1 probes:1 customer:1 mothers:1 credit:1 workplace:1 policies:1 action:1 security:1 restaurants:1
+AXP	20140616	94.3	93.8	r_down	do:1 use:1 option:1 consumers:1 people:1 checking:1 pitches:1 cheaper:1 n't:1 accounts:1 want:1 banks:1 alternative:1 card:1 courting:1
+AXP	20140617	93.8	94.1	r_up	
+AXP	20140618	94.1	95.0	r_up	
+AXP	20140619	95.0	94.5	r_down	
+AXP	20140620	94.5	94.9	r_up	all:1 national:1 according:1 through:1 have:2 fees:1 end:1 $:1 no:1 research:1 fans:1 vs.:1 debit:1 has:1 charging:1 advertising:1 firm:1 do:2 's:1 prepaid:1 million:1 stop:1 prepaid-card:1 card:1 longer:1 industry:1 spent:1 credit:2 common:1 cards:1
+AXP	20140623	94.9	94.9	r_up	
+AXP	20140624	94.9	93.8	r_down	
+AXP	20140625	93.8	94.1	r_up	
+AXP	20140626	94.1	93.7	r_down	sell:1 deal:1 reaching:1 move:1 headquarters:1 near:1 its:1
+AXP	20140627	93.7	94.3	r_up	again:1 ones:3 good:2 consumers:1 avoid:1 offers:1 too:1 true:1 find:1 once:1
+AXP	20140630	94.3	94.3	r_up	
+AXP	20140701	94.3	94.8	r_up	available:1 better:1 them:1 spending:1 bits:1 cash:1 manage:1 companies:1 sales:1 billions:1 forecast:1 large:1 so:1 can:1 they:1 capital:1 small:1 flow:1 increase:1 data:1
+AXP	20140702	94.8	94.6	r_down	's:1 far:1 morning:1 operating:1 committee:1 ordinary:1 weekly:1
+AXP	20140703	94.6	95.2	r_up	financial:1 consider:1 fueling:1 idea:1 competition:1 result:1 fees:1 chair:1 rounds:1 merchants:1 consumers:1 crises:1 avoid:1 dismissed:1 rates:1 raising:1 interest:1 has:1 higher:1 's:3 government:1 rules:1 ultimately:1 contends:1 news:1 bank:1 must:1 central:1 up:1 morning:1 future:1
+AXP	20140707	95.2	94.8	r_down	
+AXP	20140708	94.8	94.0	r_down	bar:1 merchants:1 attorneys:1 another:1 rules:1 credit-card:1 over:2 prefer:1 customers:1 accept:1 its:1 they:1 telling:1 's:1 one:1 company:1 card:1
+AXP	20140709	94.0	94.4	r_up	topping:1 hoping:1 lost:1 bid:1 patience:1 have:1 appear:1
+AXP	20140710	94.4	94.1	r_down	give:1 executive:1 including:1 fees:1 its:1 if:1 forced:1 merchants:1 consumers:1 top:1 encourage:1 rules:1 company:1 incentives:1 use:1 such:1 steering:1 lower:1 would:1 credit-card:1 drop:1 cards:1
+AXP	20140711	94.1	94.1	r_up	
+AXP	20140714	94.1	94.2	r_up	
+AXP	20140715	94.2	94.1	r_down	expanding:1 operations:1 money:1 last:1 revenue:1 mobile:1 boosted:1 company:1 startup:1 but:1 its:1 pour:1 payments:1 year:1 continued:1 into:1 red:1
+AXP	20140716	94.1	94.1	r_up	case:1 customer:1 recently:1 service:1 calls:1 did:1 company:1 canceling:1 one:1 recording:1 phone:1 call:1 can:1 cable:1 learn:1 hell:1 you:1 consumer:1 your:1
+AXP	20140717	94.1	92.7	r_down	commerce:1 off:1 get:1 initiative:1 shopping:1 went:1 its:1 ground:1
+AXP	20140718	92.7	93.2	r_up	lower:1 spending:1 breaks:1 tax:1 fight:1 deals:1 writes:1 truth:1 investments:1 sad:1 yet:1 tax-‘inversion’:1
+AXP	20140721	93.2	92.6	r_down	
+AXP	20140722	92.6	93.0	r_up	
+AXP	20140723	93.0	93.0	r_up	
+AXP	20140724	93.0	92.8	r_down	335:1 half:2 expects:3 negative:1 down:1 currency:1 continues:1 another:1 year:2 rally:1 its:3 previous:1 impact:1 little:1 said:2 $:3 million:6 euros:1 profit:1 cross:1 lower:1 earnings:1 interest:1 between:1 before:1 2014:2 poised:1 has:1 2013:1 200:2 currencies:1 's:1 around:1 company:2 depreciation:1 vouchers:1 results:1 levels:1 operating:1 milestone:1 network:1 billion:1 compared:1 level:1 --:1 changed:1 second:1 taxes:1 record:1 social:1 weigh:1 meal:1 first:1
+AXP	20140725	92.8	91.6	r_down	
+AXP	20140728	91.6	91.5	r_down	raised:1 full-year:1 broader:1 first-quarter:1 its:2 market:1 said:1 would:1 profit:1 pay:1 divided:1 shares:1 forecast:1 enough:1 earnings:1 largest:1 beating:1 more:1 's:1 after:1 discount:1 reason:1 alone:1 than:1 special:1 improved:1 second:1 doubled:1 n't:2 continue:1 airline:1 quarter:1
+AXP	20140729	91.5	91.4	r_down	saying:1 says:1 sign:1 among:1 issued:1 celebrities:1 results:1 quarters:1 disappointing:1 bearish:1 against:1 have:1 growing:1 miss:1 its:1 worrisome:1 gains:1 one:1 surprises:1 shuttered:1 scaled:1 advisories:1 pile:1 earnings:2 which:1 tumbles:1 compete:1 gets:1 boost:1 historically:1 bets:1 sinks:1 big:1 after:1 back:1 banks:1 market:1 struggle:1 they:1 stocks:1 prepaid-card:1 analyst:1 roundup:1 down:1 ventures:1 companies:1 reports:1 future:1 steps:1 cards:1 corporate:1 options:1 latest:1
+AXP	20140730	91.4	90.6	r_down	summer:1 results:1 trade:1 session:1 higher:1 its:7 fronts:1 $:1 rose:1 masses:1 expectations:1 second-quarter:2 contract:1 premarket:1 policy:1 day’s:1 customers:2 government:1 beat:1 half:1 report:1 using:1 awaken:1 loss:1 drop:1 companies:1 doubled:1 quarter:2 some:1 actively:1 trading:2 witness:1 out:1 merchants:1 said:1 profit:1 away:1 shares:1 surprise:1 burned:1 announced:1 jobs:1 business:1 hours:1 reported:1 operating:1 members:1 manufacturing:1 card:1 33:1 could:1 reports:1 spending:1 stand:1 messaging:1 efforts:1 first:1 among:1 madness:1 revenue:1 number:1 narrowed:1 service:1 monthly:1 there:1 due:1 their:1 lucrative:1 statement:1 expected:1 markets:1 more:2 ``:1 midsummer:1 company:3 took:1 hurt:1 indicators:1 part:1 signaling:1 surged:1 than:1 case:1 up:1 appealing:1 growth:1 cards:1 steer:1 lull:1 bearing:1 soars:1 uptick:1 expenses:1 '':1 against:1 swung:1 saw:2 make:1 also:1 winners:1 declined:1 which:1 9:1 several:1 soar:1 week:1 extended:1 's:5 may:1 earnings:2 after:2 most:1 fruit:1 user:1 soared:1 fiscal:1 short:1 antitrust:1 later:1 sale:1 reputation:1 upside:1 gain:1
+AXP	20140731	90.6	87.7	r_down	executive:1 there:1 's:2 interest:1 rivals:1 had:1 company:1 never:1 companies:1 cash:1 significant:1 chief:1 reason:1 much:2 so:2 have:1 policy:1 rates:1 tax:1 debt:1 disadvantage:1
+AXP	20140801	87.7	86.2	r_down	
+AXP	20140804	86.2	86.6	r_up	
+AXP	20140805	86.6	86.1	r_down	facing:1 lower:1 highlighting:1 revenue:1 profit:1 becoming:1 since:1 publisher:1 stand-alone:1 challenges:1 report:1 magazine:1 operating:1 quarterly:1 posted:1 company:1 its:1 first:1
+AXP	20140806	86.1	86.1	r_up	
+AXP	20140807	86.1	85.7	r_down	
+AXP	20140808	85.7	87.2	r_up	
+AXP	20140811	87.2	86.6	r_down	
+AXP	20140812	86.6	86.8	r_up	
+AXP	20140813	86.8	87.1	r_up	
+AXP	20140814	87.1	87.0	r_down	's:1 cable:1 holdings:1 stake:1 second:1 operator:1 add:1 small:1 during:1 quarter:1 continued:1 its:1 buying:1
+AXP	20140815	87.0	86.3	r_down	
+AXP	20140818	86.3	86.9	r_up	
+AXP	20140819	86.9	87.8	r_up	investors:1 broad:1 turned:1 continued:1 gaze:1 rates:1 low:1 interest:1 rallies:1 stocks:1 likelihood:1 conflict:1
+AXP	20140820	87.8	88.2	r_up	
+AXP	20140821	88.2	88.8	r_up	
+AXP	20140822	88.8	88.6	r_down	
+AXP	20140825	88.6	89.3	r_up	
+AXP	20140826	89.3	88.8	r_down	
+AXP	20140827	88.8	88.9	r_up	's:1 offer:1 make:1 stake:1 budget:1 growth:1 airline:1 biggest:1 explores:1 options:1
+AXP	20140828	88.9	88.7	r_down	merchant:1 rating:1 among:1 merchants:1 now:2 acceptance:1 1:1 favor:1 new:1 more:1 gaining:1 ranking:1 users:1 share:1 cardholders:1 tied:1 accepting:1 highest:1 card:1 customer-satisfaction:1 according:2 credit:1 survey:1 cards:2 consumer:1
+AXP	20140829	88.7	89.2	r_up	
+AXP	20140902	89.2	89.4	r_up	index:1 20:1 14:1 boring:1 beaten:1 years:1 picks:1 has:1
+AXP	20140903	89.4	89.8	r_up	
+AXP	20140904	89.8	89.3	r_down	
+AXP	20140905	89.3	89.3	r_up	
+AXP	20140908	89.3	88.6	r_down	ca:1 executive:1 customers:1 seen:1 n't:1 targeting:1 sentiment:1 catalysts:1 other:1 card:1 pursuing:1 product:1 get:1 company:1 unveilings:1 they:1 those:1 both:1 builds:1 ahead:1 according:1 affluent:1 excitement:1 products:1 senior:1 think:1 investors’:1 buoy:1
+AXP	20140909	88.6	87.6	r_down	's:1 dressing:1 powerful:1 their:1 job:1 drown:1 rich:1 diamonds:1 got:1
+AXP	20140910	87.6	88.1	r_up	purchases:1 via:1 financial:1 introducing:1 digital-wallet:1 phones:1 into:3 some:2 competition:1 three:1 screens:1 buy:1 simply:1 something:1 need:1 technology:1 your:1 market:2 these:2 van:1 writes:1 also:1 spending:1 make:2 get:1 two:1 their:1 inject:1 way:1 biggest:1 new:1 you:1 has:1 easier:1 more:1 do:1 customers:1 smartphone:1 means:1 but:1 tries:1 moving:1 paid:1 hopes:1 world:1 segment:1 firms:1 change:1 forever:1 room:1 did:1 larger:1 companies:2 fast-growing:1 unveils:1 plunging:1 mobile:1 benefit:1 habits:1 payments:1 time:1 swiping:1 field:1 lending:1 called:1 coolness:1
+AXP	20140911	88.1	88.1	r_up	shop:1 already:1 mojo:1 help:1 partnering:1 back:1 competition:1 set:1 fees:1 its:1 now:1 group:1 service:1 decision:1 system:1 least:1 cross-border:1 reasons:1 3:1 setting:1 digital:1 has:3 invade:1 's:1 critics:1 ban:1 they:1 backed:1 court:1 believe:1 up:1 reports:1 wallet:1 popular:1 top:1 grounds:1
+AXP	20140912	88.1	87.3	r_down	purchases:1 just:1 move:1 some:1 them:1 one:1 gadgets:1 say:2 embrace:1 pass:1 further:1 electronic:1 its:1 consumers:1 pay:1 away:1 partnership:1 system:1 lets:1 which:1 new:1 technology:1 product:1 fueling:1 's:1 risk:2 incentives:1 banks:1 they:1 hopes:1 payment:1 launches:1 industry:1 cash:1 credit-card:1 usually:1 experts:2 taking:1 latest:1
+AXP	20140915	87.3	87.1	r_down	session:1 's:1 companies:1 shares:1 trade:1 actively:1 expected:1
+AXP	20140916	87.1	88.1	r_up	
+AXP	20140917	88.1	88.8	r_up	10:1 van:1 indexes:1 investors:1 can:1 beat:1 writes:1 rock-solid:1 conservative:1 less:1 their:1 low:1 stocks:1 risk:1 volatility:1
+AXP	20140918	88.8	89.8	r_up	
+AXP	20140919	89.8	89.4	r_down	all:1 weeks:1 's:1 ditches:1 drop:1 two:1 new:1 next:2 expected:1 announce:1 year:1 cards:1 stores:2 alternative:1 starting:1 its:2
+AXP	20140922	89.4	88.7	r_down	
+AXP	20140923	88.7	88.0	r_down	their:1 attention:1 expectations:1 high:1 turn:1 analysts:1 have:1 toward:1 technology:1 mobile-payment:1
+AXP	20140924	88.0	88.2	r_up	sector:1 giant:1 financial:1 offer:1 low-cost:1 into:1 customers:1 unveils:1 checking:2 accounts:2 targeting:1 foray:1 services:1 --:1 its:1 low-income:1 latest:1
+AXP	20140925	88.2	86.5	r_down	mobile:1 should:1 other:1 know:1 new:1 services:1 using:1 you:1 payment:1
+AXP	20140926	86.5	88.1	r_up	
+AXP	20140929	88.1	87.6	r_down	even:1 form:1 give:1 club:1 elite:1 giving:1 levels:1 not:2 seen:1 if:1 beginning:1 their:1 causes:1 before:1
+AXP	20140930	87.6	87.2	r_down	purchases:1 set:1 into:1 retailer:1 competition:1 transaction:1 course:1 including:1 directly:1 year:1 aggressive:1 next:1 its:2 unit:1 around:1 giant:1 said:1 players:1 downgraded:1 online:1 's:2 plans:1 business:2 separate:1 company:1 after:1 free:1 part:1 moving:1 plan:1 everyday:1 spin:1 analyst:1 look:1 paying:1 smartphones:1 off:1 reverse:1 publicly:1 pushed:1 involved:1 allows:1 morning:1 investment:1 e-commerce:1 chief:1 entry:1 traded:1 executives:1
+AXP	20141001	87.2	85.8	r_down	spinoff:1 mostly:1 find:1 suitor:1 bearish:1
+AXP	20141002	85.8	85.8	r_up	sell:1 courses:1 set:1 harder:1
+AXP	20141003	85.8	87.1	r_up	week:1 10:1 led:1 theft:1 market-moving:1 huge:1 consumer:1 writes:1 data:1 report:1 van:1 another:1 news:1 biggest:1 outbreak:1 strong:1 employment:1 events:1
+AXP	20141006	87.1	87.0	r_down	
+AXP	20141007	87.0	85.3	r_down	150:2 raised:1 startup:1 investment:1 market:1 funding:1 $:3 arm:1 mobile-payment:1 6:1 has:2 regain:1 led:1 government:1 share:1 million:1 services:1 opportunity:1 billion:1 provider:1 valuing:1 round:1
+AXP	20141008	85.3	87.4	r_up	
+AXP	20141009	87.4	85.8	r_down	
+AXP	20141010	85.8	84.9	r_down	case:1 prevent:1 merchants:1 end:1 rivals:1 federal:1 were:1 customers:1 rule:1 cards:1 expected:1 rules:1 accept:1 year:1 judge:1 heard:1 steering:1 arguments:1

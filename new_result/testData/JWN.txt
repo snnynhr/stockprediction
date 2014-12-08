@@ -1,307 +1,114 @@
-JWN	20120402	54.31	54.7	r_up	
-JWN	20120403	54.7	53.98	r_down	
-JWN	20120404	53.98	54.15	r_up	see:1 muscle:1 continued:1 sales:1 shopper:1
-JWN	20120405	54.15	54.75	r_up	
-JWN	20120409	54.75	54.44	r_down	
-JWN	20120410	54.44	52.11	r_down	
-JWN	20120411	52.11	53.25	r_up	
-JWN	20120412	53.25	53.7	r_up	department:1 money:1 made:1 stores:1 analyst:1
-JWN	20120413	53.7	53.6	r_down	
-JWN	20120416	53.6	54.12	r_up	
-JWN	20120417	54.12	54.55	r_up	
-JWN	20120418	54.55	54.34	r_down	
-JWN	20120419	54.34	54.16	r_down	
-JWN	20120420	54.16	53.72	r_down	
-JWN	20120423	53.72	53.24	r_down	
-JWN	20120424	53.24	52.57	r_down	
-JWN	20120425	52.57	53.79	r_up	
-JWN	20120426	53.79	54.18	r_up	
-JWN	20120427	54.18	54.64	r_up	profit:1 jumps:1 global:1 continued:1 demand:1
-JWN	20120430	54.64	54.45	r_down	
-JWN	20120501	54.45	54.45	r_up	expected:1 slow:1 sales:1
-JWN	20120502	54.45	55.76	r_up	
-JWN	20120503	55.76	55.43	r_down	surprises:1 advisories:1
-JWN	20120504	55.43	54.49	r_down	
-JWN	20120507	54.49	53.84	r_down	falter:1 uncertainty:1 outlooks:1 election:1
-JWN	20120508	53.84	52.65	r_down	
-JWN	20120509	52.65	52.56	r_down	
-JWN	20120510	52.56	52.18	r_down	heavy:1 disappoints:1 outlook:1 rises:1 profit:1 watch:1 but:1 volume:1 38:1 7:1 after-hours:1 drops:1
-JWN	20120511	52.18	49.67	r_down	surprises:1 advisories:1 watch:2
-JWN	20120514	49.67	48.93	r_down	's:1
-JWN	20120515	48.93	49.34	r_up	
-JWN	20120516	49.34	48.79	r_down	
-JWN	20120517	48.79	47.32	r_down	
-JWN	20120518	47.32	47.66	r_up	
-JWN	20120521	47.66	48.32	r_up	
-JWN	20120522	48.32	48.4	r_up	
-JWN	20120523	48.4	48.97	r_up	
-JWN	20120524	48.97	49.18	r_up	
-JWN	20120525	49.18	49.46	r_up	
-JWN	20120529	49.46	50.06	r_up	
-JWN	20120530	50.06	49.27	r_down	seen:1 modest:1 growth:1 posting:1 sales:1
-JWN	20120531	49.27	46.42	r_down	
-JWN	20120601	46.42	45.86	r_down	
-JWN	20120604	45.86	46.52	r_up	
-JWN	20120605	46.52	46.12	r_down	
-JWN	20120606	46.12	46.86	r_up	
-JWN	20120607	46.86	46.71	r_down	
-JWN	20120608	46.71	47.79	r_up	
-JWN	20120611	47.79	46.75	r_down	25:1
-JWN	20120612	46.75	47.89	r_up	
-JWN	20120613	47.89	46.43	r_down	
-JWN	20120614	46.43	47.21	r_up	
-JWN	20120615	47.21	48.17	r_up	
-JWN	20120618	48.17	48.05	r_down	
-JWN	20120619	48.05	50.01	r_up	hurdles:1 's:1 exec’s:1 after:1 exit:1 faces:1 abrupt:1
-JWN	20120620	50.01	49.84	r_down	
-JWN	20120621	49.84	47.76	r_down	
-JWN	20120622	47.76	47.94	r_up	
-JWN	20120625	47.94	46.98	r_down	
-JWN	20120626	46.98	47.65	r_up	
-JWN	20120627	47.65	46.94	r_down	spending:1 concern:1 retailers:1 clouded:1
-JWN	20120628	46.94	47.28	r_up	's:1
-JWN	20120629	47.28	48.7	r_up	
-JWN	20120702	48.7	49.47	r_up	
-JWN	20120703	49.47	49.55	r_up	may:1 sales:1 years:1 3:1 smallest:1 gain:1 retail:1
-JWN	20120705	49.55	50.5	r_up	post:1 years:1 worst:1 sales:1 three:1
-JWN	20120706	50.5	50.85	r_up	
-JWN	20120709	50.85	50.66	r_down	
-JWN	20120710	50.66	50.7	r_up	join:1 forces:1
-JWN	20120711	50.7	49.68	r_down	
-JWN	20120712	49.68	49.32	r_down	
-JWN	20120713	49.32	50.85	r_up	spending:1 may:1 hit:1 luxury:1
-JWN	20120716	50.85	50.74	r_down	
-JWN	20120717	50.74	51.43	r_up	
-JWN	20120718	51.43	51.84	r_up	franchise:1
-JWN	20120719	51.84	52.21	r_up	retail:1 lift:1 stocks:1 views:1
-JWN	20120720	52.21	51.39	r_down	
-JWN	20120723	51.39	51.07	r_down	
-JWN	20120724	51.07	50.72	r_down	
-JWN	20120725	50.72	51.4	r_up	
-JWN	20120726	51.4	52.27	r_up	
-JWN	20120727	52.27	53.31	r_up	
-JWN	20120730	53.31	53.46	r_up	
-JWN	20120731	53.46	53.06	r_down	
-JWN	20120801	53.06	52.02	r_down	may:1 brand:1 losing:1 sales:1 its:1 better:1 turn:1 expected:1 cachet:1 than:1 out:1
-JWN	20120802	52.02	52.24	r_up	school:1 's:1 may:1 surprises:1 well:1 sales:1 back:1 advisories:1 upside:1 bode:1
-JWN	20120803	52.24	53.26	r_up	
-JWN	20120806	53.26	53.36	r_up	
-JWN	20120807	53.36	54.12	r_up	12:2
-JWN	20120808	54.12	54.34	r_up	different:1 moves:1 tales:1 into:1 territory:1 tell:1
-JWN	20120809	54.34	53.98	r_down	11:2 surprises:1 watch:1 but:1 remain:1 advisories:1 progress:1 makes:1 concerns:1
-JWN	20120810	53.98	55.01	r_up	hours:1 rallies:1 after:1 falls:1
-JWN	20120813	55.01	54.9	r_down	
-JWN	20120814	54.9	55.31	r_up	
-JWN	20120815	55.31	55.38	r_up	
-JWN	20120816	55.38	55.43	r_up	
-JWN	20120817	55.43	56.11	r_up	
-JWN	20120820	56.11	55.45	r_down	
-JWN	20120821	55.45	55.49	r_up	
-JWN	20120822	55.49	56.57	r_up	
-JWN	20120823	56.57	55.93	r_down	
-JWN	20120824	55.93	56.79	r_up	
-JWN	20120827	56.79	56.53	r_down	
-JWN	20120828	56.53	56.29	r_down	
-JWN	20120829	56.29	56.87	r_up	
-JWN	20120830	56.87	56.64	r_down	save:1 kids:1 boost:1 sales:1 retailers:1
-JWN	20120831	56.64	56.94	r_up	
-JWN	20120904	56.94	56.78	r_down	
-JWN	20120905	56.78	56.19	r_down	
-JWN	20120906	56.19	57.07	r_up	
-JWN	20120907	57.07	56.62	r_down	
-JWN	20120910	56.62	56.97	r_up	
-JWN	20120911	56.97	56.88	r_down	
-JWN	20120912	56.88	57.06	r_up	
-JWN	20120913	57.06	56.77	r_down	headed:1 4:2 store:1 latest:1
-JWN	20120914	56.77	56.67	r_down	
-JWN	20120917	56.67	56.57	r_down	
-JWN	20120918	56.57	55.46	r_down	losing:1 cachet:1 brand:1 some:1 its:1
-JWN	20120919	55.46	55.98	r_up	
-JWN	20120920	55.98	55.69	r_down	
-JWN	20120921	55.69	55.19	r_down	
-JWN	20120924	55.19	54.32	r_down	
-JWN	20120925	54.32	54.05	r_down	
-JWN	20120926	54.05	54.05	r_up	
-JWN	20120927	54.05	54.21	r_up	
-JWN	20120928	54.21	54.33	r_up	
-JWN	20121001	54.33	54.88	r_up	
-JWN	20121002	54.88	54.77	r_down	
-JWN	20121003	54.77	55.02	r_up	
-JWN	20121004	55.02	55.19	r_up	stocks:1 watch:1 sales:1 ahead:1
-JWN	20121005	55.19	55.31	r_up	holidays:1 flags:1 sales:1 red:1 raise:1
-JWN	20121008	55.31	55.59	r_up	
-JWN	20121009	55.59	55.24	r_down	
-JWN	20121010	55.24	54.42	r_down	
-JWN	20121011	54.42	54.48	r_up	
-JWN	20121012	54.48	54.08	r_down	
-JWN	20121015	54.08	54.84	r_up	
-JWN	20121016	54.84	55.76	r_up	
-JWN	20121017	55.76	56.77	r_up	
-JWN	20121018	56.77	56.28	r_down	
-JWN	20121019	56.28	55.56	r_down	
-JWN	20121022	55.56	55.11	r_down	
-JWN	20121023	55.11	54.61	r_down	
-JWN	20121024	54.61	54.11	r_down	
-JWN	20121025	54.11	54.25	r_up	
-JWN	20121026	54.25	54.91	r_up	
-JWN	20121031	54.91	55.89	r_up	
-JWN	20121101	55.89	56.31	r_up	small:1 impact:1 see:1
-JWN	20121102	56.31	55.61	r_down	3:1
-JWN	20121105	55.61	56.73	r_up	
-JWN	20121106	56.73	57.3	r_up	10:2
-JWN	20121107	57.3	56.37	r_down	hit:1 hard:1 retail’s:1 post-election:1 end:1 worry:1
-JWN	20121108	56.37	54.55	r_down	surprises:1 advisories:1 earnings:1
-JWN	20121109	54.55	53.94	r_down	15:1 's:2
-JWN	20121112	53.94	53.85	r_down	's:1
-JWN	20121113	53.85	54.04	r_up	
-JWN	20121114	54.04	53.28	r_down	
-JWN	20121115	53.28	53.34	r_up	
-JWN	20121116	53.34	54.02	r_up	
-JWN	20121119	54.02	55.6	r_up	's:1
-JWN	20121120	55.6	54.89	r_down	
-JWN	20121121	54.89	54.74	r_down	's:1
-JWN	20121123	54.74	55.68	r_up	
-JWN	20121126	55.68	53.4	r_down	's:1
-JWN	20121127	53.4	53.32	r_down	may:1 not:1 save:1 sales:1
-JWN	20121128	53.32	54.62	r_up	positive:1 outlook:1 holiday:1 give:1
-JWN	20121129	54.62	53.8	r_down	
-JWN	20121130	53.8	53.52	r_down	holiday:1 miss:1 raises:1 stake:1
-JWN	20121203	53.52	53.16	r_down	
-JWN	20121204	53.16	52.67	r_down	
-JWN	20121205	52.67	52.15	r_down	
-JWN	20121206	52.15	52.41	r_up	
-JWN	20121207	52.41	52.25	r_down	
-JWN	20121210	52.25	51.71	r_down	
-JWN	20121211	51.71	51.34	r_down	
-JWN	20121212	51.34	51.56	r_up	
-JWN	20121213	51.56	51.6	r_up	
-JWN	20121214	51.6	51.65	r_up	
-JWN	20121217	51.65	51.73	r_up	
-JWN	20121218	51.73	51.88	r_up	
-JWN	20121219	51.88	52.24	r_up	
-JWN	20121220	52.24	51.56	r_down	
-JWN	20121221	51.56	51.9	r_up	
-JWN	20121224	51.9	51.87	r_down	
-JWN	20121226	51.87	50.86	r_down	
-JWN	20121227	50.86	51.24	r_up	biggest:1 gaining:1 stocks:1 declining:1
-JWN	20121228	51.24	51.61	r_up	
-JWN	20121231	51.61	52.94	r_up	disappointing:1 gird:1 sales:1
-JWN	20130102	52.94	53.07	r_up	
-JWN	20130103	53.07	54.69	r_up	jittery:1 start:1 note:1 year:1 new:1
-JWN	20130104	54.69	54.16	r_down	remains:1 call:1 war:1 tug:1
-JWN	20130107	54.16	53.86	r_down	
-JWN	20130108	53.86	53.34	r_down	
-JWN	20130109	53.34	53.47	r_up	go:1 dodo:1 could:1 stores:1 way:1
-JWN	20130110	53.47	54.3	r_up	
-JWN	20130111	54.3	53.28	r_down	
-JWN	20130114	53.28	53.27	r_down	
-JWN	20130115	53.27	54.83	r_up	
-JWN	20130116	54.83	55.36	r_up	
-JWN	20130117	55.36	55.07	r_down	deals:1 sector:1 retail:1 2013:1 year:1
-JWN	20130118	55.07	54.94	r_down	
-JWN	20130122	54.94	54.8	r_down	
-JWN	20130123	54.8	54.75	r_down	
-JWN	20130124	54.75	55.09	r_up	
-JWN	20130125	55.09	55.46	r_up	
-JWN	20130128	55.46	54.95	r_down	
-JWN	20130129	54.95	55.1	r_up	
-JWN	20130130	55.1	55.01	r_down	
-JWN	20130131	55.01	54.65	r_down	
-JWN	20130201	54.65	54.54	r_down	
-JWN	20130204	54.54	53.93	r_down	
-JWN	20130205	53.93	54.53	r_up	
-JWN	20130206	54.53	54.69	r_up	
-JWN	20130207	54.69	54.33	r_down	
-JWN	20130208	54.33	55.23	r_up	
-JWN	20130211	55.23	54.79	r_down	
-JWN	20130212	54.79	54.4	r_down	
-JWN	20130213	54.4	54.64	r_up	
-JWN	20130214	54.64	54.67	r_up	
-JWN	20130215	54.67	54.82	r_up	
-JWN	20130219	54.82	55.88	r_up	
-JWN	20130220	55.88	54.57	r_down	
-JWN	20130221	54.57	53.95	r_down	
-JWN	20130222	53.95	53.42	r_down	
-JWN	20130225	53.42	52.15	r_down	strong:1 continue:1 expect:1 wave:1
-JWN	20130226	52.15	51.98	r_down	
-JWN	20130227	51.98	53.33	r_up	
-JWN	20130228	53.33	53.65	r_up	
-JWN	20130301	53.65	53.5	r_down	
-JWN	20130304	53.5	53.26	r_down	
-JWN	20130305	53.26	53.8	r_up	
-JWN	20130306	53.8	53.81	r_up	's:1
-JWN	20130307	53.81	53.72	r_down	
-JWN	20130308	53.72	54.45	r_up	
-JWN	20130311	54.45	54.0	r_down	
-JWN	20130312	54.0	53.68	r_down	
-JWN	20130313	53.68	54.02	r_up	
-JWN	20130314	54.02	54.02	r_up	
-JWN	20130315	54.02	53.72	r_down	
-JWN	20130318	53.72	53.22	r_down	
-JWN	20130319	53.22	52.19	r_down	
-JWN	20130320	52.19	52.88	r_up	
-JWN	20130321	52.88	52.64	r_down	
-JWN	20130322	52.64	53.05	r_up	
-JWN	20130325	53.05	53.53	r_up	
-JWN	20130326	53.53	54.01	r_up	blame:1 game:1 weather:1 joins:1
-JWN	20130327	54.01	54.23	r_up	's:1
-JWN	20130328	54.23	54.95	r_up	
-JWN	20130401	54.95	54.18	r_down	
-JWN	20130402	54.18	54.71	r_up	
-JWN	20130403	54.71	54.43	r_down	
-JWN	20130404	54.43	55.19	r_up	
-JWN	20130405	55.19	55.18	r_down	
-JWN	20130408	55.18	55.02	r_down	
-JWN	20130409	55.02	54.57	r_down	
-JWN	20130410	54.57	55.53	r_up	
-JWN	20130411	55.53	56.75	r_up	's:2
-JWN	20130412	56.75	56.54	r_down	
-JWN	20130415	56.54	54.85	r_down	
-JWN	20130416	54.85	55.89	r_up	
-JWN	20130417	55.89	55.11	r_down	
-JWN	20130418	55.11	54.55	r_down	
-JWN	20130419	54.55	54.63	r_up	global:1 's:1 ambitions:1 sets:1
-JWN	20130422	54.63	54.86	r_up	
-JWN	20130423	54.86	54.91	r_up	
-JWN	20130424	54.91	54.98	r_up	
-JWN	20130425	54.98	56.17	r_up	
-JWN	20130426	56.17	56.43	r_up	
-JWN	20130429	56.43	56.26	r_down	
-JWN	20130430	56.26	56.31	r_up	
-JWN	20130501	56.31	55.87	r_down	
-JWN	20130502	55.87	56.74	r_up	
-JWN	20130503	56.74	57.92	r_up	
-JWN	20130506	57.92	57.8	r_down	
-JWN	20130507	57.8	58.3	r_up	
-JWN	20130508	58.3	58.7	r_up	
-JWN	20130509	58.7	58.2	r_down	
-JWN	20130510	58.2	58.87	r_up	
-JWN	20130513	58.87	60.19	r_up	's:1
-JWN	20130514	60.19	60.93	r_up	
-JWN	20130515	60.93	61.13	r_up	
-JWN	20130516	61.13	60.82	r_down	subdued:1 surprises:1 drop:1 watch:1 shares:1 hours:1 advisories:1 stocks:1 after:1
-JWN	20130517	60.82	60.38	r_down	n't:1 watch:1
-JWN	20130520	60.38	60.18	r_down	
-JWN	20130521	60.18	60.41	r_up	
-JWN	20130522	60.41	59.86	r_down	
-JWN	20130523	59.86	59.86	r_up	
-JWN	20130524	59.86	59.57	r_down	
-JWN	20130528	59.57	59.66	r_up	
-JWN	20130529	59.66	59.26	r_down	
-JWN	20130530	59.26	59.14	r_down	
-JWN	20130531	59.14	58.82	r_down	
-JWN	20130603	58.82	59.33	r_up	
-JWN	20130604	59.33	59.39	r_up	
-JWN	20130605	59.39	58.02	r_down	
-JWN	20130606	58.02	58.44	r_up	
-JWN	20130607	58.44	59.52	r_up	
-JWN	20130610	59.52	59.42	r_down	
-JWN	20130611	59.42	58.96	r_down	
-JWN	20130612	58.96	58.24	r_down	
-JWN	20130613	58.24	59.46	r_up	
-JWN	20130614	59.46	58.94	r_down	
-JWN	20130617	58.94	59.09	r_up	
-JWN	20130618	59.09	59.64	r_up	
-JWN	20130619	59.64	58.9	r_down	
-JWN	20130620	58.9	57.76	r_down	
-JWN	20130621	57.76	58.2	r_up	
+JWN	20140501	60.6	60.9	r_up	
+JWN	20140502	60.9	61.4	r_up	
+JWN	20140505	61.4	60.9	r_down	regional:1 show:1 differences:1 maps:2 6:1 shops:1 retail:1
+JWN	20140506	60.9	60.0	r_down	sell:1 giant:1 people:1 familiar:1 brand:1 according:1 looking:1 matter:1 shoe:1 apparel:1 its:1
+JWN	20140507	60.0	60.0	r_up	
+JWN	20140508	60.0	60.6	r_up	
+JWN	20140509	60.6	60.8	r_up	
+JWN	20140512	60.8	62.1	r_up	
+JWN	20140513	62.1	62.0	r_down	border:1 said:1 's:3 plans:1 moves:1 expanding:1 brand:1 retailer:1 bring:1 retailers:1 north:1 latest:1 clothing:1 its:1 string:1 namesake:1
+JWN	20140514	62.0	61.2	r_down	sales:1 expenses:1 see:1 session:1 its:1 declined:1 whose:1 said:1 shares:1 earnings:1 expected:1 more:1 first-quarter:1 watch:2 market:1 8.2:1 operating:1 offset:1 active:1 trade:1 than:1 stocks:1 companies:1 growth:1 growing:1 higher:1
+JWN	20140515	61.2	60.9	r_down	risk-averse:1 exceed:1 industrial:1 investors:1 writes:1 turned:1 sales:1 production:1 say:1 session:1 including:2 numbers:1 stalling:1 changed:1 rally:2 market:1 weekly:1 decline:1 little:1 manufacturing:1 jobless:1 zone:1 things:1 trying:1 expectations:1 shares:1 concerns:1 5:1 earnings:1 lot:1 quarterly:1 new:1 weeks:1 becoming:1 500:1 stock:3 ends:1 index:2 domestic:1 price:1 after:4 hours:1 test:1 were:1 inflation:1 worst:1 sharply:1 fall:1 report:1 stocks:1 data:3 euro:1 case:1 lower:2 behemoth:1 deluge:1 amid:1 futures:2 companies:1 reports:1 growth:1 economic:1 retailers:1 after-hours:1 mixed:1 claims:1 consumer:1 other:1
+JWN	20140516	60.9	69.8	r_up	saying:1 stores:1 chain:1 private-equity:1 agreed:1 move:2 trade:3 session:3 higher:3 ‘buy:1 its:5 whose:1 $:1 surprises:1 expectations:1 theme:1 advisories:1 has:1 increased:1 rebound:1 rise:1 watch:1 reversal:1 despite:1 month:1 easily:1 excluding:1 companies:4 each:1 quarter:1 late-day:1 6.2:1 financial:1 long-running:1 past:1 see:1 actively:2 first-quarter:1 2.1:1 closes:1 said:3 capacity:1 opened:1 profit:1 shares:3 future:1 closed:1 new:1 newly:1 receivables:1 active:1 strong:1 card:1 roundup:1 starts:1 climbed:1 reports:1 credit:2 criticism:1 among:1 slipped:1 period:1 market:1 dip’:2 takes:1 housing:2 been:1 strategy:1 few:1 expected:3 firm:1 fiscal:1 company:1 line:1 hold:1 jump:1 cash:1 optimism:1 3.5:1 abrupt:1 quarters:1 investors:2 bigger-than-expected:1 sales:1 partner:1 seek:1 sell:1 end:1 also:1 earnings:1 struggling:1 several:1 stock:3 topping:1 's:2 after:2 improving:1 such:1 stocks:2 data:1 billion:1 corporate:1 futures:2 borrowing:1 edge:1 expands:1 latest:2
+JWN	20140519	69.8	67.7	r_down	
+JWN	20140520	67.7	66.8	r_down	slides:1 down:1 all:1 $:2 deal:3 announcement:1 lawsuits:1 mark:1 reclaims:1 while:1 settle:1 wake:1 following:1 buyout:1 rises:1 its:1 reclaim:1 600:1
+JWN	20140521	66.8	66.8	r_up	pain:1 outperform:1 others:1 charts:1 ugly:1 earnings:1 bombs:1 suggest:1 more:1
+JWN	20140522	66.8	66.8	r_up	
+JWN	20140523	66.8	67.2	r_up	
+JWN	20140527	67.2	67.2	r_up	notably:1 confirmed:1 territory:1 resurgence:1 technical:1 resistance:1 cleared:1 uptrend:1 break:1 record:1 market:1 breakout:1 strengthens:1 significant:1 perhaps:1 backdrop:1 has:2 its:2 500:1 more:1
+JWN	20140528	67.2	67.1	r_down	
+JWN	20140529	67.1	67.4	r_up	even:1 affordable:1 all:1 incomes:1 companies:1 ``:1 richest:1 but:1 '':1 obstacle:1 luxury:1 such:1 serious:1 present:1
+JWN	20140530	67.4	67.7	r_up	
+JWN	20140602	67.7	67.8	r_up	
+JWN	20140603	67.8	67.7	r_down	
+JWN	20140604	67.7	67.9	r_up	
+JWN	20140605	67.9	68.0	r_up	summer:1 staying:1 costly:1 plans:1 family:1 being:1 money:1 over:1 flying:1 graduation:1 you’re:1 reunion:1 going:1 can:1 home:1 party:1 beach:1 your:1 guest:1
+JWN	20140606	68.0	68.4	r_up	affordable:1 life:1 titles:1 trading:1 eagerly:1 seek:1 best:1 group:1 college:2 housing:1 opportunities:1 grads:2 new:2 careers:1 status:1 begin:1 exceptional:1 graduates:1 student:1 fresh:1 phase:1 cities:2 10:2 growing:1 professional:1 providing:1
+JWN	20140609	68.4	68.3	r_down	
+JWN	20140610	68.3	68.2	r_down	
+JWN	20140611	68.2	67.5	r_down	
+JWN	20140612	67.5	66.9	r_down	
+JWN	20140613	66.9	67.5	r_up	
+JWN	20140616	67.5	67.5	r_up	
+JWN	20140617	67.5	67.4	r_down	
+JWN	20140618	67.4	67.9	r_up	
+JWN	20140619	67.9	68.0	r_up	
+JWN	20140620	68.0	67.7	r_down	
+JWN	20140623	67.7	67.4	r_down	
+JWN	20140624	67.4	67.5	r_up	
+JWN	20140625	67.5	67.1	r_down	
+JWN	20140626	67.1	67.3	r_up	
+JWN	20140627	67.3	67.6	r_up	
+JWN	20140630	67.6	67.6	r_up	
+JWN	20140701	67.6	68.3	r_up	
+JWN	20140702	68.3	68.2	r_down	
+JWN	20140703	68.2	68.9	r_up	
+JWN	20140707	68.9	69.0	r_up	
+JWN	20140708	69.0	69.4	r_up	
+JWN	20140709	69.4	69.8	r_up	
+JWN	20140710	69.8	68.8	r_down	
+JWN	20140711	68.8	68.4	r_down	
+JWN	20140714	68.4	68.4	r_up	
+JWN	20140715	68.4	67.7	r_down	
+JWN	20140716	67.7	67.8	r_up	
+JWN	20140717	67.8	67.0	r_down	
+JWN	20140718	67.0	67.6	r_up	
+JWN	20140721	67.6	67.3	r_down	
+JWN	20140722	67.3	67.4	r_up	
+JWN	20140723	67.4	67.4	r_up	associated:1 mobility:2 installed:1 addressed:1 in-store:1 technology:2 its:1 use:1 privacy:1 hospitals:1 make:1 two:1 event:1 also:1 concerns:1 has:1 leverages:1 vendor:1 but:1 solution:1 beacon:1 one:1 potential:1 recent:1 airports:1 sale:1 carries:1 retailers:1 growing:1 security:2
+JWN	20140724	67.4	68.4	r_up	
+JWN	20140725	68.4	67.7	r_down	
+JWN	20140728	67.7	68.6	r_up	
+JWN	20140729	68.6	68.5	r_down	
+JWN	20140730	68.5	69.8	r_up	tracking:1 give:1 retailer:1 try:1 technology:1 latest:1
+JWN	20140731	69.8	68.9	r_down	
+JWN	20140801	68.9	68.6	r_down	
+JWN	20140804	68.6	69.2	r_up	
+JWN	20140805	69.2	68.3	r_down	
+JWN	20140806	68.3	69.0	r_up	
+JWN	20140807	69.0	68.2	r_down	stores:1 some:1 stores’:1 cost:1 have:1 go:1 shopping:2 again:1 consumers:1 personal:1 make:1 sites:1 rates:1 interest:1 5:1 you:1 worth:1 them:1 paltry:1 get:1 never:1 choice:1 these:1 terrible:1 credit:2 perks:1 men’s:1 cards:2 clothes:1
+JWN	20140808	68.2	69.6	r_up	
+JWN	20140811	69.6	68.8	r_down	n't:1 holiday:1 shopping:2 longer:1 consumers:1 no:1 challenging:1 season:1 means:1 but:1 blame:1 likely:1 weather:1 back-to-school:1 does:1 have:1 which:1 out:1 =:1 mean:1
+JWN	20140812	68.8	68.3	r_down	week:1 stocks:1 season:1 companies:1 reports:1 shifts:1 flurry:1 earnings:1 concludes:1 retail:1 spotlight:1
+JWN	20140813	68.3	67.8	r_down	being:1 hard:1 retailer:1 results:1 disappointing:1 economic:1 best:1 van:1 leading:1 shares:1 take:1 which:1 2014:1 beating:1 shows:1 hit:1 combination:1 company:1 worst:1 losing:1 during:1 stocks:2 data:1 downbeat:1 retail:2
+JWN	20140814	67.8	68.3	r_up	sector:1 higher:1 economic:1 looks:2 year:1 market:1 story:1 end:1 $:1 labor:1 rates:1 low:1 pretty:2 economy:1 modestly:2 good:1 rise:1 tops:1 different:1 stocks:2 data:1 longer:1 keep:1 speculation:1 retail:1
+JWN	20140815	68.3	64.8	r_down	summer:1 raised:1 gone:1 7.5:2 expects:1 trade:1 past:1 report:1 6.5:1 session:1 rising:1 6.2:1 have:3 year:1 recently:1 its:2 market:1 out:1 now:1 eye:1 $:4 leads:1 profit:1 surprises:1 guidance:1 3.75:1 seems:1 shares:1 advisories:1 spread:1 growth:2 earnings:4 expected:1 overshadowed:1 across:1 stock:1 turmoil:1 's:4 fiscal:1 risen:1 retail:2 season:2 sales:3 geopolitical:1 bang:1 five:1 saying:1 improving:1 end:1 estimate:1 blink:1 come:1 higher:1 5.5:1 roundup:1 four:1 lower:1 has:1 off:1 stocks:1 starts:1 future:1 companies:2 days:1 reports:1 per-share:2 pullback:1 lousy:1 actively:1 begins:1 quarters:1 previous:1 economy:1 corporate:2 profits:1 latest:1
+JWN	20140818	64.8	65.8	r_up	says:1 sales:1 research:1 beats:1 other:1 earnings:1 possible:1 's:1 strong:1 checks:1 channel:1 points:1
+JWN	20140819	65.8	67.1	r_up	
+JWN	20140820	67.1	68.0	r_up	
+JWN	20140821	68.0	68.6	r_up	
+JWN	20140822	68.6	69.1	r_up	
+JWN	20140825	69.1	69.4	r_up	
+JWN	20140826	69.4	69.8	r_up	
+JWN	20140827	69.8	69.6	r_down	
+JWN	20140828	69.6	69.6	r_up	
+JWN	20140829	69.6	69.2	r_down	
+JWN	20140902	69.2	69.1	r_down	cheap:1 high:1 not:1 lesson:1 spark:1 stocks:2 group:1 their:1 breakout:1 low:1 technicals:1 but:1 groups:1 improving:1 awaiting:1 strong:1 buying:1 building:1 bases:1 like:1 always:1 tinder:1
+JWN	20140903	69.1	69.6	r_up	
+JWN	20140904	69.6	70.4	r_up	above:1 outstanding:1 move:1 share:1 repurchases:1 existing:1 high:1 all-time:1 growth:1 including:1 been:1 have:1 operator:1 its:1 1:2 said:2 $:4 addition:1 revenue:1 had:1 expectations:1 shares:1 share-repurchase:1 hitting:1 3:1 program:1 board:1 which:1 cash:1 new:1 has:1 highs:1 authorization:1 authorized:1 fiscal:1 analysts:1 's:1 plans:1 company:1 million:1 buyback:1 hand:1 fund:1 plan:1 coming:1 repurchase:1 month:1 second-quarter:1 recent:1 billion:1 last:1 reported:1 high-end:1 up:1 trading:1 department-store:1 time:2 fresh:1 slightly:1 comes:1 6.2:1
+JWN	20140905	70.4	70.6	r_up	
+JWN	20140908	70.6	69.9	r_down	product:1 builds:1 ahead:1 catalysts:1 sentiment:1 excitement:1 other:1 unveilings:1 seen:1 products:1 investors’:1 buoy:1
+JWN	20140909	69.9	69.3	r_down	
+JWN	20140910	69.3	68.7	r_down	
+JWN	20140911	68.7	68.9	r_up	
+JWN	20140912	68.9	69.0	r_up	
+JWN	20140915	69.0	68.9	r_down	way:1 undervalued:1 big:1 company:1 fast:1 growing:1 amazing:1 writes:1 5:1 pretty:1 facts:1 yet:1
+JWN	20140916	68.9	69.4	r_up	
+JWN	20140917	69.4	69.3	r_down	
+JWN	20140918	69.3	69.2	r_down	customers:1 's:1 service:1 personal:1 text:1 messages:1 send:1 images:1 let:1 new:1 shoppers:1 using:1 merchandise:1
+JWN	20140919	69.2	69.3	r_up	
+JWN	20140922	69.3	68.3	r_down	
+JWN	20140923	68.3	67.6	r_down	
+JWN	20140924	67.6	69.1	r_up	
+JWN	20140925	69.1	68.4	r_down	
+JWN	20140926	68.4	68.9	r_up	
+JWN	20140929	68.9	68.6	r_down	
+JWN	20140930	68.6	68.3	r_down	10:1 account:1 places:1 factors:1 many:1 into:1 some:1 here:1 list:1 live:2 take:1 choosing:1 cities:2 top:1 best:2
+JWN	20141001	68.3	67.5	r_down	
+JWN	20141002	67.5	68.8	r_up	
+JWN	20141003	68.8	70.2	r_up	promotions:1 repeat:1 last:1 working:1 space:1 stop:1 avoid:1 hard:1 convincing:1 pushing:1 delivery:2 year’s:1 retailers:1 fiasco:1 guarantees:1 challenge:1 out:1
+JWN	20141006	70.2	69.9	r_down	
+JWN	20141007	69.9	69.3	r_down	
+JWN	20141008	69.3	70.6	r_up	
+JWN	20141009	70.6	69.8	r_down	
+JWN	20141010	69.8	70.0	r_up	

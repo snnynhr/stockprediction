@@ -47,7 +47,10 @@ def featureAMs(featureD, Xdict, stock):
 Ypath = "../data/stocks/dayStock.json"
 YpathT = "../data/training/dayStockTrain.json"
 Xdir = "../data/dowjones"
-inputDir = "../new_result/trainData_sage"
+inputDir = "../new_result/trainData1_sage"
+
+if not os.path.exists(inputDir):
+	os.makedirs(inputDir)
 
 dictPath = '../data/dict/dict_lowered.json'
 dictFile = codecs.open(dictPath, 'r', 'utf-8')
@@ -80,7 +83,7 @@ for key in Ydict.keys():
 testDays.sort()
 trainDays.sort()
 
-print len(trainDays)
+print "Number of training days" + str(len(trainDays))
 
 countList = []
 for Xfname in os.listdir(Xdir):
@@ -115,7 +118,7 @@ for Xfname in os.listdir(Xdir):
 					temp_list.append(('r_down', featureD[day]))
 
 			prevDay_p = day_p
-		if count > 300:
+		if count > 40:
 			inputFile = codecs.open("%s/%s.txt" % (inputDir, stock), 'w', 'utf-8')
 			for item in temp_list:
 				tags = 'stock_%s %s' % (stock, item[0])
@@ -127,6 +130,7 @@ for Xfname in os.listdir(Xdir):
 		countList.append(count)
 		Xfile.close()
 
+print "number of data for 100,150,200,250,300,350,400"
 print len(filter(lambda x: x > 100, countList))
 print len(filter(lambda x: x > 150, countList))
 print len(filter(lambda x: x > 200, countList))

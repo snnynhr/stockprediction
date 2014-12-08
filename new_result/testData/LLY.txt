@@ -1,307 +1,114 @@
-LLY	20120402	38.26	38.46	r_up	
-LLY	20120403	38.46	38.31	r_down	
-LLY	20120404	38.31	38.32	r_up	
-LLY	20120405	38.32	38.46	r_up	
-LLY	20120409	38.46	37.74	r_down	lower:1 's:1 soars:1 futures:1 sharply:1 stock:1
-LLY	20120410	37.74	37.45	r_down	
-LLY	20120411	37.45	37.5	r_up	
-LLY	20120412	37.5	37.6	r_up	
-LLY	20120413	37.6	37.22	r_down	
-LLY	20120416	37.22	37.62	r_up	
-LLY	20120417	37.62	38.06	r_up	
-LLY	20120418	38.06	37.72	r_down	
-LLY	20120419	37.72	37.77	r_up	
-LLY	20120420	37.77	37.92	r_up	
-LLY	20120423	37.92	37.82	r_down	
-LLY	20120424	37.82	37.97	r_up	watch:1
-LLY	20120425	37.97	38.76	r_up	's:1 4.2:1
-LLY	20120426	38.76	38.84	r_up	
-LLY	20120427	38.84	39.24	r_up	
-LLY	20120430	39.24	39.32	r_up	
-LLY	20120501	39.32	39.18	r_down	
-LLY	20120502	39.18	39.41	r_up	
-LLY	20120503	39.41	39.21	r_down	
-LLY	20120504	39.21	39.22	r_up	
-LLY	20120507	39.22	39.53	r_up	
-LLY	20120508	39.53	39.54	r_up	
-LLY	20120509	39.54	39.24	r_down	
-LLY	20120510	39.24	39.67	r_up	
-LLY	20120511	39.67	39.67	r_up	2.7:1 's:1
-LLY	20120514	39.67	39.35	r_down	
-LLY	20120515	39.35	39.01	r_down	
-LLY	20120516	39.01	39.18	r_up	's:2
-LLY	20120517	39.18	38.96	r_down	
-LLY	20120518	38.96	38.88	r_down	
-LLY	20120521	38.88	39.06	r_up	
-LLY	20120522	39.06	39.42	r_up	
-LLY	20120523	39.42	39.1	r_down	
-LLY	20120524	39.1	39.57	r_up	
-LLY	20120525	39.57	39.52	r_down	
-LLY	20120529	39.52	39.7	r_up	n't:1
-LLY	20120530	39.7	39.41	r_down	
-LLY	20120531	39.41	39.37	r_down	
-LLY	20120601	39.37	38.61	r_down	
-LLY	20120604	38.61	38.6	r_down	
-LLY	20120605	38.6	39.05	r_up	
-LLY	20120606	39.05	39.43	r_up	
-LLY	20120607	39.43	39.68	r_up	
-LLY	20120608	39.68	39.93	r_up	
-LLY	20120611	39.93	39.89	r_down	
-LLY	20120612	39.89	40.03	r_up	20:1 $:2
-LLY	20120613	40.03	39.96	r_down	
-LLY	20120614	39.96	40.19	r_up	
-LLY	20120615	40.19	40.37	r_up	
-LLY	20120618	40.37	40.42	r_up	's:1
-LLY	20120619	40.42	40.66	r_up	420:1 $:1
-LLY	20120620	40.66	40.42	r_down	
-LLY	20120621	40.42	40.15	r_down	
-LLY	20120622	40.15	40.44	r_up	
-LLY	20120625	40.44	39.87	r_down	
-LLY	20120626	39.87	39.96	r_up	
-LLY	20120627	39.96	40.31	r_up	
-LLY	20120628	40.31	40.47	r_up	's:2
-LLY	20120629	40.47	41.25	r_up	's:2
-LLY	20120702	41.25	41.33	r_up	's:1 watch:1
-LLY	20120703	41.33	41.49	r_up	3:1 $:1
-LLY	20120705	41.49	41.19	r_down	
-LLY	20120706	41.19	41.01	r_down	
-LLY	20120709	41.01	41.29	r_up	
-LLY	20120710	41.29	41.2	r_down	
-LLY	20120711	41.2	41.15	r_down	
-LLY	20120712	41.15	41.19	r_up	17:1
-LLY	20120713	41.19	41.59	r_up	52-week:1 near:1 stocks:1 highs:1 trade:1
-LLY	20120716	41.59	42.16	r_up	's:1
-LLY	20120717	42.16	42.26	r_up	out:1 49:1
-LLY	20120718	42.26	42.79	r_up	
-LLY	20120719	42.79	42.68	r_down	
-LLY	20120720	42.68	42.46	r_down	2.2:1 $:1
-LLY	20120723	42.46	42.14	r_down	's:2
-LLY	20120724	42.14	40.36	r_down	's:2
-LLY	20120725	40.36	41.45	r_up	watch:1 's:3 23:3
-LLY	20120726	41.45	41.93	r_up	
-LLY	20120727	41.93	42.66	r_up	151:1 $:1
-LLY	20120730	42.66	42.35	r_down	
-LLY	20120731	42.35	42.33	r_down	
-LLY	20120801	42.33	42.17	r_down	
-LLY	20120802	42.17	41.65	r_down	
-LLY	20120803	41.65	42.44	r_up	
-LLY	20120806	42.44	42.02	r_down	
-LLY	20120807	42.02	41.1	r_down	's:3
-LLY	20120808	41.1	41.19	r_up	
-LLY	20120809	41.19	41.07	r_down	4.4:1 5.3:1 's:1 $:2 1:1 1.26:2
-LLY	20120810	41.07	41.92	r_up	
-LLY	20120813	41.92	41.62	r_down	
-LLY	20120814	41.62	41.55	r_down	
-LLY	20120815	41.55	41.79	r_up	
-LLY	20120816	41.79	41.57	r_down	
-LLY	20120817	41.57	41.24	r_down	
-LLY	20120820	41.24	41.17	r_down	's:1
-LLY	20120821	41.17	41.04	r_down	
-LLY	20120822	41.04	41.0	r_down	
-LLY	20120823	41.0	41.23	r_up	
-LLY	20120824	41.23	42.65	r_up	's:5 but:1
-LLY	20120827	42.65	43.35	r_up	multi-year:1 ends:1 stocks:1 drift:1 low:1
-LLY	20120828	43.35	43.47	r_up	25:1
-LLY	20120829	43.47	43.92	r_up	's:1
-LLY	20120830	43.92	43.66	r_down	
-LLY	20120831	43.66	43.67	r_up	lessons:1 skinny:1 monkeys:1
-LLY	20120904	43.67	44.04	r_up	
-LLY	20120905	44.04	44.54	r_up	
-LLY	20120906	44.54	45.51	r_up	
-LLY	20120907	45.51	45.36	r_down	
-LLY	20120910	45.36	45.23	r_down	
-LLY	20120911	45.23	45.2	r_down	's:2
-LLY	20120912	45.2	45.26	r_up	
-LLY	20120913	45.26	45.84	r_up	
-LLY	20120914	45.84	45.43	r_down	
-LLY	20120917	45.43	45.53	r_up	
-LLY	20120918	45.53	45.61	r_up	
-LLY	20120919	45.61	45.56	r_down	
-LLY	20120920	45.56	45.72	r_up	
-LLY	20120921	45.72	46.15	r_up	
-LLY	20120924	46.15	46.09	r_down	
-LLY	20120925	46.09	46.14	r_up	
-LLY	20120926	46.14	45.89	r_down	
-LLY	20120927	45.89	46.32	r_up	
-LLY	20120928	46.32	46.1	r_down	
-LLY	20121001	46.1	46.25	r_up	
-LLY	20121002	46.25	46.61	r_up	
-LLY	20121003	46.61	46.97	r_up	
-LLY	20121004	46.97	47.41	r_up	
-LLY	20121005	47.41	46.89	r_down	
-LLY	20121008	46.89	49.37	r_up	's:1
-LLY	20121009	49.37	50.37	r_up	3rd:2
-LLY	20121010	50.37	48.84	r_down	's:1
-LLY	20121011	48.84	49.2	r_up	
-LLY	20121012	49.2	49.05	r_down	
-LLY	20121015	49.05	51.07	r_up	
-LLY	20121016	51.07	52.17	r_up	health-care:1 sectors:1 revenue:1 rise:1 buoyed:1 cuts:1 9:1 drops:1 bank:1
-LLY	20121017	52.17	52.18	r_up	's:2
-LLY	20121018	52.18	52.32	r_up	
-LLY	20121019	52.32	51.4	r_down	
-LLY	20121022	51.4	50.83	r_down	's:2
-LLY	20121023	50.83	50.47	r_down	
-LLY	20121024	50.47	49.1	r_down	2011:1 hit:1 ahead:1 earnings:1 housing:1 futures:1 watch:1 drug:1 7.3:3 misses:1 shares:1 7:2 data:1 makers:1 gain:1
-LLY	20121025	49.1	49.67	r_up	prospects:1 worse:1 surprises:1 advisories:1 earnings:1 falter:1 grow:1
-LLY	20121026	49.67	48.82	r_down	seen:1 divide:1 business:1 earnings:1
-LLY	20121031	48.82	47.28	r_down	
-LLY	20121101	47.28	47.74	r_up	
-LLY	20121102	47.74	47.21	r_down	
-LLY	20121105	47.21	47.43	r_up	
-LLY	20121106	47.43	47.43	r_up	
-LLY	20121107	47.43	46.85	r_down	
-LLY	20121108	46.85	46.16	r_down	
-LLY	20121109	46.16	46.16	r_up	
-LLY	20121112	46.16	46.96	r_up	
-LLY	20121113	46.96	46.3	r_down	
-LLY	20121114	46.3	45.4	r_down	
-LLY	20121115	45.4	45.14	r_down	90:2 $:2
-LLY	20121116	45.14	45.1	r_down	
-LLY	20121119	45.1	46.2	r_up	
-LLY	20121120	46.2	46.35	r_up	
-LLY	20121121	46.35	46.58	r_up	
-LLY	20121123	46.58	46.89	r_up	
-LLY	20121126	46.89	47.08	r_up	
-LLY	20121127	47.08	46.83	r_down	
-LLY	20121128	46.83	47.19	r_up	
-LLY	20121129	47.19	47.72	r_up	
-LLY	20121130	47.72	48.17	r_up	
-LLY	20121203	48.17	48.05	r_down	
-LLY	20121204	48.05	48.35	r_up	's:1
-LLY	20121205	48.35	48.7	r_up	's:1
-LLY	20121206	48.7	48.52	r_down	
-LLY	20121207	48.52	48.75	r_up	
-LLY	20121210	48.75	49.23	r_up	
-LLY	20121211	49.23	49.7	r_up	
-LLY	20121212	49.7	48.13	r_down	heads:1 movers:1 big:1 blue-chip:1 back:1 shares:1 3:2 drags:1 drug:1 fall:1 lab:1 's:6
-LLY	20121213	48.13	47.37	r_down	outlook:1 life:1 shares:1 gives:1
-LLY	20121214	47.37	46.94	r_down	
-LLY	20121217	46.94	47.48	r_up	1.5:2 $:2
-LLY	20121218	47.48	48.64	r_up	1.5:1 $:1
-LLY	20121219	48.64	48.05	r_down	
-LLY	20121220	48.05	48.38	r_up	29.4:3 $:3
-LLY	20121221	48.38	48.67	r_up	29.4:1 $:1
-LLY	20121224	48.67	48.17	r_down	
-LLY	20121226	48.17	48.19	r_up	
-LLY	20121227	48.19	48.1	r_down	's:1 2012:1
-LLY	20121228	48.1	47.74	r_down	
-LLY	20121231	47.74	48.45	r_up	's:1
-LLY	20130102	48.45	48.63	r_up	's:2
-LLY	20130103	48.63	48.84	r_up	
-LLY	20130104	48.84	50.65	r_up	climb:1 2013:3 improved:1 outlook:1 shares:1
-LLY	20130107	50.65	50.58	r_down	
-LLY	20130108	50.58	50.96	r_up	
-LLY	20130109	50.96	52.03	r_up	
-LLY	20130110	52.03	52.31	r_up	
-LLY	20130111	52.31	52.17	r_down	2013:1
-LLY	20130114	52.17	51.86	r_down	
-LLY	20130115	51.86	52.34	r_up	
-LLY	20130116	52.34	51.99	r_down	
-LLY	20130117	51.99	52.38	r_up	
-LLY	20130118	52.38	52.82	r_up	
-LLY	20130122	52.82	52.49	r_down	
-LLY	20130123	52.49	51.47	r_down	
-LLY	20130124	51.47	52.22	r_up	
-LLY	20130125	52.22	52.27	r_up	
-LLY	20130128	52.27	51.71	r_down	market:1 wanted:1 earnings:1 just:1
-LLY	20130129	51.71	53.36	r_up	earnings:2 surge:1
-LLY	20130130	53.36	53.19	r_down	72:1
-LLY	20130131	53.19	52.74	r_down	
-LLY	20130201	52.74	53.24	r_up	2.2:1 20:1 $:1
-LLY	20130204	53.24	52.6	r_down	
-LLY	20130205	52.6	53.14	r_up	
-LLY	20130206	53.14	52.97	r_down	
-LLY	20130207	52.97	52.83	r_down	37:1
-LLY	20130208	52.83	52.77	r_down	
-LLY	20130211	52.77	52.94	r_up	
-LLY	20130212	52.94	52.85	r_down	
-LLY	20130213	52.85	52.97	r_up	
-LLY	20130214	52.97	53.03	r_up	
-LLY	20130215	53.03	53.12	r_up	
-LLY	20130219	53.12	53.71	r_up	
-LLY	20130220	53.71	53.82	r_up	
-LLY	20130221	53.82	53.55	r_down	's:1
-LLY	20130222	53.55	53.8	r_up	
-LLY	20130225	53.8	53.3	r_down	
-LLY	20130226	53.3	53.96	r_up	
-LLY	20130227	53.96	54.32	r_up	
-LLY	20130228	54.32	54.18	r_down	
-LLY	20130301	54.18	54.3	r_up	
-LLY	20130304	54.3	54.28	r_down	
-LLY	20130305	54.28	55.06	r_up	
-LLY	20130306	55.06	54.6	r_down	
-LLY	20130307	54.6	54.87	r_up	
-LLY	20130308	54.87	54.68	r_down	
-LLY	20130311	54.68	54.59	r_down	
-LLY	20130312	54.59	54.6	r_up	
-LLY	20130313	54.6	54.58	r_down	
-LLY	20130314	54.58	54.59	r_up	
-LLY	20130315	54.59	54.65	r_up	
-LLY	20130318	54.65	54.18	r_down	
-LLY	20130319	54.18	54.31	r_up	
-LLY	20130320	54.31	54.82	r_up	
-LLY	20130321	54.82	54.6	r_down	
-LLY	20130322	54.6	55.09	r_up	
-LLY	20130325	55.09	55.14	r_up	
-LLY	20130326	55.14	55.8	r_up	
-LLY	20130327	55.8	55.88	r_up	
-LLY	20130328	55.88	56.3	r_up	
-LLY	20130401	56.3	56.12	r_down	
-LLY	20130402	56.12	56.01	r_down	
-LLY	20130403	56.01	56.36	r_up	
-LLY	20130404	56.36	56.43	r_up	
-LLY	20130405	56.43	55.99	r_down	
-LLY	20130408	55.99	56.33	r_up	4.5:1 $:1
-LLY	20130409	56.33	56.25	r_down	
-LLY	20130410	56.25	57.09	r_up	
-LLY	20130411	57.09	57.5	r_up	
-LLY	20130412	57.5	57.01	r_down	12:1 30:1
-LLY	20130415	57.01	56.0	r_down	
-LLY	20130416	56.0	56.68	r_up	's:1
-LLY	20130417	56.68	56.97	r_up	
-LLY	20130418	56.97	55.8	r_down	
-LLY	20130419	55.8	56.92	r_up	
-LLY	20130422	56.92	57.08	r_up	
-LLY	20130423	57.08	57.82	r_up	
-LLY	20130424	57.82	55.56	r_down	n't:2 's:1 watch:1 53:1
-LLY	20130425	55.56	55.94	r_up	's:1
-LLY	20130426	55.94	55.97	r_up	
-LLY	20130429	55.97	55.52	r_down	
-LLY	20130430	55.52	54.9	r_down	
-LLY	20130501	54.9	53.77	r_down	
-LLY	20130502	53.77	54.22	r_up	
-LLY	20130503	54.22	54.51	r_up	
-LLY	20130506	54.51	54.0	r_down	
-LLY	20130507	54.0	53.7	r_down	's:2
-LLY	20130508	53.7	54.05	r_up	
-LLY	20130509	54.05	54.08	r_up	
-LLY	20130510	54.08	54.34	r_up	
-LLY	20130513	54.34	55.79	r_up	
-LLY	20130514	55.79	55.87	r_up	
-LLY	20130515	55.87	56.72	r_up	
-LLY	20130516	56.72	55.94	r_down	
-LLY	20130517	55.94	55.9	r_down	
-LLY	20130520	55.9	55.02	r_down	
-LLY	20130521	55.02	55.14	r_up	
-LLY	20130522	55.14	54.92	r_down	
-LLY	20130523	54.92	54.74	r_down	
-LLY	20130524	54.74	54.14	r_down	
-LLY	20130528	54.14	54.54	r_up	
-LLY	20130529	54.54	53.75	r_down	
-LLY	20130530	53.75	54.08	r_up	
-LLY	20130531	54.08	53.16	r_down	
-LLY	20130603	53.16	53.14	r_down	's:1
-LLY	20130604	53.14	52.5	r_down	
-LLY	20130605	52.5	51.81	r_down	
-LLY	20130606	51.81	52.09	r_up	
-LLY	20130607	52.09	52.49	r_up	
-LLY	20130610	52.49	52.64	r_up	
-LLY	20130611	52.64	51.94	r_down	
-LLY	20130612	51.94	51.78	r_down	
-LLY	20130613	51.78	51.85	r_up	
-LLY	20130614	51.85	52.05	r_up	's:3
-LLY	20130617	52.05	52.36	r_up	$:1 7:1
-LLY	20130618	52.36	52.35	r_down	's:1
-LLY	20130619	52.35	51.37	r_down	
-LLY	20130620	51.37	49.41	r_down	's:1
-LLY	20130621	49.41	49.91	r_up	
+LLY	20140501	58.1	58.5	r_up	because:1 sales:1 challenges:1 decided:1 year:1 fail:1 its:3 even:1 cut:1 profit:1 guidance:1 add:1 largest:1 8:1 net:1 has:1 ``:1 's:2 business:1 rise:1 reported:1 not:1 world:1 '':1 protect:1 countries:1 rights:1 list:1 enforce:1 patent:1 insulin:1 defeat:1 maker:1
+LLY	20140502	58.5	58.1	r_down	stolen:1 cancer:1 drugs:1 behind:1 have:1 found:1 ring:1 throughout:1 distribution:1 counterfeit:1
+LLY	20140505	58.1	57.9	r_down	
+LLY	20140506	57.9	57.6	r_down	11:2 lower:1 said:1 first-quarter:1 rose:1 sales:2 maker:1 reported:1 cost:1 earnings:1 strong:1 its:1
+LLY	20140507	57.6	58.1	r_up	sell:1 billion:1 $:1 business:1 14.2:1 agreed:1 including:1 its:1
+LLY	20140508	58.1	58.5	r_up	
+LLY	20140509	58.5	58.4	r_down	its:2 said:2 $:4 federal:1 fined:2 workers:2 factory:2 labor:1 1:1 pharmaceuticals:2 has:2 local:2 firm:2 tests:2 million:2 after:2 blood:2 judge:2 subsidiary:2 revealed:2 former:2 billion:1 prosecutors:2 --:1
+LLY	20140512	58.4	58.4	r_up	
+LLY	20140513	58.4	59.5	r_up	
+LLY	20140514	59.5	59.6	r_up	
+LLY	20140515	59.6	57.7	r_down	agreed:1 trade:2 n't:1 session:2 sell:1 pharmaceutical:1 said:1 $:1 would:1 generic:1 pay:1 infringe:1 shares:2 version:1 expected:2 division:1 's:5 plans:1 million:1 continuing:1 vitamin:1 flurry:1 ruled:1 regimen:1 patent:1 industry:1 companies:2 cash:1 deals:1 415:1 actively:2 dosage:1
+LLY	20140516	57.7	57.8	r_up	even:1 says:1 's:2 get:1 watch:1 some:1 drug:1 scramble:1 n't:1 largest:2 world:1 sidelines:1 makers:1 bigger:1 happy:1
+LLY	20140519	57.8	58.1	r_up	
+LLY	20140520	58.1	58.1	r_up	
+LLY	20140521	58.1	58.6	r_up	their:2 dominating:1 way:1 areas:1
+LLY	20140522	58.6	59.2	r_up	
+LLY	20140523	59.2	59.3	r_up	
+LLY	20140527	59.3	59.2	r_down	
+LLY	20140528	59.2	59.2	r_up	sell:1 major:1 deal:1 big:1 drug:1 pill:1 regulators:1 version:1 if:1 allowing:1 struck:1 has:1 markets:1 maker:2 licensing:1
+LLY	20140529	59.2	59.0	r_down	
+LLY	20140530	59.0	59.3	r_up	
+LLY	20140602	59.3	59.0	r_down	
+LLY	20140603	59.0	58.8	r_down	
+LLY	20140604	58.8	58.7	r_down	
+LLY	20140605	58.7	59.1	r_up	
+LLY	20140606	59.1	59.1	r_up	too:1 investors:1 business:1 big:1 taking:1 expect:1 they:1 spur:1 gamble:1 more:1
+LLY	20140609	59.1	59.2	r_up	
+LLY	20140610	59.2	59.2	r_up	liked:1 everyone:1 over:1 smashing:1 all:1 say:1 have:1 touch:1 our:1 campus:1 ribbon:1 busy:1 spirits:1 interesting:1 while:1 should:1 new:1 you:4 today:1 ...:1 satellite:1 's:1 get:2 started:1 brand:1 time:1 sunny:1 but:1 stay:1 gloomy:1 precious:1 day:2 and..:1 tug:1 like:1 gift:1 we:1 gathering:1 morning:2 remain:1 're:1 skies:1 items:1
+LLY	20140611	59.2	59.0	r_down	1.4:1 significant:1 cancer:6 over:1 primary:3 trade:2 seen:1 medical:1 62:1 session:2 year:1 's:4 81:1 its:4 encouraged:1 specific:1 giant:1 said:6 $:1 also:1 media:1 shares:3 failed:3 split:1 which:1 expected:2 product:1 survival:2 achieve:1 treatment:3 development:1 ``:1 '':1 edged:1 plans:1 efficacy:1 affairs:1 favored:1 company:1 earlier:1 overall:2 we:1 goals:3 ownership:1 meet:3 known:1 president:1 difference:1 data:1 secondary:3 received:1 off:1 especially:1 vice:1 did:1 study:4 premarket:1 companies:2 up:1 drug:7 n't:2 patients:4 actively:2 divest:1 senior:1 placebo:1 maker:1 liver:3
+LLY	20140612	59.0	58.4	r_down	
+LLY	20140613	58.4	58.4	r_up	
+LLY	20140616	58.4	58.3	r_down	
+LLY	20140617	58.3	58.7	r_up	
+LLY	20140618	58.7	59.5	r_up	exists:1 core:1 pays:1 analysis:1 have:1 year:1 total:1 fine:1 makers:1 if:1 pharmaceutical:1 shareholders:1 suffer:1 requirements:1 would:1 profit:1 had:1 been:2 its:1 rules:1 'yes:1 which:1 between:1 answer:1 new:1 violations:1 higher:1 do:1 return:1 may:1 big:1 marketing:1 giant:1 governing:1 said:1 shareholder:1 regulatory:2 such:1 manufacturing:1 comply:1 recent:1 last:1 drug:2 deals:1 suggests:1 practices:1 correlation:1 operating:1 margin:1 maker:1
+LLY	20140619	59.5	59.3	r_down	
+LLY	20140620	59.3	61.5	r_up	
+LLY	20140623	61.5	61.5	r_up	
+LLY	20140624	61.5	61.4	r_down	
+LLY	20140625	61.4	62.5	r_up	peers:1 smaller:1 bait:1 target:1 acquirer:1 revenue:1 succeed:1 cap:1 hostile:1 its:1 state:1 takeover:1 thanks:1 base:1 become:1 law:1 makes:1 than:1 market:1 difficult:1
+LLY	20140626	62.5	62.5	r_up	
+LLY	20140627	62.5	62.6	r_up	
+LLY	20140630	62.6	61.6	r_down	
+LLY	20140701	61.6	62.0	r_up	
+LLY	20140702	62.0	62.2	r_up	
+LLY	20140703	62.2	62.5	r_up	
+LLY	20140707	62.5	62.1	r_down	
+LLY	20140708	62.1	61.9	r_down	
+LLY	20140709	61.9	62.1	r_up	
+LLY	20140710	62.1	62.0	r_down	
+LLY	20140711	62.0	62.3	r_up	
+LLY	20140714	62.3	62.5	r_up	
+LLY	20140715	62.5	62.3	r_down	stalling:1 right:1 livestock:1 delaying:1 reduce:1 number:1 years:1 sweeping:1 set:1 year:1 unfavorable:1 watched:1 decisions:1 its:1 market:1 court:1 processors:1 beef:1 patent:1 revive:1 which:1 between:1 finding:1 has:2 type:1 boil:1 dispute:1 's:2 government:2 could:1 largest:1 resistance:1 five:1 closely:1 own:1 last:1 nation:1 effort:1 pulled:1 condition:1 recourse:1 issue:1 challenge:1 drug:2 patients:1 greatly:1 amid:1 starting:1 maker:1 laws:1
+LLY	20140716	62.3	62.3	r_up	useful:1 cancer:1 show:1 direct:1 helped:1 kill:1 have:1 signs:1 affected:1 cell:1 $:1 may:1 45:1 been:1 better:1 failed:1 seriously:1 white:1 has:1 type:1 body:1 's:3 less:1 million:1 overall:1 treatments:1 blood:1 compound:1 those:1 attacks:1 cells:1 foreign:1 aim:1 benefit:1 prevention:1 injectable:1 mean:1 makes:1 experimental:1 late-stage:1
+LLY	20140717	62.3	61.7	r_down	billion:1 core:1 1.6:1 said:1 $:1 25:1 profit:1 after:1 sales:1 drug:1 revamp:1 growth:1 businesses:1 retain:1 net:1 strong:1 second-quarter:1
+LLY	20140718	61.7	62.9	r_up	
+LLY	20140721	62.9	63.1	r_up	
+LLY	20140722	63.1	63.2	r_up	streak:1 past:1 keeping:1 over:1 30:1 alive:1 years:1 1:1 fund:1 9:1 stock:1
+LLY	20140723	63.2	63.7	r_up	
+LLY	20140724	63.7	63.8	r_up	stock:1 6:1 slid:1 revenue:1 some:1 sales:1 related:1 trade:2 switches:1 actively:2 trading:1 shares:2 years:1 hit:1 80:1 its:5 market:1 volume:1 drugs:1 said:2 patent:1 $:2 defective:1 ignition:1 profit:3 rose:1 quarterly:1 had:1 three:1 hepatitis:1 second-quarter:4 victims:1 start:1 earnings:2 premarket:1 vehicle:1 expected:3 new:1 net:1 treatment:1 quarter:1 's:4 expirations:1 linked:1 season:1 highs:1 income:1 continuing:1 first:1 1.9:1 driven:1 reported:1 historic:1 plan:1 latest:1 strong:1 than:1 thank:1 billion:1 down:1 39:1 accidents:1 launch:1 charges:1 car:1 drop:1 companies:2 drug:1 record:2 compensation:1 session:2 results:1 can:1 push:1 recalls:1 more:1 dragged:1 fell:1 better-than-expected:1
+LLY	20140725	63.8	63.2	r_down	even:1 10:1 junk:1 snack:1 snacks:1 food:2 things:1 won’t:1 knew:1 companies:1 back:1 try:1 more:1 cut:1 they:2 harder:1 you:1 trying:1 might:1 tell:1 if:1
+LLY	20140728	63.2	62.8	r_down	pharmaceutical:2 giant:1 's:2 center:1 city:2 towers:2 industry:2 companies:2 recruit:2 attracted:2 which:1 have:2 biotechnology:2 such:2 poised:2 boost:2 startups:2
+LLY	20140729	62.8	62.2	r_down	giant:1 just:1 tax:1 rate:1 fine:1 its:1
+LLY	20140730	62.2	62.1	r_down	
+LLY	20140731	62.1	60.5	r_down	proprietary:1 over:1 year:1 battle:1 its:1 information:1 documents:1 two:1 pages:1 internal:1 scientists:1 thousands:1 allegedly:1 drugs:1 earlier:1 leaking:1 hundreds:1 wire:1 data:1 former:1 fraud:1 locked:1 drug:1 were:1 release:1 providing:1 maker:1 experimental:1 charged:1
+LLY	20140801	60.5	60.2	r_down	shedding:1 smaller:1 deal:1 trend:1 70:1 focus:1 '':1 say:1 broader:1 90:1 80:1 its:2 fit:1 decision:1 than:2 looking:1 shed:1 largest:1 more:2 ``:1 's:3 around:1 get:1 company:2 sales:1 focused:1 half:2 brands:3 world:1 generate:1 bankers:1 products:1 aligns:1 making:1 consumer:1
+LLY	20140804	60.2	61.1	r_up	
+LLY	20140805	61.1	60.3	r_down	
+LLY	20140806	60.3	60.6	r_up	
+LLY	20140807	60.6	59.8	r_down	
+LLY	20140808	59.8	60.4	r_up	
+LLY	20140811	60.4	60.5	r_up	prompted:1 distributors:1 1.8:1 fine:1 makers:2 pharmaceutical:1 anti-trust:1 $:1 working:1 generic:1 large:1 conspiring:1 other:1 between:1 several:1 meeting:1 's:1 allegedly:1 company:1 million:1 took:1 country:1 drug:2 keep:1 regulator:1 place:1
+LLY	20140812	60.5	60.8	r_up	
+LLY	20140813	60.8	60.5	r_down	
+LLY	20140814	60.5	61.1	r_up	
+LLY	20140815	61.1	60.8	r_down	
+LLY	20140818	60.8	61.3	r_up	
+LLY	20140819	61.3	62.1	r_up	want:1 according:1 cure:1 have:1 given:1 would:1 no:1 there:1 research:1 other:1 'yes:1 answer:1 new:1 you:3 might:1 tests:1 's:3 diagnostic:1 know:1 disorders:1 disease:1 thought:1 published:1 works:1
+LLY	20140820	62.1	62.0	r_down	
+LLY	20140821	62.0	62.0	r_up	twists:1 results:1 regulatory:1 authorities:1 curious:1 its:2 said:1 positive:1 3:1 treatment:1 way:1 reading:1 more:1 psoriasis:1 we:1 's:2 preparing:1 phase:1 lawsuit:1 case:1 submission:1 showed:1 turns:1 against:1 're:2 studies:1
+LLY	20140822	62.0	62.3	r_up	
+LLY	20140825	62.3	62.7	r_up	
+LLY	20140826	62.7	62.8	r_up	
+LLY	20140827	62.8	63.0	r_up	peers:1 outperformed:1 directors:1 fewer:1 according:1 their:1 while:1 board:1 members:1 analyzed:1 data:1 those:1 more:1
+LLY	20140828	63.0	63.1	r_up	
+LLY	20140829	63.1	63.5	r_up	summer:1 tap:1 concert:1 people:1 series:1 around:1 soon:1 marked:1 days:1 order:1 see:1 simply:1 another:2 pond:1 close:1 special:2 relatively:1 given:1 end:1 working:1 weekend:1 tennis:1 please:1 vacation:1 long:1 few:1 old:1 connecting:1 which:1 grand:1 party:1 you:3 include:1 officially:1 match:1 week:1 do:1 we:1 someone:1 plans:1 our:2 could:1 safe:1 but:1 moment:1 whatever:1 although:1 one:1 come:1 throw:1 beaches:1 short:1 inviting:1 installment:1 have:1 taking:1 quiet:1 ...:1 side:1 remain:1 're:1 so:2 friend:1 last-minute:1 time:2 castle:1 drawing:1
+LLY	20140902	63.5	63.6	r_up	
+LLY	20140903	63.6	64.1	r_up	specialist:1 already:1 's:2 form:1 company:1 prices:1 return:1 troubled:1 valuation:1 2013:1 diabetes:1
+LLY	20140904	64.1	64.2	r_up	
+LLY	20140905	64.2	64.7	r_up	downsizing:1 all:1 right:1 force:1 people:1 there:1 coming:1 share:1 them:1 agent:1 rising:1 us:2 want:1 home:1 star:1 its:2 overturn:1 funding:1 decision:1 agency:1 three:1 your:1 anyone:1 find:1 going:1 new:1 goings:1 'll:2 movement:1 wants:1 we:2 someone:1 's:3 comings:1 some:1 spot:1 diagnostic:1 imaging:1 others:1 not:1 news:1 exciting:1 lawsuit:1 layoffs:1 especially:1 shy:1 and…:1 cover:1 against:1 n't:1 solved:1 ongoing:1 latest:1 changes:1 know:1
+LLY	20140908	64.7	65.0	r_up	
+LLY	20140909	65.0	64.4	r_down	
+LLY	20140910	64.4	64.7	r_up	
+LLY	20140911	64.7	65.1	r_up	spirits:1 seven:1 everyone:1 old:1 forget:1 supply:1 can:1 over:2 some:1 all:1 years:1 your:1 say:1 cost:1 another:1 touch:1 our:1 morning:1 its:1 ribbon:1 stimulation:1 while:1 now:1 $:2 would:1 cup:1 things:1 day:2 campus:1 here:2 needed:1 tidbits:1 new:1 you:2 tug:1 brand:1 today:1 more:1 advice:1 do:1 we:2 increased:1 stay:1 get:1 smashing:1 price:1 welcome:1 sunny:1 but:3 back:1 most:1 five:1 should:1 ...:1 known:1 precious:1 one:1 than:1 220:1 concentrated:1 1,200:1 last:1 like:1 gift:1 wholesale:1 one-month:1 drug:1 times:1 remain:1 're:1 so:1 2007:1 always:1 brew:1 fresh:1
+LLY	20140912	65.1	65.2	r_up	after:1 cancer:1 countries:1 months:1 three:1 been:1 vials:2 were:1 five:1 drug:2 have:1 breast-cancer:1 found:2
+LLY	20140915	65.2	65.1	r_down	
+LLY	20140916	65.1	65.8	r_up	soggy:1 just:1 half:1 expects:1 trade:1 session:1 yet:1 causes:1 busy:1 $:3 cup:1 interesting:1 onward:1 treatment:1 2015:1 has:1 hope:1 ...:1 good:1 rake:1 muddle:1 gloomy:1 they:1 milestone:2 day:2 like:1 success:1 --:1 companies:1 50:1 morning:1 payments:1 everyone:1 some:1 actively:1 us:2 progressive:1 said:3 stands:1 shares:1 find:1 tidbits:1 falling:1 we:4 umbrella:1 decline:1 spot:1 million:2 agreement:2 free:1 jointly:1 regulatory:1 along:1 dry:1 anything:1 receive:1 could:1 annual:1 chance:1 drug:1 keep:1 passing:1 experimental:1 first:2 useful:1 feel:1 another:1 pharmaceutical:1 needed:1 there:1 stimulation:1 start:2 much:1 memory:1 expected:1 500:1 more:1 company:1 but:1 hear:1 join:1 up:1 signed:1 're:1 making:1 risky:1 illness:1 mind:1 sales:1 campus:1 if:1 develop:2 pay:1 5:1 9:1 you:3 development:1 's:8 reach:1 rain:1 stay:1 beta:1 payment:1 billion:1 disease:1 oral:1
+LLY	20140917	65.8	65.9	r_up	sector:1 pharmaceutical:1 said:1 signed:1 megadeals:1 abandoned:1 wo:1 spate:1 strategy:1 n't:1 interview:1 change:1 following:1 its:1 acquisition:1 recent:1
+LLY	20140918	65.9	66.5	r_up	operations:1 heart:1 plastics:1 focus:1 stroke:1 life-sciences:1 seek:1 its:1 increased:1 profitable:1 business:1 initial:1 attack:1 makers:1 recommended:1 public:1 more:1 's:1 plans:1 offering:1 drugs:1 company:1 possible:1 panel:1 study:1 products:1 risks:1 stock:1
+LLY	20140919	66.5	66.5	r_up	
+LLY	20140922	66.5	66.0	r_down	
+LLY	20140923	66.0	65.9	r_down	
+LLY	20140924	65.9	66.1	r_up	
+LLY	20140925	66.1	65.5	r_down	distance:1 salespeople:1 acceptance:1 pharmaceutical:1 companies:1 medicines:1 doctors:1 harder:1 drug:1 their:1 putting:2 systems:1 between:1 quick:1 health:1 get:1 pressure:1 profits:1 making:1
+LLY	20140926	65.5	65.4	r_down	
+LLY	20140929	65.4	65.3	r_down	
+LLY	20140930	65.3	64.8	r_down	billion:1 physicians:1 last:1 $:1 year:1 months:1 companies:1 least:1 3.5:1 five:1 paid:1 during:1 teaching:1 hospitals:1 final:1 medical-device:1
+LLY	20141001	64.8	65.0	r_up	
+LLY	20141002	65.0	64.8	r_down	session:1 development:1 lupus:1 said:1 's:1 would:1 wo:1 stop:1 move:1 companies:1 shares:1 trade:1 n't:1 forward:1 regulators:1 actively:1 treatment:2 expected:1 global:1 its:1
+LLY	20141003	64.8	65.6	r_up	enjoy:1 delicious:1 ...:1 year:1 some:1 soon:2 around:1 mansion:1 catching:1 through:1 another:1 close:1 need:1 our:2 apple:1 pause:1 working:1 rather:1 make:1 three:1 long:1 few:1 nap:1 take:2 grand:1 you:6 stock:1 week:1 do:1 draw:1 hit:1 plans:1 nature:1 could:1 safe:1 pie:1 button:1 modest:1 know:1 weekend:1 have:1 orchard:1 country:1 signal:1 and…:1 life:1 up:2 order:1 so:1 can:2 agenda:1 time:2 fun:1 simply:1 ride:1
+LLY	20141006	65.6	65.6	r_up	
+LLY	20141007	65.6	64.2	r_down	
+LLY	20141008	64.2	65.2	r_up	all:1 everyone:1 people:1 explained:1 some:1 bounce:1 middle:2 say:1 have:1 touch:1 our:2 happen:1 alternative:1 market:1 happens:1 again:1 busy:1 away:1 less:1 tomorrow:1 you:3 has:1 day:1 mascots:1 week:2 then:1 we:1 do:1 get:1 stay:1 arrived:1 cracking:1 world:1 ...:1 than:1 official:1 shine:1 short:1 lifestyle:1 adopt:1 keep:1 time:1 conquer:1
+LLY	20141009	65.2	64.3	r_down	
+LLY	20141010	64.3	64.1	r_down	

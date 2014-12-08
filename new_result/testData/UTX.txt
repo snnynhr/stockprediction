@@ -1,307 +1,114 @@
-UTX	20120402	80.35	80.14	r_down	
-UTX	20120403	80.14	79.63	r_down	
-UTX	20120404	79.63	79.36	r_down	
-UTX	20120405	79.36	79.05	r_down	
-UTX	20120409	79.05	77.72	r_down	
-UTX	20120410	77.72	76.03	r_down	
-UTX	20120411	76.03	77.14	r_up	
-UTX	20120412	77.14	78.63	r_up	's:1 $:1
-UTX	20120413	78.63	77.31	r_down	
-UTX	20120416	77.31	77.38	r_up	
-UTX	20120417	77.38	78.7	r_up	
-UTX	20120418	78.7	78.66	r_down	
-UTX	20120419	78.66	77.89	r_down	
-UTX	20120420	77.89	78.47	r_up	
-UTX	20120423	78.47	77.26	r_down	
-UTX	20120424	77.26	77.35	r_up	
-UTX	20120425	77.35	77.32	r_down	
-UTX	20120426	77.32	78.71	r_up	's:2
-UTX	20120427	78.71	79.44	r_up	
-UTX	20120430	79.44	79.09	r_down	
-UTX	20120501	79.09	78.89	r_down	rise:1 gains:1 after:1 extends:1 picked:1 billionaires:1 banks:1 5:1 100:1 stocks:1 data:1
-UTX	20120502	78.89	79.0	r_up	
-UTX	20120503	79.0	78.38	r_down	
-UTX	20120504	78.38	77.0	r_down	
-UTX	20120507	77.0	76.44	r_down	
-UTX	20120508	76.44	76.36	r_down	
-UTX	20120509	76.36	74.6	r_down	
-UTX	20120510	74.6	74.87	r_up	
-UTX	20120511	74.87	74.77	r_down	
-UTX	20120514	74.77	73.58	r_down	
-UTX	20120515	73.58	73.79	r_up	
-UTX	20120516	73.79	72.82	r_down	
-UTX	20120517	72.82	71.49	r_down	737:1
-UTX	20120518	71.49	70.56	r_down	
-UTX	20120521	70.56	71.85	r_up	
-UTX	20120522	71.85	72.08	r_up	
-UTX	20120523	72.08	72.2	r_up	
-UTX	20120524	72.2	71.65	r_down	300:1 $:2
-UTX	20120525	71.65	71.19	r_down	'09:1 $:1
-UTX	20120529	71.19	73.2	r_up	
-UTX	20120530	73.2	71.89	r_down	
-UTX	20120531	71.89	72.25	r_up	
-UTX	20120601	72.25	70.21	r_down	
-UTX	20120604	70.21	69.66	r_down	
-UTX	20120605	69.66	69.1	r_down	
-UTX	20120606	69.1	71.79	r_up	
-UTX	20120607	71.79	73.51	r_up	
-UTX	20120608	73.51	73.6	r_up	
-UTX	20120611	73.6	72.75	r_down	
-UTX	20120612	72.75	72.48	r_down	1:3 $:3
-UTX	20120613	72.48	71.69	r_down	ta:1
-UTX	20120614	71.69	72.28	r_up	1:1 11:2 watch:1
-UTX	20120615	72.28	72.62	r_up	
-UTX	20120618	72.62	73.12	r_up	
-UTX	20120619	73.12	74.48	r_up	
-UTX	20120620	74.48	74.0	r_down	
-UTX	20120621	74.0	72.94	r_down	
-UTX	20120622	72.94	73.31	r_up	
-UTX	20120625	73.31	71.9	r_down	
-UTX	20120626	71.9	71.78	r_down	
-UTX	20120627	71.78	72.3	r_up	
-UTX	20120628	72.3	70.78	r_down	55:1 $:1
-UTX	20120629	70.78	73.63	r_up	55:1 $:2 've:1
-UTX	20120702	73.63	73.16	r_down	
-UTX	20120703	73.16	73.85	r_up	's:1
-UTX	20120705	73.85	73.5	r_down	
-UTX	20120706	73.5	72.23	r_down	code:1 earnings:1 crack:1
-UTX	20120709	72.23	72.46	r_up	control:1 wins:1 order:1 venture:1 seals:1
-UTX	20120710	72.46	72.29	r_down	watch:1
-UTX	20120711	72.29	70.69	r_down	100:1 5th:1
-UTX	20120712	70.69	70.04	r_down	
-UTX	20120713	70.04	71.74	r_up	
-UTX	20120716	71.74	71.37	r_down	
-UTX	20120717	71.37	71.75	r_up	
-UTX	20120718	71.75	72.97	r_up	
-UTX	20120719	72.97	73.92	r_up	103:1
-UTX	20120720	73.92	72.37	r_down	
-UTX	20120723	72.37	71.44	r_down	787:1 's:4 $:2 550:2 5:2 787s:1
-UTX	20120724	71.44	70.13	r_down	
-UTX	20120725	70.13	70.79	r_up	$:2
-UTX	20120726	70.79	71.1	r_up	watch:1 0.8:5 's:4 500:1 2nd:5
-UTX	20120727	71.1	72.41	r_up	surprises:1 advisories:1
-UTX	20120730	72.41	73.09	r_up	
-UTX	20120731	73.09	72.57	r_down	
-UTX	20120801	72.57	72.91	r_up	
-UTX	20120802	72.91	72.57	r_down	
-UTX	20120803	72.57	74.88	r_up	
-UTX	20120806	74.88	74.73	r_down	
-UTX	20120807	74.73	76.16	r_up	
-UTX	20120808	76.16	75.53	r_down	
-UTX	20120809	75.53	75.1	r_down	
-UTX	20120810	75.1	75.93	r_up	
-UTX	20120813	75.93	75.52	r_down	
-UTX	20120814	75.52	75.83	r_up	
-UTX	20120815	75.83	76.56	r_up	
-UTX	20120816	76.56	77.32	r_up	
-UTX	20120817	77.32	78.89	r_up	week:1 6th:1 straight:1 gain:1 chips:1 500:1 2012:1
-UTX	20120820	78.89	78.61	r_down	
-UTX	20120821	78.61	77.81	r_down	
-UTX	20120822	77.81	78.2	r_up	'07:1
-UTX	20120823	78.2	77.75	r_down	
-UTX	20120824	77.75	78.61	r_up	
-UTX	20120827	78.61	79.08	r_up	
-UTX	20120828	79.08	79.16	r_up	
-UTX	20120829	79.16	78.7	r_down	3.7:1 's:2 $:1
-UTX	20120830	78.7	77.61	r_down	's:1
-UTX	20120831	77.61	78.38	r_up	
-UTX	20120904	78.38	76.91	r_down	's:1
-UTX	20120905	76.91	76.6	r_down	
-UTX	20120906	76.6	77.94	r_up	
-UTX	20120907	77.94	77.95	r_up	surprises:1 advisories:1
-UTX	20120910	77.95	77.17	r_down	
-UTX	20120911	77.17	77.31	r_up	
-UTX	20120912	77.31	77.38	r_up	
-UTX	20120913	77.38	79.05	r_up	
-UTX	20120914	79.05	80.94	r_up	2013:1
-UTX	20120917	80.94	80.64	r_down	
-UTX	20120918	80.64	79.98	r_down	
-UTX	20120919	79.98	80.22	r_up	
-UTX	20120920	80.22	79.43	r_down	
-UTX	20120921	79.43	79.27	r_down	
-UTX	20120924	79.27	78.56	r_down	
-UTX	20120925	78.56	77.32	r_down	
-UTX	20120926	77.32	77.09	r_down	
-UTX	20120927	77.09	76.91	r_down	2013:1
-UTX	20120928	76.91	76.85	r_down	
-UTX	20121001	76.85	76.91	r_up	$:1 7:1
-UTX	20121002	76.91	76.95	r_up	
-UTX	20121003	76.95	77.12	r_up	
-UTX	20121004	77.12	77.09	r_down	
-UTX	20121005	77.09	77.07	r_down	
-UTX	20121008	77.07	76.93	r_down	
-UTX	20121009	76.93	75.91	r_down	
-UTX	20121010	75.91	74.62	r_down	
-UTX	20121011	74.62	74.65	r_up	's:1
-UTX	20121012	74.65	74.57	r_down	
-UTX	20121015	74.57	74.75	r_up	
-UTX	20121016	74.75	76.18	r_up	
-UTX	20121017	76.18	77.1	r_up	
-UTX	20121018	77.1	77.78	r_up	profit:1 things:1 report:1 look:1
-UTX	20121019	77.78	76.56	r_down	
-UTX	20121022	76.56	76.4	r_down	
-UTX	20121023	76.4	75.66	r_down	watch:1 earnings:1 6.9:2
-UTX	20121024	75.66	76.47	r_up	lower:1 support:1 but:1 earnings:1 sharply:1 stocks:2 data:1 its:1 retreat:1 2012:1
-UTX	20121025	76.47	75.87	r_down	prospects:1 $:1 earnings:1 falter:1 236:1 grow:1 worse:1
-UTX	20121026	75.87	76.76	r_up	236:1 $:1
-UTX	20121031	76.76	76.73	r_down	
-UTX	20121101	76.73	77.61	r_up	
-UTX	20121102	77.61	76.64	r_down	
-UTX	20121105	76.64	76.47	r_down	right:1 election:1 way:1 pick:1 stocks:1 before:1
-UTX	20121106	76.47	78.5	r_up	133:1 37:1 's:1 $:1
-UTX	20121107	78.5	76.25	r_down	
-UTX	20121108	76.25	74.76	r_down	's:1
-UTX	20121109	74.76	74.45	r_down	
-UTX	20121112	74.45	75.54	r_up	after:1
-UTX	20121113	75.54	75.59	r_up	
-UTX	20121114	75.59	73.79	r_down	
-UTX	20121115	73.79	73.98	r_up	
-UTX	20121116	73.98	74.39	r_up	
-UTX	20121119	74.39	75.7	r_up	
-UTX	20121120	75.7	75.81	r_up	
-UTX	20121121	75.81	76.44	r_up	
-UTX	20121123	76.44	77.71	r_up	
-UTX	20121126	77.71	77.78	r_up	
-UTX	20121127	77.78	77.92	r_up	
-UTX	20121128	77.92	78.88	r_up	
-UTX	20121129	78.88	78.84	r_down	
-UTX	20121130	78.84	79.19	r_up	
-UTX	20121203	79.19	78.88	r_down	
-UTX	20121204	78.88	79.22	r_up	
-UTX	20121205	79.22	79.31	r_up	
-UTX	20121206	79.31	79.94	r_up	
-UTX	20121207	79.94	80.06	r_up	
-UTX	20121210	80.06	80.08	r_up	
-UTX	20121211	80.08	80.26	r_up	
-UTX	20121212	80.26	80.07	r_down	
-UTX	20121213	80.07	79.45	r_down	
-UTX	20121214	79.45	79.06	r_down	up:1
-UTX	20121217	79.06	79.07	r_up	2013:1
-UTX	20121218	79.07	81.29	r_up	
-UTX	20121219	81.29	82.08	r_up	
-UTX	20121220	82.08	82.21	r_up	
-UTX	20121221	82.21	81.59	r_down	
-UTX	20121224	81.59	81.3	r_down	500:1
-UTX	20121226	81.3	81.17	r_down	n't:1
-UTX	20121227	81.17	81.13	r_down	
-UTX	20121228	81.13	79.88	r_down	
-UTX	20121231	79.88	81.07	r_up	
-UTX	20130102	81.07	83.03	r_up	
-UTX	20130103	83.03	83.34	r_up	
-UTX	20130104	83.34	84.0	r_up	
-UTX	20130107	84.0	83.6	r_down	tapped:1
-UTX	20130108	83.6	82.59	r_down	after:1
-UTX	20130109	82.59	83.58	r_up	after:1 's:1 up:1
-UTX	20130110	83.58	83.99	r_up	
-UTX	20130111	83.99	84.2	r_up	
-UTX	20130114	84.2	84.81	r_up	
-UTX	20130115	84.81	84.97	r_up	
-UTX	20130116	84.97	84.59	r_down	
-UTX	20130117	84.59	85.41	r_up	
-UTX	20130118	85.41	85.95	r_up	
-UTX	20130122	85.95	86.47	r_up	
-UTX	20130123	86.47	87.06	r_up	earnings:1
-UTX	20130124	87.06	87.9	r_up	
-UTX	20130125	87.9	88.76	r_up	
-UTX	20130128	88.76	88.77	r_up	
-UTX	20130129	88.77	88.73	r_down	
-UTX	20130130	88.73	88.08	r_down	
-UTX	20130131	88.08	86.56	r_down	
-UTX	20130201	86.56	88.81	r_up	
-UTX	20130204	88.81	88.51	r_down	
-UTX	20130205	88.51	88.23	r_down	
-UTX	20130206	88.23	88.34	r_up	
-UTX	20130207	88.34	88.92	r_up	
-UTX	20130208	88.92	89.05	r_up	
-UTX	20130211	89.05	88.58	r_down	
-UTX	20130212	88.58	88.95	r_up	
-UTX	20130213	88.95	89.0	r_up	
-UTX	20130214	89.0	89.19	r_up	
-UTX	20130215	89.19	90.27	r_up	
-UTX	20130219	90.27	90.51	r_up	
-UTX	20130220	90.51	89.66	r_down	's:1
-UTX	20130221	89.66	88.91	r_down	
-UTX	20130222	88.91	89.99	r_up	
-UTX	20130225	89.99	87.88	r_down	
-UTX	20130226	87.88	88.7	r_up	
-UTX	20130227	88.7	90.06	r_up	
-UTX	20130228	90.06	90.05	r_down	
-UTX	20130301	90.05	89.63	r_down	
-UTX	20130304	89.63	88.63	r_down	level:1 average:1 2nd:1 lifts:1 gain:1 highest:1
-UTX	20130305	88.63	90.51	r_up	high:1 new:1 ceiling:1 point:1
-UTX	20130306	90.51	90.56	r_up	record:1 road:1
-UTX	20130307	90.56	91.2	r_up	
-UTX	20130308	91.2	91.56	r_up	
-UTX	20130311	91.56	92.39	r_up	777:1
-UTX	20130312	92.39	92.62	r_up	
-UTX	20130313	92.62	92.56	r_down	
-UTX	20130314	92.56	92.93	r_up	
-UTX	20130315	92.93	92.76	r_down	
-UTX	20130318	92.76	92.25	r_down	$:1
-UTX	20130319	92.25	92.59	r_up	
-UTX	20130320	92.59	92.93	r_up	
-UTX	20130321	92.93	91.91	r_down	
-UTX	20130322	91.91	93.07	r_up	
-UTX	20130325	93.07	92.28	r_down	
-UTX	20130326	92.28	92.13	r_down	
-UTX	20130327	92.13	92.09	r_down	
-UTX	20130328	92.09	92.91	r_up	
-UTX	20130401	92.91	92.4	r_down	
-UTX	20130402	92.4	92.47	r_up	
-UTX	20130403	92.47	92.68	r_up	
-UTX	20130404	92.68	92.64	r_down	
-UTX	20130405	92.64	92.12	r_down	
-UTX	20130408	92.12	93.19	r_up	
-UTX	20130409	93.19	93.92	r_up	30:1 's:1
-UTX	20130410	93.92	94.65	r_up	
-UTX	20130411	94.65	95.29	r_up	
-UTX	20130412	95.29	95.16	r_down	
-UTX	20130415	95.16	93.0	r_down	
-UTX	20130416	93.0	93.98	r_up	
-UTX	20130417	93.98	92.33	r_down	
-UTX	20130418	92.33	91.04	r_down	
-UTX	20130419	91.04	92.7	r_up	
-UTX	20130422	92.7	93.11	r_up	
-UTX	20130423	93.11	92.37	r_down	session:1 futures:1 bar:1 dominate:1 third:1 beat:1 surprises:1 rise:2 watch:1 advisories:1 earnings:2 news:1 consecutive:1 stocks:1 low:1
-UTX	20130424	92.37	91.49	r_down	
-UTX	20130425	91.49	91.6	r_up	
-UTX	20130426	91.6	90.64	r_down	boost:1 lower:1 stocks:1 end:1
-UTX	20130429	90.64	91.11	r_up	
-UTX	20130430	91.11	90.78	r_down	
-UTX	20130501	90.78	90.54	r_down	
-UTX	20130502	90.54	91.24	r_up	
-UTX	20130503	91.24	92.59	r_up	k:1 retirement:1 plan:1 401:1 replace:1
-UTX	20130506	92.59	92.97	r_up	
-UTX	20130507	92.97	93.35	r_up	
-UTX	20130508	93.35	93.85	r_up	15000:1
-UTX	20130509	93.85	94.23	r_up	
-UTX	20130510	94.23	94.72	r_up	
-UTX	20130513	94.72	94.42	r_down	
-UTX	20130514	94.42	95.4	r_up	
-UTX	20130515	95.4	95.81	r_up	
-UTX	20130516	95.81	95.17	r_down	
-UTX	20130517	95.17	97.35	r_up	
-UTX	20130520	97.35	97.23	r_down	
-UTX	20130521	97.23	97.55	r_up	
-UTX	20130522	97.55	96.25	r_down	
-UTX	20130523	96.25	95.49	r_down	
-UTX	20130524	95.49	95.04	r_down	
-UTX	20130528	95.04	95.97	r_up	
-UTX	20130529	95.97	95.12	r_down	
-UTX	20130530	95.12	95.96	r_up	
-UTX	20130531	95.96	94.9	r_down	
-UTX	20130603	94.9	95.23	r_up	
-UTX	20130604	95.23	94.28	r_down	
-UTX	20130605	94.28	93.01	r_down	
-UTX	20130606	93.01	92.75	r_down	
-UTX	20130607	92.75	94.5	r_up	
-UTX	20130610	94.5	94.14	r_down	
-UTX	20130611	94.14	93.68	r_down	
-UTX	20130612	93.68	92.68	r_down	
-UTX	20130613	92.68	94.29	r_up	
-UTX	20130614	94.29	94.02	r_down	
-UTX	20130617	94.02	94.98	r_up	
-UTX	20130618	94.98	96.17	r_up	
-UTX	20130619	96.17	94.18	r_down	
-UTX	20130620	94.18	92.35	r_down	hot:1 $:1 planes:1
-UTX	20130621	92.35	92.18	r_down	
+UTX	20140501	117.0	115.5	r_down	
+UTX	20140502	115.5	115.2	r_down	temporarily:1 rocket:1 intelligence:1 over:1 satellites:1 engines:1 space:1 federal:1 administration:1 send:1 supplier:1 new:1 main:1 into:1 used:1 's:1 triggered:1 expansion:1 judge:1 bar:1 sanctions:1 against:1 deals:1 military:1
+UTX	20140505	115.2	115.5	r_up	
+UTX	20140506	115.5	114.7	r_down	buy:1 had:1 two:1 delayed:1 expected:1 said:1 committed:1 jets:1 part:1 2016:1 order:1
+UTX	20140507	114.7	115.6	r_up	
+UTX	20140508	115.6	115.7	r_up	
+UTX	20140509	115.7	115.7	r_up	
+UTX	20140512	115.7	117.3	r_up	
+UTX	20140513	117.3	117.4	r_up	proposed:2 intelligence:1 some:1 sales:1 ending:1 four:1 aimed:1 station:1 technology:1 said:2 based:1 would:1 space:2 system:1 least:1 reliance:1 also:1 parts:1 role:1 international:1 has:1 engine:1 satellite:1 used:1 's:2 plans:1 measures:1 them:1 sooner:1 most:1 wake:1 raft:1 satellites:1 years:1 than:1 he:1 tracking:1 off:1 target:1 launch:1 country:1 sanctions:1 turn:1 2020:1 ban:1 military:1
+UTX	20140514	117.4	116.6	r_down	industrial:1 skilled:1 decrease:1 moves:1 machines:1 technically:1 space:1 workers:1 tend:1 signals:1 cooperation:1 niche:1 business:1 big:1 apparent:1 response:1 supplying:1 building:1 sanctions:1 companies:1 range:1 including:1
+UTX	20140515	116.6	115.0	r_down	
+UTX	20140516	115.0	113.9	r_down	
+UTX	20140519	113.9	114.3	r_up	
+UTX	20140520	114.3	112.4	r_down	
+UTX	20140521	112.4	114.1	r_up	purchase:1 's:1 built:1 helicopters:1 50:1 other:1 planned:1 talks:1 boost:1 unit:1 governments:1
+UTX	20140522	114.1	114.3	r_up	
+UTX	20140523	114.3	114.8	r_up	
+UTX	20140527	114.8	115.2	r_up	
+UTX	20140528	115.2	115.3	r_up	
+UTX	20140529	115.3	115.7	r_up	expects:1 years:1 '':1 defense:1 its:1 said:1 space:1 next:1 tight:1 flat:1 ``:1 's:1 business:1 company:1 contends:1 sales:1 five:1 headwind:1 president:1 roughly:1 remain:1 budgets:1 military:1
+UTX	20140530	115.7	115.5	r_down	major:2 people:1 setback:1 one:2 halting:1 flight:1 airplane:1 its:2 ground:2 engines:2 trials:1 two:2 potential:1 test:4 new:1 suffered:2 several:1 dominance:1 's:1 familiar:1 commercial:1 failure:2 aircraft:2 during:2 2nd:1 effort:1 jet:1 --:1 challenge:1 according:1 aims:1 matter:1 compete:1 maker:1
+UTX	20140602	115.5	116.7	r_up	week:1 major:1 testing:1 expects:1 jetliner:1 still:1 oil-related:1 service:1 initial:1 its:1 2015:1 new:1 engine:1 probe:1 may:1 stem:1 failure:1 wake:1 during:1 suggested:1 last:1 enter:1 problem:1
+UTX	20140603	116.7	117.1	r_up	danger:1 year:1 infrastructure:1 jetliner:1 news:1 its:1 out:1 service:1 efficient:1 due:1 next:1 makers:1 equipment:1 new:1 prod:1 switching:1 more:1 engine:1 good:1 's:2 electric:1 power:1 enter:1 gas:1 utilities:1 running:1 carbon:1 advanced:1 both:1 natural:1 limits:1 could:1 tackles:1 emissions:1 time:1 problem:1 toward:1 options:1
+UTX	20140604	117.1	116.4	r_down	
+UTX	20140605	116.4	117.5	r_up	major:1 findings:1 into:1 testing:2 soon:1 one:1 turbine:1 ground:1 said:1 based:1 engines:1 been:1 should:1 investigation:1 inspecting:1 test:1 suffered:1 has:1 week:1 's:1 resume:1 early:1 plane:2 during:1 ago:1 jet:1 fault:2
+UTX	20140606	117.5	118.2	r_up	
+UTX	20140609	118.2	119.4	r_up	
+UTX	20140610	119.4	118.4	r_down	
+UTX	20140611	118.4	117.6	r_down	again:1 tests:1 last:1 jet:1 engines:1 began:1 since:1 major:1 month:1 failure:1 running:1 such:1 new:1 its:1 first:1
+UTX	20140612	117.6	116.1	r_down	
+UTX	20140613	116.1	116.1	r_up	cost:1 program:1 reduce:1 said:1 group:1 name:1 invest:1 industry:1 pushing:1 favorite:1 funds:1 their:2 leadership:1 experts:1 learn:1 own:1 's:2 builders:1 example:1 best:1 leaders:1
+UTX	20140616	116.1	116.2	r_up	
+UTX	20140617	116.2	116.3	r_up	
+UTX	20140618	116.3	116.5	r_up	rocket:1 supply:2 intelligence:1 expects:1 deliveries:1 month:1 its:1 even:1 said:1 engines:2 space:1 tensions:1 had:1 two:1 been:1 crisis:1 delay:1 confident:1 concerns:1 largest:1 shipments:1 crunch:1 head:1 halt:1 though:1 company:1 threatened:1 wake:1 last:1 politician:1 launch:1 receive:1 could:1 accelerated:1 continue:1 military:1 senior:1
+UTX	20140619	116.5	116.9	r_up	amendment:1 prompting:1 sales:1 trade:2 packaging:1 full-year:1 session:2 trading:1 periods:1 run:1 strategy:1 its:3 unit:1 again:1 said:1 raise:1 5.6:1 profit:1 rose:2 review:1 revenue:1 expectations:1 shares:2 bolstered:1 1:3 contract:1 helicopters:1 premarket:1 expected:2 2014:1 acquisitions:1 's:4 way:1 business:1 government:1 company:2 delivery:1 quarterly:1 now:1 continued:1 second-quarter:1 declining:1 recent:1 fiscal:1 would:1 19:1 light:1 straight:1 companies:2 signed:1 $:1 filter:1 actively:2 clears:1
+UTX	20140620	116.9	117.3	r_up	
+UTX	20140623	117.3	116.4	r_down	even:1 head:1 his:1 's:2 stance:1 softening:1 up:1 critics:1 political:1 support:1 agency:1 some:1 back:1 sales:1 biggest:1 step:1 campaign:1 have:1 expected:1 providing:1 jets:1
+UTX	20140624	116.4	115.0	r_down	
+UTX	20140625	115.0	115.4	r_up	
+UTX	20140626	115.4	115.1	r_down	1.3:2 process:1 over:1 back:1 losing:1 defense:1 jobs:1 still:1 helicopters:1 $:2 factory:1 awarded:1 program:1 new:1 congressional:1 's:2 rescue:1 though:1 wrangling:1 known:1 now:1 continued:1 billion:1 search:1 many:1 hinges:1 budget:1 contract:1 luring:1 future:1 military:1 outcome:1
+UTX	20140627	115.1	115.9	r_up	
+UTX	20140630	115.9	114.8	r_down	
+UTX	20140701	114.8	115.2	r_up	
+UTX	20140702	115.2	114.4	r_down	
+UTX	20140703	114.4	114.8	r_up	
+UTX	20140707	114.8	114.4	r_down	plants:1 huge:1 has:1 premium:1 power:2 efficiency:1 big:1 companies:1 also:1 meaning:1 coal:1 place:1 gas:1 works:1 technology:1 investments:1
+UTX	20140708	114.4	113.4	r_down	opt:1 over:1 financial:1 backing:1 double:1 could:1 clients:1 term:1 long:1 according:1 airline:1 have:1 close:1 lawmakers:1 its:1 if:2
+UTX	20140709	113.4	113.2	r_down	disabled:1 all:1 said:1 hit:1 flight:1 co-pilot:1 some:1 aircraft:1 killing:1 four:1 crashed:1 pilot:1 systems:1 members:1 helicopter:1 knocked:1 military:1 flock:1 crew:1 's:1 out:1
+UTX	20140710	113.2	112.8	r_down	engine:1 billion:1 engines:1 $:1 deal:1 government:1 nearing:1 2:1 worth:1 unit:1
+UTX	20140711	112.8	113.4	r_up	
+UTX	20140714	113.4	114.2	r_up	1.1:2 deal:1 show:1 sales:1 community:1 growth:1 its:1 unit:1 $:2 provide:1 deepens:1 flying:1 rivals:1 parts:1 take:1 highs:1 engine:1 's:2 business:1 company:1 pulse:1 aerospace:2 opportunity:1 billion:1 represents:1 aluminum:1 annual:1 signed:1 air:1 record:1 output:1 bet:1
+UTX	20140715	114.2	114.1	r_down	limited:1 financing:1 after:1 's:1 resume:1 fire:1 there:1 flying:1 sales:1 finds:1 aircraft:1 idled:1 plenty:1 fleet:1 has:1 approved:1 ground:1
+UTX	20140716	114.1	113.7	r_down	available:1 climbed:1 increasingly:1 share:1 highly:1 growth:1 scuttled:1 reducing:1 its:1 buoyed:1 embattled:1 jet:1 their:2 bargaining:1 shares:1 makers:1 lender:1 models:1 citing:1 concerns:1 safety:1 international:1 engine:2 customers:1 bounce-back:1 's:1 power:1 fire:1 price:1 anticipated:1 data:1 advanced:1 recent:1 fighter:1 debut:1 specific:1 airline:1 planes:1 better-than-expected:1
+UTX	20140717	113.7	112.1	r_down	pushes:1 partnership:2 0.5:1 improvements:1 have:1 upgrades:1 fuel-efficient:1 even:1 upgrade:1 heads:1 would:1 provide:1 savings:1 1:1 leap:1 2:1 5:1 biggest:1 extensive:1 has:1 more:2 engine:1 's:1 said:1 burn:1 joint:1 plane:1 user:1 redesign:1 bigger:1 package:1 --:1 identified:1 yield:1 options:1 range:1 steps:1 venture:1 fuel:1 small:1 model:1 called:1 gain:1
+UTX	20140718	112.1	112.9	r_up	lower:1 spending:1 breaks:1 tax:1 fight:1 deals:1 writes:1 truth:1 investments:1 sad:1 yet:1 tax-‘inversion’:1
+UTX	20140721	112.9	112.3	r_down	
+UTX	20140722	112.3	110.2	r_down	executive:1 expects:1 trade:2 fighters:1 session:2 its:3 $:1 grounded:1 lackluster:1 same-store:1 than:1 premarket:1 global:1 blowout:1 despite:1 companies:2 raised:1 restaurants:1 testing:1 some:1 growth:1 ignores:1 year:3 2.3:1 close:1 margins:1 declined:1 even:1 said:3 profit:2 since:1 shares:2 increase:1 3:1 ‘death:1 cause:1 weak:2 aircraft:1 hits:1 nailing:1 soda:1 investigators:1 outlook:2 slipped:1 revenue:1 down:1 open:1 jet:1 one-time:1 start:1 expected:2 500:1 more:1 engine:1 flat:1 releases:1 fire:1 company:2 delayed:1 volume:1 wake:1 second-quarter:2 globally:1 blow’:1 while:1 actively:2 were:1 fleet:1 similar:1 slid:1 soars:1 sales:2 disappointing:1 full-year:1 seen:1 relatively:1 1:1 earnings:1 performance:1 worldwide:1 added:1 's:6 tops:1 fell:1 response:1 senior:1 order:1
+UTX	20140723	110.2	109.1	r_down	saying:1 danger:1 quarters:1 '':1 names:1 such:1 close:1 market:1 before:1 index:1 globally:1 surprises:1 bell:1 charts:1 state:1 advisories:1 earnings:2 provides:1 tell:1 ``:1 good:2 's:2 pretty:1 after:1 weak:1 here:1 five:1 members:1 report:1 news:1 one:1 roundup:1 both:1 land:1 look:2 consumer:1 could:1 30:1 companies:1 reports:1 n't:1 future:1 things:1 unusually:1 providing:1 corporate:1 signal:1 latest:1
+UTX	20140724	109.1	108.3	r_down	roundup:1 saying:1 surprises:1 companies:1 reports:1 quarters:1 advisories:1 earnings:1 future:1 corporate:1 latest:1
+UTX	20140725	108.3	108.2	r_down	
+UTX	20140728	108.2	108.3	r_up	core:2 customers:1 made:1 division:1 --:1 across:1 focus:1 appointments:2 through:1 appointed:1 large:1 strategy:1 chief:1 operating:1 officer:1 grow:1 new:1 line:1 several:1 its:2
+UTX	20140729	108.3	106.7	r_down	sector:1 service:1 positive:1 marked:1 growth:1 demand:1 has:1
+UTX	20140730	106.7	105.7	r_down	
+UTX	20140731	105.7	104.5	r_down	
+UTX	20140801	104.5	104.1	r_down	
+UTX	20140804	104.1	104.4	r_up	
+UTX	20140805	104.4	104.4	r_up	
+UTX	20140806	104.4	103.2	r_down	
+UTX	20140807	103.2	103.6	r_up	producer:1 metal:1 some:1 trade:1 connections:1 titanium:1 economic:1 have:2 close:1 yet:1 tensions:1 been:1 their:1 parts:1 between:1 supplies:1 has:1 disrupt:1 war:1 building:1 's:1 stockpiling:1 aerospace:1 case:1 peers:1 target:1 jetliners:1 industry:1 companies:1 critical:1 taking:1
+UTX	20140808	103.6	105.3	r_up	
+UTX	20140811	105.3	105.1	r_down	sector:1 opportunity:1 defense:1 sees:1 aerospace:1
+UTX	20140812	105.1	104.3	r_down	
+UTX	20140813	104.3	105.5	r_up	big-ticket:1 set:1 generation:1 four:1 have:1 type:1 watched:1 equipment:1 unusual:1 develop:1 $:1 contest:1 selected:1 two:1 been:1 next:1 choppers:1 way:1 buys:1 biggest:1 helicopter:2 has:1 decades:1 designs:1 's:1 business:1 new:1 test:1 closely:1 coming:1 100:1 billion:1 advance:1 being:1 tapped:1 industry:2 work:1 up:1 teams:1 project:1 players:1 concepts:1 military:1 changes:1 spend:1
+UTX	20140814	105.5	105.7	r_up	
+UTX	20140815	105.7	105.6	r_down	
+UTX	20140818	105.6	108.0	r_up	
+UTX	20140819	108.0	108.5	r_up	
+UTX	20140820	108.5	109.7	r_up	transportation:1 complete:1 marketing:1 company:1 commercial:1 chief:1 struggles:1 direct:1 aircraft:1 replaced:1 challenge:1 has:1 its:2 first:1
+UTX	20140821	109.7	110.0	r_up	
+UTX	20140822	110.0	109.3	r_down	
+UTX	20140825	109.3	109.8	r_up	industrial:1 benefits:1 recovery:1 elevators:1 companies:1 heating:1 leads:1 see:1 other:1 products:1 analysts:1 demand:1 cooling:1 more:1
+UTX	20140826	109.8	109.6	r_down	
+UTX	20140827	109.6	109.0	r_down	downgrade:1 tumbles:1 focus:1 rises:1 soars:1
+UTX	20140828	109.0	109.1	r_up	roundup:1 saying:1 surprises:1 companies:1 reports:1 quarters:1 advisories:1 earnings:1 future:1 corporate:1 latest:1
+UTX	20140829	109.1	107.9	r_down	
+UTX	20140902	107.9	109.0	r_up	
+UTX	20140903	109.0	109.2	r_up	program:1 another:1 pin:1 caused:2 into:1 testing:2 under:1 month:2 down:1 performance:1 cost:1 have:1 year:1 temporary:1 still:1 yet:1 issues:1 before:1 overruns:1 jet:2 series:1 trigger:1 fix:2 flying:1 had:1 next:1 delay:1 start:2 potential:2 which:1 grounding:1 supplier:1 threaten:1 cause:1 engine:3 after:1 led:1 plans:2 combat:1 restrictions:1 fire:3 sole:1 pressure:1 plane:1 entry:1 catch:2 execution:1 come:1 improve:1 entire:1 accident:1 fighter:2 service:1 --:1 's:1 place:1 planned:1 fleet:1 problem:2 its:1
+UTX	20140904	109.2	109.2	r_up	
+UTX	20140905	109.2	108.7	r_down	
+UTX	20140908	108.7	108.6	r_down	resumed:1 engine:1 major:1 said:1 grounded:1 jet:1 months:1 being:1 after:1 three:1 than:1 following:1 flights:1 test:1 its:1 failure:1 more:1
+UTX	20140909	108.6	108.6	r_up	
+UTX	20140910	108.6	108.5	r_down	
+UTX	20140911	108.5	108.5	r_up	
+UTX	20140912	108.5	108.3	r_down	
+UTX	20140915	108.3	108.3	r_up	down:1 engines:1 fighter:1 deal:1 jet:1 supply:1 fire:1 one:1 pinning:1 nears:1 broke:1 planes:1 close:1 out:1 cause:1 more:1
+UTX	20140916	108.3	108.5	r_up	
+UTX	20140917	108.5	108.0	r_down	
+UTX	20140918	108.0	108.5	r_up	10:1 hit:1 way:1 may:1 conglomerates:1 list:1 soon:1 long:1 efficient:1 activist:1 have:1 van:1 go:1 become:1 stocks:1 writes:1 investors’:1 more:1
+UTX	20140919	108.5	108.4	r_down	
+UTX	20140922	108.4	106.4	r_down	even:1 week:1 begin:1 flight:1 successful:1 trials:1 urged:1 most:1 plane:1 caution:1 planned:1 new:1 jets:1 output:1 single-aisle:1 its:1 higher:1
+UTX	20140923	106.4	105.4	r_down	
+UTX	20140924	105.4	106.0	r_up	major:1 manufacturers:1 models:1 upgrading:1 larger:1 prefer:1 two:1 but:1 strategy:1 designs:1 existing:1 want:1 new:1 single-aisle:1
+UTX	20140925	106.0	104.4	r_down	program:1 strengthening:1 says:1 executive:1 dollar:1 sales:1 fuel-efficient:1 its:1 market:1 said:1 end:1 jet:3 fix:1 version:1 select:1 expected:1 new:1 has:1 more:1 engine:1 's:4 contracts:1 some:1 company:1 planes:1 flew:1 single-aisle:1 senior:1 gained:1 account:1 fighter:2 lead:1 chief:1 planned:1 evaluating:1 time:1 military:1 overseas:1 first:1
+UTX	20140926	104.4	105.2	r_up	
+UTX	20140929	105.2	105.0	r_down	
+UTX	20140930	105.0	105.6	r_up	gone:1 consider:1 summer:1 trend:1 days:1 still:1 market:1 concerned:1 burst:2 long:1 far:1 sure:1 shorts:1 may:1 week’s:1 pushing:1 southern:1 here:1 but:1 picking:1 ominous:2 those:1 volatility:2 made:1 dog:1
+UTX	20141001	105.6	103.8	r_down	
+UTX	20141002	103.8	103.2	r_down	engine:1 head:1 's:2 business:1 company:1 commercial:1 leaving:1 aircraft:1 join:1
+UTX	20141003	103.2	104.4	r_up	
+UTX	20141006	104.4	104.2	r_down	
+UTX	20141007	104.2	101.4	r_down	giants:1 off:1 business:1 near-record:1 decision:1 breaking:1 lines:1 up:1 pace:1 spinning:1 split:1 themselves:1 corporate:1 comes:1
+UTX	20141008	101.4	102.6	r_up	
+UTX	20141009	102.6	99.9	r_down	lower:1 improved:1 aluminum:1 year:1 back:1 costs:1 strongest:1 materials:1 earnings:1 half:1 prices:1 productivity:1 higher:1 its:1 posted:1
+UTX	20141010	99.9	99.9	r_up	

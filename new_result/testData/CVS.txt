@@ -1,307 +1,114 @@
-CVS	20120402	43.96	44.23	r_up	
-CVS	20120403	44.23	44.07	r_down	
-CVS	20120404	44.07	43.48	r_down	
-CVS	20120405	43.48	43.78	r_up	
-CVS	20120409	43.78	43.12	r_down	
-CVS	20120410	43.12	42.72	r_down	
-CVS	20120411	42.72	42.93	r_up	
-CVS	20120412	42.93	42.67	r_down	
-CVS	20120413	42.67	42.62	r_down	
-CVS	20120416	42.62	42.79	r_up	
-CVS	20120417	42.79	43.12	r_up	
-CVS	20120418	43.12	42.78	r_down	
-CVS	20120419	42.78	42.68	r_down	
-CVS	20120420	42.68	43.66	r_up	
-CVS	20120423	43.66	42.6	r_down	
-CVS	20120424	42.6	42.77	r_up	
-CVS	20120425	42.77	43.14	r_up	
-CVS	20120426	43.14	43.91	r_up	
-CVS	20120427	43.91	44.21	r_up	
-CVS	20120430	44.21	43.95	r_down	
-CVS	20120501	43.95	44.04	r_up	
-CVS	20120502	44.04	45.23	r_up	surprises:1 advisories:1 watch:2
-CVS	20120503	45.23	45.45	r_up	36:1
-CVS	20120504	45.45	44.74	r_down	
-CVS	20120507	44.74	44.58	r_down	
-CVS	20120508	44.58	44.59	r_up	
-CVS	20120509	44.59	44.55	r_down	
-CVS	20120510	44.55	45.28	r_up	
-CVS	20120511	45.28	44.64	r_down	
-CVS	20120514	44.64	44.44	r_down	
-CVS	20120515	44.44	44.64	r_up	
-CVS	20120516	44.64	44.48	r_down	
-CVS	20120517	44.48	44.2	r_down	
-CVS	20120518	44.2	43.76	r_down	
-CVS	20120521	43.76	44.21	r_up	
-CVS	20120522	44.21	44.26	r_up	
-CVS	20120523	44.26	44.12	r_down	
-CVS	20120524	44.12	44.49	r_up	
-CVS	20120525	44.49	44.3	r_down	
-CVS	20120529	44.3	44.95	r_up	
-CVS	20120530	44.95	44.65	r_down	
-CVS	20120531	44.65	44.26	r_down	
-CVS	20120601	44.26	42.94	r_down	's:1
-CVS	20120604	42.94	43.45	r_up	's:1
-CVS	20120605	43.45	43.37	r_down	's:1
-CVS	20120606	43.37	44.17	r_up	
-CVS	20120607	44.17	43.78	r_down	
-CVS	20120608	43.78	44.22	r_up	
-CVS	20120611	44.22	44.06	r_down	
-CVS	20120612	44.06	44.71	r_up	
-CVS	20120613	44.71	44.51	r_down	
-CVS	20120614	44.51	45.12	r_up	's:1
-CVS	20120615	45.12	44.96	r_down	
-CVS	20120618	44.96	44.98	r_up	
-CVS	20120619	44.98	45.55	r_up	
-CVS	20120620	45.55	45.3	r_down	's:1
-CVS	20120621	45.3	44.71	r_down	's:1
-CVS	20120622	44.71	45.21	r_up	
-CVS	20120625	45.21	44.52	r_down	
-CVS	20120626	44.52	44.76	r_up	
-CVS	20120627	44.76	45.3	r_up	
-CVS	20120628	45.3	45.3	r_up	's:3
-CVS	20120629	45.3	46.03	r_up	's:2
-CVS	20120702	46.03	47.09	r_up	
-CVS	20120703	47.09	47.11	r_up	
-CVS	20120705	47.11	47.39	r_up	
-CVS	20120706	47.39	47.4	r_up	surprises:1 advisories:1
-CVS	20120709	47.4	46.58	r_down	
-CVS	20120710	46.58	46.22	r_down	n't:2
-CVS	20120711	46.22	46.19	r_down	
-CVS	20120712	46.19	46.81	r_up	17:1
-CVS	20120713	46.81	47.33	r_up	52-week:1 near:1 stocks:1 highs:1 trade:1
-CVS	20120716	47.33	47.35	r_up	
-CVS	20120717	47.35	47.71	r_up	
-CVS	20120718	47.71	47.88	r_up	
-CVS	20120719	47.88	44.9	r_down	ends:1 soars:1 but:1 rivals:1 fall:1 dispute:1
-CVS	20120720	44.9	44.55	r_down	
-CVS	20120723	44.55	44.28	r_down	
-CVS	20120724	44.28	44.07	r_down	
-CVS	20120725	44.07	44.02	r_down	
-CVS	20120726	44.02	44.04	r_up	
-CVS	20120727	44.04	44.41	r_up	
-CVS	20120730	44.41	44.8	r_up	
-CVS	20120731	44.8	44.72	r_down	
-CVS	20120801	44.72	44.31	r_down	
-CVS	20120802	44.31	44.38	r_up	4th:2 16:2
-CVS	20120803	44.38	44.23	r_down	
-CVS	20120806	44.23	44.37	r_up	watch:1
-CVS	20120807	44.37	43.6	r_down	futures:1 18:3 rise:1 watch:1 reports:1 2nd:3 earnings:1 stock:1
-CVS	20120808	43.6	45.03	r_up	surprises:1 advisories:1
-CVS	20120809	45.03	44.49	r_down	
-CVS	20120810	44.49	44.42	r_down	
-CVS	20120813	44.42	44.18	r_down	
-CVS	20120814	44.18	43.6	r_down	
-CVS	20120815	43.6	43.7	r_up	
-CVS	20120816	43.7	44.23	r_up	
-CVS	20120817	44.23	44.78	r_up	
-CVS	20120820	44.78	45.27	r_up	's:1 $:1 5.7:1
-CVS	20120821	45.27	45.1	r_down	
-CVS	20120822	45.1	45.16	r_up	
-CVS	20120823	45.16	44.82	r_down	's:1
-CVS	20120824	44.82	45.03	r_up	
-CVS	20120827	45.03	44.91	r_down	
-CVS	20120828	44.91	44.83	r_down	
-CVS	20120829	44.83	44.9	r_up	
-CVS	20120830	44.9	44.67	r_down	
-CVS	20120831	44.67	45.02	r_up	
-CVS	20120904	45.02	45.39	r_up	
-CVS	20120905	45.39	45.0	r_down	n't:2 's:2
-CVS	20120906	45.0	45.95	r_up	
-CVS	20120907	45.95	45.52	r_down	
-CVS	20120910	45.52	45.65	r_up	
-CVS	20120911	45.65	45.51	r_down	
-CVS	20120912	45.51	45.93	r_up	
-CVS	20120913	45.93	46.89	r_up	
-CVS	20120914	46.89	46.42	r_down	10:1 's:1
-CVS	20120917	46.42	46.35	r_down	
-CVS	20120918	46.35	46.84	r_up	
-CVS	20120919	46.84	47.15	r_up	$:2 6:2
-CVS	20120920	47.15	47.25	r_up	's:1
-CVS	20120921	47.25	47.31	r_up	
-CVS	20120924	47.31	47.51	r_up	
-CVS	20120925	47.51	47.07	r_down	
-CVS	20120926	47.07	47.27	r_up	
-CVS	20120927	47.27	47.67	r_up	
-CVS	20120928	47.67	47.85	r_up	55:3 's:1
-CVS	20121001	47.85	48.1	r_up	fear:1 don’t:1 comes:1
-CVS	20121002	48.1	47.92	r_down	
-CVS	20121003	47.92	48.29	r_up	11:3
-CVS	20121004	48.29	48.31	r_up	
-CVS	20121005	48.31	48.29	r_down	
-CVS	20121008	48.29	48.06	r_down	
-CVS	20121009	48.06	47.46	r_down	
-CVS	20121010	47.46	47.5	r_up	
-CVS	20121011	47.5	47.04	r_down	
-CVS	20121012	47.04	46.53	r_down	
-CVS	20121015	46.53	46.52	r_down	5.25:3 $:3
-CVS	20121016	46.52	46.35	r_down	5.25:1 $:1
-CVS	20121017	46.35	46.1	r_down	
-CVS	20121018	46.1	46.21	r_up	
-CVS	20121019	46.21	45.82	r_down	
-CVS	20121022	45.82	45.88	r_up	
-CVS	20121023	45.88	45.5	r_down	
-CVS	20121024	45.5	45.57	r_up	
-CVS	20121025	45.57	45.73	r_up	
-CVS	20121026	45.73	45.68	r_down	
-CVS	20121031	45.68	46.02	r_up	
-CVS	20121101	46.02	46.11	r_up	
-CVS	20121102	46.11	46.18	r_up	
-CVS	20121105	46.18	46.24	r_up	
-CVS	20121106	46.24	46.49	r_up	futures:1 16:7 move:1 earnings:1 higher:1 stock:1
-CVS	20121107	46.49	46.3	r_down	end:1 surprises:1 nears:1 hammered:1 comments:1 advisories:1 wake:1 election:1 rally:1 stocks:1
-CVS	20121108	46.3	46.05	r_down	
-CVS	20121109	46.05	45.98	r_down	's:1
-CVS	20121112	45.98	45.87	r_down	216:4
-CVS	20121113	45.87	45.85	r_down	216:1
-CVS	20121114	45.85	45.04	r_down	
-CVS	20121115	45.04	44.33	r_down	
-CVS	20121116	44.33	44.43	r_up	
-CVS	20121119	44.43	44.71	r_up	12:1 0.6:1 's:1 $:1 2012:1
-CVS	20121120	44.71	45.19	r_up	
-CVS	20121121	45.19	45.36	r_up	
-CVS	20121123	45.36	45.45	r_up	
-CVS	20121126	45.45	44.93	r_down	1:2 $:2
-CVS	20121127	44.93	44.88	r_down	
-CVS	20121128	44.88	45.5	r_up	
-CVS	20121129	45.5	45.96	r_up	
-CVS	20121130	45.96	46.13	r_up	
-CVS	20121203	46.13	45.9	r_down	
-CVS	20121204	45.9	45.56	r_down	
-CVS	20121205	45.56	45.8	r_up	
-CVS	20121206	45.8	46.32	r_up	1.5:2 3:2 3rd:2
-CVS	20121207	46.32	46.45	r_up	
-CVS	20121210	46.45	46.85	r_up	
-CVS	20121211	46.85	47.16	r_up	
-CVS	20121212	47.16	47.15	r_down	
-CVS	20121213	47.15	48.1	r_up	outlook:1 38:2 's:1 after:2 life:1 shares:1 2013:2 500:1 gives:1
-CVS	20121214	48.1	48.83	r_up	expected:1 drops:1 miss:1 earnings:1
-CVS	20121217	48.83	48.64	r_down	now:1 may:1 money:1 stocks:1 true-blue:1 5:1 bull:1 making:1 moves:1 win:1
-CVS	20121218	48.64	48.79	r_up	
-CVS	20121219	48.79	48.35	r_down	
-CVS	20121220	48.35	48.72	r_up	
-CVS	20121221	48.72	48.27	r_down	25:4
-CVS	20121224	48.27	48.23	r_down	
-CVS	20121226	48.23	47.9	r_down	
-CVS	20121227	47.9	48.0	r_up	
-CVS	20121228	48.0	47.52	r_down	
-CVS	20121231	47.52	47.95	r_up	
-CVS	20130102	47.95	49.27	r_up	
-CVS	20130103	49.27	49.37	r_up	
-CVS	20130104	49.37	49.58	r_up	
-CVS	20130107	49.58	49.62	r_up	buyout:1 after:1 nixes:1 skids:1 talk:1
-CVS	20130108	49.62	49.44	r_down	
-CVS	20130109	49.44	49.86	r_up	into:1 2013:1
-CVS	20130110	49.86	50.81	r_up	
-CVS	20130111	50.81	50.88	r_up	
-CVS	20130114	50.88	51.46	r_up	
-CVS	20130115	51.46	51.36	r_down	
-CVS	20130116	51.36	51.33	r_down	
-CVS	20130117	51.33	51.74	r_up	
-CVS	20130118	51.74	51.68	r_down	
-CVS	20130122	51.68	51.9	r_up	
-CVS	20130123	51.9	52.4	r_up	
-CVS	20130124	52.4	51.85	r_down	
-CVS	20130125	51.85	51.65	r_down	
-CVS	20130128	51.65	51.14	r_down	
-CVS	20130129	51.14	51.14	r_up	
-CVS	20130130	51.14	51.45	r_up	staying:1 stocks:1 power:1
-CVS	20130131	51.45	51.0	r_down	
-CVS	20130201	51.0	51.38	r_up	
-CVS	20130204	51.38	50.8	r_down	
-CVS	20130205	50.8	51.52	r_up	dividend-paying:1 's:1 stocks:1 pick:1
-CVS	20130206	51.52	51.04	r_down	lower:1 surprises:1 futures:1 turn:1 advisories:1 earnings:1 higher:1
-CVS	20130207	51.04	50.99	r_down	
-CVS	20130208	50.99	51.0	r_up	
-CVS	20130211	51.0	51.04	r_up	
-CVS	20130212	51.04	50.97	r_down	
-CVS	20130213	50.97	50.86	r_down	
-CVS	20130214	50.86	51.68	r_up	
-CVS	20130215	51.68	50.92	r_down	
-CVS	20130219	50.92	52.45	r_up	
-CVS	20130220	52.45	51.64	r_down	
-CVS	20130221	51.64	51.65	r_up	
-CVS	20130222	51.65	51.15	r_down	
-CVS	20130225	51.15	50.33	r_down	
-CVS	20130226	50.33	50.44	r_up	
-CVS	20130227	50.44	50.96	r_up	
-CVS	20130228	50.96	50.92	r_down	
-CVS	20130301	50.92	51.36	r_up	
-CVS	20130304	51.36	51.66	r_up	
-CVS	20130305	51.66	52.09	r_up	
-CVS	20130306	52.09	52.01	r_down	
-CVS	20130307	52.01	51.88	r_down	
-CVS	20130308	51.88	52.07	r_up	
-CVS	20130311	52.07	52.42	r_up	
-CVS	20130312	52.42	51.87	r_down	
-CVS	20130313	51.87	52.69	r_up	lower:1 end:1 mostly:1 but:1 record:1 rises:1
-CVS	20130314	52.69	53.05	r_up	
-CVS	20130315	53.05	53.37	r_up	
-CVS	20130318	53.37	53.59	r_up	
-CVS	20130319	53.59	54.16	r_up	3:1
-CVS	20130320	54.16	54.93	r_up	
-CVS	20130321	54.93	54.43	r_down	
-CVS	20130322	54.43	54.98	r_up	10:1 things:1 won’t:1 say:1 drugstore:1 your:1
-CVS	20130325	54.98	55.08	r_up	
-CVS	20130326	55.08	55.07	r_down	
-CVS	20130327	55.07	54.77	r_down	
-CVS	20130328	54.77	54.77	r_up	
-CVS	20130401	54.77	54.31	r_down	
-CVS	20130402	54.31	55.02	r_up	
-CVS	20130403	55.02	53.92	r_down	11:1 $:1 eat:1 keep:1 job:1 have:1 you:1 might:1 your:1 kale:1
-CVS	20130404	53.92	55.13	r_up	
-CVS	20130405	55.13	55.42	r_up	
-CVS	20130408	55.42	56.22	r_up	
-CVS	20130409	56.22	56.36	r_up	
-CVS	20130410	56.36	56.73	r_up	
-CVS	20130411	56.73	57.53	r_up	
-CVS	20130412	57.53	57.29	r_down	perfect:1 dividend:1 's:1 portfolio:1
-CVS	20130415	57.29	56.09	r_down	
-CVS	20130416	56.09	57.4	r_up	
-CVS	20130417	57.4	56.98	r_down	
-CVS	20130418	56.98	56.64	r_down	
-CVS	20130419	56.64	58.0	r_up	
-CVS	20130422	58.0	58.11	r_up	
-CVS	20130423	58.11	58.02	r_down	
-CVS	20130424	58.02	57.58	r_down	
-CVS	20130425	57.58	57.94	r_up	
-CVS	20130426	57.94	57.73	r_down	
-CVS	20130429	57.73	57.44	r_down	
-CVS	20130430	57.44	58.18	r_up	
-CVS	20130501	58.18	58.75	r_up	surprises:1 advisories:1 's:2 23:1
-CVS	20130502	58.75	58.95	r_up	
-CVS	20130503	58.95	58.64	r_down	
-CVS	20130506	58.64	57.94	r_down	
-CVS	20130507	57.94	58.54	r_up	's:1
-CVS	20130508	58.54	58.29	r_down	
-CVS	20130509	58.29	57.49	r_down	
-CVS	20130510	57.49	58.03	r_up	
-CVS	20130513	58.03	58.55	r_up	
-CVS	20130514	58.55	60.07	r_up	
-CVS	20130515	60.07	60.35	r_up	
-CVS	20130516	60.35	59.37	r_down	
-CVS	20130517	59.37	59.44	r_up	
-CVS	20130520	59.44	58.98	r_down	
-CVS	20130521	58.98	59.51	r_up	
-CVS	20130522	59.51	58.7	r_down	
-CVS	20130523	58.7	58.33	r_down	
-CVS	20130524	58.33	59.2	r_up	
-CVS	20130528	59.2	60.21	r_up	
-CVS	20130529	60.21	59.24	r_down	
-CVS	20130530	59.24	58.79	r_down	
-CVS	20130531	58.79	57.58	r_down	
-CVS	20130603	57.58	58.65	r_up	
-CVS	20130604	58.65	57.49	r_down	
-CVS	20130605	57.49	57.23	r_down	
-CVS	20130606	57.23	57.89	r_up	
-CVS	20130607	57.89	58.49	r_up	
-CVS	20130610	58.49	58.6	r_up	
-CVS	20130611	58.6	58.67	r_up	
-CVS	20130612	58.67	58.38	r_down	
-CVS	20130613	58.38	59.27	r_up	
-CVS	20130614	59.27	59.03	r_down	
-CVS	20130617	59.03	59.27	r_up	
-CVS	20130618	59.27	59.91	r_up	
-CVS	20130619	59.91	59.09	r_down	
-CVS	20130620	59.09	56.99	r_down	's:1
-CVS	20130621	56.99	57.57	r_up	
+CVS	20140501	72.2	72.5	r_up	fiscal:1 said:1 's:1 8.7:2 third-quarter:1 drug:1 results:1 contract:1 fell:1 earnings:1 were:1 wholesaler:1 hurt:1 its:2 expiration:1
+CVS	20140502	72.5	73.3	r_up	stores:1 investors:1 some:1 sales:1 trade:2 not:1 see:1 actively:1 trading:1 jobs:2 its:1 out:1 whose:1 area:1 negative:1 shares:2 rivals:1 details:1 expected:2 gyrate:1 territory:1 active:1 higher:1 after:1 's:1 favored:1 price:1 reporting:1 watch:1 paid:1 surprisingly:1 inch:1 frenzy:1 front:1 stocks:1 data:1 lower:1 read:1 futures:2 companies:2 solid:1 session:2 discounting:1 report:1 through:1 stock:1 joining:1
+CVS	20140505	73.3	74.4	r_up	
+CVS	20140506	74.4	73.9	r_down	'':1 ``:1 said:1 's:2 caught:1 noting:1 betting:1 drop:1 up:1 against:1 its:1 high:1 more:1 athenahealth:1 because:1 recent:1 80:1 stock:1 bubble:1 could:1 he:1
+CVS	20140507	73.9	75.3	r_up	
+CVS	20140508	75.3	75.3	r_up	
+CVS	20140509	75.3	75.7	r_up	
+CVS	20140512	75.7	76.2	r_up	
+CVS	20140513	76.2	76.0	r_down	beats:1 4:1 picking:1 stocks:1 market:1 misunderstood:1
+CVS	20140514	76.0	75.4	r_down	
+CVS	20140515	75.4	75.0	r_down	
+CVS	20140516	75.0	76.0	r_up	
+CVS	20140519	76.0	75.7	r_down	over:1 customers:1 activists:1 stores:1 carried:1 name:1 big:1 into:2 after:1 debate:1 consumer:1 one:1 bring:1 asking:1 drawn:1 not:1 making:1 latest:1 its:1 guns:1 restaurants:1
+CVS	20140520	75.7	75.4	r_down	increasing:1 van:1 may:1 equities:1 writes:1 rise:1 yields:1 allure:1 5:1 sink:1 risks:1 dividend:1 safer:1 stocks:1 quality:1 than:1 bond:1
+CVS	20140521	75.4	76.1	r_up	
+CVS	20140522	76.1	76.6	r_up	
+CVS	20140523	76.6	76.5	r_down	's:3 chain:1 company:1 acquire:1 nation:1 part:1 plan:1 largest:1 talks:1 drugstore:1 expand:1
+CVS	20140527	76.5	76.6	r_up	sector:1 acquisitions:1 increasing:1 's:2 nation:1 middle:1 attractive:1 demand:1 growing:1 become:1 has:1 drugstore:1 class:1 mergers:1 thanks:1
+CVS	20140528	76.6	76.7	r_up	sector:1 billion:1 almost:1 sales:1 according:1 past:1 middle:1 thanks:1 year:1 market:1 provided:1 $:1 would:1 toothpaste:1 projected:1 behind:1 attractive:1 increasing:1 drugstore:1 200:1 's:3 power:1 beauty:1 million:1 nation:1 demand:1 world:1 data:1 class:1 population:1 acquisitions:1 has:1 --:1 items:1 shampoo:1 up:1 55:1 products:1 growing:1 become:2 residents:1 similar:1 rack:1 mergers:1
+CVS	20140529	76.7	77.1	r_up	illness:1 says:1 family:1 health-care:1 old:1 still:1 insurance:1 make:1 had:1 long:1 enough:1 sick:2 you:1 friend:1 his:1 recently:1 get:1 afford:1 after:1 but:1 died:1 he:1 leaving:1 costs:1
+CVS	20140530	77.1	77.7	r_up	
+CVS	20140602	77.7	77.7	r_up	
+CVS	20140603	77.7	77.1	r_down	
+CVS	20140604	77.1	77.6	r_up	
+CVS	20140605	77.6	78.0	r_up	
+CVS	20140606	78.0	78.3	r_up	
+CVS	20140609	78.3	78.0	r_down	gaining:1 prevent:1 stake:1 's:1 acquired:1 measures:1 discounter:1 response:1 control:1 activist:1 newly:1 investor:2 any:1
+CVS	20140610	78.0	77.4	r_down	
+CVS	20140611	77.4	76.7	r_down	fiscal:1 's:1 company:1 retire:1 next:1 which:1 year:1 2015:1 end:1 concludes:1
+CVS	20140612	76.7	75.4	r_down	
+CVS	20140613	75.4	75.3	r_down	
+CVS	20140616	75.3	75.6	r_up	
+CVS	20140617	75.6	75.6	r_up	compare:1 bad:1 declines:1 agreed:1 within:1 major:1 good:1 pricing:2 participate:1 unit:2 aging:1 use:1 consumers:2 provide:1 make:2 beaten:1 sites:1 should:1 their:1 2:1 compares:1 4:1 which:1 online:2 include:1 drugstore:1 easier:2 move:1 's:1 increased:1 drugs:1 supermarket:1 market:1 he:1 now:1 effort:1 population:1 has:1 months:1 aims:2 times:1 generic:1 benefit:1 costs:2 nine:1 retailers:2 agree:1 likes:1
+CVS	20140618	75.6	76.8	r_up	
+CVS	20140619	76.8	76.9	r_up	
+CVS	20140620	76.9	76.2	r_down	
+CVS	20140623	76.2	75.7	r_down	
+CVS	20140624	75.7	74.9	r_down	
+CVS	20140625	74.9	74.9	r_up	
+CVS	20140626	74.9	75.0	r_up	
+CVS	20140627	75.0	75.2	r_up	
+CVS	20140630	75.2	74.8	r_down	
+CVS	20140701	74.8	75.5	r_up	
+CVS	20140702	75.5	75.7	r_up	
+CVS	20140703	75.7	76.3	r_up	
+CVS	20140707	76.3	76.1	r_down	sell:1 longer:1 combat:1 no:1 sold:1 help:1 name:1 across:1 state:1 abuse:1 under:1 brand:1 often:1
+CVS	20140708	76.1	76.0	r_down	
+CVS	20140709	76.0	76.3	r_up	
+CVS	20140710	76.3	76.0	r_down	
+CVS	20140711	76.0	76.3	r_up	
+CVS	20140714	76.3	76.7	r_up	
+CVS	20140715	76.7	76.8	r_up	session:1 's:1 companies:1 shares:1 trade:1 actively:1 expected:1
+CVS	20140716	76.8	76.5	r_down	
+CVS	20140717	76.5	75.8	r_down	
+CVS	20140718	75.8	77.2	r_up	
+CVS	20140721	77.2	76.7	r_down	named:1 's:1 business:1 industry:1 retailer:1 search:1 ending:1 external:1 president:1 retail:1 veteran:1 began:1
+CVS	20140722	76.7	77.6	r_up	giant:1 most:1 advertising:1 's:1 increased:1 revenue:1 sales:1 three:1 across:1 strongest:1 growth:1 nearly:1 major:1 years:1 markets:1 its:1 posted:1
+CVS	20140723	77.6	77.8	r_up	impact:1 ways:1 writes:1 hazards:1 hepatitis:1 drug:1 every:1 4:1 wonder:1 shows:1 maker:1 earnings:1
+CVS	20140724	77.8	78.6	r_up	
+CVS	20140725	78.6	78.8	r_up	``:1 himself:1 legislation:1 reasons:1 stop:1 into:1 tax:1 them:1 calling:1 '':1 wrong:1 through:1 urging:1 president:1 firms:1 politically:1 effort:1 overseas:1 block:1 charged:1
+CVS	20140728	78.8	78.1	r_down	demerger:1 revenue:1 trade:1 actively:1 year:1 consumer-products:1 its:1 pharmaceutical:1 said:2 would:1 their:1 two:1 shares:2 next:1 start:1 biggest:1 division:1 selling:1 's:2 drugs:1 company:1 lists:1 expected:1 fell:1 fall:1 second-quarter:1 reported:1 pursue:1 companies:1 session:1 place:1 maker:1
+CVS	20140729	78.1	77.5	r_down	
+CVS	20140730	77.5	77.4	r_down	
+CVS	20140731	77.4	76.1	r_down	
+CVS	20140801	76.1	76.2	r_up	
+CVS	20140804	76.2	77.1	r_up	25:1 account:1 said:1 's:2 plans:1 revenue:1 drugs:1 them:1 drug:2 hampered:1 contract:1 need:1 costs:1 expiration:1 wholesaler:1 more:1 its:1 declined:1 know:1
+CVS	20140805	77.1	77.0	r_down	shop:1 saying:1 stores:2 pointing:1 major:1 quarters:1 session:2 including:1 wolf:1 years:1 its:5 slow:1 $:2 surprises:1 advisories:1 premarket:1 openings:1 day’s:1 gains:1 big:1 handily:1 results:1 traffic:1 not:1 bit:1 trade:2 like:1 drop:2 companies:4 slumps:1 deals:1 whether:1 retailers:1 each:1 businesses:1 tumble:1 estimates:1 sign:1 past:1 actively:2 trading:1 best:1 facing:1 said:2 drugstores:1 cried:1 shares:2 acting:1 beating:1 chains:1 full:1 weighing:1 creating:1 business:1 roundup:1 boy:1 watchers:1 movers:1 reports:1 products:1 rose:1 retail:1 traded:1 outlook:1 due:1 market:3 has:1 publishing:1 few:1 remains:1 question:1 two:1 their:1 growth:1 shoppers:1 store:2 more:1 buy:3 drugs:1 company:1 expected:2 lowered:1 spin:1 second-quarter:3 11:1 grocery:1 include:1 publicly:1 these:1 future:1 steep:1 purchases:1 false:1 prompting:1 1.8:1 sales:2 proven:1 promotional:1 warning:1 markdowns:1 confirmed:1 things:1 make:1 4.8:1 5:1 earnings:2 which:1 online:1 instead:1 stock:2 experienced:1 's:3 separate:1 fell:1 ownership:1 services:1 stocks:1 billion:1 off:1 big-box:1 alarm:1 persistent:1 corporate:1 latest:1
+CVS	20140806	77.0	76.7	r_down	managers:1 cost:1 still:1 increased:1 removing:1 two:1 pharmacy:1 their:1 which:1 largest:1 covered:1 more:1 's:1 generates:1 drugs:1 nation:1 known:1 benefits:1 prescription:1 medicines:2 list:1 controversy:1
+CVS	20140807	76.7	75.8	r_down	billion:1 1.5:1 $:1 offering:1 flow:1 reduce:1 profitability:1 expenses:1 much:1 interest:1 cash:1 repurchase:1 debt:1 effort:1 its:2 improve:1
+CVS	20140808	75.8	77.5	r_up	
+CVS	20140811	77.5	78.1	r_up	
+CVS	20140812	78.1	78.4	r_up	
+CVS	20140813	78.4	78.6	r_up	
+CVS	20140814	78.6	79.0	r_up	sector:1 wage:1 fails:1 still:1 's:1 showed:1 stronger:1 improvement:1 growth:1 deliver:1 off:1 nation:1 spending:1 lift:1 labor:1 standstill:1 struggling:1 retail:1 market:1 economy:1
+CVS	20140815	79.0	78.6	r_down	
+CVS	20140818	78.6	78.8	r_up	
+CVS	20140819	78.8	79.2	r_up	giant:1 business:1 pressured:1 after:1 prescription-drug:1 related:1 pharmacy:2 leave:1 chief:1 forecast:1 drugstore:1 its:2 profits:1
+CVS	20140820	79.2	79.3	r_up	
+CVS	20140821	79.3	78.7	r_down	
+CVS	20140822	78.7	78.9	r_up	all:1 says:1 possible:1 assess:1 report:1 continue:1 spinoff:2 resurfaces:1 response:1
+CVS	20140825	78.9	78.9	r_up	
+CVS	20140826	78.9	79.0	r_up	
+CVS	20140827	79.0	79.1	r_up	
+CVS	20140828	79.1	79.1	r_up	faced:1 available:1 peers:1 reverse:1 widely:1 make:1 pushing:1 drug:1 states:1 their:1 loved:1 ones:1 can:1 which:1 users:1 more:1
+CVS	20140829	79.1	79.1	r_up	
+CVS	20140902	79.1	79.4	r_up	
+CVS	20140903	79.4	80.0	r_up	ahead:1 twinkies:1 unhealthy:1 chain:1 one:1 booze:1 itself:1 sells:2 still:1 its:2 products:2 things:1 health:1 5:1 ends:1 selling:1 schedule:1 but:1 new:2 month:1 tobacco:2 customer:1 name:4 renames:1 changed:1 sale:1 purge:1 cigarettes:1 stopped:1 corporate:1 comes:1
+CVS	20140904	80.0	80.0	r_up	cancer:1 sales:1 billions:1 cost:1 extinguishes:1 $:1 expected:1 new:1 week:1 patient:1 drugs:2 hefty:1 focus:1 prices:1 class:1 harbinger:1 sheds:1 tobacco:1 average:1 annual:1 sale:1 command:1 promising:1 went:1 first:1
+CVS	20140905	80.0	81.3	r_up	
+CVS	20140908	81.3	81.1	r_down	
+CVS	20140909	81.1	80.5	r_down	customers:1 medications:1 prescription:1 get:1 clinics:1 off:1 soon:1 back:1 unused:1 drugs:1 street:1 take:1 allow:1 such:1 authorities:1 pharmacies:1 effort:1 addictive:1 painkillers:1
+CVS	20140910	80.5	80.6	r_up	
+CVS	20140911	80.6	80.8	r_up	order:1 round:1 applause:1
+CVS	20140912	80.8	80.3	r_down	
+CVS	20140915	80.3	80.9	r_up	
+CVS	20140916	80.9	81.9	r_up	
+CVS	20140917	81.9	81.9	r_up	
+CVS	20140918	81.9	80.9	r_down	articles:1 's:2 look:1 both:1 big:1 implications:1 sides:1 pond:1 investment:1 developments:1
+CVS	20140919	80.9	81.1	r_up	
+CVS	20140922	81.1	80.3	r_down	
+CVS	20140923	80.3	79.7	r_down	agreed:1 competition:1 one:1 consumer-products:1 its:4 market:1 out:1 giant:1 said:1 driving:1 few:1 generic:1 fight:1 rivals:1 won:1 potentially:1 exit:1 remaining:2 division:1 's:2 business:1 acquire:1 care:1 protect:1 completing:1 pet:1 victory:1
+CVS	20140924	79.7	80.5	r_up	
+CVS	20140925	80.5	79.5	r_down	
+CVS	20140926	79.5	80.0	r_up	
+CVS	20140929	80.0	79.7	r_down	
+CVS	20140930	79.7	79.3	r_down	tests:2 groups:1 claiming:1 process:1 companies:1 could:1 sparked:1 some:1 back:1 scrutiny:1 scaling:1 hiring:1 workplace:1 have:1 discrimination:1
+CVS	20141001	79.3	78.8	r_down	
+CVS	20141002	78.8	79.7	r_up	secret:1 sometimes:1 success:1
+CVS	20141003	79.7	81.0	r_up	
+CVS	20141006	81.0	81.0	r_up	
+CVS	20141007	81.0	80.7	r_down	
+CVS	20141008	80.7	82.2	r_up	
+CVS	20141009	82.2	81.6	r_down	end:1 theft:1 shifts:1 whether:1 employees:1 work:1 paid:1 should:1 being:1 they:1 time:1 warehouse:1 spend:1
+CVS	20141010	81.6	82.2	r_up	promises:1 requiring:1 years:1 say:1 tag:1 have:1 carefully:1 $:1 patients:1 hepatitis:1 treading:1 other:1 new:1 price:1 lawyers:1 100,000:1 employers:1 most:1 nearly:1 approval:1 recent:1 received:1 benefits:1 programs:2 wellness:2 medicines:1 drug:2 carries:1 without:1 cure:1 comes:1 executives:1

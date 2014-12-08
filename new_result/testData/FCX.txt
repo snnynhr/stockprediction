@@ -1,307 +1,114 @@
-FCX	20120402	34.82	35.8	r_up	
-FCX	20120403	35.8	35.32	r_down	
-FCX	20120404	35.32	34.81	r_down	
-FCX	20120405	34.81	34.6	r_down	
-FCX	20120409	34.6	34.34	r_down	
-FCX	20120410	34.34	33.53	r_down	
-FCX	20120411	33.53	33.04	r_down	
-FCX	20120412	33.04	34.99	r_up	
-FCX	20120413	34.99	34.11	r_down	commodity:1 lift:1 talk:1 hope:1 shares:1
-FCX	20120416	34.11	34.09	r_down	
-FCX	20120417	34.09	34.87	r_up	
-FCX	20120418	34.87	35.35	r_up	
-FCX	20120419	35.35	35.11	r_down	watch:2
-FCX	20120420	35.11	34.69	r_down	
-FCX	20120423	34.69	34.31	r_down	
-FCX	20120424	34.31	34.15	r_down	
-FCX	20120425	34.15	34.46	r_up	
-FCX	20120426	34.46	34.86	r_up	
-FCX	20120427	34.86	35.21	r_up	
-FCX	20120430	35.21	35.36	r_up	
-FCX	20120501	35.36	35.51	r_up	
-FCX	20120502	35.51	35.2	r_down	
-FCX	20120503	35.2	34.04	r_down	
-FCX	20120504	34.04	33.61	r_down	
-FCX	20120507	33.61	33.61	r_up	
-FCX	20120508	33.61	32.89	r_down	
-FCX	20120509	32.89	32.81	r_down	
-FCX	20120510	32.81	32.6	r_down	
-FCX	20120511	32.6	32.08	r_down	
-FCX	20120514	32.08	31.67	r_down	
-FCX	20120515	31.67	30.15	r_down	
-FCX	20120516	30.15	30.07	r_down	
-FCX	20120517	30.07	29.7	r_down	
-FCX	20120518	29.7	29.37	r_down	
-FCX	20120521	29.37	30.06	r_up	
-FCX	20120522	30.06	29.67	r_down	
-FCX	20120523	29.67	30.22	r_up	
-FCX	20120524	30.22	30.07	r_down	
-FCX	20120525	30.07	29.93	r_down	
-FCX	20120529	29.93	30.68	r_up	
-FCX	20120530	30.68	29.93	r_down	
-FCX	20120531	29.93	29.58	r_down	
-FCX	20120601	29.58	29.61	r_up	
-FCX	20120604	29.61	29.85	r_up	
-FCX	20120605	29.85	30.09	r_up	
-FCX	20120606	30.09	31.08	r_up	
-FCX	20120607	31.08	31.02	r_down	
-FCX	20120608	31.02	31.24	r_up	
-FCX	20120611	31.24	30.42	r_down	
-FCX	20120612	30.42	30.99	r_up	
-FCX	20120613	30.99	30.79	r_down	
-FCX	20120614	30.79	31.3	r_up	
-FCX	20120615	31.3	31.71	r_up	
-FCX	20120618	31.71	31.63	r_down	
-FCX	20120619	31.63	32.73	r_up	
-FCX	20120620	32.73	32.6	r_down	
-FCX	20120621	32.6	30.46	r_down	
-FCX	20120622	30.46	29.82	r_down	
-FCX	20120625	29.82	29.18	r_down	
-FCX	20120626	29.18	29.19	r_up	
-FCX	20120627	29.19	29.68	r_up	150:1 's:1 $:1
-FCX	20120628	29.68	29.79	r_up	150:1 's:1 $:1
-FCX	20120629	29.79	31.46	r_up	
-FCX	20120702	31.46	31.28	r_down	season:1 investors:1 fund:1 stock:1
-FCX	20120703	31.28	32.51	r_up	
-FCX	20120705	32.51	32.75	r_up	
-FCX	20120706	32.75	32.33	r_down	
-FCX	20120709	32.33	31.88	r_down	
-FCX	20120710	31.88	30.55	r_down	
-FCX	20120711	30.55	30.16	r_down	stocks:1 wary:1
-FCX	20120712	30.16	30.16	r_up	
-FCX	20120713	30.16	30.98	r_up	
-FCX	20120716	30.98	30.55	r_down	
-FCX	20120717	30.55	30.67	r_up	
-FCX	20120718	30.67	30.78	r_up	
-FCX	20120719	30.78	32.09	r_up	48:2
-FCX	20120720	32.09	31.48	r_down	surprises:1 advisories:1
-FCX	20120723	31.48	30.41	r_down	
-FCX	20120724	30.41	29.53	r_down	
-FCX	20120725	29.53	29.3	r_down	
-FCX	20120726	29.3	30.12	r_up	
-FCX	20120727	30.12	31.2	r_up	
-FCX	20120730	31.2	31.68	r_up	
-FCX	20120731	31.68	31.39	r_down	
-FCX	20120801	31.39	31.22	r_down	
-FCX	20120802	31.22	30.47	r_down	
-FCX	20120803	30.47	31.23	r_up	
-FCX	20120806	31.23	32.01	r_up	
-FCX	20120807	32.01	32.88	r_up	
-FCX	20120808	32.88	33.2	r_up	
-FCX	20120809	33.2	33.56	r_up	
-FCX	20120810	33.56	33.85	r_up	
-FCX	20120813	33.85	33.07	r_down	
-FCX	20120814	33.07	32.64	r_down	
-FCX	20120815	32.64	32.4	r_down	
-FCX	20120816	32.4	32.91	r_up	
-FCX	20120817	32.91	32.94	r_up	
-FCX	20120820	32.94	32.96	r_up	
-FCX	20120821	32.96	34.01	r_up	
-FCX	20120822	34.01	34.49	r_up	
-FCX	20120823	34.49	34.28	r_down	
-FCX	20120824	34.28	33.68	r_down	2:1 but:1
-FCX	20120827	33.68	33.23	r_down	
-FCX	20120828	33.23	33.25	r_up	
-FCX	20120829	33.25	33.17	r_down	
-FCX	20120830	33.17	32.34	r_down	
-FCX	20120831	32.34	33.66	r_up	
-FCX	20120904	33.66	33.2	r_down	
-FCX	20120905	33.2	32.86	r_down	
-FCX	20120906	32.86	33.87	r_up	
-FCX	20120907	33.87	36.76	r_up	shine:1 mining:1 after:1 2:1 rallies:1 report:1 rally:1 payrolls:1 than:1 more:1
-FCX	20120910	36.76	37.02	r_up	
-FCX	20120911	37.02	37.22	r_up	
-FCX	20120912	37.22	37.38	r_up	
-FCX	20120913	37.38	38.96	r_up	
-FCX	20120914	38.96	39.75	r_up	
-FCX	20120917	39.75	38.6	r_down	
-FCX	20120918	38.6	38.67	r_up	
-FCX	20120919	38.67	38.72	r_up	
-FCX	20120920	38.72	38.15	r_down	
-FCX	20120921	38.15	37.89	r_down	
-FCX	20120924	37.89	37.55	r_down	
-FCX	20120925	37.55	36.64	r_down	longer-term:1 backdrop:1 market:1
-FCX	20120926	36.64	36.62	r_down	
-FCX	20120927	36.62	37.39	r_up	futures:1 woes:1 tumble:1
-FCX	20120928	37.39	36.89	r_down	
-FCX	20121001	36.89	37.15	r_up	
-FCX	20121002	37.15	36.99	r_down	
-FCX	20121003	36.99	36.74	r_down	
-FCX	20121004	36.74	37.71	r_up	
-FCX	20121005	37.71	37.76	r_up	
-FCX	20121008	37.76	37.99	r_up	
-FCX	20121009	37.99	37.91	r_down	
-FCX	20121010	37.91	37.49	r_down	
-FCX	20121011	37.49	38.28	r_up	
-FCX	20121012	38.28	37.71	r_down	
-FCX	20121015	37.71	37.85	r_up	
-FCX	20121016	37.85	38.96	r_up	
-FCX	20121017	38.96	39.75	r_up	
-FCX	20121018	39.75	39.86	r_up	
-FCX	20121019	39.86	38.69	r_down	
-FCX	20121022	38.69	38.12	r_down	's:4 22:4 surprises:1 watch:1 advisories:1 earnings:1
-FCX	20121023	38.12	36.62	r_down	
-FCX	20121024	36.62	36.44	r_down	
-FCX	20121025	36.44	36.82	r_up	
-FCX	20121026	36.82	36.71	r_down	
-FCX	20121031	36.71	36.53	r_down	
-FCX	20121101	36.53	38.05	r_up	
-FCX	20121102	38.05	36.88	r_down	
-FCX	20121105	36.88	37.07	r_up	
-FCX	20121106	37.07	37.91	r_up	
-FCX	20121107	37.91	36.91	r_down	's:1
-FCX	20121108	36.91	36.33	r_down	
-FCX	20121109	36.33	36.03	r_down	
-FCX	20121112	36.03	36.3	r_up	
-FCX	20121113	36.3	36.05	r_down	
-FCX	20121114	36.05	35.15	r_down	
-FCX	20121115	35.15	35.02	r_down	
-FCX	20121116	35.02	34.56	r_down	
-FCX	20121119	34.56	35.96	r_up	
-FCX	20121120	35.96	35.94	r_down	
-FCX	20121121	35.94	35.95	r_up	
-FCX	20121123	35.95	36.53	r_up	
-FCX	20121126	36.53	36.49	r_down	
-FCX	20121127	36.49	36.16	r_down	
-FCX	20121128	36.16	36.23	r_up	
-FCX	20121129	36.23	36.88	r_up	
-FCX	20121130	36.88	36.65	r_down	
-FCX	20121203	36.65	36.08	r_down	
-FCX	20121204	36.08	35.96	r_down	
-FCX	20121205	35.96	30.21	r_down	sector:1 giant:1 death:1 play:1 movers:1 big:1 energy:2 cross:1 up:1 deals:1 looms:1 makes:1 boost:1
-FCX	20121206	30.21	28.95	r_down	weighs:1 embraces:1 's:1 but:1 n't:1 gain:1 stocks:1
-FCX	20121207	28.95	29.78	r_up	biggest:1 movers:1 jumps:1 10:1
-FCX	20121210	29.78	30.1	r_up	10:1 2013:1
-FCX	20121211	30.1	30.05	r_down	
-FCX	20121212	30.05	30.55	r_up	20:1 's:1 $:1
-FCX	20121213	30.55	30.51	r_down	
-FCX	20121214	30.51	31.74	r_up	
-FCX	20121217	31.74	31.6	r_down	now:1 money:1 true-blue:1 5:1 bull:1 making:1 moves:1
-FCX	20121218	31.6	31.93	r_up	
-FCX	20121219	31.93	31.9	r_down	
-FCX	20121220	31.9	31.92	r_up	
-FCX	20121221	31.92	31.55	r_down	
-FCX	20121224	31.55	31.47	r_down	
-FCX	20121226	31.47	31.87	r_up	
-FCX	20121227	31.87	31.64	r_down	lower:1 stocks:1 gas:1 finds:1 sites:1
-FCX	20121228	31.64	31.13	r_down	
-FCX	20121231	31.13	32.13	r_up	
-FCX	20130102	32.13	33.04	r_up	've:1
-FCX	20130103	33.04	32.74	r_down	
-FCX	20130104	32.74	33.34	r_up	
-FCX	20130107	33.34	33.22	r_down	
-FCX	20130108	33.22	32.85	r_down	
-FCX	20130109	32.85	33.09	r_up	
-FCX	20130110	33.09	33.45	r_up	
-FCX	20130111	33.45	33.17	r_down	
-FCX	20130114	33.17	32.91	r_down	
-FCX	20130115	32.91	32.8	r_down	n't:1 's:1
-FCX	20130116	32.8	32.46	r_down	
-FCX	20130117	32.46	32.3	r_down	
-FCX	20130118	32.3	31.88	r_down	
-FCX	20130122	31.88	33.35	r_up	16:1
-FCX	20130123	33.35	33.19	r_down	
-FCX	20130124	33.19	32.84	r_down	
-FCX	20130125	32.84	33.05	r_up	
-FCX	20130128	33.05	32.77	r_down	
-FCX	20130129	32.77	33.18	r_up	
-FCX	20130130	33.18	33.32	r_up	
-FCX	20130131	33.32	33.41	r_up	
-FCX	20130201	33.41	33.87	r_up	
-FCX	20130204	33.87	33.5	r_down	
-FCX	20130205	33.5	33.84	r_up	
-FCX	20130206	33.84	34.21	r_up	
-FCX	20130207	34.21	33.83	r_down	
-FCX	20130208	33.83	33.78	r_down	
-FCX	20130211	33.78	33.49	r_down	
-FCX	20130212	33.49	33.81	r_up	38:1 $:1
-FCX	20130213	33.81	33.78	r_down	
-FCX	20130214	33.78	33.68	r_down	
-FCX	20130215	33.68	33.21	r_down	
-FCX	20130219	33.21	32.47	r_down	
-FCX	20130220	32.47	30.54	r_down	
-FCX	20130221	30.54	30.65	r_up	movers:1 after:1 call:1 slumps:1
-FCX	20130222	30.65	30.76	r_up	
-FCX	20130225	30.76	29.87	r_down	
-FCX	20130226	29.87	30.26	r_up	
-FCX	20130227	30.26	30.59	r_up	
-FCX	20130228	30.59	30.25	r_down	
-FCX	20130301	30.25	29.85	r_down	
-FCX	20130304	29.85	29.76	r_down	
-FCX	20130305	29.76	29.89	r_up	
-FCX	20130306	29.89	31.13	r_up	movers:1 leads:1 gainers:1
-FCX	20130307	31.13	31.35	r_up	
-FCX	20130308	31.35	31.54	r_up	
-FCX	20130311	31.54	31.56	r_up	
-FCX	20130312	31.56	31.69	r_up	
-FCX	20130313	31.69	31.35	r_down	
-FCX	20130314	31.35	31.43	r_up	
-FCX	20130315	31.43	32.04	r_up	
-FCX	20130318	32.04	31.78	r_down	
-FCX	20130319	31.78	31.26	r_down	
-FCX	20130320	31.26	31.51	r_up	
-FCX	20130321	31.51	31.27	r_down	
-FCX	20130322	31.27	31.28	r_up	
-FCX	20130325	31.28	30.89	r_down	
-FCX	20130326	30.89	31.09	r_up	
-FCX	20130327	31.09	31.62	r_up	time:1 place:1 look:1 miners:1 bottom:1
-FCX	20130328	31.62	31.37	r_down	
-FCX	20130401	31.37	30.69	r_down	
-FCX	20130402	30.69	30.25	r_down	
-FCX	20130403	30.25	29.9	r_down	
-FCX	20130404	29.9	30.05	r_up	
-FCX	20130405	30.05	30.42	r_up	
-FCX	20130408	30.42	30.73	r_up	
-FCX	20130409	30.73	32.0	r_up	
-FCX	20130410	32.0	31.93	r_down	
-FCX	20130411	31.93	31.37	r_down	
-FCX	20130412	31.37	30.54	r_down	
-FCX	20130415	30.54	28.0	r_down	plunge:1 movers:1 after:1 hours:1 slide:1 extends:1
-FCX	20130416	28.0	27.98	r_down	suffers:1 's:2 since:1 one-day:1 months:1 1980s:1 most:1 5:1 lose:1 biggest:1 drop:1 stocks:1
-FCX	20130417	27.98	26.79	r_down	
-FCX	20130418	26.79	26.84	r_up	watch:1 15:1
-FCX	20130419	26.84	27.02	r_up	
-FCX	20130422	27.02	27.32	r_up	
-FCX	20130423	27.32	27.28	r_down	
-FCX	20130424	27.28	28.49	r_up	
-FCX	20130425	28.49	28.57	r_up	
-FCX	20130426	28.57	28.15	r_down	
-FCX	20130429	28.15	28.61	r_up	
-FCX	20130430	28.61	29.11	r_up	
-FCX	20130501	29.11	29.05	r_down	
-FCX	20130502	29.05	29.03	r_down	n't:1 's:1
-FCX	20130503	29.03	29.78	r_up	
-FCX	20130506	29.78	30.07	r_up	
-FCX	20130507	30.07	30.18	r_up	
-FCX	20130508	30.18	30.99	r_up	
-FCX	20130509	30.99	31.21	r_up	's:2
-FCX	20130510	31.21	31.14	r_down	
-FCX	20130513	31.14	30.58	r_down	
-FCX	20130514	30.58	30.2	r_down	
-FCX	20130515	30.2	30.38	r_up	
-FCX	20130516	30.38	30.65	r_up	
-FCX	20130517	30.65	31.26	r_up	0.9:1
-FCX	20130520	31.26	31.46	r_up	
-FCX	20130521	31.46	30.6	r_down	
-FCX	20130522	30.6	30.29	r_down	
-FCX	20130523	30.29	29.59	r_down	
-FCX	20130524	29.59	29.08	r_down	
-FCX	20130528	29.08	29.55	r_up	
-FCX	20130529	29.55	29.71	r_up	
-FCX	20130530	29.71	30.47	r_up	
-FCX	20130531	30.47	29.71	r_down	3.2:1
-FCX	20130603	29.71	30.11	r_up	
-FCX	20130604	30.11	29.51	r_down	1.2:1
-FCX	20130605	29.51	29.01	r_down	investors:1 show:1 caution:1 gain:1 cuts:1 close:1
-FCX	20130606	29.01	29.69	r_up	's:1
-FCX	20130607	29.69	29.58	r_down	
-FCX	20130610	29.58	29.54	r_down	
-FCX	20130611	29.54	29.01	r_down	
-FCX	20130612	29.01	29.59	r_up	
-FCX	20130613	29.59	29.71	r_up	
-FCX	20130614	29.71	29.57	r_down	off:1
-FCX	20130617	29.57	29.66	r_up	
-FCX	20130618	29.66	29.52	r_down	
-FCX	20130619	29.52	29.19	r_down	1.3:1
-FCX	20130620	29.19	27.72	r_down	
-FCX	20130621	27.72	28.16	r_up	
+FCX	20140501	33.7	33.5	r_down	
+FCX	20140502	33.5	34.0	r_up	
+FCX	20140505	34.0	33.4	r_down	
+FCX	20140506	33.4	33.2	r_down	
+FCX	20140507	33.2	33.3	r_up	session:1 's:1 companies:1 shares:1 trade:1 actively:1 expected:1
+FCX	20140508	33.3	33.2	r_down	sell:1 interests:1 1.4:1 said:1 's:1 $:2 agreed:1 billion:2 acres:1 reported:1 fell:1 development:1 earnings:1 66:1 3.1:1 buy:1 has:1 its:2 projects:1
+FCX	20140509	33.2	33.3	r_up	
+FCX	20140512	33.3	34.2	r_up	
+FCX	20140513	34.2	34.9	r_up	said:1 first-quarter:1 ahead:1 profit:1 gas:1 company:1 well:1 expectations:1 surge:1 helped:1 liquids:1 volumes:1 prices:1 swung:1 analyst:1 higher:1
+FCX	20140514	34.9	34.8	r_down	
+FCX	20140515	34.8	34.5	r_down	
+FCX	20140516	34.5	34.3	r_down	
+FCX	20140519	34.3	34.4	r_up	
+FCX	20140520	34.4	33.8	r_down	
+FCX	20140521	33.8	33.6	r_down	copper:3 secure:1 gold:1 heavily:1 site:1 one:1 adding:1 giant:1 top:1 since:1 mines:1 dug:1 access:1 has:2 's:2 miners:2 mine:1 water:1 pressure:1 invested:1 prices:1 world:1 amid:1 shrunk:1 slide:1 were:1 first:1
+FCX	20140522	33.6	33.6	r_up	
+FCX	20140523	33.6	33.8	r_up	
+FCX	20140527	33.8	33.3	r_down	
+FCX	20140528	33.3	33.2	r_down	
+FCX	20140529	33.2	33.6	r_up	
+FCX	20140530	33.6	33.4	r_down	
+FCX	20140602	33.4	33.5	r_up	
+FCX	20140603	33.5	33.4	r_down	forced:1 said:1 's:2 secure:1 --:1 mine:1 production:1 export:1 permit:1 has:1 unit:1 halt:1
+FCX	20140604	33.4	33.8	r_up	
+FCX	20140605	33.8	34.1	r_up	declared:2 force:2 over:2 move:2 back:2 majeure:2 2nd:1 export:2 out:2 unusual:1 raise:2 tensions:2 penalty:2 dispute:1 contracts:2 company:2 nation:1 surprising:1 --:2 amid:1 could:2 allows:2 taxes:2 without:2 country:1
+FCX	20140606	34.1	34.3	r_up	saying:1 declared:1 force:1 producer:1 copper:1 over:1 majeure:1 unit:1 slowly:1 too:1 new:1 local:1 faulted:1 mining:1 's:2 government:1 after:1 regulations:1 moving:1 minister:1 comply:1 impasse:1
+FCX	20140609	34.3	34.0	r_down	
+FCX	20140610	34.0	33.7	r_down	phase:1 time:1 right:1 its:1 exiting:1
+FCX	20140611	33.7	33.4	r_down	
+FCX	20140612	33.4	33.0	r_down	
+FCX	20140613	33.0	33.3	r_up	
+FCX	20140616	33.3	33.3	r_up	
+FCX	20140617	33.3	33.4	r_up	
+FCX	20140618	33.4	34.1	r_up	
+FCX	20140619	34.1	33.9	r_down	
+FCX	20140620	33.9	34.2	r_up	
+FCX	20140623	34.2	35.3	r_up	
+FCX	20140624	35.3	35.0	r_down	cyclical:1 's:2 calls:1 discretionary:1 recommended:1 risks:1 stocks:1 consumer:1 temper:1 bank:1 can:1
+FCX	20140625	35.0	35.1	r_up	offer:1 flow:1 cash:1 free:1 consistency:1 strong:1
+FCX	20140626	35.1	35.0	r_down	
+FCX	20140627	35.0	35.4	r_up	beaten:1 advisers:1 over:1 newsletters:1 riches:1 three:1 long:1 haul:1 writes:1 roads:1 has:1 investment:1 market:1
+FCX	20140630	35.4	35.8	r_up	
+FCX	20140701	35.8	36.1	r_up	operations:1 declared:1 force:1 mine:1 majeure:1 month:1 '':1 interim:1 export:1 taxes:1 its:2 arbitration:1 buyers:1 said:2 seeking:1 statement:1 resume:1 international:1 banned:1 ``:1 government:1 company:1 after:2 nation:1 halted:1 filed:1 not:1 ore:1 case:1 last:1 mineral:1 exports:2 --:1 could:1 against:1 relief:1 ban:1 meet:1 filing:2 came:1
+FCX	20140702	36.1	37.1	r_up	
+FCX	20140703	37.1	37.8	r_up	
+FCX	20140707	37.8	37.9	r_up	says:1 gold:1 forecaster:1 agreed:1 officials:1 export:1 have:1 year:1 unit:1 even:1 decline:1 giant:1 said:1 $:1 writes:1 it’s:1 only:1 way:1 new:1 might:1 worth:1 more:1 mining:2 terms:1 government:1 may:1 big:1 but:1 paving:1 fall:1 license:1 --:1 local:1 up:1 contract:1 predicted:1 800:1 issuance:1
+FCX	20140708	37.9	38.0	r_up	
+FCX	20140709	38.0	38.3	r_up	outperforming:1 such:1 market:1
+FCX	20140710	38.3	38.1	r_down	
+FCX	20140711	38.1	38.3	r_up	ahead:1 gold-mining:1 gains:1 gold:1 outperformance:1 some:1 over:1 miner:1 metal:1 but:1 points:1 big:1 don’t:1 year:1 rally:2 stocks:1 price:1 expect:1
+FCX	20140714	38.3	38.3	r_up	
+FCX	20140715	38.3	37.9	r_down	
+FCX	20140716	37.9	38.4	r_up	
+FCX	20140717	38.4	38.1	r_down	
+FCX	20140718	38.1	37.9	r_down	
+FCX	20140721	37.9	38.2	r_up	
+FCX	20140722	38.2	38.3	r_up	25:1 stake:1 's:1 $:1 deal:1 copper:1 familiar:1 acquire:1 people:1 nearing:1 mine:1 120:1 matter:1 according:1 million:1
+FCX	20140723	38.3	38.1	r_down	copper:1 quietly:1 old:1 years:1 dot-com:1 have:1 year:1 craze:1 bunch:1 profit:1 production:1 stagnant:1 market:1 higher:1 flat:1 but:1 despite:1 prices:1 during:1 stocks:1 second-quarter:1 posted:1 ago:1 15:1 stodgy:1 up:1 tech:1 were:1 popular:1 paced:1
+FCX	20140724	38.1	37.1	r_down	
+FCX	20140725	37.1	37.6	r_up	agreed:1 commitment:1 115:1 officials:1 signed:1 its:1 said:2 $:1 smelter:1 pay:1 build:1 expected:1 new:2 assurance:1 supporting:1 terms:1 government:1 million:1 ore:1 approved:1 --:1 according:1 contract:1 bond:1
+FCX	20140728	37.6	37.6	r_up	
+FCX	20140729	37.6	37.5	r_down	1.5:1 pound:1 slipped:1 copper:2 cents:1 global:1 0.5:1 one:1 down:1 raw:1 likely:1 export:1 year:1 recently:1 smelters:1 saw:1 said:1 end:1 investors:1 resume:1 had:1 deal:1 which:1 biggest:1 supplies:1 main:1 boost:1 shipments:1 division:1 exports:1 earlier:1 's:3 government:1 tax:1 material:1 delivery:1 concentrate:1 stalemate:1 prices:1 world:1 $:1 producers:1 lower:1 metal:1 contract:1 six-month:1 traded:1
+FCX	20140730	37.5	37.5	r_up	
+FCX	20140731	37.5	36.8	r_down	
+FCX	20140801	36.8	36.4	r_down	
+FCX	20140804	36.4	36.8	r_up	copper:1 exports:1 last:1 stalemate:1 start:1 --:1 six-month:1 government:1 after:2 agreement:1 resume:1 month:1 late:1 may:1 concentrate:1 exporting:1 reached:1
+FCX	20140805	36.8	36.5	r_down	just:1 over:1 executive:1 years:2 zinc:1 its:3 before:1 25:2 20:2 rose:2 expectations:1 late:2 stalemate:1 2017:1 has:1 local:2 agreed:1 earnings:1 exports:3 return:1 halt:1 government:2 couple:1 rise:1 overall:1 five:2 report:1 now:1 continued:1 down:2 --:4 suppliers:1 taxes:1 six-month:2 ban:4 quarter:2 elected:1 export:4 investment:2 said:2 shares:1 looking:1 shipment:1 exporting:2 newly:1 business:1 resume:2 weak:1 agreement:1 concentrate:1 ore:3 between:1 resumed:1 last:3 could:1 analysts:1 pick:1 climb:1 copper:2 economists:1 60:1 reached:1 unit:1 takes:1 smelter:1 there:1 selloff:1 start:1 ton:1 stock:1 basic:1 duties:1 month:1 company:1 but:1 grew:2 performers:1 challenge:2 up:1 pace:1 iron:1 were:2 market-wide:1 clip:1 classic:1 almost:1 metric:1 sales:1 slowing:2 weighed:2 10,000:1 say:1 posing:2 pay:1 inaugural:1 topped:1 boom:1 economy:3 week:2 begin:1 's:6 may:1 after:5 president:1 building:1 lower:1 chief:1 materials:1 weakest:2 having:1 latest:2
+FCX	20140806	36.5	36.3	r_down	lowest:1 growth:1 pressured:1 level:1 concerns:1 dollar:1 stronger:1 consumer:1 metal:1 their:1 fell:1 five:1 largest:1 prices:1 world:1 weeks:1 's:1 than:1 more:1
+FCX	20140807	36.3	35.7	r_down	
+FCX	20140808	35.7	36.1	r_up	
+FCX	20140811	36.1	36.5	r_up	
+FCX	20140812	36.5	36.5	r_up	
+FCX	20140813	36.5	36.0	r_down	
+FCX	20140814	36.0	35.6	r_down	
+FCX	20140815	35.6	35.7	r_up	
+FCX	20140818	35.7	36.0	r_up	
+FCX	20140819	36.0	35.9	r_down	
+FCX	20140820	35.9	36.6	r_up	
+FCX	20140821	36.6	36.3	r_down	
+FCX	20140822	36.3	36.0	r_down	
+FCX	20140825	36.0	36.1	r_up	
+FCX	20140826	36.1	36.0	r_down	shareholders:1 's:1 less:1 big:1 clear:1 miner:1 paid:1 conservative:1 n't:1 favor:1 which:1 dividends:1 found:1 appeal:1 its:1 out:1
+FCX	20140827	36.0	36.0	r_up	
+FCX	20140828	36.0	35.8	r_down	
+FCX	20140829	35.8	36.0	r_up	copper:3 producer:1 transit:1 tax:1 mine:2 have:1 continent:1 blocked:1 clarification:1 top:1 snag:1 2:1 outbreak:1 seeks:1 exports:1 's:2 after:1 authorities:1 $:1 billion:1 hits:1 sale:2 taxes:1
+FCX	20140902	36.0	35.1	r_down	week:1 copper:1 said:1 deal:1 resume:1 government:1 early:1 concentrate:1 exporting:1 has:1
+FCX	20140903	35.1	34.9	r_down	
+FCX	20140904	34.9	34.8	r_down	
+FCX	20140905	34.8	34.6	r_down	
+FCX	20140908	34.6	34.5	r_down	
+FCX	20140909	34.5	34.0	r_down	billion:1 entire:1 said:1 $:1 offering:1 contracts:1 stake:1 dollar:1 via:1 shares:1 foreign:1 2.6:2 future:1 selling:1 deter:1 its:1 investment:1 secondary:1
+FCX	20140910	34.0	34.2	r_up	
+FCX	20140911	34.2	34.2	r_up	
+FCX	20140912	34.2	33.9	r_down	
+FCX	20140915	33.9	33.9	r_up	operations:1 development:1 suspended:1 ``:1 one:1 '':1 have:1 affected:1 still:1 mining:2 unit:2 spokeswoman:1 giant:1 said:2 government:1 been:1 which:1 underground:1 has:1 local:1 told:1 province:1 activities:1 life:1 's:2 eastern:1 company:1 took:1 mine:1 running:1 along:1 recent:1 produced:1 accident:1 developing:1 --:1 work:1 incident:2 n't:2 investigate:1 place:1 team:1 normally:1
+FCX	20140916	33.9	34.5	r_up	
+FCX	20140917	34.5	34.1	r_down	
+FCX	20140918	34.1	33.9	r_down	
+FCX	20140919	33.9	33.7	r_down	
+FCX	20140922	33.7	32.8	r_down	
+FCX	20140923	32.8	32.6	r_down	
+FCX	20140924	32.6	32.9	r_up	
+FCX	20140925	32.9	32.3	r_down	
+FCX	20140926	32.3	32.5	r_up	
+FCX	20140929	32.5	32.0	r_down	session:1 's:1 companies:1 shares:1 trade:1 actively:1 expected:1
+FCX	20140930	32.0	32.3	r_up	
+FCX	20141001	32.3	31.5	r_down	
+FCX	20141002	31.5	31.7	r_up	
+FCX	20141003	31.7	32.0	r_up	
+FCX	20141006	32.0	32.1	r_up	billion:1 copper:1 stake:1 $:1 agreed:1 acquire:1 1.8:1 mine:1 controlling:1
+FCX	20141007	32.1	31.2	r_down	session:1 we:1 's:1 watching:1 some:1 companies:1 shares:1 trade:1 actively:1 expected:1 stocks:1 're:1 more:1
+FCX	20141008	31.2	31.9	r_up	
+FCX	20141009	31.9	30.8	r_down	saying:1 over:1 expects:1 years:1 year:1 planting:1 farmers:1 spending:1 forecast:1 their:1 supplies:1 tighten:1 farm:1 coming:1 prices:1 change:1 fiscal:1 lower-than-expected:1 amid:1 grain:1 profits:1 weakest:1
+FCX	20141010	30.8	30.6	r_down	

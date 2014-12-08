@@ -1,8 +1,8 @@
 import codecs
 import os
 
-inputDir = "../new_result/trainData_sage"
-outputFile = "../new_result/train.txt"
+inputDir = "../new_result/trainData1_sage"
+outputFile = "../new_result/train1.txt"
 out = codecs.open(outputFile, 'w', 'utf-8')
 for Xfname in os.listdir(inputDir):
 	if Xfname.endswith('.txt'):

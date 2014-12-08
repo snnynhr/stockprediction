@@ -1,307 +1,114 @@
-EA	20120402	16.49	16.71	r_up	
-EA	20120403	16.71	16.65	r_down	
-EA	20120404	16.65	16.26	r_down	
-EA	20120405	16.26	16.27	r_up	
-EA	20120409	16.27	15.9	r_down	
-EA	20120410	15.9	15.55	r_down	
-EA	20120411	15.55	15.89	r_up	
-EA	20120412	15.89	16.52	r_up	
-EA	20120413	16.52	16.18	r_down	
-EA	20120416	16.18	15.21	r_down	clips:1 blue-chip:1 stocks:1 rise:1
-EA	20120417	15.21	15.28	r_up	
-EA	20120418	15.28	15.07	r_down	
-EA	20120419	15.07	14.76	r_down	's:1
-EA	20120420	14.76	14.93	r_up	
-EA	20120423	14.93	14.87	r_down	
-EA	20120424	14.87	14.88	r_up	
-EA	20120425	14.88	15.01	r_up	marketing:1 muscles:1 flexes:1 draft:1 its:1
-EA	20120426	15.01	15.93	r_up	
-EA	20120427	15.93	15.32	r_down	
-EA	20120430	15.32	15.38	r_up	
-EA	20120501	15.38	15.54	r_up	
-EA	20120502	15.54	15.87	r_up	
-EA	20120503	15.87	15.67	r_down	
-EA	20120504	15.67	15.12	r_down	
-EA	20120507	15.12	15.13	r_up	hours:1 uncertainty:1 after:1 watch:1 falls:1 slides:1 outlooks:1 election:1 falter:1 soft:1 view:1
-EA	20120508	15.13	14.48	r_down	pare:1 futures:1 end:1 sinks:1 sales:1 fears:1 losses:1 weaker:1 lower:1 but:1 forecast:1 watch:2 beat:1 concerns:1 hit:1 targets:1 worry:1 takes:1
-EA	20120509	14.48	14.12	r_down	gaining:1 losses:1 tech:1 biggest:1 highlight:1 stocks:1 declining:1
-EA	20120510	14.12	14.71	r_up	publishers:1 falling:1 hit:1 sales:1
-EA	20120511	14.71	14.57	r_down	
-EA	20120514	14.57	14.38	r_down	
-EA	20120515	14.38	14.31	r_down	
-EA	20120516	14.31	14.41	r_up	
-EA	20120517	14.41	14.24	r_down	further:1 sees:1 ahead:1 slowdown:1
-EA	20120518	14.24	14.1	r_down	
-EA	20120521	14.1	14.38	r_up	
-EA	20120522	14.38	14.26	r_down	's:1
-EA	20120523	14.26	14.69	r_up	
-EA	20120524	14.69	14.22	r_down	
-EA	20120525	14.22	14.22	r_up	
-EA	20120529	14.22	14.38	r_up	
-EA	20120530	14.38	14.15	r_down	
-EA	20120531	14.15	13.62	r_down	
-EA	20120601	13.62	13.12	r_down	
-EA	20120604	13.12	13.07	r_down	
-EA	20120605	13.07	13.14	r_up	action:1 tech:1 slump:1
-EA	20120606	13.14	13.71	r_up	
-EA	20120607	13.71	13.42	r_down	's:1
-EA	20120608	13.42	13.47	r_up	
-EA	20120611	13.47	12.82	r_down	
-EA	20120612	12.82	12.79	r_down	
-EA	20120613	12.79	12.29	r_down	trend:1 falls:1
-EA	20120614	12.29	12.32	r_up	28:1
-EA	20120615	12.32	12.44	r_up	
-EA	20120618	12.44	12.43	r_down	
-EA	20120619	12.43	12.67	r_up	
-EA	20120620	12.67	12.66	r_down	
-EA	20120621	12.66	12.0	r_down	
-EA	20120622	12.0	12.26	r_up	
-EA	20120625	12.26	12.12	r_down	outlook:1 games:1 cloudy:1
-EA	20120626	12.12	11.97	r_down	
-EA	20120627	11.97	12.11	r_up	's:1
-EA	20120628	12.11	11.89	r_down	
-EA	20120629	11.89	12.35	r_up	
-EA	20120702	12.35	12.28	r_down	
-EA	20120703	12.28	12.59	r_up	
-EA	20120705	12.59	12.39	r_down	
-EA	20120706	12.39	12.02	r_down	
-EA	20120709	12.02	11.94	r_down	
-EA	20120710	11.94	11.59	r_down	
-EA	20120711	11.59	11.68	r_up	
-EA	20120712	11.68	11.59	r_down	
-EA	20120713	11.59	11.71	r_up	--:1 29:1
-EA	20120716	11.71	11.53	r_down	
-EA	20120717	11.53	11.36	r_down	
-EA	20120718	11.36	11.5	r_up	
-EA	20120719	11.5	12.27	r_up	
-EA	20120720	12.27	11.98	r_down	's:1
-EA	20120723	11.98	11.82	r_down	
-EA	20120724	11.82	11.54	r_down	
-EA	20120725	11.54	11.51	r_down	
-EA	20120726	11.51	10.95	r_down	
-EA	20120727	10.95	11.41	r_up	
-EA	20120730	11.41	11.23	r_down	
-EA	20120731	11.23	11.02	r_down	's:1
-EA	20120801	11.02	11.68	r_up	9:1 falls:1 show:1 season:1 after-hours:1 weak:1 days:1 shares:1 dog:1 watch:1 record:1 lows:1 fall:1 videogames:1 rises:1 action:1
-EA	20120802	11.68	11.37	r_down	games:1 sour:1 video:1
-EA	20120803	11.37	11.97	r_up	
-EA	20120806	11.97	12.2	r_up	
-EA	20120807	12.2	12.79	r_up	over:1 could:1 tell:1 game:1 copycats:1 battle:1 you:1 won’t:1 mean:1
-EA	20120808	12.79	12.94	r_up	after:1 loses:1 challenges:1 shake-up:1 fall:1 deepen:1 guy:1 now:1 margins:1
-EA	20120809	12.94	13.12	r_up	rides:1 model:1 strong:1 20:1 gains:1
-EA	20120810	13.12	13.08	r_down	gains:1 lead:1 slump:1 day:1 tech:1 way:1 upbeat:1 stocks:1 seek:1 makers:1 out:1
-EA	20120813	13.08	12.87	r_down	
-EA	20120814	12.87	12.71	r_down	
-EA	20120815	12.71	13.09	r_up	
-EA	20120816	13.09	13.81	r_up	may:1 free:1 charge:1 future:1 tech:1 close:1 stocks:1 higher:1
-EA	20120817	13.81	13.77	r_down	slips:1 gaining:1 star:1 gains:1 techs:1 but:1 baseball:1 lift:1 games:1 biggest:1 's:3 stocks:1 killed:1 declining:1
-EA	20120820	13.77	13.56	r_down	
-EA	20120821	13.56	13.56	r_up	
-EA	20120822	13.56	13.44	r_down	
-EA	20120823	13.44	13.25	r_down	
-EA	20120824	13.25	13.33	r_up	
-EA	20120827	13.33	12.93	r_down	
-EA	20120828	12.93	12.83	r_down	
-EA	20120829	12.83	12.85	r_up	
-EA	20120830	12.85	13.0	r_up	13:1
-EA	20120831	13.0	13.33	r_up	
-EA	20120904	13.33	13.03	r_down	
-EA	20120905	13.03	13.14	r_up	
-EA	20120906	13.14	13.63	r_up	ready:1 lights:1 13:1 turned:1 off:1
-EA	20120907	13.63	14.04	r_up	
-EA	20120910	14.04	13.84	r_down	
-EA	20120911	13.84	13.81	r_down	hours:1 drop:1 shares:1 after:1
-EA	20120912	13.81	13.99	r_up	
-EA	20120913	13.99	14.24	r_up	date:1 price:1 console:1 sets:1
-EA	20120914	14.24	14.5	r_up	lower:1 console:1 gains:1 after:1 shares:1 hours:1 5:1 hold:1 gambles:1
-EA	20120917	14.5	14.21	r_down	5:1 up:1 slumps:1 orders:1
-EA	20120918	14.21	14.0	r_down	bad:1 blood:1 grows:1
-EA	20120919	14.0	13.93	r_down	
-EA	20120920	13.93	13.48	r_down	
-EA	20120921	13.48	13.24	r_down	
-EA	20120924	13.24	13.31	r_up	
-EA	20120925	13.31	12.68	r_down	
-EA	20120926	12.68	12.6	r_down	
-EA	20120927	12.6	12.78	r_up	
-EA	20120928	12.78	12.69	r_down	
-EA	20121001	12.69	12.35	r_down	
-EA	20121002	12.35	12.65	r_up	
-EA	20121003	12.65	12.85	r_up	
-EA	20121004	12.85	13.03	r_up	stocks:1 chip:1 rise:1 crumble:1 without:1 fall:1 falling:1 still:1 guy:1
-EA	20121005	13.03	12.95	r_down	
-EA	20121008	12.95	12.98	r_up	
-EA	20121009	12.98	13.01	r_up	profit:1 outlooks:1 quarter:1 scariest:1 7:1
-EA	20121010	13.01	12.89	r_down	
-EA	20121011	12.89	13.05	r_up	
-EA	20121012	13.05	13.41	r_up	may:1 holidays:1 slump:1 stay:1
-EA	20121015	13.41	13.69	r_up	
-EA	20121016	13.69	13.98	r_up	
-EA	20121017	13.98	13.87	r_down	if:1
-EA	20121018	13.87	13.83	r_down	if:1
-EA	20121019	13.83	13.08	r_down	
-EA	20121022	13.08	13.05	r_down	
-EA	20121023	13.05	12.77	r_down	
-EA	20121024	12.77	12.42	r_down	
-EA	20121025	12.42	12.21	r_down	
-EA	20121026	12.21	11.91	r_down	's:1
-EA	20121031	11.91	12.35	r_up	estimates:1 trims:1 tops:1 but:1 forecast:1
-EA	20121101	12.35	13.0	r_up	soars:1 stake:1 fall:1
-EA	20121102	13.0	12.99	r_down	
-EA	20121105	12.99	13.2	r_up	
-EA	20121106	13.2	13.76	r_up	
-EA	20121107	13.76	13.44	r_down	high:1 rides:1 expansion:1
-EA	20121108	13.44	12.91	r_down	's:1
-EA	20121109	12.91	12.89	r_down	holidays:1 sales:1 ahead:1 collapse:1
-EA	20121112	12.89	13.02	r_up	
-EA	20121113	13.02	12.98	r_down	
-EA	20121114	12.98	12.75	r_down	
-EA	20121115	12.75	13.05	r_up	
-EA	20121116	13.05	13.05	r_up	launches:1 uncertain:1 market:1
-EA	20121119	13.05	13.71	r_up	
-EA	20121120	13.71	13.86	r_up	
-EA	20121121	13.86	13.97	r_up	
-EA	20121123	13.97	14.37	r_up	
-EA	20121126	14.37	14.6	r_up	
-EA	20121127	14.6	14.74	r_up	
-EA	20121128	14.74	15.03	r_up	
-EA	20121129	15.03	15.03	r_up	
-EA	20121130	15.03	14.81	r_down	
-EA	20121203	14.81	14.53	r_down	
-EA	20121204	14.53	14.44	r_down	
-EA	20121205	14.44	14.63	r_up	
-EA	20121206	14.63	14.82	r_up	big:1 despite:1 sales:1 releases:1 fall:1
-EA	20121207	14.82	14.84	r_up	
-EA	20121210	14.84	14.82	r_down	
-EA	20121211	14.82	15.15	r_up	
-EA	20121212	15.15	15.33	r_up	
-EA	20121213	15.33	15.25	r_down	
-EA	20121214	15.25	15.3	r_up	data:1 stocks:1 weak:1 roll:1 despite:1
-EA	20121217	15.3	15.42	r_up	
-EA	20121218	15.42	14.91	r_down	week:1 junk:1 cut:1 off:1 gains:1 start:1 movers:1 big:1 may:1 broad:1 stocks:1 2013:1
-EA	20121219	14.91	14.4	r_down	
-EA	20121220	14.4	13.94	r_down	
-EA	20121221	13.94	13.89	r_down	
-EA	20121224	13.89	14.11	r_up	
-EA	20121226	14.11	14.16	r_up	's:1
-EA	20121227	14.16	14.02	r_down	10:1 2012:1
-EA	20121228	14.02	13.92	r_down	
-EA	20121231	13.92	14.52	r_up	
-EA	20130102	14.52	14.55	r_up	
-EA	20130103	14.55	14.74	r_up	
-EA	20130104	14.74	14.88	r_up	
-EA	20130107	14.88	14.45	r_down	
-EA	20130108	14.45	13.77	r_down	report:1 stocks:1 fall:1
-EA	20130109	13.77	13.7	r_down	
-EA	20130110	13.7	14.0	r_up	2013:1
-EA	20130111	14.0	14.24	r_up	videogames:1 10:1 2012:1 best-selling:1
-EA	20130114	14.24	14.43	r_up	
-EA	20130115	14.43	14.61	r_up	
-EA	20130116	14.61	14.6	r_down	
-EA	20130117	14.6	14.51	r_down	10:1 $:1
-EA	20130118	14.51	14.46	r_down	
-EA	20130122	14.46	14.43	r_down	
-EA	20130123	14.43	14.05	r_down	
-EA	20130124	14.05	14.26	r_up	
-EA	20130125	14.26	14.77	r_up	
-EA	20130128	14.77	15.04	r_up	
-EA	20130129	15.04	14.95	r_down	
-EA	20130130	14.95	15.08	r_up	drop:1 sales:1 but:1 hurt:1 earnings:1 66:1 sharp:1
-EA	20130131	15.08	15.73	r_up	
-EA	20130201	15.73	16.19	r_up	slips:1 late:1 techs:1 weighs:1
-EA	20130204	16.19	16.0	r_down	
-EA	20130205	16.0	16.89	r_up	biggest:1 gaining:1 stocks:1 declining:1
-EA	20130206	16.89	16.88	r_down	
-EA	20130207	16.88	16.87	r_down	
-EA	20130208	16.87	17.37	r_up	v.:1
-EA	20130211	17.37	17.41	r_up	
-EA	20130212	17.41	17.54	r_up	
-EA	20130213	17.54	17.17	r_down	
-EA	20130214	17.17	17.15	r_down	
-EA	20130215	17.15	16.97	r_down	
-EA	20130219	16.97	17.59	r_up	may:1 game:1 up:1 step:1 4:1 its:1
-EA	20130220	17.59	17.48	r_down	ahead:1 4:2 shares:1 surge:1
-EA	20130221	17.48	17.64	r_up	
-EA	20130222	17.64	17.81	r_up	
-EA	20130225	17.81	17.7	r_down	
-EA	20130226	17.7	17.69	r_down	
-EA	20130227	17.69	18.12	r_up	
-EA	20130228	18.12	17.53	r_down	
-EA	20130301	17.53	18.04	r_up	
-EA	20130304	18.04	18.2	r_up	n't:1 3:1
-EA	20130305	18.2	18.51	r_up	
-EA	20130306	18.51	18.62	r_up	
-EA	20130307	18.62	18.71	r_up	's:1
-EA	20130308	18.71	18.58	r_down	
-EA	20130311	18.58	19.13	r_up	
-EA	20130312	19.13	19.25	r_up	
-EA	20130313	19.25	18.94	r_down	
-EA	20130314	18.94	19.34	r_up	25:1 's:1
-EA	20130315	19.34	18.88	r_down	
-EA	20130318	18.88	18.71	r_down	hours:1 rise:1 depart:1 shares:1 after:1
-EA	20130319	18.71	17.15	r_down	after:1 sees:1 uncertainty:1 resigns:1 slides:1 chief:1 bumpy:1 's:2 road:1 more:1
-EA	20130320	17.15	17.34	r_up	decline:1 lead:1 movers:1 anniversary:1 tech:1 marks:1 rises:1 red:1
-EA	20130321	17.34	17.7	r_up	
-EA	20130322	17.7	17.97	r_up	
-EA	20130325	17.97	17.56	r_down	
-EA	20130326	17.56	17.77	r_up	tech:1 gains:1 lead:1
-EA	20130327	17.77	17.79	r_up	
-EA	20130328	17.79	17.7	r_down	
-EA	20130401	17.7	17.92	r_up	
-EA	20130402	17.92	17.55	r_down	
-EA	20130403	17.55	17.24	r_down	
-EA	20130404	17.24	17.25	r_up	
-EA	20130405	17.25	17.35	r_up	
-EA	20130408	17.35	17.27	r_down	
-EA	20130409	17.27	17.45	r_up	
-EA	20130410	17.45	17.8	r_up	
-EA	20130411	17.8	17.63	r_down	
-EA	20130412	17.63	17.58	r_down	
-EA	20130415	17.58	16.91	r_down	
-EA	20130416	16.91	17.37	r_up	
-EA	20130417	17.37	17.01	r_down	
-EA	20130418	17.01	16.94	r_down	
-EA	20130419	16.94	17.09	r_up	
-EA	20130422	17.09	17.28	r_up	
-EA	20130423	17.28	17.42	r_up	
-EA	20130424	17.42	17.8	r_up	
-EA	20130425	17.8	17.94	r_up	
-EA	20130426	17.94	17.88	r_down	
-EA	20130429	17.88	17.77	r_down	
-EA	20130430	17.77	17.61	r_down	
-EA	20130501	17.61	17.3	r_down	
-EA	20130502	17.3	17.54	r_up	
-EA	20130503	17.54	17.96	r_up	
-EA	20130506	17.96	18.29	r_up	
-EA	20130507	18.29	18.41	r_up	driven:1 stocks:1 console:1 buzz:1
-EA	20130508	18.41	21.56	r_up	results:1 likes:1 slip:1 rally:1 still:1 console:1 earnings:1 new:1 after:2 run:2 jumps:1 rise:1 but:1 falls:1 hours:1 stocks:1 data:1 cycle:1 ahead:1 movers:1 futures:1 steady:1 record:2 continue:1
-EA	20130509	21.56	21.64	r_up	get:1 movers:1 big:1 forecast:1 scores:1 boost:1
-EA	20130510	21.64	22.48	r_up	
-EA	20130513	22.48	21.74	r_down	
-EA	20130514	21.74	22.41	r_up	
-EA	20130515	22.41	22.64	r_up	
-EA	20130516	22.64	22.02	r_down	
-EA	20130517	22.02	22.21	r_up	
-EA	20130520	22.21	21.79	r_down	
-EA	20130521	21.79	21.97	r_up	``:1 's:1 gains:1 may:1 but:1 keep:1 '':1 game:1 shares:1 slip:1
-EA	20130522	21.97	21.75	r_down	reveals:1 game:1 console:1
-EA	20130523	21.75	22.65	r_up	
-EA	20130524	22.65	22.77	r_up	
-EA	20130528	22.77	23.26	r_up	
-EA	20130529	23.26	23.16	r_down	
-EA	20130530	23.16	23.35	r_up	
-EA	20130531	23.35	22.99	r_down	
-EA	20130603	22.99	22.99	r_up	18:1
-EA	20130604	22.99	22.72	r_down	
-EA	20130605	22.72	22.88	r_up	
-EA	20130606	22.88	23.28	r_up	stuck:1 investors:1
-EA	20130607	23.28	23.61	r_up	center:1 4:1 stage:1 take:1
-EA	20130610	23.61	22.87	r_down	
-EA	20130611	22.87	22.6	r_down	
-EA	20130612	22.6	21.54	r_down	weak:1 session:1 rare:1 tech:1 gainer:1
-EA	20130613	21.54	21.49	r_down	's:1
-EA	20130614	21.49	21.81	r_up	fall:1 heats:1 war:1 up:1
-EA	20130617	21.81	22.43	r_up	
-EA	20130618	22.43	23.03	r_up	
-EA	20130619	23.03	22.84	r_down	2:1 's:2
-EA	20130620	22.84	22.15	r_down	
-EA	20130621	22.15	21.98	r_down	
+EA	20140501	28.3	28.7	r_up	
+EA	20140502	28.7	28.5	r_down	
+EA	20140505	28.5	28.7	r_up	
+EA	20140506	28.7	28.0	r_down	blew:1 results:1 trade:1 past:1 see:1 session:2 rally:1 whose:1 expectations:1 shares:4 quarterly:1 videogame:1 extended:1 after:2 watch:1 hours:1 expected:1 active:1 stocks:1 disappointing:1 drops:1 drop:1 companies:1 surge:1 while:1 quarter:1
+EA	20140507	28.0	33.9	r_up	trim:1 futures:2 powering:1 higher:2 sales:2 trade:2 helped:1 active:1 see:1 actively:1 trading:1 result:1 close:1 increased:1 decline:1 said:1 end:1 pace:1 government:1 generally:1 shares:3 increase:1 better-than-expected:1 bigger:1 way:1 expected:4 new:1 more:1 has:1 markets:1 historically:1 stock:2 publishers:1 videogame:1 selling:1 's:1 gains:2 though:1 reach:1 after:2 watch:1 consoles:1 rapid:1 report:2 productivity:2 along:1 stocks:3 than:2 earlier:1 loss:1 quarter:1 whose:1 showed:1 losses:1 companies:4 trimmed:1 session:3 can:1 high-growth:1 trims:1 choppy:1 profits:1 first:1
+EA	20140508	33.9	34.2	r_up	retreats:1 lower:1 bottom:1 after:1 expectations:1 skids:1 slides:1 while:1 tumbles:1 deteriorating:1 line:1 valuation:2 than:1 came:1
+EA	20140509	34.2	35.1	r_up	
+EA	20140512	35.1	35.3	r_up	same-sex:1 one:1 high:1 not:1 3.5:1 sexual:1 its:1 $:1 media:1 shares:1 online:1 games:1 has:1 100,000:1 's:1 publisher:1 company:1 after:1 criticized:1 game:1 allowing:1 sold:1 multiyear:1 campaigns:1 simulation:1 near:1 marriage:1 social:1
+EA	20140513	35.3	35.0	r_down	conference:1 going:1 's:1 tear:1 industry:1 into:1 should:1 n't:2 game:1 other:1 aftermath:1 fear:1 makers:1
+EA	20140514	35.0	34.1	r_down	's:1 help:1
+EA	20140515	34.1	33.7	r_down	
+EA	20140516	33.7	34.4	r_up	videogame:1 rapid:1 's:1 continue:2 consumers:1 questions:1 crucial:1 sales:1 consoles:1 buy:1 clip:1 year:1 disappoint:1 strength:1 industry:1 raising:1 software:1
+EA	20140519	34.4	34.5	r_up	
+EA	20140520	34.5	34.3	r_down	
+EA	20140521	34.3	34.6	r_up	led:1 $:2 company:1 million:1 35:2 closed:1 round:1
+EA	20140522	34.6	34.5	r_down	
+EA	20140523	34.5	34.8	r_up	
+EA	20140527	34.8	35.0	r_up	
+EA	20140528	35.0	34.7	r_down	
+EA	20140529	34.7	34.7	r_up	all:2 asks:1 these:2 together:1 company:1 companies:2 great:1 valuable:1 worth:1 but:1 put:1 really:1 than:2 more:2
+EA	20140530	34.7	35.1	r_up	
+EA	20140602	35.1	34.5	r_down	
+EA	20140603	34.5	34.7	r_up	10:1 van:1 surprises:1 decline:1 many:1 writes:1 up:1 been:1 yields:1 heats:1 have:1 best-performing:1 2014:1 stocks:1 500:1
+EA	20140604	34.7	34.9	r_up	
+EA	20140605	34.9	34.7	r_down	
+EA	20140606	34.7	34.8	r_up	
+EA	20140609	34.8	34.9	r_up	over:2 brought:1 college:2 another:1 athletes:1 basketball:1 console:1 gamers:1 trial:1 pay:1 only:1 4:2 online:1 new:1 announced:1 available:1 ``:1 's:1 opening:1 football:1 beta:1 20:1 lawsuit:1 previewed:1 $:1 '':1 minutes:1 players:1 games:1 landmark:1 video:1 settled:1
+EA	20140610	34.9	35.7	r_up	investors:1 core:1 universities:1 back:1 past:1 pulling:1 news:1 rounds:1 conference:1 said:1 gamers:1 entertainment:1 graduate:1 their:1 abusing:1 publishers:1 videogame:1 rewards:1 's:3 do:1 targeted:1 consoles:1 student:1 such:1 reap:1 industry:1 up:1 devices:1 morning:1 n't:2 position:1 efforts:1 athletes:1
+EA	20140611	35.7	35.5	r_down	help:1 executive:1 years:1 arm:1 content:1 console:1 beef:1 three:2 its:1 looking:1 outside:1 other:1 take:1 beloved:1 struggling:1 announced:1 publishers:1 hires:1 big:1 hurt:1 operating:1 characters:1 services:1 abandoned:1 mobile:1 rival:1 straight:1 losses:1 up:1 seeks:1 salvage:1
+EA	20140612	35.5	35.2	r_down	
+EA	20140613	35.2	35.6	r_up	
+EA	20140616	35.6	35.7	r_up	
+EA	20140617	35.7	36.7	r_up	tension:1 art:1 skin:1 question:1 feature:1 sports:1 source:1 owns:1 videogames:1 become:1 has:1 athletes:1 more:1
+EA	20140618	36.7	37.1	r_up	
+EA	20140619	37.1	37.0	r_down	
+EA	20140620	37.0	37.1	r_up	
+EA	20140623	37.1	36.9	r_down	
+EA	20140624	36.9	36.3	r_down	
+EA	20140625	36.3	36.5	r_up	
+EA	20140626	36.5	36.2	r_down	bars:1 's:1 into:1 offices:1 match:1 between:1 nail-biting:1 tune:1 restaurants:1
+EA	20140627	36.2	35.8	r_down	
+EA	20140630	35.8	35.8	r_up	
+EA	20140701	35.8	36.4	r_up	10:1 suffer:1 van:1 lead:1 writes:1 most:1 while:1 winners:1 losers:1 market:1 retailers:1 biggest:1 2014:1 stocks:1 500:1
+EA	20140702	36.4	36.7	r_up	
+EA	20140703	36.7	36.9	r_up	
+EA	20140707	36.9	36.1	r_down	set:1 growth:1
+EA	20140708	36.1	35.2	r_down	
+EA	20140709	35.2	35.5	r_up	
+EA	20140710	35.5	35.8	r_up	
+EA	20140711	35.8	35.9	r_up	
+EA	20140714	35.9	36.5	r_up	
+EA	20140715	36.5	36.1	r_down	
+EA	20140716	36.1	37.1	r_up	catapult:1 financing:1 $:1 would:1 ranks:1 into:1 little-known:1 valuable:1 round:1 most:1 3:1 game:1 verge:1 world:1 startups:1 called:1 raising:1 developer:1
+EA	20140717	37.1	37.0	r_down	
+EA	20140718	37.0	38.3	r_up	bell:1 after:1 's:3 offering:1 launch:1 much:1 company:2 30:1 became:1 rising:1 stock:1 first:1 public:1 opening:1 software:1
+EA	20140721	38.3	38.4	r_up	
+EA	20140722	38.4	38.4	r_up	ripe:1 cheat:1 correction:1 despite:1 sales:2 down:1 report:1 trading:1 expect:1 predicts:1 keep:1 market:2 sheet:1 investors:1 shares:1 other:1 earnings:2 quarterly:1 firms:1 strategist:1 stock:1 good:1 company:1 after:1 hours:1 fall:1 rolling:1 strategists:1 weighed:1 drop:2 reports:1 times:1 chief:1 tech:1 after-hours:1 think:1 better-than-expected:1
+EA	20140723	38.4	36.0	r_down	generation:1 results:1 videogames:1 growth:1 its:1 consumers:1 profit:1 earnings:1 quarterly:1 more:1 benefiting:1 jumps:1 reported:1 consoles:1 latest:1 snapped:1 than:1 fiscal:1 10:2 solid:1 up:1 slumps:2 while:1 rallies:1 following:1 quarter:1 first:1
+EA	20140724	36.0	36.8	r_up	``:1 's:1 risk:1 business:1 calculated:1 stronger:1 window:1 '':1 lets:1 moving:1 take:1 digital:1 holiday:1 out:1
+EA	20140725	36.8	36.0	r_down	
+EA	20140728	36.0	35.0	r_down	
+EA	20140729	35.0	34.3	r_down	videogame:1 month:1 disappointing:1 miss:1 its:1 gains:1 console:1 $:2 service:1 lets:1 earnings:1 tumbles:1 steps:1 gets:1 boost:1 play:1 's:1 sinks:1 after:1 results:1 subscription:1 down:1 owners:1 games:1
+EA	20140730	34.3	34.5	r_up	
+EA	20140731	34.5	33.6	r_down	
+EA	20140801	33.6	33.7	r_up	impact:1 world’s:1 popular:1 sporting:1 whiners:1 most:1 winners:1 books:1 victory:1 stars:1 suite:1 biggest:2 2014:1 playing:1 still:1 corporate:2 event:1 out:1
+EA	20140804	33.7	34.1	r_up	
+EA	20140805	34.1	34.1	r_up	
+EA	20140806	34.1	34.2	r_up	
+EA	20140807	34.2	33.3	r_down	publisher:1 needs:1 's:1 launch:1 perform:1 shooter:1 well:1 window:1 helps:1 release:1 newest:1 cleared:1 its:1
+EA	20140808	33.3	34.2	r_up	
+EA	20140811	34.2	35.0	r_up	smartphone:1 turning:1 help:1 apps:1 freebies:1 dominance:1 maintain:1 its:1
+EA	20140812	35.0	35.5	r_up	's:2 could:1 trade-in:1 policy:1 new:1 slimmer:1 margins:1 mean:1
+EA	20140813	35.5	36.4	r_up	upgrade:2 rallying:1 gains:2 headwinds:1 could:1 reverses:1 record:1 while:1 which:1 face:1 analyst:1 closed:1
+EA	20140814	36.4	36.5	r_up	
+EA	20140815	36.5	36.1	r_down	
+EA	20140818	36.1	36.6	r_up	
+EA	20140819	36.6	37.0	r_up	play:1 's:1 giving:1 well:1 together:1 small:1 size:1 stage:1
+EA	20140820	37.0	37.5	r_up	
+EA	20140821	37.5	37.7	r_up	lifted:1 said:1 profit:1 software:1 consoles:1 doubled:1 than:1 hardware:1 game:1 sales:1 second-quarter:1 demand:1 new:1 strong:1 its:2 more:1
+EA	20140822	37.7	38.1	r_up	
+EA	20140825	38.1	37.6	r_down	
+EA	20140826	37.6	37.5	r_down	
+EA	20140827	37.5	37.2	r_down	
+EA	20140828	37.2	37.1	r_down	
+EA	20140829	37.1	37.8	r_up	
+EA	20140902	37.8	38.0	r_up	
+EA	20140903	38.0	37.8	r_down	10:1 van:1 index:1 far:1 big:1 writes:1 up:1 outpace:1 while:1 worst:1 best:1 retailers:1 lose:1 82:1 2014:1 stocks:1 500:1
+EA	20140904	37.8	37.3	r_down	
+EA	20140905	37.3	37.6	r_up	publisher:1 price:1 nearing:1 all-time-high:1 games:1 other:1 stock:1
+EA	20140908	37.6	38.0	r_up	
+EA	20140909	38.0	37.4	r_down	criticism:1 associated:1 founder:1 people:1 appeared:1 over:1 domestic:1 ``:1 defended:1 '':1 talking:1 through:1 corporations:1 its:2 standing:1 video:1 cut:1 would:1 top:1 trash:1 been:1 him:2 according:1 goes:1 under:1 has:1 commissioner:1 his:1 name:1 big:1 showing:1 after:1 most:1 wake:1 closely:1 ties:1 day:1 widening:1 faced:1 league:1 account:1 handling:1 episode:1 her:1 surprising:1 wife:1 shy:1 inside:1 violence:1 sale:1 n't:1 turn:1 including:1
+EA	20140910	37.4	37.8	r_up	criticism:1 die-hards:1 set:1 suspended:1 deal:1 people:1 appeared:1 over:1 indefinitely:1 ``:2 him:1 sale:1 '':2 culture:1 his:2 video:1 sponsor:1 go:1 discussions:1 faced:1 children:1 negotiations:1 standing:1 --:1 giant:1 $:1 would:1 he:1 following:1 top:1 striking:1 inside:1 spirit:1 behind:1 2:1 between:1 destroy:1 has:1 showing:1 day:1 more:1 independent:1 videogame:3 buy:2 's:2 clash:1 big:1 company:1 football:1 its:1 game:1 let:1 ties:1 major:1 than:1 after:1 widening:1 billion:1 league:1 handling:1 episode:1 derailed:1 player:1 whether:2 could:1 up:1 players:1 team:1 popular:1 serious:1 corporate:2 maker:2 release:1
+EA	20140911	37.8	38.0	r_up	
+EA	20140912	38.0	37.1	r_down	
+EA	20140915	37.1	36.5	r_down	
+EA	20140916	36.5	37.0	r_up	
+EA	20140917	37.0	36.4	r_down	
+EA	20140918	36.4	37.2	r_up	company’s:1 bullish:1 reasons:1 writes:1 up:1 past:1 twice:1 much:1 7:1 year:1 500:1 stock:1
+EA	20140919	37.2	36.7	r_down	
+EA	20140922	36.7	36.6	r_down	
+EA	20140923	36.6	36.6	r_up	
+EA	20140924	36.6	36.8	r_up	
+EA	20140925	36.8	35.8	r_down	plug:1 pull:1 's:1 have:1 investors:1 shares:1 should:1 n't:2 critic:1 but:1 clipped:1 scores:1
+EA	20140926	35.8	35.9	r_up	
+EA	20140929	35.9	35.7	r_down	
+EA	20140930	35.7	35.6	r_down	
+EA	20141001	35.6	35.1	r_down	10:1 van:1 extend:1 risen:1 whose:1 outperformance:1 into:1 up:1 shares:1 fourth:1 may:1 winners:1 73:1 earnings:1 have:1 quarter:1 companies’:1 writes:1 500:1
+EA	20141002	35.1	35.5	r_up	
+EA	20141003	35.5	35.9	r_up	
+EA	20141006	35.9	36.0	r_up	
+EA	20141007	36.0	34.9	r_down	
+EA	20141008	34.9	35.2	r_up	
+EA	20141009	35.2	35.0	r_down	
+EA	20141010	35.0	34.5	r_down	

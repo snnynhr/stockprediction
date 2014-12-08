@@ -1,307 +1,114 @@
-ANF	20120402	48.53	50.49	r_up	
-ANF	20120403	50.49	50.04	r_down	biggest:1 gaining:1 stocks:1 declining:1
-ANF	20120404	50.04	49.6	r_down	shoppers:1 follow:1 enters:1
-ANF	20120405	49.6	48.83	r_down	
-ANF	20120409	48.83	47.87	r_down	
-ANF	20120410	47.87	46.05	r_down	
-ANF	20120411	46.05	46.41	r_up	
-ANF	20120412	46.41	47.12	r_up	
-ANF	20120413	47.12	46.13	r_down	's:2
-ANF	20120416	46.13	45.76	r_down	
-ANF	20120417	45.76	47.36	r_up	
-ANF	20120418	47.36	46.94	r_down	
-ANF	20120419	46.94	47.19	r_up	's:1
-ANF	20120420	47.19	47.98	r_up	
-ANF	20120423	47.98	46.76	r_down	
-ANF	20120424	46.76	46.73	r_down	
-ANF	20120425	46.73	47.86	r_up	
-ANF	20120426	47.86	49.39	r_up	
-ANF	20120427	49.39	49.77	r_up	
-ANF	20120430	49.77	49.07	r_down	
-ANF	20120501	49.07	51.86	r_up	
-ANF	20120502	51.86	52.13	r_up	biggest:1 gaining:1 stocks:1 declining:1
-ANF	20120503	52.13	51.34	r_down	lonely:1 same-store:1 sales:1 number:1
-ANF	20120504	51.34	49.42	r_down	
-ANF	20120507	49.42	47.93	r_down	
-ANF	20120508	47.93	45.67	r_down	domino:1 ignites:1 worry:1 effect:1
-ANF	20120509	45.67	45.84	r_up	
-ANF	20120510	45.84	46.5	r_up	
-ANF	20120511	46.5	45.6	r_down	
-ANF	20120514	45.6	44.91	r_down	2011:1 $:1
-ANF	20120515	44.91	44.41	r_down	
-ANF	20120516	44.41	38.64	r_down	's:1 watch:1
-ANF	20120517	38.64	35.75	r_down	biggest:1 gaining:1 stocks:1 declining:1
-ANF	20120518	35.75	35.11	r_down	's:1 but:1
-ANF	20120521	35.11	35.74	r_up	
-ANF	20120522	35.74	34.75	r_down	
-ANF	20120523	34.75	34.57	r_down	
-ANF	20120524	34.57	34.69	r_up	's:1
-ANF	20120525	34.69	35.61	r_up	temper:1 expectations:1
-ANF	20120529	35.61	35.26	r_down	
-ANF	20120530	35.26	33.31	r_down	
-ANF	20120531	33.31	32.97	r_down	
-ANF	20120601	32.97	31.59	r_down	
-ANF	20120604	31.59	31.24	r_down	
-ANF	20120605	31.24	31.86	r_up	
-ANF	20120606	31.86	32.09	r_up	
-ANF	20120607	32.09	31.58	r_down	
-ANF	20120608	31.58	31.61	r_up	
-ANF	20120611	31.61	30.54	r_down	
-ANF	20120612	30.54	30.83	r_up	
-ANF	20120613	30.83	30.39	r_down	
-ANF	20120614	30.39	30.02	r_down	
-ANF	20120615	30.02	31.0	r_up	
-ANF	20120618	31.0	30.62	r_down	
-ANF	20120619	30.62	31.57	r_up	
-ANF	20120620	31.57	31.7	r_up	
-ANF	20120621	31.7	30.44	r_down	180:1
-ANF	20120622	30.44	30.19	r_down	180:1
-ANF	20120625	30.19	29.27	r_down	
-ANF	20120626	29.27	29.71	r_up	
-ANF	20120627	29.71	30.06	r_up	
-ANF	20120628	30.06	30.97	r_up	
-ANF	20120629	30.97	33.56	r_up	
-ANF	20120702	33.56	33.44	r_down	
-ANF	20120703	33.44	34.04	r_up	may:1 sales:1 years:1 3:1 smallest:1 gain:1 retail:1
-ANF	20120705	34.04	34.08	r_up	
-ANF	20120706	34.08	32.94	r_down	
-ANF	20120709	32.94	32.29	r_down	
-ANF	20120710	32.29	32.21	r_down	
-ANF	20120711	32.21	33.54	r_up	
-ANF	20120712	33.54	32.97	r_down	biggest:1 gaining:1 stocks:1 declining:1
-ANF	20120713	32.97	34.88	r_up	
-ANF	20120716	34.88	33.78	r_down	back-to-school:1 retail:1 raises:1 stakes:1
-ANF	20120717	33.78	34.8	r_up	
-ANF	20120718	34.8	35.33	r_up	
-ANF	20120719	35.33	35.91	r_up	retail:1 lift:1 stocks:1 views:1
-ANF	20120720	35.91	36.09	r_up	biggest:1 price:1 war:1 bidding:1 stock:1
-ANF	20120723	36.09	35.35	r_down	
-ANF	20120724	35.35	34.37	r_down	
-ANF	20120725	34.37	34.84	r_up	
-ANF	20120726	34.84	35.17	r_up	
-ANF	20120727	35.17	36.13	r_up	
-ANF	20120730	36.13	34.79	r_down	
-ANF	20120731	34.79	33.23	r_down	
-ANF	20120801	33.23	33.44	r_up	
-ANF	20120802	33.44	28.57	r_down	gaining:1 again:1 lower:1 futures:1 end:1 school:1 decline:1 may:1 surprises:1 frustrates:1 well:1 sales:1 back:1 remarks:1 advisories:1 upside:1 biggest:1 stocks:2 bode:1 declining:1
-ANF	20120803	28.57	28.87	r_up	
-ANF	20120806	28.87	29.37	r_up	
-ANF	20120807	29.37	29.48	r_up	
-ANF	20120808	29.48	30.4	r_up	
-ANF	20120809	30.4	31.65	r_up	
-ANF	20120810	31.65	31.47	r_down	
-ANF	20120813	31.47	31.92	r_up	
-ANF	20120814	31.92	31.78	r_down	sector:1 's:1 up:1 sales:1 back-to-school:1 earnings:1
-ANF	20120815	31.78	34.63	r_up	sector:1 gaining:1 divided:1 watch:1 results:1 52:2 biggest:1 quarterly:1 stocks:1 declining:1
-ANF	20120816	34.63	34.81	r_up	surprises:1 advisories:1 's:1 52:1
-ANF	20120817	34.81	35.32	r_up	
-ANF	20120820	35.32	35.63	r_up	
-ANF	20120821	35.63	36.14	r_up	
-ANF	20120822	36.14	35.93	r_down	mobile:1 payment:1 venture:1
-ANF	20120823	35.93	35.11	r_down	
-ANF	20120824	35.11	35.75	r_up	
-ANF	20120827	35.75	35.95	r_up	
-ANF	20120828	35.95	35.45	r_down	
-ANF	20120829	35.45	35.5	r_up	
-ANF	20120830	35.5	35.45	r_down	
-ANF	20120831	35.45	35.55	r_up	
-ANF	20120904	35.55	34.52	r_down	
-ANF	20120905	34.52	34.19	r_down	's:1
-ANF	20120906	34.19	35.69	r_up	
-ANF	20120907	35.69	36.03	r_up	
-ANF	20120910	36.03	36.11	r_up	
-ANF	20120911	36.11	35.53	r_down	
-ANF	20120912	35.53	37.46	r_up	biggest:1 gaining:1 stocks:1 declining:1 n't:1
-ANF	20120913	37.46	38.07	r_up	apparel:1 up:1 have:1 leg:1
-ANF	20120914	38.07	38.88	r_up	
-ANF	20120917	38.88	38.02	r_down	
-ANF	20120918	38.02	37.39	r_down	
-ANF	20120919	37.39	38.31	r_up	
-ANF	20120920	38.31	38.21	r_down	adding:1 jobs:1
-ANF	20120921	38.21	36.43	r_down	
-ANF	20120924	36.43	35.09	r_down	
-ANF	20120925	35.09	34.15	r_down	
-ANF	20120926	34.15	34.28	r_up	then:1 conquer:1 looks:1
-ANF	20120927	34.28	33.98	r_down	
-ANF	20120928	33.98	33.5	r_down	
-ANF	20121001	33.5	33.04	r_down	
-ANF	20121002	33.04	32.07	r_down	
-ANF	20121003	32.07	32.22	r_up	
-ANF	20121004	32.22	32.14	r_down	
-ANF	20121005	32.14	32.26	r_up	
-ANF	20121008	32.26	33.02	r_up	
-ANF	20121009	33.02	32.56	r_down	
-ANF	20121010	32.56	33.02	r_up	
-ANF	20121011	33.02	33.12	r_up	million-dollar:1 challenge:1 retail:1 rent:1
-ANF	20121012	33.12	32.56	r_down	
-ANF	20121015	32.56	32.1	r_down	
-ANF	20121016	32.1	32.12	r_up	
-ANF	20121017	32.12	32.1	r_down	
-ANF	20121018	32.1	32.05	r_down	
-ANF	20121019	32.05	31.62	r_down	
-ANF	20121022	31.62	31.04	r_down	
-ANF	20121023	31.04	30.96	r_down	
-ANF	20121024	30.96	30.43	r_down	
-ANF	20121025	30.43	30.48	r_up	
-ANF	20121026	30.48	30.21	r_down	
-ANF	20121031	30.21	30.21	r_up	stores:1 benefit:1 some:1 bet:1
-ANF	20121101	30.21	32.82	r_up	small:1 impact:1 see:1 's:1
-ANF	20121102	32.82	32.38	r_down	biggest:1 movers:1 jumps:1 7.9:1 136:1
-ANF	20121105	32.38	33.65	r_up	
-ANF	20121106	33.65	33.6	r_down	
-ANF	20121107	33.6	32.44	r_down	
-ANF	20121108	32.44	31.11	r_down	
-ANF	20121109	31.11	31.13	r_up	's:1
-ANF	20121112	31.13	30.96	r_down	
-ANF	20121113	30.96	30.8	r_down	
-ANF	20121114	30.8	41.41	r_up	earnings:1 futures:1 40:1 surge:1 lift:1 shares:1 stock:1
-ANF	20121115	41.41	41.24	r_down	's:1 advisories:1 movers:1 big:1 drop:1 defies:1 surprises:1 concerns:1 sharply:1 logic:1 ‘cliff’:1 stocks:1 9.3:1
-ANF	20121116	41.24	40.37	r_down	
-ANF	20121119	40.37	43.26	r_up	
-ANF	20121120	43.26	43.29	r_up	's:1 $:1 movers:1 big:1 565:1 rallies:1 reclaim:1
-ANF	20121121	43.29	43.35	r_up	
-ANF	20121123	43.35	44.03	r_up	
-ANF	20121126	44.03	44.24	r_up	26:1
-ANF	20121127	44.24	44.25	r_up	movers:1 big:1 over:1 sales:1 may:1 3:1 rallies:1 not:1 save:1
-ANF	20121128	44.25	45.48	r_up	positive:1 outlook:1 holiday:1 50:2 give:1
-ANF	20121129	45.48	45.52	r_up	3.5:2
-ANF	20121130	45.52	45.51	r_down	
-ANF	20121203	45.51	45.27	r_down	
-ANF	20121204	45.27	45.07	r_down	
-ANF	20121205	45.07	44.86	r_down	
-ANF	20121206	44.86	44.94	r_up	25:1
-ANF	20121207	44.94	46.01	r_up	
-ANF	20121210	46.01	46.92	r_up	myths:1 sells:1 other:1 retail:1
-ANF	20121211	46.92	46.86	r_down	
-ANF	20121212	46.86	45.88	r_down	
-ANF	20121213	45.88	46.51	r_up	
-ANF	20121214	46.51	46.39	r_down	
-ANF	20121217	46.39	46.78	r_up	
-ANF	20121218	46.78	48.58	r_up	
-ANF	20121219	48.58	47.43	r_down	
-ANF	20121220	47.43	48.15	r_up	
-ANF	20121221	48.15	46.98	r_down	
-ANF	20121224	46.98	46.71	r_down	
-ANF	20121226	46.71	45.06	r_down	hustle:1 retailers’:1 stakes:1
-ANF	20121227	45.06	45.78	r_up	biggest:1 gaining:1 stocks:1 declining:1
-ANF	20121228	45.78	45.38	r_down	
-ANF	20121231	45.38	47.57	r_up	disappointing:1 gird:1 sales:1
-ANF	20130102	47.57	47.17	r_down	
-ANF	20130103	47.17	46.72	r_down	
-ANF	20130104	46.72	47.02	r_up	
-ANF	20130107	47.02	47.0	r_down	
-ANF	20130108	47.0	47.27	r_up	
-ANF	20130109	47.27	46.99	r_down	
-ANF	20130110	46.99	48.08	r_up	
-ANF	20130111	48.08	47.68	r_down	
-ANF	20130114	47.68	48.43	r_up	
-ANF	20130115	48.43	49.78	r_up	
-ANF	20130116	49.78	49.6	r_down	
-ANF	20130117	49.6	49.95	r_up	deals:1 sector:1 retail:1 2013:1 year:1
-ANF	20130118	49.95	49.34	r_down	
-ANF	20130122	49.34	49.16	r_down	
-ANF	20130123	49.16	48.89	r_down	
-ANF	20130124	48.89	49.03	r_up	
-ANF	20130125	49.03	50.17	r_up	
-ANF	20130128	50.17	49.15	r_down	
-ANF	20130129	49.15	50.29	r_up	
-ANF	20130130	50.29	50.14	r_down	skeptical:1 story:1 growth:1
-ANF	20130131	50.14	49.59	r_down	
-ANF	20130201	49.59	50.65	r_up	
-ANF	20130204	50.65	49.77	r_down	
-ANF	20130205	49.77	50.48	r_up	
-ANF	20130206	50.48	50.5	r_up	
-ANF	20130207	50.5	50.62	r_up	
-ANF	20130208	50.62	50.2	r_down	's:1
-ANF	20130211	50.2	49.54	r_down	
-ANF	20130212	49.54	50.48	r_up	
-ANF	20130213	50.48	50.17	r_down	
-ANF	20130214	50.17	50.86	r_up	
-ANF	20130215	50.86	50.54	r_down	's:1
-ANF	20130219	50.54	51.64	r_up	
-ANF	20130220	51.64	50.42	r_down	
-ANF	20130221	50.42	48.64	r_down	's:1
-ANF	20130222	48.64	46.47	r_down	's:1 signal:1 futures:1 rising:1 bounce:1
-ANF	20130225	46.47	44.8	r_down	
-ANF	20130226	44.8	45.08	r_up	
-ANF	20130227	45.08	46.02	r_up	
-ANF	20130228	46.02	46.44	r_up	
-ANF	20130301	46.44	46.09	r_down	
-ANF	20130304	46.09	46.13	r_up	
-ANF	20130305	46.13	47.02	r_up	
-ANF	20130306	47.02	46.77	r_down	
-ANF	20130307	46.77	47.57	r_up	
-ANF	20130308	47.57	48.07	r_up	
-ANF	20130311	48.07	48.63	r_up	
-ANF	20130312	48.63	48.28	r_down	
-ANF	20130313	48.28	49.57	r_up	9:1
-ANF	20130314	49.57	49.5	r_down	
-ANF	20130315	49.5	48.52	r_down	
-ANF	20130318	48.52	48.29	r_down	
-ANF	20130319	48.29	46.72	r_down	
-ANF	20130320	46.72	47.37	r_up	
-ANF	20130321	47.37	45.76	r_down	
-ANF	20130322	45.76	45.78	r_up	's:1
-ANF	20130325	45.78	46.19	r_up	
-ANF	20130326	46.19	45.51	r_down	blame:1 game:1 weather:1 joins:1
-ANF	20130327	45.51	45.67	r_up	movers:1 jumps:1 500:1 lead:1
-ANF	20130328	45.67	46.02	r_up	
-ANF	20130401	46.02	45.76	r_down	
-ANF	20130402	45.76	45.28	r_down	these:1 apparel:1 fear:1 analyst:1 retailers:1
-ANF	20130403	45.28	47.01	r_up	
-ANF	20130404	47.01	47.68	r_up	movers:1 flogged:1 rumor:1
-ANF	20130405	47.68	48.49	r_up	
-ANF	20130408	48.49	49.27	r_up	
-ANF	20130409	49.27	47.79	r_down	
-ANF	20130410	47.79	48.98	r_up	
-ANF	20130411	48.98	49.34	r_up	
-ANF	20130412	49.34	48.46	r_down	
-ANF	20130415	48.46	46.38	r_down	
-ANF	20130416	46.38	47.68	r_up	
-ANF	20130417	47.68	46.48	r_down	
-ANF	20130418	46.48	45.83	r_down	
-ANF	20130419	45.83	46.58	r_up	
-ANF	20130422	46.58	46.08	r_down	
-ANF	20130423	46.08	46.07	r_down	
-ANF	20130424	46.07	46.59	r_up	
-ANF	20130425	46.59	47.95	r_up	
-ANF	20130426	47.95	48.22	r_up	
-ANF	20130429	48.22	48.96	r_up	
-ANF	20130430	48.96	49.36	r_up	
-ANF	20130501	49.36	48.85	r_down	
-ANF	20130502	48.85	48.8	r_down	
-ANF	20130503	48.8	49.3	r_up	
-ANF	20130506	49.3	48.77	r_down	
-ANF	20130507	48.77	51.86	r_up	
-ANF	20130508	51.86	52.27	r_up	movers:1 still:1 likes:1
-ANF	20130509	52.27	53.16	r_up	
-ANF	20130510	53.16	53.62	r_up	
-ANF	20130513	53.62	53.27	r_down	
-ANF	20130514	53.27	53.45	r_up	
-ANF	20130515	53.45	53.48	r_up	
-ANF	20130516	53.48	53.11	r_down	
-ANF	20130517	53.11	54.02	r_up	
-ANF	20130520	54.02	54.19	r_up	
-ANF	20130521	54.19	53.99	r_down	
-ANF	20130522	53.99	53.89	r_down	
-ANF	20130523	53.89	54.15	r_up	
-ANF	20130524	54.15	49.82	r_down	lower:1 after:1 movers:1 data:1 futures:1 watch:1 remain:1 a.m:1 biggest:1 stocks:1 durables:1
-ANF	20130528	49.82	48.94	r_down	
-ANF	20130529	48.94	49.88	r_up	
-ANF	20130530	49.88	50.29	r_up	n't:1
-ANF	20130531	50.29	50.08	r_down	
-ANF	20130603	50.08	49.72	r_down	
-ANF	20130604	49.72	49.99	r_up	
-ANF	20130605	49.99	49.31	r_down	
-ANF	20130606	49.31	49.6	r_up	
-ANF	20130607	49.6	51.7	r_up	movers:1 tops:1 500:1
-ANF	20130610	51.7	51.13	r_down	
-ANF	20130611	51.13	50.27	r_down	
-ANF	20130612	50.27	49.11	r_down	
-ANF	20130613	49.11	49.59	r_up	
-ANF	20130614	49.59	48.76	r_down	
-ANF	20130617	48.76	49.09	r_up	spending:1 could:1 slowdown:1 kill:1 rally:1 2013:1
-ANF	20130618	49.09	48.95	r_down	
-ANF	20130619	48.95	47.85	r_down	
-ANF	20130620	47.85	46.99	r_down	
-ANF	20130621	46.99	45.95	r_down	
+ANF	20140501	36.4	37.4	r_up	help:1 into:1 sales:1 four:1 aimed:1 have:1 settlement:1 its:1 had:1 discounts:1 activist:1 board:1 shoppers:1 new:2 entered:1 has:1 announced:1 independent:1 plans:1 format:1 agreement:1 difficulty:1 boosting:1 investor:1 developing:1 nominate:1 directors:1 without:1 retailers:1 apparel:1 called:1 election:1
+ANF	20140502	37.4	37.7	r_up	
+ANF	20140505	37.7	37.7	r_up	
+ANF	20140506	37.7	36.4	r_down	
+ANF	20140507	36.4	35.3	r_down	
+ANF	20140508	35.3	35.6	r_up	
+ANF	20140509	35.6	36.8	r_up	
+ANF	20140512	36.8	37.9	r_up	
+ANF	20140513	37.9	38.2	r_up	management:1 's:3 $:1 million:1 matter:1 fell:1 according:1 executive:1 chief:1 sales:1 face:1 person:1 compensation:1 planning:1 shake-up:1 longtime:1 stalled:1 familiar:1 2013:1 72:1
+ANF	20140514	38.2	37.8	r_down	site:1 ahead:1 effort:1 image:1 fake:1 up:1 removal:1 e-commerce:1 burnish:1 products:1 begun:1 speeding:1 biggest:1 has:1 its:3 flagged:1
+ANF	20140515	37.8	36.7	r_down	disclose:1 half:1 manage:1 month:1 click:2 previous:1 end:1 $:1 holdings:3 several:1 bought:1 firm:1 within:1 's:1 sold:1 million:1 here:2 most:1 latest:2 100:1 than:1 quarter:3 required:1 securities:2 more:1 view:2
+ANF	20140516	36.7	37.6	r_up	rush:1 has:1 manufacturers:1 country:1 violence:1 factories:1 recent:1
+ANF	20140519	37.6	37.8	r_up	
+ANF	20140520	37.8	36.8	r_down	fiscal:1 said:1 first-quarter:1 furnishings:1 revenue:1 profit:1 rise:1 retailer:1 accessories:1 expenses:1 reported:1 fell:1 home:1 20:1 clothing:1 its:1 higher:1
+ANF	20140521	36.8	36.4	r_down	
+ANF	20140522	36.4	36.8	r_up	fiscal:1 teen:1 said:1 's:1 weaker:1 retailer:1 sales:1 fell:1 earnings:1 apparel:1 first-quarter:1 margins:1 86:2 its:1 hit:1
+ANF	20140523	36.8	36.8	r_up	teen:1 investors:1 no:1 same-store:1 share:1 sales:1 should:1 levels:1 focused:1 inventory:1 retailers:1 prices:1 surprise:1 come:1
+ANF	20140527	36.8	36.3	r_down	
+ANF	20140528	36.3	34.7	r_down	
+ANF	20140529	34.7	36.7	r_up	all:2 just:2 unsolicited:1 valuable:1 trade:3 session:4 6.1:1 fifth:1 whose:1 20:1 $:3 rose:2 expectations:1 actually:1 premarket:1 2014:1 worth:2 around:2 bid:1 watch:1 chips:1 day:1 loss:1 like:1 54:1 drop:1 companies:5 fewer:1 deals:1 higher:2 offer:1 individual:1 trading:1 year:1 really:1 blue:1 index:1 actively:2 pace:2 jumped:1 shares:4 reading:1 approached:1 weak:2 put:1 advance:1 great:1 quarter:1 months:1 quiet:1 against:1 participating:1 economic:1 maker:1 comes:1 first:2 outlook:1 retailer:1 one:1 active:1 brush:1 market:1 jobless:1 asks:1 top:1 larger-than-expected:1 three:1 their:2 low:1 widens:1 expected:3 territory:1 500:2 more:2 buy:1 offering:1 sessions:1 company:1 but:1 frenzy:1 hold:1 than:2 13:1 15:1 these:2 eclipse:1 see:1 record:2 near:1 growth:1 nine:1 benchmarks:1 were:1 problem:1 climbed:1 investors:2 0.3:1 0.5:2 days:1 high:2 all-time:1 unveiled:1 rally:1 saw:1 gains:1 5.5:1 sit:1 six:1 backs:1 economy:1 inch:1 showing:1 stock:3 gaining:1 added:1 's:10 highs:1 after:2 modest:1 two:1 claims:1 stocks:2 data:2 recent:1 billion:2 off:1 amid:1 futures:2 together:1 points:3 weigh:1
+ANF	20140530	36.7	37.6	r_up	stores:1 just:1 sends:1 into:2 some:1 sales:1 one:1 13th:2 economic:1 year:2 close:1 rally:1 rid:1 its:2 market:1 chase:1 index:1 lead:1 powered:1 rose:1 rev:1 intraday:1 entered:1 reading:1 war:1 500:5 stock:2 says:1 after:2 purchase:1 pushing:1 weak:1 jumping:1 bidding:1 news:1 rises:1 shutters:1 high:2 over:1 off:1 getting:1 many:1 up:1 record:3 while:1 growth:1 pending:1 rallies:2 following:1 making:1 closing:1 changes:1
+ANF	20140602	37.6	38.1	r_up	sector:1 ``:1 within:1 analyst:1 retail:1 hard:1 according:1 its:1 '':1 place:1 rock:1 turnaround:1 struggling:1 one:1 between:1
+ANF	20140603	38.1	38.3	r_up	
+ANF	20140604	38.3	38.6	r_up	
+ANF	20140605	38.6	39.1	r_up	
+ANF	20140606	39.1	39.3	r_up	
+ANF	20140609	39.3	40.3	r_up	
+ANF	20140610	40.3	40.2	r_down	teen:2 named:2 said:2 's:4 namesake:2 --:1 executive:2 retailer:2 stone:1 been:2 brands:2 chief:2 kids:2 role:2 stepping:1 seen:2 apparel:2 president:2 post:2 has:2 potential:2
+ANF	20140611	40.2	40.8	r_up	teen:1 named:1 said:1 's:2 namesake:1 --:1 executive:1 retailer:1 been:1 2nd:1 brands:1 chief:1 kids:1 role:1 seen:1 apparel:1 president:1 post:1 has:1 potential:1
+ANF	20140612	40.8	40.8	r_up	
+ANF	20140613	40.8	41.5	r_up	
+ANF	20140616	41.5	41.9	r_up	
+ANF	20140617	41.9	42.4	r_up	
+ANF	20140618	42.4	42.7	r_up	
+ANF	20140619	42.7	42.4	r_down	
+ANF	20140620	42.4	42.5	r_up	week:1 there:1 's:1 fired:1 showed:1 after:1 retailer:1 up:1 long:1 n't:1 board:1 controversial:1 learned:1 meeting:1 he:1
+ANF	20140623	42.5	43.1	r_up	
+ANF	20140624	43.1	42.5	r_down	
+ANF	20140625	42.5	42.8	r_up	
+ANF	20140626	42.8	42.1	r_down	sell:1 control:1 led:1 diluted:1 dismissal:1 move:1 retailer:1 cash:1 him:1 desperate:1 left:1 need:1 's:1 has:1 crisis:2 vulnerable:1 stock:1
+ANF	20140627	42.1	42.8	r_up	
+ANF	20140630	42.8	43.0	r_up	
+ANF	20140701	43.0	43.1	r_up	
+ANF	20140702	43.1	42.3	r_down	
+ANF	20140703	42.3	43.0	r_up	
+ANF	20140707	43.0	42.4	r_down	
+ANF	20140708	42.4	41.5	r_down	
+ANF	20140709	41.5	42.5	r_up	
+ANF	20140710	42.5	41.5	r_down	
+ANF	20140711	41.5	41.1	r_down	
+ANF	20140714	41.1	41.2	r_up	
+ANF	20140715	41.2	40.8	r_down	
+ANF	20140716	40.8	40.0	r_down	
+ANF	20140717	40.0	39.2	r_down	
+ANF	20140718	39.2	40.2	r_up	
+ANF	20140721	40.2	39.0	r_down	
+ANF	20140722	39.0	38.3	r_down	
+ANF	20140723	38.3	38.4	r_up	
+ANF	20140724	38.4	38.5	r_up	
+ANF	20140725	38.5	37.8	r_down	
+ANF	20140728	37.8	38.3	r_up	
+ANF	20140729	38.3	38.0	r_down	
+ANF	20140730	38.0	38.9	r_up	
+ANF	20140731	38.9	39.1	r_up	
+ANF	20140801	39.1	38.2	r_down	
+ANF	20140804	38.2	39.2	r_up	
+ANF	20140805	39.2	40.3	r_up	
+ANF	20140806	40.3	40.8	r_up	
+ANF	20140807	40.8	40.5	r_down	sector:1 all:1 share:1 back:1 dead:1 year:1 consumers:1 been:1 performance:1 has:1 company:1 isn’t:1 life:1 may:1 price:1 after:1 but:1 coming:1 discretionary:1 recent:1 sectors:1 reports:1 suggests:1 consumer:2 weakest:1
+ANF	20140808	40.5	41.2	r_up	
+ANF	20140811	41.2	41.3	r_up	
+ANF	20140812	41.3	41.0	r_down	
+ANF	20140813	41.0	40.9	r_down	sector:1 ratings:1 starting:1 coverage:1
+ANF	20140814	40.9	41.2	r_up	
+ANF	20140815	41.2	40.5	r_down	
+ANF	20140818	40.5	41.4	r_up	stores:1 namesake:1 chain:1 offer:1 could:1 sales:1 but:1 up:1 patience:1 operator:1 glimmer:1 losing:1 hold:1 its:1 hope:1 if:1
+ANF	20140819	41.4	42.3	r_up	fashion:1 retailers:1 investors:1 seriously:1 have:1 fallen:1 out:1
+ANF	20140820	42.3	43.7	r_up	
+ANF	20140821	43.7	43.3	r_down	
+ANF	20140822	43.3	43.6	r_up	
+ANF	20140825	43.6	43.3	r_down	
+ANF	20140826	43.3	44.6	r_up	giving:2 pay:3 top:2 executive:1 companies:2 two:1 keep:2 few:1 perks:2 including:1 luxury:2 despite:2 shareholder:2 officers:2 packages:2 sky-high:2 ire:2 dozen:1
+ANF	20140827	44.6	44.0	r_down	
+ANF	20140828	44.0	41.8	r_down	saying:1 hold:1 tone:1 session:1 ca:1 year:1 retailer:1 sales:1 quarters:1 not:1 see:1 growth:1 rally:1 's:5 eked:1 event:1 out:1 n't:1 confirms:1 actively:1 investors:1 their:1 profit:1 surprises:1 shares:2 second-quarter:1 eager:1 advisories:1 earnings:1 expected:1 you:1 gets:1 might:1 momentum:1 can:1 teen:1 division:1 led:1 may:1 company:1 men:1 results:1 focus:1 strike:1 gain:1 trust:1 second-half:1 trade:1 true:1 downgraded:1 executives:1 roundup:1 school:1 whether:2 companies:2 reports:2 thought:1 future:1 follow:1 thin:1 volumes:1 positive:1 quarter:1 corporate:1 latest:2
+ANF	20140829	41.8	41.8	r_up	streak:1 spring:1 2,000:1 retailer:1 renewed:1 economic:2 cease:1 have:1 logo:1 clothing:1 its:2 fails:1 said:1 end:1 equities:1 border:1 fears:1 been:1 winning:1 under:1 2015:1 enthusiasm:1 reading:1 500:1 higher:1 teen:1 tension:1 customers:1 any:1 sold:1 break:1 fell:1 putting:1 upbeat:1 such:1 stocks:2 three-day:1 lower:1 avoiding:1 reports:1 growth:1 push:1
+ANF	20140902	41.8	41.9	r_up	
+ANF	20140903	41.9	41.7	r_down	
+ANF	20140904	41.7	41.1	r_down	
+ANF	20140905	41.1	40.8	r_down	
+ANF	20140908	40.8	40.9	r_up	
+ANF	20140909	40.9	40.6	r_down	
+ANF	20140910	40.6	40.9	r_up	
+ANF	20140911	40.9	41.5	r_up	
+ANF	20140912	41.5	41.3	r_down	
+ANF	20140915	41.3	41.0	r_down	
+ANF	20140916	41.0	41.7	r_up	
+ANF	20140917	41.7	41.3	r_down	
+ANF	20140918	41.3	40.4	r_down	
+ANF	20140919	40.4	39.8	r_down	designs:1 most:1 recalling:1 items:1 shelves:1 offensive:1 up:1 websites:1 keep:1 retail’s:1 episodes:1 5:1 cropping:1 retail:1 clothing:1 painful:1 history:1
+ANF	20140922	39.8	38.0	r_down	
+ANF	20140923	38.0	38.3	r_up	less:1 some:1 sales:1 bring:1 likes:1 rid:1 get:1 activist:1 6:1 more:1 's:2 demands:1 could:1 but:1 wallets:1 members:1 great:1 boards:1 industry:1 leave:1 without:1 spend:1
+ANF	20140924	38.3	38.4	r_up	publishers:1 network:1 less:1 visits:1 send:1 some:1 back:1 clout:1 sites:1 their:2 websites:1 retailers:1 social:1 growing:1 data:1
+ANF	20140925	38.4	37.4	r_down	
+ANF	20140926	37.4	36.8	r_down	money:1 some:1 pieces:1 player:1 have:1 alternative:1 enticing:1 ways:1 sale:2 better:1 5:2 might:1 final:1 we:1 his:1 choice:1 suggested:1 purchase:1 items:1 up:3 games:1 gears:1 each:1 spent:1
+ANF	20140929	36.8	36.8	r_up	executive:1 itself:1 year:1 technology:1 find:1 halved:1 writes:1 next:1 activist:1 innovation:1 new:1 has:1 approach:1 stock:1 slows:1 's:1 big:1 company:1 after:1 released:1 letter:1 buyer:1 change:1 begins:1 companies:1 according:1 urged:1 thing:1 chief:1 mature:1 medical-device:1
+ANF	20140930	36.8	36.3	r_down	'':1 ``:1 own:1 power:1 17:1 index:1 companies:1 seeking:1 year:1 proposals:1 nominate:1 access:1 record:1 boards:1 candidates:1 proxy:1 filed:1 corporate:1 their:1 3000:1
+ANF	20141001	36.3	35.1	r_down	
+ANF	20141002	35.1	35.1	r_up	
+ANF	20141003	35.1	35.8	r_up	teen:1 rating:2 raised:1 his:1 has:1 retailer:1 drops:1 analyst:1
+ANF	20141006	35.8	34.6	r_down	
+ANF	20141007	34.6	34.2	r_down	
+ANF	20141008	34.2	35.2	r_up	
+ANF	20141009	35.2	33.8	r_down	
+ANF	20141010	33.8	33.3	r_down	

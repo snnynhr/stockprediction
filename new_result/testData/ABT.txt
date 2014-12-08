@@ -1,307 +1,114 @@
-ABT	20120402	28.43	28.41	r_down	
-ABT	20120403	28.41	28.36	r_down	
-ABT	20120404	28.36	28.51	r_up	
-ABT	20120405	28.51	28.43	r_down	
-ABT	20120409	28.43	28.28	r_down	
-ABT	20120410	28.28	27.9	r_down	
-ABT	20120411	27.9	27.91	r_up	's:1
-ABT	20120412	27.91	27.94	r_up	
-ABT	20120413	27.94	27.88	r_down	's:1
-ABT	20120416	27.88	28.0	r_up	
-ABT	20120417	28.0	28.27	r_up	's:1
-ABT	20120418	28.27	28.28	r_up	watch:1 44:1 's:1
-ABT	20120419	28.28	27.84	r_down	
-ABT	20120420	27.84	28.01	r_up	
-ABT	20120423	28.01	28.01	r_up	
-ABT	20120424	28.01	28.41	r_up	
-ABT	20120425	28.41	28.82	r_up	
-ABT	20120426	28.82	28.94	r_up	
-ABT	20120427	28.94	29.0	r_up	's:1
-ABT	20120430	29.0	29.03	r_up	
-ABT	20120501	29.03	29.11	r_up	
-ABT	20120502	29.11	29.31	r_up	
-ABT	20120503	29.31	29.5	r_up	
-ABT	20120504	29.5	29.2	r_down	75:1
-ABT	20120507	29.2	29.24	r_up	1.6:1 $:1
-ABT	20120508	29.24	29.29	r_up	
-ABT	20120509	29.29	28.64	r_down	
-ABT	20120510	28.64	29.11	r_up	's:1
-ABT	20120511	29.11	29.02	r_down	
-ABT	20120514	29.02	28.85	r_down	
-ABT	20120515	28.85	28.95	r_up	
-ABT	20120516	28.95	29.26	r_up	
-ABT	20120517	29.26	29.11	r_down	
-ABT	20120518	29.11	28.8	r_down	
-ABT	20120521	28.8	28.92	r_up	
-ABT	20120522	28.92	29.0	r_up	's:1
-ABT	20120523	29.0	28.71	r_down	's:1
-ABT	20120524	28.71	29.2	r_up	
-ABT	20120525	29.2	29.12	r_down	
-ABT	20120529	29.12	29.07	r_down	
-ABT	20120530	29.07	28.91	r_down	
-ABT	20120531	28.91	28.91	r_up	
-ABT	20120601	28.91	28.31	r_down	
-ABT	20120604	28.31	28.17	r_down	
-ABT	20120605	28.17	28.21	r_up	
-ABT	20120606	28.21	28.56	r_up	
-ABT	20120607	28.56	28.63	r_up	
-ABT	20120608	28.63	28.95	r_up	
-ABT	20120611	28.95	28.78	r_down	
-ABT	20120612	28.78	28.99	r_up	
-ABT	20120613	28.99	28.78	r_down	
-ABT	20120614	28.78	29.07	r_up	
-ABT	20120615	29.07	29.24	r_up	
-ABT	20120618	29.24	29.33	r_up	
-ABT	20120619	29.33	29.41	r_up	
-ABT	20120620	29.41	29.39	r_down	
-ABT	20120621	29.39	29.12	r_down	
-ABT	20120622	29.12	29.15	r_up	paying:1 stocks:1 worth:1
-ABT	20120625	29.15	29.06	r_down	
-ABT	20120626	29.06	29.17	r_up	
-ABT	20120627	29.17	29.41	r_up	
-ABT	20120628	29.41	29.43	r_up	
-ABT	20120629	29.43	30.16	r_up	's:1
-ABT	20120702	30.16	30.23	r_up	
-ABT	20120703	30.23	30.33	r_up	
-ABT	20120705	30.33	30.29	r_down	
-ABT	20120706	30.29	30.29	r_up	
-ABT	20120709	30.29	30.69	r_up	
-ABT	20120710	30.69	30.72	r_up	
-ABT	20120711	30.72	30.73	r_up	
-ABT	20120712	30.73	30.71	r_down	
-ABT	20120713	30.71	30.86	r_up	
-ABT	20120716	30.86	30.87	r_up	
-ABT	20120717	30.87	31.33	r_up	's:1 up:1
-ABT	20120718	31.33	31.08	r_down	11:3 2:3 watch:2
-ABT	20120719	31.08	31.02	r_down	surprises:1 advisories:1 's:1
-ABT	20120720	31.02	30.67	r_down	
-ABT	20120723	30.67	30.48	r_down	
-ABT	20120724	30.48	30.15	r_down	
-ABT	20120725	30.15	30.23	r_up	
-ABT	20120726	30.23	30.48	r_up	
-ABT	20120727	30.48	31.3	r_up	
-ABT	20120730	31.3	31.4	r_up	
-ABT	20120731	31.4	31.26	r_down	
-ABT	20120801	31.26	31.16	r_down	
-ABT	20120802	31.16	31.28	r_up	
-ABT	20120803	31.28	31.4	r_up	
-ABT	20120806	31.4	31.29	r_down	
-ABT	20120807	31.29	31.13	r_down	
-ABT	20120808	31.13	31.07	r_down	
-ABT	20120809	31.07	30.99	r_down	
-ABT	20120810	30.99	31.17	r_up	
-ABT	20120813	31.17	31.11	r_down	
-ABT	20120814	31.11	31.2	r_up	
-ABT	20120815	31.2	31.32	r_up	's:1
-ABT	20120816	31.32	31.32	r_up	100:1 57:1 $:1
-ABT	20120817	31.32	31.08	r_down	
-ABT	20120820	31.08	30.99	r_down	
-ABT	20120821	30.99	30.79	r_down	
-ABT	20120822	30.79	30.9	r_up	
-ABT	20120823	30.9	30.8	r_down	
-ABT	20120824	30.8	31.04	r_up	
-ABT	20120827	31.04	30.99	r_down	
-ABT	20120828	30.99	30.99	r_up	
-ABT	20120829	30.99	30.93	r_down	's:3
-ABT	20120830	30.93	30.83	r_down	
-ABT	20120831	30.83	30.9	r_up	
-ABT	20120904	30.9	30.86	r_down	
-ABT	20120905	30.86	31.0	r_up	
-ABT	20120906	31.0	31.55	r_up	
-ABT	20120907	31.55	31.44	r_down	
-ABT	20120910	31.44	31.68	r_up	
-ABT	20120911	31.68	31.74	r_up	
-ABT	20120912	31.74	31.99	r_up	
-ABT	20120913	31.99	32.66	r_up	
-ABT	20120914	32.66	32.19	r_down	
-ABT	20120917	32.19	32.59	r_up	
-ABT	20120918	32.59	32.49	r_down	
-ABT	20120919	32.49	32.7	r_up	
-ABT	20120920	32.7	32.94	r_up	
-ABT	20120921	32.94	32.82	r_down	
-ABT	20120924	32.82	32.82	r_up	
-ABT	20120925	32.82	32.8	r_down	
-ABT	20120926	32.8	32.62	r_down	
-ABT	20120927	32.62	32.68	r_up	
-ABT	20120928	32.68	32.32	r_down	
-ABT	20121001	32.32	32.57	r_up	
-ABT	20121002	32.57	32.32	r_down	off:1 investors:1 ignoring:1 beta:1 4:1 concepts:1
-ABT	20121003	32.32	32.92	r_up	
-ABT	20121004	32.92	33.37	r_up	n't:1
-ABT	20121005	33.37	33.76	r_up	
-ABT	20121008	33.76	33.63	r_down	
-ABT	20121009	33.63	33.43	r_down	
-ABT	20121010	33.43	33.18	r_down	
-ABT	20121011	33.18	32.97	r_down	
-ABT	20121012	32.97	32.9	r_down	
-ABT	20121015	32.9	34.22	r_up	
-ABT	20121016	34.22	34.26	r_up	sectors:1 rise:1 health-care:1 bank:1 buoyed:1
-ABT	20121017	34.26	32.79	r_down	's:3 watch:1 550:2 shares:1 program:1 exit:1 earnings:1 2013:1 boosts:1
-ABT	20121018	32.79	31.65	r_down	lower:1 study:1 shares:1 forecast:1 halted:1 concerns:1 safety:1 earnings:1 fall:1 over:1 kidney:1
-ABT	20121019	31.65	31.42	r_down	
-ABT	20121022	31.42	31.25	r_down	
-ABT	20121023	31.25	31.04	r_down	25:2 $:2
-ABT	20121024	31.04	31.14	r_up	
-ABT	20121025	31.14	31.24	r_up	's:1
-ABT	20121026	31.24	31.1	r_down	10:3 $:3
-ABT	20121031	31.1	31.11	r_up	
-ABT	20121101	31.11	31.08	r_down	's:1
-ABT	20121102	31.08	30.85	r_down	
-ABT	20121105	30.85	30.89	r_up	20:1 15.5:1 's:2 $:4 14:1
-ABT	20121106	30.89	30.78	r_down	37:1 's:1 $:1
-ABT	20121107	30.78	30.64	r_down	
-ABT	20121108	30.64	30.15	r_down	
-ABT	20121109	30.15	30.79	r_up	
-ABT	20121112	30.79	30.81	r_up	
-ABT	20121113	30.81	30.72	r_down	jump:1 drug:1 shares:1 results:1
-ABT	20121114	30.72	30.27	r_down	
-ABT	20121115	30.27	30.01	r_down	
-ABT	20121116	30.01	29.86	r_down	
-ABT	20121119	29.86	29.88	r_up	'13:1 's:1
-ABT	20121120	29.88	29.96	r_up	
-ABT	20121121	29.96	30.08	r_up	
-ABT	20121123	30.08	30.62	r_up	
-ABT	20121126	30.62	30.57	r_down	
-ABT	20121127	30.57	30.42	r_down	
-ABT	20121128	30.42	30.67	r_up	
-ABT	20121129	30.67	30.91	r_up	
-ABT	20121130	30.91	30.87	r_down	
-ABT	20121203	30.87	30.53	r_down	
-ABT	20121204	30.53	30.58	r_up	beat:1 small:1 year-end:1 until:1 caps:1
-ABT	20121205	30.58	30.65	r_up	
-ABT	20121206	30.65	30.67	r_up	
-ABT	20121207	30.67	31.12	r_up	
-ABT	20121210	31.12	31.03	r_down	10:1 2013:1
-ABT	20121211	31.03	31.43	r_up	
-ABT	20121212	31.43	31.35	r_down	
-ABT	20121213	31.35	31.02	r_down	
-ABT	20121214	31.02	31.04	r_up	
-ABT	20121217	31.04	30.96	r_down	
-ABT	20121218	30.96	31.31	r_up	
-ABT	20121219	31.31	31.03	r_down	
-ABT	20121220	31.03	31.13	r_up	n't:2 100:1
-ABT	20121221	31.13	31.37	r_up	100:1
-ABT	20121224	31.37	31.09	r_down	
-ABT	20121226	31.09	30.9	r_down	
-ABT	20121227	30.9	30.89	r_down	
-ABT	20121228	30.89	30.59	r_down	
-ABT	20121231	30.59	31.11	r_up	
-ABT	20130102	31.11	31.8	r_up	
-ABT	20130103	31.8	33.01	r_up	
-ABT	20130104	33.01	32.81	r_down	climb:1 improved:1 outlook:1 shares:1
-ABT	20130107	32.81	33.08	r_up	
-ABT	20130108	33.08	33.09	r_up	
-ABT	20130109	33.09	33.31	r_up	
-ABT	20130110	33.31	33.58	r_up	
-ABT	20130111	33.58	33.24	r_down	
-ABT	20130114	33.24	33.23	r_down	
-ABT	20130115	33.23	32.9	r_down	
-ABT	20130116	32.9	32.58	r_down	
-ABT	20130117	32.58	32.66	r_up	
-ABT	20130118	32.66	32.62	r_down	
-ABT	20130122	32.62	32.78	r_up	
-ABT	20130123	32.78	32.69	r_down	's:1 earnings:1
-ABT	20130124	32.69	32.68	r_down	swings:1 few:1 health:1 earnings:1 wild:1 stock:1
-ABT	20130125	32.68	32.67	r_down	
-ABT	20130128	32.67	32.88	r_up	
-ABT	20130129	32.88	33.2	r_up	
-ABT	20130130	33.2	33.09	r_down	
-ABT	20130131	33.09	33.75	r_up	aided:1 buyout:1 losses:1 sinks:1 talk:1
-ABT	20130201	33.75	33.74	r_down	
-ABT	20130204	33.74	33.37	r_down	
-ABT	20130205	33.37	33.71	r_up	
-ABT	20130206	33.71	33.97	r_up	
-ABT	20130207	33.97	34.26	r_up	
-ABT	20130208	34.26	34.28	r_up	
-ABT	20130211	34.28	34.13	r_down	
-ABT	20130212	34.13	34.17	r_up	
-ABT	20130213	34.17	34.33	r_up	
-ABT	20130214	34.33	34.57	r_up	
-ABT	20130215	34.57	34.95	r_up	
-ABT	20130219	34.95	34.69	r_down	
-ABT	20130220	34.69	34.39	r_down	
-ABT	20130221	34.39	34.13	r_down	
-ABT	20130222	34.13	34.42	r_up	
-ABT	20130225	34.42	34.14	r_down	
-ABT	20130226	34.14	33.93	r_down	
-ABT	20130227	33.93	34.13	r_up	
-ABT	20130228	34.13	33.66	r_down	
-ABT	20130301	33.66	33.47	r_down	
-ABT	20130304	33.47	34.18	r_up	
-ABT	20130305	34.18	34.54	r_up	
-ABT	20130306	34.54	34.14	r_down	
-ABT	20130307	34.14	34.3	r_up	
-ABT	20130308	34.3	34.55	r_up	
-ABT	20130311	34.55	34.8	r_up	
-ABT	20130312	34.8	34.85	r_up	
-ABT	20130313	34.85	34.88	r_up	
-ABT	20130314	34.88	35.01	r_up	
-ABT	20130315	35.01	34.01	r_down	
-ABT	20130318	34.01	33.33	r_down	's:1
-ABT	20130319	33.33	33.41	r_up	's:1 40:1
-ABT	20130320	33.41	33.68	r_up	
-ABT	20130321	33.68	33.35	r_down	
-ABT	20130322	33.35	33.56	r_up	junk:1 stocks:1 now:1 out:1
-ABT	20130325	33.56	33.67	r_up	
-ABT	20130326	33.67	34.22	r_up	
-ABT	20130327	34.22	34.48	r_up	
-ABT	20130328	34.48	35.19	r_up	
-ABT	20130401	35.19	35.18	r_down	
-ABT	20130402	35.18	35.98	r_up	
-ABT	20130403	35.98	36.18	r_up	
-ABT	20130404	36.18	36.51	r_up	
-ABT	20130405	36.51	36.17	r_down	
-ABT	20130408	36.17	36.41	r_up	
-ABT	20130409	36.41	36.52	r_up	's:1
-ABT	20130410	36.52	36.96	r_up	
-ABT	20130411	36.96	37.27	r_up	
-ABT	20130412	37.27	37.13	r_down	
-ABT	20130415	37.13	36.13	r_down	
-ABT	20130416	36.13	36.4	r_up	flurry:1 companies:1 mergers:1 ripe:1
-ABT	20130417	36.4	37.28	r_up	weighs:1 ends:1 's:1 15-month:1 movers:1 futures:1 lower:1 misses:1 low:1 disappoint:1 close:1 earnings:1
-ABT	20130418	37.28	36.88	r_down	
-ABT	20130419	36.88	37.2	r_up	
-ABT	20130422	37.2	36.89	r_down	
-ABT	20130423	36.89	37.21	r_up	
-ABT	20130424	37.21	36.52	r_down	
-ABT	20130425	36.52	36.49	r_down	
-ABT	20130426	36.49	36.46	r_down	9.6:2
-ABT	20130429	36.46	36.73	r_up	
-ABT	20130430	36.73	36.92	r_up	$:1 deal:1 bln:1 17:1 demand:1 prices:1 strong:1 bond:1
-ABT	20130501	36.92	36.89	r_down	
-ABT	20130502	36.89	37.06	r_up	
-ABT	20130503	37.06	36.8	r_down	
-ABT	20130506	36.8	35.85	r_down	
-ABT	20130507	35.85	36.06	r_up	
-ABT	20130508	36.06	36.29	r_up	
-ABT	20130509	36.29	36.18	r_down	
-ABT	20130510	36.18	36.17	r_down	
-ABT	20130513	36.17	36.35	r_up	
-ABT	20130514	36.35	37.05	r_up	
-ABT	20130515	37.05	37.66	r_up	
-ABT	20130516	37.66	36.83	r_down	
-ABT	20130517	36.83	36.59	r_down	
-ABT	20130520	36.59	37.81	r_up	
-ABT	20130521	37.81	37.72	r_down	
-ABT	20130522	37.72	37.72	r_up	
-ABT	20130523	37.72	37.48	r_down	
-ABT	20130524	37.48	37.76	r_up	
-ABT	20130528	37.76	38.56	r_up	
-ABT	20130529	38.56	37.72	r_down	
-ABT	20130530	37.72	37.68	r_down	
-ABT	20130531	37.68	36.67	r_down	
-ABT	20130603	36.67	37.16	r_up	
-ABT	20130604	37.16	36.8	r_down	
-ABT	20130605	36.8	36.3	r_down	
-ABT	20130606	36.3	36.64	r_up	
-ABT	20130607	36.64	37.51	r_up	
-ABT	20130610	37.51	37.49	r_down	
-ABT	20130611	37.49	36.83	r_down	
-ABT	20130612	36.83	36.44	r_down	
-ABT	20130613	36.44	36.7	r_up	
-ABT	20130614	36.7	36.81	r_up	3:1 's:1 $:1
-ABT	20130617	36.81	36.89	r_up	
-ABT	20130618	36.89	37.51	r_up	delay:1 jeopardy:1 sale:1 generics:1
-ABT	20130619	37.51	36.21	r_down	
-ABT	20130620	36.21	35.17	r_down	
-ABT	20130621	35.17	35.58	r_up	
+ABT	20140501	38.3	38.2	r_down	
+ABT	20140502	38.2	38.1	r_down	
+ABT	20140505	38.1	38.4	r_up	
+ABT	20140506	38.4	38.1	r_down	considering:1 large:1 them:1 now:1 begun:1 reportedly:1 older:1 medicines:1 some:1 sale:1 drug:1 month:1 past:1 their:1 buy:1 but:1 have:1 why:1 2014:1 several:1 makers:1
+ABT	20140507	38.1	38.2	r_up	
+ABT	20140508	38.2	38.3	r_up	
+ABT	20140509	38.3	38.5	r_up	
+ABT	20140512	38.5	38.8	r_up	
+ABT	20140513	38.8	39.2	r_up	
+ABT	20140514	39.2	39.5	r_up	
+ABT	20140515	39.5	38.8	r_down	disclose:1 half:1 manage:1 month:1 click:2 previous:1 end:1 $:1 holdings:3 several:1 bought:1 firm:1 within:1 's:1 sold:1 million:1 here:2 most:1 latest:2 100:1 than:1 quarter:3 required:1 securities:2 more:1 view:2
+ABT	20140516	38.8	38.6	r_down	criticism:1 private-equity:1 stores:1 significantly:1 chain:1 presence:1 borrowing:1 agreed:2 move:1 long-running:1 sales:1 owned:1 trade:2 facilities:1 2.9:2 session:2 through:1 6.2:1 broader:1 thick:1 newsletter:1 its:4 market:1 sell:1 said:2 capacity:1 opened:1 7,000:1 writes:1 expectations:1 shares:2 tend:1 also:1 add:1 writers:1 investors:1 closed:1 expanding:1 expected:2 new:1 newly:1 several:1 company:1 firm:1 topping:1 buy:2 's:2 month:1 honor-roll:1 2.1:1 period:1 9:1 despite:1 improving:1 line:1 stocks:1 struggling:1 $:3 billion:3 easily:1 excluding:1 outperform:1 employees:1 climbed:1 companies:2 cash:1 credit:1 actively:2 thin:1 each:1 quarter:1 expands:1 latest:1
+ABT	20140519	38.6	39.2	r_up	website:1 submitted:1 ``:3 has:1 shortly:1 amended:1 16:3 found:1 available:1 shareholders:1 been:1 '':3 re:1 announcement:1 can:1 filed:1 date:1 2014:3 copy:1 inspection:1 its:1
+ABT	20140520	39.2	39.1	r_down	
+ABT	20140521	39.1	39.1	r_up	
+ABT	20140522	39.1	39.2	r_up	
+ABT	20140523	39.2	39.1	r_down	
+ABT	20140527	39.1	39.1	r_up	
+ABT	20140528	39.1	39.2	r_up	
+ABT	20140529	39.2	39.1	r_down	
+ABT	20140530	39.1	39.5	r_up	unsolicited:1 global:1 dollar:1 all:1 years:1 go:1 busy:1 $:2 fined:1 lured:1 has:1 2013:1 government:1 far:1 2nd:1 --:2 companies:1 deals:1 mergers:1 glasses:1 competition:1 relative:1 perspective:1 year:1 's:3 makers:2 said:1 boardrooms:1 since:1 integration:1 3:1 7:1 million:3 takeover:1 beginning:1 both:1 reverse:1 against:1 amount:1 makes:1 lenses:1 into:1 two:1 guests:1 use:1 management:1 lens:1 alleged:2 tame:1 more:3 acquisitions:1 manipulation:1 effort:1 than:2 those:1 19:2 bids:1 fines:1 behavior:1 pricing:1 seven:1 investors:1 totaling:1 share:1 say:1 caution:1 reports:1 sense:1 other:1 split:1 largest:1 party:1 explains:1 lawyers:1 price:1 after:1 reflect:1 most:1 yuan:2 why:1 billion:1 antitrust:1 sometimes:1 bankers:1 contact:2 so:1 2007:1 latest:1 +:1 laws:1
+ABT	20140602	39.5	39.3	r_down	
+ABT	20140603	39.3	39.4	r_up	
+ABT	20140604	39.4	39.3	r_down	
+ABT	20140605	39.3	39.7	r_up	
+ABT	20140606	39.7	39.6	r_down	
+ABT	20140609	39.6	39.7	r_up	
+ABT	20140610	39.7	40.1	r_up	
+ABT	20140611	40.1	39.5	r_down	
+ABT	20140612	39.5	39.3	r_down	
+ABT	20140613	39.3	39.3	r_up	
+ABT	20140616	39.3	39.4	r_up	website:1 announcement:1 13:3 has:1 shortly:1 amended:1 found:1 submitted:1 shareholders:1 available:1 ``:3 been:1 '':3 re:1 can:1 filed:1 date:1 2014:3 copy:1 inspection:1 its:1
+ABT	20140617	39.4	39.4	r_up	
+ABT	20140618	39.4	39.9	r_up	billion:1 's:3 $:1 deal:1 industry:1 months:1 43:1 deals:1 wake:1 analysts:1 investors:1 coming:1 telling:1 more:1 medical-device:1 expect:1
+ABT	20140619	39.9	40.5	r_up	
+ABT	20140620	40.5	40.4	r_down	gold:1 tax:1 have:1 $:1 46:1 been:1 meeting:1 markets:1 company:1 week:1 buy:1 's:2 bid:1 rejected:1 takeover:1 advantages:1 but:1 address:1 prices:1 immediately:1 come:1 billion:1 attempt:1 anything:1 rival:1 quiet:1 foreign:1 time:1 following:1 latest:1 maker:1 otherwise:1
+ABT	20140623	40.4	40.3	r_down	set:1 financial:1 investors:1 presence:1 chip:1 results:1 session:1 year:1 targets:1 out:1 even:1 decline:1 manufacturing:1 $:1 giving:1 top:1 expectations:1 shares:2 its:1 earnings:1 quarterly:1 new:1 agreed:1 extended:1 's:1 run-up:1 beat:1 company:1 acquire:1 takeover:1 controlling:1 strong:1 pharmaceutical:1 billion:1 advance:1 rejection:1 maker’s:1 country:1 drug:1 separately:1 46:1 slide:1 rival:1 following:2 shareholder:1 maker:1
+ABT	20140624	40.3	40.0	r_down	session:2 's:2 companies:2 shares:2 trade:2 actively:2 expected:2
+ABT	20140625	40.0	40.2	r_up	
+ABT	20140626	40.2	40.1	r_down	
+ABT	20140627	40.1	40.1	r_up	
+ABT	20140630	40.1	40.4	r_up	
+ABT	20140701	40.4	40.7	r_up	
+ABT	20140702	40.7	41.3	r_up	
+ABT	20140703	41.3	41.4	r_up	
+ABT	20140707	41.4	41.0	r_down	
+ABT	20140708	41.0	40.6	r_down	billion:1 pharmaceutical:1 raised:1 attempt:1 $:1 offer:1 company:1 51:1 negotiating:1 than:1 bring:1 board:1 fourth:1 table:1 's:1 its:2 more:1
+ABT	20140709	40.6	40.8	r_up	
+ABT	20140710	40.8	40.8	r_up	
+ABT	20140711	40.8	41.0	r_up	proposed:1 agreed:1 have:1 's:1 develop:1 $:2 300:1 dairy:2 combined:1 proposal:1 week:1 million:1 terms:1 hub:1 farm:1 company:2 earlier:1 met:1 takeover:1 discuss:1 billion:1 rival:1 51:1 up:1 project:1 team:1 spend:1
+ABT	20140714	41.0	41.6	r_up	developed:1 trade:1 session:1 through:1 its:2 giant:1 $:7 interesting:1 had:2 equity:1 dominated:1 has:1 all-stock:1 good:1 increased:1 seeking:1 beat:1 rebound:1 private:1 burden:1 hedge:1 prime:1 inversion:1 success:1 countries:1 54:2 companies:4 morning:1 deals:2 inversions:1 including:1 better-than-expected:1 beneficial:1 deal:6 trend:1 actively:1 close:2 closes:1 said:1 shares:1 enough:1 health:1 above:2 new:1 is…:1 announced:1 we:1 business:3 sold:1 advantages:1 17,000:2 news:2 100:1 industry:2 drug:1 efforts:1 traded:1 think:1 marked:1 one:1 throughout:1 your:1 pharmaceutical:2 would:2 pharmaceuticals:2 takeovers:1 two:1 been:1 their:1 rates:1 biggest:1 hottest:1 branded:1 markets:1 today:1 more:1 head:1 buy:1 mostly:1 drugs:2 funds:1 company:1 fore:1 purposes:1 expected:1 part:2 demand:1 than:1 twist:1 valued:1 publicly:1 these:1 generics:3 n't:1 closing:1 example:2 health-care:2 tax:5 ``:2 '':2 have:1 sells:1 seek:1 finance:1 sell:2 5.3:5 equities:1 lately:1 other:2 earnings:1 which:2 largest:1 you:1 's:3 transactions:1 includes:1 driven:1 flurry:1 coming:1 stocks:2 types:1 billion:5 purchase:1 lower:1 transaction:1 wins:1 traditional:1 portion:1 banks:1 overseas:1 corporate:1 talk:1 latest:2
+ABT	20140715	41.6	40.9	r_down	help:1 figure:1 revenue:1 guided:1 sidestep:1 tax:1 shut:1 one:1 '':1 say:1 fever:1 drug:1 unveiled:1 pitch:1 close:1 reached:1 makers:1 best:1 seen:1 20:1 stands:1 puts:1 personal:1 scoops:1 legislation:1 while:1 their:1 only:1 much:1 rates:1 slash:1 tumbles:1 2014:1 has:1 health-care:1 difficult:1 wants:1 billion:1 ``:1 restricting:1 memo:1 practice:1 them:1 but:1 wave:1 slides:1 every:1 gain:2 internal:1 not:1 estimate:1 day:1 recent:1 corporate-tax:1 down:1 companies:1 according:1 taxes:1 foreign:1 banker:1 tour:1 race:1 stories:1 mergers:1 lose:1 inversions:2 $:1 urging:1
+ABT	20140716	40.9	40.8	r_down	biotech:1 leaders:1 just:1 revenue:1 globe:1 jurisdiction:1 drive:1 rate:1 session:1 economy:1 2.2:1 close:1 's:5 its:1 out:2 profitable:1 said:1 media:1 small-company:1 shares:1 looking:1 costs:1 earnings:1 interest:1 expected:1 speak:1 markets:1 more:1 wants:1 play:1 felt:1 edged:1 around:1 business:1 though:1 may:1 attention:1 corporations:1 preferred:1 most:1 effects:1 trade:1 second-quarter:1 bank:1 stocks:1 central:1 policy:1 sway:1 companies:2 up:1 actively:1 diagnostics:1 overseas:1 led:1 social:1
+ABT	20140717	40.8	41.6	r_up	summer:1 code:1 saying:1 being:1 over:1 quarters:1 held:1 including:1 touch:1 busy:1 $:1 surprises:1 advisories:1 has:1 hope:1 ...:1 good:1 around:1 sunny:1 know:1 fall:1 day:1 developments:1 crisp:1 drop:1 companies:2 morning:2 activity:1 set:1 people:1 talks:1 out:1 're:1 tidbits:1 firms:1 ever:1 across:1 filled:1 hustle:1 we:2 notable:1 here:1 come:1 roundup:1 reports:1 menu:1 climb:1 maker:1 private-equity:1 everyone:1 your:1 market:1 interesting:1 rivals:1 way:1 today:1 abusing:1 door:1 drugs:1 line:1 believe:1 valued:1 us:2 n't:1 future:1 skies:1 making:1 tax:1 drug:1 moves:1 campus:1 if:1 things:1 potential:1 earnings:1 you:3 encouraged:1 stock:1 such:1 stocks:1 billion:1 short:1 older:1 sale:1 cheer:1 absurd:1 claims:1 usual:2 corporate:1 latest:1
+ABT	20140718	41.6	42.5	r_up	deal:2 tax:2 one:1 rate:1 taxes:1 reached:1 yet:1 its:3 $:3 spending:1 writes:1 legal:1 fight:1 outside:1 slash:1 largest:1 has:1 breaks:1 seeks:1 buy:1 's:1 company:1 moving:1 address:1 date:1 investments:1 sad:1 buying:1 billion:1 lower:2 55:1 54:2 drug:1 foreign:1 deals:2 truth:1 rival:1 maker:1 tax-‘inversion’:1
+ABT	20140721	42.5	42.7	r_up	
+ABT	20140722	42.7	42.8	r_up	
+ABT	20140723	42.8	42.7	r_down	
+ABT	20140724	42.7	42.6	r_down	
+ABT	20140725	42.6	42.8	r_up	
+ABT	20140728	42.8	42.7	r_down	
+ABT	20140729	42.7	42.5	r_down	
+ABT	20140730	42.5	42.6	r_up	
+ABT	20140731	42.6	41.9	r_down	proved:1 investors:1 trend:1 move:1 tax:2 its:1 pharmaceutical:1 cross-border:1 looking:1 hottest:1 's:2 wo:1 company:2 possible:1 but:1 takeover:1 such:1 lower:1 spurn:1 --:2 bill:1 n't:1 night:1 inversions:1 served:1
+ABT	20140801	41.9	41.8	r_down	
+ABT	20140804	41.8	42.1	r_up	
+ABT	20140805	42.1	41.5	r_down	
+ABT	20140806	41.5	41.5	r_up	
+ABT	20140807	41.5	41.3	r_down	outlook:1 said:1 generic-drug:1 revenue:2 profit:1 company:1 30:1 full-year:1 second-quarter:1 top:1 also:1 rise:1 fell:1 earnings:1 trimmed:1 expenses:1 its:2 higher:1
+ABT	20140808	41.3	41.4	r_up	
+ABT	20140811	41.4	41.8	r_up	prompted:1 distributors:1 1.8:1 fine:1 makers:2 pharmaceutical:1 anti-trust:1 $:1 working:1 generic:1 large:1 conspiring:1 other:1 between:1 several:1 meeting:1 's:1 allegedly:1 company:1 million:1 took:1 country:1 drug:2 keep:1 regulator:1 place:1
+ABT	20140812	41.8	41.3	r_down	
+ABT	20140813	41.3	41.9	r_up	
+ABT	20140814	41.9	42.1	r_up	
+ABT	20140815	42.1	41.8	r_down	
+ABT	20140818	41.8	42.0	r_up	
+ABT	20140819	42.0	42.3	r_up	
+ABT	20140820	42.3	41.9	r_down	
+ABT	20140821	41.9	42.1	r_up	
+ABT	20140822	42.1	41.8	r_down	
+ABT	20140825	41.8	42.2	r_up	
+ABT	20140826	42.2	42.5	r_up	
+ABT	20140827	42.5	42.3	r_down	
+ABT	20140828	42.3	42.1	r_down	
+ABT	20140829	42.1	42.0	r_down	
+ABT	20140902	42.0	42.0	r_up	
+ABT	20140903	42.0	42.5	r_up	fend:1 inversion:1 off:1 deal:1 company:1 administration:1 drug:1 pressure:1 put:1 's:1 effort:1
+ABT	20140904	42.5	42.6	r_up	
+ABT	20140905	42.6	42.7	r_up	
+ABT	20140908	42.7	42.5	r_down	
+ABT	20140909	42.5	42.6	r_up	hurting:1 year:1 makers:1 subject:1 anti-trust:1 consumers:1 since:1 their:1 has:1 charging:1 violating:1 greater:1 may:1 scrutiny:1 filed:1 lawsuit:1 ruled:1 last:1 antitrust:1 collective:1 drug:1 deals:1 time:1 first:1 laws:1
+ABT	20140910	42.6	42.6	r_up	
+ABT	20140911	42.6	42.3	r_down	billion:1 said:1 's:1 $:2 company:1 repurchases:1 its:1 3:2 much:1 board:1 shares:1 approved:1
+ABT	20140912	42.3	42.3	r_up	
+ABT	20140915	42.3	42.4	r_up	
+ABT	20140916	42.4	42.6	r_up	
+ABT	20140917	42.6	43.1	r_up	
+ABT	20140918	43.1	43.4	r_up	
+ABT	20140919	43.4	43.3	r_down	
+ABT	20140922	43.3	43.1	r_down	
+ABT	20140923	43.1	42.2	r_down	cracking:1 investors:1 less:1 process:1 tweak:1 over:1 tax:2 down:1 device:1 say:1 unveiled:1 open:1 makers:2 viewed:1 deals:1 stocks:1 ripe:1 their:1 lawsuit:1 guidance:1 long-awaited:1 looking:1 rivals:1 attractive:1 rethink:1 several:1 cause:1 charging:1 pending:1 violating:1 after:1 's:1 halt:1 may:1 some:1 sold:1 handful:1 following:1 takeover:1 sharply:1 sweeping:1 law:2 effort:1 recent:1 off:1 antitrust:1 proposed:1 companies:2 drug:2 n't:1 appealing:1 so:1 professor:1 inversions:2 changes:1 make:1 mergers:1 once:1
+ABT	20140924	42.2	42.4	r_up	among:2 opting:1 tax:1 one:1 shares:1 year:1 been:2 hedge-fund:1 also:1 potentially:1 new:1 has:2 bets:1 hit:1 rules:1 lower:1 most:2 stocks:1 inversion:2 companies:1 deals:1 popular:1
+ABT	20140925	42.4	41.7	r_down	
+ABT	20140926	41.7	41.7	r_up	
+ABT	20140929	41.7	41.6	r_down	
+ABT	20140930	41.6	41.3	r_down	
+ABT	20141001	41.3	40.9	r_down	
+ABT	20141002	40.9	40.9	r_up	
+ABT	20141003	40.9	41.5	r_up	
+ABT	20141006	41.5	42.1	r_up	
+ABT	20141007	42.1	41.2	r_down	
+ABT	20141008	41.2	41.9	r_up	
+ABT	20141009	41.9	41.4	r_down	
+ABT	20141010	41.4	41.5	r_up	

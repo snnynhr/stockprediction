@@ -1,307 +1,114 @@
-ICE	20120402	137.42	138.62	r_up	
-ICE	20120403	138.62	137.63	r_down	
-ICE	20120404	137.63	134.52	r_down	
-ICE	20120405	134.52	138.6	r_up	
-ICE	20120409	138.6	135.84	r_down	
-ICE	20120410	135.84	132.18	r_down	
-ICE	20120411	132.18	133.49	r_up	
-ICE	20120412	133.49	134.13	r_up	
-ICE	20120413	134.13	133.05	r_down	
-ICE	20120416	133.05	131.34	r_down	
-ICE	20120417	131.34	132.31	r_up	
-ICE	20120418	132.31	130.53	r_down	
-ICE	20120419	130.53	129.51	r_down	
-ICE	20120420	129.51	128.39	r_down	
-ICE	20120423	128.39	128.07	r_down	
-ICE	20120424	128.07	130.36	r_up	
-ICE	20120425	130.36	132.62	r_up	
-ICE	20120426	132.62	131.0	r_down	
-ICE	20120427	131.0	132.67	r_up	
-ICE	20120430	132.67	133.04	r_up	
-ICE	20120501	133.04	131.11	r_down	
-ICE	20120502	131.11	127.85	r_down	
-ICE	20120503	127.85	129.26	r_up	leads:1 lower:1 stocks:1 financial:1
-ICE	20120504	129.26	127.29	r_down	
-ICE	20120507	127.29	125.64	r_down	
-ICE	20120508	125.64	125.29	r_down	
-ICE	20120509	125.29	124.92	r_down	
-ICE	20120510	124.92	125.05	r_up	
-ICE	20120511	125.05	123.98	r_down	
-ICE	20120514	123.98	123.14	r_down	
-ICE	20120515	123.14	122.04	r_down	
-ICE	20120516	122.04	121.74	r_down	
-ICE	20120517	121.74	121.34	r_down	4:5
-ICE	20120518	121.34	123.59	r_up	
-ICE	20120521	123.59	125.09	r_up	
-ICE	20120522	125.09	124.68	r_down	
-ICE	20120523	124.68	124.38	r_down	
-ICE	20120524	124.38	123.95	r_down	
-ICE	20120525	123.95	125.49	r_up	$:1
-ICE	20120529	125.49	125.1	r_down	
-ICE	20120530	125.1	122.27	r_down	
-ICE	20120531	122.27	122.45	r_up	
-ICE	20120601	122.45	118.47	r_down	
-ICE	20120604	118.47	119.29	r_up	
-ICE	20120605	119.29	125.65	r_up	
-ICE	20120606	125.65	128.36	r_up	gainers:1 financial:1 lead:1
-ICE	20120607	128.36	127.68	r_down	
-ICE	20120608	127.68	127.89	r_up	
-ICE	20120611	127.89	126.76	r_down	
-ICE	20120612	126.76	127.84	r_up	
-ICE	20120613	127.84	125.97	r_down	
-ICE	20120614	125.97	128.79	r_up	
-ICE	20120615	128.79	134.8	r_up	billion:1 buy:1 's:2 $:1 deal:1 2.2:1
-ICE	20120618	134.8	136.24	r_up	
-ICE	20120619	136.24	135.56	r_down	
-ICE	20120620	135.56	134.88	r_down	
-ICE	20120621	134.88	131.32	r_down	
-ICE	20120622	131.32	133.18	r_up	
-ICE	20120625	133.18	131.29	r_down	
-ICE	20120626	131.29	133.36	r_up	court:1 headed:1 shift:1 price:1 battle:1 decision:1
-ICE	20120627	133.36	132.83	r_down	
-ICE	20120628	132.83	134.14	r_up	
-ICE	20120629	134.14	135.98	r_up	
-ICE	20120702	135.98	135.82	r_down	
-ICE	20120703	135.82	134.9	r_down	1:2
-ICE	20120705	134.9	134.74	r_down	
-ICE	20120706	134.74	133.3	r_down	
-ICE	20120709	133.3	132.81	r_down	
-ICE	20120710	132.81	131.48	r_down	's:2
-ICE	20120711	131.48	133.74	r_up	
-ICE	20120712	133.74	134.24	r_up	
-ICE	20120713	134.24	137.22	r_up	
-ICE	20120716	137.22	134.0	r_down	
-ICE	20120717	134.0	136.15	r_up	
-ICE	20120718	136.15	135.67	r_down	
-ICE	20120719	135.67	133.77	r_down	
-ICE	20120720	133.77	131.09	r_down	
-ICE	20120723	131.09	131.17	r_up	
-ICE	20120724	131.17	132.5	r_up	
-ICE	20120725	132.5	130.65	r_down	
-ICE	20120726	130.65	132.73	r_up	's:1
-ICE	20120727	132.73	134.25	r_up	
-ICE	20120730	134.25	132.35	r_down	
-ICE	20120731	132.35	131.22	r_down	
-ICE	20120801	131.22	129.4	r_down	18:3
-ICE	20120802	129.4	128.71	r_down	18:2
-ICE	20120803	128.71	132.25	r_up	
-ICE	20120806	132.25	132.0	r_down	
-ICE	20120807	132.0	132.07	r_up	
-ICE	20120808	132.07	132.25	r_up	
-ICE	20120809	132.25	132.95	r_up	
-ICE	20120810	132.95	133.26	r_up	
-ICE	20120813	133.26	133.73	r_up	
-ICE	20120814	133.73	132.58	r_down	
-ICE	20120815	132.58	132.8	r_up	
-ICE	20120816	132.8	135.63	r_up	
-ICE	20120817	135.63	135.34	r_down	
-ICE	20120820	135.34	135.62	r_up	
-ICE	20120821	135.62	134.39	r_down	
-ICE	20120822	134.39	136.0	r_up	
-ICE	20120823	136.0	135.73	r_down	
-ICE	20120824	135.73	137.1	r_up	
-ICE	20120827	137.1	137.67	r_up	
-ICE	20120828	137.67	138.37	r_up	
-ICE	20120829	138.37	137.26	r_down	
-ICE	20120830	137.26	136.35	r_down	
-ICE	20120831	136.35	136.7	r_up	
-ICE	20120904	136.7	136.58	r_down	
-ICE	20120905	136.58	135.54	r_down	
-ICE	20120906	135.54	136.92	r_up	
-ICE	20120907	136.92	137.13	r_up	
-ICE	20120910	137.13	135.8	r_down	
-ICE	20120911	135.8	135.75	r_down	
-ICE	20120912	135.75	135.95	r_up	
-ICE	20120913	135.95	136.85	r_up	
-ICE	20120914	136.85	140.09	r_up	
-ICE	20120917	140.09	140.4	r_up	
-ICE	20120918	140.4	140.37	r_down	
-ICE	20120919	140.37	138.21	r_down	
-ICE	20120920	138.21	137.8	r_down	
-ICE	20120921	137.8	137.57	r_down	
-ICE	20120924	137.57	137.15	r_down	
-ICE	20120925	137.15	135.21	r_down	
-ICE	20120926	135.21	134.67	r_down	
-ICE	20120927	134.67	135.14	r_up	
-ICE	20120928	135.14	133.41	r_down	
-ICE	20121001	133.41	131.92	r_down	
-ICE	20121002	131.92	130.48	r_down	
-ICE	20121003	130.48	131.5	r_up	
-ICE	20121004	131.5	132.01	r_up	
-ICE	20121005	132.01	131.0	r_down	
-ICE	20121008	131.0	130.45	r_down	
-ICE	20121009	130.45	129.68	r_down	
-ICE	20121010	129.68	128.68	r_down	
-ICE	20121011	128.68	129.14	r_up	
-ICE	20121012	129.14	129.74	r_up	
-ICE	20121015	129.74	129.01	r_down	
-ICE	20121016	129.01	131.42	r_up	
-ICE	20121017	131.42	130.78	r_down	$:2 126:2
-ICE	20121018	130.78	130.47	r_down	more:2
-ICE	20121019	130.47	130.2	r_down	
-ICE	20121022	130.2	131.56	r_up	
-ICE	20121023	131.56	130.38	r_down	
-ICE	20121024	130.38	130.47	r_up	
-ICE	20121025	130.47	130.5	r_up	
-ICE	20121026	130.5	131.19	r_up	
-ICE	20121031	131.19	131.0	r_down	
-ICE	20121101	131.0	131.24	r_up	
-ICE	20121102	131.24	129.83	r_down	
-ICE	20121105	129.83	133.28	r_up	ahead:1 1.2:2 futures:1 steady:1 earnings:1 election:1
-ICE	20121106	133.28	133.45	r_up	's:1
-ICE	20121107	133.45	131.57	r_down	
-ICE	20121108	131.57	130.38	r_down	
-ICE	20121109	130.38	130.3	r_down	12:1
-ICE	20121112	130.3	130.55	r_up	
-ICE	20121113	130.55	128.34	r_down	
-ICE	20121114	128.34	127.94	r_down	
-ICE	20121115	127.94	126.74	r_down	
-ICE	20121116	126.74	127.6	r_up	
-ICE	20121119	127.6	130.03	r_up	
-ICE	20121120	130.03	129.87	r_down	
-ICE	20121121	129.87	130.52	r_up	
-ICE	20121123	130.52	131.19	r_up	
-ICE	20121126	131.19	130.81	r_down	
-ICE	20121127	130.81	129.97	r_down	
-ICE	20121128	129.97	131.0	r_up	
-ICE	20121129	131.0	132.21	r_up	
-ICE	20121130	132.21	132.15	r_down	
-ICE	20121203	132.15	132.0	r_down	services:1 winner:1 financial:1 next:1
-ICE	20121204	132.0	130.85	r_down	
-ICE	20121205	130.85	130.18	r_down	
-ICE	20121206	130.18	131.14	r_up	
-ICE	20121207	131.14	130.72	r_down	
-ICE	20121210	130.72	131.0	r_up	
-ICE	20121211	131.0	129.12	r_down	
-ICE	20121212	129.12	129.7	r_up	
-ICE	20121213	129.7	129.22	r_down	
-ICE	20121214	129.22	127.9	r_down	
-ICE	20121217	127.9	127.84	r_down	
-ICE	20121218	127.84	128.04	r_up	
-ICE	20121219	128.04	128.31	r_up	n't:1 into:1 2013:1
-ICE	20121220	128.31	130.1	r_up	raised:1 deal:1 questions:1 talks:1 close:1 8.2:3 $:3 stocks:1 stall:1 4:1 jumps:1 red:1 higher:1 flat:1 ends:1 's:1 price:1 cut:1 hopes:1 buyout:1 rises:1 fiscal-cliff:1 15:1 movers:1 futures:1 're:1 2013:1
-ICE	20121221	130.1	126.25	r_down	10:1 fizzles:1 8.2:1 's:1 21:1 17:1 tumble:1 top:1 means:1 sale:2 stocks:1 death:1 750:1 stories:1 investors:1 if:1 $:2
-ICE	20121224	126.25	125.04	r_down	
-ICE	20121226	125.04	125.0	r_down	
-ICE	20121227	125.0	124.22	r_down	
-ICE	20121228	124.22	123.66	r_down	2015:1 2013:1
-ICE	20121231	123.66	123.81	r_up	's:1 2012:1
-ICE	20130102	123.81	124.92	r_up	
-ICE	20130103	124.92	126.92	r_up	2012:2
-ICE	20130104	126.92	129.6	r_up	
-ICE	20130107	129.6	126.91	r_down	
-ICE	20130108	126.91	127.18	r_up	
-ICE	20130109	127.18	127.61	r_up	
-ICE	20130110	127.61	128.0	r_up	
-ICE	20130111	128.0	129.36	r_up	
-ICE	20130114	129.36	129.52	r_up	
-ICE	20130115	129.52	128.59	r_down	
-ICE	20130116	128.59	128.08	r_down	
-ICE	20130117	128.08	131.21	r_up	
-ICE	20130118	131.21	133.33	r_up	
-ICE	20130122	133.33	134.11	r_up	
-ICE	20130123	134.11	133.56	r_down	n't:1
-ICE	20130124	133.56	134.28	r_up	
-ICE	20130125	134.28	134.82	r_up	
-ICE	20130128	134.82	135.21	r_up	
-ICE	20130129	135.21	136.71	r_up	
-ICE	20130130	136.71	138.9	r_up	
-ICE	20130131	138.9	138.75	r_down	
-ICE	20130201	138.75	140.88	r_up	's:1
-ICE	20130204	140.88	141.33	r_up	
-ICE	20130205	141.33	143.54	r_up	
-ICE	20130206	143.54	145.22	r_up	earnings:1 78:1
-ICE	20130207	145.22	148.95	r_up	
-ICE	20130208	148.95	149.0	r_up	
-ICE	20130211	149.0	149.83	r_up	flat:1 stocks:1 results:1 ahead:1
-ICE	20130212	149.83	150.71	r_up	
-ICE	20130213	150.71	151.81	r_up	
-ICE	20130214	151.81	155.52	r_up	traders:1 rent:1 space:1
-ICE	20130215	155.52	156.46	r_up	
-ICE	20130219	156.46	155.75	r_down	
-ICE	20130220	155.75	154.72	r_down	aggressive:1 gets:1 share:1 market:1
-ICE	20130221	154.72	153.03	r_down	
-ICE	20130222	153.03	155.98	r_up	
-ICE	20130225	155.98	150.52	r_down	but:1
-ICE	20130226	150.52	152.83	r_up	
-ICE	20130227	152.83	155.09	r_up	
-ICE	20130228	155.09	154.82	r_down	's:1
-ICE	20130301	154.82	154.0	r_down	
-ICE	20130304	154.0	156.57	r_up	
-ICE	20130305	156.57	158.53	r_up	
-ICE	20130306	158.53	160.35	r_up	
-ICE	20130307	160.35	158.74	r_down	
-ICE	20130308	158.74	158.6	r_down	
-ICE	20130311	158.6	159.24	r_up	
-ICE	20130312	159.24	158.5	r_down	
-ICE	20130313	158.5	159.41	r_up	's:1
-ICE	20130314	159.41	162.34	r_up	's:3
-ICE	20130315	162.34	160.98	r_down	
-ICE	20130318	160.98	159.85	r_down	
-ICE	20130319	159.85	159.61	r_down	
-ICE	20130320	159.61	161.6	r_up	
-ICE	20130321	161.6	161.44	r_down	
-ICE	20130322	161.44	162.31	r_up	
-ICE	20130325	162.31	162.0	r_down	
-ICE	20130326	162.0	161.57	r_down	
-ICE	20130327	161.57	159.81	r_down	
-ICE	20130328	159.81	163.07	r_up	
-ICE	20130401	163.07	160.09	r_down	26:1 3.2:1
-ICE	20130402	160.09	161.48	r_up	1.23:1 billion:1 buy:1 up:1 $:1
-ICE	20130403	161.48	156.83	r_down	
-ICE	20130404	156.83	157.1	r_up	
-ICE	20130405	157.1	155.06	r_down	
-ICE	20130408	155.06	155.97	r_up	
-ICE	20130409	155.97	155.05	r_down	
-ICE	20130410	155.05	157.76	r_up	
-ICE	20130411	157.76	158.32	r_up	
-ICE	20130412	158.32	158.2	r_down	
-ICE	20130415	158.2	154.16	r_down	
-ICE	20130416	154.16	155.51	r_up	
-ICE	20130417	155.51	153.97	r_down	
-ICE	20130418	153.97	152.41	r_down	
-ICE	20130419	152.41	154.38	r_up	
-ICE	20130422	154.38	155.27	r_up	
-ICE	20130423	155.27	157.39	r_up	
-ICE	20130424	157.39	158.39	r_up	
-ICE	20130425	158.39	159.59	r_up	's:1
-ICE	20130426	159.59	159.51	r_down	
-ICE	20130429	159.51	161.89	r_up	8.3:1 23:1
-ICE	20130430	161.89	162.93	r_up	among:1 15:1 profit:1 jumps:1 watch:1 upbeat:1 stocks:1 view:1
-ICE	20130501	162.93	166.56	r_up	disappoints:1 surprises:1 watch:1 down:1 advisories:1 stocks:2
-ICE	20130502	166.56	171.56	r_up	
-ICE	20130503	171.56	172.02	r_up	10:1 $:1
-ICE	20130506	172.02	171.68	r_down	
-ICE	20130507	171.68	171.12	r_down	
-ICE	20130508	171.12	171.66	r_up	
-ICE	20130509	171.66	171.21	r_down	
-ICE	20130510	171.21	172.1	r_up	
-ICE	20130513	172.1	172.26	r_up	
-ICE	20130514	172.26	175.91	r_up	gainers:1 tops:1
-ICE	20130515	175.91	174.81	r_down	
-ICE	20130516	174.81	174.02	r_down	
-ICE	20130517	174.02	177.41	r_up	
-ICE	20130520	177.41	176.06	r_down	
-ICE	20130521	176.06	173.49	r_down	
-ICE	20130522	173.49	169.52	r_down	
-ICE	20130523	169.52	168.29	r_down	
-ICE	20130524	168.29	167.66	r_down	
-ICE	20130528	167.66	169.51	r_up	
-ICE	20130529	169.51	171.21	r_up	
-ICE	20130530	171.21	177.44	r_up	
-ICE	20130531	177.44	171.21	r_down	
-ICE	20130603	171.21	169.2	r_down	10.1:1 's:1
-ICE	20130604	169.2	164.76	r_down	's:2
-ICE	20130605	164.76	164.84	r_up	
-ICE	20130606	164.84	169.2	r_up	
-ICE	20130607	169.2	174.7	r_up	
-ICE	20130610	174.7	175.08	r_up	2.1:1
-ICE	20130611	175.08	171.14	r_down	
-ICE	20130612	171.14	172.06	r_up	
-ICE	20130613	172.06	175.39	r_up	
-ICE	20130614	175.39	173.15	r_down	
-ICE	20130617	173.15	178.87	r_up	2.9:1
-ICE	20130618	178.87	183.07	r_up	
-ICE	20130619	183.07	178.85	r_down	
-ICE	20130620	178.85	173.47	r_down	
-ICE	20130621	173.47	172.56	r_down	
+ICE	20140501	203.0	204.0	r_up	agreed:1 global:1 trade:1 prices:1 accused:1 affiliated:1 its:1 cotton:1 4.5:1 said:1 $:1 would:1 two:1 which:1 out:1 executive:1 alongside:1 exchange:1 rules:1 company:1 after:1 reflect:1 they:1 exchanges:1 rolling:1 world:1 futures:1 contract:2 settle:1 were:1 failures:1 operate:1
+ICE	20140502	204.0	200.9	r_down	operations:1 own:1 broke:1 expanding:1 agreed:1 one:1 '':1 world:1 its:1 cotton:1 4.5:1 $:1 failed:1 pay:1 submit:1 traders:1 their:1 certain:1 largest:1 told:1 activities:1 ``:1 's:1 rules:2 company:1 million:1 broker:1 governing:1 they:1 exchanges:1 affiliated:1 along:1 charges:1 settle:1
+ICE	20140505	200.9	200.8	r_down	
+ICE	20140506	200.8	196.8	r_down	
+ICE	20140507	196.8	200.3	r_up	
+ICE	20140508	200.3	190.8	r_down	reduce:2 number:1 trade:1 see:1 session:1 its:1 market:1 whose:1 said:1 would:1 shares:1 expected:1 petition:1 stock:1 watch:1 regulators:1 active:1 stocks:1 effort:1 types:1 companies:1 complexity:1 order:1
+ICE	20140509	190.8	186.9	r_down	point:1 reduce:2 number:1 one:1 upgrades:1 its:2 market:1 electric:1 said:1 missed:1 would:1 short-sale:1 revenue:1 expectations:1 earnings:1 petition:1 stock:1 sinks:1 after:1 regulators:1 effort:1 types:1 fiscal:1 quarter:1 car:1 skids:1 complexity:1 maker:1 circuit:1 breaker:1 order:1 triggering:1 first:1
+ICE	20140512	186.9	190.0	r_up	bets:1 managers:2 money:2 some:1 back:1 eight-month:1 including:1 have:1 its:1 category:1 long:2 their:2 6:1 crude:2 net:1 highs:1 week:1 funds:1 price:3 rise:1 released:2 position:1 hedge:1 data:2 faith:1 lost:1 --:3 18:1 according:1 upside:1 positions:2 rising:1 fallen:1
+ICE	20140513	190.0	189.5	r_down	
+ICE	20140514	189.5	190.5	r_up	
+ICE	20140515	190.5	187.7	r_down	
+ICE	20140516	187.7	187.2	r_down	
+ICE	20140519	187.2	190.2	r_up	
+ICE	20140520	190.2	186.5	r_down	
+ICE	20140521	186.5	190.8	r_up	
+ICE	20140522	190.8	192.5	r_up	marked:2 ending:1 trading:1 owner:1 serial:1 saw:1 yet:1 said:1 upheaval:1 electronic:1 exchange:1 makeover:1 under:1 expected:1 new:1 markets:1 rise:1 's:1 schedule:1 company:1 earlier:1 biggest:1 step:1 historic:1 than:1 term:1 ahead:1 --:1 departure:1 leaving:1 mergers:1 came:1
+ICE	20140523	192.5	191.3	r_down	among:1 may:1 na:1 but:1 actors:1 markets:1 not:1 sluggish:1 market:1 stock:1
+ICE	20140527	191.3	196.0	r_up	financial:1 investors:1 through:2 unloads:1 operator:2 its:2 market:1 said:2 group:1 initial:2 stock-market:1 split:2 weeks:2 public:2 stock:1 offering:2 exchange:1 after:1 part:1 coming:2 off:2 --:2
+ICE	20140528	196.0	194.4	r_down	
+ICE	20140529	194.4	193.6	r_down	set:1 depart:1 plans:1 people:1 familiar:1 executive:1 according:1 his:1 latest:1
+ICE	20140530	193.6	195.0	r_up	
+ICE	20140602	195.0	192.8	r_down	
+ICE	20140603	192.8	193.4	r_up	
+ICE	20140604	193.4	191.5	r_down	
+ICE	20140605	191.5	189.1	r_down	
+ICE	20140606	189.1	188.7	r_down	
+ICE	20140609	188.7	187.6	r_down	bets:2 managers:1 point:1 money:1 number:1 four:1 including:1 7.7:1 have:1 go:1 its:1 category:1 cut:1 long:3 their:2 3:1 crude:2 net:2 has:1 week:2 rise:1 increased:1 risen:1 funds:1 price:2 after:1 eight:1 somewhat:1 position:1 prices:1 hedge:1 highest:1 data:1 down:1 short:1 --:5 positions:3 months:1 according:1 rising:1 first:1 fallen:1 latest:1
+ICE	20140610	187.6	188.8	r_up	promises:1 help:1 investors:1 float:1 month:1 cost:1 its:2 unit:1 2.4:1 said:1 $:3 initial:1 2.38:1 should:1 between:1 public:1 's:1 business:1 attention:1 but:1 cutting:1 struggle:1 exchanges:1 valuation:1 billion:2 valued:1 could:1 later:1 keep:1 offering:1 following:1 cut-price:1
+ICE	20140611	188.8	187.0	r_down	
+ICE	20140612	187.0	191.3	r_up	shot:1 just:1 cents:1 seizure:1 high:1 production:1 reliability:1 reached:1 yet:1 market:1 concern:1 confidence:1 $:2 rose:1 since:1 two:1 majority:1 spread:1 vast:1 above:1 crude:4 2014:1 2013:1 higher:1 exports:2 's:4 very:1 price:1 after:1 little:1 militants:1 prices:2 cities:1 106:1 soared:1 concentrated:1 10:1 attacks:1 country:2 could:1 violence:1 below:1 time:1 affected:1 barrel:2 first:1 traded:1 south:1 shook:1
+ICE	20140613	191.3	192.6	r_up	
+ICE	20140616	192.6	191.8	r_down	bets:2 violence:1 managers:2 money:2 back:1 second:1 rising:1 long:1 speculators:1 positions:1 its:1 run-up:1 cut:1 data:1 had:1 been:1 1:1 their:1 biggest:1 net:1 decreases:1 week:3 's:1 gains:1 funds:1 price:3 rise:1 scaling:1 crude:1 position:1 hedge:1 swift:1 10:1 last:1 --:3 many:1 months:1 according:1 were:1 including:1 crude-oil:1 latest:1
+ICE	20140617	191.8	194.0	r_up	
+ICE	20140618	194.0	197.5	r_up	
+ICE	20140619	197.5	196.2	r_down	emerge:1 all:1 set:2 among:2 participants:1 existing:2 117:2 trading:1 pricing:1 chat:2 seen:1 allay:2 electronic:1 market:2 concern:2 happens:2 their:1 fix:3 ideas:1 platform:1 laid:2 new:2 out:2 meeting:1 final:2 firm:1 after:2 small:2 years:2 silver:1 present:1 has:1 14:1 --:2 industry:1 according:1 daily:2 bullion:1 agenda:1 time:2 banks:1
+ICE	20140620	196.2	194.1	r_down	
+ICE	20140623	194.1	197.5	r_up	week:3 emerging:1 violence:1 money:1 deal:1 then:1 certain:1 agreed:1 rising:1 raised:1 down:1 services:1 itself:1 businesses:2 speculators:1 operator:2 managers:1 nine-month:1 technology:2 its:4 surprise:1 increased:1 sell:2 cities:1 electronic-trading:2 northern:1 tensions:1 attacked:1 long:2 their:2 concerns:1 provider:1 crude:1 sparking:1 struck:1 several:1 markets:1 price:3 2013:1 noncore:1 bets:2 division:1 oil:3 's:1 plans:1 exchange:2 may:1 funds:1 company:1 continues:1 whittle:1 taken:1 rise:1 burden:1 position:2 prices:1 hedge:1 future:1 bringing:1 net:2 derail:1 high:1 15:1 assets:1 17:1 --:3 positions:1 completing:1 fragile:1 economies:1 signed:1 points:1 including:1 were:1 divest:1 higher:1 starting:1
+ICE	20140624	197.5	189.5	r_down	
+ICE	20140625	189.5	187.2	r_down	rating:1 buy:1 success:1 soars:1 successful:1 company:1 surges:1 results:1 reports:1 trial:2 clinical:1 biotechnology:1 gets:1 after:1
+ICE	20140626	187.2	188.6	r_up	
+ICE	20140627	188.6	187.2	r_down	among:1 people:1 list:1 according:1 '':1 its:1 giant:1 said:1 would:1 shares:1 under:1 ``:1 familiar:1 symbol:1 bidding:1 stocks:1 10:1 companies:1 roughly:1 matter:1 depositary:1 operate:1
+ICE	20140630	187.2	188.2	r_up	supply:1 caused:1 into:1 some:1 production:1 itself:1 have:1 unaffected:1 yet:1 market:2 would:1 political:1 crisis:1 eager:1 participants:1 other:1 way:1 crude:1 poised:1 higher:1 tension:1 oil:3 hit:1 get:1 may:1 price:2 rise:1 helping:1 action:1 levels:1 sharply:1 alarm:1 violence:1 record:1 swing:1 push:1 found:1 think:1
+ICE	20140701	188.2	185.6	r_down	firm:1 advisory:1 head:1 's:1 banking:1 companies:1 hiring:1 asset-management:1 he:1
+ICE	20140702	185.6	187.0	r_up	
+ICE	20140703	187.0	189.6	r_up	
+ICE	20140707	189.6	188.7	r_down	
+ICE	20140708	188.7	184.7	r_down	
+ICE	20140709	184.7	186.2	r_up	
+ICE	20140710	186.2	182.8	r_down	
+ICE	20140711	182.8	183.7	r_up	glimpse:1 fix:1 price:1 system:1 unprecedented:1 makeover:1 switch:1 historic:1 allow:1 into:1 new:1 undergo:1 silver:2 market:1
+ICE	20140714	183.7	185.8	r_up	
+ICE	20140715	185.8	186.9	r_up	
+ICE	20140716	186.9	188.1	r_up	
+ICE	20140717	188.1	190.5	r_up	
+ICE	20140718	190.5	193.7	r_up	
+ICE	20140721	193.7	195.7	r_up	
+ICE	20140722	195.7	198.3	r_up	
+ICE	20140723	198.3	196.8	r_down	
+ICE	20140724	196.8	195.2	r_down	
+ICE	20140725	195.2	196.0	r_up	expects:1 second:1 trading:2 operator:1 6.8:1 said:1 profit:1 should:1 pickup:1 costs:1 rates:1 low:1 interest:1 net:1 boost:1 exchange:2 rise:1 continuing:1 volume:1 reflecting:1 operating:1 volatility:1 subdued:1 amid:1 trades:1 fell:1 planned:1 activity:1 small:1 quarter:1 soft:1
+ICE	20140728	196.0	195.3	r_down	
+ICE	20140729	195.3	194.7	r_down	
+ICE	20140730	194.7	195.4	r_up	
+ICE	20140731	195.4	191.5	r_down	
+ICE	20140801	191.5	191.5	r_up	
+ICE	20140804	191.5	193.2	r_up	week:4 back:1 month:1 four:1 rising:1 speculators:1 saw:1 previous:1 decline:1 would:1 23:1 29:2 long:2 their:2 3:1 fourth:1 crude:1 weeks:2 many:1 higher:1 bets:2 head:1 oil:1 increased:3 exchange:1 price:2 after:1 released:1 rise:1 cutting:1 data:1 net:2 also:1 short:1 last:1 commodity:1 --:3 positions:2 drop:1 time:1 position:1 slightly:1 bet:1 first:1
+ICE	20140805	193.2	190.5	r_down	
+ICE	20140806	190.5	191.5	r_up	
+ICE	20140807	191.5	187.7	r_down	1.4:1 financial:1 deal:1 people:1 allegations:1 locations:1 related:1 trade:2 spinoff:2 session:2 same:1 year:2 operator:1 misconduct:1 crisis:1 market:1 gains:1 run-up:1 some:1 said:3 $:4 record:1 profit:2 pay:1 sale:1 shares:2 its:3 revenue:1 costs:1 earnings:1 which:1 expected:2 before:1 more:1 ago:1 's:7 premarket:1 than:1 familiar:1 company:1 million:5 transfer:1 paid:1 period:1 part:2 operating:2 half:1 101:1 continued:1 second-quarter:1 bank:1 assets:1 billion:2 increased:1 resolve:1 excluding:1 17:1 16:1 --:1 euros:1 companies:2 according:1 doubled:1 matter:1 while:1 actively:2 revenues:1 rose:3 landmark:1 closing:1 stock:1 first:1
+ICE	20140808	187.7	190.7	r_up	
+ICE	20140811	190.7	188.7	r_down	
+ICE	20140812	188.7	187.2	r_down	
+ICE	20140813	187.2	187.0	r_down	
+ICE	20140814	187.0	188.6	r_up	
+ICE	20140815	188.6	186.9	r_down	
+ICE	20140818	186.9	189.3	r_up	
+ICE	20140819	189.3	185.0	r_down	
+ICE	20140820	185.0	186.2	r_up	10:1 van:1 faster:1 rivals:1 share:1 writes:1 companies:1 per:1 clearly:1 their:1 winners:1 gauge:1 highlights:1 growing:1 than:1 500:1
+ICE	20140821	186.2	187.9	r_up	
+ICE	20140822	187.9	188.4	r_up	
+ICE	20140825	188.4	188.9	r_up	
+ICE	20140826	188.9	188.7	r_down	
+ICE	20140827	188.7	187.5	r_down	week:1 oil:1 last:1 petroleum:1 expectations:1 crude:1 fell:1 products:1 prices:1 supplies:1 crude-oil:1 higher:1
+ICE	20140828	187.5	188.0	r_up	
+ICE	20140829	188.0	188.3	r_up	
+ICE	20140902	188.3	187.6	r_down	talked:1 have:1 culture:1 trading:1 another:1 home:1 saved:1 impact:1 overhaul:1 floor:1 shrinking:1 there:1 stoop:1 also:1 turnaround:1 ambitious:1 under:1 faltering:1 company’s:1 's:2 business:2 big:2 workforce:1 but:1 includes:1 base:1 plan:1 new:1 front:1 consideration:1 midst:1 renovation:1 change:1 owners:1 storied:1 look:1 could:1 headquarters:1 begun:1 capitalism:1 leave:1 reshaping:1 chieftain:1 corporate:1
+ICE	20140903	187.6	184.7	r_down	
+ICE	20140904	184.7	184.9	r_up	
+ICE	20140905	184.9	186.0	r_up	smaller:1 financial:1 gold:1 over:1 manage:1 0.7:1 trade:2 down:1 actively:2 trading:1 1.2:1 's:5 its:3 again:1 said:2 deal:1 takeover:1 clearing:1 fix:1 shares:5 citing:1 setting:1 take:1 widely:1 expected:2 premarket:1 bid:1 board:1 revised:1 recently:1 which:1 marketing:1 price:2 350:2 rejected:1 unanimously:1 services:1 data:1 silver:1 expand:1 $:5 million:1 acquire:1 would:1 rights:1 concerns:1 rival:1 antitrust:1 companies:2 cash:1 daily:2 order:1 session:2 responsibility:1 were:1 slightly:1 support:1 fell:2
+ICE	20140908	186.0	186.8	r_up	
+ICE	20140909	186.8	186.5	r_down	management:1 space:1 according:1 paid:2 asset:1 brokerage:1 highest:2
+ICE	20140910	186.5	189.6	r_up	
+ICE	20140911	189.6	189.6	r_up	
+ICE	20140912	189.6	194.6	r_up	
+ICE	20140915	194.6	195.5	r_up	said:1 transfer:1 later:1 month:1 listing:1 its:1 stock:1
+ICE	20140916	195.5	196.8	r_up	
+ICE	20140917	196.8	201.8	r_up	
+ICE	20140918	201.8	204.0	r_up	
+ICE	20140919	204.0	203.8	r_down	said:1 commodity:1 warehousing:1 effect:1 regulator:1 participants:1 survey:1 solicit:1 prices:1 asked:1 market:1
+ICE	20140922	203.8	200.7	r_down	helps:1 charitable:1 's:1 committee:1 seeking:1 whether:1 into:1 exchange:1 fund:1 advocacy:1 its:1 federal:1 investigation:1 donations:1 election:1 groups:1 need:1 employees:2 contributions:1 violated:1 laws:1
+ICE	20140923	200.7	199.5	r_down	
+ICE	20140924	199.5	199.0	r_down	
+ICE	20140925	199.0	195.6	r_down	derivatives:1 rules:1 over:1 policy:1 international:1 efforts:1 postcrisis:1 makers:1
+ICE	20140926	195.6	196.4	r_up	
+ICE	20140929	196.4	195.2	r_down	bets:1 slid:1 oil:2 further:1 their:1 price:1 three:1 long:1 34:1 biggest:1 cut:1 rising:1 prices:1 slashed:1 crude:1 position:1 net:1 years:1
+ICE	20140930	195.2	195.0	r_down	ago:1 all:2 said:2 chose:1 third:1 technology:1 over:1 half:1 companies:1 up:1 41:1 62:1 listed:1 year:1 go:1 8:2 quarter:2 its:1 public:1 market:1 stock:1
+ICE	20141001	195.0	194.0	r_down	
+ICE	20141002	194.0	197.7	r_up	
+ICE	20141003	197.7	198.4	r_up	
+ICE	20141006	198.4	199.1	r_up	
+ICE	20141007	199.1	196.3	r_down	seven:1 spending:1 switching:1 sides:1 companies:1 years:1 go:1 public:1
+ICE	20141008	196.3	201.3	r_up	
+ICE	20141009	201.3	203.0	r_up	
+ICE	20141010	203.0	203.6	r_up	

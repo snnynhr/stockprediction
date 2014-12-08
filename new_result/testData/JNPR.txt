@@ -1,307 +1,114 @@
-JNPR	20120402	22.88	22.73	r_down	
-JNPR	20120403	22.73	21.92	r_down	
-JNPR	20120404	21.92	21.6	r_down	
-JNPR	20120405	21.6	21.25	r_down	leads:1 big:1 drop:1 up:1 techs:1
-JNPR	20120409	21.25	20.91	r_down	
-JNPR	20120410	20.91	20.88	r_down	
-JNPR	20120411	20.88	21.75	r_up	
-JNPR	20120412	21.75	22.02	r_up	
-JNPR	20120413	22.02	21.2	r_down	
-JNPR	20120416	21.2	20.84	r_down	
-JNPR	20120417	20.84	21.62	r_up	
-JNPR	20120418	21.62	21.16	r_down	
-JNPR	20120419	21.16	20.93	r_down	
-JNPR	20120420	20.93	20.6	r_down	
-JNPR	20120423	20.6	20.17	r_down	
-JNPR	20120424	20.17	21.63	r_up	's:1 profit:1 watch:1 results:1 but:1 falls:1 beat:1
-JNPR	20120425	21.63	20.85	r_down	tech-sector:1 losses:1 lead:1
-JNPR	20120426	20.85	21.31	r_up	gaining:1 slips:1 top:1 challenges:1 analysts:1 stocks:1 cite:1 declining:1
-JNPR	20120427	21.31	21.26	r_down	
-JNPR	20120430	21.26	21.43	r_up	
-JNPR	20120501	21.43	21.46	r_up	
-JNPR	20120502	21.46	21.01	r_down	
-JNPR	20120503	21.01	20.33	r_down	lead:1 techs:1 travel:1 up:1 back:1 stocks:1
-JNPR	20120504	20.33	19.71	r_down	stocks:1 led:1 retreat:1
-JNPR	20120507	19.71	19.25	r_down	gains:1 may:1 sales:1 profit:1 modest:1 post:1
-JNPR	20120508	19.25	18.93	r_down	
-JNPR	20120509	18.93	19.01	r_up	
-JNPR	20120510	19.01	18.07	r_down	sector:1 outlook:1 weak:1 shares:1 forecast:1 down:1 slide:1 tech:1 rattles:1 pulls:1 corporate:1 market:1
-JNPR	20120511	18.07	17.95	r_down	
-JNPR	20120514	17.95	17.57	r_down	
-JNPR	20120515	17.57	17.67	r_up	stocks:1 but:1 slip:1 up:1
-JNPR	20120516	17.67	17.28	r_down	
-JNPR	20120517	17.28	17.0	r_down	
-JNPR	20120518	17.0	17.53	r_up	sputtering:1 tech:1 stumble:1 stocks:1
-JNPR	20120521	17.53	17.98	r_up	
-JNPR	20120522	17.98	17.99	r_up	
-JNPR	20120523	17.99	17.23	r_down	dive:1 points:1 analyst:1 shares:1 effect’:1
-JNPR	20120524	17.23	17.0	r_down	
-JNPR	20120525	17.0	17.15	r_up	
-JNPR	20120529	17.15	17.41	r_up	
-JNPR	20120530	17.41	17.26	r_down	
-JNPR	20120531	17.26	17.2	r_down	
-JNPR	20120601	17.2	16.82	r_down	set:1 stocks’:1 long:1 drag:1 looks:1 go:1
-JNPR	20120604	16.82	16.71	r_down	
-JNPR	20120605	16.71	17.0	r_up	
-JNPR	20120606	17.0	17.48	r_up	
-JNPR	20120607	17.48	16.57	r_down	rare:1 tech:1 lose:1 exceptions:1 stocks:1 ground:1
-JNPR	20120608	16.57	16.89	r_up	
-JNPR	20120611	16.89	16.4	r_down	's:1 $:1 --:1 up:1 1:1 2012:1
-JNPR	20120612	16.4	16.61	r_up	eye:1 $:1 investors:1 futures:1 watch:1 up:2 1:1 after-hours:1 news:1 climb:1 stock:1
-JNPR	20120613	16.61	16.36	r_down	make:1 strong:1 zapped:1 gains:1
-JNPR	20120614	16.36	16.2	r_down	
-JNPR	20120615	16.2	16.43	r_up	
-JNPR	20120618	16.43	16.35	r_down	
-JNPR	20120619	16.35	16.46	r_up	
-JNPR	20120620	16.46	16.73	r_up	
-JNPR	20120621	16.73	15.88	r_down	
-JNPR	20120622	15.88	16.04	r_up	
-JNPR	20120625	16.04	15.59	r_down	
-JNPR	20120626	15.59	15.45	r_down	
-JNPR	20120627	15.45	15.58	r_up	
-JNPR	20120628	15.58	15.53	r_down	
-JNPR	20120629	15.53	16.31	r_up	
-JNPR	20120702	16.31	15.85	r_down	deals:1 jumps:1 slumps:1
-JNPR	20120703	15.85	16.14	r_up	
-JNPR	20120705	16.14	16.13	r_down	
-JNPR	20120706	16.13	15.58	r_down	code:1 's:1 earnings:1 crack:1
-JNPR	20120709	15.58	15.2	r_down	
-JNPR	20120710	15.2	14.84	r_down	
-JNPR	20120711	14.84	14.68	r_down	
-JNPR	20120712	14.68	14.51	r_down	
-JNPR	20120713	14.51	14.5	r_down	
-JNPR	20120716	14.5	14.29	r_down	
-JNPR	20120717	14.29	14.27	r_down	weigh:1 techs:1
-JNPR	20120718	14.27	15.21	r_up	range:1 price:1 raises:1
-JNPR	20120719	15.21	15.84	r_up	further:1 deck:1 results:1 surge:1
-JNPR	20120720	15.84	15.65	r_down	31:1
-JNPR	20120723	15.65	15.22	r_down	's:4 $:2 1.26:1
-JNPR	20120724	15.22	14.82	r_down	61:1 watch:1 50:2 up:1
-JNPR	20120725	14.82	16.5	r_up	gaining:1 surprises:2 after:1 slump:1 50:3 shares:1 up:1 hours:1 61:3 advisories:2 biggest:1 stocks:1 declining:1
-JNPR	20120726	16.5	16.83	r_up	
-JNPR	20120727	16.83	17.79	r_up	
-JNPR	20120730	17.79	17.55	r_down	
-JNPR	20120731	17.55	17.53	r_down	
-JNPR	20120801	17.53	17.71	r_up	
-JNPR	20120802	17.71	17.58	r_down	
-JNPR	20120803	17.58	18.08	r_up	
-JNPR	20120806	18.08	18.63	r_up	gains:1 lead:1 broad:1 slate:1 tech:1 helps:1
-JNPR	20120807	18.63	19.05	r_up	
-JNPR	20120808	19.05	18.77	r_down	
-JNPR	20120809	18.77	19.4	r_up	again:1 love:1 's:1
-JNPR	20120810	19.4	19.24	r_down	speculation:1 rises:1 shares:1 fall:1
-JNPR	20120813	19.24	18.92	r_down	
-JNPR	20120814	18.92	18.07	r_down	
-JNPR	20120815	18.07	18.44	r_up	plunge:1 gains:1 techs:1 slump:1 tech:1 rally:1 highlight:1
-JNPR	20120816	18.44	18.59	r_up	
-JNPR	20120817	18.59	18.45	r_down	
-JNPR	20120820	18.45	18.33	r_down	
-JNPR	20120821	18.33	18.2	r_down	
-JNPR	20120822	18.2	18.26	r_up	
-JNPR	20120823	18.26	18.23	r_down	
-JNPR	20120824	18.23	17.74	r_down	
-JNPR	20120827	17.74	17.75	r_up	clear:1 now:1 ahead:1 years:1
-JNPR	20120828	17.75	18.34	r_up	
-JNPR	20120829	18.34	18.48	r_up	
-JNPR	20120830	18.48	17.75	r_down	
-JNPR	20120831	17.75	17.44	r_down	networking:1 hits:1 's:1 falls:1
-JNPR	20120904	17.44	17.69	r_up	
-JNPR	20120905	17.69	17.49	r_down	
-JNPR	20120906	17.49	18.23	r_up	
-JNPR	20120907	18.23	18.71	r_up	
-JNPR	20120910	18.71	18.21	r_down	
-JNPR	20120911	18.21	18.54	r_up	
-JNPR	20120912	18.54	19.33	r_up	
-JNPR	20120913	19.33	19.41	r_up	
-JNPR	20120914	19.41	19.33	r_down	
-JNPR	20120917	19.33	19.37	r_up	
-JNPR	20120918	19.37	18.94	r_down	
-JNPR	20120919	18.94	18.88	r_down	
-JNPR	20120920	18.88	18.58	r_down	
-JNPR	20120921	18.58	18.49	r_down	
-JNPR	20120924	18.49	18.27	r_down	
-JNPR	20120925	18.27	17.86	r_down	
-JNPR	20120926	17.86	17.38	r_down	
-JNPR	20120927	17.38	17.67	r_up	
-JNPR	20120928	17.67	17.11	r_down	
-JNPR	20121001	17.11	16.77	r_down	grown:1 stocks:1 up:1 have:1
-JNPR	20121002	16.77	16.73	r_down	5:2
-JNPR	20121003	16.73	16.61	r_down	mixed:1 techs:1 shares:1 soar:1
-JNPR	20121004	16.61	16.7	r_up	
-JNPR	20121005	16.7	16.65	r_down	
-JNPR	20121008	16.65	16.61	r_down	
-JNPR	20121009	16.61	16.58	r_down	
-JNPR	20121010	16.58	16.35	r_down	
-JNPR	20121011	16.35	16.35	r_up	
-JNPR	20121012	16.35	16.35	r_up	
-JNPR	20121015	16.35	16.79	r_up	
-JNPR	20121016	16.79	17.48	r_up	
-JNPR	20121017	17.48	17.31	r_down	
-JNPR	20121018	17.31	18.2	r_up	down:1 sinks:1 techs:1
-JNPR	20121019	18.2	17.79	r_down	reached:1 has:1 ad:1 business:1 maturity:1
-JNPR	20121022	17.79	17.71	r_down	's:1
-JNPR	20121023	17.71	17.57	r_down	watch:1 earnings:1
-JNPR	20121024	17.57	15.99	r_down	soars:1 surprises:1 slump:1 leads:1 advisories:1 tech:1 80:2
-JNPR	20121025	15.99	16.07	r_up	
-JNPR	20121026	16.07	16.58	r_up	
-JNPR	20121031	16.58	16.57	r_down	25:1 $:1
-JNPR	20121101	16.57	17.27	r_up	
-JNPR	20121102	17.27	17.12	r_down	
-JNPR	20121105	17.12	17.44	r_up	
-JNPR	20121106	17.44	17.54	r_up	
-JNPR	20121107	17.54	17.77	r_up	
-JNPR	20121108	17.77	17.6	r_down	again:1 sheds:1 gains:1 movers:1 big:1 over:1 slump:1 falls:1 slide:1 2:1 tech:1 biggest:1
-JNPR	20121109	17.6	17.65	r_up	
-JNPR	20121112	17.65	17.79	r_up	
-JNPR	20121113	17.79	17.35	r_down	
-JNPR	20121114	17.35	17.55	r_up	
-JNPR	20121115	17.55	16.9	r_down	n't:1
-JNPR	20121116	16.9	16.32	r_down	
-JNPR	20121119	16.32	16.36	r_up	
-JNPR	20121120	16.36	16.15	r_down	
-JNPR	20121121	16.15	16.21	r_up	
-JNPR	20121123	16.21	16.7	r_up	surges:1 tech:1 strong:1 lead:1 gains:1
-JNPR	20121126	16.7	16.81	r_up	
-JNPR	20121127	16.81	17.09	r_up	
-JNPR	20121128	17.09	17.79	r_up	
-JNPR	20121129	17.79	18.02	r_up	
-JNPR	20121130	18.02	17.98	r_down	
-JNPR	20121203	17.98	17.88	r_down	
-JNPR	20121204	17.88	18.02	r_up	
-JNPR	20121205	18.02	18.37	r_up	
-JNPR	20121206	18.37	19.1	r_up	
-JNPR	20121207	19.1	19.29	r_up	
-JNPR	20121210	19.29	19.28	r_down	
-JNPR	20121211	19.28	19.17	r_down	
-JNPR	20121212	19.17	18.97	r_down	176:1 $:1
-JNPR	20121213	18.97	19.36	r_up	176:1 $:1
-JNPR	20121214	19.36	19.59	r_up	
-JNPR	20121217	19.59	19.78	r_up	
-JNPR	20121218	19.78	20.26	r_up	
-JNPR	20121219	20.26	20.16	r_down	
-JNPR	20121220	20.16	20.35	r_up	
-JNPR	20121221	20.35	20.17	r_down	
-JNPR	20121224	20.17	20.01	r_down	
-JNPR	20121226	20.01	19.89	r_down	
-JNPR	20121227	19.89	19.79	r_down	
-JNPR	20121228	19.79	19.38	r_down	late:1 sell-off:1 stocks:1 slammed:1
-JNPR	20121231	19.38	19.67	r_up	
-JNPR	20130102	19.67	20.55	r_up	
-JNPR	20130103	20.55	20.17	r_down	
-JNPR	20130104	20.17	20.38	r_up	2013:1
-JNPR	20130107	20.38	20.15	r_down	
-JNPR	20130108	20.15	19.72	r_down	
-JNPR	20130109	19.72	19.95	r_up	
-JNPR	20130110	19.95	20.3	r_up	
-JNPR	20130111	20.3	20.66	r_up	
-JNPR	20130114	20.66	20.82	r_up	
-JNPR	20130115	20.82	21.01	r_up	
-JNPR	20130116	21.01	20.98	r_down	
-JNPR	20130117	20.98	21.28	r_up	shifts:1 cut:1 data-center:1 business:1
-JNPR	20130118	21.28	21.49	r_up	broad:1 tech:1 stand:1 gains:1 out:1
-JNPR	20130122	21.49	21.5	r_up	
-JNPR	20130123	21.5	21.28	r_down	
-JNPR	20130124	21.28	21.5	r_up	earnings:1
-JNPR	20130125	21.5	22.57	r_up	
-JNPR	20130128	22.57	22.2	r_down	
-JNPR	20130129	22.2	21.58	r_down	
-JNPR	20130130	21.58	21.58	r_up	
-JNPR	20130131	21.58	22.38	r_up	
-JNPR	20130201	22.38	22.32	r_down	
-JNPR	20130204	22.32	22.24	r_down	
-JNPR	20130205	22.24	22.39	r_up	
-JNPR	20130206	22.39	22.38	r_down	
-JNPR	20130207	22.38	22.37	r_down	
-JNPR	20130208	22.37	21.84	r_down	's:1
-JNPR	20130211	21.84	21.71	r_down	
-JNPR	20130212	21.71	21.61	r_down	
-JNPR	20130213	21.61	21.67	r_up	
-JNPR	20130214	21.67	21.68	r_up	
-JNPR	20130215	21.68	21.86	r_up	
-JNPR	20130219	21.86	22.25	r_up	
-JNPR	20130220	22.25	21.71	r_down	
-JNPR	20130221	21.71	21.33	r_down	
-JNPR	20130222	21.33	21.45	r_up	
-JNPR	20130225	21.45	20.72	r_down	
-JNPR	20130226	20.72	20.46	r_down	
-JNPR	20130227	20.46	20.72	r_up	n't:1
-JNPR	20130228	20.72	20.68	r_down	
-JNPR	20130301	20.68	20.49	r_down	
-JNPR	20130304	20.49	20.13	r_down	
-JNPR	20130305	20.13	19.98	r_down	
-JNPR	20130306	19.98	20.12	r_up	
-JNPR	20130307	20.12	21.12	r_up	leads:1 late:1 jumps:1 tech:1 gains:1
-JNPR	20130308	21.12	20.69	r_down	movers:1 news:1 gains:1 revamp:1
-JNPR	20130311	20.69	20.89	r_up	
-JNPR	20130312	20.89	20.77	r_down	
-JNPR	20130313	20.77	20.54	r_down	
-JNPR	20130314	20.54	20.51	r_down	
-JNPR	20130315	20.51	20.17	r_down	
-JNPR	20130318	20.17	20.21	r_up	
-JNPR	20130319	20.21	19.14	r_down	
-JNPR	20130320	19.14	19.31	r_up	decline:1 lead:1 movers:1 anniversary:1 tech:1 marks:1 rises:1 red:1
-JNPR	20130321	19.31	18.89	r_down	
-JNPR	20130322	18.89	18.72	r_down	retreat:1 lead:1 tumble:1
-JNPR	20130325	18.72	18.96	r_up	
-JNPR	20130326	18.96	18.65	r_down	
-JNPR	20130327	18.65	18.67	r_up	
-JNPR	20130328	18.67	18.54	r_down	
-JNPR	20130401	18.54	18.54	r_up	
-JNPR	20130402	18.54	18.27	r_down	
-JNPR	20130403	18.27	18.27	r_up	
-JNPR	20130404	18.27	18.12	r_down	
-JNPR	20130405	18.12	17.55	r_down	movers:1 selloff:1 hammered:1 slumps:1 tech:1 shares:1 despite:1 rises:1
-JNPR	20130408	17.55	17.83	r_up	
-JNPR	20130409	17.83	18.0	r_up	
-JNPR	20130410	18.0	18.84	r_up	network:1 big:1 drive:1 tech:1 stocks:1 gains:1
-JNPR	20130411	18.84	18.56	r_down	movers:1 some:1 support:1 sees:1
-JNPR	20130412	18.56	18.72	r_up	
-JNPR	20130415	18.72	18.1	r_down	
-JNPR	20130416	18.1	18.14	r_up	
-JNPR	20130417	18.14	17.7	r_down	
-JNPR	20130418	17.7	17.32	r_down	
-JNPR	20130419	17.32	17.1	r_down	
-JNPR	20130422	17.1	17.12	r_up	
-JNPR	20130423	17.12	17.36	r_up	surprises:1 watch:1 advisories:1 earnings:1 news:1 dominate:1
-JNPR	20130424	17.36	15.69	r_down	gross:1 lower:1 surprises:1 shares:1 turn:1 advisories:1 margin:1 concerns:1
-JNPR	20130425	15.69	15.91	r_up	closes:1 lower:1 movers:1 tech:1 weigh:1 stocks:1 marginally:1
-JNPR	20130426	15.91	15.79	r_down	
-JNPR	20130429	15.79	16.06	r_up	
-JNPR	20130430	16.06	16.55	r_up	
-JNPR	20130501	16.55	16.31	r_down	head:1 tech:1 up:1 gains:1
-JNPR	20130502	16.31	16.3	r_down	
-JNPR	20130503	16.3	16.48	r_up	
-JNPR	20130506	16.48	16.93	r_up	
-JNPR	20130507	16.93	16.8	r_down	
-JNPR	20130508	16.8	17.29	r_up	
-JNPR	20130509	17.29	17.34	r_up	
-JNPR	20130510	17.34	17.36	r_up	
-JNPR	20130513	17.36	17.27	r_down	
-JNPR	20130514	17.27	17.1	r_down	
-JNPR	20130515	17.1	17.07	r_down	
-JNPR	20130516	17.07	17.78	r_up	rally:1 tech:1 fails:1 sustain:1 surge:1
-JNPR	20130517	17.78	17.61	r_down	
-JNPR	20130520	17.61	17.58	r_down	
-JNPR	20130521	17.58	17.64	r_up	
-JNPR	20130522	17.64	17.42	r_down	
-JNPR	20130523	17.42	17.28	r_down	10:1 $:1
-JNPR	20130524	17.28	17.35	r_up	
-JNPR	20130528	17.35	17.47	r_up	
-JNPR	20130529	17.47	17.99	r_up	
-JNPR	20130530	17.99	18.01	r_up	
-JNPR	20130531	18.01	17.73	r_down	
-JNPR	20130603	17.73	17.5	r_down	
-JNPR	20130604	17.5	17.39	r_down	
-JNPR	20130605	17.39	18.54	r_up	movers:1 patent:1 hit:1 ruling:1
-JNPR	20130606	18.54	18.47	r_down	
-JNPR	20130607	18.47	19.06	r_up	
-JNPR	20130610	19.06	19.03	r_down	
-JNPR	20130611	19.03	18.3	r_down	
-JNPR	20130612	18.3	18.39	r_up	
-JNPR	20130613	18.39	19.27	r_up	
-JNPR	20130614	19.27	19.05	r_down	
-JNPR	20130617	19.05	19.06	r_up	
-JNPR	20130618	19.06	19.13	r_up	
-JNPR	20130619	19.13	19.13	r_up	
-JNPR	20130620	19.13	19.19	r_up	
-JNPR	20130621	19.19	18.79	r_down	
+JNPR	20140501	24.5	24.8	r_up	
+JNPR	20140502	24.8	24.6	r_down	
+JNPR	20140505	24.6	24.6	r_up	pioneering:1 often:1 developing:1 minimize:1 spot:1 damage:1 aims:1 rivals:1 antivirus:1 breach:1 hacking:1 software:1 technology:1 its:1 joining:1
+JNPR	20140506	24.6	24.4	r_down	
+JNPR	20140507	24.4	24.5	r_up	
+JNPR	20140508	24.5	24.5	r_up	firm:1 cybersecurity:1 over:1 selloff:1 cloud-computing:1 hangs:1 shares:1 n't:1 battered:1 stocks:1 pending:1 expiration:1
+JNPR	20140509	24.5	24.4	r_down	
+JNPR	20140512	24.4	24.6	r_up	predict:1 some:2 comfortable:1 likely:1 through:1 open:1 giant:1 'll:1 source:1 provide:1 guidance:1 also:1 more:1 replace:1 they:1 networking:1 strong:1 projects:1 companies:1 standards:1 become:1 bodies:1
+JNPR	20140513	24.6	24.7	r_up	customers:1 hardware:1 exploit:1 before:1 networking:1 highlights:1 book:1 interest:1 new:1 ``:1 's:1 routers:1 reach:1 they:1 he:1 plants:1 '':1 snooping:1 suppliers:1 foreign:1 asserts:1 other:1
+JNPR	20140514	24.7	24.5	r_down	
+JNPR	20140515	24.5	24.6	r_up	investor:1 $:1 round:1 largest:1
+JNPR	20140516	24.6	24.3	r_down	
+JNPR	20140519	24.3	24.5	r_up	customers:1 networking:1 install:1 allow:1 reports:1 foreign:1 hardware:1 way:1 following:1 has:1 snooping:1
+JNPR	20140520	24.5	24.2	r_down	own:1 buy:1 like:1 investors:1 bonds:1 may:1 companies:1 next:1 increasingly:1 good:1 issuing:1 you:1 bond:1
+JNPR	20140521	24.2	24.4	r_up	all:1 look:1 gain:1
+JNPR	20140522	24.4	24.5	r_up	
+JNPR	20140523	24.5	24.6	r_up	
+JNPR	20140527	24.6	24.9	r_up	upcoming:1 ahead:1 almost:1 split:1 highs:1 since:1 bellwether:1 two:1 reaches:2 years:1 stock:1 seen:1 not:1 close:1 highest:1 2012:1
+JNPR	20140528	24.9	25.1	r_up	company’s:1 fiscal:1 extended:1 topped:1 cybersecurity:1 after:1 estimates:1 results:2 shares:2 surge:1 session:1 third-quarter:1 quarterly:1 rally:1
+JNPR	20140529	25.1	25.3	r_up	unsolicited:1 unveiled:1 just:1 warrants:1 each:1 trade:2 patents:1 agreed:1 actively:2 6.1:1 years:1 175:1 next:1 100:1 around:1 sue:1 strong:1 networking:1 $:7 lead:1 jumped:1 two:1 shares:4 cash:1 3:1 other:1 earnings:1 premarket:1 which:1 expected:2 gets:1 issue:1 bid:1 pay:1 over:1 after:2 's:7 gains:1 offering:1 offer:1 infringement:1 slate:1 attention:1 75:1 said:1 wake:1 not:1 buy:1 rises:1 5.5:1 billion:3 million:2 eight:1 15:1 license:1 companies:3 days:1 worth:1 deals:1 session:2 tech:1 comes:1 rose:1 frenzy:1 maker:1 acquisition:1
+JNPR	20140530	25.3	24.3	r_down	purchase:1 over:1 lead:1 into:2 after:2 its:1 while:1 jumping:1 pending:1 bidding:1 rallies:2 following:1 news:1 entered:1 rises:1 war:1 500:1 chase:1
+JNPR	20140602	24.3	24.3	r_up	
+JNPR	20140603	24.3	24.4	r_up	spending:1 impacted:1 swings:1 others:1
+JNPR	20140604	24.4	24.5	r_up	
+JNPR	20140605	24.5	24.6	r_up	
+JNPR	20140606	24.6	24.7	r_up	share:1 gain:1 market:1
+JNPR	20140609	24.7	24.6	r_down	some:1 computer:1 like:1 share:1 taking:1 companies:2 servers:1 hardware:1 equipment:1 other:2 bigger:1 banks:1 makers:1 market:1
+JNPR	20140610	24.6	24.6	r_up	
+JNPR	20140611	24.6	24.5	r_down	
+JNPR	20140612	24.5	24.5	r_up	
+JNPR	20140613	24.5	24.4	r_down	$:1 sold:2 shares:1 also:1 other:1 through:1 plan:1 stock:1 options:1 execs:1
+JNPR	20140616	24.4	24.8	r_up	
+JNPR	20140617	24.8	25.0	r_up	
+JNPR	20140618	25.0	25.1	r_up	
+JNPR	20140619	25.1	24.1	r_down	among:1 own:1 computing:2 high-margin:1 hardware:1 computer:1 design:2 rooms:1 have:1 its:1 networking:1 built:1 equipment:1 bad:1 their:1 other:1 systems:1 widely:1 more:1 giants:1 used:1 's:1 gear:1 big:2 sellers:1 device:1 news:2 data:1 off:1 like:1 showed:1 companies:1 server:1 switch:1 businesses:1 corporate:1
+JNPR	20140620	24.1	24.1	r_up	retreats:1 smartphone:2 unveiling:1 launch:1 profit:1 after:3 down:1 while:1 unexpected:1 rallies:2 new:1 day:1 reporting:1
+JNPR	20140623	24.1	24.3	r_up	
+JNPR	20140624	24.3	24.0	r_down	
+JNPR	20140625	24.0	24.0	r_up	
+JNPR	20140626	24.0	24.1	r_up	
+JNPR	20140627	24.1	24.3	r_up	
+JNPR	20140630	24.3	24.4	r_up	
+JNPR	20140701	24.4	24.3	r_down	may:1 's:1 takes:1 have:1
+JNPR	20140702	24.3	24.6	r_up	gross:1 plays:1 no:1 profit:1 wins:1 dollars:1 matter:1 demand:1 changing:1 shrink:1 out:1
+JNPR	20140703	24.6	24.5	r_down	
+JNPR	20140707	24.5	24.6	r_up	
+JNPR	20140708	24.6	23.9	r_down	
+JNPR	20140709	23.9	24.2	r_up	
+JNPR	20140710	24.2	24.2	r_up	
+JNPR	20140711	24.2	24.1	r_down	
+JNPR	20140714	24.1	24.0	r_down	
+JNPR	20140715	24.0	24.0	r_up	set:1 reports:1 strong:1
+JNPR	20140716	24.0	23.7	r_down	
+JNPR	20140717	23.7	23.7	r_up	
+JNPR	20140718	23.7	23.9	r_up	
+JNPR	20140721	23.9	24.3	r_up	software:1 said:1 revenue:1 19:1 rose:1 company:1 its:1 services:1 half:1 sold:1 more:1 maker:1 first:1
+JNPR	20140722	24.3	24.7	r_up	
+JNPR	20140723	24.7	22.3	r_down	sector:1 operations:1 less:1 results:2 trade:1 session:1 cuts:1 its:4 profitable:1 giant:1 snack:1 $:1 tablet:1 rose:3 expectations:1 than:2 premarket:1 under:1 quarterly:2 he:1 smart:1 increased:1 10:2 --:1 companies:1 slumps:2 reduced:1 generation:1 phones:1 growth:1 doubled:1 year:1 said:1 missed:1 profit:2 integration:1 shares:1 international:1 business:1 sixth:1 jumps:1 weak:1 reported:1 job:1 both:1 ate:1 launch:1 computers:1 reports:1 round:2 analysts:1 maker:1 software:1 adjusted:1 revenue:2 into:1 way:1 expected:1 9.6:1 more:4 flat:1 company:3 second-quarter:3 posted:2 wide:1 solid:1 while:1 actively:1 were:1 following:1 margin:1 sales:1 helped:1 full-year:1 gains:1 4.7:1 make:1 also:1 earnings:5 outlook:2 higher:1 product:1 experienced:1 's:3 plans:1 after:2 fell:2 services:1 robust:1 beverage:1 tech:1 volumes:1 rallies:1 profits:1
+JNPR	20140724	22.3	23.1	r_up	
+JNPR	20140725	23.1	23.1	r_up	
+JNPR	20140728	23.1	23.6	r_up	
+JNPR	20140729	23.6	23.6	r_up	
+JNPR	20140730	23.6	23.6	r_up	
+JNPR	20140731	23.6	23.4	r_down	
+JNPR	20140801	23.4	23.1	r_down	all:1 share:1 taking:1 market:1 away:1
+JNPR	20140804	23.1	23.1	r_up	
+JNPR	20140805	23.1	23.2	r_up	
+JNPR	20140806	23.2	23.2	r_up	operations:1 named:1 financial:1 directors:1 chief:2 officer:2 its:1 board:1
+JNPR	20140807	23.2	22.9	r_down	
+JNPR	20140808	22.9	23.1	r_up	
+JNPR	20140811	23.1	23.2	r_up	
+JNPR	20140812	23.2	23.2	r_up	gains:1 get:1 upstart:1 tougher:1 but:1 likely:1 against:1 making:1 competition:1
+JNPR	20140813	23.2	23.4	r_up	
+JNPR	20140814	23.4	22.9	r_down	$:2 tops:2 results:1 slides:1 wake:1 earnings:1 quarterly:1 200,000:2 drops:1
+JNPR	20140815	22.9	22.8	r_down	
+JNPR	20140818	22.8	23.1	r_up	
+JNPR	20140819	23.1	23.5	r_up	
+JNPR	20140820	23.5	23.6	r_up	
+JNPR	20140821	23.6	23.8	r_up	
+JNPR	20140822	23.8	23.9	r_up	
+JNPR	20140825	23.9	23.6	r_down	
+JNPR	20140826	23.6	23.4	r_down	
+JNPR	20140827	23.4	23.1	r_down	
+JNPR	20140828	23.1	23.1	r_up	
+JNPR	20140829	23.1	23.1	r_up	
+JNPR	20140902	23.1	23.1	r_up	do:1 set:1 networking:1 worse:1 maker:1 could:1 example:1 equipment:1 became:1 want:1 follow:1 become:1 than:1
+JNPR	20140903	23.1	23.1	r_up	
+JNPR	20140904	23.1	23.1	r_up	
+JNPR	20140905	23.1	23.3	r_up	
+JNPR	20140908	23.3	23.5	r_up	
+JNPR	20140909	23.5	23.3	r_down	
+JNPR	20140910	23.3	23.7	r_up	
+JNPR	20140911	23.7	23.7	r_up	
+JNPR	20140912	23.7	23.1	r_down	
+JNPR	20140915	23.1	23.0	r_down	
+JNPR	20140916	23.0	22.8	r_down	breaches:1 buy:1 cybersecurity:1 investors’:1 writes:1 companies:1 three:1 focus:1 these:1 today:1 can:1 leading:1 put:1 you:1 stocks:1 best:1
+JNPR	20140917	22.8	22.8	r_up	
+JNPR	20140918	22.8	22.7	r_down	
+JNPR	20140919	22.7	22.6	r_down	favored:1
+JNPR	20140922	22.6	22.6	r_up	
+JNPR	20140923	22.6	22.5	r_down	
+JNPR	20140924	22.5	22.5	r_up	
+JNPR	20140925	22.5	22.1	r_down	
+JNPR	20140926	22.1	22.2	r_up	
+JNPR	20140929	22.2	22.1	r_down	
+JNPR	20140930	22.1	22.1	r_up	
+JNPR	20141001	22.1	21.6	r_down	
+JNPR	20141002	21.6	21.9	r_up	
+JNPR	20141003	21.9	22.0	r_up	roundup:1 news:1 's:1 private:1 morning:1
+JNPR	20141006	22.0	21.6	r_down	
+JNPR	20141007	21.6	21.2	r_down	
+JNPR	20141008	21.2	21.2	r_up	off:1 company:1 data-storage:1 manager:1 sent:1 letter:1 unit:1 spin:1 its:1 urging:1 board:1
+JNPR	20141009	21.2	20.9	r_down	saying:1 over:1 expects:1 years:1 challenges:1 session:1 year:1 market:1 planting:1 farmers:1 spending:1 fears:1 two:1 shares:2 forecast:1 their:1 split:1 supplies:1 suit:1 lower-than-expected:1 change:1 numerous:1 tighten:1 extended:1 farm:1 routers:1 rise:2 hours:2 protection:1 gain:1 coming:1 prices:1 continued:1 after:2 fiscal:1 maker’s:1 amid:1 service-provider:1 edge:1 grain:1 router:1 security:1 weakest:1 maker:1 profits:1 software:1
+JNPR	20141010	20.9	19.0	r_down	beautiful:1 there:2 session:1 up:1 reasons:1 declines:1 pot:1 demand:1 years:2 past:1 whiplash:1 sudden:1 third-quarter:1 swinging:1 sharp:1 suffer:1 yet:1 weekly:3 sinks:1 cut:1 mostly:1 falls:1 pace:1 guidance:1 since:2 selloff:1 two:1 shares:1 its:1 their:2 beer:1 deepest:1 expected:1 lower-than-expected:1 main:1 it’s:1 500:1 2012:1 week:1 booze:1 good:1 's:1 string:1 unveiling:1 after:1 hang:1 but:1 weed:1 suffering:1 worst:3 coming:1 trade:1 thing:1 stocks:4 come:1 than:1 case:1 loss:1 include:1 service:1 losses:1 companies:1 moment:1 headed:1 times:1 record:1 actively:1 three:1 benchmarks:1 moving:1 more:1 say:1

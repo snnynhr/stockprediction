@@ -1,307 +1,114 @@
-MRO	20120402	30.82	31.34	r_up	
-MRO	20120403	31.34	30.78	r_down	
-MRO	20120404	30.78	30.09	r_down	
-MRO	20120405	30.09	29.7	r_down	holds:1 slim:1 gains:1 focus:1
-MRO	20120409	29.7	29.31	r_down	
-MRO	20120410	29.31	28.44	r_down	
-MRO	20120411	28.44	28.42	r_down	
-MRO	20120412	28.42	29.5	r_up	
-MRO	20120413	29.5	28.88	r_down	
-MRO	20120416	28.88	28.67	r_down	30:1
-MRO	20120417	28.67	28.72	r_up	
-MRO	20120418	28.72	28.7	r_down	
-MRO	20120419	28.7	28.6	r_down	
-MRO	20120420	28.6	28.66	r_up	
-MRO	20120423	28.66	28.58	r_down	
-MRO	20120424	28.58	28.58	r_up	
-MRO	20120425	28.58	28.48	r_down	
-MRO	20120426	28.48	29.07	r_up	
-MRO	20120427	29.07	28.89	r_down	
-MRO	20120430	28.89	28.53	r_down	
-MRO	20120501	28.53	29.36	r_up	
-MRO	20120502	29.36	28.08	r_down	surprises:1 advisories:1
-MRO	20120503	28.08	26.89	r_down	energy:1 stocks:1 tap:1 out:1
-MRO	20120504	26.89	26.06	r_down	
-MRO	20120507	26.06	25.59	r_down	falter:1 uncertainty:1 outlooks:1 election:1
-MRO	20120508	25.59	25.45	r_down	
-MRO	20120509	25.45	25.71	r_up	
-MRO	20120510	25.71	26.24	r_up	
-MRO	20120511	26.24	25.46	r_down	
-MRO	20120514	25.46	24.91	r_down	
-MRO	20120515	24.91	24.28	r_down	way:1
-MRO	20120516	24.28	23.99	r_down	5/15:2
-MRO	20120517	23.99	23.65	r_down	
-MRO	20120518	23.65	23.62	r_down	
-MRO	20120521	23.62	24.0	r_up	
-MRO	20120522	24.0	23.81	r_down	
-MRO	20120523	23.81	24.0	r_up	
-MRO	20120524	24.0	24.35	r_up	
-MRO	20120525	24.35	24.75	r_up	
-MRO	20120529	24.75	24.98	r_up	
-MRO	20120530	24.98	24.33	r_down	
-MRO	20120531	24.33	24.38	r_up	
-MRO	20120601	24.38	23.38	r_down	66:1
-MRO	20120604	23.38	23.33	r_down	
-MRO	20120605	23.33	23.48	r_up	66:1
-MRO	20120606	23.48	24.43	r_up	's:1
-MRO	20120607	24.43	24.47	r_up	's:1
-MRO	20120608	24.47	24.5	r_up	's:1
-MRO	20120611	24.5	23.9	r_down	's:1
-MRO	20120612	23.9	24.23	r_up	surprises:1 energy:1 footing:1 strides:1 advisories:1 stocks:1 find:1
-MRO	20120613	24.23	23.95	r_down	
-MRO	20120614	23.95	24.09	r_up	
-MRO	20120615	24.09	24.34	r_up	
-MRO	20120618	24.34	23.7	r_down	's:2 14:2
-MRO	20120619	23.7	24.28	r_up	
-MRO	20120620	24.28	24.17	r_down	
-MRO	20120621	24.17	22.82	r_down	
-MRO	20120622	22.82	23.24	r_up	
-MRO	20120625	23.24	23.19	r_down	
-MRO	20120626	23.19	23.49	r_up	4:1
-MRO	20120627	23.49	23.88	r_up	
-MRO	20120628	23.88	24.14	r_up	
-MRO	20120629	24.14	25.03	r_up	
-MRO	20120702	25.03	24.76	r_down	365:2 $:2
-MRO	20120703	24.76	25.46	r_up	
-MRO	20120705	25.46	24.93	r_down	
-MRO	20120706	24.93	24.43	r_down	
-MRO	20120709	24.43	24.03	r_down	
-MRO	20120710	24.03	23.58	r_down	
-MRO	20120711	23.58	24.12	r_up	stocks:1 wary:1
-MRO	20120712	24.12	23.75	r_down	
-MRO	20120713	23.75	24.34	r_up	
-MRO	20120716	24.34	25.04	r_up	19-:2 $:4 21:2
-MRO	20120717	25.04	25.46	r_up	
-MRO	20120718	25.46	26.02	r_up	
-MRO	20120719	26.02	26.18	r_up	
-MRO	20120720	26.18	25.98	r_down	66:1
-MRO	20120723	25.98	25.4	r_down	24:1 's:1
-MRO	20120724	25.4	24.88	r_down	
-MRO	20120725	24.88	24.8	r_down	66:1
-MRO	20120726	24.8	25.74	r_up	refinery:1 's:1
-MRO	20120727	25.74	26.46	r_up	
-MRO	20120730	26.46	26.33	r_down	
-MRO	20120731	26.33	25.91	r_down	2:1 12:2 2nd:2
-MRO	20120801	25.91	25.96	r_up	weighs:1 oil:1 's:2 gains:1 limits:1 soars:1 watch:1 gas:1 2nd:2 61:6 loss:1 stocks:1 stock:1
-MRO	20120802	25.96	25.18	r_down	
-MRO	20120803	25.18	26.15	r_up	wrap:1 week:1 stocks:1 up:1 rally:1
-MRO	20120806	26.15	26.14	r_down	
-MRO	20120807	26.14	26.82	r_up	
-MRO	20120808	26.82	26.99	r_up	
-MRO	20120809	26.99	27.0	r_up	
-MRO	20120810	27.0	27.31	r_up	week:1 notch:1 gains:1 sixth:1 rebound:1 stocks:1
-MRO	20120813	27.31	26.96	r_down	
-MRO	20120814	26.96	26.96	r_up	
-MRO	20120815	26.96	27.06	r_up	
-MRO	20120816	27.06	26.94	r_down	
-MRO	20120817	26.94	26.69	r_down	
-MRO	20120820	26.69	26.75	r_up	
-MRO	20120821	26.75	26.61	r_down	
-MRO	20120822	26.61	27.26	r_up	rebound:1 energy:1 stocks:1 extends:1 gains:1
-MRO	20120823	27.26	27.28	r_up	66:1
-MRO	20120824	27.28	27.42	r_up	pull:1 path:1 companies:1 staff:1
-MRO	20120827	27.42	27.2	r_down	
-MRO	20120828	27.2	27.54	r_up	
-MRO	20120829	27.54	27.25	r_down	
-MRO	20120830	27.25	26.85	r_down	
-MRO	20120831	26.85	27.4	r_up	crude:1 rally:1 stocks:1 $:1 96:1
-MRO	20120904	27.4	27.03	r_down	
-MRO	20120905	27.03	26.77	r_down	
-MRO	20120906	26.77	27.85	r_up	's:1 firmer:1 66:1 crude:1 rally:1 stocks:1 boost:1 euro:1
-MRO	20120907	27.85	28.18	r_up	
-MRO	20120910	28.18	28.04	r_down	
-MRO	20120911	28.04	28.78	r_up	
-MRO	20120912	28.78	28.62	r_down	
-MRO	20120913	28.62	29.4	r_up	
-MRO	20120914	29.4	30.62	r_up	sector:1 heat:1 up:1
-MRO	20120917	30.62	30.33	r_down	
-MRO	20120918	30.33	29.85	r_down	$:1
-MRO	20120919	29.85	29.94	r_up	
-MRO	20120920	29.94	29.93	r_down	
-MRO	20120921	29.93	30.31	r_up	
-MRO	20120924	30.31	29.88	r_down	
-MRO	20120925	29.88	29.57	r_down	
-MRO	20120926	29.57	29.12	r_down	
-MRO	20120927	29.12	29.56	r_up	
-MRO	20120928	29.56	29.12	r_down	
-MRO	20121001	29.12	29.4	r_up	
-MRO	20121002	29.4	29.43	r_up	
-MRO	20121003	29.43	28.96	r_down	
-MRO	20121004	28.96	29.39	r_up	pace:1 retreat:1 energy-stock:1
-MRO	20121005	29.39	29.09	r_down	
-MRO	20121008	29.09	29.15	r_up	
-MRO	20121009	29.15	29.15	r_up	
-MRO	20121010	29.15	29.11	r_down	
-MRO	20121011	29.11	28.86	r_down	
-MRO	20121012	28.86	28.93	r_up	
-MRO	20121015	28.93	29.42	r_up	sector:1 off:1 lags:1
-MRO	20121016	29.42	30.18	r_up	
-MRO	20121017	30.18	30.85	r_up	
-MRO	20121018	30.85	30.76	r_down	
-MRO	20121019	30.76	30.13	r_down	19:2 15:2 $:4 21:2
-MRO	20121022	30.13	29.63	r_down	
-MRO	20121023	29.63	29.11	r_down	
-MRO	20121024	29.11	29.41	r_up	among:1 gainers:1 $:4 4.2:1 top:1 up:1 2:1 1.1:3 2012:2
-MRO	20121025	29.41	29.74	r_up	$:1 gas:1 up:1 picks:1 2:1 activity:1
-MRO	20121026	29.74	29.46	r_down	lag:1 energy:1 other:1 stocks:1 soars:1
-MRO	20121031	29.46	29.6	r_up	
-MRO	20121101	29.6	29.91	r_up	
-MRO	20121102	29.91	29.5	r_down	
-MRO	20121105	29.5	30.05	r_up	
-MRO	20121106	30.05	30.74	r_up	11:4 gainers:1 top:1 earnings:1 66:1 stocks:1 energy:1
-MRO	20121107	30.74	29.51	r_down	surprises:1 advisories:1
-MRO	20121108	29.51	29.41	r_down	
-MRO	20121109	29.41	29.98	r_up	
-MRO	20121112	29.98	29.77	r_down	
-MRO	20121113	29.77	29.7	r_down	
-MRO	20121114	29.7	29.59	r_down	
-MRO	20121115	29.59	30.07	r_up	may:1 thankful:1 you:1 stocks:1 own:1
-MRO	20121116	30.07	30.39	r_up	
-MRO	20121119	30.39	30.83	r_up	
-MRO	20121120	30.83	31.19	r_up	
-MRO	20121121	31.19	31.19	r_up	
-MRO	20121123	31.19	31.62	r_up	
-MRO	20121126	31.62	30.7	r_down	
-MRO	20121127	30.7	30.74	r_up	
-MRO	20121128	30.74	30.77	r_up	
-MRO	20121129	30.77	30.39	r_down	
-MRO	20121130	30.39	30.55	r_up	rig:1 stocks:1 order:1 cancels:1 higher:1
-MRO	20121203	30.55	30.5	r_down	
-MRO	20121204	30.5	29.75	r_down	5.2:4 $:4 2013:4 2012:2
-MRO	20121205	29.75	30.17	r_up	paces:1 lower:1 stocks:1 laggards:1
-MRO	20121206	30.17	30.42	r_up	
-MRO	20121207	30.42	30.62	r_up	
-MRO	20121210	30.62	30.06	r_down	
-MRO	20121211	30.06	29.93	r_down	
-MRO	20121212	29.93	30.21	r_up	
-MRO	20121213	30.21	29.9	r_down	
-MRO	20121214	29.9	30.52	r_up	
-MRO	20121217	30.52	30.4	r_down	
-MRO	20121218	30.4	30.98	r_up	
-MRO	20121219	30.98	30.93	r_down	
-MRO	20121220	30.93	31.15	r_up	
-MRO	20121221	31.15	30.75	r_down	
-MRO	20121224	30.75	30.39	r_down	cheer:1 holiday:1 energy:1 stocks:1
-MRO	20121226	30.39	30.17	r_down	
-MRO	20121227	30.17	30.03	r_down	
-MRO	20121228	30.03	29.52	r_down	
-MRO	20121231	29.52	30.36	r_up	
-MRO	20130102	30.36	31.34	r_up	
-MRO	20130103	31.34	31.28	r_down	
-MRO	20130104	31.28	31.7	r_up	
-MRO	20130107	31.7	31.54	r_down	
-MRO	20130108	31.54	31.63	r_up	
-MRO	20130109	31.63	31.34	r_down	extend:1 third:1 into:1 losses:1 stocks:1 day:1
-MRO	20130110	31.34	31.97	r_up	
-MRO	20130111	31.97	31.84	r_down	
-MRO	20130114	31.84	31.75	r_down	
-MRO	20130115	31.75	31.62	r_down	
-MRO	20130116	31.62	32.01	r_up	
-MRO	20130117	32.01	32.84	r_up	
-MRO	20130118	32.84	32.76	r_down	shines:1 stocks:1 energy:1 brighten:1
-MRO	20130122	32.76	33.21	r_up	
-MRO	20130123	33.21	33.33	r_up	
-MRO	20130124	33.33	33.44	r_up	
-MRO	20130125	33.44	33.45	r_up	
-MRO	20130128	33.45	33.19	r_down	
-MRO	20130129	33.19	33.6	r_up	losing:1 patience:1 energy:1 stocks:1
-MRO	20130130	33.6	33.22	r_down	n't:1
-MRO	20130131	33.22	33.28	r_up	
-MRO	20130201	33.28	33.88	r_up	14000:1 's:1
-MRO	20130204	33.88	33.84	r_down	
-MRO	20130205	33.84	34.38	r_up	
-MRO	20130206	34.38	34.07	r_down	leads:1 energy:1 stocks:1 lower:1 41:2
-MRO	20130207	34.07	33.67	r_down	
-MRO	20130208	33.67	34.19	r_up	
-MRO	20130211	34.19	33.98	r_down	
-MRO	20130212	33.98	34.27	r_up	
-MRO	20130213	34.27	34.62	r_up	
-MRO	20130214	34.62	35.0	r_up	
-MRO	20130215	35.0	34.49	r_down	
-MRO	20130219	34.49	35.53	r_up	
-MRO	20130220	35.53	34.4	r_down	
-MRO	20130221	34.4	34.21	r_down	
-MRO	20130222	34.21	34.54	r_up	
-MRO	20130225	34.54	32.78	r_down	movers:1 12:1 surges:1
-MRO	20130226	32.78	32.7	r_down	cheap:1 deal:1
-MRO	20130227	32.7	33.26	r_up	
-MRO	20130228	33.26	33.33	r_up	
-MRO	20130301	33.33	32.73	r_down	
-MRO	20130304	32.73	32.21	r_down	
-MRO	20130305	32.21	32.38	r_up	
-MRO	20130306	32.38	32.59	r_up	
-MRO	20130307	32.59	33.18	r_up	
-MRO	20130308	33.18	33.34	r_up	
-MRO	20130311	33.34	33.55	r_up	
-MRO	20130312	33.55	33.9	r_up	
-MRO	20130313	33.9	34.2	r_up	
-MRO	20130314	34.2	34.59	r_up	
-MRO	20130315	34.59	34.9	r_up	week:1 1:1 gain:1 stocks:1 than:1 more:1
-MRO	20130318	34.9	34.81	r_down	
-MRO	20130319	34.81	33.79	r_down	
-MRO	20130320	33.79	34.43	r_up	
-MRO	20130321	34.43	33.98	r_down	jumps:1 stocks:1 gain:1
-MRO	20130322	33.98	33.99	r_up	
-MRO	20130325	33.99	33.55	r_down	
-MRO	20130326	33.55	33.9	r_up	
-MRO	20130327	33.9	33.84	r_down	
-MRO	20130328	33.84	33.55	r_down	
-MRO	20130401	33.55	33.43	r_down	
-MRO	20130402	33.43	33.4	r_down	
-MRO	20130403	33.4	33.03	r_down	
-MRO	20130404	33.03	32.53	r_down	
-MRO	20130405	32.53	32.32	r_down	
-MRO	20130408	32.32	32.68	r_up	
-MRO	20130409	32.68	33.3	r_up	
-MRO	20130410	33.3	33.74	r_up	
-MRO	20130411	33.74	33.63	r_down	
-MRO	20130412	33.63	32.38	r_down	
-MRO	20130415	32.38	30.47	r_down	
-MRO	20130416	30.47	30.91	r_up	
-MRO	20130417	30.91	29.84	r_down	
-MRO	20130418	29.84	29.96	r_up	
-MRO	20130419	29.96	29.7	r_down	
-MRO	20130422	29.7	30.25	r_up	
-MRO	20130423	30.25	30.54	r_up	
-MRO	20130424	30.54	31.22	r_up	
-MRO	20130425	31.22	31.71	r_up	
-MRO	20130426	31.71	31.56	r_down	
-MRO	20130429	31.56	32.44	r_up	
-MRO	20130430	32.44	32.51	r_up	
-MRO	20130501	32.51	31.73	r_down	
-MRO	20130502	31.73	32.3	r_up	
-MRO	20130503	32.3	33.36	r_up	
-MRO	20130506	33.36	33.41	r_up	
-MRO	20130507	33.41	34.16	r_up	
-MRO	20130508	34.16	34.55	r_up	
-MRO	20130509	34.55	34.61	r_up	end:1 after:1 flip-flops:1 early:1 stocks:1 higher:1
-MRO	20130510	34.61	34.18	r_down	
-MRO	20130513	34.18	34.29	r_up	
-MRO	20130514	34.29	35.38	r_up	
-MRO	20130515	35.38	35.0	r_down	
-MRO	20130516	35.0	35.15	r_up	
-MRO	20130517	35.15	36.15	r_up	among:1 top:1 stocks:1 losers:1 fall:1
-MRO	20130520	36.15	36.38	r_up	
-MRO	20130521	36.38	36.09	r_down	
-MRO	20130522	36.09	35.39	r_down	
-MRO	20130523	35.39	35.23	r_down	decline:1 fizzles:1 stocks:1 asset:1 sale:1
-MRO	20130524	35.23	35.15	r_down	
-MRO	20130528	35.15	35.48	r_up	
-MRO	20130529	35.48	35.46	r_down	
-MRO	20130530	35.46	35.15	r_down	
-MRO	20130531	35.15	34.39	r_down	
-MRO	20130603	34.39	35.46	r_up	invest:1 stocks:1 gain:1 $:1
-MRO	20130604	35.46	34.94	r_down	
-MRO	20130605	34.94	34.05	r_down	
-MRO	20130606	34.05	34.63	r_up	
-MRO	20130607	34.63	34.73	r_up	
-MRO	20130610	34.73	34.71	r_down	
-MRO	20130611	34.71	34.03	r_down	off:1
-MRO	20130612	34.03	33.4	r_down	
-MRO	20130613	33.4	34.37	r_up	's:2 takes:1 lead:1 trend:1 energy:1 gain:1 fall:1 bucks:1 stocks:2
-MRO	20130614	34.37	34.38	r_up	
-MRO	20130617	34.38	34.99	r_up	
-MRO	20130618	34.99	36.05	r_up	
-MRO	20130619	36.05	35.67	r_down	
-MRO	20130620	35.67	34.29	r_down	
-MRO	20130621	34.29	34.27	r_down	
+MRO	20140501	35.7	35.9	r_up	
+MRO	20140502	35.9	36.1	r_up	profitable:2 oil:1 cheapest:1 cheap:1 energy:1 gas:1 5:1 can:1 invest:1 five:1 you:1 stocks:2
+MRO	20140505	36.1	36.0	r_down	
+MRO	20140506	36.0	35.8	r_down	lower:2 oil:1 first-quarter:1 exploration:1 producer:1 though:1 continued:1 bottom:1 gas:1 sales:1 costs:1 volume:1 reported:1 tripled:1 growth:1 production:1 crude:1 natural:1 line:1 's:1 domestic:1
+MRO	20140507	35.8	35.1	r_down	
+MRO	20140508	35.1	35.3	r_up	
+MRO	20140509	35.3	35.5	r_up	
+MRO	20140512	35.5	35.9	r_up	
+MRO	20140513	35.9	36.0	r_up	
+MRO	20140514	36.0	36.1	r_up	
+MRO	20140515	36.1	35.8	r_down	
+MRO	20140516	35.8	35.4	r_down	
+MRO	20140519	35.4	35.4	r_up	
+MRO	20140520	35.4	35.2	r_down	
+MRO	20140521	35.2	35.7	r_up	
+MRO	20140522	35.7	35.9	r_up	
+MRO	20140523	35.9	36.0	r_up	
+MRO	20140527	36.0	36.0	r_up	
+MRO	20140528	36.0	36.3	r_up	
+MRO	20140529	36.3	36.4	r_up	
+MRO	20140530	36.4	36.4	r_up	
+MRO	20140602	36.4	36.2	r_down	operations:3 up:1 strengthen:1 energy:2 move:1 focus:3 euro-zone:1 production:1 selling:2 looks:1 oil-and-gas:2 foreign:1 its:6 sell:2 giant:1 stocks:1 20:1 mostly:1 drive:2 expectations:1 capabilities:1 field:1 add:1 2:2 buying:1 2.1:2 meeting:1 higher:1 billion:3 measures:1 run:1 business:2 ops:1 company:2 rise:1 part:2 manufacturing:1 data:1 than:3 after:2 $:4 case:1 assets:1 launch:1 --:1 markets:1 could:1 cash:2 sells:1 bolster:1 more:3 massive:1 easing:2 stock:1
+MRO	20140603	36.2	36.6	r_up	billion:1 $:1 business:1 fix:1 probe:1 order:1 mulls:1 regulators:1 safety:1 planes:1 small:1 sells:1 2.1:1 2012:1
+MRO	20140604	36.6	36.4	r_down	
+MRO	20140605	36.4	36.8	r_up	
+MRO	20140606	36.8	37.1	r_up	
+MRO	20140609	37.1	37.6	r_up	
+MRO	20140610	37.6	37.9	r_up	
+MRO	20140611	37.9	38.2	r_up	
+MRO	20140612	38.2	38.9	r_up	
+MRO	20140613	38.9	38.8	r_down	
+MRO	20140616	38.8	38.8	r_up	
+MRO	20140617	38.8	38.6	r_down	
+MRO	20140618	38.6	38.7	r_up	
+MRO	20140619	38.7	39.0	r_up	heavy:1 spending:1 cash:1 while:1 offers:2 exit:1 rising:1 margins:1
+MRO	20140620	39.0	39.5	r_up	
+MRO	20140623	39.5	39.9	r_up	
+MRO	20140624	39.9	38.8	r_down	
+MRO	20140625	38.8	39.5	r_up	
+MRO	20140626	39.5	39.4	r_down	
+MRO	20140627	39.4	39.2	r_down	development:1 project:1 oil:1 assets:1 --:1 guidance:1 company:1 gas:1 onshore:1 due:1 flagship:1 production:2 exploration:1 methods:1 accounting:1 2014:1 lowered:1 quarter:1 its:2 change:1 first:1
+MRO	20140630	39.2	39.7	r_up	
+MRO	20140701	39.7	39.5	r_down	
+MRO	20140702	39.5	39.4	r_down	
+MRO	20140703	39.4	40.1	r_up	
+MRO	20140707	40.1	39.3	r_down	
+MRO	20140708	39.3	39.2	r_down	
+MRO	20140709	39.2	39.3	r_up	
+MRO	20140710	39.3	39.1	r_down	
+MRO	20140711	39.1	38.9	r_down	
+MRO	20140714	38.9	39.4	r_up	
+MRO	20140715	39.4	39.1	r_down	
+MRO	20140716	39.1	40.0	r_up	
+MRO	20140717	40.0	39.3	r_down	
+MRO	20140718	39.3	39.5	r_up	
+MRO	20140721	39.5	39.5	r_up	
+MRO	20140722	39.5	39.9	r_up	
+MRO	20140723	39.9	40.2	r_up	
+MRO	20140724	40.2	40.4	r_up	
+MRO	20140725	40.4	40.2	r_down	
+MRO	20140728	40.2	40.0	r_down	
+MRO	20140729	40.0	39.7	r_down	
+MRO	20140730	39.7	39.4	r_down	
+MRO	20140731	39.4	38.5	r_down	
+MRO	20140801	38.5	38.4	r_down	
+MRO	20140804	38.4	39.0	r_up	plunge:1 investors:1 just:1 drop:1 two:1 years:1 biggest:1 suffered:1 stocks:1 beginning:1 its:1 500:1 weekly:1
+MRO	20140805	39.0	38.2	r_down	27:2 rise:1 reported:1 production:1 growth:1 earnings:1 prices:1 crude-oil:1 continued:1 second-quarter:1 higher:1
+MRO	20140806	38.2	38.7	r_up	
+MRO	20140807	38.7	37.8	r_down	
+MRO	20140808	37.8	38.8	r_up	
+MRO	20140811	38.8	38.9	r_up	
+MRO	20140812	38.9	38.8	r_down	
+MRO	20140813	38.8	38.9	r_up	week:1 interruption:1 exports:1 oil:1 plans:1 people:1 familiar:1 after:1 one-year:1 port:1 matter:1 said:1 largest:1 next:1 its:1 restart:1
+MRO	20140814	38.9	38.7	r_down	
+MRO	20140815	38.7	38.8	r_up	
+MRO	20140818	38.8	38.9	r_up	
+MRO	20140819	38.9	39.7	r_up	
+MRO	20140820	39.7	39.9	r_up	
+MRO	20140821	39.9	40.2	r_up	
+MRO	20140822	40.2	40.0	r_down	should:1 see:1 fall:1 further:1 such:1 stocks:1 opportunity:1 buying:1
+MRO	20140825	40.0	40.3	r_up	operations:1 resumed:1 giant:1 said:1 's:2 normal:1 country:1 jumps:1 violence:1 had:1 urban:1 field:1 oil:1 mounting:1 output:1 centers:1 contrast:1
+MRO	20140826	40.3	40.6	r_up	firm:1 brokerage:1 's:1 expand:1 more:1
+MRO	20140827	40.6	40.8	r_up	
+MRO	20140828	40.8	40.9	r_up	
+MRO	20140829	40.9	41.6	r_up	barrels:1 one-year:1 partnership:1 ending:1 22,000:1 port:3 terminal:3 said:1 stoppage:1 storage:1 day:1 late:1 capital:2 supplies:2 receiving:2 week:1 exports:2 oil:6 's:5 eastern:1 started:1 after:3 despite:2 between:1 now:2 intense:2 supplying:1 resumed:2 last:1 largest:2 fields:2 official:1 companies:1 fighting:2 shipped:1
+MRO	20140902	41.6	41.0	r_down	
+MRO	20140903	41.0	41.2	r_up	
+MRO	20140904	41.2	40.5	r_down	
+MRO	20140905	40.5	40.9	r_up	
+MRO	20140908	40.9	40.2	r_down	barrels:1 financial:2 into:1 increased:1 ending:1 brought:1 substantial:1 year:3 partner:1 aggressive:1 its:4 after:1 shareholders:1 said:1 $:2 million:2 profit:1 rose:1 began:1 due:3 increase:1 field:2 production:1 equity:1 2014:2 net:2 development:1 oil:3 explorer:1 83:1 43:1 income:1 gas:2 wells:2 rise:1 drilling:1 new:1 during:1 soared:1 39:1 last:1 largely:1 --:1 31:1 51:1 50:1 flagship:1 were:1 output:2 revenues:1
+MRO	20140909	40.2	40.0	r_down	
+MRO	20140910	40.0	40.0	r_up	
+MRO	20140911	40.0	40.0	r_up	
+MRO	20140912	40.0	39.5	r_down	
+MRO	20140915	39.5	39.8	r_up	
+MRO	20140916	39.8	40.1	r_up	
+MRO	20140917	40.1	40.3	r_up	
+MRO	20140918	40.3	39.3	r_down	
+MRO	20140919	39.3	39.2	r_down	
+MRO	20140922	39.2	38.7	r_down	
+MRO	20140923	38.7	38.4	r_down	
+MRO	20140924	38.4	38.6	r_up	
+MRO	20140925	38.6	38.1	r_down	
+MRO	20140926	38.1	38.5	r_up	
+MRO	20140929	38.5	38.6	r_up	
+MRO	20140930	38.6	37.5	r_down	
+MRO	20141001	37.5	37.1	r_down	illegally:1 represent:1 major:1 attorneys:1 clientele:1 departure:1 free:1 their:1 charge:1 entered:1 have:1 corporations:1 firms:1 law:1 children:1 usual:1
+MRO	20141002	37.1	36.9	r_down	
+MRO	20141003	36.9	36.6	r_down	
+MRO	20141006	36.6	36.6	r_up	
+MRO	20141007	36.6	35.8	r_down	
+MRO	20141008	35.8	36.1	r_up	
+MRO	20141009	36.1	34.7	r_down	
+MRO	20141010	34.7	34.2	r_down	

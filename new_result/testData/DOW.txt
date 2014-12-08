@@ -1,307 +1,114 @@
-DOW	20120402	33.25	33.57	r_up	surprises:1 900:1 advisories:1
-DOW	20120403	33.57	32.68	r_down	
-DOW	20120404	32.68	32.25	r_down	
-DOW	20120405	32.25	32.08	r_down	
-DOW	20120409	32.08	31.19	r_down	
-DOW	20120410	31.19	30.43	r_down	
-DOW	20120411	30.43	30.59	r_up	
-DOW	20120412	30.59	31.36	r_up	watch:1
-DOW	20120413	31.36	31.87	r_up	watch:1 's:1
-DOW	20120416	31.87	32.25	r_up	
-DOW	20120417	32.25	33.23	r_up	
-DOW	20120418	33.23	33.22	r_down	
-DOW	20120419	33.22	33.56	r_up	
-DOW	20120420	33.56	33.89	r_up	
-DOW	20120423	33.89	33.37	r_down	
-DOW	20120424	33.37	33.24	r_down	n't:1
-DOW	20120425	33.24	34.63	r_up	watch:1
-DOW	20120426	34.63	33.45	r_down	decline:1 after:1 jobless:1 futures:1 watch:1 claims:1 data:1
-DOW	20120427	33.45	33.34	r_down	surprises:1 100:1 advisories:1
-DOW	20120430	33.34	32.52	r_down	's:1
-DOW	20120501	32.52	32.49	r_down	
-DOW	20120502	32.49	32.01	r_down	
-DOW	20120503	32.01	31.54	r_down	
-DOW	20120504	31.54	31.03	r_down	$:1 bonds:1 agriculture:1 rates:1 swap:1 capping:1 stocks:1 opportunity:1 2.5:1 underestimate:1
-DOW	20120507	31.03	30.99	r_down	falter:1 uncertainty:1 outlooks:1 election:1
-DOW	20120508	30.99	30.82	r_down	
-DOW	20120509	30.82	30.84	r_up	
-DOW	20120510	30.84	30.9	r_up	
-DOW	20120511	30.9	30.86	r_down	's:1
-DOW	20120514	30.86	30.4	r_down	
-DOW	20120515	30.4	29.63	r_down	
-DOW	20120516	29.63	28.94	r_down	
-DOW	20120517	28.94	28.21	r_down	
-DOW	20120518	28.21	28.27	r_up	
-DOW	20120521	28.27	29.31	r_up	
-DOW	20120522	29.31	29.26	r_down	
-DOW	20120523	29.26	29.3	r_up	ready:1 lie:1 world’s:1 pounce:1
-DOW	20120524	29.3	30.28	r_up	2.16:1 2008:2 's:2 $:2
-DOW	20120525	30.28	30.04	r_down	
-DOW	20120529	30.04	30.7	r_up	
-DOW	20120530	30.7	29.97	r_down	
-DOW	20120531	29.97	29.81	r_down	
-DOW	20120601	29.81	29.14	r_down	
-DOW	20120604	29.14	29.27	r_up	
-DOW	20120605	29.27	29.6	r_up	
-DOW	20120606	29.6	30.42	r_up	
-DOW	20120607	30.42	30.56	r_up	
-DOW	20120608	30.56	30.82	r_up	
-DOW	20120611	30.82	30.28	r_down	
-DOW	20120612	30.28	30.82	r_up	
-DOW	20120613	30.82	30.39	r_down	
-DOW	20120614	30.39	30.72	r_up	
-DOW	20120615	30.72	31.57	r_up	
-DOW	20120618	31.57	31.7	r_up	
-DOW	20120619	31.7	32.27	r_up	
-DOW	20120620	32.27	32.41	r_up	
-DOW	20120621	32.41	31.59	r_down	
-DOW	20120622	31.59	31.5	r_down	
-DOW	20120625	31.5	30.95	r_down	
-DOW	20120626	30.95	30.06	r_down	
-DOW	20120627	30.06	29.83	r_down	
-DOW	20120628	29.83	29.73	r_down	
-DOW	20120629	29.73	30.55	r_up	
-DOW	20120702	30.55	30.56	r_up	
-DOW	20120703	30.56	30.73	r_up	
-DOW	20120705	30.73	30.7	r_down	
-DOW	20120706	30.7	30.56	r_down	
-DOW	20120709	30.56	30.25	r_down	
-DOW	20120710	30.25	29.64	r_down	
-DOW	20120711	29.64	29.37	r_down	
-DOW	20120712	29.37	28.9	r_down	
-DOW	20120713	28.9	29.4	r_up	
-DOW	20120716	29.4	29.01	r_down	
-DOW	20120717	29.01	29.34	r_up	
-DOW	20120718	29.34	29.81	r_up	
-DOW	20120719	29.81	30.37	r_up	
-DOW	20120720	30.37	29.99	r_down	2:1 $:1
-DOW	20120723	29.99	29.51	r_down	
-DOW	20120724	29.51	29.14	r_down	
-DOW	20120725	29.14	29.36	r_up	
-DOW	20120726	29.36	28.3	r_down	31:3 watch:1 2nd:2
-DOW	20120727	28.3	28.2	r_down	
-DOW	20120730	28.2	27.97	r_down	
-DOW	20120731	27.97	27.91	r_down	
-DOW	20120801	27.91	28.41	r_up	
-DOW	20120802	28.41	28.2	r_down	
-DOW	20120803	28.2	28.93	r_up	
-DOW	20120806	28.93	29.08	r_up	
-DOW	20120807	29.08	29.15	r_up	
-DOW	20120808	29.15	29.02	r_down	's:1 basks:1
-DOW	20120809	29.02	28.96	r_down	
-DOW	20120810	28.96	28.83	r_down	
-DOW	20120813	28.83	28.56	r_down	
-DOW	20120814	28.56	28.78	r_up	's:1
-DOW	20120815	28.78	28.77	r_down	
-DOW	20120816	28.77	29.14	r_up	
-DOW	20120817	29.14	29.25	r_up	
-DOW	20120820	29.25	29.27	r_up	
-DOW	20120821	29.27	29.32	r_up	
-DOW	20120822	29.32	29.29	r_down	
-DOW	20120823	29.29	28.89	r_down	
-DOW	20120824	28.89	28.99	r_up	
-DOW	20120827	28.99	28.54	r_down	
-DOW	20120828	28.54	28.38	r_down	
-DOW	20120829	28.38	28.43	r_up	biggest:1 gaining:1 stocks:1 's:2 declining:1
-DOW	20120830	28.43	28.48	r_up	
-DOW	20120831	28.48	28.42	r_down	
-DOW	20120904	28.42	27.77	r_down	
-DOW	20120905	27.77	27.59	r_down	
-DOW	20120906	27.59	28.64	r_up	
-DOW	20120907	28.64	29.41	r_up	
-DOW	20120910	29.41	29.38	r_down	
-DOW	20120911	29.38	29.33	r_down	
-DOW	20120912	29.33	29.27	r_down	
-DOW	20120913	29.27	30.48	r_up	
-DOW	20120914	30.48	31.28	r_up	
-DOW	20120917	31.28	30.19	r_down	
-DOW	20120918	30.19	30.08	r_down	
-DOW	20120919	30.08	30.02	r_down	
-DOW	20120920	30.02	29.95	r_down	
-DOW	20120921	29.95	29.35	r_down	
-DOW	20120924	29.35	29.31	r_down	
-DOW	20120925	29.31	28.89	r_down	
-DOW	20120926	28.89	28.53	r_down	tough:1 ahead:1 global:1 companies:1 times:1 warn:1 7:1
-DOW	20120927	28.53	28.58	r_up	
-DOW	20120928	28.58	28.39	r_down	
-DOW	20121001	28.39	28.74	r_up	
-DOW	20121002	28.74	28.59	r_down	
-DOW	20121003	28.59	28.14	r_down	$:1 550:1
-DOW	20121004	28.14	28.61	r_up	$:3 550:2
-DOW	20121005	28.61	28.63	r_up	
-DOW	20121008	28.63	28.43	r_down	
-DOW	20121009	28.43	27.84	r_down	
-DOW	20121010	27.84	27.53	r_down	
-DOW	20121011	27.53	27.66	r_up	
-DOW	20121012	27.66	27.53	r_down	
-DOW	20121015	27.53	27.76	r_up	
-DOW	20121016	27.76	29.32	r_up	
-DOW	20121017	29.32	29.64	r_up	
-DOW	20121018	29.64	29.63	r_down	
-DOW	20121019	29.63	29.27	r_down	
-DOW	20121022	29.27	29.15	r_down	
-DOW	20121023	29.15	27.99	r_down	39:1 5:1
-DOW	20121024	27.99	29.29	r_up	biggest:1 movers:1 5:2 rally:1
-DOW	20121025	29.29	29.08	r_down	's:1 indexes:1 prior:1 add:1 fall:1 clears:1 turbulence:1 stock:1 market:1 day’s:1
-DOW	20121026	29.08	28.99	r_down	seen:1 divide:1 business:1 earnings:1
-DOW	20121031	28.99	28.72	r_down	$:1 1.1:1
-DOW	20121101	28.72	29.52	r_up	
-DOW	20121102	29.52	29.16	r_down	's:1
-DOW	20121105	29.16	29.47	r_up	
-DOW	20121106	29.47	29.92	r_up	's:1
-DOW	20121107	29.92	29.69	r_down	
-DOW	20121108	29.69	28.97	r_down	
-DOW	20121109	28.97	28.78	r_down	
-DOW	20121112	28.78	28.22	r_down	12:1
-DOW	20121113	28.22	28.26	r_up	
-DOW	20121114	28.26	27.72	r_down	
-DOW	20121115	27.72	27.34	r_down	
-DOW	20121116	27.34	27.19	r_down	
-DOW	20121119	27.19	28.21	r_up	's:2
-DOW	20121120	28.21	28.22	r_up	
-DOW	20121121	28.22	28.25	r_up	
-DOW	20121123	28.25	28.8	r_up	
-DOW	20121126	28.8	29.01	r_up	
-DOW	20121127	29.01	29.13	r_up	
-DOW	20121128	29.13	29.28	r_up	
-DOW	20121129	29.28	29.41	r_up	
-DOW	20121130	29.41	29.6	r_up	
-DOW	20121203	29.6	28.72	r_down	
-DOW	20121204	28.72	28.72	r_up	
-DOW	20121205	28.72	28.91	r_up	
-DOW	20121206	28.91	29.06	r_up	
-DOW	20121207	29.06	29.7	r_up	
-DOW	20121210	29.7	30.01	r_up	
-DOW	20121211	30.01	30.44	r_up	
-DOW	20121212	30.44	30.54	r_up	
-DOW	20121213	30.54	30.42	r_down	
-DOW	20121214	30.42	30.8	r_up	
-DOW	20121217	30.8	31.19	r_up	
-DOW	20121218	31.19	32.14	r_up	
-DOW	20121219	32.14	31.79	r_down	
-DOW	20121220	31.79	32.17	r_up	
-DOW	20121221	32.17	31.67	r_down	
-DOW	20121224	31.67	31.86	r_up	
-DOW	20121226	31.86	32.1	r_up	
-DOW	20121227	32.1	31.8	r_down	
-DOW	20121228	31.8	31.31	r_down	
-DOW	20121231	31.31	32.01	r_up	
-DOW	20130102	32.01	32.72	r_up	2013:1
-DOW	20130103	32.72	32.82	r_up	
-DOW	20130104	32.82	33.3	r_up	
-DOW	20130107	33.3	33.26	r_down	
-DOW	20130108	33.26	32.77	r_down	
-DOW	20130109	32.77	33.17	r_up	
-DOW	20130110	33.17	33.5	r_up	
-DOW	20130111	33.5	33.52	r_up	
-DOW	20130114	33.52	33.94	r_up	
-DOW	20130115	33.94	33.75	r_down	
-DOW	20130116	33.75	33.33	r_down	's:1
-DOW	20130117	33.33	33.47	r_up	
-DOW	20130118	33.47	33.47	r_up	
-DOW	20130122	33.47	33.61	r_up	
-DOW	20130123	33.61	33.74	r_up	
-DOW	20130124	33.74	34.09	r_up	
-DOW	20130125	34.09	34.24	r_up	
-DOW	20130128	34.24	34.08	r_down	
-DOW	20130129	34.08	34.39	r_up	
-DOW	20130130	34.39	34.27	r_down	's:1
-DOW	20130131	34.27	31.88	r_down	earnings:1
-DOW	20130201	31.88	32.27	r_up	movers:1 surprises:1 trade:1 down:1 advisories:1 volatile:1
-DOW	20130204	32.27	31.81	r_down	
-DOW	20130205	31.81	31.99	r_up	
-DOW	20130206	31.99	32.21	r_up	
-DOW	20130207	32.21	31.88	r_down	
-DOW	20130208	31.88	32.1	r_up	
-DOW	20130211	32.1	32.16	r_up	
-DOW	20130212	32.16	32.44	r_up	
-DOW	20130213	32.44	32.67	r_up	
-DOW	20130214	32.67	32.17	r_down	
-DOW	20130215	32.17	31.84	r_down	
-DOW	20130219	31.84	31.88	r_up	
-DOW	20130220	31.88	31.33	r_down	's:1
-DOW	20130221	31.33	30.53	r_down	
-DOW	20130222	30.53	31.07	r_up	
-DOW	20130225	31.07	30.34	r_down	
-DOW	20130226	30.34	30.58	r_up	
-DOW	20130227	30.58	31.49	r_up	
-DOW	20130228	31.49	31.41	r_down	
-DOW	20130301	31.41	31.49	r_up	
-DOW	20130304	31.49	31.6	r_up	
-DOW	20130305	31.6	31.88	r_up	
-DOW	20130306	31.88	32.39	r_up	
-DOW	20130307	32.39	32.18	r_down	
-DOW	20130308	32.18	32.45	r_up	
-DOW	20130311	32.45	32.66	r_up	
-DOW	20130312	32.66	32.91	r_up	
-DOW	20130313	32.91	32.88	r_down	
-DOW	20130314	32.88	33.34	r_up	14:1
-DOW	20130315	33.34	33.47	r_up	
-DOW	20130318	33.47	32.94	r_down	
-DOW	20130319	32.94	32.86	r_down	
-DOW	20130320	32.86	33.11	r_up	's:1
-DOW	20130321	33.11	32.16	r_down	
-DOW	20130322	32.16	32.46	r_up	
-DOW	20130325	32.46	31.97	r_down	's:1
-DOW	20130326	31.97	32.0	r_up	
-DOW	20130327	32.0	31.78	r_down	
-DOW	20130328	31.78	31.84	r_up	
-DOW	20130401	31.84	31.37	r_down	
-DOW	20130402	31.37	30.95	r_down	
-DOW	20130403	30.95	31.0	r_up	
-DOW	20130404	31.0	31.43	r_up	
-DOW	20130405	31.43	30.9	r_down	
-DOW	20130408	30.9	30.68	r_down	
-DOW	20130409	30.68	31.44	r_up	
-DOW	20130410	31.44	31.83	r_up	
-DOW	20130411	31.83	31.86	r_up	
-DOW	20130412	31.86	31.75	r_down	
-DOW	20130415	31.75	30.18	r_down	
-DOW	20130416	30.18	30.27	r_up	
-DOW	20130417	30.27	30.3	r_up	
-DOW	20130418	30.3	30.18	r_down	
-DOW	20130419	30.18	30.55	r_up	
-DOW	20130422	30.55	30.99	r_up	
-DOW	20130423	30.99	31.66	r_up	
-DOW	20130424	31.66	32.17	r_up	
-DOW	20130425	32.17	33.97	r_up	after:1 jobs:1 gains:1 futures:1 movers:1 tweet:1 rise:1 watch:1 pops:1 add:1 jobless:1 earnings:1 claims:1 upbeat:1 stocks:2 data:1 stock:1
-DOW	20130426	33.97	33.42	r_down	surprises:1 advisories:1 's:1
-DOW	20130429	33.42	33.87	r_up	
-DOW	20130430	33.87	33.91	r_up	
-DOW	20130501	33.91	33.15	r_down	
-DOW	20130502	33.15	33.12	r_down	
-DOW	20130503	33.12	33.96	r_up	
-DOW	20130506	33.96	34.01	r_up	
-DOW	20130507	34.01	34.54	r_up	
-DOW	20130508	34.54	34.51	r_down	2006:1 's:1 $:1 2.2:1
-DOW	20130509	34.51	34.92	r_up	
-DOW	20130510	34.92	34.46	r_down	
-DOW	20130513	34.46	34.35	r_down	
-DOW	20130514	34.35	34.93	r_up	
-DOW	20130515	34.93	35.34	r_up	
-DOW	20130516	35.34	35.1	r_down	
-DOW	20130517	35.1	35.82	r_up	
-DOW	20130520	35.82	35.61	r_down	
-DOW	20130521	35.61	35.78	r_up	's:1
-DOW	20130522	35.78	35.12	r_down	
-DOW	20130523	35.12	35.1	r_down	
-DOW	20130524	35.1	35.08	r_down	
-DOW	20130528	35.08	35.04	r_down	
-DOW	20130529	35.04	34.94	r_down	
-DOW	20130530	34.94	34.8	r_down	
-DOW	20130531	34.8	34.46	r_down	
-DOW	20130603	34.46	34.34	r_down	
-DOW	20130604	34.34	34.62	r_up	
-DOW	20130605	34.62	33.66	r_down	
-DOW	20130606	33.66	33.89	r_up	
-DOW	20130607	33.89	34.35	r_up	
-DOW	20130610	34.35	34.33	r_down	
-DOW	20130611	34.33	34.0	r_down	
-DOW	20130612	34.0	33.79	r_down	
-DOW	20130613	33.79	34.65	r_up	
-DOW	20130614	34.65	34.01	r_down	
-DOW	20130617	34.01	34.14	r_up	
-DOW	20130618	34.14	34.62	r_up	
-DOW	20130619	34.62	34.1	r_down	
-DOW	20130620	34.1	33.19	r_down	
-DOW	20130621	33.19	32.63	r_down	
+DOW	20140501	49.2	48.0	r_down	broadening:1 super:1 have:1 farmers:1 may:1 developed:1 toll:1 against:1 environmental:1 potentially:1 they:1 weeds:1 authorities:1 new:1 herbicide:1 crops:1 approve:1
+DOW	20140502	48.0	48.0	r_up	1.4:1 low-cost:1 '':1 manager:1 go:1 message:1 considering:1 $:1 investing:1 away:1 complex:1 build:1 2014:1 has:1 take:1 sell:1 ``:1 's:2 advantage:1 gas:1 shale:1 fund:1 billion:1 roughly:1 ignore:1
+DOW	20140505	48.0	48.6	r_up	
+DOW	20140506	48.6	48.4	r_down	
+DOW	20140507	48.4	48.8	r_up	
+DOW	20140508	48.8	48.5	r_down	
+DOW	20140509	48.5	48.5	r_up	
+DOW	20140512	48.5	49.4	r_up	
+DOW	20140513	49.4	49.3	r_down	
+DOW	20140514	49.3	49.5	r_up	
+DOW	20140515	49.5	47.9	r_down	
+DOW	20140516	47.9	48.3	r_up	
+DOW	20140519	48.3	48.6	r_up	
+DOW	20140520	48.6	49.0	r_up	
+DOW	20140521	49.0	49.2	r_up	
+DOW	20140522	49.2	49.0	r_down	
+DOW	20140523	49.0	49.9	r_up	
+DOW	20140527	49.9	50.2	r_up	
+DOW	20140528	50.2	51.0	r_up	
+DOW	20140529	51.0	51.7	r_up	
+DOW	20140530	51.7	51.3	r_down	
+DOW	20140602	51.3	51.7	r_up	
+DOW	20140603	51.7	51.8	r_up	
+DOW	20140604	51.8	51.7	r_down	
+DOW	20140605	51.7	51.8	r_up	
+DOW	20140606	51.8	52.3	r_up	
+DOW	20140609	52.3	52.2	r_down	
+DOW	20140610	52.2	52.4	r_up	
+DOW	20140611	52.4	52.1	r_down	
+DOW	20140612	52.1	51.2	r_down	
+DOW	20140613	51.2	51.6	r_up	firm:1 emerging:1 set:1 's:2 compliance:3 allegations:1 engineering:1 corruption:1 chief:1 program:1 wake:1 mode:1 boosting:1 new:1 construction:1 crisis:1 officer:1
+DOW	20140616	51.6	51.5	r_down	billion:1 10:1 cost:1 $:1 basis:1 over:1 years:1 taxpayers:1 2:1 fair-value:1 says:1 bank:1
+DOW	20140617	51.5	51.2	r_down	
+DOW	20140618	51.2	51.7	r_up	
+DOW	20140619	51.7	51.3	r_down	
+DOW	20140620	51.3	51.7	r_up	
+DOW	20140623	51.7	52.1	r_up	
+DOW	20140624	52.1	51.5	r_down	cyclical:1 's:2 calls:1 discretionary:1 recommended:1 risks:1 stocks:1 consumer:1 temper:1 bank:1 can:1
+DOW	20140625	51.5	51.8	r_up	
+DOW	20140626	51.8	51.7	r_down	
+DOW	20140627	51.7	51.2	r_down	
+DOW	20140630	51.2	51.1	r_down	
+DOW	20140701	51.1	51.1	r_up	gained:1 's:1 figure:1 investors:1 1.9:1 midyear:1 year:1 according:1 update:1 flagship:1 fund:1 through:1 gain:1 6:2 performance:1 includes:1 its:1 sent:1
+DOW	20140702	51.1	51.1	r_up	
+DOW	20140703	51.1	51.6	r_up	
+DOW	20140707	51.6	50.8	r_down	
+DOW	20140708	50.8	50.6	r_down	
+DOW	20140709	50.6	50.8	r_up	
+DOW	20140710	50.8	50.7	r_down	
+DOW	20140711	50.7	51.2	r_up	
+DOW	20140714	51.2	51.1	r_down	
+DOW	20140715	51.1	51.1	r_up	
+DOW	20140716	51.1	51.7	r_up	
+DOW	20140717	51.7	51.2	r_down	chemical:1 says:1 index:1 remains:1 company:1 crushed:1 staid:1 undervalued:1 which:1 has:1
+DOW	20140718	51.2	51.3	r_up	lower:1 spending:1 breaks:1 tax:1 fight:1 deals:1 writes:1 truth:1 investments:1 sad:1 yet:1 tax-‘inversion’:1
+DOW	20140721	51.3	51.5	r_up	flies:1 crucial:1 energy:1 holds:1 companies:1 but:1 one:1 radar:1 below:1 complex:1 place:1 which:1 those:1
+DOW	20140722	51.5	51.9	r_up	
+DOW	20140723	51.9	53.5	r_up	consolidate:1 operations:1 adjusted:1 old:1 revenue:1 results:1 trade:2 helped:1 snack:1 full-year:1 session:2 dot-com:1 have:1 year:2 years:1 's:4 its:6 craze:1 increased:1 4.7:1 said:2 missed:1 quietly:1 profit:1 rose:2 segments:1 expectations:1 shares:2 also:1 beverage:1 growth:1 earnings:2 premarket:1 expected:2 relocate:1 9.6:1 bunch:1 higher:2 all:1 experienced:1 jobs:1 plans:1 company:2 weak:1 sales:2 reported:1 market:1 fell:2 operating:1 international:1 during:1 stocks:1 second-quarter:3 $:1 ago:1 wide:1 15:1 stodgy:1 outlook:2 companies:2 headquarters:1 2:1 actively:2 tech:1 analysts:1 volumes:1 were:1 popular:1 1,300:1 margin:1 reduced:1 paced:1 better-than-expected:1
+DOW	20140724	53.5	53.4	r_down	
+DOW	20140725	53.4	53.3	r_down	
+DOW	20140728	53.3	53.3	r_up	
+DOW	20140729	53.3	53.0	r_down	
+DOW	20140730	53.0	52.1	r_down	
+DOW	20140731	52.1	50.7	r_down	
+DOW	20140801	50.7	50.6	r_down	
+DOW	20140804	50.6	51.3	r_up	
+DOW	20140805	51.3	50.7	r_down	
+DOW	20140806	50.7	51.1	r_up	
+DOW	20140807	51.1	50.9	r_down	
+DOW	20140808	50.9	51.9	r_up	
+DOW	20140811	51.9	51.4	r_down	
+DOW	20140812	51.4	51.4	r_up	
+DOW	20140813	51.4	52.1	r_up	
+DOW	20140814	52.1	51.7	r_down	among:1 stake:1 managers:1 disclosing:1 held:1 been:1 have:1 deal-making:1 second-quarter:1 investment:1 since:1 shares:1 hedge-fund:1 1:1 their:1 disclosed:1 funds:1 new:1 has:1 showing:1 's:5 big:2 company:1 million:1 took:1 wave:1 regulators:1 riding:1 hedge:1 day:1 positions:1 30:1 were:1 position:1 2009:2 latest:1
+DOW	20140815	51.7	51.6	r_down	
+DOW	20140818	51.6	52.5	r_up	
+DOW	20140819	52.5	52.7	r_up	
+DOW	20140820	52.7	52.9	r_up	
+DOW	20140821	52.9	52.7	r_down	
+DOW	20140822	52.7	52.7	r_up	
+DOW	20140825	52.7	52.7	r_up	
+DOW	20140826	52.7	52.7	r_up	handing:1 techniques:1 federal:1 crops:1 modern:1 companies:1 modified:1 against:1 curbing:1 chemical:1 genetically:1 seed:1 victory:1 battle:1 agricultural:1 judge:1 new:1 law:1 over:1 ruled:1
+DOW	20140827	52.7	53.2	r_up	
+DOW	20140828	53.2	53.2	r_up	
+DOW	20140829	53.2	53.1	r_down	
+DOW	20140902	53.1	53.1	r_up	
+DOW	20140903	53.1	53.5	r_up	
+DOW	20140904	53.5	53.9	r_up	
+DOW	20140905	53.9	54.4	r_up	
+DOW	20140908	54.4	53.9	r_down	among:1 financial:2 lighter:1 deal:1 division:1 allows:1 over:1 retire:2 trade:2 top:1 actively:2 trading:1 expected:2 year:2 into:1 agricultural:1 its:1 succeeding:1 finance:1 take:1 said:1 end:2 $:2 would:1 efficient:1 pay:1 make:1 shares:3 ranks:1 everything:1 activist:1 exit:1 build:1 premarket:1 fuel:1 suppliers:1 farming:1 's:5 agreed:1 more:1 slot:1 move:1 prowess:1 bolts:1 form:1 manufacturers:1 business:1 becomes:1 company:2 several:1 else:1 longtime:1 succeed:1 they:1 group:1 trying:1 investor:1 billion:1 edged:1 scrambling:1 has:1 like:1 succeeded:1 pressure:1 technical:1 split:1 industry:2 vehicles:1 companies:2 up:3 try:1 pickups:1 chief:3 session:2 sell:1 officer:2 been:1 faces:1 years:1 veteran:1 comes:1 3.3:1
+DOW	20140909	53.9	53.0	r_down	chemical:1 's:1 takes:1 after:1 conglomerate:1 40:1 years:1 down:1 while:1 retires:1 steps:1 nearly:1
+DOW	20140910	53.0	52.9	r_down	
+DOW	20140911	52.9	52.5	r_down	returns:1 above-average:1 advantage:1 dollars:1 activists:1 number:1 billions:1 hedge-fund:1 their:1 clout:1 take:1 largest:1 increasing:1 effort:1 boardrooms:1 raising:1
+DOW	20140912	52.5	52.3	r_down	
+DOW	20140915	52.3	52.6	r_up	
+DOW	20140916	52.6	53.1	r_up	
+DOW	20140917	53.1	53.7	r_up	
+DOW	20140918	53.7	53.2	r_down	float:1 focus:1 years:1 writes:1 long:1 have:1 go:1 its:1 move:1 retirement:1 van:1 efficient:1 create:1 40:1 sciences:1 activist:1 way:1 announced:1 more:1 week:1 division:1 life:1 his:1 hit:1 plans:1 may:1 company:1 material:1 soon:1 cut:1 nearly:1 not:1 stocks:1 after:1 10:1 replaces:1 last:1 science:1 clear:1 list:1 value:1 become:1 conglomerates:1 investors’:1
+DOW	20140919	53.2	53.1	r_down	
+DOW	20140922	53.1	52.4	r_down	
+DOW	20140923	52.4	52.4	r_up	
+DOW	20140924	52.4	53.1	r_up	
+DOW	20140925	53.1	52.7	r_down	sell:1 gas:1 exports:1 's:1 also:1 country:1 ramp:1 up:1 some:1 example:1 prepares:1 planning:1 rising:1 which:1 fuel:1 natural-gas:1 overseas:1 bills:1 its:1 cautionary:1
+DOW	20140926	52.7	53.5	r_up	
+DOW	20140929	53.5	53.4	r_down	
+DOW	20140930	53.4	52.4	r_down	
+DOW	20141001	52.4	50.4	r_down	
+DOW	20141002	50.4	50.4	r_up	expects:2 trade:1 high:1 session:1 businesses:2 its:5 4.5:2 said:1 end:2 $:4 three:2 shares:1 proceeds:2 program:2 6:1 expected:1 more:1 's:1 marketing:1 divestment:1 now:1 billion:4 entire:2 companies:1 divestiture:2 range:2 actively:1 divest:1 higher:1
+DOW	20141003	50.4	50.6	r_up	private:2 sweeping:1 have:1 talks:1 coatings:1 acquisitive:1 around:1 $:1 chemical:1 equity:1 500:1 buy:1 's:1 string:1 get:1 company:1 million:1 chemicals:1 put:1 news:1 investor:1 advanced:1 manufacturer:1 roundup:1 owners:1 auction:1 industry:1 morning:1 deals:1 could:1 block:1 latest:1
+DOW	20141006	50.6	50.5	r_down	industries:1 facing:1 ``:1 no:1 --:2 companies:1 play:1 choice:1 '':1 exception:1 major:1 changes:1
+DOW	20141007	50.5	49.5	r_down	
+DOW	20141008	49.5	50.0	r_up	
+DOW	20141009	50.0	48.2	r_down	
+DOW	20141010	48.2	47.5	r_down	

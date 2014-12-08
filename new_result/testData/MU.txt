@@ -1,307 +1,114 @@
-MU	20120402	8.1	8.1	r_up	
-MU	20120403	8.1	7.99	r_down	outlook:1 fall:1 shares:1 cuts:1
-MU	20120404	7.99	7.66	r_down	worries:1 grow:1 sink:1 pricing:1
-MU	20120405	7.66	7.59	r_down	biggest:1 gaining:1 stocks:1 declining:1
-MU	20120409	7.59	7.35	r_down	
-MU	20120410	7.35	7.15	r_down	techs:1 deal:1 climbs:1 but:1 patent:1 other:1 stumble:1
-MU	20120411	7.15	7.17	r_up	
-MU	20120412	7.17	7.15	r_down	
-MU	20120413	7.15	6.96	r_down	surprises:1 advisories:1
-MU	20120416	6.96	7.12	r_up	
-MU	20120417	7.12	7.24	r_up	
-MU	20120418	7.24	7.07	r_down	
-MU	20120419	7.07	7.01	r_down	
-MU	20120420	7.01	6.64	r_down	down:1 correction:1 drags:1 mode:1 techs:1
-MU	20120423	6.64	6.63	r_down	
-MU	20120424	6.63	6.51	r_down	
-MU	20120425	6.51	6.52	r_up	
-MU	20120426	6.52	6.6	r_up	's:1
-MU	20120427	6.6	6.57	r_down	gains:1 lead:1 broad:1 catbird:1 drives:1 seat:1 tech:1 solid-state:1
-MU	20120430	6.57	6.59	r_up	
-MU	20120501	6.59	6.68	r_up	
-MU	20120502	6.68	6.82	r_up	
-MU	20120503	6.82	6.47	r_down	lead:1 techs:1 travel:1 up:1 back:1 stocks:1
-MU	20120504	6.47	6.55	r_up	
-MU	20120507	6.55	6.5	r_down	
-MU	20120508	6.5	6.24	r_down	drama:1 highlights:1 weak:1 tech:1 action:1
-MU	20120509	6.24	6.36	r_up	
-MU	20120510	6.36	6.29	r_down	sector:1 pulls:1 tech:1 down:1 forecast:1
-MU	20120511	6.29	6.36	r_up	semis:1 news:1 lift:1
-MU	20120514	6.36	6.21	r_down	
-MU	20120515	6.21	6.02	r_down	
-MU	20120516	6.02	6.15	r_up	
-MU	20120517	6.15	5.95	r_down	weighed:1 down:1 chip:1 stocks:1 sector:1
-MU	20120518	5.95	5.63	r_down	
-MU	20120521	5.63	5.78	r_up	
-MU	20120522	5.78	5.71	r_down	
-MU	20120523	5.71	5.75	r_up	
-MU	20120524	5.75	5.74	r_down	
-MU	20120525	5.74	5.96	r_up	
-MU	20120529	5.96	6.12	r_up	
-MU	20120530	6.12	5.99	r_down	still:1 but:1 lift:1 falling:1 stocks:1 chips:1
-MU	20120531	5.99	5.84	r_down	
-MU	20120601	5.84	5.45	r_down	
-MU	20120604	5.45	5.39	r_down	
-MU	20120605	5.39	5.6	r_up	
-MU	20120606	5.6	5.75	r_up	
-MU	20120607	5.75	5.67	r_down	
-MU	20120608	5.67	5.88	r_up	
-MU	20120611	5.88	5.71	r_down	
-MU	20120612	5.71	5.92	r_up	
-MU	20120613	5.92	5.86	r_down	
-MU	20120614	5.86	5.76	r_down	
-MU	20120615	5.76	5.89	r_up	down:1 slides:1 after:1 hours:1
-MU	20120618	5.89	5.94	r_up	
-MU	20120619	5.94	6.1	r_up	
-MU	20120620	6.1	6.12	r_up	's:2 watch:1
-MU	20120621	6.12	5.65	r_down	sector:1 broad:1 stocks:1 slump:1 retreat:1
-MU	20120622	5.65	5.74	r_up	biggest:1 gaining:1 stocks:1 declining:1
-MU	20120625	5.74	5.59	r_down	
-MU	20120626	5.59	5.63	r_up	
-MU	20120627	5.63	5.72	r_up	
-MU	20120628	5.72	5.97	r_up	
-MU	20120629	5.97	6.31	r_up	
-MU	20120702	6.31	6.55	r_up	gaining:1 deals:1 2.5:2 's:1 $:2 jumps:1 declining:1 slumps:1 jump:1 shares:1 biggest:1 stocks:1 acquisition:1
-MU	20120703	6.55	6.89	r_up	rally:1 tech:1 's:2 lead:1
-MU	20120705	6.89	6.81	r_down	
-MU	20120706	6.81	6.72	r_down	
-MU	20120709	6.72	6.49	r_down	
-MU	20120710	6.49	6.16	r_down	's:1 losses:1 down:1 pace:1 tech:1 stocks:1 day:1
-MU	20120711	6.16	6.21	r_up	
-MU	20120712	6.21	6.13	r_down	surprises:1 advisories:1
-MU	20120713	6.13	6.13	r_up	
-MU	20120716	6.13	6.0	r_down	
-MU	20120717	6.0	5.77	r_down	
-MU	20120718	5.77	5.84	r_up	's:2 $:1
-MU	20120719	5.84	5.78	r_down	
-MU	20120720	5.78	5.83	r_up	
-MU	20120723	5.83	5.62	r_down	
-MU	20120724	5.62	5.73	r_up	
-MU	20120725	5.73	5.84	r_up	
-MU	20120726	5.84	5.96	r_up	
-MU	20120727	5.96	6.28	r_up	
-MU	20120730	6.28	6.11	r_down	
-MU	20120731	6.11	6.21	r_up	
-MU	20120801	6.21	6.27	r_up	rise:1 slip:1
-MU	20120802	6.27	6.16	r_down	
-MU	20120803	6.16	6.33	r_up	
-MU	20120806	6.33	6.57	r_up	
-MU	20120807	6.57	6.82	r_up	
-MU	20120808	6.82	6.89	r_up	
-MU	20120809	6.89	6.81	r_down	
-MU	20120810	6.81	6.76	r_down	
-MU	20120813	6.76	6.72	r_down	outlook:1 hit:1 lead:1 weak:1 lower:1 stocks:1
-MU	20120814	6.72	6.55	r_down	
-MU	20120815	6.55	6.49	r_down	watch:1
-MU	20120816	6.49	6.61	r_up	
-MU	20120817	6.61	6.57	r_down	
-MU	20120820	6.57	6.49	r_down	
-MU	20120821	6.49	6.46	r_down	
-MU	20120822	6.46	6.32	r_down	
-MU	20120823	6.32	6.26	r_down	
-MU	20120824	6.26	6.3	r_up	
-MU	20120827	6.3	6.23	r_down	's:1
-MU	20120828	6.23	6.2	r_down	
-MU	20120829	6.2	6.2	r_up	's:1
-MU	20120830	6.2	6.18	r_down	
-MU	20120831	6.18	6.21	r_up	
-MU	20120904	6.21	6.09	r_down	
-MU	20120905	6.09	6.19	r_up	
-MU	20120906	6.19	6.68	r_up	new:1 jumps:1 's:2 techs:1 surge:1
-MU	20120907	6.68	6.42	r_down	drag:1 losses:1 tech:1 stocks:1
-MU	20120910	6.42	6.41	r_down	
-MU	20120911	6.41	6.36	r_down	
-MU	20120912	6.36	6.47	r_up	
-MU	20120913	6.47	6.6	r_up	
-MU	20120914	6.6	6.7	r_up	
-MU	20120917	6.7	6.57	r_down	
-MU	20120918	6.57	6.48	r_down	
-MU	20120919	6.48	6.65	r_up	rise:1 drops:1
-MU	20120920	6.65	6.45	r_down	
-MU	20120921	6.45	6.36	r_down	
-MU	20120924	6.36	6.26	r_down	
-MU	20120925	6.26	6.11	r_down	selloff:1 tech:1 lead:1
-MU	20120926	6.11	5.94	r_down	day:1 down:1 through:1 another:1 stocks:1 stumble:1
-MU	20120927	5.94	6.02	r_up	surprises:1 advisories:1
-MU	20120928	6.02	5.98	r_down	gaining:1 advance:1 stocks:1
-MU	20121001	5.98	5.77	r_down	
-MU	20121002	5.77	5.84	r_up	
-MU	20121003	5.84	5.84	r_up	
-MU	20121004	5.84	5.88	r_up	
-MU	20121005	5.88	5.89	r_up	techs:1 down:1 lift:1 tech:1 weigh:1 rebounds:1
-MU	20121008	5.89	5.85	r_down	
-MU	20121009	5.85	5.76	r_down	
-MU	20121010	5.76	5.76	r_up	
-MU	20121011	5.76	5.75	r_down	
-MU	20121012	5.75	5.67	r_down	
-MU	20121015	5.67	5.72	r_up	
-MU	20121016	5.72	5.78	r_up	
-MU	20121017	5.78	5.78	r_up	
-MU	20121018	5.78	5.65	r_down	
-MU	20121019	5.65	5.45	r_down	
-MU	20121022	5.45	5.44	r_down	
-MU	20121023	5.44	5.41	r_down	
-MU	20121024	5.41	5.17	r_down	
-MU	20121025	5.17	5.69	r_up	movers:1 big:1 drops:1 hours:1 after:1
-MU	20121026	5.69	5.47	r_down	
-MU	20121031	5.47	5.43	r_down	
-MU	20121101	5.43	5.79	r_up	's:1
-MU	20121102	5.79	5.71	r_down	biggest:1 movers:1 jumps:1 7.9:1
-MU	20121105	5.71	5.84	r_up	
-MU	20121106	5.84	6.09	r_up	
-MU	20121107	6.09	5.91	r_down	
-MU	20121108	5.91	5.69	r_down	
-MU	20121109	5.69	5.62	r_down	
-MU	20121112	5.62	5.57	r_down	
-MU	20121113	5.57	5.74	r_up	
-MU	20121114	5.74	5.56	r_down	
-MU	20121115	5.56	5.47	r_down	
-MU	20121116	5.47	5.47	r_up	
-MU	20121119	5.47	5.54	r_up	
-MU	20121120	5.54	5.56	r_up	into:1
-MU	20121121	5.56	5.52	r_down	
-MU	20121123	5.52	5.68	r_up	surges:1 tech:1 strong:1 lead:1 gains:1
-MU	20121126	5.68	5.7	r_up	
-MU	20121127	5.7	5.68	r_down	
-MU	20121128	5.68	5.77	r_up	
-MU	20121129	5.77	5.91	r_up	
-MU	20121130	5.91	5.97	r_up	
-MU	20121203	5.97	5.93	r_down	
-MU	20121204	5.93	6.04	r_up	
-MU	20121205	6.04	6.18	r_up	
-MU	20121206	6.18	6.41	r_up	
-MU	20121207	6.41	6.44	r_up	
-MU	20121210	6.44	6.67	r_up	
-MU	20121211	6.67	6.77	r_up	
-MU	20121212	6.77	6.71	r_down	
-MU	20121213	6.71	6.66	r_down	
-MU	20121214	6.66	6.85	r_up	
-MU	20121217	6.85	6.61	r_down	movers:1 big:1 upgrade:1 down:1
-MU	20121218	6.61	6.7	r_up	
-MU	20121219	6.7	6.82	r_up	
-MU	20121220	6.82	6.79	r_down	earnings:1
-MU	20121221	6.79	6.32	r_down	
-MU	20121224	6.32	6.23	r_down	
-MU	20121226	6.23	6.18	r_down	
-MU	20121227	6.18	6.22	r_up	
-MU	20121228	6.22	6.13	r_down	
-MU	20121231	6.13	6.34	r_up	
-MU	20130102	6.34	6.63	r_up	
-MU	20130103	6.63	6.9	r_up	
-MU	20130104	6.9	6.96	r_up	
-MU	20130107	6.96	7.18	r_up	
-MU	20130108	7.18	7.23	r_up	
-MU	20130109	7.23	7.31	r_up	
-MU	20130110	7.31	7.42	r_up	
-MU	20130111	7.42	7.54	r_up	
-MU	20130114	7.54	7.6	r_up	2nd:1
-MU	20130115	7.6	7.6	r_up	
-MU	20130116	7.6	7.67	r_up	
-MU	20130117	7.67	7.81	r_up	's:1
-MU	20130118	7.81	7.89	r_up	broad:1 tech:1 stand:1 gains:1 out:1
-MU	20130122	7.89	7.84	r_down	
-MU	20130123	7.84	7.78	r_down	
-MU	20130124	7.78	7.83	r_up	
-MU	20130125	7.83	7.87	r_up	
-MU	20130128	7.87	7.82	r_down	
-MU	20130129	7.82	7.58	r_down	
-MU	20130130	7.58	7.65	r_up	
-MU	20130131	7.65	7.56	r_down	
-MU	20130201	7.56	7.83	r_up	
-MU	20130204	7.83	7.76	r_down	
-MU	20130205	7.76	7.87	r_up	
-MU	20130206	7.87	7.95	r_up	
-MU	20130207	7.95	7.73	r_down	
-MU	20130208	7.73	7.75	r_up	
-MU	20130211	7.75	7.91	r_up	
-MU	20130212	7.91	7.92	r_up	
-MU	20130213	7.92	7.95	r_up	
-MU	20130214	7.95	8.08	r_up	
-MU	20130215	8.08	7.91	r_down	
-MU	20130219	7.91	8.12	r_up	
-MU	20130220	8.12	7.88	r_down	
-MU	20130221	7.88	7.68	r_down	
-MU	20130222	7.68	8.02	r_up	
-MU	20130225	8.02	7.93	r_down	
-MU	20130226	7.93	7.96	r_up	
-MU	20130227	7.96	8.18	r_up	
-MU	20130228	8.18	8.38	r_up	
-MU	20130301	8.38	8.25	r_down	
-MU	20130304	8.25	8.4	r_up	
-MU	20130305	8.4	8.73	r_up	
-MU	20130306	8.73	8.65	r_down	
-MU	20130307	8.65	8.94	r_up	
-MU	20130308	8.94	9.2	r_up	
-MU	20130311	9.2	9.35	r_up	
-MU	20130312	9.35	9.32	r_down	
-MU	20130313	9.32	9.51	r_up	
-MU	20130314	9.51	9.69	r_up	
-MU	20130315	9.69	9.37	r_down	
-MU	20130318	9.37	9.18	r_down	
-MU	20130319	9.18	9.24	r_up	
-MU	20130320	9.24	9.31	r_up	
-MU	20130321	9.31	9.07	r_down	after:1 hit:1 hard:1 shares:1 hours:1 leap:1 but:1
-MU	20130322	9.07	10.04	r_up	techs:1 launch:1 watch:1 up:1 keep:1 tumbles:1
-MU	20130325	10.04	9.88	r_down	
-MU	20130326	9.88	9.92	r_up	
-MU	20130327	9.92	9.96	r_up	
-MU	20130328	9.96	9.98	r_up	
-MU	20130401	9.98	9.38	r_down	leads:1 slump:1 rise:1 tech:1
-MU	20130402	9.38	9.3	r_down	off:1 movers:1 50:1 kicks:1 new:1 quarter:1 red:1
-MU	20130403	9.3	9.1	r_down	
-MU	20130404	9.1	9.31	r_up	
-MU	20130405	9.31	9.31	r_up	
-MU	20130408	9.31	9.39	r_up	but:1
-MU	20130409	9.39	9.57	r_up	
-MU	20130410	9.57	10.09	r_up	
-MU	20130411	10.09	9.98	r_down	movers:1 some:1 support:1 sees:1
-MU	20130412	9.98	10.01	r_up	
-MU	20130415	10.01	9.56	r_down	
-MU	20130416	9.56	9.87	r_up	
-MU	20130417	9.87	9.39	r_down	down:1 late:1 trades:1
-MU	20130418	9.39	9.23	r_down	
-MU	20130419	9.23	9.35	r_up	
-MU	20130422	9.35	9.31	r_down	
-MU	20130423	9.31	9.42	r_up	
-MU	20130424	9.42	9.42	r_up	
-MU	20130425	9.42	9.53	r_up	
-MU	20130426	9.53	9.43	r_down	
-MU	20130429	9.43	9.35	r_down	
-MU	20130430	9.35	9.42	r_up	
-MU	20130501	9.42	9.2	r_down	
-MU	20130502	9.2	9.32	r_up	
-MU	20130503	9.32	9.63	r_up	
-MU	20130506	9.63	9.76	r_up	
-MU	20130507	9.76	9.97	r_up	but:1
-MU	20130508	9.97	10.24	r_up	
-MU	20130509	10.24	10.71	r_up	
-MU	20130510	10.71	10.82	r_up	
-MU	20130513	10.82	10.66	r_down	
-MU	20130514	10.66	10.65	r_down	
-MU	20130515	10.65	10.87	r_up	
-MU	20130516	10.87	11.06	r_up	
-MU	20130517	11.06	11.31	r_up	
-MU	20130520	11.31	11.21	r_down	
-MU	20130521	11.21	11.23	r_up	
-MU	20130522	11.23	10.92	r_down	
-MU	20130523	10.92	11.39	r_up	trim:1 techs:1 big:1 losses:1 other:1 gainer:1
-MU	20130524	11.39	11.59	r_up	
-MU	20130528	11.59	11.78	r_up	
-MU	20130529	11.78	11.83	r_up	
-MU	20130530	11.83	11.89	r_up	
-MU	20130531	11.89	11.68	r_down	
-MU	20130603	11.68	11.73	r_up	
-MU	20130604	11.73	11.71	r_down	
-MU	20130605	11.71	12.02	r_up	
-MU	20130606	12.02	12.35	r_up	
-MU	20130607	12.35	12.65	r_up	
-MU	20130610	12.65	12.95	r_up	
-MU	20130611	12.95	12.81	r_down	
-MU	20130612	12.81	12.49	r_down	
-MU	20130613	12.49	12.91	r_up	more:1 designer:1 no:1
-MU	20130614	12.91	12.76	r_down	
-MU	20130617	12.76	13.24	r_up	moves:1 feeds:1 rise:1 triple-digit:1
-MU	20130618	13.24	13.75	r_up	lead:1 techs:1 movers:1 leads:1 500:1 higher:1
-MU	20130619	13.75	13.97	r_up	stocks:1 watch:1
-MU	20130620	13.97	13.54	r_down	
-MU	20130621	13.54	13.9	r_up	movers:1 disappointing:1 sags:1 sales:1
+MU	20140501	26.1	26.2	r_up	
+MU	20140502	26.2	26.3	r_up	
+MU	20140505	26.3	26.7	r_up	
+MU	20140506	26.7	26.6	r_down	sector:1 closes:1 off:1 $:1 getting:1 broad:1 bellwethers:1 manage:1 including:1 rocky:1 end:1 start:1 much:1 tech:2 slate:1 above:1 rally:2 stocks:1 day:1 gains:1 600:1
+MU	20140507	26.6	26.4	r_down	
+MU	20140508	26.4	26.9	r_up	
+MU	20140509	26.9	26.8	r_down	
+MU	20140512	26.8	27.5	r_up	
+MU	20140513	27.5	27.6	r_up	
+MU	20140514	27.6	26.8	r_down	
+MU	20140515	26.8	25.8	r_down	
+MU	20140516	25.8	26.0	r_up	trade:1 see:2 session:1 rally:1 previous:1 whose:1 upgrade:2 gainers:1 lead:1 profit:1 top:1 shares:1 earnings:1 expected:1 upbeat:1 momentum:1 day’s:1 gains:2 beat:1 notable:1 jumps:1 watch:1 wake:1 active:1 stocks:2 rebounds:1 analyst:1 losses:1 companies:1 while:1 tech:1 500:1 rallies:1
+MU	20140519	26.0	26.9	r_up	
+MU	20140520	26.9	26.5	r_down	sector:2 generate:1 own:1 says:1 investors:1 increasingly:1 chip:2 back:1 chip-sector:1 good:1 rally:2 expenditures:1 scale:1 lead:2 next:1 note:1 issuing:1 capital:1 upbeat:1 you:1 more:1 buy:1 bonds:1 may:1 after:1 released:1 poised:1 like:1 companies:2 cash:1 bond:1
+MU	20140521	26.5	26.9	r_up	
+MU	20140522	26.9	27.1	r_up	
+MU	20140523	27.1	27.3	r_up	
+MU	20140527	27.3	28.0	r_up	
+MU	20140528	28.0	28.6	r_up	dying:1 may:1 breed:1 possible:1 but:1 bargain:1 they:1 still:1 find:1
+MU	20140529	28.6	28.5	r_down	sector:1 stocks:1 mostly:1 notable:1 one:1 down:1 few:1 other:1 tech:2 exceptions:1 rises:1 retreat:1
+MU	20140530	28.5	28.5	r_up	conference:2 tap:1 gains:1 ahead:1 becomes:1 support:1 annual:1 raise:1 target:1 brokerage:1 latest:1 company:1 price:1 more:1
+MU	20140602	28.5	28.6	r_up	
+MU	20140603	28.6	28.6	r_up	
+MU	20140604	28.6	28.9	r_up	
+MU	20140605	28.9	29.0	r_up	
+MU	20140606	29.0	29.5	r_up	
+MU	20140609	29.5	29.0	r_down	
+MU	20140610	29.0	29.5	r_up	
+MU	20140611	29.5	30.9	r_up	touchscreen:1 after:1 acquisition:1 positive:1 attention:1 its:1 offerings:1 behind:1 surging:1 gain:1 receives:1 technology:1 stocks:1 boost:1 analyst:1 announced:1
+MU	20140612	30.9	30.8	r_down	upgraded:1 upgrade:1 gainers:1 offering:2 lead:1 launch:1 back:1 while:1 retreat:1 rallies:1 following:1 news:1 stock:1 analyst:1 500:1 secondary:2
+MU	20140613	30.8	31.1	r_up	
+MU	20140616	31.1	31.9	r_up	sector:1 deal:1 declines:1 cheap:1 including:1 rally:1 broad:1 had:1 better:1 does:1 several:1 week:1 gains:1 may:2 but:2 most:1 important:1 picking:1 stocks:1 starts:1 companies:1 up:1 slumps:1 n't:1 while:1 tech:2 mean:1
+MU	20140617	31.9	32.2	r_up	
+MU	20140618	32.2	32.0	r_down	needs:1 gains:1 flash:1 but:1 see:1 portfolio:1 enterprise:1 second-half:1 boost:1 its:1
+MU	20140619	32.0	31.8	r_down	
+MU	20140620	31.8	31.8	r_up	
+MU	20140623	31.8	31.2	r_down	all:1 revenue:1 chip:2 results:1 expectations:1 see:2 session:2 trading:1 expected:1 another:1 year:2 17000:2 its:1 buoyed:1 even:1 decline:1 said:1 profit:1 rose:1 top:1 third-quarter:1 shares:3 yet:1 rally:1 may:1 record-breaking:1 earnings:1 quarterly:1 higher:1 cusp:1 extended:1 's:2 run-up:1 beat:1 company:1 after:1 watch:2 reported:1 market:1 sharply:1 milestone:1 active:2 strong:1 trade:1 fiscal:1 stocks:2 last:1 whose:1 maker’s:1 companies:1 deals:2 slide:1 talk:1 following:1 stock:1 maker:1 acquisition:1
+MU	20140624	31.2	32.5	r_up	sector:1 among:1 over:1 trade:2 actively:2 40:1 margins:1 its:1 gainers:1 bullish:1 shares:2 next:1 few:1 much:1 take:1 expected:2 chip:1 red:1 gave:1 high-flying:1 coffee:1 's:2 gains:1 big:1 rise:1 notable:2 cautionary:1 early:1 supplier:1 finished:1 stocks:1 day:2 improve:1 case:1 off:1 months:1 companies:2 up:1 34:1 session:2 tech:2 were:1 stock:1
+MU	20140625	32.5	32.3	r_down	rating:1 soars:1 over:1 results:1 month:1 decline:1 one-day:1 clinical:1 biggest:1 gets:1 buy:1 broadly:1 successful:1 company:1 surges:1 suffering:1 fell:1 stocks:1 after:1 success:1 reports:1 trial:2 biotechnology:1
+MU	20140626	32.3	32.0	r_down	
+MU	20140627	32.0	31.5	r_down	
+MU	20140630	31.5	32.9	r_up	upgrade:2 gains:1 rise:2 while:1 moves:1 analyst:1 higher:1
+MU	20140701	32.9	33.9	r_up	streak:1 among:1 sales:2 suffer:1 market:1 gainers:1 lead:1 rose:1 writes:1 winners:1 biggest:1 2014:1 500:1 snaps:1 after:1 gains:1 auto:1 reporting:1 notable:1 most:1 new:1 losing:1 van:1 stocks:1 10:1 up:1 while:2 losers:1 retailers:1
+MU	20140702	33.9	33.7	r_down	
+MU	20140703	33.7	33.7	r_up	
+MU	20140707	33.7	32.8	r_down	
+MU	20140708	32.8	33.1	r_up	
+MU	20140709	33.1	32.8	r_down	sector:1 already:1 rest:1 down:1 own:1 slip:1 doesn’t:1 its:1 altitude:1 shares:2 recovered:1 higher:1 slips:1 buy:1 weighing:1 gains:1 may:1 weakness:1 rise:1 but:1 report:2 buyout:1 rises:1 recent:1 gained:1 while:1 edge:1 tech:1
+MU	20140710	32.8	32.7	r_down	sector:1 lower:1 lead:1 leading:1 tech:2 slip:1 retreat:1
+MU	20140711	32.7	32.8	r_up	all:1 set:1 growth:1 more:1
+MU	20140714	32.8	33.5	r_up	
+MU	20140715	33.5	34.0	r_up	cut:1 wise:1 chain:1 offering:1 supply:1 getting:1 company:1 global:1 shares:2 trade:1 discount:1 rate:1 activist:1 listed:1 way:1 situation:1 into:1 investors:1 microchip:1 technology:1 its:1
+MU	20140716	34.0	34.6	r_up	advance:1 giant:1 disappointment:1 but:1 gains:1 lead:1 after:1 results:1 tech’s:1 falls:1 proves:1 earnings:1 rises:1 leader:1 ground:1
+MU	20140717	34.6	33.0	r_down	
+MU	20140718	33.0	33.1	r_up	
+MU	20140721	33.1	33.0	r_down	
+MU	20140722	33.0	33.6	r_up	giant:1 set:1 working:1 reasons:1 writes:1 seems:1 keep:1 report:1 rising:1 earnings:1 9:1 tech:1 out:1 stock:1
+MU	20140723	33.6	33.6	r_up	
+MU	20140724	33.6	33.8	r_up	sector:1 social-networking:1 hit:1 shares:1 stellar:1 record:1 second:1 tech:1 earnings:2 upbeat:1 wake:1 quarter:1 spotlight:1
+MU	20140725	33.8	33.4	r_down	
+MU	20140728	33.4	31.9	r_down	set:1 upside:1 look:1
+MU	20140729	31.9	32.1	r_up	
+MU	20140730	32.1	32.5	r_up	
+MU	20140731	32.5	30.5	r_down	
+MU	20140801	30.5	31.0	r_up	sector:1 into:1 sales:1 session:1 weak:2 open:1 delivers:1 out:1 travel:1 agency:1 problems:1 concerns:1 earnings:1 leader:1 red:1 gains:1 big:1 jumps:1 rise:1 slump:1 along:1 stocks:1 sending:1 bid:1 losses:1 economic:1 tech:3 stand:1 drops:1 otherwise:1
+MU	20140804	31.0	31.6	r_up	
+MU	20140805	31.6	31.0	r_down	
+MU	20140806	31.0	30.6	r_down	
+MU	20140807	30.6	29.6	r_down	
+MU	20140808	29.6	30.0	r_up	its:1 shares:1 takeaways:1
+MU	20140811	30.0	30.7	r_up	
+MU	20140812	30.7	30.7	r_up	
+MU	20140813	30.7	31.3	r_up	
+MU	20140814	31.3	31.0	r_down	
+MU	20140815	31.0	31.4	r_up	ago:1 training:1 flying:1 's:1 federal:1 according:1 executive:1 two:1 years:1 specific:1 chief:1 plane:1 report:1 crash:1 lacked:1 investigators:1 died:1 he:2
+MU	20140818	31.4	32.0	r_up	
+MU	20140819	32.0	32.4	r_up	
+MU	20140820	32.4	33.3	r_up	
+MU	20140821	33.3	33.1	r_down	
+MU	20140822	33.1	33.2	r_up	
+MU	20140825	33.2	33.2	r_up	
+MU	20140826	33.2	32.8	r_down	
+MU	20140827	32.8	32.9	r_up	
+MU	20140828	32.9	32.8	r_down	
+MU	20140829	32.8	32.6	r_down	
+MU	20140902	32.6	31.5	r_down	
+MU	20140903	31.5	31.6	r_up	
+MU	20140904	31.6	32.1	r_up	
+MU	20140905	32.1	32.9	r_up	
+MU	20140908	32.9	33.1	r_up	
+MU	20140909	33.1	31.9	r_down	
+MU	20140910	31.9	32.0	r_up	
+MU	20140911	32.0	32.0	r_up	
+MU	20140912	32.0	31.5	r_down	
+MU	20140915	31.5	30.0	r_down	cautious:1 tone:1 surges:2 departure:1 shares:1 while:1 exit:1 following:1 drags:1 its:1 retreat:1
+MU	20140916	30.0	31.4	r_up	gains:2 steep:1 selloff:2 recovers:1 while:1 buyout:1 rebounds:1 rumor:1 previous:1
+MU	20140917	31.4	31.9	r_up	
+MU	20140918	31.9	32.4	r_up	
+MU	20140919	32.4	31.6	r_down	
+MU	20140922	31.6	30.6	r_down	
+MU	20140923	30.6	31.2	r_up	
+MU	20140924	31.2	32.2	r_up	
+MU	20140925	32.2	31.7	r_down	streak:1 fourth-quarter:2 set:1 revenue:1 trend:2 results:2 helped:1 still:1 its:2 market:3 said:1 profit:2 top:1 bell:1 expectations:2 shares:1 increase:1 hot:1 earnings:1 beating:1 conditions:1 more:1 ``:1 after:1 run:1 peaks:1 rise:1 falls:1 sales:1 favorable:1 bull:1 report:2 debt:1 recent:2 fiscal:2 '':1 has:2 room:1 third:1 past:1 up:1 keep:1 closing:1 memory-chip:1 margin:1 maker:1 better-than-expected:1
+MU	20140926	31.7	33.8	r_up	seeing:1 own:1 set:1 quarters:1 bell:1 chip:1 there’s:1 trade:1 down:1 session:2 rally:2 ready:1 multiple:1 still:1 yet:1 market:2 whose:1 heads:1 their:1 surprises:1 top:1 future:1 expectations:1 shares:3 few:1 advisories:1 earnings:3 quarterly:1 revs:1 has:1 isn’t:1 do:1 extended:1 's:2 showing:1 after:3 yesterday:1 but:1 results:2 hours:1 visibility:1 plenty:1 saying:1 active:1 heroes:1 falls:1 data:1 day:1 expand:1 roundup:1 improved:1 could:2 prove:1 companies:3 up:1 reports:1 ‘just:1 maker:1 plus:1 it’:1 banks:1 climb:1 latest:1 corporate:1 bruised:1 surge:1
+MU	20140929	33.8	34.5	r_up	
+MU	20140930	34.5	34.2	r_down	major:2 benchmarks:2 technical:1 teeter:1 support:2 important:1 have:1 test:1 reached:1
+MU	20141001	34.2	33.5	r_down	
+MU	20141002	33.5	33.8	r_up	
+MU	20141003	33.8	33.9	r_up	
+MU	20141006	33.9	32.5	r_down	
+MU	20141007	32.5	31.8	r_down	favored:1 six:1 others:1
+MU	20141008	31.8	32.3	r_up	$:2 5.7:1 sold:1 million:1 shares:1 70,000:1 options:1 2.4:1
+MU	20141009	32.3	30.6	r_down	
+MU	20141010	30.6	27.7	r_down	sector:1 overpriced:1 headed:1 issued:1 over:1 fueling:1 years:1 high:1 player:1 computer:1 its:1 concern:1 sell:1 stocks:2 chips:1 writes:1 two:1 semiconductor:1 3:1 future:1 earnings:1 downturn:1 microchip:1 higher:1 even:1 buy:1 defy:1 after:1 nearly:1 key:1 highest:1 surged:1 slowdown:1 level:1 industry:1 alarm:1 companies:1 odds:1 warning:1 maker:1

@@ -1,307 +1,114 @@
-STI	20120402	23.91	24.01	r_up	
-STI	20120403	24.01	24.2	r_up	
-STI	20120404	24.2	23.76	r_down	
-STI	20120405	23.76	23.8	r_up	
-STI	20120409	23.8	23.03	r_down	leads:1 decline:1 drop:1 of.:1
-STI	20120410	23.03	22.59	r_down	
-STI	20120411	22.59	22.99	r_up	
-STI	20120412	22.99	23.29	r_up	
-STI	20120413	23.29	22.33	r_down	
-STI	20120416	22.33	22.58	r_up	
-STI	20120417	22.58	23.05	r_up	
-STI	20120418	23.05	22.82	r_down	
-STI	20120419	22.82	22.49	r_down	's:1
-STI	20120420	22.49	22.35	r_down	
-STI	20120423	22.35	22.98	r_up	surprises:1 advisories:1
-STI	20120424	22.98	23.42	r_up	sector:1 financial:1 drop:1 concerns:1 weigh:1 stocks:1
-STI	20120425	23.42	23.99	r_up	close:1 after:1 up:1 comments:1
-STI	20120426	23.99	24.15	r_up	
-STI	20120427	24.15	24.53	r_up	
-STI	20120430	24.53	24.01	r_down	
-STI	20120501	24.01	24.15	r_up	
-STI	20120502	24.15	24.04	r_down	urges:1 money-fund:1 reform:1
-STI	20120503	24.04	24.03	r_down	
-STI	20120504	24.03	23.49	r_down	
-STI	20120507	23.49	23.73	r_up	
-STI	20120508	23.73	23.38	r_down	
-STI	20120509	23.38	22.83	r_down	
-STI	20120510	22.83	23.33	r_up	
-STI	20120511	23.33	23.44	r_up	2:1 $:1
-STI	20120514	23.44	22.76	r_down	
-STI	20120515	22.76	22.52	r_down	
-STI	20120516	22.52	22.48	r_down	
-STI	20120517	22.48	21.93	r_down	
-STI	20120518	21.93	21.48	r_down	
-STI	20120521	21.48	22.07	r_up	
-STI	20120522	22.07	22.28	r_up	
-STI	20120523	22.28	22.6	r_up	
-STI	20120524	22.6	22.42	r_down	
-STI	20120525	22.42	22.24	r_down	
-STI	20120529	22.24	22.47	r_up	
-STI	20120530	22.47	21.98	r_down	31:1
-STI	20120531	21.98	22.72	r_up	$:2
-STI	20120601	22.72	21.67	r_down	
-STI	20120604	21.67	20.91	r_down	
-STI	20120605	20.91	20.97	r_up	
-STI	20120606	20.97	21.52	r_up	
-STI	20120607	21.52	21.58	r_up	13:1
-STI	20120608	21.58	21.99	r_up	
-STI	20120611	21.99	21.42	r_down	
-STI	20120612	21.42	21.49	r_up	
-STI	20120613	21.49	21.81	r_up	worries:1 slide:1 stocks:1
-STI	20120614	21.81	21.94	r_up	
-STI	20120615	21.94	22.23	r_up	
-STI	20120618	22.23	22.31	r_up	
-STI	20120619	22.31	23.07	r_up	
-STI	20120620	23.07	23.21	r_up	rise:1 meeting:1
-STI	20120621	23.21	22.41	r_down	
-STI	20120622	22.41	22.82	r_up	
-STI	20120625	22.82	21.94	r_down	
-STI	20120626	21.94	22.53	r_up	pace:1 financials’:1 fall:1
-STI	20120627	22.53	22.98	r_up	
-STI	20120628	22.98	23.1	r_up	
-STI	20120629	23.1	24.02	r_up	
-STI	20120702	24.02	24.47	r_up	
-STI	20120703	24.47	24.45	r_down	close:1 stocks:1 data:1 up:1 counter:1
-STI	20120705	24.45	24.2	r_down	
-STI	20120706	24.2	24.01	r_down	
-STI	20120709	24.01	23.65	r_down	
-STI	20120710	23.65	23.5	r_down	
-STI	20120711	23.5	24.0	r_up	
-STI	20120712	24.0	23.53	r_down	
-STI	20120713	23.53	24.53	r_up	
-STI	20120716	24.53	24.65	r_up	
-STI	20120717	24.65	24.71	r_up	
-STI	20120718	24.71	24.52	r_down	
-STI	20120719	24.52	24.03	r_down	
-STI	20120720	24.03	23.31	r_down	n't:1 54:3 watch:1 2nd:3
-STI	20120723	23.31	22.74	r_down	
-STI	20120724	22.74	22.55	r_down	
-STI	20120725	22.55	22.57	r_up	
-STI	20120726	22.57	23.2	r_up	
-STI	20120727	23.2	23.57	r_up	
-STI	20120730	23.57	23.34	r_down	
-STI	20120731	23.34	23.44	r_up	
-STI	20120801	23.44	23.46	r_up	
-STI	20120802	23.46	23.01	r_down	
-STI	20120803	23.01	23.88	r_up	
-STI	20120806	23.88	23.82	r_down	
-STI	20120807	23.82	24.09	r_up	
-STI	20120808	24.09	24.17	r_up	11:2 $:2 3rd:1
-STI	20120809	24.17	24.48	r_up	
-STI	20120810	24.48	24.61	r_up	
-STI	20120813	24.61	24.67	r_up	
-STI	20120814	24.67	24.75	r_up	
-STI	20120815	24.75	24.8	r_up	
-STI	20120816	24.8	25.04	r_up	
-STI	20120817	25.04	25.27	r_up	
-STI	20120820	25.27	25.23	r_down	
-STI	20120821	25.23	25.06	r_down	's:1
-STI	20120822	25.06	24.98	r_down	's:1
-STI	20120823	24.98	24.69	r_down	
-STI	20120824	24.69	24.88	r_up	
-STI	20120827	24.88	24.97	r_up	
-STI	20120828	24.97	24.57	r_down	
-STI	20120829	24.57	24.93	r_up	
-STI	20120830	24.93	24.8	r_down	
-STI	20120831	24.8	25.0	r_up	
-STI	20120904	25.0	25.44	r_up	
-STI	20120905	25.44	25.28	r_down	
-STI	20120906	25.28	26.5	r_up	hours:1 climb:1 after:1 's:1
-STI	20120907	26.5	27.31	r_up	after:1 financial:1 futures:1 watch:1 up:1 leads:1 edge:1 higher:1 jobs:1 stocks:1 data:1 stock:1
-STI	20120910	27.31	27.44	r_up	
-STI	20120911	27.44	27.39	r_down	
-STI	20120912	27.39	27.9	r_up	
-STI	20120913	27.9	28.67	r_up	
-STI	20120914	28.67	29.71	r_up	
-STI	20120917	29.71	28.94	r_down	
-STI	20120918	28.94	28.5	r_down	
-STI	20120919	28.5	28.83	r_up	loss:1 extend:1 third:1 into:1 session:1 stocks:1
-STI	20120920	28.83	28.58	r_down	
-STI	20120921	28.58	28.24	r_down	
-STI	20120924	28.24	28.88	r_up	
-STI	20120925	28.88	28.01	r_down	
-STI	20120926	28.01	27.82	r_down	
-STI	20120927	27.82	28.07	r_up	
-STI	20120928	28.07	28.08	r_up	
-STI	20121001	28.08	28.29	r_up	
-STI	20121002	28.29	28.44	r_up	
-STI	20121003	28.44	29.08	r_up	's:1
-STI	20121004	29.08	29.77	r_up	
-STI	20121005	29.77	30.1	r_up	
-STI	20121008	30.1	29.56	r_down	
-STI	20121009	29.56	30.07	r_up	note:1 boosts:1 but:1 fall:1
-STI	20121010	30.07	29.46	r_down	stress:1 rules:1 approves:1 banks:1 test:1 100:1
-STI	20121011	29.46	29.99	r_up	
-STI	20121012	29.99	28.97	r_down	
-STI	20121015	28.97	28.9	r_down	
-STI	20121016	28.9	28.36	r_down	
-STI	20121017	28.36	29.16	r_up	
-STI	20121018	29.16	28.79	r_down	
-STI	20121019	28.79	28.44	r_down	
-STI	20121022	28.44	27.48	r_down	futures:1 watch:1 earnings:1 focus:1 higher:1
-STI	20121023	27.48	27.06	r_down	down:1 lower:1 lead:1 after:1 results:1 shares:1 slides:1 financials:1 close:1 market:1
-STI	20121024	27.06	26.89	r_down	
-STI	20121025	26.89	27.06	r_up	dip:1 after:1 slightly:1 up:1
-STI	20121026	27.06	26.92	r_down	slip:1 up:1 financials:1
-STI	20121031	26.92	27.02	r_up	
-STI	20121101	27.02	27.35	r_up	
-STI	20121102	27.35	26.96	r_down	
-STI	20121105	26.96	26.98	r_up	
-STI	20121106	26.98	27.54	r_up	
-STI	20121107	27.54	26.39	r_down	
-STI	20121108	26.39	26.21	r_down	
-STI	20121109	26.21	26.38	r_up	
-STI	20121112	26.38	26.36	r_down	
-STI	20121113	26.36	25.99	r_down	
-STI	20121114	25.99	25.27	r_down	
-STI	20121115	25.27	25.65	r_up	test:1 unemployment:1 12:1 told:1
-STI	20121116	25.65	25.84	r_up	
-STI	20121119	25.84	26.81	r_up	upgrade:1 lifts:1 financials:1
-STI	20121120	26.81	27.21	r_up	
-STI	20121121	27.21	26.62	r_down	down:1 hours:1 after:1
-STI	20121123	26.62	27.29	r_up	
-STI	20121126	27.29	27.03	r_down	
-STI	20121127	27.03	26.62	r_down	
-STI	20121128	26.62	26.76	r_up	
-STI	20121129	26.76	26.89	r_up	
-STI	20121130	26.89	27.02	r_up	
-STI	20121203	27.02	26.5	r_down	sector:1 favor:1 weakens:1 bank:1 out:1
-STI	20121204	26.5	26.13	r_down	
-STI	20121205	26.13	26.47	r_up	
-STI	20121206	26.47	26.57	r_up	
-STI	20121207	26.57	27.05	r_up	
-STI	20121210	27.05	27.07	r_up	
-STI	20121211	27.07	27.45	r_up	
-STI	20121212	27.45	27.63	r_up	
-STI	20121213	27.63	27.07	r_down	
-STI	20121214	27.07	26.94	r_down	
-STI	20121217	26.94	27.7	r_up	
-STI	20121218	27.7	28.32	r_up	
-STI	20121219	28.32	28.42	r_up	
-STI	20121220	28.42	28.83	r_up	back:1 gains:1 give:1
-STI	20121221	28.83	28.13	r_down	
-STI	20121224	28.13	27.85	r_down	
-STI	20121226	27.85	27.86	r_up	
-STI	20121227	27.86	27.85	r_down	
-STI	20121228	27.85	27.65	r_down	
-STI	20121231	27.65	28.21	r_up	
-STI	20130102	28.21	29.12	r_up	
-STI	20130103	29.12	28.49	r_down	
-STI	20130104	28.49	29.28	r_up	after:1 gain:1 calls:1
-STI	20130107	29.28	28.83	r_down	
-STI	20130108	28.83	28.84	r_up	settlement:1 8.5:1 $:1 foreclosure:1 may:1 shock:1 abuse:1 alert:1 bln:1 earnings:1 9:1 stocks:1
-STI	20130109	28.84	28.57	r_down	join:1 government:1 won’t:1 against:1 165:2 lawsuit:1
-STI	20130110	28.57	28.46	r_down	
-STI	20130111	28.46	28.17	r_down	
-STI	20130114	28.17	27.95	r_down	giants:1 foreclosure:1 over:1 battles:1 faulty:1 bank:1
-STI	20130115	27.95	28.75	r_up	
-STI	20130116	28.75	29.09	r_up	better:1 lesson:1 bigger:1
-STI	20130117	29.09	29.42	r_up	rise:1 results:1 scrutinized:1
-STI	20130118	29.42	29.0	r_down	better:1 lift:1 results:1 financials:1 earnings:1
-STI	20130122	29.0	29.0	r_up	
-STI	20130123	29.0	28.96	r_down	
-STI	20130124	28.96	29.26	r_up	
-STI	20130125	29.26	29.21	r_down	
-STI	20130128	29.21	29.13	r_down	
-STI	20130129	29.13	28.75	r_down	stress:1 sees:1 big:1 30:1 tests:1 7:1 release:1 rally:1 bank:1
-STI	20130130	28.75	28.39	r_down	
-STI	20130131	28.39	28.23	r_down	
-STI	20130201	28.23	28.96	r_up	
-STI	20130204	28.96	28.55	r_down	
-STI	20130205	28.55	28.62	r_up	
-STI	20130206	28.62	28.6	r_down	
-STI	20130207	28.6	28.69	r_up	
-STI	20130208	28.69	29.11	r_up	
-STI	20130211	29.11	29.21	r_up	
-STI	20130212	29.21	29.28	r_up	
-STI	20130213	29.28	28.8	r_down	
-STI	20130214	28.8	28.65	r_down	
-STI	20130215	28.65	27.98	r_down	
-STI	20130219	27.98	27.55	r_down	
-STI	20130220	27.55	27.44	r_down	's:1
-STI	20130221	27.44	27.33	r_down	
-STI	20130222	27.33	27.76	r_up	
-STI	20130225	27.76	26.99	r_down	
-STI	20130226	26.99	27.28	r_up	
-STI	20130227	27.28	27.63	r_up	
-STI	20130228	27.63	27.5	r_down	$:1 breaks:1 down:1 bln:1 robo-signing:1 settlement:1 9.3:1
-STI	20130301	27.5	27.46	r_down	
-STI	20130304	27.46	27.93	r_up	
-STI	20130305	27.93	27.91	r_down	play:1 tests:1 stress:1 bank:1
-STI	20130306	27.91	28.08	r_up	
-STI	20130307	28.08	28.47	r_up	stress:1 end:1 banks’:1 below:1 standard:1 signals:1 only:1 test:2 dividend:1 drought:1 bank:1
-STI	20130308	28.47	29.26	r_up	's:1
-STI	20130311	29.26	29.64	r_up	
-STI	20130312	29.64	29.37	r_down	
-STI	20130313	29.37	29.54	r_up	
-STI	20130314	29.54	29.53	r_down	
-STI	20130315	29.53	28.97	r_down	fail:1 stress:1 's:3 tests:1
-STI	20130318	28.97	28.72	r_down	
-STI	20130319	28.72	28.47	r_down	
-STI	20130320	28.47	28.55	r_up	
-STI	20130321	28.55	28.2	r_down	banks:1 10:1 homeowners:1 foreclosing:1 most:1
-STI	20130322	28.2	28.14	r_down	
-STI	20130325	28.14	28.42	r_up	
-STI	20130326	28.42	28.65	r_up	
-STI	20130327	28.65	28.45	r_down	
-STI	20130328	28.45	28.72	r_up	2013:1
-STI	20130401	28.72	28.19	r_down	
-STI	20130402	28.19	27.72	r_down	
-STI	20130403	27.72	27.28	r_down	
-STI	20130404	27.28	27.33	r_up	
-STI	20130405	27.33	27.95	r_up	
-STI	20130408	27.95	28.55	r_up	
-STI	20130409	28.55	28.82	r_up	start:1 payments:1 foreclosure:1 making:1
-STI	20130410	28.82	29.05	r_up	
-STI	20130411	29.05	28.89	r_down	
-STI	20130412	28.89	28.7	r_down	
-STI	20130415	28.7	27.78	r_down	
-STI	20130416	27.78	27.89	r_up	
-STI	20130417	27.89	27.52	r_down	
-STI	20130418	27.52	27.24	r_down	
-STI	20130419	27.24	28.22	r_up	
-STI	20130422	28.22	27.88	r_down	
-STI	20130423	27.88	28.21	r_up	
-STI	20130424	28.21	28.88	r_up	
-STI	20130425	28.88	29.18	r_up	
-STI	20130426	29.18	28.96	r_down	
-STI	20130429	28.96	29.24	r_up	
-STI	20130430	29.24	29.16	r_down	
-STI	20130501	29.16	28.85	r_down	
-STI	20130502	28.85	29.06	r_up	
-STI	20130503	29.06	29.28	r_up	
-STI	20130506	29.28	29.73	r_up	
-STI	20130507	29.73	30.2	r_up	helping:1 borrowers:1 hand:1
-STI	20130508	30.2	30.75	r_up	
-STI	20130509	30.75	30.46	r_down	
-STI	20130510	30.46	30.37	r_down	
-STI	20130513	30.37	30.45	r_up	
-STI	20130514	30.45	30.76	r_up	
-STI	20130515	30.76	31.11	r_up	
-STI	20130516	31.11	31.17	r_up	
-STI	20130517	31.17	31.78	r_up	
-STI	20130520	31.78	32.2	r_up	
-STI	20130521	32.2	32.05	r_down	
-STI	20130522	32.05	31.78	r_down	
-STI	20130523	31.78	31.65	r_down	
-STI	20130524	31.65	31.84	r_up	
-STI	20130528	31.84	32.24	r_up	
-STI	20130529	32.24	32.0	r_down	
-STI	20130530	32.0	32.6	r_up	
-STI	20130531	32.6	32.09	r_down	
-STI	20130603	32.09	32.24	r_up	
-STI	20130604	32.24	32.02	r_down	
-STI	20130605	32.02	31.55	r_down	
-STI	20130606	31.55	31.88	r_up	
-STI	20130607	31.88	32.25	r_up	
-STI	20130610	32.25	32.44	r_up	
-STI	20130611	32.44	31.7	r_down	
-STI	20130612	31.7	31.33	r_down	
-STI	20130613	31.33	31.95	r_up	
-STI	20130614	31.95	31.09	r_down	
-STI	20130617	31.09	31.35	r_up	
-STI	20130618	31.35	31.75	r_up	
-STI	20130619	31.75	31.25	r_down	
-STI	20130620	31.25	30.94	r_down	
-STI	20130621	30.94	31.23	r_up	
+STI	20140501	37.8	37.5	r_down	
+STI	20140502	37.5	37.9	r_up	
+STI	20140505	37.9	37.8	r_down	
+STI	20140506	37.8	37.1	r_down	
+STI	20140507	37.1	37.8	r_up	
+STI	20140508	37.8	37.5	r_down	said:1 's:1 federal:1 compliance:1 insured:1 requirements:1 authorities:1 investigating:1 loans:1 bank:1
+STI	20140509	37.5	37.6	r_up	
+STI	20140512	37.6	38.3	r_up	complicate:1 's:2 groups:1 than:1 --:1 pay:1 could:1 research:1 suggests:1 regulators:1 much:1 financial:1 shrink:1 finding:1 performance:1 efforts:1 size:1 its:1 linked:1 bank:1 more:1
+STI	20140513	38.3	38.2	r_down	
+STI	20140514	38.2	37.5	r_down	
+STI	20140515	37.5	37.2	r_down	
+STI	20140516	37.2	36.8	r_down	
+STI	20140519	36.8	37.5	r_up	
+STI	20140520	37.5	37.3	r_down	
+STI	20140521	37.3	37.6	r_up	
+STI	20140522	37.6	37.7	r_up	
+STI	20140523	37.7	37.9	r_up	such:1 names:1
+STI	20140527	37.9	38.0	r_up	giants:1 smaller:1 off:1 housing:1 settlements:1 officials:1 lenders:1 fresh:1 billion-dollar:1 bank:1
+STI	20140528	38.0	38.0	r_up	
+STI	20140529	38.0	37.9	r_down	
+STI	20140530	37.9	38.1	r_up	
+STI	20140602	38.1	38.6	r_up	
+STI	20140603	38.6	38.7	r_up	
+STI	20140604	38.7	38.6	r_down	
+STI	20140605	38.6	39.0	r_up	
+STI	20140606	39.0	39.4	r_up	
+STI	20140609	39.4	40.2	r_up	
+STI	20140610	40.2	40.1	r_down	
+STI	20140611	40.1	40.1	r_up	
+STI	20140612	40.1	39.8	r_down	
+STI	20140613	39.8	40.0	r_up	
+STI	20140616	40.0	39.6	r_down	
+STI	20140617	39.6	40.2	r_up	
+STI	20140618	40.2	40.2	r_up	abusive:3 allegations:3 tentative:1 general:1 reached:3 settlement:1 announced:2 $:7 mortgage:3 became:1 federal:1 had:1 slapped:1 lender:2 state:1 practices:3 agreements:1 which:1 several:1 lending:2 fines:1 government:3 million:3 agreement:2 agencies:1 servicing:2 500:1 bank:1 attorneys:1 --:3 49:1 968:5 settle:3 relief:1 consumer:1 involves:1 latest:1
+STI	20140619	40.2	39.9	r_down	
+STI	20140620	39.9	40.2	r_up	
+STI	20140623	40.2	40.2	r_up	
+STI	20140624	40.2	39.9	r_down	
+STI	20140625	39.9	40.0	r_up	
+STI	20140626	40.0	39.9	r_down	
+STI	20140627	39.9	40.0	r_up	
+STI	20140630	40.0	39.8	r_down	
+STI	20140701	39.8	39.9	r_up	
+STI	20140702	39.9	39.9	r_up	
+STI	20140703	39.9	40.5	r_up	
+STI	20140707	40.5	40.0	r_down	
+STI	20140708	40.0	39.4	r_down	
+STI	20140709	39.4	39.6	r_up	
+STI	20140710	39.6	39.4	r_down	
+STI	20140711	39.4	39.6	r_up	
+STI	20140714	39.6	39.6	r_up	
+STI	20140715	39.6	40.5	r_up	
+STI	20140716	40.5	40.1	r_down	
+STI	20140717	40.1	38.8	r_down	
+STI	20140718	38.8	39.5	r_up	
+STI	20140721	39.5	39.0	r_down	lending:1 measure:1 rest:1 trade:1 likely:1 session:1 through:1 year:1 weaken:1 would:1 profitability:1 shares:2 lender:1 expected:1 surprise:1 's:1 fell:1 key:1 warned:1 could:1 companies:1 actively:1 upside:1
+STI	20140722	39.0	38.0	r_down	revenue:1 lending:1 helped:1 have:1 portfolio:1 its:1 declined:1 said:1 profit:1 shares:1 interest:1 income:1 over:1 's:1 though:1 overall:1 outperformed:1 12:1 improving:1 second-quarter:1 bank:2 peers:1 grew:1 months:1 growing:1 latest:1
+STI	20140723	38.0	38.3	r_up	
+STI	20140724	38.3	38.7	r_up	
+STI	20140725	38.7	38.8	r_up	customer:1 insight:1 recovery:1 business:1 hint:1 into:1 regional:1 results:1 their:1 offer:1 economic:1 health:1 earnings:1 base:1 small:1 retail:1 bank:2 economy:1
+STI	20140728	38.8	38.4	r_down	
+STI	20140729	38.4	38.3	r_down	
+STI	20140730	38.3	38.5	r_up	hit:2 demand:2 processing:2 's:2 mortgage:2 bump:2 companies:2 ca:2 homeowners:2 administration:2 up:2 keep:2 n't:2 applications:2 program:2 another:2 signature:2 aid:2 struggling:2 has:2 speed:2
+STI	20140731	38.5	37.8	r_down	them:1 based:1 giving:1 deserve:1 support:1 label:1 n't:1 rules:1 chance:1 important:1 so:1 which:1 escape:1 banks:2 stricter:1 law:1 systemically:1 change:1 size:1
+STI	20140801	37.8	37.3	r_down	
+STI	20140804	37.3	37.3	r_up	
+STI	20140805	37.3	36.8	r_down	
+STI	20140806	36.8	36.8	r_up	
+STI	20140807	36.8	36.3	r_down	private:1 expenses:1 college:1 year:1 carry:1 said:1 federal:1 investigation:1 rates:1 firms:1 law:1 recently:1 focused:1 reversal:1 now:1 loans:3 than:1 ago:1 lower:1 industry:1 connection:1 foreclosed:1 cooperating:1 charged:1
+STI	20140808	36.3	36.8	r_up	
+STI	20140811	36.8	36.4	r_down	
+STI	20140812	36.4	36.3	r_down	
+STI	20140813	36.3	36.7	r_up	
+STI	20140814	36.7	36.7	r_up	
+STI	20140815	36.7	36.6	r_down	
+STI	20140818	36.6	36.9	r_up	projected:1 end:1 embedded:1 circulation:1 up:1 data:1 chip:1 year:1 debit:1 next:1 credit:1 breaches:1 wake:1 have:1 half:1 cards:1 efforts:1 boost:1 security:1 recent:1
+STI	20140819	36.9	37.0	r_up	
+STI	20140820	37.0	37.2	r_up	
+STI	20140821	37.2	38.2	r_up	
+STI	20140822	38.2	37.9	r_down	
+STI	20140825	37.9	38.2	r_up	
+STI	20140826	38.2	38.2	r_up	
+STI	20140827	38.2	37.9	r_down	
+STI	20140828	37.9	37.9	r_up	seeing:1 closely:1 less:1 money:1 '':1 determine:1 unusual:1 said:1 limited:1 working:1 million-dollar:1 vacation:1 may:1 attack:2 offers:1 scope:1 enforcement:1 ``:1 far:1 after:1 ownership:1 law:1 than:1 buying:1 recent:1 homes:1 financing:1 fraud:1 morning:1 n't:1 hacking:1 options:1
+STI	20140829	37.9	38.0	r_up	saying:1 's:1 no:1 had:2 been:1 nation:1 victims:1 cyberattack:1 incident:1 indication:1 they:2 largest:1 banks:1 hit:1 themselves:1 similar:1
+STI	20140902	38.0	38.2	r_up	
+STI	20140903	38.2	38.1	r_down	
+STI	20140904	38.1	38.4	r_up	
+STI	20140905	38.4	38.5	r_up	
+STI	20140908	38.5	38.6	r_up	money:1 trade:1 legacy:1 rash:1 have:1 out:1 transfer:1 been:1 encourage:1 willing:1 take:1 hindered:1 increasing:1 fines:1 banks:2 care:1 sanctions:1 country:1 compliance:1 record:1 following:1 efforts:1
+STI	20140909	38.6	38.4	r_down	
+STI	20140910	38.4	38.9	r_up	development:1 legacy:1 links:1 over:1 trade:1 concerns:1 hindering:1 banks:1 new:1 increasing:1
+STI	20140911	38.9	39.0	r_up	
+STI	20140912	39.0	39.0	r_up	good:1 's:2 student:1 auto:1 advice:1 mortgages:1 borrower:1 time:1 loans:2 latest:1
+STI	20140915	39.0	39.2	r_up	head:1 markets:1 's:1 hiring:1 bringing:1 equity:1 capital:1 investment:1 lender:1 banking:1 former:1 another:1 team:1 has:1 its:1 bolstered:1 unit:1
+STI	20140916	39.2	39.3	r_up	ago:1 compared:1 would:1 unchanged:1 under:1 year:1 projected:1 released:1 levels:1 economic:1 have:1 capital:1 new:1 downturn:1 data:1
+STI	20140917	39.3	39.7	r_up	midyear:1 results:1 9.4:1 rate:1 economic:1 have:1 year:1 its:2 compared:1 would:2 projected:1 1:1 under:1 test:1 new:1 unchanged:1 capital:1 released:1 said:1 downturn:1 data:1 bank:1 ago:1 stress:1 remain:1 levels:1 common:1
+STI	20140918	39.7	40.1	r_up	lenders:1 revenue:1 competition:1 four:1 seen:1 market:1 personal:1 loans:1 rivals:1 which:1 new:1 boost:1 upstart:1 turning:1 favored:1 bid:1 regulations:1 they:1 super:1 stiff:1 face:1 regionals:1 squeezed:1
+STI	20140919	40.1	39.8	r_down	
+STI	20140922	39.8	39.3	r_down	
+STI	20140923	39.3	39.0	r_down	
+STI	20140924	39.0	38.9	r_down	
+STI	20140925	38.9	38.3	r_down	
+STI	20140926	38.3	38.5	r_up	building:1 right:1 's:1 risk:1 getting:1 advisers:1 but:1 often:1 step:1 client:1 critical:1 have:1 portfolio:1 trouble:1 financial:1 tolerance:1 first:1
+STI	20140929	38.5	38.3	r_down	
+STI	20140930	38.3	38.0	r_down	
+STI	20141001	38.0	37.6	r_down	
+STI	20141002	37.6	37.6	r_up	
+STI	20141003	37.6	37.9	r_up	
+STI	20141006	37.9	37.6	r_down	
+STI	20141007	37.6	37.0	r_down	auto-lending:1 have:1 exposure:1
+STI	20141008	37.0	37.4	r_up	
+STI	20141009	37.4	36.4	r_down	useful:1 personal:1 pay:1 costly:1 can:1 credit-card:1 off:1 debt:1 loans:1
+STI	20141010	36.4	35.9	r_down	pullback:1 attractive:1 after:1 look:1 more:1

@@ -1,307 +1,114 @@
-SCHW	20120402	14.08	14.26	r_up	
-SCHW	20120403	14.26	14.46	r_up	
-SCHW	20120404	14.46	14.18	r_down	
-SCHW	20120405	14.18	13.96	r_down	k:1 s:1 401:1
-SCHW	20120409	13.96	13.8	r_down	
-SCHW	20120410	13.8	13.47	r_down	
-SCHW	20120411	13.47	13.6	r_up	
-SCHW	20120412	13.6	13.95	r_up	
-SCHW	20120413	13.95	13.59	r_down	
-SCHW	20120416	13.59	13.47	r_down	surprises:1 advisories:1
-SCHW	20120417	13.47	13.71	r_up	holds:1 20:1 gains:1 rise:1 financials’:1 leads:1
-SCHW	20120418	13.71	13.73	r_up	20:1
-SCHW	20120419	13.73	13.7	r_down	
-SCHW	20120420	13.7	13.74	r_up	brokerages:1 could:1 young:1 investors:1 hurt:1
-SCHW	20120423	13.74	13.54	r_down	
-SCHW	20120424	13.54	13.57	r_up	
-SCHW	20120425	13.57	13.8	r_up	money:1 reform:1 take:1 fund:1
-SCHW	20120426	13.8	14.05	r_up	
-SCHW	20120427	14.05	14.02	r_down	leads:1 stocks:1 financial:1 sale:1 after:1
-SCHW	20120430	14.02	13.99	r_down	
-SCHW	20120501	13.99	13.85	r_down	
-SCHW	20120502	13.85	13.44	r_down	
-SCHW	20120503	13.44	13.42	r_down	
-SCHW	20120504	13.42	13.26	r_down	
-SCHW	20120507	13.26	13.25	r_down	
-SCHW	20120508	13.25	13.08	r_down	among:1 falling:1 stocks:1 financial:1
-SCHW	20120509	13.08	12.94	r_down	piece:1 get:1
-SCHW	20120510	12.94	12.83	r_down	impact:1 fear:1 managers:1 bonds:1
-SCHW	20120511	12.83	12.9	r_up	defends:1 money-fund:1 reform:1
-SCHW	20120514	12.9	12.71	r_down	
-SCHW	20120515	12.71	12.67	r_down	
-SCHW	20120516	12.67	12.55	r_down	
-SCHW	20120517	12.55	12.37	r_down	
-SCHW	20120518	12.37	12.14	r_down	25:1 's:2 22:1
-SCHW	20120521	12.14	12.46	r_up	
-SCHW	20120522	12.46	12.53	r_up	
-SCHW	20120523	12.53	12.41	r_down	canceled:1 so:1 order:1 fast:1
-SCHW	20120524	12.41	12.43	r_up	
-SCHW	20120525	12.43	12.6	r_up	
-SCHW	20120529	12.6	12.79	r_up	
-SCHW	20120530	12.79	12.32	r_down	
-SCHW	20120531	12.32	12.26	r_down	
-SCHW	20120601	12.26	11.91	r_down	
-SCHW	20120604	11.91	11.64	r_down	
-SCHW	20120605	11.64	11.95	r_up	
-SCHW	20120606	11.95	12.22	r_up	
-SCHW	20120607	12.22	12.06	r_down	
-SCHW	20120608	12.06	12.11	r_up	
-SCHW	20120611	12.11	11.95	r_down	
-SCHW	20120612	11.95	12.05	r_up	
-SCHW	20120613	12.05	11.95	r_down	
-SCHW	20120614	11.95	12.16	r_up	
-SCHW	20120615	12.16	12.47	r_up	
-SCHW	20120618	12.47	12.38	r_down	
-SCHW	20120619	12.38	12.5	r_up	
-SCHW	20120620	12.5	12.53	r_up	
-SCHW	20120621	12.53	12.06	r_down	
-SCHW	20120622	12.06	12.17	r_up	
-SCHW	20120625	12.17	11.88	r_down	
-SCHW	20120626	11.88	12.02	r_up	
-SCHW	20120627	12.02	12.2	r_up	
-SCHW	20120628	12.2	12.34	r_up	draft:1 rule:1 money-fund:1
-SCHW	20120629	12.34	12.73	r_up	
-SCHW	20120702	12.73	12.73	r_up	
-SCHW	20120703	12.73	12.82	r_up	
-SCHW	20120705	12.82	12.62	r_down	
-SCHW	20120706	12.62	12.44	r_down	
-SCHW	20120709	12.44	12.3	r_down	funds:1 investors:1
-SCHW	20120710	12.3	12.21	r_down	
-SCHW	20120711	12.21	12.37	r_up	
-SCHW	20120712	12.37	12.19	r_down	
-SCHW	20120713	12.19	12.49	r_up	's:1
-SCHW	20120716	12.49	12.47	r_down	
-SCHW	20120717	12.47	12.8	r_up	's:3 16:4 surprises:1 after:1 up:1 advisories:1 close:1 stocks:1 dip:1
-SCHW	20120718	12.8	12.79	r_down	2011:1
-SCHW	20120719	12.79	12.73	r_down	
-SCHW	20120720	12.73	12.29	r_down	
-SCHW	20120723	12.29	12.03	r_down	
-SCHW	20120724	12.03	11.95	r_down	
-SCHW	20120725	11.95	12.13	r_up	
-SCHW	20120726	12.13	12.42	r_up	
-SCHW	20120727	12.42	12.72	r_up	
-SCHW	20120730	12.72	12.58	r_down	start:1 lawsuits:1
-SCHW	20120731	12.58	12.43	r_down	financial:1 $:1 drop:1 other:1 350:1 stocks:1
-SCHW	20120801	12.43	12.25	r_down	
-SCHW	20120802	12.25	12.03	r_down	
-SCHW	20120803	12.03	12.6	r_up	
-SCHW	20120806	12.6	12.68	r_up	
-SCHW	20120807	12.68	12.99	r_up	29:1
-SCHW	20120808	12.99	12.87	r_down	
-SCHW	20120809	12.87	12.86	r_down	
-SCHW	20120810	12.86	12.73	r_down	
-SCHW	20120813	12.73	12.75	r_up	
-SCHW	20120814	12.75	12.7	r_down	2:2
-SCHW	20120815	12.7	12.9	r_up	's:1
-SCHW	20120816	12.9	13.16	r_up	gainers:1 13:1 financial:1 $:1 lead:1
-SCHW	20120817	13.16	13.05	r_down	
-SCHW	20120820	13.05	12.99	r_down	
-SCHW	20120821	12.99	13.05	r_up	
-SCHW	20120822	13.05	12.97	r_down	
-SCHW	20120823	12.97	12.85	r_down	's:1 curbs:1 money-market:1 funds:1 dangers:1 shares:1 cancels:1 money-fund:2 lurking:1 vote:1 rally:1 news:1
-SCHW	20120824	12.85	13.12	r_up	
-SCHW	20120827	13.12	12.95	r_down	k:2 2011:2 than:2 401:2
-SCHW	20120828	12.95	12.99	r_up	n't:1
-SCHW	20120829	12.99	13.24	r_up	
-SCHW	20120830	13.24	13.27	r_up	
-SCHW	20120831	13.27	13.34	r_up	
-SCHW	20120904	13.34	13.18	r_down	
-SCHW	20120905	13.18	13.19	r_up	
-SCHW	20120906	13.19	13.8	r_up	
-SCHW	20120907	13.8	13.87	r_up	
-SCHW	20120910	13.87	13.76	r_down	
-SCHW	20120911	13.76	13.76	r_up	
-SCHW	20120912	13.76	13.85	r_up	
-SCHW	20120913	13.85	14.15	r_up	
-SCHW	20120914	14.15	14.27	r_up	
-SCHW	20120917	14.27	14.03	r_down	5.1:2
-SCHW	20120918	14.03	13.78	r_down	
-SCHW	20120919	13.78	13.5	r_down	
-SCHW	20120920	13.5	13.29	r_down	
-SCHW	20120921	13.29	13.43	r_up	25:1 fee:1 move:1 shares:1 60:1 joins:1 war:1 higher:1
-SCHW	20120924	13.43	13.28	r_down	
-SCHW	20120925	13.28	12.74	r_down	
-SCHW	20120926	12.74	12.75	r_up	
-SCHW	20120927	12.75	12.73	r_down	rules:1 support:1 strong:1 money-fund:1 gives:1
-SCHW	20120928	12.73	12.65	r_down	n't:1 but:1
-SCHW	20121001	12.65	12.73	r_up	
-SCHW	20121002	12.73	12.75	r_up	
-SCHW	20121003	12.75	12.62	r_down	
-SCHW	20121004	12.62	12.94	r_up	
-SCHW	20121005	12.94	13.1	r_up	
-SCHW	20121008	13.1	13.0	r_down	
-SCHW	20121009	13.0	12.78	r_down	
-SCHW	20121010	12.78	12.82	r_up	
-SCHW	20121011	12.82	13.02	r_up	
-SCHW	20121012	13.02	12.8	r_down	
-SCHW	20121015	12.8	12.88	r_up	advisories:1 12:8 's:6 surprises:1
-SCHW	20121016	12.88	13.17	r_up	sector:1 rally:1 financial:1 5.5:1 buoys:1
-SCHW	20121017	13.17	13.47	r_up	
-SCHW	20121018	13.47	13.49	r_up	
-SCHW	20121019	13.49	13.17	r_down	
-SCHW	20121022	13.17	13.2	r_up	10:1 heroes:1 led:1 fallen:1 sports:1
-SCHW	20121023	13.2	13.07	r_down	
-SCHW	20121024	13.07	13.17	r_up	
-SCHW	20121025	13.17	13.36	r_up	
-SCHW	20121026	13.36	13.32	r_down	
-SCHW	20121031	13.32	13.43	r_up	
-SCHW	20121101	13.43	13.49	r_up	
-SCHW	20121102	13.49	13.58	r_up	
-SCHW	20121105	13.58	13.73	r_up	140:1 1st:1
-SCHW	20121106	13.73	13.73	r_up	133:1 rises:1 slip:1 plan:1 financials:1
-SCHW	20121107	13.73	13.23	r_down	
-SCHW	20121108	13.23	13.11	r_down	
-SCHW	20121109	13.11	12.97	r_down	
-SCHW	20121112	12.97	12.86	r_down	
-SCHW	20121113	12.86	12.59	r_down	urge:1 money:1 funds:1 act:1
-SCHW	20121114	12.59	12.41	r_down	
-SCHW	20121115	12.41	12.64	r_up	its:1
-SCHW	20121116	12.64	12.69	r_up	down:1 close:1 hits:1 stocks:1 data:1
-SCHW	20121119	12.69	12.8	r_up	
-SCHW	20121120	12.8	12.88	r_up	
-SCHW	20121121	12.88	12.97	r_up	
-SCHW	20121123	12.97	13.14	r_up	
-SCHW	20121126	13.14	13.06	r_down	rises:1 word:1 possible:1 unit:1 sale:1
-SCHW	20121127	13.06	12.94	r_down	
-SCHW	20121128	12.94	13.05	r_up	
-SCHW	20121129	13.05	13.0	r_down	
-SCHW	20121130	13.0	13.01	r_up	
-SCHW	20121203	13.01	12.9	r_down	
-SCHW	20121204	12.9	12.79	r_down	
-SCHW	20121205	12.79	12.84	r_up	
-SCHW	20121206	12.84	12.97	r_up	rules:1 study:1 enough:1 money-fund:1 not:1 2010:1
-SCHW	20121207	12.97	13.33	r_up	k:1 s:1 401:1
-SCHW	20121210	13.33	13.28	r_down	
-SCHW	20121211	13.28	13.57	r_up	
-SCHW	20121212	13.57	13.57	r_up	
-SCHW	20121213	13.57	13.65	r_up	
-SCHW	20121214	13.65	13.6	r_down	2:2 off:1 financials:1 fall:1
-SCHW	20121217	13.6	13.77	r_up	
-SCHW	20121218	13.77	14.11	r_up	
-SCHW	20121219	14.11	14.37	r_up	
-SCHW	20121220	14.37	14.36	r_down	
-SCHW	20121221	14.36	14.22	r_down	
-SCHW	20121224	14.22	14.23	r_up	
-SCHW	20121226	14.23	14.16	r_down	
-SCHW	20121227	14.16	14.11	r_down	
-SCHW	20121228	14.11	14.04	r_down	
-SCHW	20121231	14.04	14.26	r_up	
-SCHW	20130102	14.26	14.97	r_up	
-SCHW	20130103	14.97	14.95	r_down	
-SCHW	20130104	14.95	15.35	r_up	
-SCHW	20130107	15.35	15.16	r_down	
-SCHW	20130108	15.16	15.11	r_down	may:1 shock:1 alert:1 earnings:1 9:1 stocks:1
-SCHW	20130109	15.11	15.02	r_down	
-SCHW	20130110	15.02	15.22	r_up	61:1
-SCHW	20130111	15.22	15.28	r_up	
-SCHW	20130114	15.28	15.16	r_down	
-SCHW	20130115	15.16	15.18	r_up	index:1 could:1 richer:1 you:1 investor:1 make:1 stock:1
-SCHW	20130116	15.18	14.94	r_down	
-SCHW	20130117	14.94	15.14	r_up	
-SCHW	20130118	15.14	15.34	r_up	
-SCHW	20130122	15.34	15.6	r_up	3.3:1
-SCHW	20130123	15.6	15.53	r_down	
-SCHW	20130124	15.53	15.7	r_up	
-SCHW	20130125	15.7	15.94	r_up	
-SCHW	20130128	15.94	15.99	r_up	
-SCHW	20130129	15.99	16.35	r_up	but:1
-SCHW	20130130	16.35	16.39	r_up	
-SCHW	20130131	16.39	16.41	r_up	
-SCHW	20130201	16.41	16.63	r_up	
-SCHW	20130204	16.63	16.27	r_down	
-SCHW	20130205	16.27	16.53	r_up	
-SCHW	20130206	16.53	16.73	r_up	
-SCHW	20130207	16.73	17.05	r_up	
-SCHW	20130208	17.05	16.83	r_down	's:1
-SCHW	20130211	16.83	16.67	r_down	
-SCHW	20130212	16.67	16.8	r_up	
-SCHW	20130213	16.8	16.86	r_up	
-SCHW	20130214	16.86	16.86	r_up	
-SCHW	20130215	16.86	16.84	r_down	
-SCHW	20130219	16.84	17.04	r_up	securities:1 rules:1 court:1 go:1 die:1
-SCHW	20130220	17.04	16.63	r_down	
-SCHW	20130221	16.63	16.31	r_down	
-SCHW	20130222	16.31	16.67	r_up	n't:2
-SCHW	20130225	16.67	16.26	r_down	
-SCHW	20130226	16.26	16.15	r_down	
-SCHW	20130227	16.15	16.35	r_up	
-SCHW	20130228	16.35	16.18	r_down	
-SCHW	20130301	16.18	16.34	r_up	
-SCHW	20130304	16.34	16.72	r_up	
-SCHW	20130305	16.72	16.92	r_up	but:1
-SCHW	20130306	16.92	17.29	r_up	set:1 off:1 alarm:1 should:1 your:1 market:1 stock:1
-SCHW	20130307	17.29	17.52	r_up	
-SCHW	20130308	17.52	17.6	r_up	
-SCHW	20130311	17.6	17.65	r_up	
-SCHW	20130312	17.65	17.68	r_up	
-SCHW	20130313	17.68	18.05	r_up	9:1 bets:1 deal:1
-SCHW	20130314	18.05	17.92	r_down	's:1
-SCHW	20130315	17.92	17.8	r_down	
-SCHW	20130318	17.8	17.6	r_down	win:1 war:1
-SCHW	20130319	17.6	17.49	r_down	
-SCHW	20130320	17.49	17.69	r_up	
-SCHW	20130321	17.69	17.4	r_down	
-SCHW	20130322	17.4	17.48	r_up	
-SCHW	20130325	17.48	17.46	r_down	
-SCHW	20130326	17.46	17.57	r_up	
-SCHW	20130327	17.57	17.44	r_down	
-SCHW	20130328	17.44	17.63	r_up	
-SCHW	20130401	17.63	17.32	r_down	
-SCHW	20130402	17.32	17.25	r_down	
-SCHW	20130403	17.25	16.69	r_down	
-SCHW	20130404	16.69	16.66	r_down	
-SCHW	20130405	16.66	16.49	r_down	
-SCHW	20130408	16.49	16.76	r_up	n't:1
-SCHW	20130409	16.76	16.91	r_up	
-SCHW	20130410	16.91	17.33	r_up	
-SCHW	20130411	17.33	17.48	r_up	n't:1
-SCHW	20130412	17.48	17.22	r_down	
-SCHW	20130415	17.22	16.56	r_down	plunge:1 off:1 mull:1 5.6:1 gold:1 movers:1 futures:1 watch:1 earnings:1 headlines:1 drop:1
-SCHW	20130416	16.56	16.9	r_up	stocks:1 's:1 $:2 1,100:1 months:1 most:1 5:1 lose:1 1,300:1
-SCHW	20130417	16.9	16.41	r_down	
-SCHW	20130418	16.41	16.33	r_down	
-SCHW	20130419	16.33	16.33	r_up	
-SCHW	20130422	16.33	16.36	r_up	
-SCHW	20130423	16.36	16.53	r_up	
-SCHW	20130424	16.53	16.58	r_up	high-speed:1 traders:1 eye:1 funds:1 money:1
-SCHW	20130425	16.58	16.69	r_up	
-SCHW	20130426	16.69	16.67	r_down	glitch:1 works:1 fallout:1 contain:1
-SCHW	20130429	16.67	16.88	r_up	
-SCHW	20130430	16.88	16.9	r_up	
-SCHW	20130501	16.9	16.15	r_down	
-SCHW	20130502	16.15	16.38	r_up	
-SCHW	20130503	16.38	17.41	r_up	drops:1 unemployment:1 movers:1 up:1 rate:1 stocks:1
-SCHW	20130506	17.41	17.49	r_up	's:1 500:1
-SCHW	20130507	17.49	17.38	r_down	n't:1
-SCHW	20130508	17.38	17.38	r_up	's:1
-SCHW	20130509	17.38	17.51	r_up	
-SCHW	20130510	17.51	18.09	r_up	
-SCHW	20130513	18.09	18.15	r_up	's:1 $:1
-SCHW	20130514	18.15	18.75	r_up	
-SCHW	20130515	18.75	18.98	r_up	
-SCHW	20130516	18.98	18.91	r_down	
-SCHW	20130517	18.91	19.34	r_up	
-SCHW	20130520	19.34	19.21	r_down	
-SCHW	20130521	19.21	19.17	r_down	
-SCHW	20130522	19.17	19.06	r_down	
-SCHW	20130523	19.06	18.99	r_down	
-SCHW	20130524	18.99	19.16	r_up	
-SCHW	20130528	19.16	19.77	r_up	
-SCHW	20130529	19.77	19.91	r_up	's:1
-SCHW	20130530	19.91	20.16	r_up	
-SCHW	20130531	20.16	19.86	r_down	
-SCHW	20130603	19.86	19.68	r_down	
-SCHW	20130604	19.68	19.58	r_down	
-SCHW	20130605	19.58	19.01	r_down	
-SCHW	20130606	19.01	19.46	r_up	investors:1 reform:1 funds:1 proposals:1 drive:1 unveils:1 money-market:1 greed:1
-SCHW	20130607	19.46	20.12	r_up	n't:1 's:2
-SCHW	20130610	20.12	20.22	r_up	
-SCHW	20130611	20.22	19.72	r_down	
-SCHW	20130612	19.72	19.59	r_down	
-SCHW	20130613	19.59	20.04	r_up	
-SCHW	20130614	20.04	19.71	r_down	8:1 's:1 17:1
-SCHW	20130617	19.71	20.32	r_up	
-SCHW	20130618	20.32	20.54	r_up	
-SCHW	20130619	20.54	20.47	r_down	
-SCHW	20130620	20.47	20.48	r_up	
-SCHW	20130621	20.48	20.64	r_up	
+SCHW	20140501	26.4	26.4	r_up	
+SCHW	20140502	26.4	26.5	r_up	do:1 customers:1 jobs:1 would:1 could:1 harder:1 their:1 regulators:1 brokers:1 new:1 proposal:1 make:1
+SCHW	20140505	26.5	26.4	r_down	
+SCHW	20140506	26.4	25.7	r_down	adviser:1 use:1 additional:1 suggests:1 manager:1 questions:1 ask:1 you:1 your:1 if:1
+SCHW	20140507	25.7	26.1	r_up	
+SCHW	20140508	26.1	25.9	r_down	
+SCHW	20140509	25.9	26.3	r_up	
+SCHW	20140512	26.3	26.9	r_up	
+SCHW	20140513	26.9	26.4	r_down	
+SCHW	20140514	26.4	26.1	r_down	
+SCHW	20140515	26.1	24.9	r_down	
+SCHW	20140516	24.9	24.9	r_up	
+SCHW	20140519	24.9	24.9	r_up	
+SCHW	20140520	24.9	24.7	r_down	
+SCHW	20140521	24.7	25.2	r_up	firm:1 independent:1 own:1 join:1 their:1 advisers:1 away:1 joined:1 40:1 broker:1 broken:1 brokerages:1 have:1 big:1 years:1 create:1
+SCHW	20140522	25.2	25.5	r_up	indicted:1 bribes:1 prosecutors:1 $:1 allegedly:1 employees:1 million:1 component:1 than:1 suppliers:1 five:1 accepting:1 5:1 former:1 more:1
+SCHW	20140523	25.5	25.5	r_up	
+SCHW	20140527	25.5	25.4	r_down	lowest:1 index:1 do:1 means:1 funds:1 work:1 costs:1 ones:1 putting:1 money:1 finding:1
+SCHW	20140528	25.4	25.2	r_down	
+SCHW	20140529	25.2	25.4	r_up	
+SCHW	20140530	25.4	25.1	r_down	
+SCHW	20140602	25.1	25.3	r_up	
+SCHW	20140603	25.3	25.1	r_down	futures:1 investors:1 equity:1 month:1 most:1 trading:1 year:1 rising:1 along:1 stocks:1 sluggish:1 options:1 market:1 stock:1
+SCHW	20140604	25.1	25.1	r_up	
+SCHW	20140605	25.1	25.5	r_up	
+SCHW	20140606	25.5	25.9	r_up	
+SCHW	20140609	25.9	26.3	r_up	
+SCHW	20140610	26.3	26.0	r_down	
+SCHW	20140611	26.0	25.9	r_down	
+SCHW	20140612	25.9	25.5	r_down	
+SCHW	20140613	25.5	25.9	r_up	advisory:2 acts:1 coverage:4 prompting:1 cybersecurity:1 brokerages:1 manage:1 covers:1 ``:1 related:1 '':1 his:2 through:1 also:1 electronic:1 insurance:1 millions:1 again:1 computer:1 $:4 took:1 everything:1 personal:1 advisers:1 revenue:1 damage:1 than:1 1:1 their:1 damages:1 money:1 policy:1 firms:1 has:2 2010:1 sure:1 more:3 firm:1 independent:1 them:1 buy:1 premium:1 generates:1 cyberattacks:1 get:1 company:1 practice:1 possible:1 bundle:1 hundreds:1 liability:1 121:1 made:1 plan:1 theft:1 included:1 includes:1 data:1 terrorism:1 he:3 paying:1 million:2 fraud:2 15:1 assets:1 calls:1 created:1 --:1 dollars:1 annual:1 annually:1 addition:1 client:1 500:1 traditional:1 deductible:1 spotlight:1 added:1
+SCHW	20140616	25.9	25.8	r_down	
+SCHW	20140617	25.8	27.2	r_up	
+SCHW	20140618	27.2	27.0	r_down	among:1 stores:1 investors:1 hearing:2 four:1 trading:1 headlines:1 open:1 best:1 end:1 muted:1 residential:1 high-frequency:1 their:1 trustees:1 extends:2 units:1 consecutive:1 main:1 markets:1 500:1 higher:1 gaining:1 gives:1 sued:1 led:1 gains:4 bonds:1 company:1 mortgage-backed:1 wake:1 abate:1 hurts:1 not:1 post:1 stocks:2 day:2 behalf:1 third:2 roles:1 performers:1 did:1 violence:1 up:2 securities:1 whether:1 while:1 benchmarks:1 were:1 permission:1 bought:1 slightly:1
+SCHW	20140619	27.0	27.0	r_up	
+SCHW	20140620	27.0	27.3	r_up	
+SCHW	20140623	27.3	27.2	r_down	
+SCHW	20140624	27.2	26.7	r_down	
+SCHW	20140625	26.7	27.0	r_up	week:1 being:1 top:1 earlier:1 late:1 dinner:1 advertising:1 meeting:1 executives:1
+SCHW	20140626	27.0	26.7	r_down	mutual:1 getting:1 funds:1 industry:1 stronger:1 fund:1 only:1 growth:1 massive:1 exchange-traded:1
+SCHW	20140627	26.7	27.0	r_up	
+SCHW	20140630	27.0	26.8	r_down	coverage:1 wealth:1 advisers:1 morning:1 financial:1 other:1 interest:1 planners:1 briefing:1 managers:1 special:1
+SCHW	20140701	26.8	27.2	r_up	lowest:1 managers:2 into:1 trade:1 helped:1 accounts:1 lull:1 years:1 mutual:1 built:1 no:1 live:1 their:1 outside:1 other:1 build:1 portfolios:1 biggest:1 has:1 across:1 asset:1 firm:1 buy:1 's:1 around:1 exchange:1 month:1 funds:2 volume:1 fell:1 eight:1 they:1 telling:1 brokerage:1 one:1 longer:1 level:1 country:1 clients:1 can:1 trading:1 stock-trading:1 traded:1 left:1
+SCHW	20140702	27.2	27.3	r_up	
+SCHW	20140703	27.3	28.0	r_up	
+SCHW	20140707	28.0	27.8	r_down	financial:1 less:1 reasons:1 explained:1 some:1 trading:2 crisis:1 market:1 even:1 explain:1 charts:2 tumbling:1 5:1 stock:1 volume:2 records:1 peak:1 half:1 during:1 than:1 hits:1 drop:1 daily:1
+SCHW	20140708	27.8	27.1	r_down	because:1 investors:1 high:1 shame:1 fees:3 need:1 any:1 out:1 pay:1 bite:1 their:2 take:1 401:2 9:1 you:1 explains:1 attention:1 know:1 half:1 look:1 k:2 savings:1 can:1 things:1
+SCHW	20140709	27.1	27.0	r_down	
+SCHW	20140710	27.0	26.8	r_down	
+SCHW	20140711	26.8	27.0	r_up	
+SCHW	20140714	27.0	27.4	r_up	control:1 partners:1 tycoon:1 after:1 step:1 judge:1 hotel:1 chief:1 two:1 took:1 feud:1 turn:1 must:1 between:1 operator:1 executive:1 property:1 down:1 ruled:1
+SCHW	20140715	27.4	27.3	r_down	prospect:1 great:1 can:1 advisers:1 make:1 clients:1 predictions:1 product:1 pitches:1 regulators:1 ones:1 trouble:1 connect:1 way:1 new:1 get:1 into:1 shows:1
+SCHW	20140716	27.3	27.5	r_up	biotech:1 leaders:1 just:1 revenue:1 globe:1 around:1 rate:1 trading:1 fees:1 close:1 its:1 speak:1 decline:1 27:2 rose:1 small-company:1 administration:1 second-quarter:1 economy:1 earnings:1 interest:2 policy:1 net:1 out:1 markets:1 more:1 media:1 play:1 felt:1 's:1 asset:1 attention:1 said:1 effects:1 offset:1 stocks:1 than:1 bank:1 central:1 sway:1 stronger:1 social:1 management:1 revenues:1
+SCHW	20140717	27.5	27.0	r_down	
+SCHW	20140718	27.0	27.7	r_up	
+SCHW	20140721	27.7	27.6	r_down	
+SCHW	20140722	27.6	27.5	r_down	
+SCHW	20140723	27.5	27.4	r_down	set:1 managers:1 investors:1 estimates:1 back:1 mutual-fund:1 weighed:1 individual:1 swung:1 year-earlier:1 profit:1 avoid:1 brunt:1 charge:1 new:1 impairment:1 firm:1 modestly:1 topping:1 restrictions:1 reported:1 cater:1 second-quarter:1 down:1 quarter:1 large:1 money-market:1 bounced:1
+SCHW	20140724	27.4	27.7	r_up	walking:1 end:1 zombies:1 writes:1 age-old:1 putting:1 have:1 investment:1
+SCHW	20140725	27.7	27.4	r_down	
+SCHW	20140728	27.4	27.8	r_up	
+SCHW	20140729	27.8	27.8	r_up	
+SCHW	20140730	27.8	28.4	r_up	
+SCHW	20140731	28.4	27.6	r_down	
+SCHW	20140801	27.6	27.3	r_down	inversion:1 owe:1 involved:1 companies:1 deals:1 likely:1 tax:1 capital-gains:1
+SCHW	20140804	27.3	27.6	r_up	we:2 differences:1 investors:1 offer:1 found:1 make:1 manage:1 them:1 free:1 tested:1 out:1 brokers:1 online:1 portfolio:1 now:1 tools:1 easier:1 build:1
+SCHW	20140805	27.6	27.3	r_down	upside:1 have:1
+SCHW	20140806	27.3	27.5	r_up	remember:1 effective:1 simple:1 marketing:1 campaigns:1 most:1 ones:1 easy:1
+SCHW	20140807	27.5	27.1	r_down	
+SCHW	20140808	27.1	27.6	r_up	
+SCHW	20140811	27.6	27.7	r_up	
+SCHW	20140812	27.7	27.6	r_down	
+SCHW	20140813	27.6	27.5	r_down	
+SCHW	20140814	27.5	27.6	r_up	
+SCHW	20140815	27.6	27.2	r_down	financial-services:1 ads:1 consumers:1 give:1 commercials:1 picks:1 their:1 stick:1 time:1 over:1
+SCHW	20140818	27.2	27.8	r_up	
+SCHW	20140819	27.8	27.8	r_up	
+SCHW	20140820	27.8	28.3	r_up	
+SCHW	20140821	28.3	28.4	r_up	
+SCHW	20140822	28.4	28.5	r_up	donors:1 gift:1 fund:1 advised:1 charitable:1 benefit:1 donations:1 making:1 through:1 trust:1
+SCHW	20140825	28.5	28.9	r_up	
+SCHW	20140826	28.9	28.8	r_down	
+SCHW	20140827	28.8	28.4	r_down	claim:2 least:2 15:3 $:3 10:2 advisers:2 over:2 million:2 damage:2 rejected:2 hiring:2 against:2 former:2
+SCHW	20140828	28.4	28.3	r_down	
+SCHW	20140829	28.3	28.5	r_up	
+SCHW	20140902	28.5	28.7	r_up	
+SCHW	20140903	28.7	28.1	r_down	
+SCHW	20140904	28.1	28.4	r_up	
+SCHW	20140905	28.4	28.6	r_up	
+SCHW	20140908	28.6	28.8	r_up	
+SCHW	20140909	28.8	28.6	r_down	
+SCHW	20140910	28.6	29.3	r_up	
+SCHW	20140911	29.3	29.2	r_down	
+SCHW	20140912	29.2	29.5	r_up	living:1 cut:1 off:1 laundering:1 evasion:1 being:1 brokerages:1 clear:1 tax:1 institutions:1 crackdown:1 money:1 banks:1 financial:1 seek:1 abroad:1 steer:1
+SCHW	20140915	29.5	29.2	r_down	
+SCHW	20140916	29.2	29.4	r_up	
+SCHW	20140917	29.4	30.2	r_up	
+SCHW	20140918	30.2	30.7	r_up	
+SCHW	20140919	30.7	30.3	r_down	stock:1 all:1 financial:2 one-third:1 year:4 portfolio:1 still:2 your:1 best:2 advisers:2 3:2 1:2 their:2 charge:2 does:1 4:2 which:2 expected:2 you:1 take:2 adviser:1 return:2 risk:1 after:2 inflation:2 services:2 world:2 stocks:1 up:1 taxes:2 long-term:2 reward:1
+SCHW	20140922	30.3	30.1	r_down	
+SCHW	20140923	30.1	29.8	r_down	later:1 sometimes:1 focus:1 three:1 most:1 only:1 cost:1 obvious:1 can:1 fees:1 catch:1 you:1 investment:1
+SCHW	20140924	29.8	29.9	r_up	
+SCHW	20140925	29.9	29.5	r_down	
+SCHW	20140926	29.5	29.9	r_up	
+SCHW	20140929	29.9	29.7	r_down	
+SCHW	20140930	29.7	29.3	r_down	
+SCHW	20141001	29.3	28.7	r_down	
+SCHW	20141002	28.7	29.0	r_up	
+SCHW	20141003	29.0	29.5	r_up	
+SCHW	20141006	29.5	29.7	r_up	
+SCHW	20141007	29.7	28.4	r_down	
+SCHW	20141008	28.4	28.7	r_up	
+SCHW	20141009	28.7	27.1	r_down	account:2 risk:1 into:1 protect:1 cyber:1 yourself:1 have:1 thieves:1 know:1 hacked:2 brokerage:1 your:2
+SCHW	20141010	27.1	26.2	r_down	

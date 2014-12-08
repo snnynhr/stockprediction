@@ -1,307 +1,114 @@
-GPS	20120402	25.6	25.89	r_up	
-GPS	20120403	25.89	25.63	r_down	
-GPS	20120404	25.63	26.22	r_up	enters:1 's:1 ringing:1 shopper:1 get:1 register:1 sales:1 see:1 shoppers:1 follow:1 teens:1 muscle:1 continued:1 more:1
-GPS	20120405	26.22	26.02	r_down	back:1
-GPS	20120409	26.02	25.7	r_down	
-GPS	20120410	25.7	24.82	r_down	
-GPS	20120411	24.82	25.07	r_up	
-GPS	20120412	25.07	25.54	r_up	's:1
-GPS	20120413	25.54	26.13	r_up	
-GPS	20120416	26.13	26.0	r_down	
-GPS	20120417	26.0	26.58	r_up	
-GPS	20120418	26.58	27.17	r_up	
-GPS	20120419	27.17	27.06	r_down	
-GPS	20120420	27.06	27.4	r_up	
-GPS	20120423	27.4	27.24	r_down	
-GPS	20120424	27.24	26.75	r_down	
-GPS	20120425	26.75	27.44	r_up	
-GPS	20120426	27.44	27.94	r_up	
-GPS	20120427	27.94	28.07	r_up	
-GPS	20120430	28.07	28.04	r_down	
-GPS	20120501	28.04	28.07	r_up	expected:1 slow:1 's:1 sales:1
-GPS	20120502	28.07	28.67	r_up	
-GPS	20120503	28.67	28.21	r_down	lonely:1 same-store:1 sales:1 number:1
-GPS	20120504	28.21	27.74	r_down	
-GPS	20120507	27.74	28.11	r_up	
-GPS	20120508	28.11	27.6	r_down	
-GPS	20120509	27.6	27.46	r_down	
-GPS	20120510	27.46	27.67	r_up	
-GPS	20120511	27.67	27.55	r_down	's:1
-GPS	20120514	27.55	26.93	r_down	sentiment:1
-GPS	20120515	26.93	26.99	r_up	loss:1 dividend:1 swings:1 's:1 suspends:1
-GPS	20120516	26.99	26.66	r_down	
-GPS	20120517	26.66	25.88	r_down	surprises:1 advisories:1 watch:1
-GPS	20120518	25.88	25.29	r_down	climbs:1 prices:1 after:1 watch:1 hours:1
-GPS	20120521	25.29	26.08	r_up	
-GPS	20120522	26.08	26.06	r_down	
-GPS	20120523	26.06	26.33	r_up	
-GPS	20120524	26.33	26.55	r_up	
-GPS	20120525	26.55	26.72	r_up	
-GPS	20120529	26.72	27.25	r_up	
-GPS	20120530	27.25	26.24	r_down	seen:1 modest:1 growth:1 posting:1 sales:1
-GPS	20120531	26.24	26.07	r_down	beat:1 same-store:1 estimates:1 sales:1 advisories:1 surprises:1
-GPS	20120601	26.07	24.85	r_down	
-GPS	20120604	24.85	25.07	r_up	
-GPS	20120605	25.07	25.12	r_up	
-GPS	20120606	25.12	25.27	r_up	'':1 ``:1
-GPS	20120607	25.27	25.28	r_up	tricky:1 pose:1
-GPS	20120608	25.28	25.82	r_up	
-GPS	20120611	25.82	25.15	r_down	
-GPS	20120612	25.15	25.63	r_up	
-GPS	20120613	25.63	25.21	r_down	30:1
-GPS	20120614	25.21	25.99	r_up	
-GPS	20120615	25.99	26.3	r_up	
-GPS	20120618	26.3	26.57	r_up	
-GPS	20120619	26.57	26.89	r_up	
-GPS	20120620	26.89	27.15	r_up	's:1
-GPS	20120621	27.15	26.86	r_down	
-GPS	20120622	26.86	26.92	r_up	
-GPS	20120625	26.92	26.05	r_down	
-GPS	20120626	26.05	26.13	r_up	
-GPS	20120627	26.13	25.99	r_down	
-GPS	20120628	25.99	25.93	r_down	
-GPS	20120629	25.93	27.05	r_up	
-GPS	20120702	27.05	27.2	r_up	
-GPS	20120703	27.2	27.37	r_up	may:1 sales:1 years:1 3:1 smallest:1 gain:1 retail:1
-GPS	20120705	27.37	27.65	r_up	post:1 years:1 worst:1 sales:1 three:1
-GPS	20120706	27.65	27.56	r_down	
-GPS	20120709	27.56	27.87	r_up	
-GPS	20120710	27.87	27.38	r_down	
-GPS	20120711	27.38	26.85	r_down	's:1
-GPS	20120712	26.85	26.87	r_up	
-GPS	20120713	26.87	27.58	r_up	
-GPS	20120716	27.58	27.65	r_up	
-GPS	20120717	27.65	28.14	r_up	
-GPS	20120718	28.14	28.79	r_up	
-GPS	20120719	28.79	29.14	r_up	
-GPS	20120720	29.14	28.86	r_down	n't:1
-GPS	20120723	28.86	28.83	r_down	
-GPS	20120724	28.83	28.59	r_down	
-GPS	20120725	28.59	28.95	r_up	
-GPS	20120726	28.95	29.31	r_up	apparel:1 brighter:1 other:1 stocks:1
-GPS	20120727	29.31	29.57	r_up	
-GPS	20120730	29.57	29.48	r_down	
-GPS	20120731	29.48	29.15	r_down	
-GPS	20120801	29.15	29.08	r_down	may:1 sales:1 better:1 turn:1 expected:1 than:1 out:1
-GPS	20120802	29.08	32.79	r_up	gaining:1 school:1 's:1 may:1 blessing:1 well:1 sales:1 back:1 mixed:1 upside:1 retailers:1 biggest:1 stocks:1 bode:1 declining:1
-GPS	20120803	32.79	33.08	r_up	
-GPS	20120806	33.08	33.36	r_up	
-GPS	20120807	33.36	33.55	r_up	
-GPS	20120808	33.55	34.24	r_up	
-GPS	20120809	34.24	34.02	r_down	
-GPS	20120810	34.02	33.82	r_down	play:1 retail:1 turnaround:1
-GPS	20120813	33.82	34.23	r_up	
-GPS	20120814	34.23	34.21	r_down	
-GPS	20120815	34.21	34.21	r_up	sector:1 quarterly:1 divided:1 's:1 results:1
-GPS	20120816	34.21	33.95	r_down	sector:1 lead:1 watch:3 29:1 slide:1 retail:1
-GPS	20120817	33.95	35.58	r_up	week:1 flat:1 confidence:1 after:1 's:1 ahead:1 6th:1 straight:1 futures:1 slump:1 29:2 shares:1 data:1 hours:1 advisories:1 gain:1 surprises:1 chips:1 500:1 higher:1
-GPS	20120820	35.58	34.93	r_down	
-GPS	20120821	34.93	34.91	r_down	
-GPS	20120822	34.91	34.89	r_down	
-GPS	20120823	34.89	34.57	r_down	
-GPS	20120824	34.57	34.72	r_up	
-GPS	20120827	34.72	34.69	r_down	
-GPS	20120828	34.69	34.71	r_up	1.05:2 's:2 $:2
-GPS	20120829	34.71	34.77	r_up	watch:1
-GPS	20120830	34.77	35.7	r_up	kids:1 's:1 sales:1 n't:1 retailers:1 save:1 boost:1
-GPS	20120831	35.7	35.41	r_down	
-GPS	20120904	35.41	35.4	r_down	
-GPS	20120905	35.4	35.04	r_down	
-GPS	20120906	35.04	35.68	r_up	
-GPS	20120907	35.68	35.52	r_down	
-GPS	20120910	35.52	35.07	r_down	stocks:1 find:1 ‘turnaround’:1
-GPS	20120911	35.07	34.73	r_down	
-GPS	20120912	34.73	35.13	r_up	
-GPS	20120913	35.13	35.24	r_up	apparel:1 up:1 have:1 leg:1
-GPS	20120914	35.24	34.8	r_down	
-GPS	20120917	34.8	35.64	r_up	
-GPS	20120918	35.64	35.6	r_down	
-GPS	20120919	35.6	35.52	r_down	
-GPS	20120920	35.52	35.72	r_up	
-GPS	20120921	35.72	35.77	r_up	
-GPS	20120924	35.77	35.48	r_down	
-GPS	20120925	35.48	35.05	r_down	
-GPS	20120926	35.05	34.86	r_down	then:1 conquer:1 looks:1
-GPS	20120927	34.86	34.97	r_up	
-GPS	20120928	34.97	35.37	r_up	
-GPS	20121001	35.37	35.69	r_up	
-GPS	20121002	35.69	35.72	r_up	
-GPS	20121003	35.72	36.33	r_up	10:1 's:1
-GPS	20121004	36.33	36.67	r_up	stocks:1 watch:1 sales:1 ahead:1
-GPS	20121005	36.67	36.8	r_up	raise:1 surprises:1 sales:1 holidays:1 advisories:1 flags:1 red:1
-GPS	20121008	36.8	36.97	r_up	
-GPS	20121009	36.97	36.4	r_down	
-GPS	20121010	36.4	36.32	r_down	
-GPS	20121011	36.32	36.04	r_down	million-dollar:1 challenge:1 retail:1 's:1 rent:1
-GPS	20121012	36.04	35.81	r_down	
-GPS	20121015	35.81	35.98	r_up	
-GPS	20121016	35.98	36.66	r_up	
-GPS	20121017	36.66	36.49	r_down	
-GPS	20121018	36.49	36.88	r_up	
-GPS	20121019	36.88	36.07	r_down	
-GPS	20121022	36.07	35.87	r_down	
-GPS	20121023	35.87	35.18	r_down	
-GPS	20121024	35.18	35.22	r_up	
-GPS	20121025	35.22	34.88	r_down	
-GPS	20121026	34.88	35.12	r_up	
-GPS	20121031	35.12	35.43	r_up	
-GPS	20121101	35.43	35.36	r_down	small:1 impact:1 see:1
-GPS	20121102	35.36	34.82	r_down	
-GPS	20121105	34.82	35.08	r_up	may:1 trouble:1 2.1:2 2013:1 headed:1
-GPS	20121106	35.08	35.65	r_up	
-GPS	20121107	35.65	34.97	r_down	
-GPS	20121108	34.97	33.79	r_down	
-GPS	20121109	33.79	33.35	r_down	
-GPS	20121112	33.35	33.23	r_down	
-GPS	20121113	33.23	33.42	r_up	
-GPS	20121114	33.42	33.36	r_down	
-GPS	20121115	33.36	32.99	r_down	decline:1 gains:1 after:1 60:1 hours:1 shares:1 earnings:1
-GPS	20121116	32.99	33.32	r_up	's:1 signal:1 futures:1 up:1 competitive:1 60:3 reported:1 sequester:1 plan:1 retailers:1 holiday:1
-GPS	20121119	33.32	34.15	r_up	en:1 français:1
-GPS	20121120	34.15	34.62	r_up	
-GPS	20121121	34.62	34.86	r_up	countdown:1 retail’s:1
-GPS	20121123	34.86	35.21	r_up	biggest:1 gaining:1 stocks:1 declining:1
-GPS	20121126	35.21	35.33	r_up	
-GPS	20121127	35.33	34.86	r_down	may:1 not:1 save:1 sales:1
-GPS	20121128	34.86	35.53	r_up	
-GPS	20121129	35.53	34.08	r_down	's:1
-GPS	20121130	34.08	34.18	r_up	holiday:1 miss:1 raises:1 stake:1
-GPS	20121203	34.18	34.23	r_up	
-GPS	20121204	34.23	30.69	r_down	
-GPS	20121205	30.69	31.55	r_up	fiscal:1 lower:1 star:1 movers:1 view:1 edge:1 wishes:1 biggest:1 stocks:1 cliff:1
-GPS	20121206	31.55	31.7	r_up	again:1 25:1 wrong:1 proves:1 skeptics:1 once:1
-GPS	20121207	31.7	31.55	r_down	
-GPS	20121210	31.55	30.64	r_down	
-GPS	20121211	30.64	31.56	r_up	
-GPS	20121212	31.56	31.17	r_down	
-GPS	20121213	31.17	31.21	r_up	
-GPS	20121214	31.21	31.19	r_down	
-GPS	20121217	31.19	31.65	r_up	now:1 money:1 true-blue:1 5:1 bull:1 making:1 moves:1
-GPS	20121218	31.65	31.76	r_up	
-GPS	20121219	31.76	31.9	r_up	
-GPS	20121220	31.9	31.49	r_down	
-GPS	20121221	31.49	31.11	r_down	10:1 money-making:1 investment:1 2013:1 ideas:1
-GPS	20121224	31.11	31.11	r_up	biggest:1 gaining:1 stocks:1 declining:1
-GPS	20121226	31.11	30.15	r_down	hustle:1 retailers’:1 stakes:1
-GPS	20121227	30.15	30.44	r_up	gaining:1 stocks:1 would:1 spring:1 sales:1 biggest:1 strike:1 threaten:1 retail:1 declining:1
-GPS	20121228	30.44	30.31	r_down	
-GPS	20121231	30.31	30.91	r_up	disappointing:1 gird:1 sales:1
-GPS	20130102	30.91	31.24	r_up	
-GPS	20130103	31.24	31.96	r_up	gaining:1 n't:1 $:2 post-cliff:1 futures:1 breather:1 note:1 start:1 130:2 jittery:1 year:1 biggest:1 new:1 stocks:1 declining:1 stock:1
-GPS	20130104	31.96	31.97	r_up	remains:1 call:1 war:1 tug:1
-GPS	20130107	31.97	31.07	r_down	
-GPS	20130108	31.07	31.88	r_up	
-GPS	20130109	31.88	31.68	r_down	
-GPS	20130110	31.68	31.22	r_down	
-GPS	20130111	31.22	31.58	r_up	
-GPS	20130114	31.58	31.26	r_down	‘mini:1 gather:1 industry’s:1
-GPS	20130115	31.26	32.33	r_up	
-GPS	20130116	32.33	32.48	r_up	
-GPS	20130117	32.48	32.71	r_up	deals:1 sector:1 retail:1 2013:1 year:1
-GPS	20130118	32.71	32.83	r_up	
-GPS	20130122	32.83	32.72	r_down	
-GPS	20130123	32.72	32.51	r_down	
-GPS	20130124	32.51	33.04	r_up	
-GPS	20130125	33.04	33.4	r_up	
-GPS	20130128	33.4	32.9	r_down	
-GPS	20130129	32.9	32.62	r_down	
-GPS	20130130	32.62	32.71	r_up	
-GPS	20130131	32.71	32.55	r_down	
-GPS	20130201	32.55	32.84	r_up	
-GPS	20130204	32.84	32.46	r_down	
-GPS	20130205	32.46	33.15	r_up	
-GPS	20130206	33.15	33.08	r_down	
-GPS	20130207	33.08	32.1	r_down	8:1
-GPS	20130208	32.1	32.1	r_up	
-GPS	20130211	32.1	32.45	r_up	
-GPS	20130212	32.45	31.98	r_down	
-GPS	20130213	31.98	31.71	r_down	
-GPS	20130214	31.71	31.23	r_down	
-GPS	20130215	31.23	32.75	r_up	
-GPS	20130219	32.75	32.51	r_down	
-GPS	20130220	32.51	32.16	r_down	
-GPS	20130221	32.16	31.92	r_down	
-GPS	20130222	31.92	31.83	r_down	's:1
-GPS	20130225	31.83	31.09	r_down	
-GPS	20130226	31.09	31.66	r_up	
-GPS	20130227	31.66	32.38	r_up	
-GPS	20130228	32.38	32.79	r_up	
-GPS	20130301	32.79	33.73	r_up	drop:1 global:1 shares:1 hours:1 looms:1 trading:1 gain:1 stock:1 data:1 after:1 futures:1
-GPS	20130304	33.73	33.51	r_down	
-GPS	20130305	33.51	34.24	r_up	
-GPS	20130306	34.24	34.32	r_up	's:1 ahead:1 focus:1 sales:1 5:1 retailers:1
-GPS	20130307	34.32	35.72	r_up	cautious:1 's:1 give:1 sales:1 retailers:1 hope:1
-GPS	20130308	35.72	36.08	r_up	's:1
-GPS	20130311	36.08	36.23	r_up	
-GPS	20130312	36.23	36.38	r_up	
-GPS	20130313	36.38	36.5	r_up	
-GPS	20130314	36.5	36.42	r_down	
-GPS	20130315	36.42	36.24	r_down	
-GPS	20130318	36.24	36.3	r_up	
-GPS	20130319	36.3	35.7	r_down	issue:1 shares:1 puts:1 sale:1
-GPS	20130320	35.7	35.81	r_up	
-GPS	20130321	35.81	35.28	r_down	
-GPS	20130322	35.28	35.51	r_up	
-GPS	20130325	35.51	35.84	r_up	
-GPS	20130326	35.84	34.89	r_down	blame:1 game:1 weather:1 joins:1
-GPS	20130327	34.89	35.13	r_up	movers:1 jumps:1 500:1 lead:1 2012:1
-GPS	20130328	35.13	35.26	r_up	
-GPS	20130401	35.26	35.06	r_down	
-GPS	20130402	35.06	35.59	r_up	these:1 apparel:1 fear:1 analyst:1 retailers:1
-GPS	20130403	35.59	35.89	r_up	
-GPS	20130404	35.89	36.5	r_up	
-GPS	20130405	36.5	36.5	r_up	
-GPS	20130408	36.5	36.85	r_up	
-GPS	20130409	36.85	36.74	r_down	
-GPS	20130410	36.74	37.19	r_up	
-GPS	20130411	37.19	37.9	r_up	watch:1
-GPS	20130412	37.9	38.18	r_up	1:1
-GPS	20130415	38.18	36.93	r_down	
-GPS	20130416	36.93	37.78	r_up	
-GPS	20130417	37.78	37.1	r_down	
-GPS	20130418	37.1	37.2	r_up	next:1 growth:1 plan:1 phase:1 out:1 lays:1
-GPS	20130419	37.2	37.0	r_down	's:1
-GPS	20130422	37.0	36.66	r_down	
-GPS	20130423	36.66	36.77	r_up	
-GPS	20130424	36.77	36.87	r_up	
-GPS	20130425	36.87	37.43	r_up	
-GPS	20130426	37.43	37.49	r_up	
-GPS	20130429	37.49	37.51	r_up	
-GPS	20130430	37.51	37.99	r_up	3:1
-GPS	20130501	37.99	37.57	r_down	
-GPS	20130502	37.57	37.97	r_up	
-GPS	20130503	37.97	38.81	r_up	
-GPS	20130506	38.81	38.45	r_down	
-GPS	20130507	38.45	39.04	r_up	
-GPS	20130508	39.04	38.76	r_down	
-GPS	20130509	38.76	38.81	r_up	
-GPS	20130510	38.81	40.99	r_up	week:1 stocks:1 gains:1 third:1 movers:1 rise:1 records:1 set:1 notch:1 weekly:1
-GPS	20130513	40.99	40.29	r_down	
-GPS	20130514	40.29	40.88	r_up	
-GPS	20130515	40.88	41.02	r_up	
-GPS	20130516	41.02	40.59	r_down	
-GPS	20130517	40.59	40.96	r_up	
-GPS	20130520	40.96	41.06	r_up	bricks:1 dollars:1 into:1 clicks:1
-GPS	20130521	41.06	41.67	r_up	's:1
-GPS	20130522	41.67	41.04	r_down	
-GPS	20130523	41.04	41.36	r_up	jumps:1 after:1 watch:1 hours:1 tanks:1 stocks:1
-GPS	20130524	41.36	40.64	r_down	
-GPS	20130528	40.64	40.52	r_down	
-GPS	20130529	40.52	39.37	r_down	's:1
-GPS	20130530	39.37	39.99	r_up	
-GPS	20130531	39.99	40.55	r_up	
-GPS	20130603	40.55	40.55	r_up	
-GPS	20130604	40.55	40.93	r_up	
-GPS	20130605	40.93	40.25	r_down	
-GPS	20130606	40.25	40.98	r_up	quarterly:1 loss:1 n't:1 tanks:1 after-hours:1
-GPS	20130607	40.98	42.09	r_up	
-GPS	20130610	42.09	41.57	r_down	
-GPS	20130611	41.57	41.04	r_down	's:1
-GPS	20130612	41.04	40.63	r_down	
-GPS	20130613	40.63	41.39	r_up	
-GPS	20130614	41.39	41.48	r_up	
-GPS	20130617	41.48	41.78	r_up	
-GPS	20130618	41.78	42.34	r_up	
-GPS	20130619	42.34	41.74	r_down	
-GPS	20130620	41.74	40.74	r_down	
-GPS	20130621	40.74	41.32	r_up	work:1 yoga:1
+GPS	20140501	38.8	39.3	r_up	apparel:1 format:1 discounts:1 developing:1 had:1 sales:1 difficulty:1 have:1 without:1 aimed:1 retailers:1 boosting:1 shoppers:1 new:1 called:1 help:1
+GPS	20140502	39.3	38.8	r_down	
+GPS	20140505	38.8	39.4	r_up	
+GPS	20140506	39.4	38.9	r_down	sell:1 billion:1 giant:1 would:1 plans:1 offering:1 initial:1 $:1 shares:1 than:1 value:1 filed:1 100:1 public:1 more:1
+GPS	20140507	38.9	38.3	r_down	all:1 help:1 just:1 domestic:1 month:1 manager:1 looks:1 near:1 zone:1 rose:1 had:2 should:1 better:1 compelling:1 policy:1 2014:2 might:1 good:2 far:1 cheap:1 inflation:3 despite:1 quarters:1 banner:1 ruled:1 third-straight:1 stimulus:1 steps:1 small:1 entirely:1 deal:1 some:1 euro-zone:2 likely:2 economic:1 expect:1 newsletter:1 best:1 out:1 even:1 gross:1 proceeding:1 since:1 projected:1 profitability:1 7:1 mend:1 new:1 public:1 beleaguered:1 wo:1 stay:1 prospects:1 many:2 could:1 annual:1 according:1 reports:1 stand:1 faces:1 first:1 initial:1 economists:1 point:1 ca:1 one:1 offerings:1 accounts:1 size:1 given:1 additional:1 second:1 start:1 there:1 been:1 needed:1 2:2 rates:2 biggest:1 buy:1 company:2 but:1 quarterly:1 signaling:1 than:1 case:1 target:2 challenge:1 up:1 n't:3 below:3 growth:3 history:1 months:1 investors:1 sales:1 0.7:1 unveiled:1 occur:1 if:1 pat:1 recovery:2 suggest:1 stock:1 meets:1 product:1 's:4 though:1 convincing:1 forecasts:1 prepares:1 data:1 euro:2 well:1 without:1 2006:1 easing:1
+GPS	20140508	38.3	38.8	r_up	heavy:1 stores:3 gauges:1 into:2 estimates:1 sales:6 marked:1 month:1 helped:2 tracked:1 second:1 warmer:2 topped:1 have:1 year:1 open:1 index:1 three:1 missed:1 same-store:1 expectations:1 least:1 while:1 shoppers:2 consecutive:1 holiday:2 metric:1 higher:2 modestly:1 's:2 regional:1 results:1 eight:1 sharply:1 posted:3 lower:1 --:4 industry:1 later:2 companies:1 discounter:1 temperatures:2 retailers:1 push:2
+GPS	20140509	38.8	40.1	r_up	operations:1 less:1 issued:1 named:1 trade:3 session:3 its:1 whose:1 20:1 $:2 rose:1 same-store:1 expectations:1 platform:1 willing:1 promoting:1 premarket:1 poised:1 has:1 gave:1 rise:1 watch:1 using:1 him:1 bigger:1 companies:4 twice:1 quarter:2 better-than-expected:1 billion:1 deal:1 jump:1 streaming:1 see:1 actively:2 3.2:1 year:2 's:4 initiatives:1 said:1 profit:1 shares:6 forecast:1 current:1 new:1 quietly:1 reported:1 diners:1 active:2 cautious:1 acquiring:1 could:1 climbed:1 equal:1 reports:1 socked:1 slightly:1 think:1 first:1 outlook:1 revenue:2 retailer:2 number:1 market:1 decline:1 service:1 bears:1 been:1 music:1 expected:3 upbeat:1 buybacks:1 company:3 surged:1 grew:1 announcing:1 notches:1 pace:1 while:1 future:1 stronger-than-expected:1 sales:4 engineering:1 have:1 close:1 rally:1 stint:1 4.5:1 49:1 make:1 topped:1 41:1 which:1 9:1 performance:1 dips:1 stock:1 lid:1 first-quarter:1 after:2 such:1 stocks:1 fiscal:1 kept:1 maker:2 apparel:2 reward:1
+GPS	20140512	40.1	40.6	r_up	both:1 stress:1 chains:1 promising:1 stealing:1 negative:1 steadily:1 turn:1 malls:2 time:1 have:1 half:1 traffic:1 tenants:1 anchor:1 more:1
+GPS	20140513	40.6	40.8	r_up	
+GPS	20140514	40.8	40.8	r_up	state-run:1 people:1 over:1 retailer:1 sales:1 anger:1 violent:1 accused:1 need:1 rig:1 if:1 may:1 setting:1 capital:1 dozens:1 company:1 do:1 oil:1 disputed:1 fire:1 waters:1 pick:1 infusion:1 factories:1 up:1 n't:1 placed:1 near:1 became:1 were:1
+GPS	20140515	40.8	40.2	r_down	
+GPS	20140516	40.2	41.0	r_up	billion:1 200:1 raised:1 said:1 $:3 world:1 venture-capital:1 million:1 valuable:1 one:1 most:1 5:2 making:1 backed:1 values:1 startups:1 investment:1
+GPS	20140519	41.0	40.7	r_down	firm:1 drops:1 return:1 bring:1 becoming:1 back:1 ‘black:1 swan’:1 likely:1 usher:1 take:1 holding:1 making:1 during:1 more:2 stock:2 true:1 event:1 market:1 volatility:2
+GPS	20140520	40.7	39.8	r_down	exploring:1 stores:1 elsewhere:1 ahead:1 opening:1 sale:1 retailer:1 two:1 expansion:1 possible:1 growth:1 listing:1 new:1 avenues:1 pursues:1
+GPS	20140521	39.8	40.1	r_up	even:1 's:1 raise:1 companies:1 minimum-wage:1 workers:1 administration:1 their:1 officials:1 push:1 wages:1 voluntarily:1
+GPS	20140522	40.1	40.4	r_up	outlook:1 investors:1 bigger-than-expected:1 reaffirmed:1 retailer:1 month:1 jump:1 full-year:1 session:1 accounts:1 signs:1 's:1 its:1 market:1 gains:2 decline:1 stocks:1 jobless:2 22:1 shares:1 their:1 cooling:1 earnings:1 weakening:1 expected:1 those:1 stock:3 borrowed:1 pare:2 currencies:1 first-quarter:1 which:1 see:1 showing:1 watch:1 hurt:1 reported:1 fell:1 straight:1 active:1 brokerage:1 debt:1 trade:1 following:1 taking:1 futures:2 second:1 against:1 foreign:1 amount:1 figures:1 apparel:1 claims:2 margin:1 example:1 comes:1 latest:1
+GPS	20140523	40.4	40.7	r_up	up:1 significantly:1 core:1 sales:2 retailer:1 soon:1 offerings:1 month:1 challenges:1 widened:1 see:1 session:3 anticipating:1 have:3 during:1 first-quarter:1 fear:1 children:1 down:1 whose:1 stocks:1 much:1 their:1 been:1 had:1 shares:5 indexes:1 few:1 unable:1 earnings:2 which:2 expected:3 release:2 vanished:1 has:2 markets:1 day:1 stock:1 teen:2 fiscal:1 's:4 business:1 after:2 watch:1 stem:1 early:3 shoppers:1 graphic:1 arrived:1 nearly:1 lower-than-expected:1 active:1 2:2 trade:3 continued:1 falling:1 change:1 doldrums:1 loss:1 basics:1 especially:1 anything:1 following:1 chains:1 barely:1 companies:3 faced:1 anytime:1 n't:1 slide:2 actively:2 apparel:1 closing:1 retail:1 its:2
+GPS	20140527	40.7	40.5	r_down	persists:1 's:1 may:1 pay:1 top:1 men:1 companies:1 but:1 gap:1 running:1 they:1 terms:1 closing:1 bit:1 women:1
+GPS	20140528	40.5	40.5	r_up	styles:1 sizing:1 ``:2 trending:1 yoga:1 industry:1 relaxed:1 rise:1 tops:1 term:1 system:1 '':2 other:1 including:1 fashions:1 alpha:1 now:1 casual:1 pants:1
+GPS	20140529	40.5	40.4	r_down	all:2 garment:2 slashed:1 valuable:1 unrest:1 violent:2 wages:2 orders:2 really:1 asks:1 workers:2 political:1 crackdown:2 strike:2 has:2 worth:1 more:2 nationwide:2 company:1 after:2 but:1 demand:2 put:1 factories:2 than:2 manufacturer:1 great:1 these:2 amid:1 companies:2 together:1 country:1 higher:2 reduced:1
+GPS	20140530	40.4	40.8	r_up	
+GPS	20140602	40.8	41.0	r_up	
+GPS	20140603	41.0	40.2	r_down	seven:1 transition:1 old:1 facility:1 within:2 retire:2 years:2 past:1 62:1 our:2 financial:1 should:1 said:3 kids:2 decision:1 initial:1 been:1 next:2 conduct:1 new:1 has:1 sufficient:1 duties:1 greatest:1 team:1 we:2 his:4 's:4 finance:1 offering:1 company:5 assist:1 joined:1 part:1 regulatory:1 post:2 one:1 successor:1 search:1 12:2 --:1 months:2 allows:1 according:1 can:1 public:1 work:1 skills:1 chief:2 2007:1 time:1 management:1 model:1 led:1 filing:1 talk:1
+GPS	20140604	40.2	40.7	r_up	
+GPS	20140605	40.7	40.7	r_up	promotions:1 said:1 boost:1 top:1 overall:1 sales:1 surge:1 helped:2 weather:1 warmer:1 expectations:1 report:1 traffic:1 strong:1 continued:1 results:1 improve:1
+GPS	20140606	40.7	41.6	r_up	major:1 tap:1 picked:1 garment:1 retailer:2 lifted:1 2nd:1 helped:2 weighting:1 trends:1 weather:1 warmer:1 have:2 results:2 posting:1 one:1 index:1 said:2 end:1 weekend:1 top:1 since:1 two:1 only:1 which:1 quarterly:1 consecutive:1 weeks:1 many:1 boost:1 teen:1 promotions:1 's:1 plans:1 month:2 hefty:1 becoming:1 each:1 overall:1 sales:3 produce:1 traffic:2 recent:1 disappoint:1 during:1 years:1 continued:2 expectations:1 improve:1 ago:1 toward:1 improved:1 third:1 sanctions:1 --:1 country:1 industry:1 up:1 reports:1 surge:1 mall:1 retailers:1 were:1 apparel:2 retail:1 noted:1 first:1
+GPS	20140609	41.6	41.3	r_down	
+GPS	20140610	41.3	40.8	r_down	ago:1 major:1 years:1 tap:1 deal:1 sanctions:1 country:1 industry:1 since:1 retailer:1 lifted:1 signed:1 two:1 see:1 were:1 garment:1 apparel:1 become:1 has:1 's:1 first:1
+GPS	20140611	40.8	40.5	r_down	working:1 's:1 redemption:1 investors:1 clearer:1 should:1 signs:1 efforts:1 wait:1
+GPS	20140612	40.5	40.3	r_down	outlook:1 said:1 financial:1 would:1 plunged:1 after:1 retailer:1 retire:1 chief:1 lowered:1 officer:1 year:1 its:2
+GPS	20140613	40.3	40.6	r_up	
+GPS	20140616	40.6	40.5	r_down	
+GPS	20140617	40.5	40.8	r_up	
+GPS	20140618	40.8	41.3	r_up	summer:1 consulting:1 official:1 widen:1 office:1 guidelines:1 euro-zone:1 individual:1 year:1 statistics:1 takes:1 consumption:1 provide:1 agency:1 pursuing:1 firm:1 's:1 interns:1 between:1 gap:1 austerity:1 continued:1 those:1 last:1 countries:1 runway:1 programs:1 companies:1 according:1 figures:1 dressing:1
+GPS	20140619	41.3	41.1	r_down	's:1 uncertainty:1 removes:1 departure:1 but:1 also:1 overhang:1 causes:1
+GPS	20140620	41.1	41.2	r_up	
+GPS	20140623	41.2	41.3	r_up	
+GPS	20140624	41.3	41.1	r_down	sector:1 retail:1 's:1 $:1 billionaire:1 offered:1 million:1 stop:1 its:1 attempts:1 foray:1 into:1 188:1 obstructing:1 local:1 than:1 more:1
+GPS	20140625	41.1	41.0	r_down	fashion:1 's:1 plans:1 brand:1 start:1 backed:1 buying:1
+GPS	20140626	41.0	40.5	r_down	wage:1 giant:1 said:1 raise:1 17:1 workers:1 next:1 average:1 minimum:1 year:1 operation:1 retail:1 starting:1 its:2 furniture:1
+GPS	20140627	40.5	40.8	r_up	own:1 just:1 poach:1 minimum:2 stalls:1 technology:1 wage:2 $:2 federal:1 pay:2 ideas:1 increase:1 their:1 other:1 7:1 forward:1 proposal:1 store:1 industries:1 sharing:1 's:1 above:1 pushing:1 others:1 trying:1 furniture:1 talent:1 like:1 hour:1 companies:1 n't:1 hikes:1 actively:1 each:1 fashion:1
+GPS	20140630	40.8	41.1	r_up	
+GPS	20140701	41.1	41.2	r_up	
+GPS	20140702	41.2	41.2	r_up	prices:1 weaker:1 's:1 --:1 dollar:1 stronger:1 iron-ore:1 trade:1 weighed:1 almost:1 earnings:1 export:1 deficit:1 biggest:1 nation:1 its:1 2013:1 posted:1
+GPS	20140703	41.2	41.5	r_up	barrels:1 adjusted:1 because:1 resurgent:1 wages:1 imports:1 into:1 domestic:1 them:1 trade:3 high:1 second:1 growth:1 reached:1 narrowed:1 should:2 its:1 said:1 $:2 5.6:1 pay:1 fix:1 petroleum:1 seasonally:1 outside:1 other:1 deficit:2 flowing:1 image:1 over:1 oil:1 partly:1 increased:1 worker:1 but:1 reflecting:1 shrank:1 demand:1 headwind:1 highest:1 problem:1 raising:1 billion:2 join:1 level:1 --:2 country:1 likely:1 fewer:1 foreign:1 record:2 remain:1 economic:1 products:1 retailers:1 output:1 overseas:1 quarter:1 writes:1
+GPS	20140707	41.5	41.4	r_down	seen:1 good:1 's:1 ideas:1 long:1
+GPS	20140708	41.4	41.0	r_down	
+GPS	20140709	41.0	41.2	r_up	
+GPS	20140710	41.2	40.7	r_down	session:1 decline:1 unexpected:1 turns:1 drop:2 retailer:1 sales:2 shares:2 same-store:1 slide:1 extended:1 apparel:1 surprise:1 after:1
+GPS	20140711	40.7	40.4	r_down	stores:1 help:1 spring:1 sales:1 slowed:1 weather:1 warmer:1 have:1 talks:2 weakened:1 federal:1 had:1 been:1 expected:1 new:1 proposal:1 has:1 more:1 gains:1 business:1 government:1 may:1 falls:1 slides:1 traffic:1 buyout:2 rises:1 than:1 customer:1 many:1 while:1 temperatures:1 retailers:1 problem:1
+GPS	20140714	40.4	40.0	r_down	needs:1 consumers:1 most:2 perhaps:1 chip:1 measures:1 up:1 except:1 go:1 critical:1 ready:1 one:1 consumer:1 revved:1 economy:1
+GPS	20140715	40.0	39.4	r_down	do:1 stores:2 consumers:1 lie:1 big:1 sneakiest:1 trick:1 thing:1 fat:1
+GPS	20140716	39.4	39.5	r_up	
+GPS	20140717	39.5	39.3	r_down	into:1 startup:1 challenges:1 economic:1 including:1 talks:1 its:1 recognition:1 plans:1 25:1 her:1 sports:1 2016:1 markets:1 's:2 gains:1 cars:1 unveil:1 expand:1 car:1 region:1 planning:1 growing:1
+GPS	20140718	39.3	39.6	r_up	
+GPS	20140721	39.6	39.2	r_down	
+GPS	20140722	39.2	39.2	r_up	
+GPS	20140723	39.2	39.7	r_up	
+GPS	20140724	39.7	39.9	r_up	
+GPS	20140725	39.9	39.7	r_down	
+GPS	20140728	39.7	40.1	r_up	
+GPS	20140729	40.1	40.1	r_up	
+GPS	20140730	40.1	40.6	r_up	
+GPS	20140731	40.6	39.9	r_down	
+GPS	20140801	39.9	39.8	r_down	
+GPS	20140804	39.8	39.9	r_up	sector:1 networking:1 broader:1 defined:1 big:1 into:1 companies:1 morning:1 generation:1 other:1 embrace:1 economy:1 another:1 new:1 ready:1 's:1 moving:1 sign:1 tech:1 software:1
+GPS	20140805	39.9	39.8	r_down	
+GPS	20140806	39.8	40.2	r_up	features:1 campaign:1 imports:1 domestic:1 trade:1 likely:1 economic:1 raises:1 second-quarter:1 sharp:1 narrowed:1 casual:1 concern:1 decline:1 creative:1 deficit:1 expected:1 new:1 boost:1 more:1 development:1 updated:1 's:3 brand:1 but:1 director:1 wear:1 demand:1 than:1 --:2 amid:1 work:1 growth:1 first:1
+GPS	20140807	40.2	39.9	r_down	sector:1 all:1 share:1 back:1 dead:1 year:1 consumers:1 been:1 performance:1 has:1 company:1 isn’t:1 life:1 may:1 price:1 after:1 but:1 coming:1 discretionary:1 recent:1 sectors:1 reports:1 suggests:1 consumer:2 weakest:1
+GPS	20140808	39.9	42.3	r_up	outlook:2 selection:1 prompted:1 reeling:1 sales:1 over:1 exercises:1 competition:1 bearish:1 helped:1 ended:1 extended:1 trading:1 brush:1 have:1 climbed:1 wider:1 further:1 projected:1 border:1 its:1 market:1 sinks:1 season:1 said:1 sentiment:1 bears:1 negative:1 latest:1 4:1 airstrikes:1 biggest:1 survey:1 company:1 events:1 store:1 low:1 week:1 gaming:1 product:1 rise:1 's:1 increased:1 led:1 far:1 big:2 showing:1 spike:1 weak:2 back:1 quarterly:1 quarter:1 slow:1 traffic:1 gain:1 fall:1 report:1 news:1 strong:1 after:1 social:1 loss:2 month:1 drops:1 off:1 ahead:1 third:1 widened:1 did:1 many:1 months:1 according:1 slumps:1 back-to-school:1 suggests:1 bad:1 so:1 can:1 retailers:2 rallies:1 military:1 stock:2 lay:1
+GPS	20140811	42.3	42.0	r_down	
+GPS	20140812	42.0	42.0	r_up	
+GPS	20140813	42.0	41.8	r_down	crazy:1 via:1 stores:2 broader:1 less:1 almost:1 money:1 customers:1 known:1 full:2 businesses:1 have:1 software-defined:1 should:1 outperforming:1 said:1 networking:1 would:1 federal:1 suggest:1 administration:1 sites:1 tend:1 their:1 state:1 potential:1 5:1 coupons:1 7:1 falling:1 local:1 touted:1 more:1 pay:2 such:1 never:1 officials:1 gear:1 crowdfunding:1 demands:1 price:2 men:2 wage:1 cheaper:1 early:1 difficulty:1 increases:1 lift:1 not:1 funding:1 data:1 than:1 raising:2 women:1 customer:1 financing:1 launch:1 boost:1 minimum:1 so:1 frequently:1 you:1 release:1 efforts:1 economy:1 having:1 ears:1
+GPS	20140814	41.8	41.9	r_up	
+GPS	20140815	41.9	41.6	r_down	
+GPS	20140818	41.6	41.8	r_up	stores:1 namesake:1 chain:1 offer:1 could:1 sales:1 but:1 up:1 patience:1 operator:1 glimmer:1 losing:1 hold:1 its:1 hope:1 if:1
+GPS	20140819	41.8	42.4	r_up	
+GPS	20140820	42.4	42.8	r_up	even:1 decline:1 sport:1 yoga:1 gear:1 instance:1 athletic:1 itself:1 outpacing:1 sports:1 participating:1 most:1 rate:2 growth:2 surging:1 demand:1 apparel:1 retail:1 market:1
+GPS	20140821	42.8	42.9	r_up	poor:1 outlook:1 narrower:1 number:1 expenses:1 helped:1 second:1 extended:1 margins:1 its:1 bottom:1 top:1 expectations:1 shares:4 other:1 earnings:3 higher:1 company’s:1 reporting:1 's:2 beat:2 company:1 rise:1 specialty:1 line:1 trade:1 after:1 lower:1 drop:1 joined:1 surge:2 while:2 session:1 retailers:1 quarter:1 slightly:1 buoy:1
+GPS	20140822	42.9	45.1	r_up	streak:1 positioned:1 stores:1 17,000:2 advisors:1 retailer:2 bring:1 reports:1 close:1 mark:1 open:2 its:1 gains:1 even:1 said:1 her:1 regulating:1 profit:2 make:1 better-than-expected:1 stocks:2 day:1 environment:1 appears:1 speech:1 too:1 fourth:1 boardroom:1 new:1 difficult:1 local:1 500:2 economy:1 them:1 's:2 plans:1 extend:1 big:1 outlets:1 industrials:1 proxy:1 they:1 despite:1 report:1 now:1 than:1 bigger:1 look:1 advance:1 regains:2 ahead:1 could:1 work:2 well:1 analysis:1 suggests:1 stories:1 retailers:1 sets:1 apparel:1 record:1 powers:1 straight:1 stakes:1
+GPS	20140825	45.1	45.4	r_up	's:1 expert:1 presence:1 looks:1 entrepreneurship:1 build:1 world:1 panel:1 women:1
+GPS	20140826	45.4	46.0	r_up	
+GPS	20140827	46.0	45.9	r_down	
+GPS	20140828	45.9	46.0	r_up	
+GPS	20140829	46.0	45.9	r_down	sector:1 's:2 help:1 attract:1 could:1 private:1 labor:2 brands:1 pitfalls:1 initiative:1 aimed:1 interest:1 improving:1 further:1 conditions:1 avoid:1 market:1
+GPS	20140902	45.9	46.1	r_up	territory:1 challenging:1 bullish:1 technical:1 breaks:1 resistance:1 high:1 all-time:1 while:1 backdrop:1 have:1 sustained:1 less-charted:1 its:1 500:1
+GPS	20140903	46.1	46.0	r_down	
+GPS	20140904	46.0	46.3	r_up	sector:2 erasing:1 goods:1 half:1 sales:1 month:1 high:2 widened:2 second:1 economic:2 year:1 years:2 narrowed:1 even:2 said:2 recovery:2 consumers:1 poorest:2 factory:1 traction:2 between:2 new:1 has:1 boost:1 richest:2 propelled:1 gap:3 worries:1 reflecting:1 demand:1 trade:1 strong:1 gained:2 disappointing:1 essentially:1 holiday:1 would:1 could:1 back-to-school:1 stronger:1 lead:1 recession:2 record:2 propels:1 retailers:1 following:2 overseas:1 retail:1
+GPS	20140905	46.3	44.4	r_down	saying:1 unexpected:2 same-store:1 pessimism:1 estimates:1 sales:4 rally:1 month:1 high:1 not:1 finish:1 stronger-than-expected:1 's:1 extended:1 skid:1 after:3 shrug:1 enticing:1 advisories:1 cares:1 remains:1 discounts:1 tried:1 question:1 shares:3 anyone:1 also:1 much:1 rates:1 raising:1 interest:1 better:1 quarterly:1 dominated:1 boost:1 start:1 500:1 higher:1 rise:2 jobs:1 sinks:1 though:1 earnings:1 earlier:1 results:1 but:1 focus:1 hours:1 reported:1 weaker-than-expected:1 fall:2 report:1 stocks:2 valuation:1 pressuring:1 roundup:1 back-to-school:1 hits:1 off:1 these:1 future:1 drop:2 companies:1 days:1 reports:1 deals:1 record:1 while:1 session:1 retailers:1 surprises:1 quarters:1 corporate:1 top:1 latest:1
+GPS	20140908	44.4	44.1	r_down	
+GPS	20140909	44.1	44.1	r_up	has:1 industry:1 never:1 stopped:1 following:1 8:1 retail:1 analyst:1
+GPS	20140910	44.1	44.0	r_down	strategic:1 blunders:1 heads:1 writes:1 retailer:1 oblivion:1 but:1 three:1 tries:1 key:1 go:1 making:1 toward:1 clothing:1
+GPS	20140911	44.0	44.0	r_up	sector:1 woes:1 some:1 have:1 spiking:1 short-covering:1 run-up:1 manufacturing:1 stretch:1 administration:1 due:1 forecast:1 has:1 stock:1 's:3 governors:1 company:1 strong:1 legs:1 programs:1 --:1 solution:1 think:1
+GPS	20140912	44.0	44.0	r_up	sector:1 buy:1 's:1 woes:1 programs:1 governors:1 administration:1 some:1 solution:1 have:1 firms:1 manufacturing:1 reluctant:1
+GPS	20140915	44.0	43.8	r_down	
+GPS	20140916	43.8	43.8	r_up	
+GPS	20140917	43.8	43.4	r_down	turmoil:1 's:2 pressured:1 profit:1 into:1 half:1 some:1 sales:1 expansion:1 economic:1 downside:1 high-growth:1 owner:1 reflecting:1 markets:1 aggressive:1 first:1
+GPS	20140918	43.4	43.6	r_up	
+GPS	20140919	43.6	43.6	r_up	designs:1 most:1 recalling:1 items:1 shelves:1 offensive:1 up:1 websites:1 keep:1 retail’s:1 episodes:1 5:1 cropping:1 retail:1 clothing:1 painful:1 history:1
+GPS	20140922	43.6	43.0	r_down	lookout:1 buyers:2 homegrown:1 's:2 assets:1 pendulum:1 increasingly:1 country:1 top:1 companies:1 been:1 years:1 brands:1 shifting:1 but:1 entrepreneurs:1 buyer:1 overseas:1 has:1 technology:1 inside:1
+GPS	20140923	43.0	42.5	r_down	
+GPS	20140924	42.5	42.8	r_up	
+GPS	20140925	42.8	42.0	r_down	
+GPS	20140926	42.0	42.2	r_up	
+GPS	20140929	42.2	41.8	r_down	begins:1 slows:1 big:1 writes:1 companies:1 next:1 thing:1 mature:1 innovation:1 technology:1
+GPS	20140930	41.8	41.4	r_down	
+GPS	20141001	41.4	41.2	r_down	
+GPS	20141002	41.2	41.7	r_up	
+GPS	20141003	41.7	41.7	r_up	foreign:1 exports:1 goods:1 increased:1 third:1 could:1 stronger:1 gap:1 quarter:1 economic:1 growth:1 demand:1 trade:1 narrowed:1 sign:1 boost:1 help:1
+GPS	20141006	41.7	41.2	r_down	
+GPS	20141007	41.2	41.2	r_up	
+GPS	20141008	41.2	41.9	r_up	head:1 lackluster:1 retailer:1 sales:1 reports:1 down:1 step:1 names:1 digital:1 apparel:1 new:1
+GPS	20141009	41.9	36.6	r_down	stores:1 just:2 reinvigorate:1 executive:1 results:1 trade:1 ended:1 session:3 its:3 retirement:1 29:1 send:1 buying:1 combo:1 quarterly:1 has:1 might:1 premium:1 returned:1 big:1 rise:1 nasty:1 day:1 volatility:1 loss:1 drop:1 companies:1 slumps:1 because:1 long-running:1 actively:1 result:1 year:3 makers:1 said:1 profit:1 shares:4 enough:1 got:1 net:2 sluggish:1 announced:1 comparable:1 recently:1 belief:1 weak:1 hours:1 step:1 change:1 advance:2 movers:1 prior:1 present:1 support:1 among:1 denim:1 retailer:1 one:1 down:1 operator:1 miss:1 mere:1 market:3 decline:1 raise:1 top:2 one-time:1 next:1 call:1 interest:2 biggest:2 rates:2 500:1 more:2 company’s:2 lot:1 estimates:1 brand:2 surges:1 slump:1 but:1 expected:1 year’s:1 raising:1 he:2 rush:1 namesake:1 triple-top:1 while:1 chip:1 sales:4 sense:1 rally:2 clothing:1 tumbled:1 no:1 delay:1 earnings:1 reversed:1 stock:2 badly:1 extended:1 's:1 may:1 after:5 tied:1 falls:1 fell:1 opportunity:1 short:1 face:1 chief:1
+GPS	20141010	36.6	36.3	r_down	week:1 10:1 style:1 has:1 led:1 lost:1 drubbing:1 writes:1 sense:1 retailer:1 its:1 stock-market:1 spread:1 apparel:1 letter:1 van:1 biggest:1 news:1 financial-market:1 troubled:1 events:1

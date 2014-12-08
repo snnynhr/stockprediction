@@ -1,307 +1,114 @@
-BMY	20120402	32.14	32.27	r_up	
-BMY	20120403	32.27	32.58	r_up	
-BMY	20120404	32.58	32.42	r_down	
-BMY	20120405	32.42	32.4	r_down	
-BMY	20120409	32.4	31.78	r_down	
-BMY	20120410	31.78	31.24	r_down	
-BMY	20120411	31.24	31.35	r_up	
-BMY	20120412	31.35	31.31	r_down	
-BMY	20120413	31.31	31.3	r_down	
-BMY	20120416	31.3	31.68	r_up	
-BMY	20120417	31.68	32.12	r_up	
-BMY	20120418	32.12	32.29	r_up	
-BMY	20120419	32.29	32.64	r_up	play:1 stocks:1 back:1 drug:1
-BMY	20120420	32.64	32.93	r_up	
-BMY	20120423	32.93	32.65	r_down	stock:1 hit:1 $:1 futures:1 1.26:1
-BMY	20120424	32.65	32.68	r_up	
-BMY	20120425	32.68	32.99	r_up	watch:1
-BMY	20120426	32.99	32.48	r_down	12:1 watch:1
-BMY	20120427	32.48	32.05	r_down	surprises:1 advisories:1
-BMY	20120430	32.05	32.1	r_up	
-BMY	20120501	32.1	32.25	r_up	
-BMY	20120502	32.25	32.22	r_down	
-BMY	20120503	32.22	32.23	r_up	
-BMY	20120504	32.23	32.1	r_down	
-BMY	20120507	32.1	32.19	r_up	
-BMY	20120508	32.19	31.95	r_down	
-BMY	20120509	31.95	31.56	r_down	
-BMY	20120510	31.56	31.93	r_up	
-BMY	20120511	31.93	31.85	r_down	's:1
-BMY	20120514	31.85	31.66	r_down	
-BMY	20120515	31.66	31.73	r_up	
-BMY	20120516	31.73	31.76	r_up	
-BMY	20120517	31.76	31.5	r_down	
-BMY	20120518	31.5	31.48	r_down	
-BMY	20120521	31.48	31.47	r_down	
-BMY	20120522	31.47	31.58	r_up	
-BMY	20120523	31.58	31.28	r_down	
-BMY	20120524	31.28	31.74	r_up	
-BMY	20120525	31.74	31.83	r_up	
-BMY	20120529	31.83	32.07	r_up	n't:1
-BMY	20120530	32.07	32.21	r_up	
-BMY	20120531	32.21	32.07	r_down	
-BMY	20120601	32.07	32.06	r_down	
-BMY	20120604	32.06	32.38	r_up	watch:1 's:2
-BMY	20120605	32.38	32.61	r_up	
-BMY	20120606	32.61	32.75	r_up	
-BMY	20120607	32.75	32.95	r_up	
-BMY	20120608	32.95	33.06	r_up	
-BMY	20120611	33.06	32.88	r_down	
-BMY	20120612	32.88	32.95	r_up	
-BMY	20120613	32.95	32.91	r_down	
-BMY	20120614	32.91	33.24	r_up	
-BMY	20120615	33.24	32.93	r_down	
-BMY	20120618	32.93	33.26	r_up	's:1
-BMY	20120619	33.26	33.51	r_up	
-BMY	20120620	33.51	33.42	r_down	
-BMY	20120621	33.42	33.47	r_up	
-BMY	20120622	33.47	34.02	r_up	
-BMY	20120625	34.02	32.83	r_down	's:3
-BMY	20120626	32.83	33.21	r_up	3:1 $:1
-BMY	20120627	33.21	33.76	r_up	3:1 watch:1 $:1
-BMY	20120628	33.76	33.75	r_down	
-BMY	20120629	33.75	34.58	r_up	5.3:1 $:1
-BMY	20120702	34.58	34.68	r_up	gaining:1 's:2 watch:1 biggest:1 stocks:1 declining:1
-BMY	20120703	34.68	33.9	r_down	
-BMY	20120705	33.9	33.77	r_down	
-BMY	20120706	33.77	33.61	r_down	
-BMY	20120709	33.61	34.01	r_up	
-BMY	20120710	34.01	33.72	r_down	
-BMY	20120711	33.72	33.59	r_down	
-BMY	20120712	33.59	33.9	r_up	
-BMY	20120713	33.9	34.35	r_up	
-BMY	20120716	34.35	34.41	r_up	
-BMY	20120717	34.41	34.94	r_up	bull/bear:1 battleground:1
-BMY	20120718	34.94	35.05	r_up	
-BMY	20120719	35.05	35.11	r_up	n't:1 3:1 's:1
-BMY	20120720	35.11	34.4	r_down	n't:2 3:2
-BMY	20120723	34.4	33.96	r_down	
-BMY	20120724	33.96	33.73	r_down	
-BMY	20120725	33.73	33.94	r_up	watch:2 28:1
-BMY	20120726	33.94	34.77	r_up	19:1
-BMY	20120727	34.77	35.01	r_up	
-BMY	20120730	35.01	34.6	r_down	
-BMY	20120731	34.6	34.57	r_down	25:1 's:2
-BMY	20120801	34.57	34.57	r_up	
-BMY	20120802	34.57	31.61	r_down	biggest:1 gaining:1 12:1 stocks:1 declining:1
-BMY	20120803	31.61	31.7	r_up	news:1 bad:1 good:1 analysts:1 rivals:1
-BMY	20120806	31.7	31.65	r_down	
-BMY	20120807	31.65	31.6	r_down	
-BMY	20120808	31.6	31.17	r_down	
-BMY	20120809	31.17	30.85	r_down	4.4:1 5.3:1 's:1 $:2 1:1 1.26:2
-BMY	20120810	30.85	30.81	r_down	500:1
-BMY	20120813	30.81	30.66	r_down	
-BMY	20120814	30.66	30.81	r_up	
-BMY	20120815	30.81	30.96	r_up	
-BMY	20120816	30.96	31.0	r_up	
-BMY	20120817	31.0	30.66	r_down	
-BMY	20120820	30.66	30.78	r_up	
-BMY	20120821	30.78	30.71	r_down	
-BMY	20120822	30.71	30.89	r_up	
-BMY	20120823	30.89	31.22	r_up	
-BMY	20120824	31.22	31.63	r_up	watch:1 1.8:3 $:3 's:1
-BMY	20120827	31.63	31.94	r_up	
-BMY	20120828	31.94	32.01	r_up	's:1
-BMY	20120829	32.01	31.95	r_down	
-BMY	20120830	31.95	31.92	r_down	10:2
-BMY	20120831	31.92	32.06	r_up	
-BMY	20120904	32.06	32.18	r_up	
-BMY	20120905	32.18	32.12	r_down	
-BMY	20120906	32.12	32.53	r_up	
-BMY	20120907	32.53	32.34	r_down	
-BMY	20120910	32.34	32.18	r_down	
-BMY	20120911	32.18	32.59	r_up	
-BMY	20120912	32.59	32.63	r_up	
-BMY	20120913	32.63	32.74	r_up	
-BMY	20120914	32.74	32.28	r_down	biggest:1 gaining:1 stocks:1 declining:1
-BMY	20120917	32.28	32.12	r_down	
-BMY	20120918	32.12	31.95	r_down	
-BMY	20120919	31.95	31.95	r_up	
-BMY	20120920	31.95	32.12	r_up	
-BMY	20120921	32.12	32.64	r_up	
-BMY	20120924	32.64	32.89	r_up	
-BMY	20120925	32.89	32.99	r_up	
-BMY	20120926	32.99	32.69	r_down	
-BMY	20120927	32.69	32.87	r_up	
-BMY	20120928	32.87	32.78	r_down	
-BMY	20121001	32.78	32.93	r_up	
-BMY	20121002	32.93	32.97	r_up	
-BMY	20121003	32.97	32.92	r_down	
-BMY	20121004	32.92	33.05	r_up	
-BMY	20121005	33.05	33.0	r_down	
-BMY	20121008	33.0	32.92	r_down	
-BMY	20121009	32.92	32.6	r_down	
-BMY	20121010	32.6	32.63	r_up	
-BMY	20121011	32.63	32.32	r_down	
-BMY	20121012	32.32	32.46	r_up	
-BMY	20121015	32.46	33.28	r_up	
-BMY	20121016	33.28	33.48	r_up	sectors:1 rise:1 health-care:1 bank:1 buoyed:1
-BMY	20121017	33.48	33.73	r_up	
-BMY	20121018	33.73	33.64	r_down	
-BMY	20121019	33.64	33.17	r_down	
-BMY	20121022	33.17	33.39	r_up	
-BMY	20121023	33.39	32.61	r_down	
-BMY	20121024	32.61	32.42	r_down	hit:1 30:2 watch:1 drug:1 misses:1 shares:1 7:2 makers:1 earnings:1
-BMY	20121025	32.42	33.09	r_up	surprises:1 advisories:1
-BMY	20121026	33.09	32.98	r_down	
-BMY	20121031	32.98	32.62	r_down	
-BMY	20121101	32.62	32.84	r_up	's:1 14:5 480:2
-BMY	20121102	32.84	32.55	r_down	
-BMY	20121105	32.55	32.46	r_down	's:2
-BMY	20121106	32.46	32.64	r_up	
-BMY	20121107	32.64	32.0	r_down	
-BMY	20121108	32.0	31.51	r_down	
-BMY	20121109	31.51	31.62	r_up	
-BMY	20121112	31.62	31.33	r_down	
-BMY	20121113	31.33	31.26	r_down	
-BMY	20121114	31.26	30.88	r_down	
-BMY	20121115	30.88	30.22	r_down	$:1 210:1
-BMY	20121116	30.22	31.11	r_up	
-BMY	20121119	31.11	31.42	r_up	
-BMY	20121120	31.42	31.54	r_up	
-BMY	20121121	31.54	31.79	r_up	
-BMY	20121123	31.79	32.0	r_up	
-BMY	20121126	32.0	32.11	r_up	
-BMY	20121127	32.11	31.99	r_down	
-BMY	20121128	31.99	32.11	r_up	
-BMY	20121129	32.11	32.19	r_up	
-BMY	20121130	32.19	32.01	r_down	
-BMY	20121203	32.01	32.05	r_up	
-BMY	20121204	32.05	32.08	r_up	's:1
-BMY	20121205	32.08	32.17	r_up	
-BMY	20121206	32.17	32.1	r_down	
-BMY	20121207	32.1	31.94	r_down	
-BMY	20121210	31.94	32.19	r_up	10:1 2013:1
-BMY	20121211	32.19	32.44	r_up	
-BMY	20121212	32.44	32.58	r_up	's:1
-BMY	20121213	32.58	32.17	r_down	
-BMY	20121214	32.17	32.11	r_down	
-BMY	20121217	32.11	32.18	r_up	
-BMY	20121218	32.18	32.39	r_up	
-BMY	20121219	32.39	31.95	r_down	
-BMY	20121220	31.95	31.95	r_up	29.4:1 $:1
-BMY	20121221	31.95	31.94	r_down	
-BMY	20121224	31.94	31.84	r_down	
-BMY	20121226	31.84	31.73	r_down	
-BMY	20121227	31.73	31.53	r_down	
-BMY	20121228	31.53	31.29	r_down	
-BMY	20121231	31.29	31.97	r_up	
-BMY	20130102	31.97	32.44	r_up	5:1 2013:1
-BMY	20130103	32.44	32.96	r_up	
-BMY	20130104	32.96	33.07	r_up	2013:1
-BMY	20130107	33.07	33.12	r_up	
-BMY	20130108	33.12	33.21	r_up	
-BMY	20130109	33.21	33.4	r_up	
-BMY	20130110	33.4	33.8	r_up	
-BMY	20130111	33.8	33.84	r_up	
-BMY	20130114	33.84	33.93	r_up	
-BMY	20130115	33.93	34.01	r_up	
-BMY	20130116	34.01	34.04	r_up	
-BMY	20130117	34.04	33.98	r_down	
-BMY	20130118	33.98	34.17	r_up	
-BMY	20130122	34.17	34.56	r_up	2013:1
-BMY	20130123	34.56	34.61	r_up	
-BMY	20130124	34.61	35.51	r_up	after:1 's:1 sinks:1 futures:1 gain:1 data:1 earnings:1
-BMY	20130125	35.51	36.38	r_up	
-BMY	20130128	36.38	36.1	r_down	2.2:1 's:1 $:1
-BMY	20130129	36.1	36.23	r_up	
-BMY	20130130	36.23	36.31	r_up	
-BMY	20130131	36.31	35.84	r_down	
-BMY	20130201	35.84	36.6	r_up	2.2:1 $:1
-BMY	20130204	36.6	36.21	r_down	
-BMY	20130205	36.21	36.2	r_down	
-BMY	20130206	36.2	36.24	r_up	
-BMY	20130207	36.24	36.18	r_down	
-BMY	20130208	36.18	36.72	r_up	
-BMY	20130211	36.72	36.62	r_down	
-BMY	20130212	36.62	36.21	r_down	
-BMY	20130213	36.21	35.82	r_down	
-BMY	20130214	35.82	36.27	r_up	
-BMY	20130215	36.27	36.27	r_up	
-BMY	20130219	36.27	36.63	r_up	
-BMY	20130220	36.63	36.38	r_down	
-BMY	20130221	36.38	36.38	r_up	
-BMY	20130222	36.38	36.59	r_up	
-BMY	20130225	36.59	36.03	r_down	
-BMY	20130226	36.03	36.08	r_up	
-BMY	20130227	36.08	36.79	r_up	
-BMY	20130228	36.79	36.66	r_down	
-BMY	20130301	36.66	36.84	r_up	
-BMY	20130304	36.84	36.63	r_down	
-BMY	20130305	36.63	37.25	r_up	
-BMY	20130306	37.25	37.44	r_up	
-BMY	20130307	37.44	37.21	r_down	
-BMY	20130308	37.21	37.09	r_down	
-BMY	20130311	37.09	37.2	r_up	
-BMY	20130312	37.2	37.9	r_up	
-BMY	20130313	37.9	38.17	r_up	
-BMY	20130314	38.17	38.16	r_down	
-BMY	20130315	38.16	38.63	r_up	
-BMY	20130318	38.63	38.55	r_down	
-BMY	20130319	38.55	39.01	r_up	
-BMY	20130320	39.01	39.54	r_up	
-BMY	20130321	39.54	39.38	r_down	
-BMY	20130322	39.38	40.05	r_up	
-BMY	20130325	40.05	39.92	r_down	
-BMY	20130326	39.92	40.34	r_up	
-BMY	20130327	40.34	40.44	r_up	
-BMY	20130328	40.44	40.84	r_up	
-BMY	20130401	40.84	40.79	r_down	
-BMY	20130402	40.79	41.33	r_up	
-BMY	20130403	41.33	41.07	r_down	
-BMY	20130404	41.07	40.78	r_down	
-BMY	20130405	40.78	40.61	r_down	
-BMY	20130408	40.61	40.73	r_up	
-BMY	20130409	40.73	40.83	r_up	
-BMY	20130410	40.83	41.19	r_up	
-BMY	20130411	41.19	41.3	r_up	
-BMY	20130412	41.3	41.42	r_up	
-BMY	20130415	41.42	40.75	r_down	
-BMY	20130416	40.75	41.06	r_up	
-BMY	20130417	41.06	40.81	r_down	
-BMY	20130418	40.81	40.55	r_down	
-BMY	20130419	40.55	41.15	r_up	
-BMY	20130422	41.15	41.93	r_up	
-BMY	20130423	41.93	42.3	r_up	's:1
-BMY	20130424	42.3	41.45	r_down	
-BMY	20130425	41.45	40.22	r_down	stocks:1 watch:1
-BMY	20130426	40.22	40.28	r_up	surprises:1 advisories:1
-BMY	20130429	40.28	39.91	r_down	2:1
-BMY	20130430	39.91	39.72	r_down	
-BMY	20130501	39.72	39.72	r_up	
-BMY	20130502	39.72	40.01	r_up	
-BMY	20130503	40.01	40.2	r_up	
-BMY	20130506	40.2	40.02	r_down	
-BMY	20130507	40.02	40.02	r_up	
-BMY	20130508	40.02	39.68	r_down	
-BMY	20130509	39.68	39.93	r_up	
-BMY	20130510	39.93	40.49	r_up	
-BMY	20130513	40.49	40.94	r_up	
-BMY	20130514	40.94	42.21	r_up	
-BMY	20130515	42.21	44.34	r_up	
-BMY	20130516	44.34	42.77	r_down	movers:1 funds:1 lower:1 sell:1 shares:1
-BMY	20130517	42.77	43.3	r_up	
-BMY	20130520	43.3	43.76	r_up	
-BMY	20130521	43.76	44.06	r_up	's:1
-BMY	20130522	44.06	46.4	r_up	movers:1 day:1 third:1 rallies:1
-BMY	20130523	46.4	47.0	r_up	worries:1 drop:1 stocks:1 tapering:1
-BMY	20130524	47.0	47.4	r_up	
-BMY	20130528	47.4	47.68	r_up	
-BMY	20130529	47.68	46.71	r_down	
-BMY	20130530	46.71	47.02	r_up	
-BMY	20130531	47.02	46.01	r_down	
-BMY	20130603	46.01	47.59	r_up	
-BMY	20130604	47.59	46.83	r_down	late:1 stocks:1 reentry:1 after:1 trade:1 hours:1 leap:1 planned:1 rises:1 make:1 500:1
-BMY	20130605	46.83	46.17	r_down	
-BMY	20130606	46.17	47.0	r_up	n't:1
-BMY	20130607	47.0	47.5	r_up	
-BMY	20130610	47.5	47.31	r_down	
-BMY	20130611	47.31	47.29	r_down	admits:1 insider:1 executive:1 trade:1
-BMY	20130612	47.29	46.57	r_down	
-BMY	20130613	46.57	47.17	r_up	
-BMY	20130614	47.17	46.8	r_down	
-BMY	20130617	46.8	46.44	r_down	--:1 's:1 2013:1
-BMY	20130618	46.44	46.85	r_up	
-BMY	20130619	46.85	46.05	r_down	
-BMY	20130620	46.05	44.58	r_down	
-BMY	20130621	44.58	45.73	r_up	
+BMY	20140501	49.3	48.8	r_down	
+BMY	20140502	48.8	49.0	r_up	not:1 long-term:1 picture:1 big:1
+BMY	20140505	49.0	49.3	r_up	
+BMY	20140506	49.3	50.2	r_up	
+BMY	20140507	50.2	50.0	r_down	
+BMY	20140508	50.0	50.0	r_up	
+BMY	20140509	50.0	50.4	r_up	
+BMY	20140512	50.4	51.2	r_up	
+BMY	20140513	51.2	51.4	r_up	thinner:1 stomach:1 though:1 strokes:1 avoiding:1 analysis:1 better:1 brain:1 blood:1 found:1 bleeding:1 linked:1 more:1
+BMY	20140514	51.4	51.3	r_down	thinner:1 cancer:1 bleeding:1 expectations:1 brain:1 promise:1 analysis:1 have:1 stomach:1 alternative:1 linked:1 immune:1 broad:1 system:1 strategy:1 better:1 application:1 treat:1 more:1 supporting:1 strokes:1 though:1 may:1 showing:1 released:1 blood:1 than:1 types:1 widening:1 avoiding:1 disease:1 against:1 enlist:1 tumor:1 range:1 found:1
+BMY	20140515	51.3	48.2	r_down	everyone:1 recently:1 would:1 bid:1 except:1 drug:1 collaboration:1 bad:1 announced:1 writes:1 buying:1 developer:1
+BMY	20140516	48.2	48.0	r_down	upgrade:2 gains:1 profit:1 jumps:1 losses:1 analyst:1 beat:1 while:1 wake:1 earnings:1 rallies:1 rally:1 day’s:1 rebounds:1 top:1 500:1 previous:1
+BMY	20140519	48.0	48.6	r_up	
+BMY	20140520	48.6	48.0	r_down	
+BMY	20140521	48.0	48.0	r_up	their:2 dominating:1 way:1 areas:1
+BMY	20140522	48.0	48.1	r_up	
+BMY	20140523	48.1	48.0	r_down	
+BMY	20140527	48.0	48.1	r_up	climbed:1 have:1 producer:1 agreed:1 primary:1 trade:2 session:2 frequency:1 unveiled:1 reducing:1 its:2 26:1 said:2 develop:1 $:2 shares:3 deal:1 other:1 various:1 treatment:1 premarket:1 inherited:1 expected:2 therapies:1 development:1 collaborate:1 's:5 offer:1 food:1 company:1 acquire:1 met:1 goals:1 key:1 using:1 fellow:1 between:1 recent:1 billion:1 endpoint:1 attacks:1 5.5:1 early-stage:1 companies:3 roughly:1 drug:1 trial:1 patients:1 actively:2 planned:1 trading:1
+BMY	20140528	48.1	47.9	r_down	breadth:1 given:1 pipeline:1 depth:1 looks:1 its:1 best:1
+BMY	20140529	47.9	48.8	r_up	private-equity:1 illness:1 says:1 family:1 people:1 health-care:1 owned:1 old:1 still:1 insurance:1 recently:1 make:1 had:1 long:1 enough:1 sick:2 you:1 friend:1 firm:1 his:1 's:1 get:1 afford:1 familiar:1 company:1 after:1 but:1 bidding:1 died:1 he:1 medical:1 according:1 leaving:1 costs:1 diagnostics:1 situation:1
+BMY	20140530	48.8	49.0	r_up	firm:1 lawyers:1 exits:1 merger:1 larger:1 go:1 between:1 high-profile:1 now:1 heading:1
+BMY	20140602	49.0	48.3	r_down	week:1 signing:1 own:1 significantly:1 cancer:1 people:1 some:1 focus:1 smaller:1 businesses:1 drug:1 greater:1 pharmaceutical:1 their:1 deadly:1 give:1 system:1 forms:1 immune:1 potential:1 megadeal:1 body:1 's:1 collapse:1 lives:1 designed:1 last:1 companies:1 disease:1 against:1 deals:1 unleash:1
+BMY	20140603	48.3	48.2	r_down	
+BMY	20140604	48.2	46.8	r_down	
+BMY	20140605	46.8	46.5	r_down	retreats:1 reporting:1 loss:1 after:1 results:1 slumps:1 skids:1 slides:1 wider:1 while:1 quarterly:1 downgrade:2 analyst:1
+BMY	20140606	46.5	46.5	r_up	too:1 investors:1 business:1 big:1 taking:1 expect:1 they:1 spur:1 gamble:1 more:1
+BMY	20140609	46.5	45.9	r_down	billion:1 buy:1 's:1 $:2 3.85:2 hepatitis:1 --:1 5th:1 three:1 value:2 than:1 high:1 example:1 drug:1 latest:1 makers:1 putting:1 treatments:1 times:1 agreed:1 more:1
+BMY	20140610	45.9	46.2	r_up	billion:1 buy:1 's:1 $:2 deal:1 expanding:1 agreed:1 drug:1 3.85:2 products:1 hepatitis:1 portfolio:1 seen:1 maker:1
+BMY	20140611	46.2	46.2	r_up	
+BMY	20140612	46.2	46.2	r_up	
+BMY	20140613	46.2	46.4	r_up	session:1 sell:1 judge:1 said:1 's:4 version:1 federal:1 patent:1 companies:1 treatment:1 shares:1 trade:1 appeals:1 generic:1 actively:1 upheld:1 ruling:1 expected:1 court:1 allowing:1 hepatitis:1
+BMY	20140616	46.4	46.5	r_up	
+BMY	20140617	46.5	46.7	r_up	own:1 investors:1 share:1 including:1 fighting:1 its:1 ways:1 hepatitis:1 looking:1 rivals:1 boost:1 stock:1 's:4 combination:1 offer:1 forming:1 price:1 after:1 regulators:1 fast-tracking:1 plenty:1 appears:1 acquisitions:1 off:1 drug:2 upside:1 making:1 maker:1 partnerships:1
+BMY	20140618	46.7	47.3	r_up	
+BMY	20140619	47.3	47.1	r_down	's:3 form:1 people:1 study:1 million:1 two:1 disease:1 find:1 try:1 its:1 including:1 new:1 biggest:1 world:1 treatments:1 analyze:1 data:1 than:1 launched:1 more:1
+BMY	20140620	47.1	47.1	r_up	outdoor:1 could:1 ...:1 tax:1 soon:2 good:2 expect:1 another:1 our:1 close:1 find:1 special:1 e-book:1 $:1 working:1 46:1 weekend:1 nearly:1 shore:1 someone:1 much:1 grand:1 you:5 reading:1 company:1 hope:1 more:1 week:1 do:1 draw:1 buy:1 plans:1 may:1 some:2 bid:1 time:4 upon:1 rejected:1 takeover:1 advantages:1 but:1 address:1 catch:1 uncertain:1 spend:1 come:1 and..:1 billion:1 safe:1 attempt:1 have:1 rival:1 signal:1 up:2 us:1 foreign:1 perhaps:1 festivities:1 're:1 so:2 agenda:1 recall:1 clean:1 castle:1 toward:1 head:1 maker:1 latest:1
+BMY	20140623	47.1	47.3	r_up	
+BMY	20140624	47.3	47.6	r_up	ends:1 extended:1 melanoma:2 show:1 study:2 rise:1 patients:1 drug:3 early:1 higher:1 session:1 because:1 shares:2 survival:1 taking:1 rates:1 ground:1 data:1 maker:1 after:1 gain:1
+BMY	20140625	47.6	49.0	r_up	into:1 treatment:2 trade:2 catch:1 session:2 businesses:1 7.7:1 another:2 its:5 market:1 e-book:1 superior:1 said:3 melanoma:2 $:1 rose:1 two:1 shares:2 failed:1 3:1 edge:1 split:1 premarket:1 expected:2 stopped:1 has:3 public:1 board:1 independent:2 's:5 separate:1 company:2 after:1 overall:1 early:1 compared:2 therapy:2 device:1 evidence:1 panel:1 bid:1 showed:1 pursue:1 study:2 companies:3 analysis:2 --:2 actively:2 compete:1 authorized:1 survival:1 found:1 retail:1
+BMY	20140626	49.0	48.8	r_down	
+BMY	20140627	48.8	48.3	r_down	opinions:1 soon:2 trade:2 session:2 hepatitis:1 yes:1 its:2 $:1 rose:1 had:1 disclosed:1 premarket:1 administrative:1 do:1 around:1 get:1 safe:1 signal:1 companies:2 vein:1 simply:1 quarter:2 consolidate:1 people:2 some:2 second:1 actively:2 year:2 close:2 fails:1 said:1 profit:1 recorded:1 projected:1 shares:2 centers:1 surprise:1 reading:1 cost-cutting:1 we:1 quite:1 care:1 great:1 country:1 could:1 moment:1 positive:1 castle:1 first:1 enjoy:1 own:2 revenue:1 previously:1 weather:1 done:1 another:1 hospice:1 your:1 8.2:1 working:1 segment:1 visit:1 much:1 too:1 expected:3 's:5 more:2 company:2 cooperate:1 catch:1 expenses:1 than:1 grew:1 recall:1 up:3 're:1 fun:1 ...:1 health-care:1 sales:1 deep:1 general:1 helped:1 have:1 our:3 if:2 chores:1 again:1 perhaps:1 granted:1 earnings:1 grand:1 you:4 beach:1 week:1 draw:1 edged:1 plans:3 though:1 may:1 earlier:1 treatments:1 modest:1 plan:1 services:1 weekend:1 and..:1 fiscal:1 lower:1 short:1 drive:1 order:1 so:2 agenda:1 time:4 spend:2
+BMY	20140630	48.3	47.8	r_down	
+BMY	20140701	47.8	47.7	r_down	
+BMY	20140702	47.7	47.9	r_up	oncology:1 investors:1 we:2 one:1 substantial:1 rising:1 looks:1 our:1 touch:1 seen:1 its:1 before:1 stimulation:1 busy:1 cup:1 menu:1 away:1 get:1 should:1 increase:1 also:1 hot:1 interested:1 health:1 folks:1 you:1 cool:1 hope:1 mascots:1 persevere:1 ...:1 eyes:1 's:2 means:1 join:1 why:1 upon:1 flows:1 stay:1 tidbits:1 pricey:1 here:2 weeds:1 not:1 such:1 wilting:1 heat:1 day:1 those:1 care:1 shine:1 purchase:1 your:2 campus:1 odds:1 official:1 well:1 cash:1 us:2 morning:1 deals:1 're:1 can:2 shall:1 position:1 warning:1
+BMY	20140703	47.9	48.1	r_up	
+BMY	20140707	48.1	47.6	r_down	all:1 everyone:1 ...:1 there:2 meetings:1 some:1 surprisingly:1 trade:1 see:1 session:1 done:1 long:1 dual:1 touch:1 yes:1 flavor:1 approved:1 again:1 said:1 cup:1 come:1 resume:1 shares:1 your:1 stimulation:1 cope:1 're:1 treat:1 goes:1 routine:1 expected:1 you:1 has:2 company:1 hepatitis:1 hope:1 nice:1 do:1 extended:1 's:3 though:1 breaks:1 regimen:1 here:1 much:1 tidbits:1 reason:1 not:1 stay:1 weekend:1 day:1 those:1 care:1 well:1 dabble:1 deadlines:1 join:1 work:1 companies:1 us:1 morning:1 actively:1 time:1 fun:1 called:1 usual:1
+BMY	20140708	47.6	47.5	r_down	'':1 ``:1 said:1 faster:1 developing:1 giving:1 potentially:1 review:1 access:1 designated:1 leukemia:1 breakthrough:1 process:1 therapy:1 treatment:1 regulatory:1 new:1
+BMY	20140709	47.5	47.5	r_up	
+BMY	20140710	47.5	48.1	r_up	
+BMY	20140711	48.1	48.2	r_up	
+BMY	20140714	48.2	48.7	r_up	beneficial:1 deal:2 health-care:1 tax:3 head:1 marked:1 one:1 '':1 good:2 through:1 looks:1 close:2 pharmaceutical:2 giant:1 said:1 $:2 would:1 offer:1 two:1 their:1 health:1 board:1 which:1 largest:1 got:1 has:2 ``:1 buy:1 's:2 seeking:1 share:1 company:1 recommend:1 lower:1 purposes:1 burden:1 prepared:1 overseas:1 billion:1 inversion:1 like:1 success:1 these:1 54:2 industry:1 companies:3 drug:1 deals:2 itself:1 wins:1 inversions:1 efforts:1 corporate:1 think:1 latest:2
+BMY	20140715	48.7	48.3	r_down	
+BMY	20140716	48.3	48.4	r_up	body:1 better:1 million:1 's:1 $:1 cancer:1 attacks:1 type:1 cell:1 45:1 treatments:1 direct:1 aim:1 kill:1 blood:1 injectable:1 white:1 foreign:1 makes:1 cells:1 experimental:1
+BMY	20140717	48.4	48.0	r_down	
+BMY	20140718	48.0	48.7	r_up	
+BMY	20140721	48.7	48.5	r_down	
+BMY	20140722	48.5	48.7	r_up	streak:1 past:1 keeping:1 over:1 30:1 alive:1 years:1 1:1 fund:1 9:1 stock:1
+BMY	20140723	48.7	48.9	r_up	
+BMY	20140724	48.9	49.1	r_up	operations:2 body:1 latest:1 highs:1 restructure:2 cancer:2 revenue:1 cents:1 declines:1 sales:3 system:1 helped:1 itself:1 trading:1 shares:1 unveiled:1 year:1 sought:1 still:1 its:4 market:1 25:1 said:1 $:2 analyst:2 immune:1 make:1 better-than-expected:1 had:1 expectations:2 hepatitis:1 second-quarter:3 late:1 can:2 difference:1 clinical:1 earnings:3 certain:1 expected:1 new:2 start:1 treatment:1 development:1 season:1 's:4 plans:1 record:1 though:1 drugs:3 big:1 company:2 continues:1 continuing:1 but:1 focus:1 reported:1 slipped:1 historic:1 thank:1 instead:1 such:1 strong:1 than:1 areas:2 billion:1 last:1 launch:1 --:1 programs:1 disease:1 drug:2 morning:1 harness:1 fell:1 discovery:1 lends:1 push:1 more:1 stock:1 maker:1 eliminating:1 research:1
+BMY	20140725	49.1	49.0	r_down	downsizing:1 all:1 right:1 coming:1 share:1 them:1 rising:1 home:1 find:1 'll:2 goings:1 there:1 your:1 anyone:1 going:1 new:1 layoffs:1 's:1 movement:1 wants:1 we:2 someone:1 star:1 comings:1 some:1 spot:1 know:1 others:1 news:1 exciting:1 especially:1 shy:1 and…:1 us:2 n't:1 solved:1 ongoing:1 changes:1 latest:1
+BMY	20140728	49.0	49.4	r_up	
+BMY	20140729	49.4	50.6	r_up	
+BMY	20140730	50.6	50.7	r_up	
+BMY	20140731	50.7	50.2	r_down	raised:1 into:1 focus:1 analytics:1 second:1 year:1 insurance:1 plow:1 profit:1 investment:1 1:1 earnings:1 outlook:1 full:1 though:1 leveraging:1 continues:1 broker:1 net:1 pipeline:1 join:1 quarter:1 its:2
+BMY	20140801	50.2	49.4	r_down	pharmaceutical:1 giant:1 could:1 see:1 5:1 9:1
+BMY	20140804	49.4	49.6	r_up	development:1 --:1 company:1 institutions:1 research:2 joint:1 venture:1 innovations:1 technology:1 university:1 announced:1
+BMY	20140805	49.6	49.0	r_down	
+BMY	20140806	49.0	49.1	r_up	
+BMY	20140807	49.1	48.3	r_down	
+BMY	20140808	48.3	48.8	r_up	
+BMY	20140811	48.8	48.7	r_down	prompted:1 distributors:1 allegations:1 sales:1 bribery:1 warning:1 fine:1 makers:2 regulator:1 anti-trust:1 $:1 working:1 profit:1 conspiring:1 other:1 between:1 several:1 meeting:1 million:1 's:1 allegedly:1 pharmaceutical:1 1.8:1 company:1 under:1 weak:1 took:1 contends:1 pressure:1 country:1 drug:3 keep:1 large:1 generic:1 place:1 maker:1
+BMY	20140812	48.7	48.6	r_down	
+BMY	20140813	48.6	48.8	r_up	
+BMY	20140814	48.8	49.4	r_up	
+BMY	20140815	49.4	49.3	r_down	
+BMY	20140818	49.3	49.6	r_up	
+BMY	20140819	49.6	49.9	r_up	
+BMY	20140820	49.9	49.6	r_down	collaborate:1 cancer:1 study:1 immunotherapy:1 clinical:1 treatment:1 combining:1 chemotherapy:1 potential:1
+BMY	20140821	49.6	49.6	r_up	attack:1 prelude:1 price:1 controls:1
+BMY	20140822	49.6	49.8	r_up	major:1 help:1 companies:2 some:1 narcotic:1 restrict:1 curb:1 drug:1 pills:1 millions:1 ice:1 research:1 5:1 expected:1 painkillers:1 awareness:1 prescriptions:1 bid:1 taken:1 abuse:1 taking:1 bucket:1 reports:1 benefit:1 're:1 steps:1 fuel:1 challenge:1
+BMY	20140825	49.8	50.3	r_up	
+BMY	20140826	50.3	50.4	r_up	pharmaceutical:1 collaborate:1 they:1 would:1 study:1 partnership:1 companies:1 immunotherapy:1 lung-cancer:1 disease:1 looking:1 said:1 treatment:1 another:1 fighting:1 latest:1 capitalize:1 potential:1 evaluating:1
+BMY	20140827	50.4	49.9	r_down	all:1 dig:1 hepatitis:1 appreciate:1 over:1 briefly:1 trade:1 course:1 session:1 done:1 drug:1 have:2 yes:1 've:1 campus:1 approved:1 blue:1 use:1 pause:1 cup:1 life:1 menu:1 there:1 please:1 shares:1 why:1 stimulation:1 much:1 expected:1 you:3 're:1 ever:1 skies:1 ...:1 we:1 's:1 combination:1 company:1 stop:1 treatments:1 moment:1 said:1 not:1 day:2 cool:1 short:1 join:1 items:1 work:1 companies:1 finished:1 us:1 morning:1 below:1 actively:1 so:2 can:1 interesting:1 regulators:1 tasty:1 shiny:1
+BMY	20140828	49.9	50.1	r_up	5.3:1 last:1 $:1 her:1 million:1 according:1 owned:1 released:1 documents:1 least:1 year:1 husband:1 assets:1
+BMY	20140829	50.1	50.2	r_up	disclosure:1 12:1 's:1 leaders:1 last:1 situations:1 regional:1 according:1 forms:1 released:1 widely:1 year:1 banks:1 financial:1 annual:1 divergent:1
+BMY	20140902	50.2	50.2	r_up	
+BMY	20140903	50.2	50.1	r_down	
+BMY	20140904	50.1	50.1	r_up	week:1 cancer:2 cost:1 drug:1 patient:1 $:1 system:1 approved:1 immune:1 expected:1 new:2 body:1 's:2 drugs:2 hefty:1 unleash:1 regulators:1 designed:1 prices:1 class:1 kind:1 harbinger:1 tumors:1 annual:1 sale:1 against:1 command:1 promising:1 went:1 average:1 first:1
+BMY	20140905	50.1	50.7	r_up	own:1 cancer:2 process:1 sales:1 billions:1 transform:1 market:1 drugs:1 huge:1 use:1 anticipation:1 create:1 system:1 approved:1 immune:1 treatment:1 medicine:1 new:2 has:1 type:1 body:1 's:1 combat:1 pharmaceutical:1 may:1 could:1 anticipated:1 part:1 designed:1 wave:1 generate:1 industry:1 dollars:1 months:1 drug:1 tumors:1
+BMY	20140908	50.7	50.8	r_up	body:1 own:1 cancer:2 violated:1 evidence:1 promise:1 heated:1 fight:1 makers:1 market:1 out:1 develop:1 system:1 immune:1 patent:1 sites:1 its:1 late:1 also:1 clinical:1 treatment:1 which:1 between:1 new:2 type:1 method:1 therapies:1 week:1 's:1 significant:1 filed:1 hold:1 lawsuit:1 harnessing:1 both:1 last:1 alleging:1 well:1 drug:1 trial:1 race:1 laboratories:1 playing:1 latest:1
+BMY	20140909	50.8	50.1	r_down	
+BMY	20140910	50.1	50.7	r_up	
+BMY	20140911	50.7	50.3	r_down	
+BMY	20140912	50.3	49.9	r_down	downsizing:1 all:1 right:1 coming:1 share:1 them:1 rising:1 home:1 find:1 'll:2 goings:1 there:1 your:1 anyone:1 going:1 new:1 layoffs:1 's:1 movement:1 wants:1 we:2 someone:1 star:1 comings:1 some:1 spot:1 know:1 others:1 news:1 exciting:1 especially:1 shy:1 and…:1 us:2 n't:1 solved:1 ongoing:1 changes:1 latest:1
+BMY	20140915	49.9	49.6	r_down	
+BMY	20140916	49.6	50.7	r_up	
+BMY	20140917	50.7	50.5	r_down	sector:1 month:1 its:1 2.5:1 pharmaceutical:1 said:1 $:1 50,000:1 shares:1 strategy:1 interview:1 wo:1 sold:1 earlier:1 spate:1 change:1 recent:1 abandoned:1 megadeals:1 sale:1 signed:1 n't:1 planned:1 following:1 acquisition:1
+BMY	20140918	50.5	50.7	r_up	
+BMY	20140919	50.7	51.1	r_up	
+BMY	20140922	51.1	51.3	r_up	
+BMY	20140923	51.3	50.9	r_down	
+BMY	20140924	50.9	51.5	r_up	
+BMY	20140925	51.5	51.2	r_down	
+BMY	20140926	51.2	50.7	r_down	
+BMY	20140929	50.7	51.3	r_up	cancer-drug:1 conference:1 immunotherapies:2 actively:1 especially:1 offering:1 drugs:1 session:1 companies:1 's:1 shares:1 existing:1 their:1 other:1 promise:2 combined:1 expected:1 fresh:1 trade:1 data:1
+BMY	20140930	51.3	50.8	r_down	
+BMY	20141001	50.8	50.5	r_down	session:1 1.4:2 said:1 's:1 $:2 point:1 obligations:1 transfer:1 billion:1 companies:1 shares:1 trade:1 long-term:1 actively:1 pension:1 expected:1 data:1 potential:1 therapies:1 plans:1
+BMY	20141002	50.5	50.2	r_down	
+BMY	20141003	50.2	50.8	r_up	
+BMY	20141006	50.8	51.1	r_up	said:1 cancer:3 efficacy:1 trials:1 combining:1 two:1 three:1 therapies:1 clinical:1 lung:1 treatment:1 conduct:1 has:1 its:1 experimental:1 treat:1
+BMY	20141007	51.1	49.7	r_down	burdens:1 have:1 trend:1 fueling:1 billions:1 trade:1 session:1 shares:1 dual:2 retired:1 landscape:2 weaken:1 said:1 won’t:1 hepatitis:1 citing:1 other:1 treatment:2 expected:1 millions:1 treat:1 's:1 ability:1 payouts:1 drugs:1 protect:1 employers:1 promised:1 not:1 approval:2 regimen:2 off:1 pursue:2 amid:1 could:1 companies:2 cast:1 actively:1 pension:1 drops:1 workers:1 latest:1
+BMY	20141008	49.7	50.2	r_up	all:1 everyone:1 people:1 explained:1 some:1 bounce:1 middle:2 say:1 have:1 touch:1 our:2 happen:1 alternative:1 market:1 happens:1 again:1 busy:1 away:1 less:1 tomorrow:1 you:3 has:1 day:1 mascots:1 week:2 then:1 we:1 do:1 get:1 stay:1 arrived:1 cracking:1 world:1 ...:1 than:1 official:1 shine:1 short:1 lifestyle:1 adopt:1 keep:1 time:1 conquer:1
+BMY	20141009	50.2	49.5	r_down	
+BMY	20141010	49.5	50.2	r_up	

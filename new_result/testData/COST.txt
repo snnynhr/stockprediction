@@ -1,307 +1,114 @@
-COST	20120402	83.58	84.54	r_up	
-COST	20120403	84.54	83.2	r_down	
-COST	20120404	83.2	81.96	r_down	see:1 muscle:1 continued:1 sales:1 shopper:1
-COST	20120405	81.96	81.6	r_down	
-COST	20120409	81.6	80.89	r_down	
-COST	20120410	80.89	79.98	r_down	
-COST	20120411	79.98	80.38	r_up	
-COST	20120412	80.38	80.25	r_down	
-COST	20120413	80.25	79.46	r_down	's:1
-COST	20120416	79.46	79.97	r_up	
-COST	20120417	79.97	80.7	r_up	
-COST	20120418	80.7	81.07	r_up	
-COST	20120419	81.07	80.19	r_down	
-COST	20120420	80.19	80.62	r_up	
-COST	20120423	80.62	79.73	r_down	
-COST	20120424	79.73	79.56	r_down	
-COST	20120425	79.56	80.34	r_up	
-COST	20120426	80.34	81.08	r_up	
-COST	20120427	81.08	81.64	r_up	
-COST	20120430	81.64	81.17	r_down	
-COST	20120501	81.17	80.05	r_down	expected:1 slow:1 sales:1
-COST	20120502	80.05	79.75	r_down	
-COST	20120503	79.75	77.54	r_down	tests:1 surprises:1 advisories:1 turnaround:1 redesign:1 effort:1 store:1
-COST	20120504	77.54	76.76	r_down	
-COST	20120507	76.76	76.54	r_down	
-COST	20120508	76.54	76.07	r_down	
-COST	20120509	76.07	76.05	r_down	
-COST	20120510	76.05	77.21	r_up	's:1
-COST	20120511	77.21	77.87	r_up	
-COST	20120514	77.87	77.6	r_down	
-COST	20120515	77.6	77.85	r_up	's:1
-COST	20120516	77.85	78.16	r_up	
-COST	20120517	78.16	76.83	r_down	
-COST	20120518	76.83	76.34	r_down	's:2
-COST	20120521	76.34	77.07	r_up	
-COST	20120522	77.07	76.75	r_down	streak:1 bad:1
-COST	20120523	76.75	76.94	r_up	
-COST	20120524	76.94	78.02	r_up	after:1 gains:1 19:5 futures:1 mild:1 retain:1 data:1
-COST	20120525	78.02	78.02	r_up	pain:1 profit:1 surprises:1 up:1 feel:1 recession:1 19:1 advisories:1 still:1 better-than-expected:1
-COST	20120529	78.02	80.01	r_up	
-COST	20120530	80.01	79.25	r_down	seen:1 modest:1 growth:1 posting:1 sales:1
-COST	20120531	79.25	79.78	r_up	rise:1 beat:1 same-store:1 ease:1 futures:1 estimates:1 sales:1 advisories:1 economic:1 surprises:1 data:1 after:1
-COST	20120601	79.78	78.95	r_down	's:1
-COST	20120604	78.95	79.94	r_up	1-800:1
-COST	20120605	79.94	80.13	r_up	rivalry:1 into:1 dials:1 supermarket:1
-COST	20120606	80.13	81.07	r_up	
-COST	20120607	81.07	81.39	r_up	
-COST	20120608	81.39	81.95	r_up	
-COST	20120611	81.95	81.19	r_down	
-COST	20120612	81.19	81.73	r_up	
-COST	20120613	81.73	80.74	r_down	20:2
-COST	20120614	80.74	82.96	r_up	$:2 2-day:1 after:3 up:1 shares:1 falls:1 gain:1
-COST	20120615	82.96	84.45	r_up	
-COST	20120618	84.45	84.99	r_up	
-COST	20120619	84.99	84.83	r_down	
-COST	20120620	84.83	84.49	r_down	
-COST	20120621	84.49	83.49	r_down	
-COST	20120622	83.49	83.98	r_up	
-COST	20120625	83.98	83.92	r_down	
-COST	20120626	83.92	84.68	r_up	
-COST	20120627	84.68	84.34	r_down	
-COST	20120628	84.34	85.81	r_up	
-COST	20120629	85.81	87.73	r_up	
-COST	20120702	87.73	87.18	r_down	
-COST	20120703	87.18	87.2	r_up	may:1 watch:1 sales:1 years:1 3:1 smallest:1 gain:1 retail:1
-COST	20120705	87.2	86.81	r_down	drop:1 winter:1 futures:1 sales:2 melt:1 years:1 mild:1 worst:1 three:1 post:1 speaks:1
-COST	20120706	86.81	86.52	r_down	surprises:1 advisories:1
-COST	20120709	86.52	86.78	r_up	
-COST	20120710	86.78	86.63	r_down	3.6:1 attempt:1 recovery:1 market:1
-COST	20120711	86.63	87.27	r_up	
-COST	20120712	87.27	86.83	r_down	
-COST	20120713	86.83	87.56	r_up	's:1
-COST	20120716	87.56	87.87	r_up	back-to-school:1 retail:1 raises:1 stakes:1
-COST	20120717	87.87	88.71	r_up	
-COST	20120718	88.71	88.62	r_down	
-COST	20120719	88.62	88.61	r_down	
-COST	20120720	88.61	88.3	r_down	
-COST	20120723	88.3	87.17	r_down	
-COST	20120724	87.17	86.89	r_down	
-COST	20120725	86.89	86.58	r_down	
-COST	20120726	86.58	88.58	r_up	
-COST	20120727	88.58	89.68	r_up	
-COST	20120730	89.68	89.08	r_down	
-COST	20120731	89.08	88.82	r_down	
-COST	20120801	88.82	88.6	r_down	may:1 surprises:1 sales:1 better:1 turn:1 advisories:1 expected:1 than:1 out:1
-COST	20120802	88.6	88.38	r_down	school:1 's:2 may:1 well:1 sales:1 back:1 upside:1 bode:1 its:1
-COST	20120803	88.38	89.78	r_up	
-COST	20120806	89.78	89.12	r_down	
-COST	20120807	89.12	88.47	r_down	
-COST	20120808	88.47	88.57	r_up	
-COST	20120809	88.57	88.33	r_down	
-COST	20120810	88.33	88.27	r_down	2012:1
-COST	20120813	88.27	88.57	r_up	
-COST	20120814	88.57	88.61	r_up	
-COST	20120815	88.61	89.35	r_up	n't:1
-COST	20120816	89.35	89.36	r_up	
-COST	20120817	89.36	89.04	r_down	
-COST	20120820	89.04	88.93	r_down	
-COST	20120821	88.93	88.26	r_down	
-COST	20120822	88.26	88.48	r_up	
-COST	20120823	88.48	87.75	r_down	
-COST	20120824	87.75	89.15	r_up	
-COST	20120827	89.15	89.51	r_up	
-COST	20120828	89.51	89.44	r_down	
-COST	20120829	89.44	89.94	r_up	do:1 very:1 watch:1 some:1 recession:1 well:1 dogs:1
-COST	20120830	89.94	91.31	r_up	shopping:1 drives:1 sales:2 n't:1 retailers:1 retail:1 boost:1
-COST	20120831	91.31	90.65	r_down	surprises:1 central-bank:1 jitters:1 advisories:1 slammed:1 stocks:1
-COST	20120904	90.65	90.9	r_up	
-COST	20120905	90.9	90.97	r_up	
-COST	20120906	90.97	92.6	r_up	
-COST	20120907	92.6	92.36	r_down	
-COST	20120910	92.36	93.04	r_up	
-COST	20120911	93.04	92.17	r_down	
-COST	20120912	92.17	93.44	r_up	
-COST	20120913	93.44	95.17	r_up	headed:1 store:1 latest:1
-COST	20120914	95.17	94.64	r_down	retail:1 promise:1 market:1
-COST	20120917	94.64	94.7	r_up	
-COST	20120918	94.7	94.46	r_down	
-COST	20120919	94.46	94.36	r_down	
-COST	20120920	94.36	95.06	r_up	
-COST	20120921	95.06	94.8	r_down	
-COST	20120924	94.8	95.04	r_up	
-COST	20120925	95.04	93.95	r_down	
-COST	20120926	93.95	93.54	r_down	
-COST	20120927	93.54	92.9	r_down	
-COST	20120928	92.9	92.77	r_down	
-COST	20121001	92.77	93.09	r_up	
-COST	20121002	93.09	92.15	r_down	
-COST	20121003	92.15	92.27	r_up	
-COST	20121004	92.27	93.99	r_up	
-COST	20121005	93.99	94.28	r_up	raise:1 surprises:1 sales:1 holidays:1 advisories:1 flags:1 red:1
-COST	20121008	94.28	93.87	r_down	
-COST	20121009	93.87	92.28	r_down	
-COST	20121010	92.28	94.06	r_up	27:3 says:1 surprises:1 futures:1 watch:1 holidays:1 confident:1 advisories:1 earnings:1 amid:1 stall:1 stock:1
-COST	20121011	94.06	91.06	r_down	biggest:1 gaining:1 stocks:1 declining:1
-COST	20121012	91.06	90.35	r_down	80:1 $:1
-COST	20121015	90.35	89.39	r_down	
-COST	20121016	89.39	89.84	r_up	
-COST	20121017	89.84	89.64	r_down	
-COST	20121018	89.64	89.22	r_down	
-COST	20121019	89.22	87.78	r_down	
-COST	20121022	87.78	87.99	r_up	
-COST	20121023	87.99	88.15	r_up	
-COST	20121024	88.15	88.56	r_up	
-COST	20121025	88.56	89.49	r_up	
-COST	20121026	89.49	89.78	r_up	
-COST	20121031	89.78	91.16	r_up	stores:1 benefit:1 some:1 's:1 bet:1
-COST	20121101	91.16	89.96	r_down	small:1 impact:1 see:1
-COST	20121102	89.96	89.02	r_down	biggest:1 movers:1 jumps:1 7.9:1
-COST	20121105	89.02	90.52	r_up	
-COST	20121106	90.52	91.5	r_up	
-COST	20121107	91.5	90.12	r_down	
-COST	20121108	90.12	87.75	r_down	
-COST	20121109	87.75	88.41	r_up	
-COST	20121112	88.41	88.9	r_up	
-COST	20121113	88.9	88.63	r_down	
-COST	20121114	88.63	87.75	r_down	
-COST	20121115	87.75	88.89	r_up	
-COST	20121116	88.89	88.88	r_down	
-COST	20121119	88.88	89.7	r_up	en:1 français:1
-COST	20121120	89.7	90.21	r_up	
-COST	20121121	90.21	89.86	r_down	
-COST	20121123	89.86	90.95	r_up	
-COST	20121126	90.95	89.41	r_down	
-COST	20121127	89.41	89.64	r_up	may:1 not:1 save:1 sales:1
-COST	20121128	89.64	95.28	r_up	outlook:1 off:1 $:5 dishes:1 give:1 movers:1 big:1 futures:1 job:1 'cliff:1 worries:1 3:1 stock:1 7:4 positive:1 ‘cliff’:1 holiday:1 persist:1 2012:1
-COST	20121129	95.28	94.63	r_down	stocks:1 deal:1 investors:1 up:1 n't:1 politicians:1 talk:1 rally:1 feeling:1 special:1 2012:2
-COST	20121130	94.63	96.53	r_up	'ca:2 holiday:1 selling:1 's:1 stake:1 n't:2 raises:1 pass:1 debt:1 miss:1 more:1
-COST	20121203	96.53	97.15	r_up	n't:1 after:1 shares:1 hours:1 fall:1 active:1
-COST	20121204	97.15	96.97	r_down	$:1 6:1
-COST	20121205	96.97	98.41	r_up	's:2 dividends:1 could:1 next:1 mortgages:1 come:1 fuel:1 expense:1 bubble:1
-COST	20121206	98.41	97.93	r_down	
-COST	20121207	97.93	98.02	r_up	
-COST	20121210	98.02	98.41	r_up	
-COST	20121211	98.41	97.78	r_down	's:3
-COST	20121212	97.78	97.19	r_down	futures:1 nudge:1 move:1 awaited:1 earnings:1 30:4 's:3 higher:1
-COST	20121213	97.19	97.32	r_up	
-COST	20121214	97.32	96.39	r_down	
-COST	20121217	96.39	98.24	r_up	
-COST	20121218	98.24	99.32	r_up	
-COST	20121219	99.32	98.14	r_down	
-COST	20121220	98.14	98.66	r_up	
-COST	20121221	98.66	98.95	r_up	
-COST	20121224	98.95	98.9	r_down	
-COST	20121226	98.9	98.14	r_down	hustle:1 retailers’:1 stakes:1
-COST	20121227	98.14	97.39	r_down	
-COST	20121228	97.39	96.44	r_down	
-COST	20121231	96.44	98.19	r_up	
-COST	20130102	98.19	100.9	r_up	
-COST	20130103	100.9	101.93	r_up	post-cliff:1 futures:1 breather:1 note:1 start:1 year:1 jittery:1 new:1 stock:1
-COST	20130104	101.93	101.6	r_down	
-COST	20130107	101.6	100.82	r_down	
-COST	20130108	100.82	100.63	r_down	1:1 4:1 2013:1
-COST	20130109	100.63	100.68	r_up	drop:1 stocks:1 earnings:1 ahead:1
-COST	20130110	100.68	100.19	r_down	
-COST	20130111	100.19	99.73	r_down	
-COST	20130114	99.73	99.82	r_up	
-COST	20130115	99.82	100.6	r_up	
-COST	20130116	100.6	100.98	r_up	
-COST	20130117	100.98	100.41	r_down	
-COST	20130118	100.41	100.65	r_up	
-COST	20130122	100.65	101.59	r_up	
-COST	20130123	101.59	101.56	r_down	
-COST	20130124	101.56	102.33	r_up	
-COST	20130125	102.33	101.8	r_down	12:1 sectors:1 get:1 can:1 rich:1 you:1 save:1
-COST	20130128	101.8	101.93	r_up	
-COST	20130129	101.93	102.8	r_up	
-COST	20130130	102.8	101.97	r_down	
-COST	20130131	101.97	101.78	r_down	
-COST	20130201	101.78	103.58	r_up	
-COST	20130204	103.58	101.92	r_down	
-COST	20130205	101.92	102.75	r_up	
-COST	20130206	102.75	101.42	r_down	
-COST	20130207	101.42	101.57	r_up	
-COST	20130208	101.57	102.5	r_up	
-COST	20130211	102.5	101.71	r_down	
-COST	20130212	101.71	101.48	r_down	
-COST	20130213	101.48	101.35	r_down	produces:1 muted:1 winners:1 losers:1 speech:1 stock:1
-COST	20130214	101.35	101.74	r_up	
-COST	20130215	101.74	101.89	r_up	n't:1
-COST	20130219	101.89	101.62	r_down	
-COST	20130220	101.62	100.8	r_down	
-COST	20130221	100.8	100.41	r_down	clip:1 forecast:1 n't:1 economic:1 worries:1 its:1
-COST	20130222	100.41	100.88	r_up	
-COST	20130225	100.88	99.81	r_down	
-COST	20130226	99.81	99.17	r_down	
-COST	20130227	99.17	100.45	r_up	
-COST	20130228	100.45	101.01	r_up	
-COST	20130301	101.01	101.14	r_up	
-COST	20130304	101.14	103.14	r_up	
-COST	20130305	103.14	102.86	r_down	
-COST	20130306	102.86	102.27	r_down	10:1 ahead:1 companies:1 focus:1 sales:1 reputation:1 5:1 retailers:1 best:1
-COST	20130307	102.27	101.69	r_down	hope:1 cautious:1 sales:1 retailers:1 give:1
-COST	20130308	101.69	102.75	r_up	500′s:1 's:1
-COST	20130311	102.75	102.15	r_down	's:1
-COST	20130312	102.15	103.46	r_up	confidence:1 off:1 futures:1 39:1 battles:1 exuberance:1 's:1 500:1
-COST	20130313	103.46	103.13	r_down	
-COST	20130314	103.13	102.62	r_down	
-COST	20130315	102.62	101.47	r_down	
-COST	20130318	101.47	101.4	r_down	
-COST	20130319	101.4	101.84	r_up	
-COST	20130320	101.84	102.79	r_up	
-COST	20130321	102.79	103.23	r_up	
-COST	20130322	103.23	104.82	r_up	
-COST	20130325	104.82	105.18	r_up	
-COST	20130326	105.18	105.68	r_up	
-COST	20130327	105.68	106.34	r_up	
-COST	20130328	106.34	105.81	r_down	's:1 16:1
-COST	20130401	105.81	105.52	r_down	
-COST	20130402	105.52	107.38	r_up	
-COST	20130403	107.38	106.06	r_down	
-COST	20130404	106.06	106.06	r_up	
-COST	20130405	106.06	105.51	r_down	
-COST	20130408	105.51	106.74	r_up	
-COST	20130409	106.74	105.5	r_down	
-COST	20130410	105.5	105.46	r_down	
-COST	20130411	105.46	105.71	r_up	after:1 futures:1 watch:1 falls:1 edge:1 tech:1 claims:1 higher:1
-COST	20130412	105.71	105.83	r_up	
-COST	20130415	105.83	103.92	r_down	
-COST	20130416	103.92	105.26	r_up	case:1 mixed:1 warning:1 's:1 investment:1
-COST	20130417	105.26	104.48	r_down	
-COST	20130418	104.48	103.32	r_down	
-COST	20130419	103.32	104.16	r_up	
-COST	20130422	104.16	104.87	r_up	
-COST	20130423	104.87	106.95	r_up	
-COST	20130424	106.95	107.53	r_up	
-COST	20130425	107.53	108.83	r_up	
-COST	20130426	108.83	108.97	r_up	
-COST	20130429	108.97	108.33	r_down	
-COST	20130430	108.33	108.13	r_down	
-COST	20130501	108.13	107.92	r_down	
-COST	20130502	107.92	108.39	r_up	
-COST	20130503	108.39	109.44	r_up	
-COST	20130506	109.44	108.79	r_down	
-COST	20130507	108.79	109.4	r_up	
-COST	20130508	109.4	109.3	r_down	
-COST	20130509	109.3	108.84	r_down	futures:2 run:1 ahead:1 point:1 drop:1 breather:1 record:1 claims:1 after:1 stock:1
-COST	20130510	108.84	109.68	r_up	
-COST	20130513	109.68	109.7	r_up	
-COST	20130514	109.7	111.08	r_up	
-COST	20130515	111.08	112.82	r_up	
-COST	20130516	112.82	111.51	r_down	
-COST	20130517	111.51	113.05	r_up	
-COST	20130520	113.05	112.02	r_down	
-COST	20130521	112.02	113.48	r_up	
-COST	20130522	113.48	113.38	r_down	
-COST	20130523	113.38	113.19	r_down	
-COST	20130524	113.19	114.39	r_up	
-COST	20130528	114.39	114.83	r_up	
-COST	20130529	114.83	112.95	r_down	
-COST	20130530	112.95	111.88	r_down	after:1 's:1 gains:1 deal:1 19:1 futures:1 watch:1 lifts:1 curb:1 data:1 stock:1
-COST	20130531	111.88	109.63	r_down	
-COST	20130603	109.63	110.88	r_up	
-COST	20130604	110.88	110.66	r_down	
-COST	20130605	110.66	109.17	r_down	
-COST	20130606	109.17	111.09	r_up	lower:1 futures:1 trade:1 turn:1 choppy:1 stock:1
-COST	20130607	111.09	110.58	r_down	
-COST	20130610	110.58	110.31	r_down	
-COST	20130611	110.31	110.02	r_down	
-COST	20130612	110.02	109.4	r_down	2014:1
-COST	20130613	109.4	110.88	r_up	
-COST	20130614	110.88	111.0	r_up	
-COST	20130617	111.0	111.7	r_up	
-COST	20130618	111.7	112.09	r_up	
-COST	20130619	112.09	110.19	r_down	
-COST	20130620	110.19	107.56	r_down	
-COST	20130621	107.56	108.65	r_up	
+COST	20140501	114.9	114.8	r_down	
+COST	20140502	114.8	114.4	r_down	
+COST	20140505	114.4	113.8	r_down	purchases:1 giant:1 service:1 expanding:1 competes:1 delivery:1 same-day:1 consumer:1 its:1
+COST	20140506	113.8	112.1	r_down	billion:1 's:1 $:1 country:1 online:1 year:1 sales:1 seller:1 second:1 largest:1 become:1 18.3:1 rivalry:1 last:1
+COST	20140507	112.1	111.3	r_down	
+COST	20140508	111.3	114.0	r_up	modestly:1 holiday:1 's:1 plans:1 temperatures:1 energy:1 later:1 organized:1 sales:1 shoppers:1 helped:1 efficiency:1 warmer:1 talk:1 push:1 stores:1 higher:1 into:1 store:1 posted:1
+COST	20140509	114.0	114.6	r_up	said:1 's:2 would:1 double:1 energy:1 retailer:1 number:1 stores:1 centers:1 2020:1 distribution:1 solar:1 largest:1 world:1 on-site:1 its:1 projects:1
+COST	20140512	114.6	115.8	r_up	billion:1 early:1 foray:1 's:1 $:1 lost:1 could:1 into:1 according:1 expansion:1 1:1 start:1 but:1 ambitious:1 money:1 2015:1 making:1 has:1 its:1
+COST	20140513	115.8	115.5	r_down	
+COST	20140514	115.5	114.7	r_down	
+COST	20140515	114.7	114.0	r_down	
+COST	20140516	114.0	115.2	r_up	
+COST	20140519	115.2	116.0	r_up	over:1 customers:1 activists:1 stores:1 carried:1 name:1 big:1 into:2 after:1 debate:1 consumer:1 one:1 bring:1 asking:1 drawn:1 not:1 making:1 latest:1 its:1 guns:1 restaurants:1
+COST	20140520	116.0	114.7	r_down	
+COST	20140521	114.7	114.1	r_down	even:1 's:1 raise:1 companies:1 minimum-wage:1 workers:1 administration:1 their:1 officials:1 push:1 wages:1 voluntarily:1
+COST	20140522	114.1	114.3	r_up	
+COST	20140523	114.3	114.5	r_up	
+COST	20140527	114.5	113.5	r_down	
+COST	20140528	113.5	113.8	r_up	case:1 stock:1 last:1 conditions:1 only:1 2007:1 storm:1 half:1 before:1 similar:1 why:1 market:1 calm:1
+COST	20140529	113.8	113.8	r_up	unsolicited:1 just:2 results:2 trade:3 session:4 groceries:1 6.1:1 signs:1 its:3 fifth:1 whose:1 20:1 $:3 rose:6 had:1 expectations:2 actually:1 offers:1 premarket:1 2014:1 worth:1 them:1 around:2 impacts:1 bid:1 watch:1 negative:1 during:1 chips:1 day:1 like:1 excluding:1 --:3 54:1 drop:1 companies:3 exchange:1 fewer:1 deals:2 retailers:1 become:1 stock:3 tepid:1 slowed:1 individual:1 trading:1 third-quarter:2 recovery:1 year:1 blue:1 index:1 shown:1 said:2 actively:2 missed:1 pace:2 profit:2 jumped:1 since:1 while:1 shares:4 3:2 gasoline:1 reading:1 price:1 earlier:1 recently:1 approached:1 deflation:1 weak:1 active:1 advance:1 quarter:1 items:1 months:1 days:1 against:1 foreign:1 participating:1 economic:2 analysts:2 maker:1 comes:1 first:2 revenue:2 same-store:1 period:1 one:1 brush:1 fees:1 jobless:1 larger-than-expected:1 three:1 their:3 6:1 expected:3 territory:1 500:2 fiscal:2 buy:1 offering:1 offer:1 company:2 bulk:1 shoppers:1 lowered:1 frenzy:1 line:1 hold:1 weighed:1 13:1 15:1 look:1 whether:1 eclipse:1 see:1 n't:1 record:2 near:1 growth:2 nine:1 benchmarks:1 were:1 membership:1 problem:1 climbed:1 have:2 investors:2 0.3:1 0.5:2 sales:2 quiet:1 high:2 all-time:1 selling:1 reports:1 unveiled:1 rally:1 saw:1 gains:1 sessions:1 end:1 5.5:1 sit:1 winter:1 six:1 topped:1 other:1 economy:1 which:1 inch:1 several:1 showing:1 higher:2 gaining:1 even:1 added:1 's:11 harsh:1 highs:1 after:2 bottom:1 most:1 modest:1 two:1 claims:1 stocks:2 data:2 recent:2 billion:2 off:1 clear:1 futures:2 stronger:1 savings:1 points:3 weigh:1
+COST	20140530	113.8	115.6	r_up	index:1 off:1 powered:1 weak:1 high:1 record:1 economic:1 growth:1 closing:1 reading:1 500:2
+COST	20140602	115.6	115.3	r_down	
+COST	20140603	115.3	115.1	r_down	week:1 balance:1 made:1 force:1 last:1 offer:1 food:1 industry:1 gathers:1 hangs:1 original:1 top:1 see:1 takeover:1 frenzy:1 raises:1 further:1 bid:2 still:1 its:1
+COST	20140604	115.1	115.9	r_up	
+COST	20140605	115.9	117.3	r_up	promotions:1 said:1 boost:1 top:1 overall:1 sales:1 surge:1 helped:2 weather:1 warmer:1 expectations:1 report:1 traffic:1 strong:1 continued:1 results:1 improve:1
+COST	20140606	117.3	117.8	r_up	picked:1 retailer:1 sales:3 2nd:1 helped:2 weighting:1 trends:1 weather:1 warmer:1 have:2 one:1 index:1 said:2 end:1 weekend:1 top:1 expectations:1 only:1 which:1 quarterly:1 consecutive:1 weeks:1 recent:1 boost:1 teen:1 posting:1 hefty:1 overall:1 results:2 traffic:2 disappoint:1 during:1 month:2 continued:2 improve:1 promotions:1 toward:1 improved:1 third:1 --:1 many:1 up:1 reports:1 surge:1 mall:1 retailers:1 each:1 apparel:1 retail:1 noted:1
+COST	20140609	117.8	117.4	r_down	
+COST	20140610	117.4	116.7	r_down	
+COST	20140611	116.7	115.8	r_down	
+COST	20140612	115.8	115.0	r_down	trim:1 summer:1 airports:1 season:1 travel:1 but:1 times:1 helped:1 have:1 writes:1 worry:1 wait:1
+COST	20140613	115.0	114.9	r_down	
+COST	20140616	114.9	115.0	r_up	
+COST	20140617	115.0	115.1	r_up	compare:1 declines:1 agreed:1 within:1 major:1 pricing:2 participate:1 unit:2 consumers:2 provide:1 make:2 sites:1 their:1 compares:1 which:1 online:2 include:1 drugstore:1 easier:2 move:1 supermarket:1 effort:1 months:1 aims:2 costs:2 nine:1 retailers:2 agree:1
+COST	20140618	115.1	115.9	r_up	
+COST	20140619	115.9	115.9	r_up	
+COST	20140620	115.9	115.0	r_down	
+COST	20140623	115.0	114.8	r_down	
+COST	20140624	114.8	115.9	r_up	forced:1 's:1 country:1 challenge:1 labor:1 child:1 new:1 shrimp:1 industry:1 present:1
+COST	20140625	115.9	115.9	r_up	
+COST	20140626	115.9	115.2	r_down	
+COST	20140627	115.2	115.1	r_down	wage:2 pushing:1 7:1 hour:1 their:1 federal:1 pay:2 stalls:1 companies:1 like:1 increase:1 hikes:1 own:1 minimum:2 above:1 others:1 forward:1 proposal:1 furniture:1 store:1 $:2
+COST	20140630	115.1	114.8	r_down	
+COST	20140701	114.8	115.0	r_up	
+COST	20140702	115.0	115.4	r_up	
+COST	20140703	115.4	116.0	r_up	stores:1 campaign:1 image:1 ``:2 '':2 ask:1 month-long:1 wages:1 its:2 even:1 said:1 group:1 would:1 pay:1 fix:1 should:2 other:1 over:1 them:1 worker:1 not:1 law:1 raising:1 join:1 bring:1 communities:1 into:1 guns:1 gun-control:1 customers:1 retailers:1 problem:1 writes:1
+COST	20140707	116.0	115.9	r_down	's:1 consider:1 service:1 against:1 options:1 better:1 their:1 compete:1 retailers:1 expands:1 its:1
+COST	20140708	115.9	117.1	r_up	smaller:1 stores:1 dollar:1 back:1 growth:1 embrace:1 accelerate:1 next:1 hospitals:1 its:1 market:1 out:1 giant:1 working:1 favor:1 disability:1 long:1 strategy:1 rivals:1 online:1 new:2 chains:1 store:2 processing:1 's:1 business:1 models:1 share:1 embracing:1 problems:1 but:1 appointments:1 hailed:1 gain:1 fall:1 encroaching:1 trying:1 faster:1 also:1 claims:1 attempt:1 like:1 success:1 issue:1 waits:1 face:1 concepts:1 strategies:1 retail:1 secretary:1
+COST	20140709	117.1	117.9	r_up	
+COST	20140710	117.9	118.0	r_up	
+COST	20140711	118.0	118.0	r_up	major:1 stores:1 help:1 point:1 spring:1 sales:1 sign:1 all-time:1 slowed:1 growth:1 warmer:1 have:1 resilience:1 market:1 story:1 weakened:1 their:1 had:1 been:1 indexes:1 better:1 spread:1 grocer:1 concerns:1 expected:1 has:1 might:1 more:1 's:1 business:1 though:1 may:1 highs:1 but:1 most:1 fell:1 traffic:1 trouble:1 stocks:1 than:1 bank:1 customer:1 15:1 ahead:1 many:1 could:1 losses:1 near:1 weather:1 temperatures:1 retailers:1 entry:1 problem:1
+COST	20140714	118.0	117.3	r_down	
+COST	20140715	117.3	117.8	r_up	stalling:1 amid:1 last:1 livestock:1 beef:1 effort:1 largest:1 revive:1 drug:1 resistance:1 year:1 sweeping:1 's:1 nation:1 pulled:1 market:1 processors:1
+COST	20140716	117.8	117.8	r_up	
+COST	20140717	117.8	116.7	r_down	sector:1 his:1 's:1 investing:1 billionaire:1 continues:1 years:1 confound:1 their:1 bad:1 have:1 partner:1 retail:2 investor:1 luck:1
+COST	20140718	116.7	117.7	r_up	
+COST	20140721	117.7	117.0	r_down	
+COST	20140722	117.0	117.5	r_up	
+COST	20140723	117.5	117.5	r_up	giant:1 's:1 chain:1 coffee:1 less:1 according:1 paid:2 baristas:1 twice:1 much:1 those:1 but:1 managers:1 report:1 new:1 cashiers:1 retail:1 slightly:1 than:2 store:1 more:1
+COST	20140724	117.5	118.1	r_up	
+COST	20140725	118.1	117.5	r_down	
+COST	20140728	117.5	117.1	r_down	
+COST	20140729	117.1	118.9	r_up	
+COST	20140730	118.9	118.1	r_down	
+COST	20140731	118.1	117.5	r_down	
+COST	20140801	117.5	117.8	r_up	
+COST	20140804	117.8	118.1	r_up	
+COST	20140805	118.1	118.0	r_down	shop:1 purchases:1 would:1 stores:1 prompting:1 sales:1 financial:1 including:1 's:1 best:1 deals:1 slow:1 drugstores:1 things:1 make:1 give:1 their:1 5:1 which:1 online:1 shoppers:1 instead:1 openings:1 chains:1 store:2 more:1 buy:1 weighing:1 drugs:1 advice:1 traffic:1 not:1 grocery:1 big-box:1 these:1 starting:1 drop:1 persistent:1 facing:1 products:1 retailers:1 students:1 college:1 steep:1
+COST	20140806	118.0	119.5	r_up	
+COST	20140807	119.5	117.8	r_down	investors:1 weighed:1 books:1 trading:1 seen:1 market:3 utility:1 stocks:2 slipped:1 broad:1 shallow:1 had:1 three:1 best:1 rivals:1 points:3 declined:1 reading:1 's:2 lingering:1 10:1 after:1 jobs:1 gains:1 offer:1 rise:1 but:1 early:1 same-day:1 eight:1 groups:1 teaming:1 strong:1 advanced:1 delivery:1 off:1 four:1 performers:1 --:2 industry:1 up:1 against:1 33:1 fell:1 500:2 were:1
+COST	20140808	117.8	119.1	r_up	climbed:1 investors:1 sales:1 month:1 back-to-school:1 slumped:1 its:1 slow:1 mood:1 since:1 late:1 concerns:1 lowest:1 led:1 season:1 geopolitical:1 cautious:1 ahead:1 developing:1 level:1 retailers:1 left:1
+COST	20140811	119.1	119.1	r_up	
+COST	20140812	119.1	119.0	r_down	
+COST	20140813	119.0	118.6	r_down	
+COST	20140814	118.6	119.2	r_up	
+COST	20140815	119.2	118.5	r_down	
+COST	20140818	118.5	119.4	r_up	
+COST	20140819	119.4	120.6	r_up	saving:1 ways:1 suggest:1 spending:1 students:1 can:1 campus:1 smart:1
+COST	20140820	120.6	120.9	r_up	
+COST	20140821	120.9	121.6	r_up	
+COST	20140822	121.6	121.2	r_down	giant:1 investors:1 roster:1 backing:1 startup:1 food:1 heavyweight:1 including:1 which:1 has:1
+COST	20140825	121.2	121.3	r_up	
+COST	20140826	121.3	121.0	r_down	
+COST	20140827	121.0	121.2	r_up	
+COST	20140828	121.2	120.9	r_down	set:1 natural:1 space:1 excel:1 grocer:1 growing:1 organic:1
+COST	20140829	120.9	121.0	r_up	stores:1 give:1 reasons:1 growth:1 another:1 stronger-than-expected:1 its:2 revenue:1 backs:1 their:1 3:1 earnings:1 international:1 rice:1 markets:1 too:1 turning:1 business:1 company:1 continues:1 but:1 chance:1 they:1 grow:1 posted:1 fiscal:1 acting:1 quarter:1 first:1
+COST	20140902	121.0	121.5	r_up	customer:1 working:1 debit-card:1 agencies:1 investigate:1 potential:1 banks:1 breach:1 data:1
+COST	20140903	121.5	121.3	r_down	cut:1 charges:1 pay:1 agreed:2 gases:1 penalty:1 civil:1 emissions:1 settlement:1 its:1 greenhouse:1
+COST	20140904	121.3	125.1	r_up	social-media:1 own:1 says:2 gold:1 doing:1 threatening:1 into:2 probe:1 turned:1 addressed:1 through:1 been:1 have:1 steps:1 find:1 working:1 clock:1 had:1 legal:1 its:1 confirming:2 potential:1 hacked:1 marketing:1 breach:5 learned:1 minor:1 she:1 website:1 customers:1 allegedly:1 could:1 company:2 continues:1 possible:3 but:1 took:1 photos:1 were:2 reassure:1 they:1 news:1 data:2 firms:1 card:1 short:1 her:2 values:1 nude:1 so:1 responded:1 credit:1 investigate:1 hired:1 stopped:1 stolen:1 time:1 action:1 accounts:1 security:1 round:1 first:1
+COST	20140905	125.1	127.0	r_up	back-to-school:1 tried:1 though:1 discounts:1 sales:2 month:1 deals:1 reported:1 dominated:1 retailers:1 stronger-than-expected:1 boost:1
+COST	20140908	127.0	126.6	r_down	stores:1 deal:1 back:1 stretched:1 have:1 your:1 best:1 confirmed:1 no:1 next:1 systems:1 hacked:1 tips:1 good:1 get:1 may:1 price:1 little:1 cyberattack:1 payment:1 purchase:1 getting:1 car:2 were:1 its:1
+COST	20140909	126.6	126.1	r_down	
+COST	20140910	126.1	126.1	r_up	
+COST	20140911	126.1	125.9	r_down	
+COST	20140912	125.9	125.3	r_down	
+COST	20140915	125.3	125.7	r_up	
+COST	20140916	125.7	126.4	r_up	
+COST	20140917	126.4	126.0	r_down	
+COST	20140918	126.0	126.4	r_up	
+COST	20140919	126.4	126.5	r_up	all:1 weeks:1 stores:2 ditches:1 drop:1 two:1 new:1 next:2 expected:1 year:1 cards:1 announce:1 alternative:1 starting:1 its:2
+COST	20140922	126.5	125.8	r_down	
+COST	20140923	125.8	125.5	r_down	
+COST	20140924	125.5	127.6	r_up	
+COST	20140925	127.6	125.6	r_down	
+COST	20140926	125.6	125.5	r_down	
+COST	20140929	125.5	125.3	r_down	walking:1 someone:1 $:1 offering:1 sitting:1 up:1 flipping:1 burgers:1 job:1
+COST	20140930	125.3	125.3	r_up	
+COST	20141001	125.3	124.7	r_down	
+COST	20141002	124.7	125.7	r_up	
+COST	20141003	125.7	127.0	r_up	
+COST	20141006	127.0	126.2	r_down	
+COST	20141007	126.2	125.2	r_down	
+COST	20141008	125.2	128.7	r_up	all:1 global:1 soon:1 trade:2 session:1 higher:1 go:1 seemed:1 blow:1 certainly:1 hunting:1 thinking:1 point:1 same-store:1 should:1 weakening:1 quarterly:1 premium:1 around:1 get:1 sucker:1 couple:1 continues:1 results:2 mention:1 they:1 not:1 like:1 companies:1 rivals:1 trap:1 economy:1 hard:1 bargain:1 actively:1 trading:1 entering:1 year:1 said:1 profit:1 since:1 shares:2 increase:1 volatile:1 new:2 harsher:1 bought:1 buckling:1 punch:1 let:1 downgrade:1 strong:1 change:1 stresses:1 prospects:1 quarter:1 could:1 violence:1 membership:1 brutal:1 escalating:1 repeats:1 among:1 revenue:1 seems:1 down:1 active:1 guard:1 another:2 fees:1 drove:1 your:1 market:2 prove:1 two:1 been:2 start:1 don’t:1 skeptics:1 expected:1 markets:1 more:2 buy:1 club:1 season:1 dips:1 climate:1 but:2 slides:1 analyst:1 big-box:1 13:2 made:1 showed:1 up:1 wrong:1 growth:3 were:1 history:1 months:1 investors:1 sales:1 anxieties:1 have:2 ready:1 tumbled:1 again:1 make:1 immune:1 concerns:1 earnings:2 doors:1 warehouse:1 stung:1 stock:1 picture:1 's:1 may:1 highs:1 most:1 wasn’t:1 stocks:2 data:1 recent:1 retail:1 especially:1 largely:1 clear:1 without:1 time:1
+COST	20141009	128.7	128.4	r_down	saying:2 over:1 move:1 expects:1 years:1 year:4 bank:1 best:1 advisories:1 planting:1 prudent:1 would:1 farmers:1 spending:1 surprises:1 one-day:1 forecast:1 their:3 score:1 rates:2 soared:1 interest:1 biggest:2 supplies:1 meeting:2 corporate:1 500:1 earnings:1 suggested:1 tighten:1 raising:2 gains:1 farm:1 after:2 records:1 intent:1 gain:2 coming:1 prices:1 cautiously:1 reaffirm:1 stocks:2 change:1 fiscal:1 lower-than-expected:1 central:2 amid:1 companies:1 reports:1 future:1 grain:1 quarters:1 latest:1 minutes:2 roundup:1 profits:1 weakest:1
+COST	20141010	128.4	128.9	r_up	

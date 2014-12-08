@@ -1,307 +1,114 @@
-KSS	20120402	48.32	49.74	r_up	
-KSS	20120403	49.74	50.04	r_up	
-KSS	20120404	50.04	50.2	r_up	see:1 muscle:1 continued:1 sales:1 shopper:1
-KSS	20120405	50.2	48.6	r_down	
-KSS	20120409	48.6	48.24	r_down	
-KSS	20120410	48.24	47.28	r_down	
-KSS	20120411	47.28	47.55	r_up	's:1
-KSS	20120412	47.55	48.22	r_up	department:1 money:1 made:1 stores:1 analyst:1
-KSS	20120413	48.22	47.9	r_down	
-KSS	20120416	47.9	49.02	r_up	
-KSS	20120417	49.02	49.4	r_up	
-KSS	20120418	49.4	49.27	r_down	
-KSS	20120419	49.27	48.8	r_down	
-KSS	20120420	48.8	48.74	r_down	
-KSS	20120423	48.74	48.27	r_down	
-KSS	20120424	48.27	47.65	r_down	
-KSS	20120425	47.65	48.06	r_up	
-KSS	20120426	48.06	48.55	r_up	
-KSS	20120427	48.55	49.07	r_up	profit:1 jumps:1 global:1 continued:1 demand:1
-KSS	20120430	49.07	48.42	r_down	
-KSS	20120501	48.42	48.62	r_up	expected:1 slow:1 sales:1
-KSS	20120502	48.62	48.96	r_up	
-KSS	20120503	48.96	49.5	r_up	lonely:1 same-store:1 sales:1 number:1
-KSS	20120504	49.5	48.34	r_down	
-KSS	20120507	48.34	48.5	r_up	falter:1 uncertainty:1 outlooks:1 election:1
-KSS	20120508	48.5	49.12	r_up	
-KSS	20120509	49.12	49.12	r_up	's:2
-KSS	20120510	49.12	47.0	r_down	disappoints:2 outlook:2 38:1 's:1 woes:1 profit:1 watch:2 but:1 inventory:1 rises:1
-KSS	20120511	47.0	46.53	r_down	's:1
-KSS	20120514	46.53	45.65	r_down	sentiment:1
-KSS	20120515	45.65	45.3	r_down	loss:1 dividend:1 swings:1 suspends:1
-KSS	20120516	45.3	45.24	r_down	
-KSS	20120517	45.24	44.83	r_down	big:1
-KSS	20120518	44.83	45.58	r_up	
-KSS	20120521	45.58	46.13	r_up	
-KSS	20120522	46.13	47.0	r_up	
-KSS	20120523	47.0	47.26	r_up	's:1
-KSS	20120524	47.26	48.33	r_up	
-KSS	20120525	48.33	48.77	r_up	
-KSS	20120529	48.77	48.91	r_up	
-KSS	20120530	48.91	47.15	r_down	seen:1 modest:1 growth:1 posting:1 sales:1
-KSS	20120531	47.15	44.26	r_down	biggest:1 gaining:1 stocks:1 's:2 declining:1
-KSS	20120601	44.26	43.17	r_down	
-KSS	20120604	43.17	42.8	r_down	
-KSS	20120605	42.8	42.8	r_up	
-KSS	20120606	42.8	42.97	r_up	
-KSS	20120607	42.97	42.77	r_down	
-KSS	20120608	42.77	43.85	r_up	
-KSS	20120611	43.85	42.77	r_down	
-KSS	20120612	42.77	43.23	r_up	
-KSS	20120613	43.23	42.2	r_down	
-KSS	20120614	42.2	42.64	r_up	
-KSS	20120615	42.64	43.33	r_up	
-KSS	20120618	43.33	42.53	r_down	
-KSS	20120619	42.53	43.22	r_up	hours:1 after:1 gain:1 shares:1 falls:1
-KSS	20120620	43.22	43.48	r_up	
-KSS	20120621	43.48	42.59	r_down	
-KSS	20120622	42.59	42.14	r_down	
-KSS	20120625	42.14	41.96	r_down	
-KSS	20120626	41.96	42.19	r_up	
-KSS	20120627	42.19	42.38	r_up	
-KSS	20120628	42.38	43.34	r_up	
-KSS	20120629	43.34	44.25	r_up	
-KSS	20120702	44.25	44.15	r_down	
-KSS	20120703	44.15	43.06	r_down	may:1 watch:1 sales:1 years:1 3:1 smallest:1 gain:1 retail:1
-KSS	20120705	43.06	45.75	r_up	mild:1 years:1 winter:1 sales:2 melt:1 three:1 rate:1 worst:1 slip:1 cuts:1 services:1 's:4 post:1 stocks:1 data:1
-KSS	20120706	45.75	46.45	r_up	
-KSS	20120709	46.45	46.72	r_up	
-KSS	20120710	46.72	46.65	r_down	
-KSS	20120711	46.65	46.26	r_down	's:1
-KSS	20120712	46.26	45.84	r_down	
-KSS	20120713	45.84	46.32	r_up	
-KSS	20120716	46.32	46.35	r_up	stores:1 19:1 liquidate:1 back-to-school:1 raises:1 retail:1 its:1 stakes:1
-KSS	20120717	46.35	47.65	r_up	's:1
-KSS	20120718	47.65	47.85	r_up	
-KSS	20120719	47.85	48.02	r_up	retail:1 lift:1 stocks:1 views:1
-KSS	20120720	48.02	47.43	r_down	
-KSS	20120723	47.43	47.47	r_up	$:2 248:2
-KSS	20120724	47.47	46.74	r_down	
-KSS	20120725	46.74	46.56	r_down	
-KSS	20120726	46.56	46.31	r_down	
-KSS	20120727	46.31	47.93	r_up	
-KSS	20120730	47.93	48.46	r_up	
-KSS	20120731	48.46	48.37	r_down	
-KSS	20120801	48.37	48.38	r_up	may:1 sales:1 better:1 turn:1 expected:1 than:1 out:1
-KSS	20120802	48.38	48.78	r_up	school:1 's:1 may:1 well:1 sales:1 back:1 upside:1 bode:1
-KSS	20120803	48.78	49.72	r_up	
-KSS	20120806	49.72	50.61	r_up	
-KSS	20120807	50.61	50.42	r_down	
-KSS	20120808	50.42	50.64	r_up	different:1 16:2 's:3 tell:1 tales:1
-KSS	20120809	50.64	50.02	r_down	drop:1 's:4 watch:2 futures:1 some:1 but:1 20:3 remain:1 concerns:1 gain:1 claims:1 progress:1 makes:1
-KSS	20120810	50.02	49.61	r_down	play:1 's:1 n't:2 turnaround:1 retail:1 500:1
-KSS	20120813	49.61	49.25	r_down	
-KSS	20120814	49.25	49.33	r_up	
-KSS	20120815	49.33	49.64	r_up	
-KSS	20120816	49.64	49.96	r_up	
-KSS	20120817	49.96	50.55	r_up	
-KSS	20120820	50.55	50.52	r_down	
-KSS	20120821	50.52	50.29	r_down	
-KSS	20120822	50.29	50.09	r_down	
-KSS	20120823	50.09	50.05	r_down	
-KSS	20120824	50.05	51.07	r_up	
-KSS	20120827	51.07	51.11	r_up	
-KSS	20120828	51.11	50.93	r_down	
-KSS	20120829	50.93	50.88	r_down	watch:1
-KSS	20120830	50.88	51.34	r_up	
-KSS	20120831	51.34	51.09	r_down	
-KSS	20120904	51.09	50.89	r_down	
-KSS	20120905	50.89	50.11	r_down	
-KSS	20120906	50.11	51.69	r_up	
-KSS	20120907	51.69	51.41	r_down	
-KSS	20120910	51.41	51.56	r_up	
-KSS	20120911	51.56	50.91	r_down	
-KSS	20120912	50.91	52.63	r_up	's:1
-KSS	20120913	52.63	52.56	r_down	
-KSS	20120914	52.56	52.27	r_down	
-KSS	20120917	52.27	52.17	r_down	
-KSS	20120918	52.17	51.95	r_down	10:1 12:1 's:2 $:1
-KSS	20120919	51.95	52.32	r_up	's:1
-KSS	20120920	52.32	51.94	r_down	
-KSS	20120921	51.94	51.7	r_down	2011:1 50,000:1
-KSS	20120924	51.7	51.18	r_down	
-KSS	20120925	51.18	50.09	r_down	13:2 than:2
-KSS	20120926	50.09	50.3	r_up	
-KSS	20120927	50.3	49.92	r_down	
-KSS	20120928	49.92	50.13	r_up	
-KSS	20121001	50.13	50.72	r_up	
-KSS	20121002	50.72	49.86	r_down	
-KSS	20121003	49.86	51.13	r_up	
-KSS	20121004	51.13	49.85	r_down	stocks:1 watch:1 sales:1 ahead:1
-KSS	20121005	49.85	49.92	r_up	holidays:1 flags:1 sales:1 red:1 raise:1
-KSS	20121008	49.92	49.98	r_up	
-KSS	20121009	49.98	49.52	r_down	
-KSS	20121010	49.52	49.07	r_down	
-KSS	20121011	49.07	50.07	r_up	
-KSS	20121012	50.07	50.33	r_up	
-KSS	20121015	50.33	50.61	r_up	
-KSS	20121016	50.61	51.34	r_up	
-KSS	20121017	51.34	51.69	r_up	
-KSS	20121018	51.69	52.48	r_up	
-KSS	20121019	52.48	51.81	r_down	
-KSS	20121022	51.81	51.26	r_down	
-KSS	20121023	51.26	50.61	r_down	
-KSS	20121024	50.61	50.27	r_down	
-KSS	20121025	50.27	50.49	r_up	makeover:1 still:1 out:1
-KSS	20121026	50.49	51.23	r_up	
-KSS	20121031	51.23	52.15	r_up	
-KSS	20121101	52.15	53.82	r_up	small:1 impact:1 see:1 's:2 3.3:2
-KSS	20121102	53.82	53.39	r_down	3:1
-KSS	20121105	53.39	53.76	r_up	
-KSS	20121106	53.76	53.94	r_up	
-KSS	20121107	53.94	53.17	r_down	
-KSS	20121108	53.17	50.45	r_down	stock:1 earlier:1 stores:1 bargains:1 5-month:1 movers:1 surprises:1 debut:1 up:4 futures:1 1.9:3 mildly:1 advisories:1 low:1 tempt:1 biggest:1 's:4 holiday:1 data:1 after:1 earnings:1
-KSS	20121109	50.45	50.56	r_up	121:1 warm:1 up:1 yet:1
-KSS	20121112	50.56	50.09	r_down	9:2 8:4 p.m:2 p.m.:4
-KSS	20121113	50.09	50.02	r_down	's:2
-KSS	20121114	50.02	50.14	r_up	
-KSS	20121115	50.14	50.1	r_down	over:1 backlash:1 faces:1
-KSS	20121116	50.1	49.95	r_down	
-KSS	20121119	49.95	51.12	r_up	
-KSS	20121120	51.12	51.03	r_down	
-KSS	20121121	51.03	50.87	r_down	's:2
-KSS	20121123	50.87	51.14	r_up	
-KSS	20121126	51.14	50.81	r_down	
-KSS	20121127	50.81	50.07	r_down	may:1 not:1 save:1 sales:1
-KSS	20121128	50.07	50.06	r_down	
-KSS	20121129	50.06	44.06	r_down	's:3
-KSS	20121130	44.06	43.7	r_down	movers:1 big:1 stake:1 sale:1 rocks:1 raises:1 holiday:1 miss:1
-KSS	20121203	43.7	43.15	r_down	
-KSS	20121204	43.15	43.11	r_down	
-KSS	20121205	43.11	43.52	r_up	's:1
-KSS	20121206	43.52	43.41	r_down	
-KSS	20121207	43.41	43.46	r_up	
-KSS	20121210	43.46	43.04	r_down	myths:1 sells:1 other:1 retail:1
-KSS	20121211	43.04	42.88	r_down	
-KSS	20121212	42.88	43.13	r_up	's:2
-KSS	20121213	43.13	43.25	r_up	
-KSS	20121214	43.25	43.18	r_down	
-KSS	20121217	43.18	43.56	r_up	
-KSS	20121218	43.56	43.69	r_up	's:1
-KSS	20121219	43.69	44.12	r_up	
-KSS	20121220	44.12	43.17	r_down	
-KSS	20121221	43.17	42.74	r_down	
-KSS	20121224	42.74	42.84	r_up	
-KSS	20121226	42.84	42.04	r_down	hustle:1 retailers’:1 stakes:1
-KSS	20121227	42.04	41.94	r_down	
-KSS	20121228	41.94	41.68	r_down	
-KSS	20121231	41.68	42.37	r_up	disappointing:1 gird:1 sales:1
-KSS	20130102	42.37	41.61	r_down	's:1
-KSS	20130103	41.61	41.75	r_up	gaining:1 's:1 biggest:1 note:1 start:1 year:1 jittery:1 new:1 stocks:1 declining:1
-KSS	20130104	41.75	41.63	r_down	
-KSS	20130107	41.63	41.37	r_down	
-KSS	20130108	41.37	41.22	r_down	
-KSS	20130109	41.22	41.35	r_up	stores:1 could:1 dodo:1 way:1 go:1 's:1
-KSS	20130110	41.35	41.9	r_up	
-KSS	20130111	41.9	41.42	r_down	
-KSS	20130114	41.42	41.39	r_down	
-KSS	20130115	41.39	42.14	r_up	
-KSS	20130116	42.14	42.18	r_up	
-KSS	20130117	42.18	42.83	r_up	
-KSS	20130118	42.83	43.21	r_up	
-KSS	20130122	43.21	43.08	r_down	
-KSS	20130123	43.08	42.83	r_down	
-KSS	20130124	42.83	44.26	r_up	
-KSS	20130125	44.26	44.61	r_up	
-KSS	20130128	44.61	44.46	r_down	
-KSS	20130129	44.46	44.87	r_up	
-KSS	20130130	44.87	45.08	r_up	
-KSS	20130131	45.08	45.63	r_up	
-KSS	20130201	45.63	45.36	r_down	
-KSS	20130204	45.36	44.57	r_down	
-KSS	20130205	44.57	44.74	r_up	
-KSS	20130206	44.74	45.59	r_up	
-KSS	20130207	45.59	45.16	r_down	
-KSS	20130208	45.16	45.36	r_up	
-KSS	20130211	45.36	45.46	r_up	
-KSS	20130212	45.46	45.41	r_down	
-KSS	20130213	45.41	45.94	r_up	
-KSS	20130214	45.94	46.31	r_up	
-KSS	20130215	46.31	45.68	r_down	n't:1
-KSS	20130219	45.68	45.82	r_up	
-KSS	20130220	45.82	45.91	r_up	
-KSS	20130221	45.91	45.85	r_down	
-KSS	20130222	45.85	45.53	r_down	
-KSS	20130225	45.53	44.86	r_down	
-KSS	20130226	44.86	44.99	r_up	profit:1 slips:1 2:1 hit:1 costs:1
-KSS	20130227	44.99	45.95	r_up	
-KSS	20130228	45.95	45.45	r_down	loss:1 narrows:1 miss:1 's:2 forecasts:1
-KSS	20130301	45.45	45.52	r_up	
-KSS	20130304	45.52	45.73	r_up	
-KSS	20130305	45.73	46.01	r_up	
-KSS	20130306	46.01	45.61	r_down	
-KSS	20130307	45.61	45.53	r_down	
-KSS	20130308	45.53	46.0	r_up	
-KSS	20130311	46.0	46.73	r_up	
-KSS	20130312	46.73	47.01	r_up	
-KSS	20130313	47.01	48.49	r_up	9:1
-KSS	20130314	48.49	48.75	r_up	
-KSS	20130315	48.75	48.99	r_up	
-KSS	20130318	48.99	48.21	r_down	
-KSS	20130319	48.21	46.25	r_down	
-KSS	20130320	46.25	46.45	r_up	
-KSS	20130321	46.45	46.12	r_down	
-KSS	20130322	46.12	46.01	r_down	
-KSS	20130325	46.01	46.08	r_up	
-KSS	20130326	46.08	46.42	r_up	blame:1 game:1 weather:1 joins:1
-KSS	20130327	46.42	46.29	r_down	
-KSS	20130328	46.29	45.82	r_down	
-KSS	20130401	45.82	45.23	r_down	's:1
-KSS	20130402	45.23	45.4	r_up	
-KSS	20130403	45.4	46.73	r_up	
-KSS	20130404	46.73	47.79	r_up	tax:1 fears:1 payroll:1 overblown:1 analyst:1
-KSS	20130405	47.79	47.84	r_up	
-KSS	20130408	47.84	47.7	r_down	
-KSS	20130409	47.7	47.1	r_down	
-KSS	20130410	47.1	47.54	r_up	
-KSS	20130411	47.54	48.59	r_up	
-KSS	20130412	48.59	48.09	r_down	
-KSS	20130415	48.09	47.12	r_down	
-KSS	20130416	47.12	46.76	r_down	
-KSS	20130417	46.76	46.65	r_down	
-KSS	20130418	46.65	46.64	r_down	
-KSS	20130419	46.64	47.12	r_up	
-KSS	20130422	47.12	47.02	r_down	
-KSS	20130423	47.02	47.39	r_up	
-KSS	20130424	47.39	47.18	r_down	
-KSS	20130425	47.18	47.69	r_up	
-KSS	20130426	47.69	47.95	r_up	
-KSS	20130429	47.95	47.0	r_down	
-KSS	20130430	47.0	46.74	r_down	
-KSS	20130501	46.74	46.29	r_down	
-KSS	20130502	46.29	46.68	r_up	
-KSS	20130503	46.68	47.98	r_up	
-KSS	20130506	47.98	47.92	r_down	
-KSS	20130507	47.92	47.34	r_down	
-KSS	20130508	47.34	46.68	r_down	
-KSS	20130509	46.68	47.89	r_up	
-KSS	20130510	47.89	48.57	r_up	
-KSS	20130513	48.57	47.85	r_down	's:1
-KSS	20130514	47.85	48.86	r_up	
-KSS	20130515	48.86	49.35	r_up	
-KSS	20130516	49.35	51.68	r_up	claims:1 hit:1 jobless:1 movers:1 futures:1 watch:1 rise:1 fall:1 downgrade:1 's:3 stocks:1
-KSS	20130517	51.68	51.23	r_down	
-KSS	20130520	51.23	50.86	r_down	
-KSS	20130521	50.86	52.0	r_up	
-KSS	20130522	52.0	51.73	r_down	
-KSS	20130523	51.73	51.79	r_up	
-KSS	20130524	51.79	51.56	r_down	
-KSS	20130528	51.56	51.28	r_down	n't:1
-KSS	20130529	51.28	51.19	r_down	
-KSS	20130530	51.19	50.78	r_down	
-KSS	20130531	50.78	51.06	r_up	
-KSS	20130603	51.06	51.08	r_up	
-KSS	20130604	51.08	51.5	r_up	view:1 supports:1 market:1 bullish:1 spike:1
-KSS	20130605	51.5	50.63	r_down	
-KSS	20130606	50.63	50.99	r_up	3:1 's:1
-KSS	20130607	50.99	51.61	r_up	
-KSS	20130610	51.61	51.71	r_up	
-KSS	20130611	51.71	51.27	r_down	
-KSS	20130612	51.27	51.2	r_down	
-KSS	20130613	51.2	51.91	r_up	
-KSS	20130614	51.91	52.15	r_up	
-KSS	20130617	52.15	52.75	r_up	--:1 's:1 2013:1
-KSS	20130618	52.75	52.44	r_down	
-KSS	20130619	52.44	51.79	r_down	
-KSS	20130620	51.79	50.56	r_down	
-KSS	20130621	50.56	50.59	r_up	
+KSS	20140501	54.0	54.4	r_up	
+KSS	20140502	54.4	54.9	r_up	
+KSS	20140505	54.9	54.5	r_down	regional:1 show:1 differences:1 maps:2 6:1 shops:1 retail:1
+KSS	20140506	54.5	53.1	r_down	
+KSS	20140507	53.1	52.8	r_down	
+KSS	20140508	52.8	53.1	r_up	
+KSS	20140509	53.1	54.0	r_up	said:1 's:2 would:1 double:1 energy:1 retailer:1 number:1 stores:1 centers:1 2020:1 distribution:1 solar:1 largest:1 world:1 on-site:1 its:1 projects:1
+KSS	20140512	54.0	54.8	r_up	
+KSS	20140513	54.8	55.1	r_up	management:1 's:2 matter:1 according:1 sales:1 face:1 person:1 planning:1 shake-up:1 stalled:1 familiar:1
+KSS	20140514	55.1	53.2	r_down	whose:1 giant:1 potential:1 list:1 watch:1 stake:1 companies:1 retailing:1 shares:1 trade:1 looking:1 active:1 see:1 session:1 long:1 expected:1 stocks:1 buyers:1 its:1 quite:1
+KSS	20140515	53.2	51.5	r_down	managed:1 domestic:1 trade:2 own:1 including:2 fear:1 its:1 weekly:1 adding:1 $:2 zone:1 writes:1 expectations:2 improvement:1 better:1 production:1 compelling:1 weeks:1 has:1 local:1 achieve:1 inventory:1 return:1 far:1 outlined:2 test:1 inflation:1 worst:1 125:1 fall:1 not:1 one:1 multiyear:1 structural:1 --:2 companies:3 did:1 session:2 team:1 gauge:1 quarter:5 attracting:1 stalling:1 we:1 3.4:1 growth:4 changes:1 3.1:1 first-quarter:1 declined:1 encouraged:1 index:2 said:3 actively:2 profit:2 missing:2 recorded:1 shares:2 new:1 ends:1 earlier:1 resume:1 million:1 reported:1 leadership:1 manufacturing:1 talent:1 changed:1 reports:1 levels:1 products:1 analysts:1 mixed:1 wonders:1 fallen:1 other:1 department-store:1 first:2 industrial:1 slipped:1 retailer:3 2nd:1 offerings:1 throughout:1 market:3 decline:1 little:1 jobless:1 top:1 least:1 permanent:1 lot:1 expected:2 500:1 more:1 fiscal:1 ``:2 controlled:1 offering:1 company:1 but:1 taken:1 goals:1 sharply:1 trying:1 stocking:1 case:1 15:2 deluge:1 behemoth:1 say:1 economic:1 store:1 were:4 risk-averse:1 investors:1 0.2:1 turned:1 sales:7 expenses:1 '':2 tastes:1 have:1 our:1 if:1 4.1:1 things:1 internal:1 5:1 earnings:2 which:1 department:1 place:1 becoming:1 stock:3 week:1 's:10 price:1 after:4 includes:1 fell:3 plan:3 organization:1 stocks:1 data:3 concerns:1 euro:1 billion:1 lower:3 especially:1 calls:1 amid:1 futures:2 savings:1 so:1 agenda:1 claims:1 consumer:1 latest:1
+KSS	20140516	51.5	52.5	r_up	closely:1 investors:1 close:1 rally:1 previous:1 upgrade:2 profit:1 top:1 turnaround:1 earnings:2 500:1 day’s:1 gains:1 beat:1 jumps:1 after:1 wake:1 key:1 report:1 news:1 rebounds:1 analyst:1 losses:1 watched:1 while:1 rallies:1
+KSS	20140519	52.5	52.3	r_down	
+KSS	20140520	52.3	51.6	r_down	do:1 's:1 investors:1 advantage:1 much:1 into:1 n't:1 going:1 earnings:1 report:1 its:1 expect:1
+KSS	20140521	51.6	51.9	r_up	
+KSS	20140522	51.9	52.1	r_up	expansion:1 faced:1 's:1 16:1 retailer:1 losses:1 problems:1 fewer:1 depths:1 fell:1 earnings:1 highlighting:1 shoppers:1 visited:1 its:1 stores:1
+KSS	20140523	52.1	52.1	r_up	
+KSS	20140527	52.1	53.5	r_up	hurting:1 persists:1 's:2 retailer:1 may:1 pay:1 top:1 men:1 companies:1 but:1 gap:1 environment:1 running:1 they:1 macro:1 terms:1 closing:1 execution:1 bit:1 women:1
+KSS	20140528	53.5	53.2	r_down	
+KSS	20140529	53.2	53.7	r_up	
+KSS	20140530	53.7	53.7	r_up	
+KSS	20140602	53.7	53.5	r_down	
+KSS	20140603	53.5	53.1	r_down	
+KSS	20140604	53.1	53.5	r_up	
+KSS	20140605	53.5	52.9	r_down	
+KSS	20140606	52.9	53.4	r_up	
+KSS	20140609	53.4	53.3	r_down	
+KSS	20140610	53.3	52.8	r_down	
+KSS	20140611	52.8	52.0	r_down	
+KSS	20140612	52.0	51.9	r_down	
+KSS	20140613	51.9	51.7	r_down	
+KSS	20140616	51.7	52.4	r_up	
+KSS	20140617	52.4	52.6	r_up	
+KSS	20140618	52.6	52.6	r_up	
+KSS	20140619	52.6	52.8	r_up	
+KSS	20140620	52.8	52.0	r_down	
+KSS	20140623	52.0	52.4	r_up	
+KSS	20140624	52.4	52.7	r_up	
+KSS	20140625	52.7	52.4	r_down	
+KSS	20140626	52.4	52.6	r_up	back:1 bring:1 can:1 have:1 seen:1 manufacturing:1 maker:1 difficult:1
+KSS	20140627	52.6	52.8	r_up	
+KSS	20140630	52.8	52.3	r_down	
+KSS	20140701	52.3	52.8	r_up	
+KSS	20140702	52.8	52.0	r_down	
+KSS	20140703	52.0	52.6	r_up	
+KSS	20140707	52.6	52.6	r_up	
+KSS	20140708	52.6	52.6	r_up	
+KSS	20140709	52.6	52.8	r_up	
+KSS	20140710	52.8	51.7	r_down	
+KSS	20140711	51.7	51.1	r_down	
+KSS	20140714	51.1	50.6	r_down	
+KSS	20140715	50.6	51.0	r_up	do:1 stores:2 consumers:1 lie:1 big:1 sneakiest:1 trick:1 thing:1 fat:1
+KSS	20140716	51.0	51.2	r_up	
+KSS	20140717	51.2	51.2	r_up	
+KSS	20140718	51.2	52.0	r_up	
+KSS	20140721	52.0	51.9	r_down	
+KSS	20140722	51.9	51.3	r_down	
+KSS	20140723	51.3	51.4	r_up	
+KSS	20140724	51.4	51.7	r_up	
+KSS	20140725	51.7	51.0	r_down	
+KSS	20140728	51.0	51.8	r_up	
+KSS	20140729	51.8	51.6	r_down	
+KSS	20140730	51.6	53.2	r_up	
+KSS	20140731	53.2	53.1	r_down	
+KSS	20140801	53.1	53.2	r_up	
+KSS	20140804	53.2	53.3	r_up	
+KSS	20140805	53.3	53.6	r_up	
+KSS	20140806	53.6	54.3	r_up	
+KSS	20140807	54.3	54.1	r_down	
+KSS	20140808	54.1	55.3	r_up	
+KSS	20140811	55.3	55.4	r_up	
+KSS	20140812	55.4	55.5	r_up	shop:1 skip:1 back-to-school:1 concludes:1 clothing:1 essentials:1 visit:1 should:1 shifts:1 other:1 parents:1 earnings:1 supplies:1 chains:1 week:1 season:1 flurry:1 ones:1 they:1 not:1 stocks:1 school:1 big-box:1 companies:1 reports:1 deals:1 can:1 retail:1 spotlight:1
+KSS	20140813	55.5	54.7	r_down	being:1 hard:1 retailer:1 results:1 disappointing:1 economic:1 best:1 van:1 leading:1 shares:1 take:1 which:1 2014:1 beating:1 shows:1 hit:1 combination:1 company:1 worst:1 losing:1 during:1 stocks:2 data:1 downbeat:1 retail:2
+KSS	20140814	54.7	56.5	r_up	sector:1 chain:1 results:1 trade:1 economic:1 economy:1 higher:1 year:1 market:1 decline:1 story:1 said:1 end:1 $:3 shares:1 labor:1 rates:1 earnings:2 pretty:2 quarterly:1 low:1 modestly:2 good:1 's:5 fiscal:1 rise:1 tops:3 different:1 sales:1 slides:1 expected:1 wake:1 stocks:2 data:1 second-quarter:1 session:1 lower:1 retail:1 improved:1 longer:1 companies:1 keep:1 actively:1 expenses:1 200,000:2 speculation:1 drops:1 slightly:1 department-store:1 looks:2
+KSS	20140815	56.5	56.5	r_up	into:1 sales:1 leads:1 year:1 march:1 rose:1 earnings:2 territory:1 higher:1 's:1 season:2 back:1 extending:1 bang:1 report:1 stocks:2 begins:1 off:1 starts:1 lousy:1 positive:1 retail:2
+KSS	20140818	56.5	57.1	r_up	
+KSS	20140819	57.1	57.3	r_up	ready:1 busy:1 shopping:1 getting:1 season:1 busiest:1 up:1 holidays:1 gearing:1 start:1 other:1 retailers:1 year:1 already:1 their:1
+KSS	20140820	57.3	58.5	r_up	emerging:1 athletic:1 themes:1 rate:2 itself:1 through:1 sport:1 find:1 market:1 even:1 decline:1 yoga:1 profit:1 outpacing:1 sports:1 instance:1 earnings:2 conference:1 gear:1 releases:1 season:1 most:1 demand:1 quarter:1 calls:1 participating:1 growth:2 surging:1 apparel:1 retail:1
+KSS	20140821	58.5	58.9	r_up	
+KSS	20140822	58.9	59.0	r_up	39:2 's:1 shoes:1 profit:1 jumped:1 sales:1 athletic:1 demand:1 apparel:1 strong:1 sluggish:1
+KSS	20140825	59.0	59.2	r_up	
+KSS	20140826	59.2	59.0	r_down	
+KSS	20140827	59.0	59.2	r_up	
+KSS	20140828	59.2	59.0	r_down	
+KSS	20140829	59.0	58.4	r_down	
+KSS	20140902	58.4	58.7	r_up	cheap:1 high:1 not:1 lesson:1 spark:1 stocks:2 group:1 their:1 breakout:1 low:1 technicals:1 but:1 groups:1 improving:1 awaiting:1 strong:1 buying:1 building:1 bases:1 like:1 always:1 tinder:1
+KSS	20140903	58.7	58.7	r_up	's:2 hoping:1 reinvigorate:1 well:1 sales:1 teenagers:1 network:1 video:1 turning:1 sluggish:1 its:1 help:1
+KSS	20140904	58.7	59.9	r_up	own:1 would:1 business:1 some:1 one:1 challenges:1 their:1 running:1 said:1 easy:1 your:1 discuss:1
+KSS	20140905	59.9	59.5	r_down	
+KSS	20140908	59.5	58.7	r_down	
+KSS	20140909	58.7	59.2	r_up	
+KSS	20140910	59.2	58.8	r_down	
+KSS	20140911	58.8	59.8	r_up	
+KSS	20140912	59.8	60.3	r_up	
+KSS	20140915	60.3	60.3	r_up	
+KSS	20140916	60.3	61.1	r_up	
+KSS	20140917	61.1	61.5	r_up	
+KSS	20140918	61.5	62.5	r_up	
+KSS	20140919	62.5	61.9	r_down	
+KSS	20140922	61.9	61.7	r_down	
+KSS	20140923	61.7	61.8	r_up	seasonal:1 hire:1 made:1 hires:1 help:1 season:1 workers:1 crucial:1 number:1 same:1 period:1 during:1 year:2 holiday-shopping:1 45,000:1 last:1
+KSS	20140924	61.8	62.4	r_up	
+KSS	20140925	62.4	61.3	r_down	seasonal:1 challenged:1 sales:1 growth:1 dropped:1 year:1 conclusions:1 47:1 workers:1 increase:1 drawn:1 holiday:1 week:1 plans:1 season:1 after:1 period:1 25,000:1 report:1 hire:1 last:2 double-digit:1 footwear:1 maker:1
+KSS	20140926	61.3	62.1	r_up	
+KSS	20140929	62.1	61.2	r_down	
+KSS	20140930	61.2	61.0	r_down	
+KSS	20141001	61.0	60.4	r_down	
+KSS	20141002	60.4	60.8	r_up	
+KSS	20141003	60.8	61.4	r_up	all:1 extra:1 hard:1 some:1 stop:1 repeat:1 want:2 find:1 if:1 scoring:1 guarantees:1 combines:1 gon:1 working:1 space:1 pay:1 avoid:1 it’s:1 pushing:1 your:1 4:1 6:1 you:4 holiday:4 approach:1 more:1 even:1 good:1 jobs:2 get:1 may:1 season:2 fiasco:1 convincing:1 paid:1 delivery:2 job:2 know:1 coveted:1 those:1 like:1 promotions:1 both:1 hire:1 land:1 last:1 look:1 surprising:1 1999:1 positions:1 rethink:1 can:1 retailers:1 na:1 strategies:1 out:1 challenge:1 year’s:1
+KSS	20141006	61.4	59.5	r_down	necessary:1 may:1 closings:1 reduce:1 cost:1 structure:1 store:1
+KSS	20141007	59.5	57.8	r_down	
+KSS	20141008	57.8	58.0	r_up	investors:1 meeting:1 update:1 analyst:2 turnaround:1 expect:1 expected:1 progress:1 years:1 its:2 day:1 two:1 first:1
+KSS	20141009	58.0	57.1	r_down	
+KSS	20141010	57.1	56.6	r_down	

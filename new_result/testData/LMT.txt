@@ -1,307 +1,114 @@
-LMT	20120402	84.68	85.91	r_up	
-LMT	20120403	85.91	85.82	r_down	
-LMT	20120404	85.82	85.13	r_down	500:1
-LMT	20120405	85.13	84.96	r_down	
-LMT	20120409	84.96	83.63	r_down	
-LMT	20120410	83.63	82.62	r_down	
-LMT	20120411	82.62	83.39	r_up	
-LMT	20120412	83.39	84.97	r_up	
-LMT	20120413	84.97	84.15	r_down	
-LMT	20120416	84.15	84.41	r_up	
-LMT	20120417	84.41	85.38	r_up	
-LMT	20120418	85.38	85.16	r_down	
-LMT	20120419	85.16	85.13	r_down	n't:1
-LMT	20120420	85.13	85.61	r_up	
-LMT	20120423	85.61	85.31	r_down	
-LMT	20120424	85.31	85.88	r_up	
-LMT	20120425	85.88	85.74	r_down	
-LMT	20120426	85.74	86.42	r_up	decline:1 after:1 jobless:1 futures:1 watch:1 claims:1 data:1
-LMT	20120427	86.42	86.04	r_down	
-LMT	20120430	86.04	85.32	r_down	
-LMT	20120501	85.32	85.33	r_up	
-LMT	20120502	85.33	84.89	r_down	
-LMT	20120503	84.89	84.31	r_down	
-LMT	20120504	84.31	82.77	r_down	rates:1 stocks:1 capping:1 swap:1 bonds:1
-LMT	20120507	82.77	82.28	r_down	
-LMT	20120508	82.28	82.11	r_down	
-LMT	20120509	82.11	81.0	r_down	
-LMT	20120510	81.0	81.16	r_up	
-LMT	20120511	81.16	80.3	r_down	
-LMT	20120514	80.3	80.29	r_down	
-LMT	20120515	80.29	79.72	r_down	's:1
-LMT	20120516	79.72	79.47	r_down	
-LMT	20120517	79.47	78.06	r_down	
-LMT	20120518	78.06	78.01	r_down	
-LMT	20120521	78.01	78.81	r_up	
-LMT	20120522	78.81	78.87	r_up	
-LMT	20120523	78.87	78.55	r_down	
-LMT	20120524	78.55	78.57	r_up	
-LMT	20120525	78.57	77.94	r_down	
-LMT	20120529	77.94	78.84	r_up	
-LMT	20120530	78.84	78.97	r_up	
-LMT	20120531	78.97	78.97	r_up	
-LMT	20120601	78.97	77.47	r_down	
-LMT	20120604	77.47	77.3	r_down	
-LMT	20120605	77.3	77.08	r_down	
-LMT	20120606	77.08	78.57	r_up	
-LMT	20120607	78.57	79.31	r_up	
-LMT	20120608	79.31	79.44	r_up	billion:1 5:1 $:1 competition:1 replace:1
-LMT	20120611	79.44	78.65	r_down	
-LMT	20120612	78.65	79.52	r_up	
-LMT	20120613	79.52	78.85	r_down	
-LMT	20120614	78.85	79.48	r_up	
-LMT	20120615	79.48	79.59	r_up	
-LMT	20120618	79.59	80.84	r_up	
-LMT	20120619	80.84	81.36	r_up	
-LMT	20120620	81.36	80.63	r_down	4.6:2 $:2
-LMT	20120621	80.63	80.47	r_down	
-LMT	20120622	80.47	81.41	r_up	
-LMT	20120625	81.41	80.36	r_down	
-LMT	20120626	80.36	79.53	r_down	
-LMT	20120627	79.53	80.99	r_up	
-LMT	20120628	80.99	80.62	r_down	
-LMT	20120629	80.62	83.06	r_up	's:2
-LMT	20120702	83.06	83.13	r_up	
-LMT	20120703	83.13	83.47	r_up	
-LMT	20120705	83.47	82.98	r_down	
-LMT	20120706	82.98	82.85	r_down	
-LMT	20120709	82.85	83.35	r_up	
-LMT	20120710	83.35	83.0	r_down	740:2
-LMT	20120711	83.0	82.83	r_down	's:1
-LMT	20120712	82.83	82.04	r_down	
-LMT	20120713	82.04	83.22	r_up	
-LMT	20120716	83.22	83.11	r_down	
-LMT	20120717	83.11	83.39	r_up	
-LMT	20120718	83.39	84.5	r_up	10,000:1
-LMT	20120719	84.5	84.42	r_down	
-LMT	20120720	84.42	83.66	r_down	
-LMT	20120723	83.66	82.89	r_down	
-LMT	20120724	82.89	83.73	r_up	's:1 5.3:2 watch:1 2nd:2
-LMT	20120725	83.73	83.63	r_down	surprises:1 advisories:1
-LMT	20120726	83.63	84.46	r_up	
-LMT	20120727	84.46	86.03	r_up	
-LMT	20120730	86.03	84.96	r_down	
-LMT	20120731	84.96	85.14	r_up	
-LMT	20120801	85.14	84.85	r_down	
-LMT	20120802	84.85	84.36	r_down	
-LMT	20120803	84.36	85.26	r_up	$:1 1.1:1
-LMT	20120806	85.26	84.88	r_down	
-LMT	20120807	84.88	86.15	r_up	
-LMT	20120808	86.15	86.69	r_up	
-LMT	20120809	86.69	86.36	r_down	dilemma:1
-LMT	20120810	86.36	86.82	r_up	
-LMT	20120813	86.82	86.91	r_up	
-LMT	20120814	86.91	87.13	r_up	
-LMT	20120815	87.13	87.28	r_up	
-LMT	20120816	87.28	87.8	r_up	
-LMT	20120817	87.8	88.13	r_up	
-LMT	20120820	88.13	89.01	r_up	
-LMT	20120821	89.01	89.46	r_up	
-LMT	20120822	89.46	88.73	r_down	
-LMT	20120823	88.73	87.94	r_down	
-LMT	20120824	87.94	88.18	r_up	
-LMT	20120827	88.18	88.01	r_down	
-LMT	20120828	88.01	88.21	r_up	
-LMT	20120829	88.21	87.67	r_down	
-LMT	20120830	87.67	87.68	r_up	
-LMT	20120831	87.68	87.88	r_up	
-LMT	20120904	87.88	87.3	r_down	
-LMT	20120905	87.3	88.26	r_up	
-LMT	20120906	88.26	89.51	r_up	
-LMT	20120907	89.51	88.89	r_down	
-LMT	20120910	88.89	88.74	r_down	
-LMT	20120911	88.74	88.94	r_up	
-LMT	20120912	88.94	89.12	r_up	
-LMT	20120913	89.12	89.8	r_up	
-LMT	20120914	89.8	89.21	r_down	
-LMT	20120917	89.21	88.92	r_down	
-LMT	20120918	88.92	88.49	r_down	
-LMT	20120919	88.49	88.94	r_up	n't:1
-LMT	20120920	88.94	87.92	r_down	
-LMT	20120921	87.92	88.03	r_up	
-LMT	20120924	88.03	87.79	r_down	
-LMT	20120925	87.79	88.23	r_up	
-LMT	20120926	88.23	88.63	r_up	
-LMT	20120927	88.63	89.16	r_up	15:2
-LMT	20120928	89.16	90.04	r_up	
-LMT	20121001	90.04	90.1	r_up	
-LMT	20121002	90.1	89.83	r_down	
-LMT	20121003	89.83	89.76	r_down	
-LMT	20121004	89.76	91.14	r_up	
-LMT	20121005	91.14	91.0	r_down	
-LMT	20121008	91.0	90.65	r_down	
-LMT	20121009	90.65	90.37	r_down	bands:1 volatility:1
-LMT	20121010	90.37	89.4	r_down	vs.:1
-LMT	20121011	89.4	89.41	r_up	's:1
-LMT	20121012	89.41	89.64	r_up	
-LMT	20121015	89.64	89.19	r_down	
-LMT	20121016	89.19	90.03	r_up	
-LMT	20121017	90.03	90.24	r_up	
-LMT	20121018	90.24	90.95	r_up	
-LMT	20121019	90.95	89.57	r_down	
-LMT	20121022	89.57	89.46	r_down	
-LMT	20121023	89.46	88.66	r_down	
-LMT	20121024	88.66	90.56	r_up	's:2 3.9:2 watch:1 4:1 earnings:1
-LMT	20121025	90.56	90.21	r_down	falter:1 prospects:1 earnings:1 worse:1 grow:1
-LMT	20121026	90.21	89.52	r_down	
-LMT	20121031	89.52	90.32	r_up	
-LMT	20121101	90.32	90.82	r_up	
-LMT	20121102	90.82	90.37	r_down	
-LMT	20121105	90.37	90.74	r_up	right:1 $:1 2.4:1 election:1 way:1 pick:1 stocks:1 before:1
-LMT	20121106	90.74	91.48	r_up	
-LMT	20121107	91.48	87.89	r_down	1.6:1 $:1
-LMT	20121108	87.89	86.71	r_down	's:1
-LMT	20121109	86.71	86.77	r_up	lights:1 trade:1 up:1 deal:1 after-hours:1
-LMT	20121112	86.77	86.6	r_down	
-LMT	20121113	86.6	86.96	r_up	
-LMT	20121114	86.96	84.96	r_down	
-LMT	20121115	84.96	84.45	r_down	
-LMT	20121116	84.45	85.3	r_up	
-LMT	20121119	85.3	87.25	r_up	80:1
-LMT	20121120	87.25	86.96	r_down	
-LMT	20121121	86.96	87.28	r_up	
-LMT	20121123	87.28	88.55	r_up	
-LMT	20121126	88.55	89.96	r_up	
-LMT	20121127	89.96	89.77	r_down	
-LMT	20121128	89.77	90.35	r_up	
-LMT	20121129	90.35	90.83	r_up	
-LMT	20121130	90.83	91.08	r_up	
-LMT	20121203	91.08	89.38	r_down	
-LMT	20121204	89.38	89.31	r_down	
-LMT	20121205	89.31	89.36	r_up	
-LMT	20121206	89.36	89.31	r_down	
-LMT	20121207	89.31	89.72	r_up	
-LMT	20121210	89.72	90.22	r_up	18:1 million:1 $:1
-LMT	20121211	90.22	89.82	r_down	
-LMT	20121212	89.82	89.63	r_down	
-LMT	20121213	89.63	87.85	r_down	
-LMT	20121214	87.85	86.85	r_down	
-LMT	20121217	86.85	88.27	r_up	
-LMT	20121218	88.27	90.72	r_up	
-LMT	20121219	90.72	90.7	r_down	
-LMT	20121220	90.7	90.3	r_down	
-LMT	20121221	90.3	90.92	r_up	
-LMT	20121224	90.92	90.57	r_down	
-LMT	20121226	90.57	89.84	r_down	
-LMT	20121227	89.84	90.63	r_up	
-LMT	20121228	90.63	89.17	r_down	
-LMT	20121231	89.17	90.1	r_up	2012:1
-LMT	20130102	90.1	91.05	r_up	
-LMT	20130103	91.05	91.33	r_up	
-LMT	20130104	91.33	91.67	r_up	
-LMT	20130107	91.67	91.98	r_up	
-LMT	20130108	91.98	90.75	r_down	
-LMT	20130109	90.75	91.76	r_up	's:1
-LMT	20130110	91.76	91.88	r_up	
-LMT	20130111	91.88	91.48	r_down	
-LMT	20130114	91.48	91.68	r_up	
-LMT	20130115	91.68	91.79	r_up	n't:1
-LMT	20130116	91.79	91.33	r_down	
-LMT	20130117	91.33	92.5	r_up	
-LMT	20130118	92.5	91.74	r_down	
-LMT	20130122	91.74	93.07	r_up	
-LMT	20130123	93.07	93.79	r_up	
-LMT	20130124	93.79	91.04	r_down	after:1 sinks:1 futures:1 $:1 earnings:1 data:1 gain:1
-LMT	20130125	91.04	90.2	r_down	
-LMT	20130128	90.2	87.2	r_down	
-LMT	20130129	87.2	87.72	r_up	
-LMT	20130130	87.72	86.12	r_down	spending:1 defense:1 braces:1 cuts:1
-LMT	20130131	86.12	84.81	r_down	
-LMT	20130201	84.81	85.15	r_up	
-LMT	20130204	85.15	84.64	r_down	
-LMT	20130205	84.64	84.94	r_up	
-LMT	20130206	84.94	85.52	r_up	
-LMT	20130207	85.52	85.36	r_down	
-LMT	20130208	85.36	85.92	r_up	
-LMT	20130211	85.92	85.45	r_down	
-LMT	20130212	85.45	85.19	r_down	
-LMT	20130213	85.19	84.99	r_down	
-LMT	20130214	84.99	85.01	r_up	
-LMT	20130215	85.01	85.78	r_up	
-LMT	20130219	85.78	86.13	r_up	
-LMT	20130220	86.13	85.65	r_down	
-LMT	20130221	85.65	85.48	r_down	
-LMT	20130222	85.48	86.03	r_up	
-LMT	20130225	86.03	85.79	r_down	
-LMT	20130226	85.79	85.23	r_down	
-LMT	20130227	85.23	87.38	r_up	'':1 ``:1
-LMT	20130228	87.38	87.06	r_down	
-LMT	20130301	87.06	87.23	r_up	
-LMT	20130304	87.23	86.17	r_down	
-LMT	20130305	86.17	86.87	r_up	
-LMT	20130306	86.87	87.41	r_up	
-LMT	20130307	87.41	87.84	r_up	
-LMT	20130308	87.84	89.03	r_up	
-LMT	20130311	89.03	89.57	r_up	
-LMT	20130312	89.57	89.4	r_down	
-LMT	20130313	89.4	91.31	r_up	
-LMT	20130314	91.31	91.55	r_up	
-LMT	20130315	91.55	91.75	r_up	
-LMT	20130318	91.75	91.37	r_down	
-LMT	20130319	91.37	91.87	r_up	
-LMT	20130320	91.87	91.25	r_down	
-LMT	20130321	91.25	90.7	r_down	
-LMT	20130322	90.7	91.27	r_up	
-LMT	20130325	91.27	91.32	r_up	
-LMT	20130326	91.32	92.7	r_up	
-LMT	20130327	92.7	93.46	r_up	
-LMT	20130328	93.46	95.49	r_up	
-LMT	20130401	95.49	93.98	r_down	
-LMT	20130402	93.98	93.99	r_up	
-LMT	20130403	93.99	94.07	r_up	
-LMT	20130404	94.07	94.38	r_up	
-LMT	20130405	94.38	93.52	r_down	
-LMT	20130408	93.52	94.07	r_up	
-LMT	20130409	94.07	94.39	r_up	
-LMT	20130410	94.39	94.95	r_up	
-LMT	20130411	94.95	96.26	r_up	
-LMT	20130412	96.26	96.14	r_down	
-LMT	20130415	96.14	94.42	r_down	
-LMT	20130416	94.42	95.23	r_up	
-LMT	20130417	95.23	94.54	r_down	
-LMT	20130418	94.54	94.0	r_down	n't:1
-LMT	20130419	94.0	95.25	r_up	
-LMT	20130422	95.25	94.82	r_down	
-LMT	20130423	94.82	96.02	r_up	session:1 futures:1 bar:1 dominate:1 third:1 beat:1 surprises:1 rise:2 watch:1 advisories:1 earnings:2 news:1 consecutive:1 stocks:1 low:1
-LMT	20130424	96.02	96.64	r_up	
-LMT	20130425	96.64	97.22	r_up	
-LMT	20130426	97.22	97.91	r_up	
-LMT	20130429	97.91	98.0	r_up	
-LMT	20130430	98.0	98.03	r_up	
-LMT	20130501	98.03	98.29	r_up	
-LMT	20130502	98.29	99.59	r_up	
-LMT	20130503	99.59	100.92	r_up	
-LMT	20130506	100.92	101.09	r_up	
-LMT	20130507	101.09	101.78	r_up	
-LMT	20130508	101.78	100.71	r_down	
-LMT	20130509	100.71	100.26	r_down	
-LMT	20130510	100.26	100.85	r_up	
-LMT	20130513	100.85	100.8	r_down	
-LMT	20130514	100.8	101.77	r_up	
-LMT	20130515	101.77	102.93	r_up	
-LMT	20130516	102.93	102.89	r_down	
-LMT	20130517	102.89	105.27	r_up	
-LMT	20130520	105.27	105.42	r_up	
-LMT	20130521	105.42	105.84	r_up	
-LMT	20130522	105.84	105.35	r_down	
-LMT	20130523	105.35	105.16	r_down	
-LMT	20130524	105.16	105.91	r_up	
-LMT	20130528	105.91	106.6	r_up	
-LMT	20130529	106.6	106.16	r_down	
-LMT	20130530	106.16	107.03	r_up	
-LMT	20130531	107.03	105.83	r_down	
-LMT	20130603	105.83	105.44	r_down	
-LMT	20130604	105.44	105.07	r_down	
-LMT	20130605	105.07	103.59	r_down	
-LMT	20130606	103.59	104.37	r_up	
-LMT	20130607	104.37	107.36	r_up	
-LMT	20130610	107.36	106.67	r_down	
-LMT	20130611	106.67	105.96	r_down	
-LMT	20130612	105.96	107.05	r_up	
-LMT	20130613	107.05	107.97	r_up	dividend:1 hunters:1 play:1 stock:1
-LMT	20130614	107.97	107.7	r_down	
-LMT	20130617	107.7	108.27	r_up	up:1
-LMT	20130618	108.27	108.85	r_up	
-LMT	20130619	108.85	106.93	r_down	's:1
-LMT	20130620	106.93	105.04	r_down	
-LMT	20130621	105.04	105.06	r_up	
+LMT	20140501	161.5	160.3	r_down	
+LMT	20140502	160.3	161.3	r_up	temporarily:1 rocket:1 intelligence:1 over:1 satellites:1 engines:1 space:1 federal:1 administration:1 send:1 supplier:1 new:1 main:1 into:1 used:1 's:1 triggered:1 expansion:1 judge:1 bar:1 sanctions:1 against:1 deals:1 military:1
+LMT	20140505	161.3	162.5	r_up	
+LMT	20140506	162.5	160.9	r_down	buy:1 had:1 two:1 delayed:1 expected:1 said:1 committed:1 jets:1 part:1 2016:1 order:1
+LMT	20140507	160.9	161.6	r_up	helicopters:1 planned:1 23:1 six:1 been:1 hired:1 build:1 have:1 helicopter:1 fleet:2 presidential:1 first:1
+LMT	20140508	161.6	161.8	r_up	judge:1 lifted:1 said:1 rocket:1 federal:1 injunction:1 barring:1 later:1 dealings:1 supplier:1 main:1 its:1
+LMT	20140509	161.8	162.5	r_up	
+LMT	20140512	162.5	164.3	r_up	
+LMT	20140513	164.3	165.0	r_up	proposed:2 intelligence:1 some:1 sales:1 ending:1 four:1 aimed:1 station:1 technology:1 said:2 based:1 would:1 space:2 system:1 least:1 reliance:1 also:1 parts:1 role:1 international:1 has:1 engine:1 satellite:1 used:1 's:2 plans:1 measures:1 them:1 sooner:1 most:1 wake:1 raft:1 satellites:1 years:1 than:1 he:1 tracking:1 off:1 target:1 launch:1 country:1 sanctions:1 turn:1 2020:1 ban:1 military:1
+LMT	20140514	165.0	162.6	r_down	spy:1 major:1 into:1 private:1 businesses:1 shipbuilding:1 cruise:1 moves:1 technology:1 its:2 $:1 space:3 leading:1 reinvest:1 reliance:1 signals:1 little-known:1 cooperation:1 between:1 expected:1 has:1 issue:1 seeks:1 dispute:1 's:3 apparent:1 sophisticated:1 most:1 satellites:1 response:1 billion:1 main:1 launch:1 --:1 sanctions:1 companies:1 value:1 range:1 decrease:1 1.37:1 maker:1
+LMT	20140515	162.6	160.9	r_down	
+LMT	20140516	160.9	159.5	r_down	
+LMT	20140519	159.5	159.7	r_up	newest:1 help:1 voters:1 jet:1 ease:1 should:1 which:1 new:1 buy:1 's:1 combat:1 may:1 company:1 after:1 rejected:1 aircraft:1 plan:1 demand:1 spur:1 fighter:1 disappointment:1 order:1
+LMT	20140520	159.7	158.0	r_down	
+LMT	20140521	158.0	159.3	r_up	emerging:1 force:1 rocket:1 risk:1 tackle:1 likely:1 throughout:1 crisis:1 boosts:1 out:1 cargo:1 said:1 threats:1 $:1 engines:1 contest:1 provide:1 28:2 system:1 its:1 equipment:1 questioned:1 worth:1 conflict:1 play:1 's:1 plans:1 company:1 acquire:1 aircraft:1 demand:1 jets:1 such:1 manufacturer:1 billion:1 battling:1 warned:1 space:1 air:1 future:1 due:1 growing:1 military:1 reliance:1
+LMT	20140522	159.3	159.2	r_down	
+LMT	20140523	159.2	160.0	r_up	
+LMT	20140527	160.0	160.4	r_up	begins:1 week:1 missiles:1 weighing:1 threat:1 expand:1 deploy:1 counter:1 system:1 missile-defense:1 plan:1 cooperation:1 push:1 new:1 advanced:1
+LMT	20140528	160.4	159.5	r_down	begins:1 week:1 missiles:1 weighing:1 threat:1 expand:1 deploy:1 --:1 counter:1 system:1 missile-defense:1 defense:1 plan:1 cooperation:1 officials:1 push:1 new:1 advanced:1 said:1
+LMT	20140529	159.5	161.9	r_up	sales:1 years:1 '':1 say:1 officials:1 next:1 its:1 said:1 army:1 top:1 officers:1 capabilities:1 than:1 tight:1 widely:1 indictment:1 espionage:1 more:1 week:1 flat:1 ``:1 's:2 deeper:1 business:1 government:1 company:1 contends:1 expects:1 five:2 headwind:1 president:1 former:1 last:1 space:1 roughly:1 suggests:1 remain:1 defense:1 budgets:1 military:1
+LMT	20140530	161.9	162.4	r_up	among:1 since:1 have:1 into:1 astronauts:1 losing:1 spacecraft:1 growth:1 unveiled:1 decade:1 uneven:1 rebounded:1 factory:1 start:1 winners:1 choose:1 has:1 jobs:2 around:1 regional:1 but:1 cutting-edge:1 hopes:1 towns:1 created:1 later:1 orbit:1 recession:1 while:1
+LMT	20140602	162.4	162.8	r_up	powerful:1 radar:1 spacecraft:2 debris:2 its:1 $:3 would:2 space:2 satellites:2 threatens:2 system:1 awarded:1 field:2 build:1 915:3 destroy:2 more:2 track:2 million:1 fast-growing:2 phase:1 contract:1 first:1
+LMT	20140603	162.8	162.6	r_down	
+LMT	20140604	162.6	163.2	r_up	
+LMT	20140605	163.2	165.0	r_up	
+LMT	20140606	165.0	165.9	r_up	director:1 counsel:1 his:1 's:1 vice:1 managing:1 practice:1 joined:2 associate:1 general:1 international:1 role:1 compliance:1 president:1 senior:1
+LMT	20140609	165.9	166.8	r_up	
+LMT	20140610	166.8	166.0	r_down	
+LMT	20140611	166.0	163.2	r_down	radical:1 back:1 years:2 ready:2 fighters:1 warning:2 shocked:2 have:3 battle:2 large:1 troops:2 their:2 rout:2 been:2 equipment:1 politicians:2 forces:2 week:2 but:2 delivery:1 western:1 recent:1 days:1 n't:2 accelerated:1 push:1 military:3 support:1
+LMT	20140612	163.2	161.4	r_down	back:1 helicopters:1 days:1 's:1 help:1 government:1 --:1 radical:1 support:1 fighters:2 surveillance:1 delivery:1 equipment:1 accelerated:1 western:1 have:1 push:1 military:1 large:1 recent:1
+LMT	20140613	161.4	162.8	r_up	sector:1 concept:1 financial:2 deal:1 penalties:2 reduce:3 eyeing:2 defense:1 terms:1 399:2 poorly:1 buyers:2 said:3 $:2 jet:2 profit:1 make:1 commitments:2 should:1 weapons:2 their:5 program:3 promoting:1 perform:1 more:1 qualifies:1 get:2 funds:3 pushing:3 incentives:2 stick:2 they:2 contractors:1 own:3 than:1 billion:2 novel:1 --:1 invest:3 procurement:1 chief:1 cost:3 meet:1 overseas:2 builders:3 order:2
+LMT	20140616	162.8	163.9	r_up	activities:1 said:1 competitive:1 costs:1 their:1 remain:1 cut:1 combine:1 plan:1 they:1 rockets:1 future:1 its:1 seeks:1
+LMT	20140617	163.9	163.0	r_down	
+LMT	20140618	163.0	162.5	r_down	rocket:1 supply:2 intelligence:1 expects:1 deliveries:1 month:1 product:1 long:1 its:2 even:1 said:1 engines:2 space:1 tensions:1 since:1 had:1 two:1 been:1 crisis:1 delay:1 confident:1 concerns:1 way:1 largest:1 has:1 shipments:1 crunch:1 head:1 's:2 halt:1 though:1 models:1 company:1 printing:2 threatened:1 truly:1 five:1 wake:1 making:1 last:1 years:1 come:1 ago:1 politician:1 launch:1 receive:1 could:1 accelerated:1 continue:1 military:1 senior:1 consumer:1 challenge:1 first:1
+LMT	20140619	162.5	162.9	r_up	among:1 head:1 used:1 engines:1 rocket:1 space:1 fears:1 company:1 launch:1 moved:1 chiefs:1 satellites:1 calm:1 supplies:1 largest:1 interruption:1 military:1 lawmakers:1
+LMT	20140620	162.9	164.1	r_up	
+LMT	20140623	164.1	162.7	r_down	
+LMT	20140624	162.7	161.2	r_down	named:1 alliance:1 leaked:1 leaders:1 less:1 appeared:1 executive:1 reassure:1 years:1 defense:1 its:1 worthless:1 show:1 two:1 opportunities:1 has:1 's:2 relationship:1 replacing:1 moved:1 company:1 after:1 job:1 minister:1 than:1 faith:1 lost:1 pursue:1 restructuring:1 foreign:1 n't:1 conversation:1 chief:1 growth:1 following:1
+LMT	20140625	161.2	161.2	r_up	industry’s:2 pushes:1 humans:1 human:1 drones:2 make:1 airborne:1 should:1 earthquake:1 forest:1 above:1 you:1 main:1 more:1 wants:1 eyes:1 victims:1 fire:1 rise:1 lobbyist:2 here:1 helping:1 know:1 cutting-edge:1 sensors:1 lawmakers:1 widespread:1 sound:1 13:2 look:1 companies:2 side:1 drone:2 extensions:1 can:2 think:1
+LMT	20140626	161.2	160.8	r_down	control:1 1.3:2 over:1 move:1 defense:1 looks:1 still:1 investment:1 helicopters:1 $:2 lead:1 though:1 arms:1 awarded:1 weapons:1 program:1 largest:1 new:2 congressional:1 's:4 rescue:1 government:1 wrangling:1 hinges:1 world:1 billion:1 search:1 country:1 industry:1 companies:1 budget:1 contract:1 foreign:1 future:1 allow:1 military:1 outcome:1 could:1
+LMT	20140627	160.8	161.4	r_up	
+LMT	20140630	161.4	159.5	r_down	cybersecurity:1 series:1 two:1 talks:1 experts:1 high-profile:1 further:1 bidders:1 technology:1 issues:1 grappling:1 consortium:1 system:1 breaches:1 shortlisted:1 warnings:1 missile-defense:1 they:1 data:1 supplying:1 boards:1 corporate:1 once:1
+LMT	20140701	159.5	159.4	r_down	move:1 freeze:1 its:1 workers:1 system:1 been:1 employer:1 program:1 salaried:1 has:1 decades:1 them:1 plans:1 big:1 early:1 plan:1 announce:1 going:1 2016:1 shift:1 pension:2 starting:1 away:1 latest:1
+LMT	20140702	159.4	157.7	r_down	
+LMT	20140703	157.7	158.7	r_up	scheduled:1 them:1 newest:1 carriers:1 whether:1 over:1 despite:1 two:1 new:1 afford:1 aircraft:2 carrier:1 can:1 questions:1 participate:1 not:1 's:3 naming:1 lingering:1 first:1
+LMT	20140707	158.7	157.1	r_down	
+LMT	20140708	157.1	156.0	r_down	two:1 ends:1 's:4 jet:1 opposite:1 very:1 spectrum:1 price:1 planes:1 up:1 month:1 differently:1 fighter:1 new:1 shaping:1 extravaganza:1
+LMT	20140709	156.0	156.7	r_up	
+LMT	20140710	156.7	156.9	r_up	industrial:1 help:1 deal:1 over:1 each:1 reduce:1 nearing:1 years:1 cost:1 's:1 bomber:1 its:1 unit:1 170:1 partners:1 develop:1 $:2 engines:1 contest:1 two:1 trigger:1 between:1 expected:1 new:1 worth:1 engine:1 led:1 plans:1 combat:1 government:1 million:1 jets:1 2:1 formal:1 billion:1 launch:1 long-range:1 team:1 spend:1
+LMT	20140711	156.9	159.1	r_up	industrial:1 hoping:1 move:1 some:1 back:1 down:1 carry:1 say:1 officials:1 stealing:1 owner:1 much-needed:1 orders:1 help:1 sell:1 information:1 use:1 effort:1 rebuild:1 their:1 new:1 really:1 espionage:1 can:1 prosecute:1 led:1 ability:1 combat:1 partners:1 company:1 unusual:1 aircraft:1 talks:1 own:1 100:1 rampant:1 advanced:1 nail:1 fighter:1 many:1 industry:1 itself:1 defense:1 massive:1 team:1 military:1 overseas:1 charged:1 latest:1
+LMT	20140714	159.1	160.5	r_up	1.1:2 deal:1 show:1 orders:1 sales:1 community:1 defense:1 export:1 ready:1 its:2 unit:1 said:1 $:2 provide:1 deepens:1 flying:1 contractor:1 rivals:1 parts:1 transport:1 boost:1 highs:1 take:1 engine:1 's:2 business:1 company:1 revamp:1 plane:1 pulse:1 aerospace:2 output:1 opportunity:1 billion:1 represents:1 aluminum:1 annual:1 signed:1 air:1 record:1 growth:1 military:1 bet:1
+LMT	20140715	160.5	161.3	r_up	limited:1 idled:1 offensive:1 battle:1 long:1 go:1 its:3 transport:1 ground:1 sell:1 missiles:1 deepens:1 flying:1 able:1 been:1 may:1 finally:1 build:1 new:1 has:1 's:1 resume:1 fire:1 after:1 commercial:1 market:1 plane:2 military:1 teaming:1 approved:1 wait:1 high-end:1 weapon:1 up:1 fleet:1 maker:1
+LMT	20140716	161.3	160.3	r_down	prompting:1 move:1 sales:1 competition:2 highly:1 door:1 scuttled:1 face-off:1 seek:1 its:3 market:1 jet:1 space:1 transfer:1 two:1 fire:1 citing:1 safety:1 potentially:1 between:1 international:1 lawmakers:1 engine:1 satellite:1 's:3 plans:1 business:1 opening:1 contracts:1 commercial:1 anticipated:1 break:1 joint:1 aircraft:1 lucrative:1 fighter:1 hold:1 concerns:1 advanced:1 recent:1 attempt:1 success:1 launch:1 starts:1 could:1 debut:1 bids:1 up:1 accelerating:1 venture:1 rival:1 military:2 launches:1
+LMT	20140717	160.3	160.1	r_down	major:1 proposed:2 battery:1 global:1 tax:1 revamp:1 years:1 defense:2 speed:1 its:2 closer:1 giant:1 factory:1 their:1 state:1 build:1 new:1 lawmakers:1 regulation:1 breaks:1 after:1 site:1 construction:1 15:1 lower:1 off:1 look:1 showed:1 country:1 taking:1 companies:1 aims:1 costs:1 military:1 latest:1 changes:1 could:1 first:1
+LMT	20140718	160.1	161.2	r_up	
+LMT	20140721	161.2	161.7	r_up	rocket:1 vie:1 intelligence:1 satellites:1 unlikely:1 its:1 said:1 engines:1 item:1 make:1 which:1 has:1 used:1 's:1 government:1 most:1 not:1 fighter:1 jet:1 sanctions:1 launch:1 list:1 contract:1 n't:2 sensitive:1 military:1
+LMT	20140722	161.7	166.6	r_up	tap:1 investors:1 into:1 executive:1 down:1 rolling:1 fighters:1 his:1 predicts:1 close:1 still:1 market:3 said:1 ripe:1 grounded:1 good:1 camera:1 cause:1 correction:1 stock:1 engine:1 smartphone:1 's:2 fire:1 company:1 delayed:1 negotiating:1 strategist:1 aircraft:1 nailing:1 testing:1 jets:1 strategists:1 security:1 keep:1 purchase:1 fighter:1 jet:1 sensor:1 times:1 chief:1 mass:1 fleet:1 senior:1 latest:1 consumer:1 think:1 investigators:1
+LMT	20140723	166.6	166.8	r_up	consistent:1 yeah:1 replace:1 impossible:1 message:1 its:2 aging:1 her:1 writes:1 has:1 advice:1 seeks:1 head:1 combat:1 government:1 fire:1 bid:1 key:1 jets:1 counsel:1 task:1 jet:1 oh:1 country:1 submitted:1 fleet:1
+LMT	20140724	166.8	168.6	r_up	operations:1 raised:1 share:1 its:1 support:1 earnings:1 new:1 stock:1 's:2 dividends:1 company:1 rise:1 but:1 reported:1 fell:1 robust:1 continued:1 buybacks:1 plane:1 cash:1 52:1 costs:1 tanker:1 guidance:1 profits:1
+LMT	20140725	168.6	168.7	r_up	
+LMT	20140728	168.7	168.7	r_up	
+LMT	20140729	168.7	168.0	r_down	embattled:1 missiles:1 additional:1 government:2 posed:1 help:1 send:1 militants:1 said:1 5,000:1 threat:1 tackle:1 has:1 approved:1 plans:1
+LMT	20140730	168.0	168.9	r_up	
+LMT	20140731	168.9	165.7	r_down	
+LMT	20140801	165.7	165.8	r_up	
+LMT	20140804	165.8	167.0	r_up	151:1 force:1 said:1 's:1 $:1 company:1 sales:1 contract:1 communications:1 won:1 looks:1 largest:1 police:1 overseas:1 has:1 its:1 expand:1 improve:1
+LMT	20140805	167.0	165.6	r_down	
+LMT	20140806	165.6	161.8	r_down	
+LMT	20140807	161.8	161.7	r_down	
+LMT	20140808	161.7	164.5	r_up	said:1 develop:1 they:1 also:1 work:1 up:1 together:1 weapons:1 joint:1 step:1 want:1 exercises:1 military:1
+LMT	20140811	164.5	164.9	r_up	sector:1 opportunity:1 defense:1 sees:1 aerospace:1
+LMT	20140812	164.9	164.5	r_down	replaces:1 becomes:1 executive:1 controller:1 chief:3 interim:1 officer:3 accounting:2 its:1 names:1
+LMT	20140813	164.5	167.8	r_up	big-ticket:1 being:1 watched:1 unusual:1 develop:1 contest:1 selected:1 two:1 equipment:1 way:1 buys:1 test:1 new:1 has:1 type:1 designs:1 's:1 closely:1 helicopter:1 advance:1 industry:2 teams:1 military:1 changes:1
+LMT	20140814	167.8	168.2	r_up	planner:1 working:1 her:1 people:1 career:1 two:1 decided:1 combine:1 numbers:1 loves:1 become:1 technology:1
+LMT	20140815	168.2	167.8	r_down	
+LMT	20140818	167.8	170.2	r_up	
+LMT	20140819	170.2	170.8	r_up	
+LMT	20140820	170.8	173.9	r_up	
+LMT	20140821	173.9	173.7	r_down	
+LMT	20140822	173.7	173.8	r_up	
+LMT	20140825	173.8	175.2	r_up	
+LMT	20140826	175.2	175.2	r_up	aerial:1 general:1 debris:1 follow:1 said:1 threatening:1 station:1 build:1 new:1 has:1 refueling:1 development:1 company:1 problems:1 satellites:1 he:1 building:1 tracking:1 joined:1 unconcerned:1 n't:1 tech:1 can:1 senior:1 tanker:1
+LMT	20140827	175.2	175.1	r_down	
+LMT	20140828	175.1	174.1	r_down	
+LMT	20140829	174.1	174.0	r_down	
+LMT	20140902	174.0	173.8	r_down	
+LMT	20140903	173.8	173.5	r_down	program:1 another:1 pin:1 caused:2 into:1 testing:2 under:1 month:2 down:1 performance:1 cost:1 have:1 year:1 temporary:1 still:1 yet:1 issues:1 before:1 overruns:1 jet:2 series:1 trigger:1 fix:2 flying:1 had:1 next:1 delay:1 start:2 potential:2 which:1 grounding:1 supplier:1 threaten:1 cause:1 engine:3 after:1 led:1 plans:2 combat:1 restrictions:1 fire:3 sole:1 pressure:1 plane:1 entry:1 catch:2 execution:1 come:1 improve:1 entire:1 accident:1 fighter:2 service:1 --:1 's:1 place:1 planned:1 fleet:1 problem:2 its:1
+LMT	20140904	173.5	173.0	r_down	
+LMT	20140905	173.0	174.5	r_up	
+LMT	20140908	174.5	174.7	r_up	
+LMT	20140909	174.7	174.9	r_up	customers:1 capacity:1 working:1 space:1 expanding:1 industry:1 global:1 companies:1 costs:1 players:1 other:1 win:1 become:1 abroad:1 bigger:1 trimming:1
+LMT	20140910	174.9	174.5	r_down	
+LMT	20140911	174.5	174.2	r_down	major:1 want:1 chances:1 over:1 some:1 satellite:1 actions:1 have:1 yet:1 ways:1 avoid:1 been:1 its:1 does:1 take:1 passed:1 under:1 headache:1 them:1 sure:1 terms:1 but:2 most:1 they:1 fall:1 not:1 sending:1 scrambling:1 sanctions:2 --:1 builder:1 getting:1 companies:1 up:1 against:2 n't:2 whether:1 components:1 executives:1
+LMT	20140912	174.2	174.4	r_up	
+LMT	20140915	174.4	175.6	r_up	deal:1 supply:2 win:1 executive:1 sales:1 one:1 down:1 growth:1 nears:1 human:1 world:1 close:1 decisions:1 availability:1 out:1 said:1 capacity:1 chain:1 engines:1 data:1 create:1 subsidiary:1 contractor:1 write:1 also:1 systems:2 largest:1 new:2 has:1 cause:1 seeks:1 more:2 available:1 ``:1 explosive:1 demands:1 fire:1 company:1 formed:1 broke:1 contracts:1 resource:1 bringing:1 change:1 faster:1 '':1 fighter:1 jet:1 country:1 's:1 think:1 pinning:1 defense:2 ensure:1 can:1 planes:1 make:1
+LMT	20140916	175.6	177.1	r_up	's:2 space:1 station:1 startup:1 soon:1 contract:1 garner:1 international:1 part:1 astronauts:1 team:1 expected:1 led:1
+LMT	20140917	177.1	178.8	r_up	emerging:1 certification:1 defense:1 market:1 behemoths:1 said:1 would:1 space:1 breed:1 1:1 potentially:1 between:1 new:1 's:1 allow:1 joint:1 aerospace:1 cleared:1 like:1 launch:1 could:1 official:1 competitors:1 rockets:2 planned:1 venture:2 senior:1 challenge:1
+LMT	20140918	178.8	179.5	r_up	engine:2 rocket:1 premier:1 startup:1 one:1 supremacy:1 run:1 giant:1 now:1 develop:1 space:2 writes:1 leap:1 going:1 take:1 forces:1 provider:1 new:1 has:1 wants:1 eventually:1 's:2 intended:1 jointly:1 replace:1 joined:1 rockets:1 powers:1 head-to-head:1
+LMT	20140919	179.5	180.7	r_up	dry:1 giant:1 fighter:2 shift:1 away:1 up:1 leaving:1 without:1 preparing:1 rich:1 jets:1 military:1 company:1 orders:1 market:1 history:1
+LMT	20140922	180.7	178.9	r_down	ago:1 's:3 around:1 study:1 orbit:1 planet:1 spacecraft:1 journey:1 nearly:1 year:1 following:1 entered:1 unprecedented:1 red:1 began:1
+LMT	20140923	178.9	176.3	r_down	
+LMT	20140924	176.3	178.3	r_up	
+LMT	20140925	178.3	177.4	r_down	strengthening:1 says:1 executive:1 dollar:1 sales:1 select:1 said:1 end:1 jet:2 fix:1 program:1 expected:1 engine:1 's:4 contracts:1 some:1 company:1 senior:1 account:1 fighter:2 chief:1 planned:1 evaluating:1 military:1 overseas:1
+LMT	20140926	177.4	181.5	r_up	fourth-quarter:1 cuts:1 billions:1 down:1 likely:1 defense:1 another:1 dividend:1 its:1 $:1 spending:1 arms:1 weapons:1 3:1 largest:1 bout:1 worth:1 announced:1 more:1 buy:1 's:1 plans:1 rise:1 visits:1 contractors:1 services:1 world:1 discuss:1 buybacks:1 13:1 room:1 dollars:1 remain:1 highlight:1 stock:1
+LMT	20140929	181.5	181.3	r_down	has:1 plans:1 million:1 whether:1 proposed:1 revised:1 expect:1 award:1 until:1 n't:1 does:1 contract:1 decide:1 deal:1 helicopter:1 800:1 open:1 arm:1 competition:1 $:1
+LMT	20140930	181.3	182.7	r_up	life:1 apartment:1 tough:1 complex:1 reflects:1
+LMT	20141001	182.7	177.8	r_down	
+LMT	20141002	177.8	176.3	r_down	engine:1 's:1 working:1 increasingly:1 companies:1 competitive:1 field:1 entered:1 unit:1 replacement:1
+LMT	20141003	176.3	178.3	r_up	
+LMT	20141006	178.3	176.9	r_down	said:1 develop:1 contest:1 system:1 radar:1 won:1 new:1
+LMT	20141007	176.9	173.0	r_down	
+LMT	20141008	173.0	176.3	r_up	
+LMT	20141009	176.3	174.5	r_down	
+LMT	20141010	174.5	174.4	r_down	

@@ -1,307 +1,114 @@
-TWX	20120402	36.64	36.49	r_down	$:1
-TWX	20120403	36.49	36.39	r_down	
-TWX	20120404	36.39	35.84	r_down	
-TWX	20120405	35.84	35.58	r_down	
-TWX	20120409	35.58	34.97	r_down	news:1 forever:1 changed:1
-TWX	20120410	34.97	34.37	r_down	got:1 'm:1
-TWX	20120411	34.37	34.67	r_up	
-TWX	20120412	34.67	34.97	r_up	
-TWX	20120413	34.97	34.64	r_down	
-TWX	20120416	34.64	34.66	r_up	
-TWX	20120417	34.66	35.27	r_up	
-TWX	20120418	35.27	35.16	r_down	
-TWX	20120419	35.16	35.25	r_up	's:1
-TWX	20120420	35.25	35.53	r_up	
-TWX	20120423	35.53	35.21	r_down	's:1
-TWX	20120424	35.21	35.35	r_up	
-TWX	20120425	35.35	36.09	r_up	hero:1 true:1
-TWX	20120426	36.09	36.77	r_up	
-TWX	20120427	36.77	36.95	r_up	long:1
-TWX	20120430	36.95	36.37	r_down	
-TWX	20120501	36.37	36.81	r_up	
-TWX	20120502	36.81	36.2	r_down	peaked:1 11:1 stocks:1 gaining:1 surprises:1 watch:1 advisories:1 biggest:1 has:1 declining:1 if:1
-TWX	20120503	36.2	35.9	r_down	
-TWX	20120504	35.9	35.28	r_down	we:1 her:1 movies:1 if:1 know:1 world:1 you:1 doesn’t:1 hate:1 care:1
-TWX	20120507	35.28	34.95	r_down	
-TWX	20120508	34.95	34.64	r_down	
-TWX	20120509	34.64	34.6	r_down	fend:1 tries:1 activists:1 off:1 those:1
-TWX	20120510	34.6	34.82	r_up	
-TWX	20120511	34.82	34.64	r_down	
-TWX	20120514	34.64	34.53	r_down	's:1
-TWX	20120515	34.53	34.25	r_down	
-TWX	20120516	34.25	34.24	r_down	
-TWX	20120517	34.24	33.61	r_down	
-TWX	20120518	33.61	33.27	r_down	
-TWX	20120521	33.27	33.49	r_up	
-TWX	20120522	33.49	33.54	r_up	
-TWX	20120523	33.54	33.41	r_down	's:1
-TWX	20120524	33.41	33.57	r_up	
-TWX	20120525	33.57	33.68	r_up	's:1
-TWX	20120529	33.68	34.49	r_up	3:1 's:1 $:1 70:1
-TWX	20120530	34.49	33.74	r_down	
-TWX	20120531	33.74	33.71	r_down	studio:1 names:1 chairman:1
-TWX	20120601	33.71	33.02	r_down	watch:1
-TWX	20120604	33.02	33.37	r_up	
-TWX	20120605	33.37	33.29	r_down	
-TWX	20120606	33.29	34.09	r_up	
-TWX	20120607	34.09	34.23	r_up	
-TWX	20120608	34.23	34.46	r_up	1:1 $:1 10-:1
-TWX	20120611	34.46	33.8	r_down	watch:1 's:1
-TWX	20120612	33.8	34.55	r_up	
-TWX	20120613	34.55	34.06	r_down	
-TWX	20120614	34.06	34.65	r_up	ends:1 's:1 show:1
-TWX	20120615	34.65	35.62	r_up	'':1 ``:1
-TWX	20120618	35.62	36.33	r_up	never:1 cable:1 get:1 bill:1 cheaper:1 your:1
-TWX	20120619	36.33	36.51	r_up	
-TWX	20120620	36.51	36.31	r_down	own:1 enemy:1 his:1 worst:1
-TWX	20120621	36.31	36.45	r_up	
-TWX	20120622	36.45	36.67	r_up	paying:1 stocks:1 worth:1
-TWX	20120625	36.67	35.82	r_down	
-TWX	20120626	35.82	36.33	r_up	n't:1 's:1
-TWX	20120627	36.33	37.16	r_up	
-TWX	20120628	37.16	37.04	r_down	moment:1 defeats:1
-TWX	20120629	37.04	37.65	r_up	
-TWX	20120702	37.65	37.9	r_up	
-TWX	20120703	37.9	37.99	r_up	
-TWX	20120705	37.99	37.45	r_down	
-TWX	20120706	37.45	37.74	r_up	
-TWX	20120709	37.74	37.27	r_down	
-TWX	20120710	37.27	36.9	r_down	3.03:2 3:1 $:3
-TWX	20120711	36.9	37.26	r_up	
-TWX	20120712	37.26	36.88	r_down	
-TWX	20120713	36.88	37.35	r_up	
-TWX	20120716	37.35	37.28	r_down	
-TWX	20120717	37.28	37.88	r_up	
-TWX	20120718	37.88	38.06	r_up	
-TWX	20120719	38.06	38.28	r_up	
-TWX	20120720	38.28	38.01	r_down	records:1 set:1 box-office:1
-TWX	20120723	38.01	36.67	r_down	among:1 decliners:1 tech:1 's:1 broad:1
-TWX	20120724	36.67	37.05	r_up	million:1 $:2 takes:1
-TWX	20120725	37.05	37.7	r_up	home:1 close:1 hits:1 until:1 2nd:2
-TWX	20120726	37.7	37.51	r_down	
-TWX	20120727	37.51	38.12	r_up	needs:1 's:2 daring:1 style:1 boss:1 new:1
-TWX	20120730	38.12	37.73	r_down	
-TWX	20120731	37.73	38.26	r_up	
-TWX	20120801	38.26	38.73	r_up	after:1 gains:1 33:3 futures:1 watch:1 2nd:2 retain:1 data:1
-TWX	20120802	38.73	39.78	r_up	
-TWX	20120803	39.78	40.47	r_up	
-TWX	20120806	40.47	40.7	r_up	compete:1 tries:1 's:1
-TWX	20120807	40.7	41.02	r_up	
-TWX	20120808	41.02	41.38	r_up	
-TWX	20120809	41.38	41.61	r_up	
-TWX	20120810	41.61	41.96	r_up	
-TWX	20120813	41.96	41.73	r_down	
-TWX	20120814	41.73	41.48	r_down	survive:1 newspapers:1 can:1
-TWX	20120815	41.48	41.75	r_up	
-TWX	20120816	41.75	41.59	r_down	
-TWX	20120817	41.59	41.67	r_up	
-TWX	20120820	41.67	41.8	r_up	
-TWX	20120821	41.8	41.24	r_down	
-TWX	20120822	41.24	41.26	r_up	pact:1 extend:1
-TWX	20120823	41.26	40.88	r_down	
-TWX	20120824	40.88	41.17	r_up	
-TWX	20120827	41.17	40.94	r_down	
-TWX	20120828	40.94	40.62	r_down	
-TWX	20120829	40.62	41.19	r_up	tips:1
-TWX	20120830	41.19	40.82	r_down	
-TWX	20120831	40.82	40.89	r_up	
-TWX	20120904	40.89	40.7	r_down	deal:1 rocked:1 shares:1
-TWX	20120905	40.7	41.58	r_up	
-TWX	20120906	41.58	42.54	r_up	
-TWX	20120907	42.54	42.95	r_up	
-TWX	20120910	42.95	42.39	r_down	
-TWX	20120911	42.39	42.36	r_down	
-TWX	20120912	42.36	42.39	r_up	
-TWX	20120913	42.39	43.63	r_up	
-TWX	20120914	43.63	44.0	r_up	
-TWX	20120917	44.0	44.16	r_up	
-TWX	20120918	44.16	44.16	r_up	
-TWX	20120919	44.16	44.79	r_up	
-TWX	20120920	44.79	45.07	r_up	
-TWX	20120921	45.07	45.17	r_up	
-TWX	20120924	45.17	45.1	r_down	
-TWX	20120925	45.1	44.28	r_down	's:1
-TWX	20120926	44.28	43.93	r_down	
-TWX	20120927	43.93	44.66	r_up	
-TWX	20120928	44.66	44.62	r_down	n't:1
-TWX	20121001	44.62	44.78	r_up	if:1
-TWX	20121002	44.78	44.58	r_down	if:1
-TWX	20121003	44.58	45.08	r_up	sexy:1 's:1 look:1
-TWX	20121004	45.08	45.11	r_up	
-TWX	20121005	45.11	45.45	r_up	
-TWX	20121008	45.45	45.76	r_up	
-TWX	20121009	45.76	44.84	r_down	
-TWX	20121010	44.84	44.62	r_down	
-TWX	20121011	44.62	44.3	r_down	
-TWX	20121012	44.3	44.35	r_up	
-TWX	20121015	44.35	44.26	r_down	's:1 fret:1
-TWX	20121016	44.26	44.57	r_up	
-TWX	20121017	44.57	44.94	r_up	
-TWX	20121018	44.94	45.15	r_up	line:1 crossed:1 debate:1
-TWX	20121019	45.15	44.22	r_down	
-TWX	20121022	44.22	44.28	r_up	
-TWX	20121023	44.28	43.32	r_down	
-TWX	20121024	43.32	43.31	r_down	
-TWX	20121025	43.31	42.9	r_down	
-TWX	20121026	42.9	42.95	r_up	's:1 28:1
-TWX	20121031	42.95	42.78	r_down	
-TWX	20121101	42.78	43.11	r_up	's:1
-TWX	20121102	43.11	42.67	r_down	
-TWX	20121105	42.67	42.36	r_down	2012:1
-TWX	20121106	42.36	42.43	r_up	poison-pill:1 thwart:1 plan:1 adopts:1
-TWX	20121107	42.43	44.2	r_up	already:1 's:1 woes:1 give:1 movie:1 franchises:1 futures:1 1.9:4 break:1 slide:1 earnings:1 time:1 stock:1
-TWX	20121108	44.2	43.43	r_down	surprises:1 advisories:1
-TWX	20121109	43.43	43.96	r_up	
-TWX	20121112	43.96	43.94	r_down	
-TWX	20121113	43.94	43.9	r_down	
-TWX	20121114	43.9	43.4	r_down	
-TWX	20121115	43.4	43.34	r_down	
-TWX	20121116	43.34	43.99	r_up	's:1
-TWX	20121119	43.99	44.56	r_up	
-TWX	20121120	44.56	44.91	r_up	
-TWX	20121121	44.91	44.26	r_down	holiday:1 defines:1
-TWX	20121123	44.26	45.42	r_up	
-TWX	20121126	45.42	45.78	r_up	
-TWX	20121127	45.78	45.86	r_up	
-TWX	20121128	45.86	46.51	r_up	's:1 $:1 lead:1 over:1 revive:1 50:1 struggling:1 stock:1
-TWX	20121129	46.51	46.56	r_up	reason:1 buy:1 ticket:1 only:1 one:1
-TWX	20121130	46.56	46.81	r_up	n't:1 fix:1 can:1
-TWX	20121203	46.81	46.32	r_down	
-TWX	20121204	46.32	46.22	r_down	
-TWX	20121205	46.22	45.58	r_down	
-TWX	20121206	45.58	46.09	r_up	
-TWX	20121207	46.09	46.33	r_up	
-TWX	20121210	46.33	46.15	r_down	10:1 2013:1
-TWX	20121211	46.15	46.64	r_up	
-TWX	20121212	46.64	46.77	r_up	
-TWX	20121213	46.77	46.21	r_down	
-TWX	20121214	46.21	46.29	r_up	
-TWX	20121217	46.29	47.45	r_up	love:1 movies:1 other:1 4:1 you:1 must-see:1 if:1
-TWX	20121218	47.45	47.65	r_up	
-TWX	20121219	47.65	47.15	r_down	call:1 smart:1
-TWX	20121220	47.15	47.76	r_up	
-TWX	20121221	47.76	47.08	r_down	
-TWX	20121224	47.08	46.96	r_down	1:1
-TWX	20121226	46.96	46.99	r_up	
-TWX	20121227	46.99	46.93	r_down	
-TWX	20121228	46.93	46.45	r_down	
-TWX	20121231	46.45	47.34	r_up	
-TWX	20130102	47.34	49.25	r_up	2:1
-TWX	20130103	49.25	49.27	r_up	biggest:1 gaining:1 stocks:1 watch:1 declining:1
-TWX	20130104	49.27	48.86	r_down	
-TWX	20130107	48.86	48.61	r_down	gaining:1 renews:1 's:2 takes:1 deal:2 movie:1 aim:1 biggest:1 stocks:1 analyst:1 declining:1
-TWX	20130108	48.61	49.63	r_up	
-TWX	20130109	49.63	49.12	r_down	
-TWX	20130110	49.12	49.3	r_up	
-TWX	20130111	49.3	49.1	r_down	movies:1 vie:1
-TWX	20130114	49.1	48.79	r_down	win:1
-TWX	20130115	48.79	48.62	r_down	's:1
-TWX	20130116	48.62	48.66	r_up	bottom:1 movie:1 matter:1 're:1 awards:1 line:1
-TWX	20130117	48.66	48.89	r_up	
-TWX	20130118	48.89	49.42	r_up	
-TWX	20130122	49.42	49.81	r_up	
-TWX	20130123	49.81	50.3	r_up	
-TWX	20130124	50.3	50.28	r_down	rise:1 surges:1 sales:1 subscribers:1
-TWX	20130125	50.28	49.88	r_down	make:1 every:1 goal:1 special:1 day:1
-TWX	20130128	49.88	49.57	r_down	week:1 10:1 watch:1 earning:1 reports:1
-TWX	20130129	49.57	49.54	r_down	
-TWX	20130130	49.54	49.62	r_up	still:1 tough:1 make:1 30:1 has:1 decisions:1
-TWX	20130131	49.62	50.0	r_up	bag:1
-TWX	20130201	50.0	50.36	r_up	14000:1 's:1
-TWX	20130204	50.36	49.92	r_down	
-TWX	20130205	49.92	49.45	r_down	's:1
-TWX	20130206	49.45	51.47	r_up	turn:1 lower:1 futures:1 earnings:1 higher:1
-TWX	20130207	51.47	51.82	r_up	's:1 up:1 2nd:1 edge:1 earnings:1 8:1 falls:1 2012:1
-TWX	20130208	51.82	52.03	r_up	owner:1 content:1 feeling:1 pinch:1
-TWX	20130211	52.03	51.59	r_down	
-TWX	20130212	51.59	51.96	r_up	's:1
-TWX	20130213	51.96	52.31	r_up	pace:1 tech:1 gains:1 's:1
-TWX	20130214	52.31	53.08	r_up	
-TWX	20130215	53.08	52.97	r_down	its:1
-TWX	20130219	52.97	53.24	r_up	
-TWX	20130220	53.24	52.68	r_down	
-TWX	20130221	52.68	52.07	r_down	
-TWX	20130222	52.07	52.44	r_up	
-TWX	20130225	52.44	51.11	r_down	wins:1 picture:1 makes:1 best:1 history:1
-TWX	20130226	51.11	52.03	r_up	
-TWX	20130227	52.03	53.06	r_up	
-TWX	20130228	53.06	52.92	r_down	's:1 if:1
-TWX	20130301	52.92	53.36	r_up	
-TWX	20130304	53.36	53.9	r_up	
-TWX	20130305	53.9	54.79	r_up	
-TWX	20130306	54.79	55.2	r_up	
-TWX	20130307	55.2	56.51	r_up	1980s:1 spin:1 's:1 off:1 group:1
-TWX	20130308	56.51	57.19	r_up	
-TWX	20130311	57.19	56.99	r_down	debut:1 's:1 $:1 wins:1 million:1 80:1 weekend:1
-TWX	20130312	56.99	56.15	r_down	
-TWX	20130313	56.15	56.36	r_up	
-TWX	20130314	56.36	57.05	r_up	
-TWX	20130315	57.05	56.38	r_down	's:1
-TWX	20130318	56.38	55.95	r_down	
-TWX	20130319	55.95	55.22	r_down	
-TWX	20130320	55.22	56.09	r_up	
-TWX	20130321	56.09	55.84	r_down	2:1
-TWX	20130322	55.84	56.52	r_up	
-TWX	20130325	56.52	56.27	r_down	
-TWX	20130326	56.27	56.64	r_up	gains:1 lead:1 watch:1 tech:1 swirl:1 news:1
-TWX	20130327	56.64	56.36	r_down	
-TWX	20130328	56.36	57.35	r_up	
-TWX	20130401	57.35	57.35	r_up	
-TWX	20130402	57.35	57.31	r_down	
-TWX	20130403	57.31	57.82	r_up	video:1 into:1 sees:1 crowding:1 market:1
-TWX	20130404	57.82	57.99	r_up	jump:1 stands:1 movers:2 jumps:1 slump:1 leads:1 tech:2 action:1 new:1 flogged:1 rumor:1 out:1
-TWX	20130405	57.99	57.6	r_down	
-TWX	20130408	57.6	58.07	r_up	
-TWX	20130409	58.07	58.52	r_up	
-TWX	20130410	58.52	59.28	r_up	
-TWX	20130411	59.28	59.38	r_up	
-TWX	20130412	59.38	59.18	r_down	
-TWX	20130415	59.18	58.19	r_down	
-TWX	20130416	58.19	59.45	r_up	
-TWX	20130417	59.45	59.24	r_down	
-TWX	20130418	59.24	58.19	r_down	
-TWX	20130419	58.19	59.47	r_up	
-TWX	20130422	59.47	59.9	r_up	n't:1 22:1
-TWX	20130423	59.9	60.11	r_up	200:1 $:1
-TWX	20130424	60.11	59.31	r_down	
-TWX	20130425	59.31	59.11	r_down	
-TWX	20130426	59.11	59.39	r_up	
-TWX	20130429	59.39	59.84	r_up	174:1 's:2 $:1
-TWX	20130430	59.84	59.5	r_down	2:1 6:1
-TWX	20130501	59.5	59.2	r_down	streak:1 disappoints:1 snaps:1 a.m:1 revenue:1 surprises:1 futures:1 watch:1 4-day:1 advisories:1 sink:1 win:1 fall:1 stocks:2
-TWX	20130502	59.2	59.47	r_up	
-TWX	20130503	59.47	60.14	r_up	
-TWX	20130506	60.14	60.35	r_up	
-TWX	20130507	60.35	61.23	r_up	2014:1
-TWX	20130508	61.23	60.84	r_down	
-TWX	20130509	60.84	60.81	r_down	
-TWX	20130510	60.81	60.65	r_down	
-TWX	20130513	60.65	60.62	r_down	
-TWX	20130514	60.62	60.98	r_up	
-TWX	20130515	60.98	60.84	r_down	
-TWX	20130516	60.84	60.43	r_down	
-TWX	20130517	60.43	60.42	r_down	flaw:1
-TWX	20130520	60.42	59.78	r_down	
-TWX	20130521	59.78	60.18	r_up	
-TWX	20130522	60.18	59.67	r_down	
-TWX	20130523	59.67	59.87	r_up	
-TWX	20130524	59.87	59.0	r_down	
-TWX	20130528	59.0	60.0	r_up	
-TWX	20130529	60.0	59.2	r_down	
-TWX	20130530	59.2	59.58	r_up	
-TWX	20130531	59.58	58.37	r_down	
-TWX	20130603	58.37	58.6	r_up	
-TWX	20130604	58.6	58.34	r_down	
-TWX	20130605	58.34	56.9	r_down	
-TWX	20130606	56.9	57.48	r_up	$:1 yielding:1 picks:1 3:2 long-term:1 50:1
-TWX	20130607	57.48	58.77	r_up	
-TWX	20130610	58.77	57.7	r_down	
-TWX	20130611	57.7	56.89	r_down	
-TWX	20130612	56.89	56.16	r_down	
-TWX	20130613	56.16	57.91	r_up	dividend:1 hunters:1 play:1 stock:1
-TWX	20130614	57.91	57.47	r_down	's:1
-TWX	20130617	57.47	57.94	r_up	--:1 's:1 2013:1
-TWX	20130618	57.94	58.89	r_up	
-TWX	20130619	58.89	57.86	r_down	next:1
-TWX	20130620	57.86	56.32	r_down	dies:1 age:1 star:1 51:1
-TWX	20130621	56.32	56.81	r_up	
+TWX	20140501	63.1	63.5	r_up	being:1 years:1 '':2 addressed:1 its:1 ground:1 said:2 had:2 creative:1 enough:1 taken:1 he:1 issue:1 channel:1 ``:2 's:1 risk:1 big:1 now:1 viewers:1 recent:1 younger:1 lost:1 cable:1 programming:1 n't:1
+TWX	20140502	63.5	62.9	r_down	
+TWX	20140505	62.9	64.1	r_up	
+TWX	20140506	64.1	64.1	r_up	
+TWX	20140507	64.1	64.4	r_up	150:1 revenue:1 ca:1 back:1 video:1 networks:1 bankruptcy:1 utility:1 n't:1 use:1 said:1 $:1 federal:1 structured:1 failed:1 stock:1 digital:1 formula:1 include:1 boost:1 hope:1 shows:1 million:1 company:1 after:1 watch:1 paid:1 buyback:1 they:1 judge:1 changing:1 viewers:1 television:1 cable:1 1999:1 recorders:1 air:1 deals:1 advertising:1 claw:1 more:1 creditors:1
+TWX	20140508	64.4	64.6	r_up	shareholders:1 own:1 off:1 receive:1 share:1 shares:1 arm:1 magazine:1 every:1 they:1 6:1 eight:1 one:1 spin:1 its:1
+TWX	20140509	64.6	64.9	r_up	healing:1 named:1 task:1 his:1 writes:1 warring:1 yet:1 parties:1 interim:1 chairman:1 faces:1 test:1 impossible:1 nation:1 former:1 toughest:1
+TWX	20140512	64.9	66.0	r_up	
+TWX	20140513	66.0	65.7	r_down	channels:1 ``:1 full:1 on-demand:1 service:1 deal:1 binge:1 mind:1 '':1 add:1 seasons:1 reached:1 several:1 its:1 viewers:1 shows:1
+TWX	20140514	65.7	65.5	r_down	
+TWX	20140515	65.5	65.1	r_down	
+TWX	20140516	65.1	65.4	r_up	
+TWX	20140519	65.4	66.6	r_up	
+TWX	20140520	66.6	65.7	r_down	
+TWX	20140521	65.7	66.8	r_up	because:1 investors:1 over:1 sales:1 challenges:1 streaming:1 including:1 investment:1 best:1 writes:1 take:1 largest:1 destroy:1 plateau:1 good:1 's:1 collapse:1 business:1 bid:1 online:1 nation:1 failure:1 shareholder:1 rental:1 day:1 growing:1 programs:1 popularity:1 bankers:1 value:1 facing:1 thing:1 while:1 mega-mergers:1 usually:1 more:1 original:1
+TWX	20140522	66.8	66.8	r_up	
+TWX	20140523	66.8	67.4	r_up	
+TWX	20140527	67.4	67.4	r_up	increasingly:1 expects:1 month:1 spinoff:1 its:4 whose:1 $:2 writes:1 troubles:1 going:1 has:1 real:1 amended:1 very:1 big:1 stop:1 early:1 wholesaler:3 vast:1 like:1 identifying:1 companies:1 leave:1 accounts:1 tower:1 quarter:1 because:1 financial:1 relative:1 second:1 result:1 year:1 distributor:1 close:1 scale:1 24/7:1 7:1 net:1 we:1 handful:1 business:1 announcement:1 wo:1 million:2 commercial:1 agreement:1 awards:1 regulatory:1 news:1 post:1 publisher:1 last:2 could:1 magazine:1 expense:1 road:1 executives:1 revenue:1 marked:1 rising:1 neighborhood:1 total:1 would:1 top:1 moderately:1 been:1 next:1 2:1 biggest:1 more:1 rewards:1 company:1 but:1 downtown:1 expected:1 demand:1 former:1 paying:1 namesake:1 19:1 wholesale:1 n't:2 future:1 estate:1 recognize:1 sales:2 evidence:1 high:1 halt:1 bad-debt:1 pay:1 able:1 majority:1 take:1 largest:1 performance:1 week:1 's:5 may:1 absorb:1 tied:1 most:1 said:2 roughly:1 looked:1 mass:1 model:1 filing:1
+TWX	20140528	67.4	67.4	r_up	
+TWX	20140529	67.4	67.1	r_down	
+TWX	20140530	67.1	66.6	r_down	operations:1 ``:1 said:1 's:1 business:1 all:1 employees:1 work:1 soon:1 6,000:2 '':1 substantially:1 magazine:1 putting:1 distributor:1 end:1 its:2 out:1
+TWX	20140602	66.6	67.5	r_up	
+TWX	20140603	67.5	67.5	r_up	ratings:1 ``:2 rebound:1 networks:1 cable:1 some:1 employees:1 executive:1 slump:1 tries:1 its:1 '':2 chief:1 expect:1 big:1 new:1 staff:1 changes:1 company:1 told:1
+TWX	20140604	67.5	67.3	r_down	
+TWX	20140605	67.3	67.6	r_up	nicely:1 pad:1 's:1 profits:1
+TWX	20140606	67.6	67.8	r_up	let’s:1 made:1 but:1 stocks:1 may:1 money:1 there:1 generally:1 different:1 been:1 month:1 iffy:1 related:1 year:1 has:1 consumer:2 appears:1 bet:1 result:1
+TWX	20140609	67.8	68.7	r_up	collecting:1 pioneering:1 love:1 over:1 past:1 magazines:1 unlikely:1 's:1 estimated:1 its:1 even:1 story:1 $:1 asks:1 future:1 you:1 has:1 crowds:1 stock:1 wants:1 ``:2 buy:1 star:1 read:1 season:1 company:1 million:1 but:1 '':2 became:1
+TWX	20140610	68.7	68.8	r_up	sister:1 's:1 news:1 talks:1 attempt:1 struggling:1 channel:1 partnerships:1
+TWX	20140611	68.8	68.6	r_down	preorders:1 cancer:1 some:1 halting:1 good:1 including:1 65:1 have:1 year:1 home:1 fight:1 yet:1 its:1 said:1 investors:1 movie:1 exactly:1 former:1 only:1 tactic:1 stock:1 ``:2 his:1 publisher:1 company:1 after:1 quite:1 using:1 shaping:1 died:1 '':2 benefits:1 pickers:1 these:1 just:1 up:1 against:1 n't:1 problem:1 similar:1
+TWX	20140612	68.6	68.0	r_down	people:1 agreed:1 partnership:1 offerings:1 held:1 including:1 have:2 discussions:1 15-year:1 toy:1 based:1 media:1 their:2 exit:1 weeks:1 several:1 broaden:1 division:1 extend:1 familiar:1 search:1 characters:1 preliminary:1 such:1 recent:1 owners:1 companies:1 according:1 matter:1 products:1 consumer:1
+TWX	20140613	68.0	67.5	r_down	search:1 active:1 see:1 session:1 radio:1 have:1 fees:1 discussions:1 whose:1 tablet:1 no:1 pay:1 shares:1 their:1 exit:1 expected:1 weeks:1 several:1 public:1 smartphone:1 users:1 watch:1 owners:1 preliminary:1 ask:1 stocks:1 recent:1 television:1 longer:1 held:1 companies:2 including:1 media:1 trading:1
+TWX	20140616	67.5	68.2	r_up	office:1 agreed:1 liked:1 years:1 through:1 spinoff:1 yet:1 box-office:1 priming:1 giant:1 anticipation:1 $:3 22:1 writes:1 had:1 3:2 better:1 pursuing:1 over:1 customers:1 returning:1 far:2 consolidation:2 megamergers:1 not:2 2:3 60:1 runs:1 cable:2 companies:3 50:1 deals:1 officer:1 round:2 financial:1 deal:1 cash:1 value:1 estimated:1 ultimately:1 said:1 opened:1 long-haul:1 behind:2 capital:1 shows:2 opening:1 million:2 killing:1 members:1 strong:2 box:1 both:3 cautious:1 service:1 license:1 healthy:1 many:1 industry:2 times:1 carrier:1 planned:1 buzz:1 executives:2 major:2 own:1 ca:1 sign:1 channels:1 services:2 shareholders:1 would:2 start:1 pairing:2 three:1 been:2 strategy:1 their:4 trigger:1 music:1 biggest:1 themselves:1 more:1 wants:1 billion:1 ``:2 buy:1 company:1 but:1 offing:1 sequels:2 gain:1 believe:1 true:1 than:2 high:1 up:2 bed:1 n't:1 movies:1 while:1 starts:1 making:1 expect:1 metropolitan:1 providers:1 '':2 have:2 result:1 5.7:1 media:2 make:2 1:1 take:1 upstart:1 stock:1 gaining:1 added:1 's:1 may:2 possible:1 scale:1 footprint:1 weekend:2 expand:1 acquisitions:1 off:1 considered:1 well:2 chief:1 compete:1 pay:1 original:1
+TWX	20140617	68.2	67.9	r_down	
+TWX	20140618	67.9	68.9	r_up	
+TWX	20140619	68.9	69.0	r_up	large-cap:1 old:1 80:1 shrinking:1 giant:1 reruns:1 network:1 driving:1 meanwhile:1 shows:2 available:1 used:1 watching:1 peers:1 discount:1 prices:1 pool:1 $:1 hits:1 cable:1 trades:1 up:1 n't:1 broadcasting:1 mean:1
+TWX	20140620	69.0	68.0	r_down	set:1 almost:2 years:1 '':2 p.m:1 have:1 still:1 ripping:1 prove:1 anyone:1 lot:1 400:1 9:1 new:1 week:1 ``:2 's:2 possible:1 fund:1 studio:1 plan:1 hold:1 apart:1 begins:1 television:1 graphic:1 romp:1 --:2 without:1 stories:1 fun:1
+TWX	20140623	68.0	67.9	r_down	
+TWX	20140624	67.9	67.9	r_up	preorders:2 into:1 pricing:3 close:1 halt:2 movie:2 two:2 chairman:1 has:3 reversed:2 dispute:2 's:3 complete:1 company:2 studio:2 sides:2 incoming:1 transformation:1 near:2 pure-play:1 media:1 truce:1 resolution:2
+TWX	20140625	67.9	68.7	r_up	
+TWX	20140626	68.7	69.1	r_up	publisher:1 decline:1 may:1 see:1 face:1 disruption:1 magazine:1 digital:1 long-term:1
+TWX	20140627	69.1	69.4	r_up	burst:1 held:1 thanks:1 's:2 its:1 ratings:1 said:1 publishing:1 media:1 stake:1 sustain:1 enjoying:1 full:1 premium:1 around:1 company:3 ownership:1 soccer:1 acquiring:1 --:1 popularity:1 35:1 surge:1 excitement:1 resuming:1 can:1 team:1
+TWX	20140630	69.4	69.9	r_up	
+TWX	20140701	69.9	70.2	r_up	
+TWX	20140702	70.2	70.6	r_up	
+TWX	20140703	70.6	71.1	r_up	
+TWX	20140707	71.1	70.8	r_down	gathering:1 since:1 's:1 last:1 business:1 media:1 annual:1 against:1 year:1 kicks:1 off:1 has:1 technology:1 landscape:1 executives:1
+TWX	20140708	70.8	70.4	r_down	firm:1 purchase:1 giant:1 's:1 business:1 cable:1 among:1 over:1 influence:1 rivals:1 mobile-ad:1 much:1 tech:1 too:1 fear:1 gathering:1 recent:1
+TWX	20140709	70.4	72.1	r_up	
+TWX	20140710	72.1	71.9	r_down	investors:1 targets:1 recognition:1 if:1 network:1 lead:1 prove:1 media:1 next:1 online:1 has:1 may:1 consolidation:1 scores:1 come:1 exposure:1 industry:1 companies:1 so:1 tempting:1 nominations:1 31:1 mergers:1
+TWX	20140711	71.9	71.9	r_up	
+TWX	20140714	71.9	71.3	r_down	denies:2 function:1 office:1 charges:1 media:1 national:1 it’s:1 allegations:1 state:1 threat:2 security:2 poses:1 its:1
+TWX	20140715	71.3	70.7	r_down	bait:1 show:1 hard:1 owner:1 likely:1 matches:1 fees:1 go:1 lacks:1 its:1 ratings:1 giant:1 sport:1 entertainment:1 writes:1 rivals:1 earnings:1 final:1 wants:1 's:2 spectator:1 seeking:1 may:1 becomes:1 company:1 but:1 game:1 takeover:1 alone:1 majority:1 peers:1 pursue:1 amid:1 becoming:1 upside:1 receives:1 double:1
+TWX	20140716	70.7	82.7	r_up	ignite:1 suitor:1 just:1 over:1 trade:1 session:1 businesses:1 shares:2 broader:1 its:4 web:1 21st:10 $:5 it’s:1 lender:1 failed:1 only:1 giants:1 which:1 means:2 could:1 bid:5 increases:1 valued:1 they:1 not:1 now:1 continued:1 articles:1 cable:2 level:1 corners:1 companies:3 morning:1 one-week:1 including:1 higher:1 better-than-expected:2 studios:1 old:1 deal:3 posts:1 likely:2 growth:1 year:1 80:3 makers:1 85:1 closes:1 ultimately:1 consumers:1 ways:1 rejecting:1 networks:1 content:1 behind:1 future:1 new:1 dominate:1 15th:1 bounce-back:1 theory:1 million:1 pursuit:1 news:2 sitting:1 beginning:1 gained:1 industry:1 climbed:1 reports:1 keep:1 advertising:1 options:1 first:1 among:1 powerful:1 names:1 says:1 buoyed:1 blog:1 confidence:1 takes:1 would:2 remains:1 question:1 two:1 governance:1 next:1 their:1 rates:1 low:1 interest:2 time:1 biggest:1 upbeat:1 markets:1 more:1 roundup:1 buy:4 offer:2 successful:1 offered:1 but:1 expected:1 lift:1 gain:1 effort:2 buying:1 made:1 bill:1 see:1 aim:1 record:2 actively:1 can:1 making:1 trader:1 rebuffed:1 want:1 share:2 say:1 have:1 bolstered:1 around:1 united:1 media:4 get:1 unite:1 1:1 hot:1 earnings:1 holding:1 you:1 company:1 economy:1 analysts:1 's:9 embattled:1 price:1 after:1 most:1 rejected:3 stocks:2 data:1 billion:3 dream:1 together:1 profit:1 costs:1 tech:1 sets:1 corporate:3 order:1 talk:1
+TWX	20140717	82.7	85.7	r_up	undervalued:1 money:1 over:2 manager:1 through:3 battle:1 web:1 21st:8 anticipation:1 $:5 also:1 personal:1 worth:1 should:1 blog:1 increasingly:2 theme:1 viewers:1 pretty:1 has:2 guided:1 around:1 get:2 bid:1 online:1 consolidation:1 likely:2 every:1 they:2 fall:2 world:2 buyout:1 day:1 bigger:2 like:1 articles:1 name:1 cable:2 always:1 posts:1 morning:2 become:1 noted:1 picker:1 set:1 financial:1 deal:4 companies:5 some:2 cash:1 jump:1 strongest:1 trading:1 close:1 80:4 worried:1 targets:1 best:1 awaits:1 scale:1 entertainment:1 investing:1 scoops:1 shares:1 content:1 longtime:1 between:2 supplier:1 drawn:1 reading:1 collaboration:1 shows:1 bold:1 business:1 wo:1 jumps:1 notable:1 shareholders:1 reason:1 studio:4 acquisitions:1 making:1 news:3 falls:1 come:2 roundup:1 great:1 spurned:1 industry:2 current:1 programming:1 according:1 reports:1 merger:1 tour:1 complicated:1 climb:1 maker:1 involves:1 executives:1 relevant:1 managers:1 clout:1 two:1 down:1 right:2 shifting:1 aimed:1 owner:1 trust:1 rounds:1 market:3 little:1 would:2 cash-and-stock:1 there:3 three:1 their:1 live:1 biggest:1 threaten:1 more:3 breathe:1 ago:1 buy:1 offer:4 successful:1 acquire:1 scrutiny:1 because:1 gain:1 troubling:1 midst:1 than:1 those:1 he:1 television:1 anxiety:1 versions:1 double:1 up:1 devices:1 believes:1 n't:2 record:1 while:1 stories:1 highlight:1 outcome:1 could:4 wants:1 sees:1 investors:2 soars:1 almost:2 landscape:1 dropped:1 have:2 moves:1 any:2 film:1 if:1 traditional:1 assessing:1 turn:1 media:5 make:2 mix:2 chairman:1 which:2 largest:1 out:1 megadeal:1 stock:4 week:1 independent:1 sure:1 's:16 see:1 price:1 stay:1 intentions:1 chance:2 attractive:1 stocks:2 data:1 eighth:1 billion:4 scrambling:1 attempt:1 assets:2 sectors:1 mobile:1 well:1 looked:1 so:1 time:1 taking:1 position:1 model:1 reward:1 corporate:1 left:1
+TWX	20140718	85.7	86.8	r_up	over:1 move:1 bring:1 including:1 go:1 its:3 21st:4 $:1 animation:1 board:3 equity:1 behind-the-scenes:1 eventually:1 around:1 beat:1 bid:3 material:1 geopolitical:1 hedge:1 finance:1 morning:1 deal:3 people:1 allure:1 year:1 80:1 makers:1 tensions:1 goes:1 new:1 terms:1 defenses:1 giant:1 reason:1 takeover:2 news:2 both:1 would:2 impacted:1 could:2 30:1 place:1 analysts:1 resiliency:1 succeeds:1 ca:1 private:1 directly:1 fees:1 table:1 your:1 shareholders:1 service:1 been:1 next:1 households:1 much:2 way:1 biggest:1 markets:1 opens:1 firm:1 ``:1 knows:1 funds:1 operators:1 rejected:1 part:1 broke:1 hostile:2 10:1 n't:4 carriage:1 risks:1 cracked:1 dollars:1 trove:1 '':1 have:4 if:1 provide:1 media:2 high:1 potential:1 which:1 units:1 several:1 hurdles:1 's:7 transactions:1 may:1 director:1 transformational:1 negotiating:1 cartoon:1 billion:1 clear:1 spent:1 banks:1 corporate:1
+TWX	20140721	86.8	87.0	r_up	cry:1 two:1 unsolicited:1 would:1 says:1 eliminating:1 less:1 being:1 studios:1 valuable:1 one:1 '':2 fiber:1 through:1 names:1 have:1 year:1 avenue:1 check:1 special:2 help:1 shareholders:1 power:1 service:1 remains:1 media:1 writes:1 audience:1 event:1 content:1 their:1 charge:1 potential:1 call:1 superheroes:1 funds:1 role:1 has:1 meeting:1 important:1 either:1 ``:2 used:1 's:5 ability:1 optic:1 offer:1 may:1 big:1 21st:1 but:1 consolidation:1 break:1 most:1 takeover:1 gain:1 kid:1 new:2 press:1 mutual:1 hurt:1 man:1 revoked:1 could:2 drop:1 companies:1 cool:1 playing:1 pullback:1 lagging:1 cost:1 can:1 far:1 black:1 out:1 industry:1 comes:2 consumers:1
+TWX	20140722	87.0	86.4	r_down	coach:1 show:1 over:1 executive:1 results:1 interim:1 including:1 unfavorable:1 fear:1 its:3 giant:1 rose:1 should:1 equity:1 quarterly:1 has:2 meetings:1 customers:1 finance:1 than:1 blowout:1 beat:1 sponsors:1 subscribers:1 hedge:1 discuss:1 cable:1 doubled:1 morning:1 continue:1 team:1 tightening:1 quarter:1 reduced:1 leaders:1 rate:1 ignores:1 arm:1 embattled:1 said:2 entertainment:1 profit:2 increase:1 ‘death:1 international:1 across:1 million:1 business:1 lose:1 weak:1 expansion:1 become:1 news:1 suggested:1 ticket:1 could:1 losses:1 holders:1 blow’:1 outlook:1 private:1 down:1 owner:1 your:1 little:1 would:1 biggest:1 500:1 more:2 high-speed:1 head:1 releases:1 funds:1 company:1 but:1 hurt:1 wake:2 second-quarter:1 posted:1 15:2 17:1 sanctions:1 n't:1 while:1 meet:1 1.7:1 investors:1 soars:1 world-wide:1 shooting:1 strength:1 earnings:2 season:1 aggressive:1 added:1 's:4 boosted:1 tops:1 third:1 chief:1 reputation:1 so:1 banks:1 reward:1 corporate:1 profits:1
+TWX	20140723	86.4	83.9	r_down	private:1 financially:1 including:1 1990s:1 bruising:1 your:1 avoid:1 since:1 been:1 crisis:1 stuck:1 board:1 equity:1 biggest:1 has:1 finger:1 his:2 's:2 finance:1 defenses:1 beat:1 funds:1 early:1 test:1 takeover:1 pursuit:1 survived:1 news:1 hedge:1 careful:1 leaky:1 getting:1 could:1 morning:1 banks:1 its:2 liquidity:1
+TWX	20140724	83.9	83.6	r_down	all:1 says:1 deal:1 headwinds:1 results:1 private:1 eyeing:1 report:1 likely:1 prepares:1 been:1 bidders:1 still:1 your:1 giant:1 long:1 various:1 equity:1 biggest:1 has:1 them:1 buy:1 's:1 finance:1 beat:1 funds:1 bid:1 21st:1 but:1 takeover:1 competing:1 hopes:1 news:1 hedge:1 magnate:1 face:1 counter:1 morning:1 n't:1 faces:1 banks:1 including:1
+TWX	20140725	83.6	84.6	r_up	all:3 deal:1 telecom:1 companies:1 agreed:1 fit:1 share:1 ``:2 one:2 '':2 itself:1 through:1 have:1 year:1 further:1 80:1 next:1 open:1 its:1 strategic:1 21st:4 said:4 group:1 $:3 would:2 also:1 opportunities:1 analyst:2 may:2 encourage:1 program:1 prey:1 between:1 9:2 investors:1 markets:1 more:2 giant:1 play:1 buy:2 's:8 fiscal:1 far:1 company:1 acquire:1 agreement:1 possibility:1 forward:1 most:2 takeover:1 pursuit:1 closely:1 buyback:1 path:1 fellow:1 than:1 bigger:1 billion:3 both:1 target:1 move:1 these:1 could:2 work:1 implications:1 up:1 worried:1 thing:1 good:1 continue:1 become:2 efforts:1
+TWX	20140728	84.6	84.8	r_up	chew:1 prepared:1 among:1 two-day:1 trade:2 '':3 actively:2 have:2 jobs:1 calendar:1 second-quarter:1 its:3 21st:1 $:2 matter:1 monthly:1 highlights:1 44:1 opening:1 29:1 shares:2 should:1 growth:1 board:1 lot:1 expected:2 instead:1 meeting:1 company:1 week:1 ``:3 million:2 's:4 which:1 offer:1 read:1 familiar:1 bid:1 acquire:1 shareholders:1 anticipated:1 economic:2 part:1 blowing:1 report:1 highly:1 weekend:1 day:1 thriller:1 brought:1 look:1 rival:1 earned:1 companies:2 according:1 person:1 session:3 a.m.:1 media:1 action:1 away:1 first:2
+TWX	20140729	84.8	83.5	r_down	own:1 classic:1 private:1 including:1 turning:1 your:1 unit:1 around:1 leader:1 would:1 show:1 crucial:1 its:2 better:1 beat:1 lot:1 equity:1 biggest:1 has:1 worth:1 's:3 finance:1 advances:1 ratings:1 may:1 funds:1 expansion:1 houses:1 takeover:1 fending:1 coming:1 news:1 hedge:1 off:2 morning:1 slipping:1 which:1 time:1 banks:1
+TWX	20140730	83.5	84.1	r_up	studios:1 suitors:1 deal:1 edition:1 ready:1 close:1 extinction:1 its:1 film:1 movie:1 due:1 earnings:1 2014:1 gets:1 hit:1 business:1 material:1 possible:1 famous:1 not:1 producing:1 second-quarter:1 made:1 30:1 coalition:1 keep:1 report:1 worries:1
+TWX	20140731	84.1	82.6	r_down	``:2 his:2 upcoming:1 season:1 finale:1 '':2 villain:1 talked:1 role:1 series:1
+TWX	20140801	82.6	83.4	r_up	
+TWX	20140804	83.4	85.1	r_up	investors:1 years:1 battle:1 prevail:1 its:1 weekly:1 21st:1 now:1 just:1 service:1 merger:1 media:1 since:1 had:1 two:1 should:1 other:1 earnings:1 which:1 biggest:1 2014:1 suffered:1 has:1 500:1 2012:1 exploring:1 plunge:1 report:1 stocks:1 beginning:1 why:1 expand:1 great:1 countries:2 could:1 drop:1 companies:1 making:1 model:1
+TWX	20140805	85.1	84.8	r_down	operations:1 unsolicited:1 stores:1 they:1 pointing:1 trade:2 session:2 businesses:1 its:10 before:1 21st:2 $:4 revenue:1 should:1 premarket:1 quarterly:1 swans:1 earnings:1 string:1 bid:3 buys:1 dark:1 joins:1 report:1 day:1 companies:5 facing:1 ducklings:1 discussing:1 says:1 challenges:1 decided:1 trading:1 80:1 said:1 highlighting:1 entertainment:1 profit:1 since:1 shares:2 print:1 dominate:1 full:1 creating:1 business:3 conglomerate:1 operating:1 publisher:1 engage:1 newspapers:1 reports:1 turn:1 magazine:1 traded:1 first:1 outlook:1 bell:1 into:1 magazines:1 management:1 publishing:2 waits:1 two:1 strategy:1 their:2 call:1 low:1 expected:4 until:1 dealmakers:1 offer:1 company:3 broadcast:1 lowered:1 spin:1 second-quarter:1 posted:1 case:1 publicly:1 ugly:1 actively:2 abandon:1 proved:1 1.8:1 sales:1 promotional:1 buy:1 have:1 markdowns:1 species:1 confirmed:1 media:2 make:1 4.8:1 endangered:1 split:1 digital:2 becoming:1 's:5 separate:2 after:1 fell:1 ownership:1 billion:2 lower:1 off:1 assets:1 go-it-alone:1 stand-alone:1 broadcasting:2 turnover:1 latest:1
+TWX	20140806	84.8	73.9	r_down	saying:2 all:1 increasingly:1 guided:1 focus:1 trade:1 attempts:1 session:1 rough:1 still:1 skid:1 perfect:1 25:1 21st:7 $:3 tablet:1 personal:1 surprises:1 won’t:2 it’s:1 only:1 advisories:1 buying:1 quarterly:1 has:6 achieve:1 take:1 spun:1 hit:2 gains:2 abandons:1 means:2 billionaire:1 bid:6 anticipated:1 geopolitical:2 feels:1 made:1 volatility:1 now:1 continued:1 day:1 like:1 loss:2 heightened:1 cable:1 stiff:1 --:1 drop:1 companies:2 anxious:1 announced:1 release:1 become:1 higher:1 mergers:1 better-than-expected:1 indications:1 says:1 deal:2 people:1 evolving:1 dole:1 growth:1 trading:2 112:1 close:1 spiking:1 investment:1 best:1 out:1 closer:1 deals:1 said:1 actively:1 appear:1 profit:1 scoops:1 please:1 remain:1 shares:2 networks:1 future:1 stories:1 price:1 red:1 turmoil:1 shut:2 sinks:1 business:1 hours:1 reported:2 regulators:1 takeover:2 pursuit:2 opposition:1 put:1 news:1 appears:1 abruptly:1 mobility:1 both:1 cautious:1 withdrawing:1 taking:1 larger:1 reports:1 credit:1 tour:1 planned:1 withdraws:4 fourth-quarter:1 already:1 point:1 refuses:1 one:1 entrepreneur:1 owner:1 table:1 withdrawn:1 unit:1 spending:1 tumble:1 citing:1 rates:1 interest:1 6:2 biggest:1 proposal:1 markets:2 marginally:1 fiscal:1 ``:2 buy:1 widens:1 valuations:1 company:2 acquire:1 proving:1 back:1 volume:1 expected:1 flag:1 engage:2 wake:1 gain:1 drops:1 raising:1 weighed:1 2016:2 decided:1 target:1 bids:1 up:5 us:1 while:1 economic:1 replaced:1 risks:1 v:2 quarters:1 balance:1 history:1 streak:1 thwarted:1 investors:2 moved:1 roughly:1 '':2 financial:1 itself:1 have:2 sharp:1 sells:1 moves:1 yet:1 film:1 increased:2 strength:1 end:2 no:1 media:1 1:1 causing:1 earnings:1 which:3 9:1 steeper:1 channel:1 stock:4 week:2 extended:1 's:6 building:1 may:1 advice:1 after:5 replace:1 stocks:2 pulled:1 billion:2 off:4 downbeat:1 corporate:1 bankers:1 daily:1 face:1 muted:1 time:1 every:1 its:10 roundup:1 latest:1
+TWX	20140807	73.9	71.7	r_down	saying:1 unsolicited:1 increasingly:1 results:1 years:1 signs:1 its:3 note:1 21st:2 $:1 rose:1 delays:1 swoon:1 program:1 suffered:1 has:1 take:1 do:1 hit:1 gains:1 big:3 bid:2 worst:1 they:1 not:1 hedge:2 quarters:1 day:1 volatility:1 stabilize:1 --:1 companies:2 deals:3 steps:1 withdrawal:1 arbitragers:1 hard:1 some:2 year:1 happen:1 declined:1 out:1 said:1 network:1 movie:1 decision:1 research:1 looking:1 closed:1 we:1 led:1 conglomerate:1 spared:1 regulators:1 studio:1 share-buyback:1 clues:1 brokerage:1 post:1 appears:2 roundup:1 cautious:1 last:1 uncertainty:1 reports:1 analysts:1 surprises:1 apart:2 outlook:1 others:1 strategic:1 rising:1 table:1 telecommunications:1 market:1 takeovers:1 two:3 been:1 next:1 their:1 advisories:1 charts:1 boom:1 more:1 ``:2 collapse:1 offer:1 funds:3 but:1 known:1 improved:1 television:1 made:1 rival:1 plunged:1 up:2 future:2 can:1 bet:1 climbed:1 investors:2 '':2 substantial:1 have:2 return:1 mutual:1 winter:1 stymie:1 rout:1 deal-making:1 traders:1 potential:1 earnings:2 which:1 ramping:1 higher:1 's:1 may:1 boosted:1 after:3 fell:2 negotiating:1 stocks:1 recent:1 rallied:1 largely:1 slightly:1 rule:1 face:1 looked:1 serious:1 corporate:2 latest:1
+TWX	20140808	71.7	72.9	r_up	weaker:1 investors:1 revenue:2 licensing:1 slumped:1 its:2 said:1 mood:1 since:1 late:1 concerns:1 earnings:1 7:1 lowest:1 lower:1 hurt:1 geopolitical:1 fell:1 second-quarter:1 television:2 cautious:1 level:1 developing:1 broadcaster:1 advertising:1 left:1
+TWX	20140811	72.9	73.7	r_up	named:1 just:1 ``:4 promotional:1 '':4 titles:1 including:1 pricing:2 next:1 e-book:1 planning:1 lead:1 their:1 media:1 veteran:1 hazards:1 fight:1 also:1 concerns:1 between:1 dispute:2 website:1 product:1 sharing:1 's:1 month:1 company:1 consolidation:1 but:1 pre-orders:1 early:1 regulators:1 not:1 accepting:1 strategic:1 potential:1 acquisitions:1 placement:1 like:1 starting:1 n't:1 magazine:1 costs:1 mergers:1 team:1 echoes:1 shows:1 flooding:1 involves:1
+TWX	20140812	73.7	72.7	r_down	copies:1 point:1 feel:1 over:1 others:1 estimates:1 pre-orders:2 sting:1 one:1 '':3 not:1 accepting:1 titles:2 including:1 playbook:1 suspended:1 year:1 fight:1 its:2 e-book:1 reruns:1 van:1 network:1 retailer:1 writes:1 two:1 same:1 next:1 pricing:1 discounts:1 pared:1 earnings:1 tactic:1 biggest:1 has:2 bitter:1 spat:1 wants:1 ``:3 's:2 homes:1 press:1 familiar:1 but:1 broadcast:1 increases:1 four-month:1 improving:1 world:1 stocks:1 10:1 prospects:1 enjoying:1 physical:1 cable:1 these:1 turns:1 sitcom:1 shipping:1 times:1 n't:1 many:1 worries:1 found:1 companies’:1 latest:1
+TWX	20140813	72.7	73.8	r_up	
+TWX	20140814	73.8	76.2	r_up	operations:1 unsolicited:1 currency:1 have:1 go:1 its:2 market:1 said:1 publishing:1 would:1 stake:1 had:2 shares:1 why:1 their:1 activist:1 disclosed:1 split:1 rise:1 shopping:1 business:1 separate:1 company:1 after:1 offers:1 takeover:1 bull:1 not:1 such:1 strong:1 investor:1 than:1 he:1 10:1 boards:1 companies:1 days:1 levels:1 record:1 chief:1 broadcasting:1 planned:1 push:1 corporate:2 executives:1
+TWX	20140815	76.2	76.1	r_down	hostile:1 investing:1 ride:1 bids:1 deals:1 writes:1 can:1 wild:1 change:1 your:1 sent:1 plans:1
+TWX	20140818	76.1	76.5	r_up	sector:1 21st:1 said:1 's:1 abandoned:1 show:1 big:1 bid:1 after:1 see:1 strategy:1 likely:1 media:1 morning:1 equity:1 activity:1 head:1 its:1 more:1
+TWX	20140819	76.5	76.6	r_up	
+TWX	20140820	76.6	76.7	r_up	
+TWX	20140821	76.7	76.4	r_down	
+TWX	20140822	76.4	76.9	r_up	's:2 network:1 joint:1 entertainment:1 familiar:1 people:1 matter:1 according:1 24-hour:1 overhaul:1 held:1 potential:1 venture:1 have:1 talks:1 news:1 weeks:1 executives:1 recent:1
+TWX	20140825	76.9	76.6	r_down	clip:1 radical:1 results:1 second:1 aggressive:1 shareholders:1 management:1 split:1 new:1 avenues:1 stock:2 stance:1 opening:1 funds:1 rapid:1 sharply:1 strong:1 boards:1 rallied:1 hostile:1 positions:1 bids:1 teams:1 more:1 amid:1 quarter:1 changes:1
+TWX	20140826	76.6	76.6	r_up	buyouts:1 division:1 's:3 voluntary:1 cable:1 offer:1 familiar:1 employees:1 people:1 according:1 matter:1 planning:1 week:1 between:1 500:1 600:1
+TWX	20140827	76.6	76.8	r_up	lost:1 big:1 companies:2 behind:1 won:1 shook:1 shows:1 out:1
+TWX	20140828	76.8	76.9	r_up	summer:1 studios:1 office:1 less:1 ca:1 domestic:1 sales:1 '':2 much:1 make:1 other:1 ``:2 fall:1 difference:1 box:1 earn:1 15:1 like:1 countries:1 rights:1 up:1 n't:1 movies:1
+TWX	20140829	76.9	77.0	r_up	
+TWX	20140902	77.0	77.3	r_up	
+TWX	20140903	77.3	77.3	r_up	down:1 all:1 '':1 's:1 secure:1 deal:1 index:1 0.1:1 rights:1 declining:1 ``:1 shares:1 0.6:1 weighed:1 streaming:1 dropping:1 500:1 broader:1 struck:1 its:1 market:1
+TWX	20140904	77.3	77.2	r_down	his:1 run:1 no:1 veteran:1 experience:1 hired:1 studio:1 struggling:1 has:1
+TWX	20140905	77.2	76.9	r_down	
+TWX	20140908	76.9	77.2	r_up	
+TWX	20140909	77.2	76.3	r_down	
+TWX	20140910	76.3	75.9	r_down	sharp:1 seeing:2 rapid:1 jobs:1 since:1 business:1 decline:1 movie:2 industry:2 drop:1 one:1 recession:1 added:1 steadily:1 end:1 has:1 employment:1 economy:1
+TWX	20140911	75.9	76.7	r_up	service:1 deal:1 prove:1 month:1 media:1 bid:1 22:1 rejecting:1 next:1 channels:1 takeover:1 including:1 something:1 new:1 carry:1 reached:1 has:1 its:1 company:1
+TWX	20140912	76.7	76.8	r_up	'':2 ``:2 own:1 's:1 obsessed:1 ratings:1 show:1 had:1 younger:1 but:1 networks:1 drama:1 canceled:1 much:1 audiences:1 want:1 advertisers:1 content:1 than:1 possible:1 higher:1
+TWX	20140915	76.8	76.2	r_down	
+TWX	20140916	76.2	76.7	r_up	advance:1 ``:1 ad:2 tepid:1 spending:1 season:2 upfront:1 sales:1 been:1 surge:1 '':1 banking:1 fall:1 weaker-than-expected:1 have:1 coming:1 following:1 new:1 weeks:1 looking:1 networks:1
+TWX	20140917	76.7	76.8	r_up	force:1 toy:1 's:2 network:1 cable:1 joint:1 partnership:1 children:1 television:1 ending:1 their:1 become:1 hoped:1 maker:1
+TWX	20140918	76.8	77.3	r_up	
+TWX	20140919	77.3	77.8	r_up	
+TWX	20140922	77.8	75.6	r_down	
+TWX	20140923	75.6	75.2	r_down	
+TWX	20140924	75.2	76.2	r_up	deal:1 scratch:1 startup:1 not:1 world-wide:1 film:1 21st:1 said:1 develop:1 $:1 entertainment:1 interested:1 8:1 appeal:1 firm:1 200:1 run:1 company:2 million:1 but:1 conglomerate:1 met:1 buyer:1 now:1 former:1 hire:1 look:1 getting:1 challenge:1 movies:1 chief:1 executives:1
+TWX	20140925	76.2	75.3	r_down	firm:1 shop:1 around:1 company:1 banking:1 has:1 investment:1
+TWX	20140926	75.3	75.6	r_up	
+TWX	20140929	75.6	75.6	r_up	
+TWX	20140930	75.6	75.2	r_down	major:1 proposed:1 programming:1 two-month:1 another:1 close:1 its:1 film:1 giant:1 agreements:1 merger:1 media:1 45:1 feature:2 submit:1 their:1 details:1 which:1 channel:1 dispute:1 wants:1 billion:1 offering:1 wary:1 deliver:1 nearly:1 during:1 teaming:1 appears:1 $:1 settling:1 owners:1 challenge:1 companies:1 up:1 reviews:1 e-commerce:1 stopped:1 first:1
+TWX	20141001	75.2	73.7	r_down	
+TWX	20141002	73.7	73.2	r_down	says:1 into:1 creation:1 back:1 down:1 itself:1 year:1 sought:1 hit:1 250:2 its:3 sell:1 increase:1 '':2 group:1 $:2 media:1 activism:1 stake:1 shares:1 slew:1 content:1 which:2 new:1 has:2 firm:1 ``:2 buy:1 's:3 billionaire:1 company:2 million:1 reach:1 break:1 step:1 produce:1 coming:1 dividend:1 investor:1 expand:1 takes:1 helped:1 epic:1 name:1 --:2 invest:1 seen:1 up:1 sequels:1 executives:1
+TWX	20141003	73.2	74.7	r_up	major:1 producer:1 show:1 companies:1 into:2 manage:1 related:1 up:1 channels:2 financially:1 rising:1 questions:1 year:1 its:1 market:1 shaky:1 web:1 material:1 busy:1 $:1 service:2 flood:1 950:1 six:1 including:1 content:1 their:1 dropping:1 expanding:1 instead:1 holiday:1 markets:1 2012:1 plug:1 earlier:1 shopping:1 may:1 season:1 million:1 commercial:1 but:1 holidays:1 groups:1 demand:1 focusing:1 new:3 raising:1 faced:1 animated:1 acquisition:1 cable:1 makes:1 debut:1 programming:1 heating:1 drone:1 leave:1 movies:1 costs:2 works:1 enter:1 pulling:1 sizzles:1 consumer:1 heading:2 bet:1
+TWX	20141006	74.7	73.8	r_down	spurts:1 major:1 there:1 picked:1 people:1 revert:1 over:1 play:1 according:1 '':1 actively:1 now:1 triple:1 past:1 reached:1 networks:1 industries:1 deals:2 said:1 no:1 ways:1 media:2 winner:1 shares:1 their:1 only:1 calm:1 expected:1 new:1 stepped:1 has:1 markets:1 back:1 ``:1 's:2 stay:1 familiar:1 believe:1 here:1 choice:1 facing:1 reason:1 nearly:1 trade:1 volatility:1 league:1 exception:1 several:1 rights:1 --:2 clear:1 months:1 companies:2 up:2 annually:1 amount:1 session:1 receives:1 long-term:1 situation:1 changes:1
+TWX	20141007	73.8	73.3	r_down	distributors:1 yen:1 executive:1 trade:1 session:1 through:1 its:2 before:2 24:2 25:1 some:1 cut:1 $:5 winner:1 had:1 might:1 worth:1 hope:1 giants:1 rebound:1 not:1 existing:1 wring:1 day:1 cable:1 installment:1 warned:1 companies:1 taxes:1 deals:3 benefit:2 recoup:1 grab:1 bills:1 lithium-ion:1 prevent:1 deal:2 estimates:1 likely:1 actively:1 value:1 year:1 said:3 factory:1 shares:1 networks:1 new:4 electronics:1 across:1 cost-cutting:1 ability:1 partners:1 million:3 pressure:1 league:1 owners:1 programming:2 contract:1 times:1 players:1 games:1 first:1 freeing:1 revenue:1 battery:1 billions:1 guard:1 aimed:1 fees:1 unit:1 use:1 additional:1 rivals:1 remains:1 stoppage:1 three:1 sports:1 their:3 combined:1 interest:1 expected:1 happy:1 company’s:1 season:2 company:3 but:1 part:1 representative:1 10:1 television:1 rights:4 work:1 up:1 signed:1 air:1 while:1 depreciation:1 growing:1 providers:1 contribute:1 share:1 evidence:1 player:1 say:1 35:1 technology:1 worry:1 media:2 earnings:1 funds:1 gets:1 higher:2 's:1 plans:1 reportedly:1 may:1 workforce:1 plan:1 billion:2 owns:1 off:1 invest:2 clear:1 chief:1 costs:1 pay:1
+TWX	20141008	73.3	73.9	r_up	
+TWX	20141009	73.9	72.0	r_down	studios:1 join:1 knowledge:1 people:1 three:1 least:1 consortium:1 according:1 talks:1 situation:1 several:1
+TWX	20141010	72.0	71.8	r_down	programming:1 into:1 partnership:1 one:1 rising:1 have:1 giant:1 consumers:1 entertainment:1 much:1 three:1 production:1 combine:1 shaving:1 creating:1 formed:1 21st:2 packages:1 television:1 aren’t:1 many:1 companies:1 aim:1 so:1 bills:1

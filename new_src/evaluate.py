@@ -7,9 +7,14 @@ import datetime
 import nltk
 
 testDir = "../new_result/testData"
-predDirs = ["../new_result/predictions_reg","../new_result/predictions_sage"]
+predDirs = ["../new_result/predictions_sage"]
+global r
+global c
 
+r = 0
+c = 0
 def evaluate(predDir,dataDict):
+	global r, c
 	pred_count = 0
 	correct_count = 0
 	money = 1.0
@@ -28,15 +33,15 @@ def evaluate(predDir,dataDict):
 			elif pred_l == "down":
 				if true_l == "r_down":
 					correct_count += 1
-
+	r = r + correct_count
+	c = c + pred_count
 	return (correct_count/float(pred_count),money)
 
-
-for fname in os.listdir(predDirs[1]):
+l = dict()
+for fname in os.listdir(predDirs[0]):
 	if fname.endswith('.txt'):
 		stock = fname[:-4]
-
-		dataFile = codecs.open('%s/%s' %(testDir,fname),'r','utf-8')
+		dataFile = codecs.open('%s/%s' % (testDir, fname), 'r', 'utf-8')
 		start = None
 		end = None
 		dataDict = dict()
@@ -49,18 +54,24 @@ for fname in os.listdir(predDirs[1]):
 				s, day, prev_p, cur_p, true_l = info
 			elif len(info) == 6:
 				s, day, prev_p, cur_p, true_l, words = info
-
 			if start is None:
 				start = float(prev_p)
-			dataDict[day] = (float(prev_p),float(cur_p),true_l)
+			dataDict[day] = (float(prev_p), float(cur_p), true_l)
 			end = float(cur_p)
 		dataFile.close()
-
-		summary = [stock,str(end/start)]
+		summary = [stock, str(end / start)]
 		for predDir in predDirs:
-			accuracy,money = evaluate(predDir,dataDict)
-			summary.extend([str(accuracy),str(money)])
+			accuracy, money = evaluate(predDir, dataDict)
+			l[stock] = accuracy
+			# print stock + ": " + str(accuracy)
+			summary.extend([str(accuracy), str(money)])
 
 		print "\t\t".join(summary)
 
-		#print "%s:%f accuracy for %d predictions, earn %f compared to %f" %(stock, (correct_count/float(pred_count)),pred_count,money, end/start)
+		# print "%s:%f accuracy for %d predictions, earn %f compared to %f" %(stock, (correct_count/float(pred_count)),pred_count,money, end/start)
+import operator
+sorted_x = sorted(l.items(), key=operator.itemgetter(1))
+val = [i[1] for i in sorted_x]
+print sum(val) / len(sorted_x)
+print r / float(c)
+print [i[0] + " " + str(i[1]) for i in sorted_x]

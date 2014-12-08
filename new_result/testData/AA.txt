@@ -1,307 +1,114 @@
-AA	20120402	9.85	10.0	r_up	
-AA	20120403	10.0	9.89	r_down	
-AA	20120404	9.89	9.64	r_down	
-AA	20120405	9.64	9.47	r_down	
-AA	20120409	9.47	9.44	r_down	lower:1 jobs:1 soars:1 futures:1 watch:1 month:1 n't:1 see:1 worst:1 sharply:1 stocks:1 data:1 day:1 stock:1
-AA	20120410	9.44	9.16	r_down	log:1 profit:1 earnings:1 2012:1 kick:1 stock:1 's:1 season:1 await:1 watch:2 worst:1 stocks:1 day:1 off:1 rocky:1 futures:1 up:1 n't:1 edge:1 keeps:1 lineup:1 talk:1
-AA	20120411	9.16	9.73	r_up	1.7:1 soften:1 down:1 7th:1 rally:1 moves:1 pares:1 surprises:1 shares:2 advisories:1 snap:1 surprise:1 's:1 higher:1 rise:3 run:1 gains:1 mostly:1 after:2 watch:1 miners:1 hours:2 worries:1 fall:2 losing:1 100:1 stocks:2 day:1 hints:1 loss:1 lower:1 2012:1 straight:1 futures:1 yields:1 banks:1 stock:1
-AA	20120412	9.73	10.0	r_up	streak:1 gaining:1 natural:1 get:1 track:1 gas:1 drop:1 weak:1 back:1 biggest:1 losing:1 prices:1 snap:1 winning:1 stocks:3 declining:1
-AA	20120413	10.0	9.68	r_down	stocks:1 feel:1 bite:1 expectations:1 earnings:1 fuel:1 rally:1 bills:1 higher:1
-AA	20120416	9.68	9.69	r_up	
-AA	20120417	9.69	9.82	r_up	
-AA	20120418	9.82	9.78	r_down	$:1 1.3:1
-AA	20120419	9.78	9.59	r_down	$:1 10.4:1
-AA	20120420	9.59	9.54	r_down	
-AA	20120423	9.54	9.47	r_down	
-AA	20120424	9.47	9.5	r_up	
-AA	20120425	9.5	9.65	r_up	
-AA	20120426	9.65	9.69	r_up	's:2
-AA	20120427	9.69	9.59	r_down	's:1
-AA	20120430	9.59	9.57	r_down	
-AA	20120501	9.57	9.8	r_up	
-AA	20120502	9.8	9.57	r_down	
-AA	20120503	9.57	9.42	r_down	
-AA	20120504	9.42	9.21	r_down	
-AA	20120507	9.21	9.17	r_down	
-AA	20120508	9.17	9.05	r_down	
-AA	20120509	9.05	9.0	r_down	losses:1 gains:1 wipe:1 500:1 out:1
-AA	20120510	9.0	8.98	r_down	's:1
-AA	20120511	8.98	8.94	r_down	
-AA	20120514	8.94	8.8	r_down	
-AA	20120515	8.8	8.59	r_down	
-AA	20120516	8.59	8.37	r_down	
-AA	20120517	8.37	8.38	r_up	
-AA	20120518	8.38	8.31	r_down	
-AA	20120521	8.31	8.48	r_up	
-AA	20120522	8.48	8.37	r_down	
-AA	20120523	8.37	8.49	r_up	
-AA	20120524	8.49	8.51	r_up	
-AA	20120525	8.51	8.51	r_up	global:1 growth:1 sectors:1 clues:1
-AA	20120529	8.51	8.77	r_up	
-AA	20120530	8.77	8.46	r_down	125:1
-AA	20120531	8.46	8.43	r_down	
-AA	20120601	8.43	8.19	r_down	2012:1
-AA	20120604	8.19	8.28	r_up	
-AA	20120605	8.28	8.33	r_up	
-AA	20120606	8.33	8.52	r_up	
-AA	20120607	8.52	8.43	r_down	
-AA	20120608	8.43	8.4	r_down	
-AA	20120611	8.4	8.21	r_down	
-AA	20120612	8.21	8.4	r_up	
-AA	20120613	8.4	8.36	r_down	
-AA	20120614	8.36	8.53	r_up	
-AA	20120615	8.53	8.7	r_up	
-AA	20120618	8.7	8.57	r_down	
-AA	20120619	8.57	8.78	r_up	
-AA	20120620	8.78	8.8	r_up	
-AA	20120621	8.8	8.43	r_down	
-AA	20120622	8.43	8.5	r_up	
-AA	20120625	8.5	8.28	r_down	
-AA	20120626	8.28	8.28	r_up	
-AA	20120627	8.28	8.41	r_up	outlook:1 cut:1
-AA	20120628	8.41	8.39	r_down	
-AA	20120629	8.39	8.63	r_up	$:2 600:1
-AA	20120702	8.63	8.51	r_down	last:1 gains:1 week’s:1 build:1 poised:1 stocks:1
-AA	20120703	8.51	8.78	r_up	
-AA	20120705	8.78	8.8	r_up	
-AA	20120706	8.8	8.61	r_down	code:1 's:2 views:1 cuts:1 crack:1 n't:1 profit:1 earnings:1 faces:1 bar:1 after:1 low:1
-AA	20120709	8.61	8.64	r_up	down:1 surprises:1 shares:1 advisories:1 7:1 markets:1 rise:1 after:1 watch:1 hours:1 pressure:1 gain:1 fall:1 stocks:2 day:1 lower:1 third:1 futures:1 up:1 slumps:1 keep:1 n't:1 yields:2 worries:1 weigh:1
-AA	20120710	8.64	8.29	r_down	begins:1 confidence:1 's:1 up:1 season:1 futures:1 watch:1 results:1 dent:1 edge:1 analysts:1 market:1 earnings:1
-AA	20120711	8.29	8.24	r_down	pact:1 n't:1 outlook:1 drop:1 's:1 supply:1 rebound:1 inks:1 retreats:1 stocks:2 corporate:1 multiyear:1
-AA	20120712	8.24	8.19	r_down	
-AA	20120713	8.19	8.3	r_up	
-AA	20120716	8.3	8.22	r_down	
-AA	20120717	8.22	8.17	r_down	
-AA	20120718	8.17	8.22	r_up	
-AA	20120719	8.22	8.27	r_up	
-AA	20120720	8.27	8.15	r_down	
-AA	20120723	8.15	8.03	r_down	
-AA	20120724	8.03	7.91	r_down	
-AA	20120725	7.91	7.91	r_up	
-AA	20120726	7.91	8.08	r_up	
-AA	20120727	8.08	8.33	r_up	
-AA	20120730	8.33	8.33	r_up	
-AA	20120731	8.33	8.35	r_up	
-AA	20120801	8.35	8.34	r_down	148:1
-AA	20120802	8.34	8.1	r_down	again:1 lower:1 stocks:1 end:1 frustrates:1
-AA	20120803	8.1	8.28	r_up	
-AA	20120806	8.28	8.41	r_up	
-AA	20120807	8.41	8.51	r_up	
-AA	20120808	8.51	8.71	r_up	
-AA	20120809	8.71	8.77	r_up	
-AA	20120810	8.77	8.89	r_up	
-AA	20120813	8.89	8.74	r_down	loss:1 end:1 gains:1 slight:1 tech:1 stocks:1
-AA	20120814	8.74	8.6	r_down	
-AA	20120815	8.6	8.64	r_up	
-AA	20120816	8.64	8.68	r_up	
-AA	20120817	8.68	8.66	r_down	
-AA	20120820	8.66	8.71	r_up	
-AA	20120821	8.71	8.73	r_up	
-AA	20120822	8.73	8.78	r_up	
-AA	20120823	8.78	8.54	r_down	
-AA	20120824	8.54	8.54	r_up	
-AA	20120827	8.54	8.39	r_down	
-AA	20120828	8.39	8.41	r_up	
-AA	20120829	8.41	8.45	r_up	
-AA	20120830	8.45	8.35	r_down	
-AA	20120831	8.35	8.47	r_up	
-AA	20120904	8.47	8.33	r_down	
-AA	20120905	8.33	8.43	r_up	
-AA	20120906	8.43	8.67	r_up	
-AA	20120907	8.67	9.01	r_up	
-AA	20120910	9.01	8.96	r_down	
-AA	20120911	8.96	9.24	r_up	
-AA	20120912	9.24	9.25	r_up	
-AA	20120913	9.25	9.53	r_up	5:1
-AA	20120914	9.53	9.74	r_up	
-AA	20120917	9.74	9.48	r_down	follow:1 5:1 catalysts:1 market:1
-AA	20120918	9.48	9.39	r_down	session:1 stocks:1 five:1 first:1 fall:1
-AA	20120919	9.39	9.37	r_down	stocks:1 gains:1 500:1 slip:1 falls:1
-AA	20120920	9.37	9.16	r_down	
-AA	20120921	9.16	9.04	r_down	
-AA	20120924	9.04	8.97	r_down	
-AA	20120925	8.97	8.75	r_down	
-AA	20120926	8.75	8.8	r_up	
-AA	20120927	8.8	8.9	r_up	
-AA	20120928	8.9	8.77	r_down	
-AA	20121001	8.77	8.82	r_up	's:1
-AA	20121002	8.82	8.76	r_down	
-AA	20121003	8.76	8.69	r_down	shifts:1 ends:1 earnings:1 lower:1 focus:1
-AA	20121004	8.69	8.98	r_up	climb:1 stocks:1 economic:1 reports:1
-AA	20121005	8.98	9.0	r_up	grip:1 week:1 since:1 jobs:1 gains:1 rebound:1 rise:1 worst:1 earnings:1 lose:1
-AA	20121008	9.0	9.03	r_up	sector:1 weighed:1 stocks:1 futures:1 off:1 down:1 earnings:1 global-growth:1 after:1 shares:1 hours:1 sink:1 worries:1 resource:1 stock:1 market:1 mean:1
-AA	20121009	9.03	9.04	r_up	drop:1 expectations:1 110:1 before:1 $:2 third-quarter:1 concerns:1 earnings:2 85:2 stock:1 's:1 global-growth:1 watch:1 but:1 most:1 fall:1 stocks:1 come:1 futures:1 steady:1 matter:1 don’t:1 first:1
-AA	20121010	9.04	8.62	r_down	bench:1 drop:1 futures:1 amid:1 warns:1 after:1 watch:1 results:1 declines:1 falls:1 hours:1 stall:1 crisis:1 earnings:1 debt:1 sharp:1 following:1 close:1 stocks:2 over:1 stock:1
-AA	20121011	8.62	8.68	r_up	weighs:1 drop:1 jobless:1 futures:1 up:1 down:1 concerns:1 earnings:2 fall:1 claims:1 stocks:2 stock:1
-AA	20121012	8.68	8.6	r_down	
-AA	20121015	8.6	8.71	r_up	
-AA	20121016	8.71	8.85	r_up	
-AA	20121017	8.85	9.09	r_up	
-AA	20121018	9.09	9.12	r_up	
-AA	20121019	9.12	8.92	r_down	
-AA	20121022	8.92	9.01	r_up	
-AA	20121023	9.01	8.69	r_down	
-AA	20121024	8.69	8.61	r_down	
-AA	20121025	8.61	8.64	r_up	
-AA	20121026	8.64	8.56	r_down	
-AA	20121031	8.56	8.51	r_down	
-AA	20121101	8.51	8.69	r_up	
-AA	20121102	8.69	8.59	r_down	
-AA	20121105	8.59	8.55	r_down	
-AA	20121106	8.55	8.68	r_up	
-AA	20121107	8.68	8.42	r_down	's:1
-AA	20121108	8.42	8.33	r_down	
-AA	20121109	8.33	8.37	r_up	
-AA	20121112	8.37	8.37	r_up	
-AA	20121113	8.37	8.25	r_down	
-AA	20121114	8.25	8.08	r_down	
-AA	20121115	8.08	8.0	r_down	
-AA	20121116	8.0	8.12	r_up	
-AA	20121119	8.12	8.28	r_up	
-AA	20121120	8.28	8.19	r_down	
-AA	20121121	8.19	8.21	r_up	
-AA	20121123	8.21	8.29	r_up	
-AA	20121126	8.29	8.25	r_down	
-AA	20121127	8.25	8.22	r_down	
-AA	20121128	8.22	8.34	r_up	
-AA	20121129	8.34	8.34	r_up	
-AA	20121130	8.34	8.35	r_up	
-AA	20121203	8.35	8.35	r_up	
-AA	20121204	8.35	8.36	r_up	
-AA	20121205	8.36	8.51	r_up	
-AA	20121206	8.51	8.51	r_up	
-AA	20121207	8.51	8.44	r_down	
-AA	20121210	8.44	8.51	r_up	
-AA	20121211	8.51	8.62	r_up	
-AA	20121212	8.62	8.59	r_down	
-AA	20121213	8.59	8.53	r_down	
-AA	20121214	8.53	8.68	r_up	2012:1
-AA	20121217	8.68	8.69	r_up	
-AA	20121218	8.69	8.85	r_up	movers:1 big:1 junk:1 cut:1 may:1
-AA	20121219	8.85	8.58	r_down	's:3
-AA	20121220	8.58	8.64	r_up	high:1 hits:1 stocks:1 17-month:1 retreat:1
-AA	20121221	8.64	8.51	r_down	
-AA	20121224	8.51	8.56	r_up	
-AA	20121226	8.56	8.67	r_up	
-AA	20121227	8.67	8.56	r_down	
-AA	20121228	8.56	8.44	r_down	
-AA	20121231	8.44	8.62	r_up	
-AA	20130102	8.62	8.93	r_up	
-AA	20130103	8.93	9.01	r_up	
-AA	20130104	9.01	9.2	r_up	n't:1 after-hours:1 's:1 attention:1 get:1
-AA	20130107	9.2	9.04	r_down	slip:1 before:1 run-up:1 pause:1 profit:1 start:1 earnings:3 way:1 blowouts:1 retreat:1 tell:1 2013:1 more:1 rise:1 hit:2 may:1 season:1 week’s:1 after:2 forecasts:1 strong:1 slashed:1 bar:1 stocks:4 bank:1 cliff:1 last:1 taking:1 futures:1 paves:1 banks:1 climb:1 profits:1
-AA	20130108	9.04	9.04	r_up	fourth-quarter:1 set:1 help:1 sales:1 results:1 down:1 warning:1 slip:1 losses:1 profit:1 shares:1 earnings:1 you:1 's:3 after:1 miners:1 focus:1 hours:1 concentrate:1 key:1 fall:1 stocks:2 futures:1 off:1 ahead:1 drop:1 edge:1 swing:1
-AA	20130109	9.04	9.02	r_down	drop:1 back:1 expenses:1 nickel:1 stocks:3 profit:1 won’t:1 since:1 shares:2 earnings:3 inch:1 supplies:1 boost:1 2013:1 stock:1 after:3 's:2 government:1 jumps:1 rise:3 0.4:1 hours:2 swings:1 gain:1 100:1 highest:1 lawsuit:1 pull:1 lower:1 join:1 ahead:1 inspired:1 futures:1 up:2 against:1 loses:1 n't:1 banks:1 2008:1
-AA	20130110	9.02	8.91	r_down	after:1 two-day:1 rise:1 indexes:1 61:1 slide:1 stock:1
-AA	20130111	8.91	8.88	r_down	sideways:1 trades:1 focus:1
-AA	20130114	8.88	8.86	r_down	
-AA	20130115	8.86	8.86	r_up	
-AA	20130116	8.86	8.82	r_down	
-AA	20130117	8.82	8.88	r_up	
-AA	20130118	8.88	8.94	r_up	
-AA	20130122	8.94	9.14	r_up	
-AA	20130123	9.14	9.09	r_down	
-AA	20130124	9.09	8.98	r_down	
-AA	20130125	8.98	8.97	r_down	
-AA	20130128	8.97	8.84	r_down	
-AA	20130129	8.84	8.82	r_down	streak:1 snaps:1 8-session:2 500:2 winning:1
-AA	20130130	8.82	8.74	r_down	
-AA	20130131	8.74	8.78	r_up	
-AA	20130201	8.78	8.94	r_up	
-AA	20130204	8.94	8.8	r_down	
-AA	20130205	8.8	8.88	r_up	
-AA	20130206	8.88	8.93	r_up	
-AA	20130207	8.93	8.87	r_down	
-AA	20130208	8.87	8.91	r_up	n't:1
-AA	20130211	8.91	8.84	r_down	
-AA	20130212	8.84	9.0	r_up	38:1 $:1
-AA	20130213	9.0	9.07	r_up	
-AA	20130214	9.07	9.26	r_up	's:2
-AA	20130215	9.26	9.29	r_up	
-AA	20130219	9.29	9.03	r_down	
-AA	20130220	9.03	8.73	r_down	108:1
-AA	20130221	8.73	8.63	r_down	
-AA	20130222	8.63	8.61	r_down	
-AA	20130225	8.61	8.39	r_down	
-AA	20130226	8.39	8.38	r_down	
-AA	20130227	8.38	8.51	r_up	
-AA	20130228	8.51	8.49	r_down	
-AA	20130301	8.49	8.41	r_down	
-AA	20130304	8.41	8.32	r_down	level:1 average:1 2nd:1 lifts:1 gain:1 highest:1
-AA	20130305	8.32	8.32	r_up	
-AA	20130306	8.32	8.54	r_up	record:1 road:1
-AA	20130307	8.54	8.61	r_up	
-AA	20130308	8.61	8.58	r_down	
-AA	20130311	8.58	8.64	r_up	
-AA	20130312	8.64	8.59	r_down	
-AA	20130313	8.59	8.51	r_down	9:1
-AA	20130314	8.51	8.52	r_up	
-AA	20130315	8.52	8.6	r_up	
-AA	20130318	8.6	8.53	r_down	
-AA	20130319	8.53	8.45	r_down	
-AA	20130320	8.45	8.51	r_up	's:1
-AA	20130321	8.51	8.42	r_down	
-AA	20130322	8.42	8.42	r_up	
-AA	20130325	8.42	8.39	r_down	
-AA	20130326	8.39	8.39	r_up	
-AA	20130327	8.39	8.46	r_up	
-AA	20130328	8.46	8.49	r_up	
-AA	20130401	8.49	8.36	r_down	
-AA	20130402	8.36	8.27	r_down	
-AA	20130403	8.27	8.24	r_down	's:1 after:1 disappointing:1 slide:1 stocks:1 data:1
-AA	20130404	8.24	8.19	r_down	
-AA	20130405	8.19	8.21	r_up	subpar:1 jobs:2 futures:1 sink:1 report:1 disappoint:1 stocks:1 data:1 stumble:1
-AA	20130408	8.21	8.36	r_up	's:1 ahead:1 watch:1 rebound:1 futures:1 slump:1 flip-flops:1 otherwise:1 hamstrung:1 upbeat:1 new:1 stocks:1 stock:2
-AA	20130409	8.36	8.36	r_up	estimates:1 rally:1 stocks:4 $:1 lead:1 profit:1 recovers:1 exit:1 earnings:1 above:1 beating:1 425:1 higher:1 snaps:1 rise:2 's:1 after:3 mentality:1 ‘buy-the-dip’:1 inflation:1 eyed:1 rises:1 data:2 59:2 movers:1 futures:1 up:2 mildly:1 grab:1 spotlight:1
-AA	20130410	8.36	8.28	r_down	lifted:1 sinks:1 woes:1 record-high:1 movers:1 futures:1 surge:1 lifts:1 close:1 minutes:1
-AA	20130411	8.28	8.29	r_up	
-AA	20130412	8.29	8.19	r_down	's:1
-AA	20130415	8.19	8.01	r_down	hours:1 slide:1 after:1 extends:1
-AA	20130416	8.01	8.07	r_up	
-AA	20130417	8.07	7.93	r_down	
-AA	20130418	7.93	8.0	r_up	
-AA	20130419	8.0	8.05	r_up	
-AA	20130422	8.05	8.08	r_up	
-AA	20130423	8.08	8.09	r_up	
-AA	20130424	8.09	8.38	r_up	
-AA	20130425	8.38	8.36	r_down	flat:1 drop:1 stocks:1 end:1 500:1
-AA	20130426	8.36	8.24	r_down	boost:1 lower:1 stocks:1 end:1
-AA	20130429	8.24	8.39	r_up	
-AA	20130430	8.39	8.47	r_up	
-AA	20130501	8.47	8.4	r_down	
-AA	20130502	8.4	8.43	r_up	
-AA	20130503	8.43	8.59	r_up	1600:1
-AA	20130506	8.59	8.66	r_up	n't:1
-AA	20130507	8.66	8.61	r_down	
-AA	20130508	8.61	8.84	r_up	
-AA	20130509	8.84	8.79	r_down	
-AA	20130510	8.79	8.7	r_down	
-AA	20130513	8.7	8.53	r_down	
-AA	20130514	8.53	8.56	r_up	up:1 high:1 record:1 edges:1 drops:1 500:1
-AA	20130515	8.56	8.5	r_down	
-AA	20130516	8.5	8.5	r_up	these:1 trades:1 reach:1 yield:1 try:1 3:1 income:1
-AA	20130517	8.5	8.61	r_up	
-AA	20130520	8.61	8.76	r_up	
-AA	20130521	8.76	8.76	r_up	
-AA	20130522	8.76	8.69	r_down	
-AA	20130523	8.69	8.54	r_down	
-AA	20130524	8.54	8.48	r_down	
-AA	20130528	8.48	8.59	r_up	
-AA	20130529	8.59	8.58	r_down	's:1
-AA	20130530	8.58	8.49	r_down	jump:1 buy:1 's:2 deal:1 track:1 rise:1 watch:1 shares:1 n't:1 monthly:1 lifts:1 gain:1 7th:1 500:1
-AA	20130531	8.49	8.5	r_up	
-AA	20130603	8.5	8.52	r_up	may:1 doesn’t:1 glitter:1 gold:1
-AA	20130604	8.52	8.38	r_down	's:1
-AA	20130605	8.38	8.2	r_down	
-AA	20130606	8.2	8.26	r_up	9:1
-AA	20130607	8.26	8.33	r_up	
-AA	20130610	8.33	8.36	r_up	
-AA	20130611	8.36	8.23	r_down	
-AA	20130612	8.23	8.18	r_down	
-AA	20130613	8.18	8.2	r_up	
-AA	20130614	8.2	8.12	r_down	
-AA	20130617	8.12	8.11	r_down	
-AA	20130618	8.11	8.21	r_up	
-AA	20130619	8.21	8.11	r_down	
-AA	20130620	8.11	8.02	r_down	500′s:1
-AA	20130621	8.02	7.98	r_down	
+AA	20140501	13.4	13.5	r_up	conference:1 participate:1 high-profile:1 economic:1 hosted:1 not:1
+AA	20140502	13.5	13.6	r_up	
+AA	20140505	13.6	13.4	r_down	
+AA	20140506	13.4	13.2	r_down	company:1 assumptions:1 industry:1 aluminum:1 conservative:1
+AA	20140507	13.2	13.2	r_up	
+AA	20140508	13.2	13.2	r_up	
+AA	20140509	13.2	13.2	r_up	
+AA	20140512	13.2	13.7	r_up	
+AA	20140513	13.7	13.7	r_up	
+AA	20140514	13.7	13.5	r_down	
+AA	20140515	13.5	13.3	r_down	week:1 's:2 awkward:1 could:1 two:1 but:1 years:1 not:1 planning:1 been:1 timing:1 meeting:1 more:1
+AA	20140516	13.3	13.4	r_up	firm:1 deal:1 within:1 half:1 manage:1 month:1 including:1 reached:1 click:2 out:1 said:1 end:1 $:1 tentative:1 union:1 workers:1 had:1 labor:1 new:1 more:1 several:2 bought:1 giants:1 million:1 's:1 sold:2 view:2 here:2 most:1 latest:2 previous:1 100:1 disclose:1 than:1 holdings:4 plants:1 10:1 covering:1 required:1 securities:2 banking:1 quarter:4 first:1
+AA	20140519	13.4	13.4	r_up	major:1 alleging:1 conferences:1 people:2 over:1 executive:1 trade:3 economic:1 's:2 out:1 indicted:1 accused:2 charges:2 matter:2 5th:1 officers:1 fight:1 business:1 hacked:1 between:1 announce:2 firms:2 has:3 energy:1 espionage:1 them:2 superpowers:1 plans:2 power:2 government:2 familiar:2 company:1 largest:1 most:1 important:1 five:1 two:1 they:1 backed:1 one:1 publicly:2 --:2 employees:2 computers:1 companies:3 according:2 against:4 foreign:2 secrets:3 chief:1 individuals:2 time:2 military:3 hacking:2 steal:1 first:2
+AA	20140520	13.4	13.1	r_down	over:2 trade:4 held:1 victim:1 its:2 roots:2 ground:2 group:2 it’s:1 labor:3 board:1 has:2 2010:1 sent:1 then:1 them:3 his:1 victims:1 five:7 nearly:1 they:2 30:1 emails:3 name:1 --:4 companies:5 serves:1 've:1 individuals:2 steal:2 heavy:2 3,000:1 says:1 people:1 cyber:2 past:1 zero:2 officials:1 subject:1 hacker:1 indicted:1 federal:2 nuclear:3 companies’:1 contained:1 hacked:2 between:1 email:1 espionage:1 business:1 months:1 were:1 affiliated:1 received:1 rare:1 secrets:4 country:2 industry:2 computers:2 according:2 against:3 admit:1 economic:1 massive:1 military:8 slightly:1 first:1 major:1 hackers:2 appeared:1 into:4 alleged:3 actually:1 two:2 been:2 fight:1 their:1 much:2 scheme:2 disclosed:1 interests:1 ``:1 superpowers:1 allegedly:1 solar:3 filed:3 line:1 steel:3 made:1 attacks:2 computer:1 many:1 hacking:7 employees:1 bet:1 alleging:1 almost:1 '':1 allowed:1 information:3 officers:1 member:1 other:3 accusations:1 indictment:2 week:1 's:3 virus:1 4th:2 charges:3 6th:1 sometimes:1 organization:2
+AA	20140521	13.1	13.1	r_up	interests:1 named:1 into:1 past:1 legal:1 have:1 sought:1 targets:1 unusual:1 group:1 harsh:1 decision:1 illegal:1 avoid:1 officers:1 been:1 their:1 acting:1 take:1 hacked:1 firms:1 indictment:1 public:1 week:1 division:1 over:1 's:1 frustration:1 business:1 government:1 took:1 most:1 step:1 part:1 benefit:1 they:1 others:1 both:1 made:1 rare:1 level:1 sometimes:1 companies:2 assault:1 serves:1 've:1 admit:1 military:1 hacking:3 corporate:1 spotlight:1 bet:1 numbers:1
+AA	20140522	13.1	13.2	r_up	
+AA	20140523	13.2	13.5	r_up	
+AA	20140527	13.5	13.4	r_down	completion:1 major:1 last:1 year:1 possible:1 expansion:1 flagged:1 job:1 cuts:1 following:1 operation:1 has:1 alumina:1 its:1
+AA	20140528	13.4	13.3	r_down	
+AA	20140529	13.3	13.5	r_up	
+AA	20140530	13.5	13.5	r_up	
+AA	20140602	13.5	13.8	r_up	
+AA	20140603	13.8	13.6	r_down	
+AA	20140604	13.6	13.7	r_up	
+AA	20140605	13.7	13.9	r_up	weight:1 trend:1 into:1 say:1 makers:1 decade:1 federal:1 next:1 their:1 program:1 ramping:1 fuel:1 over:1 good:1 hit:1 going:1 automobiles:1 cutting:1 efforts:1 easily:1 aluminum:1 double:1 could:1 vehicles:1 up:1 standards:1 amount:1 weight-loss:1 stricter:1
+AA	20140606	13.9	14.3	r_up	
+AA	20140609	14.3	14.3	r_up	
+AA	20140610	14.3	14.2	r_down	set:1 transportation:1 power:1 invest:1 it’s:1 rail:1 surge:1 looks:1 freight:1 time:1 stocks:1 economy:1
+AA	20140611	14.2	14.1	r_down	
+AA	20140612	14.1	13.9	r_down	larger:1 over:1 move:1 standards:1 makers:1 decade:1 consumers:1 next:1 their:1 fuel:1 economy:1 's:1 rise:1 plan:1 buying:1 steel:1 aluminum:1 pickups:1 shift:1 could:1 vehicles:2 favorite:1 keep:1 allow:1
+AA	20140613	13.9	14.4	r_up	
+AA	20140616	14.4	14.3	r_down	
+AA	20140617	14.3	14.4	r_up	
+AA	20140618	14.4	14.6	r_up	
+AA	20140619	14.6	14.4	r_down	
+AA	20140620	14.4	14.5	r_up	
+AA	20140623	14.5	14.7	r_up	's:1 later:1 stronger:1 benefit:1 prices:1 quarter:1 contributions:1
+AA	20140624	14.7	14.4	r_down	
+AA	20140625	14.4	14.5	r_up	
+AA	20140626	14.5	14.9	r_up	being:1 agreed:1 trade:2 session:2 including:1 its:2 giant:1 cut:1 $:7 headline:1 guidance:1 expectations:1 citing:1 production:1 cosmetics:1 premarket:1 equity:1 has:2 broaden:1 finance:1 beat:1 big:1 continues:1 aerospace:1 hedge:1 aluminum:3 companies:2 morning:1 slide:1 release:1 deal:1 actively:2 expect:1 year:1 further:1 makers:1 2.4:1 2.35:3 said:1 since:1 shares:3 bought:1 million:1 step:1 news:2 roundup:1 taking:1 changed:1 a.m.:1 maker:3 private:2 one:1 offerings:1 reducing:1 electronic:1 your:1 little:1 basic:1 expected:3 500:1 firm:1 ``:1 buy:2 mostly:1 funds:1 company:1 slides:1 biggest:2 wake:1 gain:1 line:1 surged:1 maker’s:1 cash:1 value:1 while:1 economic:1 were:2 toward:1 ousted:1 impacts:1 unchanged:1 '':1 currency:1 also:1 parts:1 earnings:2 stock:3 rise:2 's:6 after:2 includes:1 cigarette:2 fell:1 jet-engine:1 stocks:1 data:2 billion:3 purchase:1 charges:1 futures:1 well:1 materials:1 banks:1
+AA	20140627	14.9	14.9	r_up	trim:1 1.5:2 all:1 deal:1 executive:1 not:2 session:1 economy:1 reports:1 rally:1 partner:1 its:2 market:1 whose:1 giant:1 end:1 $:2 least:1 longtime:1 closed:1 expected:1 worth:1 stock:1 oil:1 strongly:1 may:1 rebound:1 after:1 but:1 most:1 put:1 stocks:2 day:1 winter:1 billion:1 rebounding:1 lower:1 showing:1 sanctions:1 amid:1 losses:2 list:1 signed:1 paring:1 chief:1 afternoon:1 stages:1 slightly:1 late-day:1 lull:1
+AA	20140630	14.9	14.8	r_down	
+AA	20140701	14.8	14.7	r_down	acquire:1 adds:1 fleeting:1 aluminum:1 prove:1 relevant:1 country:1 capacity:1 move:1 product:1 new:1 production:1 makes:1 all:1 cuts:1 's:3 substantial:1 maker:1 more:1
+AA	20140702	14.7	14.8	r_up	
+AA	20140703	14.8	14.9	r_up	
+AA	20140707	14.9	14.7	r_down	opinions:1 investors:2 trend:1 some:1 confused:1 slowing:1 higher:1 march:1 market:1 sell:1 leave:1 little:1 now:1 end:1 profit:1 suggest:1 writes:1 seems:1 start:1 earnings:1 above:1 has:1 sent:1 gave:1 week:1 's:1 gains:1 warnings:1 season:1 week’s:1 there’s:1 records:1 17,000:1 off:1 haters:1 stocks:2 second-quarter:1 following:1 lower:1 last:2 ahead:1 divergent:1 eased:1 companies:1 up:1 looked:1 time:1 push:1 stock:3 first:1
+AA	20140708	14.7	14.8	r_up	saying:1 tone:1 investors:1 can:1 sales:2 over:1 hard:1 estimates:1 results:1 rally:1 helped:1 rises:1 see:1 session:1 shares:3 have:1 year:1 further:1 swung:1 expects:1 its:1 market:1 if:1 downgrade:1 strong:2 plays:2 bullish:1 profit:1 top:1 while:1 topped:1 analyst:1 pricing:1 been:1 earnings:2 quarterly:1 struck:1 's:1 roll:1 momentum:2 stock:1 weeks:1 customers:1 rise:1 hit:2 gains:1 business:1 big:1 after:3 watch:1 extended:1 surprisingly:1 slides:1 continue:1 cutting:1 aerospace:2 fall:1 focusing:1 strategists:1 stocks:2 second-quarter:1 retreat:1 he:1 advance:1 demand:1 cautious:1 commodity:1 aluminum:2 movers:1 car:1 past:1 drop:2 up:1 levels:1 supplied:1 record:1 hardest:1 cost:1 truck:1 500:1 high-growth:1 falls:1 coming:1 maker:1 view:1
+AA	20140709	14.8	15.6	r_up	move:1 rest:1 trade:1 session:1 including:1 looks:1 17000:1 rough:1 doesn’t:1 revealed:1 its:4 spurring:1 outperforming:1 should:1 absence:1 permanently:1 suffered:1 has:1 momentum:1 modestly:1 gains:1 fate:1 big:1 breaks:1 break:2 they:1 stays:1 report:2 buyout:1 like:1 trucks:1 companies:1 50:1 benefit:1 businesses:1 economy:1 bond:1 crowd:1 higher:2 decided:1 year:1 close:1 investment:1 extend:1 miner:1 below:1 shares:2 current:1 may:1 closed:1 earlier:1 business:2 pushing:1 lucrative:1 put:1 rises:1 come:1 gained:1 ahead:1 getting:1 many:1 days:1 reports:2 credit:1 own:1 already:2 one:1 aimed:1 vote:1 market:2 risk:1 rely:1 renewal:1 decent:1 altitude:1 two:1 been:1 expected:1 recovered:1 more:1 ``:1 buy:1 known:1 than:1 uncertain:1 showed:1 while:2 actively:1 depreciation:1 following:1 drops:1 minutes:2 purchases:1 investors:1 tax:2 '':1 say:1 caution:1 dropped:1 have:2 if:1 end:1 slew:1 earnings:1 weakness:1 stock:1 's:2 plans:1 bonus:1 after:1 producers:1 track:1 plan:1 such:1 stocks:2 expired:1 recent:1 metal:1 premiums:1 corporate:1
+AA	20140710	15.6	15.5	r_down	investors:1 revenue:1 two-day:1 focus:1 see:1 growth:1 any:1 worry:1 strong:1 valuations:1 decent:1 rebounded:1 shifts:1 absence:1 earnings:2 downstream:1 interest-rate:1 's:2 business:1 after:1 but:1 increases:1 upstream:1 stocks:1 last:1 meeting:1 clear:1 slide:1 analysts:1 were:1 minutes:1 signal:1 bottoming:1
+AA	20140711	15.5	15.9	r_up	
+AA	20140714	15.9	16.0	r_up	1.1:2 deal:1 sales:1 trade:1 session:1 its:1 unit:1 $:2 provide:1 deepens:1 shares:1 parts:1 growth:1 expected:1 engine:1 's:2 company:1 aerospace:1 billion:1 aluminum:1 companies:1 signed:1 actively:1 bet:1
+AA	20140715	16.0	16.0	r_up	
+AA	20140716	16.0	16.5	r_up	
+AA	20140717	16.5	16.3	r_down	his:1 added:1 's:1 title:1 after:1 focus:1 two:1 days:1 down:1 said:1 health:1 chairman:1 stepping:1 he:1 gave:1
+AA	20140718	16.3	16.4	r_up	
+AA	20140721	16.4	16.5	r_up	$:1 sold:1 shares:1 multiyear:1 high:1 near:1 800,000:1 options:1
+AA	20140722	16.5	17.0	r_up	
+AA	20140723	17.0	17.0	r_up	
+AA	20140724	17.0	16.9	r_down	
+AA	20140725	16.9	16.5	r_down	past:1 have:1 less:1 low-volatility:1 reports:1 n't:1 another:1 trading:1 earnings:1 they:1 prices:1 than:1 environment:1 stock:1
+AA	20140728	16.5	16.9	r_up	
+AA	20140729	16.9	16.8	r_down	
+AA	20140730	16.8	16.6	r_down	
+AA	20140731	16.6	16.3	r_down	
+AA	20140801	16.3	16.4	r_up	
+AA	20140804	16.4	16.6	r_up	
+AA	20140805	16.6	16.4	r_down	different:1 ore:1 followed:1 iron:1 aluminum:1 investors:1 numbers:1 weak:1 results:1 years:1 expect:1 theme:1 predictable:1 earnings:1 have:1 year:1 's:1 strong:1 something:1 recent:1
+AA	20140806	16.4	16.4	r_up	
+AA	20140807	16.4	16.0	r_down	named:1 there:1 surplus:1 miner:1 into:2 executive:1 soon:1 years:1 '':1 raw:1 growth:1 have:1 carry:1 rally:1 rounds:1 declined:2 physical:1 said:1 would:1 six:1 fears:1 remain:1 shares:1 research:1 note:1 market:2 which:1 between:1 new:1 deficit:1 eventually:1 ``:1 material:1 risk:1 after:2 back:1 fell:1 shifting:1 iron-ore:1 significant:1 competing:1 prices:1 brokerage:2 stocks:1 eat:1 recent:1 reverse:1 aluminum:1 sanctions:1 --:1 amid:1 could:1 trades:1 itself:1 chief:1 economic:1 analysts:1 warned:1 following:1
+AA	20140808	16.0	16.1	r_up	
+AA	20140811	16.1	16.1	r_up	
+AA	20140812	16.1	16.1	r_up	10:1 prospects:1 stocks:1 improving:1 these:1 writes:1 estimates:1 worries:1 increases:1 earnings:1 van:1 biggest:1 world:1 enjoying:1 companies’:1
+AA	20140813	16.1	16.2	r_up	stock:1 reaction:1 already:1 's:1 surprising:1 muted:1 season:1 been:1 n't:1 these:1 made:1 earnings:1 reports:1 stronger-than-expected:1 upbeat:1 has:1 market:1 relatively:1
+AA	20140814	16.2	16.2	r_up	
+AA	20140815	16.2	16.1	r_down	
+AA	20140818	16.1	16.3	r_up	
+AA	20140819	16.3	16.4	r_up	
+AA	20140820	16.4	16.5	r_up	
+AA	20140821	16.5	16.3	r_down	
+AA	20140822	16.3	16.4	r_up	
+AA	20140825	16.4	16.4	r_up	plant:1 said:1 costly:1 smelter:1 big:1 facility:1 had:2 two:2 been:2 years:2 down:2 charge:2 book:2 permanently:1 nearly:2 shuts:2 expensive:1
+AA	20140826	16.4	16.5	r_up	interest:1 eyes:1 renewed:1 ordered:1 plans:1 soars:1 merger:1 could:1 up:1 record:2 aircraft:1 another:1 buys:1 close:2 sees:1 straight:1 fifth:1 more:1
+AA	20140827	16.5	16.7	r_up	
+AA	20140828	16.7	16.5	r_down	
+AA	20140829	16.5	16.6	r_up	
+AA	20140902	16.6	16.6	r_up	
+AA	20140903	16.6	16.9	r_up	10:1 van:1 index:1 far:1 big:1 writes:1 up:1 outpace:1 while:1 worst:1 best:1 retailers:1 lose:1 82:1 2014:1 stocks:1 500:1
+AA	20140904	16.9	17.1	r_up	
+AA	20140905	17.1	17.2	r_up	
+AA	20140908	17.2	17.0	r_down	among:1 bolts:1 form:1 manufacturers:1 pickups:1 make:1 vehicles:1 try:1 efficient:1 they:1 fuel:1 lighter:1 more:1
+AA	20140909	17.0	17.1	r_up	drop:1 global:1 sales:2 trade:1 screens:1 services:1 session:1 0.6:1 home:1 drove:1 wearable:1 one:1 said:1 $:1 two:1 shares:1 its:3 premarket:1 digital:1 expected:2 new:2 comparable:1 's:4 around:1 problems:1 smartwatch:1 unveil:1 fell:1 device:1 automation:1 3.7:1 --:2 suppliers:1 larger:1 companies:1 up:1 actively:1 payments:1 healthcare:1 trading:1 region:1 first:1
+AA	20140910	17.1	17.2	r_up	regain:1 bearing:1 's:1 unemployment:1 people:1 young:1 brunt:1 nation:1 end:1 rising:1 boom:1 following:1 struggles:1 momentum:1 economy:1
+AA	20140911	17.2	16.9	r_down	supply:1 trade:1 actively:1 signed:1 giant:1 said:1 sheet:1 $:1 shares:1 multiyear:1 1:1 expected:1 more:1 plate:1 's:1 aerospace:1 than:1 billion:1 valued:1 aluminum:1 companies:1 contract:1 session:1 products:1
+AA	20140912	16.9	16.7	r_down	
+AA	20140915	16.7	16.3	r_down	private-equity:1 revenue:2 one:1 session:1 miss:1 its:1 out:1 decline:2 shares:2 looking:1 largest:1 quarterly:1 firm:1 extended:1 power:1 company:2 after:2 demand:1 such:1 uncertain:1 assets:1 --:1 country:1 cash:1 reports:1 time:1 investments:1
+AA	20140916	16.3	16.1	r_down	
+AA	20140917	16.1	16.2	r_up	operations:1 help:1 alternatives:1 strategic:1 apply:1 its:1 said:1 court:1 pay:1 under:1 stock:1 exploring:1 buy:1 offering:1 seeking:1 preferred:1 allowing:1 convertible:1 while:1 relief:1 operate:1 order:1 creditors:1
+AA	20140918	16.2	16.2	r_up	1.6:1 producer:1 into:1 one:1 impact:1 debt:1 20:1 $:2 roughly:1 only:1 rates:1 interest:2 more:1 territory:1 higher:2 junk:1 's:1 which:1 bonds:1 sold:1 million:1 paid:2 downgrade:1 difference:1 than:1 billion:1 represents:1 notch:1 aluminum:1 average:1 annual:1 companies:1 according:1 credit:1 points:1 payments:1 feeling:1 1.25:1
+AA	20140919	16.2	16.2	r_up	
+AA	20140922	16.2	15.8	r_down	``:1 says:1 bring:1 leading:1 into:1 losses:1 back:1 years:1 '':1 everything:1 tries:1 five:1 year:1 table:1 company:1 he:1
+AA	20140923	15.8	15.7	r_down	
+AA	20140924	15.7	15.9	r_up	
+AA	20140925	15.9	15.6	r_down	steel:1 heart:1 plant:1 's:3 aluminum:1 industry:1 metal:1 customers:1 should:1 benefit:1 battle:1 rural:1 one:1 response:1 best:1
+AA	20140926	15.6	16.1	r_up	
+AA	20140929	16.1	15.9	r_down	
+AA	20140930	15.9	16.0	r_up	
+AA	20141001	16.0	15.7	r_down	supply:1 increasingly:1 into:1 businesses:1 have:1 whose:1 van:1 risen:1 outperformance:1 writes:1 revenue:1 shares:1 abroad:1 winners:1 earnings:1 fourth:1 biggest:1 international:1 firms:1 500:1 higher:1 extend:1 may:1 prospects:1 but:1 most:1 73:1 expansion:1 demand:1 depend:1 capitalize:1 threaten:1 10:1 lower:1 boards:1 could:1 up:1 remain:1 can:1 quarter:1 companies’:1
+AA	20141002	15.7	15.3	r_down	
+AA	20141003	15.3	15.6	r_up	1.4:3 deal:1 over:1 bounce:1 held:1 through:1 privately:1 market:2 if:1 capture:1 said:1 sheet:2 $:3 would:1 start:1 thinking:1 been:1 also:1 earnings:2 has:1 markets:1 more:2 we:1 buy:2 upcoming:1 get:2 something:1 automotive:2 dead-cat:1 know:1 we’ll:1 billion:2 valued:1 aluminum:2 could:1 aims:1 time:1 growing:2 onto:1 scare:1 looks:1
+AA	20141006	15.6	15.9	r_up	supply:1 glut:1 there’s:1 years:1 four:1 report:1 smelters:1 story:1 writes:1 third-quarter:1 been:1 strategy:1 also:1 rotten:1 earnings:2 lot:2 expected:1 has:3 shrink:1 noise:1 led:1 around:1 but:1 most:2 shutting:1 important:1 two:1 prices:1 line:1 improved:1 lines:1 spent:1 part:1 time:1
+AA	20141007	15.9	15.9	r_up	among:1 industrial:1 financial:1 look:1 surprises:1 should:1 upside:1 names:1 consumer:1 discretionary:1
+AA	20141008	15.9	16.0	r_up	all:1 aerospace:1 over:2 move:1 dollar:1 soon:1 go:1 its:2 blow:1 certainly:1 rooftop:1 hunting:1 thinking:1 seems:1 should:1 systems:1 has:1 smart:1 customers:1 evening:1 premium:1 doors:1 get:1 sucker:1 couple:1 solar-power:1 they:1 report:1 shadow:1 leases:2 loss:1 earn:1 like:1 aluminum:2 trap:1 hard:1 up:2 global:1 growth:1 trading:1 expect:1 entering:1 year:1 benefiting:1 giant:1 away:1 since:2 current:1 volatile:1 closed:1 harsher:1 bought:1 buckling:1 business:1 punch:1 let:1 active:1 news:1 loans:1 cornerstone:1 climate:1 could:1 months:1 brutal:1 due:1 long-term:1 repeats:1 options:2 first:1 among:1 own:1 third-quarter:1 down:1 downgrade:1 guard:1 another:2 your:1 market:2 their:1 two:1 been:2 start:1 don’t:1 more:2 buy:2 big:1 offer:1 season:2 dips:1 but:1 slides:1 low:1 solar:1 demand:1 prices:1 analyst:1 those:1 made:2 bargain:1 kick:1 amid:1 growing:1 history:1 strengthening:1 have:2 investors:2 slowing:1 want:1 ready:1 casting:1 moves:1 any:1 sell:1 again:1 end:1 make:1 watching:1 concerns:1 earnings:4 which:2 auto:1 stung:1 stock:1 added:1 bidding:1 wasn’t:1 stocks:2 off:1 sectors:1 maybe:1 clear:1 without:1 model:1
+AA	20141009	16.0	15.3	r_down	saying:1 just:2 being:1 move:1 results:1 trade:1 top:1 session:3 its:2 giant:1 retirement:1 surprises:1 send:1 advisories:1 bank:1 combo:1 quarterly:1 posted:1 might:1 returned:1 big:1 rise:1 records:1 worst:2 half:1 nasty:1 quarters:1 day:1 bigger:1 volatility:1 exits:1 aluminum:2 drop:1 companies:2 slumps:1 stock:3 estimates:1 back:1 strongest:1 actively:1 result:1 year:7 tailwinds:1 makers:1 best:1 shares:4 enough:1 score:1 got:1 net:1 announced:1 comparable:1 belief:1 weak:1 hours:1 strong:1 suggested:1 advance:2 improved:1 movers:1 reports:1 prior:1 support:1 among:1 point:2 335:1 into:1 one:1 miss:1 mere:1 market:3 decline:2 prudent:1 raise:1 would:1 one-day:2 selloff:1 their:2 call:1 interest:3 biggest:4 rates:4 meeting:2 500:2 more:3 company’s:1 roundup:1 lot:1 sending:1 surges:1 expected:1 suffers:1 year’s:1 prices:1 central:2 reaffirm:1 than:2 raising:3 he:1 rush:1 triple-top:1 while:1 future:1 cautiously:1 minutes:2 investors:1 ran:1 chip:1 sales:2 helped:1 sense:1 rally:2 margins:1 gains:1 tumbled:1 productivity:1 no:1 delay:1 materials:1 earnings:3 higher:1 extended:1 's:1 after:7 falls:1 intent:1 stocks:2 soared:1 lower:2 short:1 face:1 costs:2 latest:1 corporate:1 gain:2
+AA	20141010	15.3	14.7	r_down	

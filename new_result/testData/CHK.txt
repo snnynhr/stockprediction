@@ -1,307 +1,114 @@
-CHK	20120402	22.64	22.78	r_up	's:1
-CHK	20120403	22.78	22.2	r_down	
-CHK	20120404	22.2	21.72	r_down	
-CHK	20120405	21.72	21.65	r_down	
-CHK	20120409	21.65	20.98	r_down	sector:1 over:1 falls:1 1:1 lose:1 energy:1
-CHK	20120410	20.98	20.22	r_down	watch:1
-CHK	20120411	20.22	19.62	r_down	now:1 cautious:1 led:1 money:1 stocks:1 slide:1 5:1 capitalist:1 making:1 moves:1
-CHK	20120412	19.62	20.28	r_up	natural:1 $:1 gas:1 drop:1 weak:1 n't:1 2:1 prices:1 2013:1
-CHK	20120413	20.28	19.58	r_down	jobs:1 energy:1 shale:1 paint:1 stocks:1 bringing:1 red:1
-CHK	20120416	19.58	18.84	r_down	up:1 $:1
-CHK	20120417	18.84	18.77	r_down	roils:1 energy:1 move:1 stocks:1
-CHK	20120418	18.77	17.73	r_down	
-CHK	20120419	17.73	17.67	r_down	gaining:1 lower:1 's:2 energy:1 leads:1 biggest:1 stocks:2 declining:1
-CHK	20120420	17.67	17.12	r_down	
-CHK	20120423	17.12	17.67	r_up	down:1 energy:1 stocks:1 up:1 ebb:1
-CHK	20120424	17.67	17.44	r_down	
-CHK	20120425	17.44	17.8	r_up	
-CHK	20120426	17.8	17.24	r_down	piggy:1 bank:1
-CHK	20120427	17.24	17.39	r_up	rise:1 's:3 energy:2 holds:1 steady:1 diverge:1 mixed:1 stocks:2
-CHK	20120430	17.39	18.1	r_up	rally:1 energy:1 stocks:1 helps:1 underpin:1
-CHK	20120501	18.1	19.24	r_up	's:3 after:1 watch:1 falls:1 hours:1 rises:1
-CHK	20120502	19.24	16.43	r_down	gaining:1 's:2 ripe:1 takeover:1 surprises:1 energy:1 clips:1 advisories:1 gain:1 rallies:1 biggest:1 stocks:2 changes:1 wings:1 declining:1
-CHK	20120503	16.43	16.87	r_up	gaining:1 tap:1 energy:1 faces:1 biggest:1 's:1 stocks:2 declining:1 out:1
-CHK	20120504	16.87	17.07	r_up	chopped:1 's:1 energy:2 drop:1 watch:1 down:1 slam:1 stocks:2
-CHK	20120507	17.07	16.81	r_down	falter:1 uncertainty:1 outlooks:1 election:1
-CHK	20120508	16.81	16.62	r_down	's:2
-CHK	20120509	16.62	17.16	r_up	
-CHK	20120510	17.16	16.86	r_down	's:1
-CHK	20120511	16.86	14.54	r_down	1.4:1 stocks:1 $:2 46:1 energy:1 drop:1 imperial:1 1:1 heat:1 put:1 plunges:1 14:1
-CHK	20120514	14.54	15.23	r_up	sector:1 's:1 turns:1 energy:1 watch:1 up:1 shares:1 heat:1 gain:1 skids:1
-CHK	20120515	15.23	14.38	r_down	gaining:1 's:3 $:1 top:1 stocks:1 declining:1
-CHK	20120516	14.38	13.78	r_down	shed:1 oil:1 off:1 gains:1 energy:2 watch:1 foils:1 4:2 stocks:2 dip:1 $:2
-CHK	20120517	13.78	13.3	r_down	's:1 energy:1 lack:1 pep:1 66:1 fall:1 stocks:1
-CHK	20120518	13.3	14.1	r_up	
-CHK	20120521	14.1	14.64	r_up	watch:1 's:2 but:1
-CHK	20120522	14.64	14.64	r_up	move:1 energy:1 rise:1 up:1 stocks:1
-CHK	20120523	14.64	14.81	r_up	90:1 's:1
-CHK	20120524	14.81	15.29	r_up	tap:1 surprises:1 energy:1 losses:1 3:1 advisories:1 stocks:1
-CHK	20120525	15.29	15.52	r_up	hours:1 his:1 sinks:1 into:1 after:1 shares:1 down:1 3:1 7.6:2 gain:1 teeth:1 'm:1 4:2
-CHK	20120529	15.52	16.05	r_up	may:1 gas:1 natural:1 fizzle:1 summer:1
-CHK	20120530	16.05	16.14	r_up	gaining:1 's:1 top:1 stake:1 up:1 lifts:1 125:1 stocks:2 energy:1 declining:1
-CHK	20120531	16.14	16.59	r_up	10:1 made:1 's:2 people:1 energy:1 add:1 miserable:1 stocks:1 red:1
-CHK	20120601	16.59	15.29	r_down	n't:1
-CHK	20120604	15.29	16.22	r_up	loss:1 ‘soft:1 extend:1 patch’:1 shift:1 energy:1 fears:1 up:1 board:1 mixed:1 stocks:2 4:2
-CHK	20120605	16.22	16.69	r_up	n't:1
-CHK	20120606	16.69	17.87	r_up	
-CHK	20120607	17.87	17.52	r_down	stocks:3 's:1 deal:1 equities:1 energy:2 up:2 oil:1 surge:1 jump:1 hopes:1 2:1 mixed:1 end:1 rises:1 support:1 talk:1
-CHK	20120608	17.52	18.02	r_up	10:1 12:1 's:1 $:3 futures:1 global:1 concerns:1 4:3 slip:1 stock:1
-CHK	20120611	18.02	17.29	r_down	
-CHK	20120612	17.29	17.15	r_down	
-CHK	20120613	17.15	16.62	r_down	down:1 energy:1 stocks:1 fall:1
-CHK	20120614	16.62	17.01	r_up	
-CHK	20120615	17.01	17.77	r_up	
-CHK	20120618	17.77	17.34	r_down	
-CHK	20120619	17.34	18.37	r_up	sector:1 energy:1 boost:1
-CHK	20120620	18.37	18.69	r_up	
-CHK	20120621	18.69	17.79	r_down	drop:1 energy:1 stocks:1 's:1 up:1
-CHK	20120622	17.79	18.27	r_up	's:1 leaders:1 surprises:1 well:1 advisories:1 not:1 new:1 yet:1 name:1
-CHK	20120625	18.27	16.72	r_down	leads:1 energy:1 's:1 retreat:1 stock:1
-CHK	20120626	16.72	16.74	r_up	fatal:1 derailed:1 rebound:1 stocks:2 concerns:1 blast:1 energy:1 probes:1
-CHK	20120627	16.74	17.6	r_up	
-CHK	20120628	17.6	17.45	r_down	gas:1 ignited:1 jump:1 natural:1 gains:1
-CHK	20120629	17.45	18.26	r_up	
-CHK	20120702	18.26	18.38	r_up	
-CHK	20120703	18.38	19.0	r_up	hits:1 deal:1 watch:1 inks:1 gas:1 refinery:1 66:1
-CHK	20120705	19.0	19.28	r_up	
-CHK	20120706	19.28	19.67	r_up	rises:1 dips:1 drop:1 but:1 2nd:1 stocks:1 energy:1 500:1
-CHK	20120709	19.67	19.61	r_down	
-CHK	20120710	19.61	18.35	r_down	
-CHK	20120711	18.35	18.73	r_up	ebb:1 deal:1 energy:1 rise:1 up:1 2nd:1 tumbles:1 stocks:1
-CHK	20120712	18.73	18.4	r_down	
-CHK	20120713	18.4	18.84	r_up	deals:1 fields:1 energy:1
-CHK	20120716	18.84	18.91	r_up	
-CHK	20120717	18.91	18.97	r_up	
-CHK	20120718	18.97	18.93	r_down	
-CHK	20120719	18.93	18.03	r_down	stocks:1 tap:1 $:1 energy:1 up:1 oil:1 92:1
-CHK	20120720	18.03	16.96	r_down	sector:1 mixed:1 energy:1 ends:1 gains:1
-CHK	20120723	16.96	17.2	r_up	bid:1 's:1 bet:1 investors:1 rallies:1
-CHK	20120724	17.2	16.59	r_down	
-CHK	20120725	16.59	17.04	r_up	energy:1 stocks:1 off:1 up:1 flatten:1
-CHK	20120726	17.04	17.9	r_up	
-CHK	20120727	17.9	18.2	r_up	
-CHK	20120730	18.2	18.44	r_up	
-CHK	20120731	18.44	18.56	r_up	
-CHK	20120801	18.56	18.41	r_down	
-CHK	20120802	18.41	17.68	r_down	$:1
-CHK	20120803	17.68	17.64	r_down	watch:1
-CHK	20120806	17.64	17.45	r_down	gains:1 lead:1 energy:1 watch:1 $:1 7:1 stock:1
-CHK	20120807	17.45	19.1	r_up	reward:1 gains:1 lead:1 earnings:1 energy:1 futures:1 revolt:1 reports:1 rise:1 advisories:1 1,400:1 500:1 surprises:1 1400:1 its:1 reaps:1 stock:2
-CHK	20120808	19.1	19.62	r_up	surprises:1 rise:1 advisories:1 1,400:1 above:1 lifts:1 500:1 stock:1
-CHK	20120809	19.62	20.03	r_up	
-CHK	20120810	20.03	19.41	r_down	
-CHK	20120813	19.41	18.8	r_down	
-CHK	20120814	18.8	18.94	r_up	
-CHK	20120815	18.94	18.75	r_down	
-CHK	20120816	18.75	18.77	r_up	deals:1 brew:1
-CHK	20120817	18.77	18.87	r_up	
-CHK	20120820	18.87	19.13	r_up	
-CHK	20120821	19.13	19.46	r_up	
-CHK	20120822	19.46	19.63	r_up	's:1 gains:1 rebound:1 extends:1 stocks:1 energy:1
-CHK	20120823	19.63	19.03	r_down	
-CHK	20120824	19.03	19.12	r_up	
-CHK	20120827	19.12	19.03	r_down	
-CHK	20120828	19.03	19.1	r_up	
-CHK	20120829	19.1	19.25	r_up	
-CHK	20120830	19.25	18.78	r_down	stocks:1 oil:1 retreat:1 lead:1
-CHK	20120831	18.78	19.08	r_up	
-CHK	20120904	19.08	18.92	r_down	
-CHK	20120905	18.92	19.27	r_up	n't:2 's:2
-CHK	20120906	19.27	19.43	r_up	's:3 firmer:1 n't:2 crude:1 rally:1 stocks:1 boost:1 euro:1
-CHK	20120907	19.43	20.06	r_up	
-CHK	20120910	20.06	19.3	r_down	
-CHK	20120911	19.3	19.82	r_up	$:2 125:2
-CHK	20120912	19.82	19.61	r_down	$:8 sales:1 lags:1 returns:1 asset:1 rich:1 despite:1 acreage:1 seek:1 6.9:6
-CHK	20120913	19.61	19.62	r_up	's:1
-CHK	20120914	19.62	20.24	r_up	
-CHK	20120917	20.24	19.89	r_down	
-CHK	20120918	19.89	19.69	r_down	
-CHK	20120919	19.69	19.41	r_down	
-CHK	20120920	19.41	19.23	r_down	19:2 1.6:1 's:1 $:5 21:2
-CHK	20120921	19.23	19.09	r_down	
-CHK	20120924	19.09	19.11	r_up	
-CHK	20120925	19.11	18.82	r_down	
-CHK	20120926	18.82	18.54	r_down	
-CHK	20120927	18.54	18.83	r_up	
-CHK	20120928	18.83	18.61	r_down	5:1
-CHK	20121001	18.61	19.02	r_up	jump:1 energy:1 rise:1 stocks:1
-CHK	20121002	19.02	19.27	r_up	
-CHK	20121003	19.27	18.74	r_down	
-CHK	20121004	18.74	19.2	r_up	
-CHK	20121005	19.2	18.96	r_down	
-CHK	20121008	18.96	19.15	r_up	
-CHK	20121009	19.15	19.32	r_up	
-CHK	20121010	19.32	19.17	r_down	
-CHK	20121011	19.17	19.95	r_up	
-CHK	20121012	19.95	19.99	r_up	lower:1 fast:1 off:1 mostly:1 cars:1 into:1 lane:1 but:1 merge:1 session:1 lows:1 stocks:1
-CHK	20121015	19.99	19.84	r_down	
-CHK	20121016	19.84	20.19	r_up	
-CHK	20121017	20.19	20.89	r_up	
-CHK	20121018	20.89	21.38	r_up	
-CHK	20121019	21.38	20.61	r_down	winter:1 chill:1 gas:1 earnings:1 face:1
-CHK	20121022	20.61	20.59	r_down	lower:1 stocks:1 tops:1 500:1
-CHK	20121023	20.59	20.23	r_down	decline:1 top:1 stocks:1 losers:1
-CHK	20121024	20.23	19.89	r_down	
-CHK	20121025	19.89	20.03	r_up	
-CHK	20121026	20.03	19.91	r_down	1:1 3:1 's:1
-CHK	20121031	19.91	20.07	r_up	
-CHK	20121101	20.07	19.88	r_down	earnings:1
-CHK	20121102	19.88	18.32	r_down	pull:1 lower:1 energy:1 5:1 stocks:1 2013:1
-CHK	20121105	18.32	18.1	r_down	
-CHK	20121106	18.1	18.36	r_up	
-CHK	20121107	18.36	17.39	r_down	's:1
-CHK	20121108	17.39	17.04	r_down	
-CHK	20121109	17.04	16.88	r_down	
-CHK	20121112	16.88	17.07	r_up	
-CHK	20121113	17.07	17.23	r_up	
-CHK	20121114	17.23	16.69	r_down	11:1 turn:1 lower:1 stocks:1 up:1
-CHK	20121115	16.69	16.24	r_down	track:1 lower:1 stocks:1 market:1 broader:1
-CHK	20121116	16.24	16.46	r_up	
-CHK	20121119	16.46	17.3	r_up	
-CHK	20121120	17.3	17.43	r_up	lower:1 stocks:1 ups:1 stake:1
-CHK	20121121	17.43	17.42	r_down	
-CHK	20121123	17.42	17.66	r_up	
-CHK	20121126	17.66	17.08	r_down	
-CHK	20121127	17.08	17.25	r_up	among:1 top:1 stocks:1 decliners:1
-CHK	20121128	17.25	17.29	r_up	
-CHK	20121129	17.29	17.36	r_up	rise:1 stocks:1 end:1 shares:1 higher:1
-CHK	20121130	17.36	16.87	r_down	's:1
-CHK	20121203	16.87	16.74	r_down	
-CHK	20121204	16.74	16.71	r_down	
-CHK	20121205	16.71	16.81	r_up	
-CHK	20121206	16.81	16.94	r_up	
-CHK	20121207	16.94	17.09	r_up	among:1 energy:1 stocks:1 lead:1
-CHK	20121210	17.09	16.83	r_down	
-CHK	20121211	16.83	16.93	r_up	$:1 2.4:1
-CHK	20121212	16.93	16.8	r_down	$:2 2.4:2
-CHK	20121213	16.8	16.52	r_down	lower:1 oil:1 $:3 leads:2 125:3 66:1 decliners:1 stocks:2 find:1 gain:1
-CHK	20121214	16.52	16.4	r_down	275:1
-CHK	20121217	16.4	16.58	r_up	
-CHK	20121218	16.58	17.09	r_up	
-CHK	20121219	17.09	17.04	r_down	
-CHK	20121220	17.04	17.41	r_up	
-CHK	20121221	17.41	17.16	r_down	
-CHK	20121224	17.16	16.86	r_down	
-CHK	20121226	16.86	16.99	r_up	
-CHK	20121227	16.99	16.7	r_down	lower:1 stocks:1 gas:1 finds:1 sites:1
-CHK	20121228	16.7	16.4	r_down	's:1
-CHK	20121231	16.4	16.46	r_up	
-CHK	20130102	16.46	16.44	r_down	
-CHK	20130103	16.44	16.61	r_up	
-CHK	20130104	16.61	17.29	r_up	energy:1 stocks:1 lead:1 higher:1
-CHK	20130107	17.29	17.45	r_up	
-CHK	20130108	17.45	16.72	r_down	
-CHK	20130109	16.72	16.92	r_up	down:1 among:1 top:1 stocks:1 losers:1
-CHK	20130110	16.92	16.57	r_down	fails:1 lead:1 win:1 energy:1 skeptics:1 stocks:1 over:1 higher:1
-CHK	20130111	16.57	16.8	r_up	
-CHK	20130114	16.8	16.87	r_up	mixed:1 ends:1 stocks:1 's:1 lower:1
-CHK	20130115	16.87	17.3	r_up	
-CHK	20130116	17.3	17.24	r_down	
-CHK	20130117	17.24	17.48	r_up	
-CHK	20130118	17.48	17.74	r_up	20:1 $:1
-CHK	20130122	17.74	18.65	r_up	loom:1 movers:1 recovers:1 5:1 earnings:1 rallies:1 than:1 more:1
-CHK	20130123	18.65	18.42	r_down	
-CHK	20130124	18.42	18.69	r_up	gives:1 gains:1 fall:1 back:1 3:1 gain:1 rallies:1 stocks:2 than:1 more:1
-CHK	20130125	18.69	19.28	r_up	results:1 stocks:1 's:1 gain:1 rallies:1
-CHK	20130128	19.28	18.85	r_down	
-CHK	20130129	18.85	18.89	r_up	refinery:1 's:1 shares:1 down:1 second:1 gain:1 rallies:2 stocks:1 day:1 plan:1
-CHK	20130130	18.89	20.02	r_up	movers:1 10:1 fails:1 's:1 40:1
-CHK	20130131	20.02	20.09	r_up	down:1 stocks:1 exit:1 gains:1
-CHK	20130201	20.09	20.24	r_up	
-CHK	20130204	20.24	20.02	r_down	
-CHK	20130205	20.02	20.45	r_up	
-CHK	20130206	20.45	20.42	r_down	
-CHK	20130207	20.42	20.14	r_down	's:1
-CHK	20130208	20.14	20.14	r_up	's:1
-CHK	20130211	20.14	19.96	r_down	
-CHK	20130212	19.96	19.92	r_down	
-CHK	20130213	19.92	20.48	r_up	produces:1 muted:1 winners:1 losers:1 speech:1 stock:1
-CHK	20130214	20.48	20.31	r_down	
-CHK	20130215	20.31	19.92	r_down	's:1
-CHK	20130219	19.92	20.27	r_up	
-CHK	20130220	20.27	20.15	r_down	down:1 turns:1 lower:1 stocks:1 's:1
-CHK	20130221	20.15	20.1	r_down	's:1 drop:1 36:1 n't:1 earnings:1 disappoint:1 stocks:1
-CHK	20130222	20.1	20.41	r_up	
-CHK	20130225	20.41	19.03	r_down	decline:1 lower:1 12:1 's:4 movers:1 surges:1 leads:1 turn:1 stocks:1
-CHK	20130226	19.03	19.67	r_up	cheap:1 deal:1
-CHK	20130227	19.67	20.05	r_up	recoups:1 stocks:1 gain:1 losses:1
-CHK	20130228	20.05	20.07	r_up	$:1
-CHK	20130301	20.07	19.59	r_down	energy:1 stocks:1 investigates:1 lower:1
-CHK	20130304	19.59	19.41	r_down	better:1 energy:1 trickle:1 gusher:1 before:1
-CHK	20130305	19.41	19.42	r_up	
-CHK	20130306	19.42	19.66	r_up	
-CHK	20130307	19.66	20.76	r_up	turn:1 peers:1 stocks:1 tops:1 higher:1
-CHK	20130308	20.76	21.24	r_up	movers:1 news:1 gains:1 revamp:1
-CHK	20130311	21.24	21.37	r_up	
-CHK	20130312	21.37	21.4	r_up	
-CHK	20130313	21.4	21.31	r_down	's:1
-CHK	20130314	21.31	22.42	r_up	1:1 hits:1 's:1 ahead:1 show:1 movers:1 energy:1 up:1 high:1 record:1 gain:1 stocks:1
-CHK	20130315	22.42	22.36	r_down	week:1 1:1 gain:1 stocks:1 than:1 more:1
-CHK	20130318	22.36	22.08	r_down	$:1 broad:1 fall:1 2.3:1 stocks:1 market:1
-CHK	20130319	22.08	20.95	r_down	
-CHK	20130320	20.95	20.79	r_down	lower:1 movers:1 energy:1 anniversary:1 leads:1 marks:1 stocks:1 red:1
-CHK	20130321	20.79	20.57	r_down	jumps:1 stocks:1 gain:1
-CHK	20130322	20.57	20.3	r_down	
-CHK	20130325	20.3	20.26	r_down	
-CHK	20130326	20.26	20.64	r_up	's:1
-CHK	20130327	20.64	20.44	r_down	
-CHK	20130328	20.44	20.32	r_down	
-CHK	20130401	20.32	20.26	r_down	sector:1 's:1 gains:1 energy:1 broader:1 drops:1 85:1 $:1
-CHK	20130402	20.26	19.87	r_down	
-CHK	20130403	19.87	19.1	r_down	's:1
-CHK	20130404	19.1	19.24	r_up	tank:1 second:1 fall:1 refiners:1 stocks:1 day:1
-CHK	20130405	19.24	19.67	r_up	
-CHK	20130408	19.67	19.67	r_up	
-CHK	20130409	19.67	20.05	r_up	
-CHK	20130410	20.05	20.27	r_up	
-CHK	20130411	20.27	20.14	r_down	stocks:1 gain:1 lags:1
-CHK	20130412	20.14	19.68	r_down	
-CHK	20130415	19.68	18.93	r_down	
-CHK	20130416	18.93	19.06	r_up	
-CHK	20130417	19.06	18.47	r_down	
-CHK	20130418	18.47	18.96	r_up	
-CHK	20130419	18.96	18.59	r_down	
-CHK	20130422	18.59	18.6	r_up	
-CHK	20130423	18.6	18.94	r_up	
-CHK	20130424	18.94	19.29	r_up	
-CHK	20130425	19.29	19.28	r_down	
-CHK	20130426	19.28	19.25	r_down	
-CHK	20130429	19.25	19.33	r_up	's:1
-CHK	20130430	19.33	19.54	r_up	stocks:1 gain:1 rises:1 4.2:1
-CHK	20130501	19.54	19.19	r_down	decline:1 tracking:1 surprises:1 watch:1 advisories:1 broader:1 stocks:2 market:1
-CHK	20130502	19.19	19.15	r_down	
-CHK	20130503	19.15	19.25	r_up	among:1 gainers:1 $:1 top:1 113:1 stocks:1 weekly:1
-CHK	20130506	19.25	19.44	r_up	
-CHK	20130507	19.44	19.13	r_down	
-CHK	20130508	19.13	19.19	r_up	
-CHK	20130509	19.19	19.58	r_up	
-CHK	20130510	19.58	20.15	r_up	
-CHK	20130513	20.15	20.56	r_up	hit:1 miners:1 coal:1 worst:1 fall:1 stocks:1
-CHK	20130514	20.56	20.76	r_up	
-CHK	20130515	20.76	20.66	r_down	
-CHK	20130516	20.66	19.89	r_down	
-CHK	20130517	19.89	20.27	r_up	among:1 rebound:1 rallies:1 refiner:1 losers:1 fall:1 stocks:2 top:1
-CHK	20130520	20.27	20.8	r_up	
-CHK	20130521	20.8	20.85	r_up	among:1 rises:1 ahead:1 sectors:1 movers:1 top:1 tax:1 gainer:1 testimony:1 rally:1 stocks:1
-CHK	20130522	20.85	21.1	r_up	lower:1 track:1 turn:1 broader:1 stocks:1 market:1
-CHK	20130523	21.1	21.66	r_up	decline:1 fizzles:1 stocks:1 asset:1 sale:1
-CHK	20130524	21.66	21.67	r_up	
-CHK	20130528	21.67	22.16	r_up	
-CHK	20130529	22.16	22.58	r_up	
-CHK	20130530	22.58	22.53	r_down	
-CHK	20130531	22.53	21.84	r_down	
-CHK	20130603	21.84	22.18	r_up	vs.:1
-CHK	20130604	22.18	21.72	r_down	now:1 's:1 money:1 value:1 3:1 buying:1 stocks:1 smart:1
-CHK	20130605	21.72	21.52	r_down	
-CHK	20130606	21.52	21.67	r_up	but:1
-CHK	20130607	21.67	22.0	r_up	
-CHK	20130610	22.0	21.92	r_down	
-CHK	20130611	21.92	21.3	r_down	
-CHK	20130612	21.3	21.08	r_down	
-CHK	20130613	21.08	21.0	r_down	
-CHK	20130614	21.0	20.68	r_down	
-CHK	20130617	20.68	21.04	r_up	
-CHK	20130618	21.04	21.25	r_up	
-CHK	20130619	21.25	20.8	r_down	90:1 $:1
-CHK	20130620	20.8	20.08	r_down	
-CHK	20130621	20.08	20.22	r_up	
+CHK	20140501	26.9	26.6	r_down	
+CHK	20140502	26.6	26.5	r_down	
+CHK	20140505	26.5	26.5	r_up	
+CHK	20140506	26.5	26.6	r_up	
+CHK	20140507	26.6	27.8	r_up	broader:1 revenue:1 well:1 trade:2 see:1 actively:1 have:1 natural-gas:1 's:1 its:1 market:1 whose:1 said:1 profit:1 47:1 shares:2 mojo:1 their:1 production:1 expected:2 higher:1 oil:1 first-quarter:1 company:1 watch:1 reported:1 active:1 stocks:2 bode:1 soared:1 lost:1 companies:2 surge:1 n't:1 session:2 does:1
+CHK	20140508	27.8	27.3	r_down	drilled:1 oil:1 's:1 perk:1 invest:1 began:1 probe:1 gas:1 up:1 wells:1 morning:1 concerned:1 which:1 allowed:1 news:1 rounds:1 2012:1
+CHK	20140509	27.3	27.9	r_up	
+CHK	20140512	27.9	28.4	r_up	
+CHK	20140513	28.4	28.2	r_down	own:2 financial:1 help:1 energy:2 oil-and-gas:1 tax:2 fellow:2 '':1 held:1 oil:4 including:2 desperate:1 says:2 education:1 move:1 raise:2 pay:1 decision:1 breaking:2 controls:1 needed:1 state:3 asking:2 statement:1 he:1 higher:1 ``:2 his:2 infrastructure:1 billionaire:1 needle:1 much:1 closely:1 prepared:1 production:2 man:2 could:1 companies:2 taxes:2 n't:1 improvements:1 does:1 drill:1 executives:2
+CHK	20140514	28.2	27.4	r_down	
+CHK	20140515	27.4	27.2	r_down	
+CHK	20140516	27.2	25.9	r_down	criticism:1 private-equity:1 stores:1 chain:1 borrowing:1 agreed:1 move:1 long-running:1 sales:2 trade:2 services:1 session:2 6.2:1 investors:1 spinoff:1 2.1:1 its:4 sell:1 shareholders:1 said:3 capacity:1 opened:1 expectations:1 shares:2 also:2 other:1 asset:1 closed:1 expected:2 new:1 newly:1 several:1 firm:1 topping:1 's:2 plans:1 operations:1 company:1 period:1 oil-field:1 despite:1 improving:1 line:1 month:1 struggling:1 $:1 billion:1 easily:1 proceed:1 excluding:1 climbed:1 companies:2 cash:1 credit:1 actively:2 each:1 quarter:1 expands:1 latest:1
+CHK	20140519	25.9	26.2	r_up	
+CHK	20140520	26.2	26.3	r_up	week:1 interests:1 made:1 group:1 hacked:1 business:1 sometimes:1 companies:1 serves:1 've:1 their:1 admit:1 been:1 they:1 rare:1 bet:1
+CHK	20140521	26.3	26.4	r_up	interests:1 named:1 into:1 past:1 legal:1 have:1 sought:1 targets:1 unusual:1 group:1 harsh:1 decision:1 illegal:1 avoid:1 officers:1 been:1 their:1 acting:1 take:1 hacked:1 firms:1 indictment:1 public:1 week:1 division:1 over:1 's:1 frustration:1 business:1 government:1 took:1 most:1 step:1 part:1 benefit:1 they:1 others:1 both:1 made:1 rare:1 level:1 sometimes:1 companies:2 assault:1 serves:1 've:1 admit:1 military:1 hacking:3 corporate:1 spotlight:1 bet:1 numbers:1
+CHK	20140522	26.4	26.2	r_down	
+CHK	20140523	26.2	25.9	r_down	
+CHK	20140527	25.9	26.5	r_up	
+CHK	20140528	26.5	26.6	r_up	help:1 energy:1 some:1 comfortable:1 rate:1 infrastructure:1 signed:2 still:1 education:1 raise:2 legislation:2 increase:1 state:2 much:1 largest:1 new:2 higher:1 oil:2 's:2 gas:2 wells:2 falls:1 producers:1 fund:1 said:1 but:2 they:1 wanted:1 short:1 kept:1 level:1 taxes:2 improvements:1 were:1 executives:1
+CHK	20140529	26.6	27.1	r_up	
+CHK	20140530	27.1	26.9	r_down	
+CHK	20140602	26.9	27.5	r_up	
+CHK	20140603	27.5	27.4	r_down	
+CHK	20140604	27.4	27.5	r_up	
+CHK	20140605	27.5	28.0	r_up	leases:1 producer:1 state:1 charges:1 alleging:1 obtain:1 against:1 misled:1 filed:1 natural-gas:1 criminal:1
+CHK	20140606	28.0	27.9	r_down	
+CHK	20140609	27.9	27.7	r_down	operations:1 into:1 spinoff:1 its:2 2.5:2 properties:1 said:2 $:2 would:1 acres:1 board:1 net:1 has:1 oil:1 separate:1 gas:1 company:1 acquire:1 southern:1 affiliates:1 63,000:1 approved:1 billion:1 publicly:1 oilfield-services:1 traded:1
+CHK	20140610	27.7	27.4	r_down	
+CHK	20140611	27.4	28.1	r_up	upgraded:1 status:1 junk:1 chasing:1 companies:1 back:1 can:1 which:1 recently:1 bought:1 before:1
+CHK	20140612	28.1	28.6	r_up	all:2 his:2 into:2 executive:2 back:2 down:1 economic:1 year:2 market:1 eye:2 sentiment:1 since:2 been:2 spike:1 has:2 public:2 500:1 stock:1 oil:1 but:2 falls:1 fall:1 prices:1 stocks:1 data:1 day:1 he:2 absent:2 last:2 third:1 ouster:2 chief:2 dents:1 easing:2 spotlight:2
+CHK	20140613	28.6	28.6	r_up	
+CHK	20140616	28.6	28.5	r_down	
+CHK	20140617	28.5	28.6	r_up	
+CHK	20140618	28.6	28.8	r_up	oust:1 major:1 handful:1 investors:2 power:1 offer:1 just:1 opening:1 companies:1 up:1 elections:1 step:1 activist:1 board:1 members:1 take:1 joining:1 corporate:1 its:1 more:1
+CHK	20140619	28.8	28.8	r_up	
+CHK	20140620	28.8	29.0	r_up	
+CHK	20140623	29.0	29.3	r_up	
+CHK	20140624	29.3	28.4	r_down	
+CHK	20140625	28.4	29.1	r_up	
+CHK	20140626	29.1	28.6	r_down	
+CHK	20140627	28.6	28.5	r_down	
+CHK	20140630	28.5	29.1	r_up	
+CHK	20140701	29.1	29.0	r_down	
+CHK	20140702	29.0	29.0	r_up	
+CHK	20140703	29.0	29.2	r_up	
+CHK	20140707	29.2	27.9	r_down	session:1 's:1 companies:1 shares:1 trade:1 actively:1 expected:1
+CHK	20140708	27.9	28.3	r_up	
+CHK	20140709	28.3	29.0	r_up	
+CHK	20140710	29.0	28.8	r_down	
+CHK	20140711	28.8	27.9	r_down	
+CHK	20140714	27.9	28.1	r_up	session:1 million:1 's:1 compression:1 company:1 acquire:1 companies:1 $:1 shares:1 trade:1 natural-gas:1 actively:1 135:1 expected:1 subsidiary:1 said:1 assets:1
+CHK	20140715	28.1	27.3	r_down	
+CHK	20140716	27.3	27.7	r_up	
+CHK	20140717	27.7	26.7	r_down	
+CHK	20140718	26.7	26.8	r_up	
+CHK	20140721	26.8	26.6	r_down	
+CHK	20140722	26.6	26.7	r_up	
+CHK	20140723	26.7	26.9	r_up	
+CHK	20140724	26.9	27.1	r_up	
+CHK	20140725	27.1	26.8	r_down	
+CHK	20140728	26.8	26.7	r_down	
+CHK	20140729	26.7	26.9	r_up	billion:1 $:1 exchange:1 agreed:1 agreement:1 preferred:1 shares:1 asset:1 preliminary:1 repurchase:1 reached:1 1.26:1 its:1 unit:1
+CHK	20140730	26.9	26.8	r_down	
+CHK	20140731	26.8	26.2	r_down	sending:1 junk:1 end:1 bonds:1 fears:1 long:1 tumbling:1 prices:1 rally:1 debt:1 corporate:1 risky:1
+CHK	20140801	26.2	25.9	r_down	paying:1 oil:1 incentives:1 less:1 federal:1 companies:1 energy:1 gas:1 effect:1 taxes:1 investment:1 boom:1 income:1 producing:1 side:1 thanks:1
+CHK	20140804	25.9	26.7	r_up	
+CHK	20140805	26.7	25.9	r_down	
+CHK	20140806	25.9	26.0	r_up	streak:1 financial:1 increasingly:1 related:1 weighed:1 have:2 67:1 moves:1 closer:1 securities:1 said:1 1:1 rates:1 earnings:1 interest:1 refinancing:1 markets:2 stock:1 turmoil:1 increased:1 valuations:1 loss:1 geopolitical:1 feels:1 fell:1 repurchase:1 debt:1 second-quarter:1 raising:1 volatility:1 down:1 like:1 anxious:1 credit:1 become:1 dragged:1 history:1
+CHK	20140807	26.0	25.8	r_down	
+CHK	20140808	25.8	26.4	r_up	point:2 30:2 argues:2 pullback:2 attractive:2 provides:2 entry:2 recent:2 stock:2
+CHK	20140811	26.4	26.2	r_down	helped:1 piece:1 's:1 beat:1 pullback:1 profiles:1 lately:1 four:1 values:1 legendary:1 discusses:1 investor:1 market:1 recent:1
+CHK	20140812	26.2	25.7	r_down	
+CHK	20140813	25.7	25.6	r_down	
+CHK	20140814	25.6	25.5	r_down	
+CHK	20140815	25.5	25.4	r_down	
+CHK	20140818	25.4	25.3	r_down	
+CHK	20140819	25.3	26.0	r_up	
+CHK	20140820	26.0	26.2	r_up	
+CHK	20140821	26.2	26.3	r_up	
+CHK	20140822	26.3	25.9	r_down	
+CHK	20140825	25.9	26.6	r_up	
+CHK	20140826	26.6	26.3	r_down	
+CHK	20140827	26.3	26.3	r_up	
+CHK	20140828	26.3	26.8	r_up	
+CHK	20140829	26.8	27.0	r_up	
+CHK	20140902	27.0	26.6	r_down	
+CHK	20140903	26.6	26.3	r_down	
+CHK	20140904	26.3	25.9	r_down	
+CHK	20140905	25.9	26.0	r_up	
+CHK	20140908	26.0	25.4	r_down	
+CHK	20140909	25.4	25.4	r_up	
+CHK	20140910	25.4	25.4	r_up	
+CHK	20140911	25.4	25.2	r_down	
+CHK	20140912	25.2	24.8	r_down	
+CHK	20140915	24.8	24.9	r_up	
+CHK	20140916	24.9	25.2	r_up	
+CHK	20140917	25.2	25.2	r_up	
+CHK	20140918	25.2	24.6	r_down	week:1 boards:1 agency:1 companies:1 n't:1 directors:1 affiliated:1 resigned:1 appointed:1
+CHK	20140919	24.6	24.5	r_down	
+CHK	20140922	24.5	24.2	r_down	
+CHK	20140923	24.2	24.1	r_down	
+CHK	20140924	24.1	23.8	r_down	
+CHK	20140925	23.8	23.2	r_down	
+CHK	20140926	23.2	23.3	r_up	
+CHK	20140929	23.3	23.5	r_up	
+CHK	20140930	23.5	22.8	r_down	
+CHK	20141001	22.8	22.3	r_down	
+CHK	20141002	22.3	22.1	r_down	
+CHK	20141003	22.1	21.6	r_down	
+CHK	20141006	21.6	21.2	r_down	
+CHK	20141007	21.2	20.8	r_down	
+CHK	20141008	20.8	20.5	r_down	
+CHK	20141009	20.5	19.0	r_down	seven:1 because:1 lot:1 talking:1 may:1 earlier:1 up:1 shares:2 times:1 did:1 start:1 his:1 much:1 investment:1 want:1 losing:2 making:2 more:1 investor:1 he’s:3 he:1
+CHK	20141010	19.0	18.9	r_down	oil:1 around:1 frighten:1 energy:1 companies:1 crude:1 pump:1 drillers:1 prices:1 starting:1 globe:1 expensive:1 especially:1

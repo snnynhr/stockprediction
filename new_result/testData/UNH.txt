@@ -1,307 +1,114 @@
-UNH	20120402	57.77	57.95	r_up	11:1 spring:1 cleaning:1 during:1 stocks:1 throw:1 out:1
-UNH	20120403	57.95	58.22	r_up	
-UNH	20120404	58.22	57.89	r_down	
-UNH	20120405	57.89	57.84	r_down	
-UNH	20120409	57.84	56.99	r_down	
-UNH	20120410	56.99	56.42	r_down	
-UNH	20120411	56.42	56.87	r_up	
-UNH	20120412	56.87	57.3	r_up	
-UNH	20120413	57.3	56.9	r_down	
-UNH	20120416	56.9	56.23	r_down	real:1 gloom:1 cautious:1 estate:1 stocks:1
-UNH	20120417	56.23	56.95	r_up	
-UNH	20120418	56.95	56.19	r_down	
-UNH	20120419	56.19	57.55	r_up	's:1
-UNH	20120420	57.55	58.33	r_up	up:1 earnings:1
-UNH	20120423	58.33	58.02	r_down	
-UNH	20120424	58.02	57.56	r_down	
-UNH	20120425	57.56	57.71	r_up	
-UNH	20120426	57.71	57.22	r_down	pact:1 1:1 13:1 's:1 $:2 pay:1 million:1 190:1 drug-price:1
-UNH	20120427	57.22	56.76	r_down	
-UNH	20120430	56.76	55.04	r_down	
-UNH	20120501	55.04	56.0	r_up	
-UNH	20120502	56.0	55.54	r_down	
-UNH	20120503	55.54	54.62	r_down	
-UNH	20120504	54.62	53.64	r_down	
-UNH	20120507	53.64	54.16	r_up	
-UNH	20120508	54.16	54.72	r_up	
-UNH	20120509	54.72	54.13	r_down	
-UNH	20120510	54.13	54.2	r_up	
-UNH	20120511	54.2	54.11	r_down	
-UNH	20120514	54.11	54.07	r_down	
-UNH	20120515	54.07	53.85	r_down	
-UNH	20120516	53.85	53.81	r_down	
-UNH	20120517	53.81	53.79	r_down	
-UNH	20120518	53.79	52.92	r_down	
-UNH	20120521	52.92	54.45	r_up	
-UNH	20120522	54.45	54.62	r_up	
-UNH	20120523	54.62	54.26	r_down	
-UNH	20120524	54.26	55.11	r_up	
-UNH	20120525	55.11	55.01	r_down	
-UNH	20120529	55.01	55.04	r_up	
-UNH	20120530	55.04	55.06	r_up	
-UNH	20120531	55.06	54.67	r_down	
-UNH	20120601	54.67	53.95	r_down	outcome:1 health:1 stocks:1 law:1
-UNH	20120604	53.95	53.82	r_down	's:3 1-800:1
-UNH	20120605	53.82	54.93	r_up	5.8:2 's:1
-UNH	20120606	54.93	56.56	r_up	31:2 110:1
-UNH	20120607	56.56	56.31	r_down	surprises:1 advisories:1 's:1
-UNH	20120608	56.31	56.85	r_up	
-UNH	20120611	56.85	56.32	r_down	outlook:1 's:1 22:1 others:1 follow:1 plunges:1
-UNH	20120612	56.32	56.7	r_up	
-UNH	20120613	56.7	57.07	r_up	may:1 hike:1 without:1 costs:1 mandate:1 law:1
-UNH	20120614	57.07	58.29	r_up	
-UNH	20120615	58.29	57.95	r_down	facing:1 n't:1 stocks:1 judgment:1 day:1
-UNH	20120618	57.95	58.46	r_up	
-UNH	20120619	58.46	59.29	r_up	's:1
-UNH	20120620	59.29	58.64	r_down	
-UNH	20120621	58.64	57.4	r_down	
-UNH	20120622	57.4	58.12	r_up	
-UNH	20120625	58.12	56.76	r_down	
-UNH	20120626	56.76	57.85	r_up	not:1 react:1 2:2 1,500:3 ruling:1
-UNH	20120627	57.85	58.33	r_up	nuances:1 stocks:1 health:1 ruling:1 after:1
-UNH	20120628	58.33	58.64	r_up	n't:1 's:1
-UNH	20120629	58.64	57.55	r_down	's:1 after:1 continue:1 ruling:1 fall:1 stocks:1
-UNH	20120702	57.55	55.35	r_down	
-UNH	20120703	55.35	53.99	r_down	
-UNH	20120705	53.99	54.91	r_up	
-UNH	20120706	54.91	54.92	r_up	
-UNH	20120709	54.92	55.18	r_up	's:1
-UNH	20120710	55.18	54.8	r_down	n't:2
-UNH	20120711	54.8	55.13	r_up	
-UNH	20120712	55.13	53.69	r_down	
-UNH	20120713	53.69	54.31	r_up	
-UNH	20120716	54.31	54.27	r_down	2nd:1
-UNH	20120717	54.27	55.0	r_up	
-UNH	20120718	55.0	55.44	r_up	
-UNH	20120719	55.44	54.1	r_down	ends:1 5.5:2 soars:1 but:1 rivals:1 fall:1 dispute:1
-UNH	20120720	54.1	54.51	r_up	
-UNH	20120723	54.51	53.63	r_down	
-UNH	20120724	53.63	54.01	r_up	
-UNH	20120725	54.01	51.63	r_down	sector:1 disappoints:1 pummeled:1 's:1 surprises:1 advisories:1 gets:1
-UNH	20120726	51.63	51.17	r_down	
-UNH	20120727	51.17	52.48	r_up	
-UNH	20120730	52.48	52.4	r_down	
-UNH	20120731	52.4	50.26	r_down	outlook:1 side:1 feels:1 effect:1 falls:1
-UNH	20120801	50.26	50.38	r_up	
-UNH	20120802	50.38	50.27	r_down	's:1 but:1
-UNH	20120803	50.27	50.78	r_up	
-UNH	20120806	50.78	50.18	r_down	
-UNH	20120807	50.18	51.69	r_up	
-UNH	20120808	51.69	51.88	r_up	
-UNH	20120809	51.88	51.18	r_down	
-UNH	20120810	51.18	51.06	r_down	
-UNH	20120813	51.06	51.06	r_up	
-UNH	20120814	51.06	51.13	r_up	stakes:1 health:1 insurers:1 upped:1
-UNH	20120815	51.13	51.97	r_up	
-UNH	20120816	51.97	52.53	r_up	
-UNH	20120817	52.53	52.27	r_down	
-UNH	20120820	52.27	52.34	r_up	dividend-paying:1 suitors:1 $:3 nuptials:1 5.7:3 there:1 fewer:1 next:1 stars:1 out:1
-UNH	20120821	52.34	52.56	r_up	
-UNH	20120822	52.56	53.1	r_up	
-UNH	20120823	53.1	53.05	r_down	
-UNH	20120824	53.05	53.28	r_up	
-UNH	20120827	53.28	53.73	r_up	
-UNH	20120828	53.73	53.45	r_down	
-UNH	20120829	53.45	53.76	r_up	
-UNH	20120830	53.76	53.81	r_up	
-UNH	20120831	53.81	53.42	r_down	
-UNH	20120904	53.42	53.68	r_up	
-UNH	20120905	53.68	53.4	r_down	
-UNH	20120906	53.4	54.0	r_up	
-UNH	20120907	54.0	53.99	r_down	
-UNH	20120910	53.99	52.87	r_down	
-UNH	20120911	52.87	51.95	r_down	
-UNH	20120912	51.95	52.18	r_up	
-UNH	20120913	52.18	53.23	r_up	successful:1 strategy:1
-UNH	20120914	53.23	53.59	r_up	plans:1 extend:1 get:1 futures:1 gain:1 glow:1 rally:1 stocks:2 boost:1 ground:1
-UNH	20120917	53.59	53.82	r_up	still:1 stocks:1 bargains:1
-UNH	20120918	53.82	54.46	r_up	
-UNH	20120919	54.46	54.28	r_down	
-UNH	20120920	54.28	54.27	r_down	
-UNH	20120921	54.27	55.5	r_up	
-UNH	20120924	55.5	55.3	r_down	
-UNH	20120925	55.3	55.52	r_up	
-UNH	20120926	55.52	55.1	r_down	
-UNH	20120927	55.1	55.56	r_up	
-UNH	20120928	55.56	54.74	r_down	
-UNH	20121001	54.74	55.77	r_up	
-UNH	20121002	55.77	56.11	r_up	lift:1 watch:1 though:1 get:1
-UNH	20121003	56.11	56.17	r_up	
-UNH	20121004	56.17	57.26	r_up	
-UNH	20121005	57.26	56.43	r_down	
-UNH	20121008	56.43	56.9	r_up	90:11 's:5 $:9 4.3:9
-UNH	20121009	56.9	56.77	r_down	
-UNH	20121010	56.77	56.41	r_down	's:1 vs.:1
-UNH	20121011	56.41	56.96	r_up	's:1
-UNH	20121012	56.96	56.38	r_down	
-UNH	20121015	56.38	56.79	r_up	
-UNH	20121016	56.79	56.19	r_down	after:1 13:1 futures:1 's:1 3rd:1 get:1 23:6 blue-chip:1 since:1 watch:1 reports:1 surge:1 rise:1 lift:1 earnings:3 biggest:1 stock:1 2013:1 gain:1
-UNH	20121017	56.19	55.31	r_down	surprises:1 advisories:1 $:1 2.5:1
-UNH	20121018	55.31	55.33	r_up	$:1 2.5:1
-UNH	20121019	55.33	54.98	r_down	30:1 health-care:1
-UNH	20121022	54.98	55.85	r_up	
-UNH	20121023	55.85	55.5	r_down	end:1 rebound:1 after:1 up:1 late-session:1 's:1 stocks:1
-UNH	20121024	55.5	55.24	r_down	
-UNH	20121025	55.24	55.53	r_up	1.8:2
-UNH	20121026	55.53	55.1	r_down	
-UNH	20121031	55.1	55.32	r_up	57:1
-UNH	20121101	55.32	56.26	r_up	
-UNH	20121102	56.26	55.37	r_down	
-UNH	20121105	55.37	54.61	r_down	right:1 election:1 way:1 pick:1 stocks:1 2013:1 before:1
-UNH	20121106	54.61	55.7	r_up	
-UNH	20121107	55.7	53.6	r_down	has:1 money:1 won:1 put:1 now:1 your:1
-UNH	20121108	53.6	52.79	r_down	hospitals:1 win:1 dives:1 but:1 rejoice:1
-UNH	20121109	52.79	52.26	r_down	
-UNH	20121112	52.26	51.56	r_down	
-UNH	20121113	51.56	51.55	r_down	
-UNH	20121114	51.55	50.63	r_down	
-UNH	20121115	50.63	50.63	r_up	
-UNH	20121116	50.63	51.27	r_up	
-UNH	20121119	51.27	52.27	r_up	
-UNH	20121120	52.27	52.49	r_up	
-UNH	20121121	52.49	52.88	r_up	
-UNH	20121123	52.88	53.26	r_up	
-UNH	20121126	53.26	52.88	r_down	hit:1 downgrades:1 health-care:1 'cliff:3 four:1 stocks:1 2013:3
-UNH	20121127	52.88	51.95	r_down	'cliff:2 indexes:1 worries:1 ‘cliff’:1 retreat:1 stock:1
-UNH	20121128	51.95	52.11	r_up	
-UNH	20121129	52.11	53.7	r_up	n't:1
-UNH	20121130	53.7	53.73	r_up	
-UNH	20121203	53.73	53.23	r_down	
-UNH	20121204	53.23	52.89	r_down	
-UNH	20121205	52.89	53.18	r_up	
-UNH	20121206	53.18	53.0	r_down	2013:1 30:1 set:1 leaders:1 agenda:1
-UNH	20121207	53.0	53.43	r_up	120:1 up:1 $:1
-UNH	20121210	53.43	53.74	r_up	
-UNH	20121211	53.74	54.31	r_up	
-UNH	20121212	54.31	54.79	r_up	
-UNH	20121213	54.79	53.93	r_down	
-UNH	20121214	53.93	53.6	r_down	lower:1 stocks:1 end:1 jitters:1 fiscal-cliff:1
-UNH	20121217	53.6	53.91	r_up	may:1 win:1 stocks:1
-UNH	20121218	53.91	54.5	r_up	
-UNH	20121219	54.5	54.04	r_down	
-UNH	20121220	54.04	55.0	r_up	
-UNH	20121221	55.0	54.58	r_down	
-UNH	20121224	54.58	54.4	r_down	
-UNH	20121226	54.4	53.77	r_down	
-UNH	20121227	53.77	53.99	r_up	
-UNH	20121228	53.99	53.42	r_down	
-UNH	20121231	53.42	53.79	r_up	
-UNH	20130102	53.79	54.09	r_up	
-UNH	20130103	54.09	51.56	r_down	biggest:1 gaining:1 stocks:1 declining:1
-UNH	20130104	51.56	51.66	r_up	n't:1 upgrade:1 end:1 drop:1 broker:1 shares:1 signals:1 rise:1 buys:1 after:2 bond:1
-UNH	20130107	51.66	51.66	r_up	
-UNH	20130108	51.66	50.98	r_down	
-UNH	20130109	50.98	51.94	r_up	
-UNH	20130110	51.94	52.67	r_up	61:1
-UNH	20130111	52.67	52.38	r_down	
-UNH	20130114	52.38	52.92	r_up	week:1 could:1 financials’:1 break:1 rally:1 make:1
-UNH	20130115	52.92	53.18	r_up	
-UNH	20130116	53.18	53.22	r_up	
-UNH	20130117	53.22	53.95	r_up	earnings:1
-UNH	20130118	53.95	54.11	r_up	
-UNH	20130122	54.11	55.56	r_up	
-UNH	20130123	55.56	55.45	r_down	38:1
-UNH	20130124	55.45	55.76	r_up	
-UNH	20130125	55.76	55.58	r_down	
-UNH	20130128	55.58	55.35	r_down	
-UNH	20130129	55.35	55.82	r_up	
-UNH	20130130	55.82	55.62	r_down	
-UNH	20130131	55.62	54.76	r_down	's:1
-UNH	20130201	54.76	55.31	r_up	
-UNH	20130204	55.31	55.29	r_down	spot:1 bright:1 lone:1 earnings:1 shares:1
-UNH	20130205	55.29	57.29	r_up	14000:1
-UNH	20130206	57.29	56.91	r_down	
-UNH	20130207	56.91	56.58	r_down	
-UNH	20130208	56.58	57.26	r_up	
-UNH	20130211	57.26	56.65	r_down	lower:1 end:1 lightest:1 volume:1 year’s:1 's:1
-UNH	20130212	56.65	56.54	r_down	
-UNH	20130213	56.54	56.76	r_up	
-UNH	20130214	56.76	56.58	r_down	
-UNH	20130215	56.58	56.85	r_up	
-UNH	20130219	56.85	56.19	r_down	plunges:1 proposed:1 cuts:1
-UNH	20130220	56.19	54.76	r_down	
-UNH	20130221	54.76	54.79	r_up	
-UNH	20130222	54.79	54.02	r_down	
-UNH	20130225	54.02	52.86	r_down	10:2 $:2
-UNH	20130226	52.86	52.61	r_down	
-UNH	20130227	52.61	53.43	r_up	
-UNH	20130228	53.43	53.01	r_down	
-UNH	20130301	53.01	53.08	r_up	
-UNH	20130304	53.08	52.88	r_down	
-UNH	20130305	52.88	53.06	r_up	
-UNH	20130306	53.06	53.17	r_up	
-UNH	20130307	53.17	53.36	r_up	
-UNH	20130308	53.36	53.37	r_up	
-UNH	20130311	53.37	53.76	r_up	
-UNH	20130312	53.76	54.38	r_up	
-UNH	20130313	54.38	54.24	r_down	
-UNH	20130314	54.24	54.49	r_up	
-UNH	20130315	54.49	54.49	r_up	
-UNH	20130318	54.49	54.76	r_up	
-UNH	20130319	54.76	54.93	r_up	
-UNH	20130320	54.93	54.64	r_down	
-UNH	20130321	54.64	54.82	r_up	
-UNH	20130322	54.82	54.22	r_down	
-UNH	20130325	54.22	54.62	r_up	
-UNH	20130326	54.62	55.41	r_up	
-UNH	20130327	55.41	56.37	r_up	
-UNH	20130328	56.37	56.96	r_up	
-UNH	20130401	56.96	58.71	r_up	
-UNH	20130402	58.71	61.47	r_up	close:1 highs:1 500:1 record:1
-UNH	20130403	61.47	61.4	r_down	movers:1 closes:1 high:1 off:1 intraday:1
-UNH	20130404	61.4	61.76	r_up	disclosure:1 could:1 help:1
-UNH	20130405	61.76	61.83	r_up	
-UNH	20130408	61.83	61.62	r_down	
-UNH	20130409	61.62	61.91	r_up	
-UNH	20130410	61.91	62.14	r_up	
-UNH	20130411	62.14	62.7	r_up	
-UNH	20130412	62.7	62.75	r_up	
-UNH	20130415	62.75	61.32	r_down	
-UNH	20130416	61.32	62.53	r_up	flurry:1 companies:1 mergers:1 ripe:1
-UNH	20130417	62.53	61.76	r_down	
-UNH	20130418	61.76	59.43	r_down	stocks:1 's:1 futures:1 watch:1 up:1 edge:1 slip:1 claims:1 disappoint:1 line:1 81:1 data:1
-UNH	20130419	59.43	59.78	r_up	among:1 big:1 pop:1 coal:1 miners:1 decliners:1
-UNH	20130422	59.78	58.96	r_down	
-UNH	20130423	58.96	58.28	r_down	
-UNH	20130424	58.28	58.53	r_up	
-UNH	20130425	58.53	59.08	r_up	
-UNH	20130426	59.08	59.22	r_up	
-UNH	20130429	59.22	59.75	r_up	
-UNH	20130430	59.75	59.67	r_down	
-UNH	20130501	59.67	59.46	r_down	
-UNH	20130502	59.46	59.22	r_down	
-UNH	20130503	59.22	58.66	r_down	fixing:1 debt:1 pay:1
-UNH	20130506	58.66	59.94	r_up	
-UNH	20130507	59.94	60.23	r_up	
-UNH	20130508	60.23	62.24	r_up	15000:1
-UNH	20130509	62.24	61.74	r_down	
-UNH	20130510	61.74	62.63	r_up	
-UNH	20130513	62.63	62.12	r_down	
-UNH	20130514	62.12	61.46	r_down	
-UNH	20130515	61.46	61.34	r_down	
-UNH	20130516	61.34	61.87	r_up	
-UNH	20130517	61.87	62.56	r_up	again:1 votes:1 repeal:1 health:1 law:1
-UNH	20130520	62.56	62.29	r_down	
-UNH	20130521	62.29	62.59	r_up	
-UNH	20130522	62.59	62.01	r_down	
-UNH	20130523	62.01	62.09	r_up	13:1 includes:1 health:1 insurers:1 exchange:1
-UNH	20130524	62.09	61.79	r_down	
-UNH	20130528	61.79	63.06	r_up	
-UNH	20130529	63.06	63.07	r_up	
-UNH	20130530	63.07	64.38	r_up	
-UNH	20130531	64.38	62.36	r_down	
-UNH	20130603	62.36	62.52	r_up	
-UNH	20130604	62.52	62.09	r_down	
-UNH	20130605	62.09	61.48	r_down	32:1
-UNH	20130606	61.48	61.65	r_up	
-UNH	20130607	61.65	62.3	r_up	
-UNH	20130610	62.3	63.4	r_up	
-UNH	20130611	63.4	63.65	r_up	's:1
-UNH	20130612	63.65	63.55	r_down	
-UNH	20130613	63.55	64.15	r_up	
-UNH	20130614	64.15	63.8	r_down	
-UNH	20130617	63.8	64.37	r_up	
-UNH	20130618	64.37	65.68	r_up	
-UNH	20130619	65.68	65.26	r_down	
-UNH	20130620	65.26	63.8	r_down	
-UNH	20130621	63.8	63.9	r_up	
+UNH	20140501	74.3	74.2	r_down	
+UNH	20140502	74.2	74.3	r_up	
+UNH	20140505	74.3	74.5	r_up	
+UNH	20140506	74.5	74.5	r_up	site:1 private:1 states:1 officials:1 insurance:1 considering:1 said:1 federal:1 scrapping:1 favor:1 state:1 version:1 health:1 connecting:1 used:1 's:2 exchange:1 company:1 they:1 while:1 backup:1 other:1
+UNH	20140507	74.5	77.2	r_up	
+UNH	20140508	77.2	76.2	r_down	
+UNH	20140509	76.2	76.2	r_up	
+UNH	20140512	76.2	77.0	r_up	
+UNH	20140513	77.0	77.3	r_up	
+UNH	20140514	77.3	76.4	r_down	
+UNH	20140515	76.4	75.8	r_down	
+UNH	20140516	75.8	75.9	r_up	
+UNH	20140519	75.9	76.5	r_up	
+UNH	20140520	76.5	75.9	r_down	
+UNH	20140521	75.9	77.0	r_up	
+UNH	20140522	77.0	77.6	r_up	
+UNH	20140523	77.6	78.0	r_up	's:3 chain:1 company:1 acquire:1 nation:1 part:1 plan:1 largest:1 talks:1 drugstore:1 expand:1
+UNH	20140527	78.0	78.4	r_up	
+UNH	20140528	78.4	77.8	r_down	
+UNH	20140529	77.8	78.6	r_up	sector:1 all:1 over:2 lack:1 states:3 shares:1 its:1 out:1 statistics:1 based:1 top:1 least:1 research:1 misses:1 concerns:1 health:1 boom:1 folks:1 struggling:1 explains:1 participation:1 titan:1 healthiest:1 finished:1 last:1 those:1 high:1 lifestyle:1 healthy:1 50:1 drug:1 ranks:1 costs:1 can:1 learn:1 retirees:2 came:1 65:1
+UNH	20140530	78.6	78.9	r_up	
+UNH	20140602	78.9	78.7	r_down	use:1 retirement:1 plans:1 these:1 contribute:1 may:1 savings:1 accounts:2 finding:1 health:1 best:1
+UNH	20140603	78.7	79.1	r_up	
+UNH	20140604	79.1	79.7	r_up	raised:1 investors:1 cents:2 noting:1 share:1 call:1 trade:2 weighed:1 second:1 session:2 dividend:5 years:1 its:4 feared:1 conference:1 index:1 shareholders:1 said:2 20:1 would:1 record:1 since:1 had:2 three:1 shares:2 share-repurchase:2 hitting:1 program:2 health:2 board:2 expected:2 9.5:1 more:1 has:1 price:1 500:2 economy:1 's:7 increased:3 insurer:2 company:6 paid:1 hurt:1 quarterly:4 renewed:2 instead:1 news:1 stocks:1 potential:1 advanced:1 payout:1 high:1 quarter:1 --:1 past:1 30:1 companies:2 soaring:1 34:4 bag:1 actively:2 2013:1 each:1 mixed:1 increase:2 profits:1
+UNH	20140605	79.7	79.0	r_down	
+UNH	20140606	79.0	79.2	r_up	set:1 investors:1 jump:1 expect:1 year:1 10.5:1 too:1 dividends:1 500:1 more:1 's:1 business:1 big:1 after:1 they:1 gamble:1 post:1 spur:1 advance:1 12:1 taking:1 annual:1 cash:1 2013:1
+UNH	20140609	79.2	79.0	r_down	
+UNH	20140610	79.0	79.1	r_up	
+UNH	20140611	79.1	79.4	r_up	
+UNH	20140612	79.4	79.1	r_down	
+UNH	20140613	79.1	78.8	r_down	
+UNH	20140616	78.8	77.6	r_down	
+UNH	20140617	77.6	77.8	r_up	
+UNH	20140618	77.8	78.8	r_up	
+UNH	20140619	78.8	80.1	r_up	
+UNH	20140620	80.1	81.0	r_up	head:1 's:1 creating:1 second:1 oversee:1 positions:1 in-house:1 executive:1 problems:1 two:1 private:1 contractor:1 try:1 tasked:1 period:1 fixing:1 site:1 law:1 bringing:1 avert:1
+UNH	20140623	81.0	81.1	r_up	
+UNH	20140624	81.1	81.3	r_up	
+UNH	20140625	81.3	81.9	r_up	
+UNH	20140626	81.9	81.9	r_up	
+UNH	20140627	81.9	81.6	r_down	peers:1 's:1 guidance:1 larger:1 conservative:1 raises:1 earnings:1 sets:1 than:1 stage:1
+UNH	20140630	81.6	81.4	r_down	
+UNH	20140701	81.4	81.5	r_up	
+UNH	20140702	81.5	82.1	r_up	
+UNH	20140703	82.1	83.0	r_up	
+UNH	20140707	83.0	81.8	r_down	
+UNH	20140708	81.8	81.5	r_down	
+UNH	20140709	81.5	82.3	r_up	
+UNH	20140710	82.3	81.7	r_down	
+UNH	20140711	81.7	82.5	r_up	
+UNH	20140714	82.5	83.9	r_up	
+UNH	20140715	83.9	83.5	r_down	
+UNH	20140716	83.5	83.4	r_down	heart:1 30:1 cardiovascular:1 color:1 one:1 shape:1 medication:1 happen:1 if:1 guess:1 unexpected:1 generic:1 their:1 attack:1 going:1 medicine:1 new:1 several:1 more:1 them:1 patient:1 drugs:1 stop:1 suffering:1 because:1 taking:1 confusing:1 change:1 manufacturer:1 these:1 study:1 later:1 likely:1 keep:1 patients:1 can:2 changes:1 finds:1
+UNH	20140717	83.4	84.7	r_up	insurance:1 managers:1 revenue:1 money:1 growth:1 through:1 battle:1 dilemma:1 moves:1 saw:1 its:1 market:1 $:1 investing:1 government:1 second-quarter:1 increase:1 theme:1 health:1 pretty:1 biggest:2 troubling:1 has:1 markets:1 public:1 stock:1 week:1 cash-strapped:1 's:2 insurer:1 sparked:1 notable:1 reported:1 fall:1 world:1 stocks:1 climb:1 faced:1 programs:1 drug:1 worried:1 7.1:1 making:1 senior:1 better-than-expected:1
+UNH	20140718	84.7	85.1	r_up	saying:1 losses:1 gold:1 quarters:1 investors:1 surprises:1 bonds:1 their:1 advisories:1 safety:1 earnings:1 tumbling:1 markets:1 reaching:1 rattled:1 geopolitical:1 worst:1 stocks:1 roundup:1 sending:1 months:1 companies:1 reports:1 future:1 were:1 corporate:1 latest:1
+UNH	20140721	85.1	84.7	r_down	investors:1 there’s:1 see:1 gauge:1 appetite:1 market:1 if:2 fears:1 earnings:1 upbeat:1 caps’:1 more:1 week:1 pain:1 risk:1 may:1 watch:1 slump:1 geopolitical:1 barrage:1 key:1 hold:1 outweigh:1 ahead:1 could:1 up:1 reports:1 worries:1
+UNH	20140722	84.7	85.6	r_up	streak:1 past:1 keeping:1 over:1 30:1 alive:1 years:1 1:1 fund:1 9:1 stock:1
+UNH	20140723	85.6	85.5	r_down	
+UNH	20140724	85.5	85.3	r_down	
+UNH	20140725	85.3	84.3	r_down	
+UNH	20140728	84.3	85.3	r_up	
+UNH	20140729	85.3	83.9	r_down	adjusted:1 1.1:1 revenue:1 expectations:1 share:1 decline:1 related:1 expenses:1 manager:1 trading:1 topped:1 have:1 68:1 5.1:2 said:1 $:4 rose:1 guidance:1 projected:1 one-time:1 forecast:1 current:1 also:1 other:1 earnings:4 above:1 expected:1 price:1 higher:1 's:2 mostly:1 transactions:1 company:3 midpoint:1 fell:1 second-quarter:1 recent:1 per-share:1 polled:1 third-quarter:1 pharmacy-benefits:1 items:1 1.28:1 analysts:1 after-hours:1 quarter:1
+UNH	20140730	83.9	82.6	r_down	poor:1 set:1 projection:1 revenue:1 expectations:1 watchdog:1 its:2 declined:1 5.1:1 management:1 $:1 federal:1 agency:1 third-quarter:1 charge:1 earnings:2 above:1 suffered:1 lawmakers:1 tell:1 congressional:1 skimpy:1 website:1 said:1 mostly:1 though:1 contracts:1 scrutiny:1 fell:1 second-quarter:1 building:1 analysts:1
+UNH	20140731	82.6	80.7	r_down	
+UNH	20140801	80.7	81.1	r_up	
+UNH	20140804	81.1	81.9	r_up	
+UNH	20140805	81.9	80.6	r_down	
+UNH	20140806	80.6	81.1	r_up	
+UNH	20140807	81.1	78.9	r_down	among:1 them:1 drops:1 off:1 takes:1 conviction:2 cuts:1 price:1 after:2 list:1 shares:1 loses:1 industrials:1 components:1 losses:1 biggest:1 suffer:1 analyst:1 target:1
+UNH	20140808	78.9	79.7	r_up	
+UNH	20140811	79.7	79.5	r_down	
+UNH	20140812	79.5	79.8	r_up	
+UNH	20140813	79.8	81.1	r_up	
+UNH	20140814	81.1	81.4	r_up	
+UNH	20140815	81.4	81.1	r_down	
+UNH	20140818	81.1	81.9	r_up	
+UNH	20140819	81.9	83.1	r_up	buy:1 means:1 these:1 selloff:1 manage:1 companies:1 stocks:1 discount:1 programs:1 contrarians:1 can:1
+UNH	20140820	83.1	83.0	r_down	
+UNH	20140821	83.0	83.4	r_up	
+UNH	20140822	83.4	83.4	r_up	24:2 applied:1 major:1 sell:1 marketplaces:1 plans:1 markets:1 next:1 states:1 including:1 year:1 such:1 has:1 consumer:1 health-law:1
+UNH	20140825	83.4	83.8	r_up	billion:1 's:1 $:1 may:1 sale:1 fetch:1 2:1 medical-device:1 its:1 unit:1 more:1
+UNH	20140826	83.8	84.7	r_up	10:1 people:2 influential:2 universe:1 industry:1 both:1 most:2 magazine:1 health:2 ranks:1 out:1 care:2
+UNH	20140827	84.7	86.0	r_up	
+UNH	20140828	86.0	85.9	r_down	
+UNH	20140829	85.9	86.3	r_up	
+UNH	20140902	86.3	86.0	r_down	selling:1 marketplaces:1 hoping:1 business:1 process:1 smoother:1 around:1 reopen:1 much:1 coverage:1 time:1 15:1 millions:1 insurers:1 health-law:1
+UNH	20140903	86.0	86.4	r_up	
+UNH	20140904	86.4	86.6	r_up	
+UNH	20140905	86.6	87.3	r_up	
+UNH	20140908	87.3	87.5	r_up	
+UNH	20140909	87.5	88.1	r_up	
+UNH	20140910	88.1	87.2	r_down	
+UNH	20140911	87.2	87.0	r_down	
+UNH	20140912	87.0	86.1	r_down	
+UNH	20140915	86.1	86.0	r_down	filings:1 working:1 companies:1 official:1 some:1 parts:1 demanding:1 better:1 their:1 catching:1 asking:1 spend:1 really:1
+UNH	20140916	86.0	87.1	r_up	
+UNH	20140917	87.1	86.9	r_down	
+UNH	20140918	86.9	87.6	r_up	
+UNH	20140919	87.6	87.8	r_up	
+UNH	20140922	87.8	87.7	r_down	's:1 there:1 while:1 maintain:1 can:1 margins:1 concerns:1 improve:1
+UNH	20140923	87.7	86.5	r_down	
+UNH	20140924	86.5	88.2	r_up	
+UNH	20140925	88.2	86.1	r_down	
+UNH	20140926	86.1	86.6	r_up	
+UNH	20140929	86.6	86.5	r_down	
+UNH	20140930	86.5	86.2	r_down	deal:1 providers:1 trend:1 move:1 held:1 manage:1 billing:1 going:1 collections:1 helps:1 which:1 role:1 health-care:1 integrated:1 disclosed:1 buy:1 's:1 company:1 acquire:1 closely:1 deepen:1 physician:1 movies:1 practices:1 growing:1 toward:1
+UNH	20141001	86.2	84.8	r_down	
+UNH	20141002	84.8	84.9	r_up	
+UNH	20141003	84.9	86.0	r_up	
+UNH	20141006	86.0	85.0	r_down	
+UNH	20141007	85.0	84.1	r_down	
+UNH	20141008	84.1	86.6	r_up	use:1 shopping:1 consumers:1 long:1 month:1 application:1 complex:1 year’s:1 last:1 next:1 starting:1 insurance:1
+UNH	20141009	86.6	84.9	r_down	
+UNH	20141010	84.9	85.3	r_up	received:1 promises:1 100,000:1 $:1 requiring:1 medicines:1 tag:1 carries:1 drug:2 without:1 price:1 most:1 patients:1 cure:1 hepatitis:1 approval:1 new:1 other:1 nearly:1

@@ -1,307 +1,114 @@
-BK	20120402	23.48	23.83	r_up	
-BK	20120403	23.83	24.0	r_up	
-BK	20120404	24.0	23.49	r_down	
-BK	20120405	23.49	23.18	r_down	
-BK	20120409	23.18	22.71	r_down	
-BK	20120410	22.71	22.49	r_down	
-BK	20120411	22.49	22.84	r_up	leads:1 rally:1 financial:1 stock:1
-BK	20120412	22.84	23.29	r_up	
-BK	20120413	23.29	22.49	r_down	
-BK	20120416	22.49	22.66	r_up	$:1 6:1
-BK	20120417	22.66	23.16	r_up	
-BK	20120418	23.16	22.46	r_down	1:1 stocks:1 financial:1 drive:1 higher:1
-BK	20120419	22.46	22.15	r_down	's:1
-BK	20120420	22.15	22.23	r_up	
-BK	20120423	22.23	22.08	r_down	
-BK	20120424	22.08	22.61	r_up	
-BK	20120425	22.61	23.01	r_up	leads:1 stocks:1 financial:1 up:1 results:1
-BK	20120426	23.01	23.19	r_up	
-BK	20120427	23.19	23.32	r_up	
-BK	20120430	23.32	23.14	r_down	
-BK	20120501	23.14	23.41	r_up	
-BK	20120502	23.41	23.39	r_down	
-BK	20120503	23.39	22.97	r_down	
-BK	20120504	22.97	22.57	r_down	
-BK	20120507	22.57	22.6	r_up	
-BK	20120508	22.6	22.38	r_down	
-BK	20120509	22.38	21.71	r_down	
-BK	20120510	21.71	21.75	r_up	
-BK	20120511	21.75	21.61	r_down	
-BK	20120514	21.61	20.94	r_down	
-BK	20120515	20.94	20.67	r_down	1:1 's:1 $:1
-BK	20120516	20.67	20.36	r_down	's:3
-BK	20120517	20.36	19.96	r_down	
-BK	20120518	19.96	19.8	r_down	
-BK	20120521	19.8	19.93	r_up	
-BK	20120522	19.93	19.95	r_up	
-BK	20120523	19.95	20.06	r_up	
-BK	20120524	20.06	20.28	r_up	
-BK	20120525	20.28	20.19	r_down	
-BK	20120529	20.19	20.68	r_up	
-BK	20120530	20.68	19.95	r_down	
-BK	20120531	19.95	19.92	r_down	
-BK	20120601	19.92	19.23	r_down	
-BK	20120604	19.23	19.09	r_down	
-BK	20120605	19.09	19.22	r_up	
-BK	20120606	19.22	19.83	r_up	
-BK	20120607	19.83	20.06	r_up	rules:1 propose:1 set:1 capital:1
-BK	20120608	20.06	20.06	r_up	
-BK	20120611	20.06	19.75	r_down	
-BK	20120612	19.75	20.23	r_up	
-BK	20120613	20.23	20.14	r_down	
-BK	20120614	20.14	20.45	r_up	
-BK	20120615	20.45	20.63	r_up	
-BK	20120618	20.63	20.49	r_down	
-BK	20120619	20.49	20.98	r_up	
-BK	20120620	20.98	20.88	r_down	
-BK	20120621	20.88	20.41	r_down	
-BK	20120622	20.41	20.74	r_up	
-BK	20120625	20.74	20.3	r_down	's:1
-BK	20120626	20.3	20.4	r_up	
-BK	20120627	20.4	20.68	r_up	
-BK	20120628	20.68	20.58	r_down	
-BK	20120629	20.58	21.48	r_up	
-BK	20120702	21.48	21.7	r_up	
-BK	20120703	21.7	21.87	r_up	
-BK	20120705	21.87	21.49	r_down	
-BK	20120706	21.49	21.32	r_down	$:1 350:1
-BK	20120709	21.32	21.11	r_down	
-BK	20120710	21.11	20.87	r_down	
-BK	20120711	20.87	20.85	r_down	
-BK	20120712	20.85	20.59	r_down	over:1
-BK	20120713	20.59	21.3	r_up	
-BK	20120716	21.3	21.29	r_down	
-BK	20120717	21.29	21.25	r_down	4.5:2
-BK	20120718	21.25	21.22	r_down	months:1 18:2 lag:1 37:4 watch:2 most:1 3:1 drops:1 financials:1
-BK	20120719	21.22	20.83	r_down	
-BK	20120720	20.83	20.32	r_down	
-BK	20120723	20.32	20.09	r_down	
-BK	20120724	20.09	19.96	r_down	
-BK	20120725	19.96	20.15	r_up	
-BK	20120726	20.15	20.62	r_up	
-BK	20120727	20.62	21.06	r_up	
-BK	20120730	21.06	21.12	r_up	
-BK	20120731	21.12	20.95	r_down	
-BK	20120801	20.95	20.82	r_down	10:2
-BK	20120802	20.82	20.35	r_down	
-BK	20120803	20.35	21.41	r_up	
-BK	20120806	21.41	21.39	r_down	portfolio:1 ‘moat’:1 protect:1 your:1
-BK	20120807	21.39	21.96	r_up	test:1 new:1 line:1
-BK	20120808	21.96	22.22	r_up	
-BK	20120809	22.22	21.95	r_down	
-BK	20120810	21.95	21.91	r_down	$:1
-BK	20120813	21.91	21.9	r_down	21:1
-BK	20120814	21.9	21.81	r_down	
-BK	20120815	21.81	21.77	r_down	
-BK	20120816	21.77	22.16	r_up	50:1
-BK	20120817	22.16	22.38	r_up	
-BK	20120820	22.38	22.45	r_up	
-BK	20120821	22.45	22.45	r_up	's:1
-BK	20120822	22.45	22.38	r_down	's:2
-BK	20120823	22.38	22.09	r_down	
-BK	20120824	22.09	22.08	r_down	10:1 top:1 stocks:1 players:1 more:1
-BK	20120827	22.08	21.94	r_down	
-BK	20120828	21.94	22.06	r_up	
-BK	20120829	22.06	22.21	r_up	
-BK	20120830	22.21	21.96	r_down	
-BK	20120831	21.96	22.19	r_up	
-BK	20120904	22.19	22.2	r_up	's:4
-BK	20120905	22.2	22.17	r_down	
-BK	20120906	22.17	22.68	r_up	
-BK	20120907	22.68	22.57	r_down	
-BK	20120910	22.57	22.35	r_down	
-BK	20120911	22.35	22.39	r_up	
-BK	20120912	22.39	22.54	r_up	
-BK	20120913	22.54	23.09	r_up	
-BK	20120914	23.09	23.26	r_up	
-BK	20120917	23.26	23.34	r_up	
-BK	20120918	23.34	23.3	r_down	collateral:1 play:1 management:1 makes:1 market:1
-BK	20120919	23.3	23.1	r_down	
-BK	20120920	23.1	22.79	r_down	more:1
-BK	20120921	22.79	22.94	r_up	
-BK	20120924	22.94	22.84	r_down	
-BK	20120925	22.84	22.28	r_down	
-BK	20120926	22.28	22.29	r_up	
-BK	20120927	22.29	22.47	r_up	
-BK	20120928	22.47	22.27	r_down	
-BK	20121001	22.27	22.58	r_up	
-BK	20121002	22.58	22.61	r_up	
-BK	20121003	22.61	22.46	r_down	
-BK	20121004	22.46	22.97	r_up	
-BK	20121005	22.97	23.06	r_up	
-BK	20121008	23.06	23.02	r_down	
-BK	20121009	23.02	22.99	r_down	's:1
-BK	20121010	22.99	22.8	r_down	
-BK	20121011	22.8	23.03	r_up	
-BK	20121012	23.03	22.49	r_down	's:1
-BK	20121015	22.49	22.73	r_up	
-BK	20121016	22.73	23.2	r_up	
-BK	20121017	23.2	24.48	r_up	gaining:1 11:4 futures:1 watch:1 declining:1 biggest:1 rally:1 juggle:1 stocks:2 bank:1 earnings:3
-BK	20121018	24.48	24.59	r_up	1.5:1 $:1
-BK	20121019	24.59	24.3	r_down	's:1
-BK	20121022	24.3	24.27	r_down	
-BK	20121023	24.27	24.09	r_down	's:1
-BK	20121024	24.09	24.24	r_up	
-BK	20121025	24.24	24.51	r_up	2013:1
-BK	20121026	24.51	24.12	r_down	
-BK	20121031	24.12	24.46	r_up	
-BK	20121101	24.46	24.84	r_up	
-BK	20121102	24.84	24.28	r_down	global:1 ranks:1 rise:1 analysts:1
-BK	20121105	24.28	24.85	r_up	
-BK	20121106	24.85	25.02	r_up	
-BK	20121107	25.02	23.76	r_down	
-BK	20121108	23.76	23.81	r_up	$:1 1.1:1
-BK	20121109	23.81	23.86	r_up	's:2 $:2 1.1:2
-BK	20121112	23.86	23.82	r_down	
-BK	20121113	23.82	23.77	r_down	's:2 $:2 210:2
-BK	20121114	23.77	23.3	r_down	29:1
-BK	20121115	23.3	23.33	r_up	
-BK	20121116	23.33	23.4	r_up	2013:1
-BK	20121119	23.4	23.77	r_up	
-BK	20121120	23.77	23.81	r_up	
-BK	20121121	23.81	23.8	r_down	
-BK	20121123	23.8	24.18	r_up	2009:1
-BK	20121126	24.18	24.17	r_down	
-BK	20121127	24.17	23.81	r_down	
-BK	20121128	23.81	23.94	r_up	
-BK	20121129	23.94	23.99	r_up	
-BK	20121130	23.99	23.7	r_down	's:1
-BK	20121203	23.7	23.79	r_up	
-BK	20121204	23.79	23.52	r_down	's:1
-BK	20121205	23.52	23.5	r_down	
-BK	20121206	23.5	23.5	r_up	's:1
-BK	20121207	23.5	23.97	r_up	
-BK	20121210	23.97	24.04	r_up	
-BK	20121211	24.04	24.24	r_up	
-BK	20121212	24.24	24.28	r_up	
-BK	20121213	24.28	24.5	r_up	
-BK	20121214	24.5	24.47	r_down	may:1 funds:1 mutual:1 investors:1 hurt:1
-BK	20121217	24.47	25.14	r_up	
-BK	20121218	25.14	25.75	r_up	n't:1
-BK	20121219	25.75	25.61	r_down	
-BK	20121220	25.61	25.93	r_up	
-BK	20121221	25.93	25.54	r_down	62,000:1 's:1 $:1
-BK	20121224	25.54	25.48	r_down	
-BK	20121226	25.48	25.36	r_down	
-BK	20121227	25.36	25.39	r_up	
-BK	20121228	25.39	25.16	r_down	
-BK	20121231	25.16	25.44	r_up	
-BK	20130102	25.44	26.61	r_up	
-BK	20130103	26.61	26.31	r_down	
-BK	20130104	26.31	27.01	r_up	
-BK	20130107	27.01	26.62	r_down	
-BK	20130108	26.62	26.25	r_down	2013:1
-BK	20130109	26.25	26.34	r_up	's:2
-BK	20130110	26.34	26.56	r_up	n't:2
-BK	20130111	26.56	26.51	r_down	
-BK	20130114	26.51	26.45	r_down	
-BK	20130115	26.45	26.51	r_up	
-BK	20130116	26.51	25.77	r_down	's:1 signal:1 futures:1 better:1 report:1 caution:1 earnings:1 banks:1 lesson:1 bigger:1
-BK	20130117	25.77	26.17	r_up	rise:1 results:1 scrutinized:1
-BK	20130118	26.17	26.26	r_up	
-BK	20130122	26.26	26.71	r_up	
-BK	20130123	26.71	26.66	r_down	
-BK	20130124	26.66	26.86	r_up	
-BK	20130125	26.86	26.93	r_up	
-BK	20130128	26.93	26.94	r_up	
-BK	20130129	26.94	27.13	r_up	
-BK	20130130	27.13	27.16	r_up	
-BK	20130131	27.16	27.01	r_down	
-BK	20130201	27.01	27.2	r_up	mutual:1 buy:1 funds:1 correction:1 after:1 next:1 7:1
-BK	20130204	27.2	27.04	r_down	11:1 mutual:1 crowd:1 funds:1 should:1 7:1
-BK	20130205	27.04	27.24	r_up	
-BK	20130206	27.24	27.5	r_up	
-BK	20130207	27.5	27.66	r_up	
-BK	20130208	27.66	27.75	r_up	
-BK	20130211	27.75	27.78	r_up	
-BK	20130212	27.78	27.75	r_down	
-BK	20130213	27.75	28.02	r_up	
-BK	20130214	28.02	27.95	r_down	's:1
-BK	20130215	27.95	27.84	r_down	
-BK	20130219	27.84	28.09	r_up	
-BK	20130220	28.09	27.71	r_down	
-BK	20130221	27.71	27.17	r_down	
-BK	20130222	27.17	27.48	r_up	
-BK	20130225	27.48	26.68	r_down	
-BK	20130226	26.68	26.92	r_up	281:1 $:1
-BK	20130227	26.92	27.25	r_up	
-BK	20130228	27.25	26.99	r_down	
-BK	20130301	26.99	27.05	r_up	mortgages:1 return:1
-BK	20130304	27.05	27.43	r_up	
-BK	20130305	27.43	27.69	r_up	
-BK	20130306	27.69	27.6	r_down	
-BK	20130307	27.6	27.86	r_up	stress:2 below:1 standard:1 only:1 tests:1 test:1 next:1 crisis:1 bank:1
-BK	20130308	27.86	28.37	r_up	's:1
-BK	20130311	28.37	28.48	r_up	
-BK	20130312	28.48	28.46	r_down	
-BK	20130313	28.46	28.71	r_up	's:1
-BK	20130314	28.71	28.83	r_up	's:1
-BK	20130315	28.83	28.69	r_down	's:3
-BK	20130318	28.69	28.21	r_down	
-BK	20130319	28.21	28.06	r_down	
-BK	20130320	28.06	28.11	r_up	
-BK	20130321	28.11	27.7	r_down	banks:1 10:1 homeowners:1 foreclosing:1 most:1
-BK	20130322	27.7	28.12	r_up	
-BK	20130325	28.12	28.04	r_down	
-BK	20130326	28.04	28.16	r_up	
-BK	20130327	28.16	27.75	r_down	
-BK	20130328	27.75	27.84	r_up	2013:1 's:1 but:1 500:1
-BK	20130401	27.84	27.72	r_down	
-BK	20130402	27.72	27.97	r_up	
-BK	20130403	27.97	27.28	r_down	
-BK	20130404	27.28	27.32	r_up	
-BK	20130405	27.32	27.21	r_down	
-BK	20130408	27.21	27.35	r_up	
-BK	20130409	27.35	27.56	r_up	
-BK	20130410	27.56	28.47	r_up	
-BK	20130411	28.47	28.5	r_up	
-BK	20130412	28.5	28.3	r_down	
-BK	20130415	28.3	27.18	r_down	
-BK	20130416	27.18	27.61	r_up	
-BK	20130417	27.61	27.04	r_down	ends:1 hit:1 15-month:1 movers:1 low:1 disappoint:1 worries:1 close:1 stocks:1 earnings:2
-BK	20130418	27.04	26.56	r_down	$:1
-BK	20130419	26.56	26.84	r_up	
-BK	20130422	26.84	27.0	r_up	
-BK	20130423	27.0	27.39	r_up	
-BK	20130424	27.39	27.7	r_up	
-BK	20130425	27.7	27.78	r_up	
-BK	20130426	27.78	27.89	r_up	
-BK	20130429	27.89	28.08	r_up	
-BK	20130430	28.08	28.22	r_up	
-BK	20130501	28.22	27.7	r_down	
-BK	20130502	27.7	27.94	r_up	
-BK	20130503	27.94	28.38	r_up	
-BK	20130506	28.38	28.2	r_down	
-BK	20130507	28.2	28.41	r_up	
-BK	20130508	28.41	28.39	r_down	
-BK	20130509	28.39	28.18	r_down	
-BK	20130510	28.18	28.29	r_up	
-BK	20130513	28.29	28.82	r_up	
-BK	20130514	28.82	29.95	r_up	's:1
-BK	20130515	29.95	30.21	r_up	
-BK	20130516	30.21	29.86	r_down	
-BK	20130517	29.86	30.44	r_up	
-BK	20130520	30.44	30.41	r_down	
-BK	20130521	30.41	30.09	r_down	
-BK	20130522	30.09	29.78	r_down	
-BK	20130523	29.78	29.64	r_down	
-BK	20130524	29.64	29.51	r_down	
-BK	20130528	29.51	30.09	r_up	
-BK	20130529	30.09	30.09	r_up	's:1
-BK	20130530	30.09	30.55	r_up	stands:1
-BK	20130531	30.55	30.06	r_down	
-BK	20130603	30.06	30.21	r_up	
-BK	20130604	30.21	29.9	r_down	8.5:1 $:1 beware:1 but:1 n't:1 banks:1 buying:1
-BK	20130605	29.9	29.01	r_down	
-BK	20130606	29.01	29.51	r_up	
-BK	20130607	29.51	29.85	r_up	n't:1
-BK	20130610	29.85	30.16	r_up	
-BK	20130611	30.16	29.49	r_down	
-BK	20130612	29.49	29.06	r_down	
-BK	20130613	29.06	29.48	r_up	
-BK	20130614	29.48	29.13	r_down	
-BK	20130617	29.13	29.37	r_up	
-BK	20130618	29.37	29.77	r_up	
-BK	20130619	29.77	29.65	r_down	
-BK	20130620	29.65	28.97	r_down	banks:1 party:1 over:1
-BK	20130621	28.97	28.45	r_down	
+BK	20140501	33.7	33.8	r_up	
+BK	20140502	33.8	34.2	r_up	sell:1 agreed:1 has:1 its:1 stake:1
+BK	20140505	34.2	34.1	r_down	
+BK	20140506	34.1	33.4	r_down	
+BK	20140507	33.4	34.1	r_up	
+BK	20140508	34.1	34.3	r_up	
+BK	20140509	34.3	33.9	r_down	's:1 finance:1 beat:1 funds:1 private:1 morning:1 banks:1 including:1 equity:1 biggest:1 news:1 hedge:1 your:1
+BK	20140512	33.9	34.6	r_up	n't:2 ``:1 '':1 's:1 mortgage:1 did:2 after:1 problems:1 admits:1 reviews:1 see:1 book:1 coming:1 grasp:1 crisis:1 he:1
+BK	20140513	34.6	34.7	r_up	
+BK	20140514	34.7	34.0	r_down	
+BK	20140515	34.0	33.5	r_down	
+BK	20140516	33.5	33.8	r_up	
+BK	20140519	33.8	33.9	r_up	
+BK	20140520	33.9	33.9	r_up	exploring:1 confirmed:1 quarter:1 business:1 severance:1 sale:1 current:1 charge:1 potential:1 take:1 trust:1 corporate:1 its:1
+BK	20140521	33.9	34.1	r_up	
+BK	20140522	34.1	34.4	r_up	600:2 deal:2 agreed:1 soon:1 according:1 sources:1 value:1 registration:1 led:1 its:4 declined:1 size:1 sell:3 securities:1 management:1 based:1 $:5 49:3 stake:2 1:1 capital:1 has:1 2010:1 500:2 told:1 disclose:1 200:1 selling:1 's:2 may:1 familiar:1 company:1 million:5 fund:1 said:1 plan:1 yuan:1 investor:1 between:1 joint:1 --:1 32:1 could:1 headquarters:2 submitted:1 regulator:2 person:3 venture:2 situation:1 tower:1 approve:1 fetch:1
+BK	20140523	34.4	34.4	r_up	smoother:1 slower:1 longer:1 investors:1 no:1 may:1 ride:1 offer:1 turbocharged:1 banks:1 trust:1 speed:1
+BK	20140527	34.4	34.5	r_up	popularity:1 financial:1 increasingly:1 certain:1 some:1 competitive:1 due:1 country:1 amid:1 say:1 manages:1 have:1 changing:1 portfolio:1 investment:1 market:1 current:1 said:1 $:2 49:1 advisers:1 stake:1 charge:1 its:2 better:1 returns:1 bank:1 way:1 becomes:1 joint-venture:1 firms:1 landscape:1 boost:1 selling:1 stock-exchange:1 funds:2 company:1 million:1 but:1 fund:1 errors:1 they:2 regulatory:2 wealth:1 100:2 fad:1 log:1 regarding:1 made:1 showed:1 --:1 administrative:1 counter:1 while:1 after-tax:1 management:2 diversify:1 quarter:1 filing:2 risky:1
+BK	20140528	34.5	34.2	r_down	said:1 $:2 made:1 million:1 due:1 current:1 charge:1 errors:1 after-tax:1 100:2 quarter:1 administrative:1 bank:1 log:1
+BK	20140529	34.2	34.4	r_up	
+BK	20140530	34.4	34.4	r_up	
+BK	20140602	34.4	34.5	r_up	
+BK	20140603	34.5	34.4	r_down	
+BK	20140604	34.4	34.4	r_up	
+BK	20140605	34.4	34.8	r_up	conference:1 integrating:1 companies:2 existing:1 challenges:1 their:1 other:1 software:2
+BK	20140606	34.8	35.0	r_up	
+BK	20140609	35.0	35.2	r_up	
+BK	20140610	35.2	35.3	r_up	
+BK	20140611	35.3	35.2	r_down	
+BK	20140612	35.2	35.1	r_down	even:1 needs:1 since:1 's:1 returned:1 ahead:1 though:1 sense:1 global:1 economic:1 calm:1 reforms:1 press:1 financial:1 has:1 crisis:1 said:1
+BK	20140613	35.1	35.2	r_up	
+BK	20140616	35.2	34.7	r_down	
+BK	20140617	34.7	35.4	r_up	
+BK	20140618	35.4	35.7	r_up	investors:1 requiring:1 court:1 residential:1 hedge-fund:1 their:1 trustees:1 units:1 bought:1 maneuver:1 sued:1 led:1 bonds:1 mortgage-backed:1 appears:1 behalf:1 roles:1 country:1 securities:1 ruling:1 pay:1 creditors:1
+BK	20140619	35.7	35.5	r_down	
+BK	20140620	35.5	35.8	r_up	
+BK	20140623	35.8	35.9	r_up	
+BK	20140624	35.9	35.8	r_down	
+BK	20140625	35.8	36.0	r_up	prime:1 collateral:1 combines:1 group:1 plans:1 global:2 units:1 unveiled:1 services:2 new:1 include:1 markets:2 its:1
+BK	20140626	36.0	35.7	r_down	decide:2 deal:1 move:1 private:2 including:1 investors:3 need:2 settlement:4 its:1 unit:1 sell:1 securities:2 said:2 proceeding:1 $:3 would:1 quickly:1 trustees:2 asset:1 announced:1 's:6 reaching:1 company:1 management:1 should:2 they:4 1.13:1 mortgage:2 pact:2 like:1 extension:2 whether:2 involved:2 headquarters:1 n't:1 near:1 18:1 approve:2
+BK	20140627	35.7	36.0	r_up	bondholders:1 money:1 hearing:1 held:1 attempts:1 lawyer:2 orders:1 contempt:1 said:4 court:2 $:1 would:1 euros:1 federal:1 pay:2 bonds:1 anyone:1 's:2 government:1 million:1 aware:1 judge:1 debt:1 payment:2 both:1 account:1 attempt:1 these:1 country:1 dollars:1 remains:1 barred:1 illegal:1 holders:2
+BK	20140630	36.0	37.3	r_up	all:1 says:1 move:1 sleepy:1 years:1 businesses:1 its:1 upgrade:2 $:5 rose:1 had:2 has:6 back-office:1 do:1 them:1 gains:1 get:1 familiar:2 rise:2 nearly:1 world:2 bit:1 investor:2 discuss:2 bank:4 1.05:5 large:1 banking:1 higher:2 old:1 leaders:1 engaging:1 second:1 discussions:1 led:2 investment:2 2.5:2 out:1 even:1 closes:1 said:3 avoid:1 yet:1 spokesman:1 3:1 activist:3 announced:1 bought:1 we:1 run:1 creating:2 news:1 strong:1 quarter:2 rare:1 according:2 action:1 into:1 regulated:1 foray:1 financial:1 trust:1 market:1 management:2 takes:1 forward:1 marginally:1 more:2 firm:2 ``:1 but:2 fund:2 analyst:1 '':1 valued:4 look:1 value:2 worth:1 n't:2 matter:2 while:1 sour:1 following:1 wants:1 investors:2 respected:1 have:1 our:1 moves:1 any:2 end:2 built:3 stake:7 ideas:2 note:1 stock:1 's:7 plans:1 reach:1 shareholder:2 72:1 such:1 stocks:2 billion:5 purchase:1 lower:1 person:3 banks:1 position:2 latest:1
+BK	20140701	37.3	37.7	r_up	major:1 right:1 consider:1 private:1 including:1 year:1 your:1 overhaul:1 pay:1 had:1 analyst:1 only:1 interest:1 equity:1 biggest:1 limbo:1 earlier:1 's:2 finance:1 sitting:1 beat:1 funds:1 pushing:1 news:1 hedge:1 now:1 payment:1 bank:2 changes:1 cash:1 urged:1 morning:1 n't:1 banks:1 voice:1 loud:1
+BK	20140702	37.7	37.4	r_down	
+BK	20140703	37.4	37.7	r_up	
+BK	20140707	37.7	37.5	r_down	
+BK	20140708	37.5	37.4	r_down	needs:1 's:1 could:1 mediator:1 default:1 country:1 over:1 debts:1 end:1 dispute:1 see:1 solve:1 time:1 creditor:1 told:1 unpaid:1 more:1
+BK	20140709	37.4	37.4	r_up	merit:1 top:1 have:1 although:1 pick:1
+BK	20140710	37.4	37.5	r_up	
+BK	20140711	37.5	37.4	r_down	right:1 threats:1 just:1 getting:1 involved:1 dispute:1 everyone:1 debt:1 lawsuit:1 left:1
+BK	20140714	37.4	37.4	r_up	litigation:1 good:1 ordered:1 especially:1 may:1 judge:1 trigger:1 lag:1 not:1 cascade:1 continue:1 which:1 new:1 banks:1 news:1 broader:1 stocks:1 market:1
+BK	20140715	37.4	38.0	r_up	
+BK	20140716	38.0	37.9	r_down	conference:1 do:1 deal:1 workers:1 work:1 reach:1 n't:1 unions:1 planning:1 sleep:1 rooms:1 they:1 scores:1 floors:1 home:1 if:1 worry:1 plan:1
+BK	20140717	37.9	37.8	r_down	respond:1 raised:1 bondholders:1 's:1 hearing:1 concerns:1 trustee:1 hold:1 bank:1 recent:1
+BK	20140718	37.8	38.2	r_up	resiliency:1 revenue:1 softer:1 trading:1 been:1 have:1 year:1 trust:1 arm:1 n't:1 said:1 profit:1 tensions:1 one-time:1 its:2 much:2 has:1 markets:1 geopolitical:1 reported:1 fee:1 along:1 second-quarter:1 charges:1 32:1 keep:1 large:1 decided:1 impacted:1 cracked:1 corporate:1 fell:1
+BK	20140721	38.2	38.2	r_up	
+BK	20140722	38.2	38.8	r_up	challenging:1 investors:1 mediator:1 year:1 hearing:2 parties:1 lawyers:1 trust:1 settlement:1 would:1 grant:1 revenue:1 payments:1 increase:1 their:2 interest:1 law:1 more:1 's:2 bonds:1 after:1 reach:1 negotiate:1 said:1 decide:1 expenses:1 disappointed:1 than:1 bank:1 he:1 both:1 faster:1 did:1 warned:1 later:1 request:1 n't:1 whether:1 can:1 time:2 meet:1 holders:1 receive:1 creditors:1
+BK	20140723	38.8	38.9	r_up	
+BK	20140724	38.9	39.6	r_up	
+BK	20140725	39.6	39.4	r_down	
+BK	20140728	39.4	39.4	r_up	week:1 foreign:1 13:1 debt:1 could:1 showdown:1 head:1 its:1 second:1 comes:1 defaults:1 time:1 years:1 history:1 make:1 creditors:1 if:1
+BK	20140729	39.4	39.2	r_down	
+BK	20140730	39.2	39.8	r_up	prospect:1 bondholders:1 restructure:1 tumble:1 money:1 over:1 deadline:1 unlikely:1 battle:1 happen:1 primer:1 trip:1 faces:1 $:1 million:1 long:1 debate:1 their:1 appears:1 other:1 poised:1 troubled:1 might:1 into:1 500:1 more:1 after:1 's:1 sparked:1 next:1 debt:2 than:1 case:1 has:1 default:1 up:1 nations:1 whether:1 payments:1 sets:1 efforts:1 receive:1 creditors:1
+BK	20140731	39.8	39.0	r_down	bondholders:6 pays:2 hearing:1 certain:2 judge:1 second:1 allowed:2 talks:1 's:1 nation:1 trust:2 its:4 said:4 court:2 transfer:2 brink:1 late:1 money:6 has:4 until:2 scheduled:1 notice:1 return:2 a.m:1 after:2 continuing:2 leaving:1 not:2 hold:1 bank:2 ruled:2 11:1 received:2 13:1 --:1 keep:2 n't:2 default:1 ruling:1 pay:2 years:1 order:2 creditors:2
+BK	20140801	39.0	38.7	r_down	billion:1 's:1 $:1 pointing:1 government:1 default:1 could:1 hope:1 selloff:1 29:1 brought:1 held:1 stock-market:1 finger:1 investors:1 reached:1 debt:1 resolution:1 crisis:1 creditors:1 out:1
+BK	20140804	38.7	39.2	r_up	
+BK	20140805	39.2	38.9	r_down	ordered:1 rebuke:1 investors:1 private:1 n't:1 economic:1 have:2 settlement:1 decide:1 again:1 said:1 $:1 another:1 causing:1 biggest:1 damaging:1 billion:1 them:1 's:2 collapse:1 nation:1 regulators:1 they:2 sweeping:1 1.13:1 11:1 extension:1 whether:1 involved:1 deal:1 try:1 without:1 can:1 banks:1 mortgage-securities:1 approve:1 asked:1
+BK	20140806	38.9	39.3	r_up	still:1 opinions:1 force:1 units:1 tough:1 they:3 investors:1 advisors:1 ``:1 satisfied:1 private:1 '':1 not:2 have:1 relates:1 fail:1 financial:1 settlement:3 decide:1 crisis:1 if:1 living:2 said:1 $:1 expert:1 few:1 banks’:1 wills:2 waiting:1 approve:1 their:1 another:1 other:1 notice:1 trustees:2 which:1 biggest:1 sparking:1 include:1 68:1 more:1 them:1 's:2 ability:1 get:1 may:1 big:1 each:1 agreement:1 pressure:1 regulators:2 designed:1 background:1 put:1 1.13:1 bank:1 improve:1 billion:1 extension:1 whether:1 involved:2 proposed:1 months:1 up:1 deal:1 wrapped:1 divestiture:1 without:1 allow:1 were:1 banks:1 trusts:1 mortgage-securities:2 changes:1 asked:1
+BK	20140807	39.3	38.4	r_down	high-stakes:1 over:1 some:1 bring:1 battle:1 still:1 its:1 giant:1 debts:1 legal:1 0:1 too:1 between:1 has:1 wants:1 big:1 nation:1 hear:1 they:1 lawsuit:1 11:1 against:1 think:1 unpaid:1 admit:1 banks:1 fail:1 asked:1 creditors:1
+BK	20140808	38.4	38.5	r_up	directed:1 ``:1 hold:1 false:1 threatening:1 obligations:1 country:2 court:1 stop:1 '':1 misleading:1 statements:2 continued:1 making:1 debt:1 's:1 contempt:1 if:1
+BK	20140811	38.5	38.4	r_down	
+BK	20140812	38.4	38.4	r_up	
+BK	20140813	38.4	38.4	r_up	mutual:1 broad:1 examination:1 funds:1 alternative:1 has:1 launched:1
+BK	20140814	38.4	38.2	r_down	
+BK	20140815	38.2	38.2	r_up	
+BK	20140818	38.2	38.5	r_up	
+BK	20140819	38.5	38.5	r_up	
+BK	20140820	38.5	38.7	r_up	bondholders:1 financial:1 moved:1 month:1 creditor:1 led:1 seek:1 its:3 said:1 court:2 would:1 pay:1 make:1 administration:1 exit:1 swap:1 instead:1 proposal:1 has:1 markets:1 congressional:1 dispute:1 's:1 offering:1 bonds:1 some:1 after:2 met:1 sidestepping:1 let:1 courts:1 international:1 approval:1 dwindling:1 last:1 her:1 default:2 country:1 options:1 debt:1 payments:1 night:1 skepticism:1 latest:1 order:2 bond:1
+BK	20140821	38.7	39.1	r_up	debt:1 's:2 carried:1 bonds:1 illegal:1 out:1 hearing:1 said:1 swap:1 not:1 proposal:1 law:2 local:1 its:1 can:1
+BK	20140822	39.1	39.1	r_up	
+BK	20140825	39.1	39.4	r_up	investors:1 group:1 $:1 seeking:1 access:1 holding:1 suit:1 bonds:1 has:1 's:1 interest:1 government:1 funds:1 nation:1 gain:1 they:1 filed:1 hedge:1 bank:1 billion:2 against:1 payments:2 charged:1 bond:1
+BK	20140826	39.4	39.3	r_down	operations:1 bondholders:1 office:1 global:1 some:1 divestitures:1 likely:1 accelerate:1 have:1 its:1 has:1 local:1 's:2 permission:1 small:1 representative:1 analyst:1 revoked:1 enemy:1 subsidiaries:1 especially:1 according:1 foreign:1 common:1 banks:1 found:1 operate:1
+BK	20140827	39.3	39.1	r_down	firm:1 enemy:1 operate:1 central:1 office:1 woes:1 country:1 over:1 filed:1 while:1 against:1 revokes:1 other:1 authorization:1 have:1 funds:1 hedge:1 latest:1 lawsuit:1 bank:1 bond:1
+BK	20140828	39.1	39.0	r_down	relationships:1 city:1 shed:1 ultimatum:1 's:2 venture:1 ahead:1 web:1 big:1 six:1 counterparty:1 launched:1 council:1 light:1 banks:1 new:1 has:1 issues:1 more:1
+BK	20140829	39.0	39.1	r_up	saying:1 's:1 no:1 had:2 been:1 nation:1 victims:1 cyberattack:1 incident:1 indication:1 they:2 largest:1 banks:1 hit:1 themselves:1 similar:1
+BK	20140902	39.1	39.6	r_up	
+BK	20140903	39.6	39.5	r_down	
+BK	20140904	39.5	39.4	r_down	all:1 wealth-management:1 into:1 back:1 one:1 year:1 market:2 aim:1 $:1 service:1 1:1 other:1 rates:1 low:1 interest:1 brokerages:1 biggest:1 new:2 week:2 's:3 far:1 big:1 sold:1 stripes:1 direct:1 debt:1 divisions:1 busiest:1 companies:1 borrow:1 deals:1 so:1 making:1 flooding:1 taking:1 bond:2
+BK	20140905	39.4	39.4	r_up	
+BK	20140908	39.4	39.4	r_up	operations:1 named:1 retired:1 reasons:1 executive:2 private:1 trust:1 technology:1 said:1 due:1 late:1 health:1 board:3 equity:1 has:1 firm:1 's:4 includes:1 background:1 bank:1 vice:1 positions:1 wsj:1 joined:1
+BK	20140909	39.4	38.7	r_down	
+BK	20140910	38.7	39.1	r_up	financial:2 parties:1 moves:2 support:2 system:2 new:1 shrink:1 risk:2 big:2 pose:2 regulators:2 signaling:2 recent:2 both:1 --:1 impose:2 lessen:2 continue:2 pressed:2 banks:2 efforts:2 constraints:2
+BK	20140911	39.1	39.3	r_up	has:1 documents:1 's:2 interest:1 payment:1 over:1 30:1 hand:1 n't:1 fund:1 does:1 have:1 attempt:1 part:1 next:1 hedge:1 block:1 ruled:1
+BK	20140912	39.3	39.9	r_up	
+BK	20140915	39.9	39.9	r_up	assets:1 list:1 banks:1 place:1 biggest:1 5:1 has:1 fifth:1
+BK	20140916	39.9	40.1	r_up	include:1
+BK	20140917	40.1	40.2	r_up	
+BK	20140918	40.2	40.2	r_up	
+BK	20140919	40.2	39.6	r_down	
+BK	20140922	39.6	39.3	r_down	
+BK	20140923	39.3	38.9	r_down	headache:1 trust:1 salvo:1 into:1 turned:1 resign:1 its:1 trustee:1 has:2 asked:1 bank:1 latest:1
+BK	20140924	38.9	39.2	r_up	deal:1 startup:1 price:1 trading:1 7.4:1 seen:1 alternative:1 group:1 service:1 rose:1 initial:1 traders:1 their:1 lower-than-expected:1 public:1 buy:1 's:1 offering:1 company:1 after:1 day:1 near:1 messaging:2 first:1
+BK	20140925	39.2	38.6	r_down	buy:1 financial:1 instant-messaging:1 deal:1 may:1 bid:1 startup:1 group:1 service:1 take:1 chat:1 announce:1 popular:1 led:1 firms:1 's:1 trader:1
+BK	20140926	38.6	38.9	r_up	
+BK	20140929	38.9	38.6	r_down	declared:1 court:1 government:1 continues:1 battle:1 creditors:1 holding:1 judge:1 bonds:1 its:2 contempt:1
+BK	20140930	38.6	38.7	r_up	such:1 interest:1 's:2 $:2 leading:1 equivalent:1 million:1 sidestep:1 nation:1 bondholders:1 payments:2 another:1 sets:1 effort:1 court:1 order:1 its:1 precedent:1 latest:1
+BK	20141001	38.7	38.2	r_down	operations:1 sales:1 competitive:1 regulatory:1 trading:1 close:1 's:1 open:1 its:1 landscape:1 looking:1 marking:1 said:1 would:1 traders:1 their:2 way:1 online:1 biggest:1 new:3 firms:1 bought:1 financial-services:1 instant-messaging:1 business:2 offer:1 company:3 formed:1 search:1 tries:1 streamline:1 groups:1 services:1 world:1 aiming:1 continued:1 change:1 improve:1 chapter:1 training:1 programs:1 companies:1 derivatives:1 courses:1 remain:1 massive:1 model:1 starting:1 software:1
+BK	20141002	38.2	38.2	r_up	financial-services:1 's:1 instant:1 company:2 formed:1 aims:1 traders:1 way:1 new:1 biggest:1 world:1 firms:1 technology:1 change:1 bought:1
+BK	20141003	38.2	38.7	r_up	information:1 customers:1 said:1 summer:1 cybersecurity:1 played:1 detected:1 attack:2 contact:1 compromised:1 response:1 millions:1
+BK	20141006	38.7	38.7	r_up	
+BK	20141007	38.7	37.8	r_down	
+BK	20141008	37.8	38.5	r_up	customer:1 information:1 illegally:1 said:1 have:1 insurer:1 agreed:1 sell:1 been:1 server:1 asset-management:1 holding:1 subsidiary:1 week:1
+BK	20141009	38.5	37.3	r_down	
+BK	20141010	37.3	36.8	r_down	
