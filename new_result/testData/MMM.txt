@@ -1,0 +1,114 @@
+MMM	20140501	137.4	139.1	r_up	
+MMM	20140502	139.1	138.4	r_down	
+MMM	20140505	138.4	138.9	r_up	
+MMM	20140506	138.9	137.6	r_down	
+MMM	20140507	137.6	139.4	r_up	
+MMM	20140508	139.4	139.1	r_down	
+MMM	20140509	139.1	139.6	r_up	
+MMM	20140512	139.6	141.1	r_up	
+MMM	20140513	141.1	140.7	r_down	
+MMM	20140514	140.7	139.9	r_down	
+MMM	20140515	139.9	139.2	r_down	
+MMM	20140516	139.2	139.4	r_up	
+MMM	20140519	139.4	139.9	r_up	
+MMM	20140520	139.9	138.5	r_down	
+MMM	20140521	138.5	139.8	r_up	
+MMM	20140522	139.8	139.4	r_down	
+MMM	20140523	139.4	140.3	r_up	
+MMM	20140527	140.3	140.6	r_up	
+MMM	20140528	140.6	140.5	r_down	
+MMM	20140529	140.5	141.5	r_up	
+MMM	20140530	141.5	141.7	r_up	
+MMM	20140602	141.7	141.4	r_down	case:1 respond:1 skeptics:1 already:1 's:1 they:1 renaissance:1 way:1 under:1 argue:1
+MMM	20140603	141.4	142.0	r_up	
+MMM	20140604	142.0	141.4	r_down	
+MMM	20140605	141.4	142.8	r_up	
+MMM	20140606	142.8	143.7	r_up	
+MMM	20140609	143.7	144.4	r_up	future:3 names:4
+MMM	20140610	144.4	144.1	r_down	named:3 industrial:2 financial:7 outstanding:2 proven:2 2nd:1 past:2 serving:2 accounting:2 worked:2 '':2 27:2 chief:7 same:3 its:5 track:2 role:2 take:3 strong:2 new:3 has:4 leader:2 ``:4 recently:2 finance:2 very:2 company:3 three:2 conglomerate:2 controller:2 said:2 suited:2 post:3 years:4 respected:2 success:2 --:2 record:2 departs:3 officer:7 team:2 release:2 corporate:2
+MMM	20140611	144.1	143.5	r_down	
+MMM	20140612	143.5	142.2	r_down	
+MMM	20140613	142.2	142.5	r_up	
+MMM	20140616	142.5	142.4	r_down	
+MMM	20140617	142.4	142.8	r_up	
+MMM	20140618	142.8	143.4	r_up	
+MMM	20140619	143.4	143.6	r_up	
+MMM	20140620	143.6	144.3	r_up	
+MMM	20140623	144.3	143.2	r_down	
+MMM	20140624	143.2	142.2	r_down	
+MMM	20140625	142.2	142.8	r_up	claim:1 conventional:1 just:1 house:1 brushes:1 fancy:1 water:1 their:1 chemical:1 products:1 can:1 clean:1 high-tech:1 tools:1 cleaning:1
+MMM	20140626	142.8	142.8	r_up	
+MMM	20140627	142.8	142.8	r_up	
+MMM	20140630	142.8	142.3	r_down	
+MMM	20140701	142.3	143.7	r_up	
+MMM	20140702	143.7	144.3	r_up	
+MMM	20140703	144.3	144.5	r_up	's:1 latest:1 high:1 record:1 accounted:1 above:1 half:1 push:1 new:1 stocks:1 17000:1 than:1 more:1
+MMM	20140707	144.5	144.0	r_down	
+MMM	20140708	144.0	143.7	r_down	
+MMM	20140709	143.7	143.8	r_up	
+MMM	20140710	143.8	143.0	r_down	
+MMM	20140711	143.0	143.4	r_up	
+MMM	20140714	143.4	144.1	r_up	
+MMM	20140715	144.1	144.2	r_up	
+MMM	20140716	144.2	145.3	r_up	25:1 buy:1 's:1 $:1 would:1 producer:1 million:1 chemical:1 said:1 tape:1 interest:1 making:1 885:1 unit:1
+MMM	20140717	145.3	142.6	r_down	
+MMM	20140718	142.6	143.9	r_up	
+MMM	20140721	143.9	143.4	r_down	
+MMM	20140722	143.4	144.2	r_up	
+MMM	20140723	144.2	143.8	r_down	
+MMM	20140724	143.8	144.2	r_up	saying:1 results:1 quarters:1 switches:1 session:2 years:1 its:2 giant:1 thank:1 surprises:1 advisories:1 premarket:1 quarterly:1 first:1 victims:1 bubbles:1 trade:2 countries:1 drop:1 companies:3 recalls:1 higher:1 better-than-expected:1 related:1 second:1 actively:2 trading:1 80:1 said:1 profit:3 shares:2 increase:1 net:1 can:1 reported:2 key:1 strong:1 $:1 roundup:1 quarter:2 reports:1 products:1 rose:1 pollution:1 6:1 market:1 networking:1 three:1 start:1 vehicle:1 expected:2 partly:1 season:1 surges:1 1.9:1 second-quarter:2 developing:1 car:1 up:1 record:3 compensation:1 future:1 ignition:1 growing:1 investors:1 sales:1 hit:1 linked:1 defective:1 5.8:1 fears:1 other:1 earnings:4 income:1 stock:1 's:3 highs:1 social:1 masks:1 driven:1 fueled:1 fell:1 plan:1 charges:1 stronger:1 face:1 push:1 accidents:1 corporate:1 latest:2
+MMM	20140725	144.2	144.2	r_up	
+MMM	20140728	144.2	144.6	r_up	billion:1 adding:1 $:1 bandwagon:1 programs:1 big:1 jump:1 buyback:2 1:1 pile:1 activity:1 repurchase:1 new:1 corporate:1 announced:1 stock:1
+MMM	20140729	144.6	143.1	r_down	
+MMM	20140730	143.1	142.8	r_down	
+MMM	20140731	142.8	140.0	r_down	
+MMM	20140801	140.0	139.2	r_down	
+MMM	20140804	139.2	139.9	r_up	
+MMM	20140805	139.9	138.9	r_down	
+MMM	20140806	138.9	138.7	r_down	one:1 entry-level:1 cut:1 jobs:1 them:1 work:1 raised:1 new:1 graduates:1 n't:1 used:1 expecting:1 have:2 others:1 bar:1 firms:1 arrive:1 day:1
+MMM	20140807	138.7	138.3	r_down	
+MMM	20140808	138.3	140.0	r_up	
+MMM	20140811	140.0	139.7	r_down	
+MMM	20140812	139.7	140.0	r_up	
+MMM	20140813	140.0	140.9	r_up	
+MMM	20140814	140.9	141.5	r_up	
+MMM	20140815	141.5	141.0	r_down	
+MMM	20140818	141.0	143.2	r_up	
+MMM	20140819	143.2	143.4	r_up	
+MMM	20140820	143.4	144.6	r_up	
+MMM	20140821	144.6	144.5	r_down	
+MMM	20140822	144.5	144.1	r_down	
+MMM	20140825	144.1	144.7	r_up	
+MMM	20140826	144.7	144.6	r_down	
+MMM	20140827	144.6	143.9	r_down	
+MMM	20140828	143.9	143.9	r_up	
+MMM	20140829	143.9	144.0	r_up	
+MMM	20140902	144.0	144.2	r_up	
+MMM	20140903	144.2	143.8	r_down	
+MMM	20140904	143.8	143.6	r_down	
+MMM	20140905	143.6	144.2	r_up	
+MMM	20140908	144.2	144.8	r_up	among:1 bolts:1 form:1 manufacturers:1 pickups:1 make:1 vehicles:1 try:1 efficient:1 they:1 fuel:1 lighter:1 more:1
+MMM	20140909	144.8	144.4	r_down	
+MMM	20140910	144.4	144.6	r_up	
+MMM	20140911	144.6	144.3	r_down	
+MMM	20140912	144.3	143.9	r_down	
+MMM	20140915	143.9	144.4	r_up	
+MMM	20140916	144.4	144.8	r_up	
+MMM	20140917	144.8	145.3	r_up	
+MMM	20140918	145.3	146.8	r_up	
+MMM	20140919	146.8	146.6	r_down	
+MMM	20140922	146.6	145.7	r_down	
+MMM	20140923	145.7	144.3	r_down	
+MMM	20140924	144.3	144.8	r_up	
+MMM	20140925	144.8	142.4	r_down	
+MMM	20140926	142.4	142.4	r_up	
+MMM	20140929	142.4	142.1	r_down	
+MMM	20140930	142.1	141.6	r_down	
+MMM	20141001	141.6	139.1	r_down	
+MMM	20141002	139.1	138.6	r_down	
+MMM	20141003	138.6	140.1	r_up	
+MMM	20141006	140.1	140.3	r_up	
+MMM	20141007	140.3	137.6	r_down	giants:1 off:1 business:1 near-record:1 decision:1 breaking:1 lines:1 up:1 pace:1 spinning:1 split:1 themselves:1 corporate:1 comes:1
+MMM	20141008	137.6	141.4	r_up	
+MMM	20141009	141.4	138.6	r_down	
+MMM	20141010	138.6	133.8	r_down	

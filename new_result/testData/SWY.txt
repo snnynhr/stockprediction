@@ -1,0 +1,114 @@
+SWY	20140501	33.6	33.7	r_up	
+SWY	20140502	33.7	33.7	r_up	
+SWY	20140505	33.7	33.7	r_up	
+SWY	20140506	33.7	33.6	r_down	
+SWY	20140507	33.6	33.8	r_up	outlook:1 sales:1 down:1 its:1 market:1 $:1 six:1 shares:1 your:1 food:1 3:1 earnings:1 more:1 's:1 may:1 company:1 after:1 nearly:1 prices:1 than:1 billion:1 loss:1 organic:1 third:1 19:1 months:1 plunged:1 drive:1 value:1 time:1 reduced:1 gain:1
+SWY	20140508	33.8	33.8	r_up	
+SWY	20140509	33.8	33.8	r_up	
+SWY	20140512	33.8	33.9	r_up	
+SWY	20140513	33.9	33.9	r_up	
+SWY	20140514	33.9	33.9	r_up	
+SWY	20140515	33.9	33.8	r_down	
+SWY	20140516	33.8	33.9	r_up	
+SWY	20140519	33.9	33.8	r_down	
+SWY	20140520	33.8	33.8	r_up	
+SWY	20140521	33.8	33.9	r_up	
+SWY	20140522	33.9	33.8	r_down	
+SWY	20140523	33.8	33.7	r_down	
+SWY	20140527	33.7	33.7	r_up	
+SWY	20140528	33.7	33.7	r_up	
+SWY	20140529	33.7	33.7	r_up	all:2 asks:1 these:2 together:1 company:1 companies:2 great:1 valuable:1 worth:1 but:1 put:1 really:1 than:2 more:2
+SWY	20140530	33.7	33.8	r_up	
+SWY	20140602	33.8	33.8	r_up	
+SWY	20140603	33.8	33.8	r_up	
+SWY	20140604	33.8	33.8	r_up	'':2 cost:1 downside:1 jargon:1 writes:1 savings:1 going:1 performance:1 integrated:1 ``:2 mainstream:1 becomes:1 tool:1 dramatic:1 change:1 open-source:1 technical:1 companies:1 complexity:1 improvements:1 enterprise:1 adopting:1 software:1
+SWY	20140605	33.8	33.8	r_up	
+SWY	20140606	33.8	33.8	r_up	
+SWY	20140609	33.8	33.8	r_up	
+SWY	20140610	33.8	33.7	r_down	
+SWY	20140611	33.7	33.6	r_down	
+SWY	20140612	33.6	33.6	r_up	
+SWY	20140613	33.6	33.6	r_up	
+SWY	20140616	33.6	33.7	r_up	1.6:1 metropolitan:1 agreed:1 share:1 related:1 trade:2 session:2 close:1 operator:1 premium:1 settlement:1 shareholders:1 said:1 $:5 would:1 5.7:1 rose:2 shares:4 3:3 premarket:1 provider:1 expected:2 entered:1 has:1 pending:1 stock:1 buy:1 's:4 business:1 suit:1 supermarket:1 9.4:1 takeover:1 preliminary:1 footprint:1 expand:1 billion:2 12:2 companies:2 cash:1 deal:2 actively:2 values:1
+SWY	20140617	33.7	33.7	r_up	
+SWY	20140618	33.7	33.8	r_up	
+SWY	20140619	33.8	33.8	r_up	gaining:1 grocery:1 4.6:1 says:1 months:1 rose:1 better-than-expected:1 confidence:1 least:1 sales:1 15:1 quarterly:1 shoppers:1 stores:1 seem:1 economy:1 open:1 its:1 more:1
+SWY	20140620	33.8	33.7	r_down	
+SWY	20140623	33.7	33.6	r_down	
+SWY	20140624	33.6	33.7	r_up	
+SWY	20140625	33.7	33.8	r_up	
+SWY	20140626	33.8	33.9	r_up	underperforming:1 plant-based:1 hopes:1 close:1 stores:1 protein:1 its:1 said:1 network:1 few:1 too:1 you:1 store:1 more:1 we:1 watching:1 company:1 backed:1 stocks:1 eat:1 grocery:1 largely:1 50:2 burgers:1 're:1
+SWY	20140627	33.9	34.0	r_up	
+SWY	20140630	34.0	34.1	r_up	
+SWY	20140701	34.1	33.9	r_down	
+SWY	20140702	33.9	33.8	r_down	
+SWY	20140703	33.8	33.7	r_down	
+SWY	20140707	33.7	34.0	r_up	
+SWY	20140708	34.0	34.1	r_up	
+SWY	20140709	34.1	34.2	r_up	billion:2 last:1 $:2 holdings:1 double:1 sold:1 year:1 recorded:1 according:1 but:1 record:1 nearly:1 half:1 data:1 provider:1 first:1
+SWY	20140710	34.2	34.2	r_up	
+SWY	20140711	34.2	34.4	r_up	story:1 's:1 ahead:1 point:1 could:1 but:1 better:1 grocer:1 growth:1 entry:1 15:1
+SWY	20140714	34.4	34.3	r_down	
+SWY	20140715	34.3	34.2	r_down	
+SWY	20140716	34.2	34.4	r_up	biotech:1 leaders:1 just:1 globe:1 rate:1 close:1 speak:1 media:1 small-company:1 interest:1 policy:1 out:1 markets:1 economy:1 play:1 felt:1 's:1 around:1 attention:1 effects:1 stocks:1 bank:1 central:1 sway:1 social:1
+SWY	20140717	34.4	34.5	r_up	
+SWY	20140718	34.5	34.5	r_up	
+SWY	20140721	34.5	34.5	r_up	busy:1 warnings:1 these:1 confident:1 're:1 easy:1 miss:1 executives:1
+SWY	20140722	34.5	34.5	r_up	keeping:1 's:2 chain:1 into:2 related:1 looking:1 record:1 supermarket:1 theft:1 controlled:1 disclosed:1
+SWY	20140723	34.5	34.6	r_up	operations:1 snack:1 adjusted:1 revenue:1 results:1 trade:1 helped:1 full-year:1 session:1 year:1 its:3 4.7:1 said:1 missed:1 profit:1 rose:1 expectations:1 shares:1 also:1 beverage:1 earnings:2 premarket:1 expected:1 international:1 9.6:1 higher:1 experienced:1 's:2 increased:1 company:1 weak:1 sales:1 fell:2 second-quarter:2 $:1 wide:1 outlook:2 companies:1 actively:1 analysts:1 volumes:1 margin:1 reduced:1
+SWY	20140724	34.6	34.7	r_up	gains:1 chain:1 49:2 drop:1 sales:1 but:1 its:1 reported:1 vital:1 turnaround:1 earnings:1 quarterly:1 sharp:1 discount:1 effort:1 considers:1 posted:1
+SWY	20140725	34.7	34.6	r_down	
+SWY	20140728	34.6	34.5	r_down	
+SWY	20140729	34.5	34.5	r_up	
+SWY	20140730	34.5	34.5	r_up	
+SWY	20140731	34.5	34.2	r_down	
+SWY	20140801	34.2	34.2	r_up	needs:1 work:1 last:1 divide:1 study:1 suppliers:1 between:1 spent:1 up:1 their:1 have:1 settle:1 retailers:1 businessman:1 new:1 areas:1 's:2 across:1 decade:1 he:1
+SWY	20140804	34.2	34.1	r_down	
+SWY	20140805	34.1	34.1	r_up	
+SWY	20140806	34.1	34.3	r_up	
+SWY	20140807	34.3	34.3	r_up	
+SWY	20140808	34.3	34.2	r_down	
+SWY	20140811	34.2	34.4	r_up	
+SWY	20140812	34.4	34.1	r_down	
+SWY	20140813	34.1	34.3	r_up	
+SWY	20140814	34.3	34.4	r_up	
+SWY	20140815	34.4	34.3	r_down	stores:3 chain:2 liquor:1 stretched:1 have:1 affected:1 its:1 confirmed:1 also:1 attack:1 potential:1 breach:2 might:1 more:1 merchant:1 200:1 recently:1 around:1 big:1 sold:1 hundreds:1 incident:1 data:2 than:1 recent:1 grocery:1 country:1 months:1 roughly:1 against:1 1,000:1 investigating:2 other:1 latest:1
+SWY	20140818	34.3	34.3	r_up	
+SWY	20140819	34.3	34.5	r_up	
+SWY	20140820	34.5	34.4	r_down	process:1 say:1 have:1 cattle:1 inspections:1 out:1 documents:1 beef:1 two:1 been:1 scheme:1 government:1 carrying:1 devising:1 former:1 owners:1 meat:1 involved:1 employees:1 evade:1 massive:1 recall:1 charged:1
+SWY	20140821	34.4	34.3	r_down	
+SWY	20140822	34.3	34.3	r_up	giant:1 investors:1 roster:1 backing:1 startup:1 food:1 heavyweight:1 including:1 which:1 has:1
+SWY	20140825	34.3	34.3	r_up	
+SWY	20140826	34.3	34.4	r_up	
+SWY	20140827	34.4	34.4	r_up	
+SWY	20140828	34.4	34.5	r_up	
+SWY	20140829	34.5	34.5	r_up	
+SWY	20140902	34.5	34.6	r_up	
+SWY	20140903	34.6	34.6	r_up	
+SWY	20140904	34.6	34.4	r_down	
+SWY	20140905	34.4	34.4	r_up	grocery:1 trying:1 's:1 takes:1 cyberattacks:1 merger:1 challenge:1 against:1 wave:1 hitting:1 also:1 retailers:1 biggest:1 he:1 defend:1 history:1
+SWY	20140908	34.4	34.4	r_up	say:1 seats:1 relatively:1 facing:1 shareholders:1 said:1 giving:1 mounting:1 two:1 1:1 activist:1 board:1 more:1 's:1 company:1 little:1 pressure:1 shareholder:1 investor:1 than:1 large:1 analysts:1 stock:1
+SWY	20140909	34.4	34.3	r_down	
+SWY	20140910	34.3	34.3	r_up	
+SWY	20140911	34.3	34.3	r_up	
+SWY	20140912	34.3	34.2	r_down	
+SWY	20140915	34.2	34.2	r_up	
+SWY	20140916	34.2	34.4	r_up	
+SWY	20140917	34.4	34.3	r_down	
+SWY	20140918	34.3	34.3	r_up	grocery:1 12:2 sees:1 would:1 consumer:1 continues:1 retailer:1 sales:1 improving:1 said:1 growth:1 earnings:1 quarterly:1 dividend:1 post:1 strong:1 boost:1 its:1 confidence:1
+SWY	20140919	34.3	34.2	r_down	
+SWY	20140922	34.2	34.2	r_up	
+SWY	20140923	34.2	34.1	r_down	do:1 organic:1 don’t:1 programs:1 food:1 supply:1 steady:1 shares:1 expect:1 also:1 can:1 known:1 you:2 chemistry:1 local:1 options:1 connect:1
+SWY	20140924	34.1	34.3	r_up	
+SWY	20140925	34.3	34.2	r_down	wants:1 deliver:1 groceries:1 others:1 potentially:1 more:1
+SWY	20140926	34.2	34.3	r_up	
+SWY	20140929	34.3	34.3	r_up	
+SWY	20140930	34.3	34.3	r_up	
+SWY	20141001	34.3	34.1	r_down	
+SWY	20141002	34.1	34.2	r_up	
+SWY	20141003	34.2	34.3	r_up	
+SWY	20141006	34.3	34.3	r_up	
+SWY	20141007	34.3	34.1	r_down	
+SWY	20141008	34.1	34.2	r_up	again:1 all:1 repeats:1 they:1 hunting:1 bargain:1 dips:1 get:1 soon:1 should:1 start:1 buy:1 have:1 year:1 ready:1 bought:1 history:1
+SWY	20141009	34.2	34.0	r_down	
+SWY	20141010	34.0	33.8	r_down	

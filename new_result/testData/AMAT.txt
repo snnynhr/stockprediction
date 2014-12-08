@@ -1,0 +1,114 @@
+AMAT	20140501	18.8	18.7	r_down	
+AMAT	20140502	18.7	18.7	r_up	
+AMAT	20140505	18.7	18.7	r_up	most:1 could:1 industry:1 benefit:1 migration:1
+AMAT	20140506	18.7	18.6	r_down	
+AMAT	20140507	18.6	18.8	r_up	
+AMAT	20140508	18.8	19.1	r_up	
+AMAT	20140509	19.1	19.1	r_up	
+AMAT	20140512	19.1	19.2	r_up	overseas:1 changing:1 would:1 's:1 deal:1 just:1 offer:1 rival:1 bid:1 notable:1 cross-border:1 most:1 pursuing:1 benefits:1 tax:1 company:1 example:1
+AMAT	20140513	19.2	18.9	r_down	used:1 computer:1 just:1 get:1 things:1 make:1 than:1 semiconductor:1 materials:1 experts:1 key:1 shift:1 such:1 chips:1 excited:1 change:1 more:1
+AMAT	20140514	18.9	18.7	r_down	
+AMAT	20140515	18.7	18.5	r_down	disclose:1 exceed:1 least:1 within:1 half:1 manage:1 sales:1 month:1 session:1 gauge:1 numbers:1 have:1 rally:2 fear:1 click:2 market:2 previous:1 end:1 $:1 holdings:3 expectations:1 shares:1 permanent:1 quarterly:1 place:1 several:1 bought:1 firm:1 million:1 's:2 far:1 sold:1 after:2 here:2 hours:1 most:1 if:1 latest:2 report:1 100:1 one:1 than:1 structural:1 has:1 wonders:1 taken:1 changes:1 required:1 securities:2 more:1 so:1 retailers:1 after-hours:1 quarter:3 fallen:1 view:2
+AMAT	20140516	18.5	20.0	r_up	stores:1 chain:1 private-equity:1 agreed:1 move:2 trade:3 session:3 higher:3 ‘buy:1 its:4 whose:1 $:2 expectations:2 theme:1 has:1 momentum:1 increased:1 rebound:1 rise:1 watch:1 reversal:1 despite:1 month:1 falling:1 easily:1 excluding:1 companies:3 yields:1 each:1 quarter:1 late-day:1 6.2:1 everyone:1 long-running:1 past:1 see:2 actively:2 2.1:1 closes:1 said:2 gainers:1 opened:1 lead:1 profit:1 shares:3 unit:1 closed:1 new:1 newly:1 led:1 million:1 notable:1 active:1 strong:1 starts:1 climbed:1 credit:1 bond:1 criticism:1 among:1 revenue:1 period:1 such:1 market:2 dip’:2 takes:1 cares:1 housing:2 been:1 strategy:1 few:1 expected:3 upbeat:1 firm:1 fiscal:1 company:1 line:1 hold:1 second-quarter:1 jump:1 19:1 cash:1 optimism:1 near:1 growth:1 abrupt:1 investors:2 bigger-than-expected:1 sales:1 high:1 sudden:1 swung:1 gains:1 sell:1 end:2 also:1 earnings:1 struggling:1 several:1 stock:3 topping:1 's:2 after:2 improving:1 capacity:1 stocks:4 data:1 billion:1 futures:2 borrowing:1 edge:1 tech:1 mean:1 expands:1 came:1 latest:1
+AMAT	20140519	20.0	19.9	r_down	firm:1 chip-equipment:1 may:1 reductions:1 see:1 year:1 estimate:1
+AMAT	20140520	19.9	19.7	r_down	
+AMAT	20140521	19.7	19.9	r_up	
+AMAT	20140522	19.9	19.8	r_down	
+AMAT	20140523	19.8	19.9	r_up	
+AMAT	20140527	19.9	20.4	r_up	
+AMAT	20140528	20.4	20.4	r_up	
+AMAT	20140529	20.4	20.1	r_down	
+AMAT	20140530	20.1	20.1	r_up	
+AMAT	20140602	20.1	20.4	r_up	
+AMAT	20140603	20.4	21.3	r_up	
+AMAT	20140604	21.3	21.4	r_up	after:2 bid:1 sinks:2 offer:1 food:1 jumps:1 surges:1 up:1 results:1 while:1 suitor:1 quarterly:1 new:1 stepped:1 company:1 its:1
+AMAT	20140605	21.4	21.6	r_up	
+AMAT	20140606	21.6	21.7	r_up	
+AMAT	20140609	21.7	21.8	r_up	
+AMAT	20140610	21.8	21.7	r_down	
+AMAT	20140611	21.7	21.7	r_up	
+AMAT	20140612	21.7	21.6	r_down	
+AMAT	20140613	21.6	22.2	r_up	
+AMAT	20140616	22.2	22.2	r_up	billion:1 finish:1 's:1 $:1 deal:1 beat:1 line:1 maker:1 medical-device:1
+AMAT	20140617	22.2	22.3	r_up	
+AMAT	20140618	22.3	22.2	r_down	
+AMAT	20140619	22.2	22.3	r_up	
+AMAT	20140620	22.3	22.6	r_up	
+AMAT	20140623	22.6	22.8	r_up	
+AMAT	20140624	22.8	22.6	r_down	
+AMAT	20140625	22.6	22.4	r_down	
+AMAT	20140626	22.4	22.3	r_down	favored:1 seen:1
+AMAT	20140627	22.3	22.3	r_up	
+AMAT	20140630	22.3	22.4	r_up	
+AMAT	20140701	22.4	22.5	r_up	
+AMAT	20140702	22.5	22.6	r_up	
+AMAT	20140703	22.6	22.7	r_up	
+AMAT	20140707	22.7	22.8	r_up	chip:1 coming:1 tax:1 through:1 upgrades:1 fine:1 its:1 boosts:1 documents:1 their:1 merger:1 shares:2 equipment:1 print:1 importance:1 higher:1 mostly:1 may:1 some:1 price:1 rise:2 but:1 fall:2 not:1 stocks:1 come:1 lower:1 benefits:1 target:1 clear:1 30:1 deals:1 while:1 edge:1 can:1 overseas:1 loud:1 maker:1 executives:1
+AMAT	20140708	22.8	22.6	r_down	ca:1 sales:2 say:1 close:1 strong:2 merger:1 their:1 call:1 combination:1 after:1 but:1 falls:1 slides:1 know:1 they:2 downgrade:1 rises:1 analyst:1 movers:1 up:1 n't:1 while:1 plan:1
+AMAT	20140709	22.6	23.1	r_up	
+AMAT	20140710	23.1	22.7	r_down	
+AMAT	20140711	22.7	22.7	r_up	
+AMAT	20140714	22.7	22.9	r_up	
+AMAT	20140715	22.9	22.7	r_down	wants:1 '':1 ``:1 practice:1 restricting:1 legislation:1 shut:1 down:1 inversions:1 only:1 not:1 2014:1 urging:1
+AMAT	20140716	22.7	22.7	r_up	
+AMAT	20140717	22.7	22.6	r_down	
+AMAT	20140718	22.6	22.9	r_up	
+AMAT	20140721	22.9	22.8	r_down	
+AMAT	20140722	22.8	22.4	r_down	
+AMAT	20140723	22.4	21.8	r_down	
+AMAT	20140724	21.8	21.6	r_down	
+AMAT	20140725	21.6	21.1	r_down	
+AMAT	20140728	21.1	21.2	r_up	sector:1 stocks:1 look:1 just:1 getting:1 many:1 correction:1 still:1 component:1 been:1 set:1 slammed:1 looks:1 upside:1 has:1
+AMAT	20140729	21.2	21.0	r_down	
+AMAT	20140730	21.0	21.1	r_up	
+AMAT	20140731	21.1	20.8	r_down	
+AMAT	20140801	20.8	20.9	r_up	inversion:1 owe:1 involved:1 companies:1 deals:1 likely:1 tax:1 capital-gains:1
+AMAT	20140804	20.9	21.0	r_up	
+AMAT	20140805	21.0	20.7	r_down	
+AMAT	20140806	20.7	21.0	r_up	
+AMAT	20140807	21.0	20.6	r_down	giants:1 deals:1 people:1 spending:2 data:1 writes:1 sign:1 jump:1 unabated:1 running:1 tech:4 big:1 growing:1 products:1 spree:1 bubble:2 second-quarter:1 shows:1
+AMAT	20140808	20.6	20.7	r_up	
+AMAT	20140811	20.7	20.9	r_up	
+AMAT	20140812	20.9	20.8	r_down	
+AMAT	20140813	20.8	20.8	r_up	
+AMAT	20140814	20.8	21.0	r_up	sector:1 smaller:1 soars:2 retailer:1 results:1 unexpectedly:1 good:1 trading:1 looks:2 year:1 margins:1 labor:1 its:1 market:1 story:1 profit:2 third-quarter:1 improvement:1 pretty:2 struggling:1 economy:1 extended:1 loss:1 hefty:1 jumps:1 after:2 different:1 sales:2 hours:1 reported:2 continued:1 79:2 fiscal:1 jump:1 stronger:1 investment:1 while:1 rallies:1 retail:1
+AMAT	20140815	21.0	22.3	r_up	trim:2 spurred:1 into:1 its:1 weekly:1 end:1 destroyed:1 forces:1 units:1 territory:1 scored:1 flight:1 mostly:1 after:1 but:1 safe-haven:1 gain:1 fall:1 post:1 lower:1 assets:1 losses:1 reports:1 crossed:1 military:1
+AMAT	20140818	22.3	22.0	r_down	investors:1 soars:1 some:1 results:1 been:1 have:1 year:1 close:1 its:2 end:1 merger:1 nervous:1 shares:1 quarterly:1 company:1 's:2 ability:1 bid:2 recent:1 sending:1 growing:1 makes:1
+AMAT	20140819	22.0	22.0	r_up	
+AMAT	20140820	22.0	21.9	r_down	back:1 month:1 helped:1 long:1 have:1 go:1 seen:1 still:1 since:1 shares:1 their:1 way:1 fuel:1 has:1 bubble:1 giants:1 levels:1 peak:1 half:1 not:1 stocks:1 made:1 level:1 many:1 2000:1 tech:2
+AMAT	20140821	21.9	22.2	r_up	
+AMAT	20140822	22.2	22.1	r_down	
+AMAT	20140825	22.1	22.1	r_up	
+AMAT	20140826	22.1	22.2	r_up	
+AMAT	20140827	22.2	22.6	r_up	
+AMAT	20140828	22.6	22.8	r_up	
+AMAT	20140829	22.8	23.1	r_up	
+AMAT	20140902	23.1	22.9	r_down	
+AMAT	20140903	22.9	22.9	r_up	
+AMAT	20140904	22.9	22.5	r_down	
+AMAT	20140905	22.5	22.7	r_up	
+AMAT	20140908	22.7	22.6	r_down	urban:1 's:2 dollars:1 technologies:1 spent:1 escaped:1 worst:1 effects:1 have:1 three-year:1 drought:1 having:1 millions:1
+AMAT	20140909	22.6	22.4	r_down	urban:1 muted:1 many:1 effect:1 been:1 one:1 three-year:1 surprise:1 drought:1 has:1 businesses:1
+AMAT	20140910	22.4	22.3	r_down	
+AMAT	20140911	22.3	22.9	r_up	
+AMAT	20140912	22.9	22.3	r_down	
+AMAT	20140915	22.3	22.0	r_down	
+AMAT	20140916	22.0	22.3	r_up	
+AMAT	20140917	22.3	22.4	r_up	
+AMAT	20140918	22.4	22.6	r_up	
+AMAT	20140919	22.6	22.5	r_down	
+AMAT	20140922	22.5	21.9	r_down	
+AMAT	20140923	21.9	21.6	r_down	revenue:1 more:1 stable:1 growth:1 offer:1
+AMAT	20140924	21.6	21.9	r_up	
+AMAT	20140925	21.9	21.5	r_down	
+AMAT	20140926	21.5	21.7	r_up	
+AMAT	20140929	21.7	21.7	r_up	
+AMAT	20140930	21.7	21.6	r_down	
+AMAT	20141001	21.6	20.9	r_down	
+AMAT	20141002	20.9	20.5	r_down	
+AMAT	20141003	20.5	20.7	r_up	
+AMAT	20141006	20.7	20.6	r_down	
+AMAT	20141007	20.6	20.3	r_down	
+AMAT	20141008	20.3	21.1	r_up	
+AMAT	20141009	21.1	20.8	r_down	
+AMAT	20141010	20.8	19.8	r_down	

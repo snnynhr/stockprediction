@@ -1,0 +1,114 @@
+CVC	20140501	16.4	16.5	r_up	
+CVC	20140502	16.5	16.4	r_down	fiscal:1 all:1 said:1 gains:1 business:1 revenue:1 profit:1 segments:1 third-quarter:1 50:1 fell:1 offset:1 expenses:1 corporate:1 its:2 higher:1
+CVC	20140505	16.4	16.7	r_up	
+CVC	20140506	16.7	16.6	r_down	
+CVC	20140507	16.6	16.2	r_down	
+CVC	20140508	16.2	16.2	r_up	outlook:1 unexpected:1 ad:1 revenue:2 offset:1 retailer:1 $:1 trade:2 past:1 session:2 video:1 2.3:1 edged:1 2.7:1 networks:1 decline:1 21st:3 cut:1 network:1 profit:3 same-store:1 shares:2 its:2 growth:1 premarket:1 expected:2 rates:1 higher:1 back:1 customers:1 's:4 business:1 loss:1 estimates:1 company:1 sales:4 broadcast:1 discount:1 lift:1 operating:1 sweeps:1 first-quarter:1 posted:1 fiscal:1 driven:1 cable:1 reported:1 solid:1 companies:2 up:1 33:1 actively:2 advertising:2 quarter:1
+CVC	20140509	16.2	16.5	r_up	roundup:1 saying:1 surprises:1 companies:1 reports:1 quarters:1 advisories:1 earnings:1 future:1 corporate:1 latest:1
+CVC	20140512	16.5	17.0	r_up	
+CVC	20140513	17.0	17.0	r_up	
+CVC	20140514	17.0	16.7	r_down	
+CVC	20140515	16.7	16.7	r_up	raise:1 means:1 could:1 streaming:1 cable-cord:1 cost:1 vote:1 shows:1 cutters:1
+CVC	20140516	16.7	16.8	r_up	
+CVC	20140519	16.8	17.1	r_up	
+CVC	20140520	17.1	16.9	r_down	
+CVC	20140521	16.9	16.9	r_up	
+CVC	20140522	16.9	17.0	r_up	
+CVC	20140523	17.0	17.3	r_up	
+CVC	20140527	17.3	17.4	r_up	
+CVC	20140528	17.4	17.2	r_down	
+CVC	20140529	17.2	17.3	r_up	
+CVC	20140530	17.3	17.4	r_up	$:2 jumped:1 +:1 after:1 shares:1 much:1 record:1 2:2 owned:1 6.1:1 sold:1 =:1 agreed:1 advanced:1 too:1
+CVC	20140602	17.4	17.4	r_up	
+CVC	20140603	17.4	17.2	r_down	
+CVC	20140604	17.2	17.3	r_up	
+CVC	20140605	17.3	17.4	r_up	
+CVC	20140606	17.4	17.3	r_down	1.5:1 just:1 reasons:1 up:1 operator:1 have:1 owner:1 if:1 $:3 three:1 shares:2 also:1 3:1 much:1 you:1 ever:1 may:1 sold:2 imagine:1 put:1 2:1 one:1 analyst:1 billion:2 according:1 could:1 sale:1 think:2 directors:1 team:1 steep:1 fetch:1
+CVC	20140609	17.3	17.1	r_down	
+CVC	20140610	17.1	17.2	r_up	
+CVC	20140611	17.2	17.1	r_down	
+CVC	20140612	17.1	17.0	r_down	
+CVC	20140613	17.0	16.8	r_down	
+CVC	20140616	16.8	17.0	r_up	
+CVC	20140617	17.0	16.9	r_down	tap:1 cable:1 investors:1 into:1 companies:1 retailers:1 spots:1 hot:1 premiums:1 can:1 multibillion-dollar:1 online:1 writes:1
+CVC	20140618	16.9	17.2	r_up	fiber:1 cable:1 providers:1 broadband:1 companies:1 according:1 report:1 behind:1 speeds:1 lagging:1 download:1 new:1 comes:1
+CVC	20140619	17.2	17.2	r_up	
+CVC	20140620	17.2	17.2	r_up	keeping:1 last:1 succeeded:1 antitrust:1 federal:1 dismissal:1 filed:1 year:1 denied:1 alive:1 motion:1 against:1 suit:2 judge:1 's:1 lawsuit:1
+CVC	20140623	17.2	17.2	r_up	
+CVC	20140624	17.2	17.3	r_up	haven’t:1 cord:2 giant:1 cut:1 saving:1 consider:1 cable:1 money:1 writes:1 companies:1 should:2 access:1 control:1 cutting:1 subscribers:1 media:1 you:2 pressuring:1
+CVC	20140625	17.3	17.3	r_up	sector:1 need:1 crash:1 investors:1 overheating:1
+CVC	20140626	17.3	17.4	r_up	
+CVC	20140627	17.4	17.6	r_up	25:1 's:3 showed:1 markets:1 public:1 debut:1 second:1 shares:1 maker:1 letdown:1 few:1 hot:1 stock-market:1 signs:1 during:1 surged:1 than:1 day:1 more:1
+CVC	20140630	17.6	17.5	r_down	
+CVC	20140701	17.5	17.5	r_up	
+CVC	20140702	17.5	17.7	r_up	
+CVC	20140703	17.7	18.1	r_up	
+CVC	20140707	18.1	17.9	r_down	
+CVC	20140708	17.9	17.5	r_down	
+CVC	20140709	17.5	17.7	r_up	
+CVC	20140710	17.7	17.9	r_up	
+CVC	20140711	17.9	17.9	r_up	
+CVC	20140714	17.9	18.2	r_up	
+CVC	20140715	18.2	18.0	r_down	kinds:2 have:1 figure:1 voters:2 ways:1 away:1 watching:1 sophisticated:1 programs:1 potential:1 moving:1 advertising:1 they:1 which:2 now:1 blanket:1 out:1
+CVC	20140716	18.0	18.3	r_up	
+CVC	20140717	18.3	18.2	r_down	
+CVC	20140718	18.2	18.6	r_up	firm:1 service:1 provide:1 could:1 30:1 households:1 over:1
+CVC	20140721	18.6	18.7	r_up	
+CVC	20140722	18.7	18.8	r_up	
+CVC	20140723	18.8	18.9	r_up	
+CVC	20140724	18.9	18.9	r_up	
+CVC	20140725	18.9	18.7	r_down	
+CVC	20140728	18.7	18.9	r_up	
+CVC	20140729	18.9	19.3	r_up	
+CVC	20140730	19.3	19.3	r_up	
+CVC	20140731	19.3	19.0	r_down	
+CVC	20140801	19.0	19.0	r_up	
+CVC	20140804	19.0	19.2	r_up	
+CVC	20140805	19.2	17.9	r_down	stores:1 pointing:1 executive:1 named:1 trade:2 session:2 thanks:1 its:5 discipline:1 $:2 breaches:1 premarket:1 include:1 2013:1 day’s:1 his:1 gains:1 government:1 big:1 subscribers:1 continued:1 drop:1 companies:3 morning:1 officer:1 lose:1 quarter:2 3.7:1 second:2 cost:1 trading:1 openness:1 said:1 managing:1 though:1 shares:2 longtime:1 movement:1 full:1 creating:1 business:1 agencies:1 movers:1 traded:1 outlook:1 retired:1 revenue:1 corporations:1 afoot:1 publishing:1 two:1 expected:2 buy:1 partly:1 share:1 company:1 but:1 lowered:1 prices:1 spin:1 second-quarter:1 publicly:1 up:1 n't:1 actively:2 toward:1 universal:1 1.8:1 sales:1 promotional:1 bias:1 markdowns:1 technology:2 information:1 confirmed:1 4.8:1 role:1 higher:1 's:3 separate:1 fell:1 ownership:1 data:1 billion:1 off:1 chief:1 came:1
+CVC	20140806	17.9	18.1	r_up	
+CVC	20140807	18.1	18.0	r_down	program:1 plunged:1 ``:1 '':1 table:1 research:1 its:2 declined:1 out:1 21st:1 said:1 $:1 rose:1 two:1 telecommunications:1 note:1 potential:1 boosted:1 do:1 we:1 movie:1 return:1 offer:1 big:1 bid:1 after:1 negotiating:1 conglomerate:1 fell:1 studio:1 share-buyback:1 not:1 brokerage:1 appears:1 apart:1 television:1 --:1 rival:1 companies:1 rule:1 deals:1 network:1 future:1 analysts:1 withdrawal:1 serious:1
+CVC	20140808	18.0	17.8	r_down	
+CVC	20140811	17.8	17.8	r_up	
+CVC	20140812	17.8	17.8	r_up	10:1 prospects:1 stocks:1 improving:1 these:1 writes:1 estimates:1 worries:1 increases:1 earnings:1 van:1 biggest:1 world:1 enjoying:1 companies’:1
+CVC	20140813	17.8	17.8	r_up	
+CVC	20140814	17.8	18.1	r_up	
+CVC	20140815	18.1	18.1	r_up	
+CVC	20140818	18.1	18.2	r_up	
+CVC	20140819	18.2	18.4	r_up	
+CVC	20140820	18.4	18.3	r_down	fourth-quarter:1 said:1 revenue:1 profit:1 expenses:1 increase:1 fell:1 operating:1 sharply:1 67:1 its:1 higher:1
+CVC	20140821	18.3	18.4	r_up	
+CVC	20140822	18.4	18.3	r_down	
+CVC	20140825	18.3	17.9	r_down	6.7:1 owner:1 stake:1 's:1 acquires:1
+CVC	20140826	17.9	18.2	r_up	
+CVC	20140827	18.2	18.3	r_up	
+CVC	20140828	18.3	18.2	r_down	
+CVC	20140829	18.2	18.5	r_up	
+CVC	20140902	18.5	18.5	r_up	
+CVC	20140903	18.5	18.6	r_up	
+CVC	20140904	18.6	18.7	r_up	
+CVC	20140905	18.7	19.1	r_up	
+CVC	20140908	19.1	19.1	r_up	
+CVC	20140909	19.1	19.1	r_up	
+CVC	20140910	19.1	18.9	r_down	
+CVC	20140911	18.9	19.1	r_up	
+CVC	20140912	19.1	19.1	r_up	
+CVC	20140915	19.1	19.1	r_up	
+CVC	20140916	19.1	19.1	r_up	
+CVC	20140917	19.1	19.2	r_up	
+CVC	20140918	19.2	19.0	r_down	
+CVC	20140919	19.0	19.1	r_up	
+CVC	20140922	19.1	18.5	r_down	
+CVC	20140923	18.5	18.2	r_down	
+CVC	20140924	18.2	18.0	r_down	
+CVC	20140925	18.0	17.8	r_down	
+CVC	20140926	17.8	17.7	r_down	
+CVC	20140929	17.7	17.6	r_down	
+CVC	20140930	17.6	17.5	r_down	
+CVC	20141001	17.5	17.3	r_down	10:1 van:1 extend:1 risen:1 whose:1 outperformance:1 into:1 up:1 shares:1 fourth:1 may:1 winners:1 73:1 earnings:1 have:1 quarter:1 companies’:1 writes:1 500:1
+CVC	20141002	17.3	17.3	r_up	
+CVC	20141003	17.3	17.7	r_up	faced:1 plug:1 major:1 dropping:1 service:2 cable:1 programming:1 manage:1 companies:1 channels:1 their:1 costs:2 rising:1 groups:1 instead:1 focusing:1 pulling:1
+CVC	20141006	17.7	17.4	r_down	
+CVC	20141007	17.4	17.3	r_down	
+CVC	20141008	17.3	18.0	r_up	
+CVC	20141009	18.0	17.3	r_down	
+CVC	20141010	17.3	17.4	r_up	

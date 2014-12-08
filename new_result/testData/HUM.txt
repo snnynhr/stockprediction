@@ -1,0 +1,114 @@
+HUM	20140501	109.2	108.9	r_down	
+HUM	20140502	108.9	108.4	r_down	
+HUM	20140505	108.4	109.6	r_up	sign-ups:1 stronger-than-expected:1 exposed:1
+HUM	20140506	109.6	109.3	r_down	saying:1 founder:1 trade:1 down:1 see:1 athenahealth:1 80:1 electronic:1 whose:1 shares:2 provider:1 expected:1 sent:1 stock:1 may:1 after:2 watch:1 hours:1 fall:1 active:1 stocks:1 10:1 companies:1 session:1
+HUM	20140507	109.3	118.5	r_up	whose:1 watch:1 companies:1 shares:1 trade:1 active:1 see:1 session:1 expected:1 stocks:1
+HUM	20140508	118.5	116.2	r_down	retreats:1 lower:1 bottom:1 after:1 expectations:1 skids:1 slides:1 while:1 tumbles:1 deteriorating:1 line:1 valuation:2 than:1 came:1
+HUM	20140509	116.2	119.5	r_up	
+HUM	20140512	119.5	123.0	r_up	
+HUM	20140513	123.0	121.4	r_down	
+HUM	20140514	121.4	119.4	r_down	
+HUM	20140515	119.4	119.0	r_down	
+HUM	20140516	119.0	118.4	r_down	
+HUM	20140519	118.4	120.8	r_up	
+HUM	20140520	120.8	120.8	r_up	
+HUM	20140521	120.8	121.8	r_up	
+HUM	20140522	121.8	122.7	r_up	
+HUM	20140523	122.7	123.9	r_up	
+HUM	20140527	123.9	124.7	r_up	
+HUM	20140528	124.7	123.7	r_down	
+HUM	20140529	123.7	124.0	r_up	sector:1 groups:3 over:1 health-care:3 one:2 high:1 say:3 against:3 its:3 law:3 consumers:3 basis:3 avoid:2 shares:1 misses:1 concerns:1 boom:1 struggling:1 insurers:3 participation:1 complaint:3 titan:1 provisions:3 deter:1 lack:1 drug:1 they:3 using:3 cases:2 trying:3 kind:2 covering:2 --:2 advocacy:3 2nd:1 costs:1 first:2
+HUM	20140530	124.0	123.9	r_down	
+HUM	20140602	123.9	124.8	r_up	
+HUM	20140603	124.8	123.8	r_down	physicians:1 insurer:1 federal:1 violated:1 alleging:1 drug:1 conspiring:1 uses:1 unapproved:1 racketeering:1 promote:1 its:1 prominent:1
+HUM	20140604	123.8	124.7	r_up	
+HUM	20140605	124.7	123.8	r_down	
+HUM	20140606	123.8	125.8	r_up	
+HUM	20140609	125.8	124.8	r_down	
+HUM	20140610	124.8	126.0	r_up	
+HUM	20140611	126.0	126.3	r_up	
+HUM	20140612	126.3	124.7	r_down	
+HUM	20140613	124.7	124.1	r_down	
+HUM	20140616	124.1	122.5	r_down	
+HUM	20140617	122.5	122.4	r_down	
+HUM	20140618	122.4	124.3	r_up	
+HUM	20140619	124.3	126.0	r_up	
+HUM	20140620	126.0	126.6	r_up	
+HUM	20140623	126.6	126.7	r_up	
+HUM	20140624	126.7	126.5	r_down	
+HUM	20140625	126.5	128.4	r_up	
+HUM	20140626	128.4	127.5	r_down	
+HUM	20140627	127.5	127.1	r_down	peers:1 's:1 guidance:1 larger:1 conservative:1 raises:1 earnings:1 sets:1 than:1 stage:1
+HUM	20140630	127.1	127.4	r_up	
+HUM	20140701	127.4	129.0	r_up	
+HUM	20140702	129.0	129.3	r_up	
+HUM	20140703	129.3	129.9	r_up	
+HUM	20140707	129.9	128.0	r_down	
+HUM	20140708	128.0	127.1	r_down	
+HUM	20140709	127.1	127.4	r_up	
+HUM	20140710	127.4	126.8	r_down	
+HUM	20140711	126.8	127.1	r_up	
+HUM	20140714	127.1	128.2	r_up	
+HUM	20140715	128.2	128.3	r_up	
+HUM	20140716	128.3	127.1	r_down	
+HUM	20140717	127.1	130.8	r_up	we:1 stocks:1 financial:1 investors:1 tough:1 notable:1 sign:1 few:1 're:1 crisis:1 fall:1 years:1 making:1 climb:1 moves:1 out:1 2008:2 market:1 stock:1
+HUM	20140718	130.8	132.3	r_up	
+HUM	20140721	132.3	132.7	r_up	
+HUM	20140722	132.7	133.2	r_up	
+HUM	20140723	133.2	132.7	r_down	
+HUM	20140724	132.7	132.6	r_down	
+HUM	20140725	132.6	128.2	r_down	
+HUM	20140728	128.2	130.6	r_up	
+HUM	20140729	130.6	127.2	r_down	
+HUM	20140730	127.2	120.0	r_down	help:1 trade:2 ended:1 session:2 its:5 $:1 rose:2 masses:1 bell:1 than:2 premarket:1 policy:1 might:1 day’s:1 do:1 customers:1 increased:1 rate-hike:1 sooner:1 anticipated:1 loss:1 always:1 drop:1 companies:2 doubled:1 benefit:1 small:1 soar:1 ekes:1 jump:1 second:1 actively:2 trading:1 declined:1 out:1 index:1 said:1 profit:2 shares:2 burned:1 reading:1 opening:1 points:3 reported:1 operating:1 offset:1 gained:1 quarter:2 ahead:1 contract:1 fell:1 economic:1 lucrative:1 efforts:1 slightly:1 first:2 among:1 revenue:2 appeared:1 narrowed:1 open:1 service:1 due:1 start:1 rates:1 interest:1 expected:2 upbeat:1 500:3 more:2 statement:1 company:1 but:1 0.4:1 signaling:1 90:1 surged:1 second-quarter:2 raising:1 18:2 n't:1 appealing:1 growth:2 minutes:1 bearing:1 seven:1 predict:1 0.3:2 uptick:1 expenses:1 soothe:1 swung:1 saw:1 gains:2 moves:1 calms:1 47:1 make:1 fears:2 winners:1 earnings:1 stock:3 added:1 's:4 may:1 boosted:1 after:1 falls:1 most:1 fruit:1 user:1 messaging:1 fiscal:1 short:1 futures:5 costs:1
+HUM	20140731	120.0	117.4	r_down	roundup:1 saying:1 surprises:1 companies:1 reports:1 quarters:1 advisories:1 earnings:1 future:1 corporate:1 latest:1
+HUM	20140801	117.4	118.5	r_up	
+HUM	20140804	118.5	120.1	r_up	
+HUM	20140805	120.1	119.2	r_down	
+HUM	20140806	119.2	119.8	r_up	one:1 entry-level:1 cut:1 jobs:1 them:1 work:1 raised:1 new:1 graduates:1 n't:1 used:1 expecting:1 have:2 others:1 bar:1 firms:1 arrive:1 day:1
+HUM	20140807	119.8	115.7	r_down	
+HUM	20140808	115.7	117.8	r_up	
+HUM	20140811	117.8	116.9	r_down	
+HUM	20140812	116.9	117.4	r_up	
+HUM	20140813	117.4	119.2	r_up	
+HUM	20140814	119.2	119.8	r_up	
+HUM	20140815	119.8	120.1	r_up	
+HUM	20140818	120.1	121.6	r_up	
+HUM	20140819	121.6	122.6	r_up	
+HUM	20140820	122.6	122.8	r_up	
+HUM	20140821	122.8	123.1	r_up	
+HUM	20140822	123.1	122.9	r_down	
+HUM	20140825	122.9	123.9	r_up	
+HUM	20140826	123.9	124.7	r_up	
+HUM	20140827	124.7	127.0	r_up	
+HUM	20140828	127.0	127.3	r_up	
+HUM	20140829	127.3	128.4	r_up	
+HUM	20140902	128.4	127.1	r_down	
+HUM	20140903	127.1	126.9	r_down	
+HUM	20140904	126.9	126.6	r_down	
+HUM	20140905	126.6	128.9	r_up	
+HUM	20140908	128.9	129.2	r_up	
+HUM	20140909	129.2	130.1	r_up	
+HUM	20140910	130.1	128.6	r_down	
+HUM	20140911	128.6	129.1	r_up	
+HUM	20140912	129.1	127.9	r_down	
+HUM	20140915	127.9	127.3	r_down	
+HUM	20140916	127.3	132.0	r_up	program:3 trade:1 session:2 through:1 unveiled:1 run:1 its:2 market:1 previous:2 share-repurchase:1 $:5 announces:1 one-day:1 selloff:2 shares:1 recovers:1 1:1 2:4 4:2 equity:1 biggest:2 new:1 weeks:2 2016:1 500:2 higher:1 ago:1 ends:1 's:3 gains:2 buyback:2 expected:1 five:1 gain:1 current:1 repurchase:1 buyout:1 replace:2 rebounds:1 rumor:1 billion:4 advance:1 months:1 companies:1 unveils:1 recording:1 while:1 actively:1 announced:1 stock:1 steep:1 plan:1
+HUM	20140917	132.0	132.2	r_up	
+HUM	20140918	132.2	132.9	r_up	
+HUM	20140919	132.9	134.6	r_up	
+HUM	20140922	134.6	134.4	r_down	's:1 there:1 while:1 maintain:1 can:1 margins:1 concerns:1 improve:1
+HUM	20140923	134.4	132.0	r_down	
+HUM	20140924	132.0	135.2	r_up	
+HUM	20140925	135.2	131.0	r_down	
+HUM	20140926	131.0	131.7	r_up	
+HUM	20140929	131.7	131.9	r_up	
+HUM	20140930	131.9	130.2	r_down	
+HUM	20141001	130.2	127.9	r_down	increased:1 wary:1 many:1 harder:1 employers:1 players:1 job:1 critical:1 distant:1 demand:1 trying:1 executives:1
+HUM	20141002	127.9	127.1	r_down	edition:1 2:1 2014:1
+HUM	20141003	127.1	128.9	r_up	set:1 plans:1 consumers:1 receive:1 canceling:1 sign:1 their:2 health:1 reshaping:1 fall:1 notices:1 insurers:1 thousands:1 insurance:1 market:1 latest:1
+HUM	20141006	128.9	126.2	r_down	
+HUM	20141007	126.2	124.7	r_down	
+HUM	20141008	124.7	127.4	r_up	
+HUM	20141009	127.4	125.0	r_down	
+HUM	20141010	125.0	126.3	r_up	

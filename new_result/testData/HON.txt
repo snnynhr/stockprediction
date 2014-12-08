@@ -1,0 +1,114 @@
+HON	20140501	92.0	91.3	r_down	
+HON	20140502	91.3	91.4	r_up	
+HON	20140505	91.4	91.7	r_up	
+HON	20140506	91.7	90.7	r_down	
+HON	20140507	90.7	92.0	r_up	
+HON	20140508	92.0	92.0	r_up	
+HON	20140509	92.0	91.9	r_down	
+HON	20140512	91.9	93.4	r_up	
+HON	20140513	93.4	93.3	r_down	
+HON	20140514	93.3	91.8	r_down	
+HON	20140515	91.8	90.2	r_down	
+HON	20140516	90.2	90.3	r_up	
+HON	20140519	90.3	91.0	r_up	
+HON	20140520	91.0	89.9	r_down	
+HON	20140521	89.9	90.8	r_up	
+HON	20140522	90.8	91.0	r_up	
+HON	20140523	91.0	91.5	r_up	
+HON	20140527	91.5	91.9	r_up	
+HON	20140528	91.9	92.0	r_up	
+HON	20140529	92.0	92.3	r_up	
+HON	20140530	92.3	92.7	r_up	
+HON	20140602	92.7	92.9	r_up	
+HON	20140603	92.9	92.8	r_down	
+HON	20140604	92.8	93.4	r_up	
+HON	20140605	93.4	94.5	r_up	
+HON	20140606	94.5	94.7	r_up	prevent:1 recently:1 cashing:1 certain:1 sold:1 companies:2 four:1 their:1 bonuses:1 if:1 voted:1 have:1 stock:1 executives:1
+HON	20140609	94.7	95.3	r_up	
+HON	20140610	95.3	94.8	r_down	operations:1 help:1 into:1 strategic:1 still:1 its:2 best:1 plans:1 planet:1 said:1 threats:1 review:1 responsible:1 two:1 safety:1 split:1 between:1 5:1 markets:1 wants:1 independent:1 's:2 creating:1 confusion:1 continues:1 socially:1 streamline:1 aviation:1 effort:1 air-traffic:1 publicly:1 region:1 companies:1 according:1 regulator:1 communications:1 pilots:1 traded:1 maker:1
+HON	20140611	94.8	94.4	r_down	
+HON	20140612	94.4	93.2	r_down	patent:1 could:1 company:1 roost:1 according:1 rule:1 future:1 gauge:1 innovation:1 report:1 home:1 new:1 any:1 smart:1
+HON	20140613	93.2	93.3	r_up	
+HON	20140616	93.3	93.3	r_up	passenger:1 proposed:1 conditional:1 divestment:1 friction:3 pads:2 brake:2 another:1 subject:1 factory:1 commercial:1 conditions:1 's:1 business:2 cars:1 material:3 upon:1 produce:1 producing:1 approved:1 manufacturer:1 trucks:1 --:1 light:1 vehicles:1 companies:1 large:1 part:1 clearance:1 acquisition:1
+HON	20140617	93.3	93.8	r_up	
+HON	20140618	93.8	93.7	r_down	alliance:1 over:2 probe:1 trade:1 shipping:1 enhanced:1 lanes:1 its:1 said:1 would:1 airliner:1 models:1 much:1 various:1 too:1 flexing:1 sway:1 into:1 2013:1 global:1 's:1 power:1 fire:1 put:1 such:1 hold:1 787:1 devices:1 deals:1 testing:1 aboard:1 growing:1 called:1
+HON	20140619	93.7	93.9	r_up	
+HON	20140620	93.9	94.3	r_up	
+HON	20140623	94.3	93.8	r_down	
+HON	20140624	93.8	92.5	r_down	firm:1 advisory:1 mutual:1 own:1 profiles:1 its:1 fund:1 manages:1 investment:1 co-founder:1
+HON	20140625	92.5	92.7	r_up	
+HON	20140626	92.7	92.6	r_down	referrals:1 jobs:1 lead:1 relationship:1 process:1 navigate:1 clients:1 helping:1 may:1 shifting:1 which:1 deepen:1 landscape:1
+HON	20140627	92.6	92.8	r_up	
+HON	20140630	92.8	92.5	r_down	
+HON	20140701	92.5	94.1	r_up	
+HON	20140702	94.1	93.8	r_down	3,000:2 determine:1 community:1 tastes:1 through:1 appliances:1 left:1 sells:1 its:1 incubator:1 takes:1 much:1 ideas:1 their:1 winners:1 online:1 sorts:1 has:2 week:1 's:2 but:1 chance:1 uses:1 up:1 air:1 n't:2 audience:1 each:1 flops:1 consumer:1 first:1
+HON	20140703	93.8	94.4	r_up	
+HON	20140707	94.4	93.9	r_down	
+HON	20140708	93.9	93.7	r_down	tests:1 away:1 climate:1 're:1 systems:1 sense:1 home:1 you:1 if:1
+HON	20140709	93.7	94.0	r_up	pay:1 soon:1 employers:1 race:1 gender:1 report:1 data:1 must:1
+HON	20140710	94.0	93.8	r_down	
+HON	20140711	93.8	94.4	r_up	
+HON	20140714	94.4	95.2	r_up	
+HON	20140715	95.2	95.5	r_up	
+HON	20140716	95.5	95.9	r_up	named:1 end:1 one-time:1 tight:1 been:1 has:1 former:1 chairman:1
+HON	20140717	95.9	94.7	r_down	
+HON	20140718	94.7	96.3	r_up	resiliency:1 tax:1 sales:1 sad:1 growth:1 7.6:1 have:1 year:1 yet:1 n't:1 said:1 writes:1 spending:1 rose:1 segments:1 been:1 fight:1 much:2 earnings:1 markets:1 breaks:1 geopolitical:1 most:1 second-quarter:1 posted:1 lower:1 impacted:1 deals:1 truth:1 tensions:1 cracked:1 its:2 investments:1 tax-‘inversion’:1
+HON	20140721	96.3	96.8	r_up	
+HON	20140722	96.8	96.7	r_down	
+HON	20140723	96.7	96.1	r_down	
+HON	20140724	96.1	95.5	r_down	
+HON	20140725	95.5	95.3	r_down	
+HON	20140728	95.3	94.7	r_down	
+HON	20140729	94.7	93.3	r_down	sector:1 service:1 positive:1 marked:1 growth:1 demand:1 has:1
+HON	20140730	93.3	93.6	r_up	
+HON	20140731	93.6	91.4	r_down	there:1 's:1 interest:1 had:1 never:1 companies:1 cash:1 reason:1 much:2 so:2 have:1 policy:1 rates:1 tax:1 debt:1
+HON	20140801	91.4	91.1	r_down	
+HON	20140804	91.1	90.9	r_down	prices:1 over:1 increasing:1 greater:1 consumers:1 sway:1 experts:1 companies:1 paid:1 foreign:1 pressure:1 say:1 antimonopoly:1 businesses:1 under:1 put:1 using:1 law:1 intensify:1 its:2 seeks:1
+HON	20140805	90.9	90.8	r_down	
+HON	20140806	90.8	90.1	r_down	
+HON	20140807	90.1	90.5	r_up	
+HON	20140808	90.5	92.2	r_up	
+HON	20140811	92.2	92.7	r_up	sector:1 opportunity:1 defense:1 sees:1 aerospace:1
+HON	20140812	92.7	92.4	r_down	
+HON	20140813	92.4	93.8	r_up	
+HON	20140814	93.8	93.9	r_up	
+HON	20140815	93.9	93.7	r_down	giants:1 called:1 's:1 creating:1 up:1 being:1 utilities:1 costs:1 gearing:1 battle:1 tech:1 dropping:1 connected:1 telecoms:1 living:1 device:1 home:1 beyond:1 makers:1 room:1
+HON	20140818	93.7	94.8	r_up	
+HON	20140819	94.8	94.7	r_down	
+HON	20140820	94.7	95.7	r_up	landings:1 enable:1 smaller:1 developing:1 fields:1 could:1 mid-size:1 other:1 scores:1 technologies:1 now:1 makers:1
+HON	20140821	95.7	95.9	r_up	
+HON	20140822	95.9	95.5	r_down	
+HON	20140825	95.5	95.8	r_up	industrial:1 benefits:1 recovery:1 elevators:1 companies:1 heating:1 leads:1 see:1 other:1 products:1 analysts:1 demand:1 cooling:1 more:1
+HON	20140826	95.8	95.5	r_down	
+HON	20140827	95.5	95.5	r_up	
+HON	20140828	95.5	95.3	r_down	
+HON	20140829	95.3	95.2	r_down	
+HON	20140902	95.2	95.5	r_up	
+HON	20140903	95.5	95.4	r_down	stepping:1 cybersecurity:1 resistance:1 depends:1 decided:1 including:1 have:1 millions:1 whose:1 implementation:1 regulation:1 breaches:1 postpone:1 has:1 oversight:1 plant:1 full:1 return:1 hundreds:1 wake:1 significant:1 climate:1 boards:1 pursue:1 dollars:1 up:1 n't:1 retailers:1 investments:1
+HON	20140904	95.4	94.9	r_down	own:1 gold:1 doing:1 into:1 turned:1 been:1 have:1 her:2 threatening:1 legal:1 confirming:1 hacked:1 values:1 minor:1 allegedly:1 marketing:1 photos:1 they:1 news:1 stolen:1 could:1 responded:1 so:1 she:1 were:2 action:1 nude:1
+HON	20140905	94.9	95.6	r_up	
+HON	20140908	95.6	95.2	r_down	
+HON	20140909	95.2	94.4	r_down	
+HON	20140910	94.4	94.3	r_down	
+HON	20140911	94.3	94.7	r_up	
+HON	20140912	94.7	94.5	r_down	
+HON	20140915	94.5	94.6	r_up	
+HON	20140916	94.6	94.8	r_up	high-speed:2 conferences:2 smooth:2 hurts:1 satellite:1 years:1 '':2 video:2 connect:1 have:1 insulation:1 portfolio:1 research:1 your:1 access:1 capacity:1 $:1 jet:1 provide:2 writes:1 airborne:1 its:5 increase:1 equipment:1 production:1 volatile:1 which:1 provider:1 2015:2 performance:1 more:2 development:1 ``:2 global:1 's:1 users:1 business:4 beat:1 million:1 new:3 aircraft:2 plan:1 coming:1 transfers:2 stocks:1 data:4 expand:1 network:1 10:1 900:1 package:2 boring:1 suppliers:1 companies:1 tend:1 called:1 large:2 connection:2 materials:1 launches:2 higher:1 spend:1 speeds:1 travel:1
+HON	20140917	94.8	95.5	r_up	control:1 people:1 one:1 locks:1 thermostats:1 want:1 makers:1 bulbs:1 use:1 their:2 also:1 only:1 too:1 coffee:1 door:1 but:1 consoles:1 boxes:1 set-top:1 not:1 remote:1 light:1 game:1 making:1 bet:1
+HON	20140918	95.5	96.3	r_up	10:1 hit:1 way:1 may:1 conglomerates:1 list:1 soon:1 long:1 efficient:1 activist:1 have:1 van:1 go:1 become:1 stocks:1 writes:1 investors’:1 more:1
+HON	20140919	96.3	96.5	r_up	
+HON	20140922	96.5	94.7	r_down	
+HON	20140923	94.7	93.3	r_down	
+HON	20140924	93.3	93.8	r_up	
+HON	20140925	93.8	92.4	r_down	
+HON	20140926	92.4	93.3	r_up	
+HON	20140929	93.3	93.5	r_up	needs:1 agreement:1 signed:1 system:1 produce:1 cater:1 military:1 navigation:1
+HON	20140930	93.5	93.1	r_down	
+HON	20141001	93.1	91.6	r_down	prevent:1 1,300:1 ordered:1 interference:1 possible:1 devices:1 more:1 regulators:1 used:1 displays:1 have:1 jets:1 replacement:1 than:1 pilot:1
+HON	20141002	91.6	91.1	r_down	dim:1 inch:1 stream:1 turn:1 science:1 appliance:1 up:1 lights:1 heat:1 without:1 music:1 can:1 dust:1 moving:1 you:1 now:1
+HON	20141003	91.1	91.7	r_up	
+HON	20141006	91.7	91.9	r_up	
+HON	20141007	91.9	89.7	r_down	different:1 tracking:1 installation:1 air-safety:1 their:1 requiring:1 recorders:1 directions:1 video:1 airliners:1 real-time:1 authorities:1 international:1 heading:1 comes:1 appear:1
+HON	20141008	89.7	91.4	r_up	ratios:1 all:1 favorable:1 have:1
+HON	20141009	91.4	89.7	r_down	
+HON	20141010	89.7	87.9	r_down	

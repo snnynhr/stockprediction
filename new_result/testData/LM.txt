@@ -1,0 +1,114 @@
+LM	20140501	46.6	46.2	r_down	management:1 assets:1 tops:1 rise:1 estimates:1 reports:1 manager:1 costs:1 cuts:1 under:1 strong:1
+LM	20140502	46.2	46.4	r_up	fourth-quarter:1 lower:1 management:1 's:1 assets:1 views:1 profit:1 company:1 climbed:1 topped:1 costs:1 also:1 benefited:1 operating:1 analysts:1 under:1 increased:1
+LM	20140505	46.4	45.8	r_down	
+LM	20140506	45.8	45.4	r_down	
+LM	20140507	45.4	47.0	r_up	
+LM	20140508	47.0	47.5	r_up	
+LM	20140509	47.5	47.4	r_down	
+LM	20140512	47.4	48.6	r_up	
+LM	20140513	48.6	48.4	r_down	
+LM	20140514	48.4	47.9	r_down	
+LM	20140515	47.9	47.3	r_down	
+LM	20140516	47.3	47.8	r_up	
+LM	20140519	47.8	48.2	r_up	
+LM	20140520	48.2	47.8	r_down	
+LM	20140521	47.8	48.3	r_up	
+LM	20140522	48.3	48.6	r_up	
+LM	20140523	48.6	48.6	r_up	
+LM	20140527	48.6	48.6	r_up	
+LM	20140528	48.6	48.3	r_down	
+LM	20140529	48.3	48.6	r_up	
+LM	20140530	48.6	48.5	r_down	
+LM	20140602	48.5	48.8	r_up	
+LM	20140603	48.8	48.8	r_up	
+LM	20140604	48.8	49.8	r_up	manages:1 private-sector:1 losses:1 tone:1 unemployment:1 agreed:1 creation:1 trade:2 session:2 further:1 jobs:1 estimated:1 unit:1 end:1 $:1 due:1 shares:2 setting:1 which:1 expected:2 has:1 stock:2 buy:1 's:3 week’s:1 after:2 weak:1 9:1 job:1 key:1 fall:1 report:3 than:2 assets:1 billion:1 ahead:1 showed:1 created:1 futures:2 companies:2 fewer:1 actively:2 were:1 more:1
+LM	20140605	49.8	50.2	r_up	retreats:1 reporting:1 loss:1 after:1 results:1 slumps:1 skids:1 slides:1 wider:1 while:1 quarterly:1 downgrade:2 analyst:1
+LM	20140606	50.2	50.5	r_up	
+LM	20140609	50.5	50.1	r_down	
+LM	20140610	50.1	50.0	r_down	
+LM	20140611	50.0	49.4	r_down	
+LM	20140612	49.4	49.7	r_up	
+LM	20140613	49.7	49.5	r_down	
+LM	20140616	49.5	49.5	r_up	bets:1 currencies:1 managers:1 risk:1 cheapest:1 reliable:1 offer:1 some:1 peso:1 most:1 say:2 won:1 they:1 's:1 include:1
+LM	20140617	49.5	50.4	r_up	
+LM	20140618	50.4	50.7	r_up	
+LM	20140619	50.7	50.7	r_up	
+LM	20140620	50.7	50.9	r_up	
+LM	20140623	50.9	51.2	r_up	
+LM	20140624	51.2	50.7	r_down	
+LM	20140625	50.7	51.3	r_up	
+LM	20140626	51.3	50.8	r_down	
+LM	20140627	50.8	51.0	r_up	
+LM	20140630	51.0	51.1	r_up	financial:1 investors:1 into:1 cheap:1 manager:1 foray:1 its:1 market:1 outperforming:1 built:1 know:1 rose:1 stake:1 waiting:1 looking:1 3:1 activist:1 those:1 you:1 has:2 worth:1 announced:1 stock:1 wants:1 then:1 them:1 buy:1 's:4 rebound:1 overall:1 fund:2 nearly:1 not:1 news:1 him:1 bank:2 $:1 billion:1 1.05:1 companies:1 value:1 sank:1 position:1 2008:1 similar:1 investments:1 latest:1
+LM	20140701	51.1	51.3	r_up	
+LM	20140702	51.3	51.0	r_down	
+LM	20140703	51.0	51.5	r_up	
+LM	20140707	51.5	50.9	r_down	
+LM	20140708	50.9	50.6	r_down	
+LM	20140709	50.6	50.7	r_up	
+LM	20140710	50.7	49.8	r_down	
+LM	20140711	49.8	49.3	r_down	
+LM	20140714	49.3	50.3	r_up	good:1 especially:1 lag:1 not:1 continue:1 which:1 banks:1 news:1 broader:1 stocks:1 market:1
+LM	20140715	50.3	50.2	r_down	
+LM	20140716	50.2	50.7	r_up	
+LM	20140717	50.7	49.9	r_down	
+LM	20140718	49.9	50.5	r_up	
+LM	20140721	50.5	49.8	r_down	
+LM	20140722	49.8	50.2	r_up	
+LM	20140723	50.2	50.4	r_up	
+LM	20140724	50.4	51.0	r_up	
+LM	20140725	51.0	50.7	r_down	
+LM	20140728	50.7	50.6	r_down	
+LM	20140729	50.6	50.3	r_down	
+LM	20140730	50.3	50.3	r_up	
+LM	20140731	50.3	47.3	r_down	fiscal:1 topping:1 said:1 first-quarter:1 assets:1 views:1 profit:1 rose:1 revenue:1 management:1 analysts:1 sharply:1 under:1 grew:1 its:1
+LM	20140801	47.3	47.1	r_down	
+LM	20140804	47.1	47.2	r_up	
+LM	20140805	47.2	46.3	r_down	
+LM	20140806	46.3	47.5	r_up	
+LM	20140807	47.5	46.9	r_down	
+LM	20140808	46.9	47.7	r_up	
+LM	20140811	47.7	47.5	r_down	
+LM	20140812	47.5	47.8	r_up	
+LM	20140813	47.8	47.7	r_down	
+LM	20140814	47.7	48.2	r_up	
+LM	20140815	48.2	47.6	r_down	
+LM	20140818	47.6	48.4	r_up	
+LM	20140819	48.4	48.6	r_up	
+LM	20140820	48.6	48.6	r_up	
+LM	20140821	48.6	48.4	r_down	
+LM	20140822	48.4	48.5	r_up	
+LM	20140825	48.5	49.3	r_up	
+LM	20140826	49.3	49.7	r_up	
+LM	20140827	49.7	49.3	r_down	
+LM	20140828	49.3	48.7	r_down	
+LM	20140829	48.7	49.1	r_up	
+LM	20140902	49.1	49.3	r_up	
+LM	20140903	49.3	48.9	r_down	
+LM	20140904	48.9	48.9	r_up	
+LM	20140905	48.9	48.5	r_down	
+LM	20140908	48.5	49.0	r_up	
+LM	20140909	49.0	48.4	r_down	
+LM	20140910	48.4	49.3	r_up	
+LM	20140911	49.3	49.9	r_up	
+LM	20140912	49.9	50.0	r_up	
+LM	20140915	50.0	49.5	r_down	
+LM	20140916	49.5	50.1	r_up	
+LM	20140917	50.1	50.4	r_up	
+LM	20140918	50.4	51.0	r_up	
+LM	20140919	51.0	50.6	r_down	
+LM	20140922	50.6	50.0	r_down	
+LM	20140923	50.0	49.6	r_down	
+LM	20140924	49.6	49.6	r_up	
+LM	20140925	49.6	48.5	r_down	
+LM	20140926	48.5	50.6	r_up	
+LM	20140929	50.6	51.4	r_up	
+LM	20140930	51.4	51.0	r_down	patterns:1 management:1 assets:1 level:1 unclear:1 shift:1 flow:1 pace:1 incremental:1 under:1
+LM	20141001	51.0	50.3	r_down	
+LM	20141002	50.3	50.5	r_up	
+LM	20141003	50.5	51.6	r_up	
+LM	20141006	51.6	51.4	r_down	
+LM	20141007	51.4	50.1	r_down	weigh:1 headlines:1 stocks:1 two:1
+LM	20141008	50.1	51.1	r_up	
+LM	20141009	51.1	49.2	r_down	
+LM	20141010	49.2	49.4	r_up	

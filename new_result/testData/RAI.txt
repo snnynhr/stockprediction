@@ -1,0 +1,114 @@
+RAI	20140501	55.1	54.6	r_down	
+RAI	20140502	54.6	54.6	r_up	
+RAI	20140505	54.6	54.6	r_up	
+RAI	20140506	54.6	54.4	r_down	
+RAI	20140507	54.4	55.1	r_up	
+RAI	20140508	55.1	55.3	r_up	
+RAI	20140509	55.3	55.0	r_down	
+RAI	20140512	55.0	56.4	r_up	stocks:1 heating:1 talk:1 up:1
+RAI	20140513	56.4	56.3	r_down	ahead:1 deal:1 get:1 far:1 betting:1 want:1 between:1 not:1 themselves:1 might:1
+RAI	20140514	56.3	55.3	r_down	anything:1 tobacco:1 big:1 company:1 possible:1 soon:1 deals:1 involving:1 plenty:1 chatter:1 its:1 happening:1
+RAI	20140515	55.3	55.2	r_down	
+RAI	20140516	55.2	56.0	r_up	
+RAI	20140519	56.0	56.1	r_up	
+RAI	20140520	56.1	55.9	r_down	
+RAI	20140521	55.9	58.4	r_up	deal:1 would:1 matter:1 reshape:1 industry:1 powerful:1 according:1 leader:1 person:1 2:1 combine:1 landscape:1 familiar:1 talks:1 tobacco:1 advanced:1 creating:1
+RAI	20140522	58.4	57.2	r_down	all:1 in-house:1 move:1 entity:1 session:1 including:1 talks:1 its:1 impact:1 leader:1 one:1 should:1 combine:1 equity:1 has:1 dramatically:1 global:1 gains:2 beat:1 big:1 watch:1 matters:1 hedge:1 trade:1 advanced:1 tobacco:2 --:1 morning:1 specific:1 affiliate:1 because:1 deal:2 jump:1 see:1 collects:1 creating:1 shares:1 critical:1 landscape:1 shared:1 across:1 filings:1 regulatory:1 news:1 language:1 industry:2 according:1 remake:1 distinction:1 options:1 consulting:1 powerful:1 primary:1 private:1 linking:1 fantasy:1 learning:1 fees:1 apply:1 your:2 unit:2 jobless:2 would:2 three:1 2:1 expected:1 firm:1 ``:2 funds:1 biggest:1 active:1 those:1 whether:1 up:1 matter:1 following:1 investors:1 bigger-than-expected:1 pare:2 '':2 need:1 finance:1 reshape:1 familiar:1 stock:2 's:2 faces:1 claims:2 such:1 stocks:1 futures:2 person:1 banks:1 weigh:1
+RAI	20140523	57.2	57.1	r_down	decide:1 some:1 talks:2 makers:1 uncertainties:1 merger:1 menthol:1 should:1 concerns:1 combine:1 earnings:1 holding:1 quarterly:1 crackdown:1 possible:2 they:1 fall:1 report:1 news:1 advanced:1 antitrust:1 companies:1 face:1 while:1 rallies:2 better-than-expected:1
+RAI	20140527	57.1	57.1	r_up	
+RAI	20140528	57.1	57.0	r_down	
+RAI	20140529	57.0	58.2	r_up	levy:1 weighing:1 users:1 tobacco:1 whether:1 exchanges:1 regulators:1 health:1 can:1 participate:1 e-cigarette:1 insurers:1 surcharge:1
+RAI	20140530	58.2	58.3	r_up	
+RAI	20140602	58.3	57.5	r_down	
+RAI	20140603	57.5	57.8	r_up	
+RAI	20140604	57.8	58.0	r_up	firm:1 flower:1 company:1 stake:1 private:1 investment:1 equity:1 making:1 its:1 buying:1 first:1
+RAI	20140605	58.0	58.8	r_up	billion:1 200:1 buy:1 farm:1 $:3 person:1 investing:1 rose:1 million:1 stake:1 200m:1 fund:1 according:1 6.2:1 familiar:1 transaction:1 its:1
+RAI	20140606	58.8	58.6	r_down	
+RAI	20140609	58.6	58.7	r_up	
+RAI	20140610	58.7	58.5	r_down	
+RAI	20140611	58.5	58.9	r_up	
+RAI	20140612	58.9	58.6	r_down	
+RAI	20140613	58.6	59.0	r_up	
+RAI	20140616	59.0	59.6	r_up	
+RAI	20140617	59.6	59.3	r_down	
+RAI	20140618	59.3	60.5	r_up	
+RAI	20140619	60.5	61.4	r_up	
+RAI	20140620	61.4	61.8	r_up	
+RAI	20140623	61.8	61.0	r_down	control:1 greater:1 founder:2 company:1 fights:2 back:1 while:1 rallies:1 buyout:1 jumps:1 gains:1
+RAI	20140624	61.0	60.2	r_down	hit:1 lead:1 tobacco:1 declines:1 could:1 rise:1 problems:1 been:1 years:1 cigarettes:1 recent:1 further:1 smoking:1 has:1 electronic:1 market:1 bond:1
+RAI	20140625	60.2	59.9	r_down	leaders:1 tobacco:1 prove:1 leading:1 bonds:1 companies:1 payments:1 unlikely:1 way:1 year:1 backed:1 rally:1 market:1 muni:2
+RAI	20140626	59.9	59.7	r_down	
+RAI	20140627	59.7	59.7	r_up	
+RAI	20140630	59.7	59.6	r_down	
+RAI	20140701	59.6	59.6	r_up	
+RAI	20140702	59.6	59.4	r_down	
+RAI	20140703	59.4	60.8	r_up	reveals:1 after:1 end:1 gains:2 may:1 media:1 jumps:1 stake:2 soon:1 merger:1 9.9:1 rallies:1 report:1
+RAI	20140707	60.8	60.7	r_down	's:2 above:1 may:1 amid:1 over:1 least:1 next:1 their:1 want:1 enthusiasm:1 push:1 17000:2 weeks:1 several:1 temper:1
+RAI	20140708	60.7	60.6	r_down	rises:1 falls:1 movers:1 after:1 up:1 sales:2 slides:1 while:1 downgrade:1 strong:2 analyst:1
+RAI	20140709	60.6	61.9	r_up	own:1 almost:1 rest:1 already:1 year:1 doesn’t:1 its:1 $:2 altitude:1 shares:1 listed:1 recovered:1 buy:1 gains:1 may:1 weakness:1 million:1 report:2 buyout:1 rises:1 recent:1 gained:1 last:1 30:1 while:1 property:1
+RAI	20140710	61.9	61.5	r_down	
+RAI	20140711	61.5	61.0	r_down	spurred:1 help:1 global:1 trade:1 session:1 including:1 talks:6 hedge:1 weekly:2 merger:1 troubles:1 late:1 equity:1 main:1 trimming:1 them:1 gains:2 government:1 beat:1 consolidation:1 wave:1 break:1 buyout:2 tobacco:3 companies:2 across:1 small:1 stock:3 steam:1 smaller:1 deal:2 back:1 battle:1 actively:1 morning:1 closes:1 federal:1 shares:1 looking:1 new:1 firms:1 leader:2 conglomerate:1 losing:1 news:1 rises:1 both:1 industry:4 losses:2 motion:1 afternoon:1 pick:1 climb:1 streak:1 private:1 your:1 market:1 would:2 create:1 selloff:2 confirming:1 2:1 expected:1 proposal:1 markets:2 buy:2 funds:1 acquire:1 slides:1 biggest:1 five-day:1 rival:1 up:1 ugly:1 while:1 benchmarks:1 trim:1 finance:1 confirmed:1 reshape:1 setting:1 potentially:1 multibillion-dollar:1 bouncing:1 higher:1 finish:1 's:2 after:3 falls:1 brands:1 stocks:1 assets:1 banks:2
+RAI	20140714	61.0	62.4	r_up	private:1 smoker:1 including:1 talks:1 your:1 her:1 hint:1 strategy:1 behind:1 equity:1 biggest:1 e-cigarettes:1 's:2 finance:1 beat:1 funds:1 company:1 news:1 hedge:1 former:1 these:1 days:1 morning:1 chief:1 banks:1
+RAI	20140715	62.4	58.1	r_down	rating:1 serving:1 show:1 agreed:1 month:1 7.1:1 through:1 doesn’t:1 its:2 25:4 $:5 merger:3 ease:1 including:2 choose:1 equity:1 2014:1 smart:1 giants:1 adviser:1 finance:1 beat:1 big:3 fall:1 hedge:1 trade:1 investor:1 retreat:1 tobacco:3 companies:1 morning:2 deals:1 benefit:1 victories:1 become:1 deal:4 declines:1 some:1 celebrating:1 actively:1 margins:1 said:1 profit:1 review:1 shares:2 agrees:1 announced:1 jumps:1 seventh:1 confidence:1 news:2 inevitable:1 session:1 last:1 getting:1 industry:1 roil:1 bruised:1 number:1 private:1 one:1 down:1 wider:1 your:1 shareholders:1 woes:1 would:1 cash-and-stock:1 there:2 two:2 expected:1 markets:1 today:1 more:1 buy:3 funds:1 company:1 acquire:1 but:1 fund:1 spin:1 paying:1 valued:1 15:1 room:1 edition:1 straight:1 n't:2 delay:1 making:1 drops:1 could:1 acquisition:1 pack:1 biggest:1 have:1 e-cigarette:1 any:1 sell:1 mutual:1 threatens:1 stake:1 1:1 instead:1 brand:1 stock:1 's:5 after:3 brands:2 gasp:1 stocks:2 data:2 billion:4 purchase:1 lower:1 off:2 antitrust:1 overnight:1 maker:2 costs:1 rallies:1 banks:1
+RAI	20140716	58.1	57.4	r_down	set:1 over:1 one:1 trends:1 growth:1 shake:1 seen:1 landscape:1 broad:1 decision:1 there:1 charts:1 40:2 few:1 state:1 5:1 interest:1 reason:1 rates:1 has:1 decades:1 today:1 more:1 real:1 generating:1 buy:1 's:3 e-cigarettes:1 million:1 explore:1 smokers:1 five:1 plenty:1 smoking:2 opportunity:1 than:1 change:1 great:1 last:1 tobacco:2 --:1 industry:1 drop:1 up:1 points:1 planned:1 pockets:1 divest:1 beneath:1 steep:1 acquisition:1
+RAI	20140717	57.4	57.0	r_down	
+RAI	20140718	57.0	57.9	r_up	
+RAI	20140721	57.9	57.3	r_down	says:1 jump:1 likely:1 smoking:1 jury:1 rounds:1 decline:1 $:2 shares:1 fight:1 activist:1 earnings:1 higher:1 case:1 's:1 sinks:1 vows:1 award:1 break:1 fund:1 sink:1 sharply:1 news:1 billion:1 sending:1 up:2 morning:1 verdict:1 push:1
+RAI	20140722	57.3	57.5	r_up	
+RAI	20140723	57.5	56.5	r_down	help:1 tobacco:1 may:2 disappointed:1 industry:1 companies:1 sales:1 stem:1 cigarettes:1 savior:1 not:1 electronic:1 betting:1 declining:1
+RAI	20140724	56.5	56.6	r_up	
+RAI	20140725	56.6	56.2	r_down	
+RAI	20140728	56.2	56.0	r_down	
+RAI	20140729	56.0	56.6	r_up	0.8:2 revenue:1 results:1 trade:2 down:1 session:2 pricing:1 edged:1 miss:1 its:2 declined:1 gains:1 '':1 said:2 profit:1 shares:2 earnings:1 tumbles:1 expected:2 a.m.:1 gets:1 boost:1 higher:1 ``:1 's:3 sinks:1 company:1 after:1 cigarette:2 helped:1 offset:1 volumes:1 second-quarter:1 disappointing:1 lower:1 climbed:1 companies:2 up:1 actively:2 steps:1 6.7:1 quarter:1
+RAI	20140730	56.6	56.5	r_down	sales:2 '':1 its:1 declined:1 category:1 said:2 profit:1 increase:1 storm:1 ``:1 's:4 slight:1 e-cigarettes:1 company:1 offset:1 not:1 second-quarter:1 tobacco:1 whole:1 taking:1 drop:1 traditional:1 cigarettes:2 slightly:1 industry:1
+RAI	20140731	56.5	55.2	r_down	
+RAI	20140801	55.2	55.1	r_down	
+RAI	20140804	55.1	55.5	r_up	
+RAI	20140805	55.5	55.2	r_down	
+RAI	20140806	55.2	55.8	r_up	given:1 woman:1 patient:1 doctor:1 deadly:1 virus:1 hundreds:1 second:1 arrived:1 questioned:1 were:1 authorities:1 health:1 experimental:1 treatment:1
+RAI	20140807	55.8	55.6	r_down	
+RAI	20140808	55.6	56.4	r_up	
+RAI	20140811	56.4	56.8	r_up	
+RAI	20140812	56.8	56.4	r_down	
+RAI	20140813	56.4	56.3	r_down	received:1 use:1 combat:1 drugs:1 light:1 after:1 some:1 treatments:1 two:1 green:1 questions:1 demand:1 growing:1 outbreak:1 experimental:1 gave:1
+RAI	20140814	56.3	57.0	r_up	unusual:1 tobacco:1 real-estate:1 less:1 holdings:1 value:1 its:1 conglomerate:1 trading:1 7:1 intrinsic:1 than:1
+RAI	20140815	57.0	56.5	r_down	
+RAI	20140818	56.5	57.1	r_up	giant:1 off:1 brand:1 two:1 facing:1 cigarettes:1 range:1 owns:2 court:1 electronic:1 maker:1 vs.:1
+RAI	20140819	57.1	57.4	r_up	outlook:1 600:1 revenue:1 backing:1 course:1 full-year:1 nine-month:1 its:3 decline:1 said:1 guidance:1 4.9:1 leap:1 lifts:1 complete:1 climbs:1 jumps:1 after:2 reported:1 brands:1 raising:1 cigarette:1 while:1 small:1 acquisition:1 pack:1
+RAI	20140820	57.4	57.2	r_down	
+RAI	20140821	57.2	57.5	r_up	
+RAI	20140822	57.5	57.3	r_down	
+RAI	20140825	57.3	57.5	r_up	led:1 wane:1 79:1 industry:1 its:1 computer:1 longtime:1 old:1 years:1 dominance:1 died:1 began:1
+RAI	20140826	57.5	57.1	r_down	flavors:1 restrictions:1 use:1 curbs:1 tougher:1 candy:1 cigarettes:1 fruit:1 including:1 advertising:1 such:1 electronic:1 called:1
+RAI	20140827	57.1	57.2	r_up	reversing:1 stores:1 into:1 number:1 years:1 high:1 say:1 growth:1 e-cigarette:1 electronic:1 its:1 three:1 finally:1 too:1 new:1 teens:1 shows:1 's:1 big:1 sales:1 regular:1 boosting:1 now:1 falling:1 school:1 kids:1 hooking:1 smokes:1 try:1 cigarettes:1 convenience:1 survey:1 push:1 making:1 more:1
+RAI	20140828	57.2	57.3	r_up	
+RAI	20140829	57.3	57.8	r_up	raised:1 code:1 financial:1 choosing:1 people:1 cents:1 certain:1 bankers:1 sales:1 deep:1 trade:2 widened:1 session:2 topped:1 have:1 year:1 sells:1 deal-making:1 its:3 one:1 information:1 said:1 end:2 $:1 names:1 also:1 profit:1 broad:1 guidance:1 revenue:1 expectations:1 shares:2 second-quarter:2 discounts:1 setting:1 growth:1 treatment:1 which:1 scientists:1 expected:2 has:1 pending:1 higher:1 requested:1 buy:1 's:4 premarket:1 cocktail:1 earnings:1 company:2 powerhouse:1 but:1 test:1 virus:1 offsetting:1 five:1 sharply:1 putting:1 brands:1 dose:1 surged:1 monkeys:1 stage:1 fiscal:2 loss:1 posted:1 2.8:1 name:1 items:1 bottom:1 companies:2 regulators:1 drug:1 deals:2 game:1 actively:2 expenses:1 young:1 divest:1 more:1 called:1 experimental:1 dropped:1
+RAI	20140902	57.8	58.4	r_up	
+RAI	20140903	58.4	58.3	r_down	
+RAI	20140904	58.3	58.1	r_down	ambassador:1 pays:1 over:1 mansion:1 battle:1 its:1 roots:1 said:1 her:1 trademark:1 legal:1 company:1 seeks:1 's:1 e-cigarettes:1 brand:1 lighter:1 former:1 protect:1 name:1 tobacco:1 taking:1 range:1 maker:1
+RAI	20140905	58.1	58.2	r_up	
+RAI	20140908	58.2	57.7	r_down	
+RAI	20140909	57.7	57.2	r_down	's:1 food:1 32:1 straight:1 sales:1 years:1 trends:1 growth:1 despite:1 breakfast:1 has:1 changes:1
+RAI	20140910	57.2	57.3	r_up	
+RAI	20140911	57.3	57.4	r_up	
+RAI	20140912	57.4	57.4	r_up	
+RAI	20140915	57.4	57.5	r_up	
+RAI	20140916	57.5	57.6	r_up	
+RAI	20140917	57.6	57.0	r_down	
+RAI	20140918	57.0	57.5	r_up	
+RAI	20140919	57.5	57.4	r_down	's:1 tobacco:1 company:2 executive:1 commercial:1 chief:1 president:1 appointed:1
+RAI	20140922	57.4	57.9	r_up	
+RAI	20140923	57.9	57.0	r_down	
+RAI	20140924	57.0	58.1	r_up	
+RAI	20140925	58.1	57.7	r_down	marketing:1 veteran:1 chief:1 advertising:1 promoted:1 post:1 officer:1
+RAI	20140926	57.7	58.3	r_up	
+RAI	20140929	58.3	58.6	r_up	
+RAI	20140930	58.6	59.0	r_up	
+RAI	20141001	59.0	58.7	r_down	
+RAI	20141002	58.7	58.6	r_down	back:1 itself:1 seen:1 its:1 sell:1 takes:1 activism:1 stake:1 shares:1 slew:1 increase:1 which:1 has:1 buy:1 's:2 billionaire:1 company:2 break:1 sequels:1 dividend:1 investor:1 --:2 up:1 executives:1
+RAI	20141003	58.6	59.4	r_up	
+RAI	20141006	59.4	59.3	r_down	
+RAI	20141007	59.3	59.1	r_down	
+RAI	20141008	59.1	60.0	r_up	
+RAI	20141009	60.0	59.2	r_down	
+RAI	20141010	59.2	59.6	r_up	provided:1 ran:1 taking:1 patients:1 production:1 steps:1 expand:1 supplies:1 before:1 new:1 several:1 out:1 experimental:1 treatment:1

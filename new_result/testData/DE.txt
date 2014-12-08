@@ -1,0 +1,114 @@
+DE	20140501	92.0	91.9	r_down	
+DE	20140502	91.9	91.6	r_down	
+DE	20140505	91.6	91.4	r_down	do:1 help:1 puts:1 pay:1 mind:1 yield:1 n't:1 pad:1 can:1 you:1 stocks:1 trips:1 owning:1
+DE	20140506	91.4	91.4	r_up	
+DE	20140507	91.4	93.2	r_up	
+DE	20140508	93.2	92.9	r_down	said:1 first-quarter:1 equipment:1 33:1 company:1 sales:1 reported:1 softer:1 shrank:1 income:1 agricultural:1 net:1 its:1
+DE	20140509	92.9	93.0	r_up	
+DE	20140512	93.0	92.3	r_down	
+DE	20140513	92.3	92.3	r_up	do:1 's:1 look:1 investors:1 may:1 worth:1 results:1 but:1 due:1 n't:1 not:1 cheer:1 much:1 quarterly:1 still:1 its:1 stock:1
+DE	20140514	92.3	90.4	r_down	operations:1 results:2 trade:3 dot-com:1 session:3 through:1 still:1 its:3 decade:1 $:1 also:1 rose:1 ease:1 expectations:1 bust:1 than:1 present:1 premarket:1 under:1 pending:1 harvesting:2 sinking:1 then:1 broadly:1 breaks:1 rise:1 watch:2 fall:1 nasty:1 now:2 loss:1 level:1 --:1 companies:4 small:1 found:1 1,900:1 back:1 see:2 actively:2 3.2:1 year:1 slumped:1 avoided:1 closes:1 said:2 farmers:2 profit:3 shares:3 capital:1 new:1 increasing:1 core:1 missing:1 climbs:1 burn:1 continuing:1 tractors:2 pressure:1 key:1 active:1 path:1 cautious:1 months:1 surge:1 important:1 mixed:1 south:1 win:1 within:1 assess:1 wider:1 market:2 combines:2 working:1 there:1 selloff:1 been:1 their:1 expected:3 9.5:4 's:10 500:1 more:1 ago:1 buy:1 company:2 but:2 demand:1 prices:1 second-quarter:2 buying:1 posted:1 none:1 grew:1 couple:1 cash:1 those:1 can:1 high-growth:1 ingredient:1 streak:1 investors:3 bigger-than-expected:1 turned:1 sales:2 have:1 if:1 equipment:2 earnings:1 brand:1 stock:3 first-quarter:1 index:1 farm:1 drift:1 148:1 driven:1 fell:3 5-day:1 stocks:3 recapture:1 recent:1 fiscal:2 lower:1 amid:1 futures:2 analysis:1 giving:1 bottom-line:1 tech:1
+DE	20140515	90.4	89.9	r_down	
+DE	20140516	89.9	90.0	r_up	
+DE	20140519	90.0	89.4	r_down	
+DE	20140520	89.4	88.7	r_down	
+DE	20140521	88.7	88.7	r_up	
+DE	20140522	88.7	88.7	r_up	rapidly:1 windows:1 investing:1 crops:1 weather:1 machinery:1 sow:1 narrow:1 favorable:1
+DE	20140523	88.7	88.7	r_up	
+DE	20140527	88.7	89.6	r_up	
+DE	20140528	89.6	89.6	r_up	
+DE	20140529	89.6	89.8	r_up	
+DE	20140530	89.8	89.9	r_up	
+DE	20140602	89.9	89.9	r_up	metals:1 system:1 down:1 including:1 have:1 labor:1 armed:1 dozen:1 wage:1 use:1 union:1 two-tier:1 mines:1 next:1 their:1 attack:1 setting:1 divides:1 mining:1 plans:1 may:1 auto:1 fund:1 intent:1 they:1 known:1 president:1 keeping:1 industry:1 suppliers:1 companies:1 costs:1 employees:1 region:1
+DE	20140603	89.9	89.5	r_down	
+DE	20140604	89.5	89.5	r_up	
+DE	20140605	89.5	90.0	r_up	
+DE	20140606	90.0	91.0	r_up	one:1 10:1 manufacturing:1 van:1 writes:1 company:1 cheap:1 stocks:1 shares:1 past:1 buy:1 five:1 can:1 have:1 years:1 you:1 still:1 surged:1 over:1
+DE	20140609	91.0	91.7	r_up	
+DE	20140610	91.7	91.1	r_down	
+DE	20140611	91.1	90.1	r_down	
+DE	20140612	90.1	89.2	r_down	
+DE	20140613	89.2	89.2	r_up	
+DE	20140616	89.2	89.1	r_down	
+DE	20140617	89.1	89.3	r_up	
+DE	20140618	89.3	89.9	r_up	
+DE	20140619	89.9	90.3	r_up	
+DE	20140620	90.3	90.7	r_up	
+DE	20140623	90.7	90.1	r_down	
+DE	20140624	90.1	89.3	r_down	love:1 being:1 invest:1 writes:1 stop:1 robot:1 you:1 trend:1 replaced:1 can:1 learned:1 stocks:1 worrying:1 machines:1
+DE	20140625	89.3	89.4	r_up	
+DE	20140626	89.4	89.7	r_up	
+DE	20140627	89.7	90.1	r_up	
+DE	20140630	90.1	89.9	r_down	
+DE	20140701	89.9	89.4	r_down	
+DE	20140702	89.4	89.7	r_up	
+DE	20140703	89.7	90.7	r_up	
+DE	20140707	90.7	90.1	r_down	
+DE	20140708	90.1	89.4	r_down	scheduled:1 break:1 ``:1 business:1 extend:1 bonus:1 tax:1 soon:1 '':1 permanently:1 plan:1 depreciation:1 vote:1 lucrative:1 investment:1 spurring:1 aimed:1
+DE	20140709	89.4	88.5	r_down	
+DE	20140710	88.5	87.4	r_down	
+DE	20140711	87.4	87.8	r_up	
+DE	20140714	87.8	87.8	r_up	
+DE	20140715	87.8	87.9	r_up	
+DE	20140716	87.9	88.8	r_up	
+DE	20140717	88.8	86.8	r_down	one:1 decline:1 has:1 adviser:1 bonds:1 invest:1 clients:2 conservative:1 his:1 embrace:1 found:1 stocks:1 investment:1
+DE	20140718	86.8	87.0	r_up	
+DE	20140721	87.0	87.0	r_up	
+DE	20140722	87.0	87.7	r_up	
+DE	20140723	87.7	86.8	r_down	
+DE	20140724	86.8	86.3	r_down	
+DE	20140725	86.3	85.5	r_down	sowing:1 farmers:1 slump:1 many:1 corn:1 losses:1 fears:1 years:1 their:1 economy:1 face:1 sustained:1 prices:1 agricultural:1 suffer:1 its:1 could:1 decade:1 first:2
+DE	20140728	85.5	85.3	r_down	
+DE	20140729	85.3	85.2	r_down	
+DE	20140730	85.2	84.8	r_down	
+DE	20140731	84.8	84.5	r_down	
+DE	20140801	84.5	84.3	r_down	heavy:1 collecting:1 all:1 help:1 generation:1 them:1 loaded:1 makers:1 use:1 equipment:2 make:1 better:1 their:1 other:1 which:1 new:1 has:1 sent:1 customers:1 selling:1 they:1 sensors:1 data:1 search:1 software:1
+DE	20140804	84.3	84.6	r_up	
+DE	20140805	84.6	84.6	r_up	
+DE	20140806	84.6	84.7	r_up	
+DE	20140807	84.7	84.7	r_up	
+DE	20140808	84.7	86.3	r_up	closing:1 down:1 's:2 10:1 farm:1 price:2 after:1 share:1 update:1 reports:1 its:2 early:1 equipment:1 earnings:1 year:1 quarterly:1 peak:1 stock:1 day:1 issues:1 manufacturer:1
+DE	20140811	86.3	86.5	r_up	
+DE	20140812	86.5	85.8	r_down	do:1 's:1 optimism:1 offer:1 going:1 due:1 but:1 results:1 n't:1 forward:1 reason:1 much:1 low:1 quarterly:1 new:1 data:1 crop:1
+DE	20140813	85.8	83.8	r_down	industrial:1 had:1 spreading:1 penny:2 trade:1 already:1 rising:1 shares:1 stronger-than-expected:1 market:1 relatively:1 n't:1 giant:1 actively:1 muted:1 troubles:1 been:1 mark:1 earnings:1 which:1 expected:1 upbeat:1 has:2 stock:1 's:4 food:1 season:1 pinching:2 trouble:1 session:1 reaction:1 made:1 surprising:1 these:1 companies:2 reports:1 leaving:1 facing:1 costs:1 passing:1 retail:1 similar:1
+DE	20140814	83.8	84.2	r_up	saying:1 outlook:1 investors:1 tepid:1 over:1 back:1 slowdown:1 down:1 prompts:1 year:2 positive:1 advisories:1 said:1 gainers:1 profit:1 surprises:1 while:1 stocks:1 slew:1 equipment:1 production:1 earnings:1 farming:1 500:2 downgrades:1 sales:1 game:1 scale:1 drops:1 off:1 quarters:1 data:1 roundup:1 leads:2 lower:1 territory:1 15:1 warned:1 companies:1 reports:1 maker:1 retail-sales:1 future:1 disappointment:1 rose:1 shook:1 corporate:1 dragged:1 latest:1
+DE	20140815	84.2	84.1	r_down	weaker:1 600:2 back:1 trade:1 session:1 agricultural:1 its:1 scale:1 factory:1 shares:1 equipment:1 production:1 expected:1 more:1 's:3 said:1 plan:1 demand:1 part:1 than:1 off:1 indefinitely:1 amid:1 employees:1 companies:1 actively:1 lay:1
+DE	20140818	84.1	85.4	r_up	
+DE	20140819	85.4	85.0	r_down	
+DE	20140820	85.0	85.2	r_up	
+DE	20140821	85.2	85.5	r_up	10:1 appear:1 cheap:1 same:1 one:2 but:1 have:1 not:1 stocks:1 valuation:1
+DE	20140822	85.5	84.1	r_down	weaker:1 off:1 600:1 follows:1 amid:1 employees:1 460:1 lay:1 demand:1 operation:1 layoffs:1 workers:1 more:1
+DE	20140825	84.1	84.5	r_up	billion:1 's:1 $:1 may:1 sale:1 fetch:1 2:1 medical-device:1 its:1 unit:1 more:1
+DE	20140826	84.5	83.4	r_down	
+DE	20140827	83.4	83.2	r_down	
+DE	20140828	83.2	83.3	r_up	
+DE	20140829	83.3	83.4	r_up	
+DE	20140902	83.4	83.1	r_down	
+DE	20140903	83.1	82.5	r_down	
+DE	20140904	82.5	82.5	r_up	
+DE	20140905	82.5	82.1	r_down	violence:1 which:1 region:1 fueling:1 finally:1 financially:1 can:1 determine:1 not:1 world:1 refiners:1 smelters:1 around:1
+DE	20140908	82.1	82.3	r_up	scrambling:1 prowess:1 like:1 technical:1 becomes:1 industry:2 up:1 else:1 everything:1 build:1 agricultural:1 farming:1 its:1
+DE	20140909	82.3	81.6	r_down	
+DE	20140910	81.6	81.3	r_down	
+DE	20140911	81.3	81.4	r_up	
+DE	20140912	81.4	81.3	r_down	
+DE	20140915	81.3	82.0	r_up	
+DE	20140916	82.0	82.3	r_up	
+DE	20140917	82.3	82.9	r_up	
+DE	20140918	82.9	83.5	r_up	
+DE	20140919	83.5	83.0	r_down	
+DE	20140922	83.0	83.1	r_up	billion:1 giant:1 $:1 deal:2 acquire:1 soon:1 reports:1 unveil:1 engineering:1 multibillion-dollar:1 6:1 announce:1 slated:1 maker:1
+DE	20140923	83.1	82.7	r_down	up:1 crop:1 strategic:1 undermining:1 maintained:1 reached:1 decisions:1 insurance:1 unit:1 poorly:1 said:1 productivity:1 driving:1 spending:1 review:1 had:1 any:2 their:1 agreements:1 increasing:1 infrastructure:1 plans:1 although:1 discuss:1 formal:1 made:1 warned:1 say:1 n't:1 costs:1 its:1 options:2 urging:1
+DE	20140924	82.7	83.1	r_up	
+DE	20140925	83.1	82.5	r_down	
+DE	20140926	82.5	82.8	r_up	
+DE	20140929	82.8	82.3	r_down	
+DE	20140930	82.3	81.9	r_down	
+DE	20141001	81.9	81.5	r_down	
+DE	20141002	81.5	81.7	r_up	
+DE	20141003	81.7	82.1	r_up	
+DE	20141006	82.1	82.8	r_up	
+DE	20141007	82.8	80.0	r_down	again:1 all:1 cut:1 sales:1 amid:1 guidance:1 weak:1 back:1 maker:1 regions:1 production:1 scale:1 planned:1 costs:1 its:2 across:1
+DE	20141008	80.0	81.3	r_up	
+DE	20141009	81.3	81.1	r_down	
+DE	20141010	81.1	80.9	r_down	

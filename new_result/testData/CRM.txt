@@ -1,0 +1,114 @@
+CRM	20140501	51.6	52.0	r_up	's:4 valuations:1 company:1 debut:1 selloff:1 cloud-computing:1 delayed:1 false:1 dawn:1 confirms:1 sky-high:1 could:1 mean:1
+CRM	20140502	52.0	52.4	r_up	
+CRM	20140505	52.4	53.6	r_up	turning:1 service:1 remains:1 into:1 delaying:1 up:1 against:1 anticipated:1 platform:1 going:1 focused:1 likes:1 widely:1 its:2
+CRM	20140506	53.6	51.7	r_down	writes:1 company:1 trade:1 wrong:1 athenahealth:1 health:1 key:1 side:1 care:1
+CRM	20140507	51.7	50.4	r_down	
+CRM	20140508	50.4	50.1	r_down	
+CRM	20140509	50.1	50.2	r_up	shrug:1 right:1 off:2 deal:1 needed:1 merger:1 advances:1 companies:1 fight:1 n't:2 failed:1 tech:1
+CRM	20140512	50.2	53.4	r_up	
+CRM	20140513	53.4	52.2	r_down	renting:1 ambassador:1 momentum-play:1 closely:1 office:1 leads:1 watched:1 rally:2 its:2 payoff:1 stocks:1 built:1 space:1 leading:1 strategy:1 member:1 turnaround:1 boom:1 before:1 new:1 proposal:1 developers:1 viable:1 momentum:1 board:1 after:1 's:1 towers:1 big:1 attention:1 rejected:1 quest:1 they:1 buyout:1 rises:1 bringing:1 former:1 like:1 attracts:1 companies:1 while:1 lift:1 onto:1 bet:1
+CRM	20140514	52.2	51.8	r_down	spell:1 kept:1 closely:1 wane:1 broad:1 could:1 afloat:1 rally:1 while:1 much:1 momentum:1 have:2 year:1 followed:1 trouble:1 stocks:3 starting:1 market:2 utility:2
+CRM	20140515	51.8	51.4	r_down	
+CRM	20140516	51.4	51.8	r_up	investors:1 wary:1 one:1 n't:1 thing:1 deceleration:1 top-line:1 should:1
+CRM	20140519	51.8	53.2	r_up	firm:1 drops:1 return:1 bring:1 becoming:1 back:1 ‘black:1 swan’:1 likely:1 usher:1 take:1 holding:1 making:1 during:1 more:2 stock:2 true:1 event:1 market:1 volatility:2
+CRM	20140520	53.2	52.8	r_down	futures:1 deal:1 results:2 trade:2 see:1 session:1 expected:1 year:2 miss:1 whose:1 missed:1 expectations:1 shares:2 mark:1 premarket:1 between:1 quarterly:1 2014:1 2013:1 stock:1 gains:1 after:1 watch:1 buyback:1 driven:1 jumbo:1 waver:1 active:1 stocks:2 lower:1 losses:1 companies:1 retailers:1 swing:1 small:1
+CRM	20140521	52.8	50.1	r_down	saying:1 issued:1 outlook:2 month:1 bright:1 session:4 138:1 its:8 previous:1 25:1 cut:1 $:5 rose:3 guidance:2 expectations:2 advisories:1 premarket:1 has:1 vendor:2 gains:1 loss:3 rebound:1 watch:1 results:2 nearly:1 trade:3 investor:1 easily:1 level:1 companies:4 50:1 7.1:1 after-hours:2 higher:2 view:1 widened:2 see:1 actively:2 trading:2 year:1 close:1 beyond:1 said:3 jewelry:1 sentiment:1 profit:2 broad:2 since:1 shares:4 current:2 3:1 future:1 between:1 whose:1 triple-digit:1 weak:1 hours:1 reported:1 offset:2 active:1 first-quarter:4 gained:1 quarter:3 ahead:1 high-end:1 broad-based:1 notching:1 losses:2 36:1 's:9 surprises:1 software:3 raised:2 revenue:4 retailer:1 awaited:1 29:1 offerings:1 63:1 rising:1 been:1 open:1 decline:1 adjusted:1 cloud-based:2 6:1 biggest:1 recent:1 meeting:1 500:1 more:1 lowest:1 billion:3 mostly:1 bouncing:1 company:6 but:5 expected:3 gain:1 90:1 surged:1 than:1 11:1 weighed:1 12:3 solid:1 up:1 growth:3 quarters:1 minutes:2 region:1 0.8:1 30:1 sees:1 investors:1 1.3:1 cents:3 expanding:1 start-up:1 0.2:1 share:2 sales:3 expenses:2 disappointing:1 full-year:2 numbers:1 slip:2 rally:1 compared:1 end:1 techs:1 topped:1 edge:1 earnings:4 tumbles:1 stock:2 edged:1 though:1 after:2 falls:1 fell:1 stocks:5 missed:1 fiscal:4 corporate:1 futures:2 traditional:1 reports:1 points:2 tech:1 rallies:1 1.27:1 roundup:1 latest:1
+CRM	20140522	50.1	53.2	r_up	posts:1 jumps:1 after:1 retailer:1 up:1 expansion:1 while:1 earnings:1 growth:1 plan:2 stronger-than-expected:1 shines:1 rises:1 its:1 luxury:1
+CRM	20140523	53.2	53.4	r_up	own:2 begun:1 competitive:1 say:1 including:1 have:1 talks:2 use:1 merger:1 writing:1 their:2 internal:1 earnings:1 holding:1 quarterly:1 gives:1 them:1 possible:1 employee:1 key:1 fall:1 report:1 news:1 advanced:1 areas:1 developing:1 companies:1 while:1 edge:1 rallies:2 software:2 better-than-expected:1
+CRM	20140527	53.4	54.3	r_up	12:1 set:1 upside:1 months:1 next:1
+CRM	20140528	54.3	53.3	r_down	connect:1 giant:1 force:1 system:1 their:1 media:1 real-time:1 help:1 sales:1 cloud-based:1 automation:1 better:1 companies:1 planning:1 customers:1 leverage:1 social:1 software:1 technology:1 roll:1 out:1
+CRM	20140529	53.3	54.4	r_up	among:1 code:1 month:1 four:1 computer:1 need:1 open:1 funding:1 support:1 initial:1 source:1 has:1 announced:1 them:1 full:1 group:1 bug:1 projects:1 audit:1 last:1 created:1 security:1 software:1
+CRM	20140530	54.4	52.6	r_down	fourth-quarter:1 adjusted:1 own:1 platform:2 up:1 bigger-than-expected:1 partnership:5 some:1 sales:2 trade:2 connect:2 bring:1 session:2 topped:1 first-quarter:1 vendors:1 apparently:1 its:2 declined:1 cloud-based:2 8.1:2 late:1 different:1 said:3 $:1 their:1 profit:2 rose:1 snacks:1 recorded:1 expectations:1 shares:3 forecast:1 access:1 instance:1 charge:1 growth:1 earnings:1 premarket:1 integrate:1 expected:2 new:1 365:1 announced:1 more:1 customers:2 's:8 business:2 cloud:3 company:3 1.6:1 forming:2 strike:1 restructuring:1 fell:1 let:1 two:1 they:1 demand:1 services:2 despite:1 one:1 change:1 software:2 fiscal:2 sending:1 short:1 least:1 strategic:2 integrating:1 33:1 also:1 companies:3 75:1 remains:1 actively:2 analysts:1 deeply:1 hype:1 vendor:2 led:1 'd:1 plan:1
+CRM	20140602	52.6	52.3	r_down	
+CRM	20140603	52.3	50.9	r_down	all:1 regardless:1 some:1 play:1 innovations:1 '':1 startups:2 rarely:1 billion-dollar:1 rounds:1 row:1 $:1 saw:1 two:1 same:1 out:1 bubble:1 ought:1 firm:1 ``:1 's:1 valuations:1 company:1 watch:1 reflect:1 important:1 key:1 along:1 opportunity:1 leads:1 sectors:1 amid:1 tech:2 venture:1 talk:1
+CRM	20140604	50.9	51.0	r_up	
+CRM	20140605	51.0	51.3	r_up	...:1 off:1 just:1 golden:1 wo:1 work:1 n't:1 start:1 mobile:1 cloud:1
+CRM	20140606	51.3	51.8	r_up	just:1 years:1 manager:1 looks:1 want:1 accounting:2 even:1 fails:1 van:1 investors:1 writes:1 does:1 those:1 new:1 decades:1 today:1 greater:1 rules:1 fund:1 know:1 come:1 change:1 must:1 great:1 12:1 companies:1 n't:1 solve:1 fundamental:1 making:1 problem:1
+CRM	20140609	51.8	51.7	r_down	unless:1 financial:1 last:1 over:1 contribute:1 stop:1 clients:1 next:1 helped:1 their:1 they:2 performance:1 managers:1 one:1 cause:1 short-term:1
+CRM	20140610	51.7	53.0	r_up	use:1 devices:1 business:1 companies:1 glasses:1 wearable:1 connect:1 applications:1 watches:1 can:1 smart:1 build:1 software:1 tools:1 other:1 launched:1 developer:1
+CRM	20140611	53.0	53.3	r_up	
+CRM	20140612	53.3	53.0	r_down	
+CRM	20140613	53.0	54.3	r_up	ready:1 back:1 bounce:1 others:1
+CRM	20140616	54.3	54.6	r_up	
+CRM	20140617	54.6	57.8	r_up	
+CRM	20140618	57.8	57.7	r_down	among:1 while:1 stores:1 gains:2 performers:1 whether:1 open:1 company:1 high-frequency:1 up:2 hearing:2 four:1 trading:1 extends:2 500:1 hurts:1 wake:1 permission:1 markets:1 best:1 gives:1
+CRM	20140619	57.7	57.8	r_up	
+CRM	20140620	57.8	57.5	r_down	buy:1 's:1 computing:1 may:1 into:1 top:1 quickly:1 try:1 way:1 its:1 cloud:1
+CRM	20140623	57.5	58.0	r_up	raised:1 set:1 fundraising:1 '':1 cloud:1 web-based:1 use:1 $:2 40:2 which:1 announce:1 has:1 ``:1 million:1 services:1 venture-capital:1 third:1 companies:1 security:1 makes:1 round:1 software:1
+CRM	20140624	58.0	57.4	r_down	
+CRM	20140625	57.4	57.4	r_up	key:1 raised:1 $:2 make:1 million:1 startup:1 aims:1 access:1 3:2 including:1 have:1 enterprise:1 employees:1 data:1 easier:1 executives:1
+CRM	20140626	57.4	57.1	r_down	illnesses:1 monitor:1 medical:1 suffering:1 devices:1 patients:1 long-term:1 software:1
+CRM	20140627	57.1	57.3	r_up	
+CRM	20140630	57.3	58.0	r_up	named:1 finance:2 interim:1 appointed:1 director:1 chief:1 permanent:1 promote:1 its:1
+CRM	20140701	58.0	59.2	r_up	named:1 provide:1 financial:2 replacing:1 slightly:1 company:2 executive:1 shares:1 leaving:2 stability:1 retiring:1 chief:2 said:1 officer:1 goes:1 new:1 software:1 dip:1 its:2 after:1 he:1
+CRM	20140702	59.2	58.9	r_down	
+CRM	20140703	58.9	58.7	r_down	
+CRM	20140707	58.7	57.3	r_down	150:2 raised:1 said:1 funding:1 $:2 investors:1 waits:1 initial:1 company:1 million:1 startup:1 private:1 offering:1 time:1 hold:1 suitable:1 public:1 more:1
+CRM	20140708	57.3	54.8	r_down	
+CRM	20140709	54.8	54.6	r_down	
+CRM	20140710	54.6	54.3	r_down	
+CRM	20140711	54.3	54.2	r_down	
+CRM	20140714	54.2	54.7	r_up	
+CRM	20140715	54.7	53.7	r_down	
+CRM	20140716	53.7	53.9	r_up	'':1 ``:1 everyone:1 says:1 like:1 no:1 company:1 work:1 reason:1 valuable:1 should:1 n't:1 most:1 running:1 does:1 world:1 80:1 's:2 why:1 he:1
+CRM	20140717	53.9	52.6	r_down	drop:1 revenue:1 manage:1 outsourcing:1 second:1 businesses:1 complex:1 cloud:3 said:1 rapidly:1 no:1 profit:1 jumped:1 make:1 crucial:1 due:1 their:1 vendors:1 much:1 5:1 systems:1 online:1 new:1 more:1 reporting:1 risk:1 business:1 big:1 company:1 after:1 applications:3 key:1 despite:1 focusing:1 rush:1 uncertainty:1 companies:1 parts:1 switch:2 rose:1 quarter:1 comes:1 software:1
+CRM	20140718	52.6	53.5	r_up	
+CRM	20140721	53.5	53.3	r_down	
+CRM	20140722	53.3	53.6	r_up	
+CRM	20140723	53.6	53.6	r_up	seeing:1 giant:1 moving:1 cloud:1 improving:1 momentum:1 software:1
+CRM	20140724	53.6	54.0	r_up	says:1 we:1 '':2 see:1 growth:1 year:1 market:1 certainly:1 been:1 adoption:1 employee:1 has:1 ``:2 becomes:1 social:2 component:1 standard:1 every:1 improving:1 analyst:1 n't:1 enterprise:2 software:1
+CRM	20140725	54.0	54.8	r_up	have:1 1.2:1 50:1 growth:1 purchased:1 morning:1 tools:1 its:1 co-founder:1 $:1 service:1 efficient:1 make:1 outspoken:1 had:1 two:2 been:1 market:1 new:1 has:1 more:1 billion:1 advocate:1 collaborative:1 company:1 social:1 during:1 years:2 ago:1 last:1 off:1 roughly:1 leaving:1 competitors:1 cooled:1 enterprise:1 fallen:1 workers:1 acquisition:1 software:2
+CRM	20140728	54.8	54.0	r_down	
+CRM	20140729	54.0	54.8	r_up	
+CRM	20140730	54.8	56.2	r_up	
+CRM	20140731	56.2	54.2	r_down	
+CRM	20140801	54.2	53.4	r_down	
+CRM	20140804	53.4	54.9	r_up	
+CRM	20140805	54.9	54.3	r_down	kind:1 like:1 creating:1 getting:1 companies:1 middleman:1 pose:1 some:1 keep:1 popular:1 they:1 become:1 services:1 new:2 security:1 opening:1 issues:1 more:1
+CRM	20140806	54.3	53.8	r_down	ease:1 robots:1 automation:1 topic:1 sharply:1 become:1 our:1 seem:1 technology:1 tool:1 divided:1 care:1
+CRM	20140807	53.8	53.7	r_down	
+CRM	20140808	53.7	54.4	r_up	
+CRM	20140811	54.4	54.8	r_up	
+CRM	20140812	54.8	52.7	r_down	
+CRM	20140813	52.7	52.8	r_up	upgrade:2 rallying:1 gains:2 headwinds:1 could:1 reverses:1 record:1 while:1 which:1 face:1 analyst:1 closed:1
+CRM	20140814	52.8	53.5	r_up	
+CRM	20140815	53.5	53.6	r_up	
+CRM	20140818	53.6	54.3	r_up	
+CRM	20140819	54.3	54.9	r_up	
+CRM	20140820	54.9	55.3	r_up	
+CRM	20140821	55.3	55.7	r_up	poor:1 outlook:1 raised:1 trade:1 session:1 year:1 swung:1 its:1 top:1 expectations:1 shares:4 forecast:1 earnings:3 seeks:1 higher:1 company’s:1 acquisitions:1 extended:1 diversity:1 string:1 though:1 beat:2 company:1 rise:1 second-quarter:1 after:1 fiscal:1 loss:1 amid:1 drop:1 surge:2 while:1 slightly:1
+CRM	20140822	55.7	59.8	r_up	saying:1 quarters:1 spinoff:1 emerges:1 giant:1 stocks:1 lead:1 surprises:1 advisories:1 earnings:3 upbeat:1 gains:2 slate:1 deliver:1 rises:1 roundup:1 reaction:1 companies:1 reports:1 pace:1 future:1 tech:2 corporate:1 talk:1 latest:1
+CRM	20140825	59.8	59.2	r_down	
+CRM	20140826	59.2	59.6	r_up	
+CRM	20140827	59.6	59.5	r_down	expanding:1 focus:1 prepares:1 growth:1 wider:1 its:1 earnings:1 expected:2 company’s:1 customers:1 demands:1 company:1 but:1 fall:1 report:2 continued:1 loss:1 scrambling:1 acquiring:1 look:1 companies:1 up:1 keep:1 headcount:1
+CRM	20140828	59.5	58.2	r_down	
+CRM	20140829	58.2	59.0	r_up	's:1 investors:1 classic:1 clock:1 question:1 long:1 stay:1 growth:1 another:1 pursuing:1 expense:1 profits:1
+CRM	20140902	59.0	59.8	r_up	favored:1
+CRM	20140903	59.8	59.0	r_down	months:1 last:1 third:1 company:1 six:1 enterprise:1 makes:1 its:1 acquisition:1 software:1
+CRM	20140904	59.0	59.0	r_up	reveals:1 seven:1 says:1 deal:1 moments:1 executive:1 watches:1 '':1 growth:1 run:1 appetite:1 wearable:1 makers:1 tells:1 rapid:1 estate:1 its:1 platform:1 build:2 new:1 founder:1 smart:1 chairman:1 real:1 ``:1 's:1 business:1 most:1 applications:1 device:1 using:1 now:1 him:1 both:1 extending:1 headquarters:1 chief:1 officer:1 worries:1 security:1 glasses:1 software:1
+CRM	20140905	59.0	59.8	r_up	's:1 wealth:1 into:1 benefit:1 tapping:1 bidders:1 expense:1 data:1 could:1 travel:1
+CRM	20140908	59.8	60.3	r_up	app:2 customers:2 '':2 round-up:1 $:3 investing:2 has:2 seeks:2 ``:2 around:1 company:1 million:2 fund:2 news:1 100:3 capitalize:2 venture-capital:3 calls:2 mobile:2 companies:2 analysis:1 launched:2
+CRM	20140909	60.3	59.6	r_down	strongly:1 seasonal:1 group:1 outperform:1 could:1 broader:1 pattern:1 market:1
+CRM	20140910	59.6	60.7	r_up	letting:2 managers:1 lead:1 people:1 agile:1 writes:1 need:2 go:2 you:1 achieve:1
+CRM	20140911	60.7	61.2	r_up	favored:1
+CRM	20140912	61.2	59.2	r_down	directors:1 said:1 's:2 executive:1 step:1 down:1 chief:1 chairman:1 board:1
+CRM	20140915	59.2	57.5	r_down	session:2 giant:1 like:1 's:2 look:1 way:1 flush:1 companies:2 play:1 shares:2 trade:2 actively:2 reasonable:1 budget:1 expected:2 software:1
+CRM	20140916	57.5	57.6	r_up	
+CRM	20140917	57.6	57.4	r_down	
+CRM	20140918	57.4	57.6	r_up	loved:1 large-cap:1 managers:1 14:1 top-performing:1 44:1 among:1 up:1 shares:1 fund:1 year:1 van:1 stocks:1 writes:1 gains:1
+CRM	20140919	57.6	58.2	r_up	named:1 often:1 revenue:1 into:1 one:2 surrounding:1 second:1 arrangements:1 its:1 market:1 8.3:1 $:1 service:1 aside:1 shifts:1 behind:1 cloud:1 largest:1 biggest:1 stepped:1 issue:1 buy:1 's:5 intensifies:1 company:2 spell:1 agreement:1 were:1 trouble:1 billion:1 central:1 like:1 departure:1 turn:1 future:1 endure:1 reshaping:1 enterprise:1 acquisition:1
+CRM	20140922	58.2	57.3	r_down	
+CRM	20140923	57.3	56.8	r_down	core:1 none:1 $:1 founder:1 marketing:1 after:1 companies:1 ``:1 argues:1 '':1 going:1 have:1 science:1 data:1
+CRM	20140924	56.8	57.6	r_up	
+CRM	20140925	57.6	55.9	r_down	
+CRM	20140926	55.9	56.5	r_up	
+CRM	20140929	56.5	57.2	r_up	500,000:2 entrepreneur:1 legacy:1 have:2 further:1 fear:1 modernize:1 its:1 cloud:1 $:2 every:1 support:1 two:1 long:1 children:1 their:1 expensive:1 complex:1 systems:1 digital:1 decades:1 too:1 website:1 then:1 his:1 infrastructure:1 company:2 applications:1 task:1 moving:1 found:1 recent:1 ago:1 cautious:1 wife:1 months:1 companies:1 deals:1 computer:1 built:1
+CRM	20140930	57.2	57.5	r_up	co-heads:1 named:1 join:1 retiring:1 memo:1 global:1 two:1 co-head:1 according:1 banking:1 succeed:1 role:1 internal:1 new:1 has:1 technology:1 investment:1 bank:1
+CRM	20141001	57.5	56.7	r_down	
+CRM	20141002	56.7	56.6	r_down	
+CRM	20141003	56.6	58.4	r_up	week:1 emerging:1 says:1 driving:1 roles:1 work:1 up:1 former:1 business:1 their:1 became:1 can:1 way:1 using:1 such:1 digital:1 prominent:1 technologies:1 more:1
+CRM	20141006	58.4	58.3	r_down	has:1 users:2 mobile:1 desktop:1 economic:1 begun:1 new:1 now:1 cycle:1
+CRM	20141007	58.3	56.9	r_down	
+CRM	20141008	56.9	57.9	r_up	science:1 computer:1 campaign:1 launch:1 programmers:1 effort:1 million:1 companies:1 two:1 introduce:1 students:1 diverse:1 tech:1 world-wide:1 big:1 including:1 100:2 dozen:1 attract:1 more:2
+CRM	20141009	57.9	57.1	r_down	package:1 ability:1 showcase:1 partnership:1 should:1 also:1 complex:1 data:1 automatically:1 software:1
+CRM	20141010	57.1	54.7	r_down	

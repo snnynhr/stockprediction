@@ -1,0 +1,114 @@
+VIAB	20140501	84.3	82.8	r_down	significant:1 companies:1 agreed:1 eyeing:1 down:1 growth:1 year:1 go:1 said:1 $:1 spending:1 opportunities:1 5:2 earnings:1 markets:1 worth:1 stock:1 conflicting:1 such:1 acquire:1 's:1 around:1 million:1 rise:1 listening:1 world:1 prominent:1 lower:1 amid:1 taking:1 futures:2 programming:1 reports:1 edge:2 economic:1 mixed:1 claims:1 slightly:1 original:1
+VIAB	20140502	82.8	83.4	r_up	saying:1 slip:1 trend:1 trade:1 have:1 market:1 before:1 surprises:1 generally:1 due:1 been:1 traders:1 advisories:1 earnings:1 stock:1 ends:1 jobs:2 defies:1 key:1 report:1 stocks:1 roundup:1 lower:1 cautious:1 ahead:1 companies:1 reports:1 future:1 quarters:1 choppy:1 corporate:1 latest:1
+VIAB	20140505	83.4	83.5	r_up	
+VIAB	20140506	83.5	82.5	r_down	
+VIAB	20140507	82.5	82.5	r_up	
+VIAB	20140508	82.5	83.2	r_up	
+VIAB	20140509	83.2	82.7	r_down	firm:1 independent:1 television:1 buy:1 's:1 producer:1 cable:1 million:1 up:1 have:1
+VIAB	20140512	82.7	83.8	r_up	21st:2 said:1 assets:1 started:1 over:1 had:1 multibillion-dollar:1 preliminary:1 discussions:1 its:1 acquisition:1
+VIAB	20140513	83.8	83.0	r_down	
+VIAB	20140514	83.0	82.4	r_down	
+VIAB	20140515	82.4	82.4	r_up	21st:2 said:1 would:1 create:1 companies:1 agreement:1 three:1 production:1 combine:1 venture:1 preliminary:1 reached:1 has:1 television:1
+VIAB	20140516	82.4	83.1	r_up	
+VIAB	20140519	83.1	83.5	r_up	
+VIAB	20140520	83.5	82.6	r_down	
+VIAB	20140521	82.6	83.7	r_up	10:2 shareholders:1 media:1 company:1 boosted:1 sought:1 dividend:1 reward:1 its:1
+VIAB	20140522	83.7	84.0	r_up	
+VIAB	20140523	84.0	84.3	r_up	
+VIAB	20140527	84.3	84.6	r_up	going:1 rewards:1 financial:1 performance:1 big:1 increasingly:1 companies:1 top:1 handful:1 moderately:1 tied:1 very:1 relative:1 most:1 future:1 rising:1 scale:1 pay:1 biggest:1 awards:1 executives:1
+VIAB	20140528	84.6	84.9	r_up	
+VIAB	20140529	84.9	84.9	r_up	
+VIAB	20140530	84.9	84.6	r_down	into:1 buy:1 looks:1 want:1 controlled:1 open:1 arm:1 industries:1 additional:1 media:1 investment:1 new:1 man:1 his:2 's:2 offer:1 may:1 billionaire:1 company:1 richest:1 entries:1 known:1 along:1 now:1 he:1 made:1 magnate:1 like:1 companies:1 become:1 stakes:1 first:1
+VIAB	20140602	84.6	86.0	r_up	
+VIAB	20140603	86.0	86.4	r_up	
+VIAB	20140604	86.4	86.3	r_down	
+VIAB	20140605	86.3	86.7	r_up	's:1 developing:1 nicely:1 revenue:1 n't:1 pad:1 consumer-products:1 leader:1 profits:1
+VIAB	20140606	86.7	86.9	r_up	
+VIAB	20140609	86.9	87.1	r_up	minority:1 stake:1 content:1 focused:1 which:1 taken:1 video:1 has:1 producing:1
+VIAB	20140610	87.1	86.6	r_down	
+VIAB	20140611	86.6	86.2	r_down	
+VIAB	20140612	86.2	85.6	r_down	
+VIAB	20140613	85.6	85.5	r_down	
+VIAB	20140616	85.5	86.1	r_up	major:1 own:1 deal:1 providers:1 over:2 logical:1 years:1 channels:1 services:1 through:1 have:1 follow:1 priming:1 shareholders:1 scale:1 their:2 media:1 make:1 pairing:1 been:2 strategy:1 content:1 far:1 behind:1 trigger:1 pursuing:1 biggest:1 themselves:1 has:1 mounting:1 shows:1 gaining:1 customers:1 returning:1 may:2 company:1 capital:1 consolidation:2 possible:1 not:1 suit:1 believe:1 former:1 acquisitions:1 sister:1 cautious:1 license:1 cable:1 whether:1 many:1 industry:1 companies:4 up:1 deals:1 merge:1 pay:1 making:1 speculation:1 more:1 round:1 executives:1
+VIAB	20140617	86.1	85.9	r_down	
+VIAB	20140618	85.9	86.6	r_up	900,000:1 months:1 says:1 dispute:1 surviving:1 sidestep:1 tax:3 roughly:1 '':1 middle:1 rate:1 through:1 result:1 have:1 home:1 1:1 total:1 fine:1 households:2 said:1 able:1 two:1 been:1 looking:1 their:1 only:1 blackout:1 channels:1 got:1 meeting:1 across:1 offshore:1 more:1 ``:1 after:1 's:1 some:1 operators:1 attention:1 watch:1 wave:1 small:3 base:1 plenty:1 towns:1 than:1 recent:1 suggested:1 60:4 lower:1 lost:1 cable:2 fee:1 annual:1 companies:2 solution:1 taxes:1 foreign:1 n't:1 without:1 inversions:1 problem:1 eroding:1 corporate:2 mergers:1 once:1
+VIAB	20140619	86.6	86.6	r_up	giant:1 large-cap:1 $:1 trades:1 peers:1 discount:1 broadcasting:1 80:1
+VIAB	20140620	86.6	85.4	r_down	keeping:1 last:1 succeeded:1 antitrust:1 federal:1 dismissal:1 filed:1 year:1 denied:1 alive:1 motion:1 against:1 suit:2 judge:1 's:1 lawsuit:1
+VIAB	20140623	85.4	85.0	r_down	resolved:1 ``:1 said:1 over:1 its:1 '':1 company:1 film:1 dispute:1
+VIAB	20140624	85.0	84.7	r_down	incoming:1 complete:1 media:1 company:2 pure-play:1 chairman:1 into:1 's:2 has:1 transformation:1
+VIAB	20140625	84.7	84.7	r_up	content:1 's:2 lacking:1 rights:1 could:1 hurt:1 broadcast:1 itself:1 ruling:1 sports:1 networks:1 those:1
+VIAB	20140626	84.7	85.0	r_up	
+VIAB	20140627	85.0	86.0	r_up	``:1 appeal:1 's:1 movie:1 crucial:1 all:1 stops:1 '':1 fortunes:1 audience:1 latest:1 pulled:1 out:1
+VIAB	20140630	86.0	86.3	r_up	global:1 some:1 sales:1 '':2 say:1 ticket:1 numbers:1 estimated:1 its:2 $:5 movie:2 do:1 ``:2 hit:1 opening:3 300:2 million:3 but:2 franchise:1 100:3 weekend:2 compute:1 installment:1 n't:1 latest:2
+VIAB	20140701	86.3	86.4	r_up	
+VIAB	20140702	86.4	86.9	r_up	
+VIAB	20140703	86.9	87.1	r_up	
+VIAB	20140707	87.1	86.9	r_down	gathering:1 since:1 's:1 last:1 business:1 media:1 annual:1 against:1 year:1 kicks:1 off:1 has:1 technology:1 landscape:1 executives:1
+VIAB	20140708	86.9	86.2	r_down	firm:1 purchase:1 giant:1 's:1 business:1 cable:1 among:1 over:1 influence:1 rivals:1 mobile-ad:1 much:1 tech:1 too:1 fear:1 gathering:1 recent:1
+VIAB	20140709	86.2	86.1	r_down	
+VIAB	20140710	86.1	85.9	r_down	
+VIAB	20140711	85.9	85.0	r_down	
+VIAB	20140714	85.0	84.6	r_down	
+VIAB	20140715	84.6	84.2	r_down	his:1 having:1 $:3 campaign:1 re-election:1 million:2 2.4:1 according:1 35:2 hand:1 reported:1 reports:1 finance:1 has:1 effort:1 than:1 more:1
+VIAB	20140716	84.2	87.0	r_up	21st:1 buy:2 says:1 just:1 means:1 bid:2 it’s:1 next:1 time:1 beginning:1 could:1
+VIAB	20140717	87.0	87.2	r_up	investors:1 soars:1 shrewd:1 jump:1 6.4:1 looks:1 have:1 should:1 targets:1 21st:1 assessing:1 spurned:1 media:3 make:1 stake:1 eying:1 content:1 attractive:1 which:1 between:1 megadeal:1 collaboration:1 's:2 offer:2 jumps:1 consolidation:1 falls:1 anticipation:1 fall:1 news:1 buyout:1 bigger:1 could:1 companies:2 deals:1 broadcaster:1 time:1 acquisition:1
+VIAB	20140718	87.2	88.0	r_up	giant:1 people:1 media:1 potential:1 place:1 have:1 units:1
+VIAB	20140721	88.0	86.9	r_down	studios:1 's:3 power:1 less:1 event:1 their:1 important:1 role:1 year:1 playing:1 superheroes:1
+VIAB	20140722	86.9	86.7	r_down	introducing:1 used:1 videos:1 cable:1 company:1 apps:1 sites:1 owned:1 without:1 channels:1 other:1 music:2 experience:1 way:1 known:1 new:1 its:1 best:1 shows:1
+VIAB	20140723	86.7	85.4	r_down	
+VIAB	20140724	85.4	85.2	r_down	
+VIAB	20140725	85.2	85.7	r_up	
+VIAB	20140728	85.7	85.6	r_down	brought:1 ``:2 blowing:1 $:2 opening:1 rival:1 44:1 million:2 29:1 '':2 which:1 away:1 action:1 earned:1 weekend:1 its:2 thriller:1
+VIAB	20140729	85.6	85.1	r_down	
+VIAB	20140730	85.1	84.5	r_down	studios:1 made:1 business:1 deal:1 movie:1 material:1 coalition:1 possible:1 famous:1 close:1 extinction:1 producing:1 film:1 keep:1
+VIAB	20140731	84.5	82.3	r_down	
+VIAB	20140801	82.3	81.9	r_down	campaign:1 some:1 number:1 one:1 have:1 working:1 their:1 regulation:1 under:1 weeks:1 increasing:1 led:1 after:1 photos:1 characters:2 come:1 recent:1 pressure:1 these:1 work:2 days:1 incidents:1
+VIAB	20140804	81.9	82.0	r_up	investors:1 years:1 battle:1 prevail:1 its:1 weekly:1 21st:1 just:1 merger:1 media:1 two:1 should:1 earnings:1 biggest:1 2014:1 suffered:1 500:1 plunge:1 report:1 stocks:1 beginning:1 why:1 great:1 drop:1 companies:1 making:1
+VIAB	20140805	82.0	81.4	r_down	outlook:1 full:1 stores:1 pointing:1 1.8:1 sales:1 trade:1 session:1 trading:1 markdowns:1 its:3 confirmed:1 said:1 $:2 4.8:1 shares:1 premarket:1 expected:1 buy:1 's:1 creating:1 business:1 separate:1 lowered:1 two:1 ownership:1 promotional:1 spin:1 second-quarter:1 publishing:1 billion:1 off:1 publicly:1 companies:2 actively:1 traded:1 fell:1
+VIAB	20140806	81.4	79.9	r_down	withdraws:2 streak:1 right:1 financial:1 ad:1 revenue:1 increasingly:1 tepid:1 reduce:1 skid:1 weighed:1 future:1 unit:1 growth:1 have:2 reliance:1 networks:1 declined:1 increased:1 closer:1 5.1:1 21st:2 said:2 actively:1 parent:1 entertainment:1 media:1 admission:1 had:1 third-quarter:1 shares:1 its:2 1:1 advisories:1 rates:1 market:1 moves:1 expected:1 valuations:1 company:1 earnings:2 turmoil:1 's:2 gains:1 business:1 bid:2 after:1 geopolitical:1 most:1 feels:1 fell:1 gain:1 saying:1 latest:1 trade:1 now:1 raising:1 volatility:1 session:1 television:1 like:1 cable:1 downbeat:1 markets:2 interest:1 companies:2 reports:1 anxious:1 credit:1 while:1 decided:1 advertising:1 surprises:1 quarters:1 become:1 stock:1 corporate:1 roundup:1 history:1
+VIAB	20140807	79.9	79.4	r_down	roundup:1 saying:1 surprises:1 companies:1 reports:1 quarters:1 advisories:1 earnings:1 future:1 corporate:1 latest:1
+VIAB	20140808	79.4	80.1	r_up	industries:1 varied:1 $:1 300,000:1 career:1 pays:1 work:1 up:1 finance:1 write:1 track:1 retailing:1 algorithms:1 can:2 put:1 analyze:1 data:1 those:1 insights:1
+VIAB	20140811	80.1	80.7	r_up	
+VIAB	20140812	80.7	80.0	r_down	broadcast:1 ``:1 reruns:1 's:1 network:1 cable:1 homes:1 sitcom:1 but:1 one:1 '':1 next:1 two:1 year:1 not:1 found:1 has:1 its:1
+VIAB	20140813	80.0	79.9	r_down	
+VIAB	20140814	79.9	80.4	r_up	
+VIAB	20140815	80.4	81.1	r_up	
+VIAB	20140818	81.1	81.8	r_up	
+VIAB	20140819	81.8	80.8	r_down	
+VIAB	20140820	80.8	80.9	r_up	
+VIAB	20140821	80.9	80.4	r_down	
+VIAB	20140822	80.4	80.3	r_down	
+VIAB	20140825	80.3	80.1	r_down	
+VIAB	20140826	80.1	80.1	r_up	
+VIAB	20140827	80.1	80.4	r_up	
+VIAB	20140828	80.4	80.4	r_up	summer:1 studios:1 office:1 less:1 ca:1 domestic:1 sales:1 '':2 much:1 make:1 other:1 ``:2 fall:1 difference:1 box:1 earn:1 15:1 like:1 countries:1 rights:1 up:1 n't:1 movies:1
+VIAB	20140829	80.4	80.8	r_up	
+VIAB	20140902	80.8	81.1	r_up	
+VIAB	20140903	81.1	80.5	r_down	
+VIAB	20140904	80.5	80.7	r_up	
+VIAB	20140905	80.7	81.0	r_up	
+VIAB	20140908	81.0	80.5	r_down	harm:1 consumers:1 1998:1 began:1 companies:1 content:1 without:1 any:1
+VIAB	20140909	80.5	78.8	r_down	drop:1 global:1 sales:2 trade:1 screens:1 services:1 session:1 0.6:1 home:1 drove:1 wearable:1 one:1 said:1 $:1 two:1 shares:1 its:3 premarket:1 digital:1 expected:2 new:2 comparable:1 's:4 around:1 problems:1 smartwatch:1 unveil:1 fell:1 device:1 automation:1 3.7:1 --:2 suppliers:1 larger:1 companies:1 up:1 actively:1 payments:1 healthcare:1 trading:1 region:1 first:1
+VIAB	20140910	78.8	79.9	r_up	
+VIAB	20140911	79.9	79.9	r_up	deal:2 show:1 explained:1 moved:1 trade:1 channels:2 actively:1 including:2 licensing:1 carry:1 reached:1 its:1 dozen:1 closer:1 service:1 two:1 shares:1 reality:1 expected:1 new:1 's:2 after:1 biggest:1 step:1 22:1 companies:1 roughly:1 morning:1 session:1
+VIAB	20140912	79.9	79.5	r_down	yen:1 being:1 offerings:1 session:1 further:1 its:1 fifth:2 end:1 entertainment:1 support:1 slowly:1 helps:1 progress:1 electronics:1 higher:1 gaining:1 building:1 's:2 weakness:1 connects:1 falls:1 step:1 gain:1 stocks:2 continued:1 day:1 markets’:1 advance:1 like:1 universe:1 straight:1 devices:1 more:1 mildly:1 making:1 toward:1 maker:1 first:1
+VIAB	20140915	79.5	79.2	r_down	
+VIAB	20140916	79.2	80.0	r_up	advance:1 ``:1 ad:2 tepid:1 spending:1 season:2 upfront:1 sales:1 been:1 surge:1 '':1 banking:1 fall:1 weaker-than-expected:1 have:1 coming:1 following:1 new:1 weeks:1 looking:1 networks:1
+VIAB	20140917	80.0	79.4	r_down	force:1 toy:1 's:2 network:1 cable:1 joint:1 partnership:1 children:1 television:1 ending:1 their:1 become:1 hoped:1 maker:1
+VIAB	20140918	79.4	80.4	r_up	smartphones:1 develop:1 service:1 business:1 manufacturers:1 losses:1 range:1 deep:1 intends:1 other:1 tablets:1 devices:1 videogames:1 stream:1 electronics:1 onto:1 its:1
+VIAB	20140919	80.4	80.8	r_up	
+VIAB	20140922	80.8	79.4	r_down	
+VIAB	20140923	79.4	77.5	r_down	
+VIAB	20140924	77.5	78.1	r_up	necessarily:1 biggest:1 broadcast:1 players:1 not:1 networks:1
+VIAB	20140925	78.1	76.9	r_down	head:1 's:2 company:1 after:1 leaving:1 music:1 digital:1 video:1 15-year:1 stint:1
+VIAB	20140926	76.9	77.1	r_up	
+VIAB	20140929	77.1	76.8	r_down	
+VIAB	20140930	76.8	76.9	r_up	wants:1 billion:1 owners:1 programming:1 proposed:1 wary:1 merger:1 media:1 45:1 companies:1 $:1 submit:1 reviews:1 their:1 details:1 channel:1 agreements:1
+VIAB	20141001	76.9	75.2	r_down	
+VIAB	20141002	75.2	74.6	r_down	
+VIAB	20141003	74.6	75.0	r_up	faced:1 plug:1 major:1 dropping:1 service:2 cable:1 programming:1 manage:1 companies:1 channels:1 their:1 costs:2 rising:1 groups:1 instead:1 focusing:1 pulling:1
+VIAB	20141006	75.0	74.5	r_down	
+VIAB	20141007	74.5	73.7	r_down	new:1 head:1 has:1 video:1 hired:1
+VIAB	20141008	73.7	74.6	r_up	session:1 's:1 companies:1 shares:1 trade:1 actively:1 expected:1
+VIAB	20141009	74.6	72.0	r_down	
+VIAB	20141010	72.0	70.4	r_down	

@@ -1,0 +1,114 @@
+EXC	20140501	34.3	35.3	r_up	sell:1 short:1 deal:1 soars:1 surges:1 itself:1 results:1 reaching:1 expectations:1 while:1 fell:1 wake:1 earnings:1 tumbles:1 quarterly:1 buyout:1 drops:1 after:1
+EXC	20140502	35.3	35.1	r_down	
+EXC	20140505	35.1	35.5	r_up	giant:1 's:1 $:1 5.6:1 sold:1 shares:1 financial-services:1 100,000:1
+EXC	20140506	35.5	35.3	r_down	businesses:1 van:1 ripe:1 writes:1 larger:1 companies:1 plucked:1 looking:1 their:1 takeover:1 5:1 regulated:1 firms:1 now:1 targets:1 expand:1 utility:1
+EXC	20140507	35.3	36.0	r_up	
+EXC	20140508	36.0	35.8	r_down	
+EXC	20140509	35.8	35.5	r_down	
+EXC	20140512	35.5	34.7	r_down	
+EXC	20140513	34.7	34.9	r_up	stocks:1 momentum-play:1 leading:1 attracts:1 attention:1 rejected:1 leads:1 while:1 lift:1 closely:1 watched:1 rally:2 buyout:1 rises:1 proposal:1 momentum:1 after:1
+EXC	20140514	34.9	34.4	r_down	booming:1 industries:1 van:1 sectors:1 offer:1 values:1 writes:1 handful:1 companies:1 5:1 2014:1 hottest:1 stocks:1 hidden:1
+EXC	20140515	34.4	34.2	r_down	
+EXC	20140516	34.2	34.0	r_down	
+EXC	20140519	34.0	33.6	r_down	
+EXC	20140520	33.6	33.5	r_down	10:1 good:1 call:1 6:1 year:1 up:1 strategy:1 candidates:1 others:1 covered:1
+EXC	20140521	33.5	33.5	r_up	
+EXC	20140522	33.5	33.8	r_up	
+EXC	20140523	33.8	33.8	r_up	
+EXC	20140527	33.8	35.0	r_up	among:1 sends:1 some:2 trading:2 operator:2 announcement:2 would:2 electricity:2 shares:1 regions:2 potential:1 generators:2 between:1 500:1 after:2 power:2 offer:1 surges:1 grid:2 prices:2 day:2 soared:2 plants:2 performers:1 double:2 region:2 merger:2 while:1 surging:1 weakest:1 first:2
+EXC	20140528	35.0	35.6	r_up	
+EXC	20140529	35.6	35.7	r_up	
+EXC	20140530	35.7	36.4	r_up	
+EXC	20140602	36.4	36.2	r_down	sector:1 force:1 deal:1 move:1 some:1 likely:1 carbon:1 regulate:1 market:2 even:1 sentiment:1 only:1 acting:1 continue:1 's:2 power:1 big:1 producers:1 most:1 important:1 using:1 stocks:1 investor:1 those:1 watchers:1 especially:1 shift:1 say:1 n't:1 coal:1 leadership:1 emissions:1
+EXC	20140603	36.2	36.8	r_up	10:1 van:1 surprises:1 decline:1 many:1 writes:1 up:1 been:1 yields:1 heats:1 have:1 best-performing:1 2014:1 stocks:1 500:1
+EXC	20140604	36.8	36.9	r_up	
+EXC	20140605	36.9	37.1	r_up	
+EXC	20140606	37.1	37.0	r_down	
+EXC	20140609	37.0	36.7	r_down	enters:1 overhaul:1 whether:1 legislation:1 over:1 act:1 backers:1 immigration:1 pass:1 moment:1 critical:1 making:1 push:1 fresh:1 issue:1 debate:1
+EXC	20140610	36.7	36.8	r_up	
+EXC	20140611	36.8	35.4	r_down	1.4:1 cancer:2 primary:1 trade:2 62:1 session:2 year:1 50:1 's:2 81:1 its:3 finance:1 giant:1 said:3 20:1 $:1 common:1 media:1 shares:4 proceeds:1 failed:1 split:1 which:1 equity:1 expected:2 treatment:1 million:2 edged:1 plans:1 offer:1 company:1 earlier:1 use:1 units:1 goals:1 ownership:1 meet:1 secondary:1 off:1 study:1 premarket:1 companies:2 up:1 drug:2 patients:1 actively:2 planned:1 divest:1 acquisition:1 liver:1
+EXC	20140612	35.4	34.7	r_down	upgraded:1 upgrade:1 gainers:1 offering:2 lead:1 launch:1 back:1 while:1 retreat:1 rallies:1 following:1 news:1 stock:1 analyst:1 500:1 secondary:2
+EXC	20140613	34.7	35.3	r_up	
+EXC	20140616	35.3	35.7	r_up	
+EXC	20140617	35.7	35.9	r_up	
+EXC	20140618	35.9	36.4	r_up	
+EXC	20140619	36.4	36.8	r_up	
+EXC	20140620	36.8	36.4	r_down	weighing:1 power:1 people:1 familiar:1 bid:1 according:1 matter:1 's:1 company:1
+EXC	20140623	36.4	35.9	r_down	
+EXC	20140624	35.9	35.8	r_down	
+EXC	20140625	35.8	35.8	r_up	
+EXC	20140626	35.8	35.7	r_down	
+EXC	20140627	35.7	35.9	r_up	
+EXC	20140630	35.9	36.1	r_up	
+EXC	20140701	36.1	35.3	r_down	streak:1 among:1 set:1 sales:2 close:1 suffer:1 market:1 gainers:1 lead:1 rose:1 writes:1 winners:1 health:1 biggest:1 new:1 losers:1 500:3 snaps:1 reporting:1 led:1 gains:2 auto:1 after:1 notable:1 records:1 levels:1 2014:1 losing:1 van:1 stocks:2 discretionary:1 care:1 10:1 sectors:1 most:1 up:1 record:1 while:2 tech:1 retailers:1 fresh:1 consumer:1
+EXC	20140702	35.3	34.2	r_down	's:1 missed:1 bullish:1 utilities:1 shares:1 analysts:1 they:1 year:1 usually:1 rally:1 stock:1 out:1 bunch:1
+EXC	20140703	34.2	33.6	r_down	reveals:1 after:1 end:1 gains:2 may:1 media:1 jumps:1 stake:2 soon:1 merger:1 9.9:1 rallies:1 report:1
+EXC	20140707	33.6	34.0	r_up	
+EXC	20140708	34.0	33.9	r_down	
+EXC	20140709	33.9	33.9	r_up	
+EXC	20140710	33.9	34.0	r_up	
+EXC	20140711	34.0	33.4	r_down	
+EXC	20140714	33.4	32.5	r_down	
+EXC	20140715	32.5	32.5	r_up	
+EXC	20140716	32.5	32.6	r_up	
+EXC	20140717	32.6	31.6	r_down	
+EXC	20140718	31.6	31.7	r_up	
+EXC	20140721	31.7	31.9	r_up	
+EXC	20140722	31.9	31.4	r_down	
+EXC	20140723	31.4	31.4	r_up	
+EXC	20140724	31.4	31.5	r_up	
+EXC	20140725	31.5	31.1	r_down	
+EXC	20140728	31.1	31.6	r_up	
+EXC	20140729	31.6	31.1	r_down	session:1 's:1 companies:1 shares:1 trade:1 actively:1 expected:1
+EXC	20140730	31.1	30.7	r_down	sector:1 industrial:1 1.2:1 companies:1 60:1 natural-gas:1 unit:2 said:2 $:1 would:1 electricity:1 residential:2 2.5:1 which:1 has:1 across:2 more:1 customers:3 million:3 's:1 business:2 reach:1 bid:1 acquire:1 commercial:1 part:1 states:1 22:1 well:1 public:1 become:1 retail:1
+EXC	20140731	30.7	30.7	r_up	revenue:1 energy:1 results:1 trade:1 session:1 still:1 its:1 declined:1 said:1 nuclear:1 less:1 expectations:1 shares:1 market:1 fossil:1 expected:1 's:1 realized:1 but:1 prices:1 lower:1 amid:1 companies:1 actively:1 output:1 quarter:1 latest:1
+EXC	20140801	30.7	31.2	r_up	
+EXC	20140804	31.2	31.0	r_down	
+EXC	20140805	31.0	30.8	r_down	
+EXC	20140806	30.8	30.8	r_up	
+EXC	20140807	30.8	31.2	r_up	
+EXC	20140808	31.2	31.8	r_up	stocks:1 's:1 success:1 tumble:1 one:1 rally:1 prices:1 stories:1 sharp:1 natural-gas:1 2014:1 has:1 utility:1
+EXC	20140811	31.8	31.8	r_up	
+EXC	20140812	31.8	31.5	r_down	
+EXC	20140813	31.5	31.4	r_down	
+EXC	20140814	31.4	31.8	r_up	
+EXC	20140815	31.8	31.8	r_up	
+EXC	20140818	31.8	31.8	r_up	
+EXC	20140819	31.8	31.9	r_up	
+EXC	20140820	31.9	31.9	r_up	
+EXC	20140821	31.9	32.2	r_up	
+EXC	20140822	32.2	32.3	r_up	
+EXC	20140825	32.3	32.8	r_up	plant:1 said:1 $:1 million:1 presence:1 region:1 acquire:1 related:1 inventory:1 530:1 its:1 expand:1
+EXC	20140826	32.8	32.3	r_down	
+EXC	20140827	32.3	32.7	r_up	
+EXC	20140828	32.7	33.0	r_up	
+EXC	20140829	33.0	33.4	r_up	
+EXC	20140902	33.4	32.8	r_down	
+EXC	20140903	32.8	33.2	r_up	
+EXC	20140904	33.2	33.5	r_up	
+EXC	20140905	33.5	33.8	r_up	
+EXC	20140908	33.8	33.4	r_down	
+EXC	20140909	33.4	33.1	r_down	
+EXC	20140910	33.1	33.0	r_down	
+EXC	20140911	33.0	33.2	r_up	
+EXC	20140912	33.2	32.8	r_down	
+EXC	20140915	32.8	33.2	r_up	
+EXC	20140916	33.2	33.8	r_up	
+EXC	20140917	33.8	33.6	r_down	
+EXC	20140918	33.6	33.7	r_up	
+EXC	20140919	33.7	34.4	r_up	
+EXC	20140922	34.4	34.2	r_down	
+EXC	20140923	34.2	34.1	r_down	
+EXC	20140924	34.1	33.9	r_down	
+EXC	20140925	33.9	33.6	r_down	
+EXC	20140926	33.6	33.7	r_up	
+EXC	20140929	33.7	34.1	r_up	
+EXC	20140930	34.1	34.0	r_down	plants:1 power:3 remains:1 expanding:1 company:1 gas:1 two:1 rest:1 stagnant:1 demand:1 country:1
+EXC	20141001	34.0	34.5	r_up	
+EXC	20141002	34.5	34.7	r_up	
+EXC	20141003	34.7	34.8	r_up	
+EXC	20141006	34.8	34.7	r_down	
+EXC	20141007	34.7	34.7	r_up	
+EXC	20141008	34.7	35.8	r_up	
+EXC	20141009	35.8	34.8	r_down	
+EXC	20141010	34.8	34.8	r_up	

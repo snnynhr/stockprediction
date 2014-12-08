@@ -1,0 +1,114 @@
+ALL	20140501	56.4	56.7	r_up	
+ALL	20140502	56.7	56.6	r_down	
+ALL	20140505	56.6	56.5	r_down	good:1 first-quarter:1 insurer:1 results:1 been:1 times:1 have:1 fall:1 expected:1 's:2
+ALL	20140506	56.5	56.0	r_down	
+ALL	20140507	56.0	57.2	r_up	15:1 winter:1 impacts:1 losses:1 storms:1 reports:1 first-quarter:1 drove:1 higher:1
+ALL	20140508	57.2	57.4	r_up	
+ALL	20140509	57.4	57.5	r_up	
+ALL	20140512	57.5	57.8	r_up	
+ALL	20140513	57.8	57.8	r_up	
+ALL	20140514	57.8	57.5	r_down	
+ALL	20140515	57.5	57.0	r_down	disclose:1 half:1 manage:1 month:1 click:2 previous:1 end:1 $:1 holdings:3 several:1 bought:1 firm:1 within:1 's:1 sold:1 million:1 here:2 most:1 latest:2 100:1 than:1 quarter:3 required:1 securities:2 more:1 view:2
+ALL	20140516	57.0	57.2	r_up	
+ALL	20140519	57.2	57.6	r_up	
+ALL	20140520	57.6	57.5	r_down	
+ALL	20140521	57.5	57.8	r_up	
+ALL	20140522	57.8	57.8	r_up	
+ALL	20140523	57.8	57.8	r_up	
+ALL	20140527	57.8	57.9	r_up	
+ALL	20140528	57.9	57.9	r_up	
+ALL	20140529	57.9	58.0	r_up	
+ALL	20140530	58.0	58.0	r_up	
+ALL	20140602	58.0	58.4	r_up	
+ALL	20140603	58.4	58.3	r_down	
+ALL	20140604	58.3	58.3	r_up	
+ALL	20140605	58.3	58.8	r_up	
+ALL	20140606	58.8	59.0	r_up	
+ALL	20140609	59.0	58.8	r_down	
+ALL	20140610	58.8	58.9	r_up	
+ALL	20140611	58.9	58.8	r_down	
+ALL	20140612	58.8	58.4	r_down	
+ALL	20140613	58.4	58.7	r_up	stocks:1 headed:1 advisers:1 over:1 calling:1 past:1 records:1 market:1 five:1 decade:1 turns:1 believe:1 best:1 higher:1
+ALL	20140616	58.7	58.5	r_down	
+ALL	20140617	58.5	58.9	r_up	
+ALL	20140618	58.9	58.8	r_down	
+ALL	20140619	58.8	58.5	r_down	
+ALL	20140620	58.5	58.5	r_up	
+ALL	20140623	58.5	58.9	r_up	
+ALL	20140624	58.9	58.6	r_down	week:1 purchases:1 apartment:1 have:1 sector:1 multifamily:1 region:1 two:1 sign:1 past:1 closed:1 latest:1 total:1 endurance:1 $:1
+ALL	20140625	58.6	58.4	r_down	
+ALL	20140626	58.4	58.2	r_down	
+ALL	20140627	58.2	58.4	r_up	
+ALL	20140630	58.4	58.4	r_up	
+ALL	20140701	58.4	58.8	r_up	
+ALL	20140702	58.8	58.7	r_down	
+ALL	20140703	58.7	58.7	r_up	
+ALL	20140707	58.7	58.2	r_down	
+ALL	20140708	58.2	58.2	r_up	
+ALL	20140709	58.2	58.2	r_up	
+ALL	20140710	58.2	57.8	r_down	
+ALL	20140711	57.8	57.9	r_up	
+ALL	20140714	57.9	58.0	r_up	
+ALL	20140715	58.0	58.2	r_up	
+ALL	20140716	58.2	57.9	r_down	
+ALL	20140717	57.9	57.5	r_down	
+ALL	20140718	57.5	57.8	r_up	
+ALL	20140721	57.8	57.7	r_down	
+ALL	20140722	57.7	57.8	r_up	
+ALL	20140723	57.8	58.0	r_up	consolidate:1 smaller:1 's:1 profit:1 gobbling:1 companies:1 up:1 find:1 deals:1 firms:1 effort:1 industry:1
+ALL	20140724	58.0	58.2	r_up	
+ALL	20140725	58.2	57.6	r_down	
+ALL	20140728	57.6	57.6	r_up	
+ALL	20140729	57.6	56.7	r_down	
+ALL	20140730	56.7	56.6	r_down	among:1 later:1 madness:1 summer:1 midsummer:1 number:1 '':1 lull:1 jobs:1 out:1 awaken:1 monthly:1 there:1 their:1 winners:1 statement:1 policy:1 burned:1 markets:1 soar:1 week:1 ``:1 's:2 some:1 indicators:1 report:1 manufacturing:1 could:1 drop:1 up:1 reports:1 day’s:1
+ALL	20140731	56.6	58.1	r_up	saying:1 unexpected:2 quarters:1 second:2 trading:1 service:1 lackluster:1 surprises:1 review:1 due:1 advisories:1 earnings:2 storm:1 online:1 higher:1 jumps:2 after:2 hours:1 reported:2 part:1 operating:1 roundup:1 quarter:2 companies:1 reports:1 profit:2 future:1 after-hours:1 claims:1 property:1 corporate:1 latest:1
+ALL	20140801	58.1	57.8	r_down	energy:1 delivers:1 sales:1 2nd:1 jump:1 businesses:1 its:2 recovery:1 profit:1 41:1 other:1 quarterly:1 bid:1 economy:1 's:1 gains:1 weak:1 jumps:1 problems:1 tied:1 railroad:1 continued:1 posted:1 --:1 losses:1 record:1 drops:1
+ALL	20140804	57.8	58.6	r_up	
+ALL	20140805	58.6	58.5	r_down	
+ALL	20140806	58.5	59.3	r_up	
+ALL	20140807	59.3	59.0	r_down	
+ALL	20140808	59.0	59.4	r_up	
+ALL	20140811	59.4	59.2	r_down	
+ALL	20140812	59.2	59.8	r_up	
+ALL	20140813	59.8	59.8	r_up	
+ALL	20140814	59.8	60.5	r_up	
+ALL	20140815	60.5	60.4	r_down	
+ALL	20140818	60.4	61.0	r_up	
+ALL	20140819	61.0	60.8	r_down	
+ALL	20140820	60.8	61.1	r_up	
+ALL	20140821	61.1	61.2	r_up	
+ALL	20140822	61.2	60.9	r_down	
+ALL	20140825	60.9	61.6	r_up	sell:1 conglomerate:1 made:1 's:1 insurer:1 profit:1 auto:1 consistent:1 one:1 helped:1 most:1 policies:1 has:1 gecko:1 drivers:1 millions:1
+ALL	20140826	61.6	61.5	r_down	
+ALL	20140827	61.5	61.5	r_up	
+ALL	20140828	61.5	61.1	r_down	
+ALL	20140829	61.1	61.4	r_up	
+ALL	20140902	61.4	61.8	r_up	
+ALL	20140903	61.8	61.6	r_down	
+ALL	20140904	61.6	61.3	r_down	
+ALL	20140905	61.3	61.3	r_up	
+ALL	20140908	61.3	61.3	r_up	
+ALL	20140909	61.3	60.8	r_down	
+ALL	20140910	60.8	60.8	r_up	
+ALL	20140911	60.8	61.2	r_up	
+ALL	20140912	61.2	61.0	r_down	
+ALL	20140915	61.0	61.6	r_up	strong:1 suggest:1 coming:1 charts:1 but:1 back:1 most:1 they:1 year:1 stocks:1 market:1
+ALL	20140916	61.6	61.7	r_up	
+ALL	20140917	61.7	61.7	r_up	
+ALL	20140918	61.7	62.3	r_up	
+ALL	20140919	62.3	62.2	r_down	giant:1 valued:1 appear:1 fully:1 estimates:1 high:1 earnings:1 too:1 insurance:1 looks:1
+ALL	20140922	62.2	61.8	r_down	
+ALL	20140923	61.8	61.3	r_down	
+ALL	20140924	61.3	61.6	r_up	
+ALL	20140925	61.6	61.0	r_down	
+ALL	20140926	61.0	61.4	r_up	
+ALL	20140929	61.4	61.2	r_down	conference:1 mining:1 's:1 mobile:1 marketing:1 topics:1 year:1 data:1 digital:1 chatter:1
+ALL	20140930	61.2	61.3	r_up	
+ALL	20141001	61.3	60.8	r_down	into:1 video:1 have:1 during:1 its:1 whose:1 giant:1 said:1 van:1 risen:1 outperformance:1 writes:1 shares:1 winners:1 earnings:1 fourth:1 online:1 500:1 buy:1 's:1 extend:1 may:1 marketing:1 73:1 president:1 panel:1 10:2 vice:1 shift:1 dollars:1 up:1 senior:1 quarter:1 companies’:1
+ALL	20141002	60.8	61.1	r_up	
+ALL	20141003	61.1	61.7	r_up	
+ALL	20141006	61.7	61.6	r_down	
+ALL	20141007	61.6	60.9	r_down	
+ALL	20141008	60.9	61.6	r_up	
+ALL	20141009	61.6	61.0	r_down	
+ALL	20141010	61.0	61.1	r_up	

@@ -1,0 +1,114 @@
+SLB	20140501	100.7	100.0	r_down	
+SLB	20140502	100.0	100.2	r_up	
+SLB	20140505	100.2	100.3	r_up	
+SLB	20140506	100.3	100.2	r_down	
+SLB	20140507	100.2	101.1	r_up	
+SLB	20140508	101.1	99.5	r_down	
+SLB	20140509	99.5	99.4	r_down	
+SLB	20140512	99.4	99.5	r_up	
+SLB	20140513	99.5	99.5	r_up	
+SLB	20140514	99.5	99.9	r_up	
+SLB	20140515	99.9	98.7	r_down	
+SLB	20140516	98.7	98.8	r_up	
+SLB	20140519	98.8	99.5	r_up	
+SLB	20140520	99.5	99.6	r_up	
+SLB	20140521	99.6	100.8	r_up	billion:1 said:1 $:2 service:1 credit:1 --:1 providers:1 lines:1 receive:1 2:2 oil-field:1
+SLB	20140522	100.8	100.8	r_up	billion:1 embattled:1 financing:1 oil:1 $:1 sector:1 give:1 country:1 activity:1 increase:1 turn:1 tries:1 2:1 allowed:1 crude:1 output:1 boost:1 around:1
+SLB	20140523	100.8	100.6	r_down	financial:1 executive:1 mission:1 according:1 want:1 president:1 helm:1 even:1 cut:1 van:1 does:1 performance:1 improve:1 more:1 's:1 far:1 took:1 productive:1 five:1 although:1 alone:1 group:1 he:2 ago:1 vice:1 months:1 budget:1 costs:1 left:1
+SLB	20140527	100.6	101.4	r_up	shale-gas:1 unless:1 help:1 though:1 ranks:1 country:1 they:1 behind:1 regime:1 may:1 second:1 reserves:1 potentially:1 want:1 says:1 not:1 world:1 recover:1 's:1 confident:1
+SLB	20140528	101.4	101.1	r_down	
+SLB	20140529	101.1	103.0	r_up	
+SLB	20140530	103.0	103.2	r_up	
+SLB	20140602	103.2	103.5	r_up	
+SLB	20140603	103.5	103.4	r_down	
+SLB	20140604	103.4	103.3	r_down	
+SLB	20140605	103.3	103.5	r_up	comment:1 van:1 heed:1 readers:1 pays:1 writes:1 picks:1 field:1 stories:1 7:1 recommendations:1 our:1 beating:1 market:1 stock:1
+SLB	20140606	103.5	105.6	r_up	
+SLB	20140609	105.6	106.3	r_up	
+SLB	20140610	106.3	106.1	r_down	strengthening:1 names:1 these:1 amid:1 profit:1 should:1 their:1 see:1 continue:1 rates:1 4:1 interest:1 economy:1 ascent:1 growth:1 recent:1
+SLB	20140611	106.1	106.1	r_up	
+SLB	20140612	106.1	105.9	r_down	
+SLB	20140613	105.9	107.8	r_up	
+SLB	20140616	107.8	106.6	r_down	
+SLB	20140617	106.6	105.7	r_down	firm:1 gone:1 's:1 homes:1 energy:2 exposed:1 companies:1 shares:1 risks:1 biggest:1 leaves:1 along:1 has:1 into:1
+SLB	20140618	105.7	106.6	r_up	
+SLB	20140619	106.6	107.2	r_up	
+SLB	20140620	107.2	108.4	r_up	
+SLB	20140623	108.4	108.5	r_up	
+SLB	20140624	108.5	106.5	r_down	names:1 widely:1 considered:1 big:1 30:1 pricey:1 4:1 predicts:1 following:1 gains:1
+SLB	20140625	106.5	113.4	r_up	among:1 walking:1 energy:2 move:1 rally:1 orders:1 economy’s:1 biggest:1 performance:1 higher:1 rise:2 first-quarter:1 after:2 weak:1 early:1 durable-goods:1 stocks:3 retreat:1 off:1 dipping:1 reports:1 while:1 losers:1 were:1 downward:1 revision:1
+SLB	20140626	113.4	115.7	r_up	
+SLB	20140627	115.7	117.3	r_up	
+SLB	20140630	117.3	117.5	r_up	
+SLB	20140701	117.5	117.4	r_down	
+SLB	20140702	117.4	117.3	r_down	
+SLB	20140703	117.3	117.0	r_down	both:1 programs:1 have:1 efficiency:1
+SLB	20140707	117.0	117.0	r_up	
+SLB	20140708	117.0	116.3	r_down	
+SLB	20140709	116.3	116.5	r_up	we:1 ``:1 given:1 should:1 '':1 hot:1 're:1 services:1 stay:1 oilfield:1 stock:1
+SLB	20140710	116.5	114.9	r_down	
+SLB	20140711	114.9	114.2	r_down	
+SLB	20140714	114.2	115.5	r_up	
+SLB	20140715	115.5	114.0	r_down	
+SLB	20140716	114.0	115.4	r_up	
+SLB	20140717	115.4	114.2	r_down	week:1 almost:1 's:2 pretty:1 22:1 site:1 investing:1 money:1 recommended:1 worried:1 beat:1 theme:1 points:1 through:1 two:1 managers:1 world:1 biggest:1 troubling:1 percentage:1 market:1
+SLB	20140718	114.2	111.9	r_down	posted:1 land:1 's:1 revenue:1 company:1 driven:1 second:1 key:1 activity:1 services:1 oil-field:1 quarter:1 offshore:1 higher:2
+SLB	20140721	111.9	112.6	r_up	
+SLB	20140722	112.6	113.0	r_up	week:1 vies:1 technical:1 challenge:1 cross:1 geopolitical:1 all-time:1 breakout:1 rising:1 currents:1 has:1 highs:1 500:2 recent:1
+SLB	20140723	113.0	111.7	r_down	
+SLB	20140724	111.7	112.6	r_up	
+SLB	20140725	112.6	111.3	r_down	
+SLB	20140728	111.3	111.4	r_up	
+SLB	20140729	111.4	110.7	r_down	impact:1 group:1 business:1 sanctions:1 profit:1 boosted:1 energy:1 rise:1 but:1 second-quarter:1 investment:1 reported:1 economic:1 could:1 warned:1 further:1 its:2
+SLB	20140730	110.7	109.8	r_down	
+SLB	20140731	109.8	108.0	r_down	
+SLB	20140801	108.0	107.5	r_down	
+SLB	20140804	107.5	109.2	r_up	
+SLB	20140805	109.2	106.6	r_down	
+SLB	20140806	106.6	107.1	r_up	investors:1 one:1 participate:1 any:1 market:2 relatively:1 stocks:1 incredible:1 should:1 which:1 more:1 way:1 becoming:1 caps:1 defensive:1 bull:1 turbulence:1 hold:1 mega:1 well:1 up:1 while:1 continue:1 can:1 recommendations:1
+SLB	20140807	107.1	106.6	r_down	
+SLB	20140808	106.6	107.9	r_up	
+SLB	20140811	107.9	108.8	r_up	
+SLB	20140812	108.8	107.4	r_down	limited:1 financial:1 deal:1 agreed:1 demand:1 accessories:1 trade:2 continued:1 session:2 trading:1 11.2:1 have:1 narrowed:1 its:2 impact:1 said:2 $:3 handbags:1 rose:1 shares:3 crisis:1 premarket:1 expected:2 over:1 200:1 customers:1 acquire:1 's:3 holding:1 company:3 million:1 results:1 snatch:1 driven:1 economic:1 all-cash:1 surged:1 second-quarter:1 loss:1 third:1 sanctions:1 companies:2 up:1 against:1 surge:1 actively:2 values:1 quarter:1
+SLB	20140813	107.4	107.2	r_down	
+SLB	20140814	107.2	105.5	r_down	
+SLB	20140815	105.5	106.1	r_up	
+SLB	20140818	106.1	107.7	r_up	session:1 's:1 companies:1 shares:1 trade:1 actively:1 expected:1
+SLB	20140819	107.7	109.0	r_up	
+SLB	20140820	109.0	109.4	r_up	
+SLB	20140821	109.4	109.0	r_down	
+SLB	20140822	109.0	108.6	r_down	
+SLB	20140825	108.6	109.8	r_up	
+SLB	20140826	109.8	110.6	r_up	
+SLB	20140827	110.6	110.6	r_up	
+SLB	20140828	110.6	109.7	r_down	oil:1 's:2 venture:1 shale:1 joint:1 massive:1 drill:1
+SLB	20140829	109.7	109.6	r_down	giant:1 $:1 sold:1 million:1 shares:1 oilfield-services:1 6.1:1
+SLB	20140902	109.6	108.0	r_down	
+SLB	20140903	108.0	108.1	r_up	
+SLB	20140904	108.1	105.6	r_down	
+SLB	20140905	105.6	106.7	r_up	
+SLB	20140908	106.7	104.4	r_down	
+SLB	20140909	104.4	103.9	r_down	
+SLB	20140910	103.9	104.2	r_up	
+SLB	20140911	104.2	104.4	r_up	could:1 recover:1 lost:1 shares:1 ground:1
+SLB	20140912	104.4	102.2	r_down	
+SLB	20140915	102.2	103.0	r_up	mining:1 golf:1 started:1 companies:1 energy:1 30:1 well:1 but:1 courses:1 sand:1 done:1 which:1 owns:1 has:1 supplying:1 out:1
+SLB	20140916	103.0	104.9	r_up	
+SLB	20140917	104.9	103.3	r_down	
+SLB	20140918	103.3	104.4	r_up	
+SLB	20140919	104.4	103.2	r_down	
+SLB	20140922	103.2	101.7	r_down	
+SLB	20140923	101.7	102.0	r_up	
+SLB	20140924	102.0	102.0	r_up	
+SLB	20140925	102.0	101.0	r_down	
+SLB	20140926	101.0	103.4	r_up	play:1 stand:1 gain:1
+SLB	20140929	103.4	103.2	r_down	
+SLB	20140930	103.2	101.6	r_down	
+SLB	20141001	101.6	98.8	r_down	
+SLB	20141002	98.8	97.7	r_down	
+SLB	20141003	97.7	97.9	r_up	
+SLB	20141006	97.9	98.5	r_up	
+SLB	20141007	98.5	98.2	r_down	
+SLB	20141008	98.2	98.4	r_up	
+SLB	20141009	98.4	94.9	r_down	
+SLB	20141010	94.9	93.0	r_down	

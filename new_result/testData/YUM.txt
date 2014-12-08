@@ -1,0 +1,114 @@
+YUM	20140501	76.1	75.4	r_down	operations:1 over:1 said:1 's:2 company:2 executive:1 chief:1 1:1 while:1 chairman:1 become:1 its:1 take:1
+YUM	20140502	75.4	75.4	r_up	
+YUM	20140505	75.4	75.5	r_up	
+YUM	20140506	75.5	75.0	r_down	
+YUM	20140507	75.0	74.9	r_down	huge:2 things:1 but:1 5:1 not:1 think:1
+YUM	20140508	74.9	75.1	r_up	flat:1 said:1 's:2 1.2:1 stronger:1 rose:1 same-store:1 sales:2 results:1 offsetting:1
+YUM	20140509	75.1	75.5	r_up	'':1 ``:1 offering:1 burgers:1 menu:1 sidestep:1 competition:1 morning:1 traditional:1 rumbles:1 decided:1 dispensing:1 battle:1 breakfast:2 has:1
+YUM	20140512	75.5	75.3	r_down	
+YUM	20140513	75.3	75.6	r_up	
+YUM	20140514	75.6	75.0	r_down	
+YUM	20140515	75.0	74.0	r_down	
+YUM	20140516	74.0	74.0	r_up	
+YUM	20140519	74.0	73.8	r_down	
+YUM	20140520	73.8	73.8	r_up	operations:1 named:1 's:1 company:1 executive:1 next:2 chief:1 take:1 year:1 tapped:1 over:1 succeeding:1
+YUM	20140521	73.8	73.8	r_up	
+YUM	20140522	73.8	74.0	r_up	
+YUM	20140523	74.0	73.9	r_down	
+YUM	20140527	73.9	75.3	r_up	
+YUM	20140528	75.3	76.1	r_up	
+YUM	20140529	76.1	75.9	r_down	
+YUM	20140530	75.9	76.5	r_up	
+YUM	20140602	76.5	77.3	r_up	
+YUM	20140603	77.3	77.8	r_up	force:1 see:1 raises:1 further:1 still:1 any:1 tablet:1 top:1 hangs:1 its:2 week:1 smartphone:1 offer:1 food:1 bid:2 takeover:1 frenzy:1 easily:1 made:1 last:1 consumers:1 industry:1 websites:1 original:1 gathers:1 allow:1 balance:1 order:1
+YUM	20140604	77.8	77.8	r_up	
+YUM	20140605	77.8	78.2	r_up	
+YUM	20140606	78.2	79.1	r_up	
+YUM	20140609	79.1	78.9	r_down	again:1 comparable:1 said:1 's:2 than:1 without:1 stretch:1 decade:1 same-store:1 sales:1 month:1 extending:1 fell:1 growth:1 longest:1 last:1 core:1 its:3 market:1 more:1
+YUM	20140610	78.9	78.5	r_down	
+YUM	20140611	78.5	78.6	r_up	
+YUM	20140612	78.6	77.9	r_down	
+YUM	20140613	77.9	78.4	r_up	
+YUM	20140616	78.4	78.2	r_down	
+YUM	20140617	78.2	78.6	r_up	
+YUM	20140618	78.6	78.8	r_up	
+YUM	20140619	78.8	79.5	r_up	
+YUM	20140620	79.5	79.6	r_up	
+YUM	20140623	79.6	79.7	r_up	
+YUM	20140624	79.7	79.7	r_up	
+YUM	20140625	79.7	81.1	r_up	
+YUM	20140626	81.1	80.8	r_down	
+YUM	20140627	80.8	81.0	r_up	
+YUM	20140630	81.0	80.3	r_down	
+YUM	20140701	80.3	80.6	r_up	
+YUM	20140702	80.6	81.0	r_up	
+YUM	20140703	81.0	81.6	r_up	
+YUM	20140707	81.6	81.4	r_down	
+YUM	20140708	81.4	81.4	r_up	
+YUM	20140709	81.4	82.7	r_up	
+YUM	20140710	82.7	81.9	r_down	
+YUM	20140711	81.9	81.8	r_down	session:1 's:1 companies:1 shares:1 trade:1 actively:1 expected:1
+YUM	20140714	81.8	82.7	r_up	
+YUM	20140715	82.7	82.6	r_down	quietly:1 stores:1 chain:1 held:1 chicken:1 open:1 much:1 biggest:1 has:2 's:1 closely:1 half:1 than:1 present:1 restaurant:1 many:1 barely:1 fewer:1 n't:1 does:1 country:1 become:1
+YUM	20140716	82.6	82.2	r_down	
+YUM	20140717	82.2	76.5	r_down	saying:1 among:1 into:1 focus:1 quarters:1 radar:1 moves:1 market:1 surprises:1 advisories:1 earnings:2 gets:1 stock:1 full:1 season:1 after:1 notable:1 hours:1 fall:1 brands:1 stocks:3 roundup:1 companies:1 reports:1 banking:1 future:1 swing:1 making:1 climb:1 corporate:1 investors’:1 latest:1
+YUM	20140718	76.5	76.9	r_up	
+YUM	20140721	76.9	73.6	r_down	purchases:3 named:1 suspend:1 says:1 restaurants:1 retailer:1 ending:1 jump:1 suspended:1 chicken:3 its:1 halt:1 fast-food:1 giant:1 business:1 beef:3 veteran:1 shares:1 investigation:2 earnings:1 under:3 supplier:3 higher:1 selling:2 's:3 sinks:1 allegedly:3 sold:1 break:1 fund:1 activist:1 sharply:1 president:1 expired:3 sending:1 search:1 meat:3 external:1 pressure:1 country:1 industry:1 up:1 push:1 retail:1 began:1 sink:1
+YUM	20140722	73.6	74.3	r_up	purchases:1 key:1 investors:2 show:1 domestic:1 sales:3 although:1 surrounding:1 foods:1 accused:1 promised:1 suspended:1 sharp:1 owner:1 scandal:1 seem:1 beyond:1 makers:1 declined:1 gains:1 hit:1 decline:1 allegations:1 said:1 pause:1 surviving:1 beef:1 profit:1 media:2 expired:1 due:1 been:1 its:1 their:1 other:2 safety:1 earnings:2 boon:1 which:1 expected:1 performance:1 has:3 chains:1 anemic:1 life:1 selling:1 's:6 sapped:1 fast-food:1 food:2 shelf:1 sold:1 after:2 results:1 outlets:1 but:2 locations:1 supplier:2 cut:1 dented:1 cereal:1 ties:1 stocks:1 storm:1 response:1 weathering:1 appear:1 exception:1 swift:1 meat:3 restaurant:1 whether:1 shift:1 could:1 according:1 reports:3 chicken:1 low-carb:1 products:1 amid:1 issue:1 button:1 restaurants:2
+YUM	20140723	74.3	74.2	r_down	management:1 's:2 meat:2 people:1 after:1 accused:1 detained:1 were:1 supplier:1 selling:1 expired:1 unit:1 restaurants:1
+YUM	20140724	74.2	73.3	r_down	
+YUM	20140725	73.3	73.5	r_up	restore:1 all:1 joints:1 some:1 back:1 jump:1 decided:1 have:1 scandal:1 our:1 chicken:1 your:1 unit:1 said:1 charts:1 its:1 highlighted:1 may:1 does:1 rates:1 which:1 between:1 biggest:1 has:1 public:1 stock:1 week:1 first-day:1 selling:1 's:4 1950s:1 fast-food:2 stock-price:1 food:1 big:1 after:2 stop:1 supplier:2 involving:1 date:1 difference:1 expired:1 earlier:1 10:1 scrambling:1 meat:2 favorite:2 days:1 reports:1 shipped:1 reputation:1 products:1 produced:1 went:1 think:1 restaurants:1
+YUM	20140728	73.5	73.7	r_up	operations:1 sector:1 spreads:1 protecting:1 its:3 northern:1 crises:1 should:1 good:1 food-safety:1 than:1 government:1 food:2 dock:1 putting:1 world:1 now:1 meat:1 name:1 chains:1 companies:1 facing:1 shortage:1 works:1 round:1 liquor:1 some:2 result:1 out:1 away:1 find:1 investigation:1 supplier:3 approach:1 across:1 told:1 stance:1 cars:1 sold:1 loyalty:1 reason:1 lucrative:1 address:1 news:1 central:1 shift:1 could:1 foreign:2 products:1 into:1 another:2 crisis:1 asks:1 locally:1 been:1 way:1 biggest:1 assessment:1 more:1 allegedly:1 company:1 slashed:1 prices:1 former:1 buying:1 car:1 reliable:1 can:1 investors:1 have:2 if:1 fast-food:1 views:1 generally:1 luxury:1 's:6 may:1 problems:1 outlets:1 reassess:1 brands:2 president:1 expired:1 response:1 building:1 faster:1 vice:1 reputation:1 latest:1
+YUM	20140729	73.7	73.3	r_down	
+YUM	20140730	73.3	72.5	r_down	
+YUM	20140731	72.5	68.9	r_down	six:1 significant:1 tumble:1 same-store:1 over:1 317:1 sales:1 '':2 second:1 economic:1 p.m:1 still:1 its:1 if:1 even:1 industrials:1 unexpected:2 service:1 profit:2 broad:1 one-day:1 since:1 selloff:1 negative:1 3:1 trigger:1 earnings:1 online:1 biggest:1 has:1 tolerance:1 impact:1 ``:2 led:1 said:1 combination:1 jumps:2 after:2 locations:1 hours:1 reported:1 suffers:1 worst:1 virtue:1 coverage:1 news:2 investor:1 day:1 10:1 drop:1 last:1 name:1 default:1 months:1 days:1 points:1 thin:1 after-hours:1 trading:1 quarter:1 starting:1 review:1 wear:1
+YUM	20140801	68.9	70.0	r_up	streak:1 five-month:1 bid:1 300:1 weak:1 jumps:1 losses:1 problems:1 sales:1 winning:1 drops:1 points:1 broke:1 slumped:1 delivers:1 stocks:1 than:1 more:1
+YUM	20140804	70.0	69.7	r_down	10:1 splits:1 gone:1 partnership:1 long:1 deals:1 bad:1 endorsement:1 line:1 latest:1
+YUM	20140805	69.7	69.1	r_down	
+YUM	20140806	69.1	69.5	r_up	fiscal:1 's:1 namesake:1 chain:1 profit:1 rose:1 company:1 brand:1 third-quarter:1 sales:1 burger:1 while:1 swung:1 its:1
+YUM	20140807	69.5	69.3	r_down	
+YUM	20140808	69.3	69.5	r_up	golden:1 there:1 old:2 bad:1 1.2:2 among:1 previously:1 well:1 over:1 allegations:1 n't:1 say:1 selling:1 experts:1 gang:1 have:2 stores:2 aggressive:1 should:1 crisis:1 investigated:1 lessons:1 information:1 confirmed:1 said:2 no:1 denying:1 media:2 away:1 people:1 seems:1 arches:1 been:2 its:2 food:1 tainted:1 way:1 new:1 violations:1 rice:1 local:1 company:1 store:1 customers:1 passwords:1 returned:1 business:1 city:1 may:1 retailer:2 sold:2 safe:1 southern:1 oil:1 prepared:1 reported:1 important:1 user:1 theft:1 supplies:1 not:1 trouble:1 expired:2 security:1 had:1 billion:1 meat:3 lost:1 --:1 country:1 taking:1 companies:1 reports:2 keep:1 large:1 competitors:1 products:2 massive:1 items:1 beneath:1 issue:1 first:1
+YUM	20140811	69.5	69.6	r_up	
+YUM	20140812	69.6	69.6	r_up	
+YUM	20140813	69.6	70.0	r_up	
+YUM	20140814	70.0	70.6	r_up	
+YUM	20140815	70.6	71.0	r_up	
+YUM	20140818	71.0	71.7	r_up	infant:1 there:1 excessive:1 lead:1 food:1 after:1 some:1 boxes:1 1,400:1 regulators:1 levels:1 recalled:1 found:1 than:1 more:1
+YUM	20140819	71.7	72.0	r_up	articles:1 videos:1 service:1 mobile:1 advertisements:1 could:1 messages:1 soon:1 disappearing:2 news:1 app:1
+YUM	20140820	72.0	72.5	r_up	
+YUM	20140821	72.5	71.8	r_down	
+YUM	20140822	71.8	71.9	r_up	has:1 his:1 publicity:2 widely:1 business:1 fire:1 decision:1 companies:1 cruel:1 introduce:1 hurt:1 bad:1 because:1 just:1 negative:1 7:1 under:1 suffered:1 one:1 viewed:1 laws:1
+YUM	20140825	71.9	72.3	r_up	chain:1 over:1 twist:1 burger:2 together:1 offspring:1 really:1 would:1 debate:1 surprise:1 gets:1 into:1 wants:1 's:1 finance:1 billionaire:1 helping:1 takeover:1 doughnut:1 natural:1 taxes:1 planned:1
+YUM	20140826	72.3	72.5	r_up	sector:1 private-equity:1 financial:1 producer:2 hunger:1 money:1 agreed:1 doughnuts:1 footprint:1 sudden:1 chicken:2 $:2 stake:1 take:1 400:2 international:1 has:1 firm:2 maneuver:1 coffee:1 continues:1 's:3 food:1 million:2 put:1 effort:1 expand:1 meat:1 announcing:1 18:1 invest:1 invests:1
+YUM	20140827	72.5	71.8	r_down	
+YUM	20140828	71.8	71.8	r_up	
+YUM	20140829	71.8	71.9	r_up	operations:1 arrested:2 month:1 suspended:1 its:1 subsidiaries:1 more:1 selling:2 's:1 fast-food:1 food:1 company:1 after:1 accuse:1 authorities:1 one:1 expired:1 than:1 prosecutors:1 employees:2 companies:1 products:2 were:1 substandard:1
+YUM	20140902	71.9	70.9	r_down	sell:1 billion:1 $:1 business:1 agreed:1 packaging:1 1.23:1 has:1 its:1 more:1
+YUM	20140903	70.9	71.0	r_up	division:1 13:1 said:1 decline:1 sales:1 31:1 locations:1 existing:1 ended:1 quarter:1 expects:1
+YUM	20140904	71.0	71.2	r_up	managers:1 deal:1 revenue:2 continues:1 agreed:1 trade:2 states:1 brands:2 disappointing:1 growth:2 shares:2 second-quarter:1 further:1 operator:1 stores:1 news:1 swung:1 clothing:2 its:1 3.9:1 index:1 '':1 strong:1 $:2 million:1 profit:2 rose:3 began:1 since:1 third-quarter:1 purchasing:1 mattress:1 current:2 details:1 premarket:1 expected:2 several:1 425:1 said:1 fiscal:1 ``:1 acquire:1 's:4 increased:1 adding:1 company:3 after:1 specialty:1 but:2 reported:1 fell:1 five:1 western:1 significant:1 demand:1 services:1 such:2 estimate:1 highest:1 data:1 expectations:1 session:2 projected:1 quarter:1 provide:1 --:1 telecom-equipment:1 companies:3 see:1 n't:1 did:1 below:1 actively:2 survey:1 release:1 2008:1 retail:1 cash-and-stock:1
+YUM	20140905	71.2	71.9	r_up	decline:1 lower:1 end:1 gains:1 third:1 giving:1 reversed:1 early:1 stocks:1 its:1 500:1 row:1
+YUM	20140908	71.9	71.9	r_up	fast-food:1 chain:1 well:1 sandwiches:1 grounding:1 founder:1 known:1 93:2 religious:1 its:2 died:1
+YUM	20140909	71.9	71.6	r_down	larger:1 well:1 global:2 sales:4 one:2 screens:1 3.7:2 actively:1 0.6:1 home:1 drove:2 its:5 market:1 said:2 $:1 two:1 shares:1 wearable:1 automation:1 digital:1 expected:2 new:2 struggling:1 core:1 comparable:1 's:6 around:1 problems:2 smartwatch:1 unveil:1 fell:2 device:1 trade:1 continued:1 premarket:1 --:2 suppliers:2 drop:2 companies:1 up:1 session:1 services:1 payments:1 healthcare:1 trading:1 region:2 first:1
+YUM	20140910	71.6	72.1	r_up	11:1 saying:1 ``:2 via:1 increased:1 returning:1 addition:1 allows:1 flow:1 cash:2 '':2 substantial:1 growth:1 buybacks:1 significant:1 invest:1 quarterly:1 dividend:1 dividends:1 has:1 its:2
+YUM	20140911	72.1	72.1	r_up	
+YUM	20140912	72.1	71.1	r_down	
+YUM	20140915	71.1	71.3	r_up	pessimistic:1 lowest:1 investors:1 some:1 scene:1 10:1 one:1 have:1 its:1 ditched:1 sentiment:1 bears:1 bearish:1 their:1 reading:1 stock:1 development:1 recently:1 sitting:1 track:1 forecasts:1 most:1 strategists:1 years:1 investor:1 fled:1 skeptical:1 annual:1 well:1 n't:1 survey:1 shows:1
+YUM	20140916	71.3	71.5	r_up	
+YUM	20140917	71.5	71.9	r_up	
+YUM	20140918	71.9	72.2	r_up	
+YUM	20140919	72.2	72.5	r_up	
+YUM	20140922	72.5	71.9	r_down	
+YUM	20140923	71.9	71.3	r_down	
+YUM	20140924	71.3	71.9	r_up	
+YUM	20140925	71.9	71.1	r_down	
+YUM	20140926	71.1	71.9	r_up	
+YUM	20140929	71.9	72.2	r_up	
+YUM	20140930	72.2	71.5	r_down	tests:2 groups:1 claiming:1 process:1 companies:1 could:1 sparked:1 some:1 back:1 scrutiny:1 scaling:1 hiring:1 workplace:1 have:1 discrimination:1
+YUM	20141001	71.5	71.0	r_down	
+YUM	20141002	71.0	71.0	r_up	
+YUM	20141003	71.0	71.2	r_up	
+YUM	20141006	71.2	70.9	r_down	there:1 may:1 fast-food:1 food:1 wish:1 after:1 sales:1 scare:1 pinned:1 operator:1 lot:1 hopes:1 hurt:1 its:2
+YUM	20141007	70.9	69.3	r_down	key:1 both:1 lower:1 right:1 financial:1 way:1 lead:1 impact:1 dollar:1 question:1 down:1 strengthening:1 market:1 sharply:1 now:1 markets:1 corporate:1 profits:1 stock:1
+YUM	20141008	69.3	70.3	r_up	all:1 soon:1 trade:1 session:1 go:1 suffer:1 its:4 ground:1 blow:1 certainly:1 hunting:1 thinking:1 seems:1 expectations:1 should:1 late:1 safety:1 gains:1 get:1 food:1 sucker:1 stung:1 results:1 worst:1 they:1 during:1 like:1 lost:1 drop:1 companies:1 trap:1 quarter:1 restaurants:1 hard:1 bargain:1 actively:1 trading:2 entering:1 year:2 said:1 missed:1 profit:1 since:1 shares:1 misses:1 volatile:1 harsher:1 bought:1 buckling:1 punch:1 hours:1 let:1 downgrade:1 dividend:1 gained:1 climate:1 ahead:1 country:1 could:1 months:2 brutal:1 action:1 repeats:1 scare:1 among:1 third-quarter:1 down:1 active:1 guard:1 another:2 open:1 your:1 market:3 analyst:1 two:2 been:2 start:1 don’t:1 expected:1 company:1 more:4 slips:1 buy:1 season:2 dips:1 but:1 hurt:1 slides:1 sharply:1 than:2 made:1 14:1 up:1 history:1 investors:1 sales:1 have:2 ready:1 again:1 make:1 earnings:3 doors:1 couple:1 stock:2 extended:1 's:1 after:3 falls:1 wasn’t:1 fell:1 stocks:2 hiked:1 clear:1 without:1 latest:1
+YUM	20141009	70.3	68.5	r_down	represent:1 show:1 navigate:1 hard:1 have:1 year:1 morning:1 market:1 said:1 would:1 their:1 raising:1 rates:1 bank:1 easy:1 biggest:1 firms:1 meeting:1 move:1 's:1 business:1 may:1 after:1 but:1 landing:1 not:1 trouble:1 stocks:2 opportunity:1 soared:1 suggested:1 central:1 foreign:1 cautiously:1 massive:1 minutes:1 gain:1
+YUM	20141010	68.5	68.8	r_up	

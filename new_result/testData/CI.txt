@@ -1,0 +1,114 @@
+CI	20140501	80.0	82.0	r_up	lifted:1 revenue:1 estimates:1 full-year:2 raises:1 year:1 go:1 its:1 group:1 profit:2 insurer:1 disability:1 forecast:1 earnings:2 worth:1 life:1 's:1 ops:1 boosted:1 company:1 listening:1 surged:1 stronger:1
+CI	20140502	82.0	82.6	r_up	
+CI	20140505	82.6	83.7	r_up	sign-ups:1 stronger-than-expected:1 exposed:1
+CI	20140506	83.7	83.8	r_up	
+CI	20140507	83.8	85.3	r_up	signing:1 people:1 over:1 fueling:1 month:1 high:1 premium:1 impact:1 partisan:1 fight:1 their:1 health:1 under:1 told:1 's:1 company:1 paid:1 coverage:1 law:1 up:1 executives:1 first:1
+CI	20140508	85.3	85.6	r_up	
+CI	20140509	85.6	86.4	r_up	
+CI	20140512	86.4	88.5	r_up	
+CI	20140513	88.5	88.4	r_down	
+CI	20140514	88.4	88.3	r_down	
+CI	20140515	88.3	87.4	r_down	
+CI	20140516	87.4	87.4	r_up	
+CI	20140519	87.4	88.4	r_up	
+CI	20140520	88.4	88.3	r_down	
+CI	20140521	88.3	89.1	r_up	
+CI	20140522	89.1	88.7	r_down	
+CI	20140523	88.7	89.2	r_up	
+CI	20140527	89.2	89.1	r_down	
+CI	20140528	89.1	89.4	r_up	letting:1 boomers:1 getting:2 employees:1 work:3 idea:1 least:1 employers:1 their:1 part:1 time:1 embracing:1 home:3 easier:2
+CI	20140529	89.4	90.1	r_up	sector:1 illness:1 says:1 they:3 family:1 point:1 over:2 health-care:4 complaint:3 2nd:1 high:1 say:3 his:1 against:3 participate:2 friend:1 e-cigarette:2 still:1 debate:1 surcharge:2 one:2 trying:3 recently:1 consumers:3 basis:3 avoid:2 had:1 enough:1 shares:1 its:3 misses:1 concerns:1 health:3 boom:1 sick:2 struggling:1 insurers:5 participation:1 can:2 levy:2 titan:1 weighing:2 users:2 provisions:3 get:1 afford:1 after:1 long:1 but:1 deter:1 lack:1 drug:1 regulators:2 groups:3 exchanges:2 using:3 cases:2 law:3 old:1 you:1 died:1 he:1 kind:2 tobacco:2 covering:2 --:3 insurance:1 advocacy:3 leaving:1 whether:2 costs:2 products:1 risks:1 first:2 make:1 latest:1
+CI	20140530	90.1	89.7	r_down	
+CI	20140602	89.7	90.4	r_up	
+CI	20140603	90.4	90.4	r_up	
+CI	20140604	90.4	90.4	r_up	20:1 would:1 company:1 share:1 hurt:1 price:1 soaring:1 instead:1 its:1 profits:1 feared:1
+CI	20140605	90.4	90.2	r_down	
+CI	20140606	90.2	90.3	r_up	
+CI	20140609	90.3	89.8	r_down	
+CI	20140610	89.8	89.8	r_up	
+CI	20140611	89.8	91.4	r_up	
+CI	20140612	91.4	90.7	r_down	
+CI	20140613	90.7	91.0	r_up	
+CI	20140616	91.0	90.7	r_down	
+CI	20140617	90.7	90.0	r_down	
+CI	20140618	90.0	90.5	r_up	
+CI	20140619	90.5	91.3	r_up	
+CI	20140620	91.3	91.8	r_up	
+CI	20140623	91.8	91.4	r_down	physicians:1 ``:1 wearables:1 whether:1 studying:1 number:1 devices:1 '':1 patients:1 other:1 health:1 can:1 habits:1 better:1 growing:1 spurring:1 improve:1
+CI	20140624	91.4	90.2	r_down	
+CI	20140625	90.2	92.1	r_up	
+CI	20140626	92.1	91.3	r_down	
+CI	20140627	91.3	91.9	r_up	
+CI	20140630	91.9	91.9	r_up	
+CI	20140701	91.9	92.6	r_up	
+CI	20140702	92.6	92.8	r_up	
+CI	20140703	92.8	93.6	r_up	
+CI	20140707	93.6	92.4	r_down	
+CI	20140708	92.4	91.9	r_down	
+CI	20140709	91.9	92.5	r_up	
+CI	20140710	92.5	92.3	r_down	
+CI	20140711	92.3	93.3	r_up	insurance:1 sector:1 's:1 plans:1 could:1 industry:2 billions:1 foreign:1 dollars:1 say:1 officials:1 experts:1 allow:1 struggling:1 attract:1 investment:1 more:1
+CI	20140714	93.3	94.2	r_up	
+CI	20140715	94.2	94.0	r_down	
+CI	20140716	94.0	93.9	r_down	
+CI	20140717	93.9	94.4	r_up	
+CI	20140718	94.4	96.3	r_up	
+CI	20140721	96.3	95.5	r_down	
+CI	20140722	95.5	96.3	r_up	
+CI	20140723	96.3	96.8	r_up	
+CI	20140724	96.8	96.7	r_down	
+CI	20140725	96.7	95.7	r_down	
+CI	20140728	95.7	96.8	r_up	
+CI	20140729	96.8	94.6	r_down	session:1 's:1 companies:1 shares:1 trade:1 actively:1 expected:1
+CI	20140730	94.6	93.5	r_down	
+CI	20140731	93.5	90.0	r_down	revenue:1 global:2 trade:1 actively:1 fees:1 its:2 said:1 profit:1 segments:1 recorded:1 shares:1 health:1 expected:1 higher:1 's:1 company:1 benefits:1 second-quarter:1 supplemental:1 care:1 improved:1 companies:1 premiums:1 session:1
+CI	20140801	90.0	90.7	r_up	problems:1 jumps:1 losses:1 weak:1 sales:1 delivers:1 drops:1 bid:1
+CI	20140804	90.7	91.8	r_up	buy:1 have:1 want:1 big:1 companies:1 long:1 hoped:1 turn:1 see:1 selling:1 they:2 starting:1 more:1
+CI	20140805	91.8	90.8	r_down	bending:1 show:1 racked:1 fortunes:1 cost:1 hospital:1 health:1 way:1 newly:1 has:2 filings:1 boosted:1 operators:1 but:1 insured:1 wrong:1 services:1 using:1 celebration:1 rush:1 insurers:1 did:1 anticipate:1 curve:1 up:1 premature:1 n't:1 patients:1 costs:1 plus:1 stages:1 corporate:1 interviews:1 executives:1
+CI	20140806	90.8	91.4	r_up	
+CI	20140807	91.4	88.7	r_down	
+CI	20140808	88.7	90.6	r_up	
+CI	20140811	90.6	90.0	r_down	
+CI	20140812	90.0	90.4	r_up	
+CI	20140813	90.4	91.3	r_up	
+CI	20140814	91.3	92.9	r_up	
+CI	20140815	92.9	92.5	r_down	
+CI	20140818	92.5	93.1	r_up	
+CI	20140819	93.1	93.6	r_up	
+CI	20140820	93.6	93.9	r_up	
+CI	20140821	93.9	93.9	r_up	
+CI	20140822	93.9	93.1	r_down	
+CI	20140825	93.1	93.2	r_up	
+CI	20140826	93.2	93.7	r_up	
+CI	20140827	93.7	94.4	r_up	
+CI	20140828	94.4	94.5	r_up	
+CI	20140829	94.5	94.6	r_up	
+CI	20140902	94.6	94.2	r_down	
+CI	20140903	94.2	94.7	r_up	
+CI	20140904	94.7	95.4	r_up	
+CI	20140905	95.4	96.3	r_up	
+CI	20140908	96.3	96.0	r_down	
+CI	20140909	96.0	95.9	r_down	
+CI	20140910	95.9	94.3	r_down	
+CI	20140911	94.3	93.3	r_down	
+CI	20140912	93.3	92.3	r_down	
+CI	20140915	92.3	91.5	r_down	
+CI	20140916	91.5	93.2	r_up	
+CI	20140917	93.2	94.0	r_up	
+CI	20140918	94.0	95.2	r_up	
+CI	20140919	95.2	95.2	r_up	
+CI	20140922	95.2	94.7	r_down	
+CI	20140923	94.7	92.9	r_down	
+CI	20140924	92.9	94.8	r_up	
+CI	20140925	94.8	91.7	r_down	
+CI	20140926	91.7	91.8	r_up	
+CI	20140929	91.8	91.2	r_down	
+CI	20140930	91.2	90.6	r_down	
+CI	20141001	90.6	89.4	r_down	venture-capital:1 $:1 analysis:1 1.75:1 round-up:1 news:1 around:1
+CI	20141002	89.4	88.7	r_down	
+CI	20141003	88.7	90.5	r_up	
+CI	20141006	90.5	89.1	r_down	
+CI	20141007	89.1	89.1	r_up	
+CI	20141008	89.1	91.4	r_up	
+CI	20141009	91.4	89.9	r_down	
+CI	20141010	89.9	90.5	r_up	

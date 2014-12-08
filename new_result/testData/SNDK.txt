@@ -1,0 +1,114 @@
+SNDK	20140501	84.4	84.7	r_up	
+SNDK	20140502	84.7	85.3	r_up	
+SNDK	20140505	85.3	86.5	r_up	
+SNDK	20140506	86.5	85.9	r_down	area:1 fashion:1 all-time:1 rests:1 highs:1 continues:1 resistance:1 immediate:1 matching:1 high:1 record:2 battleground:1 test:1 bull-bear:1 closing:1 territory:1 challenge:1 500:1 remains:1
+SNDK	20140507	85.9	86.6	r_up	
+SNDK	20140508	86.6	88.3	r_up	outlook:1 unexpected:1 revenue:1 retailer:1 $:1 trade:1 session:1 2.3:1 edged:1 2.7:1 networks:1 decline:1 21st:1 cut:1 network:1 profit:2 same-store:1 shares:1 its:2 growth:1 premarket:1 expected:1 's:3 business:1 sales:2 broadcast:1 discount:1 operating:1 first-quarter:1 posted:1 fiscal:1 driven:1 cable:1 reported:1 solid:1 companies:1 up:1 33:1 actively:1 advertising:1 quarter:1
+SNDK	20140509	88.3	88.5	r_up	
+SNDK	20140512	88.5	90.6	r_up	
+SNDK	20140513	90.6	90.8	r_up	
+SNDK	20140514	90.8	89.6	r_down	smartphones:2 's:1 lead:1 --:2 capitalize:2 chip:2 ramping:1 ramp:1 up:2 devices:2 sales:2 wearable:2 growth:2 shifting:1 rival:1 firms:1 technology:2 investment:2
+SNDK	20140515	89.6	88.0	r_down	
+SNDK	20140516	88.0	90.7	r_up	ago:1 stocks:1 gains:1 racked:1 big:1 up:1 has:1 decades:1 bought:1
+SNDK	20140519	90.7	91.3	r_up	
+SNDK	20140520	91.3	91.0	r_down	slows:1 investors:1 soars:1 spending:1 30:1 flow:1 factory:1 free:1 should:1 names:1 7:1 cash:1 reward:1
+SNDK	20140521	91.0	92.4	r_up	
+SNDK	20140522	92.4	92.9	r_up	
+SNDK	20140523	92.9	93.9	r_up	
+SNDK	20140527	93.9	95.1	r_up	
+SNDK	20140528	95.1	95.7	r_up	
+SNDK	20140529	95.7	96.3	r_up	
+SNDK	20140530	96.3	96.3	r_up	
+SNDK	20140602	96.3	96.8	r_up	
+SNDK	20140603	96.8	97.1	r_up	10:1 van:1 surprises:1 decline:1 many:1 writes:1 up:1 been:1 yields:1 heats:1 have:1 best-performing:1 2014:1 stocks:1 500:1
+SNDK	20140604	97.1	97.5	r_up	
+SNDK	20140605	97.5	99.5	r_up	
+SNDK	20140606	99.5	99.6	r_up	
+SNDK	20140609	99.6	97.8	r_down	recovery:1 catalysts:1 two:1 benefit:1 others:1 spark:1
+SNDK	20140610	97.8	96.8	r_down	
+SNDK	20140611	96.8	99.3	r_up	
+SNDK	20140612	99.3	98.3	r_down	
+SNDK	20140613	98.3	98.1	r_down	
+SNDK	20140616	98.1	101.6	r_up	sector:1 all:1 agreed:3 cheap:1 trade:2 session:2 including:1 disk:1 centers:1 buyers:2 $:8 rose:2 flash:1 had:1 better:1 premarket:1 cash:2 premium:2 gains:1 consolidation:2 chips:1 --:1 suppliers:2 companies:3 slumps:1 popular:1 mean:1 portable:1 deal:5 declines:1 sign:2 actively:2 tender:1 close:1 said:1 broad:1 shares:5 replacing:1 3:3 does:1 provider:1 business:1 picking:1 21:1 applications:1 starts:1 became:1 maker:1 first:1 among:2 aimed:2 use:1 would:2 outstanding:1 two:1 quickly:1 memory:1 expected:2 buy:4 gear:2 offer:1 but:3 known:1 commence:1 12:2 up:1 devices:1 n't:1 while:1 values:1 many:1 closing:1 1.6:1 metropolitan:1 1.3:2 share:2 rally:1 5.7:1 pay:1 storage:3 unites:1 which:1 several:1 stock:1 week:1 's:5 may:2 price:1 drives:1 most:1 important:1 footprint:1 pioneers:1 stocks:1 data:3 expand:1 billion:4 corporate:3 tech:2 1.21:1 consumer:1 latest:2
+SNDK	20140617	101.6	102.9	r_up	among:1 financial:1 deal:1 soars:1 results:1 sale:1 likely:1 session:1 trading:1 higher:1 another:1 close:1 its:1 market:1 out:1 surges:1 negative:1 shares:1 concerns:1 details:1 inch:1 performance:1 territory:1 marginally:1 stock:1 ends:1 buy:1 's:1 wo:1 after:2 drops:1 biggest:1 suitor:1 stocks:1 choppy:1 third:1 released:1 dipping:1 up:1 n't:1 more:1 while:1 losers:1 500:1 following:1 weigh:1 quarter:1
+SNDK	20140618	102.9	101.9	r_down	needs:1 gains:1 flash:1 but:1 see:1 portfolio:1 enterprise:1 second-half:1 boost:1 its:1
+SNDK	20140619	101.9	101.8	r_down	
+SNDK	20140620	101.8	101.6	r_down	
+SNDK	20140623	101.6	101.8	r_up	
+SNDK	20140624	101.8	101.8	r_up	firm:1 advisory:1 mutual:1 own:1 profiles:1 its:1 fund:1 manages:1 investment:1 co-founder:1
+SNDK	20140625	101.8	102.6	r_up	week:1 deal:1 1.3:1 computer:1 rooms:1 have:1 sense:1 consolidating:1 technology:1 documents:1 rapidly:1 $:1 flash:1 been:1 helps:1 memory:1 real:1 buy:1 's:1 get:1 read:1 filed:1 bringing:1 billion:1 connection:1 though:1 activity:1
+SNDK	20140626	102.6	102.3	r_down	
+SNDK	20140627	102.3	102.4	r_up	
+SNDK	20140630	102.4	104.0	r_up	
+SNDK	20140701	104.0	105.0	r_up	10:1 suffer:1 van:1 lead:1 writes:1 most:1 while:1 winners:1 losers:1 market:1 retailers:1 biggest:1 2014:1 stocks:1 500:1
+SNDK	20140702	105.0	105.6	r_up	firm:1 capture:1 's:1 12th:1 sales:1 looking:1 fund:1 expertise:1 which:1 its:1 raising:1
+SNDK	20140703	105.6	106.4	r_up	
+SNDK	20140707	106.4	106.0	r_down	
+SNDK	20140708	106.0	103.9	r_down	
+SNDK	20140709	103.9	103.9	r_up	
+SNDK	20140710	103.9	103.4	r_down	
+SNDK	20140711	103.4	104.6	r_up	
+SNDK	20140714	104.6	105.2	r_up	
+SNDK	20140715	105.2	105.2	r_up	
+SNDK	20140716	105.2	107.4	r_up	biotech:1 leaders:1 just:1 ground:1 globe:1 results:1 around:1 rate:1 proves:1 close:1 speak:1 giant:1 stocks:1 lead:1 media:1 small-company:1 earnings:1 interest:1 policy:1 out:1 markets:1 leader:1 economy:1 play:1 attention:1 's:1 gains:1 after:1 but:1 falls:1 effects:1 rises:1 bank:1 advance:1 central:1 sway:1 tech’s:1 disappointment:1 social:1 felt:1
+SNDK	20140717	107.4	92.9	r_down	revenue:1 stronger:1 share:1 trade:1 actively:1 thanks:1 's:1 margins:1 moves:1 border:1 market:1 sell:1 1.14:1 4.6:1 end:1 $:2 jet:1 profit:1 selloff:1 accelerated:1 shares:1 growth:1 expected:1 day’s:1 million:1 crash:1 after:2 notable:1 crashed:1 sharply:1 fall:1 stocks:3 lower:1 off:1 reported:1 companies:1 near:1 session:1 flash-memory:1 making:1 climb:1 stock:1 maker:1
+SNDK	20140718	92.9	94.2	r_up	
+SNDK	20140721	94.2	93.4	r_down	
+SNDK	20140722	93.4	94.3	r_up	
+SNDK	20140723	94.3	94.0	r_down	
+SNDK	20140724	94.0	93.4	r_down	
+SNDK	20140725	93.4	92.9	r_down	
+SNDK	20140728	92.9	92.3	r_down	set:1 upside:1 look:1
+SNDK	20140729	92.3	92.6	r_up	
+SNDK	20140730	92.6	93.0	r_up	
+SNDK	20140731	93.0	91.7	r_down	
+SNDK	20140801	91.7	92.7	r_up	
+SNDK	20140804	92.7	94.0	r_up	
+SNDK	20140805	94.0	92.8	r_down	
+SNDK	20140806	92.8	93.0	r_up	
+SNDK	20140807	93.0	90.7	r_down	giants:1 deals:1 people:1 spending:2 data:1 writes:1 sign:1 jump:1 unabated:1 running:1 tech:4 big:1 growing:1 products:1 spree:1 bubble:2 second-quarter:1 shows:1
+SNDK	20140808	90.7	91.4	r_up	its:1 shares:1 takeaways:1
+SNDK	20140811	91.4	92.3	r_up	
+SNDK	20140812	92.3	91.4	r_down	
+SNDK	20140813	91.4	92.9	r_up	
+SNDK	20140814	92.9	93.2	r_up	
+SNDK	20140815	93.2	94.0	r_up	
+SNDK	20140818	94.0	94.2	r_up	
+SNDK	20140819	94.2	95.3	r_up	
+SNDK	20140820	95.3	97.6	r_up	
+SNDK	20140821	97.6	97.6	r_up	
+SNDK	20140822	97.6	98.0	r_up	
+SNDK	20140825	98.0	99.0	r_up	
+SNDK	20140826	99.0	98.5	r_down	
+SNDK	20140827	98.5	98.8	r_up	
+SNDK	20140828	98.8	98.3	r_down	
+SNDK	20140829	98.3	97.9	r_down	
+SNDK	20140902	97.9	95.6	r_down	
+SNDK	20140903	95.6	95.7	r_up	
+SNDK	20140904	95.7	96.2	r_up	
+SNDK	20140905	96.2	98.7	r_up	
+SNDK	20140908	98.7	99.8	r_up	
+SNDK	20140909	99.8	100.0	r_up	
+SNDK	20140910	100.0	100.0	r_up	
+SNDK	20140911	100.0	99.0	r_down	
+SNDK	20140912	99.0	98.9	r_down	
+SNDK	20140915	98.9	97.3	r_down	
+SNDK	20140916	97.3	100.0	r_up	
+SNDK	20140917	100.0	100.2	r_up	
+SNDK	20140918	100.2	103.2	r_up	
+SNDK	20140919	103.2	101.1	r_down	outlook:1 weak:1 industry:1 climbed:1 tops:1 retreats:1 coal:1 while:1 losers:1 earnings:2 rallies:1 quarter:1 surged:1
+SNDK	20140922	101.1	98.7	r_down	
+SNDK	20140923	98.7	98.9	r_up	revenue:1 more:1 stable:1 growth:1 offer:1
+SNDK	20140924	98.9	99.9	r_up	
+SNDK	20140925	99.9	96.9	r_down	sector:1 streak:1 set:1 fourth-quarter:1 trend:1 into:1 results:1 its:1 issues:1 out:1 profit:1 bell:1 expectations:1 hot:1 earnings:1 tumbles:1 beating:1 red:1 hit:1 after:1 slump:1 sales:1 report:1 stocks:1 recent:1 fiscal:1 losses:1 up:1 keep:1 tech:2 stand:1 closing:1
+SNDK	20140926	96.9	99.2	r_up	set:1 multiple:1 improved:1 chip:1 visibility:1 earnings:1 's:2 maker:1 expand:1
+SNDK	20140929	99.2	99.6	r_up	
+SNDK	20140930	99.6	97.9	r_down	
+SNDK	20141001	97.9	95.1	r_down	
+SNDK	20141002	95.1	94.3	r_down	
+SNDK	20141003	94.3	95.6	r_up	acquisitions:1 cues:1 business:1 ventures:1 taking:1 quickly:1 content:1 acting:1 services:1 such:1 areas:1 into:1 more:1
+SNDK	20141006	95.6	93.0	r_down	
+SNDK	20141007	93.0	91.5	r_down	
+SNDK	20141008	91.5	93.3	r_up	
+SNDK	20141009	93.3	89.9	r_down	
+SNDK	20141010	89.9	86.0	r_down	

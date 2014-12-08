@@ -1,0 +1,114 @@
+MUR	20140501	62.7	60.6	r_down	
+MUR	20140502	60.6	60.5	r_down	profitable:2 oil:1 cheapest:1 cheap:1 energy:1 gas:1 5:1 can:1 invest:1 five:1 you:1 stocks:2
+MUR	20140505	60.5	60.6	r_up	
+MUR	20140506	60.6	60.1	r_down	
+MUR	20140507	60.1	60.3	r_up	
+MUR	20140508	60.3	59.3	r_down	
+MUR	20140509	59.3	59.3	r_up	
+MUR	20140512	59.3	60.4	r_up	
+MUR	20140513	60.4	60.3	r_down	
+MUR	20140514	60.3	60.4	r_up	
+MUR	20140515	60.4	60.7	r_up	shed:1 deal:3 people:4 process:1 energy:2 back:1 one:1 begun:2 year:1 wrap:1 home:1 bidders:1 its:4 stage:1 sell:1 adding:2 said:4 end:1 $:2 would:1 much:1 make:1 stake:1 due:1 2:2 has:2 over:2 firm:1 oil:3 business:1 seeking:2 company:4 gas:2 early:1 hopes:1 effort:1 knowledge:1 billion:2 assets:4 --:1 up:1 30:1 bids:1 sale:3 round:1 these:1 overseas:1 first:1 refocus:1 latest:1
+MUR	20140516	60.7	59.7	r_down	
+MUR	20140519	59.7	60.4	r_up	
+MUR	20140520	60.4	60.0	r_down	
+MUR	20140521	60.0	61.2	r_up	
+MUR	20140522	61.2	60.7	r_down	
+MUR	20140523	60.7	60.4	r_down	
+MUR	20140527	60.4	60.3	r_down	
+MUR	20140528	60.3	60.2	r_down	
+MUR	20140529	60.2	61.4	r_up	
+MUR	20140530	61.4	61.3	r_down	
+MUR	20140602	61.3	61.6	r_up	
+MUR	20140603	61.6	61.6	r_up	
+MUR	20140604	61.6	61.8	r_up	
+MUR	20140605	61.8	62.1	r_up	
+MUR	20140606	62.1	62.7	r_up	
+MUR	20140609	62.7	63.4	r_up	
+MUR	20140610	63.4	62.8	r_down	
+MUR	20140611	62.8	63.2	r_up	
+MUR	20140612	63.2	63.7	r_up	
+MUR	20140613	63.7	64.9	r_up	
+MUR	20140616	64.9	64.9	r_up	
+MUR	20140617	64.9	64.3	r_down	
+MUR	20140618	64.3	64.5	r_up	conference:1 sector:1 oil:2 's:1 business:1 canceled:1 tensions:1 company:1 later:1 gas:1 month:1 held:1 concerns:1 safety:1 between:1 affecting:1 international:1 has:1 organizing:1
+MUR	20140619	64.5	65.1	r_up	
+MUR	20140620	65.1	65.6	r_up	
+MUR	20140623	65.6	66.4	r_up	
+MUR	20140624	66.4	64.5	r_down	off:1 energy:1 attention:1 consortium:1 corner:1 natural-gas:1 's:1 relatively:1 drawing:1 discovery:1
+MUR	20140625	64.5	65.4	r_up	
+MUR	20140626	65.4	65.7	r_up	
+MUR	20140627	65.7	66.2	r_up	
+MUR	20140630	66.2	66.0	r_down	
+MUR	20140701	66.0	66.2	r_up	
+MUR	20140702	66.2	66.3	r_up	
+MUR	20140703	66.3	66.3	r_up	
+MUR	20140707	66.3	66.6	r_up	
+MUR	20140708	66.6	65.8	r_down	
+MUR	20140709	65.8	65.6	r_down	
+MUR	20140710	65.6	65.0	r_down	
+MUR	20140711	65.0	64.8	r_down	
+MUR	20140714	64.8	65.2	r_up	
+MUR	20140715	65.2	64.6	r_down	
+MUR	20140716	64.6	65.5	r_up	now:1 areas:1 's:1 wrath:1 being:1 some:1 energy:1 companies:1 maritime:1 face:1 freeze:1 explore:1 putting:1 projects:1 they:2 under:1 international:1 if:1 could:1 law:1 told:1
+MUR	20140717	65.5	65.7	r_up	
+MUR	20140718	65.7	65.9	r_up	
+MUR	20140721	65.9	66.2	r_up	
+MUR	20140722	66.2	66.7	r_up	
+MUR	20140723	66.7	67.3	r_up	
+MUR	20140724	67.3	67.3	r_up	
+MUR	20140725	67.3	67.2	r_down	
+MUR	20140728	67.2	67.1	r_down	
+MUR	20140729	67.1	66.8	r_down	
+MUR	20140730	66.8	66.3	r_down	operations:1 loss:1 discontinued:1 's:2 profit:1 company:1 took:1 costs:1 fell:1 sharply:1 surged:1 second-quarter:1
+MUR	20140731	66.3	61.7	r_down	
+MUR	20140801	61.7	61.1	r_down	problems:1 jumps:1 losses:1 weak:1 sales:1 delivers:1 drops:1 bid:1
+MUR	20140804	61.1	61.6	r_up	
+MUR	20140805	61.6	60.3	r_down	
+MUR	20140806	60.3	60.5	r_up	term:1 doesn’t:1 trend:1 well:1 near:1 beatings:1 well-known:1 pounding:1 worst:1 names:1 have:2 taken:2 5:1 stocks:1 bode:1
+MUR	20140807	60.5	60.0	r_down	
+MUR	20140808	60.0	60.9	r_up	
+MUR	20140811	60.9	60.7	r_down	
+MUR	20140812	60.7	59.9	r_down	
+MUR	20140813	59.9	59.6	r_down	
+MUR	20140814	59.6	59.8	r_up	
+MUR	20140815	59.8	60.4	r_up	
+MUR	20140818	60.4	60.5	r_up	
+MUR	20140819	60.5	60.4	r_down	
+MUR	20140820	60.4	60.6	r_up	
+MUR	20140821	60.6	61.3	r_up	
+MUR	20140822	61.3	60.8	r_down	
+MUR	20140825	60.8	61.2	r_up	
+MUR	20140826	61.2	61.1	r_down	
+MUR	20140827	61.1	60.7	r_down	
+MUR	20140828	60.7	61.1	r_up	
+MUR	20140829	61.1	62.4	r_up	
+MUR	20140902	62.4	60.9	r_down	
+MUR	20140903	60.9	61.2	r_up	
+MUR	20140904	61.2	59.6	r_down	
+MUR	20140905	59.6	59.9	r_up	
+MUR	20140908	59.9	58.9	r_down	
+MUR	20140909	58.9	58.6	r_down	
+MUR	20140910	58.6	58.3	r_down	
+MUR	20140911	58.3	58.0	r_down	
+MUR	20140912	58.0	57.2	r_down	
+MUR	20140915	57.2	57.9	r_up	
+MUR	20140916	57.9	58.4	r_up	
+MUR	20140917	58.4	58.2	r_down	
+MUR	20140918	58.2	57.7	r_down	
+MUR	20140919	57.7	57.8	r_up	
+MUR	20140922	57.8	57.1	r_down	
+MUR	20140923	57.1	57.5	r_up	
+MUR	20140924	57.5	57.2	r_down	
+MUR	20140925	57.2	56.1	r_down	
+MUR	20140926	56.1	57.0	r_up	
+MUR	20140929	57.0	57.0	r_up	
+MUR	20140930	57.0	56.9	r_down	sell:3 billion:2 oil:2 assets:3 gas:2 energy:2 30:2 some:1 its:2 firm:1 state:2 2:3 said:1 agreed:1 has:1 company:1 agrees:1 $:3
+MUR	20141001	56.9	56.1	r_down	information:1 program:1 said:1 target:1 hackers:1 possible:1 up:1 members:1 frequent-flier:1 750,000:1 theft:1 become:1 has:1 its:1 linked:1 latest:1
+MUR	20141002	56.1	55.7	r_down	
+MUR	20141003	55.7	55.0	r_down	
+MUR	20141006	55.0	54.9	r_down	
+MUR	20141007	54.9	54.3	r_down	
+MUR	20141008	54.3	55.5	r_up	
+MUR	20141009	55.5	53.9	r_down	
+MUR	20141010	53.9	53.1	r_down	

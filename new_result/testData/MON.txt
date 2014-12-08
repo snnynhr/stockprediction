@@ -1,0 +1,114 @@
+MON	20140501	109.8	109.3	r_down	broadening:1 super:1 have:1 farmers:1 may:1 developed:1 toll:1 against:1 environmental:1 potentially:1 they:1 weeds:1 authorities:1 new:1 herbicide:1 crops:1 approve:1
+MON	20140502	109.3	111.3	r_up	
+MON	20140505	111.3	113.9	r_up	now:1 since:1 word:1 they:1 area:1 18:1 globe:1 continues:1 modified:1 crop:1 across:1 5:1 have:1 were:1 total:1 world:1 years:1 's:1 debate:1 50:1
+MON	20140506	113.9	113.0	r_down	sector:1 investors:1 energy:1 dumped:1 trade:1 pair:1 see:1 session:2 shrug:1 whose:1 flatline:1 fears:1 near:1 shares:1 health:1 expected:1 presentation:1 's:1 deteriorating:1 after:1 watch:1 most:1 situation:1 active:1 stocks:4 data:1 rallied:1 off:1 downbeat:1 companies:1 spent:1 while:1 services:1 report:1 weigh:1 better-than-expected:1
+MON	20140507	113.0	115.0	r_up	
+MON	20140508	115.0	114.9	r_down	
+MON	20140509	114.9	114.7	r_down	
+MON	20140512	114.7	115.0	r_up	
+MON	20140513	115.0	115.9	r_up	
+MON	20140514	115.9	116.0	r_up	
+MON	20140515	116.0	114.4	r_down	
+MON	20140516	114.4	115.1	r_up	
+MON	20140519	115.1	115.2	r_up	
+MON	20140520	115.2	114.9	r_down	
+MON	20140521	114.9	115.8	r_up	
+MON	20140522	115.8	118.3	r_up	
+MON	20140523	118.3	118.9	r_up	
+MON	20140527	118.9	119.2	r_up	around:1 confusion:1 hype:1 adoption:1 big:1 report:1 new:1 technologies:1 data:1 finds:1
+MON	20140528	119.2	119.3	r_up	
+MON	20140529	119.3	120.6	r_up	
+MON	20140530	120.6	120.8	r_up	customer:1 information:1 attempt:1 exposed:1 steal:1 n't:1 seed:1 hack:1 says:1 data:1 maker:1
+MON	20140602	120.8	121.4	r_up	
+MON	20140603	121.4	120.2	r_down	
+MON	20140604	120.2	120.3	r_up	
+MON	20140605	120.3	120.9	r_up	
+MON	20140606	120.9	120.7	r_down	
+MON	20140609	120.7	120.3	r_down	
+MON	20140610	120.3	120.3	r_up	firm:1 raised:1 said:1 $:2 million:2 fund:1 aimed:1 early-stage:1 new:1 startups:1 seeding:1
+MON	20140611	120.3	119.7	r_down	
+MON	20140612	119.7	119.9	r_up	biotech:1 strengthen:1 into:1 alliances:1 technology:1 considering:1 said:1 overhaul:1 farmers:1 giving:1 system:1 chemical:1 national:1 more:1 's:2 power:1 services:1 data:1 approved:1 governments:1 crops:1 companies:1 regulating:1 push:1 senior:1 maker:1 executives:1
+MON	20140613	119.9	118.7	r_down	even:1 sell:1 scrambling:1 just:1 farmers:1 pesticide:1 into:1 eats:1 than:1 spray:1 tools:1 bug:1 expanding:1 services:1 world:1 more:1 data:1 makers:1 software:1
+MON	20140616	118.7	118.6	r_down	
+MON	20140617	118.6	119.0	r_up	
+MON	20140618	119.0	120.3	r_up	
+MON	20140619	120.3	120.8	r_up	'':1 controversial:1 agricultural:1 cotton:1 marking:1 farmers:1 split:1 new:1 herbicide:1 has:1 war:1 ``:1 weighing:1 emergency:1 deploy:1 environmentalists:1 groups:1 weeds:1 front:1 super:1 request:1 allow:1
+MON	20140620	120.8	121.1	r_up	
+MON	20140623	121.1	121.1	r_up	
+MON	20140624	121.1	119.6	r_down	strengthening:1 tap:1 600:1 producer:1 issued:1 cruise:1 pound:1 euro-zone:1 growth:1 year:1 operator:1 hit:1 yet:1 packed:1 out:1 confidence:1 swings:1 adds:1 recovery:1 profit:1 housing:2 concerns:1 health:1 market:1 officials:1 has:1 stock:2 's:2 business:1 schedule:1 after:2 speeches:1 hurt:1 chemicals:1 wake:1 reading:1 fall:1 stocks:2 data:2 loss:1 lower:2 accident:1 last:1 ahead:1 performers:1 downbeat:1 futures:1 turn:1 economic:1 were:1 worries:1 worst:1 warning:1 guide:1
+MON	20140625	119.6	125.7	r_up	all:1 trade:3 sources:1 session:3 businesses:1 7.7:1 shrugged:1 its:3 ground:1 whose:1 $:2 rose:2 writes:1 jolt:1 actually:1 better:1 failed:1 board:1 premarket:1 durable-goods:2 has:3 earnings:1 10:1 bid:1 rise:1 watch:1 not:1 high-quality:1 retreat:1 --:2 drop:1 companies:4 losers:1 lose:1 release:1 downward:1 revision:1 energy:2 see:1 economic:2 further:1 said:1 since:1 shares:4 got:1 public:1 buyback:1 active:1 strong:1 first-quarter:1 contraction:1 rare:1 barely:1 retail:1 first:1 among:1 useful:1 into:1 two:1 raises:1 should:1 your:1 market:3 decline:1 would:1 three:1 start:1 growth:1 authorized:1 biggest:1 doubling:1 500:1 ``:1 sessions:1 company:2 acquire:1 expected:3 catch:1 greater-than-expected:1 organizations:1 wise:1 showed:1 pursue:1 while:1 actively:2 were:1 trades:1 slip:1 investors:2 0.6:1 '':1 have:3 partner:1 need:1 rally:1 orders:1 e-book:1 compared:1 goal:1 make:1 other:2 split:1 you:3 stock:2 sure:1 's:5 separate:1 may:1 after:2 overreact:1 stay:1 plan:1 device:1 stocks:3 data:5 billion:1 off:1 futures:2 edge:1 compete:1 time:1 2009:1
+MON	20140626	125.7	125.1	r_down	sharp:1 saying:1 gold:1 over:1 dollar:1 expects:1 quarters:1 pair:1 2.9:1 economic:1 p.m:1 raises:1 during:1 allowed:1 years:1 slumped:1 narrowed:1 its:1 projections:1 planting:1 believe:1 investors:2 farmers:1 rose:1 rebounded:1 least:1 next:1 3:1 advisories:1 5:1 earnings:1 between:1 genetically:1 2014:1 has:1 higher:1 even:1 exports:1 oil:2 altered:1 form:1 government:1 seeds:1 some:1 rebound:1 economists:2 gap:1 finished:1 said:1 five:1 latest:1 prices:1 news:1 buy:1 stocks:1 data:1 second-quarter:1 contraction:1 roundup:1 bar:1 prospects:1 quarter:1 off:1 many:1 future:1 companies:1 6:1 reports:2 double:1 more:1 growth:2 services:1 benchmarks:1 surprises:1 high-tech:1 economy:1 corporate:1 profits:1 first:1
+MON	20140627	125.1	124.0	r_down	business:1 pointing:1 guidance:1 second:1 lowered:1 weaker-than-expected:1 earnings:1 year:1 performance:1 quarter:1 agriculture:1 its:2
+MON	20140630	124.0	123.7	r_down	
+MON	20140701	123.7	123.7	r_up	already:1 challenging:1 rattle:1 resistance:1 all-time:1 have:1 its:1 best:1 since:1 2000:1 has:1 500:1 started:1 highs:1 bang:1 levels:1 stocks:1 cage:1 territory:1 third:1 while:1 uncharted:1 quarter:1
+MON	20140702	123.7	125.9	r_up	companies:1 developed:1 corn:1 arrested:1 connection:1 alleged:1 high-tech:1 second:1 conspiracy:1 citizen:1 authorities:1 agricultural:1 steal:1 seed:1
+MON	20140703	125.9	125.9	r_up	
+MON	20140707	125.9	124.6	r_down	
+MON	20140708	124.6	124.0	r_down	
+MON	20140709	124.0	122.9	r_down	
+MON	20140710	122.9	122.0	r_down	
+MON	20140711	122.0	120.3	r_down	
+MON	20140714	120.3	119.4	r_down	
+MON	20140715	119.4	119.4	r_up	
+MON	20140716	119.4	119.6	r_up	
+MON	20140717	119.6	119.0	r_down	we:1 financial:1 investors:1 years:1 few:1 're:1 tough:1 2008:2 sign:1 crisis:1 out:1
+MON	20140718	119.0	119.4	r_up	
+MON	20140721	119.4	118.4	r_down	
+MON	20140722	118.4	118.2	r_down	
+MON	20140723	118.2	115.7	r_down	
+MON	20140724	115.7	115.6	r_down	
+MON	20140725	115.6	115.2	r_down	
+MON	20140728	115.2	114.4	r_down	
+MON	20140729	114.4	113.8	r_down	
+MON	20140730	113.8	113.8	r_up	
+MON	20140731	113.8	112.5	r_down	
+MON	20140801	112.5	113.0	r_up	
+MON	20140804	113.0	114.3	r_up	
+MON	20140805	114.3	114.4	r_up	
+MON	20140806	114.4	115.5	r_up	
+MON	20140807	115.5	114.6	r_down	
+MON	20140808	114.6	114.9	r_up	number:1 foods:2 80:1 their:1 whose:1 ingredients:1 things:1 been:1 few:1 genetically:1 firms:1 has:1 worth:1 knowing:1 altered:1 food:1 packaged:1 but:1 pressure:1 growing:1 animals:1 crops:1 modified:1 contain:1 small:1 consumer:1
+MON	20140811	114.9	114.9	r_up	
+MON	20140812	114.9	115.1	r_up	
+MON	20140813	115.1	116.3	r_up	
+MON	20140814	116.3	116.5	r_up	
+MON	20140815	116.5	118.4	r_up	
+MON	20140818	118.4	118.8	r_up	
+MON	20140819	118.8	119.2	r_up	
+MON	20140820	119.2	120.3	r_up	maximize:1 already:1 help:1 soil:1 expects:1 spent:1 broader:1 year:1 soybean:1 said:1 end:1 $:1 farmers:1 spending:1 avoid:1 productivity:1 farm:1 new:1 2016:1 begin:1 selling:1 's:1 track:1 2014:1 regulatory:1 approval:1 resistant:1 unnecessary:1 aims:1 range:1 seeds:1 efforts:1 toward:1 executives:1
+MON	20140821	120.3	117.1	r_down	
+MON	20140822	117.1	116.0	r_down	results:1 up:1 year:1 wider:2 decline:1 take:1 consecutive:1 stock:1 interest-rate:1 advantage:1 falls:1 issuance:1 corporate-bond:1 drops:1 surprising:1 third:1 losses:2 companies:1 cash:1 record:1 while:1 toward:1 gain:2
+MON	20140825	116.0	116.9	r_up	
+MON	20140826	116.9	116.5	r_down	
+MON	20140827	116.5	115.4	r_down	
+MON	20140828	115.4	115.2	r_down	do:1 cut:1 farmers:1 season:1 corn:1 incomes:1 companies:1 next:1 n't:1 growing:1 seed:1 plan:1 soybean:1 despite:1 prices:2 dent:1 sliding:1 expected:1
+MON	20140829	115.2	115.1	r_down	
+MON	20140902	115.1	114.4	r_down	
+MON	20140903	114.4	114.7	r_up	
+MON	20140904	114.7	113.1	r_down	his:1 's:1 champion:1 crops:1 company:1 startup:1 engineered:1 face:1 attacks:1 selling:1 tech:1 time:1 genetically:1 has:1
+MON	20140905	113.1	113.7	r_up	
+MON	20140908	113.7	114.1	r_up	scrambling:1 prowess:1 like:1 technical:1 becomes:1 industry:2 up:1 else:1 everything:1 build:1 agricultural:1 farming:1 its:1
+MON	20140909	114.1	113.9	r_down	``:1 '':1 foray:1 agricultural:1 technology:1 guides:1 sell:1 planting:1 service:1 farmers:1 harvest:1 rivals:1 plant:1 seeking:1 conglomerate:1 host:1 data:1 developing:1 crops:1 pits:1 against:1 software:1
+MON	20140910	113.9	112.5	r_down	
+MON	20140911	112.5	113.1	r_up	$:1 business:1 big:1 startup:1 decisions:1 their:1 growers:1 7:1 using:1 data:1 guide:1 help:1
+MON	20140912	113.1	112.5	r_down	
+MON	20140915	112.5	112.6	r_up	
+MON	20140916	112.6	113.4	r_up	
+MON	20140917	113.4	113.1	r_down	
+MON	20140918	113.1	114.9	r_up	develop:1 target:1 certain:1 writes:1 there:1 uses:1 your:1 its:1 cardholders:1 offers:1 advantages:1 example:1 services:1 products:1 reward:1 data:1 having:1 based:1
+MON	20140919	114.9	114.5	r_down	
+MON	20140922	114.5	114.7	r_up	
+MON	20140923	114.7	114.0	r_down	load:1 isn’t:1 selling:1 aren’t:1 lots:1 might:1 taking:1 but:1 one:1 much:1 fast:1 growing:1 you:1 debt:3 corporate:1 think:2
+MON	20140924	114.0	114.8	r_up	
+MON	20140925	114.8	112.7	r_down	
+MON	20140926	112.7	112.5	r_down	
+MON	20140929	112.5	112.4	r_down	
+MON	20140930	112.4	112.0	r_down	
+MON	20141001	112.0	110.2	r_down	
+MON	20141002	110.2	109.6	r_down	
+MON	20141003	109.6	109.3	r_down	
+MON	20141006	109.3	109.9	r_up	risk:1 start-up:1 some:2 purposes:1 you’re:1 ready:1 agriculture:1 its:1 craze:1 relatively:1 raise:1 merger:1 opportunities:1 next:1 hot:2 new:1 tips:1 tech:1 red:1 finance:1 big:1 spell:1 number:1 flag:1 buyout:1 debt:1 you:1 volatility:1 arena:1 great:1 taking:1 companies:1 up:1 tech’s:1 investment:1 plus:1 analysts:1 small:1 start-ups:1 joining:1
+MON	20141007	109.9	107.7	r_down	
+MON	20141008	107.7	109.7	r_up	all:1 soon:1 trade:1 session:1 go:1 its:1 blow:1 certainly:1 hunting:1 thinking:1 seems:1 acres:1 planted:1 get:1 sucker:1 stung:1 they:1 like:1 companies:1 trap:1 headwinds:1 hard:1 up:1 actively:1 trading:1 entering:1 year:2 since:1 shares:1 forecast:1 volatile:1 harsher:1 bought:1 buckling:1 corn:1 punch:1 let:1 active:1 climate:1 industry:1 months:1 brutal:1 faces:1 repeats:1 among:1 down:1 downgrade:1 guard:1 another:2 should:1 your:1 market:2 two:1 been:2 start:1 don’t:1 expected:1 more:2 buy:1 season:1 company:1 but:1 slides:1 analyst:1 made:1 dips:1 bargain:1 could:1 history:1 investors:1 disappointing:1 have:2 ready:1 cotton:1 again:1 make:1 earnings:3 doors:1 couple:1 stock:1 's:1 wasn’t:1 coming:1 stocks:1 fiscal:1 lower:1 clear:1 without:1
+MON	20141009	109.7	107.6	r_down	saying:2 over:1 move:1 expects:1 years:1 year:2 bank:1 planting:1 would:1 farmers:1 spending:1 surprises:1 forecast:1 their:2 advisories:1 rates:1 soared:1 biggest:1 supplies:1 meeting:1 corporate:1 earnings:1 suggested:1 tighten:1 raising:1 farm:1 after:1 gain:1 coming:1 prices:1 cautiously:1 stocks:1 change:1 fiscal:1 lower-than-expected:1 central:1 amid:1 companies:1 reports:1 future:1 grain:1 quarters:1 latest:1 minutes:1 roundup:1 profits:1 weakest:1
+MON	20141010	107.6	106.7	r_down	

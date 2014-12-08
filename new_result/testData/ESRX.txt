@@ -1,0 +1,114 @@
+ESRX	20140501	66.5	66.1	r_down	because:1 deal:1 soars:1 sales:1 challenges:1 itself:1 year:1 its:2 even:1 cut:1 profit:1 guidance:1 expectations:1 earnings:1 tumbles:1 quarterly:1 8:1 net:1 sell:1 rise:1 's:2 business:1 reaching:1 surges:1 results:1 reported:1 fell:1 wake:1 world:1 buyout:1 after:1 short:1 largest:1 while:1 insulin:1 drops:1 maker:1
+ESRX	20140502	66.1	67.2	r_up	week:1 slid:1 after:1 first-quarter:1 swaps:1 third:1 almost:1 series:1 30:1 temporary:1 drag:1 implementation:1 only:1 announced:1 multibillion-dollar:1 's:1 profits:1 asset:1
+ESRX	20140505	67.2	66.8	r_down	
+ESRX	20140506	66.8	67.0	r_up	
+ESRX	20140507	67.0	67.0	r_up	
+ESRX	20140508	67.0	67.0	r_up	
+ESRX	20140509	67.0	67.8	r_up	
+ESRX	20140512	67.8	68.5	r_up	
+ESRX	20140513	68.5	68.4	r_down	
+ESRX	20140514	68.4	68.4	r_up	
+ESRX	20140515	68.4	68.3	r_down	
+ESRX	20140516	68.3	68.7	r_up	
+ESRX	20140519	68.7	68.8	r_up	
+ESRX	20140520	68.8	69.1	r_up	
+ESRX	20140521	69.1	69.8	r_up	
+ESRX	20140522	69.8	70.2	r_up	booming:1 biotech:1 pipeline:1 20:1 drugs:1 price:1 giant:1 premium:1 's:1 justify:1 than:1 more:1
+ESRX	20140523	70.2	70.1	r_down	
+ESRX	20140527	70.1	70.6	r_up	
+ESRX	20140528	70.6	71.0	r_up	
+ESRX	20140529	71.0	71.0	r_up	
+ESRX	20140530	71.0	71.4	r_up	
+ESRX	20140602	71.4	70.0	r_down	while:1 said:2 business:1 would:2 attracts:1 after:2 alternatives:1 up:1 shares:1 strategic:1 jump:1 explore:1 activist:2 rise:1 investor:2 company:1 unit:1 consider:1
+ESRX	20140603	70.0	69.5	r_down	
+ESRX	20140604	69.5	70.4	r_up	
+ESRX	20140605	70.4	71.1	r_up	
+ESRX	20140606	71.1	71.3	r_up	
+ESRX	20140609	71.3	71.6	r_up	
+ESRX	20140610	71.6	71.6	r_up	
+ESRX	20140611	71.6	71.5	r_down	
+ESRX	20140612	71.5	71.5	r_up	
+ESRX	20140613	71.5	71.5	r_up	
+ESRX	20140616	71.5	70.7	r_down	lookout:1 wave:1 little:1 sees:1 sector:1 into:1 global:1 deal-making:1 been:1 targets:1 jump:1 pharmaceuticals:1 reason:1 takeover:1 but:1 strategic:1 sweeping:1 has:1 potential:1
+ESRX	20140617	70.7	69.8	r_down	preserving:1 's:1 versions:2 generic:1 company:1 health-care:1 three:1 brand-name:1 makers:1 revenue:1 drugs:1 blockbuster:1 payers:1 dollars:1 costing:1 millions:2
+ESRX	20140618	69.8	68.2	r_down	
+ESRX	20140619	68.2	68.5	r_up	
+ESRX	20140620	68.5	68.7	r_up	
+ESRX	20140623	68.7	68.6	r_down	's:1 $:1 49:1 sold:1 earlier:1 shares:1 month:1 options:1
+ESRX	20140624	68.6	68.4	r_down	
+ESRX	20140625	68.4	69.1	r_up	
+ESRX	20140626	69.1	68.8	r_down	
+ESRX	20140627	68.8	69.6	r_up	
+ESRX	20140630	69.6	69.3	r_down	
+ESRX	20140701	69.3	69.0	r_down	managers:1 prompting:1 caused:1 restrict:1 have:1 issues:1 huge:1 pharmacy:1 their:2 arcane:1 basic:1 spike:1 coverage:1 compound:1 change:1 benefits:1 medicines:1 bill:1 well:1 1,000:1 costs:1 products:1 pharmacies:1
+ESRX	20140702	69.0	69.0	r_up	
+ESRX	20140703	69.0	69.4	r_up	
+ESRX	20140707	69.4	69.1	r_down	
+ESRX	20140708	69.1	67.6	r_down	
+ESRX	20140709	67.6	67.8	r_up	
+ESRX	20140710	67.8	67.7	r_down	
+ESRX	20140711	67.7	67.8	r_up	
+ESRX	20140714	67.8	67.9	r_up	
+ESRX	20140715	67.9	68.0	r_up	
+ESRX	20140716	68.0	65.9	r_down	
+ESRX	20140717	65.9	65.6	r_down	medication:1 states:1 cost:1 hepatitis:1 patient:1 84,000:1 $:1 pay:1 bust:1 state:1 which:1 new:2 several:1 's:1 may:2 sold:1 treatments:2 priced:1 they:1 attempt:1 level:1 many:1 analysis:1 suggests:1 costs:1 budgets:1 each:1 similar:1
+ESRX	20140718	65.6	66.0	r_up	
+ESRX	20140721	66.0	65.7	r_down	
+ESRX	20140722	65.7	66.6	r_up	
+ESRX	20140723	66.6	66.0	r_down	blockbuster:1 sales:2 competition:1 currency:1 bribery:1 thanks:1 year:1 's:1 moves:1 its:4 cut:1 profit:1 mounting:1 guidance:1 expectations:1 second-quarter:1 investigation:1 earnings:2 has:1 hit:1 drugs:1 weak:1 continuing:1 downgraded:1 full-year:1 drug:1
+ESRX	20140724	66.0	66.5	r_up	
+ESRX	20140725	66.5	66.3	r_down	all:2 $:1 ignites:1 against:1 pill:1 1,000:1 war:1
+ESRX	20140728	66.3	65.9	r_down	trade:2 '':1 session:3 have:1 year:1 should:1 said:1 their:1 two:1 shares:3 next:1 start:1 biggest:1 a.m.:1 ``:1 selling:1 's:4 drugs:1 company:1 lists:1 expected:2 fell:1 instead:1 day:1 read:1 companies:2 actively:2 place:1 first:1
+ESRX	20140729	65.9	67.2	r_up	saying:1 adjusted:1 says:1 1.1:1 sign:1 revenue:1 expectations:1 share:1 decline:1 related:1 quarters:1 bearish:1 manager:2 trading:1 topped:1 have:1 68:1 worrisome:1 one:1 5.1:2 said:1 $:4 analyst:1 also:1 surprises:1 guidance:1 projected:1 one-time:1 forecast:1 current:1 advisories:1 looking:1 other:1 pile:1 earnings:5 above:1 expected:1 price:1 higher:1 bets:1 against:1 's:2 which:1 mostly:1 transactions:1 drugs:1 company:3 after-hours:1 midpoint:1 fund:1 market:1 fell:1 historically:1 expenses:1 second-quarter:1 recent:1 roundup:1 per-share:1 polled:1 third-quarter:1 pharmacy-benefits:1 stocks:1 globe:1 items:1 companies:1 reports:1 1.28:1 travels:1 future:1 analysts:1 rose:1 growing:1 quarter:1 corporate:1 options:1 latest:1
+ESRX	20140730	67.2	70.6	r_up	among:1 projection:1 revenue:2 expectations:1 customers:1 trade:1 session:1 trading:1 contract:1 narrowed:1 swung:1 saw:1 its:6 declined:2 bearing:1 5.1:1 said:2 $:1 service:1 profit:1 make:1 third-quarter:1 shares:1 second-quarter:2 winners:1 growth:1 earnings:2 premarket:1 expected:1 burned:1 more:2 uptick:1 quarter:1 's:1 above:1 mostly:1 though:1 may:1 company:1 first:1 reported:1 fruit:1 operating:1 user:1 lucrative:1 day’s:1 expenses:1 surged:1 than:1 fiscal:1 loss:1 short:1 most:1 drop:1 companies:1 doubled:1 appealing:1 actively:1 analysts:1 messaging:1 efforts:1 soar:1 masses:1 fell:1 signaling:1
+ESRX	20140731	70.6	69.6	r_down	
+ESRX	20140801	69.6	70.1	r_up	
+ESRX	20140804	70.1	71.0	r_up	everyone:1 help:1 just:1 there:1 meetings:1 some:1 course:1 see:1 because:1 deadlines:1 another:2 touch:1 our:1 yes:1 keep:1 flavor:1 again:1 productive:1 working:1 cup:1 weekend:1 cope:1 long:1 get:1 stimulation:1 treat:1 way:1 under:1 tidbits:1 you:3 has:1 hope:1 nice:1 week:1 ...:1 we:1 means:1 started:1 offered:1 here:1 downing:1 respite:1 tackle:1 meaningful:1 day:1 waste:1 always:1 gotten:1 no:1 list:1 morning:1 're:1 have:1 time:1
+ESRX	20140805	71.0	70.4	r_down	handily:1 buy:1 's:1 remains:1 estimates:1 results:1 beating:1 second-quarter:1 stock:1
+ESRX	20140806	70.4	70.5	r_up	managers:1 cost:1 still:1 increased:1 removing:1 two:1 pharmacy:1 their:1 which:1 largest:1 covered:1 more:1 's:1 generates:1 drugs:1 nation:1 known:1 benefits:1 prescription:1 medicines:2 list:1 controversy:1
+ESRX	20140807	70.5	70.5	r_up	painkiller:1 may:1 reach:1 executive:1 some:1 want:1 team:1 events:1 recent:1
+ESRX	20140808	70.5	71.4	r_up	
+ESRX	20140811	71.4	71.7	r_up	
+ESRX	20140812	71.7	71.6	r_down	
+ESRX	20140813	71.6	71.8	r_up	
+ESRX	20140814	71.8	72.8	r_up	
+ESRX	20140815	72.8	73.0	r_up	
+ESRX	20140818	73.0	73.8	r_up	
+ESRX	20140819	73.8	74.2	r_up	
+ESRX	20140820	74.2	74.8	r_up	
+ESRX	20140821	74.8	75.3	r_up	
+ESRX	20140822	75.3	75.0	r_down	
+ESRX	20140825	75.0	75.2	r_up	
+ESRX	20140826	75.2	75.0	r_down	
+ESRX	20140827	75.0	74.7	r_down	
+ESRX	20140828	74.7	73.8	r_down	
+ESRX	20140829	73.8	73.9	r_up	
+ESRX	20140902	73.9	73.4	r_down	
+ESRX	20140903	73.4	73.6	r_up	
+ESRX	20140904	73.6	73.2	r_down	
+ESRX	20140905	73.2	75.5	r_up	
+ESRX	20140908	75.5	74.8	r_down	
+ESRX	20140909	74.8	74.6	r_down	
+ESRX	20140910	74.6	75.0	r_up	
+ESRX	20140911	75.0	74.8	r_down	
+ESRX	20140912	74.8	73.7	r_down	
+ESRX	20140915	73.7	73.3	r_down	
+ESRX	20140916	73.3	74.0	r_up	
+ESRX	20140917	74.0	73.9	r_down	
+ESRX	20140918	73.9	74.6	r_up	
+ESRX	20140919	74.6	74.3	r_down	
+ESRX	20140922	74.3	72.8	r_down	
+ESRX	20140923	72.8	71.9	r_down	
+ESRX	20140924	71.9	72.7	r_up	
+ESRX	20140925	72.7	71.9	r_down	
+ESRX	20140926	71.9	71.6	r_down	
+ESRX	20140929	71.6	71.4	r_down	
+ESRX	20140930	71.4	70.6	r_down	billion:1 appear:1 's:1 $:1 woods:1 guidance:1 signs:1 n't:1 missteps:1 vital:1 including:1 error:1 operator:1 out:1 strong:1 drugstore:1 yet:1 1.1:1
+ESRX	20141001	70.6	70.0	r_down	
+ESRX	20141002	70.0	70.4	r_up	
+ESRX	20141003	70.4	71.3	r_up	
+ESRX	20141006	71.3	70.8	r_down	
+ESRX	20141007	70.8	69.6	r_down	
+ESRX	20141008	69.6	71.5	r_up	
+ESRX	20141009	71.5	70.4	r_down	
+ESRX	20141010	70.4	70.5	r_up	received:1 promises:1 100,000:1 $:1 requiring:1 medicines:1 tag:1 carries:1 drug:2 without:1 price:1 most:1 patients:1 cure:1 hepatitis:1 approval:1 new:1 other:1 nearly:1

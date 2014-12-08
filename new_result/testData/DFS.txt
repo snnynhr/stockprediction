@@ -1,0 +1,114 @@
+DFS	20140501	55.4	55.5	r_up	
+DFS	20140502	55.5	56.0	r_up	
+DFS	20140505	56.0	55.9	r_down	giant:1 's:1 $:1 5.6:1 sold:1 shares:1 financial-services:1 100,000:1
+DFS	20140506	55.9	55.4	r_down	
+DFS	20140507	55.4	56.5	r_up	van:1 pushed:1 bar’:1 technology:1 writes:1 had:1 ‘sets:1 actually:1 credit:1 today:1 security:1 ousted:1 card:1 latest:1
+DFS	20140508	56.5	57.3	r_up	
+DFS	20140509	57.3	57.3	r_up	
+DFS	20140512	57.3	58.0	r_up	
+DFS	20140513	58.0	57.2	r_down	
+DFS	20140514	57.2	56.6	r_down	
+DFS	20140515	56.6	56.3	r_down	good:1 financial:1 beat:1 writes:1 but:1 behemoths:1 van:1 surprise:1 firms:1 stocks:1 bank:1
+DFS	20140516	56.3	56.2	r_down	
+DFS	20140519	56.2	56.6	r_up	
+DFS	20140520	56.6	56.1	r_down	
+DFS	20140521	56.1	56.5	r_up	
+DFS	20140522	56.5	56.8	r_up	
+DFS	20140523	56.8	57.0	r_up	
+DFS	20140527	57.0	57.8	r_up	
+DFS	20140528	57.8	58.4	r_up	dying:1 may:1 breed:1 possible:1 but:1 bargain:1 they:1 still:1 find:1
+DFS	20140529	58.4	58.4	r_up	
+DFS	20140530	58.4	58.9	r_up	
+DFS	20140602	58.9	59.3	r_up	
+DFS	20140603	59.3	59.2	r_down	
+DFS	20140604	59.2	59.5	r_up	
+DFS	20140605	59.5	59.7	r_up	
+DFS	20140606	59.7	61.4	r_up	
+DFS	20140609	61.4	61.5	r_up	
+DFS	20140610	61.5	61.5	r_up	
+DFS	20140611	61.5	61.1	r_down	
+DFS	20140612	61.1	61.0	r_down	
+DFS	20140613	61.0	60.7	r_down	
+DFS	20140616	60.7	60.9	r_up	1.6:1 metropolitan:1 agreed:1 share:1 trade:2 session:2 close:1 premium:1 $:4 would:1 5.7:1 rose:2 shares:4 3:3 premarket:1 provider:1 expected:2 stock:1 buy:1 's:4 business:1 footprint:1 expand:1 billion:1 12:2 companies:2 cash:1 deal:2 actively:2 values:1
+DFS	20140617	60.9	61.3	r_up	
+DFS	20140618	61.3	61.7	r_up	
+DFS	20140619	61.7	61.7	r_up	
+DFS	20140620	61.7	62.1	r_up	
+DFS	20140623	62.1	61.9	r_down	
+DFS	20140624	61.9	61.3	r_down	
+DFS	20140625	61.3	61.5	r_up	
+DFS	20140626	61.5	61.5	r_up	
+DFS	20140627	61.5	61.7	r_up	again:1 ones:3 good:2 consumers:1 avoid:1 offers:1 too:1 true:1 find:1 once:1
+DFS	20140630	61.7	61.7	r_up	sending:1 rare:1 easily:1 withdrawing:1 loan:1 been:1 sign:1 warning:1 potentially:1 have:1 banks:1 overlooked:1 market:1
+DFS	20140701	61.7	62.6	r_up	
+DFS	20140702	62.6	62.5	r_down	
+DFS	20140703	62.5	63.0	r_up	
+DFS	20140707	63.0	62.8	r_down	
+DFS	20140708	62.8	61.9	r_down	
+DFS	20140709	61.9	62.7	r_up	topping:1 hoping:1 lost:1 bid:1 patience:1 have:1 appear:1
+DFS	20140710	62.7	62.4	r_down	give:1 executive:1 including:1 fees:1 its:1 if:1 forced:1 merchants:1 consumers:1 top:1 encourage:1 rules:1 company:1 incentives:1 use:1 such:1 steering:1 lower:1 would:1 credit-card:1 drop:1 cards:1
+DFS	20140711	62.4	62.3	r_down	exceptions:1 prospects:1 van:1 fence:1 writes:1 here:1 most:1 6:1 banks:1 big-bank:1 stocks:1 best:1
+DFS	20140714	62.3	62.4	r_up	
+DFS	20140715	62.4	63.1	r_up	350,000:2 owe:2 over:1 years:1 four:1 not:1 mill:1 debt-collection:1 out:1 based:1 consumers:1 debts:1 actually:1 whom:1 more:1 firm:1 may:1 collection:1 less:1 running:1 complaints:1 law:1 lawsuit:1 than:2 last:1 many:1 against:1 massive:1
+DFS	20140716	63.1	63.7	r_up	
+DFS	20140717	63.7	63.6	r_down	
+DFS	20140718	63.6	63.5	r_down	
+DFS	20140721	63.5	63.0	r_down	control:1 through:1 have:1 home:1 wade:1 find:1 information:1 buyers:1 mortgage:2 ways:1 able:1 confident:1 4:1 under:1 affordable:1 get:1 but:1 worst:1 they:1 they’re:1 getting:1 thing:1 amount:1 problem:1
+DFS	20140722	63.0	63.8	r_up	
+DFS	20140723	63.8	62.6	r_down	operations:1 snack:1 adjusted:1 financial:2 revenue:1 sales:1 loan:1 results:1 trade:1 weighed:1 complaints:1 unit:1 actively:1 $:1 year:1 disclosures:1 bank:1 its:6 declined:1 increase:1 4.7:1 said:3 terms:1 missed:1 credit:1 profit:3 rose:3 rebounded:1 expectations:1 shares:1 traders:1 also:1 helped:1 other:1 growth:1 earnings:3 premarket:1 under:1 quarterly:1 international:1 9.6:1 strength:1 analysts:1 beverage:1 experienced:1 's:4 increased:1 company:3 after:1 weak:1 direct:1 scrutiny:1 expected:1 modest:1 fell:2 wake:1 7:1 somewhat:1 performance:1 regulatory:1 which:1 segment:1 second-quarter:3 developments:1 posted:1 wide:1 outlook:2 --:1 credit-card:2 companies:1 full-year:1 reports:1 reduced:1 banking:1 chief:1 session:1 officer:1 volumes:1 banks:1 higher:1 margin:1 institutions:1 came:1
+DFS	20140724	62.6	63.0	r_up	
+DFS	20140725	63.0	62.3	r_down	
+DFS	20140728	62.3	62.5	r_up	
+DFS	20140729	62.5	62.0	r_down	
+DFS	20140730	62.0	62.3	r_up	set:1 recovery:1 offering:1 consumers:1 price:1 initial:1 two:1 years:1 afternoon:1 finances:1 largest:1 sign:1 company:1 public:1 latest:1
+DFS	20140731	62.3	60.8	r_down	executive:1 year:1 spinoff:1 issuer:1 sell:1 end:2 private-label:1 23:1 initial:1 expectations:2 rivals:1 low:2 biggest:1 disadvantage:1 public:1 's:2 offering:1 company:1 priced:2 significant:1 $:1 credit:1 chief:1 cards:1
+DFS	20140801	60.8	59.8	r_down	first-day:1 investors:1 provide:1 broad:1 outperformed:1 ``:1 pop:1 '':1 failed:1 but:1 selloff:1 stocks:1 hope:1
+DFS	20140804	59.8	60.2	r_up	
+DFS	20140805	60.2	59.5	r_down	
+DFS	20140806	59.5	59.8	r_up	
+DFS	20140807	59.8	59.1	r_down	ago:1 lower:1 recently:1 federal:1 private:1 college:1 reversal:1 year:1 carry:1 rates:1 now:1 loans:2 than:1
+DFS	20140808	59.1	60.0	r_up	
+DFS	20140811	60.0	60.2	r_up	
+DFS	20140812	60.2	60.5	r_up	
+DFS	20140813	60.5	61.0	r_up	
+DFS	20140814	61.0	60.8	r_down	
+DFS	20140815	60.8	60.3	r_down	
+DFS	20140818	60.3	61.0	r_up	
+DFS	20140819	61.0	61.2	r_up	
+DFS	20140820	61.2	62.1	r_up	
+DFS	20140821	62.1	62.4	r_up	
+DFS	20140822	62.4	62.0	r_down	
+DFS	20140825	62.0	62.6	r_up	
+DFS	20140826	62.6	62.6	r_up	
+DFS	20140827	62.6	62.7	r_up	
+DFS	20140828	62.7	62.4	r_down	merchant:1 rating:1 among:1 share:1 focus:1 confirms:1 event:1 merchants:1 highest:1 acceptance:1 1:1 favor:1 new:1 more:1 gaining:1 ranking:1 users:1 cardholders:1 tied:1 accepting:1 now:2 downgraded:1 card:1 customer-satisfaction:1 according:2 credit:1 survey:1 cards:2 consumer:1
+DFS	20140829	62.4	62.3	r_down	
+DFS	20140902	62.3	63.4	r_up	
+DFS	20140903	63.4	63.6	r_up	
+DFS	20140904	63.6	63.4	r_down	
+DFS	20140905	63.4	63.7	r_up	
+DFS	20140908	63.7	63.5	r_down	
+DFS	20140909	63.5	62.9	r_down	
+DFS	20140910	62.9	62.9	r_up	via:1 financial:1 into:2 some:2 something:1 technology:1 van:1 writes:1 three:1 field:1 inject:1 biggest:1 you:1 has:1 lending:1 buy:1 get:1 paid:1 hopes:1 world:1 firms:1 these:2 companies:2 plunging:1 mobile:1 payments:1 time:1 coolness:1
+DFS	20140911	62.9	62.7	r_down	
+DFS	20140912	62.7	62.4	r_down	good:1 's:2 student:1 auto:1 advice:1 mortgages:1 borrower:1 time:1 loans:2 latest:1
+DFS	20140915	62.4	62.7	r_up	
+DFS	20140916	62.7	63.4	r_up	refinancing:1 offer:1 federal:1 becoming:1 student:1 one:1 few:1 lenders:1 holders:1 loans:2
+DFS	20140917	63.4	64.6	r_up	10:1 van:1 indexes:1 investors:1 can:1 beat:1 writes:1 rock-solid:1 conservative:1 less:1 their:1 low:1 stocks:1 risk:1 volatility:1
+DFS	20140918	64.6	65.5	r_up	turning:1 which:1 revenue:1 personal:1 loans:1 bid:1 stiff:1 they:1 competition:1 face:1 regulations:1 rivals:1 lenders:1 squeezed:1 new:1 boost:1 upstart:1 market:1
+DFS	20140919	65.5	65.3	r_down	fund:1 more:1 's:1 shares:1 portfolios:1
+DFS	20140922	65.3	65.1	r_down	
+DFS	20140923	65.1	64.3	r_down	their:1 attention:1 expectations:1 high:1 turn:1 analysts:1 have:1 toward:1 technology:1 mobile-payment:1
+DFS	20140924	64.3	64.8	r_up	
+DFS	20140925	64.8	63.6	r_down	
+DFS	20140926	63.6	64.9	r_up	
+DFS	20140929	64.9	64.4	r_down	
+DFS	20140930	64.4	64.3	r_down	
+DFS	20141001	64.3	63.5	r_down	
+DFS	20141002	63.5	63.6	r_up	
+DFS	20141003	63.6	64.8	r_up	
+DFS	20141006	64.8	64.9	r_up	
+DFS	20141007	64.9	63.4	r_down	
+DFS	20141008	63.4	64.8	r_up	
+DFS	20141009	64.8	63.5	r_down	useful:1 personal:1 pay:1 costly:1 can:1 credit-card:1 off:1 debt:1 loans:1
+DFS	20141010	63.5	62.8	r_down	case:1 prevent:1 merchants:1 end:1 rivals:1 federal:1 were:1 customers:1 rule:1 cards:1 expected:1 rules:1 accept:1 year:1 judge:1 heard:1 steering:1 arguments:1

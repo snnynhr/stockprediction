@@ -1,0 +1,114 @@
+APA	20140501	86.2	86.5	r_up	
+APA	20140502	86.5	86.4	r_down	
+APA	20140505	86.4	86.4	r_up	
+APA	20140506	86.4	85.9	r_down	
+APA	20140507	85.9	87.2	r_up	
+APA	20140508	87.2	87.5	r_up	load:1 development:1 seven:1 because:1 66:1 up:1 energy:1 due:3 have:1 seen:1 first-quarter:1 its:3 previous:2 sell:1 emerges:1 said:2 $:1 profit:1 leading:1 make:1 amount:1 cargoes:2 field:2 only:1 other:1 earnings:1 maintenance:2 crude:1 more:1 interests:1 1.4:1 oil:2 's:2 company:1 rise:2 gas:1 reported:1 loading:2 two:1 month:2 continued:1 than:1 projects:1 billion:1 10:2 account:1 natural:1 programs:2 --:1 fields:2 according:2 doubled:1 while:1 fell:1 pumped:1 basket:1 output:1 similar:1
+APA	20140509	87.5	88.3	r_up	
+APA	20140512	88.3	89.5	r_up	
+APA	20140513	89.5	89.4	r_down	
+APA	20140514	89.4	89.3	r_down	
+APA	20140515	89.3	88.3	r_down	disclose:1 shed:1 30:1 deal:3 people:4 process:1 half:1 manage:1 back:1 month:1 first:1 oil:3 adding:2 begun:2 year:1 wrap:1 home:1 bidders:1 click:2 stage:1 previous:1 sell:1 has:2 said:4 end:2 $:3 would:1 holdings:3 much:1 make:1 stake:1 due:1 its:4 2:2 several:1 company:4 energy:2 bought:1 firm:2 over:2 within:1 's:1 business:1 seeking:2 sold:1 million:1 gas:2 here:2 early:1 most:1 latest:3 hopes:1 100:1 one:1 effort:1 than:1 knowledge:1 billion:2 quarter:3 assets:4 --:1 up:1 required:1 bids:1 sale:3 round:1 securities:2 these:1 overseas:1 more:1 refocus:1 view:2
+APA	20140516	88.3	88.2	r_down	
+APA	20140519	88.2	88.8	r_up	operations:1 use:1 help:1 less:1 companies:1 flaring:1 reduce:1 water:1 can:1 fresh:1 technologies:1
+APA	20140520	88.8	89.2	r_up	likes:1 's:1 unconventional:1 places:1 yield:1 looks:1 9:1 now:1 he:1
+APA	20140521	89.2	89.7	r_up	
+APA	20140522	89.7	89.8	r_up	
+APA	20140523	89.8	89.6	r_down	
+APA	20140527	89.6	89.8	r_up	
+APA	20140528	89.8	91.2	r_up	
+APA	20140529	91.2	92.5	r_up	
+APA	20140530	92.5	92.6	r_up	
+APA	20140602	92.6	92.0	r_down	
+APA	20140603	92.0	91.4	r_down	's:1 big:1 energy:1 value:1 one:1 manager:1 likes:1 9:1 market-beating:1 firms:1 financial:1 company:1
+APA	20140604	91.4	91.9	r_up	emerging:1 dollar:1 1.9:4 liquefied:1 export:1 go:1 transport:2 said:2 $:4 market:1 which:2 province:1 's:1 gas:3 serve:1 coast:2 link:1 key:1 proceed:1 billion:3 pipeline:2 natural:3 ahead:1 project:2 toward:2
+APA	20140605	91.9	92.6	r_up	
+APA	20140606	92.6	93.7	r_up	summer:1 right:1 just:1 because:2 go:1 their:1 best:1 stocks:2 no:1 advisers:1 add:1 looking:1 also:1 enough:1 2:1 attractive:1 finding:1 500:1 more:1 gained:1 good:1 track:1 portfolios:1 advice:1 records:1 they:1 not:2 during:1 now:1 than:1 doldrums:1 buck:1 15:1 so:1 shortage:1 long-term:1 model:1 think:1
+APA	20140609	93.7	94.0	r_up	seven:1 month:3 down:1 have:1 loaded:1 seen:1 previous:3 4.5:2 loading:1 make:1 six:2 due:2 same:1 cargoes:3 field:1 according:1 crude:1 oil:1 broadly:1 rise:1 15:1 14:1 17:1 programs:1 --:1 fields:2 up:3 19:1 amount:1 pumped:1 basket:1 similar:1
+APA	20140610	94.0	94.4	r_up	exports:1 profit:1 cheap:1 age:1 gas:1 few:1 can:1 stocks:1
+APA	20140611	94.4	94.8	r_up	
+APA	20140612	94.8	95.7	r_up	
+APA	20140613	95.7	97.0	r_up	
+APA	20140616	97.0	97.6	r_up	
+APA	20140617	97.6	97.4	r_down	
+APA	20140618	97.4	99.0	r_up	
+APA	20140619	99.0	99.4	r_up	
+APA	20140620	99.4	100.0	r_up	
+APA	20140623	100.0	101.0	r_up	
+APA	20140624	101.0	98.2	r_down	
+APA	20140625	98.2	98.7	r_up	
+APA	20140626	98.7	99.1	r_up	sector:1 confidence:1 oil:1 bid:1 $:1 companies:1 energy:1 said:1 some:1 revive:1 repay:1 production:1 minister:1 country:1 's:1 debt:1 boost:1 its:2 hydrocarbon:1 plans:1
+APA	20140627	99.1	99.1	r_up	
+APA	20140630	99.1	100.0	r_up	large-cap:1 sees:1 assets:1 hidden:1 stocks:1 opportunity:1 misunderstood:1
+APA	20140701	100.0	99.9	r_down	
+APA	20140702	99.9	99.2	r_down	
+APA	20140703	99.2	99.4	r_up	
+APA	20140707	99.4	98.4	r_down	
+APA	20140708	98.4	97.8	r_down	
+APA	20140709	97.8	99.0	r_up	
+APA	20140710	99.0	98.6	r_down	
+APA	20140711	98.6	96.8	r_down	
+APA	20140714	96.8	97.9	r_up	
+APA	20140715	97.9	97.3	r_down	
+APA	20140716	97.3	99.2	r_up	
+APA	20140717	99.2	98.3	r_down	
+APA	20140718	98.3	98.2	r_down	
+APA	20140721	98.2	98.2	r_up	
+APA	20140722	98.2	102.7	r_up	outlook:1 leaders:1 producer:1 soars:1 over:1 some:2 cash:1 down:1 ignores:1 gas:1 fear:1 shooting:1 its:1 expensive:1 n't:1 little:1 stocks:1 business:1 investor:2 housing:1 exit:2 earnings:2 ‘death:1 upbeat:1 has:1 projects:2 meetings:1 500:1 wants:1 oil:2 releases:1 blowout:1 tops:1 company:1 weak:1 free:1 most:1 lift:1 wake:2 tightening:1 strong:1 data:1 discuss:1 advanced:1 suggested:1 17:1 getting:1 changes:1 sanctions:1 flow:1 up:1 calling:1 blow’:1 while:1 seeks:1 meet:1 corporate:1
+APA	20140723	102.7	103.1	r_up	
+APA	20140724	103.1	102.2	r_down	
+APA	20140725	102.2	101.5	r_down	
+APA	20140728	101.5	100.9	r_down	
+APA	20140729	100.9	100.9	r_up	session:1 's:1 companies:1 shares:1 trade:1 actively:1 expected:1
+APA	20140730	100.9	100.9	r_up	
+APA	20140731	100.9	102.3	r_up	session:1 exploring:1 said:1 's:1 separation:1 companies:1 possible:1 shares:1 trade:1 actively:1 evaluating:1 expected:1 international:1 its:2 assets:1
+APA	20140801	102.3	99.9	r_down	proposed:2 supply:1 some:1 liquefied:1 export:1 natural-gas:1 partner:1 its:2 out:1 n't:1 said:3 would:1 no:1 holdings:1 stake:1 terminal:1 exit:2 interest:1 which:1 expected:1 has:1 's:2 plans:1 may:1 after:1 gas:3 shale:1 coast:2 line:1 day:1 buying:1 natural:2 assets:1 project:2 were:1 divest:1
+APA	20140804	99.9	101.9	r_up	
+APA	20140805	101.9	99.0	r_down	
+APA	20140806	99.0	99.6	r_up	
+APA	20140807	99.6	98.2	r_down	saying:1 because:1 energy:1 experts:1 go:1 n't:1 send:1 does:1 way:1 under:1 forward:1 gas:2 serve:1 every:1 demand:2 now:1 projects:1 natural:2 getting:1 project:1 rising:1 mean:1 first:1
+APA	20140808	98.2	100.0	r_up	
+APA	20140811	100.0	99.5	r_down	
+APA	20140812	99.5	98.1	r_down	
+APA	20140813	98.1	98.2	r_up	
+APA	20140814	98.2	97.6	r_down	
+APA	20140815	97.6	98.3	r_up	
+APA	20140818	98.3	98.1	r_down	barrels:1 one:1 down:1 find:1 said:1 its:1 under:1 largest:1 crude:1 decades:1 stock:1 oil:1 's:1 power:1 300:1 big:1 company:1 million:1 but:1 possibly:1 revealed:1 off:2 country:1 up:1 finds:1 exploration:1 found:1 higher:1 discoveries:1
+APA	20140819	98.1	98.9	r_up	
+APA	20140820	98.9	100.0	r_up	
+APA	20140821	100.0	100.7	r_up	
+APA	20140822	100.7	99.4	r_down	
+APA	20140825	99.4	101.0	r_up	
+APA	20140826	101.0	101.2	r_up	
+APA	20140827	101.2	101.1	r_down	
+APA	20140828	101.1	101.0	r_down	
+APA	20140829	101.0	101.4	r_up	
+APA	20140902	101.4	99.8	r_down	
+APA	20140903	99.8	100.0	r_up	
+APA	20140904	100.0	98.4	r_down	
+APA	20140905	98.4	99.1	r_up	
+APA	20140908	99.1	97.5	r_down	say:1 seats:1 relatively:1 facing:1 shareholders:1 said:1 giving:1 mounting:1 two:1 1:1 activist:1 board:1 more:1 's:1 company:1 little:1 pressure:1 shareholder:1 investor:1 than:1 large:1 analysts:1 stock:1
+APA	20140909	97.5	96.7	r_down	
+APA	20140910	96.7	96.9	r_up	social-media:1 energy:1 giant:1 keep:1 their:1 moving:1 escape:1 stocks:1 rut:1 higher:1
+APA	20140911	96.9	97.2	r_up	
+APA	20140912	97.2	95.9	r_down	
+APA	20140915	95.9	96.7	r_up	
+APA	20140916	96.7	97.4	r_up	
+APA	20140917	97.4	97.1	r_down	shopping:1 assets:1 deal:1 dollars:1 energy:1 million:2 bids:1 $:1 than:1 expected:1 more:1 attract:1 its:1 500:1 parcel:1
+APA	20140918	97.1	96.6	r_down	said:1 may:1 onshore:1 50:1 made:1 have:1 largest:1 natural-gas:1 years:1 discovery:1
+APA	20140919	96.6	96.1	r_down	
+APA	20140922	96.1	94.2	r_down	
+APA	20140923	94.2	94.7	r_up	
+APA	20140924	94.7	94.5	r_down	
+APA	20140925	94.5	92.9	r_down	
+APA	20140926	92.9	94.3	r_up	
+APA	20140929	94.3	94.3	r_up	
+APA	20140930	94.3	93.5	r_down	
+APA	20141001	93.5	90.7	r_down	
+APA	20141002	90.7	88.4	r_down	
+APA	20141003	88.4	86.6	r_down	
+APA	20141006	86.6	85.8	r_down	
+APA	20141007	85.8	83.9	r_down	
+APA	20141008	83.9	85.1	r_up	
+APA	20141009	85.1	81.6	r_down	
+APA	20141010	81.6	79.6	r_down	

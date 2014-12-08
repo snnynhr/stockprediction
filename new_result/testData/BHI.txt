@@ -1,0 +1,114 @@
+BHI	20140501	69.5	68.9	r_down	
+BHI	20140502	68.9	69.5	r_up	
+BHI	20140505	69.5	69.9	r_up	
+BHI	20140506	69.9	70.1	r_up	area:1 fashion:1 all-time:1 rests:1 highs:1 continues:1 resistance:1 immediate:1 matching:1 high:1 record:2 battleground:1 test:1 bull-bear:1 closing:1 territory:1 challenge:1 500:1 remains:1
+BHI	20140507	70.1	71.1	r_up	
+BHI	20140508	71.1	69.9	r_down	
+BHI	20140509	69.9	68.7	r_down	
+BHI	20140512	68.7	69.9	r_up	
+BHI	20140513	69.9	69.8	r_down	
+BHI	20140514	69.8	70.0	r_up	
+BHI	20140515	70.0	68.7	r_down	
+BHI	20140516	68.7	68.6	r_down	disclose:1 half:1 manage:1 month:1 click:2 previous:1 end:1 $:1 holdings:3 several:1 bought:1 firm:1 within:1 's:1 sold:1 million:1 here:2 most:1 latest:2 100:1 than:1 quarter:3 required:1 securities:2 more:1 view:2
+BHI	20140519	68.6	69.5	r_up	
+BHI	20140520	69.5	69.0	r_down	
+BHI	20140521	69.0	69.4	r_up	
+BHI	20140522	69.4	69.5	r_up	
+BHI	20140523	69.5	69.8	r_up	
+BHI	20140527	69.8	69.7	r_down	
+BHI	20140528	69.7	69.8	r_up	
+BHI	20140529	69.8	70.5	r_up	
+BHI	20140530	70.5	70.3	r_down	
+BHI	20140602	70.3	70.4	r_up	
+BHI	20140603	70.4	70.3	r_down	
+BHI	20140604	70.3	70.1	r_down	
+BHI	20140605	70.1	70.7	r_up	
+BHI	20140606	70.7	71.8	r_up	
+BHI	20140609	71.8	71.5	r_down	
+BHI	20140610	71.5	71.1	r_down	
+BHI	20140611	71.1	70.7	r_down	
+BHI	20140612	70.7	70.2	r_down	
+BHI	20140613	70.2	70.9	r_up	
+BHI	20140616	70.9	70.6	r_down	
+BHI	20140617	70.6	71.1	r_up	
+BHI	20140618	71.1	72.3	r_up	
+BHI	20140619	72.3	72.8	r_up	
+BHI	20140620	72.8	74.4	r_up	
+BHI	20140623	74.4	73.5	r_down	
+BHI	20140624	73.5	71.2	r_down	
+BHI	20140625	71.2	72.6	r_up	
+BHI	20140626	72.6	72.9	r_up	
+BHI	20140627	72.9	73.7	r_up	
+BHI	20140630	73.7	74.2	r_up	
+BHI	20140701	74.2	74.3	r_up	
+BHI	20140702	74.3	75.1	r_up	
+BHI	20140703	75.1	74.8	r_down	both:1 programs:1 have:1 efficiency:1
+BHI	20140707	74.8	74.1	r_down	
+BHI	20140708	74.1	73.5	r_down	
+BHI	20140709	73.5	73.9	r_up	
+BHI	20140710	73.9	73.2	r_down	
+BHI	20140711	73.2	72.5	r_down	
+BHI	20140714	72.5	73.2	r_up	
+BHI	20140715	73.2	72.6	r_down	
+BHI	20140716	72.6	74.2	r_up	
+BHI	20140717	74.2	72.3	r_down	week:1 's:3 pretty:1 session:1 investing:1 money:1 companies:1 shares:1 worried:1 expected:1 theme:1 actively:1 through:1 managers:1 world:1 biggest:1 troubling:1 trade:1
+BHI	20140718	72.3	73.1	r_up	
+BHI	20140721	73.1	74.1	r_up	
+BHI	20140722	74.1	74.5	r_up	term:1 short:1 two:1 gap:1 between:1 narrow:1 valuation:1
+BHI	20140723	74.5	74.4	r_down	
+BHI	20140724	74.4	73.7	r_down	
+BHI	20140725	73.7	73.2	r_down	
+BHI	20140728	73.2	72.4	r_down	
+BHI	20140729	72.4	71.8	r_down	
+BHI	20140730	71.8	70.6	r_down	
+BHI	20140731	70.6	68.7	r_down	
+BHI	20140801	68.7	68.5	r_down	
+BHI	20140804	68.5	68.9	r_up	
+BHI	20140805	68.9	67.9	r_down	
+BHI	20140806	67.9	68.1	r_up	
+BHI	20140807	68.1	67.5	r_down	
+BHI	20140808	67.5	68.3	r_up	
+BHI	20140811	68.3	68.6	r_up	billion:1 huge:1 buy:1 's:2 $:1 deal:2 could:1 stake:1 gas:1 nearing:1 value:1 1:1 field:1 than:1 more:1
+BHI	20140812	68.6	68.4	r_down	
+BHI	20140813	68.4	68.9	r_up	
+BHI	20140814	68.9	66.8	r_down	
+BHI	20140815	66.8	67.6	r_up	
+BHI	20140818	67.6	67.8	r_up	
+BHI	20140819	67.8	68.8	r_up	
+BHI	20140820	68.8	69.2	r_up	
+BHI	20140821	69.2	68.6	r_down	
+BHI	20140822	68.6	68.0	r_down	
+BHI	20140825	68.0	68.8	r_up	
+BHI	20140826	68.8	69.6	r_up	
+BHI	20140827	69.6	69.4	r_down	
+BHI	20140828	69.4	69.2	r_down	
+BHI	20140829	69.2	69.1	r_down	
+BHI	20140902	69.1	68.3	r_down	
+BHI	20140903	68.3	69.0	r_up	
+BHI	20140904	69.0	67.8	r_down	
+BHI	20140905	67.8	68.5	r_up	
+BHI	20140908	68.5	67.2	r_down	embattled:1 effective:1 company:1 next:1 early:1 resigning:1 month:1 announced:1
+BHI	20140909	67.2	66.8	r_down	drop:1 global:1 sales:2 trade:2 screens:1 services:1 session:2 0.6:1 names:1 home:1 drove:1 wearable:1 one:1 said:1 $:1 two:1 shares:2 its:3 goes:1 digital:1 expected:3 new:3 comparable:1 's:11 around:1 problems:1 smartwatch:1 unveil:1 fell:1 moving:1 3.7:1 device:1 automation:1 premarket:1 --:2 suppliers:1 larger:1 companies:2 up:2 actively:2 payments:1 healthcare:1 trading:1 region:1 first:1
+BHI	20140910	66.8	67.2	r_up	among:1 pressured:1 seesaws:1 after:1 focus:1 6:1 stocks:1 event:1
+BHI	20140911	67.2	67.7	r_up	could:1 recover:1 lost:1 shares:1 ground:1
+BHI	20140912	67.7	66.4	r_down	
+BHI	20140915	66.4	66.7	r_up	mining:1 golf:1 started:1 companies:1 energy:1 30:1 well:1 but:1 courses:1 sand:1 done:1 which:1 owns:1 has:1 supplying:1 out:1
+BHI	20140916	66.7	67.9	r_up	
+BHI	20140917	67.9	67.5	r_down	
+BHI	20140918	67.5	67.9	r_up	
+BHI	20140919	67.9	67.7	r_down	
+BHI	20140922	67.7	66.1	r_down	
+BHI	20140923	66.1	66.2	r_up	
+BHI	20140924	66.2	66.5	r_up	
+BHI	20140925	66.5	65.4	r_down	
+BHI	20140926	65.4	66.3	r_up	play:1 stand:1 gain:1
+BHI	20140929	66.3	66.1	r_down	
+BHI	20140930	66.1	65.0	r_down	
+BHI	20141001	65.0	63.4	r_down	major:1 said:1 plans:1 provide:1 ground:1 company:1 coax:1 gas:1 mix:1 chemicals:1 oil:1 uses:1 details:1 services:1 oil-field:1 out:1 starting:2 help:1
+BHI	20141002	63.4	62.1	r_down	
+BHI	20141003	62.1	61.6	r_down	
+BHI	20141006	61.6	61.8	r_up	
+BHI	20141007	61.8	61.3	r_down	
+BHI	20141008	61.3	61.6	r_up	among:1 up:1 slides:1 active:1 earnings:1 downgrade:1 stocks:1 analyst:1 market:1 more:1
+BHI	20141009	61.6	58.6	r_down	
+BHI	20141010	58.6	56.6	r_down	

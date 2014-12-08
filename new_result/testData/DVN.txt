@@ -1,0 +1,114 @@
+DVN	20140501	69.5	69.4	r_down	
+DVN	20140502	69.4	69.8	r_up	supply:1 lower:1 oil:1 get:1 3-year:1 writes:1 after:1 slump:1 up:1 gas:1 push:1 prices:1 demand:1 ready:1 rally:1 stocks:1 ought:1
+DVN	20140505	69.8	69.8	r_up	
+DVN	20140506	69.8	69.7	r_down	
+DVN	20140507	69.7	72.5	r_up	have:1 revenue:1 companies:1 trade:1 session:1 broader:1 sharp:1 swung:1 mojo:1 market:1 said:1 profit:1 shares:1 increase:1 their:1 does:1 expected:1 higher:1 's:1 prices:1 stocks:1 bode:1 lost:1 well:1 n't:1 actively:1 quarter:1 first:1
+DVN	20140508	72.5	70.5	r_down	heavy:1 oil:2 's:1 producer:2 higher:1 income:1 gas:2 reported:1 second:1 tripled:1 nearly:1 largest:2 prices:1 net:1 quarter:1 its:1 first:1
+DVN	20140509	70.5	70.2	r_down	
+DVN	20140512	70.2	70.5	r_up	
+DVN	20140513	70.5	71.9	r_up	does:1 his:2 own:2 financial:1 desperate:1 prepared:1 strengthen:1 energy:2 oil-and-gas:1 tax:2 follow-through:1 fellow:2 '':1 all-time:1 incremental:1 including:2 have:1 reached:1 education:1 help:1 move:1 he:1 industrials:1 raise:2 pay:1 decision:1 breaking:2 controls:1 current:1 needed:1 state:3 asking:2 statement:1 territory:2 closely:1 500:1 higher:1 ``:2 oil:4 says:2 infrastructure:1 needle:1 billionaire:1 highs:1 continues:1 much:1 levels:1 significant:1 stocks:1 production:2 man:2 both:1 held:1 technical:1 could:2 companies:2 taxes:2 n't:1 improvements:1 uncharted:2 drill:1 backdrop:1 executives:2
+DVN	20140514	71.9	71.2	r_down	
+DVN	20140515	71.2	70.2	r_down	shed:1 deal:3 people:4 process:1 energy:2 back:1 one:1 begun:2 year:1 wrap:1 home:1 bidders:1 its:4 stage:1 sell:1 adding:2 said:4 end:1 $:2 would:1 much:1 make:1 stake:1 due:1 2:2 has:2 over:2 firm:1 oil:3 business:1 seeking:2 company:4 gas:2 early:1 hopes:1 effort:1 knowledge:1 billion:2 assets:4 --:1 up:1 30:1 bids:1 sale:3 round:1 these:1 overseas:1 first:1 refocus:1 latest:1
+DVN	20140516	70.2	70.2	r_up	
+DVN	20140519	70.2	70.8	r_up	
+DVN	20140520	70.8	72.0	r_up	results:1 another:1 year:1 millions:1 call:1 slide:1 strategy:1 retreats:1 candidates:1 earnings:1 6:1 affecting:1 covered:1 more:1 good:1 sinks:1 market’s:1 attention:1 slides:1 quarterly:1 wake:1 others:1 10:1 recall:1 vehicles:1 up:1 while:1 recalls:1
+DVN	20140521	72.0	73.0	r_up	
+DVN	20140522	73.0	72.2	r_down	
+DVN	20140523	72.2	72.1	r_down	
+DVN	20140527	72.1	72.6	r_up	
+DVN	20140528	72.6	72.9	r_up	help:1 energy:1 some:1 comfortable:1 rate:1 infrastructure:1 signed:2 still:1 education:1 raise:2 legislation:2 increase:1 state:2 much:1 largest:1 new:2 higher:1 oil:2 's:2 gas:2 wells:2 falls:1 producers:1 fund:1 said:1 but:2 they:1 wanted:1 short:1 kept:1 level:1 taxes:2 improvements:1 were:1 executives:1
+DVN	20140529	72.9	73.4	r_up	
+DVN	20140530	73.4	73.4	r_up	
+DVN	20140602	73.4	73.2	r_down	
+DVN	20140603	73.2	74.2	r_up	
+DVN	20140604	74.2	74.3	r_up	
+DVN	20140605	74.3	74.3	r_up	
+DVN	20140606	74.3	74.1	r_down	
+DVN	20140609	74.1	73.9	r_down	
+DVN	20140610	73.9	74.4	r_up	
+DVN	20140611	74.4	76.1	r_up	
+DVN	20140612	76.1	76.7	r_up	
+DVN	20140613	76.7	77.7	r_up	
+DVN	20140616	77.7	77.9	r_up	
+DVN	20140617	77.9	77.8	r_down	
+DVN	20140618	77.8	77.8	r_up	
+DVN	20140619	77.8	78.2	r_up	heavy:1 spending:1 cash:1 while:1 offers:2 exit:1 rising:1 margins:1
+DVN	20140620	78.2	78.6	r_up	
+DVN	20140623	78.6	78.6	r_up	
+DVN	20140624	78.6	77.3	r_down	
+DVN	20140625	77.3	79.1	r_up	
+DVN	20140626	79.1	78.3	r_down	
+DVN	20140627	78.3	79.2	r_up	
+DVN	20140630	79.2	79.1	r_down	sell:1 billion:1 all:1 oil:2 $:1 shift:1 agreed:1 continues:1 gas:2 properties:1 2.3:1 has:1 company:1 its:1 noncore:1
+DVN	20140701	79.1	78.8	r_down	revolution:1 stores:1 flow:1 spreading:1 manage:1 sales:1 billions:1 redesign:1 market:1 increase:1 customers:1 spending:1 forecast:1 better:1 their:2 those:1 capital:1 products:1 bits:1 across:1 available:1 them:1 's:1 finance:1 track:1 big:1 online:1 needs:1 nation:1 they:1 using:1 data:2 buying:1 goods:1 consumer:1 companies:2 cash:1 departments:1 large:1 habits:1 so:1 can:1 specific:1 small:1 corporate:1
+DVN	20140702	78.8	78.3	r_down	
+DVN	20140703	78.3	78.9	r_up	
+DVN	20140707	78.9	78.0	r_down	
+DVN	20140708	78.0	77.8	r_down	
+DVN	20140709	77.8	79.1	r_up	
+DVN	20140710	79.1	77.8	r_down	
+DVN	20140711	77.8	76.8	r_down	
+DVN	20140714	76.8	77.5	r_up	
+DVN	20140715	77.5	76.2	r_down	
+DVN	20140716	76.2	77.6	r_up	
+DVN	20140717	77.6	75.4	r_down	
+DVN	20140718	75.4	76.7	r_up	
+DVN	20140721	76.7	76.8	r_up	
+DVN	20140722	76.8	77.8	r_up	
+DVN	20140723	77.8	78.2	r_up	
+DVN	20140724	78.2	78.7	r_up	
+DVN	20140725	78.7	78.0	r_down	
+DVN	20140728	78.0	77.5	r_down	
+DVN	20140729	77.5	77.1	r_down	
+DVN	20140730	77.1	77.0	r_down	
+DVN	20140731	77.0	75.2	r_down	
+DVN	20140801	75.2	74.8	r_down	
+DVN	20140804	74.8	76.5	r_up	
+DVN	20140805	76.5	74.3	r_down	outlook:1 full:1 stores:1 pointing:1 1.8:1 sales:1 trade:1 session:1 trading:1 markdowns:1 its:3 confirmed:1 said:1 $:2 4.8:1 shares:1 premarket:1 expected:1 buy:1 's:1 creating:1 business:1 separate:1 lowered:1 two:1 ownership:1 promotional:1 spin:1 second-quarter:1 publishing:1 billion:1 off:1 publicly:1 companies:2 actively:1 traded:1 fell:1
+DVN	20140806	74.3	74.1	r_down	streak:1 financial:1 impacts:1 revenue:1 increasingly:1 companies:1 high-margin:1 trade:1 weighed:1 production:1 session:1 shares:1 have:2 moves:1 well:1 closer:1 derivatives:1 one-time:1 1:1 other:1 growth:1 earnings:1 interest:1 expected:1 rates:1 markets:2 higher:1 turmoil:1 oil:1 's:2 increased:1 valuations:1 boosted:1 company:1 geopolitical:1 reported:1 feels:1 prices:1 second-quarter:1 raising:1 volatility:1 like:1 excluding:1 items:1 stronger:1 anxious:1 credit:1 actively:1 become:1 stock:1 history:1
+DVN	20140807	74.1	73.2	r_down	gas:1 oil:1 than:1 trimmed:1 profit:1 rose:1 company:1 flow:1 cash:1 doubled:1 second-quarter:1 record:1 production:1 but:1 year:1 crude:1 forecast:1 its:2 more:1
+DVN	20140808	73.2	74.1	r_up	
+DVN	20140811	74.1	73.9	r_down	
+DVN	20140812	73.9	72.7	r_down	
+DVN	20140813	72.7	72.3	r_down	
+DVN	20140814	72.3	72.4	r_up	
+DVN	20140815	72.4	73.0	r_up	
+DVN	20140818	73.0	73.2	r_up	
+DVN	20140819	73.2	74.0	r_up	
+DVN	20140820	74.0	73.6	r_down	10:1 van:1 faster:1 rivals:1 share:1 writes:1 companies:1 per:1 clearly:1 their:1 winners:1 gauge:1 highlights:1 growing:1 than:1 500:1
+DVN	20140821	73.6	74.6	r_up	
+DVN	20140822	74.6	73.9	r_down	
+DVN	20140825	73.9	74.4	r_up	
+DVN	20140826	74.4	74.3	r_down	
+DVN	20140827	74.3	74.0	r_down	
+DVN	20140828	74.0	74.3	r_up	
+DVN	20140829	74.3	75.1	r_up	
+DVN	20140902	75.1	73.8	r_down	
+DVN	20140903	73.8	73.9	r_up	
+DVN	20140904	73.9	72.0	r_down	
+DVN	20140905	72.0	72.4	r_up	
+DVN	20140908	72.4	70.9	r_down	
+DVN	20140909	70.9	70.5	r_down	
+DVN	20140910	70.5	70.6	r_up	
+DVN	20140911	70.6	70.6	r_up	
+DVN	20140912	70.6	69.9	r_down	
+DVN	20140915	69.9	70.2	r_up	
+DVN	20140916	70.2	71.8	r_up	
+DVN	20140917	71.8	71.5	r_down	
+DVN	20140918	71.5	71.5	r_up	
+DVN	20140919	71.5	70.9	r_down	
+DVN	20140922	70.9	69.9	r_down	
+DVN	20140923	69.9	69.9	r_up	
+DVN	20140924	69.9	70.0	r_up	
+DVN	20140925	70.0	68.7	r_down	
+DVN	20140926	68.7	69.2	r_up	
+DVN	20140929	69.2	69.5	r_up	
+DVN	20140930	69.5	68.1	r_down	billion:1 loss:1 soured:1 12:1 's:1 $:1 company:1 after:1 shares:1 fell:1 trading:1 unveiled:1 investments:1
+DVN	20141001	68.1	67.0	r_down	
+DVN	20141002	67.0	66.5	r_down	
+DVN	20141003	66.5	65.4	r_down	session:1 sell:1 said:1 's:1 $:2 deal:1 company:1 billion:1 companies:1 shares:1 trade:1 2.3:2 actively:1 agreements:1 expected:1 reached:1 buy:1 total:1 its:1 finances:1 assets:2
+DVN	20141006	65.4	64.8	r_down	
+DVN	20141007	64.8	63.6	r_down	
+DVN	20141008	63.6	63.9	r_up	
+DVN	20141009	63.9	61.3	r_down	among:1 followed:1 gone:1 into:1 services:1 have:2 year:1 provide:1 since:1 shares:1 suit:1 crude:1 energy:1 bets:1 then:1 oil:1 earlier:1 gas:1 wells:1 most:1 free:1 fall:1 prices:2 investor:1 natural:1 drill:1 were:1 popular:1
+DVN	20141010	61.3	59.4	r_down	

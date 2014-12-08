@@ -1,0 +1,114 @@
+CVX	20140501	123.4	122.8	r_down	payout:1 raised:1 oil:1 7:1 dividend:1 boosted:1 companies:1 two:1 their:1 lifted:1 largest:1 quarterly:2 9.5:1 dividends:1 its:2
+CVX	20140502	122.8	122.6	r_down	there:1 investors:1 revenue:2 surprisingly:1 trade:2 report:2 see:1 actively:1 trading:1 been:1 have:1 year:1 's:3 its:1 out:1 whose:1 27:2 slipped:1 anymore:1 no:1 profit:1 first-quarter:1 negative:1 shares:2 willing:1 excuses:1 production:2 earnings:1 inch:1 details:1 territory:1 active:1 higher:1 poor:1 oil:2 hit:2 read:1 after:1 watch:1 dreary:1 falls:1 expected:2 economic:1 said:1 weather:1 prices:2 stocks:1 data:2 winter:1 lower:3 jobs:3 solid:1 amid:1 futures:2 companies:2 up:1 chalk:1 session:2 gyrate:1 volumes:1 through:1 stock:1 fell:1
+CVX	20140505	122.6	123.2	r_up	
+CVX	20140506	123.2	122.8	r_down	
+CVX	20140507	122.8	124.1	r_up	firm:1 billion:1 giant:1 law:1 15:2 $:3 pay:1 agreed:1 million:1 verdict:1 disputed:1 against:1 feud:1 settle:1 role:1 9.5:1 's:1 oil:1 has:1 bitter:1 over:1
+CVX	20140508	124.1	122.9	r_down	
+CVX	20140509	122.9	122.9	r_up	weapon:1 oil:1 's:1 like:1 suggest:1 energy:1 problems:1 nearly:1 propelled:1 wave:1 dire:1 spills:1 against:1 solar:1 not:1 using:1 panels:1 its:1 industry:1 offshore:1 latest:1
+CVX	20140512	122.9	123.1	r_up	
+CVX	20140513	123.1	123.7	r_up	
+CVX	20140514	123.7	124.2	r_up	
+CVX	20140515	124.2	122.7	r_down	
+CVX	20140516	122.7	122.1	r_down	decree:1 oil:1 court:1 continue:1 gas:1 into:1 investigation:1 natural:1 should:1 appellate:1 promoting:1 legality:1 's:1 investment:1 ruled:1
+CVX	20140519	122.1	121.9	r_down	firm:1 week:1 renewed:1 proposed:1 among:1 merger:1 technology:1 could:1 larger:1 well:1 spur:1 early:1 prices:1 concern:1 between:1 crude:1 law:1 come:1 environmentalists:1 higher:1
+CVX	20140520	121.9	121.4	r_down	likes:1 stocks:1 's:3 unconventional:1 places:1 look:1 ``:1 yield:1 '':1 few:1 looks:1 words:1 9:1 woes:1 high-conviction:1 now:1 he:1
+CVX	20140521	121.4	123.1	r_up	
+CVX	20140522	123.1	122.5	r_down	firm:3 after:1 off:1 proposed:1 matter:1 merger:1 larger:1 vote:1 may:1 leadership:1 suspended:1 between:1 partner:1 international:1 law:1 's:1
+CVX	20140523	122.5	122.3	r_down	firm:3 temporarily:1 hit:1 proposed:1 matter:1 merger:1 larger:1 vote:1 halted:1 bump:1 between:1 partner:1 international:1 law:1 speed:1
+CVX	20140527	122.3	121.8	r_down	sector:1 coup:1 says:1 have:1 conferences:1 lobbying:1 meetings:1 second:1 reserves:1 want:1 's:2 recover:1 help:1 travel:1 finally:1 confident:1 behind:1 potentially:1 international:1 regime:1 firm:1 shale-gas:1 unless:1 though:1 may:1 altar:1 but:1 important:1 they:1 not:1 world:1 low-key:1 legend:1 made:1 ranks:1 country:1 industry:2 months:1 street:1 military:1
+CVX	20140528	121.8	121.4	r_down	
+CVX	20140529	121.4	121.2	r_down	later:1 facility:1 down:1 including:1 its:3 cargo:1 giant:1 only:1 meeting:1 2013:1 told:1 shut:1 oil:1 shareholders:1 mention:1 reporters:1 successes:1 many:1 annual:1 shipping:1 did:1 first:1
+CVX	20140530	121.2	121.7	r_up	30:1 investors:1 intelligence:1 over:1 1.9:2 artificial:1 optimistic:1 next:1 developer:1 $:3 profit:1 pay:1 stockholders:1 stealthy:1 shares:1 pioneer:1 asking:1 digital:1 has:1 issue:1 today:1 million:1 north:1 permission:1 company:1 never:1 but:1 valued:1 five:1 years:1 billion:2 made:1 14:1 18:1 employees:1 annual:1 value:1 advertising:1 software:1
+CVX	20140602	121.7	121.1	r_down	even:1 some:1 800:1 's:1 $:1 pay:1 agreed:1 million:1 gas:1 up:1 stake:1 global:1 companies:1 fields:1 natural:1 has:1 investments:1 reconsidering:1
+CVX	20140603	121.1	121.5	r_up	firm:1 partners:1 law:1 deal:1 has:1 merger:1 moving:1 now:1 its:1 more:1
+CVX	20140604	121.5	121.3	r_down	emerging:1 dollar:1 1.9:4 liquefied:1 export:1 go:1 transport:2 said:2 $:4 market:1 which:2 province:1 's:1 gas:3 serve:1 coast:2 link:1 key:1 proceed:1 billion:3 pipeline:2 natural:3 ahead:1 project:2 toward:2
+CVX	20140605	121.3	122.4	r_up	barrels:2 agreed:1 positioned:1 product:1 oil:3 66:3 our:1 terms:1 refined:3 market:1 2.4:1 4.7:1 said:2 capacity:1 expectations:1 strategy:1 terminal:3 potential:1 while:1 disclosed:1 statement:1 largest:1 crude:3 has:1 into:1 store:1 ``:1 buy:1 's:3 volumes:1 company:3 million:2 serve:1 given:1 expansion:1 part:1 significant:1 president:1 increasing:1 exports:1 region:1 well:1 midstream:1 n't:1 near:1 growth:2 products:2 refining:1 were:1 growing:1 providing:1
+CVX	20140606	122.4	123.1	r_up	
+CVX	20140609	123.1	123.3	r_up	
+CVX	20140610	123.3	124.2	r_up	profitable:2 reduce:2 oil:2 energy:2 --:1 invest:2 make:2 companies:2 aims:2 its:2 hopes:2 industry:2 production:2 imports:2 gas:2 boost:2 easier:2 more:2
+CVX	20140611	124.2	124.1	r_down	
+CVX	20140612	124.1	125.0	r_up	
+CVX	20140613	125.0	126.1	r_up	billion:1 said:1 $:2 1.3:2 sold:1 some:1 oil:1 has:1 assets:1
+CVX	20140616	126.1	127.4	r_up	billion:1 giant:1 oil:1 's:3 finance:1 1.3:1 country:1 government:1 according:1 helped:1 assets:1 acquisition:1 $:1
+CVX	20140617	127.4	127.7	r_up	detailed:1 major:1 point:1 preserving:1 trends:1 its:1 firmly:1 buyers:1 bullish:1 support:1 below:1 drawn:1 has:1 higher:1 benchmark:1 uptrend:1 markets’:1 technical:2 near:1 continue:1 each:1 backdrop:1
+CVX	20140618	127.7	129.1	r_up	saying:1 he:1 policing:1 consider:1 would:1 deploy:1 country:1 top:1 regional:1 urged:1 like:1 large:1 visible:1 role:1 new:1 into:1 close:1 has:1 taking:1 ally:1 more:1
+CVX	20140619	129.1	130.8	r_up	heavy:1 spending:1 cash:1 while:1 offers:2 exit:1 rising:1 margins:1
+CVX	20140620	130.8	131.2	r_up	control:1 supply:1 developed:1 over:1 sales:1 helped:1 chronic:1 added:1 rising:1 have:1 signs:1 poorly:1 impact:1 city:1 rapid:1 recovery:1 few:1 shortages:1 textile:1 pressures:1 forces:1 fuel:1 has:1 conflict:1 economy:1 province:1 his:2 's:3 collapse:1 business:1 government:1 advances:1 cement:1 oil-rich:2 but:1 demand:1 prices:1 90:1 bazaar:1 plunging:1 recent:1 down:1 --:1 lines:1 quandary:1 facing:1 consumer:1
+CVX	20140623	131.2	131.8	r_up	firm:1 billion:1 1.95:1 energy-service:1 $:1 agreed:1 said:1 engineering:1 buy:1 2.1:1 has:1 dollars:1
+CVX	20140624	131.8	130.6	r_down	
+CVX	20140625	130.6	130.1	r_down	's:1 would:1 government:1 country:2 region:1 violence:1 plunged:1 urged:1 but:1 amid:1 push:1 central:1 speculation:1 into:1 independence:1 stand:1
+CVX	20140626	130.1	129.8	r_down	months:1 investors:1 refiner:1 strips:1 quarters:1 refinery:1 oil:1 through:1 expected:1 year:1 175:1 inventories:1 its:1 171:1 out:1 said:2 $:3 million:4 basis:1 profit:2 pay:1 six:1 only:1 should:1 rewarding:1 production:1 low:1 which:2 under:1 fuel:1 figure:1 net:1 marketer:1 earnings:2 buy:1 's:2 business:1 company:1 between:1 continuing:1 preferred:1 pressure:1 because:1 listed:1 coming:1 come:1 earlier:1 posted:1 off:1 --:1 dollars:1 30:1 50:1 value:1 investment:1 analysts:1 weigh:1
+CVX	20140627	129.8	129.2	r_down	
+CVX	20140630	129.2	129.4	r_up	large-cap:1 sees:1 assets:1 hidden:1 stocks:1 opportunity:1 misunderstood:1
+CVX	20140701	129.4	129.4	r_up	
+CVX	20140702	129.4	129.1	r_down	me:2 them:1 honest:1 up:1 these:1 makes:1 writes:1 keeps:1 mine:1 picks:1 better:1 investor:1 horrible:1 stock:1 out:1 they’re:1
+CVX	20140703	129.1	130.0	r_up	
+CVX	20140707	130.0	129.3	r_down	
+CVX	20140708	129.3	128.8	r_down	
+CVX	20140709	128.8	130.2	r_up	giant:1 global:1 central:1 commodity:2 increasingly:1 taking:1 handful:1 traders:1 role:1 such:1 markets:1
+CVX	20140710	130.2	129.1	r_down	weaker:1 threatens:1 44:1 prolonged:1 state:1 safety:1 barriers:1 stopped:1 inspections:1 has:1 drought:1 make:1
+CVX	20140711	129.1	127.3	r_down	says:1 declines:1 domestic:1 2nd:1 session:1 weekly:2 ease:1 3:1 shares:1 their:1 enough:1 production:3 erase:2 don’t:1 expected:2 uptick:1 oil:1 's:1 gains:2 rise:1 gas:1 but:2 offset:1 not:1 trade:1 abroad:1 loss:1 losses:1 companies:1 up:1 actively:1 quarter:1
+CVX	20140714	127.3	128.1	r_up	said:1 's:1 found:1 gas:1 expansion:1 project:1 confident:1 enough:1 significant:1 new:1 natural-gas:1 partner:1 justify:1
+CVX	20140715	128.1	128.1	r_up	
+CVX	20140716	128.1	129.7	r_up	being:1 energy:1 fueling:1 some:1 freeze:1 if:1 law:1 wrath:1 candidate:1 breakup:1 under:1 international:1 told:1 oil-and-gas:1 's:2 string:1 company:1 problems:1 maritime:1 explore:1 takeover:1 putting:1 they:2 now:1 projects:1 areas:1 could:1 companies:1 face:1 speculation:1
+CVX	20140717	129.7	128.9	r_down	
+CVX	20140718	128.9	129.2	r_up	
+CVX	20140721	129.2	130.1	r_up	because:1 process:1 over:1 likely:1 coastal:1 licenses:1 its:1 again:1 start:1 political:1 delay:1 needed:1 2015:1 until:1 oil:1 waters:1 gas:1 gridlock:1 bidding:1 natural:1 auction:1 first:1
+CVX	20140722	130.1	131.4	r_up	declared:1 producer:1 show:1 energy:1 player:1 premium:1 its:1 sell:1 illegal:1 factory:1 needed:1 which:1 largest:1 international:1 has:1 markets:1 today:1 oil:1 's:3 started:1 becoming:1 new:1 world:1 abroad:1 recent:1 metal:2 up:1 against:1 face:1 became:1 barriers:1 efforts:1 steep:1
+CVX	20140723	131.4	132.7	r_up	opinions:1 different:1 '':1 span:1 conflicting:1 essentially:1 ``:1 two:2 one:1 hours:1 thing:1 landed:1 part:1 come:1 key:1 definition:1 decisions:1 down:1
+CVX	20140724	132.7	133.7	r_up	
+CVX	20140725	133.7	132.4	r_down	
+CVX	20140728	132.4	132.1	r_down	office:1 workplaces:1 trade:1 '':1 actively:1 have:1 cups:1 hazards:1 sites:1 shares:1 should:1 food:1 hot:1 safety:1 expected:1 instead:1 include:1 awareness:1 mines:1 ``:1 oil:1 's:2 business:1 read:1 dripping:1 construction:1 coffee:1 rigs:1 such:1 manufacturing:1 day:1 plants:1 companies:1 n't:1 session:2 a.m.:1 serious:1 first:1
+CVX	20140729	132.1	131.3	r_down	
+CVX	20140730	131.3	131.4	r_up	weaker:1 partly:1 refining:1 amid:1 second-quarter:1 chemicals:1 fell:1 growth:1 9.9:1 66:1 offset:1 segment:1 its:2 earnings:2
+CVX	20140731	131.4	128.1	r_down	scheduled:1 almost:1 overshadows:1 results:1 years:1 rate:1 oil:1 its:1 market:1 before:1 profit:1 28:1 shares:1 3:1 earnings:1 preview:1 opens:1 higher:1 lowest:1 after:1 reporting:1 gas:1 pumping:1 fell:1 five:1 nearly:1 despite:1 report:1 second-quarter:1 second:1 quarter:1 gambit:1
+CVX	20140801	128.1	126.8	r_down	saying:1 proposed:2 less:1 agreed:1 quarters:1 session:2 thanks:1 yes:1 its:5 fifth:1 cut:1 $:4 surprises:1 opportunities:1 than:1 terminal:1 production:3 premarket:1 has:1 gave:2 good:1 greater:1 coast:2 they:1 fall:1 producing:1 trade:2 continued:1 day:1 like:1 drop:1 companies:4 taxes:1 worried:1 divest:1 companies’:1 side:1 says:1 deal:1 energy:1 some:1 actively:2 export:1 3.3:1 natural-gas:1 slot-machine:1 headlines:1 declined:1 out:1 n't:1 said:5 profit:1 jumped:1 bearish:1 shares:3 exit:2 crude:2 incentives:1 ominous:1 declining:1 roundup:1 prospects:1 38:1 improved:1 dip:1 30:1 reports:1 a.m.:1 rose:1 slightly:1 maker:1 fourth-quarter:1 outlook:2 slipped:1 supply:1 liquefied:1 would:1 holdings:1 advisories:1 asset:1 interest:1 expected:3 boom:1 billion:1 ``:1 company:2 acquire:1 gas:4 wisdom:1 demand:1 organic:1 line:1 surged:1 second-quarter:2 buying:1 paying:1 cash:1 project:2 while:2 future:1 values:1 were:1 trading:1 balance:1 weaker:2 share:1 sales:2 '':1 numbers:1 partner:1 no:1 provide:1 stake:1 investment:1 also:1 earnings:4 which:1 income:1 short-term:1 oil:3 's:5 plans:1 though:1 may:1 boosted:1 after:1 effect:1 shale:1 eight:1 sheets:1 fiscal:1 natural:2 assets:1 federal:1 costs:1 corporate:1 latest:1
+CVX	20140804	126.8	127.0	r_up	downsizing:1 major:1 oil:1 turning:1 consider:1 just:1 seeking:1 companies:1 should:1 slowly:1 approval:1 investor:1 than:1
+CVX	20140805	127.0	123.9	r_down	loss:1 industrials:1 posting:1 sessions:1 their:1 fell:1 five:1 fourth:1 stocks:1
+CVX	20140806	123.9	124.6	r_up	all:1 right:1 want:1 investors:1 money:1 bull:1 there’s:1 evacuations:1 say:1 allure:1 incredible:1 have:3 participate:1 any:1 market:2 if:1 one:1 hold:1 fashionable:1 travel:1 should:1 don’t:2 way:1 you:1 relatively:1 more:1 requested:1 affected:1 which:1 get:1 becoming:1 restricting:1 but:1 else:1 defensive:1 know:1 plenty:1 others:1 trade:1 turbulence:1 stocks:2 areas:1 aren’t:1 mega:1 room:1 space:1 well:1 up:1 dinosaur:1 while:2 continue:1 can:1 mega-mind:1 recommendations:1 caps:1 make:1
+CVX	20140807	124.6	124.5	r_down	sector:1 predictive:1 his:1 century:1 almost:1 caused:1 over:1 global:1 reduce:1 period:1 month:1 helped:1 analytics:1 agreed:1 plunge:1 shares:1 have:1 year:1 partner:1 total:1 its:1 fifth:1 85:1 move:1 said:1 group:1 $:1 general:1 23:1 profit:1 leading:1 two:1 40:2 production:2 listed:1 test:1 consecutive:1 lawmakers:1 energy:2 interests:1 closer:1 oil:4 's:7 opening:1 some:1 company:1 acquire:1 gas:2 producers:1 membership:1 historic:1 pumps:1 supplies:1 prices:1 consideration:1 coveted:1 second-quarter:1 advanced:1 pilot:1 million:1 fraud:1 completed:1 concerns:1 country:1 region:1 area:1 roughly:1 giving:1 while:1 victory:1 rose:3 push:1 quarter:2 comes:1 software:1
+CVX	20140808	124.5	126.7	r_up	duty:1 operations:1 have:2 1.2:2 give:1 strengthen:1 into:1 some:1 back:1 innovations:1 large:1 passwords:1 experts:1 spread:1 suspended:1 world:1 tend:1 networks:1 cloud:1 halt:1 lessons:1 information:1 shirt:1 encryption:1 away:1 computing:1 should:1 bad:1 been:1 quickly:1 their:2 much:1 minute:1 which:1 airstrikes:1 you:1 developers:1 corporate:1 too:1 do:1 we:1 good:1 's:2 intended:1 massive:1 returning:1 may:1 broader:1 billion:1 stop:1 first:1 soon:1 early:1 important:1 moving:1 user:1 theft:1 not:2 such:1 technologies:1 merchandise:1 keep:1 begins:1 advance:1 people:1 fields:1 taking:1 companies:3 budget:1 reports:2 morning:1 n't:3 thing:1 core:1 so:1 can:1 patriotic:1 security:1 balance:1 consumer:1 say:1 gang:1
+CVX	20140811	126.7	126.6	r_down	
+CVX	20140812	126.6	126.0	r_down	
+CVX	20140813	126.0	126.5	r_up	
+CVX	20140814	126.5	125.8	r_down	city:1 gradually:1 remote:1 appear:1 northern:1 both:1 area:1 number:1 up:1 eager:1 outside:1 base:1 cooperation:1 ramping:1 military:1 sides:1 expand:1
+CVX	20140815	125.8	126.1	r_up	even:1 faster:1 getting:1 fees:1 but:1 rising:1 award:1 climbing:1 aid:1 largest:1 strategies:1
+CVX	20140818	126.1	126.3	r_up	barrels:1 said:1 off:2 300:1 country:1 million:1 up:1 one:1 possibly:1 oil:1 largest:1 crude:1 found:1 's:1 discoveries:1 decades:1
+CVX	20140819	126.3	127.6	r_up	claim:1 last:2 polls:1 primary:1 competitive:1 chance:1 candidates:1 decide:1 go:1 2014:1 nomination:1
+CVX	20140820	127.6	127.4	r_down	
+CVX	20140821	127.4	127.9	r_up	sending:1 oil:1 off:1 facility:1 lots:1 some:1 coast:1 crude:2 authorities:1 whether:1 questions:1 small:1 appears:1 raising:1
+CVX	20140822	127.9	127.1	r_down	sending:1 oil:1 off:1 they:1 increasingly:1 facility:1 lots:1 global:1 some:1 coast:1 crude:2 say:1 authorities:1 whether:1 questions:1 making:1 small:1 's:1 markets:1 appears:1 raising:1
+CVX	20140825	127.1	127.8	r_up	
+CVX	20140826	127.8	128.2	r_up	roundup:1 news:1 private:1
+CVX	20140827	128.2	128.6	r_up	
+CVX	20140828	128.6	128.7	r_up	oil:1 's:2 venture:1 shale:1 joint:1 massive:1 drill:1
+CVX	20140829	128.7	129.4	r_up	oil:1 develop:1 agreed:1 shale:1 massive:1 's:3
+CVX	20140902	129.4	127.5	r_down	lower:1 since:1 gains:1 mostly:1 monthly:1 largest:1 back:1 ended:1 increases:1 pulling:1 were:1 stocks:1 500:2
+CVX	20140903	127.5	127.8	r_up	
+CVX	20140904	127.8	126.8	r_down	operations:1 charter:1 said:1 's:1 $:1 extension:1 pounds:1 --:1 secured:1 million:2 contract:1 88:1 providing:1 services:1 has:1 worth:1
+CVX	20140905	126.8	127.4	r_up	
+CVX	20140908	127.4	126.2	r_down	aggressively:1 prospects:1 's:3 places:1 huge:1 being:1 government:1 rode:1 state:2 rising:1 iron-ore:2 time:1 prices:2 transformed:1 falling:1 royalties:1 boom:1
+CVX	20140909	126.2	125.1	r_down	
+CVX	20140910	125.1	124.2	r_down	
+CVX	20140911	124.2	123.8	r_down	
+CVX	20140912	123.8	122.6	r_down	
+CVX	20140915	122.6	124.2	r_up	delivery:1 shut:1 accident:1 point:1 deadly:1 storage:1 pipeline:1 down:1 production:1 wake:1 natural-gas:1 feeds:1 has:1
+CVX	20140916	124.2	124.9	r_up	
+CVX	20140917	124.9	124.7	r_down	
+CVX	20140918	124.7	124.1	r_down	said:1 may:1 onshore:1 50:1 made:1 have:1 largest:1 natural-gas:1 years:1 discovery:1
+CVX	20140919	124.1	124.8	r_up	
+CVX	20140922	124.8	123.4	r_down	
+CVX	20140923	123.4	123.0	r_down	family:1 loan:1 refinery:1 thermal:1 decided:1 its:2 considering:1 buyers:1 van:1 electricity:1 pay:1 away:1 investment:1 bank:1 largest:1 billionaires:1 has:2 's:1 stay:1 hired:1 solar:1 world:1 stocks:1 modern-day:1 look:1 off:1 like:1 invest:1 sale:1 project:1 federal:2 writes:1
+CVX	20140924	123.0	122.4	r_down	streak:1 sessions:1 snapping:1 three:1 indexes:1 ended:1 losing:1 stocks:1 higher:1
+CVX	20140925	122.4	120.6	r_down	sell:1 gas:1 exports:1 's:1 also:1 country:1 ramp:1 up:1 some:1 example:1 prepares:1 planning:1 rising:1 which:1 fuel:1 natural-gas:1 overseas:1 bills:1 its:1 cautionary:1
+CVX	20140926	120.6	121.4	r_up	series:1 energy:1 positioned:1 soon:2 challenges:1 world-wide:1 open:1 its:1 overhaul:1 due:1 better:1 few:1 international:1 shale-gas:1 oil:1 's:2 wo:1 gas:1 producers:1 part:1 than:1 join:1 ranks:1 companies:1 up:1 anytime:1 n't:1 technical:1 beneath:1
+CVX	20140929	121.4	120.5	r_down	
+CVX	20140930	120.5	119.3	r_down	pointing:1 there’s:1 prices:1 any:1 market:1 little:1 recovery:1 third-quarter:1 oil:2 gains:1 extend:1 nicked:1 gas:1 soon:1 worst:1 not:1 stocks:2 performers:1 did:1 horizon:1 time:1 toward:1
+CVX	20141001	119.3	117.6	r_down	
+CVX	20141002	117.6	117.1	r_down	
+CVX	20141003	117.1	117.7	r_up	
+CVX	20141006	117.7	118.0	r_up	1.5:1 agreed:1 trade:1 session:1 its:1 sell:1 giant:1 said:1 develop:1 $:1 stretch:1 shares:1 expected:1 has:1 play:1 oil:1 's:1 plans:1 shale:1 western:1 key:1 subsidiary:1 billion:1 presses:1 ahead:1 30:1 companies:1 actively:1
+CVX	20141007	118.0	116.0	r_down	
+CVX	20141008	116.0	117.9	r_up	sell:1 firm:1 productive:1 led:1 people:1 familiar:1 agreed:1 consortium:1 two:1 matter:1 say:1 oil:1 has:1 block:1
+CVX	20141009	117.9	114.5	r_down	saying:1 investors:1 point:2 ran:1 over:1 expects:1 years:1 year:3 their:1 decline:1 farmers:1 spending:1 one-day:1 selloff:1 forecast:1 335:1 supplies:1 lower-than-expected:1 into:1 stock:1 tighten:1 planting:1 farm:1 worst:2 coming:1 prices:1 than:2 change:1 fiscal:1 sending:1 suffers:1 exits:1 amid:1 grain:1 more:2 profits:1 weakest:1
+CVX	20141010	114.5	113.8	r_down	

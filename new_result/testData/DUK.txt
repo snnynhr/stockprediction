@@ -1,0 +1,114 @@
+DUK	20140501	72.8	72.9	r_up	into:1 annual:1 's:2 spill:2 testy:1 agreed:1 executive:1 response:1 company:1 chief:1 coal:1 focused:1 take:1 environmentalists:1 ash:1 meeting:1 trip:1 utility:1
+DUK	20140502	72.9	71.2	r_down	
+DUK	20140505	71.2	71.9	r_up	
+DUK	20140506	71.9	71.4	r_down	
+DUK	20140507	71.4	72.2	r_up	have:1 broader:1 mojo:1 market:1 even:1 said:1 her:1 no:1 their:1 does:1 virtually:1 weeks:1 public:1 's:1 though:1 company:1 after:1 accident:1 front:1 stocks:1 bode:1 coal-ash:1 made:1 center:1 lost:1 spill:1 well:1 n't:1 she:1 river:1
+DUK	20140508	72.2	71.2	r_down	
+DUK	20140509	71.2	70.4	r_down	
+DUK	20140512	70.4	70.1	r_down	
+DUK	20140513	70.1	70.1	r_up	natural:2 plans:2 facility:4 --:1 facilities:2 near:2 construction:2 including:2 unveiled:2 remake:2 its:4
+DUK	20140514	70.1	70.4	r_up	
+DUK	20140515	70.4	70.5	r_up	
+DUK	20140516	70.5	70.5	r_up	
+DUK	20140519	70.5	69.5	r_down	
+DUK	20140520	69.5	69.3	r_down	
+DUK	20140521	69.3	69.1	r_down	
+DUK	20140522	69.1	69.7	r_up	
+DUK	20140523	69.7	69.5	r_down	stocks:1 van:1 get:1 dwindle:1 writes:1 companies:1 these:1 yields:2 attractive:1 5:1 more:1 highest:1 bond:1
+DUK	20140527	69.5	69.6	r_up	
+DUK	20140528	69.6	69.9	r_up	
+DUK	20140529	69.9	70.1	r_up	
+DUK	20140530	70.1	70.2	r_up	11:1 plants:1 's:2 which:1 power:1 people:1 familiar:1 bid:1 billion:1 up:1 fetch:1 matter:1 according:1 have:1 portfolio:1 $:1 could:1 2.5:1 around:1
+DUK	20140602	70.2	70.0	r_down	sector:1 force:3 deal:1 knockout:2 move:1 some:2 using:1 regulate:1 feared:2 blow:2 would:4 federal:1 had:2 system:2 greenhouse-gas:2 only:1 even:1 mining:2 's:2 electric:2 power:3 big:1 deliver:2 but:2 producers:3 most:1 important:1 sweeping:2 carbon:1 stocks:1 those:1 especially:1 limits:2 companies:2 n't:3 coal:3 emissions:3 acting:1 changes:2
+DUK	20140603	70.0	69.9	r_down	
+DUK	20140604	69.9	70.2	r_up	
+DUK	20140605	70.2	70.9	r_up	11:1 plants:1 after:1 power:1 matter:1 familiar:1 company:1 less:1 according:1 two:1 person:1 protection:1 bidding:1 portfolio:1 years:1 than:1 bankruptcy:1
+DUK	20140606	70.9	70.5	r_down	
+DUK	20140609	70.5	70.0	r_down	
+DUK	20140610	70.0	69.7	r_down	
+DUK	20140611	69.7	68.8	r_down	
+DUK	20140612	68.8	69.7	r_up	
+DUK	20140613	69.7	70.0	r_up	
+DUK	20140616	70.0	70.3	r_up	
+DUK	20140617	70.3	69.9	r_down	
+DUK	20140618	69.9	71.6	r_up	
+DUK	20140619	71.6	72.4	r_up	dump:1 show:1 years:1 subpoenaed:1 before:1 monitored:1 working:1 leaks:1 federal:1 needed:1 storm:1 under:1 company:1 water:1 running:1 nearly:1 ash:2 made:1 prosecutors:1 spill:1 --:1 warned:1 30:1 metal:1 pipe:1 coal:1 massive:1 engineers:1
+DUK	20140620	72.4	71.5	r_down	
+DUK	20140623	71.5	71.5	r_up	
+DUK	20140624	71.5	71.5	r_up	
+DUK	20140625	71.5	72.2	r_up	challenges:1 handle:1 grueling:1 schedule:1 coping:1 share:1 while:1 scrutiny:1 chiefs:1 job:1 they:1 learn:1 bosses:1 must:1
+DUK	20140626	72.2	72.3	r_up	
+DUK	20140627	72.3	72.8	r_up	
+DUK	20140630	72.8	73.3	r_up	
+DUK	20140701	73.3	72.8	r_down	abused:1 ends:1 law:1 intended:1 never:1 50:1 but:1 also:1 been:1 broke:1 authors:1 landmark:1 has:1 its:1
+DUK	20140702	72.8	71.4	r_down	plants:1 power:1 transmission:1 cyber:1 one:1 reported:1 involving:1 incidents:1 high-voltage:1 have:1 largest:1 systems:1
+DUK	20140703	71.4	70.5	r_down	hackers:1 generation:1 energy:1 cyber:1 one:1 past:1 have:1 year:1 run:1 targeting:1 cyberattacks:1 detailing:1 equipment:1 systems:2 interest:1 largest:1 firms:1 subsidiaries:1 used:1 's:1 power:2 utilities:1 reported:1 involving:1 high-voltage:1 filed:1 report:1 suspected:1 plants:1 transmission:1 reports:2 incidents:1 each:1 highlight:1 distribution:1
+DUK	20140707	70.5	70.7	r_up	
+DUK	20140708	70.7	71.5	r_up	upgrade:2 infringement:1 trademark:1 sued:2 gets:2 analyst:1
+DUK	20140709	71.5	71.3	r_down	
+DUK	20140710	71.3	71.5	r_up	
+DUK	20140711	71.5	71.3	r_down	
+DUK	20140714	71.3	70.7	r_down	
+DUK	20140715	70.7	71.2	r_up	
+DUK	20140716	71.2	71.6	r_up	
+DUK	20140717	71.6	71.5	r_down	
+DUK	20140718	71.5	72.3	r_up	
+DUK	20140721	72.3	72.5	r_up	
+DUK	20140722	72.5	72.4	r_down	
+DUK	20140723	72.4	72.5	r_up	
+DUK	20140724	72.5	73.2	r_up	
+DUK	20140725	73.2	72.3	r_down	
+DUK	20140728	72.3	73.5	r_up	billion:1 1.2:2 certain:1 into:1 dividend-paying:1 generating:1 '':2 growth:1 high-profile:1 out:1 $:2 pundit:1 traders:1 stock-market:1 deal:1 agreed:1 niches:1 ``:2 valuations:1 warnings:1 operators:1 wake:1 stocks:1 rallied:1 assets:1 --:1 value:1 sensitive:1 economically:1
+DUK	20140729	73.5	73.1	r_down	
+DUK	20140730	73.1	72.2	r_down	
+DUK	20140731	72.2	71.3	r_down	
+DUK	20140801	71.3	72.1	r_up	
+DUK	20140804	72.1	71.4	r_down	
+DUK	20140805	71.4	70.1	r_down	
+DUK	20140806	70.1	69.0	r_down	
+DUK	20140807	69.0	69.8	r_up	regulated:1 benefited:1 investors:2 increasingly:1 tax:1 trade:1 weighed:1 rate:1 actively:1 trading:1 shares:1 seen:1 happen:1 its:2 market:3 utility:1 stocks:2 slipped:1 broad:1 shallow:1 had:1 three:1 best:1 next:1 looking:1 declined:1 ramping:1 expected:1 reading:1 's:5 lingering:1 said:1 rise:1 jobs:1 gains:1 business:1 10:1 earnings:1 weather:1 after:1 utilities:1 but:1 early:1 fell:1 eight:1 favorable:1 groups:1 clues:1 strong:1 second-quarter:1 advanced:1 volatility:1 session:1 four:1 lower:1 off:1 80:1 performers:1 33:1 charts:1 industry:1 uncertainty:1 companies:1 up:1 against:1 rose:1 points:3 500:2 were:1 rising:1
+DUK	20140808	69.8	70.9	r_up	up:1 producer:1 tumble:1 period:1 one:1 '':2 growth:1 have:1 sharp:1 natural-gas:1 rally:1 any:1 market:2 utility:2 derivatives:1 giant:1 strong:1 investors:2 provide:1 rose:2 support:1 since:3 generally:1 expectations:1 been:1 bolstered:1 posted:1 mood:2 revenue:1 other:1 earnings:3 which:1 late:2 2014:1 has:1 strategist:1 events:1 higher:1 lowest:2 ``:2 good:1 's:1 power:1 slumped:2 operators:1 after:2 geopolitical:2 its:3 said:2 they:1 prices:2 affect:1 line:1 stocks:1 concerns:2 look:1 stress:1 cautious:2 sectors:1 success:1 level:2 --:1 always:1 could:1 developing:2 so:1 electricity:1 chief:1 're:1 stories:1 can:1 time:1 corporate:1 came:1 left:2
+DUK	20140811	70.9	70.7	r_down	
+DUK	20140812	70.7	70.5	r_down	sell:1 said:1 suitors:1 time:1 government:1 evaluate:1 give:1 up:1 possible:1 postponing:1 plan:1 year:1 situation:1 more:1
+DUK	20140813	70.5	70.9	r_up	
+DUK	20140814	70.9	72.0	r_up	
+DUK	20140815	72.0	72.0	r_up	
+DUK	20140818	72.0	72.0	r_up	
+DUK	20140819	72.0	72.8	r_up	
+DUK	20140820	72.8	72.7	r_down	
+DUK	20140821	72.7	73.0	r_up	
+DUK	20140822	73.0	72.8	r_down	move:1 private:1 including:1 another:1 its:1 bankruptcy:1 resurgence:1 $:1 your:1 equity:1 biggest:1 company’s:1 buy:1 's:1 finance:1 beat:1 funds:1 milestone:1 news:1 hedge:1 billion:1 assets:1 morning:1 banks:1
+DUK	20140825	72.8	72.9	r_up	
+DUK	20140826	72.9	72.3	r_down	
+DUK	20140827	72.3	72.9	r_up	
+DUK	20140828	72.9	73.3	r_up	
+DUK	20140829	73.3	73.9	r_up	
+DUK	20140902	73.9	73.4	r_down	major:1 proposed:2 wane:1 into:1 form:1 soon:1 three:2 jump:1 weather:1 shares:2 natural-gas:1 take:1 declined:2 utility:1 said:1 $:1 would:3 electricity:1 session:2 stake:1 predictions:1 40:1 transport:1 regions:1 also:1 other:2 5:1 disclosed:2 which:2 expected:2 breach:1 's:5 energy:2 build:2 billion:1 intraday:1 hit:1 plans:2 business:1 operators:1 after:1 gas:2 back:1 joint:2 demand:1 backed:1 natural:1 trade:2 power-plant:1 pipeline:2 off:1 late-summer:1 records:1 --:1 many:1 companies:5 actively:2 focus:1 due:1 venture:2 forecasters:1 joining:1
+DUK	20140903	73.4	73.8	r_up	own:1 supply:1 certain:1 some:1 up:1 '':1 retires:1 corner:1 natural-gas:2 run:1 requiring:1 derivatives:1 giant:1 said:1 end:1 $:1 beef:1 coal:1 electricity:1 stake:1 40:2 other:2 5:1 allows:1 exempt:1 new:1 collateral:1 ``:1 formally:1 users:1 business:1 returning:1 commercial:1 southeast:1 regulators:1 they:1 backed:1 line:1 billion:1 pipeline:2 could:1 trades:1 companies:1 cash:1 rule:1 n't:1 banking:1 plants:1 venture:1
+DUK	20140904	73.8	74.0	r_up	
+DUK	20140905	74.0	74.9	r_up	
+DUK	20140908	74.9	74.8	r_down	
+DUK	20140909	74.8	73.7	r_down	
+DUK	20140910	73.7	73.3	r_down	
+DUK	20140911	73.3	74.4	r_up	
+DUK	20140912	74.4	73.0	r_down	
+DUK	20140915	73.0	73.4	r_up	
+DUK	20140916	73.4	74.3	r_up	
+DUK	20140917	74.3	74.3	r_up	
+DUK	20140918	74.3	73.4	r_down	
+DUK	20140919	73.4	74.3	r_up	
+DUK	20140922	74.3	73.8	r_down	
+DUK	20140923	73.8	73.6	r_down	all:1 help:1 generation:1 energy:1 trade:1 produced:1 actively:1 ship:1 $:2 system:1 shares:1 way:1 expected:1 8:1 's:1 electric:1 power:1 teaming:1 effort:1 novel:1 companies:2 up:1 session:1
+DUK	20140924	73.6	73.7	r_up	
+DUK	20140925	73.7	73.9	r_up	
+DUK	20140926	73.9	74.0	r_up	
+DUK	20140929	74.0	74.1	r_up	over:1 '':1 7.5:1 technology:1 its:1 bankruptcy:1 sell:1 $:1 take:1 which:1 smart:1 week:1 ``:1 after:1 's:2 power:1 offer:1 million:1 grid:1 preparing:1 judge:1 approved:1 purchase:1 last:1 companies:1
+DUK	20140930	74.1	74.7	r_up	
+DUK	20141001	74.7	75.3	r_up	
+DUK	20141002	75.3	74.9	r_down	
+DUK	20141003	74.9	75.1	r_up	
+DUK	20141006	75.1	75.0	r_down	
+DUK	20141007	75.0	75.2	r_up	
+DUK	20141008	75.2	77.0	r_up	
+DUK	20141009	77.0	76.3	r_down	
+DUK	20141010	76.3	76.8	r_up	

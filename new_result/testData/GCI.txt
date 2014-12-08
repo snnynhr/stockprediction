@@ -1,0 +1,114 @@
+GCI	20140501	26.8	26.8	r_up	's:2 have:1 circulation:2 readers:1 top:1 largest:1 includes:1 print:1 while:1 which:1 digital:1 newspaper:1 total:1 continued:1
+GCI	20140502	26.8	26.9	r_up	
+GCI	20140505	26.9	26.7	r_down	
+GCI	20140506	26.7	26.6	r_down	
+GCI	20140507	26.6	26.7	r_up	
+GCI	20140508	26.7	26.5	r_down	
+GCI	20140509	26.5	26.8	r_up	
+GCI	20140512	26.8	27.4	r_up	
+GCI	20140513	27.4	27.3	r_down	
+GCI	20140514	27.3	26.8	r_down	215:1 agreed:1 executive:1 buy:1 dropped:1 decline:1 $:1 media:2 six:1 outpacing:1 other:1 into:1 announced:1 more:1 firm:1 after:1 's:1 company:1 million:1 continuing:1 broadcast:1 significant:1 stocks:1 effort:1 stations:1 push:1 shakeup:1
+GCI	20140515	26.8	26.7	r_down	
+GCI	20140516	26.7	27.0	r_up	
+GCI	20140519	27.0	27.1	r_up	
+GCI	20140520	27.1	26.7	r_down	
+GCI	20140521	26.7	27.2	r_up	
+GCI	20140522	27.2	27.3	r_up	
+GCI	20140523	27.3	27.6	r_up	
+GCI	20140527	27.6	27.5	r_down	
+GCI	20140528	27.5	27.5	r_up	
+GCI	20140529	27.5	27.5	r_up	
+GCI	20140530	27.5	27.4	r_down	
+GCI	20140602	27.4	28.5	r_up	
+GCI	20140603	28.5	28.7	r_up	
+GCI	20140604	28.7	28.8	r_up	
+GCI	20140605	28.8	29.1	r_up	
+GCI	20140606	29.1	28.9	r_down	remembering:1 prevent:1 own:1 committee:1 certain:2 executive:2 four:2 shareholders:1 rebuke:1 recently:1 event:2 if:1 generous:1 trying:1 merger:1 pay:1 decision:1 its:2 their:1 bonuses:2 voted:2 weeks:1 worth:1 stock:2 's:3 sold:1 stop:1 votes:1 put:1 packages:1 those:1 recent:1 cashing:2 companies:3 sale:2 reports:1 ignore:1 compensation:1 so:1 have:1 executives:2
+GCI	20140609	28.9	29.3	r_up	
+GCI	20140610	29.3	29.1	r_down	
+GCI	20140611	29.1	29.1	r_up	named:1 's:1 revenue:1 national:1 sales:1 been:1 chief:1 officer:1 president:1 has:1
+GCI	20140612	29.1	28.6	r_down	
+GCI	20140613	28.6	28.5	r_down	
+GCI	20140616	28.5	28.5	r_up	
+GCI	20140617	28.5	28.8	r_up	
+GCI	20140618	28.8	29.1	r_up	
+GCI	20140619	29.1	29.3	r_up	
+GCI	20140620	29.3	29.1	r_down	
+GCI	20140623	29.1	29.1	r_up	
+GCI	20140624	29.1	29.0	r_down	
+GCI	20140625	29.0	30.4	r_up	move:1 walking:1 after:2 off:1 weak:1 rise:1 dipping:1 reports:1 early:1 performance:1 higher:1 economy’s:1 durable-goods:1 downward:1 stocks:1 first-quarter:1 orders:1 revision:1
+GCI	20140626	30.4	30.3	r_down	
+GCI	20140627	30.3	30.5	r_up	
+GCI	20140630	30.5	31.1	r_up	
+GCI	20140701	31.1	31.5	r_up	
+GCI	20140702	31.5	31.7	r_up	
+GCI	20140703	31.7	32.0	r_up	
+GCI	20140707	32.0	31.6	r_down	
+GCI	20140708	31.6	31.3	r_down	chiefs:1 new:1 named:1 finance:1
+GCI	20140709	31.3	31.9	r_up	
+GCI	20140710	31.9	31.6	r_down	
+GCI	20140711	31.6	31.5	r_down	
+GCI	20140714	31.5	31.4	r_down	
+GCI	20140715	31.4	31.6	r_up	
+GCI	20140716	31.6	31.8	r_up	
+GCI	20140717	31.8	31.3	r_down	
+GCI	20140718	31.3	31.6	r_up	
+GCI	20140721	31.6	31.5	r_down	
+GCI	20140722	31.5	33.0	r_up	
+GCI	20140723	33.0	32.9	r_down	
+GCI	20140724	32.9	33.2	r_up	
+GCI	20140725	33.2	33.0	r_down	
+GCI	20140728	33.0	33.4	r_up	
+GCI	20140729	33.4	33.1	r_down	
+GCI	20140730	33.1	33.3	r_up	
+GCI	20140731	33.3	32.5	r_down	
+GCI	20140801	32.5	32.6	r_up	
+GCI	20140804	32.6	34.1	r_up	lower:1 moves:1 trading:1 while:1 falls:1 second:2 green:1 looks:1 during:1 rises:1 its:1 day:2 after:1 earnings:1
+GCI	20140805	34.1	33.6	r_down	operations:1 stores:1 pointing:1 agreed:2 soon:2 rest:1 trade:2 session:2 businesses:1 doesn’t:1 its:8 $:6 should:1 premarket:1 include:1 day’s:1 gains:1 big:1 online:2 five:1 joins:1 loss:1 drop:1 companies:7 deal:3 people:1 decided:1 trading:1 said:2 shares:2 does:1 print:1 announced:2 full:3 creating:2 business:5 conglomerate:1 movers:1 newspapers:1 according:1 traded:3 outlook:1 own:2 magazines:1 industrials:1 publishing:4 create:1 two:3 their:3 expected:2 firm:2 buy:4 posting:1 sessions:1 broadcast:1 lowered:1 spin:3 second-quarter:1 has:2 publicly:3 n't:1 near:1 actively:2 familiar:1 situation:1 could:2 1.8:5 sales:1 promotional:1 have:1 markdowns:1 species:1 string:1 confirmed:2 media:2 stake:2 4.8:1 endangered:1 split:1 fourth:1 digital:2 's:2 separate:3 fell:2 73:2 ownership:3 stocks:1 billion:5 off:3 assets:1 broadcasting:2 pay:2 latest:1
+GCI	20140806	33.6	33.7	r_up	
+GCI	20140807	33.7	33.2	r_down	
+GCI	20140808	33.2	33.4	r_up	
+GCI	20140811	33.4	33.7	r_up	
+GCI	20140812	33.7	33.1	r_down	
+GCI	20140813	33.1	33.8	r_up	
+GCI	20140814	33.8	33.8	r_up	operations:1 month:1 its:3 said:2 publishing:2 would:2 media:1 stake:2 had:2 activist:1 disclosed:2 new:1 split:1 earlier:1 business:2 separate:1 company:2 after:1 such:1 spin:1 investor:1 than:1 he:1 10:1 off:1 days:1 broadcasting:1 planned:1 push:1
+GCI	20140815	33.8	34.3	r_up	acquired:1 media:1 company:1 stake:1 splitting:1 two:1 6.6:1 which:1 has:1 investor:1
+GCI	20140818	34.3	34.2	r_down	
+GCI	20140819	34.2	34.1	r_down	
+GCI	20140820	34.1	33.9	r_down	
+GCI	20140821	33.9	33.6	r_down	
+GCI	20140822	33.6	33.7	r_up	
+GCI	20140825	33.7	33.7	r_up	
+GCI	20140826	33.7	33.8	r_up	
+GCI	20140827	33.8	33.6	r_down	
+GCI	20140828	33.6	33.5	r_down	
+GCI	20140829	33.5	33.5	r_up	
+GCI	20140902	33.5	33.9	r_up	
+GCI	20140903	33.9	34.0	r_up	hallmark:1 revitalize:1 ailing:1 portfolio:1 media:1 been:1 looking:1 their:1 digital:1 new:1 has:1 niche:1 get:1 but:1 wave:1 brands:1 news:1 now:1 organizations:1 companies:1 websites:1 traditional:1 act:1 newspaper:1 starting:1
+GCI	20140904	34.0	33.3	r_down	major:1 chain:1 wall:1 money:1 70:4 edition:1 itself:1 including:1 looks:1 allowed:1 its:4 market:1 staff:1 said:1 publication:2 no:1 newsroom:2 writes:1 writing:1 current:1 laid:2 print:1 conditions:1 staffing:1 's:1 familiar:1 company:1 levels:1 coming:1 decision:1 10:1 off:3 longer:1 employees:3 35:1 flagship:1 person:1 lays:1 lose:1 newspaper:1 align:1 first:1
+GCI	20140905	33.3	33.5	r_up	
+GCI	20140908	33.5	33.4	r_down	
+GCI	20140909	33.4	32.3	r_down	
+GCI	20140910	32.3	32.1	r_down	show:1 appeared:1 were:1 had:2 up:1 shares:1 n't:2 more:1 3:1 trading:1 stock:1 after-hours:1 bunch:1 wake:1 bought:1 filing:1 he:2
+GCI	20140911	32.1	32.1	r_up	
+GCI	20140912	32.1	32.1	r_up	
+GCI	20140915	32.1	32.1	r_up	
+GCI	20140916	32.1	32.4	r_up	
+GCI	20140917	32.4	32.2	r_down	
+GCI	20140918	32.2	32.3	r_up	
+GCI	20140919	32.3	32.3	r_up	
+GCI	20140922	32.3	31.8	r_down	cameras:1 publish:1 platforms:1 game:1 report:1 news:1 technology:1 its:1 first:1
+GCI	20140923	31.8	31.0	r_down	
+GCI	20140924	31.0	30.6	r_down	after:1 last:1 publication:1 just:1 failure:1 daily:1 move:1 turned:1 months:1 new:1 five:1 newspaper:1 paper:1 5:1 launching:1 year:1 owner:1 heads:1 announced:1 he:2
+GCI	20140925	30.6	29.9	r_down	
+GCI	20140926	29.9	30.2	r_up	
+GCI	20140929	30.2	30.0	r_down	
+GCI	20140930	30.0	29.6	r_down	
+GCI	20141001	29.6	29.2	r_down	
+GCI	20141002	29.2	29.2	r_up	back:1 itself:1 seen:1 its:1 sell:1 takes:1 activism:1 stake:1 shares:1 slew:1 increase:1 which:1 has:1 buy:1 's:2 billionaire:1 company:2 break:1 sequels:1 dividend:1 investor:1 --:2 up:1 executives:1
+GCI	20141003	29.2	29.6	r_up	
+GCI	20141006	29.6	29.3	r_down	major:1 via:1 play:1 years:1 '':1 defending:1 industries:1 built:1 no:1 their:1 ``:1 selling:1 company:1 choice:1 they:1 exception:1 --:4 sometimes:1 companies:1 've:1 facing:1 changes:1 spend:1 vision:1
+GCI	20141007	29.3	28.9	r_down	giants:1 off:1 business:1 near-record:1 decision:1 breaking:1 lines:1 up:1 pace:1 spinning:1 split:1 themselves:1 corporate:1 comes:1
+GCI	20141008	28.9	29.2	r_up	
+GCI	20141009	29.2	27.8	r_down	
+GCI	20141010	27.8	27.2	r_down	

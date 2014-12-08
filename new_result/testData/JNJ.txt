@@ -1,0 +1,114 @@
+JNJ	20140501	99.9	99.1	r_down	
+JNJ	20140502	99.1	97.9	r_down	picture:1 stolen:1 cancer:1 drugs:1 big:1 long-term:1 behind:1 have:1 not:1 found:1 ring:1 throughout:1 distribution:1 counterfeit:1
+JNJ	20140505	97.9	98.6	r_up	
+JNJ	20140506	98.6	98.1	r_down	
+JNJ	20140507	98.1	99.5	r_up	do:1 '':1 prestigious:1 surgical:1 chic:1 still:1 yet:1 unit:1 society:1 reviews:1 $:1 over-the-counter:1 its:1 has:1 tool:1 risks:1 paying:1 ``:1 used:1 's:2 business:1 price:1 but:1 focusing:1 common:1 billion:1 14.2:1 medical:1 work:1 n't:1 determined:1 can:1 remake:1 investigating:1 procedure:1 justify:1
+JNJ	20140508	99.5	99.1	r_down	still:1 summer:1 stocks:1 old:1 rocky:1 overlooked:1 beaten:1 companies:1 crop:1 3:1 leadership:1 but:1 broader:1 year:1 dividend:1 has:1 writes:1 market:2 stock:1
+JNJ	20140509	99.1	99.5	r_up	biotech:1 major:1 because:1 cancer:3 issued:1 headwinds:1 guidelines:1 competitive:1 defended:2 society:1 second:2 controversial:1 its:1 option:1 use:1 group:2 leading:1 support:2 technique:2 discouraging:1 spread:2 concerns:2 got:1 spreading:1 common:1 week:2 's:1 risk:1 power:1 though:1 faces:1 commercial:1 but:2 deadly:2 doctors:1 important:1 significant:1 organization:1 trade:1 procedures:1 women:2 rare:2 older:1 amid:2 medical:2 performing:1 surgical:2 method:1 n't:1 can:2 country:1 professional:1 other:2 procedure:1
+JNJ	20140512	99.5	99.1	r_down	's:2 faster:1 warehouses:1 some:1 system:1 shipping:1 flexibility:1 products:1 provides:1 between:1 led:1 cases:1 has:1 merchandise:1 counterfeit:1
+JNJ	20140513	99.1	99.6	r_up	interim:1 future:2 names:3
+JNJ	20140514	99.6	99.5	r_down	
+JNJ	20140515	99.5	99.3	r_down	
+JNJ	20140516	99.3	99.2	r_down	newsletter:1 outperform:1 honor-roll:1 owned:1 tend:1 writers:1 through:1 thin:1 broader:1 9:1 thick:1 stocks:1 writes:1 market:1
+JNJ	20140519	99.2	99.2	r_up	even:1 little:1 danger:1 finances:1 bonds:1 convinced:1 corporate:1 into:1 shaky:1 companies:1 investments:1 default:1 rates:1 low:1 interest:1 safer:1 riskiest:1 frustrated:1 rushing:1
+JNJ	20140520	99.2	98.8	r_down	
+JNJ	20140521	98.8	99.7	r_up	strongly:1 advisory:1 care:1 performing:1 upending:1 against:1 surgical:1 common:1 doctors:1 landscape:1 across:1 procedure:1 women:1
+JNJ	20140522	99.7	100.2	r_up	strongly:1 advisory:1 care:1 performing:1 against:1 upending:1 common:1 doctors:1 landscape:1 across:1 procedure:1 women:1
+JNJ	20140523	100.2	100.3	r_up	
+JNJ	20140527	100.3	100.1	r_down	
+JNJ	20140528	100.1	99.6	r_down	
+JNJ	20140529	99.6	100.0	r_up	comment:1 seven:1 have:1 makers:1 unit:1 n't:1 said:2 $:1 fined:2 agency:1 alleged:1 3:1 company:1 more:1 's:3 price:1 million:2 immediate:1 manipulation:1 included:1 news:1 yuan:1 than:1 eye-care:1 --:1 official:1 companies:1 spokeswoman:1 19:1 contact:1 did:1 lenses:1 glasses:1
+JNJ	20140530	100.0	100.7	r_up	seven:1 competition:1 2nd:1 pricing:1 makers:2 use:1 said:1 $:1 fined:1 +:1 alleged:2 tame:1 3:1 other:1 glasses:1 fines:1 more:2 's:1 government:1 price:1 million:3 lens:1 manipulation:1 yuan:2 effort:1 than:2 antitrust:1 --:2 against:1 19:2 contact:2 behavior:1 laws:1 lenses:1 latest:1
+JNJ	20140602	100.7	101.4	r_up	some:1 metals:1 likely:1 including:1 have:1 armed:1 market:2 dozen:1 use:1 sentiment:1 mines:1 their:1 mining:1 may:1 fund:1 leadership:1 they:1 known:1 investor:1 watchers:1 shift:1 suppliers:1 companies:1 say:1 continue:1 region:1
+JNJ	20140603	101.4	101.7	r_up	
+JNJ	20140604	101.7	101.9	r_up	
+JNJ	20140605	101.9	102.5	r_up	
+JNJ	20140606	102.5	102.4	r_down	too:1 investors:1 business:1 big:1 taking:1 expect:1 they:1 spur:1 gamble:1 more:1
+JNJ	20140609	102.4	102.5	r_up	
+JNJ	20140610	102.5	103.4	r_up	billion:1 buy:1 's:1 $:2 deal:1 expanding:1 agreed:1 drug:1 3.85:2 products:1 hepatitis:1 portfolio:1 seen:1 maker:1
+JNJ	20140611	103.4	102.6	r_down	
+JNJ	20140612	102.6	101.8	r_down	giants:1 all:1 still:1 's:1 dollars:1 innovation:1 laying:1 but:1 down:1 hear:1 coming:1 biggest:1 old:1 economy:1 comes:1 out:1
+JNJ	20140613	101.8	101.8	r_up	
+JNJ	20140616	101.8	101.7	r_down	medical-device:1 reduce:1 hearing:1 surgical:1 growth:1 done:1 performed:1 dividend:1 operation:1 children:1 market:1 make:1 watchful:1 boost:1 fix:1 young:1 purchasing:1 next:1 waiting:1 too:2 under:1 approach:1 take:1 opt:1 used:1 's:2 month:1 tool:1 taxes:1 its:2 important:1 doctors:1 device:1 frequently:1 ear:1 off:1 benefits:1 these:1 many:1 infections:1 tubes:1 maker:1 --:2 common:1 hike:1 argue:1 surgeries:1 think:1 procedure:1
+JNJ	20140617	101.7	101.2	r_down	take:1 used:1 's:2 market:1 say:1 dangerous:1 tool:2 off:1 opponents:1 surgical:1 important:1 common:1 risks:1 device:1 benefits:1 argue:1 make:2 procedure:1 too:2
+JNJ	20140618	101.2	102.1	r_up	
+JNJ	20140619	102.1	103.1	r_up	
+JNJ	20140620	103.1	104.5	r_up	downsizing:1 all:1 right:1 coming:1 share:1 them:1 group:1 rising:1 drug:2 home:1 find:1 out:1 use:1 now:1 'll:2 stands:1 much:1 goings:1 there:1 your:1 anyone:1 going:1 new:1 layoffs:1 's:1 movement:1 wants:1 we:2 someone:1 star:1 comings:1 some:1 after:1 spot:1 regulators:1 know:1 others:1 news:1 exciting:1 concerns:1 and..:1 especially:1 shy:1 pricey:1 us:2 doctors:1 n't:1 solved:1 raised:1 bills:1 changes:1 called:1 latest:1
+JNJ	20140623	104.5	104.0	r_down	
+JNJ	20140624	104.0	103.8	r_down	positioned:1 feet:1 surgical:1 have:1 technology:1 unit:1 firmly:1 industries:1 again:1 said:1 court:1 federal:1 two:1 health:1 hottest:1 firm:1 's:2 some:1 company:1 device:1 suing:1 care:1 both:1 made:1 alleging:1 infringes:1 patents:1
+JNJ	20140625	103.8	105.0	r_up	do:1 blowing:1 her:1 get:1 receive:1 money:1 writes:1 health-care:1 didn’t:1 up:1 but:1 whistle:1 fraud:1 she:1 speaking:1 millions:2
+JNJ	20140626	105.0	104.9	r_down	
+JNJ	20140627	104.9	104.2	r_down	
+JNJ	20140630	104.2	103.9	r_down	
+JNJ	20140701	103.9	105.1	r_up	
+JNJ	20140702	105.1	105.1	r_up	employees:1 spokeswoman:1 confirmed:1 reorganization:1 undergoing:1 less:1 medical:1 global:1 workforce:1 challenges:1 2:1 eliminate:1 400:2 device:1 jobs:1 array:1 changes:1 than:1 unit:1
+JNJ	20140703	105.1	104.7	r_down	
+JNJ	20140707	104.7	105.7	r_up	help:1 trend:1 into:2 portfolio:2 your:2 often:1 sell:1 fit:2 no:1 investing:1 writes:1 brand:1 hot:1 state:1 under:1 burned:2 across:1 momentum:1 can:1 them:1 buy:1 combat:1 get:1 sold:1 abuse:1 not:1 stocks:2 name:1 longer:1 getting:1 without:1 ‘the:1
+JNJ	20140708	105.7	105.0	r_down	smaller:1 stores:1 investors:1 steady:1 over:1 bull:1 share:1 back:1 sign:1 growth:1 embrace:1 accelerate:1 's:1 linked:1 market:2 out:1 giant:1 stocks:1 business:1 working:1 favor:1 provide:1 deadly:1 run:1 strategy:1 rivals:1 contained:1 health:1 potentially:1 income:1 online:1 new:2 thousands:1 store:2 five-year:1 catalogs:1 risk:1 power:1 models:1 dollar:1 tool:2 concepts:1 problems:1 but:1 companies:1 endorsement:1 gain:1 fall:1 encroaching:1 trying:1 also:1 attempt:1 like:1 database:1 chains:1 snapping:1 up:1 reports:2 embracing:1 strategies:1 retail:1 its:1 called:1 medical-device:1
+JNJ	20140709	105.0	105.3	r_up	facility:1 backing:1 into:1 some:1 close:1 consolidating:1 its:1 lead:1 away:1 administration:1 production:1 products:1 lawmakers:1 plant:1 choice:1 reported:1 complaints:1 appears:1 amid:1 companies:1 tech:1 makes:1
+JNJ	20140710	105.3	105.0	r_down	
+JNJ	20140711	105.0	104.3	r_down	consulting:1 smaller:1 financial:1 help:1 cancer:2 supply:1 had:1 move:1 hearing:1 down:3 businesses:1 fees:1 speed:1 manufacturer:2 dozen:1 one:1 he:1 said:2 accepted:1 review:1 agency:2 administration:1 two:1 member:1 their:1 spread:2 safety:2 stepped:2 has:1 chains:1 payments:1 his:1 weighing:1 intended:1 after:2 members:1 device:3 ties:1 reviewed:2 effort:1 firms:1 panel:2 16:1 according:1 medical:2 companies:1 eve:1 women:2 can:2 other:1 joining:1
+JNJ	20140714	104.3	104.6	r_up	beneficial:1 health-care:1 tax:2 head:1 marked:1 '':1 close:1 pharmaceutical:1 two:1 their:1 health:1 ``:1 good:1 's:1 purposes:1 overseas:1 success:1 these:1 wins:1 industry:1 companies:2 deals:1 inversions:1 efforts:1 think:1 latest:1
+JNJ	20140715	104.6	102.5	r_down	rating:1 love:1 trade:1 down:1 kicks:1 session:1 market:1 before:1 again:1 her:1 merger:2 seems:1 shares:1 expected:1 buy:1 's:1 jumps:1 after:1 test:1 chairwoman:1 put:1 news:1 off:1 getting:1 companies:1 semiannual:1 testimony:1 actively:1 rallies:1 drops:1 affection:1
+JNJ	20140716	102.5	101.5	r_down	19.5:1 all:1 everyone:1 ...:1 sales:1 helped:1 middle:1 likely:1 hepatitis:1 's:4 keep:1 your:1 if:1 little:1 busy:1 9.1:1 cup:1 there:2 expect:1 deadlines:1 second-quarter:1 stimulation:1 revenue:1 much:1 which:1 new:1 you:3 boost:1 across:1 today:1 week:1 do:3 we:1 run:1 goes:1 means:1 company:1 await:1 but:1 drug:1 said:1 they:1 line:1 day:1 $:1 billion:1 intriguing:1 drop:1 pill:1 anything:1 always:1 dig:1 well:1 us:1 morning:1 n't:1 pace:1 're:1 time:1 grab:1 executives:1
+JNJ	20140717	101.5	99.7	r_down	150:2 all:2 force:1 another:1 less:1 move:1 sales:1 rest:1 50,000:1 device:1 eliminating:1 year:1 financial:1 its:3 unit:1 25:1 raised:1 $:3 service:1 travel:1 backers:1 except:1 same:1 yet:1 firm:2 internal:1 2014:1 ordinary:1 has:1 meeting:1 more:1 cost-cutting:1 lowering:1 contracts:1 memo:1 million:1 obtain:1 early:1 fund:1 quest:1 goals:1 hopes:1 such:1 approval:1 now:1 than:1 must:1 venture-capital:1 valued:1 car:1 medical:1 according:1 investment:1 costs:1 time:1 consulting:1 two:1 first:1
+JNJ	20140718	99.7	101.1	r_up	subpar:1 have:1 move:1 fast:1 n't:1 too:1 stars:1 long-term:1 performance:1 periods:1
+JNJ	20140721	101.1	100.5	r_down	gone:1 everyone:1 ...:1 meetings:1 share:1 back:1 started:1 course:1 relying:1 because:1 another:2 touch:1 its:1 if:1 stimulation:1 some:1 said:1 $:2 working:1 cup:1 weekend:1 resume:1 had:1 deadlines:1 your:2 pressing:1 few:1 cope:1 5:2 board:1 get:2 routine:1 tidbits:1 you:5 has:1 officially:1 hope:1 stock:1 week:1 buybacks:1 we:3 relax:1 track:1 prefer:1 welcome:1 stay:1 water:1 chance:1 busy:1 hoist:1 cracking:1 imagine:1 come:1 approved:1 those:1 additional:1 billion:1 join:1 might:1 invited:1 dig:1 days:1 us:1 keep:1 're:1 bottle:1 always:1 luck:1
+JNJ	20140722	100.5	101.7	r_up	outlook:1 since:1 slipped:1 revenue:2 global:1 sales:3 years:1 globally:1 strongest:1 growth:1 ignores:1 year:2 2.3:1 seen:1 open:1 its:3 declined:1 relatively:1 increase:1 giant:1 said:2 $:1 profit:2 soars:1 same-store:1 three:1 shares:1 than:1 1:1 start:1 3:1 earnings:1 premarket:1 ‘death:1 performance:1 markets:1 across:1 500:1 expected:1 worldwide:1 flat:1 added:1 's:4 increased:1 releases:1 blowout:1 tops:1 company:1 soda:1 weak:1 expects:1 volume:1 most:1 fell:1 wake:1 nearly:1 despite:1 major:1 trade:1 second-quarter:2 posted:1 session:1 companies:1 full-year:1 blow’:1 lackluster:1 while:1 actively:1 advertising:1 were:1 more:1 similar:1 restaurants:1
+JNJ	20140723	101.7	101.5	r_down	cancer:1 danger:1 previously:1 surgical:1 used:1 names:1 thought:1 potential:1 charts:1 research:1 spread:1 new:1 has:1 more:1 body:1 woman:1 's:1 weak:1 released:1 device:1 such:1 than:1 types:1 look:1 could:1 n't:1 shows:1 signal:1
+JNJ	20140724	101.5	101.5	r_up	even:1 's:1 help:1 effective:1 prove:1 partly:1 rival:1 could:2 compound:1 fight:1 developed:1 regulators:1 experimental:1 filed:1 biggest:1 world:1 more:1 one:1 vaccine:1 kitchen:1
+JNJ	20140725	101.5	101.4	r_down	
+JNJ	20140728	101.4	101.4	r_up	just:1 agreed:1 in-store:1 touch:1 startups:1 fend:1 giant:1 $:1 pressures:1 28:1 treatment:1 2014:1 poised:1 has:3 meetings:1 hope:1 do:1 returned:1 means:1 familiar:1 therapy:1 know:2 world:1 buyout:1 day:1 designation:1 boost:1 companies:1 always:1 week:1 everyone:1 list:1 breakthrough:1 see:1 begun:1 said:2 attracted:1 new:1 officially:1 marketer:1 we:1 city:1 agreement:1 standard:1 approval:1 received:1 great:1 industry:1 cup:1 chronic:3 spinning:1 because:1 done:1 another:1 carry:1 pharmaceutical:1 use:4 working:1 data:1 there:1 deadlines:1 stimulation:1 attack:1 much:1 treat:1 clinical:1 today:1 firm:1 towers:1 acquire:1 but:1 join:1 17:1 rival:1 expanded:1 recruit:1 us:1 patients:1 're:1 associated:1 ...:1 have:1 again:1 4.8:1 details:1 which:1 you:3 nice:1 poor:1 to-do:1 's:1 may:1 price:1 leukemia:3 stay:1 such:1 weekend:1 approved:3 billion:1 supports:1 off:1 center:1 deluge:1 roughly:1 traditional:1 keeps:1 biotechnology:1 expands:2
+JNJ	20140729	101.4	101.2	r_down	looking:1 drugs:1 globe:1 travels:1 fund:1 manager:1
+JNJ	20140730	101.2	101.6	r_up	all:1 already:1 us:1 suspended:1 cancer:1 ...:1 feel:1 spreading:1 some:1 sales:1 wsj.com:1 hosting:1 middle:1 surgical:1 everyone:2 drug:1 world-wide:1 our:1 's:1 yes:1 any:1 world:1 out:1 idea:1 busy:1 thank:1 would:1 way:1 been:1 day:1 another:1 much:1 chat:2 which:1 time:1 tidbits:1 stopped:1 you:4 has:1 might:1 tell:1 week:1 do:2 we:2 return:1 plans:1 get:1 something:1 tool:1 after:1 reach:1 free:1 else:2 if:1 matters:1 pharma:1 conquer:1 here:1 survived:1 doctors:1 prescription:1 line:1 now:1 blamed:1 women:1 shine:1 last:1 anything:1 ahead:1 shelves:1 dangerous:1 drop:1 well:1 say:1 devices:1 keep:1 like:1 're:1 so:1 guest:1 have:1 night:1 cracking:1 hear:1 pricing:1
+JNJ	20140731	101.6	99.4	r_down	ahead:1 everyone:1 deal:1 ...:1 guided:1 some:1 one:1 course:1 see:1 have:2 go:1 our:2 should:1 second-quarter:1 campus:1 ribbon:1 trot:1 profitable:1 said:1 spirits:1 personal:1 scoops:1 there:1 tour:1 best:1 day:3 wonderful:1 digest:1 tidbits:1 new:1 you:2 swung:1 today:1 do:1 we:2 's:1 touch:1 spot:1 brand:1 after:1 sunny:1 stories:1 rain:1 stay:1 courtesy:1 every:1 but:1 precious:1 falling:1 tug:1 buyouts:1 clouds:1 like:2 gift:1 starts:1 favorite:1 batch:1 morning:1 profit:1 remain:1 're:1 so:1 turned:1 rocky:1 making:1 private-equity:1 surge:1
+JNJ	20140801	99.4	99.2	r_down	goods:1 proprietary:1 investors:1 give:1 consumer:1 early-stage:1 reports:1 interested:1 products:1 categories:1 data:1 market:1
+JNJ	20140804	99.2	99.4	r_up	return:1 like:1 track:1 dividends:1 equity:1 cash:1 up:1 indexes:1 metrics:1 have:1 measure:1 raft:1 flow:1 stocks:1 quality:1
+JNJ	20140805	99.4	99.1	r_down	rise:2 far:1 could:2 health-care:1 outperformed:1 up:2 75:2 eight:2 have:1 year:1 so:1 stocks:3 writes:1 market:1
+JNJ	20140806	99.1	100.0	r_up	all:1 right:1 want:1 investors:1 money:1 there’s:1 trade:1 say:1 allure:1 incredible:1 have:2 participate:1 any:1 market:2 if:1 one:1 hold:1 fashionable:1 make:1 should:1 don’t:2 way:1 you:1 relatively:1 more:1 which:1 get:1 becoming:1 but:1 else:1 defensive:1 know:1 plenty:1 bull:1 turbulence:1 stocks:2 room:1 aren’t:1 mega:1 space:1 well:1 up:1 dinosaur:1 while:1 continue:1 can:1 mega-mind:1 recommendations:1 caps:1
+JNJ	20140807	100.0	99.2	r_down	
+JNJ	20140808	99.2	100.4	r_up	both:1 tops:1 make:1 bottoms:1 guaranteed:1 loser:1 nearly:1 pick:1 impossible:1 you:1 stocks:1 writes:1 market:1
+JNJ	20140811	100.4	100.4	r_up	
+JNJ	20140812	100.4	99.9	r_down	
+JNJ	20140813	99.9	101.0	r_up	
+JNJ	20140814	101.0	101.3	r_up	
+JNJ	20140815	101.3	100.4	r_down	gone:1 named:1 have:2 ...:1 some:1 promises:1 all:1 promised:1 another:1 close:1 our:4 fear:1 around:1 working:1 no:1 provide:1 come:1 make:1 since:1 1960:1 vacation:1 few:1 absence:1 continue:1 grand:1 tidbits:1 you:4 hope:1 week:1 do:1 we:5 good:1 's:1 plans:1 upcoming:1 may:1 rock:1 after:1 diet:1 soon:1 famous:1 regular:1 world:1 weekend:2 colleagues:1 would:1 band:1 recall:1 signal:1 days:1 garage:1 're:1 so:1 time:1 spin:1 fun:1 something:1
+JNJ	20140818	100.4	102.0	r_up	
+JNJ	20140819	102.0	102.2	r_up	senators:1 because:1 cancer:1 spreading:1 surgical:1 experts:1 urged:1 have:1 market:1 removing:1 views:1 offer:1 their:2 other:1 under:1 has:1 method:1 risk:1 power:1 manufacturers:1 tool:1 scrutiny:1 ask:1 come:1 intense:1 women:2 pull:1 devices:1 options:1 common:1 popular:1 called:1
+JNJ	20140820	102.2	102.5	r_up	
+JNJ	20140821	102.5	103.4	r_up	sector:1 withstand:1 all:1 shield:1 twists:1 one:1 curious:1 market:1 decline:1 writes:1 reading:1 ultimate:1 we:1 's:2 volatility:1 lawsuit:1 care:1 case:1 turns:1 against:1 more:1 're:2 can:1 ‘bubble’:1 stock:1 talk:1
+JNJ	20140822	103.4	103.1	r_down	unexpected:1 one:1 challenges:1 curb:1 reports:1 another:1 pills:1 painkillers:1 trials:1 there:1 outside:1 clinical:1 taken:1 millions:1 might:1 prescriptions:1 narcotic:1 bid:1 running:1 abuse:1 effects:1 not:1 now:1 case:1 restrict:1 getting:1 many:1 taking:1 work:1 drug:3 face:1 trial:2 patients:1 're:1 steps:1 can:1 side:1 experimental:1
+JNJ	20140825	103.1	103.2	r_up	
+JNJ	20140826	103.2	103.4	r_up	
+JNJ	20140827	103.4	103.2	r_down	
+JNJ	20140828	103.2	102.9	r_down	said:1 plans:1 business:1 people:1 seek:1 medical:1 catheters:1 devices:1 stents:1 including:1 familiar:1 buyer:1 makes:1 matter:1
+JNJ	20140829	102.9	103.7	r_up	exceed:1 thinner:1 widen:1 investors:1 being:1 year:1 some:1 sales:1 month:1 drug:1 ambitious:1 market:1 plans:1 ominous:1 $:1 their:1 trials:1 marketed:1 three:1 diseases:1 1:1 bleeding:1 returns:1 internal:1 solicit:1 clinical:1 suffered:1 dramatically:1 announced:1 's:2 increased:1 bid:1 after:1 jointly:1 blood:1 they:1 new:1 believe:2 poised:1 recent:1 billion:1 stock-market:1 launch:1 clients:1 against:1 n't:1 advertising:1 treated:1
+JNJ	20140902	103.7	103.3	r_down	reveals:1 says:1 month:1 something:1 seen:1 market:1 closer:1 has:2 different:1 section:1 criminal:1 markets:1 stock:1 's:1 crashes:1 government:1 big:1 but:1 bear:1 fraud:1 join:1 look:1 chief:1 left:1 writes:1 history:1
+JNJ	20140903	103.3	103.7	r_up	
+JNJ	20140904	103.7	103.8	r_up	1.5:1 help:1 into:1 partnership:1 curb:1 accelerating:1 plow:1 said:1 $:1 has:1 development:1 diseases:1 treatments:1 virus:1 effort:1 vaccine:1 billion:1 regimen:1 developing:1 up:1 against:1 launched:1
+JNJ	20140905	103.8	104.4	r_up	
+JNJ	20140908	104.4	104.0	r_down	all:1 everyone:1 ...:1 well:1 meetings:1 manage:1 we:1 pressing:1 another:2 touch:1 yes:1 yet:1 busy:1 working:1 cup:1 reaching:1 please:1 deadlines:1 your:1 stimulation:1 much:1 goes:1 tidbits:1 means:1 has:1 hope:1 week:1 do:1 to-do:1 cope:1 welcome:1 here:1 else:1 because:1 stay:1 weekend:1 day:1 join:1 list:2 us:1 morning:1 're:1 so:1 you:1 latest:1
+JNJ	20140909	104.0	103.8	r_down	
+JNJ	20140910	103.8	104.9	r_up	
+JNJ	20140911	104.9	104.5	r_down	tropical:1 benefits:1 's:2 diseases:1 effort:1 employees:1 after:1 against:1 n't:1 only:1 hired:1 pension:1 2015:1 new:1 1:1 reducing:1 drug-company:1 vaccine:1
+JNJ	20140912	104.5	104.5	r_up	after:1 cancer:1 countries:1 months:1 three:1 been:1 vials:2 were:1 five:1 drug:2 have:1 breast-cancer:1 found:2
+JNJ	20140915	104.5	104.7	r_up	way:1 undervalued:1 big:1 company:1 fast:1 growing:1 amazing:1 writes:1 5:1 pretty:1 facts:1 yet:1
+JNJ	20140916	104.7	105.8	r_up	signing:1 associated:1 leaders:1 just:1 sales:1 including:1 such:1 hospitals:1 stands:1 health-related:2 said:2 based:1 $:1 investing:1 much:1 develop:1 their:2 other:1 5:1 endorse:1 expected:1 new:1 has:1 's:2 creating:1 rake:1 initiatives:1 paid:1 includes:1 9:1 chance:1 goals:1 they:1 doctors:1 communities:1 changing:1 lobby:1 but:1 panel:1 billion:1 peers:1 tracking:1 tank:1 success:1 programs:1 wellness:1 could:1 annual:1 companies:2 drug:1 jointly:1 agenda:1 corporate:1 think:1 experimental:1 risky:1
+JNJ	20140917	105.8	106.1	r_up	
+JNJ	20140918	106.1	107.3	r_up	company’s:1 vaccines:1 bullish:1 developing:1 reasons:1 writes:1 others:1 up:1 fight:1 past:1 twice:1 virus:1 much:1 7:1 year:1 500:1 stock:1
+JNJ	20140919	107.3	107.9	r_up	
+JNJ	20140922	107.9	107.8	r_down	managed:1 meetings:1 world:1 touch:1 yes:1 still:1 speed:1 recharge:1 personal:1 spread:1 pile:1 8:1 has:1 guided:1 hope:1 ...:1 practice:1 every:1 know:1 they:1 using:1 day:1 warned:1 list:1 morning:1 always:1 grab:1 enjoy:1 everyone:1 another:1 crushing:1 some:1 our:1 best:1 awaits:1 scoops:1 please:1 tidbits:1 we:1 welcome:1 nationwide:1 reach:1 here:1 water:1 respite:1 come:1 limits:1 invited:1 months:1 tour:1 cancer:1 into:1 prefer:1 because:1 simply:1 delicious:1 cups:1 given:1 working:1 deadlines:1 stimulation:1 few:1 much:1 way:1 clinical:1 more:1 cope:1 season:1 join:2 us:2 regulator:1 're:1 stories:1 can:1 pm:1 gone:1 do:1 tonight:1 if:1 again:1 discussion:1 amazing:1 you:5 week:2 's:3 after:1 tops:1 stay:1 weekend:1 bottle:1 conquer:1
+JNJ	20140923	107.8	107.4	r_down	division:1 giant:1 said:1 's:3 business:1 pet:1 completing:1 agreed:1 acquire:1 remaining:1 exit:1 consumer-products:1 its:1 care:1
+JNJ	20140924	107.4	108.6	r_up	help:1 move:1 human:1 research:1 establish:1 find:1 funding:1 trials:1 its:1 start:1 clinical:1 board:1 2015:1 independent:1 plans:1 commercial:1 applications:1 plan:1 half:1 vaccine:1 university:1 trial:1 nonprofit:1 first:1
+JNJ	20140925	108.6	107.1	r_down	
+JNJ	20140926	107.1	107.1	r_up	them:1 useful:1 family:1 working:1 medical:1 make:1 devices:1 patients:1 other:1 members:1 more:1 monitors:1 glucose:1
+JNJ	20140929	107.1	106.5	r_down	
+JNJ	20140930	106.5	106.5	r_up	session:1 agreed:1 trade:1 held:1 3.5:1 including:1 privately:1 year:1 portfolio:1 hospitals:1 developer:1 viral:1 $:4 pay:1 least:1 shares:1 1.75:3 going:1 treatment:1 expected:1 teaching:1 final:1 physicians:1 buy:1 's:1 diseases:1 acquire:1 treatments:1 paid:1 includes:1 virus:1 five:1 during:1 hepatitis:1 billion:3 last:1 months:1 companies:2 movies:1 actively:1 experimental:1 medical-device:1
+JNJ	20141001	106.5	104.3	r_down	seasonal:1 everyone:1 week-long:1 ...:1 feel:1 downing:1 smashing:1 middle:1 through:1 us:1 round-up:1 touch:1 trust:1 another:1 busy:1 $:1 cup:1 menu:1 there:1 off:1 stimulation:1 1.75:1 secret:1 much:1 tidbits:1 you:3 week:1 do:1 we:2 around:1 welcome:1 hang:1 here:1 stay:1 moment:1 journey:1 survived:1 news:1 day:2 venture-capital:1 keeping:1 join:1 course:1 analysis:1 're:1 so:1 can:1 have:1 making:1 usual:1
+JNJ	20141002	104.3	103.8	r_down	information:1 database:1 navigate:1 hard:1 but:1 only:1 does:1 not:2 newly:1 launched:1
+JNJ	20141003	103.8	105.1	r_up	enjoy:1 delicious:1 ...:1 year:1 some:1 soon:2 around:1 mansion:1 catching:1 through:1 another:1 close:1 need:1 our:2 apple:1 pause:1 working:1 rather:1 make:1 three:1 long:1 few:1 nap:1 take:2 grand:1 you:6 stock:1 week:1 do:1 draw:1 hit:1 plans:1 nature:1 could:1 safe:1 pie:1 button:1 modest:1 know:1 weekend:1 have:1 orchard:1 country:1 signal:1 and…:1 life:1 up:2 order:1 so:1 can:2 agenda:1 time:2 fun:1 simply:1 ride:1
+JNJ	20141006	105.1	104.8	r_down	slew:1 fed:1 developing:1 drugs:1 wins:1 companies:2 fighting:1 one:2 federal:1 approval:1 critical:1 coming:1 ebola:1 winning:1 forefront:1 hand:1 grows:1
+JNJ	20141007	104.8	102.3	r_down	among:1 industrial:1 financial:1 look:1 surprises:1 should:1 upside:1 names:1 consumer:1 discretionary:1
+JNJ	20141008	102.3	104.9	r_up	
+JNJ	20141009	104.9	102.0	r_down	
+JNJ	20141010	102.0	101.2	r_down	promises:1 requiring:1 years:1 say:1 tag:1 have:1 carefully:1 $:1 patients:1 hepatitis:1 treading:1 other:1 new:1 price:1 lawyers:1 100,000:1 employers:1 most:1 nearly:1 approval:1 recent:1 received:1 benefits:1 programs:2 wellness:2 medicines:1 drug:2 carries:1 without:1 cure:1 comes:1 executives:1

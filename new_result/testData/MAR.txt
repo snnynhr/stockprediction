@@ -1,0 +1,114 @@
+MAR	20140501	57.5	58.1	r_up	
+MAR	20140502	58.1	58.7	r_up	
+MAR	20140505	58.7	58.5	r_down	
+MAR	20140506	58.5	57.6	r_down	's:3 takes:1 travel:1 fewer:1 their:1 guests:1 toll:1 hoteliers:1 economy:1
+MAR	20140507	57.6	57.7	r_up	
+MAR	20140508	57.7	57.5	r_down	gone:1 chain:1 back:1 bounce:1 dot-com:2 lodging:1 go:1 seen:1 its:2 crashing:1 no:1 bust:1 only:1 offers:1 rates:1 above:1 before:1 stock:1 play:1 peak:1 previous:1 during:1 peers:1 has:3 promoted:1 higher:1
+MAR	20140509	57.5	57.8	r_up	
+MAR	20140512	57.8	58.8	r_up	
+MAR	20140513	58.8	58.5	r_down	
+MAR	20140514	58.5	58.2	r_down	
+MAR	20140515	58.2	57.5	r_down	
+MAR	20140516	57.5	57.9	r_up	
+MAR	20140519	57.9	58.2	r_up	
+MAR	20140520	58.2	58.5	r_up	private-equity:1 acquired:1 hotel:1 one:1 few:1 firms:1 has:1 investment:1
+MAR	20140521	58.5	58.5	r_up	
+MAR	20140522	58.5	58.5	r_up	draw:1 may:1 hoping:1 most:1 importance:1 national:1 capital:1 use:1 invested:1 travels:1 visitors:1 pastime:1 value:1 creating:1 highlight:1 international:1 he:1 tourism:1 accurate:1 gauge:1 more:1
+MAR	20140523	58.5	59.0	r_up	
+MAR	20140527	59.0	59.2	r_up	
+MAR	20140528	59.2	59.2	r_up	
+MAR	20140529	59.2	60.5	r_up	
+MAR	20140530	60.5	61.4	r_up	
+MAR	20140602	61.4	61.3	r_down	over:1 trade:2 session:2 its:1 hotels:1 $:1 spending:1 shares:2 next:1 add:1 luxury:1 which:1 expected:3 international:1 several:1 more:2 200:2 's:3 plans:1 company:1 hotel:1 owners:1 reflect:1 15:1 years:1 than:2 billion:1 pipeline:1 lifestyle:1 companies:2 actively:2 franchisees:1
+MAR	20140603	61.3	61.3	r_up	near:1 group:1 investors:1 railroad:1 station:1 busiest:1 hotel:1 agreement:1 signed:1 nation:1 flag:1 construction:1 34th:2 under:1 put:1 's:1 tower:1 its:1
+MAR	20140604	61.3	61.5	r_up	
+MAR	20140605	61.5	62.1	r_up	
+MAR	20140606	62.1	62.6	r_up	
+MAR	20140609	62.6	62.6	r_up	
+MAR	20140610	62.6	62.5	r_down	
+MAR	20140611	62.5	61.5	r_down	
+MAR	20140612	61.5	61.2	r_down	
+MAR	20140613	61.2	61.2	r_up	
+MAR	20140616	61.2	61.4	r_up	
+MAR	20140617	61.4	62.2	r_up	
+MAR	20140618	62.2	62.9	r_up	firm:1 operator:1 technology:1 hospitality:1
+MAR	20140619	62.9	63.1	r_up	purchase:1 million:1 $:1 price:1 acquire:1 net:1 agreed:1 unit:1
+MAR	20140620	63.1	63.3	r_up	off:1 21:1 deal:1 get:2 these:1 writes:1 consumers:1 up:1 one:2 held:1 chance:1 offers:1 luxury:2 have:1 70:1 day:1 hotels:2
+MAR	20140623	63.3	63.6	r_up	says:1 office:1 over:1 executive:1 idea:1 through:1 if:1 productive:1 vacation:1 outside:1 himself:1 's:1 never:1 focused:1 125:1 he:2 did:1 could:1 work:1 days:1 n't:1 miles:1 jungle:1 fun:1 five:1 challenge:1
+MAR	20140624	63.6	63.3	r_down	
+MAR	20140625	63.3	63.2	r_down	
+MAR	20140626	63.2	63.8	r_up	
+MAR	20140627	63.8	63.7	r_down	
+MAR	20140630	63.7	63.9	r_up	
+MAR	20140701	63.9	64.4	r_up	billion:1 $:1 rival:1 completed:1 hotel:1 1.9:1 recapitalization:1 replace:1 resort:2 manager:1 nearby:1 owner:1 has:1 opens:1 before:1
+MAR	20140702	64.4	65.1	r_up	1.9:1 replace:1 manager:1 have:1 open:1 before:1 giant:1 $:1 resort:2 destination:1 recapitalization:1 few:1 complex:1 gambling:1 poised:1 completed:1 hotel:2 known:1 billion:1 owners:1 rival:1 months:1 nearby:1
+MAR	20140703	65.1	65.3	r_up	
+MAR	20140707	65.3	65.6	r_up	
+MAR	20140708	65.6	64.7	r_down	
+MAR	20140709	64.7	65.2	r_up	
+MAR	20140710	65.2	65.3	r_up	
+MAR	20140711	65.3	64.8	r_down	firm:1 zone:1 economic:1 lodging:1 improving:1 boost:1 landscape:1 euro:1
+MAR	20140714	64.8	65.1	r_up	
+MAR	20140715	65.1	64.7	r_down	
+MAR	20140716	64.7	64.5	r_down	
+MAR	20140717	64.5	63.1	r_down	25:1 2016:1 's:1 gains:1 cars:1 region:1 unveil:1 economic:1 planning:1 including:1 car:1 sports:1 markets:1 its:1 recognition:1
+MAR	20140718	63.1	64.7	r_up	
+MAR	20140721	64.7	64.7	r_up	
+MAR	20140722	64.7	65.9	r_up	
+MAR	20140723	65.9	66.2	r_up	financial:1 leverage:1 chain:1 operating:1 favorable:1 has:1 exposure:1
+MAR	20140724	66.2	66.6	r_up	
+MAR	20140725	66.6	66.1	r_down	
+MAR	20140728	66.1	65.9	r_down	
+MAR	20140729	65.9	65.5	r_down	raised:2 all:1 year:1 startups:1 technology:1 investment:1 5.4:1 $:1 theme:1 which:1 new:1 2013:1 more:1 business:1 though:1 they:1 half:1 during:2 than:1 billion:1 changing:1 according:1 analysis:1 software:1 first:1
+MAR	20140730	65.5	65.2	r_down	bearing:1 revenue:1 customers:1 trade:1 session:1 trading:1 contract:1 narrowed:1 swung:1 saw:1 its:5 declined:1 said:1 $:1 service:1 profit:1 make:1 shares:1 second-quarter:1 growth:1 premarket:1 expected:1 more:2 uptick:1 quarter:1 's:1 may:1 company:1 reported:1 fruit:1 operating:1 signaling:1 lucrative:1 expenses:1 surged:1 than:1 fiscal:1 loss:1 short:1 most:1 companies:1 doubled:1 appealing:1 actively:1 messaging:1 efforts:1 first:1 masses:1 user:1
+MAR	20140731	65.2	64.5	r_down	
+MAR	20140801	64.5	64.6	r_up	
+MAR	20140804	64.6	65.7	r_up	
+MAR	20140805	65.7	64.7	r_down	's:1 prepare:1 chain:1 mobile:1 hotel:1 revamp:1 helped:1 future:1 systems:1
+MAR	20140806	64.7	64.3	r_down	
+MAR	20140807	64.3	64.0	r_down	
+MAR	20140808	64.0	64.7	r_up	
+MAR	20140811	64.7	65.5	r_up	
+MAR	20140812	65.5	65.3	r_down	
+MAR	20140813	65.3	66.3	r_up	
+MAR	20140814	66.3	67.0	r_up	strongly:1 again:1 upheaval:1 industry:1 hotel:1 dented:1 much:2 rest:1 growing:1 has:1 tourism:1
+MAR	20140815	67.0	67.1	r_up	term:1 increased:1 outperform:1 could:1 share:1 peers:1 near:1 program:1 repurchase:1 delivers:1 its:1
+MAR	20140818	67.1	67.4	r_up	
+MAR	20140819	67.4	68.1	r_up	
+MAR	20140820	68.1	68.5	r_up	
+MAR	20140821	68.5	68.4	r_down	
+MAR	20140822	68.4	68.4	r_up	exploring:1 million:1 minority:1 people:1 300:1 according:1 company:1 stake:1 sale:1 $:1 matter:1 much:1 familiar:1 bid:1 raise:1
+MAR	20140825	68.4	68.7	r_up	
+MAR	20140826	68.7	68.9	r_up	
+MAR	20140827	68.9	68.8	r_down	offering:1 win:1 brand:1 hotel:1 experience:1 chance:1 college:1 can:1 following:1 new:1 thinks:1 guests:1
+MAR	20140828	68.8	68.9	r_up	operations:1 attractive:1 5.3:1 last:1 $:1 her:1 supply:1 annual:1 million:1 according:1 owned:1 lead:1 released:1 documents:1 growth:1 least:1 year:1 improving:1 gains:1 husband:1 assets:1
+MAR	20140829	68.9	69.4	r_up	disclosure:2 12:2 's:2 leaders:2 last:2 --:1 situations:2 regional:2 according:2 forms:2 released:2 widely:2 year:2 banks:2 financial:2 annual:2 2013:1 divergent:2
+MAR	20140902	69.4	69.4	r_up	
+MAR	20140903	69.4	70.0	r_up	
+MAR	20140904	70.0	70.5	r_up	
+MAR	20140905	70.5	70.8	r_up	
+MAR	20140908	70.8	71.0	r_up	said:1 spending:1 could:1 travel:1 middle:1 add:1 rising:1 rooms:1 economy:1 200,000:1 improving:1 new:2 2017:2 1,300:2 boost:1 class:1 hotels:1
+MAR	20140909	71.0	70.7	r_down	company’s:1 love:1 that’s:1 fans:1 writes:1 exemplifies:1 gadgets:1 everything:1 wrong:1 much:1 don’t:1 matter:1
+MAR	20140910	70.7	70.7	r_up	bars:1 restaurants:1 customers:1 quickly:1 putting:1 hands:1 put:1 glasses:1 more:1
+MAR	20140911	70.7	71.4	r_up	
+MAR	20140912	71.4	70.6	r_down	
+MAR	20140915	70.6	70.7	r_up	way:1 undervalued:1 big:1 company:1 fast:1 growing:1 amazing:1 writes:1 5:1 pretty:1 facts:1 yet:1
+MAR	20140916	70.7	71.1	r_up	even:1 10:1 you’ve:1 like:1 people:1 you’re:2 most:1 enough:1 without:1 not:2 tipping:2
+MAR	20140917	71.1	71.7	r_up	
+MAR	20140918	71.7	72.4	r_up	
+MAR	20140919	72.4	72.1	r_down	
+MAR	20140922	72.1	71.6	r_down	
+MAR	20140923	71.6	70.9	r_down	hotel:1 built:1 rights:1 being:1 atop:1 manage:1 won:1 owner:1
+MAR	20140924	70.9	71.3	r_up	
+MAR	20140925	71.3	70.5	r_down	huge:1 surveys:1 sharing:1 runway:1 two:1 growth:1 rooms:1 have:1 services:1 new:1 rides:1
+MAR	20140926	70.5	70.7	r_up	
+MAR	20140929	70.7	70.4	r_down	
+MAR	20140930	70.4	69.9	r_down	
+MAR	20141001	69.9	67.9	r_down	
+MAR	20141002	67.9	66.8	r_down	
+MAR	20141003	66.8	68.1	r_up	$:2 people:1 civil:1 pay:1 agreed:1 networks:1 blocking:1 penalty:1 personal:1 using:1 600,000:2
+MAR	20141006	68.1	67.3	r_down	
+MAR	20141007	67.3	66.0	r_down	private-equity:1 among:1 agreed:1 further:1 1.95:1 any:1 sell:1 $:1 stake:1 company:1 setting:1 has:1 ever:1 price:1 firm:2 minority:1 sold:1 hotel:2 expansion:1 highest:1 stage:1 billion:1 storied:1
+MAR	20141008	66.0	66.1	r_up	
+MAR	20141009	66.1	64.5	r_down	
+MAR	20141010	64.5	63.5	r_down	ratio:1 fundamentals:1 solid:1 looks:1 lodging:1 favorable:1

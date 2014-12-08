@@ -1,0 +1,114 @@
+DHI	20140501	22.1	22.7	r_up	
+DHI	20140502	22.7	23.0	r_up	
+DHI	20140505	23.0	22.8	r_down	
+DHI	20140506	22.8	22.3	r_down	
+DHI	20140507	22.3	22.3	r_up	
+DHI	20140508	22.3	22.1	r_down	
+DHI	20140509	22.1	21.9	r_down	
+DHI	20140512	21.9	22.5	r_up	
+DHI	20140513	22.5	23.0	r_up	set:1 woes:1 trade:1 retreating:1 raises:1 wider:1 intraday:1 deeper:1 closes:1 stocks:1 top:1 stake:1 market:1 quarterly:1 company:1 marginally:1 higher:1 rise:1 run:1 gains:1 loss:1 highs:1 after:2 slides:1 home-improvement:1 rises:1 than:1 early:1 clear:1 reports:1 morning:1 record:1 while:1 weather:1 so:1 500:2 retailers:1 stock:1 builders:1 skids:1 steer:1
+DHI	20140514	23.0	22.0	r_down	home-building:1 growth:1 pace:1 over:1 tumble:1 shares:1 records:1 fueled:1 concerns:1 economic:1 fresh:1 financial:1
+DHI	20140515	22.0	22.1	r_up	
+DHI	20140516	22.1	22.1	r_up	
+DHI	20140519	22.1	21.8	r_down	real:1 may:1 spring:1 rise:1 sales:1 but:1 test:1 year:1 2015:1
+DHI	20140520	21.8	21.8	r_up	
+DHI	20140521	21.8	22.0	r_up	
+DHI	20140522	22.0	22.5	r_up	
+DHI	20140523	22.5	23.5	r_up	1,900:2 own:1 tough:1 they:1 purchases:1 sales:1 chose:1 back:1 bounce:1 up:1 likely:1 way:1 broader:1 carefully:1 total:1 market:3 gains:1 pick:1 winter:1 her:2 basis:1 housing:2 three:1 enough:1 above:1 2015:1 500:2 stock:1 week:1 tally:1 recently:1 finishes:1 pull:1 may:1 advances:1 rise:1 weak:1 but:1 results:1 year’s:1 words:1 stocks:1 sending:1 hits:1 last:1 level:1 solid:1 straight:1 days:1 below:1 could:1 were:1 closing:1 economy:1 alarm:1 strengthens:1 first:1
+DHI	20140527	23.5	23.0	r_down	
+DHI	20140528	23.0	23.2	r_up	
+DHI	20140529	23.2	23.8	r_up	
+DHI	20140530	23.8	23.6	r_down	
+DHI	20140602	23.6	23.6	r_up	below:1 peers:1 valuations:1 trade:1
+DHI	20140603	23.6	23.6	r_up	supply:1 developed:1 there’s:1 say:1 expect:1 have:1 home:1 expensive:1 lots:2 housing:1 low:1 new:2 build:1 rise:1 prices:1 properties:1 buying:1 homes:1 see:1 more:1 continue:1 can:1 shortage:1 become:1 suitable:1 builders:2
+DHI	20140604	23.6	23.6	r_up	
+DHI	20140605	23.6	23.9	r_up	
+DHI	20140606	23.9	24.3	r_up	
+DHI	20140609	24.3	24.5	r_up	months:1 charts:1 homebuilder:1 flags:1 abound:1 lagging:1 mend:1 stocks:1 long-term:1 red:1
+DHI	20140610	24.5	24.3	r_down	
+DHI	20140611	24.3	23.9	r_down	
+DHI	20140612	23.9	23.4	r_down	roundup:1 saying:1 surprises:1 companies:1 reports:1 quarters:1 advisories:1 earnings:1 future:1 corporate:1 latest:1
+DHI	20140613	23.4	23.3	r_down	
+DHI	20140616	23.3	23.6	r_up	
+DHI	20140617	23.6	23.4	r_down	
+DHI	20140618	23.4	23.3	r_down	among:1 while:1 stores:1 gains:2 performers:1 whether:1 open:1 company:1 high-frequency:1 up:2 hearing:2 four:1 trading:1 extends:2 500:1 hurts:1 wake:1 permission:1 markets:1 best:1 gives:1
+DHI	20140619	23.3	23.3	r_up	
+DHI	20140620	23.3	23.5	r_up	
+DHI	20140623	23.5	23.5	r_up	
+DHI	20140624	23.5	23.8	r_up	
+DHI	20140625	23.8	23.9	r_up	
+DHI	20140626	23.9	23.8	r_down	
+DHI	20140627	23.8	23.7	r_down	
+DHI	20140630	23.7	24.5	r_up	
+DHI	20140701	24.5	25.0	r_up	
+DHI	20140702	25.0	24.5	r_down	
+DHI	20140703	24.5	24.7	r_up	
+DHI	20140707	24.7	24.2	r_down	
+DHI	20140708	24.2	24.2	r_up	
+DHI	20140709	24.2	24.3	r_up	
+DHI	20140710	24.3	24.3	r_up	
+DHI	20140711	24.3	24.0	r_down	
+DHI	20140714	24.0	24.0	r_up	
+DHI	20140715	24.0	24.0	r_up	
+DHI	20140716	24.0	24.6	r_up	
+DHI	20140717	24.6	23.6	r_down	
+DHI	20140718	23.6	23.8	r_up	
+DHI	20140721	23.8	23.7	r_down	
+DHI	20140722	23.7	24.2	r_up	
+DHI	20140723	24.2	24.7	r_up	
+DHI	20140724	24.7	21.8	r_down	6:1 home-building:1 investors:1 revenue:1 sales:1 despite:1 1.9:1 related:1 trade:2 switches:1 session:2 trading:1 third-quarter:1 home:1 years:1 hit:1 80:1 its:3 increase:1 giant:1 said:2 networking:1 $:1 defective:1 area:1 profit:3 rose:1 recorded:1 three:1 shares:2 linked:1 victims:1 earnings:2 premarket:1 vehicle:1 expected:2 new:1 net:1 impairment:1 higher:1 's:2 income:1 surges:1 tied:1 results:1 driven:1 reported:1 fell:2 plan:1 key:1 quarterly:1 bubbles:1 strong:2 second-quarter:2 fiscal:1 quarter:1 assets:1 charges:2 car:1 builder:1 drop:1 companies:2 up:1 record:2 compensation:1 actively:2 ignition:1 social:1 recalls:1 accidents:1 orders:1 first:1
+DHI	20140725	21.8	21.5	r_down	investors:1 some:1 sales:1 home:2 rough:1 market:1 profitable:1 use:1 pat:1 highlights:1 reality:1 boost:1 more:1 's:3 incentives:1 construction:1 trying:1 than:1 reaction:1 builder:1 up:1 n't:1 pace:1 stand:1 volumes:1
+DHI	20140728	21.5	21.4	r_down	
+DHI	20140729	21.4	20.9	r_down	home-building:1 deal:2 soars:1 sends:1 well:1 sales:1 jump:1 second:1 picked:1 year:1 corporations:1 out:1 jumped:1 stockholders:1 compensation:1 shares:1 companies:1 largest:1 higher:1 fare:1 buy:1 jumps:1 but:1 construction:1 sharply:1 day:1 both:1 last:1 did:1 37:1 up:1 n't:1 chief:1 executives:1
+DHI	20140730	20.9	20.8	r_down	
+DHI	20140731	20.8	20.6	r_down	
+DHI	20140801	20.6	20.3	r_down	
+DHI	20140804	20.3	20.5	r_up	
+DHI	20140805	20.5	20.2	r_down	
+DHI	20140806	20.2	20.1	r_down	
+DHI	20140807	20.1	20.1	r_up	
+DHI	20140808	20.1	20.6	r_up	
+DHI	20140811	20.6	20.6	r_up	
+DHI	20140812	20.6	20.2	r_down	
+DHI	20140813	20.2	20.3	r_up	
+DHI	20140814	20.3	20.8	r_up	
+DHI	20140815	20.8	20.8	r_up	
+DHI	20140818	20.8	21.1	r_up	
+DHI	20140819	21.1	21.8	r_up	sector:2 back:1 helped:1 session:1 another:1 stronger-than-expected:1 rally:1 market:1 data:1 housing:2 shares:2 winning:1 score:1 new:1 500:1 stock:1 record-setting:1 sparked:1 fire:1 jumps:1 rise:1 robust:1 stocks:1 surged:1 high:1 hits:1 starts:1 record:2 near:1
+DHI	20140820	21.8	21.8	r_up	
+DHI	20140821	21.8	21.8	r_up	
+DHI	20140822	21.8	21.8	r_up	
+DHI	20140825	21.8	21.5	r_down	
+DHI	20140826	21.5	21.6	r_up	
+DHI	20140827	21.6	21.7	r_up	
+DHI	20140828	21.7	21.6	r_down	
+DHI	20140829	21.6	21.6	r_up	week:1 both:1 set:1 offer:1 three:1 next:1 improvements:1 others:1 report:1 firms:1 margin:1 exposure:1
+DHI	20140902	21.6	21.6	r_up	rewards:1 look:1 offering:1 watching:1 builder:1 can:1 current:1 reports:1 see:1 earnings:2 home:1 reap:1 industry:1 if:1
+DHI	20140903	21.6	21.0	r_down	fiscal:1 builder:1 's:1 investors:1 overshadows:1 drop:1 third-quarter:1 results:1 scaring:1 away:1 home:1 orders:1 better-than-expected:1
+DHI	20140904	21.0	21.3	r_up	
+DHI	20140905	21.3	21.4	r_up	
+DHI	20140908	21.4	21.6	r_up	
+DHI	20140909	21.6	21.6	r_up	
+DHI	20140910	21.6	21.9	r_up	
+DHI	20140911	21.9	21.9	r_up	
+DHI	20140912	21.9	21.4	r_down	
+DHI	20140915	21.4	21.6	r_up	
+DHI	20140916	21.6	21.6	r_up	
+DHI	20140917	21.6	22.2	r_up	gained:1 use:1 lure:1 appear:1 fence:1 builders:1 incentives:1 sales:2 late:1 buyers:1 part:1 have:1 coming:1 off:1 boost:1 momentum:1 more:1
+DHI	20140918	22.2	22.1	r_down	
+DHI	20140919	22.1	21.9	r_down	
+DHI	20140922	21.9	21.3	r_down	
+DHI	20140923	21.3	21.2	r_down	
+DHI	20140924	21.2	21.2	r_up	
+DHI	20140925	21.2	20.8	r_down	
+DHI	20140926	20.8	20.9	r_up	
+DHI	20140929	20.9	20.7	r_down	
+DHI	20140930	20.7	20.5	r_down	named:1 retiring:1 replace:1 movies:1 going:1 has:1
+DHI	20141001	20.5	20.3	r_down	session:2 case:2 extended:1 's:1 soil:1 after:1 companies:1 shares:3 trade:1 confirms:1 virus:1 actively:1 pop:1 expected:1 surge:1 first:2
+DHI	20141002	20.3	20.5	r_up	
+DHI	20141003	20.5	20.7	r_up	
+DHI	20141006	20.7	20.9	r_up	
+DHI	20141007	20.9	20.7	r_down	
+DHI	20141008	20.7	21.0	r_up	
+DHI	20141009	21.0	20.6	r_down	
+DHI	20141010	20.6	19.8	r_down	

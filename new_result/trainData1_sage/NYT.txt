@@ -1,0 +1,55 @@
+stock_NYT r_up	bound:1 up:1 topic:1 unrest:2 see:2 economic:1 experts:1 questions:1 year:2 still:1 technology:1 its:1 swath:1 little:1 court:1 views:1 regulation:1 surveillance:1 their:1 hot:1 future:1 goes:1 between:1 answer:1 2014:2 has:1 across:1 pending:1 foundation:1 's:2 offer:2 rules:1 big:1 serve:1 architects:1 policy:1 new:2 cases:1 case:1 criminal:1 phone:1 likely:1 against:2 connection:1 continue:1 social:2
+stock_NYT r_up	use:1 software:1 's:1 say:1 light:1 sale:1 websites:1 days:1 affected:1 visitors:1 appealing:1 spread:1 way:1 online:1 breach:1 security:1 ads:1 thousands:1 shines:1 researchers:1 recent:1
+stock_NYT r_down	his:1 himself:1 's:1 multimillionaire:1 cash:1 n't:1 most:1 describes:1 does:1 want:1 says:1
+stock_NYT r_down	ca:1 random:1 some:1 gadfly:1 n't:1 rooms:1 high-profile:1 seem:1 still:1 standing:1 tables:1 cut:1 attendees:1 there:1 political:1 legal:1 start:1 3:2 potential:1 tycoons:1 can:1 them:1 's:3 power:1 hotel:1 pursuit:1 news:1 prestige:1 day:1 like:1 sound:1 assets:1 quiet:1 deals:1 dinner:1 retreating:1 overseas:1
+stock_NYT r_up	running:1 investigation:1 's:2
+stock_NYT r_up	duty:1 's:2 should:1 n't:2 defense:1 burden:1 secretary:1 treated:1 honor:1 really:1
+stock_NYT r_down	sell:1 firm:1 network:1 deal:1 situations:1 stake:1 investment:1 majority:1 turnaround:1 news:1 reached:1 has:1 local:1 its:1
+stock_NYT r_down	's:1 wed:1 federal:1 long:1 can:1 has:1 history:1
+stock_NYT r_down	'':2 ``:2 novel:1 's:2 most:1 successful:1 study:1 reviews:1 their:1 cultural:1 opens:1 31:1 100-year:1 film:1 history:1
+stock_NYT r_up	information:1 documents:1 show:1 ecosystem:1 app:1 mine:1 contractor:1 targets:1 intelligence:1 published:1 growing:1 spies:1 former:1 latest:1
+stock_NYT r_down	's:1 point:1 writer:1 letter:1 our:1 makes:1
+stock_NYT r_up	stream:1 resident:1 app:1 setback:1 genre:1 been:1 have:1 news:2 information:1 wealth:1 long-awaited:1 long:1 presents:1 offers:1 denied:1 personalized:1 ever:1 leader:1 first:1 wants:1 family:1 's:2 users:1 reporter:1 after:1 outlets:1 broadcast:1 following:1 visa:1 authorities:1 world:1 him:1 mobile:1 reports:1 turn:1 survey:1 newspaper:1 latest:1 called:1 left:1
+stock_NYT r_down	private:1 leaving:1 early:1 proposal:1 save:1 insurance:1
+stock_NYT r_down	enrollees:1 no:1 applications:1 mistakes:1 way:1 has:1 correcting:1
+stock_NYT r_down	's:1 freedom:1 foreign:1 crackdown:1 media:1 answer:1 best:1
+stock_NYT r_up	features:1 political:1 bugs:1 speech:1 pass:1 gets:1
+stock_NYT r_up	operations:1 fourth-quarter:2 adjusted:1 ad:1 revenue:4 cents:4 declines:1 polled:1 share:3 sales:1 expenses:1 down:2 divestitures:1 second:1 growth:1 businesses:1 expected:1 year:1 its:2 impact:2 information:1 26:1 said:2 $:5 severance:1 profit:2 per-share:1 41:1 other:2 4:1 income:1 print:1 earnings:3 earlier:1 string:1 business:1 company:1 million:4 continuing:1 5.2:1 reported:1 asset:1 fell:4 sharply:1 offset:1 news:1 subscription:1 fiscal:1 both:1 16:1 amid:2 31:1 drop:1 63:3 items:1 quarter:2 1.15:1
+stock_NYT r_down	wage:1 work:1 n't:1 minimum:1 poverty:1 does:1 address:1
+stock_NYT r_up	testing:1 fellow:1 yet:1 looked:1 revived:1 her:1 visit:1 other:1 way:1 has:1 do:1 good:1 standardized:1 incentives:1 not:1 skills:1 my:1 rule:1 n't:1 teachers:2 requires:1 remembers:1 talk:1 first:1
+stock_NYT r_up	website:1 week:1 group:1 hoping:1 students:1 studying:1 age:1 earlier:1 election:1 coverage:1 digital:1 reinvent:1 tech-savvy:1 launched:1
+stock_NYT r_down	search:1 tags:1 blames:1 climate:1 water:1 prices:1 truck:1 uninsured:1 along:1 more:1 orders:1 change:1 higher:1
+stock_NYT r_up	fiscal:1 200:1 $:2 investigations:1 million:1 expects:1 related:1 than:1 bribery:1 potential:1 year:1 foreign:1 violations:1 next:1 spend:1 more:1
+stock_NYT r_up	freedom:1 's:1 promised:1 democracy:1
+stock_NYT r_up	one:1 '':1 zero:1 go:1 's:2 utility:1 hit:1 n't:1 police:1 takes:1 her:1 no:1 hardest:1 rates:1 interest:1 call:1 ``:1 woman:1 door:1 whose:1 stay:1 regular:1 up:1 reviews:1 wallet:1 near:1 steps:1 bills:1
+stock_NYT r_down	agency:1 's:2 inspire:1 voters:1 into:1 hunt:1 attempt:1 us:1 reminds:1 warning:1 plus:1 greatest:1 threat:1 butt:1 new:1 newsrooms:1 poses:1 open:1 muni:1
+stock_NYT r_up	``:1 's:1 glory:1 entertainment:1 ran:1 excerpt:1 days:1 owned:1 '':1 book:1 but:1 team:1 franchise:1 new:1 sweat:1
+stock_NYT r_up	short-seller:1 jet:1 no:1 federal:1 investigations:1 problems:1 sign:1 taxpayers:1 pension:1 wreckage:1 flee:1 seeks:1
+stock_NYT r_down	outgoing:1 safe:1 's:1 secrets:1 clients:1 head:1 nation:1 hands:1 lawyers:1 message:1 has:1
+stock_NYT r_down	illegally:1 's:1 people:1 country:1 dollars:1 billions:1 abroad:1 examination:1 numbers:1 found:1 using:1 spirit:1
+stock_NYT r_down	help:1 short-seller:1 lawmaker:1 veteran:1 pressures:1 regulators:1
+stock_NYT r_up	do:1 bill:1 rights:1 online:1 ideas:1 collide:1 n't:1 matter:1 ...:1 duck:1 talks:1 inventor:1 ever:1 than:1 today:1 more:1
+stock_NYT r_up	family:1 some:1 overheated:1 tonight:1 year:1 ready:1 total:1 earning:1 around:1 media:1 writes:1 its:1 politicians:1 other:1 earnings:1 has:2 disclosed:1 head:1 his:1 's:1 inaccurate:1 possibly:1 fell:1 coverage:1 regulatory:1 past:1 13:1 12:1 clouds:1 most:1 life:1 spent:1 so:1 announces:1 filing:1
+stock_NYT r_up	fractions:1 major:1 into:1 move:1 not:1 computer:1 trading:1 close:1 market:1 out:1 large:1 use:1 rapidly:1 offer:1 two:1 looking:1 treatment:1 which:1 between:2 firms:2 markets:1 systems:1 high-speed:1 's:1 relationship:1 high-frequency:1 seconds:1 operators:2 sophisticated:1 houses:1 exchanges:1 report:1 anti-competitive:1 whether:1 deals:1 investigating:1
+stock_NYT r_down	's:1 assist:1 seizure:1 foreign:1 liberals:1 policy:1 gets:1
+stock_NYT r_up	publishers:1 major:1 million:1 raise:1 consumers:1 after:1 share:1 two:1 begun:1 years:1 settlement:1 their:1 accused:1 five:1 have:1 prices:1 receiving:1 $:1 e-book:1
+stock_NYT r_down	heavily:1 money:2 trade:2 session:2 including:1 years:1 settlement:1 its:2 $:2 dilutive:1 29:1 should:1 premarket:2 premium:1 survival:1 online:1 early:1 five:1 month:1 companies:2 50:1 audience:1 have:1 each:1 some:1 accused:1 video:1 begun:1 year:1 close:1 matching:1 said:1 consumers:1 shares:3 new:2 receiving:1 seeks:1 publishers:1 terms:1 subscriptions:1 sold:1 million:2 discount:1 news:1 debt:1 proceed:1 both:1 planned:1 benefits:1 trial:2 analysts:1 major:1 cancer:1 61:1 raise:2 would:1 prove:1 two:2 least:1 next:2 their:1 expected:3 final:1 offering:1 sufficient:1 prices:1 16:1 up:1 actively:2 growing:1 revenues:1 low-price:1 biotech:1 hoping:1 cents:1 share:1 purposes:1 disappointing:1 dropped:2 unveiled:2 sharp:1 e-book:1 end:1 digital:1 company:1 stock:1 week:1 's:6 models:1 price:1 after:1 moving:1 prostate:1 payment:1 later:1 sale:2 analysis:1
+stock_NYT r_up	allies:1 billionaire:1 liberals:1 rank:1 their:1 modest:1 can:1 proposal:1
+stock_NYT r_up	's:1 supply:1 bid:1 visit:1 commitments:1 relations:1 sophisticated:1 weapons:1 warm:1 result:1 marks:1 president:1 boost:1 hope:1
+stock_NYT r_up	treating:1 like:1 failed:1 another:1 world:1 leader:1
+stock_NYT r_down	'':1 ``:1 modern:1 belief:1 remains:1 sole:1 state:1 reviews:1 globalization:1 economic:1 growth:1 its:1
+stock_NYT r_down	forced:1 his:1 's:1 tech:1 religious:1 out:1
+stock_NYT r_down	's:1 conquest:1 easier:1 interest:1 has:1 makes:1 taking:1
+stock_NYT r_up	roundup:1 news:1 private:1
+stock_NYT r_up	website:1 publisher:1 's:1 acquired:1 into:1 continuing:1 push:1 online:1 newspaper:1 new:1 tools:1 resources:1
+stock_NYT r_down	roundup:1 bin:1 ``:1 knew:1 's:1 army:1 even:1 intelligence:1 agency:1 cover:1 up:1 private:1 reviews:1 chief:1 protected:1 hid:1 '':1 news:1 ally:1
+stock_NYT r_down	11:1 needs:1 producer:1 once:1 silicone:1 filed:1 owned:1 hoped:1 defeat:1 landslide:1 bankruptcy:1
+stock_NYT r_up	coverage:3 wealth:1 won:2 advisers:1 breaking:1 secret:1 morning:1 financial:1 other:1 interest:1 planners:1 briefing:1 managers:1 efforts:1 surveillance:1 news:1 its:1 special:1 bombing:1
+stock_NYT r_up	said:1 neighborhoods:1 certain:1 had:1 been:1 criticized:1 other:1 profiling:1 duties:1 units:1 residents:1 has:1 its:1 unit:1
+stock_NYT r_up	counts:1 changes:1 insurance:1
+stock_NYT r_up	control:1 departed:1 hard:1 election:1 have:1 legal:1 its:2 out:1 media:1 same:1 forecast:1 majority:1 way:1 learned:1 measures:1 's:1 risk:1 battered:1 company:1 predicting:1 protect:1 chance:1 cycle:1 keeping:1 age:1 51:1 leave:1 reputation:1 can:1 social:1 first:1 replacement:1
+stock_NYT r_down	retirement:1 name:1 lead:1 their:1 can:1 have:1 happy:1 come:1 those:1 before:1
+stock_NYT r_up	break:1 planning:1 prison:1
+stock_NYT r_down	says:1 ad:1 pointing:1 revenue:1 global:1 uptick:1 years:1 '':1 blip:1 growth:1 economist:1 out:1 wage:1 incomes:1 rose:1 been:1 than:1 fourth:1 print:1 has:2 bottomed:1 more:1 ``:1 publisher:1 2005:1 rare:1 sign:1 appears:1 recent:2 high:1 last:1 industry:1 reports:1 standards:1 time:1 newspaper:1 quarter:2 first:1
+stock_NYT r_up	hit:1 adults:1 unsettling:1 study:1 hard:1 young:1 been:1 why:1 offers:1 so:1 have:1 new:1 explanation:1
+stock_NYT r_down	off:1 widen:1 bid:1 legislation:1 vote:1 measure:1 put:1 overhaul:1 support:1
